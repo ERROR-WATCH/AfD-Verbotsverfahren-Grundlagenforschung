@@ -1,5 +1,8 @@
 # AfD-Verbotsverfahren-Grundlagenforschung
 
+[![Watch on YouTube](https://img.youtube.com/vi/eSgFEpI9ZDQ/hqdefault.jpg)](https://www.youtube.com/watch?v=eSgFEpI9ZDQ "Auf YouTube ansehen")
+
+
 Dieses Repository sammelt die zentralen Dokumente, Textfragmente und Forschungsergebnisse zur Vorbereitung einer Klageschrift gegen die Partei „Alternative für Deutschland“ (AfD) beim Bundesverfassungsgericht.
 
 ## Zweck & Scope (KI-Quellenbündel)
