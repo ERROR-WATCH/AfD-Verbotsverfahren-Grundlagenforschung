@@ -1,5 +1,8 @@
 # AfD-Verbotsverfahren-Grundlagenforschung
 
+<img width="1254" height="1254" alt="afd verdachtsfall" src="https://github.com/user-attachments/assets/a28a01ef-b937-4135-a0c2-1758abe54429" />
+
+
 [![Watch on YouTube](https://img.youtube.com/vi/eSgFEpI9ZDQ/hqdefault.jpg)](https://www.youtube.com/watch?v=eSgFEpI9ZDQ "Auf YouTube ansehen")
 
 [![Watch on YouTube](https://img.youtube.com/vi/nguiGvWcovA/hqdefault.jpg)](https://www.youtube.com/watch?v=nguiGvWcovA "Auf YouTube ansehen")
