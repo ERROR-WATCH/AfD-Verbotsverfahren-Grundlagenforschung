@@ -8,6 +8,12 @@
 [![Watch on YouTube](https://img.youtube.com/vi/nguiGvWcovA/hqdefault.jpg)](https://www.youtube.com/watch?v=nguiGvWcovA "Auf YouTube ansehen")
 
 
+
+https://github.com/user-attachments/assets/92cd544f-f32d-4a2d-bb7d-24ba703612df
+
+
+
+
 Dieses Repository sammelt die zentralen Dokumente, Textfragmente und Forschungsergebnisse zur Vorbereitung einer Klageschrift gegen die Partei „Alternative für Deutschland“ (AfD) beim Bundesverfassungsgericht.
 
 ## Zweck & Scope (KI-Quellenbündel)
