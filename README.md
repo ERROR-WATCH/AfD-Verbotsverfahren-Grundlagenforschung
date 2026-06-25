@@ -75,10 +75,10 @@ Es ist **kein** fertiges Dossier und **ersetzt nicht** die professionelle Beweis
 > 🔍 **Amtliche Grundlagen zur Verfassungsfeindlichkeit:** Da die amtlichen Berichte des Verfassungsschutzes (BfV/LfV) und die Kriminalstatistiken des Bundeskriminalamts (BKA) das fundamentale Beweissicherungsregister für das Parteiverbotsverfahren bilden (Art. 21 GG), haben wir hier das vollständige Referenzregister des Bundes und aller 16 Bundesländer sowie des BKA direkt verlinkt.
 
 ### 1) Bundeskriminalamt (BKA) – Rechter Terror & Hasskriminalität
-* 📊 **BKA Bundesweite Fallzahlen PMK 2025 (Juni 2026):** [BKA-Presseportal & Lagebericht](https://www.bka.de/SharedDocs/Pressemitteilungen/DE/2026/presse260622.html)
-* 📊 **BKA Bundesweite Fallzahlen PMK 2024:** [BKA-Presseportal & Lagebericht](https://www.bka.de/SharedDocs/Pressemitteilungen/DE/2025/presse250521.html)
+* 📊 **BKA Bundesweite Fallzahlen PMK 2025 (Juni 2026):** [Lokaler Beleg](./dokumente/hauptquellen/BKA_Fallzahlen_PMK_2025.txt) | [Online-Quelle](https://www.bka.de/SharedDocs/Pressemitteilungen/DE/2026/presse260622.html)
+* 📊 **BKA Bundesweite Fallzahlen PMK 2024:** [Lokaler Beleg](./dokumente/hauptquellen/BKA_Fallzahlen_PMK_2024.txt) | [Online-Quelle](https://www.bka.de/SharedDocs/Pressemitteilungen/DE/2025/presse250521.html)
 * 📊 **BKA Bundesweite Fallzahlen PMK 2023:** [PDF-Download (Volltext im Repository)](./dokumente/hauptquellen/2023PMKFallzahlen.pdf)
-* 📊 **BKA Deliktsbereich PMK-rechts:** [Offizielles BKA-Themenportal für PMK-rechts](https://www.bka.de/DE/UnsereAufgaben/Deliktsbereiche/PMK/PMK-rechts/pmk-rechts_node.html)
+* 📊 **BKA Deliktsbereich PMK-rechts:** [Lokaler Beleg](./dokumente/hauptquellen/BKA_Deliktsbereich_PMK_rechts.txt) | [Online-Quelle](https://www.bka.de/DE/UnsereAufgaben/Deliktsbereiche/PMK/PMK-rechts/pmk-rechts_node.html)
 
 ### 2) Bundesamt für Verfassungsschutz (BfV) & Bundesministerium des Innern (BMI)
 * 📑 **BfV-Verfassungsschutzbericht 2025:** (Veröffentlichung angesetzt für **Dienstag, den 30. Juni 2026** um 10:00 Uhr). Sobald live, abrufbar unter: [Offizielles Bundes-VfS-Portal](https://www.verfassungsschutz.de/DE/service/publikationen/verfassungsschutzberichte/verfassungsschutzberichte_node.html)
@@ -89,7 +89,7 @@ Es ist **kein** fertiges Dossier und **ersetzt nicht** die professionelle Beweis
 
 #### 📊 Lokale Länderberichte (VfS) zur Offline‑Analyse (Direkt im Repository gesichert)
 Für eine zügige, maschinelle Offline‑Analyse (z. B. via Grep oder RAG nach dem Klonen des Repositories) haben wir alle 16 deutschen Bundesländer lückenlos direkt auf der Festplatte hinterlegt:
-* 📑 **Baden-Württemberg (LfV) 2024 (Referenz):** [Lokaler Beleg](./dokumente/vfs_berichte_bundeslaender/LfV_Baden_Wuerttemberg_Verfassungsschutzbericht_2024.txt) | [Online-Quelle](https://www.im.baden-wuerttemberg.de/de/sicherheit/verfassungsschutz/verfassungsschutzberichte/) - *Ausführliche Kapitel zur Jungen Alternative (JA) und dem Landesverband Baden-Württemberg.*
+* 📑 **Baden-Württemberg (LfV) 2024:** [Lokales PDF-Dokument](./dokumente/vfs_berichte_bundeslaender/LfV_Baden_Wuerttemberg_Verfassungsschutzbericht_2024.pdf) | [Online-Quelle](https://www.im.baden-wuerttemberg.de/de/sicherheit/verfassungsschutz/verfassungsschutzberichte/) - *Ausführliche Kapitel zur Jungen Alternative (JA) und dem Landesverband Baden-Württemberg.*
 * 📑 **Bayern (LfV) 2024:** [Lokales PDF-Dokument](./dokumente/vfs_berichte_bundeslaender/LfV_Bayern_Verfassungsschutzbericht_2024.pdf) | [Online-Quelle](https://www.verfassungsschutz.bayern.de/service/downloads/verfassungsschutzberichte/) - *Umfassender Bericht zur Einstufung und Beobachtung der bayerischen AfD.*
 * 📑 **Berlin (LfV) 2023:** [Lokales PDF-Dokument](./dokumente/vfs_berichte_bundeslaender/LfV_Berlin_Verfassungsschutzbericht_2023.pdf) | [Online-Quelle](https://www.berlin.de/sen/inneres/verfassungsschutz/publikationen/verfassungsschutzberichte/) - *Sicherung des Berichts 2023 mit Detailanalysen zum Berliner AfD-Landesverband.*
 * 📑 **Brandenburg (LfV) 2024:** [Lokales PDF-Dokument](./dokumente/vfs_berichte_bundeslaender/LfV_Brandenburg_Verfassungsschutzbericht_2024.pdf) | [Online-Quelle](https://mik.brandenburg.de/mik/de/verfassungsschutz/publikationen/) - *Landesverband als gesichert rechtsextremistische Bestrebung klassifiziert und beobachtet.*
@@ -99,7 +99,7 @@ Für eine zügige, maschinelle Offline‑Analyse (z. B. via Grep oder RAG nach d
 * 📑 **Mecklenburg-Vorpommern (LfV) 2024 (Referenz):** [Lokaler Beleg](./dokumente/vfs_berichte_bundeslaender/LfV_Mecklenburg_Vorpommern_Verfassungsschutzbericht_2024.txt) | [Online-Quelle](https://www.verfassungsschutz-mv.de/publikationen/verfassungsschutzberichte/) - *Beobachtung und Einstufung des mecklenburg-vorpommerschen Landesverbands.*
 * 📑 **Niedersachsen (LfV) 2023:** [Lokales PDF-Dokument](./dokumente/vfs_berichte_bundeslaender/LfV_Niedersachsen_Verfassungsschutzbericht_2023.pdf) | [Online-Quelle](https://www.verfassungsschutz.niedersachsen.de/publikationen/verfassungsschutzberichte/) - *Sicherung des Berichts 2023 zur verfassungsfeindlichen Agitation der niedersächsischen AfD.*
 * 📑 **Nordrhein-Westfalen (LfV) 2024:** [Lokales PDF-Dokument](./dokumente/vfs_berichte_bundeslaender/LfV_Nordrhein_Westfalen_Verfassungsschutzbericht_2024.pdf) | [Online-Quelle](https://www.im.nrw/themen/verfassungsschutz/verfassungsschutzberichte) - *Gerichtliches OVG-Münster-Verfahren zur Bundes-AfD und Landes-JA.*
-* 📑 **Rheinland-Pfalz (LfV) 2024 (Referenz):** [Lokaler Beleg](./dokumente/vfs_berichte_bundeslaender/LfV_Rheinland_Pfalz_Verfassungsschutzbericht_2024.txt) | [Online-Quelle](https://www.verfassungsschutz.rlp.de/de/service/publikationen/) - *Einstufung und verfassungsfeindliche Bestrebungen der rheinland-pfälzischen AfD.*
+* 📑 **Rheinland-Pfalz (LfV) 2024:** [Lokales PDF-Dokument](./dokumente/vfs_berichte_bundeslaender/LfV_Rheinland_Pfalz_Verfassungsschutzbericht_2024.pdf) | [Online-Quelle](https://www.verfassungsschutz.rlp.de/de/service/publikationen/) - *Einstufung und verfassungsfeindliche Bestrebungen der rheinland-pfälzischen AfD.*
 * 📑 **Saarland (LfV) 2024 (Referenz):** [Lokaler Beleg](./dokumente/vfs_berichte_bundeslaender/LfV_Saarland_Verfassungsschutzbericht_2024.txt) | [Online-Quelle](https://www.saarland.de/mige/DE/portale/verfassungsschutz/publikationen/) - *Das offizielle 'Verfassungsschutz-Lagebild' des Saarlandes mit Analysen zur AfD.*
 * 📑 **Sachsen (LfV) 2024:** [Lokales PDF-Dokument](./dokumente/vfs_berichte_bundeslaender/LfV_Sachsen_Verfassungsschutzbericht_2024.pdf) | [Online-Quelle](https://www.verfassungsschutz.sachsen.de/publikationen-4143.html) - *Sächsischer Landesverband als gesichert rechtsextremistische Bestrebung eingestuft (Dez. 2023).*
 * 📑 **Sachsen-Anhalt (LfV) 2024 (Referenz):** [Lokaler Beleg](./dokumente/vfs_berichte_bundeslaender/LfV_Sachsen_Anhalt_Verfassungsschutzbericht_2024.txt) | [Online-Quelle](https://mi.sachsen-anhalt.de/verfassungsschutz/publikationen/verfassungsschutzberichte) - *Landesverband Sachsen-Anhalt gerichtlich als gesichert rechtsextremistisch eingestuft.*
@@ -595,15 +595,15 @@ Dieses Verzeichnis enthält weitere im Archiv erfasste Belege, Zeitungsberichte,
 
 ---
 ## Presse / Medienberichte (HTML)
-- `www.deutschlandfunk.de_afd-einstufung-verfassungsschutz-100.html`
-- `www.zdfheute.de_afd-verfassungsschutz-gutachten-rechtsextremistisch-100.html`
-- `www.dw.com_de_afd-einstufung-verfassungsschutz…-a-72478906`
-- `www.tagesschau.de_afd-systemmedien-101.html`
-- `www_belltower.news_rassistische-narrative…-144885`
-- `www.mdr.de_investigativ_chat-leaks-afd-thueringen-102.html`
-- `reuters.com_article_germany-security-agency-extremist-idUSKBN2XX0ZY`
-- `theguardian.com_world_2025_may_03_germany-security-service-labels-afd-extremist`
-- `spiegel.de_politik_deutschland_roedder-warnt-vor-buergerkrieg…12345678.html`
+- [`03_www.deutschlandfunk.de_afd-einstufung-verfassungsschutz-rechtsextrem-100.html.pdf`](./dokumente/hauptquellen/03_www.deutschlandfunk.de_afd-einstufung-verfassungsschutz-rechtsextrem-100.html.pdf) (Deutschlandfunk)
+- [`04_www.zdfheute.de_politik_deutschland_afd-verfassungsschutz-gutachten-rechtsextremistisch-100.html.pdf`](./dokumente/hauptquellen/04_www.zdfheute.de_politik_deutschland_afd-verfassungsschutz-gutachten-rechtsextremistisch-100.html.pdf) (ZDFheute)
+- [`05_www.dw.com_de_afd-einstufung-verfassungsschutz-rechtsextremismus-geheimdienst-verwaltungsgericht-k%C3%B6ln-nancy-faeser_a-72478906.pdf`](./dokumente/hauptquellen/05_www.dw.com_de_afd-einstufung-verfassungsschutz-rechtsextremismus-geheimdienst-verwaltungsgericht-k%C3%B6ln-nancy-faeser_a-72478906.pdf) (Deutsche Welle)
+- [`Tagesschau_AfD_Systemmedien.txt`](./dokumente/hauptquellen/Tagesschau_AfD_Systemmedien.txt) (Tagesschau - Offline-Beleg)
+- [`07_www.belltower.news_rassistische-narrative-nach-silvester-neues-jahr-alte-hetze-144885_.pdf`](./dokumente/hauptquellen/07_www.belltower.news_rassistische-narrative-nach-silvester-neues-jahr-alte-hetze-144885_.pdf) (Belltower.News)
+- [`MDR_Investigativ_Chat_Leaks_Thueringen.txt`](./dokumente/hauptquellen/MDR_Investigativ_Chat_Leaks_Thueringen.txt) (MDR Investigativ - Chat Leaks)
+- [`Reuters_Germany_Security_Agency_Extremist.txt`](./dokumente/hauptquellen/Reuters_Germany_Security_Agency_Extremist.txt) (Reuters - Domestic Agency Threat Report)
+- [`The_Guardian_Germany_Security_Labels_AfD_Extremist.txt`](./dokumente/hauptquellen/The_Guardian_Germany_Security_Labels_AfD_Extremist.txt) (The Guardian - Germany Extremist Label)
+- [`Spiegel_Politik_Roedder_Warnt_vor_Buergerkrieg.txt`](./dokumente/hauptquellen/Spiegel_Politik_Roedder_Warnt_vor_Buergerkrieg.txt) (Der Spiegel - Rödder Interview)
 
 ## Presse / Medienberichte (PDF)
 - [`Deutschlandfunk_Streit_um_AfD_Einstufung.pdf`](./dokumente/hauptquellen/Deutschlandfunk_Streit_um_AfD_Einstufung.pdf)
