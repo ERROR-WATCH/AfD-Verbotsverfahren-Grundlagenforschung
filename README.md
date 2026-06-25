@@ -68,7 +68,7 @@ Es ist **kein** fertiges Dossier und **ersetzt nicht** die professionelle Beweis
 ├── skripte/                               # Scraper, OCR‑Skripte und Linklisten
 ├── assets/                                # Bilder, Diagramme und Videos (Christian Lüth, Beweisfotos)
 └── zitate/                                # Zitate‑Sammlung von afd‑verbot.de als Markdown‑Dateien (00001–03611)
-
+```
 
 ## Verfassungsschutzberichte des Bundes & aller 16 Bundesländer (VfS) sowie BKA-Statistiken
 
