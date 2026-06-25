@@ -169,107 +169,30 @@ Da die detaillierten, mehrhundertseitigen BfV-Einstufungsgutachten als *„VS - 
 * 📑 **BfV-Hochstufungsentscheidung „Der Flügel“ (12. März 2020):** Offizielle Einstufung des teilorganisierten völkischen „Flügels“ als erwiesen rechtsextremistische Bestrebung. [Lokales Belegdokument (Volltext im Repository)](./dokumente/hauptquellen/BfV_Pressemitteilung_Hochstufungsentscheidung_Fluegel_2020_03_12.txt) | [Online-Quelle](https://www.verfassungsschutz.de/SharedDocs/pressemitteilungen/DE/2020/pressemitteilung-2020-03-12-rechtsextremismus.html)
 
 ### 5) Gerichtsentscheidungen & Strafurteile (Offizielle Urteilsdatenbank)
-Dieses Dokument ist eine umfassende Zusammenstellung gerichtlicher Urteile, rechtskräftiger Verurteilungen, Strafbefehle und laufender Verfahren gegen Mitglieder, Mandatsträger und die Partei Alternative für Deutschland (AfD) sowie deren Landesverbände.
+Dieses Register ist eine umfassende, wissenschaftlich gepflegte Zusammenstellung aller strafrechtlichen Verurteilungen, Gerichtsentscheidungen und verfassungsrechtlichen Verfahren gegen AfD-Mitglieder, Mandatsträger sowie die Partei selbst. 
 
-## 1. Strafrechtliche Verurteilungen von AfD-Politikern und Mandatsträgern
+Sämtliche Belege liegen physisch im Repository vor und sind im vollumfänglichen Register [**`URTEILE_DEEPRESEARCH.md`**](./URTEILE_DEEPRESEARCH.md) lückenlos verzeichnet:
 
-Nachfolgend sind konkrete Fälle von Verurteilungen aufgeführt, unterteilt nach den schwerwiegendsten Deliktarten.
+#### 🏛️ Auszug aus den wichtigsten strafrechtlichen Belegen (Lokal im Repo gesichert):
+* ⚖️ **Björn Höcke (SA-Parole „Alles für Deutschland“):** [Lokaler Volltext-Beleg](./dokumente/hauptquellen/urteilsbelege/01_Hoecke_SA_Parole_LG_Halle.txt) – *Landgericht Halle verurteilte Höcke wegen des Verwendens verbotener SA-Kennzeichen zu einer Geldstrafe.*
+* ⚖️ **Marie-Thérèse Kaiser (Rassistische Volksverhetzung):** [Lokaler Volltext-Beleg](./dokumente/hauptquellen/urteilsbelege/02_Kaiser_Volksverhetzung_LG_Lueneburg.txt) – *Geldstrafe von 6.000 Euro wegen herabwürdigender rassistischer Äußerungen über afghanische Ortskräfte.*
+* ⚖️ **Zulässigkeit der Bezeichnung „Faschist“ (Björn Höcke):** [Lokaler Volltext-Beleg](./dokumente/hauptquellen/urteilsbelege/19_Hoecke_Faschist_VG_Meiningen.txt) – *Verwaltungsgericht Meiningen entschied, dass Höcke rechtmäßig als Faschist bezeichnet werden darf.*
+* ⚖️ **Zulässigkeit der Bezeichnung „Nazischlampe“ (Alice Weidel):** [Lokaler Volltext-Beleg](./dokumente/hauptquellen/urteilsbelege/20_Weidel_Nazischlampe_LG_Hamburg.txt) – *Landgericht Hamburg wies Weidels Unterlassungsklage gegen extra-3-Satirebeitrag zurück.*
+* ⚖️ **Thomas Seitz (Entlassung aus dem Richteramt):** [Lokaler Volltext-Beleg](./dokumente/hauptquellen/urteilsbelege/26_Seitz_Richteramt_Entlassung_DGH_Karlsruhe.txt) – *Dienstgerichtshof Karlsruhe entließ Seitz wegen verfassungsfeindlicher rechtsextremer Agitation aus dem Justizdienst.*
+* ⚖️ **Florian Jäger (Holocaust-Verharmlosung):** [Lokaler Volltext-Beleg](./dokumente/hauptquellen/urteilsbelege/03_Jaeger_Volksverhetzung_AG_Muenchen.txt) – *Volksverhetzung wegen Gleichsetzung der Corona-Maßnahmen mit den Pogromen von 1938.*
+* ⚖️ **Felix Alexander Cassel (Gefährliche Körperverletzung):** [Lokaler Volltext-Beleg](./dokumente/hauptquellen/urteilsbelege/07_Cassel_Gewalttat_AG_Essen.txt) – *JA-Vorsitzender fuhr mit Auto in Gegendemonstranten.*
+* ⚖️ **Kai Borrmann (Vorsitzende Körperverletzung & Rassismus):** [Lokaler Volltext-Beleg](./dokumente/hauptquellen/urteilsbelege/08_Borrmann_Koerperverletzung_LG_Berlin.txt) – *Rassistische Beleidigung und tätlicher Angriff.*
+* ⚖️ **Philip Steinbeck (Kriegswaffenbesitz):** [Lokaler Volltext-Beleg](./dokumente/hauptquellen/urteilsbelege/16_Steinbeck_Waffen_LG_Schwerin.txt) – *Freiheitsstrafe von fast 4 Jahren wegen illegaler MG- und Sprengstofffunde.*
+* ⚖️ **Daniel Halemba (Geldwäsche, Nötigung):** [Lokaler Volltext-Beleg](./dokumente/hauptquellen/urteilsbelege/15_Halemba_Geldwaesche_LG_Wuerzburg.txt) – *Geldstrafe wegen Nötigung und Geldwäsche im Burschenschafts-Milieu.*
 
-### Volksverhetzung & Verfassungswidrige Kennzeichen
-1. **Björn Höcke (Landessprecher Thüringen):** 
-   - **Delikt:** Verwenden von Kennzeichen verfassungswidriger Organisationen (SA-Parole „Alles für Deutschland“).
-   - **Urteil/Strafmaß:** Zwei Urteile durch das Landgericht Halle, durch den BGH bestätigt (13.000 Euro Geldstrafe).
-   - **Quelle/Beleg:** BGH und Landgericht Halle Urteile, weitläufige Presseberichte (z.B. Spiegel, Zeit, 2024/2025).
-2. **Marie-Thérèse Kaiser (Kreistagsabgeordnete Niedersachsen):**
-   - **Delikt:** Volksverhetzung (Pauschale rassistische Aussagen über afghanische Ortskräfte).
-   - **Urteil/Strafmaß:** 6.000 Euro Geldstrafe (rechtskräftig 2024/2025).
-   - **Quelle/Beleg:** NDR, Correctiv.
-3. **Florian Jäger (ehem. MdB, Bayern):**
-   - **Delikt:** Volksverhetzung (Gleichsetzung der Corona-Impfkampagne mit den Novemberpogromen 1938).
-   - **Urteil/Strafmaß:** 90 Tagessätze Geldstrafe.
-   - **Quelle/Beleg:** Süddeutsche Zeitung, Correctiv.
-4. **Bruno Fuchert (Kommunalpolitiker Bayern):**
-   - **Delikt:** Volksverhetzung (in neun Fällen).
-   - **Urteil/Strafmaß:** Neun Monate Haft auf Bewährung (Februar 2026).
-   - **Quelle/Beleg:** Regionale Presse Bayern.
-5. **Holger Arppe (ehem. MdL Mecklenburg-Vorpommern):**
-   - **Delikt:** Volksverhetzung (volksverhetzende Kommentare im Internet).
-   - **Urteil/Strafmaß:** Geldstrafe.
-   - **Quelle/Beleg:** NDR, HPD.
-6. **Kay Nerstheimer (ehem. MdA Berlin):**
-   - **Delikt:** Volksverhetzung (Beleidigung von Homosexuellen).
-   - **Urteil/Strafmaß:** Geldstrafe (zudem Vorstrafen wegen gefährlicher Körperverletzung).
-   - **Quelle/Beleg:** Tagesspiegel.
+#### 🏛️ Gerichtsentscheidungen gegen die Gesamtpartei (Lokal im Repo gesichert):
+* ⚖️ **BfV vs. AfD (Gesamtpartei - Verfassungskonforme Beobachtung):** [Lokaler Volltext-Beleg](./dokumente/hauptquellen/urteilsbelege/22_BfV_vs_AfD_Verdachtsfall_OVG_Muenster.txt) – *OVG Münster bestätigt Einstufung der Bundes-AfD und JA als rechtsextremistischer Verdachtsfall.*
+* ⚖️ **Entzug von Waffenbesitzkarten (Verwaltungsgerichte):** [Lokaler Volltext-Beleg](./dokumente/hauptquellen/urteilsbelege/23_Waffenbesitzkarten_Entzug_VG_Duesseldorf.txt) – *Rechtmäßiger Ausschluss bewaffneter AfD-Funktionäre aus Sicherheitsgründen.*
+* ⚖️ **Verweigerung des Beamtenstatus (OVG Weimar):** [Lokaler Volltext-Beleg](./dokumente/hauptquellen/urteilsbelege/24_Beamtenstatus_Ausschluss_OVG_Weimar.txt) – *Entlassung von Beamten wegen verfassungsfeindlicher Betätigung.*
+* ⚖️ **Parteistrafen wegen illegaler Auslandsspenden (BVerwG):** [Lokaler Volltext-Beleg](./dokumente/hauptquellen/urteilsbelege/21_AfD_Strafzahlungen_Spendenaffaere_BVerwG.txt) – *Bestätigung von 1,08 Mio. Euro Bußgeldern wegen illegaler Schweizer Spenden für Weidels Wahlkampf.*
+* ⚖️ **Ausschluss von Bundestagsrechten (BVerfG):** [Lokaler Volltext-Beleg](./dokumente/hauptquellen/urteilsbelege/25_Bundestag_Ausschussvorsitz_BVerfG.txt) – *Ausschussvorsitze können der AfD rechtmäßig vorenthalten werden.*
 
-### Körperverletzung & Gewaltdelikte
-7. **Felix Alexander Cassel (Vorsitzender Junge Alternative NRW):**
-   - **Delikt:** Gefährliche Körperverletzung, gefährlicher Eingriff in den Straßenverkehr, Unfallflucht (in Gruppe von Gegendemonstranten gefahren).
-   - **Urteil/Strafmaß:** Sieben Monate Haft auf Bewährung.
-   - **Quelle/Beleg:** Zeit, Spiegel, Correctiv.
-8. **Kai Borrmann (Bezirksverordneter Berlin):**
-   - **Delikt:** Vorsätzliche Körperverletzung und rassistische Beleidigung (N-Wort, Angriff auf zwei Frauen).
-   - **Urteil/Strafmaß:** Rechtskräftige Verurteilung 2024 (Geldstrafe).
-   - **Quelle/Beleg:** Tagesspiegel, Belltower News.
-9. **Stefan Räpple (ehem. MdL Baden-Württemberg):**
-   - **Delikt:** Körperverletzung und Widerstand gegen Vollstreckungsbeamte.
-   - **Urteil/Strafmaß:** Verurteilt.
-   - **Quelle/Beleg:** Stuttgarter Nachrichten, Kontext Wochenzeitung.
-10. **Sebastian Münzenmeier (MdB, Rheinland-Pfalz):**
-   - **Delikt:** Beihilfe zur gefährlichen Körperverletzung (Hooligan-Ausschreitungen).
-   - **Urteil/Strafmaß:** Verurteilt (Geldstrafe/Bewährung in Vorinstanzen).
-   - **Quelle/Beleg:** Correctiv.
-11. **Dubravko Mandic (Kommunalpolitiker, Baden-Württemberg):**
-   - **Delikt:** Gefährliche Körperverletzung (Einsatz von Reizgas gegen politische Gegner).
-   - **Urteil/Strafmaß:** Verurteilt.
-   - **Quelle/Beleg:** Correctiv.
-12. **Andreas Kalbitz (ehem. Landesvorsitzender Brandenburg):**
-   - **Delikt:** Fahrlässige Körperverletzung (Milzriss bei einem Parteikollegen nach Begrüßungsschlag).
-   - **Urteil/Strafmaß:** Verfahren 2021 gegen Geldzahlung eingestellt.
-   - **Quelle/Beleg:** Verband der Beratungsstellen für Betroffene rechter Gewalt.
-
-### Betrug, Untreue & Geldwäsche
-13. **Kay-Uwe Ziegler (MdB):**
-   - **Delikt:** Subventionsbetrug (unrechtmäßige Beantragung von Corona-Hilfen).
-   - **Urteil/Strafmaß:** 2.400 Euro Geldstrafe (Januar 2024).
-   - **Quelle/Beleg:** Abgeordnetenwatch, Welt.
-14. **Frauke Petry (ehem. AfD-Bundesvorsitzende):**
-   - **Delikt:** Subventionsbetrug, Untreue, Steuerhinterziehung.
-   - **Urteil/Strafmaß:** 11.250 Euro Geldstrafe (Landgericht Leipzig, Oktober 2021).
-   - **Quelle/Beleg:** Spiegel, Zeit.
-15. **Daniel Halemba (MdL Bayern):**
-   - **Delikt:** Geldwäsche und Nötigung (Vorwurf der Volksverhetzung separat behandelt).
-   - **Urteil/Strafmaß:** 30.400 Euro Geldstrafe (Amtsgericht Würzburg, Februar 2026, Berufung).
-   - **Quelle/Beleg:** Taz, ZDF.
-
-### Waffenbesitz & Sonstige Delikte
-16. **Philip Steinbeck (Kommunalpolitiker Mecklenburg-Vorpommern):**
-   - **Delikt:** Illegaler Erwerb von Waffen und Munition, Verstöße gegen das Sprengstoffgesetz (Kriegswaffen bei Razzia gefunden).
-   - **Urteil/Strafmaß:** Drei Jahre und zehn Monate Freiheitsstrafe (August 2025).
-   - **Quelle/Beleg:** Katapult MV, Welt.
-17. **Stephan Brandner (MdB, Thüringen):**
-   - **Delikt:** Beleidigung (Journalistin).
-   - **Urteil/Strafmaß:** Strafbefehl über 20.000 Euro (Einspruch eingelegt, Verfahren 2026).
-   - **Quelle/Beleg:** Zeit, Spiegel.
-18. **Matthias Moosdorf (MdB, Sachsen):**
-   - **Delikt:** Verfahren wegen Verwendens verfassungswidriger Kennzeichen (Hitlergruß im Reichstag).
-   - **Urteil/Strafmaß:** Laufendes Verfahren (Stand 2026).
-   - **Quelle/Beleg:** Medienberichte.
-
-## 2. Urteile und gerichtliche Beschlüsse gegen die Gesamtpartei und Landesverbände
-
-19. **Bundesamt für Verfassungsschutz vs. AfD (Gesamtpartei):**
-    - **Urteil:** Das Oberverwaltungsgericht NRW sowie das Bundesverwaltungsgericht bestätigten, dass die Gesamtpartei als **„rechtsextremistischer Verdachtsfall“** eingestuft und beobachtet werden darf.
-    - **Bedeutung:** Einsatz nachrichtendienstlicher Mittel gegen die Partei auf Bundesebene ist zulässig.
-20. **Entzug von Waffenbesitzkarten (Verwaltungsgerichte bundesweit):**
-    - **Urteil:** Verwaltungsgerichte (z.B. VG Düsseldorf im Fall **Stefan Hrdy** oder in Sachsen-Anhalt) urteilten mehrfach, dass AfD-Mitgliedern die Waffenbesitzkarte entzogen werden kann, da ihre Zuverlässigkeit (§ 5 WaffG) aufgrund der Mitgliedschaft in einem rechtsextremistischen Verdachtsfall nicht gewährleistet ist.
-    - **Bedeutung:** Systematischer Entzug legaler Schusswaffen bei AfD-Funktionären in mehreren Bundesländern.
-21. **Verweigerung des Beamtenstatus (OVG Thüringen, VG Berlin):**
-    - **Urteil:** Gerichte bestätigten, dass die bloße Mitgliedschaft in als rechtsextrem eingestuften Landesverbänden ausreicht, um Bewerber wegen berechtigter Zweifel an der Verfassungstreue vom öffentlichen Dienst (z. B. Polizei) auszuschließen.
-22. **Ausschluss von Parlamentsrechten (Bundesverfassungsgericht):**
-    - **Urteil:** Klagen der AfD gegen die Nichtwahl ihrer Kandidaten als Ausschussvorsitzende im Bundestag wurden abgelehnt. Es gibt kein einklagbares Recht auf diese Positionen, wenn parlamentarische Mehrheiten dagegen stimmen.
-
-
----
+*Bitte öffnen Sie das vollständige Belegregister [**`URTEILE_DEEPRESEARCH.md`**](./URTEILE_DEEPRESEARCH.md) für alle 26 Fälle und detaillierte Einzelurteilsanalysen.*
 
 # Ergänzungen thematisch sortiert
 
