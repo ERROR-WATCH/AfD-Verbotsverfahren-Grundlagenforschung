@@ -107,18 +107,18 @@ Es ist **kein** fertiges Dossier und **ersetzt nicht** die professionelle Beweis
 | [`www_bmi_bund_de_…BMI25029-vsb2024.pdf`](./dokumente/hauptquellen/BMI_Verfassungsschutzbericht_2024.pdf)                                                                          | Volltext Verfassungsschutzbericht 2024 (BMI)                                                                                         |
 | ------------------------------------------ | -------------- |
 | **Geheimgutachten (OCR-Splits)** | |
-| [`Geheimgutachten_Teil_A_pages_1_to_100.txt`](./geheimgutachten/Geheimgutachten_Teil_A_pages_1_to_100.txt) | OCR-Teilstück BfV-Gutachten Teil A, S. 1–100 |
-| [`Geheimgutachten_Teil_A_pages_201_to_300.txt`](./geheimgutachten/Geheimgutachten_Teil_A_pages_201_to_300.txt) | OCR-Teilstück BfV-Gutachten Teil A, S. 201–300 |
-| [`Geheimgutachten_Teil_A_pages_301_to_400.txt`](./geheimgutachten/Geheimgutachten_Teil_A_pages_301_to_400.txt) | OCR-Teilstück BfV-Gutachten Teil A, S. 301–400 |
-| [`Geheimgutachten_Teil_A_pages_401_to_500.txt`](./geheimgutachten/Geheimgutachten_Teil_A_pages_401_to_500.txt) | OCR-Teilstück BfV-Gutachten Teil A, S. 401–500 |
-| [`Geheimgutachten_Teil_A_pages_501_to_508.txt`](./geheimgutachten/Geheimgutachten_Teil_A_pages_501_to_508.txt) | OCR-Teilstück BfV-Gutachten Teil A, S. 501–508 |
-| [`Geheimgutachten_Teil_B_pages_1_to_100.txt`](./geheimgutachten/Geheimgutachten_Teil_B_pages_1_to_100.txt) | OCR-Teilstück BfV-Gutachten Teil B, S. 1–100 |
-| [`Geheimgutachten_Teil_B_pages_101_to_200.txt`](./geheimgutachten/Geheimgutachten_Teil_B_pages_101_to_200.txt) | OCR-Teilstück BfV-Gutachten Teil B, S. 101–200 |
-| [`Geheimgutachten_Teil_B_pages_201_to_300.txt`](./geheimgutachten/Geheimgutachten_Teil_B_pages_201_to_300.txt) | OCR-Teilstück BfV-Gutachten Teil B, S. 201–300 |
-| [`Geheimgutachten_Teil_B_pages_301_to_400.txt`](./geheimgutachten/Geheimgutachten_Teil_B_pages_301_to_400.txt) | OCR-Teilstück BfV-Gutachten Teil B, S. 301–400 |
-| [`Geheimgutachten_Teil_B_pages_401_to_500.txt`](./geheimgutachten/Geheimgutachten_Teil_B_pages_401_to_500.txt) | OCR-Teilstück BfV-Gutachten Teil B, S. 401–500 |
-| `Geheimgutachten_Teil_B_pages_501_to_600*.txt` | OCR-Teilstücke BfV-Gutachten Teil B, S. 501–600 (mehrere reparierte Versionen) |
-| `Geheimgutachten_Teil_B_pages_601_to_609*.txt` | OCR-Teilstücke BfV-Gutachten Teil B, S. 601–609 (reparierte Versionen) |
+| [`Geheimgutachten_Teil A_pages_1_to_100.txt`](./geheimgutachten/Geheimgutachten_Teil A_pages_1_to_100.txt) | OCR-Teilstück BfV-Gutachten Teil A, S. 1–100 |
+| [`Geheimgutachten_Teil A_pages_201_to_300.txt`](./geheimgutachten/Geheimgutachten_Teil A_pages_201_to_300.txt) | OCR-Teilstück BfV-Gutachten Teil A, S. 201–300 |
+| [`Geheimgutachten_Teil A_pages_301_to_400.txt`](./geheimgutachten/Geheimgutachten_Teil A_pages_301_to_400.txt) | OCR-Teilstück BfV-Gutachten Teil A, S. 301–400 |
+| [`Geheimgutachten_Teil A_pages_401_to_500.txt`](./geheimgutachten/Geheimgutachten_Teil A_pages_401_to_500.txt) | OCR-Teilstück BfV-Gutachten Teil A, S. 401–500 |
+| [`Geheimgutachten_Teil A_pages_501_to_508.txt`](./geheimgutachten/Geheimgutachten_Teil A_pages_501_to_508.txt) | OCR-Teilstück BfV-Gutachten Teil A, S. 501–508 |
+| [`Geheimgutachten_Teil B_pages_1_to_100.txt`](./geheimgutachten/Geheimgutachten_Teil B_pages_1_to_100.txt) | OCR-Teilstück BfV-Gutachten Teil B, S. 1–100 |
+| [`Geheimgutachten_Teil B_pages_101_to_200.txt`](./geheimgutachten/Geheimgutachten_Teil B_pages_101_to_200.txt) | OCR-Teilstück BfV-Gutachten Teil B, S. 101–200 |
+| [`Geheimgutachten_Teil B_pages_201_to_300.txt`](./geheimgutachten/Geheimgutachten_Teil B_pages_201_to_300.txt) | OCR-Teilstück BfV-Gutachten Teil B, S. 201–300 |
+| [`Geheimgutachten_Teil B_pages_301_to_400.txt`](./geheimgutachten/Geheimgutachten_Teil B_pages_301_to_400.txt) | OCR-Teilstück BfV-Gutachten Teil B, S. 301–400 |
+| [`Geheimgutachten_Teil B_pages_401_to_500.txt`](./geheimgutachten/Geheimgutachten_Teil B_pages_401_to_500.txt) | OCR-Teilstück BfV-Gutachten Teil B, S. 401–500 |
+| `Geheimgutachten_Teil B_pages_501_to_600*.txt` | OCR-Teilstücke BfV-Gutachten Teil B, S. 501–600 (mehrere reparierte Versionen) |
+| `Geheimgutachten_Teil B_pages_601_to_609*.txt` | OCR-Teilstücke BfV-Gutachten Teil B, S. 601–609 (reparierte Versionen) |
 | -------------------------------------------------------------------- | --------------------------------------- |
 | **BfV-Verfassungsschutzbericht 2024 (PDF-Splits)** | |
 | [`part1_1-52.pdf`](./dokumente/splits/part1_1-52.pdf)    | Seiten 1–52    |
