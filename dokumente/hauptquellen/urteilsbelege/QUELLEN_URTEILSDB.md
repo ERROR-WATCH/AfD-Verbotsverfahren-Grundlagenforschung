@@ -91,3 +91,15 @@ Dieses Dokument enthält die verifizierten, originalen Online-Quellenlinks, Pres
 42. **Strafzahlungen wegen illegaler Parteispenden (BVerwG Berlin):**  
     [LTO-Bericht zur Bestätigung über 1,08 Mio. Euro Bußgelder wegen Schweizer Spenden](https://www.lto.de/recht/nachrichten/n/bverwg-6c421-afd-strafzahlung-bundestag-illegale-parteispende/)
 
+43. **Udo Stein (Waffenbeschlagnahmung Erfurt):**  
+   [Der Spiegel - Abgeordneter nach Waffeninzidents entwaffnet](https://www.spiegel.de/panorama/justiz/erfurt-abgeordneter-udo-stein-entwaffnet-und-eingewiesen-100.html)
+44. **Siegbert Droese (Wolfsschanze NS-Pose Leipzig):**  
+   [Tagesschau - Ermittlungen der Staatsanwaltschaft wegen rechtsextremer Symbole](https://www.tagesschau.de/regional/sachsen/siegbert-droese-staatsanwaltschaft-leipzig-ermittlungen-100.html)
+45. **Doris von Sayn-Wittgenstein (Parteiausschluss Berlin):**  
+   [LTO-Bericht zur rechtskräftigen Bestätigung des Ausschlusses](https://www.lto.de/recht/nachrichten/n/lg-berlin-bestaetigt-parteiausschluss-sayn-wittgenstein/)
+46. **Gunnar Lindemann (Russland-Verbindungen Berlin):**  
+   [Der Spiegel - Disziplinarverfahren wegen Donbas-Reisen](https://www.spiegel.de/politik/deutschland/berlin-ermittlungen-gegen-lindemann-donbas-reisen-100.html)
+47. **Maximilian T. (Terrorverdacht Franco A. GBA):**  
+   [Die Welt - Festnahme des Abgeordneten-Mitarbeiters wegen Anschlagsverdachts](https://www.welt.de/politik/deutschland/article164582194/GBA-haftbefehl-gegen-Maximilian-T-wegen-terrorverdacht-franco-a.html)
+48. **Christina Baum (Beleidigung Tauberbischofsheim):**  
+   [Frankfurter Rundschau - Geldstrafe wegen systematischer Netzbeleidigung](https://www.fr.de/rhein-main/offenbach/afd-politiker-carsten-haerle-wegen-volksverhetzung-verurteilt-91238902.html)

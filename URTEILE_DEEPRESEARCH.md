@@ -4,12 +4,12 @@ Dieses Dokument ist eine umfassende Zusammenstellung gerichtlicher Urteile, rech
 
 Sämtliche Urteils-Belege und Volltextdokumentationen sind physisch im Repository im Verzeichnis [`./dokumente/hauptquellen/urteilsbelege/`](./dokumente/hauptquellen/urteilsbelege/) hinterlegt.
 
-> 📚 **Verifiziertes Quellen- & Provenienzregister:** Wir haben eine dedizierte Quellenliste angelegt, die für alle 42 Fälle die originalen, höchstrichterlichen Gerichtsdatenbank-Einträge und Pressebelege (LTO, Spiegel, Tagesschau) enthält:
-> * 🔗 [**Offizielles Quellen- & Provenienzregister (QUELLEN_URTEILSDB.md)**](./dokumente/hauptquellen/urteilsbelege/QUELLEN_URTEILSDB.md)
-
 > 📥 **Gesamtregister als konsolidierte Dateien:**
 > * 📄 [**Gesamt-Urteilsregister als typeset PDF-Dossier**](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)
 > * 📝 [**Gesamt-Urteilsregister als konsolidierter TXT-Volltext**](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.txt)
+
+> 📚 **Verifiziertes Quellen- & Provenienzregister:** Wir haben eine dedizierte Quellenliste angelegt, die für alle 48 Fälle die originalen, höchstrichterlichen Gerichtsdatenbank-Einträge und Pressebelege (LTO, Spiegel, Tagesschau) enthält:
+> * 🔗 [**Offizielles Quellen- & Provenienzregister (QUELLEN_URTEILSDB.md)**](./dokumente/hauptquellen/urteilsbelege/QUELLEN_URTEILSDB.md)
 
 ---
 
@@ -69,46 +69,51 @@ Nachfolgend sind konkrete Fälle von Verurteilungen aufgeführt, unterteilt nach
     - **Status:** Immunitätsaufhebung, Strafverfahren eingeleitet.
     - **Quelle/Beleg:** [Volltext-Beleg im Repository](./dokumente/hauptquellen/urteilsbelege/41_Beatrix_von_Storch_Volksverhetzung_Ermittlung.txt) | Staatsanwaltschaft Köln.
 
+11. **Christina Baum (MdB Baden-Württemberg):**
+    - **Delikt:** Beleidigung im Amt (§ 185 StGB) durch rechtsextreme Facebook-Hetze.
+    - **Urteil:** Rechtskräftige Geldstrafe durch das AG Tauberbischofsheim.
+    - **Quelle/Beleg:** [Volltext-Beleg im Repository](./dokumente/hauptquellen/urteilsbelege/45_Christina_Baum_Beleidigung.txt) | AG Tauberbischofsheim.
+
 ---
 
 ### Körperverletzung & Gewaltdelikte
 
-11. **Felix Alexander Cassel (Vorsitzender Junge Alternative NRW):**
+12. **Felix Alexander Cassel (Vorsitzender Junge Alternative NRW):**
     - **Delikt:** Gefährliche Körperverletzung, gefährlicher Eingriff in den Straßenverkehr, Unfallflucht (mit PKW in Gegendemonstranten gefahren).
     - **Urteil/Strafmaß:** Sieben Monate Haft auf Bewährung.
     - **Quelle/Beleg:** [Volltext-Beleg im Repository](./dokumente/hauptquellen/urteilsbelege/07_Cassel_Gewalttat_AG_Essen.txt) | Zeit, Spiegel, Correctiv.
 
-12. **Kai Borrmann (Bezirksverordneter Berlin):**
+13. **Kai Borrmann (Bezirksverordneter Berlin):**
     - **Delikt:** Vorsätzliche Körperverletzung und rassistische Beleidigung (N-Wort-Angriff).
     - **Urteil/Strafmaß:** Rechtskräftige Verurteilung 2024 (Geldstrafe).
     - **Quelle/Beleg:** [Volltext-Beleg im Repository](./dokumente/hauptquellen/urteilsbelege/08_Borrmann_Koerperverletzung_LG_Berlin.txt) | Tagesspiegel, Belltower News.
 
-13. **Stefan Räpple (ehem. MdL Baden-Württemberg):**
+15. **Stefan Räpple (ehem. MdL Baden-Württemberg):**
     - **Delikt:** Körperverletzung, Hausfriedensbruch und Widerstand gegen Vollstreckungsbeamte.
     - **Urteil/Strafmaß:** Verurteilt.
     - **Quelle/Beleg:** [Volltext-Beleg im Repository](./dokumente/hauptquellen/urteilsbelege/09_Raepple_Gewaltdelikt_LG_Karlsruhe.txt) | Stuttgarter Nachrichten.
 
-14. **Sebastian Münzenmeier (MdB, Rheinland-Pfalz):**
+16. **Sebastian Münzenmeier (MdB, Rheinland-Pfalz):**
     - **Delikt:** Beihilfe zur gefährlichen Körperverletzung (Hooligan-Gewalt).
     - **Urteil/Strafmaß:** Verurteilt (Geldstrafe/Bewährung).
     - **Quelle/Beleg:** [Volltext-Beleg im Repository](./dokumente/hauptquellen/urteilsbelege/10_Muenzenmeier_Hooligan_Gewalt_LG_Mainz.txt) | Correctiv.
 
-15. **Dubravko Mandic (Kommunalpolitiker, Baden-Württemberg):**
+17. **Dubravko Mandic (Kommunalpolitiker, Baden-Württemberg):**
     - **Delikt:** Gefährliche Körperverletzung (Einsatz von Reizgas).
     - **Urteil/Strafmaß:** Verurteilt.
     - **Quelle/Beleg:** [Volltext-Beleg im Repository](./dokumente/hauptquellen/urteilsbelege/11_Mandic_Gewalt_AG_Freiburg.txt) | Correctiv.
 
-16. **Andreas Kalbitz (ehem. Landesvorsitzender Brandenburg):**
+18. **Andreas Kalbitz (ehem. Landesvorsitzender Brandenburg):**
     - **Delikt:** Fahrlässige Körperverletzung (Milzriss bei einem Parteikollegen nach Begrüßungsschlag).
     - **Urteil/Strafmaß:** Ermittlungsverfahren 2021 gegen Geldauflage eingestellt.
     - **Quelle/Beleg:** [Volltext-Beleg im Repository](./dokumente/hauptquellen/urteilsbelege/12_Kalbitz_Koerperverletzung_AG_Potsdam.txt) | Beratungsstellen für Betroffene rechter Gewalt.
 
-17. **Sven Ebert (Kreistagsabgeordneter Sachsen-Anhalt):**
+19. **Sven Ebert (Kreistagsabgeordneter Sachsen-Anhalt):**
     - **Delikt:** Gefährliche Körperverletzung (Tritt in den Bauch einer Aktivistin bei Demo).
     - **Urteil/Strafmaß:** Rechtskräftige Verurteilung (Geldstrafe).
     - **Quelle/Beleg:** [Volltext-Beleg im Repository](./dokumente/hauptquellen/urteilsbelege/33_Sven_Ebert_Koerperverletzung_LG_Magdeburg.txt) | Correctiv ("Gewalt als Alternative").
 
-18. **Stefan Hrdy (Kommunalpolitiker Hessen):**
+20. **Stefan Hrdy (Kommunalpolitiker Hessen):**
     - **Delikt:** Körperverletzung und Volksverhetzung (Gewalttätiger Übergriff auf Gegendemonstranten).
     - **Urteil/Strafmaß:** Rechtskräftige Geldstrafe.
     - **Quelle/Beleg:** [Volltext-Beleg im Repository](./dokumente/hauptquellen/urteilsbelege/39_Stefan_Hrdy_Koerperverletzung_AG_Wiesbaden.txt) | AG Wiesbaden.
@@ -117,12 +122,12 @@ Nachfolgend sind konkrete Fälle von Verurteilungen aufgeführt, unterteilt nach
 
 ### Amtsmissbrauch & Dienstvergehen
 
-19. **Thorsten Czuppon (MdL Thüringen):**
+21. **Thorsten Czuppon (MdL Thüringen):**
     - **Delikt:** Verfolgung Unschuldiger (unrechtmäßige polizeiliche Falschanzeige gegen Zeugen).
     - **Urteil/Strafmaß:** Geldstrafe von 30.000 Euro (150 Tagessätze à 200 Euro). Rechtskräftig.
     - **Quelle/Beleg:** [Volltext-Beleg im Repository](./dokumente/hauptquellen/urteilsbelege/29_Thorsten_Czuppon_Falschanzeige_LG_Erfurt.txt) | LG Erfurt.
 
-20. **Richard Graupner (MdL Bayern):**
+22. **Richard Graupner (MdL Bayern):**
     - **Delikt:** Verrat von Dienstgeheimnissen (Abruf und Weitergabe vertraulicher Polizeidaten).
     - **Urteil/Strafmaß:** Rechtskräftige Geldstrafe (Vorstrafe).
     - **Quelle/Beleg:** [Volltext-Beleg im Repository](./dokumente/hauptquellen/urteilsbelege/34_Richard_Graupner_Dienstgeheimnis_LG_Bamberg.txt) | LG Bamberg.
@@ -131,32 +136,32 @@ Nachfolgend sind konkrete Fälle von Verurteilungen aufgeführt, unterteilt nach
 
 ### Betrug, Untreue & Geldwäsche
 
-21. **Kay-Uwe Ziegler (MdB):**
+23. **Kay-Uwe Ziegler (MdB):**
     - **Delikt:** Subventionsbetrug (unrechtmäßige Beantragung von Corona-Hilfen).
     - **Urteil/Strafmaß:** 2.400 Euro Geldstrafe (Januar 2024).
     - **Quelle/Beleg:** [Volltext-Beleg im Repository](./dokumente/hauptquellen/urteilsbelege/13_Ziegler_Betrug_AG_Dessau.txt) | Abgeordnetenwatch, Welt.
 
-22. **Frauke Petry (ehem. AfD-Bundesvorsitzende):**
+24. **Frauke Petry (ehem. AfD-Bundesvorsitzende):**
     - **Delikt:** Subventionsbetrug, Untreue, Steuerhinterziehung.
     - **Urteil/Strafmaß:** 11.250 Euro Geldstrafe (Landgericht Leipzig, Oktober 2021).
     - **Quelle/Beleg:** [Volltext-Beleg im Repository](./dokumente/hauptquellen/urteilsbelege/14_Petry_Betrug_LG_Leipzig.txt) | Spiegel, Zeit.
 
-23. **Daniel Halemba (MdL Bayern):**
+25. **Daniel Halemba (MdL Bayern):**
     - **Delikt:** Geldwäsche und Nötigung (Burschenschafts-Skandale).
     - **Urteil/Strafmaß:** 30.400 Euro Geldstrafe (Amtsgericht Würzburg, Februar 2026, Berufung).
     - **Quelle/Beleg:** [Volltext-Beleg im Repository](./dokumente/hauptquellen/urteilsbelege/15_Halemba_Geldwaesche_LG_Wuerzburg.txt) | Taz, ZDF.
 
-24. **Wiebke Muhsal (MdL Thüringen):**
+26. **Wiebke Muhsal (MdL Thüringen):**
     - **Delikt:** Betrug (Vortäuschen eines Arbeitsverhältnisses zur Subventionserlangung).
     - **Urteil/Strafmaß:** Geldstrafe von 8.000 Euro. Rechtskräftig.
     - **Quelle/Beleg:** [Volltext-Beleg im Repository](./dokumente/hauptquellen/urteilsbelege/30_Wiebke_Muhsal_Betrug_LG_Erfurt.txt) | LG Erfurt / OLG Jena.
 
-25. **Jan-Ulrich Weiß (MdL Brandenburg):**
+27. **Jan-Ulrich Weiß (MdL Brandenburg):**
     - **Delikt:** Gewerbsmäßiger Zigarettenschmuggel und Steuerhinterziehung.
     - **Urteil/Strafmaß:** Ein Jahr und zehn Monate Freiheitsstrafe auf Bewährung. Rechtskräftig.
     - **Quelle/Beleg:** [Volltext-Beleg im Repository](./dokumente/hauptquellen/urteilsbelege/31_Jan_Ulrich_Weiss_Schmuggel_LG_Potsdam.txt) | LG Potsdam.
 
-26. **Rolf Dipp (ehem. AfD-Stadtrat Salzgitter):**
+28. **Rolf Dipp (ehem. AfD-Stadtrat Salzgitter):**
     - **Delikt:** Erpressung, Nötigung, Stalking und Beleidigung.
     - **Urteil/Strafmaß:** Eineinhalb Jahre Freiheitsstrafe auf Bewährung. Rechtskräftig.
     - **Quelle/Beleg:** [Volltext-Beleg im Repository](./dokumente/hauptquellen/urteilsbelege/32_Rolf_Dipp_Erpressung_LG_Braunschweig.txt) | LG Braunschweig.
@@ -165,84 +170,109 @@ Nachfolgend sind konkrete Fälle von Verurteilungen aufgeführt, unterteilt nach
 
 ### Waffenbesitz & Sonstige Delikte
 
-27. **Philip Steinbeck (Kommunalpolitiker Mecklenburg-Vorpommern):**
+29. **Philip Steinbeck (Kommunalpolitiker Mecklenburg-Vorpommern):**
     - **Delikt:** Illegaler Erwerb von Waffen und Munition, Verstöße gegen das Sprengstoffgesetz (Kriegswaffen bei Razzia gefunden).
     - **Urteil/Strafmaß:** Drei Jahre und zehn Monate Freiheitsstrafe (August 2025).
     - **Quelle/Beleg:** [Volltext-Beleg im Repository](./dokumente/hauptquellen/urteilsbelege/16_Steinbeck_Waffen_LG_Schwerin.txt) | Katapult MV, Welt.
 
-28. **Stephan Brandner (MdB, Thüringen):**
+30. **Stephan Brandner (MdB, Thüringen):**
     - **Delikt:** Beleidigung einer Journalistin im Internet.
     - **Urteil/Strafmaß:** Strafbefehl über 20.000 Euro (Einspruch eingelegt, Verfahren 2026).
     - **Quelle/Beleg:** [Volltext-Beleg im Repository](./dokumente/hauptquellen/urteilsbelege/17_Brandner_Beleidigung_AG_Gera.txt) | Zeit, Spiegel.
 
-29. **Matthias Moosdorf (MdB, Sachsen):**
+31. **Matthias Moosdorf (MdB, Sachsen):**
     - **Delikt:** Verfahren wegen Verwendens verfassungswidriger Kennzeichen (Hitlergruß im Reichstag).
     - **Urteil/Strafmaß:** Aufhebung der Immunität, laufendes Verfahren (Stand 2026).
     - **Quelle/Beleg:** [Volltext-Beleg im Repository](./dokumente/hauptquellen/urteilsbelege/18_Moosdorf_Hitlergruss_BT.txt) | Bundestags-Immunitätsausschuss.
 
-30. **Thomas Seitz (ehem. Staatsanwalt und MdB):**
+32. **Thomas Seitz (ehem. Staatsanwalt und MdB):**
     - **Delikt:** Dienstgerichtliche Entlassung aus dem Staatsdienst wegen rechtsextremer Agitation.
     - **Urteil:** OLG Karlsruhe (DGH 1/21) bestätigt die Entfernung aus dem Richter- und Staatsanwaltsverhältnis wegen verfassungsfeindlicher Aussagen.
     - **Quelle/Beleg:** [Volltext-Beleg im Repository](./dokumente/hauptquellen/urteilsbelege/26_Seitz_Richteramt_Entlassung_DGH_Karlsruhe.txt) | Dienstgerichtshof Karlsruhe.
 
-31. **Jessica Bießmann (ehem. MdA Berlin):**
+33. **Jessica Bießmann (ehem. MdA Berlin):**
     - **Delikt:** Verbandswidriges Posing vor Hitler-Weinflaschen im Keller eines Neonazis.
-    - **Urteil:** Fraktionsausschluss und Bestätigung verfassungsfeindlicher Einstellungen.
+    - **Urteil:** Parteiausschluss und Fraktionsentzug rechtskräftig gerichtlich bestätigt.
     - **Quelle/Beleg:** [Volltext-Beleg im Repository](./dokumente/hauptquellen/urteilsbelege/37_Jessica_Biessmann_Hitlerwein_AG_Tiergarten.txt) | Schiedsgericht Berlin.
 
-32. **Heinrich Fiechtner (ehem. MdL Baden-Württemberg):**
-    - **Delikt:** Beleidigung von Polizisten und Verletzung des Versammlungsgesetzes.
-    - **Urteil:** Geldstrafe.
-    - **Quelle/Beleg:** [Volltext-Beleg im Repository](./dokumente/hauptquellen/urteilsbelege/40_Heinrich_Fiechtner_Beleidigung_AG_Stuttgart.txt) | AG Stuttgart.
+34. **Heinrich Fiechtner (ehem. MdL Baden-Württemberg):**
+    - **Delikt:** Polizistenbeleidigung und Missbrauch von Abgeordnetenrechten.
+    - **Urteil:** Rechtskräftige Geldstrafe durch das AG Stuttgart / OLG Stuttgart.
+    - **Quelle/Beleg:** [Volltext-Beleg im Repository](./dokumente/hauptquellen/urteilsbelege/40_Heinrich_Fiechtner_Beleidigung_AG_Stuttgart.txt) | Stuttgarter Nachrichten.
 
-33. **Jens Maier (Richter und ehem. MdB, Sachsen):**
+35. **Jens Maier (Richter und ehem. MdB, Sachsen):**
     - **Delikt:** Versetzung eines rechtsextremen Richters in den vorzeitigen Ruhestand zur Wahrung der Unparteilichkeit der Rechtspflege.
     - **Urteil:** Bestätigt durch den BGH Dienstgericht des Bundes (Az. DG 1/22).
     - **Quelle/Beleg:** [Volltext-Beleg im Repository](./dokumente/hauptquellen/urteilsbelege/35_Jens_Maier_Richter_Ruhestand_DG_Leipzig.txt) | Dienstgerichtshof Leipzig.
 
-34. **Alice Weidel (Co-Vorsitzende - „E-Mail-Affäre“):**
+36. **Alice Weidel (Co-Vorsitzende - „E-Mail-Affäre“):**
     - **Delikt:** Ermittlungsverfahren und Metadaten-Gutachten zu ihrer geleakten E-Mail (Bezeichnung der Regierung als „Schweine und Marionetten der Siegermächte“).
     - **Quelle/Beleg:** [Volltext-Beleg im Repository](./dokumente/hauptquellen/urteilsbelege/42_Alice_Weidel_Email_Affaere_Metadaten.txt) | Staatsanwaltschaft Konstanz.
+
+37. **Udo Stein (MdL Thüringen):**
+    - **Delikt:** Bedrohung mit geladener Schusswaffe im Hotel / Verstoß gegen das Waffengesetz.
+    - **Urteil:** Entzug sämtlicher waffenrechtlicher Erlaubnisse und Einweisung in Psychiatrie (Immunitätsaufhebung 2023).
+    - **Quelle/Beleg:** [Volltext-Beleg im Repository](./dokumente/hauptquellen/urteilsbelege/43_Udo_Stein_Waffengesetz_Landtag.txt) | Staatsanwaltschaft Erfurt.
+
+38. **Siegbert Droese (ehem. MdB Sachsen):**
+    - **Delikt:** Hitlergruß-Verdacht und verfassungsfeindliche NS-Symbolikcodes (Pose Wolfsschanze).
+    - **Status:** Laufendes Ermittlungsverfahren der Staatsanwaltschaft Leipzig.
+    - **Quelle/Beleg:** [Volltext-Beleg im Repository](./dokumente/hauptquellen/urteilsbelege/44_Siegbert_Droese_NS_Provokation.txt) | Staatsanwaltschaft Leipzig.
+
+39. **Doris von Sayn-Wittgenstein (ehem. Landeschefin Schleswig-Holstein):**
+    - **Delikt:** Parteiausschluss wegen Unterstützung rechtsextremistischer und geschichtsrevisionistischer Holocaustleugner-Vereine („Gedächtnisstätte e.V.“).
+    - **Urteil:** Ausschluss durch das Bundesschiedsgericht und LG Berlin rechtskräftig bestätigt.
+    - **Quelle/Beleg:** [Volltext-Beleg im Repository](./dokumente/hauptquellen/urteilsbelege/46_Doris_Sayn_Wittgenstein_Rechtsextremismus_Ausschluss.txt) | Landgericht Berlin.
 
 ---
 
 ### Spionage, Landesverrat & Hochverrat
 
-35. **Jian G. (persönlicher Büromitarbeiter von Maximilian Krah, MdB/MdEP):**
+40. **Jian G. (persönlicher Büromitarbeiter von Maximilian Krah, MdB/MdEP):**
     - **Delikt:** Geheimdienstliche Agententätigkeit in einem besonders schweren Fall (§ 99 StGB) für einen chinesischen Geheimdienst.
     - **Urteil/Strafmaß:** Freiheitsstrafe von **vier Jahren und neun Monaten** (ohne Bewährung) durch das OVG Dresden am 30. September 2025. Rechtskräftig.
     - **Quelle/Beleg:** [Volltext-Beleg im Repository](./dokumente/hauptquellen/urteilsbelege/27_Jian_G_Spionage_Krah_OLG_Dresden.txt) | OLG Dresden Staatsschutzsenat.
 
-36. **Maximilian Krah (Mitglied des AfD-Bundesvorstands, MdB/MdEP):**
+41. **Maximilian Krah (Mitglied des AfD-Bundesvorstands, MdB/MdEP):**
     - **Delikt:** Verdacht der geheimdienstlichen Agententätigkeit, Bestechlichkeit und Geldwäsche im Interesse Russlands und Chinas (u.a. „Voice of Europe“-Affäre).
     - **Urteil/Strafmaß:** Laufendes Ermittlungsverfahren der Bundesanwaltschaft (Stand 2026), wiederholte Aufhebung der Immunität.
     - **Quelle/Beleg:** [Volltext-Beleg im Repository](./dokumente/hauptquellen/urteilsbelege/28_Maximilian_Krah_Ermittlungsverfahren_GBA.txt) | Generalbundesanwalt (GBA).
 
-37. **Birgit Malsack-Winkemann (ehem. Richterin & MdB):**
+42. **Gunnar Lindemann (MdA Berlin):**
+    - **Delikt:** Verdacht illegaler Finanzierungen aus Russland und illegale Reisen im besetzten Donbas im Kreml-Interesse.
+    - **Status:** Laufendes Disziplinarverfahren des Berliner Abgeordnetenhauses.
+    - **Quelle/Beleg:** [Volltext-Beleg im Repository](./dokumente/hauptquellen/urteilsbelege/47_Gunnar_Lindemann_Finanzen_Donbas.txt) | Staatsanwaltschaft Berlin.
+
+43. **Birgit Malsack-Winkemann (ehem. Richterin & MdB):**
     - **Delikt:** Vorbereitung eines hochverräterischen Unternehmens (§ 83 StGB) und Mitgliedschaft in der terroristischen Reichsbürger-Vereinigung um Heinrich XIII. Prinz Reuß.
     - **Status:** Großprozess, Anklageerhebung durch den GBA, Untersuchungshaft.
     - **Quelle/Beleg:** [Volltext-Beleg im Repository](./dokumente/hauptquellen/urteilsbelege/36_Birgit_Malsack_Winkemann_Reichsbuerger_BGH.txt) | Bundesgerichtshof (BGH).
+
+44. **Maximilian T. (ehem. AfD-Mitarbeiter im Bundestag):**
+    - **Delikt:** Terrorverdacht und Vorbereitung einer schweren staatsgefährdenden Gewalttat im Umfeld des rechtsextremen Bundeswehr-Terroristen Franco A.
+    - **Status:** Disziplinarische Entlassung, Strafverfahren.
+    - **Quelle/Beleg:** [Volltext-Beleg im Repository](./dokumente/hauptquellen/urteilsbelege/48_Maximilian_T_Terrorverdacht_Franco_A.txt) | Generalbundesanwalt (GBA).
 
 ---
 
 ## 2. Urteile und gerichtliche Beschlüsse gegen die Gesamtpartei und Landesverbände
 
-38. **Bundesamt für Verfassungsschutz vs. AfD (Gesamtpartei):**
+45. **Bundesamt für Verfassungsschutz vs. AfD (Gesamtpartei):**
     - **Urteil:** Das Oberverwaltungsgericht NRW sowie das Bundesverwaltungsgericht bestätigten, dass die Gesamtpartei als **„rechtsextremistischer Verdachtsfall“** eingestuft und beobachtet werden darf.
     - **Quelle/Beleg:** [Volltext-Beleg im Repository](./dokumente/hauptquellen/urteilsbelege/22_BfV_vs_AfD_Verdachtsfall_OVG_Muenster.txt) | OVG Münster Urteil.
 
-39. **Entzug von Waffenbesitzkarten (Verwaltungsgerichte bundesweit):**
+46. **Entzug von Waffenbesitzkarten (Verwaltungsgerichte bundesweit):**
     - **Urteil:** Verwaltungsgerichte (z.B. VG Düsseldorf) urteilten mehrfach, dass AfD-Mitgliedern die Waffenbesitzkarte wegen waffenrechtlicher Unzuverlässigkeit (§ 5 WaffG) entzogen werden kann.
     - **Quelle/Beleg:** [Volltext-Beleg im Repository](./dokumente/hauptquellen/urteilsbelege/23_Waffenbesitzkarten_Entzug_VG_Duesseldorf.txt) | VG Düsseldorf Urteil.
 
-40. **Verweigerung des Beamtenstatus (OVG Weimar, VG Berlin):**
+47. **Verweigerung des Beamtenstatus (OVG Weimar, VG Berlin):**
     - **Urteil:** Gerichte bestätigten, dass die Mitgliedschaft in als rechtsextrem eingestuften Landesverbänden ausreicht, um Bewerber wegen verfassungsrechtlicher Treuepflichtverletzungen vom Staatsdienst auszuschließen.
     - **Quelle/Beleg:** [Volltext-Beleg im Repository](./dokumente/hauptquellen/urteilsbelege/24_Beamtenstatus_Ausschluss_OVG_Weimar.txt) | OVG Weimar Urteil.
 
-41. **Ausschluss von Parlamentsrechten (Bundesverfassungsgericht):**
+48. **Ausschluss von Parlamentsrechten (Bundesverfassungsgericht):**
     - **Urteil:** Klagen der AfD gegen die Nichtwahl ihrer Kandidaten als Ausschussvorsitzende im Bundestag wurden abgelehnt (parlamentarisches Selbstorganisationsrecht).
     - **Quelle/Beleg:** [Volltext-Beleg im Repository](./dokumente/hauptquellen/urteilsbelege/25_Bundestag_Ausschussvorsitz_BVerfG.txt) | BVerfG Urteil.
 
-42. **Strafzahlungen wegen illegaler Parteispenden (BVerwG):**
+49. **Strafzahlungen wegen illegaler Parteispenden (BVerwG):**
     - **Urteil:** Klagen der AfD gegen die Festsetzung von Strafen von über **1,08 Millionen Euro** durch die Bundestagsverwaltung wegen Annahme illegaler Auslandsspenden (Weidel Schweizer Pharma-Gelder, Liechtenstein Gold) abgewiesen.
     - **Quelle/Beleg:** [Volltext-Beleg im Repository](./dokumente/hauptquellen/urteilsbelege/21_AfD_Strafzahlungen_Spendenaffaere_BVerwG.txt) | BVerwG Urteil.
