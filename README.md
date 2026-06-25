@@ -84,6 +84,7 @@ Es ist **kein** fertiges Dossier und **ersetzt nicht** die professionelle Beweis
 * 📑 **BfV-Verfassungsschutzbericht 2025:** (Veröffentlichung angesetzt für **Dienstag, den 30. Juni 2026** um 10:00 Uhr). Sobald live, abrufbar unter: [Offizielles VfS-Portal](https://www.verfassungsschutz.de/DE/service/publikationen/verfassungsschutzberichte/verfassungsschutzberichte_node.html)
 * 📑 **BfV-Verfassungsschutzbericht 2024 (Aktuellste Vollversion):** [PDF-Download (Volltext)](https://www.verfassungsschutz.de/SharedDocs/publikationen/DE/verfassungsschutzberichte/2025-06-10-verfassungsschutzbericht-2024.pdf?__blob=publicationFile&v=3) | [PDF-Splits 1-8 im Repository](./dokumente/splits/)
 * 📑 **BfV-Verfassungsschutzbericht 2023:** [PDF-Download (Volltext)](https://www.verfassungsschutz.de/SharedDocs/publikationen/DE/verfassungsschutzberichte/2024-06-18-verfassungsschutzbericht-2023.pdf?__blob=publicationFile&v=3) | [PDF-Splits 1-8 im Repository](./dokumente/splits/)
+* 📑 **Österreichischer Verfassungsschutzbericht 2025 (Neuerscheinung):** [PDF-Volltext im Repository](./dokumente/hauptquellen/Verfassungsschutzbericht_Oesterreich_2025.pdf)
 
 ### 2) Landesämter für Verfassungsschutz (LfV) – Alle 16 Bundesländer
 Klicke direkt auf das jeweilige Bundesland, um zum offiziellen Publikationsportal des Landesamtes für Verfassungsschutz zu gelangen und die neuesten Berichte (inkl. der brandneuen Ausgaben für 2024/2025) herunterzuladen:
