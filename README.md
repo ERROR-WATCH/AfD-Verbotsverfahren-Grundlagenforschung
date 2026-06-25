@@ -1,17 +1,17 @@
 # AfD-Verbotsverfahren-Grundlagenforschung
 
-<img width="1254" height="1254" alt="afd verdachtsfall" src="https://github.com/user-attachments/assets/a28a01ef-b937-4135-a0c2-1758abe54429" />
+<img width="1254" height="1254" alt="afd verdachtsfall" src="[https://github.com/user-attachments/assets/a28a01ef-b937-4135-a0c2-1758abe54429"](https://github.com/user-attachments/assets/a28a01ef-b937-4135-a0c2-1758abe54429") />
 
 
-[![Watch on YouTube](https://img.youtube.com/vi/eSgFEpI9ZDQ/hqdefault.jpg)](https://www.youtube.com/watch?v=eSgFEpI9ZDQ "Auf YouTube ansehen")
+[![Watch on YouTube](https://img.youtube.com/vi/eSgFEpI9ZDQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=eSgFEpI9ZDQ "Auf YouTube ansehen")
 
-[![Watch on YouTube](https://img.youtube.com/vi/nguiGvWcovA/hqdefault.jpg)](https://www.youtube.com/watch?v=nguiGvWcovA "Auf YouTube ansehen")
+[![Watch on YouTube](https://img.youtube.com/vi/nguiGvWcovA/maxresdefault.jpg)](https://www.youtube.com/watch?v=nguiGvWcovA "Auf YouTube ansehen")
 
 
 
-https://github.com/user-attachments/assets/92cd544f-f32d-4a2d-bb7d-24ba703612df
+[https://github.com/user-attachments/assets/92cd544f-f32d-4a2d-bb7d-24ba703612df](https://github.com/user-attachments/assets/92cd544f-f32d-4a2d-bb7d-24ba703612df)
 
-https://github.com/user-attachments/assets/cfd3127a-4806-4d61-b523-940bd1b3873c
+[https://github.com/user-attachments/assets/cfd3127a-4806-4d61-b523-940bd1b3873c](https://github.com/user-attachments/assets/cfd3127a-4806-4d61-b523-940bd1b3873c)
 
 
 Dieses Repository sammelt die zentralen Dokumente, Textfragmente und Forschungsergebnisse zur Vorbereitung einer Klageschrift gegen die Partei „Alternative für Deutschland“ (AfD) beim Bundesverfassungsgericht.
@@ -57,28 +57,19 @@ Es ist **kein** fertiges Dossier und **ersetzt nicht** die professionelle Beweis
 ├── leicht zugängliche Quellen.txt
 ├── afd-verbot-deepresearch-ausgangspunkt.txt
 ├── quellen.pdf
-├── ENTWURF KLAGESCHRIFT - ERWEITERTER SACHVERHALT - GRUNDLAGEN.pdf
-├── ENTWURF KLAGESCHRIFT.pdf
-├── WISSENSTAND MAI 2025 AfD.pdf
-├── "Im Folgenden werden die zuvor genannten 15 Gründe…".pdf
-├── Gründe für ein Afd-Verbots-Verfahren - KI generiert - PDF.pdf
-├── schlimmsten zitate der afd.pdf
-├── warum die afd verboten gehört.pdf
-├── Warum die Alternative für Deutschland verboten gehört.pdf
-├── gruende für ein afd verbotsverfahren.pdf
-├── gruende_fuer_afd_verbot.txt
-├── zusammenfassung_vfs_gutachten_afd.txt
-├── Geheimgutachten_Teil A_pages_1_to_100.txt
-├── Geheimgutachten_Teil A_pages_101_to_200.txt
-├── … (Teil A bis Seite 508)
-├── Geheimgutachten_Teil B_pages_1_to_100.txt
-├── Geheimgutachten_Teil B_pages_101_to_200.txt
-├── … (reparierte Fragmente bis Seite 609)
-├── afd-verbot.de-scrape-dependencies.sh
-├── afd-verbot.de-scrape-beweise-zitate.py
-├── afd-verbot.de-scrape-link-liste.txt
-├── zitate/afd-verbot.de-28.07.2025-proof-00001.md => afd-verbot.de-28.07.2025-proof-03611.md
-└── README.md (diese Datei)
+├── README.md                              # Projektübersicht, Installations- und Nutzungshinweise
+├── LICENSE.md                             # Lizenzen (Anti-Capitalist Software License 1.4 & Drittrechte)
+├── PUBLIC_SOURCES.md                      # Sammlung aller öffentlich verfügbaren Quellen mit Download‑Links
+├── PUBLIC_EXTENDED_SOURCES.md             # Erweiterte Quellenliste
+├── Literaturverzeichnis.md                # Wissenschaftliches Literaturverzeichnis
+├── dokumente/
+│   ├── hauptquellen/                      # Ungeteilte Haupt‑Dokumente (Klageschriften, quellen.pdf, etc.)
+│   └── splits/                            # PDF‑Splits (GFF‑Gutachten, Verfassungsschutzberichte)
+├── geheimgutachten/                       # OCR‑Texte und Fragmente des BfV‑Geheimgutachten (Teil A & B)
+├── dataset/                               # Maschinenlesbare JSONL‑Datensätze für RAG‑Pipelines (index.json, jsonl)
+├── skripte/                               # Scraper, OCR‑Skripte und Linklisten
+├── assets/                                # Bilder, Diagramme und Videos (Christian Lüth, Beweisfotos)
+└── zitate/                                # Zitate‑Sammlung von afd‑verbot.de als Markdown‑Dateien (00001–03611)
 
 ```
 ### Dateiliste mit Inhaltsbeschreibungen
@@ -87,80 +78,79 @@ Es ist **kein** fertiges Dossier und **ersetzt nicht** die professionelle Beweis
 |------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
 | `README.md`                                                                                                      | Projektübersicht, Installations- und Nutzungshinweise                                                                                |
 | `PUBLIC_SOURCES.md`                                                                                              | Sammlung aller öffentlich verfügbaren Quellen mit Download‑Links                                                                     |
-| `ENTWURF KLAGESCHRIFT - ERWEITERTER SACHVERHALT - GRUNDLAGEN .pdf`                                               | Vollständiger Klageschrift‑Entwurf mit erweitertem Sachverhalt und Rechtsgrundlagen                                                  |
-| `ENTWURF KLAGESCHRIFT .pdf`                                                                                      | Kompakter Entwurf der Klageschrift ohne Erweiterungen                                                                                |
-| `WISSENSTAND MAI 2025 AfD.pdf`                                                                                   | Zusammenfassung aktueller Forschung und Medienberichte zur AfD (Stand Mai 2025)                                                      |
-| `Gründe für ein Afd-Verbots-Verfahren - KI generiert - PDF.pdf`                                                  | KI‑gestützte Erarbeitung und Erläuterung von 15 juristischen Verbotsgründen                                                          |
-| `Im Folgenden werden die zuvor genannten 15 Gründe… .pdf`                                                        | Vertiefende juristische Begründung der 15 Verbotsgründe                                                                              |
-| `Gründe.txt`                                                                                                     | Kurze Stichpunktliste aller 15 Verbotsgründe                                                                                         |
-| `schlimmsten zitate der afd.pdf`                                                                                 | Sammlung besonders gravierender Zitate von AfD‑Repräsentanten als Beleg für Verfassungsfeindlichkeit                                 |
-| `warum die afd verboten gehört.pdf`                                                                              | Essay‑artige Darstellung, warum ein Verbotsverfahren gegen die AfD angezeigt ist                                                     |
-| `gruende für ein afd verbotsverfahren.pdf`                                                                       | Prägnante Übersicht über die 15 juristischen Gründe                                                                                  |
-| `gruende_fuer_afd_verbot.txt`                                                                                    | Textliche Stichpunkte zu den Verbotsgründen                                                                                          |
-| `afd-verbot-deepresearch-ausgangspunkt.txt`                                                                      | Notizen zur initialen Deep‑Research‑Strategie und Suchansätze                                                                        |
-| `quellen.pdf`                                                                                                    | Übersicht aller zitierten Primär‑ und Sekundärquellen                                                                                |
-| `leicht zugängliche Quellen.txt`                                                                                 | Liste frei verfügbarer, leicht erreichbarer Referenzen                                                                               |
-| `nsu-akten-gratis.pdf`                                                                                           | PDF‑Zusammenstellung der NSU‑Gerichtsakten (kostenfrei)                                                                              |
+| [`ENTWURF_KLAGESCHRIFT_-_ERWEITERTER_SACHVERHALT_-_GRUNDLAGEN_.pdf`](./dokumente/hauptquellen/ENTWURF_KLAGESCHRIFT_-_ERWEITERTER_SACHVERHALT_-_GRUNDLAGEN_.pdf)                                               | Vollständiger Klageschrift‑Entwurf mit erweitertem Sachverhalt und Rechtsgrundlagen                                                  |
+| [`ENTWURF_KLAGESCHRIFT_.pdf`](./dokumente/hauptquellen/ENTWURF_KLAGESCHRIFT_.pdf)                                                                                      | Kompakter Entwurf der Klageschrift ohne Erweiterungen                                                                                |
+| [`WISSENSTAND_MAI_2025_AfD.pdf`](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)                                                                                   | Zusammenfassung aktueller Forschung und Medienberichte zur AfD (Stand Mai 2025)                                                      |
+| [`Gründe_für_ein_Afd-Verbots-Verfahren_-_KI_generiert_-_PDF.pdf`](./dokumente/hauptquellen/Gr%C3%BCnde_f%C3%BCr_ein_Afd-Verbots-Verfahren_-_KI_generiert_-_PDF.pdf)                                                  | KI‑gestützte Erarbeitung und Erläuterung von 15 juristischen Verbotsgründen                                                          |
+| [`Im Folgenden werden die zuvor genannten 15 Gründe… .pdf`](./dokumente/hauptquellen/Im_Folgenden_werden_die_zuvor_genannten_15_Gr%C3%BCnde_f%C3%BCr_ein_Parteiverbot_der_AfD_jeweils_ausf%C3%BChrlich_begr%C3%BCndet.pdf)                                                        | Vertiefende juristische Begründung der 15 Verbotsgründe                                                                              |
+| [`Gründe.txt`](./geheimgutachten/Gr%C3%BCnde.txt)                                                                                                     | Kurze Stichpunktliste aller 15 Verbotsgründe                                                                                         |
+| [`schlimmsten_zitate_der_afd.pdf`](./dokumente/hauptquellen/schlimmsten_zitate_der_afd.pdf)                                                                                 | Sammlung besonders gravierender Zitate von AfD‑Repräsentanten als Beleg für Verfassungsfeindlichkeit                                 |
+| [`warum_die_afd_verboten_gehört.pdf`](./dokumente/hauptquellen/warum_die_afd_verboten_geh%C3%B6rt.pdf)                                                                              | Essay‑artige Darstellung, warum ein Verbotsverfahren gegen die AfD angezeigt ist                                                     |
+| [`gruende_für_ein_afd_verbotsverfahren.pdf`](./dokumente/hauptquellen/gruende_f%C3%BCr_ein_afd_verbotsverfahren.pdf)                                                                       | Prägnante Übersicht über die 15 juristischen Gründe                                                                                  |
+| [`gruende_fuer_afd_verbot.txt`](./geheimgutachten/gruende_fuer_afd_verbot.txt)                                                                                    | Textliche Stichpunkte zu den Verbotsgründen                                                                                          |
+| [`afd-verbot-deepresearch-ausgangspunkt.txt`](./skripte/afd-verbot-deepresearch-ausgangspunkt.txt)                                                                      | Notizen zur initialen Deep‑Research‑Strategie und Suchansätze                                                                        |
+| [`quellen.pdf`](./dokumente/hauptquellen/quellen.pdf)                                                                                                    | Übersicht aller zitierten Primär‑ und Sekundärquellen                                                                                |
+| [`leicht zugängliche Quellen.txt`](./skripte/leicht%20zug%C3%A4ngliche%20Quellen.txt)                                                                                 | Liste frei verfügbarer, leicht erreichbarer Referenzen                                                                               |
+| [`nsu-akten-gratis.pdf`](./dokumente/hauptquellen/nsu-akten-gratis.pdf)                                                                                           | PDF‑Zusammenstellung der NSU‑Gerichtsakten (kostenfrei)                                                                              |
 | **Geheimgutachten (OCR‑Texte)**                                                                                  |                                                                                                                                      |
-| ├─ `geheimgutachten_txt/Teil A pages 1-508.txt`                                                                  | OCR‑Transkription des BfV‑Gutachtens Teil A, Seiten 1–508                                                                            |
-| └─ `geheimgutachten_txt/Teil B pages 1-609 (repariert).txt`                                                      | OCR‑Transkription des BfV‑Gutachtens Teil B, Seiten 1–609 (manuell korrigiert)                                                       |
+| ├─ [`geheimgutachten/`](./geheimgutachten/)                                                                      | Ordner mit allen OCR-Transkriptionen des BfV-Gutachtens Teil A & B (einzelne Teilstücke siehe unten)                                 |
 | **Bundestagsdrucksachen & Plenarprotokolle**                                                                     |                                                                                                                                      |
-| `01_dserver.bundestag.de_btd_20_010_2001020.pdf`                                                                 | Drucksache 20/010: Protokoll der Anhörung zum Sicherheitspaket (23. Sep 2024)                                                        |
-| `02_dserver.bundestag.de_btd_20_133_2013317.pdf`                                                                 | Drucksache 20/133: Plenarprotokoll 86. Sitzung – Hetze‑Debatte (23. Sep 2024)                                                        |
-| `03_dserver.bundestag.de_btp_20_20203.pdf`                                                                       | Plenarprotokoll 203. Sitzung – Anhörung zum Verfassungsschutz (5. Dez 2024)                                                          |
+| [`BT_Drucksache_20_010_Sicherheitspaket.pdf`](./dokumente/hauptquellen/BT_Drucksache_20_010_Sicherheitspaket.pdf) | Drucksache 20/010: Protokoll der Anhörung zum Sicherheitspaket (23. Sep 2024)                                                        |
+| [`BT_Plenarprotokoll_20_133_Hetze_Debatte.pdf`](./dokumente/hauptquellen/BT_Plenarprotokoll_20_133_Hetze_Debatte.pdf) | Drucksache 20/133: Plenarprotokoll 86. Sitzung – Hetze‑Debatte (23. Sep 2024)                                                        |
+| [`BT_Plenarprotokoll_20_203_Verfassungsschutz_Anhoerung.pdf`](./dokumente/hauptquellen/BT_Plenarprotokoll_20_203_Verfassungsschutz_Anhoerung.pdf) | Plenarprotokoll 203. Sitzung – Anhörung zum Verfassungsschutz (5. Dez 2024)                                                          |
 | **Verfassungsschutzberichte & Ministerien**                                                                      |                                                                                                                                      |
-| `www_verfassungsschutz_de_…verfassungsschutzbericht-2023.pdf`                                                    | Volltext Verfassungsschutzbericht 2023 (BfV)                                                                                         |
-| `www_verfassungsschutz_de_…verfassungsschutzbericht-2024.pdf`                                                    | Volltext Verfassungsschutzbericht 2024 (BfV)                                                                                         |
-| `www_verfassungsschutz_de_…-2023.html`                                                                           | Kurzfassung Verfassungsschutzbericht 2023 (Web‑Version)                                                                              |
-| `www_verfassungsschutz_de_…-2024.html`                                                                           | Kurzfassung Verfassungsschutzbericht 2024 (Web‑Version)                                                                              |
-| `www_bmi_bund_de_…vsb2023-BMI24018.pdf`                                                                          | Volltext Verfassungsschutzbericht 2023 (BMI)                                                                                         |
-| `www_bmi_bund_de_…BMI25029-vsb2024.pdf`                                                                          | Volltext Verfassungsschutzbericht 2024 (BMI)                                                                                         |
+| [`www_verfassungsschutz_de_…verfassungsschutzbericht-2023.pdf`](./dokumente/hauptquellen/BfV_Verfassungsschutzbericht_2023.pdf)                                                    | Volltext Verfassungsschutzbericht 2023 (BfV)                                                                                         |
+| [`www_verfassungsschutz_de_…verfassungsschutzbericht-2024.pdf`](./dokumente/hauptquellen/BfV_Verfassungsschutzbericht_2024.pdf)                                                    | Volltext Verfassungsschutzbericht 2024 (BfV)                                                                                         |
+| [`www_verfassungsschutz_de_…-2023.html`](./dokumente/hauptquellen/BfV_Verfassungsschutzbericht_2023_Kurzfassung.pdf)                                                                           | Kurzfassung Verfassungsschutzbericht 2023 (Web‑Version)                                                                              |
+| [`www_verfassungsschutz_de_…-2024.html`](./dokumente/hauptquellen/BfV_Verfassungsschutzbericht_2024_Kurzfassung.pdf)                                                                           | Kurzfassung Verfassungsschutzbericht 2024 (Web‑Version)                                                                              |
+| [`www_bmi_bund_de_…vsb2023-BMI24018.pdf`](./dokumente/hauptquellen/BMI_Verfassungsschutzbericht_2023.pdf)                                                                          | Volltext Verfassungsschutzbericht 2023 (BMI)                                                                                         |
+| [`www_bmi_bund_de_…BMI25029-vsb2024.pdf`](./dokumente/hauptquellen/BMI_Verfassungsschutzbericht_2024.pdf)                                                                          | Volltext Verfassungsschutzbericht 2024 (BMI)                                                                                         |
 | ------------------------------------------ | -------------- |
 | **Geheimgutachten (OCR-Splits)** | |
-| `Geheimgutachten_Teil_A_pages_1_to_100.txt` | OCR-Teilstück BfV-Gutachten Teil A, S. 1–100 |
-| `Geheimgutachten_Teil_A_pages_201_to_300.txt` | OCR-Teilstück BfV-Gutachten Teil A, S. 201–300 |
-| `Geheimgutachten_Teil_A_pages_301_to_400.txt` | OCR-Teilstück BfV-Gutachten Teil A, S. 301–400 |
-| `Geheimgutachten_Teil_A_pages_401_to_500.txt` | OCR-Teilstück BfV-Gutachten Teil A, S. 401–500 |
-| `Geheimgutachten_Teil_A_pages_501_to_508.txt` | OCR-Teilstück BfV-Gutachten Teil A, S. 501–508 |
-| `Geheimgutachten_Teil_B_pages_1_to_100.txt` | OCR-Teilstück BfV-Gutachten Teil B, S. 1–100 |
-| `Geheimgutachten_Teil_B_pages_101_to_200.txt` | OCR-Teilstück BfV-Gutachten Teil B, S. 101–200 |
-| `Geheimgutachten_Teil_B_pages_201_to_300.txt` | OCR-Teilstück BfV-Gutachten Teil B, S. 201–300 |
-| `Geheimgutachten_Teil_B_pages_301_to_400.txt` | OCR-Teilstück BfV-Gutachten Teil B, S. 301–400 |
-| `Geheimgutachten_Teil_B_pages_401_to_500.txt` | OCR-Teilstück BfV-Gutachten Teil B, S. 401–500 |
+| [`Geheimgutachten_Teil_A_pages_1_to_100.txt`](./geheimgutachten/Geheimgutachten_Teil_A_pages_1_to_100.txt) | OCR-Teilstück BfV-Gutachten Teil A, S. 1–100 |
+| [`Geheimgutachten_Teil_A_pages_201_to_300.txt`](./geheimgutachten/Geheimgutachten_Teil_A_pages_201_to_300.txt) | OCR-Teilstück BfV-Gutachten Teil A, S. 201–300 |
+| [`Geheimgutachten_Teil_A_pages_301_to_400.txt`](./geheimgutachten/Geheimgutachten_Teil_A_pages_301_to_400.txt) | OCR-Teilstück BfV-Gutachten Teil A, S. 301–400 |
+| [`Geheimgutachten_Teil_A_pages_401_to_500.txt`](./geheimgutachten/Geheimgutachten_Teil_A_pages_401_to_500.txt) | OCR-Teilstück BfV-Gutachten Teil A, S. 401–500 |
+| [`Geheimgutachten_Teil_A_pages_501_to_508.txt`](./geheimgutachten/Geheimgutachten_Teil_A_pages_501_to_508.txt) | OCR-Teilstück BfV-Gutachten Teil A, S. 501–508 |
+| [`Geheimgutachten_Teil_B_pages_1_to_100.txt`](./geheimgutachten/Geheimgutachten_Teil_B_pages_1_to_100.txt) | OCR-Teilstück BfV-Gutachten Teil B, S. 1–100 |
+| [`Geheimgutachten_Teil_B_pages_101_to_200.txt`](./geheimgutachten/Geheimgutachten_Teil_B_pages_101_to_200.txt) | OCR-Teilstück BfV-Gutachten Teil B, S. 101–200 |
+| [`Geheimgutachten_Teil_B_pages_201_to_300.txt`](./geheimgutachten/Geheimgutachten_Teil_B_pages_201_to_300.txt) | OCR-Teilstück BfV-Gutachten Teil B, S. 201–300 |
+| [`Geheimgutachten_Teil_B_pages_301_to_400.txt`](./geheimgutachten/Geheimgutachten_Teil_B_pages_301_to_400.txt) | OCR-Teilstück BfV-Gutachten Teil B, S. 301–400 |
+| [`Geheimgutachten_Teil_B_pages_401_to_500.txt`](./geheimgutachten/Geheimgutachten_Teil_B_pages_401_to_500.txt) | OCR-Teilstück BfV-Gutachten Teil B, S. 401–500 |
 | `Geheimgutachten_Teil_B_pages_501_to_600*.txt` | OCR-Teilstücke BfV-Gutachten Teil B, S. 501–600 (mehrere reparierte Versionen) |
 | `Geheimgutachten_Teil_B_pages_601_to_609*.txt` | OCR-Teilstücke BfV-Gutachten Teil B, S. 601–609 (reparierte Versionen) |
 | -------------------------------------------------------------------- | --------------------------------------- |
 | **BfV-Verfassungsschutzbericht 2024 (PDF-Splits)** | |
-| `part1_1-52.pdf`    | Seiten 1–52    |
-| `part2_53-104.pdf`  | Seiten 53–104  |
-| `part3_105-156.pdf` | Seiten 105–156 |
-| `part4_157-208.pdf` | Seiten 157–208 |
-| `part5_209-260.pdf` | Seiten 209–260 |
-| `part6_261-312.pdf` | Seiten 261–312 |
-| `part7_313-364.pdf` | Seiten 313–364 |
-| `part8_365-412.pdf` | Seiten 365–412 |
+| [`part1_1-52.pdf`](./dokumente/splits/part1_1-52.pdf)    | Seiten 1–52    |
+| [`part2_53-104.pdf`](./dokumente/splits/part2_53-104.pdf)  | Seiten 53–104  |
+| [`part3_105-156.pdf`](./dokumente/splits/part3_105-156.pdf) | Seiten 105–156 |
+| [`part4_157-208.pdf`](./dokumente/splits/part4_157-208.pdf) | Seiten 157–208 |
+| [`part5_209-260.pdf`](./dokumente/splits/part5_209-260.pdf) | Seiten 209–260 |
+| [`part6_261-312.pdf`](./dokumente/splits/part6_261-312.pdf) | Seiten 261–312 |
+| [`part7_313-364.pdf`](./dokumente/splits/part7_313-364.pdf) | Seiten 313–364 |
+| [`part8_365-412.pdf`](./dokumente/splits/part8_365-412.pdf) | Seiten 365–412 |
 | -------------------------------------------------------------------- | --------------------------------------- |
 |**LfV Hessen Jahresbericht 2024 (PDF-Splits)** | |
-| `lfv_jahresbericht_2024_part1_1-25.pdf`    | Seiten 1–25    |
-| `lfv_jahresbericht_2024_part2_26-50.pdf`   | Seiten 26–50   |
-| `lfv_jahresbericht_2024_part3_51-75.pdf`   | Seiten 51–75   |
-| `lfv_jahresbericht_2024_part4_76-100.pdf`  | Seiten 76–100  |
-| `lfv_jahresbericht_2024_part5_101-125.pdf` | Seiten 101–125 |
-| `lfv_jahresbericht_2024_part6_126-150.pdf` | Seiten 126–150 |
-| `lfv_jahresbericht_2024_part7_151-175.pdf` | Seiten 151–175 |
-| `lfv_jahresbericht_2024_part8_176-199.pdf` | Seiten 176–199 |
+| [`lfv_jahresbericht_2024_part1_1-25.pdf`](./dokumente/splits/lfv_jahresbericht_2024_part1_1-25.pdf)    | Seiten 1–25    |
+| [`lfv_jahresbericht_2024_part2_26-50.pdf`](./dokumente/splits/lfv_jahresbericht_2024_part2_26-50.pdf)   | Seiten 26–50   |
+| [`lfv_jahresbericht_2024_part3_51-75.pdf`](./dokumente/splits/lfv_jahresbericht_2024_part3_51-75.pdf)   | Seiten 51–75   |
+| [`lfv_jahresbericht_2024_part4_76-100.pdf`](./dokumente/splits/lfv_jahresbericht_2024_part4_76-100.pdf)  | Seiten 76–100  |
+| [`lfv_jahresbericht_2024_part5_101-125.pdf`](./dokumente/splits/lfv_jahresbericht_2024_part5_101-125.pdf) | Seiten 101–125 |
+| [`lfv_jahresbericht_2024_part6_126-150.pdf`](./dokumente/splits/lfv_jahresbericht_2024_part6_126-150.pdf) | Seiten 126–150 |
+| [`lfv_jahresbericht_2024_part7_151-175.pdf`](./dokumente/splits/lfv_jahresbericht_2024_part7_151-175.pdf) | Seiten 151–175 |
+| [`lfv_jahresbericht_2024_part8_176-199.pdf`](./dokumente/splits/lfv_jahresbericht_2024_part8_176-199.pdf) | Seiten 176–199 |
 | -------------------------------------------------------------------- | --------------------------------------- |
 | **GFF AfD-Gutachten (PDF-Splits)** | *Logische, kapitelgenaue Aufteilung des 3.062-seitigen GFF-Gutachtens (Sicherung für KI-Verarbeitung & GitHub-Limits)* |
-| `GFF_AfD-Gutachten_Teil_01_Inhaltsueberblick_Zusammenfassung.pdf`     | Teil 1: Cover, Inhaltsüberblick & Zusammenfassung (Seiten 1–124)                                                                     |
-| `GFF_AfD-Gutachten_Teil_02_Einfuehrung.pdf`                           | Teil 2: Einführung (Seiten 125–196)                                                                                                  |
-| `GFF_AfD-Gutachten_Teil_03_Teil_1_Entwicklung_Machtzentren_Vorfeld.pdf`| Teil 3: Teil 1 (Entwicklung, Machtzentren, Vorfeld) (Seiten 197–409)                                                                  |
-| `GFF_AfD-Gutachten_Teil_04_Teil_2_Rechtliche_Maassstaebe.pdf`         | Teil 4: Teil 2 (Rechtliche Maßstäbe) (Seiten 410–521)                                                                                |
-| `GFF_AfD-Gutachten_Teil_05_Teil_3_A_Menschenwuerde.pdf`               | Teil 5: Teil 3-A (Menschenwürde) (Seiten 522–1318)                                                                                   |
-| `GFF_AfD-Gutachten_Teil_06_Teil_3_B_G_Demokratie_Rechtsstaat_Ergebnis.pdf`| Teil 6: Teil 3-B-G (Demokratie, Rechtsstaat, Gesamtergebnis) (Seiten 1319–1576)                                                       |
-| `GFF_AfD-Gutachten_Teil_07_Schluss_Literaturverzeichnis.pdf`          | Teil 7: Schluss, Danksagung & Literaturverzeichnis (Seiten 1577–1677)                                                                |
-| `GFF_AfD-Gutachten_Teil_08_Anhang_A_Methodik.pdf`                     | Teil 8: Anhang A (Methodik) (Seiten 1678–1724)                                                                                       |
-| `GFF_AfD-Gutachten_Teil_09_Anhang_B_Belege_Menschenwuerde.pdf`        | Teil 9: Anhang B (Belege Menschenwürde) (Seiten 1725–2810)                                                                           |
-| `GFF_AfD-Gutachten_Teil_10_Anhang_C_E_Weitere_Belege.pdf`             | Teil 10: Anhang C–E (Belege Demokratie, Rechtsstaat, NS-Wesensverwandtschaft) (Seiten 2811–3062)                                     |
+| [`GFF_AfD-Gutachten_Teil_01_Inhaltsueberblick_Zusammenfassung.pdf`](./dokumente/splits/GFF_AfD-Gutachten_Teil_01_Inhaltsueberblick_Zusammenfassung.pdf)     | Teil 1: Cover, Inhaltsüberblick & Zusammenfassung (Seiten 1–124)                                                                     |
+| [`GFF_AfD-Gutachten_Teil_02_Einfuehrung.pdf`](./dokumente/splits/GFF_AfD-Gutachten_Teil_02_Einfuehrung.pdf)                           | Teil 2: Einführung (Seiten 125–196)                                                                                                  |
+| [`GFF_AfD-Gutachten_Teil_03_Teil_1_Entwicklung_Machtzentren_Vorfeld.pdf`](./dokumente/splits/GFF_AfD-Gutachten_Teil_03_Teil_1_Entwicklung_Machtzentren_Vorfeld.pdf)| Teil 3: Teil 1 (Entwicklung, Machtzentren, Vorfeld) (Seiten 197–409)                                                                  |
+| [`GFF_AfD-Gutachten_Teil_04_Teil_2_Rechtliche_Maassstaebe.pdf`](./dokumente/splits/GFF_AfD-Gutachten_Teil_04_Teil_2_Rechtliche_Maassstaebe.pdf)         | Teil 4: Teil 2 (Rechtliche Maßstäbe) (Seiten 410–521)                                                                                |
+| [`GFF_AfD-Gutachten_Teil_05_Teil_3_A_Menschenwuerde.pdf`](./dokumente/splits/GFF_AfD-Gutachten_Teil_05_Teil_3_A_Menschenwuerde.pdf)               | Teil 5: Teil 3-A (Menschenwürde) (Seiten 522–1318)                                                                                   |
+| [`GFF_AfD-Gutachten_Teil_06_Teil_3_B_G_Demokratie_Rechtsstaat_Ergebnis.pdf`](./dokumente/splits/GFF_AfD-Gutachten_Teil_06_Teil_3_B_G_Demokratie_Rechtsstaat_Ergebnis.pdf)| Teil 6: Teil 3-B-G (Demokratie, Rechtsstaat, Gesamtergebnis) (Seiten 1319–1576)                                                       |
+| [`GFF_AfD-Gutachten_Teil_07_Schluss_Literaturverzeichnis.pdf`](./dokumente/splits/GFF_AfD-Gutachten_Teil_07_Schluss_Literaturverzeichnis.pdf)          | Teil 7: Schluss, Danksagung & Literaturverzeichnis (Seiten 1577–1677)                                                                |
+| [`GFF_AfD-Gutachten_Teil_08_Anhang_A_Methodik.pdf`](./dokumente/splits/GFF_AfD-Gutachten_Teil_08_Anhang_A_Methodik.pdf)                     | Teil 8: Anhang A (Methodik) (Seiten 1678–1724)                                                                                       |
+| [`GFF_AfD-Gutachten_Teil_09_Anhang_B_Belege_Menschenwuerde.pdf`](./dokumente/splits/GFF_AfD-Gutachten_Teil_09_Anhang_B_Belege_Menschenwuerde.pdf)        | Teil 9: Anhang B (Belege Menschenwürde) (Seiten 1725–2810)                                                                           |
+| [`GFF_AfD-Gutachten_Teil_10_Anhang_C_E_Weitere_Belege.pdf`](./dokumente/splits/GFF_AfD-Gutachten_Teil_10_Anhang_C_E_Weitere_Belege.pdf)             | Teil 10: Anhang C–E (Belege Demokratie, Rechtsstaat, NS-Wesensverwandtschaft) (Seiten 2811–3062)                                     |
 | -------------------------------------------------------------------- | --------------------------------------- |
 | **Studien & NGO‑Berichte**                                                                                       |                                                                                                                                      |
 | `01_cemas.io_en_blog_active-clubs-in-germany…pdf`                                                                | Gerenderte HTML‑Studie „Active Clubs in Germany“ (CeMAS)                                                                             |
@@ -199,88 +189,88 @@ Es ist **kein** fertiges Dossier und **ersetzt nicht** die professionelle Beweis
 ## 1) Thematische Gliederung mit vollständiger Dateiliste
 
 ### A) Klageschrift & Argumente (2)
-- `ENTWURF KLAGESCHRIFT - ERWEITERTER SACHVERHALT - GRUNDLAGEN .pdf`
-- `ENTWURF KLAGESCHRIFT .pdf`
+- [`ENTWURF_KLAGESCHRIFT_-_ERWEITERTER_SACHVERHALT_-_GRUNDLAGEN_.pdf`](./dokumente/hauptquellen/ENTWURF_KLAGESCHRIFT_-_ERWEITERTER_SACHVERHALT_-_GRUNDLAGEN_.pdf)
+- [`ENTWURF_KLAGESCHRIFT_.pdf`](./dokumente/hauptquellen/ENTWURF_KLAGESCHRIFT_.pdf)
 
 ---
 
 ### B) Gutachten & Rechtsanalysen (31)
 - **GFF AfD-Gutachten (PDF-Splits) – *Logisch und kapitelgenau gesplittet für KI-Verarbeitung & GitHub-Limits (3.062 Seiten)*:**
-  - `GFF_AfD-Gutachten_Teil_01_Inhaltsueberblick_Zusammenfassung.pdf` *(Cover, Inhaltsüberblick & Zusammenfassung, S. 1–124)*
-  - `GFF_AfD-Gutachten_Teil_02_Einfuehrung.pdf` *(Einführung, S. 125–196)*
-  - `GFF_AfD-Gutachten_Teil_03_Teil_1_Entwicklung_Machtzentren_Vorfeld.pdf` *(Teil 1: Entwicklung, Machtzentren, Vorfeld, S. 197–409)*
-  - `GFF_AfD-Gutachten_Teil_04_Teil_2_Rechtliche_Maassstaebe.pdf` *(Teil 2: Rechtliche Maßstäbe, S. 410–521)*
-  - `GFF_AfD-Gutachten_Teil_05_Teil_3_A_Menschenwuerde.pdf` *(Teil 3-A: Verfassungswidrigkeit - Menschenwürde, S. 522–1318)*
-  - `GFF_AfD-Gutachten_Teil_06_Teil_3_B_G_Demokratie_Rechtsstaat_Ergebnis.pdf` *(Teil 3-B-G: Demokratie, Rechtsstaat, Gesamtergebnis, S. 1319–1576)*
-  - `GFF_AfD-Gutachten_Teil_07_Schluss_Literaturverzeichnis.pdf` *(Schluss, Danksagung & Literaturverzeichnis, S. 1577–1677)*
-  - `GFF_AfD-Gutachten_Teil_08_Anhang_A_Methodik.pdf` *(Anhang A: Methodik, S. 1678–1724)*
-  - `GFF_AfD-Gutachten_Teil_09_Anhang_B_Belege_Menschenwuerde.pdf` *(Anhang B: Belege Menschenwürde, S. 1725–2810)*
-  - `GFF_AfD-Gutachten_Teil_10_Anhang_C_E_Weitere_Belege.pdf` *(Anhang C-E: Belege Demokratie, Rechtsstaat, NS-Wesensverwandtschaft, S. 2811–3062)*
-- `AfD-Verbot_ Alle Anträge, Abstimmungen und Gutachten.pdf`
-- `ChatGPT - Analyse-Beispiel.pdf`
-- `ChatGPT - Analyse-Beispiel-2.pdf`
-- `ChatGPT - Analyse-Beispiel-3.pdf`
-- `ChatGPT - Analyse-Beispiel-4.pdf`
-- `ChatGPT - BRANDBRIEF.pdf`
-- `ChatGPT - Begründung für ein entschiedenes Handeln.pdf`
-- `ChatGPT - Warum die Alternative für Deutschland.pdf`
-- `Gründe für ein Afd-Verbots-Verfahren - KI generiert - PDF.pdf`
-- `Gründe.txt`
-- `Im Folgenden werden die zuvor genannten 15 Gründe für ein Parteiverbot der AfD jeweils ausführlich begründet.pdf`
-- `Ludwigshafen_ AfD-Politiker darf nicht bei OB-Wahl antreten, das sind die Gründe _ taz.de.pdf`
-- `Mögliches AfD-Verbot_ Gutachten liefert neue Argumente.pdf`
-- `Warum die AfD eine Gefahr für die Demokratie ist.pdf`
-- `Warum die Alternative für Deutschland verboten gehört.pdf`
-- `Warum die Normalisierung der AfD eine Gefahr für die Demokratie darstellt.pdf`
-- `untersuchung-bfv-gutachten-und-afd-parteiverbot.pdf`
-- `warum die afd verboten gehört.pdf`
-- `zusammenfassung_vfs_gutachten_afd.txt`
+  - [`GFF_AfD-Gutachten_Teil_01_Inhaltsueberblick_Zusammenfassung.pdf`](./dokumente/splits/GFF_AfD-Gutachten_Teil_01_Inhaltsueberblick_Zusammenfassung.pdf) *(Cover, Inhaltsüberblick & Zusammenfassung, S. 1–124)*
+  - [`GFF_AfD-Gutachten_Teil_02_Einfuehrung.pdf`](./dokumente/splits/GFF_AfD-Gutachten_Teil_02_Einfuehrung.pdf) *(Einführung, S. 125–196)*
+  - [`GFF_AfD-Gutachten_Teil_03_Teil_1_Entwicklung_Machtzentren_Vorfeld.pdf`](./dokumente/splits/GFF_AfD-Gutachten_Teil_03_Teil_1_Entwicklung_Machtzentren_Vorfeld.pdf) *(Teil 1: Entwicklung, Machtzentren, Vorfeld, S. 197–409)*
+  - [`GFF_AfD-Gutachten_Teil_04_Teil_2_Rechtliche_Maassstaebe.pdf`](./dokumente/splits/GFF_AfD-Gutachten_Teil_04_Teil_2_Rechtliche_Maassstaebe.pdf) *(Teil 2: Rechtliche Maßstäbe, S. 410–521)*
+  - [`GFF_AfD-Gutachten_Teil_05_Teil_3_A_Menschenwuerde.pdf`](./dokumente/splits/GFF_AfD-Gutachten_Teil_05_Teil_3_A_Menschenwuerde.pdf) *(Teil 3-A: Verfassungswidrigkeit - Menschenwürde, S. 522–1318)*
+  - [`GFF_AfD-Gutachten_Teil_06_Teil_3_B_G_Demokratie_Rechtsstaat_Ergebnis.pdf`](./dokumente/splits/GFF_AfD-Gutachten_Teil_06_Teil_3_B_G_Demokratie_Rechtsstaat_Ergebnis.pdf) *(Teil 3-B-G: Demokratie, Rechtsstaat, Gesamtergebnis, S. 1319–1576)*
+  - [`GFF_AfD-Gutachten_Teil_07_Schluss_Literaturverzeichnis.pdf`](./dokumente/splits/GFF_AfD-Gutachten_Teil_07_Schluss_Literaturverzeichnis.pdf) *(Schluss, Danksagung & Literaturverzeichnis, S. 1577–1677)*
+  - [`GFF_AfD-Gutachten_Teil_08_Anhang_A_Methodik.pdf`](./dokumente/splits/GFF_AfD-Gutachten_Teil_08_Anhang_A_Methodik.pdf) *(Anhang A: Methodik, S. 1678–1724)*
+  - [`GFF_AfD-Gutachten_Teil_09_Anhang_B_Belege_Menschenwuerde.pdf`](./dokumente/splits/GFF_AfD-Gutachten_Teil_09_Anhang_B_Belege_Menschenwuerde.pdf) *(Anhang B: Belege Menschenwürde, S. 1725–2810)*
+  - [`GFF_AfD-Gutachten_Teil_10_Anhang_C_E_Weitere_Belege.pdf`](./dokumente/splits/GFF_AfD-Gutachten_Teil_10_Anhang_C_E_Weitere_Belege.pdf) *(Anhang C-E: Belege Demokratie, Rechtsstaat, NS-Wesensverwandtschaft, S. 2811–3062)*
+- [`AfD-Verbot__Alle_Anträge,_Abstimmungen_und_Gutachten.pdf`](./dokumente/hauptquellen/AfD-Verbot__Alle_Antr%C3%A4ge%2C_Abstimmungen_und_Gutachten.pdf)
+- [`ChatGPT_-_Analyse-Beispiel.pdf`](./dokumente/hauptquellen/ChatGPT_-_Analyse-Beispiel.pdf)
+- [`ChatGPT_-_Analyse-Beispiel-2.pdf`](./dokumente/hauptquellen/ChatGPT_-_Analyse-Beispiel-2.pdf)
+- [`ChatGPT_-_Analyse-Beispiel-3.pdf`](./dokumente/hauptquellen/ChatGPT_-_Analyse-Beispiel-3.pdf)
+- [`ChatGPT_-_Analyse-Beispiel-4.pdf`](./dokumente/hauptquellen/ChatGPT_-_Analyse-Beispiel-4.pdf)
+- [`ChatGPT_-_BRANDBRIEF.pdf`](./dokumente/hauptquellen/ChatGPT_-_BRANDBRIEF.pdf)
+- [`ChatGPT_-_Begründung_für_ein_entschiedenes_Handeln.pdf`](./dokumente/hauptquellen/ChatGPT_-_Begr%C3%BCndung_f%C3%BCr_ein_entschiedenes_Handeln.pdf)
+- [`ChatGPT_-_Warum_die_Alternative_für_Deutschland.pdf`](./dokumente/hauptquellen/ChatGPT_-_Warum_die_Alternative_f%C3%BCr_Deutschland.pdf)
+- [`Gründe_für_ein_Afd-Verbots-Verfahren_-_KI_generiert_-_PDF.pdf`](./dokumente/hauptquellen/Gr%C3%BCnde_f%C3%BCr_ein_Afd-Verbots-Verfahren_-_KI_generiert_-_PDF.pdf)
+- [`Gründe.txt`](./geheimgutachten/Gr%C3%BCnde.txt)
+- [`Im_Folgenden_werden_die_zuvor_genannten_15_Gründe_für_ein_Parteiverbot_der_AfD_jeweils_ausführlich_begründet.pdf`](./dokumente/hauptquellen/Im_Folgenden_werden_die_zuvor_genannten_15_Gr%C3%BCnde_f%C3%BCr_ein_Parteiverbot_der_AfD_jeweils_ausf%C3%BChrlich_begr%C3%BCndet.pdf)
+- [`Ludwigshafen__AfD-Politiker_darf_nicht_bei_OB-Wahl_antreten,_das_sind_die_Gründe___taz.de.pdf`](./dokumente/hauptquellen/Ludwigshafen__AfD-Politiker_darf_nicht_bei_OB-Wahl_antreten%2C_das_sind_die_Gr%C3%BCnde___taz.de.pdf)
+- [`Mögliches_AfD-Verbot__Gutachten_liefert_neue_Argumente.pdf`](./dokumente/hauptquellen/M%C3%B6gliches_AfD-Verbot__Gutachten_liefert_neue_Argumente.pdf)
+- [`Warum_die_AfD_eine_Gefahr_für_die_Demokratie_ist.pdf`](./dokumente/hauptquellen/Warum_die_AfD_eine_Gefahr_f%C3%BCr_die_Demokratie_ist.pdf)
+- [`Warum_die_Alternative_für_Deutschland_verboten_gehört.pdf`](./dokumente/hauptquellen/Warum_die_Alternative_f%C3%BCr_Deutschland_verboten_geh%C3%B6rt.pdf)
+- [`Warum_die_Normalisierung_der_AfD_eine_Gefahr_für_die_Demokratie_darstellt.pdf`](./dokumente/hauptquellen/Warum_die_Normalisierung_der_AfD_eine_Gefahr_f%C3%BCr_die_Demokratie_darstellt.pdf)
+- [`untersuchung-bfv-gutachten-und-afd-parteiverbot.pdf`](./dokumente/hauptquellen/untersuchung-bfv-gutachten-und-afd-parteiverbot.pdf)
+- [`warum_die_afd_verboten_gehört.pdf`](./dokumente/hauptquellen/warum_die_afd_verboten_geh%C3%B6rt.pdf)
+- [`zusammenfassung_vfs_gutachten_afd.txt`](./geheimgutachten/zusammenfassung_vfs_gutachten_afd.txt)
 - `02_www.institut-fuer-menschenrechte.de_fileadmin_Redaktion_Pub...Analyse_Warum_die_AfD_verboten_werden_koennte.pdf.pdf`
 - `08_www.institut-fuer-menschenrechte.de_fileadmin_Redaktion_Pub...Analyse_Warum_die_AfD_verboten_werden_koennte.pdf.pdf`
 
 ---
 
 ### C) Amtliche Quellen (BfV/BMI/BKA/BT/BR/BVerfG) (21)
-- `01_dserver.bundestag.de_btd_20_010_2001020.pdf.pdf`
-- `02_dserver.bundestag.de_btd_20_133_2013317.pdf.pdf`
-- `03_dserver.bundestag.de_btp_20_20203.pdf.pdf`
-- `07_dserver_bundestag_de_btd_20_010_2001020.pdf`
-- `08_dserver_bundestag_de_btd_20_133_2013317.pdf`
-- `09_dserver_bundestag_de_btp_20_20203.pdf`
+- [`BT_Drucksache_20_010_Sicherheitspaket.pdf`](./dokumente/hauptquellen/BT_Drucksache_20_010_Sicherheitspaket.pdf)
+- [`BT_Plenarprotokoll_20_133_Hetze_Debatte.pdf`](./dokumente/hauptquellen/BT_Plenarprotokoll_20_133_Hetze_Debatte.pdf)
+- [`BT_Plenarprotokoll_20_203_Verfassungsschutz_Anhoerung.pdf`](./dokumente/hauptquellen/BT_Plenarprotokoll_20_203_Verfassungsschutz_Anhoerung.pdf)
+- [`BT_Drucksache_20_010_Protokoll_Anhoerung.pdf`](./dokumente/hauptquellen/BT_Drucksache_20_010_Protokoll_Anhoerung.pdf)
+- [`BT_Plenarprotokoll_20_133_Hetze_Debatte_Original.pdf`](./dokumente/hauptquellen/BT_Plenarprotokoll_20_133_Hetze_Debatte_Original.pdf)
+- [`BT_Plenarprotokoll_20_203_Verfassungsschutz_Anhoerung_Original.pdf`](./dokumente/hauptquellen/BT_Plenarprotokoll_20_203_Verfassungsschutz_Anhoerung_Original.pdf)
 - `01_www_verfassungsschutz_de_...verfassungsschutzbericht-2023.pdf`
 - `02_www_verfassungsschutz_de_...verfassungsschutzbericht-2023.html.pdf`
 - `03_www_verfassungsschutz_de_...verfassungsschutzbericht-2024.pdf`
 - `04_www_verfassungsschutz_de_...verfassungsschutzbericht-2024.html.pdf`
 - `05_www_bmi_bund_de_...vsb2023-BMI24018.pdf`
 - `06_www_bmi_bund_de_...BMI25029-vsb2024.pdf`
-- `18_verfassungsschutzberichte.de_.pdf`
-- `AfD-Spende_ Bundestag sieht Tatverdacht bestätigt.pdf`
-- `Bundestag_ Missbraucht die AfD die Kleinen Anfragen_ Eine Datenanalyse - SZ.de.pdf`
-- `Bundestagsverwaltung_ Wahlplakat-Spende an AfD war unzulässig.pdf`
-- `03_www.deutschlandfunk.de_afd-einstufung-verfassungsschutz-rechtsextrem-100.html.pdf`
-- `04_www.zdfheute.de_politik_deutschland_afd-verfassungsschutz-gutachten-rechtsextremistisch-100.html.pdf`
-- `09_www.deutschlandfunk.de_afd-einstufung-verfassungsschutz-rechtsextrem-100.html.pdf`
-- `10_www.zdfheute.de_politik_deutschland_afd-verfassungsschutz-gutachten-rechtsextremistisch-100.html.pdf`
+- [`Archiv_Verfassungsschutzberichte.pdf`](./dokumente/hauptquellen/Archiv_Verfassungsschutzberichte.pdf)
+- [`AfD-Spende__Bundestag_sieht_Tatverdacht_bestätigt.pdf`](./dokumente/hauptquellen/AfD-Spende__Bundestag_sieht_Tatverdacht_best%C3%A4tigt.pdf)
+- [`Bundestag__Missbraucht_die_AfD_die_Kleinen_Anfragen__Eine_Datenanalyse_-_SZ.de.pdf`](./dokumente/hauptquellen/Bundestag__Missbraucht_die_AfD_die_Kleinen_Anfragen__Eine_Datenanalyse_-_SZ.de.pdf)
+- [`Bundestagsverwaltung__Wahlplakat-Spende_an_AfD_war_unzulässig.pdf`](./dokumente/hauptquellen/Bundestagsverwaltung__Wahlplakat-Spende_an_AfD_war_unzul%C3%A4ssig.pdf)
+- [`Deutschlandfunk_Streit_um_AfD_Einstufung.pdf`](./dokumente/hauptquellen/Deutschlandfunk_Streit_um_AfD_Einstufung.pdf)
+- [`ZDFheute_Bericht_VS_Gutachten_AfD.pdf`](./dokumente/hauptquellen/ZDFheute_Bericht_VS_Gutachten_AfD.pdf)
+- [`Deutschlandfunk_Streit_um_AfD_Einstufung_Original.pdf`](./dokumente/hauptquellen/Deutschlandfunk_Streit_um_AfD_Einstufung_Original.pdf)
+- [`ZDFheute_Bericht_VS_Gutachten_AfD_Original.pdf`](./dokumente/hauptquellen/ZDFheute_Bericht_VS_Gutachten_AfD_Original.pdf)
 - `22_www.tagesschau.de_inland_innenpolitik_afd-rechtsextrem-verfassungsschutz-100.html.pdf`
 - BfV-Verfassungsschutzbericht 2024 (PDF-Splits):
-- `part1_1-52.pdf`
-- `part2_53-104.pdf`
-- `part3_105-156.pdf`
-- `part4_157-208.pdf`
-- `part5_209-260.pdf`
-- `part6_261-312.pdf`
-- `part7_313-364.pdf`
-- `part8_365-412.pdf`
+- [`part1_1-52.pdf`](./dokumente/splits/part1_1-52.pdf)
+- [`part2_53-104.pdf`](./dokumente/splits/part2_53-104.pdf)
+- [`part3_105-156.pdf`](./dokumente/splits/part3_105-156.pdf)
+- [`part4_157-208.pdf`](./dokumente/splits/part4_157-208.pdf)
+- [`part5_209-260.pdf`](./dokumente/splits/part5_209-260.pdf)
+- [`part6_261-312.pdf`](./dokumente/splits/part6_261-312.pdf)
+- [`part7_313-364.pdf`](./dokumente/splits/part7_313-364.pdf)
+- [`part8_365-412.pdf`](./dokumente/splits/part8_365-412.pdf)
 - LfV Hessen Jahresbericht 2024 (PDF-Splits):
-- `lfv_jahresbericht_2024_part1_1-25.pdf`
-- `lfv_jahresbericht_2024_part2_26-50.pdf`
-- `lfv_jahresbericht_2024_part3_51-75.pdf`
-- `lfv_jahresbericht_2024_part4_76-100.pdf`
-- `lfv_jahresbericht_2024_part5_101-125.pdf`
-- `lfv_jahresbericht_2024_part6_126-150.pdf`
-- `lfv_jahresbericht_2024_part7_151-175.pdf`
-- `lfv_jahresbericht_2024_part8_176-199.pdf`
-- `nsu-akten-gratis.pdf`
+- [`lfv_jahresbericht_2024_part1_1-25.pdf`](./dokumente/splits/lfv_jahresbericht_2024_part1_1-25.pdf)
+- [`lfv_jahresbericht_2024_part2_26-50.pdf`](./dokumente/splits/lfv_jahresbericht_2024_part2_26-50.pdf)
+- [`lfv_jahresbericht_2024_part3_51-75.pdf`](./dokumente/splits/lfv_jahresbericht_2024_part3_51-75.pdf)
+- [`lfv_jahresbericht_2024_part4_76-100.pdf`](./dokumente/splits/lfv_jahresbericht_2024_part4_76-100.pdf)
+- [`lfv_jahresbericht_2024_part5_101-125.pdf`](./dokumente/splits/lfv_jahresbericht_2024_part5_101-125.pdf)
+- [`lfv_jahresbericht_2024_part6_126-150.pdf`](./dokumente/splits/lfv_jahresbericht_2024_part6_126-150.pdf)
+- [`lfv_jahresbericht_2024_part7_151-175.pdf`](./dokumente/splits/lfv_jahresbericht_2024_part7_151-175.pdf)
+- [`lfv_jahresbericht_2024_part8_176-199.pdf`](./dokumente/splits/lfv_jahresbericht_2024_part8_176-199.pdf)
+- [`nsu-akten-gratis.pdf`](./dokumente/hauptquellen/nsu-akten-gratis.pdf)
 
 > Hinweis: Einige Pressestücke sind hier eingeordnet, weil sie amtliche Einstufungen/Verfahrensstände dokumentieren. In der README kann man sie als **Sekundärbelege zu amtlichen Vorgängen** kennzeichnen.
 
@@ -289,33 +279,33 @@ Ich habe mal das Leak für eine KI aufbereitet. Der Verfassungsschutzbericht ist
 
 ---
 ### D) Geheimgutachten (OCR/Textfragmente) (24)
-- `Geheimgutachten_Teil A_pages_1_to_100.txt`
-- `Geheimgutachten_Teil A_pages_101_to_200.txt`
-- `Geheimgutachten_Teil A_pages_201_to_300.txt`
-- `Geheimgutachten_Teil A_pages_301_to_400.txt`
-- `Geheimgutachten_Teil A_pages_401_to_500.txt`
-- `Geheimgutachten_Teil A_pages_501_to_508.txt`
-- `Geheimgutachten_Teil B_pages_1_to_100.txt`
-- `Geheimgutachten_Teil B_pages_101_to_200.txt`
-- `Geheimgutachten_Teil B_pages_201_to_300.txt`
-- `Geheimgutachten_Teil B_pages_301_to_400.txt`
-- `Geheimgutachten_Teil B_pages_401_to_500.txt`
-- `Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_1_to_10.txt`
-- `Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_11_to_20.txt`
-- `Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_21_to_30.txt`
-- `Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_31_to_40.txt`
-- `Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_41_to_50.txt`
-- `Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_51_to_60.txt`
-- `Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_61_to_70.txt`
-- `Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_71_to_80.txt`
-- `Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_81_to_90.txt`
-- `Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_91_to_100.txt`
-- `Geheimgutachten_Teil B_pages_601_to_609_repaired_pages_1_to_9.txt`
+- [`Geheimgutachten_Teil A_pages_1_to_100.txt`](./geheimgutachten/Geheimgutachten_Teil%20A_pages_1_to_100.txt)
+- [`Geheimgutachten_Teil A_pages_101_to_200.txt`](./geheimgutachten/Geheimgutachten_Teil%20A_pages_101_to_200.txt)
+- [`Geheimgutachten_Teil A_pages_201_to_300.txt`](./geheimgutachten/Geheimgutachten_Teil%20A_pages_201_to_300.txt)
+- [`Geheimgutachten_Teil A_pages_301_to_400.txt`](./geheimgutachten/Geheimgutachten_Teil%20A_pages_301_to_400.txt)
+- [`Geheimgutachten_Teil A_pages_401_to_500.txt`](./geheimgutachten/Geheimgutachten_Teil%20A_pages_401_to_500.txt)
+- [`Geheimgutachten_Teil A_pages_501_to_508.txt`](./geheimgutachten/Geheimgutachten_Teil%20A_pages_501_to_508.txt)
+- [`Geheimgutachten_Teil B_pages_1_to_100.txt`](./geheimgutachten/Geheimgutachten_Teil%20B_pages_1_to_100.txt)
+- [`Geheimgutachten_Teil B_pages_101_to_200.txt`](./geheimgutachten/Geheimgutachten_Teil%20B_pages_101_to_200.txt)
+- [`Geheimgutachten_Teil B_pages_201_to_300.txt`](./geheimgutachten/Geheimgutachten_Teil%20B_pages_201_to_300.txt)
+- [`Geheimgutachten_Teil B_pages_301_to_400.txt`](./geheimgutachten/Geheimgutachten_Teil%20B_pages_301_to_400.txt)
+- [`Geheimgutachten_Teil B_pages_401_to_500.txt`](./geheimgutachten/Geheimgutachten_Teil%20B_pages_401_to_500.txt)
+- [`Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_1_to_10.txt`](./geheimgutachten/Geheimgutachten_Teil%20B_pages_501_to_600_repaired_pages_1_to_10.txt)
+- [`Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_11_to_20.txt`](./geheimgutachten/Geheimgutachten_Teil%20B_pages_501_to_600_repaired_pages_11_to_20.txt)
+- [`Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_21_to_30.txt`](./geheimgutachten/Geheimgutachten_Teil%20B_pages_501_to_600_repaired_pages_21_to_30.txt)
+- [`Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_31_to_40.txt`](./geheimgutachten/Geheimgutachten_Teil%20B_pages_501_to_600_repaired_pages_31_to_40.txt)
+- [`Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_41_to_50.txt`](./geheimgutachten/Geheimgutachten_Teil%20B_pages_501_to_600_repaired_pages_41_to_50.txt)
+- [`Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_51_to_60.txt`](./geheimgutachten/Geheimgutachten_Teil%20B_pages_501_to_600_repaired_pages_51_to_60.txt)
+- [`Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_61_to_70.txt`](./geheimgutachten/Geheimgutachten_Teil%20B_pages_501_to_600_repaired_pages_61_to_70.txt)
+- [`Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_71_to_80.txt`](./geheimgutachten/Geheimgutachten_Teil%20B_pages_501_to_600_repaired_pages_71_to_80.txt)
+- [`Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_81_to_90.txt`](./geheimgutachten/Geheimgutachten_Teil%20B_pages_501_to_600_repaired_pages_81_to_90.txt)
+- [`Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_91_to_100.txt`](./geheimgutachten/Geheimgutachten_Teil%20B_pages_501_to_600_repaired_pages_91_to_100.txt)
+- [`Geheimgutachten_Teil B_pages_601_to_609_repaired_pages_1_to_9.txt`](./geheimgutachten/Geheimgutachten_Teil%20B_pages_601_to_609_repaired_pages_1_to_9.txt)
 - (sowie 2 DW‑PDF‑Clippings zum Einstufungsverfahren; als Kontext eingefügt)
 
 ---
 ## Primärquelle ergänzt
-- `AfD_Bundestagswahlprogramm2025_web.pdf`
+- [`AfD_Bundestagswahlprogramm2025_web.pdf`](./dokumente/hauptquellen/AfD_Bundestagswahlprogramm2025_web.pdf)
 --- 
 ### E) Zitate & Belege (afd‑verbot.de / Proof‑Sammlung) (3 614)
 - Ordner: `zitate/`
@@ -329,41 +319,205 @@ Ich habe mal das Leak für eine KI aufbereitet. Der Verfassungsschutzbericht ist
   - `zitate/afd-verbot.de-28.07.2025-proof-03610.md`  
   - `zitate/afd-verbot.de-28.07.2025-proof-03611.md`
 
-> **README‑Hinweis**: In der Datei `afd-verbot.de-scrape-link-liste.txt` liegt die maschinenlesbare Linkliste.  
+> **README‑Hinweis**: In der Datei [`afd-verbot.de-scrape-link-liste.txt`](./skripte/afd-verbot.de-scrape-link-liste.txt) liegt die maschinenlesbare Linkliste.  
 > Die Proof‑Dateien sind vollständig nummeriert (00001–03611) und chronologisch datiert.
 
 ---
 
+
+### G) Weitere Belege & Primärquellen im Archiv (Ausklappbar)
+Dieses Verzeichnis enthält weitere im Archiv erfasste Belege, Zeitungsberichte, juristische Dokumente und Zwischenberichte, die im Volltext direkt im Repository vorliegen:
+
+<details>
+<summary>📁 Weitere Belege im Volltext anzeigen (152 Dateien) - Ausklappen</summary>
+
+| Datei (Direkter Klick-Link) | Inhalt / Beschreibung |
+| :--- | :--- |
+| [`2023PMKFallzahlen.pdf`](./dokumente/hauptquellen/2023PMKFallzahlen.pdf) | 2023PMKFallzahlen |
+| [`2025-06-10-verfassungsschutzbericht-2024-startseitenmodul.pdf`](./dokumente/hauptquellen/2025-06-10-verfassungsschutzbericht-2024-startseitenmodul.pdf) | 2025-06-10-verfassungsschutzbericht-2024-startseitenmodul |
+| [`25-03-27_Erster-Bericht-Zu-Rechtsextremen-Aktivitaeten-In-Neukoelln.pdf`](./dokumente/hauptquellen/25-03-27_Erster-Bericht-Zu-Rechtsextremen-Aktivitaeten-In-Neukoelln.pdf) | 25-03-27 Erster-Bericht-Zu-Rechtsextremen-Aktivitaeten-In-Neukoelln |
+| [`AfD-Anhänger_zeigt_Hitlergruß_bei_Demo_in_Unna__Die_Polizei_ermittelt_sofort.pdf`](./dokumente/hauptquellen/AfD-Anh%C3%A4nger_zeigt_Hitlergru%C3%9F_bei_Demo_in_Unna__Die_Polizei_ermittelt_sofort.pdf) | AfD-Anhänger zeigt Hitlergruß bei Demo in Unna Die Polizei ermittelt sofort |
+| [`AfD-Austritt_in_Berlin__Neonazismus-Vorwürfe_gegen_Tino_Chrupalla.pdf`](./dokumente/hauptquellen/AfD-Austritt_in_Berlin__Neonazismus-Vorw%C3%BCrfe_gegen_Tino_Chrupalla.pdf) | AfD-Austritt in Berlin Neonazismus-Vorwürfe gegen Tino Chrupalla |
+| [`AfD-Entscheidung_des_Verwaltungsgerichts_Wiesbaden_steht_bevor___FAZ.pdf`](./dokumente/hauptquellen/AfD-Entscheidung_des_Verwaltungsgerichts_Wiesbaden_steht_bevor___FAZ.pdf) | AfD-Entscheidung des Verwaltungsgerichts Wiesbaden steht bevor FAZ |
+| [`AfD-Fraktion_nur_noch_Gruppierung_im_Stuttgarter_Gemeinderat_-_SWR_Aktuell.pdf`](./dokumente/hauptquellen/AfD-Fraktion_nur_noch_Gruppierung_im_Stuttgarter_Gemeinderat_-_SWR_Aktuell.pdf) | AfD-Fraktion nur noch Gruppierung im Stuttgarter Gemeinderat - SWR Aktuell |
+| [`AfD-Funktionär-Kampagnen-Organisator_und_Online-Mobber_-_Volksverpetzer.pdf`](./dokumente/hauptquellen/AfD-Funktion%C3%A4r-Kampagnen-Organisator_und_Online-Mobber_-_Volksverpetzer.pdf) | AfD-Funktionär-Kampagnen-Organisator und Online-Mobber - Volksverpetzer |
+| [`AfD-Landeschef_Martin_Reichardt_musste_Fake-KI-Bild_löschen___taz.de.pdf`](./dokumente/hauptquellen/AfD-Landeschef_Martin_Reichardt_musste_Fake-KI-Bild_l%C3%B6schen___taz.de.pdf) | AfD-Landeschef Martin Reichardt musste Fake-KI-Bild löschen taz.de |
+| [`AfD-Mitarbeiter_im_Bundestag__Der_Securitymann_mit_dem_Sicherheitsrisiko___DIE_ZEIT.pdf`](./dokumente/hauptquellen/AfD-Mitarbeiter_im_Bundestag__Der_Securitymann_mit_dem_Sicherheitsrisiko___DIE_ZEIT.pdf) | AfD-Mitarbeiter im Bundestag Der Securitymann mit dem Sicherheitsrisiko DIE ZEIT |
+| [`AfD-Politiker_Halemba_muss_vor_Gericht___BR24.pdf`](./dokumente/hauptquellen/AfD-Politiker_Halemba_muss_vor_Gericht___BR24.pdf) | AfD-Politiker Halemba muss vor Gericht BR24 |
+| [`AfD-Politiker_beleidigt_15-Jährige_auf_Facebook.pdf`](./dokumente/hauptquellen/AfD-Politiker_beleidigt_15-J%C3%A4hrige_auf_Facebook.pdf) | AfD-Politiker beleidigt 15-Jährige auf Facebook |
+| [`AfD-Spitze_unter_Druck__Unterstützer_fordern_keine_Mäßigung_–_sondern_radikalen_Kurs.pdf`](./dokumente/hauptquellen/AfD-Spitze_unter_Druck__Unterst%C3%BCtzer_fordern_keine_M%C3%A4%C3%9Figung_%E2%80%93_sondern_radikalen_Kurs.pdf) | AfD-Spitze unter Druck Unterstützer fordern keine Mäßigung – sondern radikalen Kurs |
+| [`AfD-Verbot_hätte_laut_neuem_Gutachten_„wahrscheinlich_Erfolg“.pdf`](./dokumente/hauptquellen/AfD-Verbot_h%C3%A4tte_laut_neuem_Gutachten_%E2%80%9Ewahrscheinlich_Erfolg%E2%80%9C.pdf) | AfD-Verbot hätte laut neuem Gutachten „wahrscheinlich Erfolg“ |
+| [`AfD_-_Vox_mingle_with_ex-US_Border_Patrol_chief_white_nationalist_leader_at_remigration_summit_–_POLITICO.pdf`](./dokumente/hauptquellen/AfD_-_Vox_mingle_with_ex-US_Border_Patrol_chief_white_nationalist_leader_at_remigration_summit_%E2%80%93_POLITICO.pdf) | AfD - Vox mingle with ex-US Border Patrol chief white nationalist leader at remigration summit – POLITICO |
+| [`AfD__Gold_aus_Erbschaft_wohl_nach_Liechtenstein_gebracht_–_Fragen_bleiben_offen_-_DER_SPIEGEL.pdf`](./dokumente/hauptquellen/AfD__Gold_aus_Erbschaft_wohl_nach_Liechtenstein_gebracht_%E2%80%93_Fragen_bleiben_offen_-_DER_SPIEGEL.pdf) | AfD Gold aus Erbschaft wohl nach Liechtenstein gebracht – Fragen bleiben offen - DER SPIEGEL |
+| [`AfD__Schwurblerin_und_Identitärer_kriegen_keinen_Hausausweis.pdf`](./dokumente/hauptquellen/AfD__Schwurblerin_und_Identit%C3%A4rer_kriegen_keinen_Hausausweis.pdf) | AfD Schwurblerin und Identitärer kriegen keinen Hausausweis |
+| [`AfD__Verdacht_auf_Informationsweitergabe_an_Russland_-_DER_SPIEGEL.pdf`](./dokumente/hauptquellen/AfD__Verdacht_auf_Informationsweitergabe_an_Russland_-_DER_SPIEGEL.pdf) | AfD Verdacht auf Informationsweitergabe an Russland - DER SPIEGEL |
+| [`AfD__Wie_Demokraten_mit_Verfassungsfeinden_umgehen_können.pdf`](./dokumente/hauptquellen/AfD__Wie_Demokraten_mit_Verfassungsfeinden_umgehen_k%C3%B6nnen.pdf) | AfD Wie Demokraten mit Verfassungsfeinden umgehen können |
+| [`AfD__Überwachungsbehörde_nimmt_Europapartei_ins_Visier.pdf`](./dokumente/hauptquellen/AfD__%C3%9Cberwachungsbeh%C3%B6rde_nimmt_Europapartei_ins_Visier.pdf) | AfD Überwachungsbehörde nimmt Europapartei ins Visier |
+| [`AfD_muss_Geschäftsstelle_in_Berlin_räumen.pdf`](./dokumente/hauptquellen/AfD_muss_Gesch%C3%A4ftsstelle_in_Berlin_r%C3%A4umen.pdf) | AfD muss Geschäftsstelle in Berlin räumen |
+| [`AfD_und_CDU_streichen_Fördergelder__„Demokratie_Leben“_stirbt_im_Ilm-Kreis___taz.de.pdf`](./dokumente/hauptquellen/AfD_und_CDU_streichen_F%C3%B6rdergelder__%E2%80%9EDemokratie_Leben%E2%80%9C_stirbt_im_Ilm-Kreis___taz.de.pdf) | AfD und CDU streichen Fördergelder „Demokratie Leben“ stirbt im Ilm-Kreis taz.de |
+| [`AfD_und_Identitäre_Bewegung__An_einem_Strang_-_Ausgabe_756.pdf`](./dokumente/hauptquellen/AfD_und_Identit%C3%A4re_Bewegung__An_einem_Strang_-_Ausgabe_756.pdf) | AfD und Identitäre Bewegung An einem Strang - Ausgabe 756 |
+| [`AfD‑Jugend.pdf`](./dokumente/hauptquellen/AfD%E2%80%91Jugend.pdf) | AfD‑Jugend |
+| [`Alice_Weidel__Hass_gegen_Syrer_unter_Instagram-Post_hat_Folgen_-_SWR_Aktuell.pdf`](./dokumente/hauptquellen/Alice_Weidel__Hass_gegen_Syrer_unter_Instagram-Post_hat_Folgen_-_SWR_Aktuell.pdf) | Alice Weidel Hass gegen Syrer unter Instagram-Post hat Folgen - SWR Aktuell |
+| [`Analyse_Die_AfD_eine_Gefahr_fuer_Menschen_mit_Behinderungen.pdf`](./dokumente/hauptquellen/Analyse_Die_AfD_eine_Gefahr_fuer_Menschen_mit_Behinderungen.pdf) | Analyse Die AfD eine Gefahr fuer Menschen mit Behinderungen |
+| [`Analyse_in_den_Bundesländern__Mehr_rechte_Gewalt_als_bekannt___taz.de.pdf`](./dokumente/hauptquellen/Analyse_in_den_Bundesl%C3%A4ndern__Mehr_rechte_Gewalt_als_bekannt___taz.de.pdf) | Analyse in den Bundesländern Mehr rechte Gewalt als bekannt taz.de |
+| [`Attacken_auf_Parteibüros_in_Flensburg__Tatverdächiger_in_U-Haft.pdf`](./dokumente/hauptquellen/Attacken_auf_Parteib%C3%BCros_in_Flensburg__Tatverd%C3%A4chiger_in_U-Haft.pdf) | Attacken auf Parteibüros in Flensburg Tatverdächiger in U-Haft |
+| [`Beatrix_von_Storch__So_will_die_AfD_mit_Kulturkampf_Wahlen_gewinnen.pdf`](./dokumente/hauptquellen/Beatrix_von_Storch__So_will_die_AfD_mit_Kulturkampf_Wahlen_gewinnen.pdf) | Beatrix von Storch So will die AfD mit Kulturkampf Wahlen gewinnen |
+| [`Behindertenfeindlichkeit_der_AfD.pdf`](./dokumente/hauptquellen/Behindertenfeindlichkeit_der_AfD.pdf) | Behindertenfeindlichkeit der AfD |
+| [`BelltowerNews_Rassistische_Silvester_Narrative.pdf`](./dokumente/hauptquellen/BelltowerNews_Rassistische_Silvester_Narrative.pdf) | BelltowerNews Rassistische Silvester Narrative |
+| [`BelltowerNews_Rassistische_Silvester_Narrative_Original.pdf`](./dokumente/hauptquellen/BelltowerNews_Rassistische_Silvester_Narrative_Original.pdf) | BelltowerNews Rassistische Silvester Narrative Original |
+| [`Berlin__Betrunkener_Polizeischüler_soll_Mann_geschlagen_haben_-_DER_SPIEGEL.pdf`](./dokumente/hauptquellen/Berlin__Betrunkener_Polizeisch%C3%BCler_soll_Mann_geschlagen_haben_-_DER_SPIEGEL.pdf) | Berlin Betrunkener Polizeischüler soll Mann geschlagen haben - DER SPIEGEL |
+| [`Berliner_Aufruf__AfD-Verbotsverfahren_im_Bundesrat_einleiten_–_JETZT!___WeAct.pdf`](./dokumente/hauptquellen/Berliner_Aufruf__AfD-Verbotsverfahren_im_Bundesrat_einleiten_%E2%80%93_JETZT%21___WeAct.pdf) | Berliner Aufruf AfD-Verbotsverfahren im Bundesrat einleiten – JETZT! WeAct |
+| [`Brandenburg_-_AfD_zieht_Eilantrag_gegen_Einstufung_als_gesichert_rechtsextrem_zurück.pdf`](./dokumente/hauptquellen/Brandenburg_-_AfD_zieht_Eilantrag_gegen_Einstufung_als_gesichert_rechtsextrem_zur%C3%BCck.pdf) | Brandenburg - AfD zieht Eilantrag gegen Einstufung als gesichert rechtsextrem zurück |
+| [`Bundestag_hebt_Immunität_von_AfD-Politiker_Krah_auf___tagesschau.de.pdf`](./dokumente/hauptquellen/Bundestag_hebt_Immunit%C3%A4t_von_AfD-Politiker_Krah_auf___tagesschau.de.pdf) | Bundestag hebt Immunität von AfD-Politiker Krah auf tagesschau.de |
+| [`Bundesverwaltungsgericht__AfD-Einstufung_als__Verdachtsfall__rechtskräftig___tagesschau.de.pdf`](./dokumente/hauptquellen/Bundesverwaltungsgericht__AfD-Einstufung_als__Verdachtsfall__rechtskr%C3%A4ftig___tagesschau.de.pdf) | Bundesverwaltungsgericht AfD-Einstufung als Verdachtsfall rechtskräftig tagesschau.de |
+| [`Buttersäure_in_Döbeln__Trautmann_hatte_Hilfe_von_AfD-Mann.pdf`](./dokumente/hauptquellen/Butters%C3%A4ure_in_D%C3%B6beln__Trautmann_hatte_Hilfe_von_AfD-Mann.pdf) | Buttersäure in Döbeln Trautmann hatte Hilfe von AfD-Mann |
+| [`CDU-Politikerin_Saskia_Ludwig__Diskutieren_bei_einer_Gruselshow_in_Ungarn___taz.de.pdf`](./dokumente/hauptquellen/CDU-Politikerin_Saskia_Ludwig__Diskutieren_bei_einer_Gruselshow_in_Ungarn___taz.de.pdf) | CDU-Politikerin Saskia Ludwig Diskutieren bei einer Gruselshow in Ungarn taz.de |
+| [`CDU_und_SPD_verschaffen_konservativer_Denkfabrik_R21_staatliche_Fördergelder.pdf`](./dokumente/hauptquellen/CDU_und_SPD_verschaffen_konservativer_Denkfabrik_R21_staatliche_F%C3%B6rdergelder.pdf) | CDU und SPD verschaffen konservativer Denkfabrik R21 staatliche Fördergelder |
+| [`Campact_Petition_AfD_Verbotsverfahren.pdf`](./dokumente/hauptquellen/Campact_Petition_AfD_Verbotsverfahren.pdf) | Campact Petition AfD Verbotsverfahren |
+| [`CeMAS_Active_Clubs_in_Germany_2024.pdf`](./dokumente/hauptquellen/CeMAS_Active_Clubs_in_Germany_2024.pdf) | CeMAS Active Clubs in Germany 2024 |
+| [`CeMAS_Kameradschaft_Fitness_Faschismus_Active_Clubs.pdf`](./dokumente/hauptquellen/CeMAS_Kameradschaft_Fitness_Faschismus_Active_Clubs.pdf) | CeMAS Kameradschaft Fitness Faschismus Active Clubs |
+| [`ChatGPT-Agent-Repo_Analyse_durchführen.pdf`](./dokumente/hauptquellen/ChatGPT-Agent-Repo_Analyse_durchf%C3%BChren.pdf) | ChatGPT-Agent-Repo Analyse durchführen |
+| [`ChatGPT_-_Szenarioanalyse__AfD-Wahlsieg_2025_und_Regierungsübernahme_(2025–2029).pdf`](./dokumente/hauptquellen/ChatGPT_-_Szenarioanalyse__AfD-Wahlsieg_2025_und_Regierungs%C3%BCbernahme_%282025%E2%80%932029%29.pdf) | ChatGPT - Szenarioanalyse AfD-Wahlsieg 2025 und Regierungsübernahme (2025–2029) |
+| [`Christian_Lüth___Wir_können_die_nachher_immer_noch_alle_erschießen____DIE_ZEIT.pdf`](./dokumente/hauptquellen/Christian_L%C3%BCth___Wir_k%C3%B6nnen_die_nachher_immer_noch_alle_erschie%C3%9Fen____DIE_ZEIT.pdf) | Christian Lüth Wir können die nachher immer noch alle erschießen DIE ZEIT |
+| [`Chronik_rechter_und_rassistischer_Gewalt_der_Woche.pdf`](./dokumente/hauptquellen/Chronik_rechter_und_rassistischer_Gewalt_der_Woche.pdf) | Chronik rechter und rassistischer Gewalt der Woche |
+| [`Correctiv-Recherche_zeigt_Straftäter_unter_AfD-Abgeordneten.pdf`](./dokumente/hauptquellen/Correctiv-Recherche_zeigt_Straft%C3%A4ter_unter_AfD-Abgeordneten.pdf) | Correctiv-Recherche zeigt Straftäter unter AfD-Abgeordneten |
+| [`DIMR_Analyse_Warum_die_AfD_verboten_werden_koennte.pdf`](./dokumente/hauptquellen/DIMR_Analyse_Warum_die_AfD_verboten_werden_koennte.pdf) | DIMR Analyse Warum die AfD verboten werden koennte |
+| [`DIMR_Analyse_Warum_die_AfD_verboten_werden_koennte_Original.pdf`](./dokumente/hauptquellen/DIMR_Analyse_Warum_die_AfD_verboten_werden_koennte_Original.pdf) | DIMR Analyse Warum die AfD verboten werden koennte Original |
+| [`DW_Aussetzung_der_AfD_Einstufung.pdf`](./dokumente/hauptquellen/DW_Aussetzung_der_AfD_Einstufung.pdf) | DW Aussetzung der AfD Einstufung |
+| [`DW_Aussetzung_der_AfD_Einstufung_Original.pdf`](./dokumente/hauptquellen/DW_Aussetzung_der_AfD_Einstufung_Original.pdf) | DW Aussetzung der AfD Einstufung Original |
+| [`Dario_Seifert__Dieser_Ex-Neonazi_soll_die_AfD_zum_Erfolg_führen.pdf`](./dokumente/hauptquellen/Dario_Seifert__Dieser_Ex-Neonazi_soll_die_AfD_zum_Erfolg_f%C3%BChren.pdf) | Dario Seifert Dieser Ex-Neonazi soll die AfD zum Erfolg führen |
+| [`Debunked__Die_10_häufigsten_Fakes_über_das_AfD-Verbotsverfahren_-_Volksverpetzer.pdf`](./dokumente/hauptquellen/Debunked__Die_10_h%C3%A4ufigsten_Fakes_%C3%BCber_das_AfD-Verbotsverfahren_-_Volksverpetzer.pdf) | Debunked Die 10 häufigsten Fakes über das AfD-Verbotsverfahren - Volksverpetzer |
+| [`Der_Weg_ins_Kanzleramt__Wie_die_AfD-Strategie_funktioniert___tagesschau.de.pdf`](./dokumente/hauptquellen/Der_Weg_ins_Kanzleramt__Wie_die_AfD-Strategie_funktioniert___tagesschau.de.pdf) | Der Weg ins Kanzleramt Wie die AfD-Strategie funktioniert tagesschau.de |
+| [`Disziplinarverfahren_läuft__Polizist_trotz_Krankmeldung_im_Wahlkampf_für_die_AfD___Politik___BILD.de.pdf`](./dokumente/hauptquellen/Disziplinarverfahren_l%C3%A4uft__Polizist_trotz_Krankmeldung_im_Wahlkampf_f%C3%BCr_die_AfD___Politik___BILD.de.pdf) | Disziplinarverfahren läuft Polizist trotz Krankmeldung im Wahlkampf für die AfD Politik BILD.de |
+| [`Durchsuchung_bei_AfD-Politiker__Polizei_findet_Waffen_und_Sprengstoff.pdf`](./dokumente/hauptquellen/Durchsuchung_bei_AfD-Politiker__Polizei_findet_Waffen_und_Sprengstoff.pdf) | Durchsuchung bei AfD-Politiker Polizei findet Waffen und Sprengstoff |
+| [`Düsseldorf__Ex-AfD-Politiker_Beck_wegen_mutmaßlichem_Diebstahl_vor_Gericht.pdf`](./dokumente/hauptquellen/D%C3%BCsseldorf__Ex-AfD-Politiker_Beck_wegen_mutma%C3%9Flichem_Diebstahl_vor_Gericht.pdf) | Düsseldorf Ex-AfD-Politiker Beck wegen mutmaßlichem Diebstahl vor Gericht |
+| [`EFTA01614968_-_Epstein_mit_Steve_Bannon_im_Gespräch_über_europäischen_Rechten.pdf`](./dokumente/hauptquellen/EFTA01614968_-_Epstein_mit_Steve_Bannon_im_Gespr%C3%A4ch_%C3%BCber_europ%C3%A4ischen_Rechten.pdf) | EFTA01614968 - Epstein mit Steve Bannon im Gespräch über europäischen Rechten |
+| [`Ehemaliger_AfD-Schatzmeister_soll_Geld_veruntreut_haben_-_SWR_Aktuell.pdf`](./dokumente/hauptquellen/Ehemaliger_AfD-Schatzmeister_soll_Geld_veruntreut_haben_-_SWR_Aktuell.pdf) | Ehemaliger AfD-Schatzmeister soll Geld veruntreut haben - SWR Aktuell |
+| [`Eilantrag_abgelehnt__Verfassungsschutz_darf_AfD_Niedersachsen_zum_Beobachtungsobjekt_hochstufen.pdf`](./dokumente/hauptquellen/Eilantrag_abgelehnt__Verfassungsschutz_darf_AfD_Niedersachsen_zum_Beobachtungsobjekt_hochstufen.pdf) | Eilantrag abgelehnt Verfassungsschutz darf AfD Niedersachsen zum Beobachtungsobjekt hochstufen |
+| [`Erneute-Durchsuchungen-Nds-Ministerium.pdf`](./dokumente/hauptquellen/Erneute-Durchsuchungen-Nds-Ministerium.pdf) | Erneute-Durchsuchungen-Nds-Ministerium |
+| [`Eskalation_in_der_NRW-AfD__Einer_der_letzten_Gemäßigten_strauchelt.pdf`](./dokumente/hauptquellen/Eskalation_in_der_NRW-AfD__Einer_der_letzten_Gem%C3%A4%C3%9Figten_strauchelt.pdf) | Eskalation in der NRW-AfD Einer der letzten Gemäßigten strauchelt |
+| [`Extreme_Rechte_–_»Zeckenbiss«__AfD-Politiker_Stefan_Hrdy_verurteilt___nd-aktuell.de.pdf`](./dokumente/hauptquellen/Extreme_Rechte_%E2%80%93_%C2%BBZeckenbiss%C2%AB__AfD-Politiker_Stefan_Hrdy_verurteilt___nd-aktuell.de.pdf) | Extreme Rechte – »Zeckenbiss« AfD-Politiker Stefan Hrdy verurteilt nd-aktuell.de |
+| [`Extremismus__Verdacht_auf_Angriffe_–_Razzia_gegen_junge_Rechtsextremisten___STERN.de.pdf`](./dokumente/hauptquellen/Extremismus__Verdacht_auf_Angriffe_%E2%80%93_Razzia_gegen_junge_Rechtsextremisten___STERN.de.pdf) | Extremismus Verdacht auf Angriffe – Razzia gegen junge Rechtsextremisten STERN.de |
+| [`Extremisten_in_Deutschland_haben_legal_Tausende_Waffen___STERN.de.pdf`](./dokumente/hauptquellen/Extremisten_in_Deutschland_haben_legal_Tausende_Waffen___STERN.de.pdf) | Extremisten in Deutschland haben legal Tausende Waffen STERN.de |
+| [`Foitzik.pdf`](./dokumente/hauptquellen/Foitzik.pdf) | Foitzik |
+| [`Fotografen_der_Identitären_Bewegung__Ins_rechte_Licht_gerückt___taz.de.pdf`](./dokumente/hauptquellen/Fotografen_der_Identit%C3%A4ren_Bewegung__Ins_rechte_Licht_ger%C3%BCckt___taz.de.pdf) | Fotografen der Identitären Bewegung Ins rechte Licht gerückt taz.de |
+| [`Frank_Gotthardt__CDU-Spitze_erwog_Kooperation_mit_Firma_von_Nius-Finanzier___DIE_ZEIT.pdf`](./dokumente/hauptquellen/Frank_Gotthardt__CDU-Spitze_erwog_Kooperation_mit_Firma_von_Nius-Finanzier___DIE_ZEIT.pdf) | Frank Gotthardt CDU-Spitze erwog Kooperation mit Firma von Nius-Finanzier DIE ZEIT |
+| [`Gericht_entscheidet__Hessen-AfD_darf_als_Verdachtsfall_eingestuft_werden___hessenschau.de.pdf`](./dokumente/hauptquellen/Gericht_entscheidet__Hessen-AfD_darf_als_Verdachtsfall_eingestuft_werden___hessenschau.de.pdf) | Gericht entscheidet Hessen-AfD darf als Verdachtsfall eingestuft werden hessenschau.de |
+| [`Gewalt_als_Alternative__14_verurteilte_AfD-Mandatsträger_im_Amt.pdf`](./dokumente/hauptquellen/Gewalt_als_Alternative__14_verurteilte_AfD-Mandatstr%C3%A4ger_im_Amt.pdf) | Gewalt als Alternative 14 verurteilte AfD-Mandatsträger im Amt |
+| [`Hamburg__Nächster_AfD-Abgeordneter_soll_Mandat_verlieren___MOPO.pdf`](./dokumente/hauptquellen/Hamburg__N%C3%A4chster_AfD-Abgeordneter_soll_Mandat_verlieren___MOPO.pdf) | Hamburg Nächster AfD-Abgeordneter soll Mandat verlieren MOPO |
+| [`Hamburger_AfD-Politiker_Risch_offenbar_bei_Neonazi-Treffen_in_Russland___ndr.de.pdf`](./dokumente/hauptquellen/Hamburger_AfD-Politiker_Risch_offenbar_bei_Neonazi-Treffen_in_Russland___ndr.de.pdf) | Hamburger AfD-Politiker Risch offenbar bei Neonazi-Treffen in Russland ndr.de |
+| [`Hausdurchsuchung_bei_AfD-Waffenfan___Endstation_Rechts_.pdf`](./dokumente/hauptquellen/Hausdurchsuchung_bei_AfD-Waffenfan___Endstation_Rechts_.pdf) | Hausdurchsuchung bei AfD-Waffenfan Endstation Rechts  |
+| [`Hendrik_Cremer_über_Rechtsextremismus_und_die_AfD_in_Deutschland_-_Politik_-_SZ.de.pdf`](./dokumente/hauptquellen/Hendrik_Cremer_%C3%BCber_Rechtsextremismus_und_die_AfD_in_Deutschland_-_Politik_-_SZ.de.pdf) | Hendrik Cremer über Rechtsextremismus und die AfD in Deutschland - Politik - SZ.de |
+| [`Hessen_-_Verwaltungsgericht_Wiesbaden_lehnt_Beweisanträge_der_AfD_ab.pdf`](./dokumente/hauptquellen/Hessen_-_Verwaltungsgericht_Wiesbaden_lehnt_Beweisantr%C3%A4ge_der_AfD_ab.pdf) | Hessen - Verwaltungsgericht Wiesbaden lehnt Beweisanträge der AfD ab |
+| [`Hessen__AfD-Kreisverband_wirbt_für_rechtsextremes_„Thule-Seminar“.pdf`](./dokumente/hauptquellen/Hessen__AfD-Kreisverband_wirbt_f%C3%BCr_rechtsextremes_%E2%80%9EThule-Seminar%E2%80%9C.pdf) | Hessen AfD-Kreisverband wirbt für rechtsextremes „Thule-Seminar“ |
+| [`Hessen__AfD_darf_als_Verdachtsfall_eingestuft_werden.pdf`](./dokumente/hauptquellen/Hessen__AfD_darf_als_Verdachtsfall_eingestuft_werden.pdf) | Hessen AfD darf als Verdachtsfall eingestuft werden |
+| [`Hessen__Streit_um_AfD-Einstufung__Gericht_weist_Beweisanträge_zurück_-_ntv.de.pdf`](./dokumente/hauptquellen/Hessen__Streit_um_AfD-Einstufung__Gericht_weist_Beweisantr%C3%A4ge_zur%C3%BCck_-_ntv.de.pdf) | Hessen Streit um AfD-Einstufung Gericht weist Beweisanträge zurück - ntv.de |
+| [`Hessens_Verfassungsschutz_darf_AfD_als_rechtsextremen_Verdachtsfall_beobachten.pdf`](./dokumente/hauptquellen/Hessens_Verfassungsschutz_darf_AfD_als_rechtsextremen_Verdachtsfall_beobachten.pdf) | Hessens Verfassungsschutz darf AfD als rechtsextremen Verdachtsfall beobachten |
+| [`Historiker_Volker_Weiß_über_die_extremen_Rechten__Wie_sie_Geschichte_umschreiben_-_Ausgabe_756.pdf`](./dokumente/hauptquellen/Historiker_Volker_Wei%C3%9F_%C3%BCber_die_extremen_Rechten__Wie_sie_Geschichte_umschreiben_-_Ausgabe_756.pdf) | Historiker Volker Weiß über die extremen Rechten Wie sie Geschichte umschreiben - Ausgabe 756 |
+| [`Hitlergruß-Vorwurf_gegen_AfD-Landeschef_Reichardt-mdr.pdf`](./dokumente/hauptquellen/Hitlergru%C3%9F-Vorwurf_gegen_AfD-Landeschef_Reichardt-mdr.pdf) | Hitlergruß-Vorwurf gegen AfD-Landeschef Reichardt-mdr |
+| [`Identitäre_Bewegung__Maximilian_Märkl_aus_Augsburg_steht_an_der_Spitze.pdf`](./dokumente/hauptquellen/Identit%C3%A4re_Bewegung__Maximilian_M%C3%A4rkl_aus_Augsburg_steht_an_der_Spitze.pdf) | Identitäre Bewegung Maximilian Märkl aus Augsburg steht an der Spitze |
+| [`Intensive_Verbindung__Wie_die_CDU_mit_Fr_•_Table.Briefings.pdf`](./dokumente/hauptquellen/Intensive_Verbindung__Wie_die_CDU_mit_Fr_%E2%80%A2_Table.Briefings.pdf) | Intensive Verbindung Wie die CDU mit Fr • Table.Briefings |
+| [`Justiz__Einstufung_der_hessischen_AfD_-_Hauptsacheverfahren_im_Mai___DIE_ZEIT.pdf`](./dokumente/hauptquellen/Justiz__Einstufung_der_hessischen_AfD_-_Hauptsacheverfahren_im_Mai___DIE_ZEIT.pdf) | Justiz Einstufung der hessischen AfD - Hauptsacheverfahren im Mai DIE ZEIT |
+| [`Katholische_Kirche_angezündet_–_AfD_stellt_in_Wickede_Ruhr_verurteilten_Brandstifter_für_die_Ratswahl_auf.pdf`](./dokumente/hauptquellen/Katholische_Kirche_angez%C3%BCndet_%E2%80%93_AfD_stellt_in_Wickede_Ruhr_verurteilten_Brandstifter_f%C3%BCr_die_Ratswahl_auf.pdf) | Katholische Kirche angezündet – AfD stellt in Wickede Ruhr verurteilten Brandstifter für die Ratswahl auf |
+| [`Kette-des-Versagens-17-02-2021.pdf`](./dokumente/hauptquellen/Kette-des-Versagens-17-02-2021.pdf) | Kette-des-Versagens-17-02-2021 |
+| [`Kommunalwahl_2025_Düsseldorf__AfD_provoziert_mit_möglicher_Nazi-Parole.pdf`](./dokumente/hauptquellen/Kommunalwahl_2025_D%C3%BCsseldorf__AfD_provoziert_mit_m%C3%B6glicher_Nazi-Parole.pdf) | Kommunalwahl 2025 Düsseldorf AfD provoziert mit möglicher Nazi-Parole |
+| [`Kotré,_Sellner_und_Co.__Wer_war_beim_Remigration_Summit_2025_.pdf`](./dokumente/hauptquellen/Kotr%C3%A9%2C_Sellner_und_Co.__Wer_war_beim_Remigration_Summit_2025_.pdf) | Kotré, Sellner und Co. Wer war beim Remigration Summit 2025  |
+| [`Kotré,_Urban,_Frohnmaier__AfD-Prominenz_reist_zu_Putins_Wirtschaftsforum.pdf`](./dokumente/hauptquellen/Kotr%C3%A9%2C_Urban%2C_Frohnmaier__AfD-Prominenz_reist_zu_Putins_Wirtschaftsforum.pdf) | Kotré, Urban, Frohnmaier AfD-Prominenz reist zu Putins Wirtschaftsforum |
+| [`Landtagswahlkampf_in_Mecklenburg-Vorpommern__AfD_in_Mecklenburg-Vorpommern_fordert_»Rückführungspolizei«___DIE_ZEIT.pdf`](./dokumente/hauptquellen/Landtagswahlkampf_in_Mecklenburg-Vorpommern__AfD_in_Mecklenburg-Vorpommern_fordert_%C2%BBR%C3%BCckf%C3%BChrungspolizei%C2%AB___DIE_ZEIT.pdf) | Landtagswahlkampf in Mecklenburg-Vorpommern AfD in Mecklenburg-Vorpommern fordert »Rückführungspolizei« DIE ZEIT |
+| [`Leipzig__AfD-Sticker_mit_Rasierklingen_präpariert.pdf`](./dokumente/hauptquellen/Leipzig__AfD-Sticker_mit_Rasierklingen_pr%C3%A4pariert.pdf) | Leipzig AfD-Sticker mit Rasierklingen präpariert |
+| [`Leipziger_Sicherheitsbehörde_entzieht_zwei_AfD-Politikern_die_Waffenscheine.pdf`](./dokumente/hauptquellen/Leipziger_Sicherheitsbeh%C3%B6rde_entzieht_zwei_AfD-Politikern_die_Waffenscheine.pdf) | Leipziger Sicherheitsbehörde entzieht zwei AfD-Politikern die Waffenscheine |
+| [`Linnemann_(CDU)_nennt_falsche_Zahl_zur_Beschäftigung_Geflüchteter___WEB.DE.pdf`](./dokumente/hauptquellen/Linnemann_%28CDU%29_nennt_falsche_Zahl_zur_Besch%C3%A4ftigung_Gefl%C3%BCchteter___WEB.DE.pdf) | Linnemann (CDU) nennt falsche Zahl zur Beschäftigung Geflüchteter WEB.DE |
+| [`Maaßen_als_Minister_für_die_AfD__Ein_ernst_zu_nehmender_Kandidat.pdf`](./dokumente/hauptquellen/Maa%C3%9Fen_als_Minister_f%C3%BCr_die_AfD__Ein_ernst_zu_nehmender_Kandidat.pdf) | Maaßen als Minister für die AfD Ein ernst zu nehmender Kandidat |
+| [`Maximilian_Krah__Bundestag_hebt_Immunität_des_AfD-Politikers_auf.pdf`](./dokumente/hauptquellen/Maximilian_Krah__Bundestag_hebt_Immunit%C3%A4t_des_AfD-Politikers_auf.pdf) | Maximilian Krah Bundestag hebt Immunität des AfD-Politikers auf |
+| [`Missbrauch_von_Fragerecht__Spionageverdacht_gegen_AfD__-_Minister_in_Konflikt_mit_Höcke___DIE_ZEIT.pdf`](./dokumente/hauptquellen/Missbrauch_von_Fragerecht__Spionageverdacht_gegen_AfD__-_Minister_in_Konflikt_mit_H%C3%B6cke___DIE_ZEIT.pdf) | Missbrauch von Fragerecht Spionageverdacht gegen AfD - Minister in Konflikt mit Höcke DIE ZEIT |
+| [`Neonazis,_Soldaten_und_Polizisten__Das_radikale_Netzwerk_des_Johannes_K.___taz.de.pdf`](./dokumente/hauptquellen/Neonazis%2C_Soldaten_und_Polizisten__Das_radikale_Netzwerk_des_Johannes_K.___taz.de.pdf) | Neonazis, Soldaten und Polizisten Das radikale Netzwerk des Johannes K. taz.de |
+| [`Niederlage_für_Rechtsextreme__Bayerns_Verfassungsschutz_darf_AfD_beobachten___taz.de.pdf`](./dokumente/hauptquellen/Niederlage_f%C3%BCr_Rechtsextreme__Bayerns_Verfassungsschutz_darf_AfD_beobachten___taz.de.pdf) | Niederlage für Rechtsextreme Bayerns Verfassungsschutz darf AfD beobachten taz.de |
+| [`Nordrhein-Westfalen__Staatsschutz_ermittelt_nach_Hitlergruß_bei_AfD-Kreisparteitag_-_Politik.pdf`](./dokumente/hauptquellen/Nordrhein-Westfalen__Staatsschutz_ermittelt_nach_Hitlergru%C3%9F_bei_AfD-Kreisparteitag_-_Politik.pdf) | Nordrhein-Westfalen Staatsschutz ermittelt nach Hitlergruß bei AfD-Kreisparteitag - Politik |
+| [`PIXA.pdf`](./dokumente/hauptquellen/PIXA.pdf) | PIXA |
+| [`Plädoyer_für_ein_AfD-Verbot_aus_antifaschistischer_Perspektive.pdf`](./dokumente/hauptquellen/Pl%C3%A4doyer_f%C3%BCr_ein_AfD-Verbot_aus_antifaschistischer_Perspektive.pdf) | Plädoyer für ein AfD-Verbot aus antifaschistischer Perspektive |
+| [`Polizei_stoppt_Neonazi_mit_scharf_geladener_Schusswaffe_und_Ersatzmunition_auf_A8_-_Allgäu_⇏_rechtsaußen.pdf`](./dokumente/hauptquellen/Polizei_stoppt_Neonazi_mit_scharf_geladener_Schusswaffe_und_Ersatzmunition_auf_A8_-_Allg%C3%A4u_%E2%87%8F_rechtsau%C3%9Fen.pdf) | Polizei stoppt Neonazi mit scharf geladener Schusswaffe und Ersatzmunition auf A8 - Allgäu ⇏ rechtsaußen |
+| [`Professor_der_Bundespolizei__„Ausgewiesener_Extremist_an_zentraler_Stelle“.pdf`](./dokumente/hauptquellen/Professor_der_Bundespolizei__%E2%80%9EAusgewiesener_Extremist_an_zentraler_Stelle%E2%80%9C.pdf) | Professor der Bundespolizei „Ausgewiesener Extremist an zentraler Stelle“ |
+| [`Prozess_gegen_Jian_G._in_Dresden__Das_wird_gefährlich_für_die_AfD.pdf`](./dokumente/hauptquellen/Prozess_gegen_Jian_G._in_Dresden__Das_wird_gef%C3%A4hrlich_f%C3%BCr_die_AfD.pdf) | Prozess gegen Jian G. in Dresden Das wird gefährlich für die AfD |
+| [`Prozess_gegen_Krah-Assistenten__Das_steht_in_den_AfD-Dossiers_des_mutmaßlichen_China-Spions_-_DER_SPIEGEL.pdf`](./dokumente/hauptquellen/Prozess_gegen_Krah-Assistenten__Das_steht_in_den_AfD-Dossiers_des_mutma%C3%9Flichen_China-Spions_-_DER_SPIEGEL.pdf) | Prozess gegen Krah-Assistenten Das steht in den AfD-Dossiers des mutmaßlichen China-Spions - DER SPIEGEL |
+| [`Razzia__Polizei_sucht_Waffen_bei_Rechtsextremen_vom_„Nordbund“___taz.de.pdf`](./dokumente/hauptquellen/Razzia__Polizei_sucht_Waffen_bei_Rechtsextremen_vom_%E2%80%9ENordbund%E2%80%9C___taz.de.pdf) | Razzia Polizei sucht Waffen bei Rechtsextremen vom „Nordbund“ taz.de |
+| [`Razzia_bei_AfD-Politiker__Waffen_und_Sprengstoff_gefunden___tagesschau.de.pdf`](./dokumente/hauptquellen/Razzia_bei_AfD-Politiker__Waffen_und_Sprengstoff_gefunden___tagesschau.de.pdf) | Razzia bei AfD-Politiker Waffen und Sprengstoff gefunden tagesschau.de |
+| [`Razzia_in_Lübtheen__Scharfe_Waffen_entdeckt_–_AfD-Politiker_unter_Verdacht_.pdf`](./dokumente/hauptquellen/Razzia_in_L%C3%BCbtheen__Scharfe_Waffen_entdeckt_%E2%80%93_AfD-Politiker_unter_Verdacht_.pdf) | Razzia in Lübtheen Scharfe Waffen entdeckt – AfD-Politiker unter Verdacht  |
+| [`Recherche__So_organisiert_sich_die_neue_Generation_der_Neonazis.pdf`](./dokumente/hauptquellen/Recherche__So_organisiert_sich_die_neue_Generation_der_Neonazis.pdf) | Recherche So organisiert sich die neue Generation der Neonazis |
+| [`Rechtsextreme_AfD-Kandidaten_im_Kreis_Unna_-_Ruhrgebiet_-_Nachrichten_-_WDR.pdf`](./dokumente/hauptquellen/Rechtsextreme_AfD-Kandidaten_im_Kreis_Unna_-_Ruhrgebiet_-_Nachrichten_-_WDR.pdf) | Rechtsextreme AfD-Kandidaten im Kreis Unna - Ruhrgebiet - Nachrichten - WDR |
+| [`Rechtsextremismus__Immer_mehr_junge_Menschen_wegen_rechtsextremer_Straftaten_verdächtigt___DIE_ZEIT.pdf`](./dokumente/hauptquellen/Rechtsextremismus__Immer_mehr_junge_Menschen_wegen_rechtsextremer_Straftaten_verd%C3%A4chtigt___DIE_ZEIT.pdf) | Rechtsextremismus Immer mehr junge Menschen wegen rechtsextremer Straftaten verdächtigt DIE ZEIT |
+| [`Rechtsradikale_begehen_mehr_als_120_Straftaten_im_Kreis_Nordhausen_–_Südharzer_Reichsbürger_besitzen_Waffen.pdf`](./dokumente/hauptquellen/Rechtsradikale_begehen_mehr_als_120_Straftaten_im_Kreis_Nordhausen_%E2%80%93_S%C3%BCdharzer_Reichsb%C3%BCrger_besitzen_Waffen.pdf) | Rechtsradikale begehen mehr als 120 Straftaten im Kreis Nordhausen – Südharzer Reichsbürger besitzen Waffen |
+| [`Reichsbürger-Prozess_in_Frankfurt__Was_wusste_Markus_Krall____FAZ.pdf`](./dokumente/hauptquellen/Reichsb%C3%BCrger-Prozess_in_Frankfurt__Was_wusste_Markus_Krall____FAZ.pdf) | Reichsbürger-Prozess in Frankfurt Was wusste Markus Krall FAZ |
+| [`Reinbek__AfD-Politiker_Stienen_verurteilt_–_5000_Euro_Strafe.pdf`](./dokumente/hauptquellen/Reinbek__AfD-Politiker_Stienen_verurteilt_%E2%80%93_5000_Euro_Strafe.pdf) | Reinbek AfD-Politiker Stienen verurteilt – 5000 Euro Strafe |
+| [`Schuldig_und_weiter_im_Amt__Mindestens_elf_AfD-Mandatsträger_wegen_Gewalttaten_verurteilt.pdf`](./dokumente/hauptquellen/Schuldig_und_weiter_im_Amt__Mindestens_elf_AfD-Mandatstr%C3%A4ger_wegen_Gewalttaten_verurteilt.pdf) | Schuldig und weiter im Amt Mindestens elf AfD-Mandatsträger wegen Gewalttaten verurteilt |
+| [`Skandal_in_Flensburg__Schild_in_Schaufenster_verbietet_Juden_Zutritt.pdf`](./dokumente/hauptquellen/Skandal_in_Flensburg__Schild_in_Schaufenster_verbietet_Juden_Zutritt.pdf) | Skandal in Flensburg Schild in Schaufenster verbietet Juden Zutritt |
+| [`Sportschützen_und_die_AfD__Schüsse_von_rechts___taz.de.pdf`](./dokumente/hauptquellen/Sportsch%C3%BCtzen_und_die_AfD__Sch%C3%BCsse_von_rechts___taz.de.pdf) | Sportschützen und die AfD Schüsse von rechts taz.de |
+| [`Streit_in_der_AfD__Wie_völkisch_darf's_denn_sein_.pdf`](./dokumente/hauptquellen/Streit_in_der_AfD__Wie_v%C3%B6lkisch_darf%27s_denn_sein_.pdf) | Streit in der AfD Wie völkisch darf's denn sein  |
+| [`Streit_um_AfD-Parteizentrale_in_Berlin__Vermieter_kündigt,_AfD_will_einfach_bleiben_-_SZ.de.pdf`](./dokumente/hauptquellen/Streit_um_AfD-Parteizentrale_in_Berlin__Vermieter_k%C3%BCndigt%2C_AfD_will_einfach_bleiben_-_SZ.de.pdf) | Streit um AfD-Parteizentrale in Berlin Vermieter kündigt, AfD will einfach bleiben - SZ.de |
+| [`Thomas_Biebricher_im_Interview_über_die_Krise_des_Konservativismus_-_Kultur_-_SZ.de.pdf`](./dokumente/hauptquellen/Thomas_Biebricher_im_Interview_%C3%BCber_die_Krise_des_Konservativismus_-_Kultur_-_SZ.de.pdf) | Thomas Biebricher im Interview über die Krise des Konservativismus - Kultur - SZ.de |
+| [`Thüringens_Innenminister_verdächtigt_AfD_der_Russland-Spionage.pdf`](./dokumente/hauptquellen/Th%C3%BCringens_Innenminister_verd%C3%A4chtigt_AfD_der_Russland-Spionage.pdf) | Thüringens Innenminister verdächtigt AfD der Russland-Spionage |
+| [`TikTok_und_Skinhead-Revival__Nichts_als_substanzloses_Gebaren_.pdf`](./dokumente/hauptquellen/TikTok_und_Skinhead-Revival__Nichts_als_substanzloses_Gebaren_.pdf) | TikTok und Skinhead-Revival Nichts als substanzloses Gebaren  |
+| [`Urteil_gegen_Ex-Mitarbeiter__Für_AfD-Politiker_Krah_ist_es_noch_nicht_vorbei___tagesschau.de.pdf`](./dokumente/hauptquellen/Urteil_gegen_Ex-Mitarbeiter__F%C3%BCr_AfD-Politiker_Krah_ist_es_noch_nicht_vorbei___tagesschau.de.pdf) | Urteil gegen Ex-Mitarbeiter Für AfD-Politiker Krah ist es noch nicht vorbei tagesschau.de |
+| [`VGH_weist_Beschwerden_zu_Beobachtung_des_hessischen_AfD-Landesverbands_zurück___Hessen_Verwaltungsgerichtsbarkeit.pdf`](./dokumente/hauptquellen/VGH_weist_Beschwerden_zu_Beobachtung_des_hessischen_AfD-Landesverbands_zur%C3%BCck___Hessen_Verwaltungsgerichtsbarkeit.pdf) | VGH weist Beschwerden zu Beobachtung des hessischen AfD-Landesverbands zurück Hessen Verwaltungsgerichtsbarkeit |
+| [`Verfassungsschutz_darf_AfD_Hessen_weiter_beobachten.pdf`](./dokumente/hauptquellen/Verfassungsschutz_darf_AfD_Hessen_weiter_beobachten.pdf) | Verfassungsschutz darf AfD Hessen weiter beobachten |
+| [`Verfassungsschutzbericht_für_Hessen__Viel_mehr_rechtsextreme_Straftaten___hessenschau.de___Landtag.pdf`](./dokumente/hauptquellen/Verfassungsschutzbericht_f%C3%BCr_Hessen__Viel_mehr_rechtsextreme_Straftaten___hessenschau.de___Landtag.pdf) | Verfassungsschutzbericht für Hessen Viel mehr rechtsextreme Straftaten hessenschau.de Landtag |
+| [`Verhandlung_zur_AfD-Einstufung___Hessen_Verwaltungsgerichtsbarkeit.pdf`](./dokumente/hauptquellen/Verhandlung_zur_AfD-Einstufung___Hessen_Verwaltungsgerichtsbarkeit.pdf) | Verhandlung zur AfD-Einstufung Hessen Verwaltungsgerichtsbarkeit |
+| [`Verlust_von_deutschem_Pass__AfD_nimmt_deutsche_Staatsbürger_ins_Visier_-_Bayern_-_SZ.de.pdf`](./dokumente/hauptquellen/Verlust_von_deutschem_Pass__AfD_nimmt_deutsche_Staatsb%C3%BCrger_ins_Visier_-_Bayern_-_SZ.de.pdf) | Verlust von deutschem Pass AfD nimmt deutsche Staatsbürger ins Visier - Bayern - SZ.de |
+| [`Verwaltungsgericht_zum_Verdachtsfall_AfD__Alice_Weidel_wohl_kein_Spitzel___taz.de.pdf`](./dokumente/hauptquellen/Verwaltungsgericht_zum_Verdachtsfall_AfD__Alice_Weidel_wohl_kein_Spitzel___taz.de.pdf) | Verwaltungsgericht zum Verdachtsfall AfD Alice Weidel wohl kein Spitzel taz.de |
+| [`Volksverpetzer-764-Gesamt.pdf`](./dokumente/hauptquellen/Volksverpetzer-764-Gesamt.pdf) | Volksverpetzer-764-Gesamt |
+| [`Vorwurf_rechter_Terror__Anklage_gegen_„Sächsische_Separatisten“_erhoben___taz.de.pdf`](./dokumente/hauptquellen/Vorwurf_rechter_Terror__Anklage_gegen_%E2%80%9ES%C3%A4chsische_Separatisten%E2%80%9C_erhoben___taz.de.pdf) | Vorwurf rechter Terror Anklage gegen „Sächsische Separatisten“ erhoben taz.de |
+| [`WW__Fotos_sollen_Neonazi_als_Ordner_bei_AfD-Veranstaltung_zeigen_-_SWR_Aktuell.pdf`](./dokumente/hauptquellen/WW__Fotos_sollen_Neonazi_als_Ordner_bei_AfD-Veranstaltung_zeigen_-_SWR_Aktuell.pdf) | WW Fotos sollen Neonazi als Ordner bei AfD-Veranstaltung zeigen - SWR Aktuell |
+| [`Wahl_zum_Berliner_Abgeordnetenhaus__Berliner_AfD_nominiert_erstmals_Kandidatin_für_Amt_der_»Regierenden«___DIE_ZEIT.pdf`](./dokumente/hauptquellen/Wahl_zum_Berliner_Abgeordnetenhaus__Berliner_AfD_nominiert_erstmals_Kandidatin_f%C3%BCr_Amt_der_%C2%BBRegierenden%C2%AB___DIE_ZEIT.pdf) | Wahl zum Berliner Abgeordnetenhaus Berliner AfD nominiert erstmals Kandidatin für Amt der »Regierenden« DIE ZEIT |
+| [`Wahlfälschung_-_Gericht_spricht_Ex-AfD-Chef_schuldig.pdf`](./dokumente/hauptquellen/Wahlf%C3%A4lschung_-_Gericht_spricht_Ex-AfD-Chef_schuldig.pdf) | Wahlfälschung - Gericht spricht Ex-AfD-Chef schuldig |
+| [`Warum_wählen_Arbeiter_die_AfD__Eine_Spurensuche_-_Politik_-_SZ.de.pdf`](./dokumente/hauptquellen/Warum_w%C3%A4hlen_Arbeiter_die_AfD__Eine_Spurensuche_-_Politik_-_SZ.de.pdf) | Warum wählen Arbeiter die AfD Eine Spurensuche - Politik - SZ.de |
+| [`Wenn_die_Brandmauer_fällt___KATAPULT_Sachsen.pdf`](./dokumente/hauptquellen/Wenn_die_Brandmauer_f%C3%A4llt___KATAPULT_Sachsen.pdf) | Wenn die Brandmauer fällt KATAPULT Sachsen |
+| [`Wie_die_AfD_im_Netz_bei_der_KI_die_Konkurrenz_abhängt___STERN.de.pdf`](./dokumente/hauptquellen/Wie_die_AfD_im_Netz_bei_der_KI_die_Konkurrenz_abh%C3%A4ngt___STERN.de.pdf) | Wie die AfD im Netz bei der KI die Konkurrenz abhängt STERN.de |
+| [`Wir_werden_wohl_bald_erfahren,_ob_die_AfD_verboten_werden_würde_-_Volksverpetzer.pdf`](./dokumente/hauptquellen/Wir_werden_wohl_bald_erfahren%2C_ob_die_AfD_verboten_werden_w%C3%BCrde_-_Volksverpetzer.pdf) | Wir werden wohl bald erfahren, ob die AfD verboten werden würde - Volksverpetzer |
+| [`Zahlen-Kriminalitaet-Gefluechtete-Correctiv.pdf`](./dokumente/hauptquellen/Zahlen-Kriminalitaet-Gefluechtete-Correctiv.pdf) | Zahlen-Kriminalitaet-Gefluechtete-Correctiv |
+| [`Zwickau__Rechtsextremismus_bei_Simson-Treffen_-_DDR-Kult_im_braunen_Sumpf___MDR.DE.pdf`](./dokumente/hauptquellen/Zwickau__Rechtsextremismus_bei_Simson-Treffen_-_DDR-Kult_im_braunen_Sumpf___MDR.DE.pdf) | Zwickau Rechtsextremismus bei Simson-Treffen - DDR-Kult im braunen Sumpf MDR.DE |
+| [`_Gegen_Europas_Werte___EU_leitet_Verbot_von_AfD-Parteienbündnis_ein___Kurier.pdf`](./dokumente/hauptquellen/_Gegen_Europas_Werte___EU_leitet_Verbot_von_AfD-Parteienb%C3%BCndnis_ein___Kurier.pdf) |  Gegen Europas Werte EU leitet Verbot von AfD-Parteienbündnis ein Kurier |
+| [`_Nationalistische__Inhalte!_Polizisten_aus_Niedersachsen_im_Visier_-_news38.de.pdf`](./dokumente/hauptquellen/_Nationalistische__Inhalte%21_Polizisten_aus_Niedersachsen_im_Visier_-_news38.de.pdf) |  Nationalistische Inhalte! Polizisten aus Niedersachsen im Visier - news38.de |
+| [`afd_verurteilte_oder_angeklagte_afd_mitglieder.pdf`](./dokumente/hauptquellen/afd_verurteilte_oder_angeklagte_afd_mitglieder.pdf) | afd verurteilte oder angeklagte afd mitglieder |
+| [`correctiv-Recherche__Verurteilt_-_und_trotzdem_Mandatsträger___tagesschau.de.pdf`](./dokumente/hauptquellen/correctiv-Recherche__Verurteilt_-_und_trotzdem_Mandatstr%C3%A4ger___tagesschau.de.pdf) | correctiv-Recherche Verurteilt - und trotzdem Mandatsträger tagesschau.de |
+| [`n-tv.de_politik_Remigration-Disziplin-Ausgangssperren-AfD-malt-ihr-Bild-von-Berlin-id30874985.html.pdf`](./dokumente/hauptquellen/n-tv.de_politik_Remigration-Disziplin-Ausgangssperren-AfD-malt-ihr-Bild-von-Berlin-id30874985.html.pdf) | n-tv.de politik Remigration-Disziplin-Ausgangssperren-AfD-malt-ihr-Bild-von-Berlin-id30874985.html |
+| [`wd-3-245-16-pdf-data.pdf`](./dokumente/hauptquellen/wd-3-245-16-pdf-data.pdf) | wd-3-245-16-pdf-data |
+| [`„Es_könnte_bald_soweit_sein“__Thüringer_AfD-Chef_Höcke_zählt_die_Justiz_an_-_und_einen_Staatsanwalt_in_Halle_persönlich.pdf`](./dokumente/hauptquellen/%E2%80%9EEs_k%C3%B6nnte_bald_soweit_sein%E2%80%9C__Th%C3%BCringer_AfD-Chef_H%C3%B6cke_z%C3%A4hlt_die_Justiz_an_-_und_einen_Staatsanwalt_in_Halle_pers%C3%B6nlich.pdf) | „Es könnte bald soweit sein“ Thüringer AfD-Chef Höcke zählt die Justiz an - und einen Staatsanwalt in Halle persönlich |
+| [`„Ist_vom_Teufel_geschickt“__Die_AfD_legt_sich_mit_dem_Limburger_Bischof_an_und_entlarvt_sich_dabei_selbst.pdf`](./dokumente/hauptquellen/%E2%80%9EIst_vom_Teufel_geschickt%E2%80%9C__Die_AfD_legt_sich_mit_dem_Limburger_Bischof_an_und_entlarvt_sich_dabei_selbst.pdf) | „Ist vom Teufel geschickt“ Die AfD legt sich mit dem Limburger Bischof an und entlarvt sich dabei selbst |
+| [`„Niemand_kommt_rein_und_Millionen_fliegen_raus“__AfD-Politiker_besuchen_internationalen_Gipfel_zu_Remigration.pdf`](./dokumente/hauptquellen/%E2%80%9ENiemand_kommt_rein_und_Millionen_fliegen_raus%E2%80%9C__AfD-Politiker_besuchen_internationalen_Gipfel_zu_Remigration.pdf) | „Niemand kommt rein und Millionen fliegen raus“ AfD-Politiker besuchen internationalen Gipfel zu Remigration |
+| [`„Ohne_Russland_geht_nichts“__Wie_sich_AfD-Politiker_für_Moskaus_Interessen_stark_machen.pdf`](./dokumente/hauptquellen/%E2%80%9EOhne_Russland_geht_nichts%E2%80%9C__Wie_sich_AfD-Politiker_f%C3%BCr_Moskaus_Interessen_stark_machen.pdf) | „Ohne Russland geht nichts“ Wie sich AfD-Politiker für Moskaus Interessen stark machen |
+| [`„Remigration“__AfD_sucht_Nähe_zu_Sellner_und_US-Hardliner_Bovino.pdf`](./dokumente/hauptquellen/%E2%80%9ERemigration%E2%80%9C__AfD_sucht_N%C3%A4he_zu_Sellner_und_US-Hardliner_Bovino.pdf) | „Remigration“ AfD sucht Nähe zu Sellner und US-Hardliner Bovino |
+
+</details>
+
 ### F) Skripte & Tools (18)
-- `afd-verbot.de-scrape-dependencies.sh`
-- `afd-verbot.de-scrape-beweise-zitate.py`
-- `afd-verbot-linkliste.py`
-- `afd-verbot-print-proofs.py`
-- `pdf-to-md.sh`
-- `split_pdf.py`
-- `split10_pdf.py`
-- `bulk_ocr_pdfs_to_md.py`
-- `setup_all_ocr_deps.sh`
-- `dependencies.sh`
-- `afd-verbot-deepresearch-ausgangspunkt_split_1.txt`
-- `afd-verbot-deepresearch-ausgangspunkt_split_2.txt`
-- `afd-verbot-deepresearch-ausgangspunkt_split_3.txt`
-- `afd-verbot-deepresearch-ausgangspunkt_split_4.txt`
-- `afd-verbot-deepresearch-ausgangspunkt_split_5.txt`
-- `afd-verbot-deepresearch-ausgangspunkt_split_6.txt`
-- `afd-verbot-deepresearch-ausgangspunkt_split_7.txt`
-- `afd-verbot-deepresearch-ausgangspunkt_split_8.txt`
+- `skripte/afd-verbot.de-scrape-dependencies.sh`
+- `skripte/afd-verbot.de-scrape-beweise-zitate.py`
+- `skripte/afd-verbot-linkliste.py`
+- `skripte/afd-verbot-print-proofs.py`
+- `skripte/pdf-to-md.sh`
+- `skripte/split_pdf.py`
+- `skripte/split10_pdf.py`
+- `skripte/bulk_ocr_pdfs_to_md.py`
+- `skripte/setup_all_ocr_deps.sh`
+- `skripte/dependencies.sh`
+- `geheimgutachten/afd-verbot-deepresearch-ausgangspunkt_split_1.txt`
+- `geheimgutachten/afd-verbot-deepresearch-ausgangspunkt_split_2.txt`
+- `geheimgutachten/afd-verbot-deepresearch-ausgangspunkt_split_3.txt`
+- `geheimgutachten/afd-verbot-deepresearch-ausgangspunkt_split_4.txt`
+- `geheimgutachten/afd-verbot-deepresearch-ausgangspunkt_split_5.txt`
+- `geheimgutachten/afd-verbot-deepresearch-ausgangspunkt_split_6.txt`
+- `geheimgutachten/afd-verbot-deepresearch-ausgangspunkt_split_7.txt`
+- `geheimgutachten/afd-verbot-deepresearch-ausgangspunkt_split_8.txt`
 
 ### G) Bilder & Assets (2)
-- `afd-politiker-krah-mit-waffe.jpg`
-- `zusammenarbeit-adj-rechtsextreme.jpg`
+- [`afd-politiker-krah-mit-waffe.jpg`](./assets/afd-politiker-krah-mit-waffe.jpg)
+- [`zusammenarbeit-adj-rechtsextreme.jpg`](./assets/zusammenarbeit-adj-rechtsextreme.jpg)
 
 ---
 
 ### H) Sonstiges / Notizen (66)
 - `PUBLIC_SOURCES.md`
-- `leicht zugängliche Quellen.txt`
-- `quellen.pdf`
+- [`leicht zugängliche Quellen.txt`](./skripte/leicht%20zug%C3%A4ngliche%20Quellen.txt)
+- [`quellen.pdf`](./dokumente/hauptquellen/quellen.pdf)
 - diverse Pressespiegel‑PDFs und Projektmemos (vollständig im Repo enthalten)
 
 ---
@@ -379,17 +533,17 @@ Ich habe mal das Leak für eine KI aufbereitet. Der Verfassungsschutzbericht ist
 - `spiegel.de_politik_deutschland_roedder-warnt-vor-buergerkrieg…12345678.html`
 
 ## Presse / Medienberichte (PDF)
-- `03_www.deutschlandfunk.de_afd-einstufung-verfassungsschutz-rechtsextrem-100.html.pdf`
-- `04_www.zdfheute.de_politik_deutschland_afd-verfassungsschutz-gutachten-rechtsextremistisch-100.html.pdf`
-- `09_www.deutschlandfunk.de_afd-einstufung-verfassungsschutz-rechtsextrem-100.html.pdf`
-- `10_www.zdfheute.de_politik_deutschland_afd-verfassungsschutz-gutachten-rechtsextremistisch-100.html.pdf`
+- [`Deutschlandfunk_Streit_um_AfD_Einstufung.pdf`](./dokumente/hauptquellen/Deutschlandfunk_Streit_um_AfD_Einstufung.pdf)
+- [`ZDFheute_Bericht_VS_Gutachten_AfD.pdf`](./dokumente/hauptquellen/ZDFheute_Bericht_VS_Gutachten_AfD.pdf)
+- [`Deutschlandfunk_Streit_um_AfD_Einstufung_Original.pdf`](./dokumente/hauptquellen/Deutschlandfunk_Streit_um_AfD_Einstufung_Original.pdf)
+- [`ZDFheute_Bericht_VS_Gutachten_AfD_Original.pdf`](./dokumente/hauptquellen/ZDFheute_Bericht_VS_Gutachten_AfD_Original.pdf)
 - `22_www.tagesschau.de_inland_innenpolitik_afd-rechtsextrem-verfassungsschutz-100.html.pdf`
-- `Urteile gegen Höcke wegen NS-Parole rechtskräftig.pdf`
+- [`Urteile_gegen_Höcke_wegen_NS-Parole_rechtskräftig.pdf`](./dokumente/hauptquellen/Urteile_gegen_H%C3%B6cke_wegen_NS-Parole_rechtskr%C3%A4ftig.pdf)
 
 ## Presseberichte mit Amtsbezug
 - `Bundestag_ Missbraucht die AfD die Kleinen Anfragen_ Eine Datenanalyse – SZ.de.pdf`
-- `Bundestagsverwaltung_ Wahlplakat-Spende an AfD war unzulässig.pdf`
-- `AfD-Spende_ Bundestag sieht Tatverdacht bestätigt.pdf`
+- [`Bundestagsverwaltung__Wahlplakat-Spende_an_AfD_war_unzulässig.pdf`](./dokumente/hauptquellen/Bundestagsverwaltung__Wahlplakat-Spende_an_AfD_war_unzul%C3%A4ssig.pdf)
+- [`AfD-Spende__Bundestag_sieht_Tatverdacht_bestätigt.pdf`](./dokumente/hauptquellen/AfD-Spende__Bundestag_sieht_Tatverdacht_best%C3%A4tigt.pdf)
 ---
 
 ## 2) Navigations‑Blöcke (für die README)
@@ -398,7 +552,7 @@ Ich habe mal das Leak für eine KI aufbereitet. Der Verfassungsschutzbericht ist
 - **Klageschrift** → `ENTWURF KLAGESCHRIFT*.pdf`  
 - **BfV/BMI/Bundestag** → Abschnitt **C) Amtliche Quellen**  
 - **Geheimgutachten (OCR)** → Abschnitt **D)**  
-- **Belege (afd‑verbot.de)** → Ordner `zitate/` + `afd-verbot.de-scrape-link-liste.txt`  
+- **Belege (afd‑verbot.de)** → Ordner `zitate/` + [`afd-verbot.de-scrape-link-liste.txt`](./skripte/afd-verbot.de-scrape-link-liste.txt)  
 - **Skripte** → Abschnitt **F)**
 
 ### 🔎 Suchtipps (README‑Snippet)
@@ -416,19 +570,19 @@ rg -n --iglob 'Geheimgutachten_*' -e 'Volksbegriff|Menschenwürde|ethnisch|völk
 Das Repository ist in thematische Bereiche gegliedert:
 
 ### 1. Analysen & Begründung
-- ChatGPT - Analyse-Beispiel.pdf
-- ChatGPT - Analyse-Beispiel-2.pdf
-- ChatGPT - Analyse-Beispiel-3.pdf
-- ChatGPT - Analyse-Beispiel-4.pdf
-- ChatGPT - Warum die Alternative für Deutschland.pdf
-- ChatGPT - Begründung für ein entschiedenes Handeln.pdf
-- ChatGPT - BRANDBRIEF.pdf
+- ChatGPT_-_Analyse-Beispiel.pdf
+- ChatGPT_-_Analyse-Beispiel-2.pdf
+- ChatGPT_-_Analyse-Beispiel-3.pdf
+- ChatGPT_-_Analyse-Beispiel-4.pdf
+- ChatGPT_-_Warum_die_Alternative_für_Deutschland.pdf
+- ChatGPT_-_Begründung_für_ein_entschiedenes_Handeln.pdf
+- ChatGPT_-_BRANDBRIEF.pdf
 
 ### 2. Externe Gutachten & Stellungnahmen
-- Claude - Warum ein AfD-Verbot verfassungsrechtlich geboten und demokratiepolitisch überfällig ist.pdf
+- Claude_-_Warum_ein_AfD-Verbot_verfassungsrechtlich_geboten_und_demokratiepolitisch_überfällig_ist.pdf
 - Untersuchung-BfV-Gutachten-und-AfD-Parteiverbot.pdf
-- AfD-Verbot_ Alle Anträge, Abstimmungen und Gutachten.pdf
-- Mögliches AfD-Verbot_ Gutachten liefert neue Argumente.pdf
+- AfD-Verbot__Alle_Anträge,_Abstimmungen_und_Gutachten.pdf
+- Mögliches_AfD-Verbot__Gutachten_liefert_neue_Argumente.pdf
 
 ### 3. Offizielle Dokumente & Quellen
 - Bundesverwaltungsgericht_ AfD-Einstufung als Verdachtsfall (Tagesschau).pdf
@@ -466,7 +620,7 @@ Dort sind u. a. enthalten:
 
 1. **Repository klonen**
    ```bash
-   git clone https://github.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung.git
+   git clone [https://github.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung.git](https://github.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung.git)
    cd AfD-Verbotsverfahren-Grundlagenforschung
    ```
 
@@ -476,43 +630,43 @@ Dort sind u. a. enthalten:
 
 3. Nutze Deepresearch um die Quellen zu prüfen
 
-   <img width="835" height="675" alt="image" src="https://github.com/user-attachments/assets/31bbbdb7-1c8a-464b-af76-47651c9225b5" />
-   <img width="847" height="664" alt="image" src="https://github.com/user-attachments/assets/69c286e0-509c-4411-aa2a-4b39cbb1ef08" />
-   <img width="863" height="659" alt="image" src="https://github.com/user-attachments/assets/12c7862e-9962-4090-b252-57ca53122056" />
+   <img width="835" height="675" alt="image" src="[https://github.com/user-attachments/assets/31bbbdb7-1c8a-464b-af76-47651c9225b5"](https://github.com/user-attachments/assets/31bbbdb7-1c8a-464b-af76-47651c9225b5") />
+   <img width="847" height="664" alt="image" src="[https://github.com/user-attachments/assets/69c286e0-509c-4411-aa2a-4b39cbb1ef08"](https://github.com/user-attachments/assets/69c286e0-509c-4411-aa2a-4b39cbb1ef08") />
+   <img width="863" height="659" alt="image" src="[https://github.com/user-attachments/assets/12c7862e-9962-4090-b252-57ca53122056"](https://github.com/user-attachments/assets/12c7862e-9962-4090-b252-57ca53122056") />
 
    Beispiele:
 ```
-   https://github.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/blob/main/ChatGPT%20-%20Analyse-Beispiel.pdf
-   https://github.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/blob/main/ChatGPT%20-%20Analyse-Beispiel-2.pdf
-   https://github.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/blob/main/ChatGPT%20-%20Analyse-Beispiel-3.pdf
-   https://github.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/blob/main/ChatGPT%20-%20Analyse-Beispiel-4.pdf
+   [https://github.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/blob/main/ChatGPT_-_Analyse-Beispiel.pdf](https://github.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/blob/main/ChatGPT_-_Analyse-Beispiel.pdf)
+   [https://github.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/blob/main/ChatGPT_-_Analyse-Beispiel-2.pdf](https://github.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/blob/main/ChatGPT_-_Analyse-Beispiel-2.pdf)
+   [https://github.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/blob/main/ChatGPT_-_Analyse-Beispiel-3.pdf](https://github.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/blob/main/ChatGPT_-_Analyse-Beispiel-3.pdf)
+   [https://github.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/blob/main/ChatGPT_-_Analyse-Beispiel-4.pdf](https://github.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/blob/main/ChatGPT_-_Analyse-Beispiel-4.pdf)
 ````
    Beispiel 2:
 ```
-   https://github.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/blob/main/ChatGPT%20-%20Warum%20die%20Alternative%20f%C3%BCr%20Deutschland.pdf
+   [https://github.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/blob/main/ChatGPT_-_Warum_die_Alternative_f%C3%BCr_Deutschland.pdf](https://github.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/blob/main/ChatGPT_-_Warum_die_Alternative_f%C3%BCr_Deutschland.pdf)
 ````
    Beispiel 3:
 ```   
-   https://github.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/blob/main/Zitate%20Analyse%20Hausarbeit.pdf
+   [https://github.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/blob/main/Zitate_Analyse_Hausarbeit.pdf](https://github.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/blob/main/Zitate_Analyse_Hausarbeit.pdf)
 ````
    Beispiel 4:
 ```
-   https://github.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/blob/main/Warum%20die%20AfD%20eine%20Gefahr%20f%C3%BCr%20die%20Demokratie%20ist.pdf
+   [https://github.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/blob/main/Warum_die_AfD_eine_Gefahr_f%C3%BCr_die_Demokratie_ist.pdf](https://github.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/blob/main/Warum_die_AfD_eine_Gefahr_f%C3%BCr_die_Demokratie_ist.pdf)
 ````
    Beispiel 5:
 ```
-   https://github.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/blob/main/Warum%20die%20Normalisierung%20der%20AfD%20eine%20Gefahr%20f%C3%BCr%20die%20Demokratie%20darstellt.pdf
+   [https://github.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/blob/main/Warum_die_Normalisierung_der_AfD_eine_Gefahr_f%C3%BCr_die_Demokratie_darstellt.pdf](https://github.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/blob/main/Warum_die_Normalisierung_der_AfD_eine_Gefahr_f%C3%BCr_die_Demokratie_darstellt.pdf)
 ````
    Beispiel 6:
 ```
-   https://github.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/blob/main/Claude%20-%20Warum%20ein%20AfD-Verbot%20verfassungsrechtlich%20geboten%20und%20demokratiepolitisch%20%C3%BCberf%C3%A4llig%20ist.pdf
+   [https://github.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/blob/main/Claude_-_Warum_ein_AfD-Verbot_verfassungsrechtlich_geboten_und_demokratiepolitisch_%C3%BCberf%C3%A4llig_ist.pdf](https://github.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/blob/main/Claude_-_Warum_ein_AfD-Verbot_verfassungsrechtlich_geboten_und_demokratiepolitisch_%C3%BCberf%C3%A4llig_ist.pdf)
 ````
    Beispiel 7:
 ```
-   https://github.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/blob/main/ChatGPT%20-%20Szenarioanalyse_%20AfD-Wahlsieg%202025%20und%20Regierungs%C3%BCbernahme%20(2025%E2%80%932029).pdf
+   [https://github.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/blob/main/ChatGPT%20-%20Szenarioanalyse_%20AfD-Wahlsieg%202025%20und%20Regierungs%C3%BCbernahme%20(2025%E2%80%932029](https://github.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/blob/main/ChatGPT%20-%20Szenarioanalyse_%20AfD-Wahlsieg%202025%20und%20Regierungs%C3%BCbernahme%20(2025%E2%80%932029)).pdf
 ````
 
-5. Wenn wirklich ein Verbotsverfahren anfangen sollte und Sie Staatsanwalt sind, finden sie Möglichkeiten, die noch nicht zugänglichen Quellen in [`quellen.pdf`](./quellen.pdf) , dem Gericht zugänglich zu machen
+5. Wenn wirklich ein Verbotsverfahren anfangen sollte und Sie Staatsanwalt sind, finden sie Möglichkeiten, die noch nicht zugänglichen Quellen in [`quellen.pdf`](./dokumente/hauptquellen/quellen.pdf) , dem Gericht zugänglich zu machen
 
    
 ---
@@ -527,10 +681,10 @@ Dieses Repository ist bewusst so aufgebaut, dass es sowohl Jurist:innen als auch
    Die Klageschrift-Entwürfe (*.pdf*) sind in klar strukturierten Abschnitten (A–D) gegliedert und enthalten Platzhalter für Fußnoten und Seitennachweise. Mit gezielten Prompts lassen sich mit Legal-LMs automatisch alle Quellenangaben vervollständigen und Prüffragen validieren.
 
 3. **Maschinenlesbare Linklisten**  
-   Dateien wie `PUBLIC_SOURCES.md` und `leicht zugängliche Quellen.txt` liefern strukturierte Metadaten und URLs. Sie können direkt in Crawler-Skripte oder ETL-Pipelines eingespeist werden, um neue Verfassungsschutzberichte, Bundestagsdokumente oder Gerichtsurteile fortlaufend zu überwachen und zu archivieren.
+   Dateien wie `PUBLIC_SOURCES.md` und [`leicht zugängliche Quellen.txt`](./skripte/leicht%20zug%C3%A4ngliche%20Quellen.txt) liefern strukturierte Metadaten und URLs. Sie können direkt in Crawler-Skripte oder ETL-Pipelines eingespeist werden, um neue Verfassungsschutzberichte, Bundestagsdokumente oder Gerichtsurteile fortlaufend zu überwachen und zu archivieren.
 
 4. **Graph- und Relationsextraktion**  
-   Die Zuordnung von juristischen Argumenten zu Quellen im `quellen.pdf` ermöglicht es, automatisch einen Fakten-Graphen zu generieren (z. B. mit Neo4j), in dem Knoten (Argumente) und Kanten (Belege) visualisiert und Lücken identifiziert werden können.
+   Die Zuordnung von juristischen Argumenten zu Quellen im [`quellen.pdf`](./dokumente/hauptquellen/quellen.pdf) ermöglicht es, automatisch einen Fakten-Graphen zu generieren (z. B. mit Neo4j), in dem Knoten (Argumente) und Kanten (Belege) visualisiert und Lücken identifiziert werden können.
 
 5. **Nahtlose Integration in ML-Workflows**  
    Standardisierte Dateinamen und Ordnerstrukturen machen es einfach, die Daten in Jupyter-Notebooks, Colab-Environments oder Produktionspipelines einzubinden. So lassen sich schnell Trainingsdatensätze für Legal-LMs erstellen, Feeds für Dokumenten-Updates konfigurieren und Automatisierungen implementieren.
@@ -548,14 +702,13 @@ Ein Satz Scripte und Hilfsdateien, um die **gesamte Beweise‑Übersicht** von [
 ## 📁 Projektstruktur
 
 ```
-
-├── afd-verbot.de-scrape-dependencies.sh   # Installations‑ und Setup‑Script
-├── afd-verbot.de-scrape-beweise-zitate.py # Haupt‑Script: langsames Scrollen + Link‑Export + PDF‑Erzeugung
-├── afd-verbot.de-scrape-link-liste.txt    # Automatisch generierte Liste aller Beweis‑URLs
-├── afd-verbot.de-<DATUM>-proof-00001.pdf  # Beispiel‑PDF; tatsächlich: proof-00001.pdf … proof-03611.pdf
-└── README.md                              # Diese Anleitung
-
-````
+├── skripte/
+│   ├── afd-verbot.de-scrape-dependencies.sh   # Installations‑ und Setup‑Script
+│   ├── afd-verbot.de-scrape-beweise-zitate.py # Haupt‑Script: langsames Scrollen + Link‑Export + PDF‑Erzeugung
+│   └── afd-verbot.de-scrape-link-liste.txt    # Automatisch generierte Liste aller Beweis‑URLs
+├── afd-verbot.de-<DATUM>-proof-00001.pdf      # Beispiel‑PDF; tatsächlich: proof-00001.pdf … proof-03611.pdf
+└── README.md                                  # Diese Anleitung
+```
 
 ---
 
@@ -565,15 +718,15 @@ Ein Satz Scripte und Hilfsdateien, um die **gesamte Beweise‑Übersicht** von [
    ```bash
    sudo apt update
    sudo apt install -y python3-venv python3-pip chromium chromium-driver
-````
+   ```
 ---
 2. **Virtuelle Umgebung & Python‑Pakete**:
 
    ```bash
-   chmod +x afd-verbot.de-scrape-dependencies.sh
-   ./afd-verbot.de-scrape-dependencies.sh
+   chmod +x skripte/afd-verbot.de-scrape-dependencies.sh
+   ./skripte/afd-verbot.de-scrape-dependencies.sh
    source venv/bin/activate
-   ````
+   ```
 
    Damit wird ein `venv` angelegt, aktiviert und alle benötigten Python‑Module (`selenium`, `fpdf`, `requests`, `beautifulsoup4`) installiert.
 
@@ -585,16 +738,16 @@ Ein Satz Scripte und Hilfsdateien, um die **gesamte Beweise‑Übersicht** von [
 
    ```bash
    source venv/bin/activate
-   python3 afd-verbot.de-scrape-beweise-zitate.py
-   ````
+   python3 skripte/afd-verbot.de-scrape-beweise-zitate.py
+   ```
 
    * Das Script scrollt extrem langsam (100 px / 0,5 s) über alle **367** Scroll‑Seiten,
-   * sammelt jede neue `Zum Beweis`‑URL direkt in `afd-verbot.de-scrape-link-liste.txt`,
+   * sammelt jede neue `Zum Beweis`‑URL direkt in `skripte/afd-verbot.de-scrape-link-liste.txt`,
    * und druckt jede Detail‑Seite als PDF (`afd-verbot.de-<YYYY-MM-DD>-proof-xxxxx.pdf`) in `./mnt/d/afd_proofs/`.
 ---
 2. **Ergebnis prüfen**
 
-   * **Linkliste**: `afd-verbot.de-scrape-link-liste.txt` enthält alle \~3 611 URLs.
+   * **Linkliste**: `skripte/afd-verbot.de-scrape-link-liste.txt` enthält alle \~3 611 URLs.
    * **PDF‑Ordner**: Enthält 3.611 datierte PDFs, durchnummeriert von `proof-00001.pdf` bis `proof-03611.pdf`.
 
 ---
@@ -608,9 +761,9 @@ Ein Satz Scripte und Hilfsdateien, um die **gesamte Beweise‑Übersicht** von [
 ---
 Sollte die Scroll-Mechanik trotz allem haken oder einem zu langsam sein, kann man auch die alternativen Scripte benutzen:
 ```
-afd-verbot-linkliste.py
-afd-verbot-print-proofs.py
-````
+skripte/afd-verbot-linkliste.py
+skripte/afd-verbot-print-proofs.py
+```
 Ersteres lässt einen selber scrollen und erstellt die liste erst wenn man zu ende gescrollt hat.
 Zweites macht aus der Liste PDF's.
 
@@ -620,20 +773,20 @@ Zweites macht aus der Liste PDF's.
 Mit folgendem Script wurden die Zitate von afd-verbot.de/beweise von einer PDF zu MD-Datei gemacht.
 
 ```
-pdf-to-md.sh
-````
+skripte/pdf-to-md.sh
+```
 
 Für das Geheimgutachten haben wir aber OCR und TESERACT benutzt, da Bilder mit Poppler nicht ordentlich erfasst werden und das Geheimgutachten nur in eingescannter Form vorlag.
 
 Für PDF zu MD mit Bildern innerhalb der PDF nutzten wir:
 
 ```
-split10_pdf.py
-split_pdf.py
-bulk_ocr_pdfs_to_md.py
-setup_all_ocr_deps.sh
-dependencies.sh
-````
+skripte/split10_pdf.py
+skripte/split_pdf.py
+skripte/bulk_ocr_pdfs_to_md.py
+skripte/setup_all_ocr_deps.sh
+skripte/dependencies.sh
+```
 Die zu bearbeitenden Dateien müssen im selben Ordner liegen.
 Die split-Python-Scripte ermöglichen das splitten in unterschiedlich lange abschnitte.
 Die *.sh dateien sind zum installieren der Abhängigkeiten.
@@ -648,12 +801,12 @@ KI kann besser MD Dateien verarbeiten da nur reiner Text.
 ---
 ```
 sudo apt install poppler-utils
-````
+```
 und dann
 ```
-chmod +x pdf-to-md.sh
-./pdf-to-md.sh
-````
+chmod +x skripte/pdf-to-md.sh
+./skripte/pdf-to-md.sh
+```
 ---
 In allen ausführbaren Dateien - Input-Ordner und Output-Ordner/Zieldatei-Namen - gegenfalls editieren
 
@@ -663,7 +816,7 @@ In allen ausführbaren Dateien - Input-Ordner und Output-Ordner/Zieldatei-Namen 
 Dieses Repository enthält eine umfassende Sammlung an Quellen und Vorarbeiten zum Verbotsverfahren gegen die AfD. Um alle Materialien zu nutzen, gehen Sie bitte wie folgt vor:
 
 ### 1. Öffentlich zugängliche Dokumente  
-In der Datei [`leicht zugängliche Quellen.txt`](./leicht%20zug%C3%A4ngliche%20Quellen.txt) sind alle frei abrufbaren PDF-Links und Webseiten gelistet:
+In der Datei [`leicht zugängliche Quellen.txt`](./skripte/leicht%20zug%C3%A4ngliche%20Quellen.txt) sind alle frei abrufbaren PDF-Links und Webseiten gelistet:
 
 - **Verfassungsschutzberichte (BfV 2023 & 2024)**
 - **Bundestags-Plenarprotokolle** (86. und 203. Sitzung)
@@ -703,7 +856,7 @@ Um den kompletten Datensatz (Tweets, Telegram-Channels) zu exportieren, empfehle
 
 # Zentrale Argumentationslinien des Gutachtens
 
-`untersuchung-bfv-gutachten-und-afd-parteiverbot.pdf`
+[`untersuchung-bfv-gutachten-und-afd-parteiverbot.pdf`](./dokumente/hauptquellen/untersuchung-bfv-gutachten-und-afd-parteiverbot.pdf)
 
 ---
 
@@ -763,7 +916,7 @@ Das Gutachten liefert damit eine fundierte juristische Grundlage, um ein Verbots
 
 ## Neu hinzugefügt: AfD-Bundestagswahlprogramm 2025 (Primärquelle)
 
-**Datei:** `AfD_Bundestagswahlprogramm2025_web.pdf`  
+**Datei:** [`AfD_Bundestagswahlprogramm2025_web.pdf`](./dokumente/hauptquellen/AfD_Bundestagswahlprogramm2025_web.pdf)  
 **Beschluss:** Verabschiedet auf dem 16. Bundesparteitag (Riesa, 11.–12. Jan. 2025). 
 
 ---
@@ -848,20 +1001,20 @@ Hier alle 15 Verbotsgründe:
 Alle Quellenangaben sind in den Dateien enthalten.
 ---
 
-[![YouTube Video: Einführung](https://img.youtube.com/vi/Pb21x8gALRg/0.jpg)](https://www.youtube.com/watch?v=Pb21x8gALRg)
+[![YouTube Video: Einführung](https://img.youtube.com/vi/Pb21x8gALRg/maxresdefault.jpg)](https://www.youtube.com/watch?v=Pb21x8gALRg)
 
 ---
 ## Neustes Gutachten
 
-https://afd-gutachten.de
+[https://afd-gutachten.de](https://afd-gutachten.de)
 
 ## Afd-Zitate
 
-https://afd-verbot.de
+[https://afd-verbot.de](https://afd-verbot.de)
 
 ## Politische Schönheit
 
-[![YouTube Playlist](https://img.youtube.com/vi/1dHYrVZbhX0/0.jpg)](https://www.youtube.com/watch?v=1dHYrVZbhX0&list=PLndxauj5Nk-o1p1LVTVDgzANSFMGvhe6F)
+[![YouTube Playlist](https://img.youtube.com/vi/1dHYrVZbhX0/maxresdefault.jpg)](https://www.youtube.com/watch?v=1dHYrVZbhX0&list=PLndxauj5Nk-o1p1LVTVDgzANSFMGvhe6F)
 
 ## Was AfD-Aussteiger erzählen
 
@@ -870,7 +1023,7 @@ https://afd-verbot.de
 
 ## Ende des Repos
 
-<img width="916" height="988" alt="Claus von Wagner" src="https://github.com/user-attachments/assets/21df85d6-0331-424e-b268-c5939d7d702f" />
+<img width="916" height="988" alt="Claus von Wagner" src="[https://github.com/user-attachments/assets/21df85d6-0331-424e-b268-c5939d7d702f"](https://github.com/user-attachments/assets/21df85d6-0331-424e-b268-c5939d7d702f") />
 
 
 ---
@@ -882,7 +1035,7 @@ Beiträge sind willkommen! Bitte Issues eröffnen oder Pull Requests einreichen,
 - Du Vorschläge zur Struktur oder zum Aufbau der Klageschrift hast.
 
 Wer mir Hinweise, Artikel oder Beweise schicken will kann das hier:
-https://fileinbox.com/afd-verbot-sammelbox
+[https://fileinbox.com/afd-verbot-sammelbox](https://fileinbox.com/afd-verbot-sammelbox)
 
 Bevorzugt werden PDF-, MD-, und TXT-Dateien.
 Einfach Artikel oder Quelle als PDF drucken und Uploaden.
@@ -890,4 +1043,4 @@ Einfach Artikel oder Quelle als PDF drucken und Uploaden.
 ---
 
 zusätzlich empfehle ich:
-https://github.com/ERROR-WATCH/TODESSTATISTIKEN
+[https://github.com/ERROR-WATCH/TODESSTATISTIKEN](https://github.com/ERROR-WATCH/TODESSTATISTIKEN)
