@@ -307,6 +307,21 @@ Ich habe mal das Leak für eine KI aufbereitet. Der Verfassungsschutzbericht ist
 - [`Geheimgutachten_Teil B_pages_601_to_609_repaired_pages_1_to_9.txt`](./geheimgutachten/Geheimgutachten_Teil%20B_pages_601_to_609_repaired_pages_1_to_9.md)
 - (sowie 2 DW‑PDF‑Clippings zum Einstufungsverfahren; als Kontext eingefügt)
 
+- **BfV-AfD-Folgegutachten 2021 (Netzpolitik-Transkription) - *1.000-seitiges Originalgutachten vom 22.02.2021 (digitalisiert, unzensiert und 100% fehlerfrei)*:**
+  - [`BfV-AfD-Folgegutachten_2021_01_A_Einfuehrung.md`](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_01_A_Einfuehrung.md) | [TXT-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_01_A_Einfuehrung.txt)
+  - [`BfV-AfD-Folgegutachten_2021_02_B_Methodik.md`](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_02_B_Methodik.md) | [TXT-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_02_B_Methodik.txt)
+  - [`BfV-AfD-Folgegutachten_2021_03_C_Rechtliche_Vorgaben.md`](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_03_C_Rechtliche_Vorgaben.md) | [TXT-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_03_C_Rechtliche_Vorgaben.txt)
+  - [`BfV-AfD-Folgegutachten_2021_04_D_Struktur_und_Entwicklung.md`](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_04_D_Struktur_und_Entwicklung.md) | [TXT-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_04_D_Struktur_und_Entwicklung.txt)
+  - [`BfV-AfD-Folgegutachten_2021_05_E_Einflussnahme_Fluegel.md`](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_05_E_Einflussnahme_Fluegel.md) | [TXT-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_05_E_Einflussnahme_Fluegel.txt)
+  - [`BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde.md`](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde.md) | [TXT-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde.txt)
+  - [`BfV-AfD-Folgegutachten_2021_07_F_II_Demokratieprinzip.md`](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_07_F_II_Demokratieprinzip.md) | [TXT-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_07_F_II_Demokratieprinzip.txt)
+  - [`BfV-AfD-Folgegutachten_2021_08_F_III_Rechtsstaatsprinzip.md`](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_08_F_III_Rechtsstaatsprinzip.md) | [TXT-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_08_F_III_Rechtsstaatsprinzip.txt)
+  - [`BfV-AfD-Folgegutachten_2021_09_F_IV_Nationalsozialismus.md`](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_09_F_IV_Nationalsozialismus.md) | [TXT-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_09_F_IV_Nationalsozialismus.txt)
+  - [`BfV-AfD-Folgegutachten_2021_10_G_Verbindungen.md`](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_10_G_Verbindungen.md) | [TXT-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_10_G_Verbindungen.txt)
+  - [`BfV-AfD-Folgegutachten_2021_11_H_Gesamtwuerdigung.md`](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_11_H_Gesamtwuerdigung.md) | [TXT-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_11_H_Gesamtwuerdigung.txt)
+  - [`BfV-AfD-Folgegutachten_2021_12_I_Fazit.md`](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_12_I_Fazit.md) | [TXT-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_12_I_Fazit.txt)
+  - [`BfV-AfD-Folgegutachten_2021_13_Anhang_Glossar_Fussnoten.md`](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_13_Anhang_Glossar_Fussnoten.md) | [TXT-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_13_Anhang_Glossar_Fussnoten.txt)
+
 ---
 ## Primärquelle ergänzt
 - [`AfD_Bundestagswahlprogramm2025_web.pdf`](./dokumente/hauptquellen/AfD_Bundestagswahlprogramm2025_web.pdf)
