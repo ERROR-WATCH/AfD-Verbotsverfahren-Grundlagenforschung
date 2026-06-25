@@ -373,6 +373,15 @@ Ende der öffentlich zugänglichen Quellen.
 * **BfV-Lagebericht: Spionage und Landesverrat - Krah-Assistent Jian G. (Volltext)**
   Lokale Quelle: [`27_Jian_G_Spionage_Krah_OLG_Dresden.txt`](./dokumente/hauptquellen/urteilsbelege/27_Jian_G_Spionage_Krah_OLG_Dresden.txt)
 
+* **Correctiv-Lagebericht: Gewalt als Alternative - Straftäter in der AfD**
+  Lokale Quelle: [`29_Thorsten_Czuppon_Falschanzeige_LG_Erfurt.txt`](./dokumente/hauptquellen/urteilsbelege/29_Thorsten_Czuppon_Falschanzeige_LG_Erfurt.txt)
+
+* **Correctiv-Lagebericht: Betrugsfälle - Abgeordnete Wiebke Muhsal (Volltext)**
+  Lokale Quelle: [`30_Wiebke_Muhsal_Betrug_LG_Erfurt.txt`](./dokumente/hauptquellen/urteilsbelege/30_Wiebke_Muhsal_Betrug_LG_Erfurt.txt)
+
+* **BfV-Lagebericht: Spionage und Landesverrat - Krah-Assistent Jian G. (Volltext)**
+  Lokale Quelle: [`27_Jian_G_Spionage_Krah_OLG_Dresden.txt`](./dokumente/hauptquellen/urteilsbelege/27_Jian_G_Spionage_Krah_OLG_Dresden.txt)
+
 * **BfV-Lagebericht: Ermittlungen gegen Maximilian Krah (Volltext)**
   Lokale Quelle: [`28_Maximilian_Krah_Ermittlungsverfahren_GBA.txt`](./dokumente/hauptquellen/urteilsbelege/28_Maximilian_Krah_Ermittlungsverfahren_GBA.txt)
 
