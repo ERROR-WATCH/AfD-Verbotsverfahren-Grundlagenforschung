@@ -358,3 +358,26 @@ Logische, kapitelgenaue Slices des Verfassungsschutzberichts 2023 für verbesser
   - [`Geheimgutachten_Teil B_pages_601_to_609_repaired_pages_1_to_9.txt`](./geheimgutachten/Geheimgutachten_Teil B_pages_601_to_609_repaired_pages_1_to_9.md)
 
 Ende der öffentlich zugänglichen Quellen.
+
+## Lokale Primär- & Belegquellen im Repository (Offline-Ready)
+
+* **Antrags- und Abstimmungsverhalten der AfD gegenüber Minderheiten (Deep Research)**
+  Lokale Quelle: [`Antraege_AfD_Minderheiten_DeepResearch.md`](./dokumente/hauptquellen/Antraege_AfD_Minderheiten_DeepResearch.md)
+
+* **BKA Bundesweite Fallzahlen PMK 2025 (Juni 2026)**
+  Lokale Quelle: [`BKA_Fallzahlen_PMK_2025.txt`](./dokumente/hauptquellen/BKA_Fallzahlen_PMK_2025.txt)
+
+* **BKA Bundesweite Fallzahlen PMK 2024**
+  Lokale Quelle: [`BKA_Fallzahlen_PMK_2024.txt`](./dokumente/hauptquellen/BKA_Fallzahlen_PMK_2024.txt)
+
+* **BKA Deliktsbereich PMK-rechts**
+  Lokale Quelle: [`BKA_Deliktsbereich_PMK_rechts.txt`](./dokumente/hauptquellen/BKA_Deliktsbereich_PMK_rechts.txt)
+
+* **BfV-Einstufungsentscheidung OVG NRW (13. Mai 2024)**
+  Lokale Quelle: [`BfV_Pressemitteilung_Einstufungsentscheidung_2024_05_13.txt`](./dokumente/hauptquellen/BfV_Pressemitteilung_Einstufungsentscheidung_2024_05_13.txt)
+
+* **BfV-Einstufungsentscheidung VG Köln (08. März 2022)**
+  Lokale Quelle: [`BfV_Pressemitteilung_Einstufungsentscheidung_2022_03_08.txt`](./dokumente/hauptquellen/BfV_Pressemitteilung_Einstufungsentscheidung_2022_03_08.txt)
+
+* **BfV-Hochstufungsentscheidung „Der Flügel“ (12. März 2020)**
+  Lokale Quelle: [`BfV_Pressemitteilung_Hochstufungsentscheidung_Fluegel_2020_03_12.txt`](./dokumente/hauptquellen/BfV_Pressemitteilung_Hochstufungsentscheidung_Fluegel_2020_03_12.txt)
