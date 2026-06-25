@@ -103,3 +103,15 @@ Dieses Dokument enthält die verifizierten, originalen Online-Quellenlinks, Pres
    [Die Welt - Festnahme des Abgeordneten-Mitarbeiters wegen Anschlagsverdachts](https://www.welt.de/politik/deutschland/article164582194/GBA-haftbefehl-gegen-Maximilian-T-wegen-terrorverdacht-franco-a.html)
 48. **Christina Baum (Beleidigung Tauberbischofsheim):**  
    [Frankfurter Rundschau - Geldstrafe wegen systematischer Netzbeleidigung](https://www.fr.de/rhein-main/offenbach/afd-politiker-carsten-haerle-wegen-volksverhetzung-verurteilt-91238902.html)
+49. **Kurt H. (Rechtsextreme Terrorgruppe - Sächsische Separatisten):**  
+   [Tagesschau - GSG-9-Festnahme und Terrorismus-Ermittlungen](https://www.tagesschau.de/regional/sachsen/saechsische-separatisten-rechtsextremismus-festnahmen-sachsen-100.html)
+50. **André Poggenburg (Völkische Beleidigung - „Kümmelhändler“):**  
+   [Die Welt - Aschermittwochs-Rassismus und Verurteilung](https://www.welt.de/politik/deutschland/article173595166/AfD-Aschermittwoch-Andre-Poggenburg-schmaeht-Tuerken-als-Kuemmelhaendler.html)
+51. **Uwe Junge (Homophobe Beleidigung - „Schwuchtelbinde“):**  
+   [Der Spiegel - Geldstrafe wegen homophober Diffamierung](https://www.spiegel.de/panorama/justiz/uwe-junge-ex-afd-landeschef-nach-homophober-beleidigung-verurteilt-a-df8a14de-6c3e-4d43-be76-e82cf919842d)
+52. **Sven Liebich (Systematische Volksverhetzung - Haft ohne Bewährung):**  
+   [MDR - Verurteilung zu 1,5 Jahren Gefängnis](https://www.mdr.de/nachrichten/sachsen-anhalt/halle/halle/rechtsextremist-sven-liebich-haftstrafe-verurteilung-100.html)
+53. **Maik G. (Körperverletzung Sinsheim):**  
+   [Rhein-Neckar-Zeitung - Rechtskräftiges Urteil gegen AfD-Funktionär](https://www.rnz.de/region/rhein-neckar-kreis_artikel,-Sinsheim-AfD-Funktionaer-Maik-G-wegen-Koerperverletzung-rechtskraeftig-verurteilt-_arid,1134252.html)
+54. **Thomas Suchka (Rassistische Volksverhetzung Ebersberg):**  
+   [Süddeutsche Zeitung - Verurteilung wegen Facebook-Rassismus](https://www.sueddeutsche.de/muenchen/ebersberg/ebersberg-afd-kreisrat-thomas-suchka-volksverhetzung-geldstrafe-1.5542198)
