@@ -581,25 +581,24 @@ Dieses Verzeichnis enthält weitere im Archiv erfasste Belege, Zeitungsberichte,
 </details>
 
 ### F) Skripte & Tools (18)
-- `skripte/afd-verbot.de-scrape-dependencies.sh`
-- `skripte/afd-verbot.de-scrape-beweise-zitate.py`
-- `skripte/afd-verbot-linkliste.py`
-- `skripte/afd-verbot-print-proofs.py`
-- `skripte/pdf-to-md.sh`
-- `skripte/split_pdf.py`
-- `skripte/split10_pdf.py`
-- `skripte/bulk_ocr_pdfs_to_md.py`
-- `skripte/setup_all_ocr_deps.sh`
-- `skripte/dependencies.sh`
-- `geheimgutachten/afd-verbot-deepresearch-ausgangspunkt_split_1.txt`
-- `geheimgutachten/afd-verbot-deepresearch-ausgangspunkt_split_2.txt`
-- `geheimgutachten/afd-verbot-deepresearch-ausgangspunkt_split_3.txt`
-- `geheimgutachten/afd-verbot-deepresearch-ausgangspunkt_split_4.txt`
-- `geheimgutachten/afd-verbot-deepresearch-ausgangspunkt_split_5.txt`
-- `geheimgutachten/afd-verbot-deepresearch-ausgangspunkt_split_6.txt`
-- `geheimgutachten/afd-verbot-deepresearch-ausgangspunkt_split_7.txt`
-- `geheimgutachten/afd-verbot-deepresearch-ausgangspunkt_split_8.txt`
-
+- [`skripte/afd-verbot.de-scrape-dependencies.sh`](./skripte/afd-verbot.de-scrape-dependencies.sh)
+- [`skripte/afd-verbot.de-scrape-beweise-zitate.py`](./skripte/afd-verbot.de-scrape-beweise-zitate.py)
+- [`skripte/afd-verbot-linkliste.py`](./skripte/afd-verbot-linkliste.py)
+- [`skripte/afd-verbot-print-proofs.py`](./skripte/afd-verbot-print-proofs.py)
+- [`skripte/pdf-to-md.sh`](./skripte/pdf-to-md.sh)
+- [`skripte/split_pdf.py`](./skripte/split_pdf.py)
+- [`skripte/split10_pdf.py`](./skripte/split10_pdf.py)
+- [`skripte/bulk_ocr_pdfs_to_md.py`](./skripte/bulk_ocr_pdfs_to_md.py)
+- [`skripte/setup_all_ocr_deps.sh`](./skripte/setup_all_ocr_deps.sh)
+- [`skripte/dependencies.sh`](./skripte/dependencies.sh)
+- [`geheimgutachten/afd-verbot-deepresearch-ausgangspunkt_split_1.txt`](./geheimgutachten/afd-verbot-deepresearch-ausgangspunkt_split_1.txt)
+- [`geheimgutachten/afd-verbot-deepresearch-ausgangspunkt_split_2.txt`](./geheimgutachten/afd-verbot-deepresearch-ausgangspunkt_split_2.txt)
+- [`geheimgutachten/afd-verbot-deepresearch-ausgangspunkt_split_3.txt`](./geheimgutachten/afd-verbot-deepresearch-ausgangspunkt_split_3.txt)
+- [`geheimgutachten/afd-verbot-deepresearch-ausgangspunkt_split_4.txt`](./geheimgutachten/afd-verbot-deepresearch-ausgangspunkt_split_4.txt)
+- [`geheimgutachten/afd-verbot-deepresearch-ausgangspunkt_split_5.txt`](./geheimgutachten/afd-verbot-deepresearch-ausgangspunkt_split_5.txt)
+- [`geheimgutachten/afd-verbot-deepresearch-ausgangspunkt_split_6.txt`](./geheimgutachten/afd-verbot-deepresearch-ausgangspunkt_split_6.txt)
+- [`geheimgutachten/afd-verbot-deepresearch-ausgangspunkt_split_7.txt`](./geheimgutachten/afd-verbot-deepresearch-ausgangspunkt_split_7.txt)
+- [`geheimgutachten/afd-verbot-deepresearch-ausgangspunkt_split_8.txt`](./geheimgutachten/afd-verbot-deepresearch-ausgangspunkt_split_8.txt)
 ### G) Bilder & Assets (2)
 - [`afd-politiker-krah-mit-waffe.jpg`](./assets/afd-politiker-krah-mit-waffe.jpg)
 - [`zusammenarbeit-adj-rechtsextreme.jpg`](./assets/zusammenarbeit-adj-rechtsextreme.jpg)
@@ -607,7 +606,7 @@ Dieses Verzeichnis enthält weitere im Archiv erfasste Belege, Zeitungsberichte,
 ---
 
 ### H) Sonstiges / Notizen (66)
-- `PUBLIC_SOURCES.md`
+- [`PUBLIC_SOURCES.md`](./PUBLIC_SOURCES.md)
 - [`leicht zugängliche Quellen.txt`](./skripte/leicht%20zug%C3%A4ngliche%20Quellen.txt)
 - [`quellen.pdf`](./dokumente/hauptquellen/quellen.pdf)
 - diverse Pressespiegel‑PDFs und Projektmemos (vollständig im Repo enthalten)
