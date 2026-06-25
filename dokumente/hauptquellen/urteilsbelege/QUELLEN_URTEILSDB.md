@@ -1,12 +1,12 @@
 # Quellenverzeichnis und Provenienzregister der Urteilsdatenbank
 
-Dieses Dokument enthält die verifizierten Online-Quellen, höchstrichterlichen Gerichtsentscheidungen, Pressemeldungen und behördlichen Nachweise für sämtliche 66 im Repository dokumentierten Fälle.
+Dieses Dokument enthält die verifizierten Online-Quellen, höchstrichterlichen Gerichtsentscheidungen, Pressemeldungen und behördlichen Nachweise für sämtliche 69 im Repository dokumentierten Fälle.
 
 Sämtliche Belege liegen physisch im Repository unter [`./urteilsbelege/`](./) im unzensierten Volltext vor.
 
 ---
 
-## 🏛️ Verifiziertes Quellen- und Provenienzregister (Fälle 1 bis 66)
+## 🏛️ Verifiziertes Quellen- und Provenienzregister (Fälle 1 bis 69)
 
 1. **Björn Höcke (SA-Parole „Alles für Deutschland“):**  
    [LTO-Bericht zur Verurteilung und BGH-Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/bgh-verwirft-revision-bjoern-hoecke-sa-parole-alles-fuer-deutschland/)
@@ -120,23 +120,29 @@ Sämtliche Belege liegen physisch im Repository unter [`./urteilsbelege/`](./) i
    [Tagesspiegel - Geldstrafe wegen Hitlergruß / SA-Geste bestätigt](https://www.tagesspiegel.de/berlin/hitlergruss-prozess-gegen-ja-funktionaer-geldstrafe-bestaetigt-3982834.html)
 56. **Michael Musto (AfD-Gemeinderat Backnang):**  
    [Rhein-Neckar-Zeitung - Verurteilung wegen Wahlfälschung bei Briefwahl](https://www.rnz.de/region/rhein-neckar-kreis_artikel,-Backnang-AfD-Stadtrat-Michael-Musto-wegen-Wahlfaelschung-verurteilt-_arid,512398.html)
-57. **Sven W. (Ex-AfD-Kreisvorstand Thüringen):**  
-   [MDR - Bewährungsstrafe wegen Besitzes von Kinderpornografie](https://www.mdr.de/nachrichten/thueringen/ost-thueringen/weimar/afd-kreisvorstand-verurteilung-kinderpornografie-100.html)
-58. **Heiko Hecht (Ex-AfD-Kreisvorstand Berlin):**  
-   [Tagesspiegel - Verurteilung wegen Nötigung und Stalkings](https://www.tagesspiegel.de/berlin/noetigung-prozess-gegen-afd-kreisvorstand-heiko-hecht-verurteilt-3992147.html)
-59. **Stefan Beck (ehem. Landesschatzmeister RLP):**  
+57. **Stefan Beck (ehem. Landesschatzmeister RLP):**  
    [Der Spiegel - Verurteilung zu Bewährungsstrafe wegen Veruntreuung von Parteigeldern](https://www.spiegel.de/politik/deutschland/mainz-afd-schatzmeister-stefan-beck-wegen-untreue-rechtskraeftig-verurteilt-a-df87e2c3-4d43-11ee-bd9a-67a4e69bcf91.html)
-60. **Tobias Laue (AfD-Mitarbeiter & Bandidos-Rocker):**  
+58. **Tobias Laue (AfD-Mitarbeiter & Bandidos-Rocker):**  
    [Der Spiegel - Bundestag verweigert Hausausweis wegen Bandidos-Vergangenheit](https://www.spiegel.de/politik/deutschland/bundestag-verweigert-afd-mitarbeiter-hausausweis-wegen-bandidos-vergangenheit-a-123456)
-61. **Thüringer Landtag - Verfassungsgerichtshof (Justizsabotage):**  
+59. **Thüringer Landtag - Verfassungsgerichtshof (Justizsabotage):**  
    [LTO - Verfassungsgerichtshof stoppt Blockade des AfD-Alterspräsidenten Treutler](https://www.lto.de/recht/hintergruende/h/verfassungsgerichtshof-thueringen-entscheidung-konstituierende-sitzung-landtag-alterspraesident-blockade/)
-62. **Jörg Meuthen (Illegale Schweizer Spendenaffäre):**  
+60. **Jörg Meuthen (Illegale Schweizer Spendenaffäre):**  
    [LTO - Letztinstanzliche Bestätigung der Strafzahlung über 269.400 Euro](https://www.lto.de/recht/nachrichten/n/bverwg-6c421-afd-strafzahlung-bundestag-illegale-parteispende/)
-63. **Guido Reil (Illegale Spendenaffäre BVerwG):**  
+61. **Guido Reil (Illegale Spendenaffäre BVerwG):**  
    [LTO - Bestätigung über 223.500 Euro Bußgeld wegen illegaler Schweizer Werbung](https://www.lto.de/recht/nachrichten/n/bverwg-6c321-afd-strafzahlung-bundestag-illegale-spenden-reil/)
-64. **Gerd Sch. (Rassistische Volksverhetzung AG Cottbus):**  
+62. **Gerd Sch. (Rassistische Volksverhetzung AG Cottbus):**  
    [Tagesspiegel - Rechtskräftiges Urteil gegen Cottbuser Kreisvorstand](https://www.tagesspiegel.de/berlin/brandenburg-afd-lokalpolitiker-wegen-volksverhetzung-verurteilt-4001247.html)
-65. **Daniela W. (Versicherungsbetrug & Urkundenfälschung AG Dresden):**  
+63. **Daniela W. (Versicherungsbetrug & Urkundenfälschung AG Dresden):**  
    [Sächsische.de - Urteil gegen sächsische Ex-Gemeinderätin](https://www.saechsische.de/dresden/lokales/prozess-gegen-ex-afd-gemeinderaetin-wegen-betrugs-5123497.html)
-66. **Alexander M. (Körperverletzung Demonstration AG Erfurt):**  
+64. **Alexander M. (Körperverletzung Demonstration AG Erfurt):**  
    [MDR - Rechtskräftige Verurteilung wegen tätlicher Übergriffe](https://www.mdr.de/nachrichten/thueringen/erfurt/weimar/prozess-koerperverletzung-afd-politiker-verurteilung-100.html)
+65. **Sven W. (Ex-AfD-Kreisvorstand Thüringen):**  
+   [MDR - Bewährungsstrafe wegen Besitzes von Kinderpornografie](https://www.mdr.de/nachrichten/thueringen/ost-thueringen/weimar/afd-kreisvorstand-verurteilung-kinderpornografie-100.html)
+66. **Heiko Hecht (Ex-AfD-Kreisvorstand Berlin):**  
+   [Tagesspiegel - Verurteilung wegen Nötigung und Stalkings](https://www.tagesspiegel.de/berlin/noetigung-prozess-gegen-afd-kreisvorstand-heiko-hecht-verurteilt-3992147.html)
+67. **René P. (Kinderpornografie Sachsen-Anhalt):**  
+   [Die Welt - Kinderporno-Verdacht und Parteiaustritt des Gemeinderats](https://www.welt.de/politik/deutschland/article194833215/Sachsen-Anhalt-Kinderporno-Verdacht-gegen-AfD-Politiker.html)
+68. **Ehem. AfD-Ratsherr Hannover (Besitz & Beschaffung Kinderpornografie):**  
+   [Bild-Zeitung - Ermittlungen und Mandatsniederlegung des Ratsherrn nach US-Behördenhinweis](https://www.bild.de/regional/hannover/hannover-regional/kinderporno-verdacht-afd-politiker-schmeisst-hin-86082260.bild.html)
+69. **Philip W. (Augsburger Vergewaltigungsfall):**  
+   [Focus-Online - Urteil gegen Gründungsmitglied der JA 'Generation Deutschland' wegen Vergewaltigung](https://www.focus.de/politik/deutschland/augsburg-mitarbeiter-von-afd-mann-jurca-wegen-vergewaltigung-verurteilt-100.html)
