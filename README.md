@@ -865,7 +865,7 @@ https://afd-verbot.de
 
 ## Was AfD-Aussteiger erzählen
 
-[![YouTube]([https://img.youtube.com/vi/1dHYrVZbhX0/0.jpg](https://img.youtube.com/vi/RoyfB-3NpsQ/maxresdefault.jpg))](https://www.youtube.com/watch?v=RoyfB-3NpsQ)
+[![YouTube]([https://img.youtube.com/vi/1dHYrVZbhX0/0.jpg](https://img.youtube.com/vi/RoyfB-3NpsQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=RoyfB-3NpsQ)
 
 
 ## Ende des Repos
