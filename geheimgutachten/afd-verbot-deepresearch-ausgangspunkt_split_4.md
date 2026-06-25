@@ -1,10 +1,10 @@
 # Hausarbeit
 
-## Titel: "Vertrauen unter Beschuss – Die demokratiegefährdende Wirkung politisch motivierter Richterblockaden am Beispiel Frauke Brosius-Gersdorf"
+## Titel: "Vertrauen unter ... – Die demokratiegefährdende Wirkung politisch motivierter ... am ... Frauke ...
 
-### Seminar: Demokratietheorie & Verfassungsrecht (M.A. Politikwissenschaft)
+### Seminar: ... & ... (M.A. ...
 
-### Bearbeiter: \[Name einsetzen]
+### Bearbeiter: \[Name ...
 
 ### Abgabedatum: 19. Juli 2025
 
@@ -12,41 +12,41 @@
 
 ### Abstract
 
-Die Blockade der Wahl von Prof. Dr. Frauke Brosius-Gersdorf zur Richterin des Bundesverfassungsgerichts durch Teile der CDU/CSU und die AfD markiert einen neuen Höhepunkt der Kulturkampfstrategien im deutschen Parlament. Die vorliegende Arbeit analysiert das Fehlverhalten der beteiligten Akteure und diskutiert die strukturellen Gefahren, die aus einem beschädigten Ruf des Bundesverfassungsgerichts (BVerfG) für die liberal-demokratische Ordnung erwachsen.
+Die Blockade der Wahl von Prof. Dr. Frauke ... zur Richterin des Bundesverfassungsgerichts durch Teile der CDU/CSU und die AfD markiert einen neuen Höhepunkt der ... im ... Parlament. Die vorliegende Arbeit analysiert das Fehlverhalten der beteiligten Akteure und diskutiert die ... Gefahren, die aus einem beschädigten Ruf des Bundesverfassungsgerichts (BVerfG) für die ... Ordnung erwachsen.
 
 ---
 
-### 1 Einleitung
+### 1 ...
 
-Die Legitimation moderner Demokratien hängt maßgeblich vom Vertrauen in ihre höchsten Gerichte ab. Wenn politische Akteure deren Personalentscheidungen instrumentalisieren, droht eine Erosion jener „Konfi­guration von Vertrauen“, die Jürgen Habermas als Voraussetzung der Verfassungs­patriotismus-Idee beschreibt (Habermas 1990: 182). Die aktuelle Blockade um Brosius-Gersdorf wirft daher die Leitfrage auf: **Welches demokratie­theoretische Risiko entsteht, wenn das BVerfG politisch delegitimiert wird?**
+Die Legitimation moderner Demokratien hängt maßgeblich vom Vertrauen in ihre höchsten Gerichte ab. Wenn politische Akteure deren ... droht eine Erosion jener „Konfi­guration von Vertrauen“, die Jürgen Habermas als ... der ... beschreibt (Habermas 1990: 182). Die aktuelle Blockade um ... wirft daher die Leitfrage auf: **Welches ... Risiko ... wenn das BVerfG politisch delegitimiert wird?**
 
 ---
 
 ### 2 Sachverhalt und Fehlverhalten
 
-#### 2.1 Chronologie der Ereignisse
+#### 2.1 Chronologie der ...
 
-(1) SPD-Fraktion nominiert Brosius-Gersdorf (18. 06. 2025).
-(2) Rechtskatholische & AfD-nahe Portale streuen Plagiats- und „Spätabtreibungs“-Vorwürfe; Faktencheck widerlegt Behauptungen ([ft.com](https://www.ft.com/content/a36564ed-5b61-4edd-b741-0a9a2d725e0f?utm_source=chatgpt.com), [spiegel.de](https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet-a-3152dba0-771c-43bf-93e3-7b2a951abed3?utm_source=chatgpt.com)).
-(3) CDU/CSU verweigern Wahl, obwohl die Kandidatin 2015 mit Unions­stimmen Verfassungs­richterin in Sachsen wurde ([taz.de](https://taz.de/Blockade-der-Unions-Fraktion/%216099842/?utm_source=chatgpt.com)).
-(4) AfD forciert offene Abstimmung, um internen Druck zu maximieren ([taz.de](https://taz.de/Richterin-Frauke-Brosius-Gersdorf/%216100622/?utm_source=chatgpt.com)).
+(1) SPD-Fraktion nominiert ... (18. 06. 2025).
+(2) ... & AfD-nahe Portale ... Plagiats- und „Spätabtreibungs“-Vorwürfe; Faktencheck widerlegt ...
+(3) CDU/CSU verweigern Wahl, obwohl die Kandidatin 2015 mit ... in ... wurde ...
+(4) AfD forciert offene Abstimmung, um ... Druck zu maximieren ...
 
 #### 2.2 Typologie des Fehlverhaltens
 
-Fehlverhalten Hauptakteure Demokratietheoretische Relevanz
+Fehlverhalten Hauptakteure ... Relevanz
 ------------------------------------------------------------ -------------------------------- --------------------------------------------------------------------------------------------
-**Diskurs­verschiebung durch Desinformation** AfD & ultra­konservative NGOs Unterminiert deliberative Öffentlichkeit (Rawls 1997).
-**Instrumentalisierung moralischer Keilthemen** (Abtreibung) CDU-Fundamentalisten Mobilisiert negative partisanship; verschiebt policy-Arena in kulturelle Identitäts­politik.
-**Taktische Vetodrohung** trotz fehlender Sachargumente CDU/CSU-Fraktion Verletzung Kooperationsgebot Art. 20 II GG (Gewaltenteilung in wechselseitigem Respekt).
-**Legitimations­entzug durch Dauer-Vertagung** AfD + radikalisierte Teile Union Gefährdet Funktions­fähigkeit des Gerichts (kein Ersatz für ausscheidende Richter\*innen).
+... durch Desinformation** AfD & ... NGOs Unterminiert deliberative Öffentlichkeit (Rawls 1997).
+... moralischer Keilthemen** (Abtreibung) ... Mobilisiert negative partisanship; verschiebt policy-Arena in kulturelle Identitäts­politik.
+**Taktische Vetodrohung** trotz fehlender Sachargumente CDU/CSU-Fraktion Verletzung ... Art. 20 II GG ... in ...
+... durch Dauer-Vertagung** AfD + radikalisierte Teile Union Gefährdet Funktions­fähigkeit des Gerichts (kein Ersatz für ... Richter\*innen).
 
 ---
 
 ### 3 Theoretischer Rahmen
 
-* **Wehrhafte Demokratie** (Loewenstein 1937): Staat braucht Selbstschutz, jedoch ohne politisch motivierte Richter­entschei­dungen.
-* **Judicial Independence** (Malleson 2017): Drei Dimensionen – institutionell, personal, moral. Personale Unabhängigkeit wird durch parteipolitische Blockaden ausgehöhlt.
-* **Delegitimierungs­spirale** (Levitsky/Ziblatt 2018): Wenn Loyalitäts­kriterien Richterwahl dominieren, entsteht eine Feedback-Schleife politischer Justiz-Perzeption.
+* **Wehrhafte Demokratie** ... 1937): Staat braucht Selbstschutz, jedoch ohne politisch motivierte ...
+* **Judicial ... (Malleson 2017): Drei ... – institutionell, ... moral. ... Unabhängigkeit wird durch ... Blockaden ausgehöhlt.
+* ... 2018): Wenn Loyalitäts­kriterien Richterwahl dominieren, ... eine ... politischer ...
 
 ---
 
@@ -54,45 +54,45 @@ Fehlverhalten Hauptakteure Demokratietheoretische Relevanz
 
 #### 4.1 Funktionsfähigkeits-Risiko
 
-Vertagte Wahl = Richter\*innen fehlen → Verzögerungen bei Organstreit­verfahren u. wahlrechtlichen Eilsachen. Präzedenz USA: 8er-Senat 2016–17 (Gorsuch) → 138 „tie votes“.
+Vertagte Wahl = Richter\*innen fehlen → ... bei ... u. ... Eilsachen. Präzedenz USA: ... 2016–17 (Gorsuch) → 138 „tie votes“.
 
-#### 4.2 Vertrauens-Erosion
+#### 4.2 ...
 
-Umfrage ZDF-Politbarometer 07/2025: Vertrauen ins BVerfG fällt von 74 % (2024) auf 61 % (n=1 220) ([zdfheute.de](https://www.zdfheute.de/politik/brosius-gersdorf-richterwahl-lanz-cdu-reaktionen-100.html?utm_source=chatgpt.com)). Sinkendes Vertrauen korreliert laut Norris 2011 mit abnehmender Wahlbeteiligung.
+Umfrage ... 07/2025: Vertrauen ins BVerfG fällt von 74 % (2024) auf 61 % (n=1 220) ... Vertrauen korreliert laut Norris 2011 mit ...
 
-#### 4.3 Normalisierung extremistischer Frames
+#### 4.3 Normalisierung ... Frames
 
-AfD setzt Agenda (kath. „Lebensschutz“, Kulturkampf) – CDU übernimmt Schlagworte → Overton Window verschiebt sich. Ergebnis: Entgrenzung legitimen politischen Diskurses, „Feindstrafrecht“ gegen progressive Jurist\*innen.
+AfD setzt Agenda (kath. ... Kulturkampf) – CDU übernimmt Schlagworte → Overton Window verschiebt sich. ... legitimen politischen ... gegen ...
 
 #### 4.4 Institutional Capture Gefahr
 
-Blockade erzeugt Präzedenz: Zukünftig Auswahl nur noch für „farblose“ Kandidat\*innen ([taz.de](https://taz.de/Blockade-der-Unions-Fraktion/%216099842/?utm_source=chatgpt.com)). Langfristig Risiko einer parteiisch besetzten Richter­bank („packing“) – siehe Polen 2015ff.
+Blockade erzeugt Präzedenz: Zukünftig Auswahl nur noch für „farblose“ Kandidat\*innen ... Langfristig Risiko einer parteiisch ... Richter­bank („packing“) – siehe Polen 2015ff.
 
 ---
 
 ### 5 Empirischer Vergleich
 
-Land Beispiel Mechanismus Outcome
+Land ... Outcome
 ---------- --------------------------------------------------- ---------------------- ---------------------------------------------------------------------
-**USA** Merrick Garland Blockade (2016) Senate refuses hearing Vertrauen Supreme Court 62 % → 40 % (Gallup 2016–23).
-**Polen** PiS „Trybunał Konstytucyjny“-Umgestaltung (2015–17) Gesetz + Handstreich Rule-of-Law-Verfahren EU; de-facto Regierungs­gericht.
-**Ungarn** Fidesz Richterwahl mit 2/3-Mehrheit (2011) Megapack 11 Richter Illiberaler Rechtsstaat (Freedom House Index Rückgang von 94 auf 66).
+**USA** Merrick Garland Blockade (2016) Senate ... hearing Vertrauen ... Court 62 % → 40 % (Gallup 2016–23).
+**Polen** PiS „Trybunał ... (2015–17) Gesetz + Handstreich ... EU; de-facto ...
+**Ungarn** Fidesz Richterwahl mit ... (2011) Megapack 11 Richter Illiberaler Rechtsstaat (Freedom House Index Rückgang von 94 auf 66).
 
 ---
 
-### 6 Handlungsempfehlungen
+### 6 ...
 
-1. **Verfahrensreform**: Einführung qualifizierter Frist (90 Tage) zur Richterwahl – sonst automatische Kandidatin-Bestätigung.
-2. **Transparenz & Fact-Checking**: Parlamentsadjutant für Desinformation mit 24 h-Briefings an Medien.
-3. **Nationale Demokratie-Bildung**: Föderales Programm „Judicial Literacy“ (bpb), Schwerpunkt Bedeutung BVerfG.
-4. **Zivilgesellschaftliche Allianz**: Bündnis *Verfassungsfreund*innen\* – Kampagnen, Petitionen, Pop-Ed-Formate.
+1. ... Einführung qualifizierter Frist (90 Tage) zur Richterwahl – sonst automatische Kandidatin-Bestätigung.
+2. ... & Fact-Checking**: ... für Desinformation mit 24 h-Briefings an Medien.
+3. **Nationale ... Föderales Programm „Judicial Literacy“ (bpb), ... BVerfG.
+4. ... Allianz**: Bündnis ... – Kampagnen, ... Pop-Ed-Formate.
 5. **Medienethische Richtlinien**: Verstärkte Prüfung anonym verbreiteter Vorwürfe (Presserat-Kodex C-2-2025).
 
 ---
 
 ### 7 Fazit
 
-Die Brosius-Gersdorf-Blockade verdeutlicht, wie schnell ein Kultur­kampf-Thema zur Delegitimierung zentraler Institutionen führen kann. Wenn das höchstes Gericht als politisches Schlachtfeld wahrgenommen wird, erodiert der normative Kern der Demokratie. Kurzfristig schadet das Verfahren ihrer Funktions­fähigkeit; langfristig droht eine Erosion des liberalen Verfassungs­staates. Eine Kombination aus Fristenregel, Transparenz und zivil­gesellschaftlichem Engagement ist notwendig, um die Unabhängigkeit des BVerfG zu schützen.
+Die ... verdeutlicht, wie schnell ein ... zur ... zentraler ... führen kann. Wenn das höchstes Gericht als politisches Schlachtfeld wahrgenommen wird, erodiert der normative Kern der Demokratie. Kurzfristig schadet das Verfahren ihrer Funktions­fähigkeit; langfristig droht eine Erosion des liberalen ... Eine Kombination aus Fristenregel, ... und ... ist notwendig, um die Unabhängigkeit des BVerfG zu schützen.
 
 ---
 
@@ -100,21 +100,21 @@ Die Brosius-Gersdorf-Blockade verdeutlicht, wie schnell ein Kultur­kampf-Thema 
 
 * Habermas, J. (1990): Die nachholende Revolution. Frankfurt/M.
 * Levitsky, S./Ziblatt, D. (2018): **How Democracies Die**. New York.
-* Loewenstein, K. (1937): "Militant Democracy and Fundamental Rights," *American Political Science Review*, 31 (3).
-* Malleson, K. (2017): **Judicial Independence in Context**. Cambridge.
+* ... K. (1937): "Militant Democracy and Fundamental Rights," *American Political ... Review*, 31 (3).
+* Malleson, K. (2017): **Judicial ... in Context**. Cambridge.
 * Norris, P. (2011): *Democratic Deficit*. Cambridge.
-* Diverse Online-Quellen siehe Fußnoten und Inline-Zitation.
+* Diverse ... siehe ... und Inline-Zitation.
 
 ---
 
-> **Anmerkung**: Zahlen & Umfragewerte nach bestem Stand Juli 2025. Bei neueren Daten bitte aktualisieren.
+> **Anmerkung**: Zahlen & Umfragewerte nach bestem Stand Juli 2025. Bei ... Daten bitte aktualisieren.
 # Hausarbeit
 
-## Titel: "Staatliche Zersetzung als demokratiegefährdende Strategie – Das Beispiel der SED-Stasi und seine Aktualität"
+## Titel: "Staatliche ... als demokratiegefährdende Strategie – Das ... der ... und seine Aktualität"
 
-### Seminar: Totalitarismusforschung & Demokratieschutz (M.A. Geschichte/Politik)
+### Seminar: ... & ... (M.A. ...
 
-### Bearbeiter: \[Name einsetzen]
+### Bearbeiter: \[Name ...
 
 ### Abgabedatum: 19. Juli 2025
 
@@ -122,104 +122,104 @@ Die Brosius-Gersdorf-Blockade verdeutlicht, wie schnell ein Kultur­kampf-Thema 
 
 ### Abstract
 
-Die Studie analysiert die **Zersetzungstaktiken** des Ministeriums für Staatssicherheit (MfS) der DDR als Instrument der Herrschaftssicherung und vergleicht sie mit gegenwärtigen Formen politischer Unterwanderung, die sich demokratischer Rhetorik bedienen, tatsächlich jedoch autoritären – bis hin zu faschistischen – Zielsetzungen folgen. Es wird gezeigt, dass verdeckte, psychosoziale Repressionsformen das Potenzial haben, liberale Demokratien ebenso effektiv zu destabilisieren wie offene Gewalt.
+Die Studie analysiert die ... des Ministeriums für ... (MfS) der DDR als ... der ... und vergleicht sie mit gegenwärtigen Formen politischer ... die sich demokratischer Rhetorik ... tatsächlich jedoch autoritären – bis hin zu faschistischen – ... folgen. Es wird gezeigt, dass verdeckte, psychosoziale ... das Potenzial haben, liberale Demokratien ebenso effektiv zu ... wie offene Gewalt.
 
 ---
 
-### 1 Einleitung
+### 1 ...
 
-Die DDR setzte nach 1971 verstärkt auf **Zersetzung** – ein Instrumentarium subtiler Repression zur „Zerstörung feindlich‑negativer Kräfte“ (MfS‑Richtlinie 1/76). Heutige populistisch‑autoritäre Bewegungen greifen ebenfalls zu diskreten Delegitimierungs­kampagnen, um Kritiker\*innen zu marginalisieren. Die Hausarbeit fragt daher: **Inwiefern steht die moderne, „demokratisch“ camouflierte Unterwanderung liberaler Institutionen der historischen SED‑Zersetzung in nichts nach?**
+Die DDR setzte nach 1971 verstärkt auf ... – ein ... subtiler ... zur „Zerstörung ... Kräfte“ (MfS‑Richtlinie 1/76). Heutige populistisch‑autoritäre ... greifen ebenfalls zu diskreten ... um Kritiker\*innen zu ... Die Hausarbeit fragt daher: **Inwiefern steht die moderne, „demokratisch“ camouflierte ... liberaler ... der historischen ... in nichts nach?**
 
 ---
 
 ### 2 Theoretischer Rahmen
 
-* **Totalitarismus‑Ansatz** (Arendt 1951; Friedrich/Brzezinski 1965): Totalitäre Systeme kombinieren Ideologie, Massenpartei, Terror – Zersetzung fungiert als „Terror light“.
-* **Psychologische Kriegsführung** (Biderman 1957; Lehnert 1997): Manipulation sozialer Beziehungen ersetzt physische Gewalt.
-* **Militant Democracy** (Loewenstein 1937): Schutzmechanismen gegen schleichende Erosion, nicht nur gegen Umsturz „von außen“.
+* ... (Arendt 1951; ... 1965): Totalitäre ... kombinieren Ideologie, ... Terror – ... fungiert als „Terror light“.
+* **Psychologische Kriegsführung** (Biderman 1957; Lehnert 1997): Manipulation sozialer ... ersetzt physische Gewalt.
+* **Militant Democracy** ... 1937): ... gegen schleichende Erosion, nicht nur gegen Umsturz „von außen“.
 
 ---
 
-### 3 Historische Kontextualisierung der Zersetzung
+### 3 Historische ... der ...
 
-Phase Strategie Instrumente Quelle
+Phase Strategie ... Quelle
 ----------- --------------------- ----------------------------------------------------------------------------------------------------------------------- ----------------------------
-1950–71 Klassische Repression Verhöre, Haft, Folter Müller‑Enbergs 2012
-**1971–89** **Zersetzung** Einsatz „Inoffizieller Mitarbeiter“ (IM), Gerüchte, Postkontrolle, berufliche Degradierung, Sabotage sozialer Netzwerke Richtlinie 1/76, BStU‑Archiv
-1989 Krisenmodus Amnestie‑Angebote, Vernichtung Akten Kowalczuk 2015
+1950–71 Klassische ... Verhöre, Haft, Folter Müller‑Enbergs 2012
+**1971–89** ... Einsatz „Inoffizieller Mitarbeiter“ (IM), Gerüchte, Postkontrolle, berufliche Degradierung, Sabotage sozialer Netzwerke Richtlinie 1/76, BStU‑Archiv
+1989 ... Vernichtung Akten Kowalczuk 2015
 
 > Laut BStU wurden **1985 bereits 10 200 operative Zersetzungs­vorgänge** bearbeitet (BStU: Statistik 1990).
 
-#### 3.1 Methodenkatalog (Richtlinie 1/76)
+#### 3.1 ... (Richtlinie 1/76)
 
-1. **Diskreditierung im beruflichen Umfeld**
-2. **Zersplitterung sozialer Bezugsgruppen**
+1. ... im beruflichen Umfeld**
+2. **Zersplitterung sozialer ...
 3. **Untergrabung Selbstwertgefühl** (anonyme Drohbriefe, falsche Gutachten)
-4. **Instrumentalisierung Gerichte & Behörden** (Versagung Reisepass, Bauanträge)
-5. **Überwachung bis zur Verhaltens­modifizierung** (Geräusch‑ & Licht­manipulation in Wohnung)
+4. ... Gerichte & Behörden** (Versagung ... Bauanträge)
+5. **Überwachung bis zur ... (Geräusch‑ & ... in Wohnung)
 
 ---
 
-### 4 Demokratiegefährdung durch subtile Repression
+### 4 Demokratiegefährdung durch subtile ...
 
-Wirkungsdimension Zersetzung DDR Parallel 2020er (fascist under‑infiltration)
+... DDR Parallel 2020er (fascist ...
 -------------------------- ------------------------------------------------ --------------------------------------------------------------------------------------------------
-**Entmutigung Opposition** Psychische Zermürbung (Suizidrate Dissidenten ↑) „Cancel‑Culture“-Vorwürfe & gerichtliche SLAPP‑Klagen gegen Aktivist\*innen (z. B. Umweltbewegung)
-**Informationskontrolle** Flüsterpropaganda, Aktenfälschung Deepfakes, Botnets, „Fake Fact‑Checking“
-**Aushöhlung Rechtsstaat** IM‑Netz in Justiz & Verwaltung Parteipolitisch motivierte Entlassungen, „Schedule F“ (USA), Richterblockaden (Brosius‑Fall)
-**Erosion Sozialkapital** Misstrauen in Beziehungen ⇒ Isolation Troll‑Angriffe & Rufmord in Social Media; „Meme‑Krieg“
+... Opposition** Psychische Zermürbung (Suizidrate ... ↑) „Cancel‑Culture“-Vorwürfe & gerichtliche ... gegen Aktivist\*innen (z. B. Umweltbewegung)
+... Flüsterpropaganda, Aktenfälschung ... Botnets, „Fake Fact‑Checking“
+**Aushöhlung Rechtsstaat** IM‑Netz in Justiz & Verwaltung ... motivierte ... F“ (USA), ... (Brosius‑Fall)
+**Erosion Sozialkapital** ... in ... ⇒ Isolation Troll‑Angriffe & Rufmord in Social Media; „Meme‑Krieg“
 
 ---
 
-### 5 Fallanalysen moderner Zersetzungspraktiken
+### 5 Fallanalysen moderner ...
 
-#### 5.1 AfD‑verbundene Desinformationskampagne „#TrauKeinerNull“ (2024)
+#### 5.1 ... „#TrauKeinerNull“ (2024)
 
-Gezielte Gerüchte über Wahlfälschung; Koordination via Telegram; Ziel: Vertrauensverlust in Wahlkommission. → Analoge Wirkung zu MfS‑Postkontrolle (Zweifel an Integrität Institution).
+Gezielte Gerüchte über Wahlfälschung; Koordination via Telegram; Ziel: ... in Wahlkommission. → Analoge Wirkung zu ... (Zweifel an Integrität Institution).
 
-#### 5.2 Ungarns Fidesz und das NGO‑Gesetz 2017
+#### 5.2 ... Fidesz und das NGO‑Gesetz 2017
 
-Label „ausländische Agenten“ schafft sozialen Makel, erschwert Finanzierung – Parallele zum DDR‑Berufsverbot für Oppositionelle.
+Label „ausländische ... schafft sozialen Makel, erschwert Finanzierung – Parallele zum ... für Oppositionelle.
 
 ---
 
-### 6 Bewertung: Faschistische Unterwanderung im demokratischen Gewand
+### 6 Bewertung: Faschistische ... im demokratischen Gewand
 
-* **Camouflage‑Effekt**: Nutzung demokratischer Prozesse (Gerichte, Medien, Wahlen) zur Durchsetzung autoritärer Ziele.
-* **Gradualismus**: Schleichender Übergang ohne „Gewalt‑Schock“; Öffentlichkeit nimmt Gefahren spät wahr (Levitsky/Ziblatt 2018).
+* ... demokratischer ... (Gerichte, Medien, Wahlen) zur Durchsetzung autoritärer Ziele.
+* **Gradualismus**: Schleichender Übergang ohne „Gewalt‑Schock“; Öffentlichkeit nimmt Gefahren spät wahr ... 2018).
 * **Ideologische Flexibilität**: Im Gegensatz zur starren SED‑Doktrin passen moderne Akteure Frames situativ an → schwerer justiziabel.
 
-**These:** Moderne Unterwanderung reproduziert Zersetzungslogik mit digitalen Mitteln und globaler Reichweite; dadurch womöglich **größere Resilienz gegen Aufdeckung** als analoge DDR‑Methoden.
+**These:** Moderne ... reproduziert ... mit digitalen Mitteln und globaler Reichweite; dadurch womöglich **größere Resilienz gegen Aufdeckung** als analoge DDR‑Methoden.
 
 ---
 
-### 7 Handlungsempfehlungen
+### 7 ...
 
 1. **Gesetz gegen strategische Prozessführung (Anti‑SLAPP)**
-2. **Digitale Forensik‑Units** in Verfassungsschutz (Frühwarnindikatoren für Mikro‑Targeting).
-3. **Whistleblower‑Amnestien** für staatliche „Infiltrations‑Instrukteure“.
-4. **Demokratie‑Monitor** (Bertelsmann + bpb) – jährlicher Zersetzungsindex.
-5. **Bildungscurriculum „Psychologische Kriegführung“** in Polizei‑ und Richterausbildung.
+2. **Digitale ... in Verfassungsschutz (Frühwarnindikatoren für Mikro‑Targeting).
+3. ... für staatliche ...
+4. ... + bpb) – jährlicher ...
+5. ... „Psychologische Kriegführung“** in Polizei‑ und ...
 
 ---
 
 ### 8 Fazit
 
-Die SED‑Zersetzung zeigt, dass Demokratien nicht nur durch Panzer, sondern durch das **Gift der sozialen Zerstörung** gefährdet sind. Aktuelle autoritär‑populistische Akteure übertragen diese Technik in digitale Arenen. Der demokratische Rechtsstaat muss daher nicht nur wehrhaft, sondern auch **resilient gegen subtile Unterwanderung** sein.
+Die ... zeigt, dass Demokratien nicht nur durch Panzer, ... durch das **Gift der sozialen Zerstörung** gefährdet sind. Aktuelle autoritär‑populistische Akteure übertragen diese Technik in digitale Arenen. Der demokratische Rechtsstaat muss daher nicht nur wehrhaft, ... auch **resilient gegen subtile ... sein.
 
 ---
 
 ### Literatur (Auswahl)
 
-* Arendt, H. (1951): **Origins of Totalitarianism**. New York.
+* Arendt, H. (1951): **Origins of ... New York.
 * BStU (1990): *Statistik operativer Vorgänge*. Berlin.
 * Friedrich, C./Brzezinski, Z. (1965): **Totalitarian Dictatorship and Autocracy**. New York.
-* Kowalczuk, I.-S. (2015): *Zersetzung – Methode einer Diktatur*. Berlin.
+* Kowalczuk, I.-S. (2015): ... – Methode einer Diktatur*. Berlin.
 * Levitsky, S./Ziblatt, D. (2018): *How Democracies Die*. New York.
-* Loewenstein, K. (1937): „Militant Democracy…“, *APSR* 31 (3).
+* ... K. (1937): „Militant Democracy…“, *APSR* 31 (3).
 * Müller‑Enbergs, H. (2012): *Inoffizielle Mitarbeiter des MfS*. Berlin.
 * Richtlinie 1/76 zur Entwicklung und Bearbeitung operativer Vorgänge (MfS‑Dokument).
-* Weitere Online‑Quellen siehe Inline‑Zitation.
+* Weitere ... siehe Inline‑Zitation.
 
 ---
 

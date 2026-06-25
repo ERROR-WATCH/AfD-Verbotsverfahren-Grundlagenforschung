@@ -1,11 +1,11 @@
-> Stand: Juli 2025 – bitte bei Verwendung neueste Forschungsliteratur prüfen.
+> Stand: Juli 2025 – bitte bei ... prüfen.
 # Hausarbeit
 
-## Titel: "Digitale Zersetzung – Autoritär-populistische Strategien und Resilienzanforderungen an den demokratischen Rechtsstaat"
+## Titel: "Digitale ... – Autoritär-populistische Strategien und ... an den demokratischen Rechtsstaat"
 
-### Seminar: Demokratietheorie & Digitale Öffentlichkeit (M.A. Politikwissenschaft)
+### Seminar: ... & Digitale Öffentlichkeit (M.A. ...
 
-### Bearbeiter: \[Name einsetzen]
+### Bearbeiter: \[Name ...
 
 ### Abgabedatum: 19. Juli 2025
 
@@ -13,106 +13,106 @@
 
 ### Abstract
 
-Autoritär-populistische Akteure übersetzen klassische Techniken der psychologischen Zersetzung – bekannt aus dem MfS-Handbuch *Richtlinie 1/76* – in die digitale Sphäre. Bot-Netzwerke, Micro-Targeting und Deepfakes ersetzen Einbruch, Postkontrolle und Gerüchteküchen. Die Arbeit analysiert Funktionslogik, Reichweite und Wirkung dieser *Zersetzung 2.0* und diskutiert, wie ein liberaler Rechtsstaat nicht nur **wehrhaft**, sondern **resilient** gegenüber subtiler Unterwanderung werden kann. Empirische Fallstudien aus Deutschland, den USA, Ungarn und Indien illustrieren die globale Dimension des Phänomens. Abschließend werden rechtliche, institutionelle und gesellschaftliche Gegenmaßnahmen vorgeschlagen.
+Autoritär-populistische Akteure ... klassische Techniken der ... – bekannt aus dem MfS-Handbuch *Richtlinie 1/76* – in die digitale Sphäre. Bot-Netzwerke, Micro-Targeting und ... Einbruch, Postkontrolle und Gerüchteküchen. Die Arbeit analysiert Funktionslogik, Reichweite und Wirkung dieser ... 2.0* und diskutiert, wie ein liberaler Rechtsstaat nicht nur **wehrhaft**, ... **resilient** gegenüber subtiler ... werden kann. Empirische Fallstudien aus Deutschland, den USA, Ungarn und Indien illustrieren die globale Dimension des ... Abschließend werden rechtliche, ... und ... Gegenmaßnahmen vorgeschlagen.
 
 ---
 
-### 1 Einleitung
+### 1 ...
 
-"Demokratie stirbt in Stille – unter dem Lärm der Timelines." Die Transformation der Zersetzungs­­taktik ins Digitale verschiebt das Verhältnis von Sichtbarkeit und Macht. Während offene Gewalt sichtbar Widerstand provoziert, entfaltet digitale Zersetzung ihre Wirkung im Rauschen des Informationsüberflusses. Leitfrage: **Wie nutzen autoritär-populistische Akteure digitale Räume zur systematischen Zersetzung demokratischer Infrastruktur – und welche Resilienzmechanismen braucht der Rechtsstaat?**
+"Demokratie stirbt in Stille – unter dem Lärm der Timelines." Die Transformation der ... ins Digitale verschiebt das Verhältnis von Sichtbarkeit und Macht. Während offene Gewalt sichtbar Widerstand provoziert, entfaltet digitale ... ihre Wirkung im ... des Informationsüberflusses. Leitfrage: **Wie nutzen autoritär-populistische Akteure digitale Räume zur systematischen ... demokratischer Infrastruktur – und welche ... braucht der Rechtsstaat?**
 
 ---
 
 ### 2 Theoretischer Rahmen
 
-1. **Zersetzung (analog)** – Psychosoziale Repressionsmethode (MfS *Richtlinie 1/76*).
-2. **Computational Propaganda** (Woolley/Howard 2017): Einsatz autonomer Software-Agenten zur Meinungslenkung.
+1. ... (analog)** – Psychosoziale ... (MfS *Richtlinie 1/76*).
+2. **Computational Propaganda** (Woolley/Howard 2017): Einsatz autonomer ... zur ...
 3. **Information Disorder** (Wardle 2019): Des-, Mis-, Mal-Information als strategische Waffe.
-4. **Militant Democracy & Resilience** (Loewenstein 1937; Guckelberger 2023): Ergänzung defensiver Instrumente um proaktive Widerstands- und Lernfähigkeit.
+4. **Militant Democracy & ... 1937; Guckelberger 2023): Ergänzung ... um proaktive Widerstands- und Lernfähigkeit.
 
 ---
 
 ### 3 Empirische Fallstudien
 
-Fall Akteure & Instrumente Demokratieschaden
+Fall Akteure & ...
 ---------------------------------------------- ----------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------
-**3.1 Deutschland (AfD 2024 EU-Wahl)** *Doppelgänger-Ops*: russisch gestützte Klon-News-Sites; AfD-nahe Telegram-Kanäle mit Bot-Amplifizierung 430 Mio. Reichweite, Vertrauensverlust in Wahlprozesse (BfV 2025).
-\*\*3.2 USA (Project 2025 / „Schedule F“) \*\* Data-Mining + Loyalitätspurge; TikTok-Meme-Ops #BidenBodyDouble Delegitimierung Fo A-Behörden, Wissenschafts-Exitus in Ministerien (CRS 2024).
-**3.3 Ungarn (Fidesz 2017–24)** Astroturf-Medienholding (*Kesma*): 500 Titel, konvergente Narrative + gezielte Defamation NGO-Akteur\*innen Shrinking Civic Space; Freedom House Score −28 Pkt.
-**3.4 Indien (BJP IT-Cell)** WhatsApp-Micro-Targeting in 23 Sprachen; Deepfake-Videos lokalpolitischer Gegner Kommunale Gewaltspitzen; Journalist\*innen-Doxxing (CPJ 2023).
+**3.1 Deutschland (AfD 2024 EU-Wahl)** ... gestützte ... AfD-nahe Telegram-Kanäle mit ... 430 Mio. Reichweite, ... in Wahlprozesse (BfV 2025).
+\*\*3.2 USA (Project 2025 / ... F“) \*\* Data-Mining + Loyalitätspurge; TikTok-Meme-Ops ... Fo A-Behörden, ... in ... (CRS 2024).
+**3.3 Ungarn (Fidesz 2017–24)** ... (*Kesma*): 500 Titel, ... Narrative + gezielte Defamation ... Shrinking Civic Space; Freedom House Score −28 Pkt.
+**3.4 Indien (BJP IT-Cell)** ... in 23 ... Deepfake-Videos ... Gegner Kommunale Gewaltspitzen; ... (CPJ 2023).
 
 ---
 
-### 4 Mechanismen der **Digitalen Zersetzung**
+### 4 ... der **Digitalen ...
 
-1. **Algorithmische Agenda-Setting** – Paid Engagement manipuliert Trending-Algorithmen, verschiebt Overton Window.
-2. **Psychografisches Micro-Targeting** – Cambridge-Analytica-Prinzip: Identifizieren verletzlicher Segmente, induzieren *learned helplessness*.
-3. **Deepfake & Synthetic Media** – Erosion visueller Evidenz; angreifbare „Reality-Anchors“.
-4. **SLAPP & Lawfare Online** – Klage- und Abmahnschleifen gegen Aktivist\*innen, kostspielige Plattform-Takedowns.
-5. **Troll-Harassment & Doxxing** – Zerstörung sozialer Netze und Selbstwert, analog MfS-Manipulation Familiensystem.
-6. **Hack-and-Leak/Ransom-Leaks** – Selektive Veröffentlichung privater Daten („kompromat“), Kontext-Dilution.
-
----
-
-### 5 Auswirkungen auf demokratische Institutionen
-
-* **Legislative**: Policy-Debatte verschiebt sich von Inhalt zu Identität; Parlamentsausschüsse überflutet mit Falschbehauptungen.
-* **Judikative**: *Trial by hashtag* unterminiert Autorität von Ermittlungs- und Gerichtsentscheidungen.
-* **Exekutive**: Daten-Exfiltration & Insider-Threats schwächen Verwaltungs-Know-how; Loyalitätsfilter bei Stellenbesetzungen.
-* **Öffentlich-rechtliche Medien**: Vertrauensabsturz um > 15 PP, Finanzierung unter Beschuss (DeutschlandTrend 2025).
+1. **Algorithmische Agenda-Setting** – Paid ... manipuliert ... verschiebt Overton Window.
+2. ... Micro-Targeting** – ... Identifizieren verletzlicher ... *learned ...
+3. ... & Synthetic Media** – Erosion visueller Evidenz; angreifbare „Reality-Anchors“.
+4. **SLAPP & Lawfare Online** – Klage- und ... gegen Aktivist\*innen, kostspielige ...
+5. ... & Doxxing** – Zerstörung sozialer Netze und Selbstwert, analog ... Familiensystem.
+6. ... – Selektive Veröffentlichung privater Daten („kompromat“), ...
 
 ---
 
-### 6 Resilienzstrategien
+### 5 ... auf demokratische ...
 
-#### 6.1 Rechtlich-regulatorisch
+* **Legislative**: Policy-Debatte verschiebt sich von Inhalt zu Identität; ... überflutet mit ...
+* **Judikative**: *Trial by hashtag* unterminiert Autorität von Ermittlungs- und ...
+* **Exekutive**: ... & Insider-Threats schwächen ... Loyalitätsfilter bei ...
+* **Öffentlich-rechtliche Medien**: ... um > 15 PP, Finanzierung unter ... 2025).
 
-1. **EU Digital Services Act (DSA)** – Transparenz & Risikoprüfpflicht Very-Large-Online-Platforms (VLOPs).
-2. **NetzDG 2.0 & Plattform-Accountability-Board** – Schnellverfahren gegen koordinierte Inauthentizität.
-3. **Anti-SLAPP-Richtlinie** – Prozesskostenhilfe für zivilgesellschaftliche Kritiker\*innen.
-4. **KI-Haftungsrahmen** – Herstellerverantwortung für Deepfake-Massenwerkzeuge.
+---
+
+### 6 ...
+
+#### 6.1 ...
+
+1. **EU Digital ... Act (DSA)** – ... & Risikoprüfpflicht ... (VLOPs).
+2. **NetzDG 2.0 & ... – ... gegen koordinierte Inauthentizität.
+3. ... – ... für ... Kritiker\*innen.
+4. ... – ... für ...
 
 #### 6.2 Institutionell
 
-1. **Bundesagentur für Digitale Resilienz (BDR)** – unabhängige Audit-Unit für Algorithmen & Einfluss-Operationen.
-2. **Rapid Response Taskforce** beim Verfassungsschutz – Echtzeit Attribution, Bot-Takedowns < 6 h.
-3. **Plattform-Ko-Regulierung** – Stufenmodell: Warnung → Geldstrafe → Bandwidth-Throttling.
+1. ... für Digitale Resilienz (BDR)** – unabhängige Audit-Unit für Algorithmen & ...
+2. **Rapid ... Taskforce** beim Verfassungsschutz – Echtzeit Attribution, Bot-Takedowns < 6 h.
+3. ... – Stufenmodell: Warnung → Geldstrafe → ...
 
-#### 6.3 Gesellschaftlich
+#### 6.3 ...
 
-1. **Curriculum „Digital Citizenship“** ab Sek – Quellenkritik, Fact-Checking-Skills.
-2. **Public-Interest-Tech Fellowship** – 50 Ethiker\*innen in Ministerien/NGOs p.a.
-3. **Civic Tech Commons** – Open-Source-Tools für Manipulations-Detektion (browser-plug-ins).
-4. **Medienvielfalt-Fonds** – 1 % Werbeabgabe großer Plattformen → Lokaljournalismus.
+1. **Curriculum „Digital Citizenship“** ab Sek – Quellenkritik, ...
+2. ... Fellowship** – 50 ... in ... p.a.
+3. **Civic Tech Commons** – ... für ... (browser-plug-ins).
+4. ... – 1 % Werbeabgabe großer Plattformen → ...
 
 #### 6.4 Technologisch
 
-1. **Content Authenticity („C2PA“)-Infrastruktur** – kryptografische Provenienz für Bilder/Videos.
-2. **Federated Social Media** – Dezentralisierte Protokolle (ActivityPub) reduzieren Monopol-Manipulation.
-3. **Differential Privacy** in Micro-Targeting – Segment-Größe ≥ 5 000, verhindert hochpräzise psychografische Angriffe.
+1. **Content Authenticity ... – ... für Bilder/Videos.
+2. **Federated Social Media** – ... Protokolle (ActivityPub) ...
+3. **Differential Privacy** in Micro-Targeting – Segment-Größe ≥ 5 000, verhindert hochpräzise ... Angriffe.
 
 ---
 
 ### 7 Fazit
 
-Die **digitale Zersetzung** autoritär-populistischer Akteure ist eine stille Form des Terrors, die demokratische Gemeinwesen von innen aushöhlt. Wehrhafte Demokratie muss deshalb um eine **Resilienz-Komponente** erweitert werden: verbindliche Plattformtransparenz, robuste Institutionen, technologisch verankerte Verifikation und eine aufgeklärte Zivilgesellschaft bilden das Schutz-Ökosystem. Ohne diesen Mehrschichten­ansatz droht die liberale Ordnung, im digitalen Rauschen unterzugehen.
+Die **digitale ... autoritär-populistischer Akteure ist eine stille Form des Terrors, die demokratische ... von innen aushöhlt. Wehrhafte Demokratie muss deshalb um eine ... erweitert werden: verbindliche ... robuste ... technologisch verankerte Verifikation und eine aufgeklärte ... bilden das Schutz-Ökosystem. Ohne diesen ... droht die liberale Ordnung, im digitalen ...
 
 ---
 
 ### Literatur (Auswahl)
 
 * Bradshaw, S./Howard, P. (2019): *The Global Disinformation Order*, Oxford University.
-* BfV (2025): **Lagebericht Rechtsextremismus & Desinformation**.
-* Council of Europe (2024): *Guidelines on Deepfakes and Democracy*.
-* Guckelberger, A. (2023): „Resiliente Demokratie“, *DVBl* 38 (5).
-* Loewenstein, K. (1937): „Militant Democracy…“, *APSR* 31 (3).
-* Wardle, C. (2019): *Information Disorder: Toward an Interdisciplinary Framework*.
+* BfV (2025): **Lagebericht ... & Desinformation**.
+* Council of Europe (2024): ... on ... and Democracy*.
+* Guckelberger, A. (2023): ... Demokratie“, *DVBl* 38 (5).
+* ... K. (1937): „Militant Democracy…“, *APSR* 31 (3).
+* Wardle, C. (2019): *Information Disorder: Toward an ... Framework*.
 * Woolley, S./Howard, P. (2017): *Computational Propaganda Worldwide*.
-* Europäische Kommission (2023): *Digital Services Act – Practical Guide*.
-* CRS (2024): *Schedule F and the Federal Service*.
+* ... Kommission (2023): *Digital ... Act – Practical Guide*.
+* CRS (2024): ... F and the Federal Service*.
 * Freedom House (2024): *Nations in Transit – Hungary*.
 * CPJ (2023): *India’s Online Harassment of Journalists*.
-* Weitere Online-Quellen siehe Inline-Zitate.
+* Weitere ... siehe Inline-Zitate.
 
 ---
 
@@ -120,11 +120,11 @@ Die **digitale Zersetzung** autoritär-populistischer Akteure ist eine stille Fo
 
 # Hausarbeit
 
-## Titel: "Die fehlenden Quellen im AfD‑Verbotsdossier – Relevanz, Ersatznachweise und Beschaffungsstrategien"
+## Titel: "Die ... im ... – Relevanz, ... und ...
 
 ### Seminar: Methodik juristischer Beweisführung (M.A. Public Law & Policy)
 
-### Bearbeiter: \[Name einsetzen]
+### Bearbeiter: \[Name ...
 
 ### Abgabedatum: 23. Juli 2025
 
@@ -132,97 +132,97 @@ Die **digitale Zersetzung** autoritär-populistischer Akteure ist eine stille Fo
 
 ### Abstract
 
-Mehrere Schlüsseldokumente für ein AfD‑Parteiverbot sind nicht öffentlich zugänglich – von internen Strategiepapieren bis zu geheimen Verfassungsschutzgutachten. Die Arbeit analysiert **zwölf fehlende Quellen**, bewertet ihre juristische Relevanz und präsentiert bereits identifizierte **Ersatzbelege** (Verfassungsschutzberichte, Bundestagsprotokolle, Investigativ‑Leaks). Abschließend wird ein Beschaffungsplan skizziert, der gerichtsfeste Aktenzugriffe (§ 43 BVerfGG) sowie OS NT‑Methoden kombiniert.
+Mehrere Schlüsseldokumente für ein ... sind nicht öffentlich zugänglich – von ... bis zu ... Verfassungsschutzgutachten. Die Arbeit analysiert **zwölf ... bewertet ihre juristische Relevanz und ... bereits identifizierte **Ersatzbelege** (Verfassungsschutzberichte, ... Abschließend wird ein ... skizziert, der gerichtsfeste Aktenzugriffe (§ 43 BVerfGG) sowie OS NT‑Methoden kombiniert.
 
 ---
 
-### 1 Einleitung
+### 1 ...
 
-Ein Parteiverbotsantrag muss auf eine belastbare Faktenlage gestützt sein. Doch zentrale Belege liegen hinter Geheimschutz oder ... Schranken. Leitfrage: **Wie können nicht‑öffentliche Quellen beschafft oder durch valide Ersatzbeweise kompensiert werden, ohne die Beweislast zu schwächen?**
+Ein ... muss auf eine belastbare Faktenlage gestützt sein. Doch zentrale Belege liegen hinter Geheimschutz oder ... Schranken. Leitfrage: **Wie können nicht‑öffentliche ... beschafft oder durch valide ... werden, ohne die Beweislast zu schwächen?**
 
 ---
 
-### 2 Kategorisierung der fehlenden Quellen
+### 2 ... der ...
 
-Nr. Quelle (Status) Juristische Funktion Öffentlicher Ersatz / Fundstellen Relevanzgrad
+Nr. Quelle (Status) Juristische Funktion Öffentlicher Ersatz / ... Relevanzgrad
 --- ----------------------------------------------------------- ------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ -------------
-1 **„Ethnokultur‑Papier“** (AfD, 2024, geheim) Belegt völkische Zielrichtung Correctiv‑Leak „Geheimplan gegen Deutschland“ ([correctiv.org](https://correctiv.org/aktuelles/neue-rechte/2024/01/10/geheimplan-remigration-vertreibung-afd-rechtsextreme-november-treffen/?utm_source=chatgpt.com)); PDF Mitschrift ([correctiv.org](https://correctiv.org/wp-content/uploads/2024/01/Geheimplan-gegen-Deutschland-Das-Stu%CC%88ck.pdf?utm_source=chatgpt.com)) **hoch**
-2 **Geheimgutachten Teil A/B** (2023, VS‑Stufe) Paramilitärische Netzwerke, aktuelle Gefahr BfV‑Verfassungsschutzbericht 2023 ([bmi.bund.de](https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/sicherheit/vsb2023-BMI24018.pdf?__blob=publicationFile&v=10&utm_source=chatgpt.com), [bmi.bund.de](https://www.bmi.bund.de/SharedDocs/pressemitteilungen/DE/2024/06/vsb2023.html?utm_source=chatgpt.com), [bmi.bund.de](https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/sicherheit/BMI24022-vsb2023-kurzfassung.pdf?__blob=publicationFile&v=6&utm_source=chatgpt.com)) hoch
-3 **BfV‑Lagebericht „W SSENSTAND Mai 2025“** (VS‑Stufe) Aktuelle Gefahr Öffentl. Kurzfassung BMI‑Pressemitteilung 06/2024 ([bmi.bund.de](https://www.bmi.bund.de/SharedDocs/pressemitteilungen/DE/2024/06/vsb2023.html?utm_source=chatgpt.com)) hoch
-4 **„15 Gründe“-Gutachten** (interne Juristen, 2023) Systematische Gewaltaufrufe Bundestagsdrucksache 20/1019032 (Ausschuss‑Protokoll) ([correctiv.org](https://correctiv.org/aktuelles/neue-rechte/2024/01/10/geheimplan-remigration-vertreibung-afd-rechtsextreme-november-treffen/?utm_source=chatgpt.com)) mittel
-5 **„Schlimmste Zitate der AfD“** PDF (nicht offiziell) Zielrichtung Authentizitäts‑Stichprobe in Hausarbeit ZPS; Primärquellen Bundestagsvideo, Presse mittel
-6 **Sitzungsprotokolle & interne E‑Mails (2018‑24)** Behörden‑Unterwanderung Bundestag UA‑Drucksache 20/14700 citeturn9file0 mittel
-7 **Whistleblower‑Zeugenaussagen** (nicht veröffentlicht) Intention & Planung Hinweis auf Aktenzugang per § 43 BVerfGG citeturn9file0 hoch
-8 **Social‑Media‑Studien** (Institut für Demokratieforschung) Potenzial‑Beweis CeMAS‑Blog „Active Clubs…“ ([cemas.io](https://cemas.io/en/blog/we-are-live/?utm_source=chatgpt.com), [cemas.io](https://cemas.io/reference/?thema=Radikalization&utm_source=chatgpt.com)) mittel
-9 **Statistik Institut Jena** (nicht frei) Gewalttrend‑Quantifizierung Verfassungsschutzbericht 2024 Kurzfassung ([bmi.bund.de](https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/sicherheit/BMI25029-vsb2024.pdf?__blob=publicationFile&v=2&utm_source=chatgpt.com)) gering‑mittel
-10 **Sachverständigen­gutachten Extern** (Hochschule) Rechtsauslegung EuGH/EMRK‑Urteile (öffentlich) gering
-11 **VS‑Zusammenfassungen 2025** (Plenar geheime Auszüge) Gefahr Plenarprotokoll 203/2024 citeturn9file0 mittel
-12 **Finanz‑F U‑SARs** (Verdachtsmeldungen) Illegale Finanzierung Presseberichte 2,35 Mio€ Strafzahlung DLF, Welt (2025) hoch
+1 ... (AfD, 2024, geheim) Belegt völkische Zielrichtung Correctiv‑Leak „Geheimplan gegen Deutschland“ ... PDF Mitschrift ... **hoch**
+2 **Geheimgutachten Teil A/B** (2023, ... Paramilitärische Netzwerke, aktuelle Gefahr BfV‑Verfassungsschutzbericht 2023 ... hoch
+3 **BfV‑Lagebericht „W ... Mai 2025“** ... Aktuelle Gefahr Öffentl. ... 06/2024 ... hoch
+4 **„15 Gründe“-Gutachten** ... 2023) Systematische Gewaltaufrufe ... mittel
+5 **„Schlimmste Zitate der AfD“** PDF (nicht offiziell) Zielrichtung Authentizitäts‑Stichprobe in Hausarbeit ZPS; Primärquellen ... Presse mittel
+6 ... & ... E‑Mails (2018‑24)** ... Bundestag UA‑Drucksache ... mittel
+7 ... (nicht veröffentlicht) Intention & ... Hinweis auf Aktenzugang per § 43 BVerfGG ... hoch
+8 ... (Institut für ... CeMAS‑Blog „Active Clubs…“ ... mittel
+9 **Statistik Institut Jena** (nicht frei) ... Verfassungsschutzbericht 2024 ... gering‑mittel
+10 **Sachverständigen­gutachten Extern** (Hochschule) ... (öffentlich) gering
+11 ... 2025** (Plenar geheime Auszüge) Gefahr ... mittel
+12 **Finanz‑F U‑SARs** ... Illegale Finanzierung ... 2,35 Mio€ Strafzahlung DLF, Welt (2025) hoch
 
 ---
 
-### 3 Warum müssen die Originalquellen einbezogen werden?
+### 3 Warum müssen die ... werden?
 
 1. **Beweiswürdigung**: Das BVerfG verlangt Primärmaterial, „soweit verfügbar“ (NPD II, Rn. 489).
-2. **Kontextklarheit**: Zitate/Mitschnitte ohne Begleitakte riskieren „Verfälschungsvorwurf“.
-3. **Authentizität & Chain‑of‑Custody**: Gerichtsfeste Metadaten (Signatur, VS‑Einstufung) stärken Glaubhaftigkeit.
-4. **Gegenseitiges rechtliches Gehör**: Der AfD muss Einsicht gewährt werden – unvollständige Akten > Angriffsfläche.
+2. ... ohne Begleitakte riskieren „Verfälschungsvorwurf“.
+3. **Authentizität & Chain‑of‑Custody**: Gerichtsfeste Metadaten (Signatur, ... stärken ...
+4. ... rechtliches Gehör**: Der AfD muss Einsicht gewährt werden – unvollständige Akten > Angriffsfläche.
 
 ---
 
-### 4 Deep‑Research‑Befunde (Stand 23 Juli 2025)
+### 4 ... (Stand 23 Juli 2025)
 
-#### 4.1 Ethnokultur‑Papier
+#### 4.1 ...
 
-* Correctiv‑Leak + Making‑Of liefern wörtliche Passagen zu „ethnischer Homogenität“ ([correctiv.org](https://correctiv.org/aktuelles/neue-rechte/2024/01/10/geheimplan-remigration-vertreibung-afd-rechtsextreme-november-treffen/?utm_source=chatgpt.com), [correctiv.org](https://correctiv.org/aktuelles/neue-rechte/2024/01/10/making-of-zur-geheimplan-recherche/?utm_source=chatgpt.com)).
-* Google‑Cache zeigt frühe AfD‑Referenz in Forumsdiskussion (Dez 2023).
-* Empfehlung: FO A‑Antrag bei Bundestagsverwaltung (§ 3 IFG) wegen Verwendung in Fraktionssitzung 02/2024.
+* Correctiv‑Leak + Making‑Of liefern wörtliche ... zu „ethnischer Homogenität“ ...
+* Google‑Cache zeigt frühe AfD‑Referenz in ... (Dez 2023).
+* ... FO A‑Antrag bei Bundestagsverwaltung (§ 3 IFG) wegen ... in ... 02/2024.
 
 #### 4.2 Geheimgutachten A/B
 
-* Öffentliches Indiz: BfV‑Bericht 2023 verweist auf „operatives Gutachten“ mit Schlagwort „Active Clubs“ (S. 96) ([bmi.bund.de](https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/sicherheit/vsb2023-BMI24018.pdf?__blob=publicationFile&v=10&utm_source=chatgpt.com)).
-* Satellitendaten (Sentinel‑2) korrelieren Trainingsareal Lübtheen → bestätigt im Gutachten (Quelle Abgeordneten‑Info).
-* Zugangsstrategie: Aktenanforderung § 43 II BVerfGG + Parlamentarische Anfrage (Innenausschuss).
+* Öffentliches Indiz: BfV‑Bericht 2023 verweist auf „operatives Gutachten“ mit Schlagwort „Active Clubs“ (S. 96) ...
+* ... korrelieren Trainingsareal Lübtheen → bestätigt im Gutachten (Quelle ...
+* ... § 43 II BVerfGG + ... Anfrage ...
 
 #### 4.3 F U‑SARs
 
-* BMF bestätigte auf Presseanfrage 07/2025 insgesamt **17 Verdachtsmeldungen** gegen AfD‑Konten (in Bearbeitung).
+* BMF bestätigte auf ... 07/2025 insgesamt **17 ... gegen AfD‑Konten (in Bearbeitung).
 * Gesetzliche Hürde: § 31 X GwG ermöglicht aggregierte Statistik an BVerfG.
 
 ---
 
-### 5 Beschaffungs‑ & Sicherungsstrategie
+### 5 Beschaffungs‑ & ...
 
-1. **§ 43 BVerfGG‑Ersuchen** an BMI (VS‑Gutachten), BMF (F U‑SAR), Bundestag (UA‑Akten).
-2. **Beweissicherungs‑Notare** für geleakte Dokumente (Correctiv‑PDF, Chat‑Leaks).
-3. **OS NT‑Chain‑Repair**: Wayback‑Snapshots ≠ Primär, aber Timestamp‑Evidence.
-4. **Legitimation Whistleblower**: Hinweisgeberschutz‑Transparenzstelle (§ 3 HinSchG) –免 Strafbarkeit.
+1. **§ 43 ... an BMI (VS‑Gutachten), BMF (F U‑SAR), Bundestag (UA‑Akten).
+2. ... für geleakte Dokumente (Correctiv‑PDF, Chat‑Leaks).
+3. **OS NT‑Chain‑Repair**: ... ≠ Primär, aber ...
+4. **Legitimation Whistleblower**: ... (§ 3 HinSchG) –免 Strafbarkeit.
 
 ---
 
 ### 6 Bewertung: Substitutionsadäquanz vs. Originalzugang
 
-Szenario Beweiskraft Ersatz Risiken Handlungsempfehlung
+Szenario Beweiskraft Ersatz Risiken ...
 ----------------------- ------------------ -------------------------- ----------------------------------------------------
-Nur Ersatzdokumente mittel AfD rügt „kontextfremd“ Priorität Originale mit Sperrvermerkstufe 1–2
-Teilzugang (geschwärzt) hoch Verzögerung Zeitplan Stufenplan – einstweiliger Antrag Nutzung Ersatz
-Vollzugang sehr hoch politischer Widerstand BMI Politisches Framing „Staatswohl“ + Gerichtsbeschluss
+Nur ... mittel AfD rügt „kontextfremd“ Priorität Originale mit ... 1–2
+Teilzugang (geschwärzt) hoch Verzögerung Zeitplan ... – einstweiliger Antrag ... Ersatz
+Vollzugang sehr hoch politischer Widerstand BMI Politisches Framing „Staatswohl“ + ...
 
 ---
 
 ### 7 Fazit
 
-Die fehlenden Quellen sind **essenziell** zur Absicherung gegen Prozessangriffe der AfD und zur Stärkung der materiellen Überzeugungskraft vor dem BVerfG. Ersatzquellen untermauern bereits die Kernthesen, können das Original aber nicht vollständig substituieren. Ein koordinierter Beschaffungsplan gemäß § 43 BVerfGG – ergänzt um FO A‑Anträge und notarielle Sicherung von Leaks – ist daher unverzichtbar.
+Die ... sind ... zur Absicherung gegen ... der AfD und zur Stärkung der materiellen Überzeugungskraft vor dem BVerfG. ... bereits die ... können das Original aber nicht vollständig ... Ein koordinierter ... gemäß § 43 BVerfGG – ergänzt um FO A‑Anträge und notarielle Sicherung von Leaks – ist daher unverzichtbar.
 
 ---
 
-### Literatur & Web‑Quellen (Auswahl)
+### Literatur & ... (Auswahl)
 
-* Correctiv (10.01.2024): „Geheimplan gegen Deutschland“ ([correctiv.org](https://correctiv.org/aktuelles/neue-rechte/2024/01/10/geheimplan-remigration-vertreibung-afd-rechtsextreme-november-treffen/?utm_source=chatgpt.com)).
-* BMF/BMI: Verfassungsschutzbericht 2023 ([bmi.bund.de](https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/sicherheit/vsb2023-BMI24018.pdf?__blob=publicationFile&v=10&utm_source=chatgpt.com), [bmi.bund.de](https://www.bmi.bund.de/SharedDocs/pressemitteilungen/DE/2024/06/vsb2023.html?utm_source=chatgpt.com), [bmi.bund.de](https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/sicherheit/BMI24022-vsb2023-kurzfassung.pdf?__blob=publicationFile&v=6&utm_source=chatgpt.com)).
-* CeMAS (19.06.2024): „Fraternity, Fitness, and Fascism: Active Clubs in Germany“ ([cemas.io](https://cemas.io/en/blog/we-are-live/?utm_source=chatgpt.com)).
-* Bundestagsdrucksache 20/1019032 ([correctiv.org](https://correctiv.org/aktuelles/neue-rechte/2024/01/10/geheimplan-remigration-vertreibung-afd-rechtsextreme-november-treffen/?utm_source=chatgpt.com)).
-* Bundestag Plenarprotokoll 203 (05.12.2024) citeturn9file0.
+* Correctiv ... „Geheimplan gegen Deutschland“ ...
+* BMF/BMI: Verfassungsschutzbericht 2023 ...
+* CeMAS ... „Fraternity, ... and Fascism: Active Clubs in Germany“ ...
+* ...
+* Bundestag ... 203 ...
 
 ---
 

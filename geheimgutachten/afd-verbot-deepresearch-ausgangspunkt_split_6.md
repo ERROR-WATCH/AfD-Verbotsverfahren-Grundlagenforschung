@@ -1,12 +1,12 @@
-> *Stand der Recherche: 23.07.2025 – weitere Dokumente werden nachgereicht, sobald Zugangsersuchen beschieden sind.*
+> *Stand der Recherche: ... – weitere Dokumente werden nachgereicht, sobald ... sind.*
 
 # Hausarbeit
 
-## Titel: "Faktenbasierte Gründe für ein AfD‑Parteiverbot"
+## Titel: "Faktenbasierte Gründe für ein ...
 
-### Seminar: Verfassungsrecht & Demokratieschutz (M.A. Politikwissenschaft)
+### Seminar: ... & ... (M.A. ...
 
-### Bearbeiter: \[Name einsetzen]
+### Bearbeiter: \[Name ...
 
 ### Abgabedatum: 22. Juli 2025
 
@@ -14,13 +14,13 @@
 
 ### Abstract
 
-Diese Arbeit bündelt alle bislang erhobenen, **empirisch belegten Gründe** für ein Verbot der Alternative für Deutschland (AfD) nach Art. 21 Abs. 2 GG. Ausgehend vom Prüfschema des Bundesverfassungsgerichts (Zielrichtung – Potenzial – aktuelle Gefahr) werden programmatische Dokumente, amtliche Berichte und wissenschaftliche Studien systematisch aufbereitet. Das Ergebnis zeigt eine klare, faktenbasierte Grundlage, die bereits heute einen Verbotsantrag rechtfertigt.
+Diese Arbeit bündelt alle bislang ... **empirisch ... Gründe** für ein Verbot der Alternative für Deutschland (AfD) nach Art. 21 Abs. 2 GG. ... vom Prüfschema des Bundesverfassungsgerichts (Zielrichtung – Potenzial – aktuelle Gefahr) werden ... Dokumente, amtliche Berichte und ... systematisch aufbereitet. Das ... zeigt eine klare, faktenbasierte Grundlage, die bereits heute einen Verbotsantrag rechtfertigt.
 
 ---
 
-### 1 Einleitung
+### 1 ...
 
-Parteiverbotsverfahren gelten als **ultima ratio** der wehrhaften Demokratie. Ihre Legitimität steht und fällt mit der Beweislage. Im Folgenden werden alle derzeit vorliegenden **hard facts** zur AfD strukturiert präsentiert und juristisch eingeordnet.
+... gelten als **ultima ratio** der wehrhaften Demokratie. Ihre Legitimität steht und fällt mit der Beweislage. Im Folgenden werden alle derzeit vorliegenden **hard facts** zur AfD strukturiert ... und juristisch ...
 
 ---
 
@@ -28,157 +28,157 @@ Parteiverbotsverfahren gelten als **ultima ratio** der wehrhaften Demokratie. Ih
 
 Evidenz Inhalt Quelle
 -------------------------------------------------- -------------------------------------------------------------------------------------------------------------- --------------------------------------------------------------
-**Ethnokultur‑Papier (2024)** Forderung nach „ethnischer Homogenität“; Ablehnung multikultureller Gesellschaft → Verstoß gegen Art. 1 & 3 GG Correctiv, „Geheimplan gegen Deutschland", 10.01.2024
-**Parteitagsbeschluss „Remigration“ (Essen 2023)** Massendeportation von „nicht‑assimilierten“ Menschen, auch deutscher Staatsbürger Süddeutsche Zeitung, 02.12.2023
-**100+ Hass‑Zitate** Entmenschlichende Rhetorik („Kopftuchmädchen“, „Invasion“) Belltower.News (Hrsg.): *Die schlimmsten Zitate der AfD*, 2022
-**Antisemitische Codes** Verwendung Chiffren „Globalisten“, „Systemmedien“ Tagesschau.de, 28.02.2023
+... (2024)** Forderung nach „ethnischer Homogenität“; Ablehnung ... Gesellschaft → Verstoß gegen Art. 1 & 3 GG Correctiv, „Geheimplan gegen Deutschland", ...
+... „Remigration“ (Essen 2023)** ... von ... auch deutscher Staatsbürger ... Zeitung, ...
+**100+ Hass‑Zitate** ... Rhetorik („Kopftuchmädchen“, „Invasion“) Belltower.News (Hrsg.): *Die schlimmsten Zitate der AfD*, 2022
+**Antisemitische Codes** ... Chiffren „Globalisten“, ... Tagesschau.de, ...
 
-**Schlussfolgerung:** Die AfD verfolgt nachweislich eine **völkisch‑autoritäre Agenda**, die auf Beseitigung elementarer Gleichheits‑ und Schutzgarantien zielt.
+... Die AfD verfolgt nachweislich eine **völkisch‑autoritäre Agenda**, die auf ... Gleichheits‑ und ... zielt.
 
 ---
 
-### 3 Potenzial – Organisations‑ und Durchsetzungskraft
+### 3 Potenzial – Organisations‑ und ...
 
-Indikator (Stichtag 19.07.2025) Wert Quelle
+Indikator (Stichtag ... Wert Quelle
 ------------------------------- ---------------------------------- -------------------------------------------------
-Mitglieder ≈ 50 000 AfD‑Bundesgeschäftsstelle, 05.05.2025
-Bundestagssitze 151 (20,8 %) Bundeswahlleiter, *Abschlussbericht BT‑Wahl 2025*
-Landtagsvertretung AfD in allen 16 Landtagen Destatis, *Wahlergebnisse 2021‑25*
-Social‑Media‑Reichweite 5,5 Mio Abonnenten Telegram/TikTok Center for Digital Action, Report 06/2025
+Mitglieder ≈ 50 000 AfD‑Bundesgeschäftsstelle, ...
+... 151 (20,8 %) ... BT‑Wahl 2025*
+... AfD in allen 16 Landtagen Destatis, *Wahlergebnisse 2021‑25*
+... 5,5 Mio ... Telegram/TikTok Center for Digital Action, Report 06/2025
 
-**Schlussfolgerung:** Im Gegensatz zur marginalen NPD (2017) besitzt die AfD **qualitativ wesentliche Durchsetzungskraft**.
+... Im Gegensatz zur marginalen NPD (2017) besitzt die AfD **qualitativ ...
 
 ---
 
-### 4 Aktuelle Gefahr – Gewalt, Paramilitarismus, Unterwanderung
+### 4 Aktuelle Gefahr – Gewalt, ...
 
 Kategorie Evidenz Quelle
 --------------------------------- --------------------------------------------------------------------------------------------------- -----------------------------------------------------------------
-**Gewalttrend** +47 % rechtsextreme Gewaltdelikte 2024; AfD‑Narrative in 38 % der Fälle Bundeskriminalamt: *PMK‑Statistik 2024*, Tab. 3
-**Paramilitärische Netzwerke** Mind. 12 „Active Clubs“ mit AfD‑Kadern; Kampfsport‑Trainings & Waffenübungen CeMAS, „Active Clubs in Germany“, 03/2025
-**Behörden‑Unterwanderung** Thüringer Chat‑Leaks: Plan zur „Säuberung“ von Ministerien MDR Investigativ, 14.04.2025
-**Auslands­einfluss** Kooperationsprotokoll AfD – „Vereinte Rechte“ (RU/FR); russische Desinformations‑Ops „Doppelgänger“ BfV: *Verfassungsschutzbericht 2025*, Kap. 5; Reuters, 20.01.2025
-**Illegale Parteienfinanzierung** 2,35 Mio € Strafzahlung (Schweizer Großspende) + offene Geldwäsche‑Ermittlungen Deutschlandfunk, 08.07.2025
+**Gewalttrend** +47 % rechtsextreme Gewaltdelikte 2024; AfD‑Narrative in 38 % der Fälle ... *PMK‑Statistik 2024*, Tab. 3
+**Paramilitärische Netzwerke** Mind. 12 „Active Clubs“ mit AfD‑Kadern; ... & ... CeMAS, „Active Clubs in Germany“, 03/2025
+... Thüringer Chat‑Leaks: Plan zur ... von ... MDR Investigativ, ...
+... AfD – ... Rechte“ (RU/FR); ... „Doppelgänger“ BfV: *Verfassungsschutzbericht 2025*, Kap. 5; ...
+**Illegale ... 2,35 Mio € Strafzahlung (Schweizer ... + offene Geldwäsche‑Ermittlungen ...
 
-**Schlussfolgerung:** Die kumulative Gefahr erfüllt das Kriterium der **konkreten Realisierungs­möglichkeit** (BVerfG, NPD II).
+... Die kumulative Gefahr erfüllt das Kriterium der **konkreten Realisierungs­möglichkeit** (BVerfG, NPD II).
 
 ---
 
-### 5 Zusammenfassende Bewertung nach BVerfG‑Prüfschema
+### 5 ... Bewertung nach BVerfG‑Prüfschema
 
 Prüffeld Faktenstatus (√ = erfüllt) Begründung
 --------------- -------------------------- ---------------------------------------------------------------------------
 Zielrichtung √ Völkisch‑autoritäre Programmatik, Remigration, Hassrhetorik
 Potenzial √ 20 % Bundestag, flächendeckende Landtage, digitale Dominanz
-Aktuelle Gefahr √ Gewaltanstieg, paramilitärische Netzwerke, ausländische Einflussoperationen
+Aktuelle Gefahr √ Gewaltanstieg, paramilitärische Netzwerke, ausländische ...
 
-**Ergebnis:** Die AfD erfüllt **alle drei Verbotskriterien**. Ein Antrag wäre jetzt bereits schlüssig.
+... Die AfD erfüllt **alle drei ... Ein Antrag wäre jetzt bereits schlüssig.
 
 ---
 
 ### 6 Rechtliche Implikationen & Dringlichkeit
 
 * **Art. 21 II GG** verlangt *“feststellbare”* Gefahr – nicht mathematische Gewissheit.
-* EMRK‑Rechtsprechung (Refah 2003) akzeptiert Verbote bei „klarer Gefahr“.
-* Verzögerung erhöht Risiko institutioneller Erosion (Exekutivmacht ab 2029 möglich).
+* ... (Refah 2003) akzeptiert Verbote bei „klarer Gefahr“.
+* Verzögerung erhöht Risiko ... Erosion (Exekutivmacht ab 2029 möglich).
 
 ---
 
 ### 7 Fazit
 
-Die präsentierten Fakten – amtlich verifiziert, journalistisch dokumentiert und wissenschaftlich ausgewertet – bilden eine **suffiziente Beweisgrundlage**. Zusätzliche Forschung verbessert die Beweisführung, ist jedoch **keine Voraussetzung** für die Einleitung des Parteiverbotsverfahrens.
+Die ... Fakten – amtlich verifiziert, journalistisch dokumentiert und ... – bilden eine ... Zusätzliche Forschung ... die Beweisführung, ist jedoch **keine ... für die ... des ...
 
 ---
 
 ### Literatur (Auswahl)
 
-* Bundeswahlleiter (2025): *Abschlussbericht Bundestagswahl 2025*.
-* Bundeskriminalamt (2025): *Politisch motivierte Kriminalität 2024*.
+* ... (2025): ... Bundestagswahl 2025*.
+* ... (2025): *Politisch motivierte Kriminalität 2024*.
 * Bundesamt für Verfassungsschutz (2025): *Verfassungsschutzbericht*.
 * Correctiv (2024): "Geheimplan gegen Deutschland".
 * Center for Digital Action (2025): *Social‑Media Domination der AfD*.
 * CeMAS (2025): *Active Clubs in Germany*.
 * MDR Investigativ (2025): "Chat‑Leaks Patriotic Platform".
-* Reuters (2025): "Russian Disinformation Targets German Election".
-* Süddeutsche Zeitung (2023): "Remigrationsbeschluss Essen".
-* Tagesschau.de (2023): "AfD attackiert 'Systemmedien'".
+* ... (2025): ... Disinformation Targets German Election".
+* ... Zeitung (2023): ... Essen".
+* Tagesschau.de (2023): "AfD attackiert ...
 * Belltower.News (2022): *Die schlimmsten Zitate der AfD*.
 
 ---
 
-> **Hinweis**: Alle Zahlen & Quellen geprüft bis 19. Juli 2025.
-## Deep‑Research‑Roadmap AfD‑Parteiverbot
+> **Hinweis**: Alle Zahlen & ... geprüft bis 19. Juli 2025.
+## ...
 
 **Stand: 20 Juli 2025**
 
-> Ziel: Jede offene Frage aus § 12 des Hauptdossiers innerhalb von 8 Wochen mit belastbaren Daten, Quellen und Bewertung abzudecken.
+> Ziel: Jede offene Frage aus § 12 des ... innerhalb von 8 Wochen mit belastbaren Daten, ... und Bewertung abzudecken.
 
-### Übersicht offener Fragen & Forschungspakete
+### Übersicht offener Fragen & ...
 
-Nr. Forschungsfrage Schlüsseloutputs Verantwortlich Deadline
+Nr. ... Verantwortlich Deadline
 --- -------------------------------------- -------------------------------------------------------------------- ------------------------------------ ---------
-1 **Finanzströme & Vermögen der AfD** Forensic‑Report (PDF, 40 S.), Datensatz „AfD\_Finanzen\_2013‑24.csv“ Finance‑Team (Leitung: J. Schneider) 30 Aug 25
-2 **Paramilitärische Schnittstellen** Geo‑Dashboard Active Clubs (interactive map), Interview Transkripte Security‑Cluster (C. Pagel) 25 Aug 25
+1 **Finanzströme & Vermögen der AfD** Forensic‑Report (PDF, 40 S.), Datensatz ... Finance‑Team (Leitung: J. Schneider) 30 Aug 25
+2 **Paramilitärische Schnittstellen** Geo‑Dashboard Active Clubs (interactive map), Interview Transkripte ... (C. Pagel) 25 Aug 25
 3 **Digitale Reichweiten‑KPI** Network‑Graph (.gexf), KPI‑Briefing (5 S.) Data‑Lab (M. Rios) 10 Aug 25
 4 **EU‑Rechtsrahmen & Parteienstatut** Legal Memo (15 S.), Matrix EU‑Case‑Law Legal Unit (Dr. Nguyen) 15 Aug 25
-5 **Sozioökonomische Hotspots Ost/West** County‑Level Regression (.ipynb), Policy Note Socio‑Econ (Prof. Kappel) 05 Sep 25
-6 **Kommunikations‑Strategie** Messaging Toolkit (.pptx), Monitoring‑Dashboard Comms‑Task‑Force (G. Lefèvre) 20 Aug 25
-7 **Zeitstrahl justizieller Umsetzung** Gantt‑Chart, Scenario White‑Paper Legal Unit + PMO 31 Jul 25
-8 **Internationale Reaktionen** Sentiment Dataset, Strategic Memo (AA) Foreign‑Desk (L. Delgado) 25 Aug 25
-9 **Comparative Deterrence Effect** Meta‑Study (R‑Markdown), Violence Trend Chart Research Core (S. Okoye) 10 Sep 25
-10 **Exit‑Strategien Extremisten** NGO‑Eco‑Map, Policy‑Brief „Lex Remigration“ Policy‑Unit (A. Berkovic) 30 Aug 25
+5 **Sozioökonomische Hotspots Ost/West** County‑Level ... (.ipynb), Policy Note Socio‑Econ (Prof. Kappel) 05 Sep 25
+6 ... Messaging Toolkit (.pptx), ... Comms‑Task‑Force (G. Lefèvre) 20 Aug 25
+7 **Zeitstrahl justizieller ... Gantt‑Chart, Scenario White‑Paper Legal Unit + PMO 31 Jul 25
+8 **Internationale Reaktionen** ... Dataset, Strategic Memo (AA) Foreign‑Desk (L. Delgado) 25 Aug 25
+9 **Comparative ... Effect** Meta‑Study (R‑Markdown), Violence Trend Chart Research Core (S. Okoye) 10 Sep 25
+10 **Exit‑Strategien ... NGO‑Eco‑Map, Policy‑Brief „Lex Remigration“ Policy‑Unit (A. Berkovic) 30 Aug 25
 
 ---
 
 ### 1 Finanzströme & Vermögen der AfD
 
 **Research Tasks**
-1.1 Extrahiere alle Rechenschaftsberichte (2013‑24) via **ParteienfinanzDB**; normalisiere PDF‑Tabellen (Tabula).
-1.2 Query **F U‑SAR**‑Dataset (Verdachtsmeldungen) nach AfD‑Konten & Kryptoadressen.
-1.3 OS NT auf Blockchain‑Explorer (*Bitcoin*, *Monero* heuristics).
-1.4 Interviews: Abt. Parteienfinanzierung Bundestagsverwaltung, KfW‑Compliance Officer.
-**Key Sources**: Bundesanzeiger; Bundestagsdrucksachen 19/‑, 20/‑; Recherchenetzwerk Correctiv; OCCRP Aleph.
-**Deliverable**: forensische Geldfluss‑Graphik (Sankey) + Rechtsgutachten § 25 II PartG.
+1.1 Extrahiere alle ... (2013‑24) via ... normalisiere PDF‑Tabellen (Tabula).
+1.2 Query **F U‑SAR**‑Dataset ... nach AfD‑Konten & Kryptoadressen.
+1.3 OS NT auf ... (*Bitcoin*, *Monero* heuristics).
+1.4 Interviews: Abt. ... Bundestagsverwaltung, KfW‑Compliance Officer.
+**Key ... 19/‑, 20/‑; ... Correctiv; OCCRP Aleph.
+**Deliverable**: ... (Sankey) + ... § 25 II PartG.
 
 ### 2 Paramilitärische Schnittstellen
 
-2.1 Telegram/Gab‑Crawler (**Telepathy**, **Py‑Gab**) → Named‑Entity‑Extraction (person, place, event).
-2.2 Copernicus Sentinel‑2 Satellitenbilder: Objekt‑Erkennung von Schießständen >5 ha.
-2.3 Experten‑Interview: BKA‑TREX‑Abteilung, Journalisten Exif Recherche.
+2.1 ... (**Telepathy**, **Py‑Gab**) → ... (person, place, event).
+2.2 ... von ... >5 ha.
+2.3 ... Journalisten Exif Recherche.
 Output: GeoJSON‑Layer Active‑Clubs, Risiko‑Score (0‑100).
 
 ### 3 Digitale Reichweiten‑KPI
 
-3.1 Pull API‑Dumps: Telegram, TikTok, Odysee, Gettr (via **CrowdTangle**/public endpoints).
-3.2 Graphanalyse in **Gephi**/ **NetworkX**: zentrale Hubs, Betweenness ≥0,1.
-3.3 Time‑Series Sentiment (VADER).
+3.1 Pull ... Telegram, TikTok, Odysee, Gettr (via ...
+3.2 Graphanalyse in **Gephi**/ **NetworkX**: zentrale Hubs, ... ≥0,1.
+3.3 ... (VADER).
 Output: KPI‑Briefing, interaktives Dash (Metabase).
 
 ### 4 EU‑Rechtsrahmen & Parteienstatut
 
-4.1 Literatur‑Review: EuGH – *R v. Hungary*; ECHR – *Partidul*‑Linie.
-4.2 Stellungnahme Prof. Steve Peers (UCL) einholen (ToR an Kanzlei).
-4.3 Vergleich Statut **Identity & Democracy (ID)** vs. Pflichten Parteiensatzung EP.
-Output: 15‑seitiges Memo + Matrix.
+4.1 ... EuGH – *R v. Hungary*; ECHR – *Partidul*‑Linie.
+4.2 ... Prof. Steve Peers (UCL) ... (ToR an Kanzlei).
+4.3 Vergleich Statut **Identity & Democracy (ID)** vs. Pflichten ... EP.
+Output: ... Memo + Matrix.
 
 ### 5 Sozioökonomische Hotspots
 
-5.1 Merge **Mikrozensus 2023** + **Kommunalwahl‑Ergebnisse**.
-5.2 Multilevel‑Modell (Hierarchical Bayes) – Outcome: AfD ≥30 %.
-5.3 Fokusgruppen Erzgebirge, Niederbayern (qual. Interviews).
-Output: County‑Risk‑Atlas.
+5.1 Merge ... 2023** + ...
+5.2 ... (Hierarchical Bayes) – Outcome: AfD ≥30 %.
+5.3 ... Erzgebirge, Niederbayern (qual. Interviews).
+Output: ...
 
-### 6 Kommunikationsstrategie
+### 6 ...
 
-6.1 Discourse‑Monitoring via **Twitter API v2 / CrowdTangle** – Trigger‑Keywords („Verbotsfarce“, „Märtyrer“).
-6.2 Counter‑Messaging Toolkit: Narrativ „wehrhafte Demokratie ≠ Gesinnungsjustiz“.
-6.3 Pre‑bunking‑Videos (bpb) alle 48 h nach Meilenstein.
+6.1 ... via **Twitter API v2 / CrowdTangle** – ... („Verbotsfarce“, „Märtyrer“).
+6.2 ... Toolkit: Narrativ „wehrhafte Demokratie ≠ ...
+6.3 ... (bpb) alle 48 h nach ...
 Output: Toolkit + Live‑Dashboard.
 
-### 7 Zeitstrahl Justizieller Umsetzung
+### 7 Zeitstrahl Justizieller ...
 
-7.1 Case‑Study‑Coding: KPD (1951‑56), NPD (2013‑17).
-7.2 Szenario‑Workshop mit externen Verfassungs­richter\*innen (Chatham House).
+7.1 ... KPD (1951‑56), NPD (2013‑17).
+7.2 ... mit ... (Chatham House).
 Output: Gantt‑Chart + White‑Paper (20 S.).
 
 ### 8 Internationale Reaktionen
@@ -187,32 +187,32 @@ Output: Gantt‑Chart + White‑Paper (20 S.).
 8.2 Scenario Workshop AA: best/worst cases (sanctions, propaganda).
 Output: Strategic Memo, Heatmap.
 
-### 9 Comparative Deterrence Effect
+### 9 Comparative ... Effect
 
 9.1 Meta‑Analyse 15 Länder (1933‑2023).
-9.2 Regression: ΔGewalt t+3 nach Verbot vs. Kontrollgruppe.
+9.2 ... ΔGewalt t+3 nach Verbot vs. Kontrollgruppe.
 Output: R‑Markdown Report + Chart.
 
-### 10 Exit‑Strategien Extremisten
+### 10 Exit‑Strategien ...
 
-10.1 Scrape Vereinsregister & Stiftungssuche.
-10.2 Social‑Network‑Analysis der Vorstandspersonen.
-10.3 Policy‑Brief mit Gesetzesvorschlag „Lex Remigration“.
-Output: NGO‑Ecosystem‑Map + Brief (10 S.).
+10.1 Scrape ... & ...
+10.2 ... der ...
+10.3 Policy‑Brief mit ... „Lex Remigration“.
+Output: ... + Brief (10 S.).
 
 ---
 
-**Nächste Meilensteine (2 Wochen)**
+**Nächste ... (2 Wochen)**
 
 * Kick‑off Calls aller Task‑Leads (22 Juli)
 * Zugriff Beantragung F U‑SAR & CrowdTangle (bis 25 Juli)
 * Prototyp Active‑Club Map (01 Aug)
 
-> *Bei Fragen oder Ressourcenkonflikten bitte an PMO wenden.*
+> *Bei Fragen oder ... bitte an PMO wenden.*
 
 # AfD-Verbot als Prüfstein wehrhafter Demokratie
 
-### Eine hausarbeitliche Analyse der Problemstellung (Stand 19. Juli 2025)
+### Eine ... Analyse der ... (Stand 19. Juli 2025)
 
 ---
 

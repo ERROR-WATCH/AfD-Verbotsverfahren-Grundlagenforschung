@@ -1,48 +1,48 @@
-Hier die zentralen Argumente, die – einzeln und in der Summe – ein Parteiverbot der AfD rechtfertigen:
+Hier die zentralen Argumente, die – ... und in der Summe – ein Parteiverbot der AfD rechtfertigen:
 
-1. **Verfassungs­widrige Zielsetzung**
-Die AfD strebt nach einer ethnisch-kulturell homogenen „Volksgemeinschaft“ statt nach dem Pluralismus der freiheitlichen demokratischen Grundordnung (FDGO) (§ 21 Abs. 2 GG).
+1. ...
+Die AfD strebt nach einer ... homogenen ... statt nach dem ... der freiheitlichen demokratischen Grundordnung (FDGO) (§ 21 Abs. 2 GG).
 
-2. **Systematische Hetze und Menschen­feindlichkeit**
-Regelmäßige Diffamierung von Migrant\:innen, Muslim\:innen, Schwarzen und queeren Menschen als „Fremdkörper“, „Invasion“ bzw. „Umvolkung“.
+2. **Systematische Hetze und ...
+Regelmäßige Diffamierung von Migrant\:innen, ... Schwarzen und ... als „Fremdkörper“, „Invasion“ bzw. „Umvolkung“.
 
 3. **Antisemitische Codes und Verschwörungs­mythen**
-Nutzung historischer Chiffren (z. B. „Systemmedien“, „Wölfe“) und antisemitischer Motive zur Delegitimierung pluralistischer Institutionen.
+... historischer Chiffren (z. B. ... „Wölfe“) und ... Motive zur ...
 
-4. **Beziehungen zu rechtsextremen Netzwerken**
-Nachgewiesene personelle und organisatorische Verzahnung mit dem „Flügel“ um Höcke, der Identitären Bewegung und paramilitärischen Gruppierungen.
+4. ... zu rechtsextremen ...
+... und ... Verzahnung mit dem „Flügel“ um Höcke, der Identitären ... und paramilitärischen ...
 
 5. **Paramilitärisches Potenzial**
-Aufbau inoffizieller „Verteidigungsformationen“ und Förderung von Kampfsportgruppen, die mit Gewaltausübung kokettieren.
+Aufbau inoffizieller ... und Förderung von ... die mit Gewaltausübung kokettieren.
 
 6. **Gefährdung der öffentlichen Sicherheit und Ordnung**
-Aufrufe zu bürgerkriegsähnlichen Zuständen, bewaffneten Bürgerwehren und Missachtung polizeilicher sowie gerichtlicher Anweisungen.
+Aufrufe zu bürgerkriegsähnlichen ... Bürgerwehren und Missachtung polizeilicher sowie gerichtlicher ...
 
-7. **Angriff auf Rechtsstaat und Gewaltenteilung**
-Systematisches Infragestellen von Gerichten, Verfassungsorganen (z. B. Rundfunkrat) und BAföG-Förderung, um misstrauensstiftende Parallelstrukturen zu errichten.
+7. **Angriff auf Rechtsstaat und ...
+Systematisches Infragestellen von Gerichten, ... (z. B. Rundfunkrat) und BAföG-Förderung, um ... zu errichten.
 
-8. **Untergrabung demokratischer Prozesse**
-Intensives Microtargeting und Einsatz von Bot-Netzwerken auf Social Media zur Verzerrung und Manipulation öffentlicher Debatten.
+8. **Untergrabung demokratischer ...
+... Microtargeting und Einsatz von Bot-Netzwerken auf Social Media zur Verzerrung und Manipulation öffentlicher Debatten.
 
-9. **Verletzung von Minderheiten­rechten**
-Forderungen nach Aberkennung der Staatsbürgerschaft, Rückführung von Geflüchteten und Einschränkung kultureller und religiöser Freiheiten.
+9. **Verletzung von ...
+... nach ... der Staatsbürgerschaft, Rückführung von Geflüchteten und ... kultureller und religiöser Freiheiten.
 
-10. **Delegitimierung und Spaltung der Gesellschaft**
-Verstärkung von Polarisierung, Förderung von Misstrauen gegenüber zivilgesellschaftlichen Organisationen und NGOs.
+10. ... und ... der Gesellschaft**
+Verstärkung von Polarisierung, Förderung von ... gegenüber ... Organisationen und NGOs.
 
-11. **Verletzung der Menschenrechts­prinzipien**
-Missachtung elementarer Rechte (Recht auf Asyl, Glaubens- und Meinungsfreiheit) zugunsten eines exklusiven Volksbegriffs.
+11. **Verletzung der ...
+Missachtung ... Rechte (Recht auf Asyl, ... und ... eines ... Volksbegriffs.
 
-12. **Unfähigkeit zur innerparteilichen Abgrenzung**
-Weder Distanzierung von noch Ausschlussfunktion für extremistische Parteiflügel oder prominente Rechtsextremisten innerhalb der AfD.
+12. **Unfähigkeit zur ... Abgrenzung**
+Weder Distanzierung von noch ... für extremistische Parteiflügel oder ... innerhalb der AfD.
 
-13. **Gerichtliche Einstufung als Verdachts- bzw. Beobachtungsfall**
-Erkenntnisse des Bundesamts für Verfassungsschutz und mehrerer Verwaltungs- und Oberverwaltungsgerichte bestätigen die rechtsextremistische Grundausrichtung.
+13. **Gerichtliche ... als Verdachts- bzw. ...
+... des ... für Verfassungsschutz und mehrerer Verwaltungs- und ... bestätigen die ...
 
 14. **Präzedenzfälle und Verfassungsschutz­kriterien**
-Die AfD erfüllt sämtliche Voraussetzungen des BVerfG für ein Parteiverbot gemäß Art. 21 GG: antidemokratische Bestrebungen, fehlende Reformfähigkeit und tatsächliche Gefährdung der FDGO.
+Die AfD erfüllt sämtliche ... des BVerfG für ein Parteiverbot gemäß Art. 21 GG: ... Reformfähigkeit und tatsächliche Gefährdung der FDGO.
 
-15. **keine marginale Gruppierung**
-sie sind nicht wie beim NPD Verbotsverfahren eine marginale Gruppierung und deshalb wirklich gefährlich für die Demokratie.
+15. **keine marginale ...
+sie sind nicht wie beim NPD ... eine marginale ... und deshalb wirklich gefährlich für die Demokratie.
 
-Zusammengefasst ergibt sich aus diesen Punkten ein kohärentes Bild einer Partei, die nicht nur verbal, sondern auch organisatorisch und strategisch auf die Abschaffung oder Aushöhlung der demokratischen Grundordnung abzielt – und damit alle rechtlichen Voraussetzungen für ein Parteiverbot erfüllt.
+... ergibt sich aus diesen ... ein kohärentes Bild einer Partei, die nicht nur verbal, ... auch ... und strategisch auf die Abschaffung oder Aushöhlung der demokratischen Grundordnung abzielt – und damit alle rechtlichen ... für ein Parteiverbot erfüllt.
