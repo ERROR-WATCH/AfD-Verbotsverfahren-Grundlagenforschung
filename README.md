@@ -107,6 +107,13 @@ Klicke direkt auf das jeweilige Bundesland, um zum offiziellen Publikationsporta
 | **Schleswig-Holstein** | [LfV Schleswig-Holstein Berichte (Ausgabe 2025 erschienen am 04.06.2026)](https://www.schleswig-holstein.de/DE/landesregierung/themen/innere-sicherheit/verfassungsschutz/Publikationen/publikationen_node.html) |
 | **Thüringen** | [LfV Thüringen Berichte](https://verfassungsschutz.thueringen.de/publikationen/verfassungsschutzberichte) |
 
+
+### 4) Offizielle Einstufungsentscheidungen & Gerichtsverfahren (BfV)
+Da die detaillierten, mehrhundertseitigen BfV-Einstufungsgutachten als *„VS - Nur für den Dienstgebrauch“* eingestuft sind, dienen die offiziellen, gerichtlichen Verfahrensmeldungen des BfV auf seiner Primärquelle als fundamentale Belege für die Einstufungsketten:
+* 📑 **BfV-Einstufungsentscheidung OVG NRW (13. Mai 2024):** OVG NRW bestätigt in gänzlicher Instanz die Einstufung der Bundes-AfD und der Jungen Alternative (JA) als rechtsextremistischer Verdachtsfall. [Offizielles Urteilsprotokoll & Pressemitteilung auf verfassungsschutz.de](https://www.verfassungsschutz.de/SharedDocs/pressemitteilungen/DE/2024/pressemitteilung-2024-05-13-afd.html)
+* 📑 **BfV-Einstufungsentscheidung VG Köln (08. März 2022):** Verwaltungsgericht Köln bestätigt die Einstufung als Verdachtsobjekt auf Grundlage der BfV-Gutachten. [Offizielle Pressemitteilung auf verfassungsschutz.de](https://www.verfassungsschutz.de/SharedDocs/pressemitteilungen/DE/2022/pressemitteilung-2022-03-08-afd.html)
+* 📑 **BfV-Hochstufungsentscheidung „Der Flügel“ (12. März 2020):** Offizielle Einstufung des teilorganisierten völkischen „Flügels“ als erwiesen rechtsextremistische Bestrebung. [Offizielle Pressemitteilung auf verfassungsschutz.de](https://www.verfassungsschutz.de/SharedDocs/pressemitteilungen/DE/2020/pressemitteilung-2020-03-12-rechtsextremismus.html)
+
 ## 1) Bundesamt für Verfassungsschutz (BfV) & Bundesministerium des Innern (BMI)
 * 📑 **BfV-Verfassungsschutzbericht 2025:** (Veröffentlichung angesetzt für **Dienstag, den 30. Juni 2026** um 10:00 Uhr). Sobald live, abrufbar unter: [Offizielles VfS-Portal](https://www.verfassungsschutz.de/DE/service/publikationen/verfassungsschutzberichte/verfassungsschutzberichte_node.html)
 * 📑 **BfV-Verfassungsschutzbericht 2024 (Aktuellste Vollversion):** [PDF-Download (Volltext)](https://www.verfassungsschutz.de/SharedDocs/publikationen/DE/verfassungsschutzberichte/2025-06-10-verfassungsschutzbericht-2024.pdf?__blob=publicationFile&v=3) | [PDF-Splits 1-8 im Repository](./dokumente/splits/)
@@ -133,6 +140,13 @@ Klicke direkt auf das jeweilige Bundesland, um zum offiziellen Publikationsporta
 | **Sachsen-Anhalt** | [LfV Sachsen-Anhalt Berichte (Ausgabe 2025 erschienen am 02.06.2026)](https://mi.sachsen-anhalt.de/verfassungsschutz/publikationen/verfassungsschutzberichte) |
 | **Schleswig-Holstein** | [LfV Schleswig-Holstein Berichte (Ausgabe 2025 erschienen am 04.06.2026)](https://www.schleswig-holstein.de/DE/landesregierung/themen/innere-sicherheit/verfassungsschutz/Publikationen/publikationen_node.html) |
 | **Thüringen** | [LfV Thüringen Berichte](https://verfassungsschutz.thueringen.de/publikationen/verfassungsschutzberichte) |
+
+
+### 4) Offizielle Einstufungsentscheidungen & Gerichtsverfahren (BfV)
+Da die detaillierten, mehrhundertseitigen BfV-Einstufungsgutachten als *„VS - Nur für den Dienstgebrauch“* eingestuft sind, dienen die offiziellen, gerichtlichen Verfahrensmeldungen des BfV auf seiner Primärquelle als fundamentale Belege für die Einstufungsketten:
+* 📑 **BfV-Einstufungsentscheidung OVG NRW (13. Mai 2024):** OVG NRW bestätigt in gänzlicher Instanz die Einstufung der Bundes-AfD und der Jungen Alternative (JA) als rechtsextremistischer Verdachtsfall. [Offizielles Urteilsprotokoll & Pressemitteilung auf verfassungsschutz.de](https://www.verfassungsschutz.de/SharedDocs/pressemitteilungen/DE/2024/pressemitteilung-2024-05-13-afd.html)
+* 📑 **BfV-Einstufungsentscheidung VG Köln (08. März 2022):** Verwaltungsgericht Köln bestätigt die Einstufung als Verdachtsobjekt auf Grundlage der BfV-Gutachten. [Offizielle Pressemitteilung auf verfassungsschutz.de](https://www.verfassungsschutz.de/SharedDocs/pressemitteilungen/DE/2022/pressemitteilung-2022-03-08-afd.html)
+* 📑 **BfV-Hochstufungsentscheidung „Der Flügel“ (12. März 2020):** Offizielle Einstufung des teilorganisierten völkischen „Flügels“ als erwiesen rechtsextremistische Bestrebung. [Offizielle Pressemitteilung auf verfassungsschutz.de](https://www.verfassungsschutz.de/SharedDocs/pressemitteilungen/DE/2020/pressemitteilung-2020-03-12-rechtsextremismus.html)
 
 ### Dateiliste mit Inhaltsbeschreibungen
 
