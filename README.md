@@ -1,6 +1,9 @@
 # AfD-Verbotsverfahren-Grundlagenforschung
 
-<img width="1254" height="1254" alt="afd verdachtsfall" src="[https://github.com/user-attachments/assets/a28a01ef-b937-4135-a0c2-1758abe54429"](https://github.com/user-attachments/assets/a28a01ef-b937-4135-a0c2-1758abe54429") />
+> 📢 **Dank und Anerkennung:** Ein herzlicher Dank geht an **netzpolitik.org** für ihre großartige Arbeit bei der Erstveröffentlichung und Aufbereitung des 1.000-seitigen Verfassungsschutz-Folgegutachtens zur AfD (`2021-02-22_BfV_AfD_Folgegutachten`). Durch deren hochwertige Digitalisierung konnten wir die Transkriptionen in diesem Repository umfassend aktualisieren und auf ein fehlerfreies Niveau heben.
+
+
+<img width="1254" height="1254" alt="afd verdachtsfall" src="https://github.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/blob/main/assets/afd%20verdachtsfall.jpg?raw=true" />
 
 
 [![Watch on YouTube](https://img.youtube.com/vi/eSgFEpI9ZDQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=eSgFEpI9ZDQ "Auf YouTube ansehen")
@@ -629,11 +632,16 @@ Dort sind u. a. enthalten:
    - Suche in den `.txt`-Fragmenten nach spezifischen Begriffen (z. B. "paramilitär", "Verschwörung").
    - Vergleiche die Entwurfsklauseln in den PDFs für Sachverhalts- und Rechtsbegründungskapitel.
 
-3. Nutze Deepresearch um die Quellen zu prüfen
-
-   <img width="835" height="675" alt="image" src="[https://github.com/user-attachments/assets/31bbbdb7-1c8a-464b-af76-47651c9225b5"](https://github.com/user-attachments/assets/31bbbdb7-1c8a-464b-af76-47651c9225b5") />
-   <img width="847" height="664" alt="image" src="[https://github.com/user-attachments/assets/69c286e0-509c-4411-aa2a-4b39cbb1ef08"](https://github.com/user-attachments/assets/69c286e0-509c-4411-aa2a-4b39cbb1ef08") />
-   <img width="863" height="659" alt="image" src="[https://github.com/user-attachments/assets/12c7862e-9962-4090-b252-57ca53122056"](https://github.com/user-attachments/assets/12c7862e-9962-4090-b252-57ca53122056") />
+3. **Nutze Deep Research (z. B. mit ChatGPT, Gemini oder Claude), um die Quellen systematisch zu prüfen:**
+   
+   Da dieses Repository für die maschinelle Verarbeitung optimiert ist, kannst du modernste Sprachmodelle (LLMs) nutzen, um Quellenverzeichnisse abzugleichen, Belege zu verifizieren oder juristische Argumentationsketten aufzubauen.
+   
+   **Schritt-für-Schritt-Anleitung zur KI-gestützten Analyse:**
+   * **Dokument hochladen:** Lade ein Belegdokument (z. B. einen Klageschrift-Entwurf oder eines der Geheimgutachten-Slices) in dein bevorzugtes LLM (ChatGPT Plus, Gemini Advanced oder Claude Pro) hoch.
+   * **Prompts zur Quellenprüfung nutzen:** Verwende strukturierte, präzise Prompts wie:
+     > *"Analysiere das hochgeladene Gutachten. Prüfe alle genannten Zitate im Hinblick auf ihre logische Konsistenz, vergleiche sie mit den Primärbelegen in den Textdateien dieses Repositories und erstelle eine Liste aller genutzten Fußnoten mit Seitenzahlen."*
+   * **Abgleich mit dem Original:** Nutze die extrahierten Zitate und vergleiche sie direkt mit den entsprechenden Seiten der Original-PDFs im Ordner `geheimgutachten/` oder den Quellverzeichnissen in `PUBLIC_SOURCES.md`, um die absolute Korrektheit (Provenienz) sicherzustellen.
+   * **Argumentation erweitern:** Lass die KI auf Basis der Belege neue verfassungsrechtliche Teilkapitel oder Klagepunkte (z. B. bezüglich des Demokratieprinzips oder der Menschenwürde) entwerfen.
 
    Beispiele:
 ```
@@ -1024,7 +1032,7 @@ Alle Quellenangaben sind in den Dateien enthalten.
 
 ## Ende des Repos
 
-<img width="916" height="988" alt="Claus von Wagner" src="[https://github.com/user-attachments/assets/21df85d6-0331-424e-b268-c5939d7d702f"](https://github.com/user-attachments/assets/21df85d6-0331-424e-b268-c5939d7d702f") />
+<img width="916" height="988" alt="Claus von Wagner" src="https://github.com/user-attachments/assets/21df85d6-0331-424e-b268-c5939d7d702f" />
 
 
 ---
