@@ -859,6 +859,8 @@ https://afd-gutachten.de
 
 https://afd-verbot.de
 
+## Politische Schönheit
+
 [![YouTube Playlist](https://img.youtube.com/vi/1dHYrVZbhX0/0.jpg)](https://www.youtube.com/watch?v=1dHYrVZbhX0&list=PLndxauj5Nk-o1p1LVTVDgzANSFMGvhe6F)
 
 
