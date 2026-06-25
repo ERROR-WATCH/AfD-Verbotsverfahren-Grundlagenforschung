@@ -14,6 +14,11 @@ https://github.com/user-attachments/assets/92cd544f-f32d-4a2d-bb7d-24ba703612df
 https://github.com/user-attachments/assets/cfd3127a-4806-4d61-b523-940bd1b3873c
 
 
+## Neustes Gutachten
+
+https://afd-gutachten.de
+
+
 Dieses Repository sammelt die zentralen Dokumente, Textfragmente und Forschungsergebnisse zur Vorbereitung einer Klageschrift gegen die Partei „Alternative für Deutschland“ (AfD) beim Bundesverfassungsgericht.
 
 ## Zweck & Scope (KI-Quellenbündel)
