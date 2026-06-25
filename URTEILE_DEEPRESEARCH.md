@@ -105,6 +105,12 @@ Dieses Dokument ist eine umfassende Zusammenstellung gerichtlicher Urteile, rech
     - **Urteil:** Geldstrafe wegen homophober Beleidigung.
     - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/51_Uwe_Junge_Beleidigung_AG_Mainz.txt)
 
+
+
+18. **Gerd Sch.:**
+   - **Partei-Status:** 🔴 **DIREKT AfD** (Mitglied des AfD-Kreisvorstands Cottbus).
+   - **Urteil:** Geldstrafe wegen rassistischer Volksverhetzung im Netz.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/64_Gerd_Sch_Volksverhetzung_AG_Cottbus.txt) | [Quellenlink](https://www.tagesspiegel.de/berlin/brandenburg-afd-lokalpolitiker-wegen-volksverhetzung-verurteilt-4001247.html)
 ---
 
 ### Körperverletzung & Gewaltdelikte
@@ -160,6 +166,12 @@ Dieses Dokument ist eine umfassende Zusammenstellung gerichtlicher Urteile, rech
     - **Urteil:** 2 Jahre und 2 Monate Haft ohne Bewährung (Schwere Körperverletzung).
     - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/55_Robert_T_JA_Aktivist_Gewalt_LG_Leipzig.txt)
 
+
+
+28. **Alexander M.:**
+   - **Partei-Status:** 🔴 **DIREKT AfD** (Ehemaliger Kommunalpolitiker in Thüringen).
+   - **Urteil:** Geldstrafe wegen vorsätzlicher Körperverletzung bei Wahlkampf-Demo.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/66_Alexander_M_Koerperverletzung_AG_Erfurt.txt) | [Quellenlink](https://www.mdr.de/nachrichten/thueringen/erfurt/weimar/prozess-koerperverletzung-afd-politiker-verurteilung-100.html)
 ---
 
 ### Amtsmissbrauch & Dienstvergehen
@@ -214,6 +226,22 @@ Dieses Dokument ist eine umfassende Zusammenstellung gerichtlicher Urteile, rech
     - **Urteil:** Veruntreuung von Parteigeldern.
     - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/60_Stefan_Beck_Untreue_LG_Mainz.txt)
 
+
+
+37. **Jörg Meuthen:**
+   - **Partei-Status:** 🔴 **DIREKT AfD** (Ehemaliger Bundessprecher und Bundesvorsitzender).
+   - **Urteil:** Verurteilung der AfD zu 269.400 Euro Strafzahlung wegen Annahme illegaler Schweizer Spenden.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/62_Joerg_Meuthen_Spendenaffaere_BVerwG.txt) | [Quellenlink](https://www.lto.de/recht/nachrichten/n/bverwg-6c421-afd-strafzahlung-bundestag-illegale-parteispende/)
+
+38. **Guido Reil:**
+   - **Partei-Status:** 🔴 **DIREKT AfD** (Mitglied des Europaparlaments [MdEP] und Bundesvorstands).
+   - **Urteil:** Verurteilung der AfD zu 223.500 Euro Bußgeld wegen illegaler verdeckter Schweizer Wahlkampfwerbung.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/63_Guido_Reil_Spendenaffaere_BVerwG.txt) | [Quellenlink](https://www.lto.de/recht/nachrichten/n/bverwg-6c321-afd-strafzahlung-bundestag-illegale-spenden-reil/)
+
+39. **Daniela W.:**
+   - **Partei-Status:** 🔴 **DIREKT AfD** (Ehemalige AfD-Gemeinderätin in Sachsen).
+   - **Urteil:** Geldstrafe wegen Versicherungsbetrugs und Urkundenfälschung.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/65_Daniela_W_Versicherungsbetrug_AG_Dresden.txt) | [Quellenlink](https://www.saechsische.de/dresden/lokales/prozess-gegen-ex-afd-gemeinderaetin-wegen-betrugs-5123497.html)
 ---
 
 ### Waffenbesitz & Sonstige Delikte

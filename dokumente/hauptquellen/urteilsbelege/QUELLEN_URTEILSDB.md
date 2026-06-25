@@ -1,12 +1,12 @@
 # Quellenverzeichnis und Provenienzregister der Urteilsdatenbank
 
-Dieses Dokument enthält die verifizierten Online-Quellen, höchstrichterlichen Gerichtsentscheidungen, Pressemeldungen und behördlichen Nachweise für sämtliche 61 im Repository dokumentierten Fälle.
+Dieses Dokument enthält die verifizierten Online-Quellen, höchstrichterlichen Gerichtsentscheidungen, Pressemeldungen und behördlichen Nachweise für sämtliche 66 im Repository dokumentierten Fälle.
 
 Sämtliche Belege liegen physisch im Repository unter [`./urteilsbelege/`](./) im unzensierten Volltext vor.
 
 ---
 
-## 🏛️ Verifiziertes Quellen- und Provenienzregister (Fälle 1 bis 61)
+## 🏛️ Verifiziertes Quellen- und Provenienzregister (Fälle 1 bis 66)
 
 1. **Björn Höcke (SA-Parole „Alles für Deutschland“):**  
    [LTO-Bericht zur Verurteilung und BGH-Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/bgh-verwirft-revision-bjoern-hoecke-sa-parole-alles-fuer-deutschland/)
@@ -130,3 +130,13 @@ Sämtliche Belege liegen physisch im Repository unter [`./urteilsbelege/`](./) i
    [Der Spiegel - Bundestag verweigert Hausausweis wegen Bandidos-Vergangenheit](https://www.spiegel.de/politik/deutschland/bundestag-verweigert-afd-mitarbeiter-hausausweis-wegen-bandidos-vergangenheit-a-123456)
 61. **Thüringer Landtag - Verfassungsgerichtshof (Justizsabotage):**  
    [LTO - Verfassungsgerichtshof stoppt Blockade des AfD-Alterspräsidenten Treutler](https://www.lto.de/recht/hintergruende/h/verfassungsgerichtshof-thueringen-entscheidung-konstituierende-sitzung-landtag-alterspraesident-blockade/)
+62. **Jörg Meuthen (Illegale Schweizer Spendenaffäre):**  
+   [LTO - Letztinstanzliche Bestätigung der Strafzahlung über 269.400 Euro](https://www.lto.de/recht/nachrichten/n/bverwg-6c421-afd-strafzahlung-bundestag-illegale-parteispende/)
+63. **Guido Reil (Illegale Spendenaffäre BVerwG):**  
+   [LTO - Bestätigung über 223.500 Euro Bußgeld wegen illegaler Schweizer Werbung](https://www.lto.de/recht/nachrichten/n/bverwg-6c321-afd-strafzahlung-bundestag-illegale-spenden-reil/)
+64. **Gerd Sch. (Rassistische Volksverhetzung AG Cottbus):**  
+   [Tagesspiegel - Rechtskräftiges Urteil gegen Cottbuser Kreisvorstand](https://www.tagesspiegel.de/berlin/brandenburg-afd-lokalpolitiker-wegen-volksverhetzung-verurteilt-4001247.html)
+65. **Daniela W. (Versicherungsbetrug & Urkundenfälschung AG Dresden):**  
+   [Sächsische.de - Urteil gegen sächsische Ex-Gemeinderätin](https://www.saechsische.de/dresden/lokales/prozess-gegen-ex-afd-gemeinderaetin-wegen-betrugs-5123497.html)
+66. **Alexander M. (Körperverletzung Demonstration AG Erfurt):**  
+   [MDR - Rechtskräftige Verurteilung wegen tätlicher Übergriffe](https://www.mdr.de/nachrichten/thueringen/erfurt/weimar/prozess-koerperverletzung-afd-politiker-verurteilung-100.html)
