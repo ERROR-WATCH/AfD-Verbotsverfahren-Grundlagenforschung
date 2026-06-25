@@ -361,6 +361,11 @@ Ende der öffentlich zugänglichen Quellen.
 
 ## Lokale Primär- & Belegquellen im Repository (Offline-Ready)
 
+* **Offizielles Quellen- & Provenienzregister der Urteilsdatenbank (MD)**
+  Lokale Quelle: [`QUELLEN_URTEILSDB.md`](./dokumente/hauptquellen/urteilsbelege/QUELLEN_URTEILSDB.md)
+
+
+
 * **Gesamtregister aller Gerichtsentscheidungen & Urteile (typeset PDF)**
   Lokale Quelle: [`AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf`](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)
 

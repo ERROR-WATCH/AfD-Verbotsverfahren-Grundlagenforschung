@@ -4,6 +4,9 @@ Dieses Dokument ist eine umfassende Zusammenstellung gerichtlicher Urteile, rech
 
 Sämtliche Urteils-Belege und Volltextdokumentationen sind physisch im Repository im Verzeichnis [`./dokumente/hauptquellen/urteilsbelege/`](./dokumente/hauptquellen/urteilsbelege/) hinterlegt.
 
+> 📚 **Verifiziertes Quellen- & Provenienzregister:** Wir haben eine dedizierte Quellenliste angelegt, die für alle 42 Fälle die originalen, höchstrichterlichen Gerichtsdatenbank-Einträge und Pressebelege (LTO, Spiegel, Tagesschau) enthält:
+> * 🔗 [**Offizielles Quellen- & Provenienzregister (QUELLEN_URTEILSDB.md)**](./dokumente/hauptquellen/urteilsbelege/QUELLEN_URTEILSDB.md)
+
 > 📥 **Gesamtregister als konsolidierte Dateien:**
 > * 📄 [**Gesamt-Urteilsregister als typeset PDF-Dossier**](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)
 > * 📝 [**Gesamt-Urteilsregister als konsolidierter TXT-Volltext**](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.txt)
