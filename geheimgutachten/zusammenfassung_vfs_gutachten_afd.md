@@ -2,13 +2,13 @@ Die jüngsten Gutachten und Gerichtsurteile belegen, dass die AfD inzwischen als
 
 ## Einleitung
 
-Die Alternative für Deutschland (AfD) hat sich seit ihrer Gründung 2013 zu einer der wichtigsten Oppositionsparteien im Deutschen Bundestag entwickelt und schlägt einen zunehmend radikalen Kurs ein ([Wikipedia][1]). Die Bundesbehörde für Verfassungsschutz (BfV) beobachtet die Gesamtpartei seit 2021 als „Verdachtsfall extremistischer Bestrebungen“ ([Verfassungsblog][2]). Anfang Mai 2025 stufte das BfV die AfD auf Bundesebene gar als „gesichert rechtsextremistisch“ ein, hob diese Einstufung jedoch vorläufig ausgesetzt wieder auf, bis ein Gericht endgültig entscheidet ([tagesschau.de][3], [ElHuffPost][4]). Diese Hausarbeit untersucht die ideologischen Kernfragen, die organisatorischen Strukturen sowie die operativen Methoden der AfD und bewertet die Bedeutung dieser Einstufung für Demokratie und Sicherheit in Deutschland.
+Die Alternative für Deutschland (AfD) hat sich seit ihrer Gründung 2013 zu einer der wichtigsten Oppositionsparteien im Deutschen Bundestag entwickelt und schlägt einen zunehmend radikalen Kurs ein ([Wikipedia][1]). Die Bundesbehörde für Verfassungsschutz (BfV) beobachtet die Gesamtpartei seit 2021 als „Verdachtsfall extremistischer Bestrebungen“ ([Verfassungsblog][2]). Anfang Mai 2025 stufte das BfV die AfD auf Bundesebene gar als „gesichert rechtsextremistisch“ ein, hob diese Einstufung jedoch vorläufig ausgesetzt wieder auf, bis ein Gericht endgültig entscheidet ([tagesschau.de][3], [E HuffPost][4]). Diese Hausarbeit untersucht die ideologischen Kernfragen, die organisatorischen Strukturen sowie die operativen Methoden der AfD und bewertet die Bedeutung dieser Einstufung für Demokratie und Sicherheit in Deutschland.
 
 ## Ideologische Grundlagen der AfD
 
 ### Fremden- und Minderheitenfeindlichkeit
 
-Die AfD thematisiert in Wahlprogrammen und Reden immer wieder „Überfremdung“ und „Umvolkung“, um Ängste vor Migration zu schüren ([BR.de][5]). Dabei nutzt sie im Gutachten belegte Chiffren wie „Globalisten“ und „Weltfinanzkapital“, die antisemitische Stereotype mit migrationspolitischer Rhetorik verknüpfen ([ZDF][6], [DIE WELT][7]).
+Die AfD thematisiert in Wahlprogrammen und Reden immer wieder „Überfremdung“ und „Umvolkung“, um Ängste vor Migration zu schüren ([BR.de][5]). Dabei nutzt sie im Gutachten belegte Chiffren wie „Globalisten“ und „Weltfinanzkapital“, die antisemitische Stereotype mit migrationspolitischer Rhetorik verknüpfen ([ZDF][6], [D E WELT][7]).
 
 ### Antisemitische Codes
 
@@ -22,17 +22,17 @@ Der „Flügel“, einst eine informelle Strömung um Björn Höcke, wurde offiz
 
 ### Finanzierungsnetzwerke
 
-Analysen zeigen, dass inkonsistente Spendeneingänge und verschleierte Großspenden ein wesentliches Element der AfD-Finanzierung sind. Intransparenz bei Spendennachweisen lässt den Schluss zu, dass Einflussnahmen von außen nicht ausgeschlossen werden können ([ZDF][13]).
+Analysen zeigen, dass ... Spendeneingänge und verschleierte Großspenden ein wesentliches Element der AfD-Finanzierung sind. Intransparenz bei Spendennachweisen lässt den Schluss zu, dass Einflussnahmen von außen nicht ausgeschlossen werden können ([ZDF][13]).
 
 ### Kooperationen mit Extremisten
 
-Beobachtungen des BfV belegen, dass die AfD offene Kontakte zu rechtsextremistischen Gruppierungen pflegt, beispielsweise bei gemeinsamen Veranstaltungen mit identitären Bewegungen oder militanten Netzwerken ([BundesamtfuerVerfassungsschutz][14]).
+Beobachtungen des BfV belegen, dass die AfD offene Kontakte zu ... Gruppierungen pflegt, ... bei gemeinsamen Veranstaltungen mit identitären Bewegungen oder militanten Netzwerken ([BundesamtfuerVerfassungsschutz][14]).
 
 ## Kommunikations- und Propagandastrategien
 
 ### Online-Mobilisierung
 
-Die AfD nutzt Social Media intensiv für Hashtag-Kampagnen wie #MerkelMussWeg und mobilisiert gezielt über Telegram-Kanäle, um Filterblasen zu bedienen und Desinformation zu verbreiten ([AP News][15]).
+Die AfD nutzt Social Media intensiv für Hashtag-Kampagnen wie #Merke MussWeg und mobilisiert gezielt über Telegram-Kanäle, um Filterblasen zu bedienen und Desinformation zu verbreiten ([AP News][15]).
 
 ### Wahlkampf-Rhetorik
 
@@ -40,13 +40,13 @@ Wahlplakate und Reden der AfD sind geprägt von martialischem Vokabular („Remi
 
 ### Verschwörungsmythen
 
-Ein zentrales Stilmittel ist die Konstruktion von Feindbildern: Globalisten, Lügenpresse, Eliten, die heimlich die Demokratie untergraben – ein Muster, das rechtsextreme Gruppen seit Jahrzehnten pflegen ([DIE WELT][17]).
+Ein zentrales Stilmittel ist die Konstruktion von Feindbildern: Globalisten, Lügenpresse, Eliten, die heimlich die Demokratie untergraben – ein Muster, das rechtsextreme Gruppen seit Jahrzehnten pflegen ([D E WELT][17]).
 
 ## Bewertung durch den Verfassungsschutz
 
 ### Verdachtsfall und gesichert rechtsextremistisch
 
-Seit 2021 ist die AfD bundesweit als Verdachtsfall eingestuft; das OVG NRW bestätigte diese Einschätzung ([Verfassungsblog][2]). Im Mai 2025 hob das BfV die Hochstufung als „gesichert rechtsextremistisch“ ausgesetzt wieder auf, bis das VG Köln über eine Eilanordnung befindet ([ElHuffPost][4]).
+Seit 2021 ist die AfD bundesweit als Verdachtsfall eingestuft; das OVG NRW bestätigte diese Einschätzung ([Verfassungsblog][2]). Im Mai 2025 hob das BfV die Hochstufung als „gesichert rechtsextremistisch“ ausgesetzt wieder auf, bis das VG Köln über eine Eilanordnung befindet ([E HuffPost][4]).
 
 ### Juristische Auseinandersetzungen
 
@@ -56,7 +56,7 @@ Die AfD klagte bereits 2022 erfolglos gegen die Beobachtung durch das BfV und un
 
 ### Polarisierung und Vertrauensverlust
 
-Die Einstufung der AfD als rechtsextrem führt zu weiteren gesellschaftlichen Gräben, schwächt das Vertrauen in politische Institutionen und verunsichert Wähler, die sich auf vermeintliche Kompromisslosigkeit verlassen ([DIE WELT][18]).
+Die Einstufung der AfD als rechtsextrem führt zu weiteren gesellschaftlichen Gräben, schwächt das Vertrauen in politische Institutionen und verunsichert Wähler, die sich auf vermeintliche Kompromisslosigkeit verlassen ([D E WELT][18]).
 
 ### Sicherheitsrechtliche Implikationen
 
@@ -75,7 +75,7 @@ Die AfD vereint in sich programmatische Extremismustendenzen, organisatorische V
 [7]: https://www.welt.de/politik/deutschland/plus256114542/AfD-Das-sind-die-sieben-Kernvorwuerfe-im-geheimen-Gutachten-des-Verfassungsschutzes.html?utm_source=chatgpt.com "AfD: Das sind die sieben Kernvorwürfe im geheimen Gutachten des ..."
 [8]: https://taz.de/Was-steht-im-AfD-Gutachten/%216087894/?utm_source=chatgpt.com "Was steht im AfD-Gutachten?: Feinde der Verfassung - TAZ"
 [9]: https://www.tagesschau.de/inland/regional/berlin/rbb-rbb-auswertung-was-im-afd-gutachten-des-verfassungsschutzes-ueber-berlin-steht-100.html?utm_source=chatgpt.com "rbb-Auswertung: Was im AfD-Gutachten des Verfassungsschutzes ..."
-[10]: https://www.ardmediathek.de/video/morgenmagazin/antisemitismus-in-der-afd/das-erste/Y3JpZDovL2Rhc2Vyc3RlLmRlL21vcmdlbm1hZ2F6aW4vYzRiZjVmYWItZjUzNS00M2UwLTgzMTUtNDkzODYyMDk4NWZh?utm_source=chatgpt.com "Antisemitismus in der AfD - hier anschauen - ARD Mediathek"
+[10]: https://www.ardmediathek.de/video/morgenmagazin/antisemitismus-in-der-afd/das-erste/Y3JpZDovL2Rhc2Vyc3R LmR L21vcmdlbm1hZ2F6aW4vYzRiZjVmYWItZjUzNS00M2UwLTgzMTUtNDkzODYyMDk4NWZh?utm_source=chatgpt.com "Antisemitismus in der AfD - hier anschauen - ARD Mediathek"
 [11]: https://de.wikipedia.org/wiki/Alternative_f%C3%BCr_Deutschland?utm_source=chatgpt.com "Alternative für Deutschland"
 [12]: https://www.verfassungsschutz.de/SharedDocs/pressemitteilungen/DE/2022/pressemitteilung-2022-1-afd.html?utm_source=chatgpt.com "Bundesamt für Verfassungsschutz obsiegt vor Verwaltungsgericht ..."
 [13]: https://www.zdf.de/nachrichten/politik/deutschland/afd-beobachtung-verdachtsfall-verfassungsschutz-prozess-100.html?utm_source=chatgpt.com "AfD als Verdachtsfall beobachten? Was ein Gericht nun prüft"
