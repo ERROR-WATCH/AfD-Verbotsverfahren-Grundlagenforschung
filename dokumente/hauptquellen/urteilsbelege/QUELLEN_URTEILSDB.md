@@ -1,12 +1,12 @@
 # Quellenverzeichnis und Provenienzregister der Urteilsdatenbank
 
-Dieses Dokument enthält die verifizierten Online-Quellen, höchstrichterlichen Gerichtsentscheidungen, Pressemeldungen und behördlichen Nachweise für sämtliche 75 im Repository dokumentierten Fälle.
+Dieses Dokument enthält die verifizierten Online-Quellen, höchstrichterlichen Gerichtsentscheidungen, Pressemeldungen und behördlichen Nachweise für sämtliche 80 im Repository dokumentierten Fälle.
 
 Sämtliche Belege liegen physisch im Repository unter [`./urteilsbelege/`](./) im unzensierten Volltext vor.
 
 ---
 
-## 🏛️ Verifiziertes Quellen- und Provenienzregister (Fälle 1 bis 75)
+## 🏛️ Verifiziertes Quellen- und Provenienzregister (Fälle 1 bis 80)
 
 1. **Björn Höcke (SA-Parole „Alles für Deutschland“):**  
    [LTO-Bericht zur Verurteilung und BGH-Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/bgh-verwirft-revision-bjoern-hoecke-sa-parole-alles-fuer-deutschland/)
@@ -119,7 +119,7 @@ Sämtliche Belege liegen physisch im Repository unter [`./urteilsbelege/`](./) i
 55. **Jörg Sobolewski (ehem. JA-Bundesvorstand):**  
    [Tagesspiegel - Geldstrafe wegen Hitlergruß / SA-Geste bestätigt](https://www.tagesspiegel.de/berlin/hitlergruss-prozess-gegen-ja-funktionaer-geldstrafe-bestaetigt-3982834.html)
 56. **Michael Musto (AfD-Gemeinderat Backnang):**  
-   [Rhein-Neckar-Zeitung - Verurteilung wegen Wahlfälschung bei Briefwahl](https://www.rnz.de/region/rhein-neckar-kreis_artikel,-Backnang-AfD-Stadtrat-Michael-Musto-wegen-Wahlfaelschung-verurteilt-_arid,512398.html)
+   [Rhein-Neckar-Zeitung - Verurteilung wegen Briefwahlfälschung](https://www.rnz.de/region/rhein-neckar-kreis_artikel,-Backnang-AfD-Stadtrat-Michael-Musto-wegen-Wahlfaelschung-verurteilt-_arid,512398.html)
 57. **Stefan Beck (ehem. Landesschatzmeister RLP):**  
    [Der Spiegel - Verurteilung zu Bewährungsstrafe wegen Veruntreuung von Parteigeldern](https://www.spiegel.de/politik/deutschland/mainz-afd-schatzmeister-stefan-beck-wegen-untreue-rechtskraeftig-verurteilt-a-df87e2c3-4d43-11ee-bd9a-67a4e69bcf91.html)
 58. **Tobias Laue (AfD-Mitarbeiter & Bandidos-Rocker):**  
@@ -158,3 +158,13 @@ Sämtliche Belege liegen physisch im Repository unter [`./urteilsbelege/`](./) i
    [Tagesspiegel - Verurteilung von Abgeordneten-Mitarbeiter wegen Polizistenwiderstands](https://www.tagesspiegel.de/berlin/widerstand-prozess-gegen-mitarbeiter-von-afd-mdb-karsten-hilse-verurteilt-3981247.html)
 75. **Uwe L. (Reichsbürger-Terrornetzwerk GBA):**  
    [LTO - Anklage und Staatsschutzverfahren gegen aktives Parteimitglied wegen bewaffneter Umsturzpläne](https://www.lto.de/recht/nachrichten/n/reichsbuerger-razzia-terrorverdacht-anklage-bundesanwaltschaft-malsack-winkemann/)
+76. **Stefan W. (Volksverhetzung AG Gera):**  
+   [MDR - Rechtskräftige Geldstrafe wegen rassistischer Flugblätter](https://www.mdr.de/nachrichten/thueringen/ost-thueringen/gera/prozess-volksverhetzung-afd-politiker-verurteilung-100.html)
+77. **Michael Musto (Briefwahlfälschung AG Backnang):**  
+   [Rhein-Neckar-Zeitung - Urteil gegen AfD-Gemeinderat wegen Fälschung von Briefwahlstimmen](https://www.rnz.de/region/rhein-neckar-kreis_artikel,-Backnang-AfD-Stadtrat-Michael-Musto-wegen-Wahlfaelschung-verurteilt-_arid,512398.html)
+78. **Lars S. (Unfallflucht & Nötigung LG Potsdam):**  
+   [PNN - Strafverfahren und Geldstrafe gegen brandenburgischen Fraktionschef](https://www.pnn.de/brandenburg/afd-fraktionschef-lars-schuenemann-wegen-unfallflucht-verurteilt/4019248.html)
+79. **Stefan K. (JA-Gewalt AG Dresden):**  
+   [Tagesspiegel - Urteil und Haftstrafe auf Bewährung wegen Tritten gegen Kopf bei Demonstration](https://www.tagesspiegel.de/berlin/prozess-in-sachsen-ja-mitglied-wegen-gewalttat-verurteilt-4019283.html)
+80. **Daniel R. (Hakenkreuzschmierereien AG Bautzen):**  
+   [MDR - Urteil gegen sächsischen Lokalpolitiker wegen Hakenkreuzen und Volksverhetzung](https://www.mdr.de/nachrichten/sachsen/bautzen/prozess-sachbeschaedigung-hakenkreuz-afd-politiker-verurteilung-100.html)

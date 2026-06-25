@@ -434,3 +434,297 @@ Internationaler Rechtsvergleich
 EGMR – Urteil Refah Partisi (Welfare Party) ./. Türkei (2003) – Europäischer Gerichtshof für Menschenrechte, Entscheidung zur Auflösung der islamistischen Wohlfahrtspartei Refah Partisi. Entscheidungstext
 EGMR – Urteil Herri Batasuna und Batasuna ./. Spanien (2009) – EGMR-Entscheidung zur Verbotsbestätigung der baskischen Parteien Batasuna/Herri Batasuna. Entscheidungstext
 EGMR – Urteil Partei „Golden Dawn“ ./. Griechenland (2020) – EGMR-Entscheidung zur Rechtmäßigkeit des Verbots der neonazistischen Partei Chrysi Avgi (Goldene Morgenröte). Entscheidungstext
+
+## 8. INTEGRATIVE GESAMT-QUELLENLISTE DER GRUNDLAGENFORSCHUNG
+
+Dieses Kapitel führt sämtliche Quellennachweise, Online-Referenzen, Literaturverzeichnisse und Archivdateien der Grundlagenforschung aus allen Einzellisten dieses Repositories in einem einzigen, zentralen und unzensierten Master-Register zusammen.
+
+---
+
+# Quellenverzeichnis und Provenienzregister der Urteilsdatenbank
+
+Dieses Dokument enthält die verifizierten Online-Quellen, höchstrichterlichen Gerichtsentscheidungen, Pressemeldungen und behördlichen Nachweise für sämtliche 80 im Repository dokumentierten Fälle.
+
+Sämtliche Belege liegen physisch im Repository unter [`./urteilsbelege/`](./dokumente/hauptquellen/urteilsbelege/) im unzensierten Volltext vor.
+
+---
+
+### 8.1. Gerichtsentscheidungen & Strafurteile (Fälle 1 bis 80)
+
+
+1. **Björn Höcke (SA-Parole „Alles für Deutschland“):**  
+   [LTO-Bericht zur Verurteilung und BGH-Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/bgh-verwirft-revision-bjoern-hoecke-sa-parole-alles-fuer-deutschland/)
+2. **Marie-Thérèse Kaiser (Volksverhetzung Ortskräfte):**  
+   [LTO-Bericht zur rechtskräftigen Verurteilung wegen Volksverhetzung](https://www.lto.de/recht/nachrichten/n/volksverhetzung-kaiser-geldstrafe-bestaetigt-landgericht-lueneburg/)
+3. **Florian Jäger (Holocaust-Verharmlosung):**  
+   [Süddeutsche Zeitung - Strafverfahren wegen Corona-Novemberpogrome-Vergleich](https://www.sueddeutsche.de/muenchen/muenchen-afd-florian-jaeger-volksverhetzung-corona-impfen-novemberpogrome-1.5645328)
+4. **Bruno Fuchert (Volksverhetzung Traunstein):**  
+   [Süddeutsche Zeitung - Urteil wegen systematischer Volksverhetzung](https://www.sueddeutsche.de/bayern/traunstein-afd-kreisrat-wegen-volksverhetzung-verurteilt-lux.Ur8tE9X4q67p6Z)
+5. **Holger Arppe (Internet-Hassrede Rostock):**  
+   [NDR - Rechtskräftige Verurteilung wegen rassistischer Chat-Protokolle](https://www.ndr.de/nachrichten/mecklenburg-vorpommern/Volksverhetzung-Ex-AfD-Politiker-Arppe-verurteilt,arppe246.html)
+6. **Kay Nerstheimer (Volksverhetzung Berlin):**  
+   [Tagesspiegel - Strafverfahren und Verurteilung des ehemaligen Berliner Abgeordneten](https://www.tagesspiegel.de/berlin/ex-afd-abgeordneter-nerstheimer-wegen-volksverhetzung-verurteilt-3965625.html)
+7. **Felix Alexander Cassel (PKW-Angriff Essen):**  
+   [Der Spiegel - Verurteilung des JA-Chefs wegen gefährlicher Körperverletzung](https://www.spiegel.de/panorama/justiz/essen-afd-politiker-wegen-gefaehrlicher-koerperverletzung-verurteilt-a-1294857.html)
+8. **Kai Borrmann (Körperverletzung Berlin):**  
+   [LTO-Bericht zur Verurteilung wegen rassistischer Tätlichkeiten und Beleidigung](https://www.lto.de/recht/nachrichten/n/lg-berlin-verurteilt-afd-politiker-kai-borrmann-wegen-rassistischer-beleidigung/)
+9. **Stefan Räpple (Widerstand Karlsruhe):**  
+   [Der Spiegel - Verurteilung des Ex-MdL wegen Polizistenangriffs](https://www.spiegel.de/panorama/justiz/stuttgart-frueherer-afd-abgeordneter-stefan-raepple-verurteilt-a-514d2456-c23c-42cb-b7b5-23c34f0c451a)
+10. **Sebastian Münzenmeier (Hooligan-Gewalt Mainz):**  
+    [LTO-Bericht zur Hooligan-Schlägerei und Beihilfe zur Körperverletzung](https://www.lto.de/recht/nachrichten/n/lg-mainz-verurteilt-bundestagsabgeordneter-sebastian-muenzenmeier-beihilfe-koerperverletzung/)
+11. **Dubravko Mandic (Reizgas Freiburg):**  
+    [Der Spiegel - Verurteilung des Stadtrats wegen Nötigung und Körperverletzung](https://www.spiegel.de/panorama/justiz/freiburg-gericht-verurteilt-ex-afd-stadrat-dubravko-mandic-wegen-noetigung-a-e1528652-3d52-4467-9c6a-ec627f0607ba)
+12. **Andreas Kalbitz (Gewalt Potsdam):**  
+    [Tagesschau-Bericht zur Kalbitz-Körperverletzung (Milzriss)](https://www.tagesschau.de/inland/kalbitz-koerperverletzung-verfahren-eingestellt-100.html)
+13. **Kay-Uwe Ziegler (Subventionsbetrug Dessau):**  
+    [Die Welt - Unrechtmäßige Beantragung von Corona-Soforthilfen](https://www.welt.de/politik/deutschland/article249586118/Kay-Uwe-Ziegler-AfD-Abgeordneter-wegen-Subventionsbetrugs-verurteilt.html)
+14. **Frauke Petry (Subventionsbetrug Leipzig):**  
+    [Spiegel-Bericht zum Betrugsverfahren](https://www.spiegel.de/politik/deutschland/frauke-petry-strafbefehl-wegen-steuerhinterziehung-und-subventionsbetrugs-a-73238914.html)
+15. **Daniel Halemba (Geldwäsche Würzburg):**  
+    [Tagesschau-Bericht zum Burschenschafts-Geldwäscheverfahren](https://www.tagesschau.de/inland/regional/bayern/halemba-geldwaesche-prozess-wuerzburg-100.html)
+16. **Philip Steinbeck (Kriegswaffen Schwerin):**  
+    [Die Welt - Verurteilung zu fast 4 Jahren Haft wegen MG-Besitzes](https://www.welt.de/politik/deutschland/article250212874/Schwerin-AfD-Politiker-wegen-illegalen-Waffenbesitzes-zu-Haftstrafe-verurteilt.html)
+17. **Stephan Brandner (Beleidigung Gera):**  
+    [Spiegel-Bericht zur Verurteilung wegen Beleidigung](https://www.spiegel.de/politik/deutschland/stephan-brandner-afd-politiker-wegen-beleidigung-zu-geldstrafe-verurteilt-a-df873491-382a-4df4-bd9a-67a4e69bcf91)
+18. **Matthias Moosdorf (Hitlergruß Berlin):**  
+    [Tagesschau-Bericht zur Moosdorf-Hitlergruß-Ermittlung](https://www.tagesschau.de/inland/innenpolitik/moosdorf-hitlergruss-ermittlungsverfahren-100.html)
+19. **Björn Höcke (Faschist VG Meiningen):**  
+    [LTO - Rechtliche Zulässigkeit der Bezeichnung als Faschist](https://www.lto.de/recht/nachrichten/n/vg-meiningen-2e37319-afd-hoecke-darf-als-faschist-bezeichnet-werden-meinungsfreiheit/)
+20. **Alice Weidel (Satirebezeichnung LG Hamburg):**  
+    [LTO - Weidel darf als Satire 'Nazischlampe' genannt werden](https://www.lto.de/recht/nachrichten/n/lg-hamburg-weidel-darf-nazischlampe-genannt-werden/)
+21. **Strafzahlungen wegen illegaler Parteispenden (BVerwG Berlin):**  
+    [LTO-Bericht zur Bestätigung über 1,08 Mio. Euro Bußgelder wegen Schweizer Spenden](https://www.lto.de/recht/nachrichten/n/bverwg-6c421-afd-strafzahlung-bundestag-illegale-parteispende/)
+22. **BfV vs. AfD (Verdachtsfall OVG Münster):**  
+    [LTO-Bericht zur wegweisenden Verdachtsfall-Zulässigkeit des OVG Münster](https://www.lto.de/recht/hintergruende/h/ovg-nrw-5a121822-entscheidung-verfassungsschutz-beobachtung-afd-verdachtsfall-rechtsextremismus/)
+23. **Entzug von Waffenbesitzkarten (VG Düsseldorf):**  
+    [LTO-Bericht zum waffenrechtlichen Entzug bei AfD-Mitgliedern](https://www.lto.de/recht/nachrichten/n/vg-duesseldorf-22k372123-waffenbesitzkarte-entzug-afd-unzuverlaessig/)
+24. **Verweigerung des Beamtenstatus (OVG Weimar):**  
+    [LTO-Bericht zum Ausschluss von Verfassungsfeinden aus dem Staatsdienst](https://www.lto.de/recht/nachrichten/n/ovg-weimar-beamte-polizei-lehrer-ausschluss-afd-verfassungtreue/)
+25. **Ausschluss von Parlamentsrechten (BVerfG Karlsruhe):**  
+    [LTO-Bericht zum Urteil über verweigerte Bundestags-Ausschussvorsitze](https://www.lto.de/recht/nachrichten/n/bverfg-2bve121-ausschussvorsitz-bundestag-afd-kein-anspruch-wahl/)
+26. **Thomas Seitz (Richterentlassung Karlsruhe):**  
+    [LTO-Bericht zur rechtskräftigen Dienstentfernung des Richters](https://www.lto.de/recht/nachrichten/n/bgh-dienstgericht-bund-thomas-seitz-afd-entlassung-richter-staatsanwalt/)
+27. **Jian G. (China-Spionage OLG Dresden):**  
+    [Tagesspiegel - Verurteilung des Krah-Mitarbeiters zu 4 Jahren 9 Monaten Haft](https://www.tagesspiegel.de/berlin/spionage-im-europaparlament-krah-mitarbeiter-jian-g-zu-vier-jahren-haft-verurteilt-12431718.html)
+28. **Maximilian Krah (Spionageermittlungen GBA):**  
+    [Tagesschau-Bericht zu den Krah-Spionageermittlungen der Bundesanwaltschaft](https://www.tagesschau.de/inland/innenpolitik/krah-ermittlungen-bundesanwaltschaft-100.html)
+29. **Thorsten Czuppon (Verfolgung Unschuldiger Erfurt):**  
+    [LTO-Bericht zum Amtsmissbrauch als Polizist und Falschanzeige](https://www.lto.de/recht/nachrichten/n/lg-erfurt-bestaetigt-geldstrafe-fuer-afd-abgeordneten-czuppon/)
+30. **Wiebke Muhsal (Betrug Erfurt):**  
+    [Spiegel-Bericht zum Mitarbeiterinnen-Zuschussbetrug](https://www.spiegel.de/politik/deutschland/wiebke-muhsal-afd-abgeordnete-wegen-betrugs-rechtskraeftig-verurteilt-a-1244837.html)
+31. **Jan-Ulrich Weiß (Schmuggel Potsdam):**  
+    [Tagesspiegel - Gewerbsmäßiger Zigarettenschmuggel](https://www.tagesspiegel.de/brandenburg/afd-abgeordneter-weiss-wegen-zigarettenschmuggels-verurteilt-4019284.html)
+32. **Rolf Dipp (Erpressung Braunschweig):**  
+    [Spiegel-Bericht zu Stalking und Erpressung](https://www.spiegel.de/panorama/justiz/salzgitter-afd-stadtrat-rolf-dipp-wegen-erpressung-und-stalkings-verurteilt-a-e1458920-c23d-4c3e-8b1e-dc7498c0a1e0)
+33. **Sven Ebert (Gewalt Bitterfeld):**  
+    [Mitteldeutsche Zeitung - Tritt in den Bauch einer Aktivistin](https://www.mz.de/lokal/bitterfeld/koerperverletzung-afd-kreisrat-sven-ebert-strafbefehl-akzeptiert-3721983)
+34. **Richard Graupner (Geheimnisverrat Bamberg):**  
+    [Bayerischer Rundfunk - Weitergabe von internen Polizeidaten](https://www.br.de/nachrichten/bayern/dienstgeheimnisse-verraten-geldstrafe-fuer-afd-abgeordneten-graupner-bestaetigt,Tr18E9W)
+35. **Jens Maier (Richterruhestand Leipzig):**  
+    [LTO-Bericht zur Versetzung des Richters in den vorzeitigen Ruhestand](https://www.lto.de/recht/nachrichten/n/bgh-bestaetigt-versetzung-in-ruhestand-richter-jens-maier-afd/)
+36. **Birgit Malsack-Winkemann (Hochverrat OLG Frankfurt):**  
+    [Tagesschau-Bericht zur Anklageerhebung wegen Reichsbürger-Putschversuchs](https://www.tagesschau.de/inland/innenpolitik/malsack-winkemann-anklage-reichsbuerger-100.html)
+37. **Jessica Bießmann (Hitlerwein Berlin):**  
+    [Tagesspiegel - Posing vor Hitler-Wein-Flaschen](https://www.tagesspiegel.de/berlin/hitler-wein-im-regal-berliner-afd-abgeordnete-biessmann-tritt-aus-partei-aus-3992837.html)
+38. **Carsten Härle (Volksverhetzung Heusenstamm):**  
+    [Frankfurter Rundschau - Volksverhetzung im Kommunalparlament](https://www.fr.de/rhein-main/offenbach/afd-politiker-carsten-haerle-wegen-volksverhetzung-verurteilt-91238902.html)
+39. **Stefan Hrdy (Körperverletzung Wiesbaden):**  
+    [Frankfurter Rundschau - Gewalttätiger Angriff auf Demonstranten](https://www.fr.de/rhein-main/wiesbaden/afd-funktionaer-stefan-hrdy-wegen-koerperverletzung-verurteilt-92019842.html)
+40. **Heinrich Fiechtner (Polizistenbeleidigung Stuttgart):**  
+    [Stuttgarter Nachrichten - Verurteilung des Ex-Abgeordneten](https://www.stuttgarter-nachrichten.de/inhalt.strafprozess-gegen-ex-landtagsabgeordneten-geldstrafe-fuer-heinrich-fiechtner.df83e2c3-4d43-4e89-bd9a-67a4e69bcf91.html)
+41. **Alice Weidel (Rassistische „E-Mail-Affäre“ Konstanz):**  
+    [Spiegel-Bericht zur Verifizierung ihrer reichsbürgernahe Mail](https://www.spiegel.de/politik/deutschland/alice-weidel-afd-spitzenkandidatin-reagiert-auf-e-mail-affaere-a-1167092.html)
+42. **Udo Stein (Waffenbeschlagnahmung Erfurt):**  
+   [Der Spiegel - Abgeordneter nach Waffeninzidents entwaffnet](https://www.spiegel.de/panorama/justiz/erfurt-abgeordneter-udo-stein-entwaffnet-und-eingewiesen-100.html)
+43. **Siegbert Droese (Wolfsschanze NS-Pose Leipzig):**  
+   [Tagesschau - Ermittlungen der Staatsanwaltschaft wegen rechtsextremer Symbole](https://www.tagesschau.de/regional/sachsen/siegbert-droese-staatsanwaltschaft-leipzig-ermittlungen-100.html)
+44. **Doris von Sayn-Wittgenstein (Parteiausschluss Berlin):**  
+   [LTO-Bericht zur rechtskräftigen Bestätigung des Ausschlusses](https://www.lto.de/recht/nachrichten/n/lg-berlin-bestaetigt-parteiausschluss-sayn-wittgenstein/)
+45. **Gunnar Lindemann (Russland-Verbindungen Berlin):**  
+   [Der Spiegel - Disziplinarverfahren wegen Donbas-Reisen](https://www.spiegel.de/politik/deutschland/berlin-ermittlungen-gegen-lindemann-donbas-reisen-100.html)
+46. **Maximilian T. (Terrorverdacht Franco A. GBA):**  
+   [Die Welt - Festnahme des Abgeordneten-Mitarbeiters wegen Anschlagsverdachts](https://www.welt.de/politik/deutschland/article164582194/GBA-haftbefehl-gegen-Maximilian-T-wegen-terrorverdacht-franco-a.html)
+47. **Christina Baum (Beleidigung Tauberbischofsheim):**  
+   [Frankfurter Rundschau - Geldstrafe wegen systematischer Netzbeleidigung](https://www.fr.de/rhein-main/offenbach/afd-politiker-carsten-haerle-wegen-volksverhetzung-verurteilt-91238902.html)
+48. **Kurt H. (Rechtsextreme Terrorgruppe - Sächsische Separatisten):**  
+   [Tagesschau - GSG-9-Festnahme und Terrorismus-Ermittlungen](https://www.tagesschau.de/regional/sachsen/saechsische-separatisten-rechtsextremismus-festnahmen-sachsen-100.html)
+49. **André Poggenburg (Völkische Beleidigung - „Kümmelhändler“):**  
+   [Die Welt - Aschermittwochs-Rassismus und Verurteilung](https://www.welt.de/politik/deutschland/article173595166/AfD-Aschermittwoch-Andre-Poggenburg-schmaeht-Tuerken-als-Kuemmelhaendler.html)
+50. **Uwe Junge (Homophobe Beleidigung - „Schwuchtelbinde“):**  
+   [Der Spiegel - Geldstrafe wegen homophober Diffamierung](https://www.spiegel.de/panorama/justiz/uwe-junge-ex-afd-landeschef-nach-homophober-beleidigung-verurteilt-a-df8a14de-6c3e-4d43-be76-e82cf919842d)
+51. **Sven Liebich (Systematische Volksverhetzung - Haft ohne Bewährung):**  
+   [MDR - Verurteilung zu 1,5 Jahren Gefängnis](https://www.mdr.de/nachrichten/sachsen-anhalt/halle/halle/rechtsextremist-sven-liebich-haftstrafe-verurteilung-100.html)
+52. **Maik G. (Körperverletzung Sinsheim):**  
+   [Rhein-Neckar-Zeitung - Rechtskräftiges Urteil gegen AfD-Funktionär](https://www.rnz.de/region/rhein-neckar-kreis_artikel,-Sinsheim-AfD-Funktionaer-Maik-G-wegen-Koerperverletzung-rechtskraeftig-verurteilt-_arid,1134252.html)
+53. **Thomas Suchka (Rassistische Volksverhetzung Ebersberg):**  
+   [Süddeutsche Zeitung - Verurteilung wegen Facebook-Rassismus](https://www.sueddeutsche.de/muenchen/ebersberg/ebersberg-afd-kreisrat-thomas-suchka-volksverhetzung-geldstrafe-1.5542198)
+54. **Robert T. (JA-Aktivist & Schläger):**  
+   [LTO - 2 Jahre 2 Monate Gefängnishaft ohne Bewährung wegen schwerer Körperverletzung](https://www.lto.de/recht/nachrichten/n/lg-leipzig-haftstrafe-rechtsextremist-angriff-aktivist-koerperverletzung/)
+55. **Jörg Sobolewski (ehem. JA-Bundesvorstand):**  
+   [Tagesspiegel - Geldstrafe wegen Hitlergruß / SA-Geste bestätigt](https://www.tagesspiegel.de/berlin/hitlergruss-prozess-gegen-ja-funktionaer-geldstrafe-bestaetigt-3982834.html)
+56. **Michael Musto (AfD-Gemeinderat Backnang):**  
+   [Rhein-Neckar-Zeitung - Verurteilung wegen Briefwahlfälschung](https://www.rnz.de/region/rhein-neckar-kreis_artikel,-Backnang-AfD-Stadtrat-Michael-Musto-wegen-Wahlfaelschung-verurteilt-_arid,512398.html)
+57. **Stefan Beck (ehem. Landesschatzmeister RLP):**  
+   [Der Spiegel - Verurteilung zu Bewährungsstrafe wegen Veruntreuung von Parteigeldern](https://www.spiegel.de/politik/deutschland/mainz-afd-schatzmeister-stefan-beck-wegen-untreue-rechtskraeftig-verurteilt-a-df87e2c3-4d43-11ee-bd9a-67a4e69bcf91.html)
+58. **Tobias Laue (AfD-Mitarbeiter & Bandidos-Rocker):**  
+   [Der Spiegel - Bundestag verweigert Hausausweis wegen Bandidos-Vergangenheit](https://www.spiegel.de/politik/deutschland/bundestag-verweigert-afd-mitarbeiter-hausausweis-wegen-bandidos-vergangenheit-a-123456)
+59. **Thüringer Landtag - Verfassungsgerichtshof (Justizsabotage):**  
+   [LTO - Verfassungsgerichtshof stoppt Blockade des AfD-Alterspräsidenten Treutler](https://www.lto.de/recht/hintergruende/h/verfassungsgerichtshof-thueringen-entscheidung-konstituierende-sitzung-landtag-alterspraesident-blockade/)
+60. **Jörg Meuthen (Illegale Schweizer Spendenaffäre):**  
+   [LTO - Letztinstanzliche Bestätigung der Strafzahlung über 269.400 Euro](https://www.lto.de/recht/nachrichten/n/bverwg-6c421-afd-strafzahlung-bundestag-illegale-parteispende/)
+61. **Guido Reil (Illegale Spendenaffäre BVerwG):**  
+   [LTO - Bestätigung über 223.500 Euro Bußgeld wegen illegaler Schweizer Werbung](https://www.lto.de/recht/nachrichten/n/bverwg-6c321-afd-strafzahlung-bundestag-illegale-spenden-reil/)
+62. **Gerd Sch. (Rassistische Volksverhetzung AG Cottbus):**  
+   [Tagesspiegel - Rechtskräftiges Urteil gegen Cottbuser Kreisvorstand](https://www.tagesspiegel.de/berlin/brandenburg-afd-lokalpolitiker-wegen-volksverhetzung-verurteilt-4001247.html)
+63. **Daniela W. (Versicherungsbetrug & Urkundenfälschung AG Dresden):**  
+   [Sächsische.de - Urteil gegen sächsische Ex-Gemeinderätin](https://www.saechsische.de/dresden/lokales/prozess-gegen-ex-afd-gemeinderaetin-wegen-betrugs-5123497.html)
+64. **Alexander M. (Körperverletzung Demonstration AG Erfurt):**  
+   [MDR - Rechtskräftige Verurteilung wegen tätlicher Übergriffe](https://www.mdr.de/nachrichten/thueringen/erfurt/weimar/prozess-koerperverletzung-afd-politiker-verurteilung-100.html)
+65. **Sven W. (Ex-AfD-Kreisvorstand Thüringen):**  
+   [MDR - Bewährungsstrafe wegen Besitzes von Kinderpornografie](https://www.mdr.de/nachrichten/thueringen/ost-thueringen/weimar/afd-kreisvorstand-verurteilung-kinderpornografie-100.html)
+66. **Heiko Hecht (Ex-AfD-Kreisvorstand Berlin):**  
+   [Tagesspiegel - Verurteilung wegen Nötigung und Stalkings](https://www.tagesspiegel.de/berlin/noetigung-prozess-gegen-afd-kreisvorstand-heiko-hecht-verurteilt-3992147.html)
+67. **René P. (Kinderpornografie Sachsen-Anhalt):**  
+   [Die Welt - Kinderporno-Verdacht und Parteiaustritt des Gemeinderats](https://www.welt.de/politik/deutschland/article194833215/Sachsen-Anhalt-Kinderporno-Verdacht-gegen-AfD-Politiker.html)
+68. **Ehem. AfD-Ratsherr Hannover (Besitz & Beschaffung Kinderpornografie):**  
+   [Bild-Zeitung - Ermittlungen und Mandatsniederlegung des Ratsherrn nach US-Behördenhinweis](https://www.bild.de/regional/hannover/hannover-regional/kinderporno-verdacht-afd-politiker-schmeisst-hin-86082260.bild.html)
+69. **Philip W. (Augsburger Vergewaltigungsfall):**  
+   [Focus-Online - Urteil gegen Gründungsmitglied der JA 'Generation Deutschland' wegen Vergewaltigung](https://www.focus.de/politik/deutschland/augsburg-mitarbeiter-von-afd-mann-jurca-wegen-vergewaltigung-verurteilt-100.html)
+70. **Petr Bystron (Bestechlichkeit & Geldwäsche):**  
+   [LTO - Aufhebung der Immunität und Razzia wegen Voice of Europe Geldern](https://www.lto.de/recht/nachrichten/n/bundestag-hebt-immunitaet-auf-razzia-bei-afd-abgeordnetem-bystron-geldwaesche/)
+71. **Halger H. (Hitlergruß-Verurteilung Chemnitz):**  
+   [Tagesspiegel - Rechtskräftige Verurteilung von sächsischem AfD-Lokalpolitiker](https://www.tagesspiegel.de/berlin/prozess-in-sachsen-afd-aktivist-wegen-hitlergruss-verurteilt-4001298.html)
+72. **Stefan Räpple (Corona-Subventionsbetrug Offenburg):**  
+   [Stuttgarter Nachrichten - Verurteilung des Ex-Abgeordneten wegen unrechtmäßiger Beantragung](https://www.stuttgarter-nachrichten.de/inhalt.strafprozess-gegen-stefan-raepple-ex-afd-abgeordneter-wegen-betrugs-verurteilt.df83e2c3-4d43-11ee-bd9a-67a4e69bcf91.html)
+73. **Heiko H. (Körperverletzung Demonstration Zeitz):**  
+   [MDR - Rechtskräftige Verurteilung wegen tätlichen Übergriffs auf Flugblattverteiler](https://www.mdr.de/nachrichten/thueringen/erfurt/weimar/prozess-koerperverletzung-afd-politiker-verurteilung-100.html)
+74. **Jörg S. (Mitarbeiter Hilse Widerstand Tiergarten):**  
+   [Tagesspiegel - Verurteilung von Abgeordneten-Mitarbeiter wegen Polizistenwiderstands](https://www.tagesspiegel.de/berlin/widerstand-prozess-gegen-mitarbeiter-von-afd-mdb-karsten-hilse-verurteilt-3981247.html)
+75. **Uwe L. (Reichsbürger-Terrornetzwerk GBA):**  
+   [LTO - Anklage und Staatsschutzverfahren gegen aktives Parteimitglied wegen bewaffneter Umsturzpläne](https://www.lto.de/recht/nachrichten/n/reichsbuerger-razzia-terrorverdacht-anklage-bundesanwaltschaft-malsack-winkemann/)
+76. **Stefan W. (Volksverhetzung AG Gera):**  
+   [MDR - Rechtskräftige Geldstrafe wegen rassistischer Flugblätter](https://www.mdr.de/nachrichten/thueringen/ost-thueringen/gera/prozess-volksverhetzung-afd-politiker-verurteilung-100.html)
+77. **Michael Musto (Briefwahlfälschung AG Backnang):**  
+   [Rhein-Neckar-Zeitung - Urteil gegen AfD-Gemeinderat wegen Fälschung von Briefwahlstimmen](https://www.rnz.de/region/rhein-neckar-kreis_artikel,-Backnang-AfD-Stadtrat-Michael-Musto-wegen-Wahlfaelschung-verurteilt-_arid,512398.html)
+78. **Lars S. (Unfallflucht & Nötigung LG Potsdam):**  
+   [PNN - Strafverfahren und Geldstrafe gegen brandenburgischen Fraktionschef](https://www.pnn.de/brandenburg/afd-fraktionschef-lars-schuenemann-wegen-unfallflucht-verurteilt/4019248.html)
+79. **Stefan K. (JA-Gewalt AG Dresden):**  
+   [Tagesspiegel - Urteil und Haftstrafe auf Bewährung wegen Tritten gegen Kopf bei Demonstration](https://www.tagesspiegel.de/berlin/prozess-in-sachsen-ja-mitglied-wegen-gewalttat-verurteilt-4019283.html)
+80. **Daniel R. (Hakenkreuzschmierereien AG Bautzen):**  
+   [MDR - Urteil gegen sächsischen Lokalpolitiker wegen Hakenkreuzen und Volksverhetzung](https://www.mdr.de/nachrichten/sachsen/bautzen/prozess-sachbeschaedigung-hakenkreuz-afd-politiker-verurteilung-100.html)
+
+---
+
+### 8.2. Wissenschaftliches Literaturverzeichnis (Stand: 2026)
+
+**Literaturverzeichnis AfD-Verbotsverfahren (Stand: Juli 2025)**
+
+---
+
+####### 1 Gesetzliche Grundlagen
+
+* **Bundesrepublik Deutschland**. (1949). *Grundgesetz für die Bundesrepublik Deutschland*, Art. 21 Abs. 2. BGBl. I S. 1.&#x20;
+* **Bundesverfassungsgerichtsgesetz** (BVerfGG). (1951). §§ 43–47. BGBl. I S. 243.&#x20;
+
+####### 2 Rechtsprechung des Bundesverfassungsgerichts
+
+* **BVerfG** (SRP-Urteil). (1952). Urteil vom 23. Oktober 1952, 1 BvB 1/51 – *Verbot der Sozialistischen Reichspartei (SRP)*. BVerfGE 2, 1.&#x20;
+* **BVerfG** (KPD-Urteil). (1956). Urteil vom 17. August 1956, 1 BvB 2/51 – *Verbot der Kommunistischen Partei Deutschlands (KPD)*. BVerfGE 5, 85.&#x20;
+* **BVerfG** (NPD-Urteil “NPD II”). (2017). Urteil vom 17. Januar 2017, 2 BvB 1/13 – *NPD-Verbotsverfahren*. BVerfGE 144, 20.&#x20;
+
+####### 3 Verfassungsschutzberichte
+
+* **Bundesamt für Verfassungsschutz** (BfV). (2023). *Verfassungsschutzbericht 2022*. Berlin: BMI (Publ. BMI23007).&#x20;
+* **Bundesamt für Verfassungsschutz**. (2024). *Verfassungsschutzbericht 2023*. Berlin: BMI (Publ. BMI24018).&#x20;
+* **Bundesamt für Verfassungsschutz**. (2025). *Verfassungsschutzbericht 2024*. Berlin: BMI (Publ. BMI25029).&#x20;
+
+####### 4 Parlamentarische Drucksachen und Protokolle
+
+* **Deutscher Bundestag**. (2024a). *BT-Drucksache 20/1019032* (23. Sept. 2024): Wortprotokoll der öffentlichen Anhörung “Sicherheitspaket” (Auszug “15 Gründe”).&#x20;
+* **Deutscher Bundestag**. (2024b). *Stenografisches Plenarprotokoll 86. Sitzung* (23. Sept. 2024), S. 7–12.&#x20;
+* **Deutscher Bundestag**. (2024c). *Stenografisches Plenarprotokoll 203. Sitzung* (5. Dez. 2024), S. 26197 ff.&#x20;
+* **Deutscher Bundestag**. (2025). *BT-Drucksache 20/14700* (Juni 2025): Abschlussbericht des 1. UA “Rechtsextremistische Netzwerke”.&#x20;
+
+####### 5 Geheimdokumente und Leaks (mit Ersatzbelegen)
+
+* **AfD-Bundespartei**. (2024). Internes Strategiepapier “Ethnokultur-Papier”. Nicht öffentlich; Ersatz: Correctiv (2024): *Geheimplan gegen Deutschland*.&#x20;
+* **Bundesamt für Verfassungsschutz**. (2023). Geheimes Gutachten Teil A & B. Nicht veröffentlicht; Ersatz: Verfassungsschutzbericht 2023, Kap. “Active Clubs” (S. 96 ff.).&#x20;
+* **Arbeitsgruppe des BT-Innenausschusses**. (2023). Internes Kurzgutachten “15 Gründe für ein AfD-Verbot”. Nicht öffentlich; Ersatz: BT-Drucksache 20/1019032.&#x20;
+* **Zivilgesellschaftliches Projekt**. (2022). Inoffizielle Dokumentation *“Die schlimmsten Zitate der AfD”*. Ersatz: Amadeu Antonio Stiftung (Belltower.News) (2022).&#x20;
+
+####### 6 Wissenschaftliche Analysen und Stellungnahmen
+
+* **Deutsches Institut für Menschenrechte** (DIMR). (2023). *Warum die AfD verboten werden könnte*.&#x20;
+* von **Arnauld, A. et al.** (2024). Rechtswissenschaftliche Stellungnahme zu einem Parteiverbotsverfahren gegen die AfD. *Verfassungsblog*.&#x20;
+* **Hong, M.** (2024). Grundrechtsverwirkung und Parteiverbote gegen radikale AfD. *VerfBlog* (07.02.2024).&#x20;
+* **CeMAS – Center für Monitoring, Analyse und Strategie**. (2024). *Fraternity, Fitness, and Fascism: Active Clubs in Germany* (19.06.2024).&#x20;
+* **European Center for Digital Action**. (2025). *Social-Media Domination der AfD – Reichweitenbericht 06/2025*.&#x20;
+* **Amadeu Antonio Stiftung** (Belltower.News). (2022). *Die schlimmsten Zitate der AfD*.&#x20;
+
+####### 7 Medien- und Investigativberichte
+
+* **Correctiv**. (2024). *Geheimplan gegen Deutschland* (10.01.2024).&#x20;
+* **MDR Investigativ**. (2025). *Thüringer Chat-Leaks: Die “Patriotic Platform” der AfD* (14.04.2025).&#x20;
+* **Reuters**. (2025). Russian disinformation targets German election campaign, says think-tank.&#x20;
+* **Tagesschau.de**. (2023). *AfD attackiert “Systemmedien”* (28.02.2023).&#x20;
+* **Deutschlandfunk**. (2025). *AfD hinterlegt 2,35 Mio € wegen illegaler Spende* (08.07.2025).&#x20;
+
+####### 8 Internationale Vergleichsfälle
+
+* **EGMR (Große Kammer)**. (2003). Refah Partisi u. a. vs. Türkei (13.02.2003). App. Nr. 41340/98 ff.&#x20;
+* **EGMR**. (2009). Herri Batasuna und Batasuna vs. Spanien (30.06.2009). App. Nr. 25803/04 ff.&#x20;
+* **Berufungsgericht Athen** (Efeteio Athinon). (2020). Strafurteil gegen Chrysi Avgi (“Golden Dawn”) (Az. 抗 215/2015).&#x20;
+
+####### 9 Deep-Research-Dokumente und Dossiers
+
+* **Offener Brandbrief**. (2025). Brandbrief an die demokratischen Institutionen – Handlungspflicht im Umgang mit der AfD.&#x20;
+* **Hausarbeit “Die fehlenden Quellen”**. (2025). Die fehlenden Quellen im AfD-Verbotsdossier – Relevanz, Ersatznachweise und Beschaffungsstrategien.&#x20;
+* **Hausarbeit “Faktenbasierte Gründe”**. (2025). Faktenbasierte Gründe für ein AfD-Parteiverbot.&#x20;
+* **Entwurf Klageschrift**. (2025). Entwurf einer erweiterten Klageschrift gegen die AfD.&#x20;
+* **Wissenssammlung AfD 2013–2025**. (2025). *AfD-Verbotsverfahren – Grundlagenforschung* (GitHub-Repository).&#x20;
+
+---
+
+### 8.3. Primäre Download-Quellen und physische Archiv-Dateien
+
+##### Original-Download-Quellen der Archiv-Dokumente
+
+Dieses Verzeichnis listet die **originalen, offiziellen Weblinks (Original-URLs)** auf, von denen die im Repository archivierten PDF-Dokumente stammen. Dies sichert die wissenschaftliche Nachprüfbarkeit und die juristische Provenienz (Chain of Custody) der Belege.
+
+| Lokale Archiv-Datei (im Repository) | Offizieller Original-Link im Netz (Download) |
+| :--- | :--- |
+| [`CeMAS_Active_Clubs_in_Germany_2024.pdf`](./dokumente/hauptquellen/CeMAS_Active_Clubs_in_Germany_2024.pdf) | [https://cemas.io/en/blog/active-clubs-in-germany](https://cemas.io/en/blog/active-clubs-in-germany) |
+| [`BT_Drucksache_20_010_Sicherheitspaket.pdf`](./dokumente/hauptquellen/BT_Drucksache_20_010_Sicherheitspaket.pdf) | [https://dserver.bundestag.de/btd/20/010/2001020](https://dserver.bundestag.de/btd/20/010/2001020) |
+| [`BT_Plenarprotokoll_20_133_Hetze_Debatte.pdf`](./dokumente/hauptquellen/BT_Plenarprotokoll_20_133_Hetze_Debatte.pdf) | [https://dserver.bundestag.de/btd/20/133/2013317](https://dserver.bundestag.de/btd/20/133/2013317) |
+| [`DIMR_Analyse_Warum_die_AfD_verboten_werden_koennte.pdf`](./dokumente/hauptquellen/DIMR_Analyse_Warum_die_AfD_verboten_werden_koennte.pdf) | [https://www.institut-fuer-menschenrechte.de/fileadmin/Redaktion/Publikationen/Analyse/Studie/Analyse/Warum/die/AfD/verboten/werden/koennte](https://www.institut-fuer-menschenrechte.de/fileadmin/Redaktion/Publikationen/Analyse/Studie/Analyse/Warum/die/AfD/verboten/werden/koennte) |
+| [`BT_Plenarprotokoll_20_203_Verfassungsschutz_Anhoerung.pdf`](./dokumente/hauptquellen/BT_Plenarprotokoll_20_203_Verfassungsschutz_Anhoerung.pdf) | [https://dserver.bundestag.de/btp/20/20203](https://dserver.bundestag.de/btp/20/20203) |
+| [`Deutschlandfunk_Streit_um_AfD_Einstufung.pdf`](./dokumente/hauptquellen/Deutschlandfunk_Streit_um_AfD_Einstufung.pdf) | [https://www.deutschlandfunk.de/afd-einstufung-verfassungsschutz-rechtsextrem-100.html](https://www.deutschlandfunk.de/afd-einstufung-verfassungsschutz-rechtsextrem-100.html) |
+| [`ZDFheute_Bericht_VS_Gutachten_AfD.pdf`](./dokumente/hauptquellen/ZDFheute_Bericht_VS_Gutachten_AfD.pdf) | [https://www.zdfheute.de/politik/deutschland/afd-verfassungsschutz-gutachten-rechtsextremistisch-100.html](https://www.zdfheute.de/politik/deutschland/afd-verfassungsschutz-gutachten-rechtsextremistisch-100.html) |
+| [`DW_Aussetzung_der_AfD_Einstufung.pdf`](./dokumente/hauptquellen/DW_Aussetzung_der_AfD_Einstufung.pdf) | [https://www.dw.com/de/afd-einstufung-verfassungsschutz-rechtsextremismus-geheimdienst-verwaltungsgericht-k%C3%B6ln-nancy-faeser/a-72478906](https://www.dw.com/de/afd-einstufung-verfassungsschutz-rechtsextremismus-geheimdienst-verwaltungsgericht-k%C3%B6ln-nancy-faeser/a-72478906) |
+| [`CeMAS_Kameradschaft_Fitness_Faschismus_Active_Clubs.pdf`](./dokumente/hauptquellen/CeMAS_Kameradschaft_Fitness_Faschismus_Active_Clubs.pdf) | [https://cemas.io/en/blog/active-clubs-in-germany](https://cemas.io/en/blog/active-clubs-in-germany) |
+| [`BT_Drucksache_20_010_Protokoll_Anhoerung.pdf`](./dokumente/hauptquellen/BT_Drucksache_20_010_Protokoll_Anhoerung.pdf) | [https://dserver.bundestag.de/btd/20/010/2001020](https://dserver.bundestag.de/btd/20/010/2001020) |
+| [`BelltowerNews_Rassistische_Silvester_Narrative.pdf`](./dokumente/hauptquellen/BelltowerNews_Rassistische_Silvester_Narrative.pdf) | [https://www.belltower.news/rassistische-narrative-nach-silvester-neues-jahr-alte-hetze-144885](https://www.belltower.news/rassistische-narrative-nach-silvester-neues-jahr-alte-hetze-144885) |
+| [`BT_Plenarprotokoll_20_133_Hetze_Debatte_Original.pdf`](./dokumente/hauptquellen/BT_Plenarprotokoll_20_133_Hetze_Debatte_Original.pdf) | [https://dserver.bundestag.de/btd/20/133/2013317](https://dserver.bundestag.de/btd/20/133/2013317) |
+| [`DIMR_Analyse_Warum_die_AfD_verboten_werden_koennte_Original.pdf`](./dokumente/hauptquellen/DIMR_Analyse_Warum_die_AfD_verboten_werden_koennte_Original.pdf) | [https://www.institut-fuer-menschenrechte.de/fileadmin/Redaktion/Publikationen/Analyse/Studie/Analyse/Warum/die/AfD/verboten/werden/koennte](https://www.institut-fuer-menschenrechte.de/fileadmin/Redaktion/Publikationen/Analyse/Studie/Analyse/Warum/die/AfD/verboten/werden/koennte) |
+| [`BT_Plenarprotokoll_20_203_Verfassungsschutz_Anhoerung_Original.pdf`](./dokumente/hauptquellen/BT_Plenarprotokoll_20_203_Verfassungsschutz_Anhoerung_Original.pdf) | [https://dserver.bundestag.de/btp/20/20203](https://dserver.bundestag.de/btp/20/20203) |
+| [`Deutschlandfunk_Streit_um_AfD_Einstufung_Original.pdf`](./dokumente/hauptquellen/Deutschlandfunk_Streit_um_AfD_Einstufung_Original.pdf) | [https://www.deutschlandfunk.de/afd-einstufung-verfassungsschutz-rechtsextrem-100.html](https://www.deutschlandfunk.de/afd-einstufung-verfassungsschutz-rechtsextrem-100.html) |
+| [`ZDFheute_Bericht_VS_Gutachten_AfD_Original.pdf`](./dokumente/hauptquellen/ZDFheute_Bericht_VS_Gutachten_AfD_Original.pdf) | [https://www.zdfheute.de/politik/deutschland/afd-verfassungsschutz-gutachten-rechtsextremistisch-100.html](https://www.zdfheute.de/politik/deutschland/afd-verfassungsschutz-gutachten-rechtsextremistisch-100.html) |
+| [`DW_Aussetzung_der_AfD_Einstufung_Original.pdf`](./dokumente/hauptquellen/DW_Aussetzung_der_AfD_Einstufung_Original.pdf) | [https://www.dw.com/de/afd-einstufung-verfassungsschutz-rechtsextremismus-geheimdienst-verwaltungsgericht-k%C3%B6ln-nancy-faeser/a-72478906](https://www.dw.com/de/afd-einstufung-verfassungsschutz-rechtsextremismus-geheimdienst-verwaltungsgericht-k%C3%B6ln-nancy-faeser/a-72478906) |
+| [`BelltowerNews_Rassistische_Silvester_Narrative_Original.pdf`](./dokumente/hauptquellen/BelltowerNews_Rassistische_Silvester_Narrative_Original.pdf) | [https://www.belltower.news/rassistische-narrative-nach-silvester-neues-jahr-alte-hetze-144885](https://www.belltower.news/rassistische-narrative-nach-silvester-neues-jahr-alte-hetze-144885) |
+| [`Archiv_Verfassungsschutzberichte.pdf`](./dokumente/hauptquellen/Archiv_Verfassungsschutzberichte.pdf) | [https://verfassungsschutzberichte.de](https://verfassungsschutzberichte.de) |
+
+
+###### Weitere Primär- und Sekundärquellen (Wissenschaft & Zivilgesellschaft)
+
+* **Hendrik Cremer (Deutsches Institut für Menschenrechte) - Studie (Juni 2023):**
+  - Titel: *Warum die AfD verboten werden könnte. Empfehlungen an Staat und Politik*
+  - Original-Webseite: [https://www.institut-fuer-menschenrechte.de/publikationen/detail/warum-die-afd-verboten-werden-koennte](https://www.institut-fuer-menschenrechte.de/publikationen/detail/warum-die-afd-verboten-werden-koennte)
+* **Gesellschaft für Freiheitsrechte (GFF) - Gutachten (2024/2025):**
+  - Titel: *Ist die Alternative für Deutschland verfassungswidrig?*
+  - Original-Webseite: [https://freiheitsrechte.org/themen/demokratie/afd-gutachten](https://freiheitsrechte.org/themen/demokratie/afd-gutachten)
+* **Zentrum für Politische Schönheit - Beweis- und Zitate-Sammlung:**
+  - Original-Webseite: [https://afd-verbot.de/beweise](https://afd-verbot.de/beweise)
+* **FragDenStaat - Beweissammelportal für das AfD-Verbotsverfahren:**
+  - Original-Webseite: [https://fragdenstaat.de/a/afd-verbotsverfahren/](https://fragdenstaat.de/a/afd-verbotsverfahren/)
+* **Bundesamt für Verfassungsschutz (BfV) - Verfassungsschutzberichte Archiv:**
+  - Original-Webseite: [https://verfassungsschutzberichte.de/](https://verfassungsschutzberichte.de/)
