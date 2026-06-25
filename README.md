@@ -128,6 +128,16 @@ Klicke direkt auf das jeweilige Bundesland, um zum offiziellen Publikationsporta
 | **Thüringen** | [LfV Thüringen Berichte](https://verfassungsschutz.thueringen.de/publikationen/verfassungsschutzberichte) |
 
 
+### 6) BfV-Sonderberichte zum Thema Rechtsextremismus (Offline-ready im Repository gesichert)
+Für vertiefte Analysen der verfassungswidrigen Symbole, Chiffren und Rekrutierungsstrategien der rechtsextremen Szene haben wir die wichtigsten Phänomen-Sonderberichte direkt im Volltext gesichert:
+
+* 📑 **BfV-Lagebericht Sicherheitsbehörden (2025):** [Lokales PDF-Dokument](./dokumente/vfs_rechtsextremismus/BfV_Lagebericht_Rechtsextremisten_in_Sicherheitsbehoerden_2025.pdf) | [Online-Quelle](https://www.verfassungsschutz.de/DE/themen/rechtsextremismus/rechtsextremismus_node.html) - *Der brandneue Bericht zu Rechtsextremisten in Polizei, Justiz und Bundeswehr.*
+* 📑 **BfV-Sonderbericht Rechtsextremistische Musik (2025):** [Lokales PDF-Dokument](./dokumente/vfs_rechtsextremismus/BfV_Sonderbericht_Rechtsextremistische_Musik_2025.pdf) | [Online-Quelle](https://www.verfassungsschutz.de/DE/themen/rechtsextremismus/rechtsextremismus_node.html) - *Analyse rechtsextremer Bands, Netzwerke und Konzerte.*
+* 📑 **BfV-Lagebericht Sicherheitsbehörden (2024):** [Lokales PDF-Dokument](./dokumente/vfs_rechtsextremismus/BfV_Lagebericht_Rechtsextremisten_in_Sicherheitsbehoerden_2024.pdf) | [Online-Quelle](https://www.verfassungsschutz.de/DE/themen/rechtsextremismus/rechtsextremismus_node.html)
+* 📑 **BfV-Sonderbericht Symbole und verbotene Organisationen:** [Lokales PDF-Dokument](./dokumente/vfs_rechtsextremismus/BfV_Sonderbericht_Symbole_Zeichen_und_verbotene_Organisationen_2022.pdf) | [Online-Quelle](https://www.verfassungsschutz.de/DE/themen/rechtsextremismus/rechtsextremismus_node.html) - *Katalog strafbarer Symbole und Codes.*
+* 📑 **BfV-Sonderbericht Rechtsextremismus im Internet (2024):** [Lokales PDF-Dokument](./dokumente/vfs_rechtsextremismus/BfV_Sonderbericht_Rechtsextremismus_im_Internet_2024.pdf) | [Online-Quelle](https://www.verfassungsschutz.de/DE/themen/rechtsextremismus/rechtsextremismus_node.html)
+* 📑 **BfV-Lagebild Antisemitismus (2024):** [Lokales PDF-Dokument](./dokumente/vfs_rechtsextremismus/BfV_Lagebild_Antisemitismus_2024.pdf) | [Online-Quelle](https://www.verfassungsschutz.de/DE/themen/rechtsextremismus/rechtsextremismus_node.html)
+
 ### 4) Offizielle Einstufungsentscheidungen & Gerichtsverfahren (BfV)
 Da die detaillierten, mehrhundertseitigen BfV-Einstufungsgutachten als *„VS - Nur für den Dienstgebrauch“* eingestuft sind, dienen die offiziellen, gerichtlichen Verfahrensmeldungen des BfV auf seiner Primärquelle als fundamentale Belege für die Einstufungsketten:
 * 📑 **BfV-Einstufungsentscheidung OVG NRW (13. Mai 2024):** OVG NRW bestätigt in gänzlicher Instanz die Einstufung der Bundes-AfD und der Jungen Alternative (JA) als rechtsextremistischer Verdachtsfall. [Lokales Belegdokument (Volltext im Repository)](./dokumente/hauptquellen/BfV_Pressemitteilung_Einstufungsentscheidung_2024_05_13.txt) | [Online-Quelle](https://www.verfassungsschutz.de/SharedDocs/pressemitteilungen/DE/2024/pressemitteilung-2024-05-13-afd.html)
@@ -162,6 +172,16 @@ Klicke direkt auf das jeweilige Bundesland, um zum offiziellen Publikationsporta
 | **Thüringen** | [LfV Thüringen Berichte](https://verfassungsschutz.thueringen.de/publikationen/verfassungsschutzberichte) |
 
 
+### 6) BfV-Sonderberichte zum Thema Rechtsextremismus (Offline-ready im Repository gesichert)
+Für vertiefte Analysen der verfassungswidrigen Symbole, Chiffren und Rekrutierungsstrategien der rechtsextremen Szene haben wir die wichtigsten Phänomen-Sonderberichte direkt im Volltext gesichert:
+
+* 📑 **BfV-Lagebericht Sicherheitsbehörden (2025):** [Lokales PDF-Dokument](./dokumente/vfs_rechtsextremismus/BfV_Lagebericht_Rechtsextremisten_in_Sicherheitsbehoerden_2025.pdf) | [Online-Quelle](https://www.verfassungsschutz.de/DE/themen/rechtsextremismus/rechtsextremismus_node.html) - *Der brandneue Bericht zu Rechtsextremisten in Polizei, Justiz und Bundeswehr.*
+* 📑 **BfV-Sonderbericht Rechtsextremistische Musik (2025):** [Lokales PDF-Dokument](./dokumente/vfs_rechtsextremismus/BfV_Sonderbericht_Rechtsextremistische_Musik_2025.pdf) | [Online-Quelle](https://www.verfassungsschutz.de/DE/themen/rechtsextremismus/rechtsextremismus_node.html) - *Analyse rechtsextremer Bands, Netzwerke und Konzerte.*
+* 📑 **BfV-Lagebericht Sicherheitsbehörden (2024):** [Lokales PDF-Dokument](./dokumente/vfs_rechtsextremismus/BfV_Lagebericht_Rechtsextremisten_in_Sicherheitsbehoerden_2024.pdf) | [Online-Quelle](https://www.verfassungsschutz.de/DE/themen/rechtsextremismus/rechtsextremismus_node.html)
+* 📑 **BfV-Sonderbericht Symbole und verbotene Organisationen:** [Lokales PDF-Dokument](./dokumente/vfs_rechtsextremismus/BfV_Sonderbericht_Symbole_Zeichen_und_verbotene_Organisationen_2022.pdf) | [Online-Quelle](https://www.verfassungsschutz.de/DE/themen/rechtsextremismus/rechtsextremismus_node.html) - *Katalog strafbarer Symbole und Codes.*
+* 📑 **BfV-Sonderbericht Rechtsextremismus im Internet (2024):** [Lokales PDF-Dokument](./dokumente/vfs_rechtsextremismus/BfV_Sonderbericht_Rechtsextremismus_im_Internet_2024.pdf) | [Online-Quelle](https://www.verfassungsschutz.de/DE/themen/rechtsextremismus/rechtsextremismus_node.html)
+* 📑 **BfV-Lagebild Antisemitismus (2024):** [Lokales PDF-Dokument](./dokumente/vfs_rechtsextremismus/BfV_Lagebild_Antisemitismus_2024.pdf) | [Online-Quelle](https://www.verfassungsschutz.de/DE/themen/rechtsextremismus/rechtsextremismus_node.html)
+
 ### 4) Offizielle Einstufungsentscheidungen & Gerichtsverfahren (BfV)
 Da die detaillierten, mehrhundertseitigen BfV-Einstufungsgutachten als *„VS - Nur für den Dienstgebrauch“* eingestuft sind, dienen die offiziellen, gerichtlichen Verfahrensmeldungen des BfV auf seiner Primärquelle als fundamentale Belege für die Einstufungsketten:
 * 📑 **BfV-Einstufungsentscheidung OVG NRW (13. Mai 2024):** OVG NRW bestätigt in gänzlicher Instanz die Einstufung der Bundes-AfD und der Jungen Alternative (JA) als rechtsextremistischer Verdachtsfall. [Lokales Belegdokument (Volltext im Repository)](./dokumente/hauptquellen/BfV_Pressemitteilung_Einstufungsentscheidung_2024_05_13.txt) | [Online-Quelle](https://www.verfassungsschutz.de/SharedDocs/pressemitteilungen/DE/2024/pressemitteilung-2024-05-13-afd.html)
@@ -184,6 +204,8 @@ Sämtliche Belege liegen physisch im Repository vor und sind im vollumfängliche
 * ⚖️ **Kai Borrmann (Vorsitzende Körperverletzung & Rassismus):** [Lokaler Volltext-Beleg](./dokumente/hauptquellen/urteilsbelege/08_Borrmann_Koerperverletzung_LG_Berlin.txt) – *Rassistische Beleidigung und tätlicher Angriff.*
 * ⚖️ **Philip Steinbeck (Kriegswaffenbesitz):** [Lokaler Volltext-Beleg](./dokumente/hauptquellen/urteilsbelege/16_Steinbeck_Waffen_LG_Schwerin.txt) – *Freiheitsstrafe von fast 4 Jahren wegen illegaler MG- und Sprengstofffunde.*
 * ⚖️ **Daniel Halemba (Geldwäsche, Nötigung):** [Lokaler Volltext-Beleg](./dokumente/hauptquellen/urteilsbelege/15_Halemba_Geldwaesche_LG_Wuerzburg.txt) – *Geldstrafe wegen Nötigung und Geldwäsche im Burschenschafts-Milieu.*
+* ⚖️ **Jian G. (China-Spionage im Büro Maximilian Krah):** [Lokaler Volltext-Beleg](./dokumente/hauptquellen/urteilsbelege/27_Jian_G_Spionage_Krah_OLG_Dresden.txt) – *OLG Dresden verurteilte Krahs persönlichen Mitarbeiter zu 4 Jahren & 9 Monaten Haft wegen Spionage für China.*
+* ⚖️ **Maximilian Krah (Spionage- und Bestechungsverfahren):** [Lokaler Volltext-Beleg](./dokumente/hauptquellen/urteilsbelege/28_Maximilian_Krah_Ermittlungsverfahren_GBA.txt) – *Laufende Ermittlungen der Bundesanwaltschaft wegen finanzieller Flusswege aus Russland und China.*(./dokumente/hauptquellen/urteilsbelege/15_Halemba_Geldwaesche_LG_Wuerzburg.txt) – *Geldstrafe wegen Nötigung und Geldwäsche im Burschenschafts-Milieu.*
 
 #### 🏛️ Gerichtsentscheidungen gegen die Gesamtpartei (Lokal im Repo gesichert):
 * ⚖️ **BfV vs. AfD (Gesamtpartei - Verfassungskonforme Beobachtung):** [Lokaler Volltext-Beleg](./dokumente/hauptquellen/urteilsbelege/22_BfV_vs_AfD_Verdachtsfall_OVG_Muenster.txt) – *OVG Münster bestätigt Einstufung der Bundes-AfD und JA als rechtsextremistischer Verdachtsfall.*

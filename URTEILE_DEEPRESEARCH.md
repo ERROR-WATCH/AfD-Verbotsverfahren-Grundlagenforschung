@@ -131,24 +131,36 @@ Nachfolgend sind konkrete Fälle von Verurteilungen aufgeführt, unterteilt nach
 
 ---
 
+### Spionage & Auslands-Einflussnahme
+
+27. **Jian G. (persönlicher Büromitarbeiter von Maximilian Krah, MdB/MdEP):**
+    - **Delikt:** Geheimdienstliche Agententätigkeit in einem besonders schweren Fall (§ 99 StGB) für einen chinesischen Geheimdienst.
+    - **Urteil/Strafmaß:** Freiheitsstrafe von **vier Jahren und neun Monaten** (ohne Bewährung) durch das OVG Dresden am 30. September 2025. Rechtskräftig.
+    - **Quelle/Beleg:** [Volltext-Beleg im Repository](./dokumente/hauptquellen/urteilsbelege/27_Jian_G_Spionage_Krah_OLG_Dresden.txt) | OLG Dresden Staatsschutzsenat.
+
+28. **Maximilian Krah (Mitglied des AfD-Bundesvorstands, MdB/MdEP):**
+    - **Delikt:** Verdacht der geheimdienstlichen Agententätigkeit, Bestechlichkeit und Geldwäsche im Interesse Russlands und Chinas (u.a. „Voice of Europe“-Affäre).
+    - **Urteil/Strafmaß:** Laufendes Ermittlungsverfahren der Bundesanwaltschaft (Stand 2026), wiederholte Aufhebung der Immunität.
+    - **Quelle/Beleg:** [Volltext-Beleg im Repository](./dokumente/hauptquellen/urteilsbelege/28_Maximilian_Krah_Ermittlungsverfahren_GBA.txt) | Generalbundesanwalt (GBA).
+
 ## 2. Urteile und gerichtliche Beschlüsse gegen die Gesamtpartei und Landesverbände
 
-22. **Bundesamt für Verfassungsschutz vs. AfD (Gesamtpartei):**
+29. **Bundesamt für Verfassungsschutz vs. AfD (Gesamtpartei):**
     - **Urteil:** Das Oberverwaltungsgericht NRW sowie das Bundesverwaltungsgericht bestätigten, dass die Gesamtpartei als **„rechtsextremistischer Verdachtsfall“** eingestuft und beobachtet werden darf.
     - **Quelle/Beleg:** [Volltext-Beleg im Repository](./dokumente/hauptquellen/urteilsbelege/22_BfV_vs_AfD_Verdachtsfall_OVG_Muenster.txt) | OVG Münster Urteil.
 
-23. **Entzug von Waffenbesitzkarten (Verwaltungsgerichte bundesweit):**
+30. **Entzug von Waffenbesitzkarten (Verwaltungsgerichte bundesweit):**
     - **Urteil:** Verwaltungsgerichte (z.B. VG Düsseldorf) urteilten mehrfach, dass AfD-Mitgliedern die Waffenbesitzkarte wegen waffenrechtlicher Unzuverlässigkeit (§ 5 WaffG) entzogen werden kann.
     - **Quelle/Beleg:** [Volltext-Beleg im Repository](./dokumente/hauptquellen/urteilsbelege/23_Waffenbesitzkarten_Entzug_VG_Duesseldorf.txt) | VG Düsseldorf Urteil.
 
-24. **Verweigerung des Beamtenstatus (OVG Weimar, VG Berlin):**
+31. **Verweigerung des Beamtenstatus (OVG Weimar, VG Berlin):**
     - **Urteil:** Gerichte bestätigten, dass die Mitgliedschaft in als rechtsextrem eingestuften Landesverbänden ausreicht, um Bewerber wegen verfassungsrechtlicher Treuepflichtverletzungen vom Staatsdienst auszuschließen.
     - **Quelle/Beleg:** [Volltext-Beleg im Repository](./dokumente/hauptquellen/urteilsbelege/24_Beamtenstatus_Ausschluss_OVG_Weimar.txt) | OVG Weimar Urteil.
 
-25. **Ausschluss von Parlamentsrechten (Bundesverfassungsgericht):**
+32. **Ausschluss von Parlamentsrechten (Bundesverfassungsgericht):**
     - **Urteil:** Klagen der AfD gegen die Nichtwahl ihrer Kandidaten als Ausschussvorsitzende im Bundestag wurden abgelehnt (parlamentarisches Selbstorganisationsrecht).
     - **Quelle/Beleg:** [Volltext-Beleg im Repository](./dokumente/hauptquellen/urteilsbelege/25_Bundestag_Ausschussvorsitz_BVerfG.txt) | BVerfG Beschluss.
 
-26. **Strafzahlungen wegen illegaler Parteispenden (Schwarzgeldaffäre):**
+33. **Strafzahlungen wegen illegaler Parteispenden (Schwarzgeldaffäre):**
     - **Urteil:** Bundesverwaltungsgericht bestätigt die Rechtmäßigkeit von Strafzahlungen über 1,08 Millionen Euro wegen angenommener illegaler Parteispenden aus dem Ausland.
     - **Quelle/Beleg:** [Volltext-Beleg im Repository](./dokumente/hauptquellen/urteilsbelege/21_AfD_Strafzahlungen_Spendenaffaere_BVerwG.txt) | BVerwG Urteil.

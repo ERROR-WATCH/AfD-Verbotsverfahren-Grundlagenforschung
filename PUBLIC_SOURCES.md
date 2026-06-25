@@ -361,6 +361,23 @@ Ende der öffentlich zugänglichen Quellen.
 
 ## Lokale Primär- & Belegquellen im Repository (Offline-Ready)
 
+* **BfV-Lagebericht: Rechtsextremisten in Sicherheitsbehörden (2025)**
+  Lokale Quelle: [`BfV_Lagebericht_Rechtsextremisten_in_Sicherheitsbehoerden_2025.pdf`](./dokumente/vfs_rechtsextremismus/BfV_Lagebericht_Rechtsextremisten_in_Sicherheitsbehoerden_2025.pdf)
+
+* **BfV-Sonderbericht: Rechtsextremistische Musik (2025)**
+  Lokale Quelle: [`BfV_Sonderbericht_Rechtsextremistische_Musik_2025.pdf`](./dokumente/vfs_rechtsextremismus/BfV_Sonderbericht_Rechtsextremistische_Musik_2025.pdf)
+
+* **BfV-Sonderbericht: Symbole, Zeichen und verbotene Organisationen**
+  Lokale Quelle: [`BfV_Sonderbericht_Symbole_Zeichen_und_verbotene_Organisationen_2022.pdf`](./dokumente/vfs_rechtsextremismus/BfV_Sonderbericht_Symbole_Zeichen_und_verbotene_Organisationen_2022.pdf)
+
+* **BfV-Lagebericht: Spionage und Landesverrat - Krah-Assistent Jian G. (Volltext)**
+  Lokale Quelle: [`27_Jian_G_Spionage_Krah_OLG_Dresden.txt`](./dokumente/hauptquellen/urteilsbelege/27_Jian_G_Spionage_Krah_OLG_Dresden.txt)
+
+* **BfV-Lagebericht: Ermittlungen gegen Maximilian Krah (Volltext)**
+  Lokale Quelle: [`28_Maximilian_Krah_Ermittlungsverfahren_GBA.txt`](./dokumente/hauptquellen/urteilsbelege/28_Maximilian_Krah_Ermittlungsverfahren_GBA.txt)
+
+
+
 * **Antrags- und Abstimmungsverhalten der AfD gegenüber Minderheiten (Deep Research)**
   Lokale Quelle: [`Antraege_AfD_Minderheiten_DeepResearch.md`](./dokumente/hauptquellen/Antraege_AfD_Minderheiten_DeepResearch.md)
 
