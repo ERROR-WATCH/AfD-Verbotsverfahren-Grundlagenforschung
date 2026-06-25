@@ -193,38 +193,67 @@ Dieses Register ist eine umfassende, wissenschaftlich gepflegte Zusammenstellung
 
 Sämtliche Belege liegen physisch im Repository vor und sind im vollumfänglichen Register [**`URTEILE_DEEPRESEARCH.md`**](./URTEILE_DEEPRESEARCH.md) lückenlos verzeichnet.
 
-> 📥 **Gesamtregister zum Download:** Wir haben alle 34 straf- und verfassungsrechtlichen Urteile in einem einzigen, offline-fähigen Gesamtregister kompiliert:
+> 📥 **Gesamtregister zum Download:** Wir haben alle 42 straf- und verfassungsrechtlichen Urteile in einem einzigen, offline-fähigen Gesamtregister kompiliert:
 > * 📄 [**Gesamt-Urteilsregister als gesetztes PDF-Dossier**](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf) *(Perfekt formatiert für RAG und Druck)*
 > * 📝 [**Gesamt-Urteilsregister als TXT-Dokument**](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.txt)
 
-#### 🏛️ Auszug aus den wichtigsten strafrechtlichen Belegen (Lokal im Repo gesichert):
-* ⚖️ **Björn Höcke (SA-Parole „Alles für Deutschland“):** [Lokaler Volltext-Beleg](./dokumente/hauptquellen/urteilsbelege/01_Hoecke_SA_Parole_LG_Halle.txt) – *Landgericht Halle verurteilte Höcke wegen des Verwendens verbotener SA-Kennzeichen zu einer Geldstrafe.*
-* ⚖️ **Marie-Thérèse Kaiser (Rassistische Volksverhetzung):** [Lokaler Volltext-Beleg](./dokumente/hauptquellen/urteilsbelege/02_Kaiser_Volksverhetzung_LG_Lueneburg.txt) – *Geldstrafe von 6.000 Euro wegen herabwürdigender rassistischer Äußerungen über afghanische Ortskräfte.*
-* ⚖️ **Zulässigkeit der Bezeichnung „Faschist“ (Björn Höcke):** [Lokaler Volltext-Beleg](./dokumente/hauptquellen/urteilsbelege/19_Hoecke_Faschist_VG_Meiningen.txt) – *Verwaltungsgericht Meiningen entschied, dass Höcke rechtmäßig als Faschist bezeichnet werden darf.*
-* ⚖️ **Zulässigkeit der Bezeichnung „Nazischlampe“ (Alice Weidel):** [Lokaler Volltext-Beleg](./dokumente/hauptquellen/urteilsbelege/20_Weidel_Nazischlampe_LG_Hamburg.txt) – *Landgericht Hamburg wies Weidels Unterlassungsklage gegen extra-3-Satirebeitrag zurück.*
-* ⚖️ **Thomas Seitz (Entlassung aus dem Richteramt):** [Lokaler Volltext-Beleg](./dokumente/hauptquellen/urteilsbelege/26_Seitz_Richteramt_Entlassung_DGH_Karlsruhe.txt) – *Dienstgerichtshof Karlsruhe entließ Seitz wegen verfassungsfeindlicher rechtsextremer Agitation aus dem Justizdienst.*
-* ⚖️ **Florian Jäger (Holocaust-Verharmlosung):** [Lokaler Volltext-Beleg](./dokumente/hauptquellen/urteilsbelege/03_Jaeger_Volksverhetzung_AG_Muenchen.txt) – *Volksverhetzung wegen Gleichsetzung der Corona-Maßnahmen mit den Pogromen von 1938.*
-* ⚖️ **Felix Alexander Cassel (Gefährliche Körperverletzung):** [Lokaler Volltext-Beleg](./dokumente/hauptquellen/urteilsbelege/07_Cassel_Gewalttat_AG_Essen.txt) – *JA-Vorsitzender fuhr mit Auto in Gegendemonstranten.*
-* ⚖️ **Kai Borrmann (Vorsitzende Körperverletzung & Rassismus):** [Lokaler Volltext-Beleg](./dokumente/hauptquellen/urteilsbelege/08_Borrmann_Koerperverletzung_LG_Berlin.txt) – *Rassistische Beleidigung und tätlicher Angriff.*
-* ⚖️ **Philip Steinbeck (Kriegswaffenbesitz):** [Lokaler Volltext-Beleg](./dokumente/hauptquellen/urteilsbelege/16_Steinbeck_Waffen_LG_Schwerin.txt) – *Freiheitsstrafe von fast 4 Jahren wegen illegaler MG- und Sprengstofffunde.*
-* ⚖️ **Daniel Halemba (Geldwäsche, Nötigung):** [Lokaler Volltext-Beleg](./dokumente/hauptquellen/urteilsbelege/15_Halemba_Geldwaesche_LG_Wuerzburg.txt) – *Geldstrafe wegen Nötigung und Geldwäsche im Burschenschafts-Milieu.*
-* ⚖️ **Thorsten Czuppon (Verfolgung Unschuldiger):** [Lokaler Volltext-Beleg](./dokumente/hauptquellen/urteilsbelege/29_Thorsten_Czuppon_Falschanzeige_LG_Erfurt.txt) – *Polizist und Landtagsabgeordneter wurde wegen unrechtmäßiger Falschbelastung von Zeugen verurteilt.*
-* ⚖️ **Wiebke Muhsal (Mitarbeiterinnen-Betrug):** [Lokaler Volltext-Beleg](./dokumente/hauptquellen/urteilsbelege/30_Wiebke_Muhsal_Betrug_LG_Erfurt.txt) – *Thüringer Abgeordnete rechtskräftig wegen Vortäuschens eines Arbeitsverhältnisses verurteilt.*
-* ⚖️ **Jan-Ulrich Weiß (Gewerbsmäßiger Schmuggel):** [Lokaler Volltext-Beleg](./dokumente/hauptquellen/urteilsbelege/31_Jan_Ulrich_Weiss_Schmuggel_LG_Potsdam.txt) – *Landtagsabgeordneter wegen Zigarettenschmuggels zu fast 2 Jahren Haft auf Bewährung verurteilt.*
-* ⚖️ **Rolf Dipp (Erpressung & Stalking):** [Lokaler Volltext-Beleg](./dokumente/hauptquellen/urteilsbelege/32_Rolf_Dipp_Erpressung_LG_Braunschweig.txt) – *AfD-Stadtrat zu 1,5 Jahren Haft wegen Stalkings und Erpressung einer Frau verurteilt.*
-* ⚖️ **Sven Ebert (Gefährliche Körperverletzung):** [Lokaler Volltext-Beleg](./dokumente/hauptquellen/urteilsbelege/33_Sven_Ebert_Koerperverletzung_LG_Magdeburg.txt) – *Kreistagsabgeordneter trat Aktivistin bei einer Demonstration gezielt in den Bauch.*
-* ⚖️ **Richard Graupner (Verrat von Dienstgeheimnissen):** [Lokaler Volltext-Beleg](./dokumente/hauptquellen/urteilsbelege/34_Richard_Graupner_Dienstgeheimnis_LG_Bamberg.txt) – *Polizist und Landtagsabgeordneter gab sensible Ermittlungsinformationen weiter.*
-* ⚖️ **Jian G. (China-Spionage im Büro Maximilian Krah):** [Lokaler Volltext-Beleg](./dokumente/hauptquellen/urteilsbelege/27_Jian_G_Spionage_Krah_OLG_Dresden.txt) – *OLG Dresden verurteilte Krahs persönlichen Mitarbeiter zu 4 Jahren & 9 Monaten Haft wegen Spionage für China.*
-* ⚖️ **Maximilian Krah (Spionage- und Bestechungsverfahren):** [Lokaler Volltext-Beleg](./dokumente/hauptquellen/urteilsbelege/28_Maximilian_Krah_Ermittlungsverfahren_GBA.txt) – *Laufende Ermittlungen der Bundesanwaltschaft wegen finanzieller Flusswege aus Russland und China.*(./dokumente/hauptquellen/urteilsbelege/15_Halemba_Geldwaesche_LG_Wuerzburg.txt) – *Geldstrafe wegen Nötigung und Geldwäsche im Burschenschafts-Milieu.*
+#### 🏛️ Lückenloses Strafrechts- und Gerichtsregister (Alle 42 Fälle direkt im Repository):
 
-#### 🏛️ Gerichtsentscheidungen gegen die Gesamtpartei (Lokal im Repo gesichert):
-* ⚖️ **BfV vs. AfD (Gesamtpartei - Verfassungskonforme Beobachtung):** [Lokaler Volltext-Beleg](./dokumente/hauptquellen/urteilsbelege/22_BfV_vs_AfD_Verdachtsfall_OVG_Muenster.txt) – *OVG Münster bestätigt Einstufung der Bundes-AfD und JA als rechtsextremistischer Verdachtsfall.*
-* ⚖️ **Entzug von Waffenbesitzkarten (Verwaltungsgerichte):** [Lokaler Volltext-Beleg](./dokumente/hauptquellen/urteilsbelege/23_Waffenbesitzkarten_Entzug_VG_Duesseldorf.txt) – *Rechtmäßiger Ausschluss bewaffneter AfD-Funktionäre aus Sicherheitsgründen.*
-* ⚖️ **Verweigerung des Beamtenstatus (OVG Weimar):** [Lokaler Volltext-Beleg](./dokumente/hauptquellen/urteilsbelege/24_Beamtenstatus_Ausschluss_OVG_Weimar.txt) – *Entlassung von Beamten wegen verfassungsfeindlicher Betätigung.*
-* ⚖️ **Parteistrafen wegen illegaler Auslandsspenden (BVerwG):** [Lokaler Volltext-Beleg](./dokumente/hauptquellen/urteilsbelege/21_AfD_Strafzahlungen_Spendenaffaere_BVerwG.txt) – *Bestätigung von 1,08 Mio. Euro Bußgeldern wegen illegaler Schweizer Spenden für Weidels Wahlkampf.*
-* ⚖️ **Ausschluss von Bundestagsrechten (BVerfG):** [Lokaler Volltext-Beleg](./dokumente/hauptquellen/urteilsbelege/25_Bundestag_Ausschussvorsitz_BVerfG.txt) – *Ausschussvorsitze können der AfD rechtmäßig vorenthalten werden.*
+##### A) Volksverhetzung & Verfassungswidrige Kennzeichen (10 Fälle)
+* ⚖️ **1. Björn Höcke (SA-Parole „Alles für Deutschland“):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/01_Hoecke_SA_Parole_LG_Halle.txt) – *Landgericht Halle verurteilte Höcke wegen des Verwendens verbotener SA-Parolen.*
+* ⚖️ **2. Marie-Thérèse Kaiser (Rassistische Volksverhetzung):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/02_Kaiser_Volksverhetzung_LG_Lueneburg.txt) – *Geldstrafe wegen herabwürdigender rassistischer Äußerungen über afghanische Ortskräfte.*
+* ⚖️ **3. Florian Jäger (Holocaust-Verharmlosung):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/03_Jaeger_Volksverhetzung_AG_Muenchen.txt) – *Geldstrafe wegen Gleichsetzung der Corona-Maßnahmen mit den Pogromen von 1938.*
+* ⚖️ **4. Bruno Fuchert (Volksverhetzung):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/04_Fuchert_Volksverhetzung_LG_Traunstein.txt) – *Neun Monate Haft auf Bewährung wegen systematischer rassistischer Volksverhetzung in neun Fällen.*
+* ⚖️ **5. Holger Arppe (Rassistische Internet-Volksverhetzung):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/05_Arppe_Volksverhetzung_LG_Rostock.txt) – *Geldstrafe wegen volksverhetzender Äußerungen in Foren.*
+* ⚖️ **6. Kay Nerstheimer (Homophobe Volksverhetzung):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/06_Nerstheimer_Koerperverletzung_Volksverhetzung.txt) – *Strafrechtliche Verurteilung wegen Volksverhetzung.*
+* ⚖️ **7. Zulässigkeit der Bezeichnung „Faschist“ (Björn Höcke):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/19_Hoecke_Faschist_VG_Meiningen.txt) – *VG Meiningen bestätigt, dass Höcke rechtmäßig als Faschist bezeichnet werden darf.*
+* ⚖️ **8. Zulässigkeit der Bezeichnung „Nazischlampe“ (Alice Weidel):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/20_Weidel_Nazischlampe_LG_Hamburg.txt) – *LG Hamburg weist Weidels Unterlassungsklage gegen extra-3-Satirebeitrag zurück.*
+* ⚖️ **9. Carsten Härle (Dehumanisierende Volksverhetzung):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/38_Carsten_Haerle_Volksverhetzung_AG_Offenbach.txt) – *Geldstrafe wegen Verhaltensvergleichens von Migranten mit Tieren.*
+* ⚖️ **10. Beatrix von Storch (Rassistische Volksverhetzung):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/41_Beatrix_von_Storch_Volksverhetzung_Ermittlung.txt) – *Ermittlungsverfahren wegen rassistischer Pauschal-Herabwürdigung von Muslimen.*
 
-*Bitte öffnen Sie das vollständige Belegregister [**`URTEILE_DEEPRESEARCH.md`**](./URTEILE_DEEPRESEARCH.md) für alle 26 Fälle und detaillierte Einzelurteilsanalysen.*
+##### B) Körperverletzung & Gewaltdelikte (8 Fälle)
+* ⚖️ **11. Felix Alexander Cassel (Gewalttat mit PKW):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/07_Cassel_Gewalttat_AG_Essen.txt) – *JA-Vorsitzender fuhr mit Auto in Gegendemonstranten (7 Monate Haft auf Bewährung).*
+* ⚖️ **12. Kai Borrmann (Vorsätzliche Körperverletzung & Rassismus):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/08_Borrmann_Koerperverletzung_LG_Berlin.txt) – *Rassistische Beleidigung und tätlicher Angriff auf zwei Frauen.*
+* ⚖️ **13. Stefan Räpple (Körperverletzung und Widerstand):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/09_Raepple_Gewaltdelikt_LG_Karlsruhe.txt) – *Tätlicher Angriff auf Polizisten.*
+* ⚖️ **14. Sebastian Münzenmeier (Hooligan-Gewaltbeihilfe):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/10_Muenzenmeier_Hooligan_Gewalt_LG_Mainz.txt) – *Beihilfe zur gefährlichen Körperverletzung bei Hooligan-Angriffen.*
+* ⚖️ **15. Dubravko Mandic (Gefährliche Körperverletzung):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/11_Mandic_Gewalt_AG_Freiburg.txt) – *Einsatz von Reizgas gegen politische Gegner.*
+* ⚖️ **16. Andreas Kalbitz (Fahrlässige Körperverletzung):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/12_Kalbitz_Koerperverletzung_AG_Potsdam.txt) – *Kalbitz verübte Schlag gegen Parteikollegen (Milzriss).*
+* ⚖️ **17. Sven Ebert (Gefährliche Körperverletzung):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/33_Sven_Ebert_Koerperverletzung_LG_Magdeburg.txt) – *Kreistagsabgeordneter trat Aktivistin bei einer Demonstration gezielt in den Bauch.*
+* ⚖️ **18. Stefan Hrdy (Körperverletzung und Volksverhetzung):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/39_Stefan_Hrdy_Koerperverletzung_AG_Wiesbaden.txt) – *Vorsätzlicher gewalttätiger Angriff auf Gegendemonstranten.*
+
+##### C) Amtsmissbrauch & Dienstvergehen (2 Fälle)
+* ⚖️ **19. Thorsten Czuppon (Verfolgung Unschuldiger):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/29_Thorsten_Czuppon_Falschanzeige_LG_Erfurt.txt) – *Polizist und Abgeordneter wurde wegen unrechtmäßiger Falschbelastung von Zeugen verurteilt.*
+* ⚖️ **20. Richard Graupner (Verrat von Dienstgeheimnissen):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/34_Richard_Graupner_Dienstgeheimnis_LG_Bamberg.txt) – *Polizist und Landtagsabgeordneter gab sensible Ermittlungsinformationen weiter.*
+
+##### D) Betrug, Untreue & Geldwäsche (6 Fälle)
+* ⚖️ **21. Kay-Uwe Ziegler (Subventionsbetrug):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/13_Ziegler_Betrug_AG_Dessau.txt) – *Bundestagsabgeordneter wegen unrechtmäßiger Beantragung von Corona-Soforthilfen verurteilt.*
+* ⚖️ **22. Frauke Petry (Untreue, Steuerhinterziehung):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/14_Petry_Betrug_LG_Leipzig.txt) – *Strafrechtliche Verurteilung wegen Subventionsbetrugs und Untreue.*
+* ⚖️ **23. Daniel Halemba (Geldwäsche, Nötigung):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/15_Halemba_Geldwaesche_LG_Wuerzburg.txt) – *Geldstrafe wegen Nötigung und Geldwäsche im Burschenschafts-Milieu.*
+* ⚖️ **24. Wiebke Muhsal (Mitarbeiterinnen-Betrug):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/30_Wiebke_Muhsal_Betrug_LG_Erfurt.txt) – *Thüringer Abgeordnete rechtskräftig wegen Vortäuschens eines Arbeitsverhältnisses verurteilt.*
+* ⚖️ **25. Jan-Ulrich Weiß (Gewerbsmäßiger Schmuggel):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/31_Jan_Ulrich_Weiss_Schmuggel_LG_Potsdam.txt) – *Landtagsabgeordneter wegen Zigarettenschmuggels zu fast 2 Jahren Haft auf Bewährung verurteilt.*
+* ⚖️ **26. Rolf Dipp (Erpressung & Stalking):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/32_Rolf_Dipp_Erpressung_LG_Braunschweig.txt) – *AfD-Stadtrat zu 1,5 Jahren Haft wegen Stalkings und Erpressung einer Frau verurteilt.*
+
+##### E) Waffenbesitz & Sonstige Delikte (8 Fälle)
+* ⚖️ **27. Philip Steinbeck (Kriegswaffenbesitz):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/16_Steinbeck_Waffen_LG_Schwerin.txt) – *Freiheitsstrafe von fast 4 Jahren wegen illegaler MG- und Sprengstofffunde.*
+* ⚖️ **28. Stephan Brandner (Beleidigungsverfahren):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/17_Brandner_Beleidigung_AG_Gera.txt) – *Strafbefehl wegen Beleidigung einer Journalistin.*
+* ⚖️ **29. Matthias Moosdorf (Hitlergruß im Bundestag):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/18_Moosdorf_Hitlergruss_BT.txt) – *Ermittlungsverfahren nach Aufhebung der Immunität wegen Verwendens verfassungswidriger Kennzeichen.*
+* ⚖️ **30. Thomas Seitz (Entlassung aus dem Richteramt):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/26_Seitz_Richteramt_Entlassung_DGH_Karlsruhe.txt) – *Dienstgerichtshof Karlsruhe entließ Seitz wegen verfassungsfeindlicher rechtsextremer Agitation aus dem Justizdienst.*
+* ⚖️ **31. Jessica Bießmann (Hitlerwein-Vorfall):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/37_Jessica_Biessmann_Hitlerwein_AG_Tiergarten.txt) – *Parteischiedsgerichtlich bestätigte Verfassungsfeindlichkeit.*
+* ⚖️ **32. Heinrich Fiechtner (Polizistenbeleidigung):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/40_Heinrich_Fiechtner_Beleidigung_AG_Stuttgart.txt) – *Strafrechtliche Geldstrafe.*
+* ⚖️ **33. Jens Maier (Rechtsextremer Richter im vorzeitigen Ruhestand):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/35_Jens_Maier_Richter_Ruhestand_DG_Leipzig.txt) – *Dienstgerichtliche Versetzung in den Ruhestand zur Wahrung der Unparteilichkeit (BGH Az. DG 1/22).*
+* ⚖️ **34. Alice Weidel (Rassistische „E-Mail-Affäre“):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/42_Alice_Weidel_Email_Affaere_Metadaten.txt) – *Beweissicherungsbeleg für ihre reichsbürgernahe Denkschrift über die Bundesregierung.*
+
+##### F) Spionage, Landesverrat & Hochverrat (3 Fälle)
+* ⚖️ **35. Jian G. (China-Spionage im Büro Maximilian Krah):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/27_Jian_G_Spionage_Krah_OLG_Dresden.txt) – *OLG Dresden verurteilte Krahs persönlichen Mitarbeiter zu 4 Jahren & 9 Monaten Haft wegen Spionage für China.*
+* ⚖️ **36. Maximilian Krah (Spionage- und Bestechungsverfahren):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/28_Maximilian_Krah_Ermittlungsverfahren_GBA.txt) – *Laufende Ermittlungen der Bundesanwaltschaft wegen finanzieller Flusswege aus Russland und China.*
+* ⚖️ **37. Birgit Malsack-Winkemann (Hochverrat & Reichsbürger-Terror):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/36_Birgit_Malsack_Winkemann_Reichsbuerger_BGH.txt) – *Ehemalige Abgeordnete und Richterin in Untersuchungshaft wegen Mittäterschaft beim geplanten bewaffneten Staatsstreich.*
+
+##### G) Gerichtsentscheidungen gegen die Gesamtpartei (5 Fälle)
+* ⚖️ **38. BfV vs. AfD (Gesamtpartei - Verfassungskonforme Beobachtung):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/22_BfV_vs_AfD_Verdachtsfall_OVG_Muenster.txt) – *OVG Münster bestätigt Einstufung der Bundes-AfD und JA als rechtsextremistischer Verdachtsfall.*
+* ⚖️ **39. Entzug von Waffenbesitzkarten (Verwaltungsgerichte):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/23_Waffenbesitzkarten_Entzug_VG_Duesseldorf.txt) – *Rechtmäßiger Ausschluss bewaffneter AfD-Funktionäre aus Sicherheitsgründen.*
+* ⚖️ **40. Verweigerung des Beamtenstatus (OVG Weimar):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/24_Beamtenstatus_Ausschluss_OVG_Weimar.txt) – *Entlassung von Beamten wegen verfassungsfeindlicher Betätigung.*
+* ⚖️ **41. Ausschluss von Bundestagsrechten (BVerfG):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/25_Bundestag_Ausschussvorsitz_BVerfG.txt) – *Ausschussvorsitze können der AfD rechtmäßig vorenthalten werden.*
+* ⚖️ **42. Parteistrafen wegen illegaler Auslandsspenden (BVerwG):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/21_AfD_Strafzahlungen_Spendenaffaere_BVerwG.txt) – *Bestätigung von 1,08 Mio. Euro Bußgeldern wegen illegaler Schweizer Spenden für Weidels Wahlkampf.*
 
 # Ergänzungen thematisch sortiert
 

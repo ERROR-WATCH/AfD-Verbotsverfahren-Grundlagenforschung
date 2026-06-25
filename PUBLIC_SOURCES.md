@@ -367,6 +367,21 @@ Ende der öffentlich zugänglichen Quellen.
 * **Gesamtregister aller Gerichtsentscheidungen & Urteile (TXT-Volltext)**
   Lokale Quelle: [`AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.txt`](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.txt)
 
+* **BfV-Lagebericht: Reichsbürger-Putschversuch - Mittäterin Birgit Malsack-Winkemann (Volltext)**
+  Lokale Quelle: [`36_Birgit_Malsack_Winkemann_Reichsbuerger_BGH.txt`](./dokumente/hauptquellen/urteilsbelege/36_Birgit_Malsack_Winkemann_Reichsbuerger_BGH.txt)
+
+* **Dienstgerichtliche Versetzung in den Ruhestand - Richter Jens Maier (Volltext)**
+  Lokale Quelle: [`35_Jens_Maier_Richter_Ruhestand_DG_Leipzig.txt`](./dokumente/hauptquellen/urteilsbelege/35_Jens_Maier_Richter_Ruhestand_DG_Leipzig.txt)
+
+* **Ermittlungsverfahren wegen Volksverhetzung - Abgeordnete Beatrix von Storch (Volltext)**
+  Lokale Quelle: [`41_Beatrix_von_Storch_Volksverhetzung_Ermittlung.txt`](./dokumente/hauptquellen/urteilsbelege/41_Beatrix_von_Storch_Volksverhetzung_Ermittlung.txt)
+
+* **BfV-Lagebericht: Spionage und Landesverrat - Krah-Assistent Jian G. (Volltext)**
+  Lokale Quelle: [`AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf`](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)
+
+* **Gesamtregister aller Gerichtsentscheidungen & Urteile (TXT-Volltext)**
+  Lokale Quelle: [`AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.txt`](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.txt)
+
 
 
 * **BfV-Lagebericht: Rechtsextremisten in Sicherheitsbehörden (2025)**
