@@ -83,14 +83,14 @@ Es ist **kein** fertiges Dossier und **ersetzt nicht** die professionelle Beweis
 | [`WISSENSTAND_MAI_2025_AfD.pdf`](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)                                                                                   | Zusammenfassung aktueller Forschung und Medienberichte zur AfD (Stand Mai 2025)                                                      |
 | [`Gründe_für_ein_Afd-Verbots-Verfahren_-_KI_generiert_-_PDF.pdf`](./dokumente/hauptquellen/Gr%C3%BCnde_f%C3%BCr_ein_Afd-Verbots-Verfahren_-_KI_generiert_-_PDF.pdf)                                                  | KI‑gestützte Erarbeitung und Erläuterung von 15 juristischen Verbotsgründen                                                          |
 | [`Im Folgenden werden die zuvor genannten 15 Gründe… .pdf`](./dokumente/hauptquellen/Im_Folgenden_werden_die_zuvor_genannten_15_Gr%C3%BCnde_f%C3%BCr_ein_Parteiverbot_der_AfD_jeweils_ausf%C3%BChrlich_begr%C3%BCndet.pdf)                                                        | Vertiefende juristische Begründung der 15 Verbotsgründe                                                                              |
-| [`Gründe.txt`](./geheimgutachten/Gr%C3%BCnde.txt)                                                                                                     | Kurze Stichpunktliste aller 15 Verbotsgründe                                                                                         |
+| [`Gründe.txt`](./geheimgutachten/Gr%C3%BCnde.md)                                                                                                     | Kurze Stichpunktliste aller 15 Verbotsgründe                                                                                         |
 | [`schlimmsten_zitate_der_afd.pdf`](./dokumente/hauptquellen/schlimmsten_zitate_der_afd.pdf)                                                                                 | Sammlung besonders gravierender Zitate von AfD‑Repräsentanten als Beleg für Verfassungsfeindlichkeit                                 |
 | [`warum_die_afd_verboten_gehört.pdf`](./dokumente/hauptquellen/warum_die_afd_verboten_geh%C3%B6rt.pdf)                                                                              | Essay‑artige Darstellung, warum ein Verbotsverfahren gegen die AfD angezeigt ist                                                     |
 | [`gruende_für_ein_afd_verbotsverfahren.pdf`](./dokumente/hauptquellen/gruende_f%C3%BCr_ein_afd_verbotsverfahren.pdf)                                                                       | Prägnante Übersicht über die 15 juristischen Gründe                                                                                  |
-| [`gruende_fuer_afd_verbot.txt`](./geheimgutachten/gruende_fuer_afd_verbot.txt)                                                                                    | Textliche Stichpunkte zu den Verbotsgründen                                                                                          |
-| [`afd-verbot-deepresearch-ausgangspunkt.txt`](./skripte/afd-verbot-deepresearch-ausgangspunkt.txt)                                                                      | Notizen zur initialen Deep‑Research‑Strategie und Suchansätze                                                                        |
+| [`gruende_fuer_afd_verbot.md`](./geheimgutachten/gruende_fuer_afd_verbot.md)                                                                                    | Textliche Stichpunkte zu den Verbotsgründen                                                                                          |
+| [`afd-verbot-deepresearch-ausgangspunkt.txt`](./skripte/afd-verbot-deepresearch-ausgangspunkt.md)                                                                      | Notizen zur initialen Deep‑Research‑Strategie und Suchansätze                                                                        |
 | [`quellen.pdf`](./dokumente/hauptquellen/quellen.pdf)                                                                                                    | Übersicht aller zitierten Primär‑ und Sekundärquellen                                                                                |
-| [`leicht zugängliche Quellen.txt`](./skripte/leicht%20zug%C3%A4ngliche%20Quellen.txt)                                                                                 | Liste frei verfügbarer, leicht erreichbarer Referenzen                                                                               |
+| [`leicht zugängliche Quellen.txt`](./skripte/leicht%20zug%C3%A4ngliche%20Quellen.md)                                                                                 | Liste frei verfügbarer, leicht erreichbarer Referenzen                                                                               |
 | [`nsu-akten-gratis.pdf`](./dokumente/hauptquellen/nsu-akten-gratis.pdf)                                                                                           | PDF‑Zusammenstellung der NSU‑Gerichtsakten (kostenfrei)                                                                              |
 | **Geheimgutachten (OCR‑Texte)**                                                                                  |                                                                                                                                      |
 | ├─ [`geheimgutachten/`](./geheimgutachten/)                                                                      | Ordner mit allen OCR-Transkriptionen des BfV-Gutachtens Teil A & B (einzelne Teilstücke siehe unten)                                 |
@@ -107,28 +107,28 @@ Es ist **kein** fertiges Dossier und **ersetzt nicht** die professionelle Beweis
 | [`www_bmi_bund_de_…BMI25029-vsb2024.pdf`](./dokumente/hauptquellen/BMI_Verfassungsschutzbericht_2024.pdf)                                                                          | Volltext Verfassungsschutzbericht 2024 (BMI)                                                                                         |
 | ------------------------------------------ | -------------- |
 | **Geheimgutachten (OCR-Splits)** | |
-| [`Geheimgutachten_Teil A_pages_1_to_100.txt`](./geheimgutachten/Geheimgutachten_Teil A_pages_1_to_100.txt) | OCR-Teilstück BfV-Gutachten Teil A, S. 1–100 |
-| [`Geheimgutachten_Teil A_pages_201_to_300.txt`](./geheimgutachten/Geheimgutachten_Teil A_pages_201_to_300.txt) | OCR-Teilstück BfV-Gutachten Teil A, S. 201–300 |
-| [`Geheimgutachten_Teil A_pages_301_to_400.txt`](./geheimgutachten/Geheimgutachten_Teil A_pages_301_to_400.txt) | OCR-Teilstück BfV-Gutachten Teil A, S. 301–400 |
-| [`Geheimgutachten_Teil A_pages_401_to_500.txt`](./geheimgutachten/Geheimgutachten_Teil A_pages_401_to_500.txt) | OCR-Teilstück BfV-Gutachten Teil A, S. 401–500 |
-| [`Geheimgutachten_Teil A_pages_501_to_508.txt`](./geheimgutachten/Geheimgutachten_Teil A_pages_501_to_508.txt) | OCR-Teilstück BfV-Gutachten Teil A, S. 501–508 |
-| [`Geheimgutachten_Teil B_pages_1_to_100.txt`](./geheimgutachten/Geheimgutachten_Teil B_pages_1_to_100.txt) | OCR-Teilstück BfV-Gutachten Teil B, S. 1–100 |
-| [`Geheimgutachten_Teil B_pages_101_to_200.txt`](./geheimgutachten/Geheimgutachten_Teil B_pages_101_to_200.txt) | OCR-Teilstück BfV-Gutachten Teil B, S. 101–200 |
-| [`Geheimgutachten_Teil B_pages_201_to_300.txt`](./geheimgutachten/Geheimgutachten_Teil B_pages_201_to_300.txt) | OCR-Teilstück BfV-Gutachten Teil B, S. 201–300 |
-| [`Geheimgutachten_Teil B_pages_301_to_400.txt`](./geheimgutachten/Geheimgutachten_Teil B_pages_301_to_400.txt) | OCR-Teilstück BfV-Gutachten Teil B, S. 301–400 |
-| [`Geheimgutachten_Teil B_pages_401_to_500.txt`](./geheimgutachten/Geheimgutachten_Teil B_pages_401_to_500.txt) | OCR-Teilstück BfV-Gutachten Teil B, S. 401–500 |
+| [`Geheimgutachten_Teil A_pages_1_to_100.txt`](./geheimgutachten/Geheimgutachten_Teil A_pages_1_to_100.md) | OCR-Teilstück BfV-Gutachten Teil A, S. 1–100 |
+| [`Geheimgutachten_Teil A_pages_201_to_300.txt`](./geheimgutachten/Geheimgutachten_Teil A_pages_201_to_300.md) | OCR-Teilstück BfV-Gutachten Teil A, S. 201–300 |
+| [`Geheimgutachten_Teil A_pages_301_to_400.txt`](./geheimgutachten/Geheimgutachten_Teil A_pages_301_to_400.md) | OCR-Teilstück BfV-Gutachten Teil A, S. 301–400 |
+| [`Geheimgutachten_Teil A_pages_401_to_500.txt`](./geheimgutachten/Geheimgutachten_Teil A_pages_401_to_500.md) | OCR-Teilstück BfV-Gutachten Teil A, S. 401–500 |
+| [`Geheimgutachten_Teil A_pages_501_to_508.txt`](./geheimgutachten/Geheimgutachten_Teil A_pages_501_to_508.md) | OCR-Teilstück BfV-Gutachten Teil A, S. 501–508 |
+| [`Geheimgutachten_Teil B_pages_1_to_100.txt`](./geheimgutachten/Geheimgutachten_Teil B_pages_1_to_100.md) | OCR-Teilstück BfV-Gutachten Teil B, S. 1–100 |
+| [`Geheimgutachten_Teil B_pages_101_to_200.txt`](./geheimgutachten/Geheimgutachten_Teil B_pages_101_to_200.md) | OCR-Teilstück BfV-Gutachten Teil B, S. 101–200 |
+| [`Geheimgutachten_Teil B_pages_201_to_300.txt`](./geheimgutachten/Geheimgutachten_Teil B_pages_201_to_300.md) | OCR-Teilstück BfV-Gutachten Teil B, S. 201–300 |
+| [`Geheimgutachten_Teil B_pages_301_to_400.txt`](./geheimgutachten/Geheimgutachten_Teil B_pages_301_to_400.md) | OCR-Teilstück BfV-Gutachten Teil B, S. 301–400 |
+| [`Geheimgutachten_Teil B_pages_401_to_500.txt`](./geheimgutachten/Geheimgutachten_Teil B_pages_401_to_500.md) | OCR-Teilstück BfV-Gutachten Teil B, S. 401–500 |
 | `Geheimgutachten_Teil B_pages_501_to_600*.txt` | OCR-Teilstücke BfV-Gutachten Teil B, S. 501–600 (mehrere reparierte Versionen) |
 | `Geheimgutachten_Teil B_pages_601_to_609*.txt` | OCR-Teilstücke BfV-Gutachten Teil B, S. 601–609 (reparierte Versionen) |
 | -------------------------------------------------------------------- | --------------------------------------- |
 | **BfV-Verfassungsschutzbericht 2024 (PDF-Splits)** | |
-| [`part1_1-52.pdf`](./dokumente/splits/part1_1-52.pdf)    | Seiten 1–52    |
-| [`part2_53-104.pdf`](./dokumente/splits/part2_53-104.pdf)  | Seiten 53–104  |
-| [`part3_105-156.pdf`](./dokumente/splits/part3_105-156.pdf) | Seiten 105–156 |
-| [`part4_157-208.pdf`](./dokumente/splits/part4_157-208.pdf) | Seiten 157–208 |
-| [`part5_209-260.pdf`](./dokumente/splits/part5_209-260.pdf) | Seiten 209–260 |
-| [`part6_261-312.pdf`](./dokumente/splits/part6_261-312.pdf) | Seiten 261–312 |
-| [`part7_313-364.pdf`](./dokumente/splits/part7_313-364.pdf) | Seiten 313–364 |
-| [`part8_365-412.pdf`](./dokumente/splits/part8_365-412.pdf) | Seiten 365–412 |
+| [`BfV-Verfassungsschutzbericht_2024_Teil_1_Seiten_1-52.pdf`](./dokumente/splits/BfV-Verfassungsschutzbericht_2024_Teil_1_Seiten_1-52.pdf)    | Seiten 1–52    |
+| [`BfV-Verfassungsschutzbericht_2024_Teil_2_Seiten_53-104.pdf`](./dokumente/splits/BfV-Verfassungsschutzbericht_2024_Teil_2_Seiten_53-104.pdf)  | Seiten 53–104  |
+| [`BfV-Verfassungsschutzbericht_2024_Teil_3_Seiten_105-156.pdf`](./dokumente/splits/BfV-Verfassungsschutzbericht_2024_Teil_3_Seiten_105-156.pdf) | Seiten 105–156 |
+| [`BfV-Verfassungsschutzbericht_2024_Teil_4_Seiten_157-208.pdf`](./dokumente/splits/BfV-Verfassungsschutzbericht_2024_Teil_4_Seiten_157-208.pdf) | Seiten 157–208 |
+| [`BfV-Verfassungsschutzbericht_2024_Teil_5_Seiten_209-260.pdf`](./dokumente/splits/BfV-Verfassungsschutzbericht_2024_Teil_5_Seiten_209-260.pdf) | Seiten 209–260 |
+| [`BfV-Verfassungsschutzbericht_2024_Teil_6_Seiten_261-312.pdf`](./dokumente/splits/BfV-Verfassungsschutzbericht_2024_Teil_6_Seiten_261-312.pdf) | Seiten 261–312 |
+| [`BfV-Verfassungsschutzbericht_2024_Teil_7_Seiten_313-364.pdf`](./dokumente/splits/BfV-Verfassungsschutzbericht_2024_Teil_7_Seiten_313-364.pdf) | Seiten 313–364 |
+| [`BfV-Verfassungsschutzbericht_2024_Teil_8_Seiten_365-412.pdf`](./dokumente/splits/BfV-Verfassungsschutzbericht_2024_Teil_8_Seiten_365-412.pdf) | Seiten 365–412 |
 | -------------------------------------------------------------------- | --------------------------------------- |
 |**LfV Hessen Jahresbericht 2024 (PDF-Splits)** | |
 | [`lfv_jahresbericht_2024_part1_1-25.pdf`](./dokumente/splits/lfv_jahresbericht_2024_part1_1-25.pdf)    | Seiten 1–25    |
@@ -215,7 +215,7 @@ Es ist **kein** fertiges Dossier und **ersetzt nicht** die professionelle Beweis
 - [`ChatGPT_-_Begründung_für_ein_entschiedenes_Handeln.pdf`](./dokumente/hauptquellen/ChatGPT_-_Begr%C3%BCndung_f%C3%BCr_ein_entschiedenes_Handeln.pdf)
 - [`ChatGPT_-_Warum_die_Alternative_für_Deutschland.pdf`](./dokumente/hauptquellen/ChatGPT_-_Warum_die_Alternative_f%C3%BCr_Deutschland.pdf)
 - [`Gründe_für_ein_Afd-Verbots-Verfahren_-_KI_generiert_-_PDF.pdf`](./dokumente/hauptquellen/Gr%C3%BCnde_f%C3%BCr_ein_Afd-Verbots-Verfahren_-_KI_generiert_-_PDF.pdf)
-- [`Gründe.txt`](./geheimgutachten/Gr%C3%BCnde.txt)
+- [`Gründe.txt`](./geheimgutachten/Gr%C3%BCnde.md)
 - [`Im_Folgenden_werden_die_zuvor_genannten_15_Gründe_für_ein_Parteiverbot_der_AfD_jeweils_ausführlich_begründet.pdf`](./dokumente/hauptquellen/Im_Folgenden_werden_die_zuvor_genannten_15_Gr%C3%BCnde_f%C3%BCr_ein_Parteiverbot_der_AfD_jeweils_ausf%C3%BChrlich_begr%C3%BCndet.pdf)
 - [`Ludwigshafen__AfD-Politiker_darf_nicht_bei_OB-Wahl_antreten,_das_sind_die_Gründe___taz.de.pdf`](./dokumente/hauptquellen/Ludwigshafen__AfD-Politiker_darf_nicht_bei_OB-Wahl_antreten%2C_das_sind_die_Gr%C3%BCnde___taz.de.pdf)
 - [`Mögliches_AfD-Verbot__Gutachten_liefert_neue_Argumente.pdf`](./dokumente/hauptquellen/M%C3%B6gliches_AfD-Verbot__Gutachten_liefert_neue_Argumente.pdf)
@@ -224,7 +224,7 @@ Es ist **kein** fertiges Dossier und **ersetzt nicht** die professionelle Beweis
 - [`Warum_die_Normalisierung_der_AfD_eine_Gefahr_für_die_Demokratie_darstellt.pdf`](./dokumente/hauptquellen/Warum_die_Normalisierung_der_AfD_eine_Gefahr_f%C3%BCr_die_Demokratie_darstellt.pdf)
 - [`untersuchung-bfv-gutachten-und-afd-parteiverbot.pdf`](./dokumente/hauptquellen/untersuchung-bfv-gutachten-und-afd-parteiverbot.pdf)
 - [`warum_die_afd_verboten_gehört.pdf`](./dokumente/hauptquellen/warum_die_afd_verboten_geh%C3%B6rt.pdf)
-- [`zusammenfassung_vfs_gutachten_afd.txt`](./geheimgutachten/zusammenfassung_vfs_gutachten_afd.txt)
+- [`zusammenfassung_vfs_gutachten_afd.md`](./geheimgutachten/zusammenfassung_vfs_gutachten_afd.md)
 - `02_www.institut-fuer-menschenrechte.de_fileadmin_Redaktion_Pub...Analyse_Warum_die_AfD_verboten_werden_koennte.pdf.pdf`
 - `08_www.institut-fuer-menschenrechte.de_fileadmin_Redaktion_Pub...Analyse_Warum_die_AfD_verboten_werden_koennte.pdf.pdf`
 
@@ -253,14 +253,14 @@ Es ist **kein** fertiges Dossier und **ersetzt nicht** die professionelle Beweis
 - [`ZDFheute_Bericht_VS_Gutachten_AfD_Original.pdf`](./dokumente/hauptquellen/ZDFheute_Bericht_VS_Gutachten_AfD_Original.pdf)
 - `22_www.tagesschau.de_inland_innenpolitik_afd-rechtsextrem-verfassungsschutz-100.html.pdf`
 - BfV-Verfassungsschutzbericht 2024 (PDF-Splits):
-- [`part1_1-52.pdf`](./dokumente/splits/part1_1-52.pdf)
-- [`part2_53-104.pdf`](./dokumente/splits/part2_53-104.pdf)
-- [`part3_105-156.pdf`](./dokumente/splits/part3_105-156.pdf)
-- [`part4_157-208.pdf`](./dokumente/splits/part4_157-208.pdf)
-- [`part5_209-260.pdf`](./dokumente/splits/part5_209-260.pdf)
-- [`part6_261-312.pdf`](./dokumente/splits/part6_261-312.pdf)
-- [`part7_313-364.pdf`](./dokumente/splits/part7_313-364.pdf)
-- [`part8_365-412.pdf`](./dokumente/splits/part8_365-412.pdf)
+- [`BfV-Verfassungsschutzbericht_2024_Teil_1_Seiten_1-52.pdf`](./dokumente/splits/BfV-Verfassungsschutzbericht_2024_Teil_1_Seiten_1-52.pdf)
+- [`BfV-Verfassungsschutzbericht_2024_Teil_2_Seiten_53-104.pdf`](./dokumente/splits/BfV-Verfassungsschutzbericht_2024_Teil_2_Seiten_53-104.pdf)
+- [`BfV-Verfassungsschutzbericht_2024_Teil_3_Seiten_105-156.pdf`](./dokumente/splits/BfV-Verfassungsschutzbericht_2024_Teil_3_Seiten_105-156.pdf)
+- [`BfV-Verfassungsschutzbericht_2024_Teil_4_Seiten_157-208.pdf`](./dokumente/splits/BfV-Verfassungsschutzbericht_2024_Teil_4_Seiten_157-208.pdf)
+- [`BfV-Verfassungsschutzbericht_2024_Teil_5_Seiten_209-260.pdf`](./dokumente/splits/BfV-Verfassungsschutzbericht_2024_Teil_5_Seiten_209-260.pdf)
+- [`BfV-Verfassungsschutzbericht_2024_Teil_6_Seiten_261-312.pdf`](./dokumente/splits/BfV-Verfassungsschutzbericht_2024_Teil_6_Seiten_261-312.pdf)
+- [`BfV-Verfassungsschutzbericht_2024_Teil_7_Seiten_313-364.pdf`](./dokumente/splits/BfV-Verfassungsschutzbericht_2024_Teil_7_Seiten_313-364.pdf)
+- [`BfV-Verfassungsschutzbericht_2024_Teil_8_Seiten_365-412.pdf`](./dokumente/splits/BfV-Verfassungsschutzbericht_2024_Teil_8_Seiten_365-412.pdf)
 - LfV Hessen Jahresbericht 2024 (PDF-Splits):
 - [`lfv_jahresbericht_2024_part1_1-25.pdf`](./dokumente/splits/lfv_jahresbericht_2024_part1_1-25.pdf)
 - [`lfv_jahresbericht_2024_part2_26-50.pdf`](./dokumente/splits/lfv_jahresbericht_2024_part2_26-50.pdf)
@@ -279,28 +279,28 @@ Ich habe mal das Leak für eine KI aufbereitet. Der Verfassungsschutzbericht ist
 
 ---
 ### D) Geheimgutachten (OCR/Textfragmente) (24)
-- [`Geheimgutachten_Teil A_pages_1_to_100.txt`](./geheimgutachten/Geheimgutachten_Teil%20A_pages_1_to_100.txt)
-- [`Geheimgutachten_Teil A_pages_101_to_200.txt`](./geheimgutachten/Geheimgutachten_Teil%20A_pages_101_to_200.txt)
-- [`Geheimgutachten_Teil A_pages_201_to_300.txt`](./geheimgutachten/Geheimgutachten_Teil%20A_pages_201_to_300.txt)
-- [`Geheimgutachten_Teil A_pages_301_to_400.txt`](./geheimgutachten/Geheimgutachten_Teil%20A_pages_301_to_400.txt)
-- [`Geheimgutachten_Teil A_pages_401_to_500.txt`](./geheimgutachten/Geheimgutachten_Teil%20A_pages_401_to_500.txt)
-- [`Geheimgutachten_Teil A_pages_501_to_508.txt`](./geheimgutachten/Geheimgutachten_Teil%20A_pages_501_to_508.txt)
-- [`Geheimgutachten_Teil B_pages_1_to_100.txt`](./geheimgutachten/Geheimgutachten_Teil%20B_pages_1_to_100.txt)
-- [`Geheimgutachten_Teil B_pages_101_to_200.txt`](./geheimgutachten/Geheimgutachten_Teil%20B_pages_101_to_200.txt)
-- [`Geheimgutachten_Teil B_pages_201_to_300.txt`](./geheimgutachten/Geheimgutachten_Teil%20B_pages_201_to_300.txt)
-- [`Geheimgutachten_Teil B_pages_301_to_400.txt`](./geheimgutachten/Geheimgutachten_Teil%20B_pages_301_to_400.txt)
-- [`Geheimgutachten_Teil B_pages_401_to_500.txt`](./geheimgutachten/Geheimgutachten_Teil%20B_pages_401_to_500.txt)
-- [`Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_1_to_10.txt`](./geheimgutachten/Geheimgutachten_Teil%20B_pages_501_to_600_repaired_pages_1_to_10.txt)
-- [`Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_11_to_20.txt`](./geheimgutachten/Geheimgutachten_Teil%20B_pages_501_to_600_repaired_pages_11_to_20.txt)
-- [`Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_21_to_30.txt`](./geheimgutachten/Geheimgutachten_Teil%20B_pages_501_to_600_repaired_pages_21_to_30.txt)
-- [`Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_31_to_40.txt`](./geheimgutachten/Geheimgutachten_Teil%20B_pages_501_to_600_repaired_pages_31_to_40.txt)
-- [`Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_41_to_50.txt`](./geheimgutachten/Geheimgutachten_Teil%20B_pages_501_to_600_repaired_pages_41_to_50.txt)
-- [`Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_51_to_60.txt`](./geheimgutachten/Geheimgutachten_Teil%20B_pages_501_to_600_repaired_pages_51_to_60.txt)
-- [`Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_61_to_70.txt`](./geheimgutachten/Geheimgutachten_Teil%20B_pages_501_to_600_repaired_pages_61_to_70.txt)
-- [`Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_71_to_80.txt`](./geheimgutachten/Geheimgutachten_Teil%20B_pages_501_to_600_repaired_pages_71_to_80.txt)
-- [`Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_81_to_90.txt`](./geheimgutachten/Geheimgutachten_Teil%20B_pages_501_to_600_repaired_pages_81_to_90.txt)
-- [`Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_91_to_100.txt`](./geheimgutachten/Geheimgutachten_Teil%20B_pages_501_to_600_repaired_pages_91_to_100.txt)
-- [`Geheimgutachten_Teil B_pages_601_to_609_repaired_pages_1_to_9.txt`](./geheimgutachten/Geheimgutachten_Teil%20B_pages_601_to_609_repaired_pages_1_to_9.txt)
+- [`Geheimgutachten_Teil A_pages_1_to_100.txt`](./geheimgutachten/Geheimgutachten_Teil%20A_pages_1_to_100.md)
+- [`Geheimgutachten_Teil A_pages_101_to_200.txt`](./geheimgutachten/Geheimgutachten_Teil%20A_pages_101_to_200.md)
+- [`Geheimgutachten_Teil A_pages_201_to_300.txt`](./geheimgutachten/Geheimgutachten_Teil%20A_pages_201_to_300.md)
+- [`Geheimgutachten_Teil A_pages_301_to_400.txt`](./geheimgutachten/Geheimgutachten_Teil%20A_pages_301_to_400.md)
+- [`Geheimgutachten_Teil A_pages_401_to_500.txt`](./geheimgutachten/Geheimgutachten_Teil%20A_pages_401_to_500.md)
+- [`Geheimgutachten_Teil A_pages_501_to_508.txt`](./geheimgutachten/Geheimgutachten_Teil%20A_pages_501_to_508.md)
+- [`Geheimgutachten_Teil B_pages_1_to_100.txt`](./geheimgutachten/Geheimgutachten_Teil%20B_pages_1_to_100.md)
+- [`Geheimgutachten_Teil B_pages_101_to_200.txt`](./geheimgutachten/Geheimgutachten_Teil%20B_pages_101_to_200.md)
+- [`Geheimgutachten_Teil B_pages_201_to_300.txt`](./geheimgutachten/Geheimgutachten_Teil%20B_pages_201_to_300.md)
+- [`Geheimgutachten_Teil B_pages_301_to_400.txt`](./geheimgutachten/Geheimgutachten_Teil%20B_pages_301_to_400.md)
+- [`Geheimgutachten_Teil B_pages_401_to_500.txt`](./geheimgutachten/Geheimgutachten_Teil%20B_pages_401_to_500.md)
+- [`Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_1_to_10.txt`](./geheimgutachten/Geheimgutachten_Teil%20B_pages_501_to_600_repaired_pages_1_to_10.md)
+- [`Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_11_to_20.txt`](./geheimgutachten/Geheimgutachten_Teil%20B_pages_501_to_600_repaired_pages_11_to_20.md)
+- [`Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_21_to_30.txt`](./geheimgutachten/Geheimgutachten_Teil%20B_pages_501_to_600_repaired_pages_21_to_30.md)
+- [`Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_31_to_40.txt`](./geheimgutachten/Geheimgutachten_Teil%20B_pages_501_to_600_repaired_pages_31_to_40.md)
+- [`Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_41_to_50.txt`](./geheimgutachten/Geheimgutachten_Teil%20B_pages_501_to_600_repaired_pages_41_to_50.md)
+- [`Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_51_to_60.txt`](./geheimgutachten/Geheimgutachten_Teil%20B_pages_501_to_600_repaired_pages_51_to_60.md)
+- [`Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_61_to_70.txt`](./geheimgutachten/Geheimgutachten_Teil%20B_pages_501_to_600_repaired_pages_61_to_70.md)
+- [`Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_71_to_80.txt`](./geheimgutachten/Geheimgutachten_Teil%20B_pages_501_to_600_repaired_pages_71_to_80.md)
+- [`Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_81_to_90.txt`](./geheimgutachten/Geheimgutachten_Teil%20B_pages_501_to_600_repaired_pages_81_to_90.md)
+- [`Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_91_to_100.txt`](./geheimgutachten/Geheimgutachten_Teil%20B_pages_501_to_600_repaired_pages_91_to_100.md)
+- [`Geheimgutachten_Teil B_pages_601_to_609_repaired_pages_1_to_9.txt`](./geheimgutachten/Geheimgutachten_Teil%20B_pages_601_to_609_repaired_pages_1_to_9.md)
 - (sowie 2 DW‑PDF‑Clippings zum Einstufungsverfahren; als Kontext eingefügt)
 
 ---
@@ -319,7 +319,7 @@ Ich habe mal das Leak für eine KI aufbereitet. Der Verfassungsschutzbericht ist
   - `zitate/afd-verbot.de-28.07.2025-proof-03610.md`  
   - `zitate/afd-verbot.de-28.07.2025-proof-03611.md`
 
-> **README‑Hinweis**: In der Datei [`afd-verbot.de-scrape-link-liste.txt`](./skripte/afd-verbot.de-scrape-link-liste.txt) liegt die maschinenlesbare Linkliste.  
+> **README‑Hinweis**: In der Datei [`afd-verbot.de-scrape-link-liste.txt`](./skripte/afd-verbot.de-scrape-link-liste.md) liegt die maschinenlesbare Linkliste.  
 > Die Proof‑Dateien sind vollständig nummeriert (00001–03611) und chronologisch datiert.
 
 ---
@@ -516,7 +516,7 @@ Dieses Verzeichnis enthält weitere im Archiv erfasste Belege, Zeitungsberichte,
 
 ### H) Sonstiges / Notizen (66)
 - `PUBLIC_SOURCES.md`
-- [`leicht zugängliche Quellen.txt`](./skripte/leicht%20zug%C3%A4ngliche%20Quellen.txt)
+- [`leicht zugängliche Quellen.txt`](./skripte/leicht%20zug%C3%A4ngliche%20Quellen.md)
 - [`quellen.pdf`](./dokumente/hauptquellen/quellen.pdf)
 - diverse Pressespiegel‑PDFs und Projektmemos (vollständig im Repo enthalten)
 
@@ -552,7 +552,7 @@ Dieses Verzeichnis enthält weitere im Archiv erfasste Belege, Zeitungsberichte,
 - **Klageschrift** → `ENTWURF KLAGESCHRIFT*.pdf`  
 - **BfV/BMI/Bundestag** → Abschnitt **C) Amtliche Quellen**  
 - **Geheimgutachten (OCR)** → Abschnitt **D)**  
-- **Belege (afd‑verbot.de)** → Ordner `zitate/` + [`afd-verbot.de-scrape-link-liste.txt`](./skripte/afd-verbot.de-scrape-link-liste.txt)  
+- **Belege (afd‑verbot.de)** → Ordner `zitate/` + [`afd-verbot.de-scrape-link-liste.txt`](./skripte/afd-verbot.de-scrape-link-liste.md)  
 - **Skripte** → Abschnitt **F)**
 
 ### 🔎 Suchtipps (README‑Snippet)
@@ -681,7 +681,7 @@ Dieses Repository ist bewusst so aufgebaut, dass es sowohl Jurist:innen als auch
    Die Klageschrift-Entwürfe (*.pdf*) sind in klar strukturierten Abschnitten (A–D) gegliedert und enthalten Platzhalter für Fußnoten und Seitennachweise. Mit gezielten Prompts lassen sich mit Legal-LMs automatisch alle Quellenangaben vervollständigen und Prüffragen validieren.
 
 3. **Maschinenlesbare Linklisten**  
-   Dateien wie `PUBLIC_SOURCES.md` und [`leicht zugängliche Quellen.txt`](./skripte/leicht%20zug%C3%A4ngliche%20Quellen.txt) liefern strukturierte Metadaten und URLs. Sie können direkt in Crawler-Skripte oder ETL-Pipelines eingespeist werden, um neue Verfassungsschutzberichte, Bundestagsdokumente oder Gerichtsurteile fortlaufend zu überwachen und zu archivieren.
+   Dateien wie `PUBLIC_SOURCES.md` und [`leicht zugängliche Quellen.txt`](./skripte/leicht%20zug%C3%A4ngliche%20Quellen.md) liefern strukturierte Metadaten und URLs. Sie können direkt in Crawler-Skripte oder ETL-Pipelines eingespeist werden, um neue Verfassungsschutzberichte, Bundestagsdokumente oder Gerichtsurteile fortlaufend zu überwachen und zu archivieren.
 
 4. **Graph- und Relationsextraktion**  
    Die Zuordnung von juristischen Argumenten zu Quellen im [`quellen.pdf`](./dokumente/hauptquellen/quellen.pdf) ermöglicht es, automatisch einen Fakten-Graphen zu generieren (z. B. mit Neo4j), in dem Knoten (Argumente) und Kanten (Belege) visualisiert und Lücken identifiziert werden können.
@@ -816,7 +816,7 @@ In allen ausführbaren Dateien - Input-Ordner und Output-Ordner/Zieldatei-Namen 
 Dieses Repository enthält eine umfassende Sammlung an Quellen und Vorarbeiten zum Verbotsverfahren gegen die AfD. Um alle Materialien zu nutzen, gehen Sie bitte wie folgt vor:
 
 ### 1. Öffentlich zugängliche Dokumente  
-In der Datei [`leicht zugängliche Quellen.txt`](./skripte/leicht%20zug%C3%A4ngliche%20Quellen.txt) sind alle frei abrufbaren PDF-Links und Webseiten gelistet:
+In der Datei [`leicht zugängliche Quellen.txt`](./skripte/leicht%20zug%C3%A4ngliche%20Quellen.md) sind alle frei abrufbaren PDF-Links und Webseiten gelistet:
 
 - **Verfassungsschutzberichte (BfV 2023 & 2024)**
 - **Bundestags-Plenarprotokolle** (86. und 203. Sitzung)

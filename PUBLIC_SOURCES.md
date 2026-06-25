@@ -301,16 +301,27 @@ Um das Mammut-Material (z. B. das 3.062-seitige GFF-Gutachten oder die mehrhunde
   [`GFF_AfD-Gutachten_Teil_10_Anhang_C_E_Weitere_Belege.pdf`](./dokumente/splits/GFF_AfD-Gutachten_Teil_10_Anhang_C_E_Weitere_Belege.pdf)
 
 ### B) BfV-Verfassungsschutzbericht 2024 (PDF-Splits)
-* [`part1_1-52.pdf`](./dokumente/splits/part1_1-52.pdf) – Seiten 1–52
-* [`part2_53-104.pdf`](./dokumente/splits/part2_53-104.pdf) – Seiten 53–104
-* [`part3_105-156.pdf`](./dokumente/splits/part3_105-156.pdf) – Seiten 105–156
-* [`part4_157-208.pdf`](./dokumente/splits/part4_157-208.pdf) – Seiten 157–208
-* [`part5_209-260.pdf`](./dokumente/splits/part5_209-260.pdf) – Seiten 209–260
-* [`part6_261-312.pdf`](./dokumente/splits/part6_261-312.pdf) – Seiten 261–312
-* [`part7_313-364.pdf`](./dokumente/splits/part7_313-364.pdf) – Seiten 313–364
-* [`part8_365-412.pdf`](./dokumente/splits/part8_365-412.pdf) – Seiten 365–412
+* [`BfV-Verfassungsschutzbericht_2024_Teil_1_Seiten_1-52.pdf`](./dokumente/splits/BfV-Verfassungsschutzbericht_2024_Teil_1_Seiten_1-52.pdf) – Seiten 1–52
+* [`BfV-Verfassungsschutzbericht_2024_Teil_2_Seiten_53-104.pdf`](./dokumente/splits/BfV-Verfassungsschutzbericht_2024_Teil_2_Seiten_53-104.pdf) – Seiten 53–104
+* [`BfV-Verfassungsschutzbericht_2024_Teil_3_Seiten_105-156.pdf`](./dokumente/splits/BfV-Verfassungsschutzbericht_2024_Teil_3_Seiten_105-156.pdf) – Seiten 105–156
+* [`BfV-Verfassungsschutzbericht_2024_Teil_4_Seiten_157-208.pdf`](./dokumente/splits/BfV-Verfassungsschutzbericht_2024_Teil_4_Seiten_157-208.pdf) – Seiten 157–208
+* [`BfV-Verfassungsschutzbericht_2024_Teil_5_Seiten_209-260.pdf`](./dokumente/splits/BfV-Verfassungsschutzbericht_2024_Teil_5_Seiten_209-260.pdf) – Seiten 209–260
+* [`BfV-Verfassungsschutzbericht_2024_Teil_6_Seiten_261-312.pdf`](./dokumente/splits/BfV-Verfassungsschutzbericht_2024_Teil_6_Seiten_261-312.pdf) – Seiten 261–312
+* [`BfV-Verfassungsschutzbericht_2024_Teil_7_Seiten_313-364.pdf`](./dokumente/splits/BfV-Verfassungsschutzbericht_2024_Teil_7_Seiten_313-364.pdf) – Seiten 313–364
+* [`BfV-Verfassungsschutzbericht_2024_Teil_8_Seiten_365-412.pdf`](./dokumente/splits/BfV-Verfassungsschutzbericht_2024_Teil_8_Seiten_365-412.pdf) – Seiten 365–412
 
-### C) LfV Hessen Jahresbericht 2024 (PDF-Splits)
+### C) BfV-Verfassungsschutzbericht 2023 (PDF-Splits)
+Logische, kapitelgenaue Slices des Verfassungsschutzberichts 2023 für verbesserte KI-Vektorisierung:
+* [`BfV-Verfassungsschutzbericht_2023_Teil_1_Seiten_1-52.pdf`](./dokumente/splits/BfV-Verfassungsschutzbericht_2023_Teil_1_Seiten_1-52.pdf)
+* [`BfV-Verfassungsschutzbericht_2023_Teil_2_Seiten_53-104.pdf`](./dokumente/splits/BfV-Verfassungsschutzbericht_2023_Teil_2_Seiten_53-104.pdf)
+* [`BfV-Verfassungsschutzbericht_2023_Teil_3_Seiten_105-156.pdf`](./dokumente/splits/BfV-Verfassungsschutzbericht_2023_Teil_3_Seiten_105-156.pdf)
+* [`BfV-Verfassungsschutzbericht_2023_Teil_4_Seiten_157-208.pdf`](./dokumente/splits/BfV-Verfassungsschutzbericht_2023_Teil_4_Seiten_157-208.pdf)
+* [`BfV-Verfassungsschutzbericht_2023_Teil_5_Seiten_209-260.pdf`](./dokumente/splits/BfV-Verfassungsschutzbericht_2023_Teil_5_Seiten_209-260.pdf)
+* [`BfV-Verfassungsschutzbericht_2023_Teil_6_Seiten_261-312.pdf`](./dokumente/splits/BfV-Verfassungsschutzbericht_2023_Teil_6_Seiten_261-312.pdf)
+* [`BfV-Verfassungsschutzbericht_2023_Teil_7_Seiten_313-364.pdf`](./dokumente/splits/BfV-Verfassungsschutzbericht_2023_Teil_7_Seiten_313-364.pdf)
+* [`BfV-Verfassungsschutzbericht_2023_Teil_8_Seiten_365-412.pdf`](./dokumente/splits/BfV-Verfassungsschutzbericht_2023_Teil_8_Seiten_365-412.pdf)
+
+### D) LfV Hessen Jahresbericht 2024 (PDF-Splits)
 * [`lfv_jahresbericht_2024_part1_1-25.pdf`](./dokumente/splits/lfv_jahresbericht_2024_part1_1-25.pdf) – Seiten 1–25
 * [`lfv_jahresbericht_2024_part2_26-50.pdf`](./dokumente/splits/lfv_jahresbericht_2024_part2_26-50.pdf) – Seiten 26–50
 * [`lfv_jahresbericht_2024_part3_51-75.pdf`](./dokumente/splits/lfv_jahresbericht_2024_part3_51-75.pdf) – Seiten 51–75
@@ -320,30 +331,30 @@ Um das Mammut-Material (z. B. das 3.062-seitige GFF-Gutachten oder die mehrhunde
 * [`lfv_jahresbericht_2024_part7_151-175.pdf`](./dokumente/splits/lfv_jahresbericht_2024_part7_151-175.pdf) – Seiten 151–175
 * [`lfv_jahresbericht_2024_part8_176-199.pdf`](./dokumente/splits/lfv_jahresbericht_2024_part8_176-199.pdf) – Seiten 176–199
 
-### D) Geheimgutachten (OCR-Splits / Text-Dateien)
+### E) Geheimgutachten (OCR-Splits / Text-Dateien)
 * **BfV-Gutachten Teil A (S. 1–508)**:
-  - [`Geheimgutachten_Teil A_pages_1_to_100.txt`](./geheimgutachten/Geheimgutachten_Teil A_pages_1_to_100.txt)
-  - [`Geheimgutachten_Teil A_pages_101_to_200.txt`](./geheimgutachten/Geheimgutachten_Teil A_pages_101_to_200.txt)
-  - [`Geheimgutachten_Teil A_pages_201_to_300.txt`](./geheimgutachten/Geheimgutachten_Teil A_pages_201_to_300.txt)
-  - [`Geheimgutachten_Teil A_pages_301_to_400.txt`](./geheimgutachten/Geheimgutachten_Teil A_pages_301_to_400.txt)
-  - [`Geheimgutachten_Teil A_pages_401_to_500.txt`](./geheimgutachten/Geheimgutachten_Teil A_pages_401_to_500.txt)
-  - [`Geheimgutachten_Teil A_pages_501_to_508.txt`](./geheimgutachten/Geheimgutachten_Teil A_pages_501_to_508.txt)
+  - [`Geheimgutachten_Teil A_pages_1_to_100.txt`](./geheimgutachten/Geheimgutachten_Teil A_pages_1_to_100.md)
+  - [`Geheimgutachten_Teil A_pages_101_to_200.txt`](./geheimgutachten/Geheimgutachten_Teil A_pages_101_to_200.md)
+  - [`Geheimgutachten_Teil A_pages_201_to_300.txt`](./geheimgutachten/Geheimgutachten_Teil A_pages_201_to_300.md)
+  - [`Geheimgutachten_Teil A_pages_301_to_400.txt`](./geheimgutachten/Geheimgutachten_Teil A_pages_301_to_400.md)
+  - [`Geheimgutachten_Teil A_pages_401_to_500.txt`](./geheimgutachten/Geheimgutachten_Teil A_pages_401_to_500.md)
+  - [`Geheimgutachten_Teil A_pages_501_to_508.txt`](./geheimgutachten/Geheimgutachten_Teil A_pages_501_to_508.md)
 * **BfV-Gutachten Teil B (S. 1–609, reparierte Fragmente)**:
-  - [`Geheimgutachten_Teil B_pages_1_to_100.txt`](./geheimgutachten/Geheimgutachten_Teil B_pages_1_to_100.txt)
-  - [`Geheimgutachten_Teil B_pages_101_to_200.txt`](./geheimgutachten/Geheimgutachten_Teil B_pages_101_to_200.txt)
-  - [`Geheimgutachten_Teil B_pages_201_to_300.txt`](./geheimgutachten/Geheimgutachten_Teil B_pages_201_to_300.txt)
-  - [`Geheimgutachten_Teil B_pages_301_to_400.txt`](./geheimgutachten/Geheimgutachten_Teil B_pages_301_to_400.txt)
-  - [`Geheimgutachten_Teil B_pages_401_to_500.txt`](./geheimgutachten/Geheimgutachten_Teil B_pages_401_to_500.txt)
-  - [`Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_1_to_10.txt`](./geheimgutachten/Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_1_to_10.txt)
-  - [`Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_11_to_20.txt`](./geheimgutachten/Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_11_to_20.txt)
-  - [`Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_21_to_30.txt`](./geheimgutachten/Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_21_to_30.txt)
-  - [`Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_31_to_40.txt`](./geheimgutachten/Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_31_to_40.txt)
-  - [`Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_41_to_50.txt`](./geheimgutachten/Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_41_to_50.txt)
-  - [`Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_51_to_60.txt`](./geheimgutachten/Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_51_to_60.txt)
-  - [`Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_61_to_70.txt`](./geheimgutachten/Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_61_to_70.txt)
-  - [`Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_71_to_80.txt`](./geheimgutachten/Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_71_to_80.txt)
-  - [`Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_81_to_90.txt`](./geheimgutachten/Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_81_to_90.txt)
-  - [`Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_91_to_100.txt`](./geheimgutachten/Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_91_to_100.txt)
-  - [`Geheimgutachten_Teil B_pages_601_to_609_repaired_pages_1_to_9.txt`](./geheimgutachten/Geheimgutachten_Teil B_pages_601_to_609_repaired_pages_1_to_9.txt)
+  - [`Geheimgutachten_Teil B_pages_1_to_100.txt`](./geheimgutachten/Geheimgutachten_Teil B_pages_1_to_100.md)
+  - [`Geheimgutachten_Teil B_pages_101_to_200.txt`](./geheimgutachten/Geheimgutachten_Teil B_pages_101_to_200.md)
+  - [`Geheimgutachten_Teil B_pages_201_to_300.txt`](./geheimgutachten/Geheimgutachten_Teil B_pages_201_to_300.md)
+  - [`Geheimgutachten_Teil B_pages_301_to_400.txt`](./geheimgutachten/Geheimgutachten_Teil B_pages_301_to_400.md)
+  - [`Geheimgutachten_Teil B_pages_401_to_500.txt`](./geheimgutachten/Geheimgutachten_Teil B_pages_401_to_500.md)
+  - [`Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_1_to_10.txt`](./geheimgutachten/Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_1_to_10.md)
+  - [`Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_11_to_20.txt`](./geheimgutachten/Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_11_to_20.md)
+  - [`Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_21_to_30.txt`](./geheimgutachten/Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_21_to_30.md)
+  - [`Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_31_to_40.txt`](./geheimgutachten/Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_31_to_40.md)
+  - [`Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_41_to_50.txt`](./geheimgutachten/Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_41_to_50.md)
+  - [`Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_51_to_60.txt`](./geheimgutachten/Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_51_to_60.md)
+  - [`Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_61_to_70.txt`](./geheimgutachten/Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_61_to_70.md)
+  - [`Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_71_to_80.txt`](./geheimgutachten/Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_71_to_80.md)
+  - [`Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_81_to_90.txt`](./geheimgutachten/Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_81_to_90.md)
+  - [`Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_91_to_100.txt`](./geheimgutachten/Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_91_to_100.md)
+  - [`Geheimgutachten_Teil B_pages_601_to_609_repaired_pages_1_to_9.txt`](./geheimgutachten/Geheimgutachten_Teil B_pages_601_to_609_repaired_pages_1_to_9.md)
 
 Ende der öffentlich zugänglichen Quellen.
