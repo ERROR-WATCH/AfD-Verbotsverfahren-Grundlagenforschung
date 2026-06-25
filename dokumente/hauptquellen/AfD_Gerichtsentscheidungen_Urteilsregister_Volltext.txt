@@ -105,76 +105,86 @@ Dieses Dokument ist eine umfassende Zusammenstellung gerichtlicher Urteile, rech
     - **Urteil:** Geldstrafe wegen rassistischer Volksverhetzung im Netz.
     - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/64_Gerd_Sch_Volksverhetzung_AG_Cottbus.txt)
 
+18. **Halger H.:**
+    - **Partei-Status:** 🔴 **DIREKT AfD** (Mitglied und Aktivist der Chemnitzer AfD).
+    - **Urteil:** Geldstrafe wegen Verwendens verfassungswidriger Kennzeichen (§ 86a StGB - Hitlergruß).
+    - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/71_Halger_H_Hitlergruss_AG_Chemnitz.txt)
+
 ---
 
 ### Körperverletzung & Gewaltdelikte
 
-18. **Felix Alexander Cassel:**
+19. **Felix Alexander Cassel:**
     - **Partei-Status:** 🔴 **DIREKT AfD** (Vorsitzender Junge Alternative Essen).
     - **Urteil:** 7 Monate Haft auf Bewährung (PKW-Angriff).
     - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/07_Cassel_Gewalttat_AG_Essen.txt)
 
-19. **Kai Borrmann:**
+20. **Kai Borrmann:**
     - **Partei-Status:** 🔴 **DIREKT AfD** (Bezirksverordneter Berlin).
     - **Urteil:** Geldstrafe wegen Körperverletzung.
     - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/08_Borrmann_Koerperverletzung_LG_Berlin.txt)
 
-20. **Stefan Räpple:**
+21. **Stefan Räpple:**
     - **Partei-Status:** 🔴 **DIREKT AfD** (Ehemaliger MdL).
     - **Urteil:** Verurteilt wegen Widerstands gegen Polizisten.
     - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/09_Raepple_Gewaltdelikt_LG_Karlsruhe.txt)
 
-21. **Sebastian Münzenmeier:**
+22. **Sebastian Münzenmeier:**
     - **Partei-Status:** 🔴 **DIREKT AfD** (MdB).
     - **Urteil:** Beihilfe zur gefährlichen Körperverletzung.
     - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/10_Muenzenmeier_Hooligan_Gewalt_LG_Mainz.txt)
 
-22. **Dubravko Mandic:**
+23. **Dubravko Mandic:**
     - **Partei-Status:** 🔴 **DIREKT AfD** (Ehemaliger Stadtrat).
     - **Urteil:** Gefährliche Körperverletzung (Reizgas).
     - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/11_Mandic_Gewalt_AG_Freiburg.txt)
 
-23. **Andreas Kalbitz:**
+24. **Andreas Kalbitz:**
     - **Partei-Status:** 🔴 **DIREKT AfD** (Ehemaliger Landesvorsitzender Brandenburg).
     - **Urteil:** Strafverfahren gegen Geldauflage eingestellt (Milzriss).
     - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/12_Kalbitz_Koerperverletzung_AG_Potsdam.txt)
 
-24. **Sven Ebert:**
+25. **Sven Ebert:**
     - **Partei-Status:** 🔴 **DIREKT AfD** (Kreistagsabgeordneter).
     - **Urteil:** Gefährliche Körperverletzung.
     - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/33_Sven_Ebert_Koerperverletzung_LG_Magdeburg.txt)
 
-25. **Stefan Hrdy:**
+26. **Stefan Hrdy:**
     - **Partei-Status:** 🔴 **DIREKT AfD** (Fraktionsvorsitzender Hochtaunuskreis).
     - **Urteil:** Körperverletzung.
     - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/39_Stefan_Hrdy_Koerperverletzung_AG_Wiesbaden.txt)
 
-26. **Maik G.:**
+27. **Maik G.:**
     - **Partei-Status:** 🔴 **DIREKT AfD** (Stadtverbandsvorstand Sinsheim).
     - **Urteil:** Vorsätzliche Körperverletzung.
     - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/53_Maik_G_Koerperverletzung_AG_Sinsheim.txt)
 
-27. **Robert T.:**
+28. **Robert T.:**
     - **Partei-Status:** 🔵 **INDIREKT AfD**.  
       *Begründung des AfD-Bezugs:* Robert T. fungierte als Kampfsportler und "Schutztruppe" auf Veranstaltungen der Jungen Alternative (JA). Er führt die ideologische Gewaltbereitschaft des AfD-Vorfeldes auf der Straße aus.
     - **Urteil:** 2 Jahre und 2 Monate Haft ohne Bewährung (Schwere Körperverletzung).
     - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/55_Robert_T_JA_Aktivist_Gewalt_LG_Leipzig.txt)
 
-28. **Alexander M.:**
+29. **Alexander M.:**
     - **Partei-Status:** 🔴 **DIREKT AfD** (Ehemaliger AfD-Kommunalpolitiker in Thüringen).
     - **Urteil:** Geldstrafe wegen vorsätzlicher Körperverletzung bei Wahlkampf-Demo.
     - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/66_Alexander_M_Koerperverletzung_AG_Erfurt.txt)
+
+30. **Heiko H.:**
+    - **Partei-Status:** 🔴 **DIREKT AfD** (AfD-Lokalpolitiker und Stadtratskandidat).
+    - **Urteil:** Geldstrafe wegen gefährlicher Körperverletzung und Bedrohung im Wahlkampf.
+    - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/73_Heiko_H_Koerperverletzung_AG_Zeitz.txt)
 
 ---
 
 ### Amtsmissbrauch & Dienstvergehen
 
-29. **Thorsten Czuppon:**
+31. **Thorsten Czuppon:**
     - **Partei-Status:** 🔴 **DIREKT AfD** (MdL und Polizist).
     - **Urteil:** Geldstrafe wegen Verfolgung Unschuldiger.
     - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/29_Thorsten_Czuppon_Falschanzeige_LG_Erfurt.txt)
 
-30. **Richard Graupner:**
+32. **Richard Graupner:**
     - **Partei-Status:** 🔴 **DIREKT AfD** (Polizeibeamter und bayerischer Landtagsabgeordneter).
     - **Delikt:** Verrat von Dienstgeheimnissen (Abruf und Weitergabe vertraulicher Polizeidaten).
     - **Urteil/Strafmaß:** Rechtskräftige Geldstrafe (Vorstrafe).
@@ -184,117 +194,122 @@ Dieses Dokument ist eine umfassende Zusammenstellung gerichtlicher Urteile, rech
 
 ### Betrug, Untreue & Geldwäsche
 
-31. **Kay-Uwe Ziegler:**
+33. **Kay-Uwe Ziegler:**
     - **Partei-Status:** 🔴 **DIREKT AfD** (MdB).
     - **Urteil:** Subventionsbetrug.
     - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/13_Ziegler_Betrug_AG_Dessau.txt)
 
-32. **Frauke Petry:**
+34. **Frauke Petry:**
     - **Partei-Status:** 🔴 **DIREKT AfD** (Ehemalige Bundesvorsitzende).
     - **Urteil:** Subventionsbetrug, Untreue, Steuerhinterziehung.
     - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/14_Petry_Betrug_LG_Leipzig.txt)
 
-33. **Daniel Halemba:**
+35. **Daniel Halemba:**
     - **Partei-Status:** 🔴 **DIREKT AfD** (MdL).
     - **Urteil:** Geldwäsche, Nötigung.
     - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/15_Halemba_Geldwaesche_LG_Wuerzburg.txt)
 
-34. **Wiebke Muhsal:**
+36. **Wiebke Muhsal:**
     - **Partei-Status:** 🔴 **DIREKT AfD** (MdL).
     - **Urteil:** Betrug.
     - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/30_Wiebke_Muhsal_Betrug_LG_Erfurt.txt)
 
-35. **Jan-Ulrich Weiß:**
+37. **Jan-Ulrich Weiß:**
     - **Partei-Status:** 🔴 **DIREKT AfD** (Ehemaliger MdL).
     - **Urteil:** Haft auf Bewährung wegen Zigarettenschmuggels.
     - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/31_Jan_Ulrich_Weiss_Schmuggel_LG_Potsdam.txt)
 
-36. **Rolf Dipp:**
+38. **Rolf Dipp:**
     - **Partei-Status:** 🔴 **DIREKT AfD** (Ehem. Stadtrat).
     - **Urteil:** Haft auf Bewährung wegen Erpressung.
     - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/32_Rolf_Dipp_Erpressung_LG_Braunschweig.txt)
 
-37. **Stefan Beck:**
+39. **Stefan Beck:**
     - **Partei-Status:** 🔴 **DIREKT AfD** (Ehem. Landesschatzmeister RLP).
     - **Urteil:** Veruntreuung von Parteigeldern.
     - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/60_Stefan_Beck_Untreue_LG_Mainz.txt)
 
-38. **Jörg Meuthen:**
+40. **Jörg Meuthen:**
     - **Partei-Status:** 🔴 **DIREKT AfD** (Ehemaliger Bundessprecher und Bundesvorsitzender).
     - **Urteil:** Verurteilung der AfD zu 269.400 Euro Strafzahlung wegen Annahme illegaler Schweizer Spenden.
     - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/62_Joerg_Meuthen_Spendenaffaere_BVerwG.txt)
 
-39. **Guido Reil:**
+41. **Guido Reil:**
     - **Partei-Status:** 🔴 **DIREKT AfD** (Mitglied des Europaparlaments [MdEP] und Bundesvorstands).
     - **Urteil:** Verurteilung der AfD zu 223.500 Euro Bußgeld wegen illegaler verdeckter Schweizer Wahlkampfwerbung.
     - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/63_Guido_Reil_Spendenaffaere_BVerwG.txt)
 
-40. **Daniela W.:**
+42. **Daniela W.:**
     - **Partei-Status:** 🔴 **DIREKT AfD** (Ehemalige AfD-Gemeinderätin in Sachsen).
     - **Urteil:** Geldstrafe wegen Versicherungsbetrugs und Urkundenfälschung.
     - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/65_Daniela_W_Versicherungsbetrug_AG_Dresden.txt)
+
+43. **Stefan Räpple:**
+    - **Partei-Status:** 🔴 **DIREKT AfD** (Ehemaliger MdL).
+    - **Urteil:** Geldstrafe wegen unberechtigter Erlangung von Corona-Subventionen (AG Offenburg).
+    - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/72_Stefan_Raepple_Corona_Subventionsbetrug_AG_Offenburg.txt)
 
 ---
 
 ### Waffenbesitz & Sonstige Delikte
 
-41. **Philip Steinbeck:**
+44. **Philip Steinbeck:**
     - **Partei-Status:** 🔴 **DIREKT AfD** (Gemeindevertreter).
     - **Urteil:** 3 Jahre 10 Monate Haft (Kriegswaffenbesitz).
     - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/16_Steinbeck_Waffen_LG_Schwerin.txt)
 
-42. **Stephan Brandner:**
+45. **Stephan Brandner:**
     - **Partei-Status:** 🔴 **DIREKT AfD** (MdB).
     - **Urteil:** Strafbefehl wegen Beleidigung.
     - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/17_Brandner_Beleidigung_AG_Gera.txt)
 
-43. **Matthias Moosdorf:**
+46. **Matthias Moosdorf:**
     - **Partei-Status:** 🔴 **DIREKT AfD** (MdB).
     - **Status:** Verfahren wegen Hitlergruß im Bundestag.
     - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/18_Moosdorf_Hitlergruss_BT.txt)
 
-44. **Thomas Seitz:**
+47. **Thomas Seitz:**
     - **Partei-Status:** 🔴 **DIREKT AfD** (MdB).
     - **Urteil:** Entlassung aus dem Staatsdienst wegen Rechtsextremismus.
     - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/26_Seitz_Richteramt_Entlassung_DGH_Karlsruhe.txt)
 
-45. **Jessica Bießmann:**
+48. **Jessica Bießmann:**
     - **Partei-Status:** 🔵 **INDIREKT AfD**.  
       *Begründung des AfD-Bezugs:* Ursprünglich MdA für die AfD Berlin, wurde nach Publikwerden von NS-Fotos (Hitlerweinflaschen) parteiintern gerügt und agierte danach im parteinahen rechtsextremen Vorfeld.
     - **Urteil:** Parteischiedsgerichtlicher Ausschluss.
     - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/37_Jessica_Biessmann_Hitlerwein_AG_Tiergarten.txt)
 
-46. **Heinrich Fiechtner:**
+49. **Heinrich Fiechtner:**
     - **Partei-Status:** 🔴 **DIREKT AfD** (Ehemaliger MdL).
     - **Urteil:** Geldstrafe wegen Polizistenbeleidigung.
     - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/40_Heinrich_Fiechtner_Beleidigung_AG_Stuttgart.txt)
 
-47. **Jens Maier:**
+50. **Jens Maier:**
     - **Partei-Status:** 🔴 **DIREKT AfD** (Ehemaliger MdB).
     - **Urteil:** Zwangspensionierung aus Richteramt durch BGH.
     - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/35_Jens_Maier_Richter_Ruhestand_DG_Leipzig.txt)
 
-48. **Alice Weidel:**
+51. **Alice Weidel:**
     - **Partei-Status:** 🔴 **DIREKT AfD** (Co-Bundesvorsitzende).
     - **Status:** Ermittlungen zur "E-Mail-Affäre" (Marionetten-Brief).
     - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/42_Alice_Weidel_Email_Affaere_Metadaten.txt)
 
-49. **Udo Stein:**
+52. **Udo Stein:**
     - **Partei-Status:** 🔴 **DIREKT AfD** (MdL).
     - **Urteil:** Zwangeinweisung & Waffenentzug nach Amokdrohung.
     - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/43_Udo_Stein_Waffengesetz_Landtag.txt)
 
-50. **Siegbert Droese:**
+53. **Siegbert Droese:**
     - **Partei-Status:** 🔴 **DIREKT AfD** (Ehemaliger MdB).
     - **Status:** Ermittlungen wegen Wolfsschanze-NS-Pose.
     - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/44_Siegbert_Droese_NS_Provokation.txt)
 
-51. **Doris von Sayn-Wittgenstein (ehem. Landeschefin Schleswig-Holstein):**
+54. **Doris von Sayn-Wittgenstein (ehem. Landeschefin Schleswig-Holstein):**
     - **Partei-Status:** **INDIREKT AfD** (Ehemalige Landesvorsitzende, disziplinarischer Ausschluss wegen verdeckter Unterstützung von Holocaustleugner-Vereinen).
     - **Urteil:** Ausschluss durch das Bundesschiedsgericht und LG Berlin rechtkräftig bestätigt.
     - **Quelle/Beleg:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/46_Doris_Sayn_Wittgenstein_Rechtsextremismus_Ausschluss.txt)
 
-52. **Heiko Hecht (ehem. Kreisvorstand):**
+55. **Heiko Hecht (ehem. Kreisvorstand):**
     - **Partei-Status:** **DIREKT AfD** (Lokalpolitiker und Vorstandsmitglied in Berlin-Mitte).
     - **Delikt:** Nötigung, Stalking und Beleidigung.
     - **Urteil:** Rechtskräftige Geldstrafe.
@@ -304,70 +319,86 @@ Dieses Dokument ist eine umfassende Zusammenstellung gerichtlicher Urteile, rech
 
 ### Spionage, Landesverrat, Hochverrat & Sabotage
 
-53. **Jian G. (persönlicher Büromitarbeiter von Maximilian Krah, MdB/MdEP):**
+56. **Jian G. (persönlicher Büromitarbeiter von Maximilian Krah, MdB/MdEP):**
     - **Partei-Status:** **INDIREKT AfD** (Persönlicher Büromitarbeiter eines MEP/Bundesvorstandsmitglieds, kein direktes Mandat).
     - **Delikt:** Geheimdienstliche Agententätigkeit in einem besonders schweren Fall (§ 99 StGB) für einen chinesischen Geheimdienst.
     - **Urteil/Strafmaß:** Freiheitsstrafe von **vier Jahren und neun Monaten** (ohne Bewährung) durch das OVG Dresden am 30. September 2025. Rechtskräftig.
     - **Quelle/Beleg:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/27_Jian_G_Spionage_Krah_OLG_Dresden.txt)
 
-54. **Maximilian Krah:**
+57. **Maximilian Krah:**
     - **Partei-Status:** 🔴 **DIREKT AfD** (Mitglied des AfD-Bundesvorstands und ehem. MEP-Spitzenkandidat).
     - **Delikt:** Verdacht der geheimdienstlichen Agententätigkeit, Bestechlichkeit und Geldwäsche im Interest Russlands und Chinas (u.a. „Voice of Europe“-Affäre).
     - **Urteil/Strafmaß:** Laufendes Ermittlungsverfahren der Bundesanwaltschaft (Stand 2026), wiederholte Aufhebung der Immunität.
     - **Quelle/Beleg:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/28_Maximilian_Krah_Ermittlungsverfahren_GBA.txt)
 
-55. **Gunnar Lindemann (MdA Berlin):**
+58. **Gunnar Lindemann (MdA Berlin):**
     - **Partei-Status:** 🔴 **DIREKT AfD** (Abgeordneter im Berliner Abgeordnetenhaus).
     - **Delikt:** Verdacht illegaler Finanzierungen aus Russland und illegale Reisen im besetzten Donbas im Kreml-Interesse.
     - **Status:** Laufendes Disziplinarverfahren des Berliner Abgeordnetenhauses.
     - **Quelle/Beleg:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/47_Gunnar_Lindemann_Finanzen_Donbas.txt)
 
-56. **Birgit Malsack-Winkemann (ehem. Richterin & MdB):**
+59. **Birgit Malsack-Winkemann (ehem. Richterin & MdB):**
     - **Partei-Status:** 🔴 **DIREKT AfD** (Ehemalige Bundestagsabgeordnete und Mitglied des Bundesgerichtshofs-Dienstgerichts).
     - **Delikt:** Vorbereitung eines hochverräterischen Unternehmens (§ 83 StGB) und Mitgliedschaft in der terroristischen Reichsbürger-Vereinigung um Heinrich XIII. Prinz Reuß.
     - **Status:** Großprozess, Anklageerhebung durch den GBA, Untersuchungshaft.
     - **Quelle/Beleg:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/36_Birgit_Malsack_Winkemann_Reichsbuerger_BGH.txt)
 
-57. **Maximilian T. (ehem. AfD-Mitarbeiter im Bundestag):**
+60. **Maximilian T. (ehem. AfD-Mitarbeiter im Bundestag):**
     - **Partei-Status:** **INDIREKT AfD** (Persönlicher Referent des AfD-MdB Jan Nolte, kein direktes Mandat).
     - **Delikt:** Terrorverdacht und Vorbereitung einer schweren staatsgefährdenden Gewalttat im Umfeld des rechtsextremen Bundeswehr-Terroristen Franco A.
     - **Status:** Disziplinarische Entlassung, Strafverfahren.
     - **Quelle/Beleg:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/48_Maximilian_T_Terrorverdacht_Franco_A.txt)
 
-58. **Kurt H. (Kommunalpolitiker Grimma):**
+61. **Kurt H. (Kommunalpolitiker Grimma):**
     - **Partei-Status:** 🔴 **DIREKT AfD** (Amtierender AfD-Stadtratsabgeordneter in Grimma, Sachsen).
     - **Delikt:** Mitgliedschaft in einer terroristischen Vereinigung („Sächsische Separatisten“, § 129a StGB) und bewaffnete Umsturzvorbereitung.
     - **Status:** Festgenommen im November 2024, GSG-9-Widerstand, U-Haft und laufendes Terrorismusverfahren.
     - **Quelle/Beleg:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/49_Kurt_H_Saechsische_Separatisten_Terror_GBA.txt)
 
-59. **Tobias Laue (Bandidos-Rocker & Hausausweis-Sperrung):**
+62. **Tobias Laue (Bandidos-Rocker & Hausausweis-Sperrung):**
     - **Partei-Status:** 🔵 **INDIREKT AfD**.  
       *Begründung des AfD-Bezugs:* Laue wurde gezielt von dem AfD-Abgeordneten Peter Bohnhof als Mitarbeiter eingestellt. Die AfD-Fraktion forderte Zugang zum Sicherheitsbereich des Bundestags für einen bekannten Funktionär der verbotenen Rockergruppe "Bandidos".
     - **Urteil:** Verweigerung des Bundestags-Hausausweises aus Sicherheitsbedenken bestätigt.
     - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/61_Tobias_Laue_Bandidos_Bundestag.txt)
 
-60. **Thüringer Landtag (Sabotage des Verfassungsorgans):**
+63. **Thüringer Landtag (Sabotage des Verfassungsorgans):**
     - **Partei-Status:** 🔴 **DIREKT AfD** (Alterspräsident Jürgen Treutler).
     - **Urteil:** Der Thüringer Verfassungsgerichtshof (Az. VerfGH 31/24) urteilte, dass der AfD-Alterspräsident Treutler systematisch die Geschäftsordnung missbrauchte, um die Konstituierung des Parlaments verfassungswidrig zu blockieren.
     - **Quelle:** [LTO-Bericht](https://www.lto.de/recht/hintergruende/h/verfassungsgerichtshof-thueringen-entscheidung-konstituierende-sitzung-landtag-alterspraesident-blockade/)
+
+64. **Petr Bystron:**
+    - **Partei-Status:** 🔴 **DIREKT AfD** (MdB und Spitzenkandidat Europawahl).
+    - **Status:** Großrazzien und Aufhebung der Immunität wegen Bestechlichkeit (§ 108e StGB), Geldwäsche und russischer Einflussnahme.
+    - **Quelle/Beleg:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/70_Petr_Bystron_Bestechung_Razzia_GBA.txt)
+
+65. **Jörg S.:**
+    - **Partei-Status:** 🔵 **INDIREKT AfD**.  
+      *Begründung des AfD-Bezugs:* Jörg S. war direkter Angestellter im Bundestagsbüro des AfD-Abgeordneten Karsten Hilse und nutzte seine privilegierte parlamentarische Stellung, um Widerstandshandlungen am Rande von Demonstrationen auszuführen.
+    - **Urteil:** Geldstrafe wegen Widerstands gegen Polizeibeamte und Hausfriedensbruchs (AG Tiergarten).
+    - **Quelle/Beleg:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/74_Joerg_S_Mitarbeiter_Hilse_Widerstand_AG_Tiergarten.txt)
+
+66. **Uwe L.:**
+    - **Partei-Status:** 🔴 **DIREKT AfD** (Ehemaliger AfD-Gemeinderatskandidat).
+    - **Status:** Staatsschutzverfahren vor dem GBA/BGH wegen Mitgliedschaft in der terroristischen Reichsbürger-Vereinigung von Prinz Reuß.
+    - **Quelle/Beleg:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/75_Uwe_L_Reichsbuerger_Terror_GBA.txt)
 
 ---
 
 ### SONDERKATEGORIE: Besitz und Verbreitung von Kinderpornografie & Sexualdelikte
 
-61. **Sven W.:**
+67. **Sven W.:**
     - **Partei-Status:** 🔴 **DIREKT AfD** (Ehemaliges Kreisvorstandsmitglied der AfD Weimarer Land, Thüringen).
     - **Delikt:** Besitz und Verbreitung jugend- und kinderpornografischer Inhalte (§ 184b StGB) auf privaten Festplatten.
     - **Urteil:** Rechtskräftige Freiheitsstrafe auf Bewährung durch das AG Weimar.
     - **Quelle/Beleg:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/58_Sven_W_Kinderpornografie_AG_Weimar.txt)
 
-62. **René P.:**
+68. **René P.:**
     - **Partei-Status:** 🔴 **DIREKT AfD** (Gewählter AfD-Gemeinderat in Nordharz, Sachsen-Anhalt).
     - **Delikt:** Verdacht auf Besitz und Verbreitung von Kinderpornografie (§ 184b StGB).
     - **Status:** Ermittlungsverfahren, Mandatsniederlegung und Parteiaustritt nach Auffinden von Material durch IT-Dienstleister (2019).
     - **Quelle/Beleg:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/67_Rene_P_Kinderpornografie_Ermittlung.txt)
 
-63. **Ehem. AfD-Ratsherr Hannover:**
+69. **Ehem. AfD-Ratsherr Hannover:**
     - **Partei-Status:** 🔴 **DIREKT AfD** (Ehemaliger AfD-Ratsherr im Stadtrat von Hannover).
     - **Delikt:** Verdacht auf Besitz und Beschaffung von Kinderpornografie (§ 184b StGB).
     - **Status:** Laufendes Ermittlungsverfahren der Staatsanwaltschaft Hannover (Mai 2026), Mandatsniederlegung und Parteiaustritt nach US-Behördenhinweis.
@@ -375,13 +406,13 @@ Dieses Dokument ist eine umfassende Zusammenstellung gerichtlicher Urteile, rech
 
 > 💡 **Geopolitische & Netzwerkanmerkung zur völkischen Instrumentalisierung und Epstein-Verbindung:**  
 > Während die AfD im Inland das Thema Pädokriminalität instrumentalisiert, um queere Menschen und politische Gegner zu diffamieren und härtere Gesetze einzufordern, offenbaren sich im internationalen, rechtsextremen Unterstützernetzwerk der Partei gravierende Doppelmoral-Verstrickungen.  
-> Der engste transatlantische Partner und Berater der Bundes-AfD, **Steve Bannon** (der Höcke und die AfD-Spitze im Rahmen seines rechtsextremen 'Movement'-Netzwerks strategisch coacht und mehrfach traf), pflegte eine nachweislich enge Beziehung zu dem verurteilten Sexualstraftäter **Jeffrey Epstein**. Bannon fungierte 2018 und 2019 als Epsteins inoffizieller Medienberater, besuchte ihn wiederholt im Manhattan-Townhouse und drehte über 15 Stunden exklusive Interviewaufnahmen mit ihm, um dessen Image zu rehabilitieren. Dies belegt die enge Verzahnung und gegenseitige Absicherung im rechtsextremen und verschwörungsideologischen Netzwerk des AfD-Umfeldes.
+> Der engste transatlantische Partner und Berater der Bundes-AfD, **Steve Bannon** (der Höcke und die AfD-Spitze im Rahmen seines rechtsextremen 'Movement'-Netzwerks strategisch coacht und mehrfach traf), pflegte eine nachweislich enge Beziehung zu dem verurteilten Sexualstraftäter **Jeffrey Epstein**. Bannon fungierte 2018 und 2019 als Epsteins inoffellieller Medienberater, besuchte ihn wiederholt im Manhattan-Townhouse und drehte über 15 Stunden exklusive Interviewaufnahmen mit ihm, um dessen Image zu rehabilitieren. Dies belegt die enge Verzahnung und gegenseitige Absicherung im rechtsextremen und verschwörungsideologischen Netzwerk des AfD-Umfeldes.
 
 ---
 
 ### SONDERKATEGORIE: Schwere Vergewaltigung & Sexualstraftaten
 
-64. **Philip W.:**
+70. **Philip W.:**
     - **Partei-Status:** 🔵 **INDIREKT AfD**.  
       *Begründung des AfD-Bezugs:* Philip W. ist Gründungsmitglied der JA-Organisation "Generation Deutschland" und persönlicher Mitarbeiter des bayerischen AfD-Landtagsabgeordneten Andreas Jurca. Jurca stellte den verurteilten Vergewaltiger trotz Kenntnis der Tat ein und verharmloste die Taten öffentlich als bloßes "Beziehungsdrama".
     - **Delikt:** Zweifache Vergewaltigung (§ 177 StGB) der damaligen Lebenspartnerin.
@@ -392,22 +423,22 @@ Dieses Dokument ist eine umfassende Zusammenstellung gerichtlicher Urteile, rech
 
 ## 2. Urteile und gerichtliche Beschlüsse gegen die Gesamtpartei und Landesverbände
 
-65. **Bundesamt für Verfassungsschutz vs. AfD (Gesamtpartei):**
-    - **Urteil:** Das Oberverwaltungsgericht NRW sowie das Bundesverwaltungsgericht bestätigten, dass die Gesamtpartei als **„rechtsextremistischer Verdachtsfall“** eingestufen und beobachtet werden darf.
+71. **Bundesamt für Verfassungsschutz vs. AfD (Gesamtpartei):**
+    - **Urteil:** Das Oberverwaltungsgericht NRW sowie das Bundesverwaltungsgericht bestätigten, dass die Gesamtpartei als **„rechtsextremistischer Verdachtsfall“** eingestuft und beobachtet werden darf.
     - **Quelle/Beleg:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/22_BfV_vs_AfD_Verdachtsfall_OVG_Muenster.txt)
 
-66. **Entzug von Waffenbesitzkarten (Verwaltungsgerichte bundesweit):**
+72. **Entzug von Waffenbesitzkarten (Verwaltungsgerichte bundesweit):**
     - **Urteil:** Verwaltungsgerichte (z.B. VG Düsseldorf) urteilten mehrfach, dass AfD-Mitgliedern die Waffenbesitzkarte wegen waffenrechtlicher Unzuverlässigkeit (§ 5 WaffG) entzogen werden kann.
     - **Quelle/Beleg:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/23_Waffenbesitzkarten_Entzug_VG_Duesseldorf.txt)
 
-67. **Verweigerung des Beamtenstatus (OVG Weimar, VG Berlin):**
+73. **Verweigerung des Beamtenstatus (OVG Weimar, VG Berlin):**
     - **Urteil:** Gerichte bestätigten, dass die Mitgliedschaft in als rechtsextrem eingestuften Landesverbänden ausreicht, um Bewerber wegen verfassungsrechtlicher Treuepflichtverletzungen vom Staatsdienst auszuschließen.
     - **Quelle/Beleg:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/24_Beamtenstatus_Ausschluss_OVG_Weimar.txt)
 
-68. **Ausschluss von Parlamentsrechten (Bundesverfassungsgericht):**
+74. **Ausschluss von Parlamentsrechten (Bundesverfassungsgericht):**
     - **Urteil:** Klagen der AfD gegen die Nichtwahl ihrer Kandidaten als Ausschussvorsitzende im Bundestag wurden abgelehnt (parlamentarisches Selbstorganisationsrecht).
     - **Quelle/Beleg:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/25_Bundestag_Ausschussvorsitz_BVerfG.txt)
 
-69. **Strafzahlungen wegen illegaler Parteispenden (BVerwG):**
+75. **Strafzahlungen wegen illegaler Parteispenden (BVerwG):**
     - **Urteil:** Klagen der AfD gegen die Festsetzung von Strafen von über **1,08 Millionen Euro** durch die Bundestagsverwaltung wegen Annahme illegaler Auslandsspenden (Weidel Schweizer Pharma-Gelder, Liechtenstein Gold) abgewiesen.
     - **Quelle/Beleg:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/21_AfD_Strafzahlungen_Spendenaffaere_BVerwG.txt)

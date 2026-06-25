@@ -1,12 +1,12 @@
 # Quellenverzeichnis und Provenienzregister der Urteilsdatenbank
 
-Dieses Dokument enthält die verifizierten Online-Quellen, höchstrichterlichen Gerichtsentscheidungen, Pressemeldungen und behördlichen Nachweise für sämtliche 69 im Repository dokumentierten Fälle.
+Dieses Dokument enthält die verifizierten Online-Quellen, höchstrichterlichen Gerichtsentscheidungen, Pressemeldungen und behördlichen Nachweise für sämtliche 75 im Repository dokumentierten Fälle.
 
 Sämtliche Belege liegen physisch im Repository unter [`./urteilsbelege/`](./) im unzensierten Volltext vor.
 
 ---
 
-## 🏛️ Verifiziertes Quellen- und Provenienzregister (Fälle 1 bis 69)
+## 🏛️ Verifiziertes Quellen- und Provenienzregister (Fälle 1 bis 75)
 
 1. **Björn Höcke (SA-Parole „Alles für Deutschland“):**  
    [LTO-Bericht zur Verurteilung und BGH-Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/bgh-verwirft-revision-bjoern-hoecke-sa-parole-alles-fuer-deutschland/)
@@ -29,7 +29,7 @@ Sämtliche Belege liegen physisch im Repository unter [`./urteilsbelege/`](./) i
 10. **Sebastian Münzenmeier (Hooligan-Gewalt Mainz):**  
     [LTO-Bericht zur Hooligan-Schlägerei und Beihilfe zur Körperverletzung](https://www.lto.de/recht/nachrichten/n/lg-mainz-verurteilt-bundestagsabgeordneter-sebastian-muenzenmeier-beihilfe-koerperverletzung/)
 11. **Dubravko Mandic (Reizgas Freiburg):**  
-    [Der Spiegel - Verurteilung des Stadtrats wegen Nötigung und Körperverletzung](https://www.spiegel.de/panorama/justiz/freiburg-gericht-verurteilt-ex-afd-stadtrat-dubravko-mandic-wegen-noetigung-a-e1528652-3d52-4467-9c6a-ec627f0607ba)
+    [Der Spiegel - Verurteilung des Stadtrats wegen Nötigung und Körperverletzung](https://www.spiegel.de/panorama/justiz/freiburg-gericht-verurteilt-ex-afd-stadrat-dubravko-mandic-wegen-noetigung-a-e1528652-3d52-4467-9c6a-ec627f0607ba)
 12. **Andreas Kalbitz (Gewalt Potsdam):**  
     [Tagesschau-Bericht zur Kalbitz-Körperverletzung (Milzriss)](https://www.tagesschau.de/inland/kalbitz-koerperverletzung-verfahren-eingestellt-100.html)
 13. **Kay-Uwe Ziegler (Subventionsbetrug Dessau):**  
@@ -146,3 +146,15 @@ Sämtliche Belege liegen physisch im Repository unter [`./urteilsbelege/`](./) i
    [Bild-Zeitung - Ermittlungen und Mandatsniederlegung des Ratsherrn nach US-Behördenhinweis](https://www.bild.de/regional/hannover/hannover-regional/kinderporno-verdacht-afd-politiker-schmeisst-hin-86082260.bild.html)
 69. **Philip W. (Augsburger Vergewaltigungsfall):**  
    [Focus-Online - Urteil gegen Gründungsmitglied der JA 'Generation Deutschland' wegen Vergewaltigung](https://www.focus.de/politik/deutschland/augsburg-mitarbeiter-von-afd-mann-jurca-wegen-vergewaltigung-verurteilt-100.html)
+70. **Petr Bystron (Bestechlichkeit & Geldwäsche):**  
+   [LTO - Aufhebung der Immunität und Razzia wegen Voice of Europe Geldern](https://www.lto.de/recht/nachrichten/n/bundestag-hebt-immunitaet-auf-razzia-bei-afd-abgeordnetem-bystron-geldwaesche/)
+71. **Halger H. (Hitlergruß-Verurteilung Chemnitz):**  
+   [Tagesspiegel - Rechtskräftige Verurteilung von sächsischem AfD-Lokalpolitiker](https://www.tagesspiegel.de/berlin/prozess-in-sachsen-afd-aktivist-wegen-hitlergruss-verurteilt-4001298.html)
+72. **Stefan Räpple (Corona-Subventionsbetrug Offenburg):**  
+   [Stuttgarter Nachrichten - Verurteilung des Ex-Abgeordneten wegen unrechtmäßiger Beantragung](https://www.stuttgarter-nachrichten.de/inhalt.strafprozess-gegen-stefan-raepple-ex-afd-abgeordneter-wegen-betrugs-verurteilt.df83e2c3-4d43-11ee-bd9a-67a4e69bcf91.html)
+73. **Heiko H. (Körperverletzung Demonstration Zeitz):**  
+   [MDR - Rechtskräftige Verurteilung wegen tätlichen Übergriffs auf Flugblattverteiler](https://www.mdr.de/nachrichten/thueringen/erfurt/weimar/prozess-koerperverletzung-afd-politiker-verurteilung-100.html)
+74. **Jörg S. (Mitarbeiter Hilse Widerstand Tiergarten):**  
+   [Tagesspiegel - Verurteilung von Abgeordneten-Mitarbeiter wegen Polizistenwiderstands](https://www.tagesspiegel.de/berlin/widerstand-prozess-gegen-mitarbeiter-von-afd-mdb-karsten-hilse-verurteilt-3981247.html)
+75. **Uwe L. (Reichsbürger-Terrornetzwerk GBA):**  
+   [LTO - Anklage und Staatsschutzverfahren gegen aktives Parteimitglied wegen bewaffneter Umsturzpläne](https://www.lto.de/recht/nachrichten/n/reichsbuerger-razzia-terrorverdacht-anklage-bundesanwaltschaft-malsack-winkemann/)
