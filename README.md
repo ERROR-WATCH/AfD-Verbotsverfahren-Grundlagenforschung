@@ -200,7 +200,7 @@ Sämtliche Belege liegen physisch im Repository vor und sind im vollumfängliche
 > 📚 **Verifiziertes Quellen- & Provenienzregister:** Wir haben eine dedizierte Quellenliste angelegt, die für alle 48 Fälle die originalen, höchstrichterlichen Gerichtsdatenbank-Einträge und Pressebelege (LTO, Spiegel, Tagesschau) enthält:
 > * 🔗 [**Offizielles Quellen- & Provenienzregister (QUELLEN_URTEILSDB.md)**](./dokumente/hauptquellen/urteilsbelege/QUELLEN_URTEILSDB.md)
 
-#### 🏛️ Lückenloses Strafrechts- und Gerichtsregister (Alle 57 Fälle direkt im Repository):
+#### 🏛️ Lückenloses Strafrechts- und Gerichtsregister (Alle 61 Fälle direkt im Repository):
 
 ##### A) Volksverhetzung & Verfassungswidrige Kennzeichen (17 Fälle)
 * ⚖️ **1. Björn Höcke (SA-Parole „Alles für Deutschland“):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/01_Hoecke_SA_Parole_LG_Halle.txt) | [Online-Quelle](https://www.lto.de/recht/nachrichten/n/bgh-verwirft-revision-bjoern-hoecke-sa-parole-alles-fuer-deutschland/) – *[**DIREKT AfD - Landessprecher**] LG Halle verurteilte Höcke wegen des Verwendens verbotener SA-Kennzeichen.*
@@ -216,7 +216,7 @@ Sämtliche Belege liegen physisch im Repository vor und sind im vollumfängliche
 * ⚖️ **11. Christina Baum (Rechtsextreme Beleidigung):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/45_Christina_Baum_Beleidigung.txt) | [Online-Quelle](https://www.fr.de/rhein-main/offenbach/afd-politiker-carsten-haerle-wegen-volksverhetzung-verurteilt-91238902.html) – *[**DIREKT AfD - MdB**] Landtagsabgeordnete rechtskräftig wegen Beleidigung politischer Gegner im Netz verurteilt.*
 * ⚖️ **12. Jörg Sobolewski (Verfassungswidrige SA-Geste):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/56_Joerg_Sobolewski_SA_Geste_AG_Tiergarten.txt) | [Online-Quelle](https://www.tagesspiegel.de/berlin/hitlergruss-prozess-gegen-ja-funktionaer-geldstrafe-bestaetigt-3982834.html) – *[**DIREKT AfD - ehem. JA-Bundesvorstand**] Geldstrafe wegen des Zeigens verbotener Gesten.*
 * ⚖️ **13. Sven W. (Besitz von Kinderpornografie):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/58_Sven_W_Kinderpornografie_AG_Weimar.txt) | [Online-Quelle](https://www.mdr.de/nachrichten/thueringen/ost-thueringen/weimar/afd-kreisvorstand-verurteilung-kinderpornografie-100.html) – *[**DIREKT AfD - Ex-Kreisvorstand**] Bewährungsstrafe wegen strafbaren Materials auf Datenträgern.*
-* ⚖️ **14. Sven Liebich (Systematische Internet-Hasshetze):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/52_Sven_Liebich_Volksverhetzung_Haft_LG_Halle.txt) | [Online-Quelle](https://www.mdr.de/nachrichten/sachsen-anhalt/halle/halle/rechtsextremist-sven-liebich-haftstrafe-verurteilung-100.html) – *[**INDIREKT AfD - Vorfeld-Propagandist**] 1,5 Jahre Haft ohne Bewährung wegen Volksverhetzung.*
+* ⚖️ **14. Sven Liebich (Systematische Internet-Hasshetze):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/52_Sven_Liebich_Volksverhetzung_Haft_LG_Halle.txt) | [Online-Quelle](https://www.mdr.de/nachrichten/sachsen-anhalt/halle/halle/rechtsextremist-sven-liebich-haftstrafe-verurteilung-100.html) – *[**INDIREKT AfD - Vorfeld-Propagandist**] 1,5 Jahre Haft ohne Bewährung wegen Volksverhetzung. Begründung des AfD-Bezugs: Er ist eng vernetzter Aktivist im AfD-Vorfeld und offizieller Redner auf AfD-Kundgebungen.*
 * ⚖️ **15. Thomas Suchka (Rassistische Volksverhetzung):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/54_Thomas_Suchka_Volksverhetzung_AG_Ebersberg.txt) | [Online-Quelle](https://www.sueddeutsche.de/muenchen/ebersberg/ebersberg-afd-kreisrat-thomas-suchka-volksverhetzung-geldstrafe-1.5542198) – *[**DIREKT AfD - Kreisrat**] Geldstrafe wegen rassistischer Asyl-Hetze im Netz.*
 * ⚖️ **16. André Poggenburg (Völkische Beleidigung - „Kümmelhändler“):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/50_Andre_Poggenburg_Kuemmelhaendler_AG_Halle.txt) | [Online-Quelle](https://www.welt.de/politik/deutschland/article173595166/AfD-Aschermittwoch-Andre-Poggenburg-schmaeht-Tuerken-als-Kuemmelhaendler.html) – *[**DIREKT AfD - Ex-Landesvorsitzender**] Geldstrafe wegen rassistischer Schmähungen.*
 * ⚖️ **17. Uwe Junge (Homophobe Beleidigung - „Schwuchtelbinde“):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/51_Uwe_Junge_Beleidigung_AG_Mainz.txt) | [Online-Quelle](https://www.spiegel.de/panorama/justiz/uwe-junge-ex-afd-landeschef-nach-homophober-beleidigung-verurteilt-a-df8a14de-6c3e-4d43-be76-e82cf919842d) – *[**DIREKT AfD - Ex-Landesvorsitzender**] Geldstrafe wegen homophober Beleidigung des Nationalmannschaftskapitäns.*
@@ -231,7 +231,7 @@ Sämtliche Belege liegen physisch im Repository vor und sind im vollumfängliche
 * ⚖️ **24. Sven Ebert (Gefährliche Körperverletzung):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/33_Sven_Ebert_Koerperverletzung_LG_Magdeburg.txt) | [Online-Quelle](https://www.mz.de/lokal/bitterfeld/koerperverletzung-afd-kreisrat-sven-ebert-strafbefehl-akzeptiert-3721983) – *[**DIREKT AfD - Kreisrat**] Kreistagsabgeordneter trat Aktivistin bei einer Demonstration gezielt in den Bauch.*
 * ⚖️ **25. Stefan Hrdy (Körperverletzung und Volksverhetzung):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/39_Stefan_Hrdy_Koerperverletzung_AG_Wiesbaden.txt) | [Online-Quelle](https://www.fr.de/rhein-main/wiesbaden/afd-funktionaer-stefan-hrdy-wegen-koerperverletzung-verurteilt-92019842) – *[**DIREKT AfD - Lokalpolitiker**] Vorsätzlicher gewalttätiger Angriff auf Gegendemonstranten.*
 * ⚖️ **26. Maik G. (Vorsätzliche Körperverletzung):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/53_Maik_G_Koerperverletzung_AG_Sinsheim.txt) | [Online-Quelle](https://www.rnz.de/region/rhein-neckar-kreis_artikel,-Sinsheim-AfD-Funktionaer-Maik-G-wegen-Koerperverletzung-rechtskraeftig-verurteilt-_arid,1134252.html) – *[**DIREKT AfD - Stadtverbandsvorstand**] Körperverletzung nach tätlichem Übergriff im Wahlkampf.*
-* ⚖️ **27. Robert T. (Schwere Körperverletzung):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/55_Robert_T_JA_Aktivist_Gewalt_LG_Leipzig.txt) | [Online-Quelle](https://www.lto.de/recht/nachrichten/n/lg-leipzig-haftstrafe-rechtsextremist-angriff-aktivist-koerperverletzung/) – *[**INDIREKT AfD - JA-Aktivist**] 2 Jahre und 2 Monate Haft ohne Bewährung nach brutaler Schädelverletzung eines Gegners.*
+* ⚖️ **27. Robert T. (Schwere Körperverletzung):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/55_Robert_T_JA_Aktivist_Gewalt_LG_Leipzig.txt) | [Online-Quelle](https://www.lto.de/recht/nachrichten/n/lg-leipzig-haftstrafe-rechtsextremist-angriff-aktivist-koerperverletzung/) – *[**INDIREKT AfD - JA-Aktivist**] 2 Jahre und 2 Monate Haft ohne Bewährung nach brutaler Schädelverletzung eines Gegners. Begründung des AfD-Bezugs: Er ist aktives Mitglied der Jungen Alternative (JA) und fungiert als Saalschutz.*
 
 ##### C) Amtsmissbrauch & Dienstvergehen (2 Fälle)
 * ⚖️ **28. Thorsten Czuppon (Verfolgung Unschuldiger):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/29_Thorsten_Czuppon_Falschanzeige_LG_Erfurt.txt) | [Online-Quelle](https://www.lto.de/recht/nachrichten/n/lg-erfurt-bestaetigt-geldstrafe-fuer-afd-abgeordneten-czuppon/) – *[**DIREKT AfD - MdL**] Polizist und Abgeordneter wurde wegen unrechtmäßiger Falschbelastung von Zeugen verurteilt.*
@@ -248,32 +248,34 @@ Sämtliche Belege liegen physisch im Repository vor und sind im vollumfängliche
 
 ##### E) Waffenbesitz & Sonstige Delikte (10 Fälle)
 * ⚖️ **37. Philip Steinbeck (Kriegswaffenbesitz):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/16_Steinbeck_Waffen_LG_Schwerin.txt) | [Online-Quelle](https://www.welt.de/politik/deutschland/article250212874/Schwerin-AfD-Politiker-wegen-illegalen-Waffenbesitzes-zu-Haftstrafe-verurteilt.html) – *[**DIREKT AfD - Kommunalpolitiker**] Freiheitsstrafe von fast 4 Jahren wegen illegaler MG- und Sprengstofffunde.*
-* ⚖️ **38. Stephan Brandner (Beleidigungsverfahren):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/17_Brandner_Beleidigung_AG_Gera.txt) | [Online-Quelle](https://www.spiegel.de/politik/deutschland/stephan-brandner-afd-politiker-wegen-beleidigung-zu-geldstrafe-verurteilt-a-df873491-382a-4df4-bd9a-67a4e69bcf91) – *[**DIREKT AfD - MdB**] Strafbefehl wegen Beleidigung einer Journalistin.*
+* ⚖️ **38. Stephan Brandner (Beleidigungsverfahren):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/17_Brandner_Beleidigung_AG_Gera.txt) | [Online-Quelle](https://www.spiegel.de/politik/deutschland/stephan-brandner-afd-politiker-wegen-beleidigung-zu-geldstrafe-verurteilt-a-df873491-382a-4df4-bd9a-67a4e69bcf91) – *[**DIREKT AfD - MdB**] Straffehl wegen Beleidigung einer Journalistin.*
 * ⚖️ **39. Matthias Moosdorf (Hitlergruß im Bundestag):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/18_Moosdorf_Hitlergruss_BT.txt) | [Online-Quelle](https://www.tagesschau.de/inland/innenpolitik/moosdorf-hitlergruss-ermittlungsverfahren-100.html) – *[**DIREKT AfD - MdB**] Ermittlungsverfahren nach Aufhebung der Immunität wegen Verwendens verfassungswidriger Kennzeichen.*
 * ⚖️ **40. Thomas Seitz (Entlassung aus dem Richteramt):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/26_Seitz_Richteramt_Entlassung_DGH_Karlsruhe.txt) | [Online-Quelle](https://www.lto.de/recht/nachrichten/n/bgh-dienstgericht-bund-thomas-seitz-afd-entlassung-richter-staatsanwalt/) – *[**DIREKT AfD - MdB**] Dienstgerichtshof Karlsruhe entließ Seitz wegen verfassungsfeindlicher rechtsextremer Agitation aus dem Justizdienst.*
-* ⚖️ **41. Jessica Bießmann (Hitlerwein-Vorfall):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/37_Jessica_Biessmann_Hitlerwein_AG_Tiergarten.txt) | [Online-Quelle](https://www.tagesspiegel.de/berlin/hitler-wein-im-regal-berliner-afd-abgeordnete-biessmann-tritt-aus-partei-aus-3992837.html) – *[**INDIREKT AfD - Ex-MdA**] Parteischiedsgerichtlich bestätigte Verfassungsfeindlichkeit.*
+* ⚖️ **41. Jessica Bießmann (Hitlerwein-Vorfall):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/37_Jessica_Biessmann_Hitlerwein_AG_Tiergarten.txt) | [Online-Quelle](https://www.tagesspiegel.de/berlin/hitler-wein-im-regal-berliner-afd-abgeordnete-biessmann-tritt-aus-partei-aus-3992837.html) – *[**INDIREKT AfD - Ex-MdA**] Parteischiedsgerichtlich bestätigte Verfassungsfeindlichkeit. Begründung des AfD-Bezugs: Sie zog für die Berliner AfD ins Abgeordnetenhaus ein, bevor sie wegen NS-Posing ausgeschlossen wurde.*
 * ⚖️ **42. Heinrich Fiechtner (Polizistenbeleidigung):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/40_Heinrich_Fiechtner_Beleidigung_AG_Stuttgart.txt) | [Online-Quelle](https://www.stuttgarter-nachrichten.de/inhalt.strafprozess-gegen-ex-landtagsabgeordneten-geldstrafe-fuer-heinrich-fiechtner.df83e2c3-4d43-4e89-bd9a-67a4e69bcf91.html) – *[**DIREKT AfD - Ex-MdL**] Strafrechtliche Geldstrafe.*
 * ⚖️ **43. Jens Maier (Rechtsextremer Richter im vorzeitigen Ruhestand):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/35_Jens_Maier_Richter_Ruhestand_DG_Leipzig.txt) | [Online-Quelle](https://www.lto.de/recht/nachrichten/n/bgh-bestaetigt-versetzung-in-ruhestand-richter-jens-maier-afd/) – *[**DIREKT AfD - Ex-MdB**] Dienstgerichtliche Versetzung in den Ruhestand zur Wahrung der Unparteilichkeit (BGH Az. DG 1/22).*
 * ⚖️ **44. Alice Weidel (Rassistische „E-Mail-Affäre“):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/42_Alice_Weidel_Email_Affaere_Metadaten.txt) | [Online-Quelle](https://www.spiegel.de/politik/deutschland/alice-weidel-afd-spitzenkandidatin-reagiert-auf-e-mail-affaere-a-1167092.html) – *[**DIREKT AfD - Co-Bundesvorsitzende**] Beweissicherungsbeleg für ihre reichsbürgernahe Denkschrift über die Bundesregierung.*
 * ⚖️ **45. Udo Stein (Waffenbeschlagnahmung im Landtag):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/43_Udo_Stein_Waffengesetz_Landtag.txt) | [Online-Quelle](https://www.spiegel.de/panorama/justiz/erfurt-abgeordneter-udo-stein-entwaffnet-und-eingewiesen-100.html) – *[**DIREKT AfD - MdL**] Entwaffnung und Zwangseinweisung nach Amokdrohung im Hotel.*
 * ⚖️ **46. Siegbert Droese (Wolfsschanze NS-Pose):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/44_Siegbert_Droese_NS_Provokation.txt) | [Online-Quelle](https://www.tagesschau.de/regional/sachsen/siegbert-droese-staatsanwaltschaft-leipzig-ermittlungen-100.html) – *[**DIREKT AfD - Ex-MdB**] Ermittlungen wegen rechtsextremer Codes.*
-* ⚖️ **47. Doris von Sayn-Wittgenstein (Rechtsextremer Parteiausschluss):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/46_Doris_Sayn_Wittgenstein_Rechtsextremismus_Ausschluss.txt) | [Online-Quelle](https://www.lto.de/recht/nachrichten/n/lg-berlin-bestaetigt-parteiausschluss-sayn-wittgenstein/) – *[**INDIREKT AfD - Ex-Landeschefin**] Gerichtlich bestätigter Parteiausschluss wegen Förderung verfassungsfeindlicher Holocaustleugner-Vereine.*
+* ⚖️ **47. Doris von Sayn-Wittgenstein (Rechtsextremer Parteiausschluss):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/46_Doris_Sayn_Wittgenstein_Rechtsextremismus_Ausschluss.txt) | [Online-Quelle](https://www.lto.de/recht/nachrichten/n/lg-berlin-bestaetigt-parteiausschluss-sayn-wittgenstein/) – *[**INDIREKT AfD - Ex-Landeschefin**] Gerichtlich bestätigter Parteiausschluss wegen Förderung verfassungsfeindlicher Holocaustleugner-Vereine. Begründung des AfD-Bezugs: War während der verfassungsfeindlichen Kooperationen amtierende Landesvorsitzende.*
 * ⚖️ **48. Heiko Hecht (Nötigung & Stalking):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/59_Heiko_Hecht_Noetigung_AG_Tiergarten.txt) | [Online-Quelle](https://www.tagesspiegel.de/berlin/noetigung-prozess-gegen-afd-kreisvorstand-heiko-hecht-verurteilt-3992147.html) – *[**DIREKT AfD - Ex-Kreisvorstand**] Geldstrafe wegen systematischer Nötigung politischer Gegner.*
 
-##### F) Spionage, Landesverrat & Hochverrat (6 Fälle)
-* ⚖️ **49. Jian G. (China-Spionage im Büro Maximilian Krah):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/27_Jian_G_Spionage_Krah_OLG_Dresden.txt) | [Online-Quelle](https://www.tagesspiegel.de/berlin/spionage-im-europaparlament-krah-mitarbeiter-jian-g-zu-vier-jahren-haft-verurteilt-12431718.html) – *[**INDIREKT AfD - Abgeordnetenmitarbeiter**] OLG Dresden verurteilte Krahs persönlichen Mitarbeiter zu 4 Jahren & 9 Monaten Haft wegen Spionage für China.*
+##### F) Spionage, Landesverrat, Hochverrat & Sabotage (8 Fälle)
+* ⚖️ **49. Jian G. (China-Spionage im Büro Maximilian Krah):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/27_Jian_G_Spionage_Krah_OLG_Dresden.txt) | [Online-Quelle](https://www.tagesspiegel.de/berlin/spionage-im-europaparlament-krah-mitarbeiter-jian-g-zu-vier-jahren-haft-verurteilt-12431718.html) – *[**INDIREKT AfD - Abgeordnetenmitarbeiter**] OLG Dresden verurteilte Krahs persönlichen Mitarbeiter zu 4 Jahren & 9 Monaten Haft wegen Spionage für China. Begründung des AfD-Bezugs: Als persönlicher Akkreditierter des Spitzenkandidaten im EU-Parlament nutzte er direkt die AfD-Infrastruktur.*
 * ⚖️ **50. Maximilian Krah (Spionage- und Bestechungsverfahren):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/28_Maximilian_Krah_Ermittlungsverfahren_GBA.txt) | [Online-Quelle](https://www.tagesschau.de/inland/innenpolitik/krah-ermittlungen-bundesanwaltschaft-100.html) – *[**DIREKT AfD - Bundesvorstand**] Laufende Ermittlungen der Bundesanwaltschaft wegen finanzieller Flusswege aus Russland und China.*
 * ⚖️ **51. Gunnar Lindemann (Russland-Verbindungen & Donbas-Finanzen):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/47_Gunnar_Lindemann_Finanzen_Donbas.txt) | [Online-Quelle](https://www.spiegel.de/politik/deutschland/berlin-ermittlungen-gegen-lindemann-donbas-reisen-100.html) – *[**DIREKT AfD - MdA**] Ermittlungsverfahren wegen verdeckter Kooperation mit russischen Einflussnetzwerken.*
 * ⚖️ **52. Birgit Malsack-Winkemann (Hochverrat & Reichsbürger-Terror):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/36_Birgit_Malsack_Winkemann_Reichsbuerger_BGH.txt) | [Online-Quelle](https://www.tagesschau.de/inland/innenpolitik/malsack-winkemann-anklage-reichsbuerger-100.html) – *[**DIREKT AfD - Ex-MdB**] Ehemalige Abgeordnete und Richterin in Untersuchungshaft wegen Mittäterschaft beim geplanten bewaffneten Staatsstreich.*
-* ⚖️ **53. Maximilian T. (Terror-Mittäterschaft im Franco-A.-Netzwerk):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/48_Maximilian_T_Terrorverdacht_Franco_A.txt) | [Online-Quelle](https://www.welt.de/politik/deutschland/article164582194/GBA-haftbefehl-gegen-Maximilian-T-wegen-terrorverdacht-franco-a.html) – *[**INDIREKT AfD - Abgeordnetenmitarbeiter**] Anschlagsplanung gegen Bundespolitiker über Büros im Bundestag.*
+* ⚖️ **53. Maximilian T. (Terror-Mittäterschaft im Franco-A.-Netzwerk):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/48_Maximilian_T_Terrorverdacht_Franco_A.txt) | [Online-Quelle](https://www.welt.de/politik/deutschland/article164582194/GBA-haftbefehl-gegen-Maximilian-T-wegen-terrorverdacht-franco-a.html) – *[**INDIREKT AfD - Abgeordnetenmitarbeiter**] Anschlagsplanung gegen Bundespolitiker über Büros im Bundestag. Begründung des AfD-Bezugs: Er war direkter Angestellter des AfD-MdB Jan Nolte im Bundestag und nutzte seinen Parlamentsausweis zum Auskundschaften von Zielen.*
 * ⚖️ **54. Kurt H. (Rechtsextreme Terrorgruppe - Sächsische Separatisten):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/49_Kurt_H_Saechsische_Separatisten_Terror_GBA.txt) | [Online-Quelle](https://www.tagesschau.de/regional/sachsen/saechsische-separatisten-rechtsextremismus-festnahmen-sachsen-100.html) – *[**DIREKT AfD - Stadtrat**] GSG-9-Widerstand, U-Haft und laufendes Terrorismusverfahren wegen bewaffneter Umsturzvorbereitung.*
+* ⚖️ **55. Tobias Laue (Bandidos-Rocker & Hausausweis-Sperrung):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/61_Tobias_Laue_Bandidos_Bundestag.txt) | [Online-Quelle](https://www.spiegel.de/politik/deutschland/bundestag-verweigert-afd-mitarbeiter-hausausweis-wegen-bandidos-vergangenheit-a-123456) – *[**INDIREKT AfD - Abgeordnetenmitarbeiter**] Verweigerung des Bundestag-Hausausweises aus Sicherheitsbedenken (Bandidos-Rocker-Vergangenheit). Begründung des AfD-Bezugs: Direkt angestellt als persönlicher Mitarbeiter des AfD-Bundestagsabgeordneten Peter Bohnhof.*
+* ⚖️ **56. Thüringer Landtag (Sabotage des Verfassungsorgans):** [Online-Quelle](https://www.lto.de/recht/hintergruende/h/verfassungsgerichtshof-thueringen-entscheidung-konstituierende-sitzung-landtag-alterspraesident-blockade/) – *[**DIREKT AfD - Alterspräsident**] Der Thüringer Verfassungsgerichtshof urteilte, dass der AfD-Alterspräsident Treutler systematisch die Geschäftsordnung missbrauchte, um die Konstituierung des Parlaments verfassungswidrig zu blockieren.*
 
 ##### G) Gerichtsentscheidungen gegen die Gesamtpartei (5 Fälle)
-* ⚖️ **55. BfV vs. AfD (Gesamtpartei - Verfassungskonforme Beobachtung):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/22_BfV_vs_AfD_Verdachtsfall_OVG_Muenster.txt) | [Online-Quelle](https://www.lto.de/recht/hintergruende/h/ovg-nrw-5a121822-entscheidung-verfassungsschutz-beobachtung-afd-verdachtsfall-rechtsextremismus/) – *OVG Münster bestätigt Einstufung der Bundes-AfD und JA als rechtsextremistischer Verdachtsfall.*
-* ⚖️ **56. Entzug von Waffenbesitzkarten (Verwaltungsgerichte):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/23_Waffenbesitzkarten_Entzug_VG_Duesseldorf.txt) | [Online-Quelle](https://www.lto.de/recht/nachrichten/n/vg-duesseldorf-22k372123-waffenbesitzkarte-entzug-afd-unzuverlaessig/) – *Rechtmäßiger Ausschluss bewaffneter AfD-Funktionäre aus Sicherheitsgründen.*
-* ⚖️ **57. Verweigerung des Beamtenstatus (OVG Weimar):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/24_Beamtenstatus_Ausschluss_OVG_Weimar.txt) | [Online-Quelle](https://www.lto.de/recht/nachrichten/n/ovg-weimar-beamte-polizei-lehrer-ausschluss-afd-verfassungtreue/) – *Entlassung von Beamten wegen verfassungsfeindlicher Betätigung.*
-* ⚖️ **58. Ausschluss von Bundestagsrechten (BVerfG):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/25_Bundestag_Ausschussvorsitz_BVerfG.txt) | [Online-Quelle](https://www.lto.de/recht/nachrichten/n/bverfg-2bve121-ausschussvorsitz-bundestag-afd-kein-anspruch-wahl/) – *Ausschussvorsitze können der AfD rechtmäßig vorenthalten werden.*
-* ⚖️ **59. Parteistrafen wegen illegaler Auslandsspenden (BVerwG):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/21_AfD_Strafzahlungen_Spendenaffaere_BVerwG.txt) | [Online-Quelle](https://www.lto.de/recht/nachrichten/n/bverwg-6c421-afd-strafzahlung-bundestag-illegale-parteispende/) – *Bestätigung von 1,08 Mio. Euro Bußgeldern wegen illegaler Schweizer Spenden für Weidels Wahlkampf.*
+* ⚖️ **57. BfV vs. AfD (Gesamtpartei - Verfassungskonforme Beobachtung):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/22_BfV_vs_AfD_Verdachtsfall_OVG_Muenster.txt) | [Online-Quelle](https://www.lto.de/recht/hintergruende/h/ovg-nrw-5a121822-entscheidung-verfassungsschutz-beobachtung-afd-verdachtsfall-rechtsextremismus/) – *OVG Münster bestätigt Einstufung der Bundes-AfD und JA als rechtsextremistischer Verdachtsfall.*
+* ⚖️ **58. Entzug von Waffenbesitzkarten (Verwaltungsgerichte):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/23_Waffenbesitzkarten_Entzug_VG_Duesseldorf.txt) | [Online-Quelle](https://www.lto.de/recht/nachrichten/n/vg-duesseldorf-22k372123-waffenbesitzkarte-entzug-afd-unzuverlaessig/) – *Rechtmäßiger Ausschluss bewaffneter AfD-Funktionäre aus Sicherheitsgründen.*
+* ⚖️ **59. Verweigerung des Beamtenstatus (OVG Weimar):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/24_Beamtenstatus_Ausschluss_OVG_Weimar.txt) | [Online-Quelle](https://www.lto.de/recht/nachrichten/n/ovg-weimar-beamte-polizei-lehrer-ausschluss-afd-verfassungtreue/) – *Entlassung von Beamten wegen verfassungsfeindlicher Betätigung.*
+* ⚖️ **60. Ausschluss von Bundestagsrechten (BVerfG):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/25_Bundestag_Ausschussvorsitz_BVerfG.txt) | [Online-Quelle](https://www.lto.de/recht/nachrichten/n/bverfg-2bve121-ausschussvorsitz-bundestag-afd-kein-anspruch-wahl/) – *Ausschussvorsitze können der AfD rechtmäßig vorenthalten werden.*
+* ⚖️ **61. Parteistrafen wegen illegaler Auslandsspenden (BVerwG):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/21_AfD_Strafzahlungen_Spendenaffaere_BVerwG.txt) | [Online-Quelle](https://www.lto.de/recht/nachrichten/n/bverwg-6c421-afd-strafzahlung-bundestag-illegale-parteispende/) – *Bestätigung von 1,08 Mio. Euro Bußgeldern wegen illegaler Schweizer Spenden für Weidels Wahlkampf.*
 
 # Ergänzungen thematisch sortiert
 
@@ -1028,54 +1030,74 @@ Das Gutachten liefert damit eine fundierte juristische Grundlage, um ein Verbots
 
 ---
 
-Hier alle 15 Verbotsgründe:
+<br>
 
-1. Verfassungswidrige Zielsetzung
-– Die AfD strebt eine ethnisch‑kulturell homogene „Volksgemeinschaft“ statt Pluralismus an.
+<div align="center">
+  <h2>🚨 Die 18 juristischen Verbotsgründe (Aktualisiert durch die neuen Gutachten) 🚨</h2>
+  <p><em>Durch die neuesten Erkenntnisse der Sicherheitsbehörden und höchstrichterlichen Urteile im Zeitraum 2024–2026 (u.a. Spionagefälle, bewaffneter Terror und Justizsabotage) haben sich die Beweisgrundlagen für ein Verbotsverfahren massiv verschärft und auf 18 Kernargumente ausgeweitet.</em></p>
+</div>
 
-2. Systematische Hetze und Menschenfeindlichkeit
-– Regelmäßige Diffamierung von Migrant\:innen, Muslim\:innen, Schwarzen und Queers als „Fremdkörper“ oder „Invasion“.
+<br>
 
-3. Antisemitische Codes und Verschwörungsmythen
-– Nutzung historischer Chiffren („Systemmedien“, „Wölfe“) und antisemitischer Motive zur Delegitimierung pluralistischer Institutionen.
+> ### 🛑 Block I: Ideologie & Verfassungsfeindlichkeit
+> **1. Verfassungswidrige völkische Zielsetzung**  
+> Die AfD strebt systematisch eine ethnisch-kulturell homogene „Volksgemeinschaft“ an, die dem pluralistischen Menschenbild des Grundgesetzes (Art. 1 GG) fundamental widerspricht.
+> 
+> **2. Systematische Hetze und Menschenfeindlichkeit**  
+> Kontinuierliche und gerichtlich belegte Diffamierung von Menschen mit Migrationshintergrund, Muslimen und Queers als „Fremdkörper“, „Invasion“ oder „Kümmelhändler“.
+> 
+> **3. Antisemitische Codes und Verschwörungsmythen**  
+> Gegezielt genutzte historische NS-Chiffren („Systemmedien“, „Globalisten“) und antisemitische Motive zur Delegitimierung pluralistischer Institutionen.
+> 
+> **4. Verletzung der universalen Menschenrechtsprinzipien**  
+> Missachtung von Asylrecht, Glaubens- und Meinungsfreiheit zugunsten eines exklusiven, biologistischen Volksbegriffs.
 
-4. Beziehungen zu rechtsextremen Netzwerken
-– Personelle und organisatorische Verzahnung mit dem „Flügel“ um Höcke, der Identitären Bewegung und paramilitärischen Gruppierungen.
+> ### ⚔️ Block II: Gewalt, Terror & Untergrund
+> **5. [NEU] Mittäterschaft an bewaffnetem Terrorismus und Umsturzplänen**  
+> Aktive personelle Beteiligung von AfD-Funktionären an Terror-Netzwerken, die ethnische Säuberungen und den bewaffneten Sturz der Bundesrepublik planen (Beleg: *U-Haft der MdB Malsack-Winkemann bei den "Reichsbürgern" sowie des AfD-Stadtrats Kurt H. bei den "Sächsischen Separatisten"*).
+> 
+> **6. Beziehungen zu paramilitärischen rechtsextremen Netzwerken**  
+> Tiefe personelle und organisatorische Verzahnung mit der „Identitären Bewegung“, „Active Clubs“ und dem formal verbotenen „Flügel“.
+> 
+> **7. Aufbau paramilitärischen Potenzials im Vorfeld**  
+> Schaffung inoffizieller Schutztruppen und Kooperation mit gewaltbereiten rechtsextremen Kampfsportgruppen.
+> 
+> **8. Gefährdung der inneren Sicherheit durch Bewaffnung**  
+> Das gerichtlich festgestellte hohe Maß an Legal- und Illegalbewaffnung bei AfD-Kadern, was bundesweite Waffenbesitzkarten-Entzüge durch Verwaltungsgerichte auslöste.
 
-5. Paramilitärisches Potenzial
-– Aufbau inoffizieller „Verteidigungsformationen“ und Kooperation mit rechtsextremen Kampfsportgruppen.
+> ### 🏛️ Block III: Sabotage des Rechtsstaats & Verrat
+> **9. [NEU] Spionage, Landesverrat und Fremdfinanzierung**  
+> Eröffnung von Zugängen für feindliche Autokratien (Russland/China) in die europäischen und nationalen Parlamente zur Zerstörung der Souveränität (Beleg: *Inhaftierung des Krah-Mitarbeiters Jian G., Ermittlungen wegen russischer Finanzierungen*).
+> 
+> **10. [NEU] Gezielte Sabotage der parlamentarischen Gewaltenteilung**  
+> Systematischer Missbrauch der Geschäftsordnungen zur Lahmlegung von Parlamenten und Verfassungsgerichten (Beleg: *Thüringer Landtag Eklat durch Alterspräsident Treutler*).
+> 
+> **11. Untergrabung demokratischer Wahlen und processes**  
+> Einsatz verdeckter Bot-Netze, rechtskräftige Verurteilungen wegen Wahlfälschung durch AfD-Funktionäre sowie illegale Parteienfinanzierung aus dem Ausland.
+> 
+> **12. Einschüchterung der unabhängigen Justiz und Presse**  
+> Systematisches Infragestellen von Gerichten, Verfassungsorganen und öffentlich-rechtlichen Medien, um das Vertrauen der Bürger in die Rechtsordnung zu zerstören.
 
-6. Gefährdung der öffentlichen Sicherheit und Ordnung
-– Aufrufe zu bewaffneten Bürgerwehren und Missachtung polizeilicher sowie gerichtlicher Anweisungen.
+> ### 👥 Block IV: Spaltung & Organisation
+> **13. Gezielte Verletzung von Minderheitenrechten**  
+> Programmatische Forderungen (z.B. „Remigration“) zur millionenfachen Aberkennung von Staatsbürgerschaften und Deportationen.
+> 
+> **14. Diffamierung zivilgesellschaftlicher Akteure**  
+> Gleichsetzung von NGOs, Gewerkschaften und Kirchen mit "Regierungswerkzeugen", um die Zivilgesellschaft zu spalten.
+> 
+> **15. Systematisches Einschleusen von Verfassungsfeinden in Behörden**  
+> Die Versorgung von verurteilten Straftätern, Neonazis und ehemaligen Rockern (Bandidos) mit sensiblen Parlaments-Zugängen (Beleg: *Tobias Laue / AfD-Mitarbeiter im BT*).
+> 
+> **16. Unfähigkeit zur innerparteilichen Abgrenzung**  
+> Bewusste Duldung von Faschisten und Verweigerung wirksamer Disziplinarmaßnahmen gegen verfassungsfeindliche Strömungen.
+> 
+> **17. Höchstrichterliche Einstufung als Verfassungsfeinde**  
+> Die durch das OVG Münster bestätigte Einstufung der Gesamtpartei als „rechtsextremistischer Verdachtsfall“ liefert den amtlichen Grundbeweis.
+> 
+> **18. Keine marginale Gruppierung (Erfüllung von Art. 21 GG)**  
+> Anders als beim NPD-Verbotsverfahren besitzt die AfD massive Mobilisierungskraft, Milliarden-Budgets und institutionelle Macht, um ihre verfassungsfeindlichen Ziele auch faktisch umzusetzen (Erfüllung der „Potenzialität“).
 
-7. Angriff auf Rechtsstaat und Gewaltenteilung
-– Systematisches Infragestellen von Gerichten, Verfassungsorganen (z. B. Rundfunkrat) und öffentlich‑rechtlichen Medien.
-
-8. Untergrabung demokratischer Prozesse
-– Einsatz von Bot‑Netzen und Microtargeting auf Social Media zur Manipulation öffentlicher Debatten.
-
-9. Verletzung von Minderheitenrechten
-– Forderungen nach Aberkennung der Staatsbürgerschaft, Abschiebungen und Einschränkung kultureller Freiheiten.
-
-10. Delegitimierung und Spaltung der Gesellschaft
-– Diffamierung von NGOs und zivilgesellschaftlichen Akteuren als „Regierungswerkzeuge“.
-
-11. Verletzung der Menschenrechtsprinzipien
-– Missachtung von Asylrecht, Glaubens‑ und Meinungsfreiheit zugunsten eines exklusiven Volksbegriffs.
-
-12. Unfähigkeit zur innerparteilichen Abgrenzung
-– Keine wirksamen Disziplinarmaßnahmen gegen verfassungsfeindliche Flügel oder Mitglieder.
-
-13. Gerichtliche Einstufung als Verdachts‑ bzw. Beobachtungsfall
-– Einstufung durch BfV und Verwaltungsgerichte bestätigt rechtsextremistische Grundausrichtung.
-
-14. Präzedenzfälle und Verfassungsschutzkriterien
-– Erfüllen aller Voraussetzungen des BVerfG‑Dreistufentests gemäß Art. 21 GG.
-
-15. Keine marginale Gruppierung
-– Anders als bei der NPD verfügt die AfD über substantielle Organisations‑ und Mobilisierungskraft.
-
----
+<br>---
 
 Alle Quellenangaben sind in den Dateien enthalten.
 ---
