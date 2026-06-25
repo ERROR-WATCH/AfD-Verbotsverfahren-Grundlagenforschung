@@ -863,6 +863,12 @@ https://afd-verbot.de
 
 [![YouTube Playlist](https://img.youtube.com/vi/1dHYrVZbhX0/0.jpg)](https://www.youtube.com/watch?v=1dHYrVZbhX0&list=PLndxauj5Nk-o1p1LVTVDgzANSFMGvhe6F)
 
+## Was AfD-Aussteiger erzählen
+
+[![YouTube]([https://img.youtube.com/vi/1dHYrVZbhX0/0.jpg](https://img.youtube.com/vi/RoyfB-3NpsQ/maxresdefault.jpg))](https://www.youtube.com/watch?v=RoyfB-3NpsQ)
+
+
+## Ende des Repos
 
 <img width="916" height="988" alt="Claus von Wagner" src="https://github.com/user-attachments/assets/21df85d6-0331-424e-b268-c5939d7d702f" />
 
