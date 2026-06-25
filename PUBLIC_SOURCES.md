@@ -361,6 +361,14 @@ Ende der öffentlich zugänglichen Quellen.
 
 ## Lokale Primär- & Belegquellen im Repository (Offline-Ready)
 
+* **Gesamtregister aller Gerichtsentscheidungen & Urteile (typeset PDF)**
+  Lokale Quelle: [`AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf`](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)
+
+* **Gesamtregister aller Gerichtsentscheidungen & Urteile (TXT-Volltext)**
+  Lokale Quelle: [`AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.txt`](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.txt)
+
+
+
 * **BfV-Lagebericht: Rechtsextremisten in Sicherheitsbehörden (2025)**
   Lokale Quelle: [`BfV_Lagebericht_Rechtsextremisten_in_Sicherheitsbehoerden_2025.pdf`](./dokumente/vfs_rechtsextremismus/BfV_Lagebericht_Rechtsextremisten_in_Sicherheitsbehoerden_2025.pdf)
 

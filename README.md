@@ -191,7 +191,11 @@ Da die detaillierten, mehrhundertseitigen BfV-Einstufungsgutachten als *„VS - 
 ### 5) Gerichtsentscheidungen & Strafurteile (Offizielle Urteilsdatenbank)
 Dieses Register ist eine umfassende, wissenschaftlich gepflegte Zusammenstellung aller strafrechtlichen Verurteilungen, Gerichtsentscheidungen und verfassungsrechtlichen Verfahren gegen AfD-Mitglieder, Mandatsträger sowie die Partei selbst. 
 
-Sämtliche Belege liegen physisch im Repository vor und sind im vollumfänglichen Register [**`URTEILE_DEEPRESEARCH.md`**](./URTEILE_DEEPRESEARCH.md) lückenlos verzeichnet:
+Sämtliche Belege liegen physisch im Repository vor und sind im vollumfänglichen Register [**`URTEILE_DEEPRESEARCH.md`**](./URTEILE_DEEPRESEARCH.md) lückenlos verzeichnet.
+
+> 📥 **Gesamtregister zum Download:** Wir haben alle 34 straf- und verfassungsrechtlichen Urteile in einem einzigen, offline-fähigen Gesamtregister kompiliert:
+> * 📄 [**Gesamt-Urteilsregister als gesetztes PDF-Dossier**](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf) *(Perfekt formatiert für RAG und Druck)*
+> * 📝 [**Gesamt-Urteilsregister als TXT-Dokument**](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.txt)
 
 #### 🏛️ Auszug aus den wichtigsten strafrechtlichen Belegen (Lokal im Repo gesichert):
 * ⚖️ **Björn Höcke (SA-Parole „Alles für Deutschland“):** [Lokaler Volltext-Beleg](./dokumente/hauptquellen/urteilsbelege/01_Hoecke_SA_Parole_LG_Halle.txt) – *Landgericht Halle verurteilte Höcke wegen des Verwendens verbotener SA-Kennzeichen zu einer Geldstrafe.*
