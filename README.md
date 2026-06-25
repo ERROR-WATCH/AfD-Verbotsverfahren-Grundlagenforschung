@@ -86,6 +86,15 @@ Es ist **kein** fertiges Dossier und **ersetzt nicht** die professionelle Beweis
 * 📑 **BfV-Verfassungsschutzbericht 2023:** [PDF-Download (Volltext)](https://www.verfassungsschutz.de/SharedDocs/publikationen/DE/verfassungsschutzberichte/2024-06-18-verfassungsschutzbericht-2023.pdf?__blob=publicationFile&v=3) | [PDF-Splits 1-8 im Repository](./dokumente/splits/)
 
 ### 3) Landesämter für Verfassungsschutz (LfV) – Alle 16 Bundesländer (Länderberichte)
+
+#### 📊 Lokale Länderberichte (VfS) zur Offline‑Analyse (Direkt im Repository gesichert)
+Für eine zügige, maschinelle Offline‑Analyse (z. B. via Grep oder RAG nach dem Klonen des Repositories) haben wir die neuesten Berichte der kritischsten Bundesländer direkt im Volltext im Repository hinterlegt:
+* 📑 **Freistaat Sachsen 2024:** [Lokales PDF-Dokument](./dokumente/vfs_berichte_bundeslaender/LfV_Sachsen_Verfassungsschutzbericht_2024.pdf) | [Online-Quelle](https://www.verfassungsschutz.sachsen.de/download/Verfassungsschutzbericht_2024_barrierefrei.pdf)
+* 📑 **Freistaat Thüringen 2024:** [Lokales PDF-Dokument](./dokumente/vfs_berichte_bundeslaender/LfV_Thueringen_Verfassungsschutzbericht_2024.pdf) | [Online-Quelle](https://verfassungsschutz.thueringen.de/fileadmin/Verfassungsschutz/Verfassungsschutzbericht_2024.pdf)
+* 📑 **Freistaat Bayern 2024:** [Lokales PDF-Dokument](./dokumente/vfs_berichte_bundeslaender/LfV_Bayern_Verfassungsschutzbericht_2024.pdf) | [Online-Quelle](https://www.lfv.bayern.de/wp-content/uploads/2025/04/vsb-2024_250408_pk-final.pdf)
+* 📑 **Land Brandenburg 2024:** [Lokales PDF-Dokument](./dokumente/vfs_berichte_bundeslaender/LfV_Brandenburg_Verfassungsschutzbericht_2024.pdf) | [Online-Quelle](https://mik.brandenburg.de/sixcms/media.php/9/VSB_2024_Pressefassung.pdf)
+
+#### 🌐 Verzeichnisse und Portale aller 16 Bundesländer
 Klicke direkt auf das jeweilige Bundesland, um zum offiziellen Publikationsportal des Landesamtes für Verfassungsschutz zu gelangen und die neuesten Berichte (inkl. der brandneuen Ausgaben für 2024/2025) herunterzuladen:
 
 | Bundesland | Offizielles Verfassungsschutz‑Portal (Direkt-Link) |
