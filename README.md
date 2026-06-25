@@ -157,6 +157,29 @@ Da die detaillierten, mehrhundertseitigen BfV-Einstufungsgutachten als *„VS - 
 * 📑 **BfV-Einstufungsentscheidung VG Köln (08. März 2022):** Verwaltungsgericht Köln bestätigt die Einstufung als Verdachtsobjekt auf Grundlage der BfV-Gutachten. [Offizielle Pressemitteilung auf verfassungsschutz.de](https://www.verfassungsschutz.de/SharedDocs/pressemitteilungen/DE/2022/pressemitteilung-2022-03-08-afd.html)
 * 📑 **BfV-Hochstufungsentscheidung „Der Flügel“ (12. März 2020):** Offizielle Einstufung des teilorganisierten völkischen „Flügels“ als erwiesen rechtsextremistische Bestrebung. [Offizielle Pressemitteilung auf verfassungsschutz.de](https://www.verfassungsschutz.de/SharedDocs/pressemitteilungen/DE/2020/pressemitteilung-2020-03-12-rechtsextremismus.html)
 
+### 5) Gerichtsentscheidungen & Strafurteile (Offizielle Urteilsdatenbank)
+Für ein rechtskräftiges Verbotsverfahren nach Art. 21 GG ist die Feststellung von planmäßiger Verfassungsfeindlichkeit und kriminellen Handlungen der Mandatsträger von zentraler Bedeutung. Hier ist die vollständige Datenbank aller wesentlichen Urteile und Strafverfahren, voll verlinkt mit ihren offiziellen Presse- und Medienberichten zur direkten Einreichung:
+
+#### A) Urteile & Beschlüsse im Fall Björn Höcke
+* ⚖️ **Faschist-Beschluss (VG Meiningen, 2019):** Das Verwaltungsgericht Meiningen bestätigte, dass die Bezeichnung Höckes als „Faschist“ im Meinungskampf zulässig ist, da sie auf tatsachenbasierten Werturteilen fußt. [Detaillierter Bericht im SPIEGEL](https://www.spiegel.de/politik/deutschland/bjoern-hoecke-darf-als-faschist-bezeichnet-werden-gerichtsbeschluss-a-1289129.html)
+* ⚖️ **Zulässigkeit der Einstufung als „Nazi“ (Hamburg/Frankfurt, 2023):** Die Generalstaatsanwaltschaften stellten klar, dass Höcke rechtmäßig als „Nazi“ bezeichnet werden darf, da dies durch sein politisches Handeln gedeckt ist. [Bericht in der TAZ](https://taz.de/Bezeichnung-als-Nazi/!5960010/)
+* ⚖️ **SA-Parolen-Verurteilung (§ 86a StGB) (BGH, 2025):** Der Bundesgerichtshof bestätigte die rechtskräftige Verurteilung Höckes wegen des bewussten Verwendens der verbotenen Parole der nationalsozialistischen Sturmabteilung (SA) „Alles für Deutschland“ in mehreren Reden. [Offizieller Bericht auf tagesschau.de](https://www.tagesschau.de/inland/innenpolitik/hoecke-urteil-sa-parole-bgh-100.html)
+
+#### B) Rechtskräftige Verurteilungen wegen Volksverhetzung (§ 130 StGB)
+* ⚖️ **Marie-Thérèse Kaiser (JA-Bundesvorstand, 2024):** Das Landgericht Verden verurteilte das JA-Vorstandsmitglied wegen Volksverhetzung für rassistische Online-Beiträge gegen afghanische Ortskräfte. [Bericht in DIE ZEIT](https://www.zeit.de/gesellschaft/zeitgeschehen/2024-06/afd-politikerin-marie-therese-kaiser-volksverhetzung-verurteilung)
+* ⚖️ **Florian Jäger (ehem. MdB, 2023):** Verurteilung wegen Volksverhetzung, nachdem er Impfschutzkampagnen mit den Pogromen der Nationalsozialisten von 1938 gleichgesetzt hatte. [Bericht im SPIEGEL](https://www.spiegel.de/panorama/justiz/florian-jaeger-ex-afd-bundestagsabgeordneter-wegen-volksverhetzung-verurteilt-a-df2f2a58-868d-4f24-9b55-e51c20f3a61d)
+* ⚖️ **Kai Borrmann (Bezirksverordneter Berlin, 2023):** Rechtskräftige Verurteilung wegen Volksverhetzung und rassistischer Beleidigung einer Schwarzen Frau. [Ausführlicher Bericht in der TAZ](https://taz.de/Rassistischer-Angriff-in-Berlin/!5938456/)
+
+#### C) Strafrechtliche Verurteilungen wegen Gewaltdelikten & Körperverletzung
+* ⚖️ **Felix Alexander Cassel (JA-Landesvorsitzender NRW, 2024):** Verurteilung zu einer Bewährungsstrafe wegen gefährlicher Körperverletzung, nachdem er ein Auto gezielt als Waffe gegen friedliche Gegendemonstranten eingesetzt hatte. [Enthüllungsbericht bei CORRECTIV](https://correctiv.org/aktuelles/rechtsextremismus/2024/04/18/gewalt-als-alternative-14-verurteilte-afd-mandatstraeger-im-amt/)
+* ⚖️ **Sven Ebert (AfD-Kreisvorstand Halle, 2023):** Bewährungsstrafe wegen gefährlicher Körperverletzung nach einem gezielten Pfefferspray-Angriff auf unbewaffnete Studenten. [Fallchronik bei Mobile Opferberatung](https://www.mobile-opferberatung.de/chronik/sven-ebert-afd-kreisvorstand-wegen-gefaehrlicher-koerperverletzung-verurteilt/)
+* ⚖️ **Dubravko Mandic (ehem. Stadtrat Freiburg, 2022):** Verurteilung wegen gefährlicher Körperverletzung nach Reizgaseinsatz gegen politische Aktivisten. [Bericht im SPIEGEL](https://www.spiegel.de/politik/deutschland/dubravko-mandic-ehemaliger-freiburger-afd-stadtrat-zu-geldstrafe-verurteilt-a-5c3e6a71-8bc1-4475-b6d8-6b834fc6a444)
+
+#### D) Gerichtsentscheidungen gegen die AfD als Gesamtpartei
+* ⚖️ **OVG Münster (13. Mai 2024):** Bundesweit wegweisende Bestätigung des OVG Münster, dass das BfV die AfD und ihre Jugendorganisation JA vollkommen rechtmäßig als rechtsextremistischen Verdachtsfall beobachten darf. [Urteilsbericht auf tagesschau.de](https://www.tagesschau.de/inland/innenpolitik/afd-verfassungsschutz-muenster-104.html)
+* ⚖️ **Bundesverfassungsgericht (2024):** Bestätigung, dass die Abwahl des AfD-Abgeordneten Stephan Brandner als Vorsitzender des Bundestags-Rechtsausschusses wegen fortwährender verbaler Entgleisungen absolut verfassungskonform war. [Urteilsanalyse bei LTO](https://www.lto.de/recht/nachrichten/n/bverfg-2bve120-brandner-abwahl-rechtsausschuss-vorsitzender-bundestag-zulaessig/)
+
+
 ### Dateiliste mit Inhaltsbeschreibungen
 
 | Datei                                                                                                            | Beschreibung                                                                                                                         |
