@@ -310,8 +310,8 @@ Nachfolgend sind konkrete Fälle von Verurteilungen aufgeführt, unterteilt nach
 - [`untersuchung-bfv-gutachten-und-afd-parteiverbot.pdf`](./dokumente/hauptquellen/untersuchung-bfv-gutachten-und-afd-parteiverbot.pdf)
 - [`warum_die_afd_verboten_gehört.pdf`](./dokumente/hauptquellen/warum_die_afd_verboten_geh%C3%B6rt.pdf)
 - [`zusammenfassung_vfs_gutachten_afd.md`](./geheimgutachten/zusammenfassung_vfs_gutachten_afd.md)
-- `02_www.institut-fuer-menschenrechte.de_fileadmin_Redaktion_Pub...Analyse_Warum_die_AfD_verboten_werden_koennte.pdf.pdf`
-- `08_www.institut-fuer-menschenrechte.de_fileadmin_Redaktion_Pub...Analyse_Warum_die_AfD_verboten_werden_koennte.pdf.pdf`
+- [`02_www.institut-fuer-menschenrechte.de_fileadmin_Redaktion_Publikationen_Analyse_Studie_Analyse_Warum_die_AfD_verboten_werden_koennte.pdf.pdf`](./dokumente/hauptquellen/02_www.institut-fuer-menschenrechte.de_fileadmin_Redaktion_Publikationen_Analyse_Studie_Analyse_Warum_die_AfD_verboten_werden_koennte.pdf.pdf)
+- [`08_www.institut-fuer-menschenrechte.de_fileadmin_Redaktion_Publikationen_Analyse_Studie_Analyse_Warum_die_AfD_verboten_werden_koennte.pdf.pdf`](./dokumente/hauptquellen/08_www.institut-fuer-menschenrechte.de_fileadmin_Redaktion_Publikationen_Analyse_Studie_Analyse_Warum_die_AfD_verboten_werden_koennte.pdf.pdf)
 
 ---
 
@@ -322,12 +322,12 @@ Nachfolgend sind konkrete Fälle von Verurteilungen aufgeführt, unterteilt nach
 - [`BT_Drucksache_20_010_Protokoll_Anhoerung.pdf`](./dokumente/hauptquellen/BT_Drucksache_20_010_Protokoll_Anhoerung.pdf)
 - [`BT_Plenarprotokoll_20_133_Hetze_Debatte_Original.pdf`](./dokumente/hauptquellen/BT_Plenarprotokoll_20_133_Hetze_Debatte_Original.pdf)
 - [`BT_Plenarprotokoll_20_203_Verfassungsschutz_Anhoerung_Original.pdf`](./dokumente/hauptquellen/BT_Plenarprotokoll_20_203_Verfassungsschutz_Anhoerung_Original.pdf)
-- `01_www_verfassungsschutz_de_...verfassungsschutzbericht-2023.pdf`
-- `02_www_verfassungsschutz_de_...verfassungsschutzbericht-2023.html.pdf`
-- `03_www_verfassungsschutz_de_...verfassungsschutzbericht-2024.pdf`
-- `04_www_verfassungsschutz_de_...verfassungsschutzbericht-2024.html.pdf`
-- `05_www_bmi_bund_de_...vsb2023-BMI24018.pdf`
-- `06_www_bmi_bund_de_...BMI25029-vsb2024.pdf`
+- [`01_www_verfassungsschutz_de_SharedDocs_publikationen_DE_verfassungsschutzberichte_2024-06-18-verfassungsschutzbericht-2023.pdf`](./dokumente/hauptquellen/01_www_verfassungsschutz_de_SharedDocs_publikationen_DE_verfassungsschutzberichte_2024-06-18-verfassungsschutzbericht-2023.pdf)
+- [`02_www_verfassungsschutz_de_SharedDocs_publikationen_DE_verfassungsschutzberichte_2024-06-18-verfassungsschutzbericht-2023.html.pdf`](./dokumente/hauptquellen/02_www_verfassungsschutz_de_SharedDocs_publikationen_DE_verfassungsschutzberichte_2024-06-18-verfassungsschutzbericht-2023.html.pdf)
+- [`03_www_verfassungsschutz_de_SharedDocs_publikationen_DE_verfassungsschutzberichte_2025-06-10-verfassungsschutzbericht-2024.pdf`](./dokumente/hauptquellen/03_www_verfassungsschutz_de_SharedDocs_publikationen_DE_verfassungsschutzberichte_2025-06-10-verfassungsschutzbericht-2024.pdf)
+- [`04_www_verfassungsschutz_de_SharedDocs_publikationen_DE_verfassungsschutzberichte_2025-06-10-verfassungsschutzbericht-2024.html.pdf`](./dokumente/hauptquellen/04_www_verfassungsschutz_de_SharedDocs_publikationen_DE_verfassungsschutzberichte_2025-06-10-verfassungsschutzbericht-2024.html.pdf)
+- [`05_www_bmi_bund_de_SharedDocs_downloads_DE_publikationen_themen_sicherheit_vsb2023-BMI24018.pdf`](./dokumente/hauptquellen/05_www_bmi_bund_de_SharedDocs_downloads_DE_publikationen_themen_sicherheit_vsb2023-BMI24018.pdf)
+- [`06_www_bmi_bund_de_SharedDocs_downloads_DE_publikationen_themen_sicherheit_BMI25029-vsb2024.pdf`](./dokumente/hauptquellen/06_www_bmi_bund_de_SharedDocs_downloads_DE_publikationen_themen_sicherheit_BMI25029-vsb2024.pdf)
 - [`Archiv_Verfassungsschutzberichte.pdf`](./dokumente/hauptquellen/Archiv_Verfassungsschutzberichte.pdf)
 - [`AfD-Spende__Bundestag_sieht_Tatverdacht_bestätigt.pdf`](./dokumente/hauptquellen/AfD-Spende__Bundestag_sieht_Tatverdacht_best%C3%A4tigt.pdf)
 - [`Bundestag__Missbraucht_die_AfD_die_Kleinen_Anfragen__Eine_Datenanalyse_-_SZ.de.pdf`](./dokumente/hauptquellen/Bundestag__Missbraucht_die_AfD_die_Kleinen_Anfragen__Eine_Datenanalyse_-_SZ.de.pdf)
@@ -336,7 +336,7 @@ Nachfolgend sind konkrete Fälle von Verurteilungen aufgeführt, unterteilt nach
 - [`ZDFheute_Bericht_VS_Gutachten_AfD.pdf`](./dokumente/hauptquellen/ZDFheute_Bericht_VS_Gutachten_AfD.pdf)
 - [`Deutschlandfunk_Streit_um_AfD_Einstufung_Original.pdf`](./dokumente/hauptquellen/Deutschlandfunk_Streit_um_AfD_Einstufung_Original.pdf)
 - [`ZDFheute_Bericht_VS_Gutachten_AfD_Original.pdf`](./dokumente/hauptquellen/ZDFheute_Bericht_VS_Gutachten_AfD_Original.pdf)
-- `22_www.tagesschau.de_inland_innenpolitik_afd-rechtsextrem-verfassungsschutz-100.html.pdf`
+- [`22_www.tagesschau.de_inland_innenpolitik_afd-rechtsextrem-verfassungsschutz-100.html.pdf`](./dokumente/hauptquellen/22_www.tagesschau.de_inland_innenpolitik_afd-rechtsextrem-verfassungsschutz-100.html.pdf)
 - BfV-Verfassungsschutzbericht 2024 (PDF-Splits):
 - [`BfV-Verfassungsschutzbericht_2024_Teil_1_Seiten_1-52.pdf`](./dokumente/splits/BfV-Verfassungsschutzbericht_2024_Teil_1_Seiten_1-52.pdf)
 - [`BfV-Verfassungsschutzbericht_2024_Teil_2_Seiten_53-104.pdf`](./dokumente/splits/BfV-Verfassungsschutzbericht_2024_Teil_2_Seiten_53-104.pdf)
@@ -635,11 +635,11 @@ Dieses Verzeichnis enthält weitere im Archiv erfasste Belege, Zeitungsberichte,
 - [`ZDFheute_Bericht_VS_Gutachten_AfD.pdf`](./dokumente/hauptquellen/ZDFheute_Bericht_VS_Gutachten_AfD.pdf)
 - [`Deutschlandfunk_Streit_um_AfD_Einstufung_Original.pdf`](./dokumente/hauptquellen/Deutschlandfunk_Streit_um_AfD_Einstufung_Original.pdf)
 - [`ZDFheute_Bericht_VS_Gutachten_AfD_Original.pdf`](./dokumente/hauptquellen/ZDFheute_Bericht_VS_Gutachten_AfD_Original.pdf)
-- `22_www.tagesschau.de_inland_innenpolitik_afd-rechtsextrem-verfassungsschutz-100.html.pdf`
+- [`22_www.tagesschau.de_inland_innenpolitik_afd-rechtsextrem-verfassungsschutz-100.html.pdf`](./dokumente/hauptquellen/22_www.tagesschau.de_inland_innenpolitik_afd-rechtsextrem-verfassungsschutz-100.html.pdf)
 - [`Urteile_gegen_Höcke_wegen_NS-Parole_rechtskräftig.pdf`](./dokumente/hauptquellen/Urteile_gegen_H%C3%B6cke_wegen_NS-Parole_rechtskr%C3%A4ftig.pdf)
 
 ## Presseberichte mit Amtsbezug
-- `Bundestag_ Missbraucht die AfD die Kleinen Anfragen_ Eine Datenanalyse – SZ.de.pdf`
+- [`Bundestag__Missbraucht_die_AfD_die_Kleinen_Anfragen__Eine_Datenanalyse_-_SZ.de.pdf`](./dokumente/hauptquellen/Bundestag__Missbraucht_die_AfD_die_Kleinen_Anfragen__Eine_Datenanalyse_-_SZ.de.pdf)
 - [`Bundestagsverwaltung__Wahlplakat-Spende_an_AfD_war_unzulässig.pdf`](./dokumente/hauptquellen/Bundestagsverwaltung__Wahlplakat-Spende_an_AfD_war_unzul%C3%A4ssig.pdf)
 - [`AfD-Spende__Bundestag_sieht_Tatverdacht_bestätigt.pdf`](./dokumente/hauptquellen/AfD-Spende__Bundestag_sieht_Tatverdacht_best%C3%A4tigt.pdf)
 ---
