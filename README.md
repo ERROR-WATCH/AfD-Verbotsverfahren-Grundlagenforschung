@@ -75,8 +75,8 @@ Es ist **kein** fertiges Dossier und **ersetzt nicht** die professionelle Beweis
 > 🔍 **Amtliche Grundlagen zur Verfassungsfeindlichkeit:** Da die amtlichen Berichte des Verfassungsschutzes (BfV/LfV) und die Kriminalstatistiken des Bundeskriminalamts (BKA) das fundamentale Beweissicherungsregister für das Parteiverbotsverfahren bilden (Art. 21 GG), haben wir hier das vollständige Referenzregister des Bundes und aller 16 Bundesländer sowie des BKA direkt verlinkt.
 
 ### 1) Bundeskriminalamt (BKA) – Rechter Terror & Hasskriminalität
-* 📊 **BKA Bundesweite Fallzahlen PMK 2025 (Juni 2026):** [Lokaler Beleg](./dokumente/hauptquellen/BKA_Fallzahlen_PMK_2025.txt) | [Online-Quelle](https://www.bka.de/SharedDocs/Pressemitteilungen/DE/2026/presse260622.html)
-* 📊 **BKA Bundesweite Fallzahlen PMK 2024:** [Lokaler Beleg](./dokumente/hauptquellen/BKA_Fallzahlen_PMK_2024.txt) | [Online-Quelle](https://www.bka.de/SharedDocs/Pressemitteilungen/DE/2025/presse250521.html)
+* 📊 **BKA Bundesweite Fallzahlen PMK 2025 (Juni 2026):** [Lokaler Beleg](./dokumente/hauptquellen/BKA_Fallzahlen_PMK_2025.txt) | [Online-Quelle](https://www.bka.de/DE/Presse/Pressemitteilungen/Presse2026/260622_PMK2025.html)
+* 📊 **BKA Bundesweite Fallzahlen PMK 2024:** [Lokaler Beleg](./dokumente/hauptquellen/BKA_Fallzahlen_PMK_2024.txt) | [Online-Quelle](https://www.bka.de/DE/UnsereAufgaben/Deliktsbereiche/PMK/Fallzahlen/fallzahlen_node.html)
 * 📊 **BKA Bundesweite Fallzahlen PMK 2023:** [PDF-Download (Volltext im Repository)](./dokumente/hauptquellen/2023PMKFallzahlen.pdf)
 * 📊 **BKA Deliktsbereich PMK-rechts:** [Lokaler Beleg](./dokumente/hauptquellen/BKA_Deliktsbereich_PMK_rechts.txt) | [Online-Quelle](https://www.bka.de/DE/UnsereAufgaben/Deliktsbereiche/PMK/PMK-rechts/pmk-rechts_node.html)
 
