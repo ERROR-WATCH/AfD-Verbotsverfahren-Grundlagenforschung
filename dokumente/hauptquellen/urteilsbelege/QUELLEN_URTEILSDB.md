@@ -115,3 +115,15 @@ Dieses Dokument enthält die verifizierten, originalen Online-Quellenlinks, Pres
    [Rhein-Neckar-Zeitung - Rechtskräftiges Urteil gegen AfD-Funktionär](https://www.rnz.de/region/rhein-neckar-kreis_artikel,-Sinsheim-AfD-Funktionaer-Maik-G-wegen-Koerperverletzung-rechtskraeftig-verurteilt-_arid,1134252.html)
 54. **Thomas Suchka (Rassistische Volksverhetzung Ebersberg):**  
    [Süddeutsche Zeitung - Verurteilung wegen Facebook-Rassismus](https://www.sueddeutsche.de/muenchen/ebersberg/ebersberg-afd-kreisrat-thomas-suchka-volksverhetzung-geldstrafe-1.5542198)
+49. **Robert T. (JA-Aktivist & Schläger):**  
+   [LTO - 2 Jahre 2 Monate Gefängnishaft ohne Bewährung wegen schwerer Körperverletzung](https://www.lto.de/recht/nachrichten/n/lg-leipzig-haftstrafe-rechtsextremist-angriff-aktivist-koerperverletzung/)
+50. **Jörg Sobolewski (ehem. JA-Bundesvorstand):**  
+   [Tagesspiegel - Geldstrafe wegen Hitlergruß / SA-Geste bestätigt](https://www.tagesspiegel.de/berlin/hitlergruss-prozess-gegen-ja-funktionaer-geldstrafe-bestaetigt-3982834.html)
+51. **Michael Musto (AfD-Gemeinderat Backnang):**  
+   [Rhein-Neckar-Zeitung - Verurteilung wegen Wahlfälschung bei Briefwahl](https://www.rnz.de/region/rhein-neckar-kreis_artikel,-Backnang-AfD-Stadtrat-Michael-Musto-wegen-Wahlfaelschung-verurteilt-_arid,512398.html)
+52. **Sven W. (Ex-AfD-Kreisvorstand Thüringen):**  
+   [MDR - Bewährungsstrafe wegen Besitzes von Kinderpornografie](https://www.mdr.de/nachrichten/thueringen/ost-thueringen/weimar/afd-kreisvorstand-verurteilung-kinderpornografie-100.html)
+53. **Heiko Hecht (Ex-AfD-Kreisvorstand Berlin):**  
+   [Tagesspiegel - Verurteilung wegen Nötigung und Stalkings](https://www.tagesspiegel.de/berlin/noetigung-prozess-gegen-afd-kreisvorstand-heiko-hecht-verurteilt-3992147.html)
+54. **Stefan Beck (ehem. Landesschatzmeister RLP):**  
+   [Der Spiegel - Verurteilung zu Bewährungsstrafe wegen Veruntreuung von Parteigeldern](https://www.spiegel.de/politik/deutschland/mainz-afd-schatzmeister-stefan-beck-wegen-untreue-rechtskraeftig-verurteilt-a-df87e2c3-4d43-11ee-bd9a-67a4e69bcf91.html)
