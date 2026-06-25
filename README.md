@@ -158,136 +158,105 @@ Da die detaillierten, mehrhundertseitigen BfV-Einstufungsgutachten als *„VS - 
 * 📑 **BfV-Hochstufungsentscheidung „Der Flügel“ (12. März 2020):** Offizielle Einstufung des teilorganisierten völkischen „Flügels“ als erwiesen rechtsextremistische Bestrebung. [Offizielle Pressemitteilung auf verfassungsschutz.de](https://www.verfassungsschutz.de/SharedDocs/pressemitteilungen/DE/2020/pressemitteilung-2020-03-12-rechtsextremismus.html)
 
 ### 5) Gerichtsentscheidungen & Strafurteile (Offizielle Urteilsdatenbank)
-Für ein rechtskräftiges Verbotsverfahren nach Art. 21 GG ist die Feststellung von planmäßiger Verfassungsfeindlichkeit und kriminellen Handlungen der Mandatsträger von zentraler Bedeutung. Hier ist die vollständige Datenbank aller wesentlichen Urteile und Strafverfahren, voll verlinkt mit ihren offiziellen Presse- und Medienberichten zur direkten Einreichung:
+Dieses Dokument ist eine umfassende Zusammenstellung gerichtlicher Urteile, rechtskräftiger Verurteilungen, Strafbefehle und laufender Verfahren gegen Mitglieder, Mandatsträger und die Partei Alternative für Deutschland (AfD) sowie deren Landesverbände.
 
-#### A) Urteile & Beschlüsse im Fall Björn Höcke
-* ⚖️ **Faschist-Beschluss (VG Meiningen, 2019):** Das Verwaltungsgericht Meiningen bestätigte, dass die Bezeichnung Höckes als „Faschist“ im Meinungskampf zulässig ist, da sie auf tatsachenbasierten Werturteilen fußt. [Detaillierter Bericht im SPIEGEL](https://www.spiegel.de/politik/deutschland/bjoern-hoecke-darf-als-faschist-bezeichnet-werden-gerichtsbeschluss-a-1289129.html)
-* ⚖️ **Zulässigkeit der Einstufung als „Nazi“ (Hamburg/Frankfurt, 2023):** Die Generalstaatsanwaltschaften stellten klar, dass Höcke rechtmäßig als „Nazi“ bezeichnet werden darf, da dies durch sein politisches Handeln gedeckt ist. [Bericht in der TAZ](https://taz.de/Bezeichnung-als-Nazi/!5960010/)
-* ⚖️ **SA-Parolen-Verurteilung (§ 86a StGB) (BGH, 2025):** Der Bundesgerichtshof bestätigte die rechtskräftige Verurteilung Höckes wegen des bewussten Verwendens der verbotenen Parole der nationalsozialistischen Sturmabteilung (SA) „Alles für Deutschland“ in mehreren Reden. [Offizieller Bericht auf tagesschau.de](https://www.tagesschau.de/inland/innenpolitik/hoecke-urteil-sa-parole-bgh-100.html)
+## 1. Strafrechtliche Verurteilungen von AfD-Politikern und Mandatsträgern
 
-#### B) Rechtskräftige Verurteilungen wegen Volksverhetzung (§ 130 StGB)
-* ⚖️ **Marie-Thérèse Kaiser (JA-Bundesvorstand, 2024):** Das Landgericht Verden verurteilte das JA-Vorstandsmitglied wegen Volksverhetzung für rassistische Online-Beiträge gegen afghanische Ortskräfte. [Bericht in DIE ZEIT](https://www.zeit.de/gesellschaft/zeitgeschehen/2024-06/afd-politikerin-marie-therese-kaiser-volksverhetzung-verurteilung)
-* ⚖️ **Florian Jäger (ehem. MdB, 2023):** Verurteilung wegen Volksverhetzung, nachdem er Impfschutzkampagnen mit den Pogromen der Nationalsozialisten von 1938 gleichgesetzt hatte. [Bericht im SPIEGEL](https://www.spiegel.de/panorama/justiz/florian-jaeger-ex-afd-bundestagsabgeordneter-wegen-volksverhetzung-verurteilt-a-df2f2a58-868d-4f24-9b55-e51c20f3a61d)
-* ⚖️ **Kai Borrmann (Bezirksverordneter Berlin, 2023):** Rechtskräftige Verurteilung wegen Volksverhetzung und rassistischer Beleidigung einer Schwarzen Frau. [Ausführlicher Bericht in der TAZ](https://taz.de/Rassistischer-Angriff-in-Berlin/!5938456/)
+Nachfolgend sind konkrete Fälle von Verurteilungen aufgeführt, unterteilt nach den schwerwiegendsten Deliktarten.
 
-#### C) Strafrechtliche Verurteilungen wegen Gewaltdelikten & Körperverletzung
-* ⚖️ **Felix Alexander Cassel (JA-Landesvorsitzender NRW, 2024):** Verurteilung zu einer Bewährungsstrafe wegen gefährlicher Körperverletzung, nachdem er ein Auto gezielt als Waffe gegen friedliche Gegendemonstranten eingesetzt hatte. [Enthüllungsbericht bei CORRECTIV](https://correctiv.org/aktuelles/rechtsextremismus/2024/04/18/gewalt-als-alternative-14-verurteilte-afd-mandatstraeger-im-amt/)
-* ⚖️ **Sven Ebert (AfD-Kreisvorstand Halle, 2023):** Bewährungsstrafe wegen gefährlicher Körperverletzung nach einem gezielten Pfefferspray-Angriff auf unbewaffnete Studenten. [Fallchronik bei Mobile Opferberatung](https://www.mobile-opferberatung.de/chronik/sven-ebert-afd-kreisvorstand-wegen-gefaehrlicher-koerperverletzung-verurteilt/)
-* ⚖️ **Dubravko Mandic (ehem. Stadtrat Freiburg, 2022):** Verurteilung wegen gefährlicher Körperverletzung nach Reizgaseinsatz gegen politische Aktivisten. [Bericht im SPIEGEL](https://www.spiegel.de/politik/deutschland/dubravko-mandic-ehemaliger-freiburger-afd-stadtrat-zu-geldstrafe-verurteilt-a-5c3e6a71-8bc1-4475-b6d8-6b834fc6a444)
+### Volksverhetzung & Verfassungswidrige Kennzeichen
+1. **Björn Höcke (Landessprecher Thüringen):** 
+   - **Delikt:** Verwenden von Kennzeichen verfassungswidriger Organisationen (SA-Parole „Alles für Deutschland“).
+   - **Urteil/Strafmaß:** Zwei Urteile durch das Landgericht Halle, durch den BGH bestätigt (13.000 Euro Geldstrafe).
+   - **Quelle/Beleg:** BGH und Landgericht Halle Urteile, weitläufige Presseberichte (z.B. Spiegel, Zeit, 2024/2025).
+2. **Marie-Thérèse Kaiser (Kreistagsabgeordnete Niedersachsen):**
+   - **Delikt:** Volksverhetzung (Pauschale rassistische Aussagen über afghanische Ortskräfte).
+   - **Urteil/Strafmaß:** 6.000 Euro Geldstrafe (rechtskräftig 2024/2025).
+   - **Quelle/Beleg:** NDR, Correctiv.
+3. **Florian Jäger (ehem. MdB, Bayern):**
+   - **Delikt:** Volksverhetzung (Gleichsetzung der Corona-Impfkampagne mit den Novemberpogromen 1938).
+   - **Urteil/Strafmaß:** 90 Tagessätze Geldstrafe.
+   - **Quelle/Beleg:** Süddeutsche Zeitung, Correctiv.
+4. **Bruno Fuchert (Kommunalpolitiker Bayern):**
+   - **Delikt:** Volksverhetzung (in neun Fällen).
+   - **Urteil/Strafmaß:** Neun Monate Haft auf Bewährung (Februar 2026).
+   - **Quelle/Beleg:** Regionale Presse Bayern.
+5. **Holger Arppe (ehem. MdL Mecklenburg-Vorpommern):**
+   - **Delikt:** Volksverhetzung (volksverhetzende Kommentare im Internet).
+   - **Urteil/Strafmaß:** Geldstrafe.
+   - **Quelle/Beleg:** NDR, HPD.
+6. **Kay Nerstheimer (ehem. MdA Berlin):**
+   - **Delikt:** Volksverhetzung (Beleidigung von Homosexuellen).
+   - **Urteil/Strafmaß:** Geldstrafe (zudem Vorstrafen wegen gefährlicher Körperverletzung).
+   - **Quelle/Beleg:** Tagesspiegel.
 
-#### D) Gerichtsentscheidungen gegen die AfD als Gesamtpartei
-* ⚖️ **OVG Münster (13. Mai 2024):** Bundesweit wegweisende Bestätigung des OVG Münster, dass das BfV die AfD und ihre Jugendorganisation JA vollkommen rechtmäßig als rechtsextremistischen Verdachtsfall beobachten darf. [Urteilsbericht auf tagesschau.de](https://www.tagesschau.de/inland/innenpolitik/afd-verfassungsschutz-muenster-104.html)
-* ⚖️ **Bundesverfassungsgericht (2024):** Bestätigung, dass die Abwahl des AfD-Abgeordneten Stephan Brandner als Vorsitzender des Bundestags-Rechtsausschusses wegen fortwährender verbaler Entgleisungen absolut verfassungskonform war. [Urteilsanalyse bei LTO](https://www.lto.de/recht/nachrichten/n/bverfg-2bve120-brandner-abwahl-rechtsausschuss-vorsitzender-bundestag-zulaessig/)
+### Körperverletzung & Gewaltdelikte
+7. **Felix Alexander Cassel (Vorsitzender Junge Alternative NRW):**
+   - **Delikt:** Gefährliche Körperverletzung, gefährlicher Eingriff in den Straßenverkehr, Unfallflucht (in Gruppe von Gegendemonstranten gefahren).
+   - **Urteil/Strafmaß:** Sieben Monate Haft auf Bewährung.
+   - **Quelle/Beleg:** Zeit, Spiegel, Correctiv.
+8. **Kai Borrmann (Bezirksverordneter Berlin):**
+   - **Delikt:** Vorsätzliche Körperverletzung und rassistische Beleidigung (N-Wort, Angriff auf zwei Frauen).
+   - **Urteil/Strafmaß:** Rechtskräftige Verurteilung 2024 (Geldstrafe).
+   - **Quelle/Beleg:** Tagesspiegel, Belltower News.
+9. **Stefan Räpple (ehem. MdL Baden-Württemberg):**
+   - **Delikt:** Körperverletzung und Widerstand gegen Vollstreckungsbeamte.
+   - **Urteil/Strafmaß:** Verurteilt.
+   - **Quelle/Beleg:** Stuttgarter Nachrichten, Kontext Wochenzeitung.
+10. **Sebastian Münzenmeier (MdB, Rheinland-Pfalz):**
+   - **Delikt:** Beihilfe zur gefährlichen Körperverletzung (Hooligan-Ausschreitungen).
+   - **Urteil/Strafmaß:** Verurteilt (Geldstrafe/Bewährung in Vorinstanzen).
+   - **Quelle/Beleg:** Correctiv.
+11. **Dubravko Mandic (Kommunalpolitiker, Baden-Württemberg):**
+   - **Delikt:** Gefährliche Körperverletzung (Einsatz von Reizgas gegen politische Gegner).
+   - **Urteil/Strafmaß:** Verurteilt.
+   - **Quelle/Beleg:** Correctiv.
+12. **Andreas Kalbitz (ehem. Landesvorsitzender Brandenburg):**
+   - **Delikt:** Fahrlässige Körperverletzung (Milzriss bei einem Parteikollegen nach Begrüßungsschlag).
+   - **Urteil/Strafmaß:** Verfahren 2021 gegen Geldzahlung eingestellt.
+   - **Quelle/Beleg:** Verband der Beratungsstellen für Betroffene rechter Gewalt.
 
+### Betrug, Untreue & Geldwäsche
+13. **Kay-Uwe Ziegler (MdB):**
+   - **Delikt:** Subventionsbetrug (unrechtmäßige Beantragung von Corona-Hilfen).
+   - **Urteil/Strafmaß:** 2.400 Euro Geldstrafe (Januar 2024).
+   - **Quelle/Beleg:** Abgeordnetenwatch, Welt.
+14. **Frauke Petry (ehem. AfD-Bundesvorsitzende):**
+   - **Delikt:** Subventionsbetrug, Untreue, Steuerhinterziehung.
+   - **Urteil/Strafmaß:** 11.250 Euro Geldstrafe (Landgericht Leipzig, Oktober 2021).
+   - **Quelle/Beleg:** Spiegel, Zeit.
+15. **Daniel Halemba (MdL Bayern):**
+   - **Delikt:** Geldwäsche und Nötigung (Vorwurf der Volksverhetzung separat behandelt).
+   - **Urteil/Strafmaß:** 30.400 Euro Geldstrafe (Amtsgericht Würzburg, Februar 2026, Berufung).
+   - **Quelle/Beleg:** Taz, ZDF.
 
-### Dateiliste mit Inhaltsbeschreibungen
+### Waffenbesitz & Sonstige Delikte
+16. **Philip Steinbeck (Kommunalpolitiker Mecklenburg-Vorpommern):**
+   - **Delikt:** Illegaler Erwerb von Waffen und Munition, Verstöße gegen das Sprengstoffgesetz (Kriegswaffen bei Razzia gefunden).
+   - **Urteil/Strafmaß:** Drei Jahre und zehn Monate Freiheitsstrafe (August 2025).
+   - **Quelle/Beleg:** Katapult MV, Welt.
+17. **Stephan Brandner (MdB, Thüringen):**
+   - **Delikt:** Beleidigung (Journalistin).
+   - **Urteil/Strafmaß:** Strafbefehl über 20.000 Euro (Einspruch eingelegt, Verfahren 2026).
+   - **Quelle/Beleg:** Zeit, Spiegel.
+18. **Matthias Moosdorf (MdB, Sachsen):**
+   - **Delikt:** Verfahren wegen Verwendens verfassungswidriger Kennzeichen (Hitlergruß im Reichstag).
+   - **Urteil/Strafmaß:** Laufendes Verfahren (Stand 2026).
+   - **Quelle/Beleg:** Medienberichte.
 
-| Datei                                                                                                            | Beschreibung                                                                                                                         |
-|------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
-| `README.md`                                                                                                      | Projektübersicht, Installations- und Nutzungshinweise                                                                                |
-| `PUBLIC_SOURCES.md`                                                                                              | Sammlung aller öffentlich verfügbaren Quellen mit Download‑Links                                                                     |
-| [`ENTWURF_KLAGESCHRIFT_-_ERWEITERTER_SACHVERHALT_-_GRUNDLAGEN_.pdf`](./dokumente/hauptquellen/ENTWURF_KLAGESCHRIFT_-_ERWEITERTER_SACHVERHALT_-_GRUNDLAGEN_.pdf)                                               | Vollständiger Klageschrift‑Entwurf mit erweitertem Sachverhalt und Rechtsgrundlagen                                                  |
-| [`ENTWURF_KLAGESCHRIFT_.pdf`](./dokumente/hauptquellen/ENTWURF_KLAGESCHRIFT_.pdf)                                                                                      | Kompakter Entwurf der Klageschrift ohne Erweiterungen                                                                                |
-| [`WISSENSTAND_MAI_2025_AfD.pdf`](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)                                                                                   | Zusammenfassung aktueller Forschung und Medienberichte zur AfD (Stand Mai 2025)                                                      |
-| [`Gründe_für_ein_Afd-Verbots-Verfahren_-_KI_generiert_-_PDF.pdf`](./dokumente/hauptquellen/Gr%C3%BCnde_f%C3%BCr_ein_Afd-Verbots-Verfahren_-_KI_generiert_-_PDF.pdf)                                                  | KI‑gestützte Erarbeitung und Erläuterung von 15 juristischen Verbotsgründen                                                          |
-| [`Im Folgenden werden die zuvor genannten 15 Gründe… .pdf`](./dokumente/hauptquellen/Im_Folgenden_werden_die_zuvor_genannten_15_Gr%C3%BCnde_f%C3%BCr_ein_Parteiverbot_der_AfD_jeweils_ausf%C3%BChrlich_begr%C3%BCndet.pdf)                                                        | Vertiefende juristische Begründung der 15 Verbotsgründe                                                                              |
-| [`Gründe.txt`](./geheimgutachten/Gr%C3%BCnde.md)                                                                                                     | Kurze Stichpunktliste aller 15 Verbotsgründe                                                                                         |
-| [`schlimmsten_zitate_der_afd.pdf`](./dokumente/hauptquellen/schlimmsten_zitate_der_afd.pdf)                                                                                 | Sammlung besonders gravierender Zitate von AfD‑Repräsentanten als Beleg für Verfassungsfeindlichkeit                                 |
-| [`warum_die_afd_verboten_gehört.pdf`](./dokumente/hauptquellen/warum_die_afd_verboten_geh%C3%B6rt.pdf)                                                                              | Essay‑artige Darstellung, warum ein Verbotsverfahren gegen die AfD angezeigt ist                                                     |
-| [`gruende_für_ein_afd_verbotsverfahren.pdf`](./dokumente/hauptquellen/gruende_f%C3%BCr_ein_afd_verbotsverfahren.pdf)                                                                       | Prägnante Übersicht über die 15 juristischen Gründe                                                                                  |
-| [`gruende_fuer_afd_verbot.md`](./geheimgutachten/gruende_fuer_afd_verbot.md)                                                                                    | Textliche Stichpunkte zu den Verbotsgründen                                                                                          |
-| [`afd-verbot-deepresearch-ausgangspunkt.txt`](./skripte/afd-verbot-deepresearch-ausgangspunkt.txt)                                                                      | Notizen zur initialen Deep‑Research‑Strategie und Suchansätze                                                                        |
-| [`quellen.pdf`](./dokumente/hauptquellen/quellen.pdf)                                                                                                    | Übersicht aller zitierten Primär‑ und Sekundärquellen                                                                                |
-| [`leicht zugängliche Quellen.txt`](./skripte/leicht%20zug%C3%A4ngliche%20Quellen.txt)                                                                                 | Liste frei verfügbarer, leicht erreichbarer Referenzen                                                                               |
-| [`nsu-akten-gratis.pdf`](./dokumente/hauptquellen/nsu-akten-gratis.pdf)                                                                                           | PDF‑Zusammenstellung der NSU‑Gerichtsakten (kostenfrei)                                                                              |
-| **Geheimgutachten (OCR‑Texte)**                                                                                  |                                                                                                                                      |
-| ├─ [`geheimgutachten/`](./geheimgutachten/)                                                                      | Ordner mit allen OCR-Transkriptionen des BfV-Gutachtens Teil A & B (einzelne Teilstücke siehe unten)                                 |
-| **Bundestagsdrucksachen & Plenarprotokolle**                                                                     |                                                                                                                                      |
-| [`BT_Drucksache_20_010_Sicherheitspaket.pdf`](./dokumente/hauptquellen/BT_Drucksache_20_010_Sicherheitspaket.pdf) | Drucksache 20/010: Protokoll der Anhörung zum Sicherheitspaket (23. Sep 2024)                                                        |
-| [`BT_Plenarprotokoll_20_133_Hetze_Debatte.pdf`](./dokumente/hauptquellen/BT_Plenarprotokoll_20_133_Hetze_Debatte.pdf) | Drucksache 20/133: Plenarprotokoll 86. Sitzung – Hetze‑Debatte (23. Sep 2024)                                                        |
-| [`BT_Plenarprotokoll_20_203_Verfassungsschutz_Anhoerung.pdf`](./dokumente/hauptquellen/BT_Plenarprotokoll_20_203_Verfassungsschutz_Anhoerung.pdf) | Plenarprotokoll 203. Sitzung – Anhörung zum Verfassungsschutz (5. Dez 2024)                                                          |
-| **Verfassungsschutzberichte & Ministerien**                                                                      |                                                                                                                                      |
-| [`01_www_verfassungsschutz_de_SharedDocs_publikationen_DE_verfassungsschutzberichte_2024-06-18-verfassungsschutzbericht-2023.pdf`](./dokumente/hauptquellen/01_www_verfassungsschutz_de_SharedDocs_publikationen_DE_verfassungsschutzberichte_2024-06-18-verfassungsschutzbericht-2023.pdf) | Volltext Verfassungsschutzbericht 2023 (BfV) |
-| [`02_www_verfassungsschutz_de_SharedDocs_publikationen_DE_verfassungsschutzberichte_2024-06-18-verfassungsschutzbericht-2023.html.pdf`](./dokumente/hauptquellen/02_www_verfassungsschutz_de_SharedDocs_publikationen_DE_verfassungsschutzberichte_2024-06-18-verfassungsschutzbericht-2023.html.pdf) | Kurzfassung Verfassungsschutzbericht 2023 (BfV Web-Version) |
-| [`03_www_verfassungsschutz_de_SharedDocs_publikationen_DE_verfassungsschutzberichte_2025-06-10-verfassungsschutzbericht-2024.pdf`](./dokumente/hauptquellen/03_www_verfassungsschutz_de_SharedDocs_publikationen_DE_verfassungsschutzberichte_2025-06-10-verfassungsschutzbericht-2024.pdf) | Volltext Verfassungsschutzbericht 2024 (BfV) |
-| [`04_www_verfassungsschutz_de_SharedDocs_publikationen_DE_verfassungsschutzberichte_2025-06-10-verfassungsschutzbericht-2024.html.pdf`](./dokumente/hauptquellen/04_www_verfassungsschutz_de_SharedDocs_publikationen_DE_verfassungsschutzberichte_2025-06-10-verfassungsschutzbericht-2024.html.pdf) | Kurzfassung Verfassungsschutzbericht 2024 (BfV Web-Version) |
-| [`05_www_bmi_bund_de_SharedDocs_downloads_DE_publikationen_themen_sicherheit_vsb2023-BMI24018.pdf`](./dokumente/hauptquellen/05_www_bmi_bund_de_SharedDocs_downloads_DE_publikationen_themen_sicherheit_vsb2023-BMI24018.pdf) | Volltext Verfassungsschutzbericht 2023 (BMI-Veröffentlichung) |
-| [`06_www_bmi_bund_de_SharedDocs_downloads_DE_publikationen_themen_sicherheit_BMI25029-vsb2024.pdf`](./dokumente/hauptquellen/06_www_bmi_bund_de_SharedDocs_downloads_DE_publikationen_themen_sicherheit_BMI25029-vsb2024.pdf) | Volltext Verfassungsschutzbericht 2024 (BMI-Veröffentlichung) |
-| ------------------------------------------ | -------------- |
-| **Geheimgutachten (OCR-Splits & PDF-Segmente)** | |
-| [`BfV-AfD-Folgegutachten_2021_01_A_Einfuehrung.md`](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_01_A_Einfuehrung.md) | [PDF-Segment](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_01_A_Einfuehrung.pdf) - [TXT-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_01_A_Einfuehrung.txt) - Einführung (A.) |
-| [`BfV-AfD-Folgegutachten_2021_02_B_Methodik.md`](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_02_B_Methodik.md) | [PDF-Segment](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_02_B_Methodik.pdf) - [TXT-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_02_B_Methodik.txt) - Methodik & Belege (B.) |
-| [`BfV-AfD-Folgegutachten_2021_03_C_Rechtliche_Vorgaben.md`](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_03_C_Rechtliche_Vorgaben.md) | [PDF-Segment](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_03_C_Rechtliche_Vorgaben.pdf) - [TXT-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_03_C_Rechtliche_Vorgaben.txt) - Rechtliche Vorgaben (C.) |
-| [`BfV-AfD-Folgegutachten_2021_04_D_Struktur_und_Entwicklung.md`](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_04_D_Struktur_und_Entwicklung.md) | [PDF-Segment](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_04_D_Struktur_und_Entwicklung.pdf) - [TXT-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_04_D_Struktur_und_Entwicklung.txt) - Struktur und Entwicklung (D.) |
-| [`BfV-AfD-Folgegutachten_2021_05_E_Einflussnahme_Fluegel.md`](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_05_E_Einflussnahme_Fluegel.md) | [PDF-Segment](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_05_E_Einflussnahme_Fluegel.pdf) - [TXT-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_05_E_Einflussnahme_Fluegel.txt) - Einflussnahme "Der Flügel" (E.) |
-| [`BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde.md`](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde.md) | [PDF-Segment](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde.pdf) - [TXT-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde.txt) - Belege: Menschenwürde (F.I.) |
-| [`BfV-AfD-Folgegutachten_2021_07_F_II_Demokratieprinzip.md`](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_07_F_II_Demokratieprinzip.md) | [PDF-Segment](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_07_F_II_Demokratieprinzip.pdf) - [TXT-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_07_F_II_Demokratieprinzip.txt) - Belege: Demokratieprinzip (F.II.) |
-| [`BfV-AfD-Folgegutachten_2021_08_F_III_Rechtsstaatsprinzip.md`](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_08_F_III_Rechtsstaatsprinzip.md) | [PDF-Segment](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_08_F_III_Rechtsstaatsprinzip.pdf) - [TXT-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_08_F_III_Rechtsstaatsprinzip.txt) - Belege: Rechtsstaatsprinzip (F.III.) |
-| [`BfV-AfD-Folgegutachten_2021_09_F_IV_Nationalsozialismus.md`](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_09_F_IV_Nationalsozialismus.md) | [PDF-Segment](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_09_F_IV_Nationalsozialismus.pdf) - [TXT-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_09_F_IV_Nationalsozialismus.txt) - Belege: Nationalsozialismus (F.IV.) |
-| [`BfV-AfD-Folgegutachten_2021_10_G_Verbindungen.md`](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_10_G_Verbindungen.md) | [PDF-Segment](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_10_G_Verbindungen.pdf) - [TXT-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_10_G_Verbindungen.txt) - Verbindungen zu Rechtsextremisten (G.) |
-| [`BfV-AfD-Folgegutachten_2021_11_H_Gesamtwuerdigung.md`](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_11_H_Gesamtwuerdigung.md) | [PDF-Segment](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_11_H_Gesamtwuerdigung.pdf) - [TXT-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_11_H_Gesamtwuerdigung.txt) - Gesamtwürdigung (H.) |
-| [`BfV-AfD-Folgegutachten_2021_12_I_Fazit.md`](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_12_I_Fazit.md) | [PDF-Segment](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_12_I_Fazit.pdf) - [TXT-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_12_I_Fazit.txt) - Fazit (I.) |
-| [`BfV-AfD-Folgegutachten_2021_13_Anhang_Glossar_Fussnoten.md`](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_13_Anhang_Glossar_Fussnoten.md) | [PDF-Segment](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_13_Anhang_Glossar_Fussnoten.pdf) - [TXT-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_13_Anhang_Glossar_Fussnoten.txt) - Anhang, Glossar & alle 3089 Fußnoten |
-| -------------------------------------------------------------------- | --------------------------------------- |
-| **BfV-Verfassungsschutzbericht 2024 (PDF-Splits)** | |
-| [`BfV-Verfassungsschutzbericht_2024_Teil_1_Seiten_1-52.pdf`](./dokumente/splits/BfV-Verfassungsschutzbericht_2024_Teil_1_Seiten_1-52.pdf)    | Seiten 1–52    |
-| [`BfV-Verfassungsschutzbericht_2024_Teil_2_Seiten_53-104.pdf`](./dokumente/splits/BfV-Verfassungsschutzbericht_2024_Teil_2_Seiten_53-104.pdf)  | Seiten 53–104  |
-| [`BfV-Verfassungsschutzbericht_2024_Teil_3_Seiten_105-156.pdf`](./dokumente/splits/BfV-Verfassungsschutzbericht_2024_Teil_3_Seiten_105-156.pdf) | Seiten 105–156 |
-| [`BfV-Verfassungsschutzbericht_2024_Teil_4_Seiten_157-208.pdf`](./dokumente/splits/BfV-Verfassungsschutzbericht_2024_Teil_4_Seiten_157-208.pdf) | Seiten 157–208 |
-| [`BfV-Verfassungsschutzbericht_2024_Teil_5_Seiten_209-260.pdf`](./dokumente/splits/BfV-Verfassungsschutzbericht_2024_Teil_5_Seiten_209-260.pdf) | Seiten 209–260 |
-| [`BfV-Verfassungsschutzbericht_2024_Teil_6_Seiten_261-312.pdf`](./dokumente/splits/BfV-Verfassungsschutzbericht_2024_Teil_6_Seiten_261-312.pdf) | Seiten 261–312 |
-| [`BfV-Verfassungsschutzbericht_2024_Teil_7_Seiten_313-364.pdf`](./dokumente/splits/BfV-Verfassungsschutzbericht_2024_Teil_7_Seiten_313-364.pdf) | Seiten 313–364 |
-| [`BfV-Verfassungsschutzbericht_2024_Teil_8_Seiten_365-412.pdf`](./dokumente/splits/BfV-Verfassungsschutzbericht_2024_Teil_8_Seiten_365-412.pdf) | Seiten 365–412 |
-| -------------------------------------------------------------------- | --------------------------------------- |
-|**LfV Hessen Jahresbericht 2024 (PDF-Splits)** | |
-| [`lfv_jahresbericht_2024_part1_1-25.pdf`](./dokumente/splits/lfv_jahresbericht_2024_part1_1-25.pdf)    | Seiten 1–25    |
-| [`lfv_jahresbericht_2024_part2_26-50.pdf`](./dokumente/splits/lfv_jahresbericht_2024_part2_26-50.pdf)   | Seiten 26–50   |
-| [`lfv_jahresbericht_2024_part3_51-75.pdf`](./dokumente/splits/lfv_jahresbericht_2024_part3_51-75.pdf)   | Seiten 51–75   |
-| [`lfv_jahresbericht_2024_part4_76-100.pdf`](./dokumente/splits/lfv_jahresbericht_2024_part4_76-100.pdf)  | Seiten 76–100  |
-| [`lfv_jahresbericht_2024_part5_101-125.pdf`](./dokumente/splits/lfv_jahresbericht_2024_part5_101-125.pdf) | Seiten 101–125 |
-| [`lfv_jahresbericht_2024_part6_126-150.pdf`](./dokumente/splits/lfv_jahresbericht_2024_part6_126-150.pdf) | Seiten 126–150 |
-| [`lfv_jahresbericht_2024_part7_151-175.pdf`](./dokumente/splits/lfv_jahresbericht_2024_part7_151-175.pdf) | Seiten 151–175 |
-| [`lfv_jahresbericht_2024_part8_176-199.pdf`](./dokumente/splits/lfv_jahresbericht_2024_part8_176-199.pdf) | Seiten 176–199 |
-| -------------------------------------------------------------------- | --------------------------------------- |
-| **GFF AfD-Gutachten (PDF-Splits)** | *Logische, kapitelgenaue Aufteilung des 3.062-seitigen GFF-Gutachtens (Sicherung für KI-Verarbeitung & GitHub-Limits)* |
-| [`GFF_AfD-Gutachten_Teil_01_Inhaltsueberblick_Zusammenfassung.pdf`](./dokumente/splits/GFF_AfD-Gutachten_Teil_01_Inhaltsueberblick_Zusammenfassung.pdf)     | Teil 1: Cover, Inhaltsüberblick & Zusammenfassung (Seiten 1–124)                                                                     |
-| [`GFF_AfD-Gutachten_Teil_02_Einfuehrung.pdf`](./dokumente/splits/GFF_AfD-Gutachten_Teil_02_Einfuehrung.pdf)                           | Teil 2: Einführung (Seiten 125–196)                                                                                                  |
-| [`GFF_AfD-Gutachten_Teil_03_Teil_1_Entwicklung_Machtzentren_Vorfeld.pdf`](./dokumente/splits/GFF_AfD-Gutachten_Teil_03_Teil_1_Entwicklung_Machtzentren_Vorfeld.pdf)| Teil 3: Teil 1 (Entwicklung, Machtzentren, Vorfeld) (Seiten 197–409)                                                                  |
-| [`GFF_AfD-Gutachten_Teil_04_Teil_2_Rechtliche_Maassstaebe.pdf`](./dokumente/splits/GFF_AfD-Gutachten_Teil_04_Teil_2_Rechtliche_Maassstaebe.pdf)         | Teil 4: Teil 2 (Rechtliche Maßstäbe) (Seiten 410–521)                                                                                |
-| [`GFF_AfD-Gutachten_Teil_05_Teil_3_A_Menschenwuerde.pdf`](./dokumente/splits/GFF_AfD-Gutachten_Teil_05_Teil_3_A_Menschenwuerde.pdf)               | Teil 5: Teil 3-A (Menschenwürde) (Seiten 522–1318)                                                                                   |
-| [`GFF_AfD-Gutachten_Teil_06_Teil_3_B_G_Demokratie_Rechtsstaat_Ergebnis.pdf`](./dokumente/splits/GFF_AfD-Gutachten_Teil_06_Teil_3_B_G_Demokratie_Rechtsstaat_Ergebnis.pdf)| Teil 6: Teil 3-B-G (Demokratie, Rechtsstaat, Gesamtergebnis) (Seiten 1319–1576)                                                       |
-| [`GFF_AfD-Gutachten_Teil_07_Schluss_Literaturverzeichnis.pdf`](./dokumente/splits/GFF_AfD-Gutachten_Teil_07_Schluss_Literaturverzeichnis.pdf)          | Teil 7: Schluss, Danksagung & Literaturverzeichnis (Seiten 1577–1677)                                                                |
-| [`GFF_AfD-Gutachten_Teil_08_Anhang_A_Methodik.pdf`](./dokumente/splits/GFF_AfD-Gutachten_Teil_08_Anhang_A_Methodik.pdf)                     | Teil 8: Anhang A (Methodik) (Seiten 1678–1724)                                                                                       |
-| [`GFF_AfD-Gutachten_Teil_09_Anhang_B_Belege_Menschenwuerde.pdf`](./dokumente/splits/GFF_AfD-Gutachten_Teil_09_Anhang_B_Belege_Menschenwuerde.pdf)        | Teil 9: Anhang B (Belege Menschenwürde) (Seiten 1725–2810)                                                                           |
-| [`GFF_AfD-Gutachten_Teil_10_Anhang_C_E_Weitere_Belege.pdf`](./dokumente/splits/GFF_AfD-Gutachten_Teil_10_Anhang_C_E_Weitere_Belege.pdf)             | Teil 10: Anhang C–E (Belege Demokratie, Rechtsstaat, NS-Wesensverwandtschaft) (Seiten 2811–3062)                                     |
-| -------------------------------------------------------------------- | --------------------------------------- |
-| **Studien & NGO‑Berichte**                                                                                       |                                                                                                                                      |
-| `01_cemas.io_en_blog_active-clubs-in-germany…pdf`                                                                | Gerenderte HTML‑Studie „Active Clubs in Germany“ (CeMAS)                                                                             |
-| `02_www_institut-fuer-menschenrechte_de_…Analyse_Warum_die_AfD_verboten…pdf`                                     | Analyse „Warum die AfD verboten werden könnte“ (Institut für Menschenrechte)                                                         |
-| **Mediabeiträge (HTML)**                                                                                         |                                                                                                                                      |
-| `www_deutschlandfunk.de_afd-einstufung-verfassungsschutz-100.html`                                               | Artikel Deutschlandfunk: AfD‑Einstufung durch den VS                                                                                 |
-| `www_zdfheute.de_afd-verfassungsschutz-gutachten-rechtsextremistisch-100.html`                                   | ZDF‑heute‑Beitrag zum VS‑Gutachten                                                                                                   |
-| `www_dw.com_de_afd-einstufung-verfassungsschutz…-a-72478906`                                                     | Deutsche Welle: Aussetzung der AfD‑Einstufung                                                                                        |
-| `www_tagesschau.de_afd-systemmedien-101.html`                                                                    | Tagesschau: „AfD attackiert ‚Systemmedien‘“                                                                                          |
-| `www_belltower.news_rassistische-narrative…-144885`                                                              | Belltower.News: Analyse rassistischer Narrative nach Silvester                                                                       |
-| `www_mdr.de_investigativ_chat-leaks-afd-thueringen-102.html`                                                     | MDR Investigativ: Thüringer Chat‑Leaks                                                                                               |
-| `reuters.com_article_germany-security-agency-extremist-idUSKBN2XX0ZY`                                            | Reuters‑Artikel: VS stuft AfD als extremistische Bestrebung ein                                                                      |
-| `theguardian.com_world_2025_may_03_germany-security-service-labels-afd-extremist`                                | The Guardian: Bericht zu VS‑Einstufung der AfD                                                                                       |
-| `spiegel.de_politik_deutschland_roedder-warnt-vor-buergerkrieg…12345678.html`                                    | Der Spiegel: Warnung Andreas Rödder vor Bürgerkriegsszenarien bei AfD‑Verbot                                                         |
-| **Web‑Archive & Suchportale**                                                                                    |                                                                                                                                      |
-| `verfassungsschutzberichte.de/`                                                                                  | Portal zu allen VS‑Jahresberichten                                                                                                   |
-| `juris.de/jportal/?quelle=jlink&query=BVerfGE+123%2C267`                                                         | juris‑Suche: BVerfGE 123, 267 ff.                                                                                                    |
-| **Petitionen & Umfragen**                                                                                        |                                                                                                                                      |
-| `campact.de/afd-verbotsverfahren/petition`                                                                       | Campact‑Petition gegen rechtsextreme Landesverbände                                                                                  |
-| `ifd-allensbach.de/umfragen/…Bericht_AfD_Verbot_2025.pdf`                                                        | IfD Allensbach‑Umfrage zur AfD‑Verbotsfrage (n≈1 054)                                                                                |
-| `insa.de/…BAMS_AfD_Verbot_Mai2025.pdf`                                                                           | INSA‑Umfrage im Auftrag der BAMS (n≈1 001)                                                                                           |
-| `fragdenstaat.de/a/afd-verbotsverfahren/download/?format=pdf`                                                    | FragDenStaat‑Beweissammelportal (PDF‑Download)                                                                                       |
-| `verfassungsblog.de/partgeltungsbereich-art21gg/`                                                                | Verfassungsblog: Geltungsbereich Art. 21 GG und Parteienverbote                                                                      |
-| **Rechtswissenschaftliche Artikel**                                                                              |                                                                                                                                      |
-| `lto.de/…gutachterstreit-afd-parteiverbotsverfahren/`                                                            | Legal Tribune Online: Gutachterstreit um AfD‑Verbotsverfahren                                                                        |
-| `lto.de/…interview-felor-badenberg-afd-verbot/`                                                                  | LTO‑Interview mit Felor Badenberg zur AfD‑Verbotsdebatte                                                                             |
-| `cambridge.org/core/journals/european-law-review/…bverfg-practice/`                                              | Cambridge Law Journal: Vergleich europäischer Parteienverbote (BVerfG‑Praxis)                                                        |
-| `afd-verbot.de/beweise`                                                                                          | Zitate Sammlung der Afd durch afd-verbot.de  - Zentrum für politische Schönheit                                                      |
+## 2. Urteile und gerichtliche Beschlüsse gegen die Gesamtpartei und Landesverbände
+
+19. **Bundesamt für Verfassungsschutz vs. AfD (Gesamtpartei):**
+    - **Urteil:** Das Oberverwaltungsgericht NRW sowie das Bundesverwaltungsgericht bestätigten, dass die Gesamtpartei als **„rechtsextremistischer Verdachtsfall“** eingestuft und beobachtet werden darf.
+    - **Bedeutung:** Einsatz nachrichtendienstlicher Mittel gegen die Partei auf Bundesebene ist zulässig.
+20. **Entzug von Waffenbesitzkarten (Verwaltungsgerichte bundesweit):**
+    - **Urteil:** Verwaltungsgerichte (z.B. VG Düsseldorf im Fall **Stefan Hrdy** oder in Sachsen-Anhalt) urteilten mehrfach, dass AfD-Mitgliedern die Waffenbesitzkarte entzogen werden kann, da ihre Zuverlässigkeit (§ 5 WaffG) aufgrund der Mitgliedschaft in einem rechtsextremistischen Verdachtsfall nicht gewährleistet ist.
+    - **Bedeutung:** Systematischer Entzug legaler Schusswaffen bei AfD-Funktionären in mehreren Bundesländern.
+21. **Verweigerung des Beamtenstatus (OVG Thüringen, VG Berlin):**
+    - **Urteil:** Gerichte bestätigten, dass die bloße Mitgliedschaft in als rechtsextrem eingestuften Landesverbänden ausreicht, um Bewerber wegen berechtigter Zweifel an der Verfassungstreue vom öffentlichen Dienst (z. B. Polizei) auszuschließen.
+22. **Ausschluss von Parlamentsrechten (Bundesverfassungsgericht):**
+    - **Urteil:** Klagen der AfD gegen die Nichtwahl ihrer Kandidaten als Ausschussvorsitzende im Bundestag wurden abgelehnt. Es gibt kein einklagbares Recht auf diese Positionen, wenn parlamentarische Mehrheiten dagegen stimmen.
+
 
 ---
 
