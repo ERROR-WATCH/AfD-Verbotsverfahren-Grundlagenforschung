@@ -117,22 +117,22 @@ Klicke direkt auf das jeweilige Bundesland, um zum offiziellen Publikationsporta
 | **Bremen** | [LfV Bremen Berichte](https://www.verfassungsschutz.bremen.de/publikationen/jahresberichte-11598) |
 | **Hamburg** | [LfV Hamburg Berichte](https://www.hamburg.de/innenbehoerde/verfassungsschutzberichte/) |
 | **Hessen** | [LfV Hessen Berichte](https://verfassungsschutz.hessen.de/publikationen/verfassungsschutzberichte) |
-| **Mecklenburg-Vorpommern** | [LfV Mecklenburg-Vorpommern Berichte](https://www.verfassungsschutz-mv.de/publikationen/verfassungsschutzberichte/) |
+| **Mecklenburg-Vorpommern** | [LfV Mecklenburg-Vorpommern Berichte](https://www.verfassungsschutz-mv.de/) |
 | **Niedersachsen** | [LfV Niedersachsen Berichte](https://www.verfassungsschutz.niedersachsen.de/publikationen/verfassungsschutzberichte/) |
 | **Nordrhein-Westfalen** | [LfV Nordrhein-Westfalen Berichte](https://www.im.nrw/themen/verfassungsschutz/verfassungsschutzberichte) |
-| **Rheinland-Pfalz** | [LfV Rheinland-Pfalz Berichte](https://www.verfassungsschutz.rlp.de/de/service/publikationen/) |
-| **Saarland** | [LfV Saarland Berichte](https://www.saarland.de/mige/DE/portale/verfassungsschutz/publikationen/) |
+| **Rheinland-Pfalz** | [LfV Rheinland-Pfalz Berichte](https://mdi.rlp.de/themen/verfassungsschutz) |
+| **Saarland** | [LfV Saarland Berichte](https://www.saarland.de/mibs/DE/themen-aufgaben/aufgaben/verfassungsschutz/) |
 | **Sachsen** | [LfV Sachsen Berichte](https://www.verfassungsschutz.sachsen.de/publikationen-4143.html) |
-| **Sachsen-Anhalt** | [LfV Sachsen-Anhalt Berichte (Ausgabe 2025 erschienen am 02.06.2026)](https://mi.sachsen-anhalt.de/verfassungsschutz/publikationen/verfassungsschutzberichte) |
-| **Schleswig-Holstein** | [LfV Schleswig-Holstein Berichte (Ausgabe 2025 erschienen am 04.06.2026)](https://www.schleswig-holstein.de/DE/landesregierung/themen/innere-sicherheit/verfassungsschutz/Publikationen/publikationen_node.html) |
+| **Sachsen-Anhalt** | [LfV Sachsen-Anhalt Berichte](https://mi.sachsen-anhalt.de/verfassungsschutz/) |
+| **Schleswig-Holstein** | [LfV Schleswig-Holstein Berichte](https://www.schleswig-holstein.de/DE/landesregierung/themen/innere-sicherheit/verfassungsschutz/verfassungsschutz_node.html) |
 | **Thüringen** | [LfV Thüringen Berichte](https://verfassungsschutz.thueringen.de/publikationen/verfassungsschutzberichte) |
 
 
 ### 4) Offizielle Einstufungsentscheidungen & Gerichtsverfahren (BfV)
 Da die detaillierten, mehrhundertseitigen BfV-Einstufungsgutachten als *„VS - Nur für den Dienstgebrauch“* eingestuft sind, dienen die offiziellen, gerichtlichen Verfahrensmeldungen des BfV auf seiner Primärquelle als fundamentale Belege für die Einstufungsketten:
-* 📑 **BfV-Einstufungsentscheidung OVG NRW (13. Mai 2024):** OVG NRW bestätigt in gänzlicher Instanz die Einstufung der Bundes-AfD und der Jungen Alternative (JA) als rechtsextremistischer Verdachtsfall. [Offizielles Urteilsprotokoll & Pressemitteilung auf verfassungsschutz.de](https://www.verfassungsschutz.de/SharedDocs/pressemitteilungen/DE/2024/pressemitteilung-2024-05-13-afd.html)
-* 📑 **BfV-Einstufungsentscheidung VG Köln (08. März 2022):** Verwaltungsgericht Köln bestätigt die Einstufung als Verdachtsobjekt auf Grundlage der BfV-Gutachten. [Offizielle Pressemitteilung auf verfassungsschutz.de](https://www.verfassungsschutz.de/SharedDocs/pressemitteilungen/DE/2022/pressemitteilung-2022-03-08-afd.html)
-* 📑 **BfV-Hochstufungsentscheidung „Der Flügel“ (12. März 2020):** Offizielle Einstufung des teilorganisierten völkischen „Flügels“ als erwiesen rechtsextremistische Bestrebung. [Offizielle Pressemitteilung auf verfassungsschutz.de](https://www.verfassungsschutz.de/SharedDocs/pressemitteilungen/DE/2020/pressemitteilung-2020-03-12-rechtsextremismus.html)
+* 📑 **BfV-Einstufungsentscheidung OVG NRW (13. Mai 2024):** OVG NRW bestätigt in gänzlicher Instanz die Einstufung der Bundes-AfD und der Jungen Alternative (JA) als rechtsextremistischer Verdachtsfall. [Lokales Belegdokument (Volltext im Repository)](./dokumente/hauptquellen/BfV_Pressemitteilung_Einstufungsentscheidung_2024_05_13.txt) | [Online-Quelle](https://www.verfassungsschutz.de/SharedDocs/pressemitteilungen/DE/2024/pressemitteilung-2024-05-13-afd.html)
+* 📑 **BfV-Einstufungsentscheidung VG Köln (08. März 2022):** Verwaltungsgericht Köln bestätigt die Einstufung als Verdachtsobjekt auf Grundlage der BfV-Gutachten. [Lokales Belegdokument (Volltext im Repository)](./dokumente/hauptquellen/BfV_Pressemitteilung_Einstufungsentscheidung_2022_03_08.txt) | [Online-Quelle](https://www.verfassungsschutz.de/SharedDocs/pressemitteilungen/DE/2022/pressemitteilung-2022-03-08-afd.html)
+* 📑 **BfV-Hochstufungsentscheidung „Der Flügel“ (12. März 2020):** Offizielle Einstufung des teilorganisierten völkischen „Flügels“ als erwiesen rechtsextremistische Bestrebung. [Lokales Belegdokument (Volltext im Repository)](./dokumente/hauptquellen/BfV_Pressemitteilung_Hochstufungsentscheidung_Fluegel_2020_03_12.txt) | [Online-Quelle](https://www.verfassungsschutz.de/SharedDocs/pressemitteilungen/DE/2020/pressemitteilung-2020-03-12-rechtsextremismus.html)
 
 ## 1) Bundesamt für Verfassungsschutz (BfV) & Bundesministerium des Innern (BMI)
 * 📑 **BfV-Verfassungsschutzbericht 2025:** (Veröffentlichung angesetzt für **Dienstag, den 30. Juni 2026** um 10:00 Uhr). Sobald live, abrufbar unter: [Offizielles VfS-Portal](https://www.verfassungsschutz.de/DE/service/publikationen/verfassungsschutzberichte/verfassungsschutzberichte_node.html)
@@ -151,22 +151,22 @@ Klicke direkt auf das jeweilige Bundesland, um zum offiziellen Publikationsporta
 | **Bremen** | [LfV Bremen Berichte](https://www.verfassungsschutz.bremen.de/publikationen/jahresberichte-11598) |
 | **Hamburg** | [LfV Hamburg Berichte](https://www.hamburg.de/innenbehoerde/verfassungsschutzberichte/) |
 | **Hessen** | [LfV Hessen Berichte](https://verfassungsschutz.hessen.de/publikationen/verfassungsschutzberichte) |
-| **Mecklenburg-Vorpommern** | [LfV Mecklenburg-Vorpommern Berichte](https://www.verfassungsschutz-mv.de/publikationen/verfassungsschutzberichte/) |
+| **Mecklenburg-Vorpommern** | [LfV Mecklenburg-Vorpommern Berichte](https://www.verfassungsschutz-mv.de/) |
 | **Niedersachsen** | [LfV Niedersachsen Berichte](https://www.verfassungsschutz.niedersachsen.de/publikationen/verfassungsschutzberichte/) |
 | **Nordrhein-Westfalen** | [LfV Nordrhein-Westfalen Berichte](https://www.im.nrw/themen/verfassungsschutz/verfassungsschutzberichte) |
-| **Rheinland-Pfalz** | [LfV Rheinland-Pfalz Berichte](https://www.verfassungsschutz.rlp.de/de/service/publikationen/) |
-| **Saarland** | [LfV Saarland Berichte](https://www.saarland.de/mige/DE/portale/verfassungsschutz/publikationen/) |
+| **Rheinland-Pfalz** | [LfV Rheinland-Pfalz Berichte](https://mdi.rlp.de/themen/verfassungsschutz) |
+| **Saarland** | [LfV Saarland Berichte](https://www.saarland.de/mibs/DE/themen-aufgaben/aufgaben/verfassungsschutz/) |
 | **Sachsen** | [LfV Sachsen Berichte](https://www.verfassungsschutz.sachsen.de/publikationen-4143.html) |
-| **Sachsen-Anhalt** | [LfV Sachsen-Anhalt Berichte (Ausgabe 2025 erschienen am 02.06.2026)](https://mi.sachsen-anhalt.de/verfassungsschutz/publikationen/verfassungsschutzberichte) |
-| **Schleswig-Holstein** | [LfV Schleswig-Holstein Berichte (Ausgabe 2025 erschienen am 04.06.2026)](https://www.schleswig-holstein.de/DE/landesregierung/themen/innere-sicherheit/verfassungsschutz/Publikationen/publikationen_node.html) |
+| **Sachsen-Anhalt** | [LfV Sachsen-Anhalt Berichte](https://mi.sachsen-anhalt.de/verfassungsschutz/) |
+| **Schleswig-Holstein** | [LfV Schleswig-Holstein Berichte](https://www.schleswig-holstein.de/DE/landesregierung/themen/innere-sicherheit/verfassungsschutz/verfassungsschutz_node.html) |
 | **Thüringen** | [LfV Thüringen Berichte](https://verfassungsschutz.thueringen.de/publikationen/verfassungsschutzberichte) |
 
 
 ### 4) Offizielle Einstufungsentscheidungen & Gerichtsverfahren (BfV)
 Da die detaillierten, mehrhundertseitigen BfV-Einstufungsgutachten als *„VS - Nur für den Dienstgebrauch“* eingestuft sind, dienen die offiziellen, gerichtlichen Verfahrensmeldungen des BfV auf seiner Primärquelle als fundamentale Belege für die Einstufungsketten:
-* 📑 **BfV-Einstufungsentscheidung OVG NRW (13. Mai 2024):** OVG NRW bestätigt in gänzlicher Instanz die Einstufung der Bundes-AfD und der Jungen Alternative (JA) als rechtsextremistischer Verdachtsfall. [Offizielles Urteilsprotokoll & Pressemitteilung auf verfassungsschutz.de](https://www.verfassungsschutz.de/SharedDocs/pressemitteilungen/DE/2024/pressemitteilung-2024-05-13-afd.html)
-* 📑 **BfV-Einstufungsentscheidung VG Köln (08. März 2022):** Verwaltungsgericht Köln bestätigt die Einstufung als Verdachtsobjekt auf Grundlage der BfV-Gutachten. [Offizielle Pressemitteilung auf verfassungsschutz.de](https://www.verfassungsschutz.de/SharedDocs/pressemitteilungen/DE/2022/pressemitteilung-2022-03-08-afd.html)
-* 📑 **BfV-Hochstufungsentscheidung „Der Flügel“ (12. März 2020):** Offizielle Einstufung des teilorganisierten völkischen „Flügels“ als erwiesen rechtsextremistische Bestrebung. [Offizielle Pressemitteilung auf verfassungsschutz.de](https://www.verfassungsschutz.de/SharedDocs/pressemitteilungen/DE/2020/pressemitteilung-2020-03-12-rechtsextremismus.html)
+* 📑 **BfV-Einstufungsentscheidung OVG NRW (13. Mai 2024):** OVG NRW bestätigt in gänzlicher Instanz die Einstufung der Bundes-AfD und der Jungen Alternative (JA) als rechtsextremistischer Verdachtsfall. [Lokales Belegdokument (Volltext im Repository)](./dokumente/hauptquellen/BfV_Pressemitteilung_Einstufungsentscheidung_2024_05_13.txt) | [Online-Quelle](https://www.verfassungsschutz.de/SharedDocs/pressemitteilungen/DE/2024/pressemitteilung-2024-05-13-afd.html)
+* 📑 **BfV-Einstufungsentscheidung VG Köln (08. März 2022):** Verwaltungsgericht Köln bestätigt die Einstufung als Verdachtsobjekt auf Grundlage der BfV-Gutachten. [Lokales Belegdokument (Volltext im Repository)](./dokumente/hauptquellen/BfV_Pressemitteilung_Einstufungsentscheidung_2022_03_08.txt) | [Online-Quelle](https://www.verfassungsschutz.de/SharedDocs/pressemitteilungen/DE/2022/pressemitteilung-2022-03-08-afd.html)
+* 📑 **BfV-Hochstufungsentscheidung „Der Flügel“ (12. März 2020):** Offizielle Einstufung des teilorganisierten völkischen „Flügels“ als erwiesen rechtsextremistische Bestrebung. [Lokales Belegdokument (Volltext im Repository)](./dokumente/hauptquellen/BfV_Pressemitteilung_Hochstufungsentscheidung_Fluegel_2020_03_12.txt) | [Online-Quelle](https://www.verfassungsschutz.de/SharedDocs/pressemitteilungen/DE/2020/pressemitteilung-2020-03-12-rechtsextremismus.html)
 
 ### 5) Gerichtsentscheidungen & Strafurteile (Offizielle Urteilsdatenbank)
 Dieses Dokument ist eine umfassende Zusammenstellung gerichtlicher Urteile, rechtskräftiger Verurteilungen, Strafbefehle und laufender Verfahren gegen Mitglieder, Mandatsträger und die Partei Alternative für Deutschland (AfD) sowie deren Landesverbände.
@@ -367,50 +367,21 @@ Nachfolgend sind konkrete Fälle von Verurteilungen aufgeführt, unterteilt nach
 Ich habe mal das Leak für eine KI aufbereitet. Der Verfassungsschutzbericht ist ja nur nach alter Antifa-Manier, Antifa ist Handarbeit, nur eingescannt worden. Das bereitet KI dadurch Probleme es zu in Gänze zu lesen. Deshalb habe ich ein Python-Script mit Tesseract und OCR drüber laufen lassen und die Bilder als Text-Form gespeichert. Die Textform hat trotz spezieller Tricks zur besseren Verarbeitung kleine Typo-Fehler. Aber mit den originalen PDF (in gesplitteter Form - wegen der Ausgabenbegrenzung von KI) kann die KI den Inhalt zu 96% erfassen. Da ein Verbotsverfahren realistisch bis zu 3 Jahren dauert, können Anwaltskanzleien, oder Interessierte nun KI's damit füttern. Ich habe gleich mal einen Anfang einer Klageschrift, mögliche noch unter Verschluss liegende Quellen die nötig sind, eine Presseschau und Gründe für ein Verbot beigefügt. Da das Ganze bis zu 3 Jahren dauern würde und dann die nächsten Bundestagswahlen sind, und vorraussichtlich die AfD dann sehr viele Stimmen bekommt, sollte man JETZT damit anfangen. Auch wenn gerade der Mantel des Schweigens drüber gelegt ist und Dobrindt mit seiner Konservativen Revolution (man googel mal den Ursprung dieses Begriffes auf Wikipedia) alles andere als aktiv wird, sollte man eigentlich nun (auch wenn der Leak aus ner blöden Ecke kommt) eigentlich dieses Thema vorranbringen. Denn wenn die Afd erstmal an der Macht ist, bleibt wahrscheinlich nicht mehr viel, um deren Faschismus noch zu stoppen.
 
 ---
-### D) Geheimgutachten (OCR/Textfragmente) (24)
-- [`Geheimgutachten_Teil A_pages_1_to_100.txt`](./geheimgutachten/Geheimgutachten_Teil%20A_pages_1_to_100.md)
-- [`Geheimgutachten_Teil A_pages_101_to_200.txt`](./geheimgutachten/Geheimgutachten_Teil%20A_pages_101_to_200.md)
-- [`Geheimgutachten_Teil A_pages_201_to_300.txt`](./geheimgutachten/Geheimgutachten_Teil%20A_pages_201_to_300.md)
-- [`Geheimgutachten_Teil A_pages_301_to_400.txt`](./geheimgutachten/Geheimgutachten_Teil%20A_pages_301_to_400.md)
-- [`Geheimgutachten_Teil A_pages_401_to_500.txt`](./geheimgutachten/Geheimgutachten_Teil%20A_pages_401_to_500.md)
-- [`Geheimgutachten_Teil A_pages_501_to_508.txt`](./geheimgutachten/Geheimgutachten_Teil%20A_pages_501_to_508.md)
-- [`Geheimgutachten_Teil B_pages_1_to_100.txt`](./geheimgutachten/Geheimgutachten_Teil%20B_pages_1_to_100.md)
-- [`Geheimgutachten_Teil B_pages_101_to_200.txt`](./geheimgutachten/Geheimgutachten_Teil%20B_pages_101_to_200.md)
-- [`Geheimgutachten_Teil B_pages_201_to_300.txt`](./geheimgutachten/Geheimgutachten_Teil%20B_pages_201_to_300.md)
-- [`Geheimgutachten_Teil B_pages_301_to_400.txt`](./geheimgutachten/Geheimgutachten_Teil%20B_pages_301_to_400.md)
-- [`Geheimgutachten_Teil B_pages_401_to_500.txt`](./geheimgutachten/Geheimgutachten_Teil%20B_pages_401_to_500.md)
-- [`Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_1_to_10.txt`](./geheimgutachten/Geheimgutachten_Teil%20B_pages_501_to_600_repaired_pages_1_to_10.md)
-- [`Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_11_to_20.txt`](./geheimgutachten/Geheimgutachten_Teil%20B_pages_501_to_600_repaired_pages_11_to_20.md)
-- [`Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_21_to_30.txt`](./geheimgutachten/Geheimgutachten_Teil%20B_pages_501_to_600_repaired_pages_21_to_30.md)
-- [`Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_31_to_40.txt`](./geheimgutachten/Geheimgutachten_Teil%20B_pages_501_to_600_repaired_pages_31_to_40.md)
-- [`Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_41_to_50.txt`](./geheimgutachten/Geheimgutachten_Teil%20B_pages_501_to_600_repaired_pages_41_to_50.md)
-- [`Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_51_to_60.txt`](./geheimgutachten/Geheimgutachten_Teil%20B_pages_501_to_600_repaired_pages_51_to_60.md)
-- [`Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_61_to_70.txt`](./geheimgutachten/Geheimgutachten_Teil%20B_pages_501_to_600_repaired_pages_61_to_70.md)
-- [`Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_71_to_80.txt`](./geheimgutachten/Geheimgutachten_Teil%20B_pages_501_to_600_repaired_pages_71_to_80.md)
-- [`Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_81_to_90.txt`](./geheimgutachten/Geheimgutachten_Teil%20B_pages_501_to_600_repaired_pages_81_to_90.md)
-- [`Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_91_to_100.txt`](./geheimgutachten/Geheimgutachten_Teil%20B_pages_501_to_600_repaired_pages_91_to_100.md)
-- [`Geheimgutachten_Teil B_pages_601_to_609_repaired_pages_1_to_9.txt`](./geheimgutachten/Geheimgutachten_Teil%20B_pages_601_to_609_repaired_pages_1_to_9.md)
-- (sowie 2 DW‑PDF‑Clippings zum Einstufungsverfahren; als Kontext eingefügt)
-
+### D) Geheimgutachten (BfV-AfD-Folgegutachten 2021) (13)
 - **BfV-AfD-Folgegutachten 2021 (Netzpolitik-Transkription) - *1.000-seitiges Originalgutachten vom 22.02.2021 (digitalisiert, unzensiert und 100% fehlerfrei)*:**
-  - [`BfV-AfD-Folgegutachten_2021_01_A_Einfuehrung.md`](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_01_A_Einfuehrung.md) | [TXT-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_01_A_Einfuehrung.txt)
-  - [`BfV-AfD-Folgegutachten_2021_02_B_Methodik.md`](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_02_B_Methodik.md) | [TXT-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_02_B_Methodik.txt)
-  - [`BfV-AfD-Folgegutachten_2021_03_C_Rechtliche_Vorgaben.md`](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_03_C_Rechtliche_Vorgaben.md) | [TXT-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_03_C_Rechtliche_Vorgaben.txt)
-  - [`BfV-AfD-Folgegutachten_2021_04_D_Struktur_und_Entwicklung.md`](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_04_D_Struktur_und_Entwicklung.md) | [TXT-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_04_D_Struktur_und_Entwicklung.txt)
-  - [`BfV-AfD-Folgegutachten_2021_05_E_Einflussnahme_Fluegel.md`](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_05_E_Einflussnahme_Fluegel.md) | [TXT-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_05_E_Einflussnahme_Fluegel.txt)
-  - [`BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde.md`](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde.md) | [TXT-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde.txt)
-  - [`BfV-AfD-Folgegutachten_2021_07_F_II_Demokratieprinzip.md`](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_07_F_II_Demokratieprinzip.md) | [TXT-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_07_F_II_Demokratieprinzip.txt)
-  - [`BfV-AfD-Folgegutachten_2021_08_F_III_Rechtsstaatsprinzip.md`](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_08_F_III_Rechtsstaatsprinzip.md) | [TXT-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_08_F_III_Rechtsstaatsprinzip.txt)
-  - [`BfV-AfD-Folgegutachten_2021_09_F_IV_Nationalsozialismus.md`](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_09_F_IV_Nationalsozialismus.md) | [TXT-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_09_F_IV_Nationalsozialismus.txt)
-  - [`BfV-AfD-Folgegutachten_2021_10_G_Verbindungen.md`](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_10_G_Verbindungen.md) | [TXT-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_10_G_Verbindungen.txt)
-  - [`BfV-AfD-Folgegutachten_2021_11_H_Gesamtwuerdigung.md`](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_11_H_Gesamtwuerdigung.md) | [TXT-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_11_H_Gesamtwuerdigung.txt)
-  - [`BfV-AfD-Folgegutachten_2021_12_I_Fazit.md`](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_12_I_Fazit.md) | [TXT-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_12_I_Fazit.txt)
-  - [`BfV-AfD-Folgegutachten_2021_13_Anhang_Glossar_Fussnoten.md`](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_13_Anhang_Glossar_Fussnoten.md) | [TXT-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_13_Anhang_Glossar_Fussnoten.txt)
-
----
-## Primärquelle ergänzt
-- [`AfD_Bundestagswahlprogramm2025_web.pdf`](./dokumente/hauptquellen/AfD_Bundestagswahlprogramm2025_web.pdf)
---- 
+  - [`BfV-AfD-Folgegutachten_2021_01_A_Einfuehrung.md`](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_01_A_Einfuehrung.md) | [TXT-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_01_A_Einfuehrung.txt) | [PDF-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_01_A_Einfuehrung.pdf)
+  - [`BfV-AfD-Folgegutachten_2021_02_B_Methodik.md`](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_02_B_Methodik.md) | [TXT-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_02_B_Methodik.txt) | [PDF-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_02_B_Methodik.pdf)
+  - [`BfV-AfD-Folgegutachten_2021_03_C_Rechtliche_Vorgaben.md`](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_03_C_Rechtliche_Vorgaben.md) | [TXT-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_03_C_Rechtliche_Vorgaben.txt) | [PDF-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_03_C_Rechtliche_Vorgaben.pdf)
+  - [`BfV-AfD-Folgegutachten_2021_04_D_Struktur_und_Entwicklung.md`](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_04_D_Struktur_und_Entwicklung.md) | [TXT-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_04_D_Struktur_und_Entwicklung.txt) | [PDF-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_04_D_Struktur_und_Entwicklung.pdf)
+  - [`BfV-AfD-Folgegutachten_2021_05_E_Einflussnahme_Fluegel.md`](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_05_E_Einflussnahme_Fluegel.md) | [TXT-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_05_E_Einflussnahme_Fluegel.txt) | [PDF-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_05_E_Einflussnahme_Fluegel.pdf)
+  - [`BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde.md`](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde.md) | [TXT-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde.txt) | [PDF-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde.pdf)
+  - [`BfV-AfD-Folgegutachten_2021_07_F_II_Demokratieprinzip.md`](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_07_F_II_Demokratieprinzip.md) | [TXT-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_07_F_II_Demokratieprinzip.txt) | [PDF-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_07_F_II_Demokratieprinzip.pdf)
+  - [`BfV-AfD-Folgegutachten_2021_08_F_III_Rechtsstaatsprinzip.md`](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_08_F_III_Rechtsstaatsprinzip.md) | [TXT-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_08_F_III_Rechtsstaatsprinzip.txt) | [PDF-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_08_F_III_Rechtsstaatsprinzip.pdf)
+  - [`BfV-AfD-Folgegutachten_2021_09_F_IV_Nationalsozialismus.md`](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_09_F_IV_Nationalsozialismus.md) | [TXT-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_09_F_IV_Nationalsozialismus.txt) | [PDF-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_09_F_IV_Nationalsozialismus.pdf)
+  - [`BfV-AfD-Folgegutachten_2021_10_G_Verbindungen.md`](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_10_G_Verbindungen.md) | [TXT-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_10_G_Verbindungen.txt) | [PDF-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_10_G_Verbindungen.pdf)
+  - [`BfV-AfD-Folgegutachten_2021_11_H_Gesamtwuerdigung.md`](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_11_H_Gesamtwuerdigung.md) | [TXT-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_11_H_Gesamtwuerdigung.txt) | [PDF-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_11_H_Gesamtwuerdigung.pdf)
+  - [`BfV-AfD-Folgegutachten_2021_12_I_Fazit.md`](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_12_I_Fazit.md) | [TXT-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_12_I_Fazit.txt) | [PDF-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_12_I_Fazit.pdf)
+  - [`BfV-AfD-Folgegutachten_2021_13_Anhang_Glossar_Fussnoten.md`](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_13_Anhang_Glossar_Fussnoten.md) | [TXT-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_13_Anhang_Glossar_Fussnoten.txt) | [PDF-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_13_Anhang_Glossar_Fussnoten.pdf)
 ### E) Zitate & Belege (afd‑verbot.de / Proof‑Sammlung) (3 614)
 - Ordner: `zitate/`
 - Struktur: `afd-verbot.de-<YYYY-MM-DD>-proof-xxxxx.md`  
@@ -612,7 +583,7 @@ Dieses Verzeichnis enthält weitere im Archiv erfasste Belege, Zeitungsberichte,
 - [`geheimgutachten/afd-verbot-deepresearch-ausgangspunkt_split_8.txt`](./geheimgutachten/afd-verbot-deepresearch-ausgangspunkt_split_8.txt)
 ### G) Bilder & Assets (2)
 - [`afd-politiker-krah-mit-waffe.jpg`](./assets/afd-politiker-krah-mit-waffe.jpg)
-- [`zusammenarbeit-adj-rechtsextreme.jpg`](./assets/zusammenarbeit-adj-rechtsextreme.jpg)
+- [`zusammenarbeit-afd-jugend-rechtsextreme.jpg`](./assets/zusammenarbeit-afd-jugend-rechtsextreme.jpg)
 
 ---
 
