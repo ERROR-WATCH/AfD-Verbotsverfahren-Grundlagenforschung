@@ -150,6 +150,18 @@ Es ist **kein** fertiges Dossier und **ersetzt nicht** die professionelle Beweis
 | `lfv_jahresbericht_2024_part7_151-175.pdf` | Seiten 151–175 |
 | `lfv_jahresbericht_2024_part8_176-199.pdf` | Seiten 176–199 |
 | -------------------------------------------------------------------- | --------------------------------------- |
+| **GFF AfD-Gutachten (PDF-Splits)** | *Logische, kapitelgenaue Aufteilung des 3.062-seitigen GFF-Gutachtens (Sicherung für KI-Verarbeitung & GitHub-Limits)* |
+| `GFF_AfD-Gutachten_Teil_01_Inhaltsueberblick_Zusammenfassung.pdf`     | Teil 1: Cover, Inhaltsüberblick & Zusammenfassung (Seiten 1–124)                                                                     |
+| `GFF_AfD-Gutachten_Teil_02_Einfuehrung.pdf`                           | Teil 2: Einführung (Seiten 125–196)                                                                                                  |
+| `GFF_AfD-Gutachten_Teil_03_Teil_1_Entwicklung_Machtzentren_Vorfeld.pdf`| Teil 3: Teil 1 (Entwicklung, Machtzentren, Vorfeld) (Seiten 197–409)                                                                  |
+| `GFF_AfD-Gutachten_Teil_04_Teil_2_Rechtliche_Maassstaebe.pdf`         | Teil 4: Teil 2 (Rechtliche Maßstäbe) (Seiten 410–521)                                                                                |
+| `GFF_AfD-Gutachten_Teil_05_Teil_3_A_Menschenwuerde.pdf`               | Teil 5: Teil 3-A (Menschenwürde) (Seiten 522–1318)                                                                                   |
+| `GFF_AfD-Gutachten_Teil_06_Teil_3_B_G_Demokratie_Rechtsstaat_Ergebnis.pdf`| Teil 6: Teil 3-B-G (Demokratie, Rechtsstaat, Gesamtergebnis) (Seiten 1319–1576)                                                       |
+| `GFF_AfD-Gutachten_Teil_07_Schluss_Literaturverzeichnis.pdf`          | Teil 7: Schluss, Danksagung & Literaturverzeichnis (Seiten 1577–1677)                                                                |
+| `GFF_AfD-Gutachten_Teil_08_Anhang_A_Methodik.pdf`                     | Teil 8: Anhang A (Methodik) (Seiten 1678–1724)                                                                                       |
+| `GFF_AfD-Gutachten_Teil_09_Anhang_B_Belege_Menschenwuerde.pdf`        | Teil 9: Anhang B (Belege Menschenwürde) (Seiten 1725–2810)                                                                           |
+| `GFF_AfD-Gutachten_Teil_10_Anhang_C_E_Weitere_Belege.pdf`             | Teil 10: Anhang C–E (Belege Demokratie, Rechtsstaat, NS-Wesensverwandtschaft) (Seiten 2811–3062)                                     |
+| -------------------------------------------------------------------- | --------------------------------------- |
 | **Studien & NGO‑Berichte**                                                                                       |                                                                                                                                      |
 | `01_cemas.io_en_blog_active-clubs-in-germany…pdf`                                                                | Gerenderte HTML‑Studie „Active Clubs in Germany“ (CeMAS)                                                                             |
 | `02_www_institut-fuer-menschenrechte_de_…Analyse_Warum_die_AfD_verboten…pdf`                                     | Analyse „Warum die AfD verboten werden könnte“ (Institut für Menschenrechte)                                                         |
@@ -192,7 +204,18 @@ Es ist **kein** fertiges Dossier und **ersetzt nicht** die professionelle Beweis
 
 ---
 
-### B) Gutachten & Rechtsanalysen (21)
+### B) Gutachten & Rechtsanalysen (31)
+- **GFF AfD-Gutachten (PDF-Splits) – *Logisch und kapitelgenau gesplittet für KI-Verarbeitung & GitHub-Limits (3.062 Seiten)*:**
+  - `GFF_AfD-Gutachten_Teil_01_Inhaltsueberblick_Zusammenfassung.pdf` *(Cover, Inhaltsüberblick & Zusammenfassung, S. 1–124)*
+  - `GFF_AfD-Gutachten_Teil_02_Einfuehrung.pdf` *(Einführung, S. 125–196)*
+  - `GFF_AfD-Gutachten_Teil_03_Teil_1_Entwicklung_Machtzentren_Vorfeld.pdf` *(Teil 1: Entwicklung, Machtzentren, Vorfeld, S. 197–409)*
+  - `GFF_AfD-Gutachten_Teil_04_Teil_2_Rechtliche_Maassstaebe.pdf` *(Teil 2: Rechtliche Maßstäbe, S. 410–521)*
+  - `GFF_AfD-Gutachten_Teil_05_Teil_3_A_Menschenwuerde.pdf` *(Teil 3-A: Verfassungswidrigkeit - Menschenwürde, S. 522–1318)*
+  - `GFF_AfD-Gutachten_Teil_06_Teil_3_B_G_Demokratie_Rechtsstaat_Ergebnis.pdf` *(Teil 3-B-G: Demokratie, Rechtsstaat, Gesamtergebnis, S. 1319–1576)*
+  - `GFF_AfD-Gutachten_Teil_07_Schluss_Literaturverzeichnis.pdf` *(Schluss, Danksagung & Literaturverzeichnis, S. 1577–1677)*
+  - `GFF_AfD-Gutachten_Teil_08_Anhang_A_Methodik.pdf` *(Anhang A: Methodik, S. 1678–1724)*
+  - `GFF_AfD-Gutachten_Teil_09_Anhang_B_Belege_Menschenwuerde.pdf` *(Anhang B: Belege Menschenwürde, S. 1725–2810)*
+  - `GFF_AfD-Gutachten_Teil_10_Anhang_C_E_Weitere_Belege.pdf` *(Anhang C-E: Belege Demokratie, Rechtsstaat, NS-Wesensverwandtschaft, S. 2811–3062)*
 - `AfD-Verbot_ Alle Anträge, Abstimmungen und Gutachten.pdf`
 - `ChatGPT - Analyse-Beispiel.pdf`
 - `ChatGPT - Analyse-Beispiel-2.pdf`
