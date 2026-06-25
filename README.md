@@ -74,7 +74,39 @@ Es ist **kein** fertiges Dossier und **ersetzt nicht** die professionelle Beweis
 ├── assets/                                # Bilder, Diagramme und Videos (Christian Lüth, Beweisfotos)
 └── zitate/                                # Zitate‑Sammlung von afd‑verbot.de als Markdown‑Dateien (00001–03611)
 
-```
+
+
+## Verfassungsschutzberichte des Bundes & aller 16 Bundesländer (VfS)
+
+> 🔍 **Amtliche Grundlagen zur Verfassungsfeindlichkeit:** Da die amtlichen Verfassungsschutzberichte das juristische Fundament für das Parteiverbotsverfahren bilden (Art. 21 GG), haben wir hier das vollständige Referenzregister des Bundes und aller 16 Bundesländer direkt verlinkt. 
+
+### 1) Bundesamt für Verfassungsschutz (BfV) & Bundesministerium des Innern (BMI)
+* 📑 **BfV-Verfassungsschutzbericht 2025:** (Veröffentlichung angesetzt für **Dienstag, den 30. Juni 2026** um 10:00 Uhr). Sobald live, abrufbar unter: [Offizielles VfS-Portal](https://www.verfassungsschutz.de/DE/service/publikationen/verfassungsschutzberichte/verfassungsschutzberichte_node.html)
+* 📑 **BfV-Verfassungsschutzbericht 2024 (Aktuellste Vollversion):** [PDF-Download (Volltext)](https://www.verfassungsschutz.de/SharedDocs/publikationen/DE/verfassungsschutzberichte/2025-06-10-verfassungsschutzbericht-2024.pdf?__blob=publicationFile&v=3) | [PDF-Splits 1-8 im Repository](./dokumente/splits/)
+* 📑 **BfV-Verfassungsschutzbericht 2023:** [PDF-Download (Volltext)](https://www.verfassungsschutz.de/SharedDocs/publikationen/DE/verfassungsschutzberichte/2024-06-18-verfassungsschutzbericht-2023.pdf?__blob=publicationFile&v=3) | [PDF-Splits 1-8 im Repository](./dokumente/splits/)
+
+### 2) Landesämter für Verfassungsschutz (LfV) – Alle 16 Bundesländer
+Klicke direkt auf das jeweilige Bundesland, um zum offiziellen Publikationsportal des Landesamtes für Verfassungsschutz zu gelangen und die neuesten Berichte (inkl. der brandneuen Ausgaben für 2024/2025) herunterzuladen:
+
+| Bundesland | Offizielles Verfassungsschutz‑Portal (Direkt-Link) |
+| :--- | :--- |
+| **Baden-Württemberg** | [LfV Baden-Württemberg Berichte](https://www.im.baden-wuerttemberg.de/de/sicherheit/verfassungsschutz/verfassungsschutzberichte/) |
+| **Bayern** | [LfV Bayern Berichte](https://www.verfassungsschutz.bayern.de/service/downloads/verfassungsschutzberichte/) |
+| **Berlin** | [LfV Berlin Berichte (Ausgabe 2025 erschienen am 02.06.2026)](https://www.berlin.de/sen/inneres/verfassungsschutz/publikationen/verfassungsschutzberichte/) |
+| **Brandenburg** | [LfV Brandenburg Berichte (Ausgabe 2025 erschienen am 05.06.2026)](https://mik.brandenburg.de/mik/de/verfassungsschutz/publikationen/) |
+| **Bremen** | [LfV Bremen Berichte](https://www.verfassungsschutz.bremen.de/publikationen/jahresberichte-11598) |
+| **Hamburg** | [LfV Hamburg Berichte](https://www.hamburg.de/innenbehoerde/verfassungsschutzberichte/) |
+| **Hessen** | [LfV Hessen Berichte](https://verfassungsschutz.hessen.de/publikationen/verfassungsschutzberichte) |
+| **Mecklenburg-Vorpommern** | [LfV Mecklenburg-Vorpommern Berichte](https://www.verfassungsschutz-mv.de/publikationen/verfassungsschutzberichte/) |
+| **Niedersachsen** | [LfV Niedersachsen Berichte](https://www.verfassungsschutz.niedersachsen.de/publikationen/verfassungsschutzberichte/) |
+| **Nordrhein-Westfalen** | [LfV Nordrhein-Westfalen Berichte](https://www.im.nrw/themen/verfassungsschutz/verfassungsschutzberichte) |
+| **Rheinland-Pfalz** | [LfV Rheinland-Pfalz Berichte](https://www.verfassungsschutz.rlp.de/de/service/publikationen/) |
+| **Saarland** | [LfV Saarland Berichte](https://www.saarland.de/mige/DE/portale/verfassungsschutz/publikationen/) |
+| **Sachsen** | [LfV Sachsen Berichte](https://www.verfassungsschutz.sachsen.de/publikationen-4143.html) |
+| **Sachsen-Anhalt** | [LfV Sachsen-Anhalt Berichte (Ausgabe 2025 erschienen am 02.06.2026)](https://mi.sachsen-anhalt.de/verfassungsschutz/publikationen/verfassungsschutzberichte) |
+| **Schleswig-Holstein** | [LfV Schleswig-Holstein Berichte (Ausgabe 2025 erschienen am 04.06.2026)](https://www.schleswig-holstein.de/DE/landesregierung/themen/innere-sicherheit/verfassungsschutz/Publikationen/publikationen_node.html) |
+| **Thüringen** | [LfV Thüringen Berichte](https://verfassungsschutz.thueringen.de/publikationen/verfassungsschutzberichte) |
+
 ### Dateiliste mit Inhaltsbeschreibungen
 
 | Datei                                                                                                            | Beschreibung                                                                                                                         |
