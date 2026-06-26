@@ -1,5 +1,12 @@
 # AfD-Verbotsverfahren-Grundlagenforschung
 
+> 🌐 **Interaktives Web-Portal (Forschungs-Dashboard) live online:**  
+> Erkunde dieses gesamte Belegarchiv unzensiert, schnell und interaktiv direkt im Browser:  
+> 👉 **[https://ERROR-WATCH.github.io/AfD-Verbotsverfahren-Grundlagenforschung/](https://ERROR-WATCH.github.io/AfD-Verbotsverfahren-Grundlagenforschung/)**  
+> *Das Portal bietet eine hochintelligente, umlautsensitive Volltextsuche über alle 80 Gerichtsfälle, 18 Verbotsgründe, alle unzensierten Gutachten/PDF-Splits und alle 3.611 Belegzitate mit Live-Textvorschau!*
+
+---
+
 > 📢 **Dank und Anerkennung:** Ein herzlicher Dank geht an **netzpolitik.org** für ihre großartige Arbeit bei der Erstveröffentlichung und Aufbereitung des 1.000-seitigen Verfassungsschutz-Folgegutachtens zur AfD (`2021-02-22_BfV_AfD_Folgegutachten`). Durch deren hochwertige Digitalisierung konnten wir die Transkriptionen in diesem Repository umfassend aktualisieren und auf ein fehlerfreies Niveau heben.
 
 <img width="1254" height="1254" alt="afd verdachtsfall" src="https://github.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/blob/main/assets/afd%20verdachtsfall.jpg?raw=true" />
