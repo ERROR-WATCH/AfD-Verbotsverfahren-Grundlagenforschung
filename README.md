@@ -329,6 +329,13 @@ Sämtliche Belege liegen physisch im Repository vor und sind im vollumfängliche
   - [`GFF_AfD-Gutachten_Teil_08_Anhang_A_Methodik.pdf`](./dokumente/splits/GFF_AfD-Gutachten_Teil_08_Anhang_A_Methodik.pdf) *(Anhang A: Methodik, S. 1678–1724)*
   - [`GFF_AfD-Gutachten_Teil_09_Anhang_B_Belege_Menschenwuerde.pdf`](./dokumente/splits/GFF_AfD-Gutachten_Teil_09_Anhang_B_Belege_Menschenwuerde.pdf) *(Anhang B: Belege Menschenwürde, S. 1725–2810)*
   - [`GFF_AfD-Gutachten_Teil_10_Anhang_C_E_Weitere_Belege.pdf`](./dokumente/splits/GFF_AfD-Gutachten_Teil_10_Anhang_C_E_Weitere_Belege.pdf) *(Anhang C-E: Belege Demokratie, Rechtsstaat, NS-Wesensverwandtschaft, S. 2811–3062)*
+* 📑 **BfV-Gutachten-Untersuchung (Zentrale Argumentationslinien):** [PDF-Download (Volltext)](./dokumente/hauptquellen/untersuchung-bfv-gutachten-und-afd-parteiverbot.pdf) | [PDF-Splits 1-6 im Repository](./dokumente/splits/):
+  - [`untersuchung_bfv_gutachten_split_1_sachverhalt_und_vfs.pdf`](./dokumente/splits/untersuchung_bfv_gutachten_split_1_sachverhalt_und_vfs.pdf) *(Sachverhalt, Funktion und Einstufungspraxis des Verfassungsschutzes, S. 1–10)*
+  - [`untersuchung_bfv_gutachten_split_2_wehrhafte_demokratie_parteiverbot.pdf`](./dokumente/splits/untersuchung_bfv_gutachten_split_2_wehrhafte_demokratie_parteiverbot.pdf) *(Wehrhafte Demokratie & Verfassungsrechtlicher Parteiverbotsmaßstab, S. 11–20)*
+  - [`untersuchung_bfv_gutachten_split_3_menschenwuerde_npd_urteil.pdf`](./dokumente/splits/untersuchung_bfv_gutachten_split_3_menschenwuerde_npd_urteil.pdf) *(Menschenwürde & Demokratieprinzip in der Rechtsprechung, S. 21–35)*
+  - [`untersuchung_bfv_gutachten_split_4_begriffsverstaendnis_afd_gutachten.pdf`](./dokumente/splits/untersuchung_bfv_gutachten_split_4_begriffsverstaendnis_afd_gutachten.pdf) *(Das Begriffsverständnis der FDGO im AfD-Gutachten, S. 36–45)*
+  - [`untersuchung_bfv_gutachten_split_5_belege_ethnisches_volksverstaendnis.pdf`](./dokumente/splits/untersuchung_bfv_gutachten_split_5_belege_ethnisches_volksverstaendnis.pdf) *(Beweisauswertung I: Ethnisches Volksverständnis & 'Remigration', S. 46–55)*
+  - [`untersuchung_bfv_gutachten_split_6_belege_islamfeindlichkeit_bewertung.pdf`](./dokumente/splits/untersuchung_bfv_gutachten_split_6_belege_islamfeindlichkeit_bewertung.pdf) *(Beweisauswertung II: Minderheitenfeindlichkeit, Zurechnung & Endbewertung, S. 56–66)*
 - [`AfD-Verbot__Alle_Anträge,_Abstimmungen_und_Gutachten.pdf`](./dokumente/hauptquellen/AfD-Verbot__Alle_Antr%C3%A4ge%2C_Abstimmungen_und_Gutachten.pdf)
 - [`ChatGPT_-_Analyse-Beispiel.pdf`](./dokumente/hauptquellen/ChatGPT_-_Analyse-Beispiel.pdf)
 - [`ChatGPT_-_Analyse-Beispiel-2.pdf`](./dokumente/hauptquellen/ChatGPT_-_Analyse-Beispiel-2.pdf)
