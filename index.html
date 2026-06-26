@@ -162,7 +162,7 @@
                 <!-- Filter Controls -->
                 <div class="bg-white rounded-xl shadow p-4 border border-slate-100 flex flex-col md:flex-row md:items-center justify-between gap-4">
                     <div class="flex-grow max-w-md relative">
-                        <i class="fa-solid fa-magnifying-glass absolute left-3 top-3 text-slate-400"></i>
+                        <i class="fa-solid fa-magnifying-glass absolute pointer-events-none left-3 top-3 text-slate-400"></i>
                         <input type="text" id="searchInput" placeholder="Suche nach Name, Delikt, Gericht..." class="pl-10 pr-4 py-2 w-full rounded-lg border border-slate-200 focus:outline-none focus:ring-2 focus:ring-brand-blue text-sm">
                     </div>
                     <div class="flex flex-wrap gap-2 text-sm">
@@ -233,7 +233,7 @@
             <div id="tab-gutachten" class="tab-content hidden space-y-6">
                 <div class="bg-white rounded-xl shadow p-4 border border-slate-100 flex flex-col md:flex-row md:items-center justify-between gap-4">
                     <div class="flex-grow max-w-lg relative">
-                        <i class="fa-solid fa-magnifying-glass absolute left-3 top-3 text-slate-400"></i>
+                        <i class="fa-solid fa-magnifying-glass absolute pointer-events-none left-3 top-3 text-slate-400"></i>
                         <input type="text" id="docSearchInput-gutachten" placeholder="Suche in GFF-Gutachten, Cicero-Leaks, Netzpolitik-Volltexten..." class="pl-10 pr-4 py-2 w-full rounded-lg border border-slate-200 focus:outline-none focus:ring-2 focus:ring-brand-blue text-sm">
                     </div>
                     <div class="text-slate-500 text-sm font-semibold" id="docStats-gutachten">
@@ -247,7 +247,7 @@
             <div id="tab-vs" class="tab-content hidden space-y-6">
                 <div class="bg-white rounded-xl shadow p-4 border border-slate-100 flex flex-col md:flex-row md:items-center justify-between gap-4">
                     <div class="flex-grow max-w-lg relative">
-                        <i class="fa-solid fa-magnifying-glass absolute left-3 top-3 text-slate-400"></i>
+                        <i class="fa-solid fa-magnifying-glass absolute pointer-events-none left-3 top-3 text-slate-400"></i>
                         <input type="text" id="docSearchInput-vs" placeholder="Suche in 16 Landesberichten, BfV Phänomen-Sonderberichten, VSB-Splits..." class="pl-10 pr-4 py-2 w-full rounded-lg border border-slate-200 focus:outline-none focus:ring-2 focus:ring-brand-blue text-sm">
                     </div>
                     <div class="text-slate-500 text-sm font-semibold" id="docStats-vs">
@@ -261,7 +261,7 @@
             <div id="tab-sonstige" class="tab-content hidden space-y-6">
                 <div class="bg-white rounded-xl shadow p-4 border border-slate-100 flex flex-col md:flex-row md:items-center justify-between gap-4">
                     <div class="flex-grow max-w-lg relative">
-                        <i class="fa-solid fa-magnifying-glass absolute left-3 top-3 text-slate-400"></i>
+                        <i class="fa-solid fa-magnifying-glass absolute pointer-events-none left-3 top-3 text-slate-400"></i>
                         <input type="text" id="docSearchInput-sonstige" placeholder="Suche in Recherche-Dossiers, BKA-Statistiken, Strafrechtsbelegen, Scripten..." class="pl-10 pr-4 py-2 w-full rounded-lg border border-slate-200 focus:outline-none focus:ring-2 focus:ring-brand-blue text-sm">
                     </div>
                     <div class="text-slate-500 text-sm font-semibold" id="docStats-sonstige">
@@ -294,6 +294,20 @@
 
     <!-- Interactive JS to manage tabs, search and filters -->
     <script>
+        // Intelligent search normalizer for umlauts, underscores, dashes and multiple words!
+        function normalizeStr(str) {
+            if (!str) return '';
+            return str.toLowerCase()
+                .normalize('NFD') // decomposes combined graphemes (e.g. e + accent)
+                .replace(/[̀-ͯ]/g, '') // removes accents
+                .replace(/_/g, ' ')
+                .replace(/-/g, ' ')
+                .replace(/ä/g, 'ae')
+                .replace(/ö/g, 'oe')
+                .replace(/ü/g, 'ue')
+                .replace(/ß/g, 'ss')
+                .trim();
+        }
         // Tab switching function
         function switchTab(tabId) {
             // Hide all contents
@@ -329,14 +343,20 @@
         const noResults = document.getElementById('noResults');
 
         function renderCases() {
-            const searchTerm = searchInput.value.toLowerCase();
+            const queryNorm = normalizeStr(searchInput.value);
             const statusVal = statusFilter.value;
             const categoryVal = categoryFilter.value;
 
             const filtered = cases.filter(c => {
-                const matchesSearch = c.title.toLowerCase().includes(searchTerm) || 
-                                      c.description.toLowerCase().includes(searchTerm) ||
-                                      c.category.toLowerCase().includes(searchTerm);
+                const normTitle = normalizeStr(c.title);
+                const normDesc = normalizeStr(c.description);
+                const normCat = normalizeStr(c.category);
+                
+                const queryWords = queryNorm.split(/\s+/).filter(w => w);
+                const matchesSearch = queryWords.every(word => 
+                    normTitle.includes(word) || normDesc.includes(word) || normCat.includes(word)
+                );
+                
                 const matchesStatus = statusVal === 'ALL' || c.status === statusVal;
                 const matchesCategory = categoryVal === 'ALL' || c.category === categoryVal;
                 return matchesSearch && matchesStatus && matchesCategory;
@@ -460,8 +480,16 @@
         }
 
         function filterQuotes() {
-            const query = quoteSearchInput.value.toLowerCase();
-            filteredQuotes = quotes.filter(q => q.name.toLowerCase().includes(query) || q.path.toLowerCase().includes(query));
+            const queryNorm = normalizeStr(quoteSearchInput.value);
+            const queryWords = queryNorm.split(/\s+/).filter(w => w);
+            
+            filteredQuotes = quotes.filter(q => {
+                const normName = normalizeStr(q.name);
+                const normPath = normalizeStr(q.path);
+                return queryWords.every(word => 
+                    normName.includes(word) || normPath.includes(word)
+                );
+            });
             quoteCurrentPage = 0;
             renderQuotes();
         }
@@ -483,16 +511,20 @@
             const container = document.getElementById(containerId);
             const stats = document.getElementById(statsId);
             
-            const query = searchInput.value.toLowerCase();
+            const queryNorm = normalizeStr(searchInput.value);
+            const queryWords = queryNorm.split(/\s+/).filter(w => w);
             container.innerHTML = '';
 
             // Filter by search query AND tabGroup match!
-            const filteredDocs = documents.filter(doc => 
-                doc.tabGroup === groupName && (
-                    doc.name.toLowerCase().includes(query) || 
-                    doc.category.toLowerCase().includes(query)
-                )
-            );
+            const filteredDocs = documents.filter(doc => {
+                if (doc.tabGroup !== groupName) return false;
+                const normName = normalizeStr(doc.name);
+                const normCat = normalizeStr(doc.category);
+                const normPath = normalizeStr(doc.path);
+                return queryWords.every(word => 
+                    normName.includes(word) || normCat.includes(word) || normPath.includes(word)
+                );
+            });
 
             stats.textContent = `${filteredDocs.length} Dateien gefunden`;
 
