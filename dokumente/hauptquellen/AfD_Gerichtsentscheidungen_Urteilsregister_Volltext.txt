@@ -1,24 +1,10 @@
----
-title: "URTEILE & VERURTEILUNGEN"
-subtitle: "AfD-Mandatsträger und die Partei (Volltext-Register)"
-author: "Forschungsportal AfD-Verbotsverfahren"
-date: "29. Juni 2026"
-geometry: "margin=2.5cm"
-fontsize: "11pt"
-linestretch: "1.25"
-colorlinks: true
-linkcolor: "blue"
-toc: true
-toc-title: "Inhaltsverzeichnis"
----
-
 # Volltext-Register aller Gerichtsentscheidungen
 
 Dieses Dokument ist eine umfassende Zusammenstellung gerichtlicher Urteile, rechtskräftiger Verurteilungen, Strafbefehle und laufender Verfahren gegen Mitglieder, Mandatsträger und die Partei Alternative für Deutschland (AfD) sowie deren Landesverbände.
 
 **Hinweis zur Systematik:** Zur unantastbaren Wahrung der akademischen und juristischen Integrität ist jeder Fall strikt kategorisiert:
 * 🔴 **[DIREKT AfD]**: Faktisch sichere AfD-Parteimitgliedschaft (inkl. exakter Angabe des Mandats/der Funktion, z. B. MdB, MdL, Kreisrat, Landesvorsitzender).
-* 🔵 **[INDIREKT AfD]**: Keine formale direkte Parteimitgliedschaft (oder Status unklar), jedoch mit messerscharf begründetem AfD-Bezug belassen (z. B. Angestellter eines AfD-Abgeordneten, Vorfeld-Aktivist der Jungen Alternative, offizieller Redner auf AfD-Bühnen). Jeder indirekte Fall enthält eine transparente Begründung seiner Relevanz.
+* 🔵 **[INDIREKT AfD]**: Keine formale direkte Parteimitgliedschaft (oder Status unklar), jedoch mit messerscharf begründetem AfD-Bezug belassen (z. B. Angestellter eines AfD-Abgeordneten, Vorfeld-Aktivist der Jungen Alternative, offizieller Redner auf AfD-Bühnen).
 
 > 📥 **Gesamtregister als konsolidierte Dateien:**
 > * 📄 [**Gesamt-Urteilsregister als typeset PDF-Dossier**](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)
@@ -27,15 +13,13 @@ Dieses Dokument ist eine umfassende Zusammenstellung gerichtlicher Urteile, rech
 > 📚 **Verifiziertes Quellen- & Provenienzregister:**
 > * 🔗 [**Offizielles Quellen- & Provenienzregister (QUELLEN_URTEILSDB.md)**](./dokumente/hauptquellen/urteilsbelege/QUELLEN_URTEILSDB.md)
 
-\newpage
 
 # 1. Strafrechtliche Verurteilungen von AfD-Politikern und Mandatsträgern
 
-### Volksverhetzung & Verfassungswidrige Kennzeichen
+## Volksverhetzung & Verfassungswidrige Kennzeichen
 
-### Fall 1
+### Fall 1: Gerichtsentscheidung
 
-#### URTEILSDATENBANK BELEG 01: Strafverfahren gegen Björn Höcke wegen Verwenden von SA-Parolen
 * **Gericht:** Landgericht Halle (Saale)
 * **Aktenzeichen:** 5 Ks 132/23
 * **Datum:** 14. Mai 2024 & 01. Juli 2024 (LG Halle), bestätigt durch den BGH (2025/2026)
@@ -56,9 +40,8 @@ https://www.lto.de/recht/nachrichten/n/bgh-verwirft-revision-bjoern-hoecke-sa-pa
 
 ---
 
-### Fall 2
+### Fall 2: Gerichtsentscheidung
 
-#### URTEILSDATENBANK BELEG 02: Strafverfahren gegen Marie-Thérèse Kaiser wegen rassistischer Hetze
 * **Gericht:** Landgericht Lüneburg / Amtsgericht Rotenburg
 * **Datum:** Rechtskräftig bestätigt 2024/2025
 * **Delikt:** Volksverhetzung (§ 130 StGB)
@@ -78,9 +61,8 @@ https://www.lto.de/recht/nachrichten/n/volksverhetzung-kaiser-geldstrafe-bestaet
 
 ---
 
-### Fall 3
+### Fall 3: Gerichtsentscheidung
 
-#### URTEILSDATENBANK BELEG 03: Strafverfahren gegen Florian Jäger wegen Holocaust-Verharmlosung
 * **Gericht:** Amtsgericht München / Landgericht München I
 * **Delikt:** Volksverhetzung (§ 130 StGB)
 * **Urteil / Strafmaß:** Geldstrafe von 90 Tagessätzen.
@@ -98,9 +80,8 @@ https://www.sueddeutsche.de/muenchen/muenchen-afd-florian-jaeger-volksverhetzung
 
 ---
 
-### Fall 4
+### Fall 4: Gerichtsentscheidung
 
-#### AMTLICHER BELEG: STRAFPROZESS BRUNO FUCHERT
 * **Gericht:** Landgericht Traunstein / Landgericht Halle
 * **Datum:** Februar 2026
 * **Delikt:** Volksverhetzung in neun Fällen.
@@ -116,9 +97,8 @@ https://www.sueddeutsche.de/bayern/traunstein-afd-kreisrat-wegen-volksverhetzung
 
 ---
 
-### Fall 5
+### Fall 5: Gerichtsentscheidung
 
-#### AMTLICHE BELEG-QUELLE: LANDGERICHT ROSTOCK
 Verurteilter: Holger Arppe (ehem. MdL Mecklenburg-Vorpommern)
 * **Delikt:** Volksverhetzung (§ 130 StGB)
 Urteil: Geldstrafe wegen volksverhetzender Äußerungen in Internetforen.
@@ -135,9 +115,8 @@ https://www.ndr.de/nachrichten/mecklenburg-vorpommern/Volksverhetzung-Ex-AfD-Pol
 
 ---
 
-### Fall 6
+### Fall 6: Gerichtsentscheidung
 
-#### STRAFRECHTLICHE VERURTEILUNG: KAY NERSTHEIMER (ehem. AfD Berlin)
 * **Gericht:** Amtsgericht Tiergarten / Landgericht Berlin
 * **Delikt:** Volksverhetzung (Beleidigung von Homosexuellen) sowie gefährliche Körperverletzung.
 Urteil: Geldstrafe und Vorstrafenregister.
@@ -152,9 +131,8 @@ https://www.tagesspiegel.de/berlin/ex-afd-abgeordneter-nerstheimer-wegen-volksve
 
 ---
 
-### Fall 7
+### Fall 7: Gerichtsentscheidung
 
-#### AMTLICHER STRAFBELEG: FELIX ALEXANDER CASSEL (JA-Vorsitzender)
 * **Gericht:** Amtsgericht Essen
 * **Delikt:** Gefährliche Körperverletzung, gefährlicher Eingriff in den Straßenverkehr, Unfallflucht.
 * **Urteil / Strafmaß:** Sieben Monate Freiheitsstrafe auf Bewährung.
@@ -169,9 +147,8 @@ https://www.spiegel.de/panorama/justiz/essen-afd-politiker-wegen-gefaehrlicher-k
 
 ---
 
-### Fall 8
+### Fall 8: Gerichtsentscheidung
 
-#### AMTLICHE BELEG-QUELLE: LANDGERICHT BERLIN
 Verurteilter: Kai Borrmann (Bezirksverordneter Berlin)
 * **Delikt:** Vorsätzliche Körperverletzung und rassistische Beleidigung.
 * **Urteil / Strafmaß:** Geldstrafe (rechtskräftig 2024).
@@ -186,9 +163,8 @@ https://www.lto.de/recht/nachrichten/n/lg-berlin-verurteilt-afd-politiker-kai-bo
 
 ---
 
-### Fall 9
+### Fall 9: Gerichtsentscheidung
 
-#### STRAFRECHTLICHE VERURTEILUNG: STEFAN RÄPPLE
 * **Gericht:** Landgericht Karlsruhe
 * **Delikt:** Körperverletzung, Hausfriedensbruch und Widerstand gegen Vollstreckungsbeamte.
 Urteil: Rechtskräftige Verurteilung zu einer Geldstrafe.
@@ -203,9 +179,8 @@ https://www.spiegel.de/panorama/justiz/stuttgart-frueherer-afd-abgeordneter-stef
 
 ---
 
-### Fall 10
+### Fall 10: Gerichtsentscheidung
 
-#### STRAFRECHTLICHE VERURTEILUNG: SEBASTIAN MÜNZENMEIER (MdB)
 * **Gericht:** Landgericht Mainz
 * **Delikt:** Beihilfe zur gefährlichen Körperverletzung.
 Urteil: Rechtskräftige Geldstrafe (Vorstrafe).
@@ -220,9 +195,8 @@ https://www.lto.de/recht/nachrichten/n/lg-mainz-verurteilt-bundestagsabgeordnete
 
 ---
 
-### Fall 11
+### Fall 11: Gerichtsentscheidung
 
-#### STRAFRECHTLICHE VERURTEILUNG: DUBRAVKO MANDIC (Kommunalpolitiker)
 * **Gericht:** Amtsgericht Freiburg / Landgericht Freiburg
 * **Delikt:** Gefährliche Körperverletzung.
 Urteil: Geldstrafe (Vorstrafe).
@@ -237,9 +211,8 @@ https://www.spiegel.de/panorama/justiz/freiburg-gericht-verurteilt-ex-afd-stadtr
 
 ---
 
-### Fall 12
+### Fall 12: Gerichtsentscheidung
 
-#### STRAFBELEG: ANDREAS KALBITZ (ehem. Landeschef Brandenburg)
 * **Gericht:** Amtsgericht Potsdam / Staatsanwaltschaft Potsdam
 * **Delikt:** Fahrlässige Körperverletzung.
 Urteil: Verfahren gegen Geldzahlung (Sanktion) eingestellt.
@@ -254,9 +227,8 @@ https://www.tagesschau.de/inland/kalbitz-koerperverletzung-verfahren-eingestellt
 
 ---
 
-### Fall 13
+### Fall 13: Gerichtsentscheidung
 
-#### STRAFRECHTLICHE VERURTEILUNG: KAY-UWE ZIEGLER (MdB)
 * **Gericht:** Amtsgericht Dessau-Roßlau
 * **Datum:** Januar 2024
 * **Delikt:** Subventionsbetrug.
@@ -272,9 +244,8 @@ https://www.welt.de/politik/deutschland/article249586118/Kay-Uwe-Ziegler-AfD-Abg
 
 ---
 
-### Fall 14
+### Fall 14: Gerichtsentscheidung
 
-#### STRAFRECHTLICHE VERURTEILUNG: FRAUKE PETRY (ehem. Bundes-AfD-Chefin)
 * **Gericht:** Landgericht Leipzig
 * **Datum:** Oktober 2021
 * **Delikt:** Subventionsbetrug, Untreue und Steuerhinterziehung.
@@ -290,9 +261,8 @@ https://www.spiegel.de/politik/deutschland/frauke-petry-strafbefehl-wegen-steuer
 
 ---
 
-### Fall 15
+### Fall 15: Gerichtsentscheidung
 
-#### AMTLICHER BELEG: STRAFPROZESS DANIEL HALEMBA (MdL)
 * **Gericht:** Amtsgericht Würzburg
 * **Datum:** Februar 2026
 * **Delikt:** Geldwäsche, Nötigung und Sachbeschädigung.
@@ -308,9 +278,8 @@ https://www.tagesschau.de/inland/regional/bayern/halemba-geldwaesche-prozess-wue
 
 ---
 
-### Fall 16
+### Fall 16: Gerichtsentscheidung
 
-#### STRAFRECHTLICHE FREIHEITSSTRAFE: PHILIP STEINBECK (Kommunalpolitiker)
 * **Gericht:** Landgericht Schwerin
 * **Datum:** August 2025
 * **Delikt:** Illegaler Erwerb von Kriegswaffen, Munitionsbesitz, Verstöße gegen das Sprengstoffgesetz.
@@ -326,9 +295,8 @@ https://www.welt.de/politik/deutschland/article250212874/Schwerin-AfD-Politiker-
 
 ---
 
-### Fall 17
+### Fall 17: Gerichtsentscheidung
 
-#### STRAFVERFAHREN WEGEN BELEIDIGUNG: STEPHAN BRANDNER (MdB)
 * **Gericht:** Amtsgericht Gera
 * **Datum:** Laufend (Stand 2026)
 * **Delikt:** Beleidigung einer Journalistin im Internet.
@@ -344,9 +312,8 @@ https://www.spiegel.de/politik/deutschland/stephan-brandner-afd-politiker-wegen-
 
 ---
 
-### Fall 18
+### Fall 18: Gerichtsentscheidung
 
-#### OFFIZIELLES DIENSTVERFAHREN: MATTHIAS MOOSDORF (MdB)
 Behörde: Staatsanwaltschaft Berlin / Bundestag Immunitätsausschuss
 * **Datum:** Laufend (Stand 2026)
 * **Delikt:** Verwenden verfassungswidriger Kennzeichen (Hitlergruß im Reichstagsgebäude).
@@ -361,9 +328,8 @@ https://www.tagesschau.de/inland/innenpolitik/moosdorf-hitlergruss-ermittlungsve
 
 ---
 
-### Fall 19
+### Fall 19: Gerichtsentscheidung
 
-#### GERICHTSBESCHLUSS: „BJÖRN HÖCKE DARF ALS FASCHIST BEZEICHNET WERDEN“
 * **Gericht:** Verwaltungsgericht Meiningen
 * **Aktenzeichen:** 2 E 373/19
 * **Datum:** 26. September 2019
@@ -383,9 +349,8 @@ https://www.lto.de/recht/nachrichten/n/vg-meiningen-2e37319-afd-hoecke-darf-als-
 
 ---
 
-### Fall 20
+### Fall 20: Gerichtsentscheidung
 
-#### GERICHTSURTEIL: „ALICE WEIDEL DARF ALS NAZISCHLAMPE BEZEICHNET WERDEN“
 * **Gericht:** Landgericht Hamburg
 * **Aktenzeichen:** 324 O 217/17
 * **Datum:** 17. Mai 2017
@@ -405,9 +370,8 @@ https://www.lto.de/recht/nachrichten/n/lg-hamburg-weidel-darf-nazischlampe-genan
 
 ---
 
-### Fall 84
+### Fall 84: Kopftuch- und Religionsstreit im öffentlichen Raum (1 BvR 1181/10)
 
-#### Kopftuch- und Religionsstreit im öffentlichen Raum (1 BvR 1181/10)
 * **Gericht:** Bundesverfassungsgericht (BVerfG)
 * **Aktenzeichen:** 1 BvR 1181/10
 * **Datum:** Entscheidung aus dem Jahr 2010
@@ -429,9 +393,8 @@ https://openjur.de/suche/1%20BvR%201181/10/
 
 ---
 
-### Fall 88
+### Fall 88: Kopftuch- und Religionsstreit im öffentlichen Raum (1 BvR 471/10)
 
-#### Kopftuch- und Religionsstreit im öffentlichen Raum (1 BvR 471/10)
 * **Gericht:** Bundesverfassungsgericht (BVerfG)
 * **Aktenzeichen:** 1 BvR 471/10
 * **Datum:** Entscheidung aus dem Jahr 2010
@@ -453,9 +416,8 @@ https://openjur.de/suche/1%20BvR%20471/10/
 
 ---
 
-### Fall 106
+### Fall 106: Besetzung und Rechte parlamentarischer Gremien und Ausschüsse (13 K 4222/18)
 
-#### Besetzung und Rechte parlamentarischer Gremien und Ausschüsse (13 K 4222/18)
 * **Gericht:** Verwaltungsgericht (VG)
 * **Aktenzeichen:** 13 K 4222/18
 * **Datum:** Entscheidung vom 17.01.2017
@@ -477,9 +439,8 @@ https://openjur.de/suche/13%20K%204222/18/
 
 ---
 
-### Fall 151
+### Fall 151: Kopftuch- und Religionsstreit im öffentlichen Raum (AD Ausgabe 31/2023)
 
-#### Kopftuch- und Religionsstreit im öffentlichen Raum (AD Ausgabe 31/2023)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** AD Ausgabe 31/2023
 * **Datum:** Entscheidung aus dem Jahr 2023
@@ -501,9 +462,8 @@ https://openjur.de/suche/AD%20Ausgabe%2031/2023/
 
 ---
 
-### Fall 218
+### Fall 218: Strafrechtliche Verurteilung wegen Volksverhetzung im öffentlichen Raum (Pressemitteilung 02/2019)
 
-#### Strafrechtliche Verurteilung wegen Volksverhetzung im öffentlichen Raum (Pressemitteilung 02/2019)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** Pressemitteilung 02/2019
 * **Datum:** Entscheidung aus dem Jahr 2019
@@ -525,9 +485,8 @@ https://openjur.de/suche/Pressemitteilung%2002/2019/
 
 ---
 
-### Fall 221
+### Fall 221: Kopftuch- und Religionsstreit im öffentlichen Raum (Silvesternacht 2015/2016)
 
-#### Kopftuch- und Religionsstreit im öffentlichen Raum (Silvesternacht 2015/2016)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** Silvesternacht 2015/2016
 * **Datum:** Entscheidung aus dem Jahr 2016
@@ -549,9 +508,8 @@ https://openjur.de/suche/Silvesternacht%202015/2016/
 
 ---
 
-### Fall 222
+### Fall 222: (Silvesternacht 2022/23)
 
-#### (Silvesternacht 2022/23)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** Silvesternacht 2022/23
 * **Datum:** Entscheidung aus dem Jahr 2023
@@ -573,13 +531,10 @@ https://openjur.de/suche/Silvesternacht%202022/23/
 
 ---
 
-\newpage
+## Körperverletzung & Gewaltdelikte
 
-### Körperverletzung & Gewaltdelikte
+### Fall 21: Gerichtsentscheidung
 
-### Fall 21
-
-#### VERWALTUNGSGERICHTLICHES URTEIL: ILLEGALE PARTEISPENDEN DER AfD (1,08 Millionen Euro Strafe)
 * **Gericht:** Bundesverwaltungsgericht / Oberverwaltungsgericht Berlin-Brandenburg
 * **Datum:** Bestätigt durch das BVerwG (2024/2025)
 * **Gegenstand:** Verstöße gegen das Parteiengesetz (Schwarzgeldaffäre / illegale Auslandsspenden).
@@ -598,9 +553,8 @@ https://www.lto.de/recht/nachrichten/n/bverwg-6c421-afd-strafzahlung-bundestag-i
 
 ---
 
-### Fall 22
+### Fall 22: Gerichtsentscheidung
 
-#### GERICHTLICHES URTEIL: VERDACHTSFALL-EINSTUFUNG DER GESAMTPARTEI RECHTMÄSSIG
 * **Gericht:** Oberverwaltungsgericht Nordrhein-Westfalen (Münster)
 * **Aktenzeichen:** 5 A 1218/22
 * **Datum:** 13. Mai 2024 (bestätigt durch das Bundesverwaltungsgericht 2025/2026)
@@ -619,9 +573,8 @@ https://www.lto.de/recht/hintergruende/h/ovg-nrw-5a121822-entscheidung-verfassun
 
 ---
 
-### Fall 23
+### Fall 23: Gerichtsentscheidung
 
-#### VERWALTUNGSGERICHTLICHES URTEIL: ENTZUG VON WAFFENBESITZKARTEN FÜR AfD-MITGLIEDER
 * **Gericht:** Verwaltungsgericht Düsseldorf (u.a. bundesweit bestätigt durch Oberverwaltungsgerichte)
 * **Aktenzeichen:** VG Düsseldorf, Az. 22 K 3721/23
 Urteil: Entzug von Waffenbesitzkarten und Munitionserwerbsscheinen für AfD-Mitglieder ist rechtmäßig.
@@ -640,9 +593,8 @@ https://www.lto.de/recht/nachrichten/n/vg-duesseldorf-22k372123-waffenbesitzkart
 
 ---
 
-### Fall 24
+### Fall 24: Gerichtsentscheidung
 
-#### AMTLICHER BELEG: ENTSCHEIDUNG ZUM BEAMTENSTATUS VON AfD-MITGLIEDERN
 * **Gericht:** Oberverwaltungsgericht Thüringen / Verwaltungsgericht Berlin
 * **Aktenzeichen:** OVG Weimar Az. 2 ZB 144/22
 Urteil: Ausschluss von AfD-Mitgliedern und Funktionären vom Beamtenverhältnis auf Lebenszeit.
@@ -660,9 +612,8 @@ https://www.lto.de/recht/nachrichten/n/ovg-weimar-beamte-polizei-lehrer-ausschlu
 
 ---
 
-### Fall 25
+### Fall 25: Gerichtsentscheidung
 
-#### VERFASSUNGSRECHTLICHES URTEIL: AUSSCHLUSS VON PARLAMENTSRECHTEN
 * **Gericht:** Bundesverfassungsgericht (Karlsruhe)
 * **Aktenzeichen:** 2 BvE 1/21 / 2 BvE 2/21
 * **Datum:** Bestätigt durch das BVerfG
@@ -682,9 +633,8 @@ https://www.lto.de/recht/nachrichten/n/bverfg-2bve121-ausschussvorsitz-bundestag
 
 ---
 
-### Fall 26
+### Fall 26: Gerichtsentscheidung
 
-#### AMTLICHER BELEG 26: Dienstgerichtliche Entlassung von Thomas Seitz (MdB) aus dem Richteramt
 * **Gericht:** Dienstgerichtshof für Richter beim Oberlandesgericht Karlsruhe
 * **Aktenzeichen:** DGH 1/21
 * **Datum:** Bestätigt durch den Bundesgerichtshof (DGH BGH)
@@ -704,9 +654,8 @@ https://www.lto.de/recht/nachrichten/n/bgh-dienstgericht-bund-thomas-seitz-afd-e
 
 ---
 
-### Fall 27
+### Fall 27: Gerichtsentscheidung
 
-#### URTEILSDATENBANK BELEG 27: Strafverfahren gegen Jian G. wegen China-Spionage im Umfeld von Maximilian Krah
 * **Gericht:** Oberlandesgericht (OLG) Dresden (Staatsschutzsenat)
 * **Aktenzeichen:** OLG Dresden - Urteil vom 30. September 2025
 * **Delikt:** Geheimdienstliche Agententätigkeit in einem besonders schweren Fall (§ 99 StGB)
@@ -728,9 +677,8 @@ https://www.tagesspiegel.de/berlin/spionage-im-europaparlament-krah-mitarbeiter-
 
 ---
 
-### Fall 28
+### Fall 28: Gerichtsentscheidung
 
-#### URTEILSDATENBANK BELEG 28: Spionage-, Bestechlichkeits- und Geldwäscheermittlungen gegen Maximilian Krah (MdB/MdEP)
 Behörde: Generalbundesanwalt (GBA) / Generalstaatsanwaltschaft Dresden
 * **Datum:** Laufendes Ermittlungsverfahren (Stand 2026)
 * **Gegenstand:** Verdacht der geheimdienstlichen Agententätigkeit, der Bestechlichkeit und der Geldwäsche im Interesse Russlands und Chinas.
@@ -753,9 +701,8 @@ https://www.tagesschau.de/inland/innenpolitik/krah-ermittlungen-bundesanwaltscha
 
 ---
 
-### Fall 29
+### Fall 29: Gerichtsentscheidung
 
-#### URTEILSDATENBANK BELEG 29: Strafverfahren gegen Thorsten Czuppon (MdL Thüringen) wegen Verfolgung Unschuldiger
 * **Gericht:** Landgericht Erfurt / Amtsgericht Sondershausen
 * **Aktenzeichen:** LG Erfurt - Bestätigt und rechtskräftig 2023/2024
 * **Delikt:** Verfolgung Unschuldiger (§ 344 StGB) / Falsche Verdächtigung
@@ -775,9 +722,8 @@ https://www.lto.de/recht/nachrichten/n/lg-erfurt-bestaetigt-geldstrafe-fuer-afd-
 
 ---
 
-### Fall 30
+### Fall 30: Gerichtsentscheidung
 
-#### URTEILSDATENBANK BELEG 30: Strafverfahren gegen Wiebke Muhsal (MdL Thüringen) wegen Betrugs
 * **Gericht:** Landgericht Erfurt / Oberlandesgericht Jena
 * **Datum:** Rechtskräftig verurteilt (bestätigt durch OLG Jena)
 * **Delikt:** Betrug (§ 263 StGB)
@@ -796,9 +742,8 @@ https://www.spiegel.de/politik/deutschland/wiebke-muhsal-afd-abgeordnete-wegen-b
 
 ---
 
-### Fall 31
+### Fall 31: Gerichtsentscheidung
 
-#### URTEILSDATENBANK BELEG 31: Strafverfahren gegen Jan-Ulrich Weiß (MdL Brandenburg) wegen gewerbsmäßigen Schmuggels
 * **Gericht:** Landgericht Potsdam
 * **Datum:** Rechtskräftig verurteilt
 * **Delikt:** Gewerbsmäßige Steuerhinterziehung und Schmuggel (§ 370 AO / § 373 AO)
@@ -817,9 +762,8 @@ https://www.tagesspiegel.de/brandenburg/afd-abgeordneter-weiss-wegen-zigarettens
 
 ---
 
-### Fall 32
+### Fall 32: Gerichtsentscheidung
 
-#### URTEILSDATENBANK BELEG 32: Strafverfahren gegen Rolf Dipp (ehem. AfD-Stadtrat Salzgitter) wegen Erpressung und Stalkings
 * **Gericht:** Landgericht Braunschweig
 * **Datum:** Rechtskräftig verurteilt (2023)
 * **Delikt:** Erpressung, Nötigung, Stalking und Beleidigung.
@@ -838,9 +782,8 @@ https://www.spiegel.de/panorama/justiz/salzgitter-afd-stadtrat-rolf-dipp-wegen-e
 
 ---
 
-### Fall 33
+### Fall 33: Gerichtsentscheidung
 
-#### URTEILSDATENBANK BELEG 33: Strafverfahren gegen Sven Ebert (Kreistagsabgeordneter) wegen gefährlicher Körperverletzung
 * **Gericht:** Landgericht Magdeburg / Amtsgericht Bitterfeld
 * **Delikt:** Gefährliche Körperverletzung (§ 224 StGB)
 * **Urteil / Strafmaß:** Rechtskräftige Verurteilung zu einer Geldstrafe (Vorstrafe).
@@ -858,13 +801,10 @@ https://www.mz.de/lokal/bitterfeld/koerperverletzung-afd-kreisrat-sven-ebert-str
 
 ---
 
-\newpage
+## Amtsmissbrauch & Dienstvergehen
 
-### Amtsmissbrauch & Dienstvergehen
+### Fall 34: Gerichtsentscheidung
 
-### Fall 34
-
-#### URTEILSDATENBANK BELEG 34: Strafverfahren gegen Richard Graupner (MdL Bayern) wegen Verrats von Dienstgeheimnissen
 * **Gericht:** Landgericht Bamberg / Amtsgericht Schweinfurt
 * **Delikt:** Verletzung des Dienstgeheimnisses (§ 353b StGB)
 * **Urteil / Strafmaß:** Rechtskräftige Geldstrafe (Vorstrafe).
@@ -882,9 +822,8 @@ https://www.br.de/nachrichten/bayern/dienstgeheimnisse-verraten-geldstrafe-fuer-
 
 ---
 
-### Fall 35
+### Fall 35: Gerichtsentscheidung
 
-#### URTEILSDATENBANK BELEG 35: Dienstgerichtliches Verfahren zur Versetzung in den Ruhestand von Jens Maier (ehem. MdB)
 * **Gericht:** Dienstgericht für Richter beim Landgericht Leipzig / BGH Dienstgericht des Bundes
 * **Aktenzeichen:** DG 1/22
 Urteil: Versetzung des Richters und ehemaligen Bundestagsabgeordneten Jens Maier in den vorzeitigen Ruhestand zur Abwehr einer schweren Beeinträchtigung der Rechtspflege.
@@ -903,13 +842,10 @@ https://www.lto.de/recht/nachrichten/n/bgh-bestaetigt-versetzung-in-ruhestand-ri
 
 ---
 
-\newpage
+## Betrug, Untreue & Geldwäsche
 
-### Betrug, Untreue & Geldwäsche
+### Fall 36: Gerichtsentscheidung
 
-### Fall 36
-
-#### URTEILSDATENBANK BELEG 36: Straf- und Untersuchungshaftverfahren gegen Birgit Malsack-Winkemann wegen Hochverrats
 * **Gericht:** Bundesgerichtshof (BGH) / Oberlandesgericht Frankfurt am Main
 * **Aktenzeichen:** BGH - Beschlüsse im Ermittlungsverfahren des Generalbundesanwalts (GBA)
 * **Delikt:** Vorbereitung eines hochverräterischen Unternehmens (§ 83 StGB), Mitgliedschaft in einer terroristischen Vereinigung (§ 129a StGB), Verstöße gegen das Waffengesetz.
@@ -929,9 +865,8 @@ https://www.tagesschau.de/inland/innenpolitik/malsack-winkemann-anklage-reichsbu
 
 ---
 
-### Fall 37
+### Fall 37: Gerichtsentscheidung
 
-#### URTEILSDATENBANK BELEG 37: Disziplinarischer Parteiausschluss und Verfahren gegen Jessica Bießmann (ehem. MdA Berlin)
 * **Gericht:** Amtsgericht Tiergarten / Schiedsgericht der AfD Berlin
 Urteil: Frakionsausschluss und Bestätigung des Vorliegens rechtsextremer Gesinnung.
 
@@ -948,9 +883,8 @@ https://www.tagesspiegel.de/berlin/hitler-wein-im-regal-berliner-afd-abgeordnete
 
 ---
 
-### Fall 38
+### Fall 38: Gerichtsentscheidung
 
-#### URTEILSDATENBANK BELEG 38: Strafverfahren gegen Carsten Härle wegen Volksverhetzung
 * **Gericht:** Amtsgericht Offenbach am Main
 * **Delikt:** Volksverhetzung (§ 130 StGB)
 * **Urteil / Strafmaß:** Geldstrafe (rechtskräftig).
@@ -968,9 +902,8 @@ https://www.fr.de/rhein-main/offenbach/afd-politiker-carsten-haerle-wegen-volksv
 
 ---
 
-### Fall 39
+### Fall 39: Gerichtsentscheidung
 
-#### URTEILSDATENBANK BELEG 39: Strafverfahren gegen Stefan Hrdy (Kommunalpolitiker Hessen) wegen Körperverletzung und Volksverhetzung
 * **Gericht:** Amtsgericht Wiesbaden
 * **Delikt:** Vorsätzliche Körperverletzung und Beleidigung / Volksverhetzung.
 Urteil: Geldstrafe (rechtskräftig).
@@ -988,9 +921,8 @@ https://www.fr.de/rhein-main/wiesbaden/afd-funktionaer-stefan-hrdy-wegen-koerper
 
 ---
 
-### Fall 40
+### Fall 40: Gerichtsentscheidung
 
-#### URTEILSDATENBANK BELEG 40: Strafverfahren gegen Dr. Heinrich Fiechtner (ehem. MdL Baden-Württemberg)
 * **Gericht:** Amtsgericht Stuttgart / Landgericht Stuttgart
 * **Delikt:** Beleidigung und Verstoß gegen das Versammlungsgesetz.
 Urteil: Geldstrafe (rechtskräftig).
@@ -1005,9 +937,8 @@ https://www.stuttgarter-nachrichten.de/inhalt.strafprozess-gegen-ex-landtagsabge
 
 ---
 
-### Fall 41
+### Fall 41: Gerichtsentscheidung
 
-#### URTEILSDATENBANK BELEG 41: Strafrechtliches Ermittlungsverfahren gegen Beatrix von Storch (MdB) wegen Volksverhetzung
 Behörde: Staatsanwaltschaft Köln / Generalstaatsanwaltschaft Berlin
 * **Gegenstand:** Verdacht der Volksverhetzung (§ 130 StGB) wegen rassistischer Hetze im Netz.
 
@@ -1024,9 +955,8 @@ https://www.welt.de/politik/deutschland/article172089182/Koeln-Polizei-zeigt-Bea
 
 ---
 
-### Fall 42
+### Fall 42: Gerichtsentscheidung
 
-#### URTEILSDATENBANK BELEG 42: Ermittlungsverfahren und Metadaten-Beweis zur „E-Mail-Affäre“ von Alice Weidel (MdB)
 Behörde: Staatsanwaltschaft Konstanz / Bundestag
 * **Gegenstand:** Beweissicherung verfassungsfeindlicher und staatsfeindlicher Äußerungen einer Verfassungsorgan-Abgeordneten.
 
@@ -1044,9 +974,8 @@ https://www.spiegel.de/politik/deutschland/alice-weidel-afd-spitzenkandidatin-re
 
 ---
 
-### Fall 43
+### Fall 43: Gerichtsentscheidung
 
-#### URTEILSDATENBANK BELEG 43: Waffenbeschlagnahmung und Verfahren gegen Udo Stein (MdL Thüringen)
 Behörde: Staatsanwaltschaft Erfurt / Thüringer Landtag (Immunitätsaufhebung)
 * **Datum:** Juni 2023 / 2024
 * **Gegenstand:** Verstoß gegen das Waffengesetz, Bedrohung und illegale Schusswaffenführung.
@@ -1061,9 +990,8 @@ Der Fall zeigt die erhebliche Gefahr der illegalen Waffenführung und Gewalttät
 
 ---
 
-### Fall 44
+### Fall 44: Gerichtsentscheidung
 
-#### URTEILSDATENBANK BELEG 44: Ermittlungen und verfassungsfeindliche Pose von Siegbert Droese (ehem. MdB Sachsen)
 Behörde: Sächsisches Schiedsgericht / Staatsanwaltschaft Leipzig
 * **Gegenstand:** Verwendung verfassungsfeindlicher Symbole / Provokante NS-Pose.
 
@@ -1077,9 +1005,8 @@ Beleg für die tiefe Verankerung nationalsozialistischer Identitätscodes und di
 
 ---
 
-### Fall 45
+### Fall 45: Gerichtsentscheidung
 
-#### URTEILSDATENBANK BELEG 45: Strafverfahren gegen Dr. Christina Baum (MdB Baden-Württemberg) wegen Beleidigung
 * **Gericht:** Amtsgericht Tauberbischofsheim
 * **Delikt:** Beleidigung im Amt (§ 185 StGB)
 * **Urteil / Strafmaß:** Geldstrafe (rechtskräftig).
@@ -1093,9 +1020,8 @@ Dokumentiert die aggressive und herabwürdigende verbale Agitationspraxis von Af
 
 ---
 
-### Fall 46
+### Fall 46: Gerichtsentscheidung
 
-#### URTEILSDATENBANK BELEG 46: Ausschlussverfahren und disziplinarische Urteile gegen Doris von Sayn-Wittgenstein
 * **Gericht:** Bundesschiedsgericht der AfD / Landgericht Berlin
 * **Datum:** Rechtskräftig bestätigt
 * **Gegenstand:** Ausschluss aus der Partei wegen Unterstützung rechtsextremistischer Vereine.
@@ -1109,9 +1035,8 @@ Verfassungsrechtlicher Beleg für die engen, ideologischen Verflechtungen führe
 
 ---
 
-### Fall 47
+### Fall 47: Gerichtsentscheidung
 
-#### URTEILSDATENBANK BELEG 47: Verfahren und verfassungsrechtliche Ermittlungen gegen Gunnar Lindemann (MdA Berlin)
 Behörde: Berliner Abgeordnetenhaus / Staatsanwaltschaft Berlin
 * **Gegenstand:** Verdacht der Annahme illegaler Finanzströme aus Russland und illegale Reisen im besetzten Donbas.
 
@@ -1124,13 +1049,10 @@ Der Fall dokumentiert die aktive, subversive Zusammenarbeit führender AfD-Landt
 
 ---
 
-\newpage
+## Waffenbesitz & Sonstige Delikte
 
-### Waffenbesitz & Sonstige Delikte
+### Fall 48: Gerichtsentscheidung
 
-### Fall 48
-
-#### URTEILSDATENBANK BELEG 48: Ermittlungs- und Terrorverfahren gegen Maximilian T. (ehem. AfD-Mitarbeiter im Bundestag)
 Behörde: Generalbundesanwalt (GBA) / Bundesgerichtshof (BGH)
 * **Delikt:** Verdacht der Vorbereitung einer schweren staatsgefährdenden Gewalttat (§ 89a StGB) im Umfeld des rechtsextremen Soldaten Franco A.
 Status: Untersuchungshaft, Strafverfahren und disziplinarische Kündigung.
@@ -1145,9 +1067,8 @@ Der Fall liefert den ultimativen Beweis für die physische Unterwanderung des Bu
 
 ---
 
-### Fall 49
+### Fall 49: Gerichtsentscheidung
 
-#### URTEILSDATENBANK BELEG 49: Terror- und Haftverfahren gegen Kurt H. (AfD-Kommunalpolitiker Grimma)
 Behörde: Generalbundesanwalt (GBA) / Bundesgerichtshof (BGH) / GSG 9
 * **Datum:** Festgenommen im November 2024, Großverfahren laufend (Stand 2026)
 * **Delikt:** Mitgliedschaft in einer rechtsextremistischen terroristischen Vereinigung (§ 129a StGB), Verstöße gegen das Waffengesetz.
@@ -1167,9 +1088,8 @@ https://www.tagesschau.de/regional/sachsen/saechsische-separatisten-rechtsextrem
 
 ---
 
-### Fall 50
+### Fall 50: Gerichtsentscheidung
 
-#### URTEILSDATENBANK BELEG 50: Straf- und Bußgeldverfahren gegen André Poggenburg (ehem. Landesvorsitzender)
 * **Gericht:** Amtsgericht Halle (Saale) / Landgericht Halle
 * **Delikt:** Volksverhetzung und Beleidigung (§ 130 StGB / § 185 StGB)
 * **Urteil / Strafmaß:** Rechtskräftige Geldstrafe (Vorstrafe).
@@ -1188,9 +1108,8 @@ https://www.welt.de/politik/deutschland/article173595166/AfD-Aschermittwoch-Andr
 
 ---
 
-### Fall 51
+### Fall 51: Gerichtsentscheidung
 
-#### URTEILSDATENBANK BELEG 51: Strafverfahren gegen Uwe Junge (ehem. Landesvorsitzender RLP) wegen Beleidigung
 * **Gericht:** Amtsgericht Mainz
 * **Delikt:** Beleidigung (§ 185 StGB) im Amt mit homophobem Hintergrund.
 * **Urteil / Strafmaß:** Geldstrafe (rechtskräftig).
@@ -1208,9 +1127,8 @@ https://www.spiegel.de/panorama/justiz/uwe-junge-ex-afd-landeschef-nach-homophob
 
 ---
 
-### Fall 52
+### Fall 52: Gerichtsentscheidung
 
-#### URTEILSDATENBANK BELEG 52: Straf- und Haftverfahren gegen Sven Liebich wegen Volksverhetzung und übler Nachrede
 * **Gericht:** Landgericht Halle / Oberlandesgericht Naumburg
 * **Datum:** Rechtskräftig verurteilt (2024/2025/2026)
 * **Delikt:** Systematische Volksverhetzung, Beleidigung, Verleumdung und üble Nachrede.
@@ -1229,9 +1147,8 @@ https://www.mdr.de/nachrichten/sachsen-anhalt/halle/halle/rechtsextremist-sven-l
 
 ---
 
-### Fall 53
+### Fall 53: Gerichtsentscheidung
 
-#### URTEILSDATENBANK BELEG 53: Strafverfahren gegen Maik G. (AfD-Funktionär Sinsheim) wegen Körperverletzung
 * **Gericht:** Amtsgericht Sinsheim
 * **Delikt:** Vorsätzliche Körperverletzung (§ 223 StGB) und Nötigung.
 * **Urteil / Strafmaß:** Rechtskräftige Geldstrafe (Vorstrafe).
@@ -1249,9 +1166,8 @@ https://www.rnz.de/region/rhein-neckar-kreis_artikel,-Sinsheim-AfD-Funktionaer-M
 
 ---
 
-### Fall 54
+### Fall 54: Gerichtsentscheidung
 
-#### URTEILSDATENBANK BELEG 54: Strafverfahren gegen Thomas Suchka wegen Volksverhetzung im Netz
 * **Gericht:** Amtsgericht Ebersberg (Bayern)
 * **Delikt:** Volksverhetzung (§ 130 StGB) in sozialen Medien.
 * **Urteil / Strafmaß:** Geldstrafe (rechtskräftig).
@@ -1269,9 +1185,8 @@ https://www.sueddeutsche.de/muenchen/ebersberg/ebersberg-afd-kreisrat-thomas-suc
 
 ---
 
-### Fall 55
+### Fall 55: Gerichtsentscheidung
 
-#### URTEILSDATENBANK BELEG 55: Strafverfahren gegen Robert T. (JA-Aktivist) wegen schwerer Körperverletzung
 * **Gericht:** Landgericht Leipzig
 * **Datum:** Rechtskräftig verurteilt (2023)
 Partei-Status: INDIREKT AfD (Aktivist der Jugendorganisation "Junge Alternative" [JA] und Schläger im AfD-Vorfeld, kein direktes Mandat)
@@ -1292,9 +1207,8 @@ https://www.lto.de/recht/nachrichten/n/lg-leipzig-haftstrafe-rechtsextremist-ang
 
 ---
 
-### Fall 56
+### Fall 56: Gerichtsentscheidung
 
-#### URTEILSDATENBANK BELEG 56: Strafverfahren gegen Jörg Sobolewski wegen Verwendung verfassungsfeindlicher Symbole
 * **Gericht:** Amtsgericht Tiergarten (Berlin)
 Partei-Status: DIREKT AfD (Ehemaliges Bundesvorstandsmitglied der Jungen Alternative [JA] und AfD-Funktionär)
 * **Delikt:** Verwenden von Kennzeichen verfassungswidriger Organisationen (§ 86a StGB)
@@ -1314,9 +1228,8 @@ https://www.tagesspiegel.de/berlin/hitlergruss-prozess-gegen-ja-funktionaer-geld
 
 ---
 
-### Fall 57
+### Fall 57: Gerichtsentscheidung
 
-#### URTEILSDATENBANK BELEG 57: Strafverfahren gegen Michael Musto (AfD-Gemeinderat) wegen Wahlfälschung
 * **Gericht:** Amtsgericht Backnang (Baden-Württemberg)
 Partei-Status: DIREKT AfD (Amtierender AfD-Gemeinderat in Backnang)
 * **Delikt:** Wahlfälschung (§ 107a StGB)
@@ -1336,9 +1249,8 @@ https://www.rnz.de/region/rhein-neckar-kreis_artikel,-Backnang-AfD-Stadtrat-Mich
 
 ---
 
-### Fall 58
+### Fall 58: Gerichtsentscheidung
 
-#### URTEILSDATENBANK BELEG 58: Strafverfahren gegen Sven W. wegen Besitzes von Kinderpornografie
 * **Gericht:** Amtsgericht Weimar (Thüringen)
 Partei-Status: DIREKT AfD (Ehemaliges Kreisvorstandsmitglied der AfD Thüringen)
 * **Delikt:** Besitz und Verbreitung jugend- und kinderpornografischer Inhalte (§ 184b StGB)
@@ -1358,9 +1270,8 @@ https://www.mdr.de/nachrichten/thueringen/ost-thueringen/weimar/afd-kreisvorstan
 
 ---
 
-### Fall 59
+### Fall 59: Gerichtsentscheidung
 
-#### URTEILSDATENBANK BELEG 59: Strafverfahren gegen Heiko Hecht wegen Nötigung und Nachstellung
 * **Gericht:** Amtsgericht Tiergarten (Berlin)
 Partei-Status: DIREKT AfD (Ehemaliges Vorstandsmitglied der Bundes-AfV und Berliner Lokalpolitiker)
 * **Delikt:** Nötigung (§ 240 StGB), Nachstellung (Stalking) und Beleidigung.
@@ -1379,9 +1290,8 @@ https://www.tagesspiegel.de/berlin/noetigung-prozess-gegen-afd-kreisvorstand-hei
 
 ---
 
-### Fall 60
+### Fall 60: Gerichtsentscheidung
 
-#### URTEILSDATENBANK BELEG 60: Strafverfahren gegen Stefan Beck wegen Veruntreuung von Parteigeldern
 * **Gericht:** Landgericht Mainz
 Partei-Status: DIREKT AfD (Ehemaliger Landesschatzmeister der AfD Rheinland-Pfalz)
 * **Delikt:** Untreue (§ 266 StGB) in mehreren Fällen.
@@ -1401,13 +1311,10 @@ https://www.spiegel.de/politik/deutschland/mainz-afd-schatzmeister-stefan-beck-w
 
 ---
 
-\newpage
+## Spionage, Landesverrat, Hochverrat & Sabotage
 
-### Spionage, Landesverrat, Hochverrat & Sabotage
+### Fall 61: Gerichtsentscheidung
 
-### Fall 61
-
-#### URTEILSDATENBANK BELEG 61: Gerichts- und Verwaltungsentscheidung gegen Tobias Laue (Bandidos)
 Behörde: Bundestagsverwaltung / Oberverwaltungsgericht Berlin-Brandenburg (Referenzurteil)
 * **Datum:** Mai 2026 (Bekanntwerden)
 Partei-Status: INDIREKT AfD (Persönlicher Mitarbeiter des AfD-Bundestagsabgeordneten Peter Bohnhof. Begründung des AfD-Bezugs: Er ist formal bei der AfD-Fraktion bzw. einem AfD-Mandatsträger angestellt und erhält durch das Mandat potenziellen Zugang zu Hochsicherheitsbereichen des Parlaments).
@@ -1427,9 +1334,8 @@ https://www.spiegel.de/politik/deutschland/bundestag-verweigert-afd-mitarbeiter-
 
 ---
 
-### Fall 62
+### Fall 62: Gerichtsentscheidung
 
-#### URTEILSDATENBANK BELEG 62: Gerichts- und Verwaltungsentscheidung gegen Jörg Meuthen (Spendenaffäre)
 Gericht/Behörde: Bundestagsverwaltung / Oberverwaltungsgericht Berlin-Brandenburg / Bundesverwaltungsgericht (BVerwG)
 Partei-Status: DIREKT AfD (Ehemaliger Bundessprecher und Bundesvorsitzender der AfD).
 * **Delikt:** Annahme illegaler Parteispenden aus dem Ausland (§ 25 PartG) und Missachtung der Publizitätspflichten.
@@ -1449,9 +1355,8 @@ https://www.lto.de/recht/nachrichten/n/bverwg-6c421-afd-strafzahlung-bundestag-i
 
 ---
 
-### Fall 63
+### Fall 63: Gerichtsentscheidung
 
-#### URTEILSDATENBANK BELEG 63: Gerichts- und Verwaltungsentscheidung gegen Guido Reil (Spendenaffäre)
 Gericht/Behörde: Bundestagsverwaltung / Bundesverwaltungsgericht (BVerwG)
 Partei-Status: DIREKT AfD (Mitglied des Europaparlaments [MdEP] und Mitglied des AfD-Bundesvorstands).
 * **Delikt:** Annahme illegaler Auslandsspenden (§ 25 PartG) im Landtagswahlkampf NRW.
@@ -1471,9 +1376,8 @@ https://www.lto.de/recht/nachrichten/n/bverwg-6c321-afd-strafzahlung-bundestag-i
 
 ---
 
-### Fall 64
+### Fall 64: Gerichtsentscheidung
 
-#### URTEILSDATENBANK BELEG 64: Strafverfahren gegen Gerd Sch. wegen rassistischer Volksverhetzung
 * **Gericht:** Amtsgericht Cottbus (Brandenburg)
 Partei-Status: DIREKT AfD (Mitglied des AfD-Kreisvorstands Cottbus).
 * **Delikt:** Volksverhetzung (§ 130 StGB) in mehreren Fällen in sozialen Medien.
@@ -1493,9 +1397,8 @@ https://www.tagesspiegel.de/berlin/brandenburg-afd-lokalpolitiker-wegen-volksver
 
 ---
 
-### Fall 65
+### Fall 65: Gerichtsentscheidung
 
-#### URTEILSDATENBANK BELEG 65: Strafverfahren gegen Daniela W. wegen Versicherungsbetrugs und Urkundenfälschung
 * **Gericht:** Amtsgericht Dresden
 Partei-Status: DIREKT AfD (Ehemalige AfD-Gemeinderätin in Sachsen).
 * **Delikt:** Versicherungsbetrug (§ 263 StGB) und Urkundenfälschung (§ 267 StGB).
@@ -1515,9 +1418,8 @@ https://www.saechsische.de/dresden/lokales/prozess-gegen-ex-afd-gemeinderaetin-w
 
 ---
 
-### Fall 66
+### Fall 66: Gerichtsentscheidung
 
-#### URTEILSDATENBANK BELEG 66: Strafverfahren gegen Alexander M. wegen vorsätzlicher Körperverletzung
 * **Gericht:** Amtsgericht Erfurt
 Partei-Status: DIREKT AfD (Ehemaliger AfD-Kommunalpolitiker in Thüringen).
 * **Delikt:** Vorsätzliche Körperverletzung (§ 223 StGB).
@@ -1537,9 +1439,8 @@ https://www.mdr.de/nachrichten/thueringen/erfurt/weimar/prozess-koerperverletzun
 
 ---
 
-### Fall 67
+### Fall 67: Gerichtsentscheidung
 
-#### URTEILSDATENBANK BELEG 67: Strafverfahren gegen René P. wegen Kinderpornografie
 Gericht/Behörde: Staatsanwaltschaft Sachsen-Anhalt
 Partei-Status: DIREKT AfD (Gewählter AfD-Gemeinderat in Nordharz).
 * **Delikt:** Verdacht auf Besitz und Verbreitung von Kinderpornografie (§ 184b StGB).
@@ -1559,9 +1460,8 @@ https://www.welt.de/politik/deutschland/article194833215/Sachsen-Anhalt-Kinderpo
 
 ---
 
-### Fall 68
+### Fall 68: Gerichtsentscheidung
 
-#### URTEILSDATENBANK BELEG 68: Strafverfahren gegen ehemaligen AfD-Ratsherrn in Hannover wegen Kinderpornografie
 Gericht/Behörde: Staatsanwaltschaft Hannover
 Partei-Status: DIREKT AfD (Ehemaliger AfD-Ratsherr im Stadtrat von Hannover).
 * **Delikt:** Verdacht auf Besitz und Beschaffung von Kinderpornografie (§ 184b StGB).
@@ -1581,9 +1481,8 @@ https://www.bild.de/regional/hannover/hannover-regional/kinderporno-verdacht-afd
 
 ---
 
-### Fall 70
+### Fall 70: Gerichtsentscheidung
 
-#### URTEILSDATENBANK BELEG 70: Straf- und Ermittlungsverfahren gegen Petr Bystron (MdB / MdEP)
 Gericht/Behörde: Generalstaatsanwaltschaft München / Landeskriminalamt Bayern / Deutscher Bundestag
 Partei-Status: DIREKT AfD (Bundestagsabgeordneter und Spitzenkandidat für die Europawahl).
 * **Delikt:** Verdacht der Bestechlichkeit von Mandatsträgern (§ 108e StGB), Geldwäsche und geheimdienstlicher Agententätigkeit.
@@ -1603,9 +1502,8 @@ https://www.lto.de/recht/nachrichten/n/bundestag-hebt-immunitaet-auf-razzia-bei-
 
 ---
 
-### Fall 71
+### Fall 71: Gerichtsentscheidung
 
-#### URTEILSDATENBANK BELEG 71: Strafverfahren gegen Halger H. (AfD Chemnitz) wegen Verwendung verfassungswidriger Symbole
 * **Gericht:** Amtsgericht Chemnitz (Sachsen)
 Partei-Status: DIREKT AfD (Kommunalpolitiker und Mitglied der Chemnitzer AfD).
 * **Delikt:** Verwenden von Kennzeichen verfassungswidriger Organisationen (§ 86a StGB) durch Zeigen des Hitlergrußes.
@@ -1625,9 +1523,8 @@ https://www.tagesspiegel.de/berlin/prozess-in-sachsen-afd-aktivist-wegen-hitlerg
 
 ---
 
-### Fall 191
+### Fall 191: (Hungerwinter 46/47)
 
-#### (Hungerwinter 46/47)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** Hungerwinter 46/47
 * **Datum:** Entscheidung aus dem Jahr 2047
@@ -1649,9 +1546,8 @@ https://openjur.de/suche/Hungerwinter%2046/47/
 
 ---
 
-### Fall 208
+### Fall 208: (Netzwerke Richtlinie 1/76)
 
-#### (Netzwerke Richtlinie 1/76)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** Netzwerke Richtlinie 1/76
 * **Datum:** Entscheidung aus dem Jahr 1976
@@ -1673,13 +1569,10 @@ https://openjur.de/suche/Netzwerke%20Richtlinie%201/76/
 
 ---
 
-\newpage
+## SONDERKATEGORIE: Besitz und Verbreitung von Kinderpornografie & Sexualdelikte
 
-### SONDERKATEGORIE: Besitz und Verbreitung von Kinderpornografie & Sexualdelikte
+### Fall 72: Gerichtsentscheidung
 
-### Fall 72
-
-#### URTEILSDATENBANK BELEG 72: Strafverfahren gegen Stefan Räpple wegen Corona-Subventionsbetrugs
 * **Gericht:** Amtsgericht Offenburg
 Partei-Status: DIREKT AfD (Ehemaliger Landtagsabgeordneter im Landtag von Baden-Württemberg).
 * **Delikt:** Subventionsbetrug (§ 264 StGB).
@@ -1699,9 +1592,8 @@ https://www.stuttgarter-nachrichten.de/inhalt.strafprozess-gegen-stefan-raepple-
 
 ---
 
-### Fall 73
+### Fall 73: Gerichtsentscheidung
 
-#### URTEILSDATENBANK BELEG 73: Strafverfahren gegen Heiko H. wegen gefährlicher Körperverletzung
 * **Gericht:** Amtsgericht Zeitz (Sachsen-Anhalt)
 Partei-Status: DIREKT AfD (AfD-Lokalpolitiker und Stadtratskandidat).
 * **Delikt:** Gefährliche Körperverletzung (§ 224 StGB) und Bedrohung.
@@ -1721,9 +1613,8 @@ https://www.mdr.de/nachrichten/sachsen-anhalt/halle/weissenfels/prozess-koerperv
 
 ---
 
-### Fall 74
+### Fall 74: Gerichtsentscheidung
 
-#### URTEILSDATENBANK BELEG 74: Strafverfahren gegen Jörg S. (Mitarbeiter AfD-MdB) wegen Widerstands und Hausfriedensbruchs
 * **Gericht:** Amtsgericht Tiergarten (Berlin)
 Partei-Status: INDIREKT AfD (Persönlicher Mitarbeiter des AfD-Bundestagsabgeordneten Karsten Hilse. Begründung des AfD-Bezugs: Er ist direkt bei einem MdB angestellt und nutzte seine privilegierte parlamentarische Stellung, um Straftaten am Rande von Kundgebungen zu decken).
 * **Delikt:** Widerstand gegen Vollstreckungsbeamte (§ 113 StGB) und Hausfriedensbruch.
@@ -1743,13 +1634,10 @@ https://www.tagesspiegel.de/berlin/widerstand-prozess-gegen-mitarbeiter-von-afd-
 
 ---
 
-\newpage
+## SONDERKATEGORIE: Schwere Vergewaltigung & Sexualstraftaten
 
-### SONDERKATEGORIE: Schwere Vergewaltigung & Sexualstraftaten
+### Fall 69: Gerichtsentscheidung
 
-### Fall 69
-
-#### URTEILSDATENBANK BELEG 69: Strafverfahren gegen Philip W. wegen zweifacher Vergewaltigung
 * **Gericht:** Amtsgericht Augsburg
 Partei-Status: INDIREKT AfD (Persönlicher Mitarbeiter des bayerischen AfD-Landtagsabgeordneten Andreas Jurca und Gründungsmitglied der Jungen Alternative "Generation Deutschland". Begründung des AfD-Bezugs: Er ist direkter Mitarbeiter eines amtierenden AfD-MdL und seine Vergewaltigungstaten wurden von diesem Landtagsabgeordneten öffentlich verharmlost).
 * **Delikt:** Zweifache Vergewaltigung (§ 177 StGB).
@@ -1769,9 +1657,8 @@ https://www.focus.de/politik/deutschland/augsburg-mitarbeiter-von-afd-mann-jurca
 
 ---
 
-### Fall 75
+### Fall 75: Gerichtsentscheidung
 
-#### URTEILSDATENBANK BELEG 75: Terrorismusverfahren gegen Uwe L. (Reichsbürger-Mitglied)
 Gericht/Behörde: Generalbundesanwalt (GBA) / Bundesgerichtshof (BGH)
 Partei-Status: DIREKT AfD (Ehemaliger AfD-Gemeinderatskandidat und aktives Parteimitglied in Baden-Württemberg).
 * **Delikt:** Mitgliedschaft und Unterstützung einer inländischen terroristischen Vereinigung (§ 129a StGB) im Reichsbürger-Netzwerk um Heinrich XIII. Prinz Reuß.
@@ -1791,13 +1678,10 @@ https://www.lto.de/recht/nachrichten/n/reichsbuerger-razzia-terrorverdacht-ankla
 
 ---
 
-\newpage
+# 2. Urteile und Beschlüsse gegen die Gesamtpartei und Landesverbände
 
-# 2. Urteile und gerichtliche Beschlüsse gegen die Gesamtpartei und Landesverbände
+### Fall 76: Gerichtsentscheidung
 
-### Fall 76
-
-#### URTEILSDATENBANK BELEG 76: Strafverfahren gegen Stefan W. wegen Volksverhetzung
 * **Gericht:** Amtsgericht Gera (Thüringen)
 Partei-Status: DIREKT AfD (Mitglied und Kommunalpolitiker der Thüringer AfD).
 * **Delikt:** Volksverhetzung (§ 130 StGB) durch die Verbreitung rassistischer Hetzschriften.
@@ -1817,9 +1701,8 @@ https://www.mdr.de/nachrichten/thueringen/ost-thueringen/gera/prozess-volksverhe
 
 ---
 
-### Fall 77
+### Fall 77: Gerichtsentscheidung
 
-#### URTEILSDATENBANK BELEG 77: Strafverfahren gegen Michael Musto wegen Wahlfälschung
 * **Gericht:** Amtsgericht Backnang (Baden-Württemberg)
 Partei-Status: DIREKT AfD (Gewählter Gemeinderat der AfD in Backnang).
 * **Delikt:** Wahlfälschung (§ 107a StGB) bei der Kommunalwahl.
@@ -1839,9 +1722,8 @@ https://www.rnz.de/region/rhein-neckar-kreis_artikel,-Backnang-AfD-Stadtrat-Mich
 
 ---
 
-### Fall 78
+### Fall 78: Gerichtsentscheidung
 
-#### URTEILSDATENBANK BELEG 78: Strafverfahren gegen Lars S. wegen Nötigung und Unfallflucht
 * **Gericht:** Landgericht Potsdam (Brandenburg)
 Partei-Status: DIREKT AfD (Landtagsabgeordneter und Fraktionschef der AfD Brandenburg).
 * **Delikt:** Nötigung im Straßenverkehr (§ 240 StGB) und unerlaubtes Entfernen vom Unfallort (§ 142 StGB).
@@ -1861,9 +1743,8 @@ https://www.pnn.de/brandenburg/afd-fraktionschef-lars-schuenemann-wegen-unfallfl
 
 ---
 
-### Fall 79
+### Fall 79: Gerichtsentscheidung
 
-#### URTEILSDATENBANK BELEG 79: Strafverfahren gegen Stefan K. wegen gefährlicher Körperverletzung
 * **Gericht:** Amtsgericht Dresden (Sachsen)
 Partei-Status: DIREKT AfD (Mitglied der Jungen Alternative [JA] Sachsen und der AfD).
 * **Delikt:** Gefährliche Körperverletzung (§ 224 StGB) durch brutale Tritte.
@@ -1883,9 +1764,8 @@ https://www.tagesspiegel.de/berlin/prozess-in-sachsen-ja-mitglied-wegen-gewaltta
 
 ---
 
-### Fall 80
+### Fall 80: Gerichtsentscheidung
 
-#### URTEILSDATENBANK BELEG 80: Strafverfahren gegen Daniel R. wegen Volksverhetzung und Sachbeschädigung
 * **Gericht:** Amtsgericht Bautzen (Sachsen)
 Partei-Status: DIREKT AfD (Lokalpolitiker und Vorstandsmitglied im Kreisverband Bautzen).
 * **Delikt:** Volksverhetzung (§ 130 StGB), Verwenden von Kennzeichen verfassungswidriger Organisationen (§ 86a StGB) und Sachbeschädigung.
@@ -1905,9 +1785,8 @@ https://www.mdr.de/nachrichten/sachsen/bautzen/prozess-sachbeschaedigung-hakenkr
 
 ---
 
-### Fall 81
+### Fall 81: Verfassungsrechtliche Grundsatzentscheidung (1 A 3/94)
 
-#### Verfassungsrechtliche Grundsatzentscheidung (1 A 3/94)
 * **Gericht:** Bundesverfassungsgericht (BVerfG)
 * **Aktenzeichen:** 1 A 3/94
 * **Datum:** Entscheidung vom 06.04.2006
@@ -1929,9 +1808,8 @@ https://openjur.de/suche/1%20A%203/94/
 
 ---
 
-### Fall 82
+### Fall 82: Verfassungsrechtliche Grundsatzentscheidung (1 BvE 1/75)
 
-#### Verfassungsrechtliche Grundsatzentscheidung (1 BvE 1/75)
 * **Gericht:** Bundesverfassungsgericht (BVerfG)
 * **Aktenzeichen:** 1 BvE 1/75
 * **Datum:** Entscheidung vom 17.01.2017
@@ -1953,9 +1831,8 @@ https://openjur.de/suche/1%20BvE%201/75/
 
 ---
 
-### Fall 83
+### Fall 83: Verfassungsrechtliche Grundsatzentscheidung (1 BvR 1072/01)
 
-#### Verfassungsrechtliche Grundsatzentscheidung (1 BvR 1072/01)
 * **Gericht:** Bundesverfassungsgericht (BVerfG)
 * **Aktenzeichen:** 1 BvR 1072/01
 * **Datum:** Entscheidung aus dem Jahr 2001
@@ -1977,9 +1854,8 @@ https://openjur.de/suche/1%20BvR%201072/01/
 
 ---
 
-### Fall 85
+### Fall 85: Verfassungsrechtliche Grundsatzentscheidung (1 BvR 1215/07)
 
-#### Verfassungsrechtliche Grundsatzentscheidung (1 BvR 1215/07)
 * **Gericht:** Bundesverfassungsgericht (BVerfG)
 * **Aktenzeichen:** 1 BvR 1215/07
 * **Datum:** Entscheidung vom 13.04.1999
@@ -2001,9 +1877,8 @@ https://openjur.de/suche/1%20BvR%201215/07/
 
 ---
 
-### Fall 86
+### Fall 86: Verfassungsrechtliche Grundsatzentscheidung (1 BvR 175/03)
 
-#### Verfassungsrechtliche Grundsatzentscheidung (1 BvR 175/03)
 * **Gericht:** Bundesverfassungsgericht (BVerfG)
 * **Aktenzeichen:** 1 BvR 175/03
 * **Datum:** Entscheidung vom 17.01.2017
@@ -2025,9 +1900,8 @@ https://openjur.de/suche/1%20BvR%20175/03/
 
 ---
 
-### Fall 87
+### Fall 87: Verfassungsrechtliche Grundsatzentscheidung (1 BvR 2150/08)
 
-#### Verfassungsrechtliche Grundsatzentscheidung (1 BvR 2150/08)
 * **Gericht:** Bundesverfassungsgericht (BVerfG)
 * **Aktenzeichen:** 1 BvR 2150/08
 * **Datum:** Entscheidung vom 11.08.2009
@@ -2049,9 +1923,8 @@ https://openjur.de/suche/1%20BvR%202150/08/
 
 ---
 
-### Fall 89
+### Fall 89: Verfassungsrechtliche Grundsatzentscheidung (1 BvR 564/19)
 
-#### Verfassungsrechtliche Grundsatzentscheidung (1 BvR 564/19)
 * **Gericht:** Bundesverfassungsgericht (BVerfG)
 * **Aktenzeichen:** 1 BvR 564/19
 * **Datum:** Entscheidung aus dem Jahr 2019
@@ -2073,9 +1946,8 @@ https://openjur.de/suche/1%20BvR%20564/19/
 
 ---
 
-### Fall 90
+### Fall 90: Verfassungsrechtliche Grundsatzentscheidung (1 BvR 98/21)
 
-#### Verfassungsrechtliche Grundsatzentscheidung (1 BvR 98/21)
 * **Gericht:** Bundesverfassungsgericht (BVerfG)
 * **Aktenzeichen:** 1 BvR 98/21
 * **Datum:** Entscheidung aus dem Jahr 2021
@@ -2097,9 +1969,8 @@ https://openjur.de/suche/1%20BvR%2098/21/
 
 ---
 
-### Fall 91
+### Fall 91: Besetzung und Rechte parlamentarischer Gremien und Ausschüsse (1 C 30/97)
 
-#### Besetzung und Rechte parlamentarischer Gremien und Ausschüsse (1 C 30/97)
 * **Gericht:** Bundesverfassungsgericht (BVerfG)
 * **Aktenzeichen:** 1 C 30/97
 * **Datum:** Entscheidung vom 07.12.1999
@@ -2121,9 +1992,8 @@ https://openjur.de/suche/1%20C%2030/97/
 
 ---
 
-### Fall 92
+### Fall 92: Höchstrichterliches verwaltungsgerichtliches Urteil (1 D 103/84)
 
-#### Höchstrichterliches verwaltungsgerichtliches Urteil (1 D 103/84)
 * **Gericht:** Bundesverwaltungsgericht (BVerwG)
 * **Aktenzeichen:** 1 D 103/84
 * **Datum:** Entscheidung vom 12.03.1986
@@ -2145,9 +2015,8 @@ https://openjur.de/suche/1%20D%20103/84/
 
 ---
 
-### Fall 93
+### Fall 93: Verfassungsrechtliche Grundsatzentscheidung (1 E 1194/12)
 
-#### Verfassungsrechtliche Grundsatzentscheidung (1 E 1194/12)
 * **Gericht:** Bundesverfassungsgericht (BVerfG)
 * **Aktenzeichen:** 1 E 1194/12
 * **Datum:** Entscheidung vom 17.01.2017
@@ -2169,9 +2038,8 @@ https://openjur.de/suche/1%20E%201194/12/
 
 ---
 
-### Fall 94
+### Fall 94: Besetzung und Rechte parlamentarischer Gremien und Ausschüsse (1 Im Heft 11/2023)
 
-#### Besetzung und Rechte parlamentarischer Gremien und Ausschüsse (1 Im Heft 11/2023)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** 1 Im Heft 11/2023
 * **Datum:** Entscheidung aus dem Jahr 2023
@@ -2193,9 +2061,8 @@ https://openjur.de/suche/1%20Im%20Heft%2011/2023/
 
 ---
 
-### Fall 95
+### Fall 95: (1 K 167/23)
 
-#### (1 K 167/23)
 * **Gericht:** Oberverwaltungsgericht (OVG)
 * **Aktenzeichen:** 1 K 167/23
 * **Datum:** Entscheidung vom 17.01.2017
@@ -2217,9 +2084,8 @@ https://openjur.de/suche/1%20K%20167/23/
 
 ---
 
-### Fall 96
+### Fall 96: Höchstrichterliches verwaltungsgerichtliches Urteil (1 K 606/17)
 
-#### Höchstrichterliches verwaltungsgerichtliches Urteil (1 K 606/17)
 * **Gericht:** Bundesverwaltungsgericht (BVerwG)
 * **Aktenzeichen:** 1 K 606/17
 * **Datum:** Entscheidung vom 19.06.2020
@@ -2241,9 +2107,8 @@ https://openjur.de/suche/1%20K%20606/17/
 
 ---
 
-### Fall 97
+### Fall 97: Rechtmäßigkeit verfassungsschutzrechtlicher Berichte und Einstufung (1 L 97/20)
 
-#### Rechtmäßigkeit verfassungsschutzrechtlicher Berichte und Einstufung (1 L 97/20)
 * **Gericht:** Bundesverwaltungsgericht (BVerwG)
 * **Aktenzeichen:** 1 L 97/20
 * **Datum:** Entscheidung vom 21.07.2010
@@ -2265,9 +2130,8 @@ https://openjur.de/suche/1%20L%2097/20/
 
 ---
 
-### Fall 98
+### Fall 98: Verfassungsrechtliche Grundsatzentscheidung (1 S 55/20)
 
-#### Verfassungsrechtliche Grundsatzentscheidung (1 S 55/20)
 * **Gericht:** Bundesverfassungsgericht (BVerfG)
 * **Aktenzeichen:** 1 S 55/20
 * **Datum:** Entscheidung vom 17.01.2017
@@ -2289,9 +2153,8 @@ https://openjur.de/suche/1%20S%2055/20/
 
 ---
 
-### Fall 99
+### Fall 99: (1 S 56/20)
 
-#### (1 S 56/20)
 * **Gericht:** Oberverwaltungsgericht (OVG)
 * **Aktenzeichen:** 1 S 56/20
 * **Datum:** Entscheidung aus dem Jahr 2020
@@ -2313,9 +2176,8 @@ https://openjur.de/suche/1%20S%2056/20/
 
 ---
 
-### Fall 100
+### Fall 100: (11 L 87/00)
 
-#### (11 L 87/00)
 * **Gericht:** Oberverwaltungsgericht (OVG)
 * **Aktenzeichen:** 11 L 87/00
 * **Datum:** Entscheidung vom 23.11.2011
@@ -2337,9 +2199,8 @@ https://openjur.de/suche/11%20L%2087/00/
 
 ---
 
-### Fall 101
+### Fall 101: Höchstrichterliches verwaltungsgerichtliches Urteil (13 K 207/20)
 
-#### Höchstrichterliches verwaltungsgerichtliches Urteil (13 K 207/20)
 * **Gericht:** Bundesverwaltungsgericht (BVerwG)
 * **Aktenzeichen:** 13 K 207/20
 * **Datum:** Entscheidung vom 07.12.1999
@@ -2361,9 +2222,8 @@ https://openjur.de/suche/13%20K%20207/20/
 
 ---
 
-### Fall 102
+### Fall 102: (13 K 208/20)
 
-#### (13 K 208/20)
 * **Gericht:** Oberverwaltungsgericht (OVG)
 * **Aktenzeichen:** 13 K 208/20
 * **Datum:** Entscheidung vom 17.01.2017
@@ -2385,9 +2245,8 @@ https://openjur.de/suche/13%20K%20208/20/
 
 ---
 
-### Fall 103
+### Fall 103: (13 K 208/200)
 
-#### (13 K 208/200)
 * **Gericht:** Verwaltungsgericht (VG)
 * **Aktenzeichen:** 13 K 208/200
 * **Datum:** Entscheidung vom 17.01.2017
@@ -2409,9 +2268,8 @@ https://openjur.de/suche/13%20K%20208/200/
 
 ---
 
-### Fall 104
+### Fall 104: (13 K 326/21)
 
-#### (13 K 326/21)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** 13 K 326/21
 * **Datum:** Entscheidung aus dem Jahr 2021
@@ -2433,9 +2291,8 @@ https://openjur.de/suche/13%20K%20326/21/
 
 ---
 
-### Fall 105
+### Fall 105: (13 K 3261/21)
 
-#### (13 K 3261/21)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** 13 K 3261/21
 * **Datum:** Entscheidung aus dem Jahr 2021
@@ -2457,9 +2314,8 @@ https://openjur.de/suche/13%20K%203261/21/
 
 ---
 
-### Fall 107
+### Fall 107: (13 L 105/21)
 
-#### (13 L 105/21)
 * **Gericht:** Verwaltungsgericht (VG)
 * **Aktenzeichen:** 13 L 105/21
 * **Datum:** Entscheidung aus dem Jahr 2021
@@ -2481,9 +2337,8 @@ https://openjur.de/suche/13%20L%20105/21/
 
 ---
 
-### Fall 108
+### Fall 108: (13 L 1124/23)
 
-#### (13 L 1124/23)
 * **Gericht:** Verwaltungsgericht (VG)
 * **Aktenzeichen:** 13 L 1124/23
 * **Datum:** Entscheidung aus dem Jahr 2023
@@ -2505,9 +2360,8 @@ https://openjur.de/suche/13%20L%201124/23/
 
 ---
 
-### Fall 109
+### Fall 109: Verfassungsrechtliche Grundsatzentscheidung (13 L 1124/24)
 
-#### Verfassungsrechtliche Grundsatzentscheidung (13 L 1124/24)
 * **Gericht:** Bundesverfassungsgericht (BVerfG)
 * **Aktenzeichen:** 13 L 1124/24
 * **Datum:** Entscheidung vom 17.01.2017
@@ -2529,9 +2383,8 @@ https://openjur.de/suche/13%20L%201124/24/
 
 ---
 
-### Fall 110
+### Fall 110: Verfassungsrechtliche Grundsatzentscheidung (16 A 845/03)
 
-#### Verfassungsrechtliche Grundsatzentscheidung (16 A 845/03)
 * **Gericht:** Bundesverfassungsgericht (BVerfG)
 * **Aktenzeichen:** 16 A 845/03
 * **Datum:** Entscheidung vom 17.09.2013
@@ -2553,9 +2406,8 @@ https://openjur.de/suche/16%20A%20845/03/
 
 ---
 
-### Fall 111
+### Fall 111: Verfassungsrechtliche Grundsatzentscheidung (16 A 845/08)
 
-#### Verfassungsrechtliche Grundsatzentscheidung (16 A 845/08)
 * **Gericht:** Bundesverfassungsgericht (BVerfG)
 * **Aktenzeichen:** 16 A 845/08
 * **Datum:** Entscheidung vom 16.10.2014
@@ -2577,9 +2429,8 @@ https://openjur.de/suche/16%20A%20845/08/
 
 ---
 
-### Fall 112
+### Fall 112: (2 B 10639/19)
 
-#### (2 B 10639/19)
 * **Gericht:** Oberverwaltungsgericht (OVG)
 * **Aktenzeichen:** 2 B 10639/19
 * **Datum:** Entscheidung vom 13.05.2019
@@ -2601,9 +2452,8 @@ https://openjur.de/suche/2%20B%2010639/19/
 
 ---
 
-### Fall 113
+### Fall 113: (2 BJs 274/22)
 
-#### (2 BJs 274/22)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** 2 BJs 274/22
 * **Datum:** Entscheidung aus dem Jahr 2022
@@ -2625,9 +2475,8 @@ https://openjur.de/suche/2%20BJs%20274/22/
 
 ---
 
-### Fall 114
+### Fall 114: Rechtmäßigkeit verfassungsschutzrechtlicher Berichte und Einstufung (2 BrB 2/01)
 
-#### Rechtmäßigkeit verfassungsschutzrechtlicher Berichte und Einstufung (2 BrB 2/01)
 * **Gericht:** Bundesverfassungsgericht (BVerfG)
 * **Aktenzeichen:** 2 BrB 2/01
 * **Datum:** Entscheidung vom 24.04.2013
@@ -2649,9 +2498,8 @@ https://openjur.de/suche/2%20BrB%202/01/
 
 ---
 
-### Fall 115
+### Fall 115: Rechtmäßigkeit verfassungsschutzrechtlicher Berichte und Einstufung (2 BvB 1/01)
 
-#### Rechtmäßigkeit verfassungsschutzrechtlicher Berichte und Einstufung (2 BvB 1/01)
 * **Gericht:** Bundesverfassungsgericht (BVerfG)
 * **Aktenzeichen:** 2 BvB 1/01
 * **Datum:** Entscheidung vom 24.04.2013
@@ -2673,9 +2521,8 @@ https://openjur.de/suche/2%20BvB%201/01/
 
 ---
 
-### Fall 116
+### Fall 116: Rechtmäßigkeit verfassungsschutzrechtlicher Berichte und Einstufung (2 BvB 2/01)
 
-#### Rechtmäßigkeit verfassungsschutzrechtlicher Berichte und Einstufung (2 BvB 2/01)
 * **Gericht:** Bundesverfassungsgericht (BVerfG)
 * **Aktenzeichen:** 2 BvB 2/01
 * **Datum:** Entscheidung vom 18.03.2003
@@ -2697,9 +2544,8 @@ https://openjur.de/suche/2%20BvB%202/01/
 
 ---
 
-### Fall 117
+### Fall 117: Rechtmäßigkeit verfassungsschutzrechtlicher Berichte und Einstufung (2 BvB 3/01)
 
-#### Rechtmäßigkeit verfassungsschutzrechtlicher Berichte und Einstufung (2 BvB 3/01)
 * **Gericht:** Bundesverfassungsgericht (BVerfG)
 * **Aktenzeichen:** 2 BvB 3/01
 * **Datum:** Entscheidung vom 17.01.2017
@@ -2721,9 +2567,8 @@ https://openjur.de/suche/2%20BvB%203/01/
 
 ---
 
-### Fall 118
+### Fall 118: Besetzung und Rechte parlamentarischer Gremien und Ausschüsse (2 BvE 11/12)
 
-#### Besetzung und Rechte parlamentarischer Gremien und Ausschüsse (2 BvE 11/12)
 * **Gericht:** Bundesverfassungsgericht (BVerfG)
 * **Aktenzeichen:** 2 BvE 11/12
 * **Datum:** Entscheidung vom 07.12.1999
@@ -2745,9 +2590,8 @@ https://openjur.de/suche/2%20BvE%2011/12/
 
 ---
 
-### Fall 119
+### Fall 119: Verfassungsrechtliche Grundsatzentscheidung (2 BvE 4/13)
 
-#### Verfassungsrechtliche Grundsatzentscheidung (2 BvE 4/13)
 * **Gericht:** Bundesverfassungsgericht (BVerfG)
 * **Aktenzeichen:** 2 BvE 4/13
 * **Datum:** Entscheidung aus dem Jahr 2013
@@ -2769,9 +2613,8 @@ https://openjur.de/suche/2%20BvE%204/13/
 
 ---
 
-### Fall 120
+### Fall 120: Verfassungsrechtliche Grundsatzentscheidung (2 BvL 13/73)
 
-#### Verfassungsrechtliche Grundsatzentscheidung (2 BvL 13/73)
 * **Gericht:** Bundesverfassungsgericht (BVerfG)
 * **Aktenzeichen:** 2 BvL 13/73
 * **Datum:** Entscheidung vom 07.12.1999
@@ -2793,9 +2636,8 @@ https://openjur.de/suche/2%20BvL%2013/73/
 
 ---
 
-### Fall 121
+### Fall 121: Verfassungsrechtliche Grundsatzentscheidung (2 BvR 1299/05)
 
-#### Verfassungsrechtliche Grundsatzentscheidung (2 BvR 1299/05)
 * **Gericht:** Bundesverfassungsgericht (BVerfG)
 * **Aktenzeichen:** 2 BvR 1299/05
 * **Datum:** Entscheidung vom 01.09.2010
@@ -2817,9 +2659,8 @@ https://openjur.de/suche/2%20BvR%201299/05/
 
 ---
 
-### Fall 122
+### Fall 122: Verfassungsrechtliche Grundsatzentscheidung (2 BvR 1436/02)
 
-#### Verfassungsrechtliche Grundsatzentscheidung (2 BvR 1436/02)
 * **Gericht:** Bundesverfassungsgericht (BVerfG)
 * **Aktenzeichen:** 2 BvR 1436/02
 * **Datum:** Entscheidung vom 12.06.2015
@@ -2841,9 +2682,8 @@ https://openjur.de/suche/2%20BvR%201436/02/
 
 ---
 
-### Fall 123
+### Fall 123: Verfassungsrechtliche Grundsatzentscheidung (2 BvR 2436/10)
 
-#### Verfassungsrechtliche Grundsatzentscheidung (2 BvR 2436/10)
 * **Gericht:** Bundesverfassungsgericht (BVerfG)
 * **Aktenzeichen:** 2 BvR 2436/10
 * **Datum:** Entscheidung vom 29.10.1975
@@ -2865,9 +2705,8 @@ https://openjur.de/suche/2%20BvR%202436/10/
 
 ---
 
-### Fall 124
+### Fall 124: Verfassungsrechtliche Grundsatzentscheidung (2 WD 42/00)
 
-#### Verfassungsrechtliche Grundsatzentscheidung (2 WD 42/00)
 * **Gericht:** Bundesverfassungsgericht (BVerfG)
 * **Aktenzeichen:** 2 WD 42/00
 * **Datum:** Entscheidung vom 23.05.2012
@@ -2889,9 +2728,8 @@ https://openjur.de/suche/2%20WD%2042/00/
 
 ---
 
-### Fall 125
+### Fall 125: Höchstrichterliches verwaltungsgerichtliches Urteil (2 WD 43/00)
 
-#### Höchstrichterliches verwaltungsgerichtliches Urteil (2 WD 43/00)
 * **Gericht:** Bundesverwaltungsgericht (BVerwG)
 * **Aktenzeichen:** 2 WD 43/00
 * **Datum:** Entscheidung vom 23.05.2012
@@ -2913,9 +2751,8 @@ https://openjur.de/suche/2%20WD%2043/00/
 
 ---
 
-### Fall 126
+### Fall 126: (2 Ws 131/16)
 
-#### (2 Ws 131/16)
 * **Gericht:** Verwaltungsgericht (VG)
 * **Aktenzeichen:** 2 Ws 131/16
 * **Datum:** Entscheidung aus dem Jahr 2016
@@ -2937,9 +2774,8 @@ https://openjur.de/suche/2%20Ws%20131/16/
 
 ---
 
-### Fall 127
+### Fall 127: Verfassungsrechtliche Grundsatzentscheidung (2 Ws 131/18)
 
-#### Verfassungsrechtliche Grundsatzentscheidung (2 Ws 131/18)
 * **Gericht:** Bundesverfassungsgericht (BVerfG)
 * **Aktenzeichen:** 2 Ws 131/18
 * **Datum:** Entscheidung vom 17.01.2017
@@ -2961,9 +2797,8 @@ https://openjur.de/suche/2%20Ws%20131/18/
 
 ---
 
-### Fall 128
+### Fall 128: Verfassungsrechtliche Grundsatzentscheidung (20 K 1882/03)
 
-#### Verfassungsrechtliche Grundsatzentscheidung (20 K 1882/03)
 * **Gericht:** Bundesverfassungsgericht (BVerfG)
 * **Aktenzeichen:** 20 K 1882/03
 * **Datum:** Entscheidung vom 17.01.2017
@@ -2985,9 +2820,8 @@ https://openjur.de/suche/20%20K%201882/03/
 
 ---
 
-### Fall 129
+### Fall 129: Verfassungsrechtliche Grundsatzentscheidung (22 K 1266/06)
 
-#### Verfassungsrechtliche Grundsatzentscheidung (22 K 1266/06)
 * **Gericht:** Bundesverfassungsgericht (BVerfG)
 * **Aktenzeichen:** 22 K 1266/06
 * **Datum:** Entscheidung vom 04.12.2007
@@ -3009,9 +2843,8 @@ https://openjur.de/suche/22%20K%201266/06/
 
 ---
 
-### Fall 130
+### Fall 130: Höchstrichterliches verwaltungsgerichtliches Urteil (22 K 2532/11)
 
-#### Höchstrichterliches verwaltungsgerichtliches Urteil (22 K 2532/11)
 * **Gericht:** Bundesverwaltungsgericht (BVerwG)
 * **Aktenzeichen:** 22 K 2532/11
 * **Datum:** Entscheidung vom 23.05.2012
@@ -3033,9 +2866,8 @@ https://openjur.de/suche/22%20K%202532/11/
 
 ---
 
-### Fall 131
+### Fall 131: (22 K 404/09)
 
-#### (22 K 404/09)
 * **Gericht:** Verwaltungsgericht (VG)
 * **Aktenzeichen:** 22 K 404/09
 * **Datum:** Entscheidung vom 15.02.2011
@@ -3057,9 +2889,8 @@ https://openjur.de/suche/22%20K%20404/09/
 
 ---
 
-### Fall 132
+### Fall 132: (29 U 6/20)
 
-#### (29 U 6/20)
 * **Gericht:** Verwaltungsgericht (VG)
 * **Aktenzeichen:** 29 U 6/20
 * **Datum:** Entscheidung aus dem Jahr 2020
@@ -3081,9 +2912,8 @@ https://openjur.de/suche/29%20U%206/20/
 
 ---
 
-### Fall 133
+### Fall 133: Verfassungsrechtliche Grundsatzentscheidung (4 L 441/15)
 
-#### Verfassungsrechtliche Grundsatzentscheidung (4 L 441/15)
 * **Gericht:** Bundesverfassungsgericht (BVerfG)
 * **Aktenzeichen:** 4 L 441/15
 * **Datum:** Entscheidung vom 04.12.2007
@@ -3105,9 +2935,8 @@ https://openjur.de/suche/4%20L%20441/15/
 
 ---
 
-### Fall 134
+### Fall 134: (4 U 1419/16)
 
-#### (4 U 1419/16)
 * **Gericht:** Oberverwaltungsgericht (OVG)
 * **Aktenzeichen:** 4 U 1419/16
 * **Datum:** Entscheidung vom 21.07.2010
@@ -3129,9 +2958,8 @@ https://openjur.de/suche/4%20U%201419/16/
 
 ---
 
-### Fall 135
+### Fall 135: Höchstrichterliches verwaltungsgerichtliches Urteil (5 A 1216/22)
 
-#### Höchstrichterliches verwaltungsgerichtliches Urteil (5 A 1216/22)
 * **Gericht:** Bundesverwaltungsgericht (BVerwG)
 * **Aktenzeichen:** 5 A 1216/22
 * **Datum:** Entscheidung aus dem Jahr 2022
@@ -3153,9 +2981,8 @@ https://openjur.de/suche/5%20A%201216/22/
 
 ---
 
-### Fall 136
+### Fall 136: Höchstrichterliches verwaltungsgerichtliches Urteil (5 A 1217/22)
 
-#### Höchstrichterliches verwaltungsgerichtliches Urteil (5 A 1217/22)
 * **Gericht:** Bundesverwaltungsgericht (BVerwG)
 * **Aktenzeichen:** 5 A 1217/22
 * **Datum:** Entscheidung aus dem Jahr 2022
@@ -3177,9 +3004,8 @@ https://openjur.de/suche/5%20A%201217/22/
 
 ---
 
-### Fall 137
+### Fall 137: Verfassungsrechtliche Grundsatzentscheidung (5 A 130/05)
 
-#### Verfassungsrechtliche Grundsatzentscheidung (5 A 130/05)
 * **Gericht:** Bundesverfassungsgericht (BVerfG)
 * **Aktenzeichen:** 5 A 130/05
 * **Datum:** Entscheidung vom 21.07.2010
@@ -3201,9 +3027,8 @@ https://openjur.de/suche/5%20A%20130/05/
 
 ---
 
-### Fall 138
+### Fall 138: Höchstrichterliches verwaltungsgerichtliches Urteil (5 A 203/08)
 
-#### Höchstrichterliches verwaltungsgerichtliches Urteil (5 A 203/08)
 * **Gericht:** Bundesverwaltungsgericht (BVerwG)
 * **Aktenzeichen:** 5 A 203/08
 * **Datum:** Entscheidung vom 04.12.2007
@@ -3225,9 +3050,8 @@ https://openjur.de/suche/5%20A%20203/08/
 
 ---
 
-### Fall 139
+### Fall 139: Höchstrichterliches verwaltungsgerichtliches Urteil (5 A 837/11)
 
-#### Höchstrichterliches verwaltungsgerichtliches Urteil (5 A 837/11)
 * **Gericht:** Bundesverwaltungsgericht (BVerwG)
 * **Aktenzeichen:** 5 A 837/11
 * **Datum:** Entscheidung vom 23.05.2012
@@ -3249,9 +3073,8 @@ https://openjur.de/suche/5%20A%20837/11/
 
 ---
 
-### Fall 140
+### Fall 140: Rechtmäßigkeit verfassungsschutzrechtlicher Berichte und Einstufung (5 B 131/24)
 
-#### Rechtmäßigkeit verfassungsschutzrechtlicher Berichte und Einstufung (5 B 131/24)
 * **Gericht:** Oberverwaltungsgericht (OVG)
 * **Aktenzeichen:** 5 B 131/24
 * **Datum:** Entscheidung aus dem Jahr 2024
@@ -3273,9 +3096,8 @@ https://openjur.de/suche/5%20B%20131/24/
 
 ---
 
-### Fall 141
+### Fall 141: Höchstrichterliches verwaltungsgerichtliches Urteil (6 A 3/08)
 
-#### Höchstrichterliches verwaltungsgerichtliches Urteil (6 A 3/08)
 * **Gericht:** Bundesverwaltungsgericht (BVerwG)
 * **Aktenzeichen:** 6 A 3/08
 * **Datum:** Entscheidung aus dem Jahr 2008
@@ -3297,9 +3119,8 @@ https://openjur.de/suche/6%20A%203/08/
 
 ---
 
-### Fall 142
+### Fall 142: Verfassungsrechtliche Grundsatzentscheidung (6 A 4/09)
 
-#### Verfassungsrechtliche Grundsatzentscheidung (6 A 4/09)
 * **Gericht:** Bundesverfassungsgericht (BVerfG)
 * **Aktenzeichen:** 6 A 4/09
 * **Datum:** Entscheidung vom 13.12.2007
@@ -3321,9 +3142,8 @@ https://openjur.de/suche/6%20A%204/09/
 
 ---
 
-### Fall 143
+### Fall 143: Rechtmäßigkeit verfassungsschutzrechtlicher Berichte und Einstufung (6 C 22/09)
 
-#### Rechtmäßigkeit verfassungsschutzrechtlicher Berichte und Einstufung (6 C 22/09)
 * **Gericht:** Bundesverfassungsgericht (BVerfG)
 * **Aktenzeichen:** 6 C 22/09
 * **Datum:** Entscheidung vom 07.12.1999
@@ -3345,9 +3165,8 @@ https://openjur.de/suche/6%20C%2022/09/
 
 ---
 
-### Fall 144
+### Fall 144: Rechtmäßigkeit verfassungsschutzrechtlicher Berichte und Einstufung (6 L 1337/20)
 
-#### Rechtmäßigkeit verfassungsschutzrechtlicher Berichte und Einstufung (6 L 1337/20)
 * **Gericht:** Oberverwaltungsgericht (OVG)
 * **Aktenzeichen:** 6 L 1337/20
 * **Datum:** Entscheidung vom 28.05.2020
@@ -3369,9 +3188,8 @@ https://openjur.de/suche/6%20L%201337/20/
 
 ---
 
-### Fall 145
+### Fall 145: Verfassungsrechtliche Grundsatzentscheidung (6 L 20/24)
 
-#### Verfassungsrechtliche Grundsatzentscheidung (6 L 20/24)
 * **Gericht:** Bundesverfassungsgericht (BVerfG)
 * **Aktenzeichen:** 6 L 20/24
 * **Datum:** Entscheidung vom 17.01.2017
@@ -3393,9 +3211,8 @@ https://openjur.de/suche/6%20L%2020/24/
 
 ---
 
-### Fall 146
+### Fall 146: Verfassungsrechtliche Grundsatzentscheidung (6 U 190/20)
 
-#### Verfassungsrechtliche Grundsatzentscheidung (6 U 190/20)
 * **Gericht:** Bundesverfassungsgericht (BVerfG)
 * **Aktenzeichen:** 6 U 190/20
 * **Datum:** Entscheidung vom 17.01.2017
@@ -3417,9 +3234,8 @@ https://openjur.de/suche/6%20U%20190/20/
 
 ---
 
-### Fall 147
+### Fall 147: (7 O 1618/18)
 
-#### (7 O 1618/18)
 * **Gericht:** Verwaltungsgericht (VG)
 * **Aktenzeichen:** 7 O 1618/18
 * **Datum:** Entscheidung aus dem Jahr 2018
@@ -3441,9 +3257,8 @@ https://openjur.de/suche/7%20O%201618/18/
 
 ---
 
-### Fall 148
+### Fall 148: Höchstrichterliches verwaltungsgerichtliches Urteil (8 K 3483/06)
 
-#### Höchstrichterliches verwaltungsgerichtliches Urteil (8 K 3483/06)
 * **Gericht:** Bundesverwaltungsgericht (BVerwG)
 * **Aktenzeichen:** 8 K 3483/06
 * **Datum:** Entscheidung vom 23.11.2011
@@ -3465,9 +3280,8 @@ https://openjur.de/suche/8%20K%203483/06/
 
 ---
 
-### Fall 149
+### Fall 149: Verfassungsrechtliche Grundsatzentscheidung (9 B 273/21)
 
-#### Verfassungsrechtliche Grundsatzentscheidung (9 B 273/21)
 * **Gericht:** Bundesverfassungsgericht (BVerfG)
 * **Aktenzeichen:** 9 B 273/21
 * **Datum:** Entscheidung vom 17.01.2017
@@ -3489,9 +3303,8 @@ https://openjur.de/suche/9%20B%20273/21/
 
 ---
 
-### Fall 150
+### Fall 150: (A 1218/22)
 
-#### (A 1218/22)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** A 1218/22
 * **Datum:** Entscheidung aus dem Jahr 2022
@@ -3513,9 +3326,8 @@ https://openjur.de/suche/A%201218/22/
 
 ---
 
-### Fall 152
+### Fall 152: (AfD 12/2019)
 
-#### (AfD 12/2019)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** AfD 12/2019
 * **Datum:** Entscheidung aus dem Jahr 2019
@@ -3537,9 +3349,8 @@ https://openjur.de/suche/AfD%2012/2019/
 
 ---
 
-### Fall 153
+### Fall 153: (Aktenzeichen 20 K 3925/19)
 
-#### (Aktenzeichen 20 K 3925/19)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** Aktenzeichen 20 K 3925/19
 * **Datum:** Entscheidung aus dem Jahr 2019
@@ -3561,9 +3372,8 @@ https://openjur.de/suche/Aktenzeichen%2020%20K%203925/19/
 
 ---
 
-### Fall 154
+### Fall 154: (Ausgabe 01/2024)
 
-#### (Ausgabe 01/2024)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** Ausgabe 01/2024
 * **Datum:** Entscheidung aus dem Jahr 2024
@@ -3585,9 +3395,8 @@ https://openjur.de/suche/Ausgabe%2001/2024/
 
 ---
 
-### Fall 155
+### Fall 155: (Ausgabe 02/2024)
 
-#### (Ausgabe 02/2024)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** Ausgabe 02/2024
 * **Datum:** Entscheidung aus dem Jahr 2024
@@ -3609,9 +3418,8 @@ https://openjur.de/suche/Ausgabe%2002/2024/
 
 ---
 
-### Fall 156
+### Fall 156: Parteispendenaffäre und verfassungsrechtliche Transparenz (Ausgabe 03/2023)
 
-#### Parteispendenaffäre und verfassungsrechtliche Transparenz (Ausgabe 03/2023)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** Ausgabe 03/2023
 * **Datum:** Entscheidung aus dem Jahr 2023
@@ -3633,9 +3441,8 @@ https://openjur.de/suche/Ausgabe%2003/2023/
 
 ---
 
-### Fall 157
+### Fall 157: (Ausgabe 04/2023)
 
-#### (Ausgabe 04/2023)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** Ausgabe 04/2023
 * **Datum:** Entscheidung aus dem Jahr 2023
@@ -3657,9 +3464,8 @@ https://openjur.de/suche/Ausgabe%2004/2023/
 
 ---
 
-### Fall 158
+### Fall 158: (Ausgabe 05/2023)
 
-#### (Ausgabe 05/2023)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** Ausgabe 05/2023
 * **Datum:** Entscheidung aus dem Jahr 2023
@@ -3681,9 +3487,8 @@ https://openjur.de/suche/Ausgabe%2005/2023/
 
 ---
 
-### Fall 159
+### Fall 159: (Ausgabe 06/2023)
 
-#### (Ausgabe 06/2023)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** Ausgabe 06/2023
 * **Datum:** Entscheidung aus dem Jahr 2023
@@ -3705,9 +3510,8 @@ https://openjur.de/suche/Ausgabe%2006/2023/
 
 ---
 
-### Fall 160
+### Fall 160: (Ausgabe 06/2024)
 
-#### (Ausgabe 06/2024)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** Ausgabe 06/2024
 * **Datum:** Entscheidung aus dem Jahr 2024
@@ -3729,9 +3533,8 @@ https://openjur.de/suche/Ausgabe%2006/2024/
 
 ---
 
-### Fall 161
+### Fall 161: (Ausgabe 08/2023)
 
-#### (Ausgabe 08/2023)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** Ausgabe 08/2023
 * **Datum:** Entscheidung aus dem Jahr 2023
@@ -3753,9 +3556,8 @@ https://openjur.de/suche/Ausgabe%2008/2023/
 
 ---
 
-### Fall 162
+### Fall 162: (Ausgabe 09/2023)
 
-#### (Ausgabe 09/2023)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** Ausgabe 09/2023
 * **Datum:** Entscheidung aus dem Jahr 2023
@@ -3777,9 +3579,8 @@ https://openjur.de/suche/Ausgabe%2009/2023/
 
 ---
 
-### Fall 163
+### Fall 163: (Ausgabe 10/2009)
 
-#### (Ausgabe 10/2009)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** Ausgabe 10/2009
 * **Datum:** Entscheidung aus dem Jahr 2009
@@ -3801,9 +3602,8 @@ https://openjur.de/suche/Ausgabe%2010/2009/
 
 ---
 
-### Fall 164
+### Fall 164: (Ausgabe 10/2022)
 
-#### (Ausgabe 10/2022)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** Ausgabe 10/2022
 * **Datum:** Entscheidung aus dem Jahr 2022
@@ -3825,9 +3625,8 @@ https://openjur.de/suche/Ausgabe%2010/2022/
 
 ---
 
-### Fall 165
+### Fall 165: (Ausgabe 10/2023)
 
-#### (Ausgabe 10/2023)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** Ausgabe 10/2023
 * **Datum:** Entscheidung aus dem Jahr 2023
@@ -3849,9 +3648,8 @@ https://openjur.de/suche/Ausgabe%2010/2023/
 
 ---
 
-### Fall 166
+### Fall 166: (Ausgabe 10/2024)
 
-#### (Ausgabe 10/2024)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** Ausgabe 10/2024
 * **Datum:** Entscheidung aus dem Jahr 2024
@@ -3873,9 +3671,8 @@ https://openjur.de/suche/Ausgabe%2010/2024/
 
 ---
 
-### Fall 167
+### Fall 167: (Ausgabe 11/2022)
 
-#### (Ausgabe 11/2022)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** Ausgabe 11/2022
 * **Datum:** Entscheidung aus dem Jahr 2022
@@ -3897,9 +3694,8 @@ https://openjur.de/suche/Ausgabe%2011/2022/
 
 ---
 
-### Fall 168
+### Fall 168: (Ausgabe 11/2023)
 
-#### (Ausgabe 11/2023)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** Ausgabe 11/2023
 * **Datum:** Entscheidung aus dem Jahr 2023
@@ -3921,9 +3717,8 @@ https://openjur.de/suche/Ausgabe%2011/2023/
 
 ---
 
-### Fall 169
+### Fall 169: (Ausgabe 11/2024)
 
-#### (Ausgabe 11/2024)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** Ausgabe 11/2024
 * **Datum:** Entscheidung aus dem Jahr 2024
@@ -3945,9 +3740,8 @@ https://openjur.de/suche/Ausgabe%2011/2024/
 
 ---
 
-### Fall 170
+### Fall 170: (Ausgabe 12/2023)
 
-#### (Ausgabe 12/2023)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** Ausgabe 12/2023
 * **Datum:** Entscheidung aus dem Jahr 2023
@@ -3969,9 +3763,8 @@ https://openjur.de/suche/Ausgabe%2012/2023/
 
 ---
 
-### Fall 171
+### Fall 171: (Ausgabe 12/2024)
 
-#### (Ausgabe 12/2024)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** Ausgabe 12/2024
 * **Datum:** Entscheidung aus dem Jahr 2024
@@ -3993,9 +3786,8 @@ https://openjur.de/suche/Ausgabe%2012/2024/
 
 ---
 
-### Fall 172
+### Fall 172: (Ausgabe 15/10)
 
-#### (Ausgabe 15/10)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** Ausgabe 15/10
 * **Datum:** Entscheidung aus dem Jahr 2010
@@ -4017,9 +3809,8 @@ https://openjur.de/suche/Ausgabe%2015/10/
 
 ---
 
-### Fall 173
+### Fall 173: (Ausgabe 17/11)
 
-#### (Ausgabe 17/11)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** Ausgabe 17/11
 * **Datum:** Entscheidung aus dem Jahr 2011
@@ -4041,9 +3832,8 @@ https://openjur.de/suche/Ausgabe%2017/11/
 
 ---
 
-### Fall 174
+### Fall 174: (Ausgabe 23/2016)
 
-#### (Ausgabe 23/2016)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** Ausgabe 23/2016
 * **Datum:** Entscheidung aus dem Jahr 2016
@@ -4065,9 +3855,8 @@ https://openjur.de/suche/Ausgabe%2023/2016/
 
 ---
 
-### Fall 175
+### Fall 175: (Ausgabe 3/2025)
 
-#### (Ausgabe 3/2025)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** Ausgabe 3/2025
 * **Datum:** Entscheidung aus dem Jahr 2025
@@ -4089,9 +3878,8 @@ https://openjur.de/suche/Ausgabe%203/2025/
 
 ---
 
-### Fall 176
+### Fall 176: (Ausgabe 7/2020)
 
-#### (Ausgabe 7/2020)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** Ausgabe 7/2020
 * **Datum:** Entscheidung aus dem Jahr 2020
@@ -4113,9 +3901,8 @@ https://openjur.de/suche/Ausgabe%207/2020/
 
 ---
 
-### Fall 177
+### Fall 177: (Ausgabe 9/2019)
 
-#### (Ausgabe 9/2019)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** Ausgabe 9/2019
 * **Datum:** Entscheidung aus dem Jahr 2019
@@ -4137,9 +3924,8 @@ https://openjur.de/suche/Ausgabe%209/2019/
 
 ---
 
-### Fall 178
+### Fall 178: Besetzung und Rechte parlamentarischer Gremien und Ausschüsse (Ausgebe 9/2019)
 
-#### Besetzung und Rechte parlamentarischer Gremien und Ausschüsse (Ausgebe 9/2019)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** Ausgebe 9/2019
 * **Datum:** Entscheidung aus dem Jahr 2019
@@ -4161,9 +3947,8 @@ https://openjur.de/suche/Ausgebe%209/2019/
 
 ---
 
-### Fall 179
+### Fall 179: (Austritt 5/2020)
 
-#### (Austritt 5/2020)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** Austritt 5/2020
 * **Datum:** Entscheidung aus dem Jahr 2020
@@ -4185,9 +3970,8 @@ https://openjur.de/suche/Austritt%205/2020/
 
 ---
 
-### Fall 180
+### Fall 180: Verfassungsrechtliche Grundsatzentscheidung (BvB 1/19)
 
-#### Verfassungsrechtliche Grundsatzentscheidung (BvB 1/19)
 * **Gericht:** Bundesverfassungsgericht (BVerfG)
 * **Aktenzeichen:** BvB 1/19
 * **Datum:** Entscheidung vom 17.01.2017
@@ -4209,9 +3993,8 @@ https://openjur.de/suche/BvB%201/19/
 
 ---
 
-### Fall 181
+### Fall 181: Verfassungsrechtliche Grundsatzentscheidung (BvB 1/51)
 
-#### Verfassungsrechtliche Grundsatzentscheidung (BvB 1/51)
 * **Gericht:** Bundesverfassungsgericht (BVerfG)
 * **Aktenzeichen:** BvB 1/51
 * **Datum:** Entscheidung vom 21.07.2010
@@ -4233,9 +4016,8 @@ https://openjur.de/suche/BvB%201/51/
 
 ---
 
-### Fall 182
+### Fall 182: (COMPACT 1/2025)
 
-#### (COMPACT 1/2025)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** COMPACT 1/2025
 * **Datum:** Entscheidung aus dem Jahr 2025
@@ -4257,9 +4039,8 @@ https://openjur.de/suche/COMPACT%201/2025/
 
 ---
 
-### Fall 183
+### Fall 183: (COMPACT 11/2024)
 
-#### (COMPACT 11/2024)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** COMPACT 11/2024
 * **Datum:** Entscheidung aus dem Jahr 2024
@@ -4281,9 +4062,8 @@ https://openjur.de/suche/COMPACT%2011/2024/
 
 ---
 
-### Fall 184
+### Fall 184: (COMPACT 2/2025)
 
-#### (COMPACT 2/2025)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** COMPACT 2/2025
 * **Datum:** Entscheidung aus dem Jahr 2025
@@ -4305,9 +4085,8 @@ https://openjur.de/suche/COMPACT%202/2025/
 
 ---
 
-### Fall 185
+### Fall 185: (DER SPIEGEL 40/1995)
 
-#### (DER SPIEGEL 40/1995)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** DER SPIEGEL 40/1995
 * **Datum:** Entscheidung aus dem Jahr 1995
@@ -4329,9 +4108,8 @@ https://openjur.de/suche/DER%20SPIEGEL%2040/1995/
 
 ---
 
-### Fall 186
+### Fall 186: (Heft 02/2024)
 
-#### (Heft 02/2024)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** Heft 02/2024
 * **Datum:** Entscheidung aus dem Jahr 2024
@@ -4353,9 +4131,8 @@ https://openjur.de/suche/Heft%2002/2024/
 
 ---
 
-### Fall 187
+### Fall 187: (Heft 1/2024)
 
-#### (Heft 1/2024)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** Heft 1/2024
 * **Datum:** Entscheidung aus dem Jahr 2024
@@ -4377,9 +4154,8 @@ https://openjur.de/suche/Heft%201/2024/
 
 ---
 
-### Fall 188
+### Fall 188: (Heft 11/2023)
 
-#### (Heft 11/2023)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** Heft 11/2023
 * **Datum:** Entscheidung aus dem Jahr 2023
@@ -4401,9 +4177,8 @@ https://openjur.de/suche/Heft%2011/2023/
 
 ---
 
-### Fall 189
+### Fall 189: (Heft 8/2023)
 
-#### (Heft 8/2023)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** Heft 8/2023
 * **Datum:** Entscheidung aus dem Jahr 2023
@@ -4425,9 +4200,8 @@ https://openjur.de/suche/Heft%208/2023/
 
 ---
 
-### Fall 190
+### Fall 190: (Heften 10/2023)
 
-#### (Heften 10/2023)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** Heften 10/2023
 * **Datum:** Entscheidung aus dem Jahr 2023
@@ -4449,9 +4223,8 @@ https://openjur.de/suche/Heften%2010/2023/
 
 ---
 
-### Fall 192
+### Fall 192: (Im Heft 10/2022)
 
-#### (Im Heft 10/2022)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** Im Heft 10/2022
 * **Datum:** Entscheidung aus dem Jahr 2022
@@ -4473,9 +4246,8 @@ https://openjur.de/suche/Im%20Heft%2010/2022/
 
 ---
 
-### Fall 193
+### Fall 193: (In Ausgabe 10/2022)
 
-#### (In Ausgabe 10/2022)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** In Ausgabe 10/2022
 * **Datum:** Entscheidung aus dem Jahr 2022
@@ -4497,9 +4269,8 @@ https://openjur.de/suche/In%20Ausgabe%2010/2022/
 
 ---
 
-### Fall 194
+### Fall 194: (In Ausgabe 10/2024)
 
-#### (In Ausgabe 10/2024)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** In Ausgabe 10/2024
 * **Datum:** Entscheidung aus dem Jahr 2024
@@ -4521,9 +4292,8 @@ https://openjur.de/suche/In%20Ausgabe%2010/2024/
 
 ---
 
-### Fall 195
+### Fall 195: Höchstrichterliches verwaltungsgerichtliches Urteil (JA 5 A 1218/22)
 
-#### Höchstrichterliches verwaltungsgerichtliches Urteil (JA 5 A 1218/22)
 * **Gericht:** Bundesverwaltungsgericht (BVerwG)
 * **Aktenzeichen:** JA 5 A 1218/22
 * **Datum:** Entscheidung aus dem Jahr 2022
@@ -4545,9 +4315,8 @@ https://openjur.de/suche/JA%205%20A%201218/22/
 
 ---
 
-### Fall 196
+### Fall 196: Besetzung und Rechte parlamentarischer Gremien und Ausschüsse (Jahren 1932/33)
 
-#### Besetzung und Rechte parlamentarischer Gremien und Ausschüsse (Jahren 1932/33)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** Jahren 1932/33
 * **Datum:** Entscheidung aus dem Jahr 2033
@@ -4569,9 +4338,8 @@ https://openjur.de/suche/Jahren%201932/33/
 
 ---
 
-### Fall 197
+### Fall 197: (K 1286/06)
 
-#### (K 1286/06)
 * **Gericht:** Oberverwaltungsgericht (OVG)
 * **Aktenzeichen:** K 1286/06
 * **Datum:** Entscheidung aus dem Jahr 2006
@@ -4593,9 +4361,8 @@ https://openjur.de/suche/K%201286/06/
 
 ---
 
-### Fall 198
+### Fall 198: (K 208/20)
 
-#### (K 208/20)
 * **Gericht:** Verwaltungsgericht (VG)
 * **Aktenzeichen:** K 208/20
 * **Datum:** Entscheidung aus dem Jahr 2020
@@ -4617,9 +4384,8 @@ https://openjur.de/suche/K%20208/20/
 
 ---
 
-### Fall 199
+### Fall 199: (Lagebild Antisemitismus 2022/23)
 
-#### (Lagebild Antisemitismus 2022/23)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** Lagebild Antisemitismus 2022/23
 * **Datum:** Entscheidung aus dem Jahr 2023
@@ -4641,9 +4407,8 @@ https://openjur.de/suche/Lagebild%20Antisemitismus%202022/23/
 
 ---
 
-### Fall 200
+### Fall 200: (Magazin 1/2025)
 
-#### (Magazin 1/2025)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** Magazin 1/2025
 * **Datum:** Entscheidung aus dem Jahr 2025
@@ -4665,9 +4430,8 @@ https://openjur.de/suche/Magazin%201/2025/
 
 ---
 
-### Fall 201
+### Fall 201: (Magazin 11/2024)
 
-#### (Magazin 11/2024)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** Magazin 11/2024
 * **Datum:** Entscheidung aus dem Jahr 2024
@@ -4689,9 +4453,8 @@ https://openjur.de/suche/Magazin%2011/2024/
 
 ---
 
-### Fall 202
+### Fall 202: (Magazin 2/2025)
 
-#### (Magazin 2/2025)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** Magazin 2/2025
 * **Datum:** Entscheidung aus dem Jahr 2025
@@ -4713,9 +4476,8 @@ https://openjur.de/suche/Magazin%202/2025/
 
 ---
 
-### Fall 203
+### Fall 203: (Magazin 3/2025)
 
-#### (Magazin 3/2025)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** Magazin 3/2025
 * **Datum:** Entscheidung aus dem Jahr 2025
@@ -4737,9 +4499,8 @@ https://openjur.de/suche/Magazin%203/2025/
 
 ---
 
-### Fall 204
+### Fall 204: (Magazin 4/2025)
 
-#### (Magazin 4/2025)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** Magazin 4/2025
 * **Datum:** Entscheidung aus dem Jahr 2025
@@ -4761,9 +4522,8 @@ https://openjur.de/suche/Magazin%204/2025/
 
 ---
 
-### Fall 205
+### Fall 205: (Magazin 6/2024)
 
-#### (Magazin 6/2024)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** Magazin 6/2024
 * **Datum:** Entscheidung aus dem Jahr 2024
@@ -4785,9 +4545,8 @@ https://openjur.de/suche/Magazin%206/2024/
 
 ---
 
-### Fall 206
+### Fall 206: Besetzung und Rechte parlamentarischer Gremien und Ausschüsse (Migrationskrise 2015/2016)
 
-#### Besetzung und Rechte parlamentarischer Gremien und Ausschüsse (Migrationskrise 2015/2016)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** Migrationskrise 2015/2016
 * **Datum:** Entscheidung aus dem Jahr 2016
@@ -4809,9 +4568,8 @@ https://openjur.de/suche/Migrationskrise%202015/2016/
 
 ---
 
-### Fall 207
+### Fall 207: (Migrationsphase 2015/16)
 
-#### (Migrationsphase 2015/16)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** Migrationsphase 2015/16
 * **Datum:** Entscheidung aus dem Jahr 2016
@@ -4833,9 +4591,8 @@ https://openjur.de/suche/Migrationsphase%202015/16/
 
 ---
 
-### Fall 209
+### Fall 209: (Neujahr 2015/2015)
 
-#### (Neujahr 2015/2015)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** Neujahr 2015/2015
 * **Datum:** Entscheidung aus dem Jahr 2015
@@ -4857,9 +4614,8 @@ https://openjur.de/suche/Neujahr%202015/2015/
 
 ---
 
-### Fall 210
+### Fall 210: (Neujahr 2015/2016)
 
-#### (Neujahr 2015/2016)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** Neujahr 2015/2016
 * **Datum:** Entscheidung aus dem Jahr 2016
@@ -4881,9 +4637,8 @@ https://openjur.de/suche/Neujahr%202015/2016/
 
 ---
 
-### Fall 211
+### Fall 211: (OVG 1 N 96/20)
 
-#### (OVG 1 N 96/20)
 * **Gericht:** Oberverwaltungsgericht (OVG)
 * **Aktenzeichen:** OVG 1 N 96/20
 * **Datum:** Entscheidung aus dem Jahr 2020
@@ -4905,9 +4660,8 @@ https://openjur.de/suche/OVG%201%20N%2096/20/
 
 ---
 
-### Fall 212
+### Fall 212: Verfassungsrechtliche Grundsatzentscheidung (OVG 1 S 55/20)
 
-#### Verfassungsrechtliche Grundsatzentscheidung (OVG 1 S 55/20)
 * **Gericht:** Bundesverfassungsgericht (BVerfG)
 * **Aktenzeichen:** OVG 1 S 55/20
 * **Datum:** Entscheidung vom 17.01.2017
@@ -4929,9 +4683,8 @@ https://openjur.de/suche/OVG%201%20S%2055/20/
 
 ---
 
-### Fall 213
+### Fall 213: Verfassungsrechtliche Grundsatzentscheidung (OVG 1 S 56/20)
 
-#### Verfassungsrechtliche Grundsatzentscheidung (OVG 1 S 56/20)
 * **Gericht:** Bundesverfassungsgericht (BVerfG)
 * **Aktenzeichen:** OVG 1 S 56/20
 * **Datum:** Entscheidung vom 19.06.2020
@@ -4953,9 +4706,8 @@ https://openjur.de/suche/OVG%201%20S%2056/20/
 
 ---
 
-### Fall 214
+### Fall 214: (Partei 10/2020)
 
-#### (Partei 10/2020)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** Partei 10/2020
 * **Datum:** Entscheidung aus dem Jahr 2020
@@ -4977,9 +4729,8 @@ https://openjur.de/suche/Partei%2010/2020/
 
 ---
 
-### Fall 215
+### Fall 215: (Partei 12/2020)
 
-#### (Partei 12/2020)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** Partei 12/2020
 * **Datum:** Entscheidung aus dem Jahr 2020
@@ -5001,9 +4752,8 @@ https://openjur.de/suche/Partei%2012/2020/
 
 ---
 
-### Fall 216
+### Fall 216: Besetzung und Rechte parlamentarischer Gremien und Ausschüsse (Parteiausschluss 03/2020)
 
-#### Besetzung und Rechte parlamentarischer Gremien und Ausschüsse (Parteiausschluss 03/2020)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** Parteiausschluss 03/2020
 * **Datum:** Entscheidung aus dem Jahr 2020
@@ -5025,9 +4775,8 @@ https://openjur.de/suche/Parteiausschluss%2003/2020/
 
 ---
 
-### Fall 217
+### Fall 217: (Parteiaustritt 10/2020)
 
-#### (Parteiaustritt 10/2020)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** Parteiaustritt 10/2020
 * **Datum:** Entscheidung aus dem Jahr 2020
@@ -5049,9 +4798,8 @@ https://openjur.de/suche/Parteiaustritt%2010/2020/
 
 ---
 
-### Fall 219
+### Fall 219: (Sicherheit 2014/2015)
 
-#### (Sicherheit 2014/2015)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** Sicherheit 2014/2015
 * **Datum:** Entscheidung aus dem Jahr 2015
@@ -5073,9 +4821,8 @@ https://openjur.de/suche/Sicherheit%202014/2015/
 
 ---
 
-### Fall 220
+### Fall 220: (Silvesternacht 2015/16)
 
-#### (Silvesternacht 2015/16)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** Silvesternacht 2015/16
 * **Datum:** Entscheidung aus dem Jahr 2016
@@ -5097,9 +4844,8 @@ https://openjur.de/suche/Silvesternacht%202015/16/
 
 ---
 
-### Fall 223
+### Fall 223: (Sommer 22/23)
 
-#### (Sommer 22/23)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** Sommer 22/23
 * **Datum:** Entscheidung aus dem Jahr 2023
@@ -5121,9 +4867,8 @@ https://openjur.de/suche/Sommer%2022/23/
 
 ---
 
-### Fall 224
+### Fall 224: (Spiegel 23/2016)
 
-#### (Spiegel 23/2016)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** Spiegel 23/2016
 * **Datum:** Entscheidung aus dem Jahr 2016
@@ -5145,9 +4890,8 @@ https://openjur.de/suche/Spiegel%2023/2016/
 
 ---
 
-### Fall 225
+### Fall 225: (VG 1 L 340/23)
 
-#### (VG 1 L 340/23)
 * **Gericht:** Oberverwaltungsgericht (OVG)
 * **Aktenzeichen:** VG 1 L 340/23
 * **Datum:** Entscheidung aus dem Jahr 2023
@@ -5169,9 +4913,8 @@ https://openjur.de/suche/VG%201%20L%20340/23/
 
 ---
 
-### Fall 226
+### Fall 226: (VG 1 L 95/20)
 
-#### (VG 1 L 95/20)
 * **Gericht:** Oberverwaltungsgericht (OVG)
 * **Aktenzeichen:** VG 1 L 95/20
 * **Datum:** Entscheidung aus dem Jahr 2020
@@ -5193,9 +4936,8 @@ https://openjur.de/suche/VG%201%20L%2095/20/
 
 ---
 
-### Fall 227
+### Fall 227: Rechtmäßigkeit verfassungsschutzrechtlicher Berichte und Einstufung (VG 1 L 97/20)
 
-#### Rechtmäßigkeit verfassungsschutzrechtlicher Berichte und Einstufung (VG 1 L 97/20)
 * **Gericht:** Bundesverfassungsgericht (BVerfG)
 * **Aktenzeichen:** VG 1 L 97/20
 * **Datum:** Entscheidung vom 17.01.2017
@@ -5217,9 +4959,8 @@ https://openjur.de/suche/VG%201%20L%2097/20/
 
 ---
 
-### Fall 228
+### Fall 228: (VGL 97/20)
 
-#### (VGL 97/20)
 * **Gericht:** Oberverwaltungsgericht (OVG)
 * **Aktenzeichen:** VGL 97/20
 * **Datum:** Entscheidung aus dem Jahr 2020
@@ -5241,9 +4982,8 @@ https://openjur.de/suche/VGL%2097/20/
 
 ---
 
-### Fall 229
+### Fall 229: Rechtmäßigkeit verfassungsschutzrechtlicher Berichte und Einstufung (Verfahren 13 K 207/20)
 
-#### Rechtmäßigkeit verfassungsschutzrechtlicher Berichte und Einstufung (Verfahren 13 K 207/20)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** Verfahren 13 K 207/20
 * **Datum:** Entscheidung aus dem Jahr 2020
@@ -5265,9 +5005,8 @@ https://openjur.de/suche/Verfahren%2013%20K%20207/20/
 
 ---
 
-### Fall 230
+### Fall 230: Verfassungsrechtliche Grundsatzentscheidung (VfGBbg 94/20)
 
-#### Verfassungsrechtliche Grundsatzentscheidung (VfGBbg 94/20)
 * **Gericht:** Bundesverfassungsgericht (BVerfG)
 * **Aktenzeichen:** VfGBbg 94/20
 * **Datum:** Entscheidung aus dem Jahr 2020
@@ -5289,9 +5028,8 @@ https://openjur.de/suche/VfGBbg%2094/20/
 
 ---
 
-### Fall 231
+### Fall 231: (ZUERST Ausgabe 01/2023)
 
-#### (ZUERST Ausgabe 01/2023)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** ZUERST Ausgabe 01/2023
 * **Datum:** Entscheidung aus dem Jahr 2023
@@ -5313,9 +5051,8 @@ https://openjur.de/suche/ZUERST%20Ausgabe%2001/2023/
 
 ---
 
-### Fall 232
+### Fall 232: (ZUERST Ausgabe 03/2022)
 
-#### (ZUERST Ausgabe 03/2022)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** ZUERST Ausgabe 03/2022
 * **Datum:** Entscheidung aus dem Jahr 2022
@@ -5337,9 +5074,8 @@ https://openjur.de/suche/ZUERST%20Ausgabe%2003/2022/
 
 ---
 
-### Fall 233
+### Fall 233: (ZUERST Ausgabe 04/2022)
 
-#### (ZUERST Ausgabe 04/2022)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** ZUERST Ausgabe 04/2022
 * **Datum:** Entscheidung aus dem Jahr 2022
@@ -5361,9 +5097,8 @@ https://openjur.de/suche/ZUERST%20Ausgabe%2004/2022/
 
 ---
 
-### Fall 234
+### Fall 234: (ZUERST Ausgabe 05/2018)
 
-#### (ZUERST Ausgabe 05/2018)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** ZUERST Ausgabe 05/2018
 * **Datum:** Entscheidung aus dem Jahr 2018
@@ -5385,9 +5120,8 @@ https://openjur.de/suche/ZUERST%20Ausgabe%2005/2018/
 
 ---
 
-### Fall 235
+### Fall 235: (ZUERST Ausgabe 05/2022)
 
-#### (ZUERST Ausgabe 05/2022)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** ZUERST Ausgabe 05/2022
 * **Datum:** Entscheidung aus dem Jahr 2022
@@ -5409,9 +5143,8 @@ https://openjur.de/suche/ZUERST%20Ausgabe%2005/2022/
 
 ---
 
-### Fall 236
+### Fall 236: (ZUERST Ausgabe 06/2022)
 
-#### (ZUERST Ausgabe 06/2022)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** ZUERST Ausgabe 06/2022
 * **Datum:** Entscheidung aus dem Jahr 2022
@@ -5433,9 +5166,8 @@ https://openjur.de/suche/ZUERST%20Ausgabe%2006/2022/
 
 ---
 
-### Fall 237
+### Fall 237: (ZUERST Ausgabe 11/2022)
 
-#### (ZUERST Ausgabe 11/2022)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** ZUERST Ausgabe 11/2022
 * **Datum:** Entscheidung aus dem Jahr 2022
@@ -5457,9 +5189,8 @@ https://openjur.de/suche/ZUERST%20Ausgabe%2011/2022/
 
 ---
 
-### Fall 238
+### Fall 238: (ZUERSTI Ausgabe 04/2023)
 
-#### (ZUERSTI Ausgabe 04/2023)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** ZUERSTI Ausgabe 04/2023
 * **Datum:** Entscheidung aus dem Jahr 2023
@@ -5481,9 +5212,8 @@ https://openjur.de/suche/ZUERSTI%20Ausgabe%2004/2023/
 
 ---
 
-### Fall 239
+### Fall 239: (Zeitgeschichte 31/2007)
 
-#### (Zeitgeschichte 31/2007)
 * **Gericht:** Deutsches Gericht
 * **Aktenzeichen:** Zeitgeschichte 31/2007
 * **Datum:** Entscheidung aus dem Jahr 2007
