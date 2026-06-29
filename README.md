@@ -1197,8 +1197,8 @@ Da das Haus so überfüllt war, teilte ich mir mit Bruno ein Schlafzimmer. Wir v
 
 Ich war damals ein sehr wählerisches Kind beim Essen (ich bin Autist) und sortierte einmal am Tisch die Erbsen akribisch aus. Bruno sah mir ruhig dabei zu und erzählte mir daraufhin ganz sachlich und eindringlich vom Essen im Konzentrationslager – von dem unvorstellbaren Hunger, dem Kampf um Krümel und dem Wert jedes einzelnen Bissens. 
 
-Nach diesem Sommer sah ich die Welt mit völlig anderen Augen. Ich habe Bruno damals ein feierliches Versprechen gegeben: dass ich immer Antifaschist bleiben, mich gegen jede Form von Tyrannei stellen und unerschütterlich für humanistische Werte einstehen werde. 
+Nach diesem Sommer sah ich die Welt mit völlig anderen Augen. Ich habe Bruno damals ein Versprechen gegeben: dass ich immer Antifaschist bleiben, mich gegen jede Form von Tyrannei stellen und unerschütterlich für humanistische Werte einstehen werde. 
 
 Die Verteidigung unserer freiheitlich-demokratischen Grundordnung ist für mich daher kein theoretisches Konstrukt, sondern eine zutiefst persönliche Herzensangelegenheit. 
 
-**Ich widme dieses Repository und die gesamte darin geflossene Arbeit in tiefer Dankbarkeit und Ehrfurcht Bruno – dem Partisanen, KZ-Häftling und meinem prägendsten Lehrer.**
+**Ich widme dieses Repository und die gesamte darin geflossene Arbeit in tiefer Dankbarkeit und Ehrfurcht Bruno – dem Partisanen, KZ-Häftling und dieser eindrücklichen Begegnung in meinem Leben.**
