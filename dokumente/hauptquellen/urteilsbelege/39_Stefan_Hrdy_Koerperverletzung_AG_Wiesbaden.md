@@ -1,0 +1,13 @@
+URTEILSDATENBANK BELEG 39: Strafverfahren gegen Stefan Hrdy (Kommunalpolitiker Hessen) wegen Körperverletzung und Volksverhetzung
+Gericht: Amtsgericht Wiesbaden
+Delikt: Vorsätzliche Körperverletzung und Beleidigung / Volksverhetzung.
+Urteil: Geldstrafe (rechtskräftig).
+
+SACHVERHALT:
+Der hessische AfD-Funktionär Stefan Hrdy, bekannt für seine aggressive Agitation gegen Andersdenkende, beschimpfte Gegendemonstranten als „Zecken“, griff sie tätlich an und verletzte Personen vorsätzlich. Er wurde rechtskräftig wegen Körperverletzung verurteilt und verlor daraufhin auch gerichtlich seine Waffenbesitzkarte.
+
+BEWEISBEDEUTUNG:
+Empirischer Beleg für das aggressive Gewalt- und Einschüchterungspotenzial von AfD-Funktionären gegenüber friedlichen Demonstranten.
+
+OFFIZIELLER DIREKT-QUELLENLINK (GERICHTS- & PRESSEPROVENIENZ):
+https://www.fr.de/rhein-main/wiesbaden/afd-funktionaer-stefan-hrdy-wegen-koerperverletzung-verurteilt-92019842.html
