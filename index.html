@@ -1690,6 +1690,8 @@ Vielen Dank – und in ewigem Gedenken an Bruno.</script>
                 // Extract Aktenzeichen from text if possible
                 const azMatch = c.text ? c.text.match(/Aktenzeichen:\s*([^\n]+?)(?:\s*(?:Datum|Delikt|Urteil)|$)/i) : null;
                 const aktenzeichen = azMatch ? azMatch[1].trim().replace(/\s+/g, ' ') : '';
+                const cleanTitle = c.title.replace(/[()]/g, ' ').replace(/[\/,\.\"“„]/g, ' ').trim().replace(/\s+/g, ' ');
+                const searchQuery = aktenzeichen ? `Urteil ${aktenzeichen} ${cleanTitle}` : `Urteil ${cleanTitle}`;
 
                 card.innerHTML = `
                     <div class="space-y-3">
@@ -1712,7 +1714,7 @@ Vielen Dank – und in ewigem Gedenken an Bruno.</script>
                             <i class="fa-solid fa-file-text"></i>
                             <span>Lokaler Beleg</span>
                         </a>
-                        <a href="https://www.google.com/search?q=${encodeURIComponent(aktenzeichen ? 'Urteil ' + aktenzeichen : 'Urteil ' + c.title.replace(/\(.*?\)/g, '').trim())}" target="_blank" class="text-brand-gold hover:text-amber-800 font-bold transition flex items-center space-x-1" title="Sucht nach dem originalen Gerichtsurteil im Internet">
+                        <a href="https://www.google.com/search?q=${encodeURIComponent(searchQuery)}" target="_blank" class="text-brand-gold hover:text-amber-800 font-bold transition flex items-center space-x-1" title="Sucht nach dem originalen Gerichtsurteil im Internet">
                             <i class="fa-solid fa-gavel text-[10px]"></i>
                             <span>Urteil online suchen</span>
                         </a>
