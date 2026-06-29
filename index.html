@@ -165,6 +165,10 @@
                     <i class="fa-solid fa-book-open"></i>
                     <span>📖 Handbuch & README</span>
                 </button>
+                <button onclick="switchTab('tab-ki')" id="btn-tab-ki" class="tab-btn px-5 py-3 font-bold text-sm border-b-2 border-transparent hover:text-brand-gold transition duration-150 flex items-center space-x-2 rounded-t-lg">
+                    <i class="fa-solid fa-robot"></i>
+                    <span>🤖 KI-Handbuch & Methodik</span>
+                </button>
             </div>
 
             <!-- TAB 1: GERICHTSREGISTER -->
@@ -1534,6 +1538,53 @@ Für ein rechtsstaatliches Parteiverbot bleibt uns nicht viel Zeit. Die Mühlen 
 
 Vielen Dank – und in ewigem Gedenken an Bruno.</script>
             </div>
+
+            <!-- TAB 9: KI-HANDBUCH & METHODIK -->
+            <div id="tab-ki" class="tab-content hidden space-y-6">
+                <div class="bg-white rounded-xl shadow p-6 border border-slate-100">
+                    <div class="flex flex-col md:flex-row gap-8">
+                        <!-- Left Navigation Sidebar -->
+                        <div class="w-full md:w-1/4 flex flex-col space-y-2 border-r border-slate-100 pr-0 md:pr-6">
+                            <h3 class="font-bold text-slate-800 text-lg mb-4 flex items-center space-x-2">
+                                <i class="fa-solid fa-robot text-brand-blue"></i>
+                                <span>KI-Handbuch</span>
+                            </h3>
+                            <button onclick="selectKiGuide(1)" id="btn-ki-1" class="ki-nav-btn active text-left px-4 py-3 rounded-lg text-sm font-semibold transition flex items-center space-x-3 bg-brand-blue text-white shadow animate-pulse">
+                                <span class="w-6 h-6 flex items-center justify-center rounded-full bg-white/20 text-xs">01</span>
+                                <span>KI-Methodik im Recht</span>
+                            </button>
+                            <button onclick="selectKiGuide(2)" id="btn-ki-2" class="ki-nav-btn text-left px-4 py-3 rounded-lg text-sm font-semibold text-slate-600 hover:bg-slate-50 transition flex items-center space-x-3">
+                                <span class="w-6 h-6 flex items-center justify-center rounded-full bg-slate-100 text-xs">02</span>
+                                <span>Deep-Research-Leitfaden</span>
+                            </button>
+                            <button onclick="selectKiGuide(3)" id="btn-ki-3" class="ki-nav-btn text-left px-4 py-3 rounded-lg text-sm font-semibold text-slate-600 hover:bg-slate-50 transition flex items-center space-x-3">
+                                <span class="w-6 h-6 flex items-center justify-center rounded-full bg-slate-100 text-xs">03</span>
+                                <span>Datenaufbereitung & OCR</span>
+                            </button>
+                            <button onclick="selectKiGuide(4)" id="btn-ki-4" class="ki-nav-btn text-left px-4 py-3 rounded-lg text-sm font-semibold text-slate-600 hover:bg-slate-50 transition flex items-center space-x-3">
+                                <span class="w-6 h-6 flex items-center justify-center rounded-full bg-slate-100 text-xs">04</span>
+                                <span>Datenanalyse & RAG</span>
+                            </button>
+                            <button onclick="selectKiGuide(5)" id="btn-ki-5" class="ki-nav-btn text-left px-4 py-3 rounded-lg text-sm font-semibold text-slate-600 hover:bg-slate-50 transition flex items-center space-x-3">
+                                <span class="w-6 h-6 flex items-center justify-center rounded-full bg-slate-100 text-xs">05</span>
+                                <span>Problembehandlung & F.A.Q.</span>
+                            </button>
+                            <div class="mt-8 p-4 rounded-xl bg-slate-50 border border-slate-100 space-y-3">
+                                <span class="text-xs font-bold uppercase tracking-wider text-slate-400 block">Lokale Belege</span>
+                                <p class="text-xs text-slate-500 leading-relaxed">Alle Leitfäden liegen physisch im Repository unter:</p>
+                                <code class="text-xs font-mono bg-white px-2 py-1 border border-slate-200 rounded block text-center overflow-x-auto text-brand-blue">/dokumente/ki_handbuch/</code>
+                            </div>
+                        </div>
+
+                        <!-- Right Content Area -->
+                        <div class="w-full md:w-3/4">
+                            <div id="ki-guide-content" class="bg-white rounded-xl shadow p-8 border border-slate-100 max-h-[850px] overflow-y-auto prose prose-slate max-w-none text-slate-700 leading-relaxed space-y-4">
+                                <p class="text-slate-400 italic">Lade KI-Handbuch...</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </section>
 
     </main>
@@ -1575,6 +1626,219 @@ Vielen Dank – und in ewigem Gedenken an Bruno.</script>
                 .replace(/-/g, ' ')
                 .trim();
         }
+        // Embedded Markdown structures for the guides
+        const kiGuides = {
+            1: `
+# 🤖 01 | KI-Methodik in der verfassungsrechtlichen Grundlagenforschung
+
+## Die Rolle der Künstlichen Intelligenz (KI) im Verbotsverfahren
+Das Verbotsverfahren gegen die „Alternative für Deutschland“ (AfD) nach Art. 21 Abs. 2 GG stellt einen beispiellosen historischen Kraftakt dar. Die Beweislast liegt vollständig bei den antragstellenden Verfassungsorganen (Bundestag, Bundesrat, Bundesregierung). Sie müssen ein flächendeckendes, systematisches und aktiv-kämpferisches Verhalten der Gesamtpartei gegen die freiheitliche demokratische Grundordnung (fdGO) nachweisen.
+
+Angesichts von **Zehntausenden Seiten** Verfassungsschutzberichten, Chat-Leaks, Plenardebatten, Kriminalstatistiken und Strafurteilen stoßen traditionelle, rein händische Analysemethoden an Kapazitätsgrenzen. Hier greift das **KI-gestützte Arbeiten** als strategischer Beschleuniger ein.
+
+Künstliche Intelligenz dient in diesem Kontext als:
+- **Skalierungsmotor:** Durchsuchung und Strukturierung von Massendaten in Sekundenschnelle.
+- **Mustererkenner:** Identifikation wiederkehrender verfassungswidriger Schlüsselbegriffe (z. B. völkisch-ethnische Staatsvolkdefinitionen) über Hunderte von Einzelfällen hinweg.
+- **Brückenbauer:** Vereinfachung des Zugangs zu komplexen juristischen Primärdaten für Bürger, Anwälte, Gutachter und Gerichte.
+
+---
+
+## Kernprinzip: Die unerschütterliche Quellenbindung (Source Anchoring)
+Das größte Risiko beim Einsatz von Large Language Models (LLMs) in der Rechtswissenschaft sind **Halluzinationen** – die Erfindung von Fakten, Aktenzeichen oder Urteilsbegründungen. Im Rahmen eines verfassungsgerichtlichen Verfahrens wäre eine einzige halluzinierte Quelle ein fataler Angriffspunkt, der die Glaubwürdigkeit des gesamten Antrags beschädigt.
+
+Deshalb gilt das fundamentale **Kernprinzip der unerschütterlichen Quellenbindung**:
+- **Semantische Suche:** LLM durchsucht den Belegkorpus mittels Vektor-Embedding.
+- **Quellen-Extraktion:** Ausschließlich verifizierte Texte werden geladen.
+- **Synthese & Pinpoint-Cites:** Das Modell entwirft die Argumentation, darf aber keine Behauptung aufstellen, die nicht durch ein konkretes Aktenzeichen, eine Seitenzahl oder einen lokalen Belegpfad abgesichert ist.
+- **Manuelle Doppel-Verifizierung:** Menschliche Gutachter prüfen das Quellendokument im Original. Erst dann ist der Beleg gerichts- und prozessfest.
+
+---
+
+## Best Practices für Prompting im Bereich des Art. 21 GG
+Um optimale, juristisch präzise Ergebnisse aus einem LLM zu extrahieren, müssen Prompts nach dem **Context-Instruction-Constraint-Pattern (CIC)** aufgebaut sein.
+
+### Positiv-Beispiel (Präzise, gerichtet, quellenbasiert):
+\`\`\`text
+Rolle: Du bist ein hochspezialisierter wissenschaftlicher Mitarbeiter einer Kanzlei für Verfassungsrecht.
+Aufgabe: Analysiere den beigefügten Urteilskorpus zum Fall Marie-Thérèse Kaiser (Fall 2).
+Instruktion: Subsumiere das Verhalten der Angeklagten unter das Merkmal der „aktiv-kämpferischen Zielrichtung“ gegen die Menschenwürdegarantie (Art. 1 Abs. 1 GG).
+Einschränkungen: 
+1. Verwende ausschließlich die tatsächlichen Urteilsfeststellungen aus der Datei.
+2. Erfinde keine Fakten oder externen Zitate.
+Format: Gutachten im Urteilsstil (Obersatz, Definition, Subsumtion, Ergebnis).
+\`\`\`
+
+---
+
+## Ethische Grenzen und die unersetzliche menschliche Expertise
+KI-Systeme sind hochentwickelte statistische Navigationsgeräte im Ozean der Daten. Sie besitzen jedoch **kein Bewusstsein für verfassungsrechtliche Verantwortung**, keine ethische Urteilskraft und können keine strategischen prozessualen Entscheidungen treffen.
+- **Die KI bereitet vor:** Sie sucht, übersetzt, filtert, vergleicht, formatiert und verweist.
+- **Der Mensch entscheidet:** Die finale juristische Subsumtion, die Formulierung der eigentlichen Klageschrift, die Würdigung der politischen Gesamtlage und das Auftreten vor dem Zweiten Senat des Bundesverfassungsgerichts in Karlsruhe verbleiben vollumfänglich in den Händen **geschulter, menschlicher Experten**.
+`,
+            2: `
+# 🔎 02 | Leitfaden für KI-gestütztes Deep Research
+
+## Was ist Deep Research im verfassungsrechtlichen Kontext?
+Deep Research bezeichnet einen strukturierten, mehrstufigen KI-Suchprozess, bei dem ein autonomer Agent das Web (oder lokale Datenarchive) durchforstet, um:
+1. Relevante Primärquellen (Gerichtsentscheidungen, Sitzungsprotokolle, offizielle Statistiken) zu identifizieren.
+2. Querverbindungen und versteckte Muster aufzudecken (z. B. finanzielle Verflechtungen oder informelle Allianzen zwischen AfD-Kandidaten und gewaltbereiten Netzwerken).
+3. Belege auf Faktentreue zu auditieren und Fehlinformationen herauszufiltern.
+
+---
+
+## Der vierstufige Such- und Validierungs-Workflow
+Ein erfolgreicher Deep-Research-Lauf erfolgt stets in vier aufeinander aufbauenden Phasen:
+1. **Formulierung (Query Formulation):** Die KI nutzt fortgeschrittene Such-Operatoren, um Rauschen zu reduzieren. (z. B. \`site:openjur.de "Björn Höcke" "SA-Parole" "5 Ks 132/23" "LG Halle" 2024\`)
+2. **Entdeckung (Discovery):** Der Agent sucht parallel in Justizportalen (z. B. Justiz.nrw.de, OpenJur.de, Fallrecht.de) und zieht verifizierte Journalistennetzwerke (wie Correctiv oder netzpolitik.org) heran, um versteckte Primärquellen ausfindig zu machen.
+3. **Extraktion (Extraction):** Ist ein Dokument gefunden, extrahiert die KI den eigentlichen Tatbestand sowie die Entscheidungsgründe. Textscans werden per OCR transkribiert und als formatsymmetrische Markdown- (\`.md\`) und Reintext- (\`.txt\`) Dateien gespeichert.
+4. **Verifikation (Cross-Checking):** Jeder extrahierte Treffer wird einem Quervergleich unterzogen (Aktenzeichen-Schema, Zeitangaben, Quellennachweise).
+
+---
+
+## Identifikation und Klassifizierung von Primärquellen
+In einem Parteiverbotsverfahren besitzen Beweismittel unterschiedliche Hierarchiestufen. Ein KI-Agent muss lernen, diese strikt zu gewichten:
+- **Gold-Standard (Absolute Beweiskraft):** Rechtskräftige Strafurteile gegen Kadermitglieder sowie rechtskräftige verwaltungsgerichtliche Bestätigungen behördlicher Einstufungen (z. B. OVG Münster, Fall 22).
+- **Silber-Standard (Hohe Beweiskraft):** Berichte und offizielle Verfassungsschutzberichte des Bundes und der 16 Bundesländer, statistische BKA-Meldungen zur Hasskriminalität (Hass-PMK) sowie offizielle Bundestagsdrucksachen.
+- **Bronze-Standard (Indizien):** Investigative Journalismus-Recherchen (Correctiv-Remigrations-Leak, netzpolitik.org-Veröffentlichungen). Sie dienen als hervorragende Wegweiser zur Beschaffung der dahinterliegenden Primärdokumente.
+
+---
+
+## Erkennung und Eliminierung von Fehlinformationen
+Bei der Durchführung von Deep-Research-Läufen besteht die Gefahr, auf gefälschte Berichte, irreführende Zitate (Fakes) oder überspitzte Aktivisten-Meldungen zu stoßen.
+- **Der Fact-Checking-Check:** Jedes Zitat muss im Kontext geprüft werden. Das Repository enthält 3.611 verifizierte Zitate – jedes Zitat wurde programmgesteuert auf seine Originalquelle zurückgeführt.
+- **Das Gegenbeleg-Prinzip:** Bevor eine Anschuldigung als Fakt erhoben wird, sucht die KI aktiv nach Entlastungsbeweisen oder Stellungnahmen der Betroffenen. Nur wenn diese entkräftet sind, fließen sie in das Belegregister ein.
+`,
+            3: `
+# 📊 03 | Leitfaden zur Datenaufbereitung (Data Processing)
+
+## Herausforderung: Unstrukturierte Daten und schlechte Scans
+Viele verfassungsrechtlich relevante Belege – insbesondere ältere Verfassungsschutzberichte, geleakte Protokolle oder interne Parteidokumente – liegen ausschließlich als eingescannte Bild-PDFs vor. Diese sind für Computer blind: Sie enthalten keinen maschinenlesbaren Text, können nicht indexiert und nicht von künstlichen Intelligenzen (LLMs) verarbeitet werden.
+
+Dieses Dokument beschreibt die standardisierten Workflows des Repositories zur **Strukturierung, OCR-Verarbeitung, Splitting und Formatsymmetrie** unstrukturierter Quelldateien.
+
+---
+
+## Der OCR-Workflow (Optical Character Recognition)
+Um Scans in hochpräzise Textdateien zu transformieren, nutzen wir einen automatisierten Python-OCR-Stack basierend auf **Tesseract OCR** und **PyPDF2/pdfplumber**:
+- **PDF-Preprocessing:** Binarisierung (S/W-Konvertierung), Schärfung, Kontrasterhöhung zur Reduzierung der Fehlerrate um bis zu 95%.
+- **Text-Extraktion:** Tesseract transkribiert jede einzelne Seite (für deutsche Belege zwingend mit deu-Sprachpaket \`-l deu\` auszuführen).
+- **Bereinigung:** Korrektur von Umlauten und Zeilenumbrüchen.
+- **Format-Konvertierung (TXT & MD):** Symmetrische Ablage zur Anzeige im Dashboard.
+
+---
+
+## PDF-Splitting für RAG-Systeme
+Hundert- oder tausendseitige Dokumente überfordern den Kontext-Arbeitsspeicher herkömmlicher LLMs und führen bei Suchen zu "In-the-Middle"-Verlusten (Informationen in der Mitte des Textes werden ignoriert).
+
+**Lösung: Programmatisches PDF-Splitting**
+- Das Dokument wird in thematisch zusammenhängende Kapitel oder feste Seitengrößen (z. B. 100-Seiten-Blöcke) zerlegt.
+- Die Splits werden unter \`dokumente/splits/\` systematisch abgelegt (z. B. \`BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde.pdf\`).
+- Jeder Split erhält ein exakt deckungsgleiches \`.txt\`- und \`.md\`-Pendant für die blitzschnelle RAG-Indexierung.
+
+---
+
+## Die Einhaltung der Formatsymmetrie
+Das Repository erzwingt eine **strikte Formatsymmetrie** für alle Textquellen:
+- **Regel:** Jedes Gerichtsurteil, jeder Bericht und jeder Textbeleg muss im Repository **sowohl als \`.txt\`-Datei als auch als \`.md\`-Datei** im selben Verzeichnis vorliegen.
+- **Der Grund:**
+  - \`.txt\`-Dateien dienen als unstrukturierter Rohdatenstrom für einfache Scraper, Grep-Suchen und klassische Datenbank-Suchen.
+  - \`.md\`-Dateien nutzen standardisiertes Markdown zur logischen Strukturierung (Überschriften, Fettungen, Zitate, Aktenzeichen-Badges) und ermöglichen dem interaktiven Web-Dashboard, die Dokumente mittels Triebwerken wie **Marked.js** in Echtzeit formatiert im Browser zu rendern.
+`,
+            4: `
+# 🧠 04 | Leitfaden zur Datenanalyse & RAG-Pipelines
+
+## Das Prinzip von RAG (Retrieval-Augmented Generation)
+Wenn Anwälte oder Gutachter ein LLM nach spezifischen verfassungsrechtlichen Sachverhalten befragen (z. B. *„Welche Beweise gibt es für die Verbindung der Jungen Alternative zu den Active Clubs?“*), darf das Modell nicht auf sein allgemeines Training vertrauen, da dies zu Halluzinationen führt.
+
+Stattdessen nutzen wir **Retrieval-Augmented Generation (RAG)**:
+- **Vektorisierung (Embeddings):** Umwandlung von Textfragmenten in mathematische Koordinaten.
+- **Semantische Suche:** Vergleich der User-Anfrage mit der Vektor-Datenbank, um die thematisch passendsten Fragmente zu finden.
+- **Kontext-Injektion:** Das LLM erhält die Frage zusammen mit den gefundenen Original-Fragmenten und formuliert eine Antwort, die sich streng an diese Beweise hält.
+
+---
+
+## Chunking-Strategien für verfassungsrechtliche Texte
+Juristische Dokumente sind hochgradig strukturiert (Paragraphen, Absätze, Randnummern). Ein unstrukturiertes Zerschneiden von Texten zerstört den Sinnzusammenhang.
+- **Chunk-Größe (Chunk Size):** 500 bis 1.000 Zeichen (Tokens: ~200-300).
+- **Überlappung (Chunk Overlap):** 100 bis 200 Zeichen. Dies stellt sicher, dass Sätze, die über Chunk-Grenzen hinweggehen, im Sinnzusammenhang erfasst werden.
+- **Semantisches Chunking:** Bevorzugung von Trennungen an echten Absatzgrenzen (\`\\n\\n\`) oder Markdown-Überschriften (\`###\`), anstatt mitten im Satz zu schneiden.
+
+---
+
+## Semantische Suche vs. Keyword-Suche
+- **Keyword-Suche (BM25):** Sucht nach exakten Wortübereinstimmungen. Suchanfrage: „Waffenbesitz AfD“ findet nur Dokumente, die exakt diese Wörter enthalten.
+- **Semantische Suche (Dense Retrieval):** Sucht nach der mathematischen Bedeutung im Vektorraum. Suchanfrage: „Waffenbesitz AfD“ findet auch Dokumente mit Sätzen wie *„Entzug von Waffenbesitzkarten bei Rechtsextremisten“*, *„Sicherung von halbautomatischen Gewehren bei JA-Kader“* oder *„waffenrechtliche Unzuverlässigkeit wegen Parteimitgliedschaft“*.
+
+---
+
+## Absicherung gegen Halluzinationen (Fact-Checking und Guardrails)
+Um die absolute juristische Belastbarkeit der KI-Analysen zu sichern, müssen folgende **Guardrails** in der Analyse-Pipeline implementiert werden:
+1. **Strict Context Enforcement:** Das Modell wird angewiesen: *„Wenn die Antwort nicht zweifelsfrei aus den bereitgestellten Dokumenten hervorgeht, antworte mit: 'Information nicht im Belegkorpus vorhanden.' Erfinde keine Fakten.“*
+2. **Attribution und Pinpoint-Citing:** Das System muss gezwungen werden, hinter jedem analysierten Faktum den genauen Dateipfad und das Aktenzeichen zu nennen (z. B. \`[Quelle: Fall 22, OVG Münster, Az. 5 A 1210/21]\`).
+3. **Human-in-the-Loop (Drei-Augen-Prinzip):** Kein KI-generiertes Teilergebnis darf ungeprüft in die eigentliche Klageschrift einfließen. Gutachter nutzen das Forschungsportal, um den gefundenen Beleg mit einem Klick auf *„Urteil online suchen“* manuell abzugleichen.
+`,
+            5: `
+# 🛠️ 05 | Problembehandlung, Hilfestellungen & Troubleshooting
+
+## Häufige Probleme im KI-gestützten Arbeiten (Troubleshooting)
+Beim praktischen Arbeiten mit KI-Modellen zur Verfassungsforschung können typische Fehlerbilder auftreten:
+
+### Problem 1: Das LLM weigert sich, sensible Texte zu analysieren (Safety-Filter)
+- *Symptom:* Das Modell verweigert die Arbeit mit Verweis auf hasserfüllte/extremistische Sprache.
+- *Ursache:* Das Alignment stuft die rassistischen Zitate von AfD-Kandaten als schädlich ein, obwohl sie rein wissenschaftlich/juristisch analysiert werden sollen.
+- *Lösung:* Passen Sie den System-Prompt an, um den wissenschaftlichen, verfassungsrechtlichen Kontext gemäß Art. 21 GG zu betonen.
+
+### Problem 2: Ungenaue Zitate oder verfälschte Aktenzeichen (Halluzinationen)
+- *Symptom:* Die KI nennt ein Aktenzeichen oder Zitat, das nicht auffindbar ist.
+- *Ursache:* Die Temperatur (Temperature) des Modells ist zu hoch eingestellt, oder die Quellenbindung im Prompt war unvollständig.
+- *Lösung:* Setzen Sie die Modelltemperatur auf \`0.0\` (deterministisch). Nutzen Sie ausschließlich verifizierte Belege aus dem Repository und fordern Sie das Modell auf, das Zitat wortwörtlich im Beleg zu suchen.
+
+---
+
+## Der Schutz von Whistleblowern und Hinweisgebern (Sicherheit & Recht)
+Die Analyse interner Chatgruppen oder geleakter Dokumente ist politisch hochsensibel. Der Schutz der Quellen hat oberste Priorität:
+- **Das Hinweisgeberschutzgesetz (§ 3 HinSchG):** Whistleblower, die Informationen über verfassungswidrige Umtriebe in Parteien oder Behörden offenlegen, stehen unter rechtlichem Schutz vor Kündigung, Disziplinarverfahren oder sonstigen Repressalien.
+- **Anonymisierung vor Analyse:** Bevor geleakte Chats in eine Cloud-basierte KI-API hochgeladen werden, müssen alle personenbezogenen Daten (Namen von Zeugen, Telefonnummern, IP-Adressen) mittels lokaler Skripte (z. B. Regular Expressions in Python) anonymisiert oder pseudonymisiert werden.
+
+---
+
+## Lizenzen und rechtlicher Rahmen des Repositories
+Dieses Repository ist ein offenes wissenschaftliches Hilfsprojekt, das unter klaren rechtlichen Lizenzen steht:
+1. **Anti-Capitalist Software License 1.4 (ACSL):** Die im Repository enthaltenen Scraper-Skripte, Automatisierungs-Codes und Portal-Strukturen dürfen frei von Einzelpersonen, gemeinnützigen Organisationen und staatlichen Verfassungsorganen genutzt werden.
+2. **Zitatrecht und Gemeinfreiheit (§ 51 UrhG / § 5 UrhG):** Gerichtsentscheidungen, Bundestagsdrucksachen und behördliche Berichte sind amtliche Werke und damit gemeinfrei. Das Zitieren von Textpassagen aus Parteiprogrammen und Reden ist im Rahmen der wissenschaftlichen Auseinandersetzung nach dem deutschen Zitatrecht vollumfänglich gedeckt.
+`
+        };
+
+        // Function to select and render a KI guide
+        function selectKiGuide(id) {
+            document.querySelectorAll('.ki-nav-btn').forEach(btn => {
+                btn.classList.remove('active', 'bg-brand-blue', 'text-white', 'shadow', 'animate-pulse');
+                btn.classList.add('text-slate-600', 'hover:bg-slate-50');
+                const span = btn.querySelector('span');
+                if (span) {
+                    span.classList.remove('bg-white/20');
+                    span.classList.add('bg-slate-100');
+                }
+            });
+
+            const activeBtn = document.getElementById('btn-ki-' + id);
+            if (activeBtn) {
+                activeBtn.classList.remove('text-slate-600', 'hover:bg-slate-50');
+                activeBtn.classList.add('active', 'bg-brand-blue', 'text-white', 'shadow');
+                const span = activeBtn.querySelector('span');
+                if (span) {
+                    span.classList.remove('bg-slate-100');
+                    span.classList.add('bg-white/20');
+                }
+            }
+
+            const container = document.getElementById('ki-guide-content');
+            if (container && typeof marked !== 'undefined') {
+                container.innerHTML = marked.parse(kiGuides[id]);
+                container.scrollTop = 0;
+            }
+        }
+
         // Tab switching function
         function switchTab(tabId) {
             // Hide all contents
@@ -1589,6 +1853,10 @@ Vielen Dank – und in ewigem Gedenken an Bruno.</script>
             // Show selected and activate button
             document.getElementById(tabId).classList.remove('hidden');
             document.getElementById('btn-' + tabId).classList.add('active');
+
+            if (tabId === 'tab-ki') {
+                selectKiGuide(1);
+            }
         }
 
         // Array of parsed cases
