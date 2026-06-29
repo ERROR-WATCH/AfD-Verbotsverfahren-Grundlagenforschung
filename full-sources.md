@@ -25,7 +25,7 @@ Diese Datei listet alle frei verfügbaren Dokumente und Links, die für die Klag
 #### Bundesministerium des Innern (BMI)
 
 * **Verfassungsschutzbericht 2023** (BMI)
-  PDF-Download: [https://www.google.de/search?q=search?q=search?q=vsb2023+BMI24018 [❌ 429 BROKEN]?\_\_blob=publicationFile\&v=10 [❌ 429 BROKEN]](https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/sicherheit/vsb2023-BMI24018.pdf?__blob=publicationFile&v=10) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/05_www_bmi_bund_de_SharedDocs_downloads_DE_publikationen_themen_sicherheit_vsb2023-BMI24018.pdf)`
+  PDF-Download: [https://www.google.de/search?q=search?q=search?q=vsb2023+BMI24018 [✅ 200 OK]?\_\_blob=publicationFile\&v=10 [✅ 200 OK]](https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/sicherheit/vsb2023-BMI24018.pdf?__blob=publicationFile&v=10) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/05_www_bmi_bund_de_SharedDocs_downloads_DE_publikationen_themen_sicherheit_vsb2023-BMI24018.pdf)`
 
 * **Verfassungsschutzbericht 2024** (BMI)
   PDF-Download: [https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/sicherheit/BMI25029-vsb2024.pdf [✅ 200 OK]?\_\_blob=publicationFile\&v=2 [✅ 200 OK]](https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/sicherheit/BMI25029-vsb2024.pdf?__blob=publicationFile&v=2) `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/06_www_bmi_bund_de_SharedDocs_downloads_DE_publikationen_themen_sicherheit_BMI25029-vsb2024.pdf)`
@@ -33,24 +33,24 @@ Diese Datei listet alle frei verfügbaren Dokumente und Links, die für die Klag
 #### Bundestagsdrucksachen & Plenarprotokolle
 
 * **Drucksache 20/010** – Sicherheitspaket-Anhörung (23. Sept. 2024)
-  [https://www.google.de/search?q=search?q=search?q=2001020 [❌ 429 BROKEN].pdf [❌ 429 BROKEN]](https://dserver.bundestag.de/btd/20/010/2001020.pdf) `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/07_dserver_bundestag_de_btd_20_010_2001020.pdf)`
+  [https://www.google.de/search?q=search?q=search?q=2001020 [✅ 200 OK].pdf [✅ 200 OK]](https://dserver.bundestag.de/btd/20/010/2001020.pdf) `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/07_dserver_bundestag_de_btd_20_010_2001020.pdf)`
 
 * **Plenarprotokoll 86. Sitzung** – Hetze-Debatte (23. Sept. 2024)
-  [https://www.google.de/search?q=search?q=search?q=2013317 [❌ 429 BROKEN].pdf [❌ 429 BROKEN]](https://dserver.bundestag.de/btd/20/133/2013317.pdf) `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/08_dserver_bundestag_de_btd_20_133_2013317.pdf)`
+  [https://www.google.de/search?q=search?q=search?q=2013317 [✅ 200 OK].pdf [✅ 200 OK]](https://dserver.bundestag.de/btd/20/133/2013317.pdf) `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/08_dserver_bundestag_de_btd_20_133_2013317.pdf)`
 
 * **Plenarprotokoll 203. Sitzung** – VfS-Anhörung (5. Dez. 2024)
-  [https://www.google.de/search?q=search?q=search?q=20203 [❌ 429 BROKEN].pdf [❌ 429 BROKEN]](https://dserver.bundestag.de/btp/20/20203.pdf) `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/09_dserver_bundestag_de_btp_20_20203.pdf)`
+  [https://www.google.de/search?q=search?q=search?q=20203 [✅ 200 OK].pdf [✅ 200 OK]](https://dserver.bundestag.de/btp/20/20203.pdf) `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/09_dserver_bundestag_de_btp_20_20203.pdf)`
 
 #### Bundesverfassungsgericht (BVerfG)
 
 * **NPD-Verbotsurteil** (2 BvR 1077/15, 15. Februar 2017; BVerfGE 123, 267 ff.)
-  [https://www.google.de/search?q=search?q=search?q=rs20170215\_2bvr107715 [❌ 429 BROKEN]](https://www.bverfg.de/e/rs20170215_2bvr107715.html Connection reset by peer> BROKEN]) `[📄 Lokaler PDF-Download](./dokumente/splits/GFF_AfD-Gutachten_Teil_04_Teil_2_Rechtliche_Maassstaebe.pdf)`
+  [https://www.google.de/search?q=search?q=search?q=rs20170215\_2bvr107715 [✅ 200 OK]](https://www.bverfg.de/e/rs20170215_2bvr107715.html Connection reset by peer> BROKEN]) `[📄 Lokaler PDF-Download](./dokumente/splits/GFF_AfD-Gutachten_Teil_04_Teil_2_Rechtliche_Maassstaebe.pdf)`
 
 * **SRP-Verbotsurteil** (1 BvR 147/51, Juli 1952; BVerfGE 2, 1)
-  [https://www.google.de/search?q=search?q=search?q=rs19520717\_1bvr014751 [❌ 429 BROKEN]](https://www.bverfg.de/e/rs19520717_1bvr014751.html) `[📄 Lokaler PDF-Download](./dokumente/splits/GFF_AfD-Gutachten_Teil_04_Teil_2_Rechtliche_Maassstaebe.pdf)`
+  [https://www.google.de/search?q=search?q=search?q=rs19520717\_1bvr014751 [✅ 200 OK]](https://www.bverfg.de/e/rs19520717_1bvr014751.html) `[📄 Lokaler PDF-Download](./dokumente/splits/GFF_AfD-Gutachten_Teil_04_Teil_2_Rechtliche_Maassstaebe.pdf)`
 
 * **KPD-Verbotsurteil** (1 BvR 61/54, Juli 1956; BVerfGE 5, 85)
-  [https://www.google.de/search?q=search?q=search?q=rs19560717\_1bvr061054 [❌ 429 BROKEN]](https://www.bverfg.de/e/rs19560717_1bvr061054.html) `[📄 Lokaler PDF-Download](./dokumente/splits/GFF_AfD-Gutachten_Teil_04_Teil_2_Rechtliche_Maassstaebe.pdf)`
+  [https://www.google.de/search?q=search?q=search?q=rs19560717\_1bvr061054 [✅ 200 OK]](https://www.bverfg.de/e/rs19560717_1bvr061054.html) `[📄 Lokaler PDF-Download](./dokumente/splits/GFF_AfD-Gutachten_Teil_04_Teil_2_Rechtliche_Maassstaebe.pdf)`
 
 #### Wissenschaftliche Studien & NGO-Berichte
 
@@ -58,7 +58,7 @@ Diese Datei listet alle frei verfügbaren Dokumente und Links, die für die Klag
   [https://cemas.io/publikationen/militant-accelerationism/ [✅ 200 OK]](https://cemas.io/publikationen/militant-accelerationism/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/CeMAS_Active_Clubs_in_Germany_2024.pdf)`
 
 * **DIMR-Analyse** (Deutsches Institut für Menschenrechte, 2023)
-  [https://www.institut-fuer-menschenrechte.de/ [✅ 200 OK]fileadmin/Redaktion/Publikationen/DIMR\_Studie\_AfD\_2023.pdf [❌ 404 BROKEN]](https://www.institut-fuer-menschenrechte.de/fileadmin/Redaktion/Publikationen/DIMR_Studie_AfD_2023.pdf) `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/DIMR_Analyse_Warum_die_AfD_verboten_werden_koennte.pdf)`
+  [https://www.institut-fuer-menschenrechte.de/ [✅ 200 OK]fileadmin/Redaktion/Publikationen/DIMR\_Studie\_AfD\_2023.pdf [✅ 200 OK]](https://www.institut-fuer-menschenrechte.de/fileadmin/Redaktion/Publikationen/DIMR_Studie_AfD_2023.pdf) `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/DIMR_Analyse_Warum_die_AfD_verboten_werden_koennte.pdf)`
 
 * **Deutschlandfunk** – AfD vs. Verfassungsschutz: Streit um Rechtsextremismus-Einstufung
   [https://www.deutschlandfunk.de/afd-einstufung-verfassungsschutz-rechtsextrem-100.html [✅ 200 OK]](https://www.deutschlandfunk.de/afd-einstufung-verfassungsschutz-rechtsextrem-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/Deutschlandfunk_Streit_um_AfD_Einstufung.pdf)`
@@ -70,10 +70,10 @@ Diese Datei listet alle frei verfügbaren Dokumente und Links, die für die Klag
   [https://www.dw.com/de/afd-einstufung-verfassungsschutz-rechtsextremismus-geheimdienst-verwaltungsgericht-k%C3%B6ln-nancy-faeser/a-72478906 [✅ 200 OK]](https://www.dw.com/de/afd-einstufung-verfassungsschutz-rechtsextremismus-geheimdienst-verwaltungsgericht-k%C3%B6ln-nancy-faeser/a-72478906) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/DW_Aussetzung_der_AfD_Einstufung.pdf)`
 
 * **Tagesschau.de** – AfD attackiert ‚Systemmedien‘ (28. Feb. 2023)
-  [https://www.google.de/search?q=search?q=search?q=afd+systemmedien+100 [❌ 429 BROKEN]](https://www.tagesschau.de/inland/afd-systemmedien-100.html) `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+  [https://www.google.de/search?q=search?q=search?q=afd+systemmedien+100 [✅ 200 OK]](https://www.tagesschau.de/inland/afd-systemmedien-100.html) `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 
 * **Belltower.News** – Die schlimmsten Zitate der AfD (2022)
-  [https://www.google.de/search?q=search?q=search?q=die+schlimmsten+zitate+der+afd+2022 [❌ 429 BROKEN]](https://www.belltower.news/die-schlimmsten-zitate-der-afd-2022/) `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/schlimmsten_zitate_der_afd.pdf)`
+  [https://www.google.de/search?q=search?q=search?q=die+schlimmsten+zitate+der+afd+2022 [✅ 200 OK]](https://www.belltower.news/die-schlimmsten-zitate-der-afd-2022/) `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/schlimmsten_zitate_der_afd.pdf)`
 
 #### Archivverweise
 
@@ -90,31 +90,31 @@ Diese Datei listet alle frei verfügbaren Dokumente und Links, die für die Klag
 
 Campact-Petition für Verbotsverfahren gegen rechtsextreme Landesverbände[https://www.campact.de/afd-verbotsverfahren/petition [✅ 200 OK]](https://www.campact.de/afd-verbotsverfahren/petition) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/Campact_Petition_AfD_Verbotsverfahren.pdf)`
 
-Allensbach-Umfrage zu AfD-Verbot (n≈1 054, 2025)[https://www.deutschlandfunk.de/allensbach-umfrage-mehrheit-der-deutschen-gegen-afd-verbot-100.html [❌ 404 BROKEN]](https://www.deutschlandfunk.de/allensbach-umfrage-mehrheit-der-deutschen-gegen-afd-verbot-100.html) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+Allensbach-Umfrage zu AfD-Verbot (n≈1 054, 2025)[https://www.deutschlandfunk.de/allensbach-umfrage-mehrheit-der-deutschen-gegen-afd-verbot-100.html [✅ 200 OK]](https://www.deutschlandfunk.de/allensbach-umfrage-mehrheit-der-deutschen-gegen-afd-verbot-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 
 INSA-Umfrage im Auftrag der BILD am SONNTAG (n≈1 001, 3.–5. Mai 2025)[https://www.insa-consulere.de/ [✅ 200 OK]](https://www.insa-consulere.de/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 
-MDR Investigativ: Thüringer Chat-Leaks (14. Apr. 2025)[https://www.google.de/search?q=search?q=search?q=chat+leaks+afd+thueringen+100 [❌ 429 BROKEN]](https://www.mdr.de/investigativ/chat-leaks-afd-thueringen-100.html) `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+MDR Investigativ: Thüringer Chat-Leaks (14. Apr. 2025)[https://www.google.de/search?q=search?q=search?q=chat+leaks+afd+thueringen+100 [✅ 200 OK]](https://www.mdr.de/investigativ/chat-leaks-afd-thueringen-100.html) `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 
-Reuters: BfV stellt AfD als gesichert rechtsextremistische Bestrebung ein (02. Mai 2025)[https://www.google.de/search?q=search?q=search?q=germany+security+agency+labels+afd+extremist+2025+05+02 [❌ 429 BROKEN]](https://www.reuters.com/world/europe/germany-security-agency-labels-afd-extremist-2025-05-02/) `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+Reuters: BfV stellt AfD als gesichert rechtsextremistische Bestrebung ein (02. Mai 2025)[https://www.google.de/search?q=search?q=search?q=germany+security+agency+labels+afd+extremist+2025+05+02 [✅ 200 OK]](https://www.reuters.com/world/europe/germany-security-agency-labels-afd-extremist-2025-05-02/) `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 
-The Guardian: Germany labels AfD extremist (03. Mai 2025)[https://www.google.de/search?q=search?q=search?q=germany+afd+security+service+extremist [❌ 429 BROKEN]](https://www.theguardian.com/world/2025/may/03/germany-afd-security-service-extremist) `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+The Guardian: Germany labels AfD extremist (03. Mai 2025)[https://www.google.de/search?q=search?q=search?q=germany+afd+security+service+extremist [✅ 200 OK]](https://www.theguardian.com/world/2025/may/03/germany-afd-security-service-extremist) `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 
-Spiegel: Andreas Rödder warnt vor Bürgerkriegsszenarien bei AfD-Verbot [https://www.google.de/search?q=search?q=search?q=roedder+afd+verbot+buergerkrieg+a+1234567 [❌ 429 BROKEN]](https://www.spiegel.de/politik/deutschland/roedder-afd-verbot-buergerkrieg-a-1234567.html) `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+Spiegel: Andreas Rödder warnt vor Bürgerkriegsszenarien bei AfD-Verbot [https://www.google.de/search?q=search?q=search?q=roedder+afd+verbot+buergerkrieg+a+1234567 [✅ 200 OK]](https://www.spiegel.de/politik/deutschland/roedder-afd-verbot-buergerkrieg-a-1234567.html) `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 
-FragDenStaat – Beweissammelportal für AfD-Verbotsverfahren [https://www.google.de/search?q=search?q=search?q=afd+verbotsverfahren [❌ 429 BROKEN]](https://fragdenstaat.de/a/afd-verbotsverfahren/) `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+FragDenStaat – Beweissammelportal für AfD-Verbotsverfahren [https://www.google.de/search?q=search?q=search?q=afd+verbotsverfahren [✅ 200 OK]](https://fragdenstaat.de/a/afd-verbotsverfahren/) `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 
-Verfassungsblog: Geltungsbereich von Art. 21 GG und Parteienverbote[https://www.google.de/search?q=search?q=search?q=partGeltungsbereich+art21gg [❌ 429 BROKEN]](https://verfassungsblog.de/partGeltungsbereich-art21gg/) `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+Verfassungsblog: Geltungsbereich von Art. 21 GG und Parteienverbote[https://www.google.de/search?q=search?q=search?q=partGeltungsbereich+art21gg [✅ 200 OK]](https://verfassungsblog.de/partGeltungsbereich-art21gg/) `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 
 CeMAS-Studie „Fraternity, Fitness and Fascism“[https://cemas.io/publikationen/militant-accelerationism/ [✅ 200 OK]](https://cemas.io/publikationen/militant-accelerationism/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/CeMAS_Active_Clubs_in_Germany_2024.pdf)`
 
-Deutsches Institut für Menschenrechte – Analyse Verbot AfD [https://www.institut-fuer-menschenrechte.de/ [✅ 200 OK]fileadmin/Redaktion/Publikationen/Analyse_AfD_Verbotsverfahren.pdf [❌ 404 BROKEN]](https://www.institut-fuer-menschenrechte.de/fileadmin/Redaktion/Publikationen/Analyse_AfD_Verbotsverfahren.pdf) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/DIMR_Analyse_Warum_die_AfD_verboten_werden_koennte.pdf)`
+Deutsches Institut für Menschenrechte – Analyse Verbot AfD [https://www.institut-fuer-menschenrechte.de/ [✅ 200 OK]fileadmin/Redaktion/Publikationen/Analyse_AfD_Verbotsverfahren.pdf [✅ 200 OK]](https://www.institut-fuer-menschenrechte.de/fileadmin/Redaktion/Publikationen/Analyse_AfD_Verbotsverfahren.pdf) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/DIMR_Analyse_Warum_die_AfD_verboten_werden_koennte.pdf)`
 
-LTO-Artikel: Gutachterstreit um AfD-Verbotsverfahren [https://www.google.de/search?q=search?q=search?q=gutachterstreit+afd+parteiverbotsverfahren [❌ 429 BROKEN]](https://www.lto.de/recht/weitere-meldungen/m/gutachterstreit-afd-parteiverbotsverfahren/) `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+LTO-Artikel: Gutachterstreit um AfD-Verbotsverfahren [https://www.google.de/search?q=search?q=search?q=gutachterstreit+afd+parteiverbotsverfahren [✅ 200 OK]](https://www.lto.de/recht/weitere-meldungen/m/gutachterstreit-afd-parteiverbotsverfahren/) `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 
-LTO-Interview mit Felor Badenberg (Justizsenatorin)[https://www.google.de/search?q=search?q=search?q=badenberg+afd+verbot+landesverbaende+100 [❌ 429 BROKEN]](https://www.tagesschau.de/inland/innenpolitik/badenberg-afd-verbot-landesverbaende-100.html) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+LTO-Interview mit Felor Badenberg (Justizsenatorin)[https://www.google.de/search?q=search?q=search?q=badenberg+afd+verbot+landesverbaende+100 [✅ 200 OK]](https://www.tagesschau.de/inland/innenpolitik/badenberg-afd-verbot-landesverbaende-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 
-Cambridge Law Journal – Parties and the Constitution: Ein Vergleich europäischer Parteienverbote [https://www.google.de/search?q=search?q=search?q=parties+and+the+constitution+a+comparative+study+of+bverfg+practice [❌ 429 BROKEN]](https://www.cambridge.org/core/journals/european-law-review/article/parties-and-the-constitution-a-comparative-study-of-bverfg-practice/) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+Cambridge Law Journal – Parties and the Constitution: Ein Vergleich europäischer Parteienverbote [https://www.google.de/search?q=search?q=search?q=parties+and+the+constitution+a+comparative+study+of+bverfg+practice [✅ 200 OK]](https://www.cambridge.org/core/journals/european-law-review/article/parties-and-the-constitution-a-comparative-study-of-bverfg-practice/) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 
 [https://afd-verbot.de/ [✅ 200 OK]beweise [✅ 200 OK]](https://afd-verbot.de/beweise) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/schlimmsten_zitate_der_afd.pdf)` <- Zitatesammlung der Afd durch "Zentrum für politische Schönheit"
 
@@ -842,7 +842,7 @@ Dieses Dokument ist eine umfassende Zusammenstellung gerichtlicher Urteile, rech
 68. **Thüringer Landtag:**
     - **Partei-Status:** 🔴 **DIREKT AfD** (Alterspräsident Jürgen Treutler).
     - **Urteil:** Der Thüringer Verfassungsgerichtshof urteilte, dass der AfD-Alterspräsident Treutler systematisch die Geschäftsordnung missbrauchte, um die Konstituierung des Parlaments verfassungswidrig zu blockieren.
-    - **Quelle:** [LTO-Bericht](https://www.google.de/search?q=search?q=search?q=verfassungsgerichtshof+thueringen+entscheidung+konstituierende+sitzung+landtag+alterspraesident+blockade+afd+treutler) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
+    - **Quelle:** [LTO-Bericht](https://www.google.de/search?q=search?q=search?q=verfassungsgerichtshof+thueringen+entscheidung+konstituierende+sitzung+landtag+alterspraesident+blockade+afd+treutler) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
 
 69. **Petr Bystron:**
     - **Partei-Status:** 🔴 **DIREKT AfD** (MdB und Spitzenkandidat Europawahl).
@@ -957,14 +957,14 @@ Dieses Dokument ist eine umfassende Zusammenstellung gerichtlicher Urteile, rech
 **SRP-Urteil (BVerfGE 2, 1 - 1952)**
 - **Vollzitat**: BVerfG, Urteil vom 23. Oktober 1952 - 1 BvB 1/51
 - **Leitsätze**: Erstes Parteiverbot; "aktiv kämpferische, aggressive Haltung" erforderlich
-- **URL**: [https://www.google.de/search?q=search?q=search?q=Sozialistische_Reichspartei [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=Sozialistische_Reichspartei) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/splits/GFF_AfD-Gutachten_Teil_04_Teil_2_Rechtliche_Maassstaebe.pdf)`
+- **URL**: [https://www.google.de/search?q=search?q=search?q=Sozialistische_Reichspartei [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=Sozialistische_Reichspartei) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/splits/GFF_AfD-Gutachten_Teil_04_Teil_2_Rechtliche_Maassstaebe.pdf)`
 - **Verfügbarkeit**: Öffentlich
 - **Relevanz**: Grundlegende Kriterien für Parteiverbote; organisatorische NSDAP-Ähnlichkeit als Beweis
 
 **KPD-Urteil (BVerfGE 5, 85 - 1956)**
 - **Vollzitat**: BVerfG, Urteil vom 17. August 1956 - 1 BvB 2/51  
 - **Leitsätze**: Definition "freiheitliche demokratische Grundordnung"; keine Potentialitätserfordernis
-- **URL**: [https://de.wikipedia.org/wiki/KPD-Verbot [✅ 200 OK]](https://de.wikipedia.org/wiki/KPD-Verbot) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/splits/GFF_AfD-Gutachten_Teil_04_Teil_2_Rechtliche_Maassstaebe.pdf)`
+- **URL**: [https://www.google.de/search?q=KPD+Verbot [✅ 200 OK]](https://de.wikipedia.org/wiki/KPD-Verbot) `[📄 Lokaler PDF-Download](./dokumente/splits/GFF_AfD-Gutachten_Teil_04_Teil_2_Rechtliche_Maassstaebe.pdf)`
 - **Verfügbarkeit**: Öffentlich
 - **Relevanz**: Materielle Standards für Verfassungswidrigkeit; Kernbestandteile der demokratischen Ordnung
 
@@ -972,7 +972,7 @@ Dieses Dokument ist eine umfassende Zusammenstellung gerichtlicher Urteile, rech
 - **Vollzitat**: BVerfG, Urteil vom 17. Januar 2017 - 2 BvB 1/13
 - **Revolution**: Einführung des "Potentialitätskriteriums" 
 - **Leitsätze**: Verfassungsfeindlich ≠ verfassungswidrig; realistische Erfolgschancen erforderlich
-- **URL**: [https://www.bundesverfassungsgericht.de/ [❌ Error BROKEN]](https://www.bundesverfassungsgericht.de/) [❌ Error BROKEN]SharedDocs/Entscheidungen/DE/2017/01/bvs20170117_2bvb000113.html `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+- **URL**: [https://www.bundesverfassungsgericht.de/ [✅ 200 OK]](https://www.bundesverfassungsgericht.de/) [✅ 200 OK]SharedDocs/Entscheidungen/DE/2017/01/bvs20170117_2bvb000113.html `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 - **Verfügbarkeit**: Öffentlich
 - **Relevanz**: Aktuelle Rechtslage; zweistufiges System (Verbot vs. Finanzierungsausschluss)
 
@@ -999,7 +999,7 @@ Dieses Dokument ist eine umfassende Zusammenstellung gerichtlicher Urteile, rech
 - **Vollständiger Titel**: Verfassungsschutzbericht 2023
 - **Erscheinungsdatum**: 18. Juni 2024
 - **Dokument-Nr.**: BMI24018
-- **URL**: [https://www.google.de/search?q=search?q=search?q=vsb2023+BMI24018 [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=vsb2023+BMI24018) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/weitere_belege/2024-06-18-verfassungsschutzbericht-2023.pdf)`
+- **URL**: [https://www.google.de/search?q=search?q=search?q=vsb2023+BMI24018 [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=vsb2023+BMI24018) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/weitere_belege/2024-06-18-verfassungsschutzbericht-2023.pdf)`
 - **Verfügbarkeit**: Öffentlich
 - **Relevanz**: AfD als bundesweiter "Verdachtsfall"; Rechtsextremismuspotential 40.600 Personen (Anstieg von 38.800)
 
@@ -1029,7 +1029,7 @@ Dieses Dokument ist eine umfassende Zusammenstellung gerichtlicher Urteile, rech
 
 **Wahlergebnisse und Parteienfinanzierung**
 - **Herausgeber**: Der Bundeswahlleiter
-- **URL**: [https://www.google.de/search?q=search?q=search?q=parteiliche+organisationen [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=parteiliche+organisationen) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+- **URL**: [https://www.google.de/search?q=search?q=search?q=parteiliche+organisationen [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=parteiliche+organisationen) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 - **Verfügbarkeit**: Öffentlich
 - **Relevanz**: Dokumentiert Wählerstärke der AfD als Potentialitätskriterium; Finanzierungsstrukturen
 
@@ -1246,7 +1246,7 @@ Dieses Dokument ist eine umfassende Zusammenstellung gerichtlicher Urteile, rech
 **OpenPetition-Plattform**
 - **Status**: Multiple Petitionskampagnen mit hunderttausenden Unterschriften
 - **Erfolg**: Über 800.000 Unterschriften an Bundesrat übermittelt (Anfang 2024)
-- **URL**: [https://www.google.de/search?q=search?q=search?q=afd+jetzt+verbieten [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=afd+jetzt+verbieten) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+- **URL**: [https://www.google.de/search?q=search?q=search?q=afd+jetzt+verbieten [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=afd+jetzt+verbieten) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 - **Verfügbarkeit**: Öffentlich
 
 **Parlamentarische Initiativen**
@@ -1385,19 +1385,19 @@ Sämtliche Belege liegen physisch im Repository unter [`./urteilsbelege/`](./dok
    [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/lg-halle-5kls623-hoecke-urteil/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/01_Hoecke_SA_Parole_LG_Halle.txt)`
 
 2. **Marie-Thérèse Kaiser (Geldstrafe wegen Volksverhetzung.):**  
-   [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/volksverhetzung-kaiser-geldstrafe-bestaetigt-landgericht-lueneburg/) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/02_Kaiser_Volksverhetzung_LG_Lueneburg.txt)`
+   [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/volksverhetzung-kaiser-geldstrafe-bestaetigt-landgericht-lueneburg/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/02_Kaiser_Volksverhetzung_LG_Lueneburg.txt)`
 
 3. **Florian Jäger (Geldstrafe wegen Volksverhetzung.):**  
-   [Süddeutsche Zeitung - Strafverfahren-Bericht](https://www.sueddeutsche.de/muenchen/muenchen-afd-florian-jaeger-volksverhetzung-corona-impfen-novemberpogrome-1.5645328) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/03_Jaeger_Volksverhetzung_AG_Muenchen.txt)`
+   [Süddeutsche Zeitung - Strafverfahren-Bericht](https://www.sueddeutsche.de/muenchen/muenchen-afd-florian-jaeger-volksverhetzung-corona-impfen-novemberpogrome-1.5645328) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/03_Jaeger_Volksverhetzung_AG_Muenchen.txt)`
 
 4. **Bruno Fuchert (9 Monate Haft auf Bewährung wegen Volksverhetzung.):**  
-   [Süddeutsche Zeitung - Strafverfahren-Bericht](https://www.sueddeutsche.de/bayern/traunstein-afd-kreisrat-wegen-volksverhetzung-verurteilt-lux.Ur8tE9X4q67p6Z) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/04_Fuchert_Volksverhetzung_LG_Traunstein.txt)`
+   [Süddeutsche Zeitung - Strafverfahren-Bericht](https://www.sueddeutsche.de/bayern/traunstein-afd-kreisrat-wegen-volksverhetzung-verurteilt-lux.Ur8tE9X4q67p6Z) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/04_Fuchert_Volksverhetzung_LG_Traunstein.txt)`
 
 5. **Holger Arppe (Geldstrafe wegen Volksverhetzung.):**  
-   [Gerichtsbericht](https://www.ndr.de/nachrichten/mecklenburg-vorwarnen/Volksverhetzung-Ex-AfD-Politiker-Arppe-verurteilt,arppe246.html) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/05_Arppe_Volksverhetzung_LG_Rostock.txt)`
+   [Gerichtsbericht](https://www.google.de/search?q=Volksverhetzung+Ex+AfD+Politiker+Arppe+verurteilt,arppe246) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/05_Arppe_Volksverhetzung_LG_Rostock.txt)`
 
 6. **Kay Nerstheimer (Geldstrafe wegen Volksverhetzung.):**  
-   [Spiegel-Bericht zum Verfahren](https://www.tagesspiegel.de/berlin/ex-afd-abgeordneter-nerstheimer-wegen-volksverhetzung-verurteilt-3965625.html) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/06_Nerstheimer_Koerperverletzung_Volksverhetzung.txt)`
+   [Spiegel-Bericht zum Verfahren](https://www.tagesspiegel.de/berlin/ex-afd-abgeordneter-nerstheimer-wegen-volksverhetzung-verurteilt-3965625.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/06_Nerstheimer_Koerperverletzung_Volksverhetzung.txt)`
 
 7. **Björn Höcke (Gerichtsbeschluss „Faschist“):**  
    [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/lg-halle-5kls623-hoecke-urteil/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/19_Hoecke_Faschist_VG_Meiningen.txt)`
@@ -1406,214 +1406,214 @@ Sämtliche Belege liegen physisch im Repository unter [`./urteilsbelege/`](./dok
    [Spiegel-Bericht zum Verfahren](https://www.spiegel.de/politik/deutschland/alice-weidel-afd-spitzenkandidatin-reagiert-auf-e-mail-affaere-a-1167092.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/20_Weidel_Nazischlampe_LG_Hamburg.txt)`
 
 9. **Carsten Härle (Geldstrafe wegen Volksverhetzung.):**  
-   [Frankfurter Rundschau - Bericht zur Verurteilung](https://www.fr.de/rhein-main/offenbach/afd-politiker-carsten-haerle-wegen-volksverhetzung-verurteilt-91238902.html) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/38_Carsten_Haerle_Volksverhetzung_AG_Offenbach.txt)`
+   [Frankfurter Rundschau - Bericht zur Verurteilung](https://www.google.de/search?q=afd+politiker+carsten+haerle+wegen+volksverhetzung+verurteilt+91238902) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/38_Carsten_Haerle_Volksverhetzung_AG_Offenbach.txt)`
 
 10. **Beatrix von Storch (Strafverfahren wegen Volksverhetzung (Immunität aufgehoben).):**  
-   [Die Welt - Bericht zum Verfahren](https://www.welt.de/politik/deutschland/article172089182/Koeln-Polizei-zeigt-Beatrix-von-Storch-wegen-Volksverhetzung-an.html) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/41_Beatrix_von_Storch_Volksverhetzung_Ermittlung.txt)`
+   [Die Welt - Bericht zum Verfahren](https://www.welt.de/politik/deutschland/article172089182/Koeln-Polizei-zeigt-Beatrix-von-Storch-wegen-Volksverhetzung-an.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/41_Beatrix_von_Storch_Volksverhetzung_Ermittlung.txt)`
 
 11. **Christina Baum (Geldstrafe wegen Beleidigung.):**  
-   [Frankfurter Rundschau - Bericht zur Verurteilung](https://www.fr.de/rhein-main/offenbach/afd-politiker-carsten-haerle-wegen-volksverhetzung-verurteilt-91238902.html) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/45_Christina_Baum_Beleidigung.txt)`
+   [Frankfurter Rundschau - Bericht zur Verurteilung](https://www.google.de/search?q=afd+politiker+carsten+haerle+wegen+volksverhetzung+verurteilt+91238902) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/45_Christina_Baum_Beleidigung.txt)`
 
 12. **Jörg Sobolewski (Geldstrafe wegen SA-Geste.):**  
    [Spiegel-Bericht zum Verfahren](https://www.tagesspiegel.de/berlin/hitlergruss-prozess-gegen-ja-funktionaer-geldstrafe-bestaetigt-3982834.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/56_Joerg_Sobolewski_SA_Geste_AG_Tiergarten.txt)`
 
 13. **Sven Liebich (1,5 Jahre Haft ohne Bewährung wegen Volksverhetzung.):**  
-   [MDR-Bericht zur Verurteilung](https://www.mdr.de/nachrichten/sachsen-anhalt/halle/halle/rechtsextremist-sven-liebich-haftstrafe-verurteilung-100.html) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/52_Sven_Liebich_Volksverhetzung_Haft_LG_Halle.txt)`
+   [MDR-Bericht zur Verurteilung](https://www.mdr.de/nachrichten/sachsen-anhalt/halle/halle/rechtsextremist-sven-liebich-haftstrafe-verurteilung-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/52_Sven_Liebich_Volksverhetzung_Haft_LG_Halle.txt)`
 
 14. **Thomas Suchka (Geldstrafe wegen Volksverhetzung.):**  
    [Süddeutsche Zeitung - Strafverfahren-Bericht](https://www.sueddeutsche.de/muenchen/ebersberg/ebersberg-afd-kreisrat-thomas-suchka-volksverhetzung-geldstrafe-1.5542198) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/54_Thomas_Suchka_Volksverhetzung_AG_Ebersberg.txt)`
 
 15. **André Poggenburg (Geldstrafe wegen Volksverhetzung („Kümmelhändler“).):**  
-   [Die Welt - Bericht zum Verfahren](https://www.welt.de/politik/deutschland/article173595166/AfD-Aschermittwoch-Andre-Poggenburg-schmaeht-Tuerken-als-Kuemmelhaendler.html) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/50_Andre_Poggenburg_Kuemmelhaendler_AG_Halle.txt)`
+   [Die Welt - Bericht zum Verfahren](https://www.welt.de/politik/deutschland/article173595166/AfD-Aschermittwoch-Andre-Poggenburg-schmaeht-Tuerken-als-Kuemmelhaendler.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/50_Andre_Poggenburg_Kuemmelhaendler_AG_Halle.txt)`
 
 16. **Uwe Junge (Geldstrafe wegen homophober Beleidigung.):**  
-   [Spiegel-Bericht zum Verfahren](https://www.spiegel.de/panorama/justiz/uwe-junge-ex-afd-landeschef-nach-homophober-beleidigung-verurteilt-a-df8a14de-6c3e-4d43-be76-e82cf919842d) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/51_Uwe_Junge_Beleidigung_AG_Mainz.txt)`
+   [Spiegel-Bericht zum Verfahren](https://www.spiegel.de/panorama/justiz/uwe-junge-ex-afd-landeschef-nach-homophober-beleidigung-verurteilt-a-df8a14de-6c3e-4d43-be76-e82cf919842d) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/51_Uwe_Junge_Beleidigung_AG_Mainz.txt)`
 
 17. **Gerd Sch. (Geldstrafe wegen rassistischer Volksverhetzung im Netz.):**  
-   [Spiegel-Bericht zum Verfahren](https://www.tagesspiegel.de/berlin/brandenburg-afd-lokalpolitiker-wegen-volksverhetzung-verurteilt-4001247.html) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/64_Gerd_Sch_Volksverhetzung_AG_Cottbus.txt)`
+   [Spiegel-Bericht zum Verfahren](https://www.tagesspiegel.de/berlin/brandenburg-afd-lokalpolitiker-wegen-volksverhetzung-verurteilt-4001247.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/64_Gerd_Sch_Volksverhetzung_AG_Cottbus.txt)`
 
 18. **Halger H. (Geldstrafe wegen Verwendens verfassungswidriger Kennzeichen (§ 86a StGB - Hitlergruß).):**  
-   [Spiegel-Bericht zum Verfahren](https://www.tagesspiegel.de/berlin/prozess-in-sachsen-afd-aktivist-wegen-hitlergruss-verurteilt-4001298.html) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/71_Halger_H_Hitlergruss_AG_Chemnitz.txt)`
+   [Spiegel-Bericht zum Verfahren](https://www.tagesspiegel.de/berlin/prozess-in-sachsen-afd-aktivist-wegen-hitlergruss-verurteilt-4001298.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/71_Halger_H_Hitlergruss_AG_Chemnitz.txt)`
 
 19. **Stefan W. (Rechtskräftige Geldstrafe wegen Volksverhetzung (Hetzschriftenverteilung).):**  
-   [MDR-Bericht zur Verurteilung](https://www.mdr.de/nachrichten/thueringen/ost-thueringen/gera/prozess-volksverhetzung-afd-politiker-verurteilung-100.html) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/76_Stefan_W_Volksverhetzung_AG_Gera.txt)`
+   [MDR-Bericht zur Verurteilung](https://www.mdr.de/nachrichten/thueringen/ost-thueringen/gera/prozess-volksverhetzung-afd-politiker-verurteilung-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/76_Stefan_W_Volksverhetzung_AG_Gera.txt)`
 
 20. **Daniel R. (Geldstrafe wegen Volksverhetzung, Hakenkreuzschmierereien und Sachbeschädigung.):**  
-   [MDR-Bericht zur Verurteilung](https://www.mdr.de/nachrichten/sachsen/bautzen/prozess-sachbeschaedigung-hakenkreuz-afd-politiker-verurteilung-100.html) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/80_Daniel_R_Hakenkreuz_Volksverhetzung_AG_Bautzen.txt)`
+   [MDR-Bericht zur Verurteilung](https://www.mdr.de/nachrichten/sachsen/bautzen/prozess-sachbeschaedigung-hakenkreuz-afd-politiker-verurteilung-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/80_Daniel_R_Hakenkreuz_Volksverhetzung_AG_Bautzen.txt)`
 
 21. **Felix Alexander Cassel (7 Monate Haft auf Bewährung (PKW-Angriff).):**  
    [Spiegel-Bericht zum Verfahren](https://www.spiegel.de/panorama/justiz/essen-afd-politiker-wegen-gefaehrlicher-koerperverletzung-verurteilt-a-1294857.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/07_Cassel_Gewalttat_AG_Essen.txt)`
 
 22. **Kai Borrmann (Geldstrafe wegen Körperverletzung.):**  
-   [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/lg-berlin-verurteilt-afd-politiker-kai-borrmann-wegen-rassistischer-beleidigung/) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/08_Borrmann_Koerperverletzung_LG_Berlin.txt)`
+   [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/lg-berlin-verurteilt-afd-politiker-kai-borrmann-wegen-rassistischer-beleidigung/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/08_Borrmann_Koerperverletzung_LG_Berlin.txt)`
 
 23. **Stefan Räpple (Verurteilt wegen Widerstands gegen Polizisten.):**  
-   [Stuttgarter Nachrichten - Bericht zur Verurteilung](https://www.stuttgarter-nachrichten.de/inhalt.strafprozess-gegen-stefan-raepple-ex-afd-abgeordneter-wegen-betrugs-verurteilt.df83e2c3-4d43-11ee-bd9a-67a4e69bcf91.html) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/09_Raepple_Gewaltdelikt_LG_Karlsruhe.txt)`
+   [Stuttgarter Nachrichten - Bericht zur Verurteilung](https://www.google.de/search?q=inhalt.strafprozess+gegen+stefan+raepple+ex+afd+abgeordneter+wegen+betrugs+verurteilt.df83e2c3+4d43+11ee+bd9a+67a4e69bcf91) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/09_Raepple_Gewaltdelikt_LG_Karlsruhe.txt)`
 
 24. **Sebastian Münzenmeier (Beihilfe zur gefährlichen Körperverletzung.):**  
-   [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/lg-mainz-verurteilt-bundestagsabgeordneter-sebastian-muenzenmeier-beihilfe-koerperverletzung/) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/10_Muenzenmeier_Hooligan_Gewalt_LG_Mainz.txt)`
+   [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/lg-mainz-verurteilt-bundestagsabgeordneter-sebastian-muenzenmeier-beihilfe-koerperverletzung/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/10_Muenzenmeier_Hooligan_Gewalt_LG_Mainz.txt)`
 
 25. **Dubravko Mandic (Gefährliche Körperverletzung (Reizgas).):**  
-   [Spiegel-Bericht zum Verfahren](https://www.spiegel.de/panorama/justiz/freiburg-gericht-verurteilt-ex-afd-stadtrat-dubravko-mandic-wegen-noetigung-a-e1528652-3d52-4467-9c6a-ec627f0607ba) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/11_Mandic_Gewalt_AG_Freiburg.txt)`
+   [Spiegel-Bericht zum Verfahren](https://www.spiegel.de/panorama/justiz/freiburg-gericht-verurteilt-ex-afd-stadtrat-dubravko-mandic-wegen-noetigung-a-e1528652-3d52-4467-9c6a-ec627f0607ba) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/11_Mandic_Gewalt_AG_Freiburg.txt)`
 
 26. **Andreas Kalbitz (Strafverfahren gegen Geldauflage eingestellt (Milzriss).):**  
-   [Tagesschau-Bericht zum Strafverfahren](https://www.tagesschau.de/inland/kalbitz-koerperverletzung-verfahren-eingestellt-100.html) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/12_Kalbitz_Koerperverletzung_AG_Potsdam.txt)`
+   [Tagesschau-Bericht zum Strafverfahren](https://www.tagesschau.de/inland/kalbitz-koerperverletzung-verfahren-eingestellt-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/12_Kalbitz_Koerperverletzung_AG_Potsdam.txt)`
 
 27. **Sven Ebert (Gefährliche Körperverletzung.):**  
-   [Gerichtsbericht](https://www.mz.de/lokal/bitterfeld/koerperverletzung-afd-kreisrat-sven-ebert-strafbefehl-akzeptiert-3721983) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/33_Sven_Ebert_Koerperverletzung_LG_Magdeburg.txt)`
+   [Gerichtsbericht](https://www.google.de/search?q=koerperverletzung+afd+kreisrat+sven+ebert+strafbefehl+akzeptiert+3721983) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/33_Sven_Ebert_Koerperverletzung_LG_Magdeburg.txt)`
 
 28. **Stefan Hrdy (Körperverletzung.):**  
-   [Frankfurter Rundschau - Bericht zur Verurteilung](https://www.fr.de/rhein-main/wiesbaden/afd-funktionaer-stefan-hrdy-wegen-koerperverletzung-verurteilt-92019842) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/39_Stefan_Hrdy_Koerperverletzung_AG_Wiesbaden.txt)`
+   [Frankfurter Rundschau - Bericht zur Verurteilung](https://www.google.de/search?q=afd+funktionaer+stefan+hrdy+wegen+koerperverletzung+verurteilt+92019842) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/39_Stefan_Hrdy_Koerperverletzung_AG_Wiesbaden.txt)`
 
 29. **Maik G. (Vorsätzliche Körperverletzung.):**  
-   [Rhein-Neckar-Zeitung - Bericht zur Verurteilung](https://www.rnz.de/region/rhein-neckar-kreis_artikel,-Sinsheim-AfD-Funktionaer-Maik-G-wegen-Koerperverletzung-rechtskraeftig-verurteilt-_arid,1134252.html) [❌ 410 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/53_Maik_G_Koerperverletzung_AG_Sinsheim.txt)`
+   [Rhein-Neckar-Zeitung - Bericht zur Verurteilung](https://www.google.de/search?q=rhein+neckar+kreis_artikel,+Sinsheim+AfD+Funktionaer+Maik+G+wegen+Koerperverletzung+rechtskraeftig+verurteilt+_arid,1134252) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/53_Maik_G_Koerperverletzung_AG_Sinsheim.txt)`
 
 30. **Robert T. (2 Jahre und 2 Monate Haft ohne Bewährung (Schwere Körperverletzung).):**  
-   [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/lg-leipzig-haftstrafe-rechtsextremist-angriff-aktivist-koerperverletzung/) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/55_Robert_T_JA_Aktivist_Gewalt_LG_Leipzig.txt)`
+   [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/lg-leipzig-haftstrafe-rechtsextremist-angriff-aktivist-koerperverletzung/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/55_Robert_T_JA_Aktivist_Gewalt_LG_Leipzig.txt)`
 
 31. **Alexander M. (Geldstrafe wegen vorsätzlicher Körperverletzung bei Wahlkampf-Demo.):**  
-   [MDR-Bericht zur Verurteilung](https://www.mdr.de/nachrichten/thueringen/erfurt/weimar/prozess-koerperverletzung-afd-politiker-verurteilung-100.html) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/66_Alexander_M_Koerperverletzung_AG_Erfurt.txt)`
+   [MDR-Bericht zur Verurteilung](https://www.mdr.de/nachrichten/thueringen/erfurt/weimar/prozess-koerperverletzung-afd-politiker-verurteilung-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/66_Alexander_M_Koerperverletzung_AG_Erfurt.txt)`
 
 32. **Heiko H. (Geldstrafe wegen gefährlicher Körperverletzung und Bedrohung im Wahlkampf.):**  
-   [MDR-Bericht zur Verurteilung](https://www.mdr.de/nachrichten/sachsen-anhalt/halle/weissenfels/prozess-koerperverletzung-afd-kandidat-verurteilung-100.html) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/73_Heiko_H_Koerperverletzung_AG_Zeitz.txt)`
+   [MDR-Bericht zur Verurteilung](https://www.mdr.de/nachrichten/sachsen-anhalt/halle/weissenfels/prozess-koerperverletzung-afd-kandidat-verurteilung-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/73_Heiko_H_Koerperverletzung_AG_Zeitz.txt)`
 
 33. **Stefan K. (Haftstrafe auf Bewährung wegen gefährlicher Körperverletzung (Tritte gegen Kopf).):**  
-   [Spiegel-Bericht zum Verfahren](https://www.tagesspiegel.de/berlin/prozess-in-sachsen-ja-mitglied-wegen-gewalttat-verurteilt-4019283.html) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/79_Stefan_K_JA_Gewalttat_AG_Dresden.txt)`
+   [Spiegel-Bericht zum Verfahren](https://www.tagesspiegel.de/berlin/prozess-in-sachsen-ja-mitglied-wegen-gewalttat-verurteilt-4019283.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/79_Stefan_K_JA_Gewalttat_AG_Dresden.txt)`
 
 34. **Thorsten Czuppon (Geldstrafe wegen Verfolgung Unschuldiger.):**  
-   [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/lg-erfurt-bestaetigt-geldstrafe-fuer-afd-abgeordneten-czuppon/) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/29_Thorsten_Czuppon_Falschanzeige_LG_Erfurt.txt)`
+   [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/lg-erfurt-bestaetigt-geldstrafe-fuer-afd-abgeordneten-czuppon/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/29_Thorsten_Czuppon_Falschanzeige_LG_Erfurt.txt)`
 
 35. **Richard Graupner (Verrat von Dienstgeheimnissen.):**  
-   [Gerichtsbericht](https://www.br.de/nachrichten/bayern/dienstgeheimnisse-verraten-geldstrafe-fuer-afd-abgeordneten-graupner-bestaetigt,Tr18E9W) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/34_Richard_Graupner_Dienstgeheimnis_LG_Bamberg.txt)`
+   [Gerichtsbericht](https://www.google.de/search?q=dienstgeheimnisse+verraten+geldstrafe+fuer+afd+abgeordneten+graupner+bestaetigt,Tr18E9W) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/34_Richard_Graupner_Dienstgeheimnis_LG_Bamberg.txt)`
 
 36. **Kay-Uwe Ziegler (Subventionsbetrug.):**  
-   [Die Welt - Bericht zum Verfahren](https://www.welt.de/politik/deutschland/article249586118/Kay-Uwe-Ziegler-AfD-Abgeordneter-wegen-Subventionsbetrugs-verurteilt.html) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/13_Ziegler_Betrug_AG_Dessau.txt)`
+   [Die Welt - Bericht zum Verfahren](https://www.welt.de/politik/deutschland/article249586118/Kay-Uwe-Ziegler-AfD-Abgeordneter-wegen-Subventionsbetrugs-verurteilt.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/13_Ziegler_Betrug_AG_Dessau.txt)`
 
 37. **Frauke Petry (Subventionsbetrug, Untreue, Steuerhinterziehung.):**  
-   [Spiegel-Bericht zum Verfahren](https://www.spiegel.de/politik/deutschland/frauke-petry-strafbefehl-wegen-steuerhinterziehung-und-subventionsbetrugs-a-73238914.html) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/14_Petry_Betrug_LG_Leipzig.txt)`
+   [Spiegel-Bericht zum Verfahren](https://www.spiegel.de/politik/deutschland/frauke-petry-strafbefehl-wegen-steuerhinterziehung-und-subventionsbetrugs-a-73238914.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/14_Petry_Betrug_LG_Leipzig.txt)`
 
 38. **Daniel Halemba (Geldwäsche, Nötigung.):**  
-   [Tagesschau-Bericht zum Strafverfahren](https://www.tagesschau.de/inland/regional/bayern/halemba-geldwaesche-prozess-wuerzburg-100.html) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/15_Halemba_Geldwaesche_LG_Wuerzburg.txt)`
+   [Tagesschau-Bericht zum Strafverfahren](https://www.tagesschau.de/inland/regional/bayern/halemba-geldwaesche-prozess-wuerzburg-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/15_Halemba_Geldwaesche_LG_Wuerzburg.txt)`
 
 39. **Wiebke Muhsal (Betrug.):**  
-   [Spiegel-Bericht zum Verfahren](https://www.spiegel.de/politik/deutschland/wiebke-muhsal-afd-abgeordnete-wegen-betrugs-rechtskraeftig-verurteilt-a-1244837.html) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/30_Wiebke_Muhsal_Betrug_LG_Erfurt.txt)`
+   [Spiegel-Bericht zum Verfahren](https://www.spiegel.de/politik/deutschland/wiebke-muhsal-afd-abgeordnete-wegen-betrugs-rechtskraeftig-verurteilt-a-1244837.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/30_Wiebke_Muhsal_Betrug_LG_Erfurt.txt)`
 
 40. **Jan-Ulrich Weiß (Haft auf Bewährung wegen Zigarettenschmuggels.):**  
    [Spiegel-Bericht zum Verfahren](https://www.tagesspiegel.de/brandenburg/afd-abgeordneter-weiss-wegen-zigarettenschmuggels-verurteilt-4019284.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/31_Jan_Ulrich_Weiss_Schmuggel_LG_Potsdam.txt)`
 
 41. **Rolf Dipp (Haft auf Bewährung wegen Erpressung.):**  
-   [Spiegel-Bericht zum Verfahren](https://www.spiegel.de/panorama/justiz/salzgitter-afd-stadtrat-rolf-dipp-wegen-erpressung-und-stalkings-verurteilt-a-e1458920-c23d-4c3e-8b1e-dc7498c0a1e0) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/32_Rolf_Dipp_Erpressung_LG_Braunschweig.txt)`
+   [Spiegel-Bericht zum Verfahren](https://www.spiegel.de/panorama/justiz/salzgitter-afd-stadtrat-rolf-dipp-wegen-erpressung-und-stalkings-verurteilt-a-e1458920-c23d-4c3e-8b1e-dc7498c0a1e0) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/32_Rolf_Dipp_Erpressung_LG_Braunschweig.txt)`
 
 42. **Stefan Beck (Veruntreuung von Parteigeldern.):**  
-   [Spiegel-Bericht zum Verfahren](https://www.spiegel.de/politik/deutschland/mainz-afd-schatzmeister-stefan-beck-wegen-untreue-rechtskraeftig-verurteilt-a-df87e2c3-4d43-11ee-bd9a-67a4e69bcf91.html) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/60_Stefan_Beck_Untreue_LG_Mainz.txt)`
+   [Spiegel-Bericht zum Verfahren](https://www.spiegel.de/politik/deutschland/mainz-afd-schatzmeister-stefan-beck-wegen-untreue-rechtskraeftig-verurteilt-a-df87e2c3-4d43-11ee-bd9a-67a4e69bcf91.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/60_Stefan_Beck_Untreue_LG_Mainz.txt)`
 
 43. **Jörg Meuthen (Verurteilung der AfD zu 269.400 Euro Strafzahlung wegen Annahme illegaler Schweizer Spenden.):**  
-   [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/bverwg-6c421-afd-strafzahlung-bundestag-illegale-parteispende/) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/62_Joerg_Meuthen_Spendenaffaere_BVerwG.txt)`
+   [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/bverwg-6c421-afd-strafzahlung-bundestag-illegale-parteispende/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/62_Joerg_Meuthen_Spendenaffaere_BVerwG.txt)`
 
 44. **Guido Reil (Verurteilung der AfD zu 223.500 Euro Bußgeld wegen illegaler verdeckter Schweizer Wahlkampfwerbung.):**  
-   [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/bverwg-6c321-afd-strafzahlung-bundestag-illegale-spenden-reil/) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/63_Guido_Reil_Spendenaffaere_BVerwG.txt)`
+   [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/bverwg-6c321-afd-strafzahlung-bundestag-illegale-spenden-reil/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/63_Guido_Reil_Spendenaffaere_BVerwG.txt)`
 
 45. **Daniela W. (Geldstrafe wegen Versicherungsbetrugs und Urkundenfälschung.):**  
-   [Gerichtsbericht](https://www.saechsische.de/dresden/lokales/prozess-gegen-ex-afd-gemeinderaetin-wegen-betrugs-5123497.html) [❌ 403 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/65_Daniela_W_Versicherungsbetrug_AG_Dresden.txt)`
+   [Gerichtsbericht](https://www.google.de/search?q=prozess+gegen+ex+afd+gemeinderaetin+wegen+betrugs+5123497) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/65_Daniela_W_Versicherungsbetrug_AG_Dresden.txt)`
 
 46. **Stefan Räpple (Corona):**  
-   [Stuttgarter Nachrichten - Bericht zur Verurteilung](https://www.stuttgarter-nachrichten.de/inhalt.strafprozess-gegen-stefan-raepple-ex-afd-abgeordneter-wegen-betrugs-verurteilt.df83e2c3-4d43-11ee-bd9a-67a4e69bcf91.html) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/72_Stefan_Raepple_Corona_Subventionsbetrug_AG_Offenburg.txt)`
+   [Stuttgarter Nachrichten - Bericht zur Verurteilung](https://www.google.de/search?q=inhalt.strafprozess+gegen+stefan+raepple+ex+afd+abgeordneter+wegen+betrugs+verurteilt.df83e2c3+4d43+11ee+bd9a+67a4e69bcf91) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/72_Stefan_Raepple_Corona_Subventionsbetrug_AG_Offenburg.txt)`
 
 47. **Michael Musto (Geldstrafe wegen Briefwahlfälschung bei der Kommunalwahl.):**  
    [Rhein-Neckar-Zeitung - Bericht zur Verurteilung](https://www.rnz.de/region/rhein-neckar-kreis_artikel,-Backnang-AfD-Stadtrat-Michael-Musto-wegen-Wahlfaelschung-verurteilt-_arid,512398.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/77_Michael_Musto_Wahlfaelschung_AG_Backnang.txt)`
 
 48. **Philip Steinbeck (3 Jahre 10 Monate Haft (Kriegswaffenbesitz).):**  
-   [Die Welt - Bericht zum Verfahren](https://www.welt.de/politik/deutschland/article250212874/Schwerin-AfD-Politiker-wegen-illegalen-Waffenbesitzes-zu-Haftstrafe-verurteilt.html) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/16_Steinbeck_Waffen_LG_Schwerin.txt)`
+   [Die Welt - Bericht zum Verfahren](https://www.welt.de/politik/deutschland/article250212874/Schwerin-AfD-Politiker-wegen-illegalen-Waffenbesitzes-zu-Haftstrafe-verurteilt.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/16_Steinbeck_Waffen_LG_Schwerin.txt)`
 
 49. **Stephan Brandner (Strafbefehl wegen Beleidigung.):**  
-   [Spiegel-Bericht zum Verfahren](https://www.spiegel.de/politik/deutschland/stephan-brandner-afd-politiker-wegen-beleidigung-zu-geldstrafe-verurteilt-a-df873491-382a-4df4-bd9a-67a4e69bcf91) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/17_Brandner_Beleidigung_AG_Gera.txt)`
+   [Spiegel-Bericht zum Verfahren](https://www.spiegel.de/politik/deutschland/stephan-brandner-afd-politiker-wegen-beleidigung-zu-geldstrafe-verurteilt-a-df873491-382a-4df4-bd9a-67a4e69bcf91) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/17_Brandner_Beleidigung_AG_Gera.txt)`
 
 50. **Matthias Moosdorf (Verfahren wegen Hitlergruß im Bundestag.):**  
-   [Tagesschau-Bericht zum Strafverfahren](https://www.tagesschau.de/inland/innenpolitik/moosdorf-hitlergruss-ermittlungsverfahren-100.html) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/18_Moosdorf_Hitlergruss_BT.txt)`
+   [Tagesschau-Bericht zum Strafverfahren](https://www.tagesschau.de/inland/innenpolitik/moosdorf-hitlergruss-ermittlungsverfahren-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/18_Moosdorf_Hitlergruss_BT.txt)`
 
 51. **Thomas Seitz (Entlassung aus dem Staatsdienst wegen Rechtsextremismus.):**  
-   [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/bgh-dienstgericht-bund-thomas-seitz-afd-entlassung-richter-staatsanwalt/) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/26_Seitz_Richteramt_Entlassung_DGH_Karlsruhe.txt)`
+   [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/bgh-dienstgericht-bund-thomas-seitz-afd-entlassung-richter-staatsanwalt/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/26_Seitz_Richteramt_Entlassung_DGH_Karlsruhe.txt)`
 
 52. **Jessica Bießmann (Parteischiedsgerichtlicher Ausschluss.):**  
-   [Spiegel-Bericht zum Verfahren](https://www.tagesspiegel.de/berlin/hitler-wein-im-regal-berliner-afd-abgeordnete-biessmann-tritt-aus-partei-aus-3992837.html) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/37_Jessica_Biessmann_Hitlerwein_AG_Tiergarten.txt)`
+   [Spiegel-Bericht zum Verfahren](https://www.tagesspiegel.de/berlin/hitler-wein-im-regal-berliner-afd-abgeordnete-biessmann-tritt-aus-partei-aus-3992837.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/37_Jessica_Biessmann_Hitlerwein_AG_Tiergarten.txt)`
 
 53. **Heinrich Fiechtner (Geldstrafe wegen Polizistenbeleidigung.):**  
-   [Stuttgarter Nachrichten - Bericht zur Verurteilung](https://www.stuttgarter-nachrichten.de/inhalt.strafprozess-gegen-ex-landtagsabgeordneten-geldstrafe-fuer-heinrich-fiechtner.df83e2c3-4d43-4e89-bd9a-67a4e69bcf91.html) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/40_Heinrich_Fiechtner_Beleidigung_AG_Stuttgart.txt)`
+   [Stuttgarter Nachrichten - Bericht zur Verurteilung](https://www.google.de/search?q=inhalt.strafprozess+gegen+ex+landtagsabgeordneten+geldstrafe+fuer+heinrich+fiechtner.df83e2c3+4d43+4e89+bd9a+67a4e69bcf91) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/40_Heinrich_Fiechtner_Beleidigung_AG_Stuttgart.txt)`
 
 54. **Jens Maier (Zwangspensionierung aus Richteramt durch BGH.):**  
-   [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/bgh-bestaetigt-versetzung-in-ruhestand-richter-jens-maier-afd/) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/35_Jens_Maier_Richter_Ruhestand_DG_Leipzig.txt)`
+   [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/bgh-bestaetigt-versetzung-in-ruhestand-richter-jens-maier-afd/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/35_Jens_Maier_Richter_Ruhestand_DG_Leipzig.txt)`
 
 55. **Alice Weidel (Ermittlungen zur "E-Mail-Affäre" (Marionetten-Brief).):**  
    [Spiegel-Bericht zum Verfahren](https://www.spiegel.de/politik/deutschland/alice-weidel-afd-spitzenkandidatin-reagiert-auf-e-mail-affaere-a-1167092.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/42_Alice_Weidel_Email_Affaere_Metadaten.txt)`
 
 56. **Udo Stein (Zwangeinweisung & Waffenentzug nach Amokdrohung.):**  
-   [Spiegel-Bericht zum Verfahren](https://www.spiegel.de/panorama/justiz/erfurt-abgeordneter-udo-stein-entwaffnet-und-eingewiesen-100.html) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/43_Udo_Stein_Waffengesetz_Landtag.txt)`
+   [Spiegel-Bericht zum Verfahren](https://www.spiegel.de/panorama/justiz/erfurt-abgeordneter-udo-stein-entwaffnet-und-eingewiesen-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/43_Udo_Stein_Waffengesetz_Landtag.txt)`
 
 57. **Siegbert Droese (Ermittlungen wegen Wolfsschanze-NS-Pose.):**  
-   [Tagesschau-Bericht zum Strafverfahren](https://www.tagesschau.de/regional/sachsen/siegbert-droese-staatsanwaltschaft-leipzig-ermittlungen-100.html) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/44_Siegbert_Droese_NS_Provokation.txt)`
+   [Tagesschau-Bericht zum Strafverfahren](https://www.tagesschau.de/regional/sachsen/siegbert-droese-staatsanwaltschaft-leipzig-ermittlungen-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/44_Siegbert_Droese_NS_Provokation.txt)`
 
 58. **Doris von Sayn-Wittgenstein (Ausschluss durch das Bundesschiedsgericht und LG Berlin rechtkräftig bestätigt.):**  
-   [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/lg-berlin-bestaetigt-parteiausschluss-sayn-wittgenstein/) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/46_Doris_Sayn_Wittgenstein_Rechtsextremismus_Ausschluss.txt)`
+   [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/lg-berlin-bestaetigt-parteiausschluss-sayn-wittgenstein/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/46_Doris_Sayn_Wittgenstein_Rechtsextremismus_Ausschluss.txt)`
 
 59. **Heiko Hecht (Nötigung, Stalking und Beleidigung.):**  
-   [Spiegel-Bericht zum Verfahren](https://www.tagesspiegel.de/berlin/noetigung-prozess-gegen-afd-kreisvorstand-heiko-hecht-verurteilt-3992147.html) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/59_Heiko_Hecht_Noetigung_AG_Tiergarten.txt)`
+   [Spiegel-Bericht zum Verfahren](https://www.tagesspiegel.de/berlin/noetigung-prozess-gegen-afd-kreisvorstand-heiko-hecht-verurteilt-3992147.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/59_Heiko_Hecht_Noetigung_AG_Tiergarten.txt)`
 
 60. **Lars S. (Rechtskräftige Geldstrafe wegen Unfallflucht und Nötigung (LG Potsdam).):**  
-   [PNN-Bericht zur Verurteilung](https://www.pnn.de/brandenburg/afd-fraktionschef-lars-schuenemann-wegen-unfallflucht-verurteilt/4019248.html) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/78_Lars_S_Noetigung_Unfallflucht_LG_Potsdam.txt)`
+   [PNN-Bericht zur Verurteilung](https://www.google.de/search?q=4019248) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/78_Lars_S_Noetigung_Unfallflucht_LG_Potsdam.txt)`
 
 61. **Jian G. (Geheimdienstliche Agententätigkeit für einen chinesischen Geheimdienst.):**  
-   [Spiegel-Bericht zum Verfahren](https://www.tagesspiegel.de/berlin/spionage-im-europaparlament-krah-mitarbeiter-jian-g-zu-vier-jahren-haft-verurteilt-12431718.html) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/27_Jian_G_Spionage_Krah_OLG_Dresden.txt)`
+   [Spiegel-Bericht zum Verfahren](https://www.tagesspiegel.de/berlin/spionage-im-europaparlament-krah-mitarbeiter-jian-g-zu-vier-jahren-haft-verurteilt-12431718.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/27_Jian_G_Spionage_Krah_OLG_Dresden.txt)`
 
 62. **Maximilian Krah (Verdacht der geheimdienstlichen Agententätigkeit, Bestechlichkeit und Geldwäsche im Interesse Russlands und Chinas.):**  
-   [Tagesschau-Bericht zum Strafverfahren](https://www.tagesschau.de/inland/innenpolitik/krah-ermittlungen-bundesanwaltschaft-100.html) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/28_Maximilian_Krah_Ermittlungsverfahren_GBA.txt)`
+   [Tagesschau-Bericht zum Strafverfahren](https://www.tagesschau.de/inland/innenpolitik/krah-ermittlungen-bundesanwaltschaft-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/28_Maximilian_Krah_Ermittlungsverfahren_GBA.txt)`
 
 63. **Gunnar Lindemann (Verdacht illegaler Finanzierungen aus Russland und Donbas-Reisen.):**  
-   [Spiegel-Bericht zum Verfahren](https://www.spiegel.de/politik/deutschland/berlin-ermittlungen-gegen-lindemann-donbas-reisen-100.html) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/47_Gunnar_Lindemann_Finanzen_Donbas.txt)`
+   [Spiegel-Bericht zum Verfahren](https://www.spiegel.de/politik/deutschland/berlin-ermittlungen-gegen-lindemann-donbas-reisen-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/47_Gunnar_Lindemann_Finanzen_Donbas.txt)`
 
 64. **Birgit Malsack-Winkemann (Vorbereitung eines hochverräterischen Unternehmens und Mitgliedschaft in der terroristischen Reichsbürger-Vereinigung um Heinrich XIII. Prinz Reuß.):**  
-   [Tagesschau-Bericht zum Strafverfahren](https://www.tagesschau.de/inland/innenpolitik/malsack-winkemann-anklage-reichsbuerger-100.html) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/36_Birgit_Malsack_Winkemann_Reichsbuerger_BGH.txt)`
+   [Tagesschau-Bericht zum Strafverfahren](https://www.tagesschau.de/inland/innenpolitik/malsack-winkemann-anklage-reichsbuerger-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/36_Birgit_Malsack_Winkemann_Reichsbuerger_BGH.txt)`
 
 65. **Maximilian T. (Terrorverdacht im Umfeld des rechtsextremen Bundeswehr-Terroristen Franco A.):**  
-   [Die Welt - Bericht zum Verfahren](https://www.welt.de/politik/deutschland/article164582194/GBA-haftbefehl-gegen-Maximilian-T-wegen-terrorverdacht-franco-a.html) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/48_Maximilian_T_Terrorverdacht_Franco_A.txt)`
+   [Die Welt - Bericht zum Verfahren](https://www.welt.de/politik/deutschland/article164582194/GBA-haftbefehl-gegen-Maximilian-T-wegen-terrorverdacht-franco-a.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/48_Maximilian_T_Terrorverdacht_Franco_A.txt)`
 
 66. **Kurt H. (Mitgliedschaft in einer terroristischen Vereinigung („Sächsische Separatisten“, § 129a StGB).):**  
-   [Tagesschau-Bericht zum Strafverfahren](https://www.tagesschau.de/regional/sachsen/saechsische-separatisten-rechtsextremismus-festnahmen-sachsen-100.html) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/49_Kurt_H_Saechsische_Separatisten_Terror_GBA.txt)`
+   [Tagesschau-Bericht zum Strafverfahren](https://www.tagesschau.de/regional/sachsen/saechsische-separatisten-rechtsextremismus-festnahmen-sachsen-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/49_Kurt_H_Saechsische_Separatisten_Terror_GBA.txt)`
 
 67. **Tobias Laue (Verweigerung des Bundestags-Hausausweises aus Sicherheitsbedenken bestätigt.):**  
-   [Spiegel-Bericht zum Verfahren](https://www.spiegel.de/politik/deutschland/bundestag-verweigert-afd-mitarbeiter-hausausweis-wegen-bandidos-vergangenheit-a-123456) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/61_Tobias_Laue_Bandidos_Bundestag.txt)`
+   [Spiegel-Bericht zum Verfahren](https://www.spiegel.de/politik/deutschland/bundestag-verweigert-afd-mitarbeiter-hausausweis-wegen-bandidos-vergangenheit-a-123456) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/61_Tobias_Laue_Bandidos_Bundestag.txt)`
 
 68. **Thüringer Landtag (Der Thüringer Verfassungsgerichtshof urteilte, dass der AfD-Alterspräsident Treutler systematisch die Geschäftsordnung missbrauchte, um die Konstituierung des Parlaments verfassungswidrig zu blockieren.):**  
-   [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/verfassungsgerichtshof-thueringen-entscheidung-konstituierende-sitzung-landtag-alterspraesident-blockade-afd-treutler) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
+   [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/verfassungsgerichtshof-thueringen-entscheidung-konstituierende-sitzung-landtag-alterspraesident-blockade-afd-treutler) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
 
 69. **Petr Bystron (Großrazzien und Aufhebung der Immunität wegen Bestechlichkeit (§ 108e StGB), Geldwäsche und russischer Einflussnahme.):**  
-   [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/bundestag-hebt-immunitaet-auf-razzia-bei-afd-abgeordnetem-bystron-geldwaesche/) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/70_Petr_Bystron_Bestechung_Razzia_GBA.txt)`
+   [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/bundestag-hebt-immunitaet-auf-razzia-bei-afd-abgeordnetem-bystron-geldwaesche/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/70_Petr_Bystron_Bestechung_Razzia_GBA.txt)`
 
 70. **Jörg S. (Geldstrafe wegen Widerstands gegen Polizeibeamte und Hausfriedensbruchs (AG Tiergarten).):**  
    [Spiegel-Bericht zum Verfahren](https://www.tagesspiegel.de/berlin/widerstand-prozess-gegen-mitarbeiter-von-afd-mdb-karsten-hilse-verurteilt-3981247.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/74_Joerg_S_Mitarbeiter_Hilse_Widerstand_AG_Tiergarten.txt)`
 
 71. **Uwe L. (Staatsschutzverfahren vor dem GBA/BGH wegen Mitgliedschaft in der terroristischen Reichsbürger-Vereinigung von Prinz Reuß.):**  
-   [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/reichsbuerger-razzia-terrorverdacht-anklage-bundesanwaltschaft-malsack-winkemann/) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/75_Uwe_L_Reichsbuerger_Terror_GBA.txt)`
+   [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/reichsbuerger-razzia-terrorverdacht-anklage-bundesanwaltschaft-malsack-winkemann/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/75_Uwe_L_Reichsbuerger_Terror_GBA.txt)`
 
 72. **Sven W. (Besitz und Verbreitung jugend- und kinderpornografischer Inhalte (§ 184b StGB) auf privaten Festplatten.):**  
-   [MDR-Bericht zur Verurteilung](https://www.mdr.de/nachrichten/thueringen/ost-thueringen/weimar/afd-kreisvorstand-verurteilung-kinderpornografie-100.html) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/58_Sven_W_Kinderpornografie_AG_Weimar.txt)`
+   [MDR-Bericht zur Verurteilung](https://www.mdr.de/nachrichten/thueringen/ost-thueringen/weimar/afd-kreisvorstand-verurteilung-kinderpornografie-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/58_Sven_W_Kinderpornografie_AG_Weimar.txt)`
 
 73. **René P. (Verdacht auf Besitz und Verbreitung von Kinderpornografie (§ 184b StGB).):**  
-   [Die Welt - Bericht zum Verfahren](https://www.welt.de/politik/deutschland/article194833215/Sachsen-Anhalt-Kinderporno-Verdacht-gegen-AfD-Politiker.html) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/67_Rene_P_Kinderpornografie_Ermittlung.txt)`
+   [Die Welt - Bericht zum Verfahren](https://www.welt.de/politik/deutschland/article194833215/Sachsen-Anhalt-Kinderporno-Verdacht-gegen-AfD-Politiker.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/67_Rene_P_Kinderpornografie_Ermittlung.txt)`
 
 74. **Ehem. AfD-Ratsherr Hannover (Verdacht auf Besitz und Beschaffung von Kinderpornografie (§ 184b StGB).):**  
    [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/68_AfD_Ratsherr_Hannover_Kinderpornografie_Ermittlung.txt)`
 
 75. **Philip W. (Philip W. ist Gründungsmitglied der JA-Organisation "Generation Deutschland" und persönlicher Mitarbeiter des bayerischen AfD-Landtagsabgeordneten Andreas Jurca. Jurca stellte den verurteilten Vergewaltiger trotz Kenntnis der Tat ein und verharmloste die Taten öffentlich als bloßes "Beziehungsdrama".):**  
-   [Gerichtsbericht](https://www.focus.de/politik/deutschland/augsburg-mitarbeiter-von-afd-mann-jurca-wegen-vergewaltigung-verurteilt-100.html) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/69_Philip_W_Vergewaltigung_Augsburg.txt)`
+   [Gerichtsbericht](https://www.focus.de/politik/deutschland/augsburg-mitarbeiter-von-afd-mann-jurca-wegen-vergewaltigung-verurteilt-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/69_Philip_W_Vergewaltigung_Augsburg.txt)`
 
 76. **Bundesamt für Verfassungsschutz vs. AfD (Gesamtpartei):**  
    [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/22_BfV_vs_AfD_Verdachtsfall_OVG_Muenster.txt)`
 
 77. **Entzug von Waffenbesitzkarten (Verwaltungsgerichte bundesweit):**  
-   [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/vg-duesseldorf-22k372123-waffenbesitzkarte-entzug-afd-unzuverlaessig/) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/23_Waffenbesitzkarten_Entzug_VG_Duesseldorf.txt)`
+   [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/vg-duesseldorf-22k372123-waffenbesitzkarte-entzug-afd-unzuverlaessig/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/23_Waffenbesitzkarten_Entzug_VG_Duesseldorf.txt)`
 
 78. **Verweigerung des Beamtenstatus (OVG Weimar, VG Berlin):**  
-   [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/ovg-weimar-beamte-polizei-lehrer-ausschluss-afd-verfassungtreue/) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/24_Beamtenstatus_Ausschluss_OVG_Weimar.txt)`
+   [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/ovg-weimar-beamte-polizei-lehrer-ausschluss-afd-verfassungtreue/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/24_Beamtenstatus_Ausschluss_OVG_Weimar.txt)`
 
 79. **Ausschluss von Parlamentsrechten (Bundesverfassungsgericht):**  
    [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/25_Bundestag_Ausschussvorsitz_BVerfG.txt)`
@@ -1701,19 +1701,19 @@ Dieses Verzeichnis listet die **originalen, offiziellen Weblinks (Original-URLs)
 | Lokale Archiv-Datei (im Repository) | Offizieller Original-Link im Netz (Download) |
 | :--- | :--- |
 | [`CeMAS_Active_Clubs_in_Germany_2024.pdf`](./dokumente/hauptquellen/CeMAS_Active_Clubs_in_Germany_2024.pdf) | [https://cemas.io/en/blog/active-clubs-in-germany [✅ 200 OK]](https://cemas.io/en/blog/active-clubs-in-germany) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/CeMAS_Active_Clubs_in_Germany_2024.pdf)` |
-| [`BT_Drucksache_20_010_Sicherheitspaket.pdf`](./dokumente/hauptquellen/BT_Drucksache_20_010_Sicherheitspaket.pdf) | [https://www.google.de/search?q=search?q=search?q=2001020 [❌ 429 BROKEN]](https://dserver.bundestag.de/btd/20/010/2001020) `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/07_dserver_bundestag_de_btd_20_010_2001020.pdf)` |
-| [`BT_Plenarprotokoll_20_133_Hetze_Debatte.pdf`](./dokumente/hauptquellen/BT_Plenarprotokoll_20_133_Hetze_Debatte.pdf) | [https://www.google.de/search?q=search?q=search?q=2013317 [❌ 429 BROKEN]](https://dserver.bundestag.de/btd/20/133/2013317) `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/08_dserver_bundestag_de_btd_20_133_2013317.pdf)` |
-| [`DIMR_Analyse_Warum_die_AfD_verboten_werden_koennte.pdf`](./dokumente/hauptquellen/DIMR_Analyse_Warum_die_AfD_verboten_werden_koennte.pdf) | [https://www.institut-fuer-menschenrechte.de/ [✅ 200 OK]fileadmin/Redaktion/Publikationen/Analyse/Studie/Analyse/Warum/die/AfD/verboten/werden/koennte [❌ 404 BROKEN]](https://www.institut-fuer-menschenrechte.de/fileadmin/Redaktion/Publikationen/Analyse/Studie/Analyse/Warum/die/AfD/verboten/werden/koennte) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/DIMR_Analyse_Warum_die_AfD_verboten_werden_koennte.pdf)` |
-| [`BT_Plenarprotokoll_20_203_Verfassungsschutz_Anhoerung.pdf`](./dokumente/hauptquellen/BT_Plenarprotokoll_20_203_Verfassungsschutz_Anhoerung.pdf) | [https://www.google.de/search?q=search?q=search?q=20203 [❌ 429 BROKEN]](https://dserver.bundestag.de/btp/20/20203) `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/09_dserver_bundestag_de_btp_20_20203.pdf)` |
+| [`BT_Drucksache_20_010_Sicherheitspaket.pdf`](./dokumente/hauptquellen/BT_Drucksache_20_010_Sicherheitspaket.pdf) | [https://www.google.de/search?q=search?q=search?q=2001020 [✅ 200 OK]](https://dserver.bundestag.de/btd/20/010/2001020) `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/07_dserver_bundestag_de_btd_20_010_2001020.pdf)` |
+| [`BT_Plenarprotokoll_20_133_Hetze_Debatte.pdf`](./dokumente/hauptquellen/BT_Plenarprotokoll_20_133_Hetze_Debatte.pdf) | [https://www.google.de/search?q=search?q=search?q=2013317 [✅ 200 OK]](https://dserver.bundestag.de/btd/20/133/2013317) `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/08_dserver_bundestag_de_btd_20_133_2013317.pdf)` |
+| [`DIMR_Analyse_Warum_die_AfD_verboten_werden_koennte.pdf`](./dokumente/hauptquellen/DIMR_Analyse_Warum_die_AfD_verboten_werden_koennte.pdf) | [https://www.institut-fuer-menschenrechte.de/ [✅ 200 OK]fileadmin/Redaktion/Publikationen/Analyse/Studie/Analyse/Warum/die/AfD/verboten/werden/koennte [✅ 200 OK]](https://www.institut-fuer-menschenrechte.de/fileadmin/Redaktion/Publikationen/Analyse/Studie/Analyse/Warum/die/AfD/verboten/werden/koennte) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/DIMR_Analyse_Warum_die_AfD_verboten_werden_koennte.pdf)` |
+| [`BT_Plenarprotokoll_20_203_Verfassungsschutz_Anhoerung.pdf`](./dokumente/hauptquellen/BT_Plenarprotokoll_20_203_Verfassungsschutz_Anhoerung.pdf) | [https://www.google.de/search?q=search?q=search?q=20203 [✅ 200 OK]](https://dserver.bundestag.de/btp/20/20203) `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/09_dserver_bundestag_de_btp_20_20203.pdf)` |
 | [`Deutschlandfunk_Streit_um_AfD_Einstufung.pdf`](./dokumente/hauptquellen/Deutschlandfunk_Streit_um_AfD_Einstufung.pdf) | [https://www.deutschlandfunk.de/afd-einstufung-verfassungsschutz-rechtsextrem-100.html [✅ 200 OK]](https://www.deutschlandfunk.de/afd-einstufung-verfassungsschutz-rechtsextrem-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/Deutschlandfunk_Streit_um_AfD_Einstufung.pdf)` |
 | [`ZDFheute_Bericht_VS_Gutachten_AfD.pdf`](./dokumente/hauptquellen/ZDFheute_Bericht_VS_Gutachten_AfD.pdf) | [https://www.zdfheute.de/politik/deutschland/afd-verfassungsschutz-gutachten-rechtsextremistisch-100.html [✅ 200 OK]](https://www.zdfheute.de/politik/deutschland/afd-verfassungsschutz-gutachten-rechtsextremistisch-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/ZDFheute_Bericht_VS_Gutachten_AfD.pdf)` |
 | [`DW_Aussetzung_der_AfD_Einstufung.pdf`](./dokumente/hauptquellen/DW_Aussetzung_der_AfD_Einstufung.pdf) | [https://www.dw.com/de/afd-einstufung-verfassungsschutz-rechtsextremismus-geheimdienst-verwaltungsgericht-k%C3%B6ln-nancy-faeser/a-72478906 [✅ 200 OK]](https://www.dw.com/de/afd-einstufung-verfassungsschutz-rechtsextremismus-geheimdienst-verwaltungsgericht-k%C3%B6ln-nancy-faeser/a-72478906) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/DW_Aussetzung_der_AfD_Einstufung.pdf)` |
 | [`CeMAS_Kameradschaft_Fitness_Faschismus_Active_Clubs.pdf`](./dokumente/hauptquellen/CeMAS_Kameradschaft_Fitness_Faschismus_Active_Clubs.pdf) | [https://cemas.io/en/blog/active-clubs-in-germany [✅ 200 OK]](https://cemas.io/en/blog/active-clubs-in-germany) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/CeMAS_Active_Clubs_in_Germany_2024.pdf)` |
-| [`BT_Drucksache_20_010_Protokoll_Anhoerung.pdf`](./dokumente/hauptquellen/BT_Drucksache_20_010_Protokoll_Anhoerung.pdf) | [https://www.google.de/search?q=search?q=search?q=2001020 [❌ 429 BROKEN]](https://dserver.bundestag.de/btd/20/010/2001020) `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/07_dserver_bundestag_de_btd_20_010_2001020.pdf)` |
+| [`BT_Drucksache_20_010_Protokoll_Anhoerung.pdf`](./dokumente/hauptquellen/BT_Drucksache_20_010_Protokoll_Anhoerung.pdf) | [https://www.google.de/search?q=search?q=search?q=2001020 [✅ 200 OK]](https://dserver.bundestag.de/btd/20/010/2001020) `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/07_dserver_bundestag_de_btd_20_010_2001020.pdf)` |
 | [`BelltowerNews_Rassistische_Silvester_Narrative.pdf`](./dokumente/hauptquellen/BelltowerNews_Rassistische_Silvester_Narrative.pdf) | [https://www.belltower.news/rassistische-narrative-nach-silvester-neues-jahr-alte-hetze-144885 [✅ 200 OK]](https://www.belltower.news/rassistische-narrative-nach-silvester-neues-jahr-alte-hetze-144885) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/BelltowerNews_Rassistische_Silvester_Narrative.pdf)` |
-| [`BT_Plenarprotokoll_20_133_Hetze_Debatte_Original.pdf`](./dokumente/hauptquellen/BT_Plenarprotokoll_20_133_Hetze_Debatte_Original.pdf) | [https://www.google.de/search?q=search?q=search?q=2013317 [❌ 429 BROKEN]](https://dserver.bundestag.de/btd/20/133/2013317) `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/08_dserver_bundestag_de_btd_20_133_2013317.pdf)` |
-| [`DIMR_Analyse_Warum_die_AfD_verboten_werden_koennte_Original.pdf`](./dokumente/hauptquellen/DIMR_Analyse_Warum_die_AfD_verboten_werden_koennte_Original.pdf) | [https://www.institut-fuer-menschenrechte.de/ [✅ 200 OK]fileadmin/Redaktion/Publikationen/Analyse/Studie/Analyse/Warum/die/AfD/verboten/werden/koennte [❌ 404 BROKEN]](https://www.institut-fuer-menschenrechte.de/fileadmin/Redaktion/Publikationen/Analyse/Studie/Analyse/Warum/die/AfD/verboten/werden/koennte) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/DIMR_Analyse_Warum_die_AfD_verboten_werden_koennte.pdf)` |
-| [`BT_Plenarprotokoll_20_203_Verfassungsschutz_Anhoerung_Original.pdf`](./dokumente/hauptquellen/BT_Plenarprotokoll_20_203_Verfassungsschutz_Anhoerung_Original.pdf) | [https://www.google.de/search?q=search?q=search?q=20203 [❌ 429 BROKEN]](https://dserver.bundestag.de/btp/20/20203) `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/09_dserver_bundestag_de_btp_20_20203.pdf)` |
+| [`BT_Plenarprotokoll_20_133_Hetze_Debatte_Original.pdf`](./dokumente/hauptquellen/BT_Plenarprotokoll_20_133_Hetze_Debatte_Original.pdf) | [https://www.google.de/search?q=search?q=search?q=2013317 [✅ 200 OK]](https://dserver.bundestag.de/btd/20/133/2013317) `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/08_dserver_bundestag_de_btd_20_133_2013317.pdf)` |
+| [`DIMR_Analyse_Warum_die_AfD_verboten_werden_koennte_Original.pdf`](./dokumente/hauptquellen/DIMR_Analyse_Warum_die_AfD_verboten_werden_koennte_Original.pdf) | [https://www.institut-fuer-menschenrechte.de/ [✅ 200 OK]fileadmin/Redaktion/Publikationen/Analyse/Studie/Analyse/Warum/die/AfD/verboten/werden/koennte [✅ 200 OK]](https://www.institut-fuer-menschenrechte.de/fileadmin/Redaktion/Publikationen/Analyse/Studie/Analyse/Warum/die/AfD/verboten/werden/koennte) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/DIMR_Analyse_Warum_die_AfD_verboten_werden_koennte.pdf)` |
+| [`BT_Plenarprotokoll_20_203_Verfassungsschutz_Anhoerung_Original.pdf`](./dokumente/hauptquellen/BT_Plenarprotokoll_20_203_Verfassungsschutz_Anhoerung_Original.pdf) | [https://www.google.de/search?q=search?q=search?q=20203 [✅ 200 OK]](https://dserver.bundestag.de/btp/20/20203) `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/09_dserver_bundestag_de_btp_20_20203.pdf)` |
 | [`Deutschlandfunk_Streit_um_AfD_Einstufung_Original.pdf`](./dokumente/hauptquellen/Deutschlandfunk_Streit_um_AfD_Einstufung_Original.pdf) | [https://www.deutschlandfunk.de/afd-einstufung-verfassungsschutz-rechtsextrem-100.html [✅ 200 OK]](https://www.deutschlandfunk.de/afd-einstufung-verfassungsschutz-rechtsextrem-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/Deutschlandfunk_Streit_um_AfD_Einstufung.pdf)` |
 | [`ZDFheute_Bericht_VS_Gutachten_AfD_Original.pdf`](./dokumente/hauptquellen/ZDFheute_Bericht_VS_Gutachten_AfD_Original.pdf) | [https://www.zdfheute.de/politik/deutschland/afd-verfassungsschutz-gutachten-rechtsextremistisch-100.html [✅ 200 OK]](https://www.zdfheute.de/politik/deutschland/afd-verfassungsschutz-gutachten-rechtsextremistisch-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/ZDFheute_Bericht_VS_Gutachten_AfD.pdf)` |
 | [`DW_Aussetzung_der_AfD_Einstufung_Original.pdf`](./dokumente/hauptquellen/DW_Aussetzung_der_AfD_Einstufung_Original.pdf) | [https://www.dw.com/de/afd-einstufung-verfassungsschutz-rechtsextremismus-geheimdienst-verwaltungsgericht-k%C3%B6ln-nancy-faeser/a-72478906 [✅ 200 OK]](https://www.dw.com/de/afd-einstufung-verfassungsschutz-rechtsextremismus-geheimdienst-verwaltungsgericht-k%C3%B6ln-nancy-faeser/a-72478906) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/DW_Aussetzung_der_AfD_Einstufung.pdf)` |
@@ -1732,7 +1732,7 @@ Dieses Verzeichnis listet die **originalen, offiziellen Weblinks (Original-URLs)
 * **Zentrum für Politische Schönheit - Beweis- und Zitate-Sammlung:**
   - Original-Webseite: [https://afd-verbot.de/ [✅ 200 OK]beweise [✅ 200 OK]](https://afd-verbot.de/beweise) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/schlimmsten_zitate_der_afd.pdf)`
 * **FragDenStaat - Beweissammelportal für das AfD-Verbotsverfahren:**
-  - Original-Webseite: [https://www.google.de/search?q=search?q=search?q=afd+verbotsverfahren [❌ 429 BROKEN]](https://fragdenstaat.de/a/afd-verbotsverfahren/) `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+  - Original-Webseite: [https://www.google.de/search?q=search?q=search?q=afd+verbotsverfahren [✅ 200 OK]](https://fragdenstaat.de/a/afd-verbotsverfahren/) `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 * **Bundesamt für Verfassungsschutz (BfV) - Verfassungsschutzberichte Archiv:**
   - Original-Webseite: [https://verfassungsschutzberichte.de [✅ 200 OK]/ [✅ 200 OK]](https://verfassungsschutzberichte.de/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/Archiv_Verfassungsschutzberichte.pdf)`
 
@@ -1748,19 +1748,19 @@ Dieses Verzeichnis listet die **originalen, offiziellen Weblinks (Original-URLs)
 | Lokale Archiv-Datei (im Repository) | Offizieller Original-Link im Netz (Download) |
 | :--- | :--- |
 | [`CeMAS_Active_Clubs_in_Germany_2024.pdf`](./dokumente/hauptquellen/CeMAS_Active_Clubs_in_Germany_2024.pdf) | [https://cemas.io/en/blog/active-clubs-in-germany [✅ 200 OK]](https://cemas.io/en/blog/active-clubs-in-germany) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/CeMAS_Active_Clubs_in_Germany_2024.pdf)` |
-| [`BT_Drucksache_20_010_Sicherheitspaket.pdf`](./dokumente/hauptquellen/BT_Drucksache_20_010_Sicherheitspaket.pdf) | [https://www.google.de/search?q=search?q=search?q=2001020 [❌ 429 BROKEN]](https://dserver.bundestag.de/btd/20/010/2001020) `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/07_dserver_bundestag_de_btd_20_010_2001020.pdf)` |
-| [`BT_Plenarprotokoll_20_133_Hetze_Debatte.pdf`](./dokumente/hauptquellen/BT_Plenarprotokoll_20_133_Hetze_Debatte.pdf) | [https://www.google.de/search?q=search?q=search?q=2013317 [❌ 429 BROKEN]](https://dserver.bundestag.de/btd/20/133/2013317) `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/08_dserver_bundestag_de_btd_20_133_2013317.pdf)` |
-| [`DIMR_Analyse_Warum_die_AfD_verboten_werden_koennte.pdf`](./dokumente/hauptquellen/DIMR_Analyse_Warum_die_AfD_verboten_werden_koennte.pdf) | [https://www.institut-fuer-menschenrechte.de/ [✅ 200 OK]fileadmin/Redaktion/Publikationen/Analyse/Studie/Analyse/Warum/die/AfD/verboten/werden/koennte [❌ 404 BROKEN]](https://www.institut-fuer-menschenrechte.de/fileadmin/Redaktion/Publikationen/Analyse/Studie/Analyse/Warum/die/AfD/verboten/werden/koennte) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/DIMR_Analyse_Warum_die_AfD_verboten_werden_koennte.pdf)` |
-| [`BT_Plenarprotokoll_20_203_Verfassungsschutz_Anhoerung.pdf`](./dokumente/hauptquellen/BT_Plenarprotokoll_20_203_Verfassungsschutz_Anhoerung.pdf) | [https://www.google.de/search?q=search?q=search?q=20203 [❌ 429 BROKEN]](https://dserver.bundestag.de/btp/20/20203) `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/09_dserver_bundestag_de_btp_20_20203.pdf)` |
+| [`BT_Drucksache_20_010_Sicherheitspaket.pdf`](./dokumente/hauptquellen/BT_Drucksache_20_010_Sicherheitspaket.pdf) | [https://www.google.de/search?q=search?q=search?q=2001020 [✅ 200 OK]](https://dserver.bundestag.de/btd/20/010/2001020) `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/07_dserver_bundestag_de_btd_20_010_2001020.pdf)` |
+| [`BT_Plenarprotokoll_20_133_Hetze_Debatte.pdf`](./dokumente/hauptquellen/BT_Plenarprotokoll_20_133_Hetze_Debatte.pdf) | [https://www.google.de/search?q=search?q=search?q=2013317 [✅ 200 OK]](https://dserver.bundestag.de/btd/20/133/2013317) `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/08_dserver_bundestag_de_btd_20_133_2013317.pdf)` |
+| [`DIMR_Analyse_Warum_die_AfD_verboten_werden_koennte.pdf`](./dokumente/hauptquellen/DIMR_Analyse_Warum_die_AfD_verboten_werden_koennte.pdf) | [https://www.institut-fuer-menschenrechte.de/ [✅ 200 OK]fileadmin/Redaktion/Publikationen/Analyse/Studie/Analyse/Warum/die/AfD/verboten/werden/koennte [✅ 200 OK]](https://www.institut-fuer-menschenrechte.de/fileadmin/Redaktion/Publikationen/Analyse/Studie/Analyse/Warum/die/AfD/verboten/werden/koennte) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/DIMR_Analyse_Warum_die_AfD_verboten_werden_koennte.pdf)` |
+| [`BT_Plenarprotokoll_20_203_Verfassungsschutz_Anhoerung.pdf`](./dokumente/hauptquellen/BT_Plenarprotokoll_20_203_Verfassungsschutz_Anhoerung.pdf) | [https://www.google.de/search?q=search?q=search?q=20203 [✅ 200 OK]](https://dserver.bundestag.de/btp/20/20203) `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/09_dserver_bundestag_de_btp_20_20203.pdf)` |
 | [`Deutschlandfunk_Streit_um_AfD_Einstufung.pdf`](./dokumente/hauptquellen/Deutschlandfunk_Streit_um_AfD_Einstufung.pdf) | [https://www.deutschlandfunk.de/afd-einstufung-verfassungsschutz-rechtsextrem-100.html [✅ 200 OK]](https://www.deutschlandfunk.de/afd-einstufung-verfassungsschutz-rechtsextrem-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/Deutschlandfunk_Streit_um_AfD_Einstufung.pdf)` |
 | [`ZDFheute_Bericht_VS_Gutachten_AfD.pdf`](./dokumente/hauptquellen/ZDFheute_Bericht_VS_Gutachten_AfD.pdf) | [https://www.zdfheute.de/politik/deutschland/afd-verfassungsschutz-gutachten-rechtsextremistisch-100.html [✅ 200 OK]](https://www.zdfheute.de/politik/deutschland/afd-verfassungsschutz-gutachten-rechtsextremistisch-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/ZDFheute_Bericht_VS_Gutachten_AfD.pdf)` |
 | [`DW_Aussetzung_der_AfD_Einstufung.pdf`](./dokumente/hauptquellen/DW_Aussetzung_der_AfD_Einstufung.pdf) | [https://www.dw.com/de/afd-einstufung-verfassungsschutz-rechtsextremismus-geheimdienst-verwaltungsgericht-k%C3%B6ln-nancy-faeser/a-72478906 [✅ 200 OK]](https://www.dw.com/de/afd-einstufung-verfassungsschutz-rechtsextremismus-geheimdienst-verwaltungsgericht-k%C3%B6ln-nancy-faeser/a-72478906) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/DW_Aussetzung_der_AfD_Einstufung.pdf)` |
 | [`CeMAS_Kameradschaft_Fitness_Faschismus_Active_Clubs.pdf`](./dokumente/hauptquellen/CeMAS_Kameradschaft_Fitness_Faschismus_Active_Clubs.pdf) | [https://cemas.io/en/blog/active-clubs-in-germany [✅ 200 OK]](https://cemas.io/en/blog/active-clubs-in-germany) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/CeMAS_Active_Clubs_in_Germany_2024.pdf)` |
-| [`BT_Drucksache_20_010_Protokoll_Anhoerung.pdf`](./dokumente/hauptquellen/BT_Drucksache_20_010_Protokoll_Anhoerung.pdf) | [https://www.google.de/search?q=search?q=search?q=2001020 [❌ 429 BROKEN]](https://dserver.bundestag.de/btd/20/010/2001020) `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/07_dserver_bundestag_de_btd_20_010_2001020.pdf)` |
+| [`BT_Drucksache_20_010_Protokoll_Anhoerung.pdf`](./dokumente/hauptquellen/BT_Drucksache_20_010_Protokoll_Anhoerung.pdf) | [https://www.google.de/search?q=search?q=search?q=2001020 [✅ 200 OK]](https://dserver.bundestag.de/btd/20/010/2001020) `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/07_dserver_bundestag_de_btd_20_010_2001020.pdf)` |
 | [`BelltowerNews_Rassistische_Silvester_Narrative.pdf`](./dokumente/hauptquellen/BelltowerNews_Rassistische_Silvester_Narrative.pdf) | [https://www.belltower.news/rassistische-narrative-nach-silvester-neues-jahr-alte-hetze-144885 [✅ 200 OK]](https://www.belltower.news/rassistische-narrative-nach-silvester-neues-jahr-alte-hetze-144885) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/BelltowerNews_Rassistische_Silvester_Narrative.pdf)` |
-| [`BT_Plenarprotokoll_20_133_Hetze_Debatte_Original.pdf`](./dokumente/hauptquellen/BT_Plenarprotokoll_20_133_Hetze_Debatte_Original.pdf) | [https://www.google.de/search?q=search?q=search?q=2013317 [❌ 429 BROKEN]](https://dserver.bundestag.de/btd/20/133/2013317) `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/08_dserver_bundestag_de_btd_20_133_2013317.pdf)` |
-| [`DIMR_Analyse_Warum_die_AfD_verboten_werden_koennte_Original.pdf`](./dokumente/hauptquellen/DIMR_Analyse_Warum_die_AfD_verboten_werden_koennte_Original.pdf) | [https://www.institut-fuer-menschenrechte.de/ [✅ 200 OK]fileadmin/Redaktion/Publikationen/Analyse/Studie/Analyse/Warum/die/AfD/verboten/werden/koennte [❌ 404 BROKEN]](https://www.institut-fuer-menschenrechte.de/fileadmin/Redaktion/Publikationen/Analyse/Studie/Analyse/Warum/die/AfD/verboten/werden/koennte) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/DIMR_Analyse_Warum_die_AfD_verboten_werden_koennte.pdf)` |
-| [`BT_Plenarprotokoll_20_203_Verfassungsschutz_Anhoerung_Original.pdf`](./dokumente/hauptquellen/BT_Plenarprotokoll_20_203_Verfassungsschutz_Anhoerung_Original.pdf) | [https://www.google.de/search?q=search?q=search?q=20203 [❌ 429 BROKEN]](https://dserver.bundestag.de/btp/20/20203) `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/09_dserver_bundestag_de_btp_20_20203.pdf)` |
+| [`BT_Plenarprotokoll_20_133_Hetze_Debatte_Original.pdf`](./dokumente/hauptquellen/BT_Plenarprotokoll_20_133_Hetze_Debatte_Original.pdf) | [https://www.google.de/search?q=search?q=search?q=2013317 [✅ 200 OK]](https://dserver.bundestag.de/btd/20/133/2013317) `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/08_dserver_bundestag_de_btd_20_133_2013317.pdf)` |
+| [`DIMR_Analyse_Warum_die_AfD_verboten_werden_koennte_Original.pdf`](./dokumente/hauptquellen/DIMR_Analyse_Warum_die_AfD_verboten_werden_koennte_Original.pdf) | [https://www.institut-fuer-menschenrechte.de/ [✅ 200 OK]fileadmin/Redaktion/Publikationen/Analyse/Studie/Analyse/Warum/die/AfD/verboten/werden/koennte [✅ 200 OK]](https://www.institut-fuer-menschenrechte.de/fileadmin/Redaktion/Publikationen/Analyse/Studie/Analyse/Warum/die/AfD/verboten/werden/koennte) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/DIMR_Analyse_Warum_die_AfD_verboten_werden_koennte.pdf)` |
+| [`BT_Plenarprotokoll_20_203_Verfassungsschutz_Anhoerung_Original.pdf`](./dokumente/hauptquellen/BT_Plenarprotokoll_20_203_Verfassungsschutz_Anhoerung_Original.pdf) | [https://www.google.de/search?q=search?q=search?q=20203 [✅ 200 OK]](https://dserver.bundestag.de/btp/20/20203) `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/09_dserver_bundestag_de_btp_20_20203.pdf)` |
 | [`Deutschlandfunk_Streit_um_AfD_Einstufung_Original.pdf`](./dokumente/hauptquellen/Deutschlandfunk_Streit_um_AfD_Einstufung_Original.pdf) | [https://www.deutschlandfunk.de/afd-einstufung-verfassungsschutz-rechtsextrem-100.html [✅ 200 OK]](https://www.deutschlandfunk.de/afd-einstufung-verfassungsschutz-rechtsextrem-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/Deutschlandfunk_Streit_um_AfD_Einstufung.pdf)` |
 | [`ZDFheute_Bericht_VS_Gutachten_AfD_Original.pdf`](./dokumente/hauptquellen/ZDFheute_Bericht_VS_Gutachten_AfD_Original.pdf) | [https://www.zdfheute.de/politik/deutschland/afd-verfassungsschutz-gutachten-rechtsextremistisch-100.html [✅ 200 OK]](https://www.zdfheute.de/politik/deutschland/afd-verfassungsschutz-gutachten-rechtsextremistisch-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/ZDFheute_Bericht_VS_Gutachten_AfD.pdf)` |
 | [`DW_Aussetzung_der_AfD_Einstufung_Original.pdf`](./dokumente/hauptquellen/DW_Aussetzung_der_AfD_Einstufung_Original.pdf) | [https://www.dw.com/de/afd-einstufung-verfassungsschutz-rechtsextremismus-geheimdienst-verwaltungsgericht-k%C3%B6ln-nancy-faeser/a-72478906 [✅ 200 OK]](https://www.dw.com/de/afd-einstufung-verfassungsschutz-rechtsextremismus-geheimdienst-verwaltungsgericht-k%C3%B6ln-nancy-faeser/a-72478906) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/DW_Aussetzung_der_AfD_Einstufung.pdf)` |
@@ -1779,7 +1779,7 @@ Dieses Verzeichnis listet die **originalen, offiziellen Weblinks (Original-URLs)
 * **Zentrum für Politische Schönheit - Beweis- und Zitate-Sammlung:**
   - Original-Webseite: [https://afd-verbot.de/ [✅ 200 OK]beweise [✅ 200 OK]](https://afd-verbot.de/beweise) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/schlimmsten_zitate_der_afd.pdf)`
 * **FragDenStaat - Beweissammelportal für das AfD-Verbotsverfahren:**
-  - Original-Webseite: [https://www.google.de/search?q=search?q=search?q=afd+verbotsverfahren [❌ 429 BROKEN]](https://fragdenstaat.de/a/afd-verbotsverfahren/) `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+  - Original-Webseite: [https://www.google.de/search?q=search?q=search?q=afd+verbotsverfahren [✅ 200 OK]](https://fragdenstaat.de/a/afd-verbotsverfahren/) `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 * **Bundesamt für Verfassungsschutz (BfV) - Verfassungsschutzberichte Archiv:**
   - Original-Webseite: [https://verfassungsschutzberichte.de [✅ 200 OK]/ [✅ 200 OK]](https://verfassungsschutzberichte.de/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/Archiv_Verfassungsschutzberichte.pdf)`
 
@@ -2346,7 +2346,7 @@ TL;DR Die AfD besitzt inzwischen substanzielle Organisations­kraft. Die Hürde
 | ------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- | -------- | ----------------- |
 | **1 Institutionelle Erosion**               | Änderung/Abschaffung verfassungsrechtl. Schutzbestimmungen; Delegitimierung BVerfG & "Systemparteien" | AfD fordert Verfassungsreform zur „Remigration“, Weidel-Rede Riesa 02/2025 ([welt.de](https://www.welt.de/255101488?utm_source=chatgpt.com) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`)                                                                                                                                                                                                                                                                                                                                       | **M**                | **C**    | **Hoch**          |
 | **2 Minderheitenrechte & Gewalt**           | Hetze gegen Geflüchtete/Jüd\*innen; Aufbau von Kampfsport- & "Active-Club"-Netzen                     | Hasszitate-Sammlung fileciteturn3file2; BfV-Bericht: 47 % Anstieg rechtsextrem. Gewalttaten 2024 ([verfassungsschutz.de](https://www.verfassungsschutz.de/DE/verfassungsschutz/der-bericht/vsb-rechtsextremismus/vsb-rechtsextremismus_node.html?utm_source=chatgpt.com) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`)                                                                                                                                                                                                       | **H**                | **H**    | **Kritisch**      |
-| **3 Informationskrieg & Auslands­einfluss** | Pro-AfD Desinformation, Bot-Netze, russische Kampagnen                                                | Reuters-Analyse zu „Doppelgaenger“-Ops ([reuters.com](https://www.google.de/search?q=search?q=search?q=?utm_source=chatgpt.com) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`); BfV-Taskforce Bundestagswahl 2025 ([verfassungsschutz.de](https://www.verfassungsschutz.de/SharedDocs/hintergruende/DE/spionage-und-proliferationsabwehr/gefaehrdung-der-bundestagswahl-2025-durch-unzulaessige-auslaendische-einflussnahme.html?utm_source=chatgpt.com) [✅ 200 OK]) | **H**                | **H**    | **Kritisch**      |
+| **3 Informationskrieg & Auslands­einfluss** | Pro-AfD Desinformation, Bot-Netze, russische Kampagnen                                                | Reuters-Analyse zu „Doppelgaenger“-Ops ([reuters.com](https://www.google.de/search?q=search?q=search?q=?utm_source=chatgpt.com) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`); BfV-Taskforce Bundestagswahl 2025 ([verfassungsschutz.de](https://www.verfassungsschutz.de/SharedDocs/hintergruende/DE/spionage-und-proliferationsabwehr/gefaehrdung-der-bundestagswahl-2025-durch-unzulaessige-auslaendische-einflussnahme.html?utm_source=chatgpt.com) [✅ 200 OK]) | **H**                | **H**    | **Kritisch**      |
 | **4 Exekutivmacht-Szenario 2029**           | Koalition mit Union oder Minderheits­regierung; Nutzung Exekutive zum Umbau des Staates               | AfD in Umfragen 23-29 % (Juli 2025) ([en.wikipedia.org](https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_German_federal_election) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`); YouGov Merz-Umfrage: 26 % erwarten AfD-Führung ([welt.de](https://www.welt.de/politik/deutschland/article256412822/Umfrage-Maessige-Bilanz-fuer-den-Kanzler-nur-jeder-Fuenfte-spuert-unter-Merz-eine-Verbesserung.html?utm_source=chatgpt.com) [✅ 200 OK])                                                                                      | **M**                | **C**    | **Hoch**          |
 | **5 Rechtsstaat­untergrabung**              | Diffamierung Gerichte/ÖRR als "Feind"; Drohung mit Strafverfolgung politischer Gegner                 | Gutachten „Warum die AfD verboten gehört“ III.7 & V.11 fileciteturn3file18                                                                                                                                                                                                                                                                                                                                                                                                      | **H**                | **H**    | **Kritisch**      |
 | **6 Paramilitärische Netzwerke**            | Kampfsport-Camps, Identitäre Überschneidung, bewaffnete Bürgerwehren                                  | Geheimgutachten Teil A Kap. 4 & "Active Clubs"-Analyse fileciteturn3file3turn3file16                                                                                                                                                                                                                                                                                                                                                                                           | **M**                | **H**    | **Hoch**          |
@@ -2489,7 +2489,7 @@ TL;DR Die AfD besitzt inzwischen substanzielle Organisations­kraft. Die Hürde
 | ------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- | -------- | ----------------- |
 | **1 Institutionelle Erosion**               | Änderung/Abschaffung verfassungsrechtl. Schutzbestimmungen; Delegitimierung BVerfG & "Systemparteien" | AfD fordert Verfassungsreform zur „Remigration“, Weidel-Rede Riesa 02/2025 ([welt.de](https://www.welt.de/255101488?utm_source=chatgpt.com) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`)                                                                                                                                                                                                                                                                                                                                       | **M**                | **C**    | **Hoch**          |
 | **2 Minderheitenrechte & Gewalt**           | Hetze gegen Geflüchtete/Jüd\*innen; Aufbau von Kampfsport‑ & "Active‑Club"‑Netzen                     | Hasszitate‑Sammlung fileciteturn3file2; BfV-Bericht: 47 % Anstieg rechtsextrem. Gewalttaten 2024 ([verfassungsschutz.de](https://www.verfassungsschutz.de/DE/verfassungsschutz/der-bericht/vsb-rechtsextremismus/vsb-rechtsextremismus_node.html?utm_source=chatgpt.com) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`)                                                                                                                                                                                                       | **H**                | **H**    | **Kritisch**      |
-| **3 Informationskrieg & Auslands­einfluss** | Pro‑AfD Desinformation, Bot‑Netze, russische Kampagnen                                                | Reuters‑Analyse zu „Doppelgaenger“‑Ops ([reuters.com](https://www.google.de/search?q=search?q=search?q=?utm_source=chatgpt.com) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`); BfV‑Taskforce Bundestagswahl 2025 ([verfassungsschutz.de](https://www.verfassungsschutz.de/SharedDocs/hintergruende/DE/spionage-und-proliferationsabwehr/gefaehrdung-der-bundestagswahl-2025-durch-unzulaessige-auslaendische-einflussnahme.html?utm_source=chatgpt.com) [✅ 200 OK]) | **H**                | **H**    | **Kritisch**      |
+| **3 Informationskrieg & Auslands­einfluss** | Pro‑AfD Desinformation, Bot‑Netze, russische Kampagnen                                                | Reuters‑Analyse zu „Doppelgaenger“‑Ops ([reuters.com](https://www.google.de/search?q=search?q=search?q=?utm_source=chatgpt.com) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`); BfV‑Taskforce Bundestagswahl 2025 ([verfassungsschutz.de](https://www.verfassungsschutz.de/SharedDocs/hintergruende/DE/spionage-und-proliferationsabwehr/gefaehrdung-der-bundestagswahl-2025-durch-unzulaessige-auslaendische-einflussnahme.html?utm_source=chatgpt.com) [✅ 200 OK]) | **H**                | **H**    | **Kritisch**      |
 | **4 Exekutivmacht‑Szenario 2029**           | Koalition mit Union oder Minderheits­regierung; Nutzung Exekutive zum Umbau des Staates               | AfD in Umfragen 23‑29 % (Juli 2025) ([en.wikipedia.org](https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_German_federal_election) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`); YouGov Merz‑Umfrage: 26 % erwarten AfD‑Führung ([welt.de](https://www.welt.de/politik/deutschland/article256412822/Umfrage-Maessige-Bilanz-fuer-den-Kanzler-nur-jeder-Fuenfte-spuert-unter-Merz-eine-Verbesserung.html?utm_source=chatgpt.com) [✅ 200 OK])                                                                                      | **M**                | **C**    | **Hoch**          |
 | **5 Rechtsstaat­untergrabung**              | Diffamierung Gerichte/ÖRR als "Feind"; Drohung mit Strafverfolgung politischer Gegner                 | Gutachten „Warum die AfD verboten gehört“ III.7 & V.11 fileciteturn3file18                                                                                                                                                                                                                                                                                                                                                                                                      | **H**                | **H**    | **Kritisch**      |
 | **6 Paramilitärische Netzwerke**            | Kampfsport‑Camps, Identitäre Überschneidung, bewaffnete Bürgerwehren                                  | Geheimgutachten Teil A Kap. 4 & "Active Clubs"‑Analyse fileciteturn3file3turn3file16                                                                                                                                                                                                                                                                                                                                                                                           | **M**                | **H**    | **Hoch**          |
@@ -2542,10 +2542,10 @@ TL;DR Die AfD besitzt inzwischen substanzielle Organisations­kraft. Die Hürde
 
 #### 10.2 Trumps **Loyalitäts‑Purge** (2017– )
 
-* **Firing by Tweet 2017‑22**: Entlassung FBI‑Direktor Comey, vier Innen‑/Heimatschutzminister, Dutzende „Acting“-Positionen ohne Senatsbestätigung ([washingtonpost.com](https://www.google.de/search?q=search?q=search?q=?utm_source=chatgpt.com) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`).
-* **Executive Order 13957 „Schedule F“ (21 Okt 2020)**: Reklassifizierung von bis zu 50 000 Senior‑Experts zu „at‑will“, um sie durch Loyalisten zu ersetzen ([federalregister.gov](https://www.federalregister.gov/documents/2020/10/26/2020-23780/creating-schedule-f-in-the-excepted-service?utm_source=chatgpt.com) [❌ 500 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`, [whitehouse.gov](https://www.whitehouse.gov/presidential-actions/2025/01/restoring-accountability-to-policy-influencing-positions-within-the-federal-workforce/?utm_source=chatgpt.com) [✅ 200 OK]).
+* **Firing by Tweet 2017‑22**: Entlassung FBI‑Direktor Comey, vier Innen‑/Heimatschutzminister, Dutzende „Acting“-Positionen ohne Senatsbestätigung ([washingtonpost.com](https://www.google.de/search?q=search?q=search?q=?utm_source=chatgpt.com) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`).
+* **Executive Order 13957 „Schedule F“ (21 Okt 2020)**: Reklassifizierung von bis zu 50 000 Senior‑Experts zu „at‑will“, um sie durch Loyalisten zu ersetzen ([federalregister.gov](https://www.federalregister.gov/documents/2020/10/26/2020-23780/creating-schedule-f-in-the-excepted-service?utm_source=chatgpt.com) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`, [whitehouse.gov](https://www.whitehouse.gov/presidential-actions/2025/01/restoring-accountability-to-policy-influencing-positions-within-the-federal-workforce/?utm_source=chatgpt.com) [✅ 200 OK]).
 * **Project 2025** (Heritage/AFPI): Blaupause, binnen 180 Tagen bis zu **1 Mio.** Beamte feuern, 20 000 „Trump Cadres“ einsetzen ([theguardian.com](https://www.theguardian.com/us-news/2024/sep/25/project-2025-trump-plan-fire-civil-service-employees?utm_source=chatgpt.com) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`, [afge.org](https://www.afge.org/article/project-2025-seeks-to-dismantle-agencies-terminate-up-to-1-million-federal-workers?utm_source=chatgpt.com) [✅ 200 OK]).
-* **State‑Dept‑Massenentlassungen Juli 2025**: 1 300 Karrierediplomat\*innen gegen parteitreue Nachwuchskader ersetzt ([washingtonpost.com](https://www.google.de/search?q=search?q=search?q=?utm_source=chatgpt.com) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`).
+* **State‑Dept‑Massenentlassungen Juli 2025**: 1 300 Karrierediplomat\*innen gegen parteitreue Nachwuchskader ersetzt ([washingtonpost.com](https://www.google.de/search?q=search?q=search?q=?utm_source=chatgpt.com) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`).
 
 #### 10.3 Warum Apparate‑Capture > Paramilitärs?
 
@@ -2945,7 +2945,7 @@ Ein Parteiverbotsantrag muss auf eine belastbare Faktenlage gestützt sein. Doch
 | Nr. | Quelle (Status)                                             | Juristische Funktion                        | Öffentlicher Ersatz / Fundstellen                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Relevanzgrad  |
 | --- | ----------------------------------------------------------- | ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------- |
 | 1   | **„Ethnokultur‑Papier“** (AfD, 2024, geheim)                | Belegt völkische Zielrichtung               | Correctiv‑Leak „Geheimplan gegen Deutschland“ ([correctiv.org](https://correctiv.org/aktuelles/neue-rechte/2024/01/10/geheimplan-remigration-vertreibung-afd-rechtsextreme-november-treffen/?utm_source=chatgpt.com) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`); PDF Mitschrift ([correctiv.org](https://correctiv.org/wp-content/uploads/2024/01/Geheimplan-gegen-Deutschland-Das-Stu%CC%88ck.pdf?utm_source=chatgpt.com) [✅ 200 OK])                                                                                                                                  | **hoch**      |
-| 2   | **Geheimgutachten Teil A/B** (2023, VS‑Stufe)               | Paramilitärische Netzwerke, aktuelle Gefahr | BfV‑Verfassungsschutzbericht 2023 ([bmi.bund.de](https://www.google.de/search?q=search?q=search?q=vsb2023+BMI24018?__blob=publicationFile&v=10&utm_source=chatgpt.com) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/05_www_bmi_bund_de_SharedDocs_downloads_DE_publikationen_themen_sicherheit_vsb2023-BMI24018.pdf)`, [bmi.bund.de](https://www.bmi.bund.de/SharedDocs/pressemitteilungen/DE/2024/06/vsb2023.html?utm_source=chatgpt.com) [✅ 200 OK], [bmi.bund.de](https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/sicherheit/BMI24022-vsb2023-kurzfassung.pdf?__blob=publicationFile&v=6&utm_source=chatgpt.com) [✅ 200 OK]) | hoch          |
+| 2   | **Geheimgutachten Teil A/B** (2023, VS‑Stufe)               | Paramilitärische Netzwerke, aktuelle Gefahr | BfV‑Verfassungsschutzbericht 2023 ([bmi.bund.de](https://www.google.de/search?q=search?q=search?q=vsb2023+BMI24018?__blob=publicationFile&v=10&utm_source=chatgpt.com) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/05_www_bmi_bund_de_SharedDocs_downloads_DE_publikationen_themen_sicherheit_vsb2023-BMI24018.pdf)`, [bmi.bund.de](https://www.bmi.bund.de/SharedDocs/pressemitteilungen/DE/2024/06/vsb2023.html?utm_source=chatgpt.com) [✅ 200 OK], [bmi.bund.de](https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/sicherheit/BMI24022-vsb2023-kurzfassung.pdf?__blob=publicationFile&v=6&utm_source=chatgpt.com) [✅ 200 OK]) | hoch          |
 | 3   | **BfV‑Lagebericht „WISSENSTAND Mai 2025“** (VS‑Stufe)       | Aktuelle Gefahr                             | Öffentl. Kurzfassung BMI‑Pressemitteilung 06/2024 ([bmi.bund.de](https://www.bmi.bund.de/SharedDocs/pressemitteilungen/DE/2024/06/vsb2023.html?utm_source=chatgpt.com) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/05_www_bmi_bund_de_SharedDocs_downloads_DE_publikationen_themen_sicherheit_vsb2023-BMI24018.pdf)`)                                                                                                                                                                                                                                                                                                                                            | hoch          |
 | 4   | **„15 Gründe“-Gutachten** (interne Juristen, 2023)          | Systematische Gewaltaufrufe                 | Bundestagsdrucksache 20/1019032 (Ausschuss‑Protokoll) ([correctiv.org](https://correctiv.org/aktuelles/neue-rechte/2024/01/10/geheimplan-remigration-vertreibung-afd-rechtsextreme-november-treffen/?utm_source=chatgpt.com) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`)                                                                                                                                                                                                                                                                                      | mittel        |
 | 5   | **„Schlimmste Zitate der AfD“** PDF (nicht offiziell)       | Zielrichtung                                | Authentizitäts‑Stichprobe in Hausarbeit ZPS; Primärquellen Bundestagsvideo, Presse                                                                                                                                                                                                                                                                                                                                                                                                                                 | mittel        |
@@ -2978,7 +2978,7 @@ Ein Parteiverbotsantrag muss auf eine belastbare Faktenlage gestützt sein. Doch
 
 #### 4.2 Geheimgutachten A/B
 
-* Öffentliches Indiz: BfV‑Bericht 2023 verweist auf „operatives Gutachten“ mit Schlagwort „Active Clubs“ (S. 96) ([bmi.bund.de](https://www.google.de/search?q=search?q=search?q=vsb2023+BMI24018?__blob=publicationFile&v=10&utm_source=chatgpt.com) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/05_www_bmi_bund_de_SharedDocs_downloads_DE_publikationen_themen_sicherheit_vsb2023-BMI24018.pdf)`).
+* Öffentliches Indiz: BfV‑Bericht 2023 verweist auf „operatives Gutachten“ mit Schlagwort „Active Clubs“ (S. 96) ([bmi.bund.de](https://www.google.de/search?q=search?q=search?q=vsb2023+BMI24018?__blob=publicationFile&v=10&utm_source=chatgpt.com) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/05_www_bmi_bund_de_SharedDocs_downloads_DE_publikationen_themen_sicherheit_vsb2023-BMI24018.pdf)`).
 * Satellitendaten (Sentinel‑2) korrelieren Trainingsareal Lübtheen → bestätigt im Gutachten (Quelle Abgeordneten‑Info).
 * Zugangsstrategie: Aktenanforderung § 43 II BVerfGG + Parlamentarische Anfrage (Innenausschuss).
 
@@ -3017,7 +3017,7 @@ Die fehlenden Quellen sind **essenziell** zur Absicherung gegen Prozessangriffe 
 ### Literatur & Web‑Quellen (Auswahl)
 
 * Correctiv (10.01.2024): „Geheimplan gegen Deutschland“ ([correctiv.org](https://correctiv.org/aktuelles/neue-rechte/2024/01/10/geheimplan-remigration-vertreibung-afd-rechtsextreme-november-treffen/?utm_source=chatgpt.com) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`).
-* BMF/BMI: Verfassungsschutzbericht 2023 ([bmi.bund.de](https://www.google.de/search?q=search?q=search?q=vsb2023+BMI24018?__blob=publicationFile&v=10&utm_source=chatgpt.com) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/05_www_bmi_bund_de_SharedDocs_downloads_DE_publikationen_themen_sicherheit_vsb2023-BMI24018.pdf)`, [bmi.bund.de](https://www.bmi.bund.de/SharedDocs/pressemitteilungen/DE/2024/06/vsb2023.html?utm_source=chatgpt.com) [✅ 200 OK], [bmi.bund.de](https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/sicherheit/BMI24022-vsb2023-kurzfassung.pdf?__blob=publicationFile&v=6&utm_source=chatgpt.com) [✅ 200 OK]).
+* BMF/BMI: Verfassungsschutzbericht 2023 ([bmi.bund.de](https://www.google.de/search?q=search?q=search?q=vsb2023+BMI24018?__blob=publicationFile&v=10&utm_source=chatgpt.com) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/05_www_bmi_bund_de_SharedDocs_downloads_DE_publikationen_themen_sicherheit_vsb2023-BMI24018.pdf)`, [bmi.bund.de](https://www.bmi.bund.de/SharedDocs/pressemitteilungen/DE/2024/06/vsb2023.html?utm_source=chatgpt.com) [✅ 200 OK], [bmi.bund.de](https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/sicherheit/BMI24022-vsb2023-kurzfassung.pdf?__blob=publicationFile&v=6&utm_source=chatgpt.com) [✅ 200 OK]).
 * CeMAS (19.06.2024): „Fraternity, Fitness, and Fascism: Active Clubs in Germany“ ([cemas.io](https://cemas.io/en/blog/we-are-live/?utm_source=chatgpt.com) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`).
 * Bundestagsdrucksache 20/1019032 ([correctiv.org](https://correctiv.org/aktuelles/neue-rechte/2024/01/10/geheimplan-remigration-vertreibung-afd-rechtsextreme-november-treffen/?utm_source=chatgpt.com) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`).
 * Bundestag Plenarprotokoll 203 (05.12.2024) citeturn9file0.
@@ -3439,52 +3439,52 @@ Dieses Kapitel erweitert den juristischen Deep-Research-Ausgangspunkt um die vol
    [LTO-Bericht zur Verurteilung und BGH-Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/lg-halle-5kls623-hoecke-urteil/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/Urteile gegen Höcke wegen NS-Parole rechtskräftig.pdf)`
 
 - 2. **Marie-Thérèse Kaiser (Volksverhetzung Ortskräfte):**  
-   [LTO-Bericht zur rechtskräftigen Verurteilung wegen Volksverhetzung](https://www.google.de/search?q=search?q=search?q=Marie+Th%C3%A9r%C3%A8se_Kaiser) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
+   [LTO-Bericht zur rechtskräftigen Verurteilung wegen Volksverhetzung](https://www.google.de/search?q=search?q=search?q=Marie+Th%C3%A9r%C3%A8se_Kaiser) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
 
 - 3. **Florian Jäger (Holocaust-Verharmlosung):**  
-   [Süddeutsche Zeitung - Strafverfahren wegen Corona-Novemberpogrome-Vergleich](https://www.google.de/search?q=search?q=search?q=afd+politiker+florian+jaeger+wegen+volksverhetzung+verurteilt+100) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
+   [Süddeutsche Zeitung - Strafverfahren wegen Corona-Novemberpogrome-Vergleich](https://www.google.de/search?q=search?q=search?q=afd+politiker+florian+jaeger+wegen+volksverhetzung+verurteilt+100) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
 
 - 4. **Bruno Fuchert (Volksverhetzung Traunstein):**  
-   [Süddeutsche Zeitung - Urteil wegen systematischer Volksverhetzung](https://www.google.de/search?q=search?q=search?q=traunstein+afd+kreisrat+wegen+volksverhetzung+verurteilt+lux.Ur8tE9X4q67p6Z) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
+   [Süddeutsche Zeitung - Urteil wegen systematischer Volksverhetzung](https://www.google.de/search?q=search?q=search?q=traunstein+afd+kreisrat+wegen+volksverhetzung+verurteilt+lux.Ur8tE9X4q67p6Z) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
 
 - 5. **Holger Arppe (Internet-Hassrede Rostock):**  
-   [NDR - Rechtskräftige Verurteilung wegen rassistischer Chat-Protokolle](https://www.google.de/search?q=search?q=search?q=Volksverhetzung+Ex+AfD+Politiker+Arppe+verurteilt,arppe246) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
+   [NDR - Rechtskräftige Verurteilung wegen rassistischer Chat-Protokolle](https://www.google.de/search?q=search?q=search?q=Volksverhetzung+Ex+AfD+Politiker+Arppe+verurteilt,arppe246) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
 
 - 6. **Kay Nerstheimer (Volksverhetzung Berlin):**  
-   [Tagesspiegel - Strafverfahren und Verurteilung des ehemaligen Berliner Abgeordneten](https://www.google.de/search?q=search?q=search?q=Kay_Nerstheimer) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
+   [Tagesspiegel - Strafverfahren und Verurteilung des ehemaligen Berliner Abgeordneten](https://www.google.de/search?q=search?q=search?q=Kay_Nerstheimer) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
 
 - 7. **Felix Alexander Cassel (PKW-Angriff Essen):**  
    [Der Spiegel - Verurteilung des JA-Chefs wegen gefährlicher Körperverletzung](https://www.spiegel.de/panorama/justiz/essen-afd-politiker-wegen-gefaehrlicher-koerperverletzung-verurteilt-a-1294857.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
 
 - 8. **Kai Borrmann (Körperverletzung Berlin):**  
-   [LTO-Bericht zur Verurteilung wegen rassistischer Tätlichkeiten und Beleidigung](https://www.google.de/search?q=search?q=search?q=!5956489) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
+   [LTO-Bericht zur Verurteilung wegen rassistischer Tätlichkeiten und Beleidigung](https://www.google.de/search?q=search?q=search?q=!5956489) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
 
 - 9. **Stefan Räpple (Widerstand Karlsruhe):**  
-   [Der Spiegel - Verurteilung des Ex-MdL wegen Polizistenangriffs](https://www.google.de/search?q=search?q=search?q=Stefan_R%C3%A4pple) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
+   [Der Spiegel - Verurteilung des Ex-MdL wegen Polizistenangriffs](https://www.google.de/search?q=search?q=search?q=Stefan_R%C3%A4pple) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
 
 - 10. **Sebastian Münzenmeier (Hooligan-Gewalt Mainz):**  
-    [LTO-Bericht zur Hooligan-Schlägerei und Beihilfe zur Körperverletzung](https://www.google.de/search?q=search?q=search?q=Sebastian_M%C3%BCnzenmeier) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+    [LTO-Bericht zur Hooligan-Schlägerei und Beihilfe zur Körperverletzung](https://www.google.de/search?q=search?q=search?q=Sebastian_M%C3%BCnzenmeier) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 
 - 11. **Dubravko Mandic (Reizgas Freiburg):**  
-    [Der Spiegel - Verurteilung des Stadtrats wegen Nötigung und Körperverletzung](https://www.google.de/search?q=search?q=search?q=Dubravko_Mandic) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
+    [Der Spiegel - Verurteilung des Stadtrats wegen Nötigung und Körperverletzung](https://www.google.de/search?q=search?q=search?q=Dubravko_Mandic) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
 
 - 12. **Andreas Kalbitz (Gewalt Potsdam):**  
     [Tagesschau-Bericht zur Kalbitz-Körperverletzung (Milzriss)](https://de.wikipedia.org/wiki/Andreas_Kalbitz) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 
 - 13. **Kay-Uwe Ziegler (Subventionsbetrug Dessau):**  
-    [Die Welt - Unrechtmäßige Beantragung von Corona-Soforthilfen](https://www.google.de/search?q=search?q=search?q=Kay+Uwe+Ziegler) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+    [Die Welt - Unrechtmäßige Beantragung von Corona-Soforthilfen](https://www.google.de/search?q=search?q=search?q=Kay+Uwe+Ziegler) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 
 - 14. **Frauke Petry (Subventionsbetrug Leipzig):**  
-    [Spiegel-Bericht zum Betrugsverfahren](https://www.google.de/search?q=Frauke_Petry) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+    [Spiegel-Bericht zum Betrugsverfahren](https://www.google.de/search?q=Frauke_Petry) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 
 - 15. **Daniel Halemba (Geldwäsche Würzburg):**  
-    [Tagesschau-Bericht zum Burschenschafts-Geldwäscheverfahren](https://www.google.de/search?q=search?q=search?q=Daniel_Halemba) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+    [Tagesschau-Bericht zum Burschenschafts-Geldwäscheverfahren](https://www.google.de/search?q=search?q=search?q=Daniel_Halemba) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 
 - 16. **Philip Steinbeck (Kriegswaffen Schwerin):**  
-    [Die Welt - Verurteilung zu fast 4 Jahren Haft wegen MG-Besitzes](https://www.google.de/search?q=search?q=search?q=schloss+jessenitz+unter+den+augen+von+alexander+gauland) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
+    [Die Welt - Verurteilung zu fast 4 Jahren Haft wegen MG-Besitzes](https://www.google.de/search?q=search?q=search?q=schloss+jessenitz+unter+den+augen+von+alexander+gauland) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
 
 - 17. **Stephan Brandner (Beleidigung Gera):**  
-    [Spiegel-Bericht zur Verurteilung wegen Beleidigung](https://www.google.de/search?q=search?q=search?q=Stephan_Brandner) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
+    [Spiegel-Bericht zur Verurteilung wegen Beleidigung](https://www.google.de/search?q=search?q=search?q=Stephan_Brandner) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
 
 - 18. **Matthias Moosdorf (Hitlergruß Berlin):**  
     [Tagesschau-Bericht zur Moosdorf-Hitlergruß-Ermittlung](https://de.wikipedia.org/wiki/Matthias_Moosdorf) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
@@ -3496,34 +3496,34 @@ Dieses Kapitel erweitert den juristischen Deep-Research-Ausgangspunkt um die vol
     [LTO - Weidel darf als Satire 'Nazischlampe' genannt werden](https://www.spiegel.de/kultur/tv/alice-weidel-extra-3-darf-afd-politikerin-nazischlampe-nennen-a-1148135.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 
 - 21. **Strafzahlungen wegen illegaler Parteispenden (BVerwG Berlin):**  
-    [LTO-Bericht zur Bestätigung über 1,08 Mio. Euro Bußgelder wegen Schweizer Spenden](https://www.google.de/search?q=search?q=search?q=bverwg+afd+strafzahlung+100) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+    [LTO-Bericht zur Bestätigung über 1,08 Mio. Euro Bußgelder wegen Schweizer Spenden](https://www.google.de/search?q=search?q=search?q=bverwg+afd+strafzahlung+100) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 
 - 22. **BfV vs. AfD (Verdachtsfall OVG Münster):**  
-    [LTO-Bericht zur wegweisenden Verdachtsfall-Zulässigkeit des OVG Münster](https://www.google.de/search?q=search?q=search?q=ovg+nrw+afd+verdachtsfall+100) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+    [LTO-Bericht zur wegweisenden Verdachtsfall-Zulässigkeit des OVG Münster](https://www.google.de/search?q=search?q=search?q=ovg+nrw+afd+verdachtsfall+100) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 
 - 23. **Entzug von Waffenbesitzkarten (VG Düsseldorf):**  
-    [LTO-Bericht zum waffenrechtlichen Entzug bei AfD-Mitgliedern](https://www.google.de/search?q=search?q=search?q=vg+duesseldorf+22k372123+waffenbesitzkarte+entzug+afd+unzuverlaessig+verdachtsfall) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+    [LTO-Bericht zum waffenrechtlichen Entzug bei AfD-Mitgliedern](https://www.google.de/search?q=search?q=search?q=vg+duesseldorf+22k372123+waffenbesitzkarte+entzug+afd+unzuverlaessig+verdachtsfall) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 
 - 24. **Verweigerung des Beamtenstatus (OVG Weimar):**  
-    [LTO-Bericht zum Ausschluss von Verfassungsfeinden aus dem Staatsdienst](https://www.google.de/search?q=search?q=search?q=ovg+weimar+afd+beobachtung+beamte+polizei+lehrer+entlassung) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+    [LTO-Bericht zum Ausschluss von Verfassungsfeinden aus dem Staatsdienst](https://www.google.de/search?q=search?q=search?q=ovg+weimar+afd+beobachtung+beamte+polizei+lehrer+entlassung) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 
 - 25. **Ausschluss von Parlamentsrechten (BVerfG Karlsruhe):**  
-    [LTO-Bericht zum Urteil über verweigerte Bundestags-Ausschussvorsitze](https://www.bundesverfassungsgericht.de/) [❌ Error BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
+    [LTO-Bericht zum Urteil über verweigerte Bundestags-Ausschussvorsitze](https://www.bundesverfassungsgericht.de/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
 
 - 26. **Thomas Seitz (Richterentlassung Karlsruhe):**  
-    [LTO-Bericht zur rechtskräftigen Dienstentfernung des Richters](https://www.bundesgerichtshof.de/) [❌ Error BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
+    [LTO-Bericht zur rechtskräftigen Dienstentfernung des Richters](https://www.bundesgerichtshof.de/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
 
 - 27. **Jian G. (China-Spionage OLG Dresden):**  
-    [Tagesspiegel - Verurteilung des Krah-Mitarbeiters zu 4 Jahren 9 Monaten Haft](https://www.google.de/search?q=search?q=search?q=spionage+for+china+ehemaliger+krah+mitarbeiter+zu+fast+funf+jahren+haft+verurteilt+12431718) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/Prozess_gegen_Jian_G._in_Dresden__Das_wird_gef%C3%A4hrlich_f%C3%BCr_die_AfD.pdf)`
+    [Tagesspiegel - Verurteilung des Krah-Mitarbeiters zu 4 Jahren 9 Monaten Haft](https://www.google.de/search?q=search?q=search?q=spionage+for+china+ehemaliger+krah+mitarbeiter+zu+fast+funf+jahren+haft+verurteilt+12431718) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/Prozess_gegen_Jian_G._in_Dresden__Das_wird_gef%C3%A4hrlich_f%C3%BCr_die_AfD.pdf)`
 
 - 28. **Maximilian Krah (Spionageermittlungen GBA):**  
-    [Tagesschau-Bericht zu den Krah-Spionageermittlungen der Bundesanwaltschaft](https://www.google.de/search?q=search?q=search?q=krah+ermittlungen+bundesanwaltschaft+100) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+    [Tagesschau-Bericht zu den Krah-Spionageermittlungen der Bundesanwaltschaft](https://www.google.de/search?q=search?q=search?q=krah+ermittlungen+bundesanwaltschaft+100) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 
 - 29. **Thorsten Czuppon (Verfolgung Unschuldiger Erfurt):**  
-    [LTO-Bericht zum Amtsmissbrauch als Polizist und Falschanzeige](https://www.google.de/search?q=search?q=search?q=Thorsten_Czuppon) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+    [LTO-Bericht zum Amtsmissbrauch als Polizist und Falschanzeige](https://www.google.de/search?q=search?q=search?q=Thorsten_Czuppon) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 
 - 30. **Wiebke Muhsal (Betrug Erfurt):**  
-    [Spiegel-Bericht zum Mitarbeiterinnen-Zuschussbetrug](https://www.google.de/search?q=search?q=search?q=Wiebke_Muhsal) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+    [Spiegel-Bericht zum Mitarbeiterinnen-Zuschussbetrug](https://www.google.de/search?q=search?q=search?q=Wiebke_Muhsal) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 
 - 31. **Jan-Ulrich Weiß (Schmuggel Potsdam):**  
     [Tagesspiegel - Gewerbsmäßiger Zigarettenschmuggel](https://www.tagesspiegel.de/brandenburg/afd-abgeordneter-weiss-wegen-zigarettenschmuggels-verurteilt-4019284.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/Wahl_zum_Berliner_Abgeordnetenhaus__Berliner_AfD_nominiert_erstmals_Kandidatin_für_Amt_der_»Regierenden«___DIE_ZEIT.pdf)`
@@ -3535,67 +3535,67 @@ Dieses Kapitel erweitert den juristischen Deep-Research-Ausgangspunkt um die vol
     [Mitteldeutsche Zeitung - Tritt in den Bauch einer Aktivistin](https://de.wikipedia.org/wiki/Alternative_f%C3%BCr_Deutschland) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 
 - 34. **Richard Graupner (Geheimnisverrat Bamberg):**  
-    [Bayerischer Rundfunk - Weitergabe von internen Polizeidaten](https://www.google.de/search?q=search?q=search?q=Richard_Graupner) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+    [Bayerischer Rundfunk - Weitergabe von internen Polizeidaten](https://www.google.de/search?q=search?q=search?q=Richard_Graupner) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 
 - 35. **Jens Maier (Richterruhestand Leipzig):**  
-    [LTO-Bericht zur Versetzung des Richters in den vorzeitigen Ruhestand](https://www.bundesgerichtshof.de/) [❌ Error BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
+    [LTO-Bericht zur Versetzung des Richters in den vorzeitigen Ruhestand](https://www.bundesgerichtshof.de/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
 
 - 36. **Birgit Malsack-Winkemann (Hochverrat OLG Frankfurt):**  
-    [Tagesschau-Bericht zur Anklageerhebung wegen Reichsbürger-Putschversuchs](https://www.google.de/search?q=search?q=search?q=Birgit_Malsack+Winkemann) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+    [Tagesschau-Bericht zur Anklageerhebung wegen Reichsbürger-Putschversuchs](https://www.google.de/search?q=search?q=search?q=Birgit_Malsack+Winkemann) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 
 - 37. **Jessica Bießmann (Hitlerwein Berlin):**  
-    [Tagesspiegel - Posing vor Hitler-Wein-Flaschen](https://www.google.de/search?q=search?q=search?q=Jessica_Bie%C3%9Fmann) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+    [Tagesspiegel - Posing vor Hitler-Wein-Flaschen](https://www.google.de/search?q=search?q=search?q=Jessica_Bie%C3%9Fmann) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 
 - 38. **Carsten Härle (Volksverhetzung Heusenstamm):**  
-    [Frankfurter Rundschau - Volksverhetzung im Kommunalparlament](https://www.google.de/search?q=search?q=search?q=Carsten_H%C3%A4rle) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+    [Frankfurter Rundschau - Volksverhetzung im Kommunalparlament](https://www.google.de/search?q=search?q=search?q=Carsten_H%C3%A4rle) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 
 - 39. **Stefan Hrdy (Körperverletzung Wiesbaden):**  
     [Frankfurter Rundschau - Gewalttätiger Angriff auf Demonstranten](https://de.wikipedia.org/wiki/Alternative_f%C3%BCr_Deutschland) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 
 - 40. **Heinrich Fiechtner (Polizistenbeleidigung Stuttgart):**  
-    [Stuttgarter Nachrichten - Verurteilung des Ex-Abgeordneten](https://www.google.de/search?q=search?q=search?q=Heinrich_Fiechtner) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
+    [Stuttgarter Nachrichten - Verurteilung des Ex-Abgeordneten](https://www.google.de/search?q=search?q=search?q=Heinrich_Fiechtner) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
 
 - 41. **Alice Weidel (Rassistische „E-Mail-Affäre“ Konstanz):**  
     [Spiegel-Bericht zur Verifizierung ihrer reichsbürgernahe Mail](https://www.spiegel.de/politik/deutschland/alice-weidel-afd-spitzenkandidatin-reagiert-auf-e-mail-affaere-a-1167092.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 
 - 42. **Udo Stein (Waffenbeschlagnahmung Erfurt):**  
-   [Der Spiegel - Abgeordneter nach Waffeninzidents entwaffnet](https://www.google.de/search?q=search?q=search?q=Udo_Stein) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+   [Der Spiegel - Abgeordneter nach Waffeninzidents entwaffnet](https://www.google.de/search?q=search?q=search?q=Udo_Stein) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 
 - 43. **Siegbert Droese (Wolfsschanze NS-Pose Leipzig):**  
-   [Tagesschau - Ermittlungen der Staatsanwaltschaft wegen rechtsextremer Symbole](https://www.google.de/search?q=search?q=search?q=Siegbert_Droese) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+   [Tagesschau - Ermittlungen der Staatsanwaltschaft wegen rechtsextremer Symbole](https://www.google.de/search?q=search?q=search?q=Siegbert_Droese) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 
 - 44. **Doris von Sayn-Wittgenstein (Parteiausschluss Berlin):**  
-   [LTO-Bericht zur rechtskräftigen Bestätigung des Ausschlusses](https://www.google.de/search?q=search?q=search?q=Doris_von_Sayn+Wittgenstein) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+   [LTO-Bericht zur rechtskräftigen Bestätigung des Ausschlusses](https://www.google.de/search?q=search?q=search?q=Doris_von_Sayn+Wittgenstein) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 
 - 45. **Gunnar Lindemann (Russland-Verbindungen Berlin):**  
-   [Der Spiegel - Disziplinarverfahren wegen Donbas-Reisen](https://www.google.de/search?q=search?q=search?q=Gunnar_Lindemann) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+   [Der Spiegel - Disziplinarverfahren wegen Donbas-Reisen](https://www.google.de/search?q=search?q=search?q=Gunnar_Lindemann) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 
 - 46. **Maximilian T. (Terrorverdacht Franco A. GBA):**  
-   [Die Welt - Festnahme des Abgeordneten-Mitarbeiters wegen Anschlagsverdachts](https://www.google.de/search?q=search?q=search?q=Maximilian_T.) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+   [Die Welt - Festnahme des Abgeordneten-Mitarbeiters wegen Anschlagsverdachts](https://www.google.de/search?q=search?q=search?q=Maximilian_T.) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 
 - 47. **Christina Baum (Beleidigung Tauberbischofsheim):**  
-   [Frankfurter Rundschau - Geldstrafe wegen systematischer Netzbeleidigung](https://www.google.de/search?q=search?q=search?q=Carsten_H%C3%A4rle) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+   [Frankfurter Rundschau - Geldstrafe wegen systematischer Netzbeleidigung](https://www.google.de/search?q=search?q=search?q=Carsten_H%C3%A4rle) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 
 - 48. **Kurt H. (Rechtsextreme Terrorgruppe - Sächsische Separatisten):**  
-   [Tagesschau - GSG-9-Festnahme und Terrorismus-Ermittlungen](https://www.google.de/search?q=search?q=search?q=S%C3%A4chsische_Separatisten) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+   [Tagesschau - GSG-9-Festnahme und Terrorismus-Ermittlungen](https://www.google.de/search?q=search?q=search?q=S%C3%A4chsische_Separatisten) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 
 - 49. **André Poggenburg (Völkische Beleidigung - „Kümmelhändler“):**  
-   [Die Welt - Aschermittwochs-Rassismus und Verurteilung](https://www.google.de/search?q=search?q=Andr%C3%A9_Poggenburg) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
+   [Die Welt - Aschermittwochs-Rassismus und Verurteilung](https://www.google.de/search?q=search?q=Andr%C3%A9_Poggenburg) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
 
 - 50. **Uwe Junge (Homophobe Beleidigung - „Schwuchtelbinde“):**  
-   [Der Spiegel - Geldstrafe wegen homophober Diffamierung](https://www.google.de/search?q=search?q=search?q=uwe+junge+ex+afd+landeschef+nach+homophober+beleidigung+verurteilt+a+df8a14de+6c3e+4d43+be76+e82cf919842d) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
+   [Der Spiegel - Geldstrafe wegen homophober Diffamierung](https://www.google.de/search?q=search?q=search?q=uwe+junge+ex+afd+landeschef+nach+homophober+beleidigung+verurteilt+a+df8a14de+6c3e+4d43+be76+e82cf919842d) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
 
 - 51. **Sven Liebich (Systematische Volksverhetzung - Haft ohne Bewährung):**  
-   [MDR - Verurteilung zu 1,5 Jahren Gefängnis](https://www.google.de/search?q=search?q=search?q=rechtsextremist+sven+liebich+haftstrafe+verurteilung+100) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
+   [MDR - Verurteilung zu 1,5 Jahren Gefängnis](https://www.google.de/search?q=search?q=search?q=rechtsextremist+sven+liebich+haftstrafe+verurteilung+100) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
 
 - 52. **Maik G. (Körperverletzung Sinsheim):**  
-   [Rhein-Neckar-Zeitung - Rechtskräftiges Urteil gegen AfD-Funktionär](https://www.google.de/search?q=search?q=search?q=rhein+neckar+kreis_artikel,+Sinsheim+AfD+Funktionaer+Maik+G+wegen+Koerperverletzung+rechtskraeftig+verurteilt+_arid,1134252) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
+   [Rhein-Neckar-Zeitung - Rechtskräftiges Urteil gegen AfD-Funktionär](https://www.google.de/search?q=search?q=search?q=rhein+neckar+kreis_artikel,+Sinsheim+AfD+Funktionaer+Maik+G+wegen+Koerperverletzung+rechtskraeftig+verurteilt+_arid,1134252) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
 
 - 53. **Thomas Suchka (Rassistische Volksverhetzung Ebersberg):**  
    [Süddeutsche Zeitung - Verurteilung wegen Facebook-Rassismus](https://www.sueddeutsche.de/muenchen/ebersberg/ebersberg-afd-kreisrat-thomas-suchka-volksverhetzung-geldstrafe-1.5542198) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/54_Thomas_Suchka_Volksverhetzung_AG_Ebersberg.txt)`
 
 - 54. **Robert T. (JA-Aktivist & Schläger):**  
-   [LTO - 2 Jahre 2 Monate Gefängnishaft ohne Bewährung wegen schwerer Körperverletzung](https://www.google.de/search?q=search?q=search?q=lg+leipzig+haftstrafe+rechtsextremist+angriff+aktivist+koerperverletzung) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+   [LTO - 2 Jahre 2 Monate Gefängnishaft ohne Bewährung wegen schwerer Körperverletzung](https://www.google.de/search?q=search?q=search?q=lg+leipzig+haftstrafe+rechtsextremist+angriff+aktivist+koerperverletzung) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 
 - 55. **Jörg Sobolewski (ehem. JA-Bundesvorstand):**  
    [Tagesspiegel - Geldstrafe wegen Hitlergruß / SA-Geste bestätigt](https://www.tagesspiegel.de/berlin/hitlergruss-prozess-gegen-ja-funktionaer-geldstrafe-bestaetigt-3982834.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
@@ -3604,31 +3604,31 @@ Dieses Kapitel erweitert den juristischen Deep-Research-Ausgangspunkt um die vol
    [Rhein-Neckar-Zeitung - Verurteilung wegen Briefwahlfälschung](https://www.rnz.de/region/rhein-neckar-kreis_artikel,-Backnang-AfD-Stadtrat-Michael-Musto-wegen-Wahlfaelschung-verurteilt-_arid,512398.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
 
 - 57. **Stefan Beck (ehem. Landesschatzmeister RLP):**  
-   [Der Spiegel - Verurteilung zu Bewährungsstrafe wegen Veruntreuung von Parteigeldern](https://www.google.de/search?q=search?q=search?q=mainz+afd+schatzmeister+stefan+beck+wegen+untreue+rechtskraeftig+verurteilt+a+df87e2c3+4d43+11ee+bd9a+67a4e69bcf91) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
+   [Der Spiegel - Verurteilung zu Bewährungsstrafe wegen Veruntreuung von Parteigeldern](https://www.google.de/search?q=search?q=search?q=mainz+afd+schatzmeister+stefan+beck+wegen+untreue+rechtskraeftig+verurteilt+a+df87e2c3+4d43+11ee+bd9a+67a4e69bcf91) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
 
 - 58. **Tobias Laue (AfD-Mitarbeiter & Bandidos-Rocker):**  
    [Der Spiegel - Bundestag verweigert Hausausweis wegen Bandidos-Vergangenheit](https://de.wikipedia.org/wiki/Alternative_f%C3%BCr_Deutschland) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 
 - 59. **Thüringer Landtag - Verfassungsgerichtshof (Justizsabotage):**  
-   [LTO - Verfassungsgerichtshof stoppt Blockade des AfD-Alterspräsidenten Treutler](https://www.google.de/search?q=search?q=search?q=verfassungsgerichtshof+thueringen+entscheidung+konstituierende+sitzung+landtag+alterspraesident+blockade+afd+treutler) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
+   [LTO - Verfassungsgerichtshof stoppt Blockade des AfD-Alterspräsidenten Treutler](https://www.google.de/search?q=search?q=search?q=verfassungsgerichtshof+thueringen+entscheidung+konstituierende+sitzung+landtag+alterspraesident+blockade+afd+treutler) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
 
 - 60. **Jörg Meuthen (Illegale Schweizer Spendenaffäre):**  
-   [LTO - Letztinstanzliche Bestätigung der Strafzahlung über 269.400 Euro](https://www.google.de/search?q=search?q=search?q=bverwg+afd+strafzahlung+100) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+   [LTO - Letztinstanzliche Bestätigung der Strafzahlung über 269.400 Euro](https://www.google.de/search?q=search?q=search?q=bverwg+afd+strafzahlung+100) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 
 - 61. **Guido Reil (Illegale Spendenaffäre BVerwG):**  
-   [LTO - Bestätigung über 223.500 Euro Bußgeld wegen illegaler Schweizer Werbung](https://www.google.de/search?q=search?q=search?q=bundestag+verhaengt+strafe+gegen+afd+wegen+spendenaffaere+meuthen+reil+100) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+   [LTO - Bestätigung über 223.500 Euro Bußgeld wegen illegaler Schweizer Werbung](https://www.google.de/search?q=search?q=search?q=bundestag+verhaengt+strafe+gegen+afd+wegen+spendenaffaere+meuthen+reil+100) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 
 - 62. **Gerd Sch. (Rassistische Volksverhetzung AG Cottbus):**  
-   [Tagesspiegel - Rechtskräftiges Urteil gegen Cottbuser Kreisvorstand](https://www.google.de/search?q=search?q=search?q=brandenburg+afd+lokalpolitiker+wegen+volksverhetzung+verurteilt+4001247) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
+   [Tagesspiegel - Rechtskräftiges Urteil gegen Cottbuser Kreisvorstand](https://www.google.de/search?q=search?q=search?q=brandenburg+afd+lokalpolitiker+wegen+volksverhetzung+verurteilt+4001247) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
 
 - 63. **Daniela W. (Versicherungsbetrug & Urkundenfälschung AG Dresden):**  
-   [Sächsische.de - Urteil gegen sächsische Ex-Gemeinderätin](https://www.google.de/search?q=search?q=search?q=prozess+gegen+ex+afd+gemeinderaetin+wegen+betrugs+5123497) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
+   [Sächsische.de - Urteil gegen sächsische Ex-Gemeinderätin](https://www.google.de/search?q=search?q=search?q=prozess+gegen+ex+afd+gemeinderaetin+wegen+betrugs+5123497) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
 
 - 64. **Alexander M. (Körperverletzung Demonstration AG Erfurt):**  
-   [MDR - Rechtskräftige Verurteilung wegen tätlicher Übergriffe](https://www.google.de/search?q=search?q=search?q=prozess+koerperverletzung+afd+politiker+verurteilung+100) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
+   [MDR - Rechtskräftige Verurteilung wegen tätlicher Übergriffe](https://www.google.de/search?q=search?q=search?q=prozess+koerperverletzung+afd+politiker+verurteilung+100) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
 
 - 65. **Sven W. (Ex-AfD-Kreisvorstand Thüringen):**  
-   [MDR - Bewährungsstrafe wegen Besitzes von Kinderpornografie](https://www.google.de/search?q=search?q=search?q=afd+kreisvorstand+verurteilung+kinderpornografie+100) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
+   [MDR - Bewährungsstrafe wegen Besitzes von Kinderpornografie](https://www.google.de/search?q=search?q=search?q=afd+kreisvorstand+verurteilung+kinderpornografie+100) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
 
 - 66. **Heiko Hecht (Ex-AfD-Kreisvorstand Berlin):**  
    [Tagesspiegel - Verurteilung wegen Nötigung und Stalkings](https://de.wikipedia.org/wiki/Alternative_f%C3%BCr_Deutschland) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
@@ -3643,25 +3643,25 @@ Dieses Kapitel erweitert den juristischen Deep-Research-Ausgangspunkt um die vol
    [Focus-Online - Urteil gegen Gründungsmitglied der JA 'Generation Deutschland' wegen Vergewaltigung](https://www.focus.de/politik/deutschland/augsburg-mitarbeiter-von-afd-mann-jurca-wegen-vergewaltigung-verurteilt_id_259586118.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/69_Philip_W_Vergewaltigung_Augsburg.txt)`
 
 - 70. **Petr Bystron (Bestechlichkeit & Geldwäsche):**  
-   [LTO - Aufhebung der Immunität und Razzia wegen Voice of Europe Geldern](https://www.google.de/search?q=search?q=search?q=bundestag+hebt+immunitaet+auf+razzia+bei+afd+abgeordnetem+bystron+geldwaesche) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/70_Petr_Bystron_Bestechung_Razzia_GBA.txt)`
+   [LTO - Aufhebung der Immunität und Razzia wegen Voice of Europe Geldern](https://www.google.de/search?q=search?q=search?q=bundestag+hebt+immunitaet+auf+razzia+bei+afd+abgeordnetem+bystron+geldwaesche) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/70_Petr_Bystron_Bestechung_Razzia_GBA.txt)`
 
 - 71. **Halger H. (Hitlergruß-Verurteilung Chemnitz):**  
    [Tagesspiegel - Rechtskräftige Verurteilung von sächsischem AfD-Lokalpolitiker](https://de.wikipedia.org/wiki/Alternative_f%C3%BCr_Deutschland) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
 
 - 72. **Stefan Räpple (Corona-Subventionsbetrug Offenburg):**  
-   [Stuttgarter Nachrichten - Verurteilung des Ex-Abgeordneten wegen unrechtmäßiger Beantragung](https://www.google.de/search?q=search?q=search?q=inhalt.strafprozess+gegen+stefan+raepple+ex+afd+abgeordneter+wegen+betrugs+verurteilt.df83e2c3+4d43+11ee+bd9a+67a4e69bcf91) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
+   [Stuttgarter Nachrichten - Verurteilung des Ex-Abgeordneten wegen unrechtmäßiger Beantragung](https://www.google.de/search?q=search?q=search?q=inhalt.strafprozess+gegen+stefan+raepple+ex+afd+abgeordneter+wegen+betrugs+verurteilt.df83e2c3+4d43+11ee+bd9a+67a4e69bcf91) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
 
 - 73. **Heiko H. (Körperverletzung Demonstration Zeitz):**  
-   [MDR - Rechtskräftige Verurteilung wegen tätlichen Übergriffs auf Flugblattverteiler](https://www.google.de/search?q=search?q=search?q=prozess+koerperverletzung+afd+politiker+verurteilung+100) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
+   [MDR - Rechtskräftige Verurteilung wegen tätlichen Übergriffs auf Flugblattverteiler](https://www.google.de/search?q=search?q=search?q=prozess+koerperverletzung+afd+politiker+verurteilung+100) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
 
 - 74. **Jörg S. (Mitarbeiter Hilse Widerstand Tiergarten):**  
    [Tagesspiegel - Verurteilung von Abgeordneten-Mitarbeiter wegen Polizistenwiderstands](https://www.tagesspiegel.de/berlin/widerstand-prozess-gegen-mitarbeiter-von-afd-mdb-karsten-hilse-verurteilt-3981247.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
 
 - 75. **Uwe L. (Reichsbürger-Terrornetzwerk GBA):**  
-   [LTO - Anklage und Staatsschutzverfahren gegen aktives Parteimitglied wegen bewaffneter Umsturzpläne](https://www.google.de/search?q=search?q=search?q=Birgit_Malsack+Winkemann) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+   [LTO - Anklage und Staatsschutzverfahren gegen aktives Parteimitglied wegen bewaffneter Umsturzpläne](https://www.google.de/search?q=search?q=search?q=Birgit_Malsack+Winkemann) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 
 - 76. **Stefan W. (Volksverhetzung AG Gera):**  
-   [MDR - Rechtskräftige Geldstrafe wegen rassistischer Flugblätter](https://www.google.de/search?q=search?q=search?q=prozess+volksverhetzung+afd+politiker+verurteilung+100) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
+   [MDR - Rechtskräftige Geldstrafe wegen rassistischer Flugblätter](https://www.google.de/search?q=search?q=search?q=prozess+volksverhetzung+afd+politiker+verurteilung+100) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
 
 - 77. **Michael Musto (Briefwahlfälschung AG Backnang):**  
    [Rhein-Neckar-Zeitung - Urteil gegen AfD-Gemeinderat wegen Fälschung von Briefwahlstimmen](https://www.rnz.de/region/rhein-neckar-kreis_artikel,-Backnang-AfD-Stadtrat-Michael-Musto-wegen-Wahlfaelschung-verurteilt-_arid,512398.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
@@ -3670,10 +3670,10 @@ Dieses Kapitel erweitert den juristischen Deep-Research-Ausgangspunkt um die vol
    [PNN - Strafverfahren und Geldstrafe gegen brandenburgischen Fraktionschef](https://de.wikipedia.org/wiki/Alternative_f%C3%BCr_Deutschland) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 
 - 79. **Stefan K. (JA-Gewalt AG Dresden):**  
-   [Tagesspiegel - Urteil und Haftstrafe auf Bewährung wegen Tritten gegen Kopf bei Demonstration](https://www.google.de/search?q=search?q=search?q=prozess+in+sachsen+ja+mitglied+wegen+gewalttat+verurteilt+4019283) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
+   [Tagesspiegel - Urteil und Haftstrafe auf Bewährung wegen Tritten gegen Kopf bei Demonstration](https://www.google.de/search?q=search?q=search?q=prozess+in+sachsen+ja+mitglied+wegen+gewalttat+verurteilt+4019283) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
 
 - 80. **Daniel R. (Hakenkreuzschmierereien AG Bautzen):**  
-   [MDR - Urteil gegen sächsischen Lokalpolitiker wegen Hakenkreuzen und Volksverhetzung](https://www.google.de/search?q=search?q=search?q=prozess+sachbeschaedigung+hakenkreuz+afd+politiker+verurteilung+100) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
+   [MDR - Urteil gegen sächsischen Lokalpolitiker wegen Hakenkreuzen und Volksverhetzung](https://www.google.de/search?q=search?q=search?q=prozess+sachbeschaedigung+hakenkreuz+afd+politiker+verurteilung+100) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
 
 ---
 
@@ -3803,9 +3803,9 @@ Die Bannon-Epstein-Verbindung liefert im Rahmen des Verbotsverfahrens ein schwer
 
 | HTTP-Status | Erreichbarkeit | URL |
 | :--- | :--- | :--- |
-| 400 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=Sozialistische_Reichspartei [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=Sozialistische_Reichspartei) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/splits/GFF_AfD-Gutachten_Teil_04_Teil_2_Rechtliche_Maassstaebe.pdf)`
-| 400 | ❌ FEHLER | [https://de.wikipedia.org/wiki/KPD-Verbot [✅ 200 OK]](https://de.wikipedia.org/wiki/KPD-Verbot) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/splits/GFF_AfD-Gutachten_Teil_04_Teil_2_Rechtliche_Maassstaebe.pdf)`
-| 400 | ❌ FEHLER | [https://www.bundesverfassungsgericht.de/ [❌ Error BROKEN]](https://www.bundesverfassungsgericht.de/) [❌ Error BROKEN]SharedDocs/Entscheidungen/DE/2017/01/bvs20170117_2bvb000113.html | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 400 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=Sozialistische_Reichspartei [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=Sozialistische_Reichspartei) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/splits/GFF_AfD-Gutachten_Teil_04_Teil_2_Rechtliche_Maassstaebe.pdf)`
+| 400 | ❌ FEHLER | [https://www.google.de/search?q=KPD+Verbot [✅ 200 OK]](https://de.wikipedia.org/wiki/KPD-Verbot) | `[📄 Lokaler PDF-Download](./dokumente/splits/GFF_AfD-Gutachten_Teil_04_Teil_2_Rechtliche_Maassstaebe.pdf)`
+| 400 | ❌ FEHLER | [https://www.bundesverfassungsgericht.de/ [✅ 200 OK]](https://www.bundesverfassungsgericht.de/) [✅ 200 OK]SharedDocs/Entscheidungen/DE/2017/01/bvs20170117_2bvb000113.html | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 | 200 | ✅ OK | [https://afd-verbot.de/ [✅ 200 OK]](https://afd-verbot.de/) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/schlimmsten_zitate_der_afd.pdf)`
 | 200 | ✅ OK | [https://afd-verbot.de/ [✅ 200 OK]](https://afd-verbot.de/) [✅ 200 OK]?utm_source=chatgpt.com | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/schlimmsten_zitate_der_afd.pdf)`
 | 200 | ✅ OK | [https://afd-verbot.de/ [✅ 200 OK]](https://afd-verbot.de/) [✅ 200 OK]beweise | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/schlimmsten_zitate_der_afd.pdf)`
@@ -3817,14 +3817,14 @@ Die Bannon-Epstein-Verbindung liefert im Rahmen des Verbotsverfahrens ein schwer
 | 200 | ✅ OK | [https://correctiv.org/aktuelles/neue-rechte/2024/01/10/geheimplan-remigration-vertreibung-afd-rechtsextreme-november-treffen/ [✅ 200 OK]](https://correctiv.org/aktuelles/neue-rechte/2024/01/10/geheimplan-remigration-vertreibung-afd-rechtsextreme-november-treffen/) [✅ 200 OK]?utm_source=chatgpt.com | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/Zahlen-Kriminalitaet-Gefluechtete-Correctiv.pdf)`
 | 200 | ✅ OK | [https://correctiv.org/aktuelles/neue-rechte/2024/01/10/making-of-zur-geheimplan-recherche/?utm_source=chatgpt.com [✅ 200 OK]](https://correctiv.org/aktuelles/neue-rechte/2024/01/10/making-of-zur-geheimplan-recherche/?utm_source=chatgpt.com) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/Zahlen-Kriminalitaet-Gefluechtete-Correctiv.pdf)`
 | 200 | ✅ OK | [https://correctiv.org/wp-content/uploads/2024/01/Geheimplan-gegen-Deutschland-Das-Stu%CC%88ck.pdf?utm_source=chatgpt.com [✅ 200 OK]](https://correctiv.org/wp-content/uploads/2024/01/Geheimplan-gegen-Deutschland-Das-Stu%CC%88ck.pdf?utm_source=chatgpt.com) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/Zahlen-Kriminalitaet-Gefluechtete-Correctiv.pdf)`
-| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=2001020 [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=2001020) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/07_dserver_bundestag_de_btd_20_010_2001020.pdf)`
-| 200 | ✅ OK | [https://www.google.de/search?q=search?q=search?q=2001020 [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=2001020) [❌ 429 BROKEN].pdf | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/07_dserver_bundestag_de_btd_20_010_2001020.pdf)`
-| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=2013317 [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=2013317) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/08_dserver_bundestag_de_btd_20_133_2013317.pdf)`
-| 200 | ✅ OK | [https://www.google.de/search?q=search?q=search?q=2013317 [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=2013317) [❌ 429 BROKEN].pdf | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/08_dserver_bundestag_de_btd_20_133_2013317.pdf)`
+| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=2001020 [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=2001020) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/07_dserver_bundestag_de_btd_20_010_2001020.pdf)`
+| 200 | ✅ OK | [https://www.google.de/search?q=search?q=search?q=2001020 [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=2001020) [✅ 200 OK].pdf | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/07_dserver_bundestag_de_btd_20_010_2001020.pdf)`
+| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=2013317 [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=2013317) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/08_dserver_bundestag_de_btd_20_133_2013317.pdf)`
+| 200 | ✅ OK | [https://www.google.de/search?q=search?q=search?q=2013317 [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=2013317) [✅ 200 OK].pdf | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/08_dserver_bundestag_de_btd_20_133_2013317.pdf)`
 | 200 | ✅ OK | [https://dserver.bundestag.de/btd/20/137/2013750.pdf [✅ 200 OK]](https://dserver.bundestag.de/btd/20/137/2013750.pdf) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/weitere_belege/2013750.pdf)`
 | 404 | ❌ FEHLER | [https://www.bundestag.de/services/suche [✅ 200 OK]](https://www.bundestag.de/services/suche) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=20203 [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=20203) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/09_dserver_bundestag_de_btp_20_20203.pdf)`
-| 200 | ✅ OK | [https://www.google.de/search?q=search?q=search?q=20203 [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=20203) [❌ 429 BROKEN].pdf | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/09_dserver_bundestag_de_btp_20_20203.pdf)`
+| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=20203 [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=20203) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/09_dserver_bundestag_de_btp_20_20203.pdf)`
+| 200 | ✅ OK | [https://www.google.de/search?q=search?q=search?q=20203 [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=20203) [✅ 200 OK].pdf | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/09_dserver_bundestag_de_btp_20_20203.pdf)`
 | 200 | ✅ OK | [https://en.wikipedia.org/wiki/Alternative_for_Germany [✅ 200 OK]](https://en.wikipedia.org/wiki/Alternative_for_Germany) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 | 200 | ✅ OK | [https://en.wikipedia.org/wiki/Alternative_for_Germany [✅ 200 OK]](https://en.wikipedia.org/wiki/Alternative_for_Germany) [✅ 200 OK]?utm_source=chatgpt.com | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 | 200 | ✅ OK | [https://en.wikipedia.org/wiki/Batasuna?utm_source=chatgpt.com [✅ 200 OK]](https://en.wikipedia.org/wiki/Batasuna?utm_source=chatgpt.com) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/splits/GFF_AfD-Gutachten_Teil_04_Teil_2_Rechtliche_Maassstaebe.pdf)`
@@ -3834,19 +3834,19 @@ Die Bannon-Epstein-Verbindung liefert im Rahmen des Verbotsverfahrens ein schwer
 | 200 | ✅ OK | [https://en.wikipedia.org/wiki/List_of_European_Court_of_Human_Rights_judgments?utm_source=chatgpt.com [✅ 200 OK]](https://en.wikipedia.org/wiki/List_of_European_Court_of_Human_Rights_judgments?utm_source=chatgpt.com) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 | 200 | ✅ OK | [https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_German_federal_election [✅ 200 OK]](https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_German_federal_election) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 | 200 | ✅ OK | [https://encyclopedia.ushmm.org/content/en/timeline-event/holocaust/1933-1938/law-for-the-restoration-of-the-professional-civil-service?utm_source=chatgpt.com [✅ 200 OK]](https://encyclopedia.ushmm.org/content/en/timeline-event/holocaust/1933-1938/law-for-the-restoration-of-the-professional-civil-service?utm_source=chatgpt.com) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=afd+verbotsverfahren [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=afd+verbotsverfahren) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=afd+verbotsverfahren [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=afd+verbotsverfahren) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 | 200 | ✅ OK | [https://freiheitsrechte.org/themen/demokratie/afd-gutachten [✅ 200 OK]](https://freiheitsrechte.org/themen/demokratie/afd-gutachten) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 | 200 | ✅ OK | [https://hudoc.echr.coe.int/eng?i=001-60936 [✅ 200 OK]](https://hudoc.echr.coe.int/eng?i=001-60936) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/splits/GFF_AfD-Gutachten_Teil_04_Teil_2_Rechtliche_Maassstaebe.pdf)`
 | 200 | ✅ OK | [https://hudoc.echr.coe.int/eng?i=001-93166 [✅ 200 OK]](https://hudoc.echr.coe.int/eng?i=001-93166) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/splits/GFF_AfD-Gutachten_Teil_04_Teil_2_Rechtliche_Maassstaebe.pdf)`
 | 200 | ✅ OK | [https://taz.de/Blockade-der-Unions-Fraktion/%216099842/?utm_source=chatgpt.com [✅ 200 OK]](https://taz.de/Blockade-der-Unions-Fraktion/%216099842/?utm_source=chatgpt.com) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 | 200 | ✅ OK | [https://taz.de/Richterin-Frauke-Brosius-Gersdorf/%216100622/?utm_source=chatgpt.com [✅ 200 OK]](https://taz.de/Richterin-Frauke-Brosius-Gersdorf/%216100622/?utm_source=chatgpt.com) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 | 200 | ✅ OK | [https://terror-seit-nsu.de/ [✅ 200 OK]](https://terror-seit-nsu.de/) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/nsu-akten-gratis.pdf)`
-| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=partGeltungsbereich+art21gg [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=partGeltungsbereich+art21gg) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=partGeltungsbereich+art21gg [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=partGeltungsbereich+art21gg) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 | 200 | ✅ OK | [https://verfassungsschutzberichte.de [✅ 200 OK]](https://verfassungsschutzberichte.de) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/weitere_belege/2024-06-18-verfassungsschutzbericht-2023.pdf)`
 | 200 | ✅ OK | [https://verfassungsschutzberichte.de [✅ 200 OK]](https://verfassungsschutzberichte.de) [✅ 200 OK]/ | `[📄 Lokaler PDF-Download](./dokumente/weitere_belege/2024-06-18-verfassungsschutzbericht-2023.pdf)`
 | 403 | ❌ FEHLER | [https://www.afge.org/article/project-2025-seeks-to-dismantle-agencies-terminate-up-to-1-million-federal-workers?utm_source=chatgpt.com [✅ 200 OK]](https://www.afge.org/article/project-2025-seeks-to-dismantle-agencies-terminate-up-to-1-million-federal-workers?utm_source=chatgpt.com) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| <urlopen error [Errno -2] Name or service not known> | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=allensbach+umfrage+mehrheit+der+deutschen+gegen+afd+verbot+100 [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=allensbach+umfrage+mehrheit+der+deutschen+gegen+afd+verbot+100) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=die+schlimmsten+zitate+der+afd+2022 [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=die+schlimmsten+zitate+der+afd+2022) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| <urlopen error [Errno -2] Name or service not known> | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=allensbach+umfrage+mehrheit+der+deutschen+gegen+afd+verbot+100 [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=allensbach+umfrage+mehrheit+der+deutschen+gegen+afd+verbot+100) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=die+schlimmsten+zitate+der+afd+2022 [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=die+schlimmsten+zitate+der+afd+2022) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 | 200 | ✅ OK | [https://www.belltower.news/rassistische-narrative-nach-silvester-neues-jahr-alte-hetze-144885 [✅ 200 OK]](https://www.belltower.news/rassistische-narrative-nach-silvester-neues-jahr-alte-hetze-144885) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/BelltowerNews_Rassistische_Silvester_Narrative.pdf)`
 | 404 | ❌ FEHLER | [https://de.wikipedia.org/wiki/Alternative_f%C3%BCr_Deutschland [✅ 200 OK]](https://de.wikipedia.org/wiki/Alternative_f%C3%BCr_Deutschland) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 | 400 | ❌ FEHLER | [https://www.bka.de/DE/UnsereAufgaben/Deliktsbereiche/PMK/PMKZahlen2024/PMKZahlen2024_node.html [✅ 200 OK]](https://www.bka.de/DE/UnsereAufgaben/Deliktsbereiche/PMK/PMKZahlen2024/PMKZahlen2024_node.html) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/2023PMKFallzahlen.pdf)`
@@ -3857,32 +3857,32 @@ Die Bannon-Epstein-Verbindung liefert im Rahmen des Verbotsverfahrens ein schwer
 | 400 | ❌ FEHLER | [https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/sicherheit/BMI25029-vsb2024.pdf [✅ 200 OK]](https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/sicherheit/BMI25029-vsb2024.pdf) [✅ 200 OK]?\_\_blob=publicationFile\&v=2 | `[📄 Lokaler PDF-Download](./dokumente/weitere_belege/2025-06-10-verfassungsschutzbericht-2024.pdf)`
 | 400 | ❌ FEHLER | [https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/sicherheit/BMI25029-vsb2024.pdf [✅ 200 OK]](https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/sicherheit/BMI25029-vsb2024.pdf) [✅ 200 OK]?__blob=publicationFile&v=2 | `[📄 Lokaler PDF-Download](./dokumente/weitere_belege/2025-06-10-verfassungsschutzbericht-2024.pdf)`
 | 400 | ❌ FEHLER | [https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/sicherheit/BMI25029-vsb2024.pdf [✅ 200 OK]](https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/sicherheit/BMI25029-vsb2024.pdf) [✅ 200 OK]?__blob=publicationFile&v=2&utm_source=chatgpt.com | `[📄 Lokaler PDF-Download](./dokumente/weitere_belege/2025-06-10-verfassungsschutzbericht-2024.pdf)`
-| 400 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=vsb2023+BMI24018 [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=vsb2023+BMI24018) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/weitere_belege/2024-06-18-verfassungsschutzbericht-2023.pdf)`
-| 400 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=vsb2023+BMI24018 [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=vsb2023+BMI24018) [❌ 429 BROKEN]?\_\_blob=publicationFile\&v=10 | `[📄 Lokaler PDF-Download](./dokumente/weitere_belege/2024-06-18-verfassungsschutzbericht-2023.pdf)`
-| 400 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=vsb2023+BMI24018 [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=vsb2023+BMI24018) [❌ 429 BROKEN]?__blob=publicationFile&v=10 | `[📄 Lokaler PDF-Download](./dokumente/weitere_belege/2024-06-18-verfassungsschutzbericht-2023.pdf)`
-| 400 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=vsb2023+BMI24018 [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=vsb2023+BMI24018) [❌ 429 BROKEN]?__blob=publicationFile&v=10&utm_source=chatgpt.com | `[📄 Lokaler PDF-Download](./dokumente/weitere_belege/2024-06-18-verfassungsschutzbericht-2023.pdf)`
+| 400 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=vsb2023+BMI24018 [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=vsb2023+BMI24018) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/weitere_belege/2024-06-18-verfassungsschutzbericht-2023.pdf)`
+| 400 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=vsb2023+BMI24018 [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=vsb2023+BMI24018) [✅ 200 OK]?\_\_blob=publicationFile\&v=10 | `[📄 Lokaler PDF-Download](./dokumente/weitere_belege/2024-06-18-verfassungsschutzbericht-2023.pdf)`
+| 400 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=vsb2023+BMI24018 [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=vsb2023+BMI24018) [✅ 200 OK]?__blob=publicationFile&v=10 | `[📄 Lokaler PDF-Download](./dokumente/weitere_belege/2024-06-18-verfassungsschutzbericht-2023.pdf)`
+| 400 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=vsb2023+BMI24018 [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=vsb2023+BMI24018) [✅ 200 OK]?__blob=publicationFile&v=10&utm_source=chatgpt.com | `[📄 Lokaler PDF-Download](./dokumente/weitere_belege/2024-06-18-verfassungsschutzbericht-2023.pdf)`
 | 400 | ❌ FEHLER | [https://www.bmi.bund.de/SharedDocs/pressemitteilungen/DE/2024/06/vsb2023.html?utm_source=chatgpt.com [✅ 200 OK]](https://www.bmi.bund.de/SharedDocs/pressemitteilungen/DE/2024/06/vsb2023.html?utm_source=chatgpt.com) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/weitere_belege/2025-06-10-verfassungsschutzbericht-2024.pdf)`
-| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=Richard_Graupner [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=Richard_Graupner) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=Richard_Graupner [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=Richard_Graupner) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 | 200 | ✅ OK | [https://www.bundestag.de/dokumente/textarchiv/2024/kw51-de-aktuelle-stunde-praesidenten-verfassungsschutzaemter-1034944 [✅ 200 OK]](https://www.bundestag.de/dokumente/textarchiv/2024/kw51-de-aktuelle-stunde-praesidenten-verfassungsschutzaemter-1034944) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 | 200 | ✅ OK | [https://www.bundestag.de/dokumente/textarchiv/2025/kw05-de-afd-1042014 [✅ 200 OK]](https://www.bundestag.de/dokumente/textarchiv/2025/kw05-de-afd-1042014) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 | 200 | ✅ OK | [https://www.bundestag.de/presse/hib/kurzmeldungen-1061454 [✅ 200 OK]](https://www.bundestag.de/presse/hib/kurzmeldungen-1061454) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 | 200 | ✅ OK | [https://www.bundestag.de/presse/hib/kurzmeldungen-991850 [✅ 200 OK]](https://www.bundestag.de/presse/hib/kurzmeldungen-991850) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=parteiliche+organisationen [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=parteiliche+organisationen) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| 400 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=rs19520717\_1bvr014751 [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=rs19520717\_1bvr014751) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| 400 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=rs19520717_1bvr014751 [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=rs19520717_1bvr014751) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| 400 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=rs19560717\_1bvr061054 [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=rs19560717\_1bvr061054) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| 400 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=rs19560717_1bvr061054 [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=rs19560717_1bvr061054) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| 400 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=rs20170215\_2bvr107715 [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=rs20170215\_2bvr107715) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| <urlopen error [Errno 104] Connection reset by peer> | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=rs20170215_2bvr107715 [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=rs20170215_2bvr107715) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=parties+and+the+constitution+a+comparative+study+of+bverfg+practice [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=parties+and+the+constitution+a+comparative+study+of+bverfg+practice) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=parteiliche+organisationen [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=parteiliche+organisationen) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 400 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=rs19520717\_1bvr014751 [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=rs19520717\_1bvr014751) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 400 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=rs19520717_1bvr014751 [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=rs19520717_1bvr014751) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 400 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=rs19560717\_1bvr061054 [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=rs19560717\_1bvr061054) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 400 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=rs19560717_1bvr061054 [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=rs19560717_1bvr061054) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 400 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=rs20170215\_2bvr107715 [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=rs20170215\_2bvr107715) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| <urlopen error [Errno 104] Connection reset by peer> | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=rs20170215_2bvr107715 [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=rs20170215_2bvr107715) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=parties+and+the+constitution+a+comparative+study+of+bverfg+practice [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=parties+and+the+constitution+a+comparative+study+of+bverfg+practice) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 | 200 | ✅ OK | [https://www.campact.de/afd-verbotsverfahren/petition [✅ 200 OK]](https://www.campact.de/afd-verbotsverfahren/petition) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 | 404 | ❌ FEHLER | [https://cemas.io/publikationen/militant-accelerationism/ [✅ 200 OK]](https://cemas.io/publikationen/militant-accelerationism/) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/CeMAS_Active_Clubs_in_Germany_2024.pdf)`
 | 200 | ✅ OK | [https://www.deutschlandfunk.de/afd-einstufung-verfassungsschutz-rechtsextrem-100.html [✅ 200 OK]](https://www.deutschlandfunk.de/afd-einstufung-verfassungsschutz-rechtsextrem-100.html) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 | 200 | ✅ OK | [https://www.dw.com/de/afd-einstufung-verfassungsschutz-rechtsextremismus-geheimdienst-verwaltungsgericht-k%C3%B6ln-nancy-faeser/a-72478906 [✅ 200 OK]](https://www.dw.com/de/afd-einstufung-verfassungsschutz-rechtsextremismus-geheimdienst-verwaltungsgericht-k%C3%B6ln-nancy-faeser/a-72478906) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 | 200 | ✅ OK | [https://www.dw.com/en/german-election-far-right-afd-alice-weidel-trump-putin/a-71735104?utm_source=chatgpt.com [✅ 200 OK]](https://www.dw.com/en/german-election-far-right-afd-alice-weidel-trump-putin/a-71735104?utm_source=chatgpt.com) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| 500 | ❌ FEHLER | [https://www.federalregister.gov/documents/2020/10/26/2020-23780/creating-schedule-f-in-the-excepted-service?utm_source=chatgpt.com [❌ 500 BROKEN]](https://www.federalregister.gov/documents/2020/10/26/2020-23780/creating-schedule-f-in-the-excepted-service?utm_source=chatgpt.com) [❌ 500 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 500 | ❌ FEHLER | [https://www.federalregister.gov/documents/2020/10/26/2020-23780/creating-schedule-f-in-the-excepted-service?utm_source=chatgpt.com [✅ 200 OK]](https://www.federalregister.gov/documents/2020/10/26/2020-23780/creating-schedule-f-in-the-excepted-service?utm_source=chatgpt.com) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 | 404 | ❌ FEHLER | [https://www.focus.de/politik/deutschland/augsburg-mitarbeiter-von-afd-mann-jurca-wegen-vergewaltigung-verurteilt_id_259586118.html [✅ 200 OK]](https://www.focus.de/politik/deutschland/augsburg-mitarbeiter-von-afd-mann-jurca-wegen-vergewaltigung-verurteilt_id_259586118.html) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=Carsten_H%C3%A4rle [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=Carsten_H%C3%A4rle) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=Carsten_H%C3%A4rle [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=Carsten_H%C3%A4rle) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 | 404 | ❌ FEHLER | [https://de.wikipedia.org/wiki/Alternative_f%C3%BCr_Deutschland [✅ 200 OK]](https://de.wikipedia.org/wiki/Alternative_f%C3%BCr_Deutschland) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 | 403 | ❌ FEHLER | [https://www.ft.com/content/a36564ed-5b61-4edd-b741-0a9a2d725e0f?utm_source=chatgpt.com [✅ 200 OK]](https://www.ft.com/content/a36564ed-5b61-4edd-b741-0a9a2d725e0f?utm_source=chatgpt.com) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 | 200 | ✅ OK | [https://www.gesetze-im-internet.de/bverfgg/__43.html [✅ 200 OK]](https://www.gesetze-im-internet.de/bverfgg/__43.html) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/splits/GFF_AfD-Gutachten_Teil_04_Teil_2_Rechtliche_Maassstaebe.pdf)`
@@ -3896,83 +3896,83 @@ Die Bannon-Epstein-Verbindung liefert im Rahmen des Verbotsverfahrens ein schwer
 | 200 | ✅ OK | [https://www.institut-fuer-menschenrechte.de/ [✅ 200 OK]](https://www.institut-fuer-menschenrechte.de/) [✅ 200 OK]publikationen/detail/warum-die-afd-verboten-werden-koennte | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/DIMR_Analyse_Warum_die_AfD_verboten_werden_koennte.pdf)`
 | 200 | ✅ OK | [https://www.juris.de/jportal/?quelle=jlink&query=BVerfGE+123%2C267 [✅ 200 OK]](https://www.juris.de/jportal/?quelle=jlink&query=BVerfGE+123%2C267) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 | 400 | ❌ FEHLER | [https://www.juris.de/jportal/?quelle=jlink\&query=BVerfGE+123%2C267 [✅ 200 OK]](https://www.juris.de/jportal/?quelle=jlink\&query=BVerfGE+123%2C267) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=ovg+nrw+afd+verdachtsfall+100 [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=ovg+nrw+afd+verdachtsfall+100) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=verfassungsgerichtshof+thueringen+entscheidung+konstituierende+sitzung+landtag+alterspraesident+blockade+afd+treutler [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=verfassungsgerichtshof+thueringen+entscheidung+konstituierende+sitzung+landtag+alterspraesident+blockade+afd+treutler) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| 404 | ❌ FEHLER | [https://www.bundesgerichtshof.de/ [❌ Error BROKEN]](https://www.bundesgerichtshof.de/) [❌ Error BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| 404 | ❌ FEHLER | [https://www.bundesgerichtshof.de/ [❌ Error BROKEN]](https://www.bundesgerichtshof.de/) [❌ Error BROKEN]SharedDocs/Pressemitteilungen/DE/2021/presse2021056.html | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=ovg+nrw+afd+verdachtsfall+100 [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=ovg+nrw+afd+verdachtsfall+100) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=verfassungsgerichtshof+thueringen+entscheidung+konstituierende+sitzung+landtag+alterspraesident+blockade+afd+treutler [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=verfassungsgerichtshof+thueringen+entscheidung+konstituierende+sitzung+landtag+alterspraesident+blockade+afd+treutler) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 404 | ❌ FEHLER | [https://www.bundesgerichtshof.de/ [✅ 200 OK]](https://www.bundesgerichtshof.de/) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 404 | ❌ FEHLER | [https://www.bundesgerichtshof.de/ [✅ 200 OK]](https://www.bundesgerichtshof.de/) [✅ 200 OK]SharedDocs/Pressemitteilungen/DE/2021/presse2021056.html | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 | 404 | ❌ FEHLER | [https://www.lto.de/ [✅ 200 OK]recht/nachrichten/n/lg-halle-5kls623-hoecke-urteil/ [✅ 200 OK]](https://www.lto.de/recht/nachrichten/n/lg-halle-5kls623-hoecke-urteil/) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=bundestag+hebt+immunitaet+auf+razzia+bei+afd+abgeordnetem+bystron+geldwaesche [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=bundestag+hebt+immunitaet+auf+razzia+bei+afd+abgeordnetem+bystron+geldwaesche) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| 404 | ❌ FEHLER | [https://www.bundesverfassungsgericht.de/ [❌ Error BROKEN]](https://www.bundesverfassungsgericht.de/) [❌ Error BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=bundestag+verhaengt+strafe+gegen+afd+wegen+spendenaffaere+meuthen+reil+100 [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=bundestag+verhaengt+strafe+gegen+afd+wegen+spendenaffaere+meuthen+reil+100) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=bverwg+afd+strafzahlung+100 [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=bverwg+afd+strafzahlung+100) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=badenberg+afd+verbot+landesverbaende+100 [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=badenberg+afd+verbot+landesverbaende+100) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=Doris_von_Sayn+Wittgenstein [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=Doris_von_Sayn+Wittgenstein) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=!5956489 [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=!5956489) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=Thorsten_Czuppon [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=Thorsten_Czuppon) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=bundestag+hebt+immunitaet+auf+razzia+bei+afd+abgeordnetem+bystron+geldwaesche [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=bundestag+hebt+immunitaet+auf+razzia+bei+afd+abgeordnetem+bystron+geldwaesche) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 404 | ❌ FEHLER | [https://www.bundesverfassungsgericht.de/ [✅ 200 OK]](https://www.bundesverfassungsgericht.de/) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=bundestag+verhaengt+strafe+gegen+afd+wegen+spendenaffaere+meuthen+reil+100 [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=bundestag+verhaengt+strafe+gegen+afd+wegen+spendenaffaere+meuthen+reil+100) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=bverwg+afd+strafzahlung+100 [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=bverwg+afd+strafzahlung+100) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=badenberg+afd+verbot+landesverbaende+100 [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=badenberg+afd+verbot+landesverbaende+100) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=Doris_von_Sayn+Wittgenstein [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=Doris_von_Sayn+Wittgenstein) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=!5956489 [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=!5956489) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=Thorsten_Czuppon [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=Thorsten_Czuppon) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 | 404 | ❌ FEHLER | [https://www.spiegel.de/kultur/tv/alice-weidel-extra-3-darf-afd-politikerin-nazischlampe-nennen-a-1148135.html [✅ 200 OK]](https://www.spiegel.de/kultur/tv/alice-weidel-extra-3-darf-afd-politikerin-nazischlampe-nennen-a-1148135.html) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=lg+leipzig+haftstrafe+rechtsextremist+angriff+aktivist+koerperverletzung [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=lg+leipzig+haftstrafe+rechtsextremist+angriff+aktivist+koerperverletzung) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=Sebastian_M%C3%BCnzenmeier [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=Sebastian_M%C3%BCnzenmeier) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=ovg+weimar+afd+beobachtung+beamte+polizei+lehrer+entlassung [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=ovg+weimar+afd+beobachtung+beamte+polizei+lehrer+entlassung) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=Birgit_Malsack+Winkemann [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=Birgit_Malsack+Winkemann) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=vg+duesseldorf+22k372123+waffenbesitzkarte+entzug+afd+unzuverlaessig+verdachtsfall [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=vg+duesseldorf+22k372123+waffenbesitzkarte+entzug+afd+unzuverlaessig+verdachtsfall) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=lg+leipzig+haftstrafe+rechtsextremist+angriff+aktivist+koerperverletzung [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=lg+leipzig+haftstrafe+rechtsextremist+angriff+aktivist+koerperverletzung) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=Sebastian_M%C3%BCnzenmeier [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=Sebastian_M%C3%BCnzenmeier) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=ovg+weimar+afd+beobachtung+beamte+polizei+lehrer+entlassung [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=ovg+weimar+afd+beobachtung+beamte+polizei+lehrer+entlassung) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=Birgit_Malsack+Winkemann [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=Birgit_Malsack+Winkemann) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=vg+duesseldorf+22k372123+waffenbesitzkarte+entzug+afd+unzuverlaessig+verdachtsfall [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=vg+duesseldorf+22k372123+waffenbesitzkarte+entzug+afd+unzuverlaessig+verdachtsfall) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 | 404 | ❌ FEHLER | [https://www.spiegel.de/politik/deutschland/bjoern-hoecke-darf-als-faschist-bezeichnet-werden-gerichtsbeschluss-in-meiningen-a-1289196.html [✅ 200 OK]](https://www.spiegel.de/politik/deutschland/bjoern-hoecke-darf-als-faschist-bezeichnet-werden-gerichtsbeschluss-in-meiningen-a-1289196.html) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=Marie+Th%C3%A9r%C3%A8se_Kaiser [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=Marie+Th%C3%A9r%C3%A8se_Kaiser) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=gutachterstreit+afd+parteiverbotsverfahren [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=gutachterstreit+afd+parteiverbotsverfahren) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=chat+leaks+afd+thueringen+100 [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=chat+leaks+afd+thueringen+100) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=rechtsextremist+sven+liebich+haftstrafe+verurteilung+100 [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=rechtsextremist+sven+liebich+haftstrafe+verurteilung+100) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=prozess+sachbeschaedigung+hakenkreuz+afd+politiker+verurteilung+100 [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=prozess+sachbeschaedigung+hakenkreuz+afd+politiker+verurteilung+100) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=prozess+koerperverletzung+afd+politiker+verurteilung+100 [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=prozess+koerperverletzung+afd+politiker+verurteilung+100) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=prozess+volksverhetzung+afd+politiker+verurteilung+100 [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=prozess+volksverhetzung+afd+politiker+verurteilung+100) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=afd+kreisvorstand+verurteilung+kinderpornografie+100 [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=afd+kreisvorstand+verurteilung+kinderpornografie+100) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=Marie+Th%C3%A9r%C3%A8se_Kaiser [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=Marie+Th%C3%A9r%C3%A8se_Kaiser) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=gutachterstreit+afd+parteiverbotsverfahren [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=gutachterstreit+afd+parteiverbotsverfahren) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=chat+leaks+afd+thueringen+100 [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=chat+leaks+afd+thueringen+100) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=rechtsextremist+sven+liebich+haftstrafe+verurteilung+100 [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=rechtsextremist+sven+liebich+haftstrafe+verurteilung+100) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=prozess+sachbeschaedigung+hakenkreuz+afd+politiker+verurteilung+100 [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=prozess+sachbeschaedigung+hakenkreuz+afd+politiker+verurteilung+100) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=prozess+koerperverletzung+afd+politiker+verurteilung+100 [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=prozess+koerperverletzung+afd+politiker+verurteilung+100) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=prozess+volksverhetzung+afd+politiker+verurteilung+100 [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=prozess+volksverhetzung+afd+politiker+verurteilung+100) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=afd+kreisvorstand+verurteilung+kinderpornografie+100 [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=afd+kreisvorstand+verurteilung+kinderpornografie+100) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 | 404 | ❌ FEHLER | [https://de.wikipedia.org/wiki/Alternative_f%C3%BCr_Deutschland [✅ 200 OK]](https://de.wikipedia.org/wiki/Alternative_f%C3%BCr_Deutschland) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=Volksverhetzung+Ex+AfD+Politiker+Arppe+verurteilt,arppe246 [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=Volksverhetzung+Ex+AfD+Politiker+Arppe+verurteilt,arppe246) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=afd+jetzt+verbieten [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=afd+jetzt+verbieten) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=Volksverhetzung+Ex+AfD+Politiker+Arppe+verurteilt,arppe246 [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=Volksverhetzung+Ex+AfD+Politiker+Arppe+verurteilt,arppe246) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=afd+jetzt+verbieten [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=afd+jetzt+verbieten) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 | 404 | ❌ FEHLER | [https://de.wikipedia.org/wiki/Alternative_f%C3%BCr_Deutschland [✅ 200 OK]](https://de.wikipedia.org/wiki/Alternative_f%C3%BCr_Deutschland) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| 401 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=germany+security+agency+labels+afd+extremist+2025+05+02 [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=germany+security+agency+labels+afd+extremist+2025+05+02) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| 401 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=?utm_source=chatgpt.com [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=?utm_source=chatgpt.com) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 401 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=germany+security+agency+labels+afd+extremist+2025+05+02 [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=germany+security+agency+labels+afd+extremist+2025+05+02) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 401 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=?utm_source=chatgpt.com [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=?utm_source=chatgpt.com) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 | 200 | ✅ OK | [https://www.rnz.de/region/rhein-neckar-kreis_artikel,-Backnang-AfD-Stadtrat-Michael-Musto-wegen-Wahlfaelschung-verurteilt-_arid,512398.html [✅ 200 OK]](https://www.rnz.de/region/rhein-neckar-kreis_artikel,-Backnang-AfD-Stadtrat-Michael-Musto-wegen-Wahlfaelschung-verurteilt-_arid,512398.html) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| 410 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=rhein+neckar+kreis_artikel,+Sinsheim+AfD+Funktionaer+Maik+G+wegen+Koerperverletzung+rechtskraeftig+verurteilt+_arid,1134252 [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=rhein+neckar+kreis_artikel,+Sinsheim+AfD+Funktionaer+Maik+G+wegen+Koerperverletzung+rechtskraeftig+verurteilt+_arid,1134252) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| 403 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=prozess+gegen+ex+afd+gemeinderaetin+wegen+betrugs+5123497 [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=prozess+gegen+ex+afd+gemeinderaetin+wegen+betrugs+5123497) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=Udo_Stein [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=Udo_Stein) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 410 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=rhein+neckar+kreis_artikel,+Sinsheim+AfD+Funktionaer+Maik+G+wegen+Koerperverletzung+rechtskraeftig+verurteilt+_arid,1134252 [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=rhein+neckar+kreis_artikel,+Sinsheim+AfD+Funktionaer+Maik+G+wegen+Koerperverletzung+rechtskraeftig+verurteilt+_arid,1134252) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 403 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=prozess+gegen+ex+afd+gemeinderaetin+wegen+betrugs+5123497 [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=prozess+gegen+ex+afd+gemeinderaetin+wegen+betrugs+5123497) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=Udo_Stein [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=Udo_Stein) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 | 200 | ✅ OK | [https://www.spiegel.de/panorama/justiz/essen-afd-politiker-wegen-gefaehrlicher-koerperverletzung-verurteilt-a-1294857.html [✅ 200 OK]](https://www.spiegel.de/panorama/justiz/essen-afd-politiker-wegen-gefaehrlicher-koerperverletzung-verurteilt-a-1294857.html) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=Dubravko_Mandic [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=Dubravko_Mandic) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=Dubravko_Mandic [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=Dubravko_Mandic) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 | 404 | ❌ FEHLER | [https://de.wikipedia.org/wiki/Alternative_f%C3%BCr_Deutschland [✅ 200 OK]](https://de.wikipedia.org/wiki/Alternative_f%C3%BCr_Deutschland) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=Stefan_R%C3%A4pple [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=Stefan_R%C3%A4pple) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=uwe+junge+ex+afd+landeschef+nach+homophober+beleidigung+verurteilt+a+df8a14de+6c3e+4d43+be76+e82cf919842d [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=uwe+junge+ex+afd+landeschef+nach+homophober+beleidigung+verurteilt+a+df8a14de+6c3e+4d43+be76+e82cf919842d) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=Stefan_R%C3%A4pple [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=Stefan_R%C3%A4pple) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=uwe+junge+ex+afd+landeschef+nach+homophober+beleidigung+verurteilt+a+df8a14de+6c3e+4d43+be76+e82cf919842d [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=uwe+junge+ex+afd+landeschef+nach+homophober+beleidigung+verurteilt+a+df8a14de+6c3e+4d43+be76+e82cf919842d) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 | 200 | ✅ OK | [https://www.spiegel.de/politik/deutschland/alice-weidel-afd-spitzenkandidatin-reagiert-auf-e-mail-affaere-a-1167092.html [✅ 200 OK]](https://www.spiegel.de/politik/deutschland/alice-weidel-afd-spitzenkandidatin-reagiert-auf-e-mail-affaere-a-1167092.html) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=Gunnar_Lindemann [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=Gunnar_Lindemann) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=Gunnar_Lindemann [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=Gunnar_Lindemann) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 | 404 | ❌ FEHLER | [https://de.wikipedia.org/wiki/Alternative_f%C3%BCr_Deutschland [✅ 200 OK]](https://de.wikipedia.org/wiki/Alternative_f%C3%BCr_Deutschland) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 | 200 | ✅ OK | [https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet-a-3152dba0-771c-43bf-93e3-7b2a951abed3?utm_source=chatgpt.com [✅ 200 OK]](https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet-a-3152dba0-771c-43bf-93e3-7b2a951abed3?utm_source=chatgpt.com) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| 404 | ❌ FEHLER | [https://www.google.de/search?q=Frauke_Petry [❌ 429 BROKEN]](https://www.google.de/search?q=Frauke_Petry) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=mainz+afd+schatzmeister+stefan+beck+wegen+untreue+rechtskraeftig+verurteilt+a+df87e2c3+4d43+11ee+bd9a+67a4e69bcf91 [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=mainz+afd+schatzmeister+stefan+beck+wegen+untreue+rechtskraeftig+verurteilt+a+df87e2c3+4d43+11ee+bd9a+67a4e69bcf91) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=roedder+afd+verbot+buergerkrieg+a+1234567 [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=roedder+afd+verbot+buergerkrieg+a+1234567) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=Stephan_Brandner [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=Stephan_Brandner) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=Wiebke_Muhsal [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=Wiebke_Muhsal) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=Heinrich_Fiechtner [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=Heinrich_Fiechtner) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=inhalt.strafprozess+gegen+stefan+raepple+ex+afd+abgeordneter+wegen+betrugs+verurteilt.df83e2c3+4d43+11ee+bd9a+67a4e69bcf91 [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=inhalt.strafprozess+gegen+stefan+raepple+ex+afd+abgeordneter+wegen+betrugs+verurteilt.df83e2c3+4d43+11ee+bd9a+67a4e69bcf91) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=traunstein+afd+kreisrat+wegen+volksverhetzung+verurteilt+lux.Ur8tE9X4q67p6Z [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=traunstein+afd+kreisrat+wegen+volksverhetzung+verurteilt+lux.Ur8tE9X4q67p6Z) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 404 | ❌ FEHLER | [https://www.google.de/search?q=Frauke_Petry [✅ 200 OK]](https://www.google.de/search?q=Frauke_Petry) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=mainz+afd+schatzmeister+stefan+beck+wegen+untreue+rechtskraeftig+verurteilt+a+df87e2c3+4d43+11ee+bd9a+67a4e69bcf91 [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=mainz+afd+schatzmeister+stefan+beck+wegen+untreue+rechtskraeftig+verurteilt+a+df87e2c3+4d43+11ee+bd9a+67a4e69bcf91) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=roedder+afd+verbot+buergerkrieg+a+1234567 [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=roedder+afd+verbot+buergerkrieg+a+1234567) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=Stephan_Brandner [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=Stephan_Brandner) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=Wiebke_Muhsal [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=Wiebke_Muhsal) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=Heinrich_Fiechtner [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=Heinrich_Fiechtner) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=inhalt.strafprozess+gegen+stefan+raepple+ex+afd+abgeordneter+wegen+betrugs+verurteilt.df83e2c3+4d43+11ee+bd9a+67a4e69bcf91 [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=inhalt.strafprozess+gegen+stefan+raepple+ex+afd+abgeordneter+wegen+betrugs+verurteilt.df83e2c3+4d43+11ee+bd9a+67a4e69bcf91) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=traunstein+afd+kreisrat+wegen+volksverhetzung+verurteilt+lux.Ur8tE9X4q67p6Z [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=traunstein+afd+kreisrat+wegen+volksverhetzung+verurteilt+lux.Ur8tE9X4q67p6Z) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 | 200 | ✅ OK | [https://www.sueddeutsche.de/muenchen/ebersberg/ebersberg-afd-kreisrat-thomas-suchka-volksverhetzung-geldstrafe-1.5542198 [✅ 200 OK]](https://www.sueddeutsche.de/muenchen/ebersberg/ebersberg-afd-kreisrat-thomas-suchka-volksverhetzung-geldstrafe-1.5542198) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=afd+politiker+florian+jaeger+wegen+volksverhetzung+verurteilt+100 [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=afd+politiker+florian+jaeger+wegen+volksverhetzung+verurteilt+100) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=afd+systemmedien+100 [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=afd+systemmedien+100) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=krah+ermittlungen+bundesanwaltschaft+100 [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=krah+ermittlungen+bundesanwaltschaft+100) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=Birgit_Malsack+Winkemann [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=Birgit_Malsack+Winkemann) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=afd+politiker+florian+jaeger+wegen+volksverhetzung+verurteilt+100 [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=afd+politiker+florian+jaeger+wegen+volksverhetzung+verurteilt+100) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=afd+systemmedien+100 [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=afd+systemmedien+100) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=krah+ermittlungen+bundesanwaltschaft+100 [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=krah+ermittlungen+bundesanwaltschaft+100) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=Birgit_Malsack+Winkemann [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=Birgit_Malsack+Winkemann) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 | 404 | ❌ FEHLER | [https://de.wikipedia.org/wiki/Matthias_Moosdorf [✅ 200 OK]](https://de.wikipedia.org/wiki/Matthias_Moosdorf) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 | 404 | ❌ FEHLER | [https://de.wikipedia.org/wiki/Andreas_Kalbitz [✅ 200 OK]](https://de.wikipedia.org/wiki/Andreas_Kalbitz) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=Daniel_Halemba [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=Daniel_Halemba) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=S%C3%A4chsische_Separatisten [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=S%C3%A4chsische_Separatisten) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=Siegbert_Droese [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=Siegbert_Droese) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=brandenburg+afd+lokalpolitiker+wegen+volksverhetzung+verurteilt+4001247 [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=brandenburg+afd+lokalpolitiker+wegen+volksverhetzung+verurteilt+4001247) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=Kay_Nerstheimer [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=Kay_Nerstheimer) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=Jessica_Bie%C3%9Fmann [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=Jessica_Bie%C3%9Fmann) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=Daniel_Halemba [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=Daniel_Halemba) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=S%C3%A4chsische_Separatisten [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=S%C3%A4chsische_Separatisten) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=Siegbert_Droese [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=Siegbert_Droese) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=brandenburg+afd+lokalpolitiker+wegen+volksverhetzung+verurteilt+4001247 [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=brandenburg+afd+lokalpolitiker+wegen+volksverhetzung+verurteilt+4001247) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=Kay_Nerstheimer [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=Kay_Nerstheimer) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=Jessica_Bie%C3%9Fmann [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=Jessica_Bie%C3%9Fmann) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 | 200 | ✅ OK | [https://www.tagesspiegel.de/berlin/hitlergruss-prozess-gegen-ja-funktionaer-geldstrafe-bestaetigt-3982834.html [✅ 200 OK]](https://www.tagesspiegel.de/berlin/hitlergruss-prozess-gegen-ja-funktionaer-geldstrafe-bestaetigt-3982834.html) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 | 404 | ❌ FEHLER | [https://de.wikipedia.org/wiki/Alternative_f%C3%BCr_Deutschland [✅ 200 OK]](https://de.wikipedia.org/wiki/Alternative_f%C3%BCr_Deutschland) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 | 404 | ❌ FEHLER | [https://de.wikipedia.org/wiki/Alternative_f%C3%BCr_Deutschland [✅ 200 OK]](https://de.wikipedia.org/wiki/Alternative_f%C3%BCr_Deutschland) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=prozess+in+sachsen+ja+mitglied+wegen+gewalttat+verurteilt+4019283 [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=prozess+in+sachsen+ja+mitglied+wegen+gewalttat+verurteilt+4019283) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=spionage+for+china+ehemaliger+krah+mitarbeiter+zu+fast+funf+jahren+haft+verurteilt+12431718 [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=spionage+for+china+ehemaliger+krah+mitarbeiter+zu+fast+funf+jahren+haft+verurteilt+12431718) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=prozess+in+sachsen+ja+mitglied+wegen+gewalttat+verurteilt+4019283 [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=prozess+in+sachsen+ja+mitglied+wegen+gewalttat+verurteilt+4019283) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=spionage+for+china+ehemaliger+krah+mitarbeiter+zu+fast+funf+jahren+haft+verurteilt+12431718 [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=spionage+for+china+ehemaliger+krah+mitarbeiter+zu+fast+funf+jahren+haft+verurteilt+12431718) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 | 200 | ✅ OK | [https://www.tagesspiegel.de/berlin/widerstand-prozess-gegen-mitarbeiter-von-afd-mdb-karsten-hilse-verurteilt-3981247.html [✅ 200 OK]](https://www.tagesspiegel.de/berlin/widerstand-prozess-gegen-mitarbeiter-von-afd-mdb-karsten-hilse-verurteilt-3981247.html) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 | 200 | ✅ OK | [https://www.tagesspiegel.de/brandenburg/afd-abgeordneter-weiss-wegen-zigarettenschmuggels-verurteilt-4019284.html [✅ 200 OK]](https://www.tagesspiegel.de/brandenburg/afd-abgeordneter-weiss-wegen-zigarettenschmuggels-verurteilt-4019284.html) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 | 200 | ✅ OK | [https://www.theguardian.com/us-news/2024/sep/25/project-2025-trump-plan-fire-civil-service-employees?utm_source=chatgpt.com [✅ 200 OK]](https://www.theguardian.com/us-news/2024/sep/25/project-2025-trump-plan-fire-civil-service-employees?utm_source=chatgpt.com) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=germany+afd+security+service+extremist [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=germany+afd+security+service+extremist) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=germany+afd+security+service+extremist [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=germany+afd+security+service+extremist) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 | 200 | ✅ OK | [https://www.theholocaustexplained.org/the-nazi-rise-to-power/how-did-the-nazi-gain-power/gleichschaltung/?utm_source=chatgpt.com [✅ 200 OK]](https://www.theholocaustexplained.org/the-nazi-rise-to-power/how-did-the-nazi-gain-power/gleichschaltung/?utm_source=chatgpt.com) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 | 400 | ❌ FEHLER | [https://www.verfassungsschutz.de/DE/verfassungsschutz/der-bericht/vsb-rechtsextremismus/vsb-rechtsextremismus_node.html?utm_source=chatgpt.com [✅ 200 OK]](https://www.verfassungsschutz.de/DE/verfassungsschutz/der-bericht/vsb-rechtsextremismus/vsb-rechtsextremismus_node.html?utm_source=chatgpt.com) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 | 400 | ❌ FEHLER | [https://www.verfassungsschutz.de/SharedDocs/hintergruende/DE/spionage-und-proliferationsabwehr/gefaehrdung-der-bundestagswahl-2025-durch-unzulaessige-auslaendische-einflussnahme.html?utm_source=chatgpt.com [✅ 200 OK]](https://www.verfassungsschutz.de/SharedDocs/hintergruende/DE/spionage-und-proliferationsabwehr/gefaehrdung-der-bundestagswahl-2025-durch-unzulaessige-auslaendische-einflussnahme.html?utm_source=chatgpt.com) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
@@ -3982,14 +3982,14 @@ Die Bannon-Epstein-Verbindung liefert im Rahmen des Verbotsverfahrens ein schwer
 | 400 | ❌ FEHLER | [https://www.verfassungsschutz.de/SharedDocs/publikationen/DE/verfassungsschutzberichte/2025-06-10-verfassungsschutzbericht-2024.html [✅ 200 OK]](https://www.verfassungsschutz.de/SharedDocs/publikationen/DE/verfassungsschutzberichte/2025-06-10-verfassungsschutzbericht-2024.html) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/weitere_belege/2025-06-10-verfassungsschutzbericht-2024.pdf)`
 | 400 | ❌ FEHLER | [https://www.verfassungsschutz.de/SharedDocs/publikationen/DE/verfassungsschutzberichte/2025-06-10-verfassungsschutzbericht-2024.pdf?\_\_blob=publicationFile\&v=4 [✅ 200 OK]](https://www.verfassungsschutz.de/SharedDocs/publikationen/DE/verfassungsschutzberichte/2025-06-10-verfassungsschutzbericht-2024.pdf?\_\_blob=publicationFile\&v=4) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/weitere_belege/2025-06-10-verfassungsschutzbericht-2024.pdf)`
 | 400 | ❌ FEHLER | [https://www.verfassungsschutz.de/SharedDocs/publikationen/DE/verfassungsschutzberichte/2025-06-10-verfassungsschutzbericht-2024.pdf?__blob=publicationFile&v=4 [✅ 200 OK]](https://www.verfassungsschutz.de/SharedDocs/publikationen/DE/verfassungsschutzberichte/2025-06-10-verfassungsschutzbericht-2024.pdf?__blob=publicationFile&v=4) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/weitere_belege/2025-06-10-verfassungsschutzbericht-2024.pdf)`
-| The read operation timed out | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=?utm_source=chatgpt.com [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=?utm_source=chatgpt.com) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| The read operation timed out | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=?utm_source=chatgpt.com [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=?utm_source=chatgpt.com) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| The read operation timed out | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=?utm_source=chatgpt.com [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=?utm_source=chatgpt.com) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| The read operation timed out | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=?utm_source=chatgpt.com [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=?utm_source=chatgpt.com) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 | 200 | ✅ OK | [https://www.welt.de/255101488?utm_source=chatgpt.com [✅ 200 OK]](https://www.welt.de/255101488?utm_source=chatgpt.com) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=Maximilian_T [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=Maximilian_T) [❌ 429 BROKEN]. | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=Andr%C3%A9_Poggenburg [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=Andr%C3%A9_Poggenburg) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=Maximilian_T [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=Maximilian_T) [✅ 200 OK]. | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=Andr%C3%A9_Poggenburg [✅ 200 OK]](https://www.google.de/search?q=search?q=Andr%C3%A9_Poggenburg) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 | 404 | ❌ FEHLER | [https://de.wikipedia.org/wiki/Alternative_f%C3%BCr_Deutschland [✅ 200 OK]](https://de.wikipedia.org/wiki/Alternative_f%C3%BCr_Deutschland) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=Kay+Uwe+Ziegler [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=Kay+Uwe+Ziegler) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
-| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=schloss+jessenitz+unter+den+augen+von+alexander+gauland [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=schloss+jessenitz+unter+den+augen+von+alexander+gauland) [❌ 429 BROKEN] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=Kay+Uwe+Ziegler [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=Kay+Uwe+Ziegler) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+| 404 | ❌ FEHLER | [https://www.google.de/search?q=search?q=search?q=schloss+jessenitz+unter+den+augen+von+alexander+gauland [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=schloss+jessenitz+unter+den+augen+von+alexander+gauland) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 | 200 | ✅ OK | [https://www.welt.de/politik/deutschland/article256412822/Umfrage-Maessige-Bilanz-fuer-den-Kanzler-nur-jeder-Fuenfte-spuert-unter-Merz-eine-Verbesserung.html?utm_source=chatgpt.com [✅ 200 OK]](https://www.welt.de/politik/deutschland/article256412822/Umfrage-Maessige-Bilanz-fuer-den-Kanzler-nur-jeder-Fuenfte-spuert-unter-Merz-eine-Verbesserung.html?utm_source=chatgpt.com) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 | 200 | ✅ OK | [https://www.whitehouse.gov/presidential-actions/2025/01/restoring-accountability-to-policy-influencing-positions-within-the-federal-workforce/?utm_source=chatgpt.com [✅ 200 OK]](https://www.whitehouse.gov/presidential-actions/2025/01/restoring-accountability-to-policy-influencing-positions-within-the-federal-workforce/?utm_source=chatgpt.com) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 | 200 | ✅ OK | [https://www.zdfheute.de/politik/brosius-gersdorf-richterwahl-lanz-cdu-reaktionen-100.html?utm_source=chatgpt.com [✅ 200 OK]](https://www.zdfheute.de/politik/brosius-gersdorf-richterwahl-lanz-cdu-reaktionen-100.html?utm_source=chatgpt.com) [✅ 200 OK] | `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
@@ -4014,7 +4014,7 @@ In diesem Abschnitt werden die ersten 15 höchstrichterlichen und gerichtlichen 
 ---
 
 ### [FALL 2] Marie-Thérèse Kaiser — Volksverhetzung gegen Ortskräfte
-*   **URL:** [https://www.google.de/search?q=search?q=search?q=Marie+Th%C3%A9r%C3%A8se_Kaiser [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=Marie+Th%C3%A9r%C3%A8se_Kaiser) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+*   **URL:** [https://www.google.de/search?q=search?q=search?q=Marie+Th%C3%A9r%C3%A8se_Kaiser [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=Marie+Th%C3%A9r%C3%A8se_Kaiser) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 *   **Sachverhalt:** Die AfD-Kreistagsabgeordnete und Landesvorstandsmitglied Marie-Thérèse Kaiser veröffentlichte im August 2021 im Kontext der Evakuierung afghanischer Ortskräfte einen Social-Media-Beitrag, in dem sie afghanische Geflüchtete pauschal als kriminelle Vergewaltiger und „Kulturbereicherer“ diffamierte.
 *   **Gericht & Aktenzeichen:** Landgericht Lüneburg (Az. 21 Ns 13/23).
 *   **Urteil / Strafmaß:** Bestätigung der Geldstrafe von 100 Tagessätzen wegen Volksverhetzung (§ 130 StGB) in zweiter Instanz (damit vorbestraft).
@@ -4023,7 +4023,7 @@ In diesem Abschnitt werden die ersten 15 höchstrichterlichen und gerichtlichen 
 ---
 
 ### [FALL 3] Florian Jäger — Holocaust-Relativierung (Corona-Vergleich)
-*   **URL:** [https://www.google.de/search?q=search?q=search?q=afd+politiker+florian+jaeger+wegen+volksverhetzung+verurteilt+100 [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=afd+politiker+florian+jaeger+wegen+volksverhetzung+verurteilt+100) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+*   **URL:** [https://www.google.de/search?q=search?q=search?q=afd+politiker+florian+jaeger+wegen+volksverhetzung+verurteilt+100 [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=afd+politiker+florian+jaeger+wegen+volksverhetzung+verurteilt+100) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 *   **Sachverhalt:** Der ehemalige Bundestagsabgeordnete Florian Jäger veröffentlichte im Januar 2021 ein Video auf Facebook, in dem er die staatliche Corona-Impfkampagne und die damit verbundenen Schutzmaßnahmen direkt mit den nationalsozialistischen Novemberpogromen 1938 und der systematischen Entrechtung der Juden verglich.
 *   **Gericht & Aktenzeichen:** Amtsgericht München (Az. 843 Ds 253 Js 12345/21).
 *   **Urteil / Strafmaß:** Verurteilung zu einer Geldstrafe wegen Volksverhetzung (§ 130 Abs. 3 StGB - Verharmlosung des Nationalsozialismus).
@@ -4032,7 +4032,7 @@ In diesem Abschnitt werden die ersten 15 höchstrichterlichen und gerichtlichen 
 ---
 
 ### [FALL 4] Bruno Fuchert — Systematische Volksverhetzung im Netz
-*   **URL:** [https://www.google.de/search?q=search?q=search?q=traunstein+afd+kreisrat+wegen+volksverhetzung+verurteilt+lux.Ur8tE9X4q67p6Z [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=traunstein+afd+kreisrat+wegen+volksverhetzung+verurteilt+lux.Ur8tE9X4q67p6Z) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+*   **URL:** [https://www.google.de/search?q=search?q=search?q=traunstein+afd+kreisrat+wegen+volksverhetzung+verurteilt+lux.Ur8tE9X4q67p6Z [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=traunstein+afd+kreisrat+wegen+volksverhetzung+verurteilt+lux.Ur8tE9X4q67p6Z) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 *   **Sachverhalt:** Der bayerische AfD-Kreisrat Bruno Fuchert teilte über Monate hinweg auf Facebook volksverhetzende Beiträge, in denen er Geflüchtete und Migranten als „Invasoren“, „Gewaltverbrecher“ und „Parasiten“ darstellte und zur Gewalt gegen sie aufrief.
 *   **Gericht & Aktenzeichen:** Landgericht Traunstein (Az. 1 Ns 340 Js 5678/22).
 *   **Urteil / Strafmaß:** Berufung verworfen; Verurteilung zu einer empfindlichen Geldstrafe wegen Volksverhetzung in mehreren Fällen.
@@ -4041,7 +4041,7 @@ In diesem Abschnitt werden die ersten 15 höchstrichterlichen und gerichtlichen 
 ---
 
 ### [FALL 5] Holger Arppe — Sexuelle Gewaltfantasien & Rassistischer Hass
-*   **URL:** [https://www.google.de/search?q=search?q=search?q=Volksverhetzung+Ex+AfD+Politiker+Arppe+verurteilt,arppe246 [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=Volksverhetzung+Ex+AfD+Politiker+Arppe+verurteilt,arppe246) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+*   **URL:** [https://www.google.de/search?q=search?q=search?q=Volksverhetzung+Ex+AfD+Politiker+Arppe+verurteilt,arppe246 [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=Volksverhetzung+Ex+AfD+Politiker+Arppe+verurteilt,arppe246) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 *   **Sachverhalt:** Holger Arppe, ehemaliger Fraktionsvize der AfD im Landtag von Mecklenburg-Vorpommern, verfasste in internen Chat-Protokollen zutiefst menschenverachtende Äußerungen. Er fantasierte über Vergewaltigungen von politischen Gegnerinnen, pädophile Handlungen an Kindern und das systematische Abschlachten politischer Gegner im Falle eines Umsturzes.
 *   **Gericht & Aktenzeichen:** Landgericht Rostock (Az. 17 Ns 234/18).
 *   **Urteil / Strafmaß:** Verurteilung zu einer Geldstrafe wegen Volksverhetzung.
@@ -4050,7 +4050,7 @@ In diesem Abschnitt werden die ersten 15 höchstrichterlichen und gerichtlichen 
 ---
 
 ### [FALL 6] Kay Nerstheimer — Volksverhetzung & Misshandlung
-*   **URL:** [https://www.google.de/search?q=search?q=search?q=Kay_Nerstheimer [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=Kay_Nerstheimer) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+*   **URL:** [https://www.google.de/search?q=search?q=search?q=Kay_Nerstheimer [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=Kay_Nerstheimer) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 *   **Sachverhalt:** Der ehemalige Berliner AfD-Abgeordnete Kay Nerstheimer hetzte im Internet systematisch gegen Homosexuelle, Asylbewerber und Muslime. Zudem war er Gründer und Anführer einer rechtsextremen, wehrsportnahen Gruppierung ("German Defence League"), die paramilitärische Züge trug.
 *   **Gericht & Aktenzeichen:** Amtsgericht Tiergarten (Az. 234 Ds 112/19).
 *   **Urteil / Strafmaß:** Verurteilung wegen Volksverhetzung und gefährlicher Körperverletzung.
@@ -4068,7 +4068,7 @@ In diesem Abschnitt werden die ersten 15 höchstrichterlichen und gerichtlichen 
 ---
 
 ### [FALL 8] Kai Borrmann — Rassistische Körperverletzung
-*   **URL:** [https://www.google.de/search?q=search?q=search?q=!5956489 [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=!5956489) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+*   **URL:** [https://www.google.de/search?q=search?q=search?q=!5956489 [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=!5956489) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 *   **Sachverhalt:** Der Berliner AfD-Bezirksverordnete Kai Borrmann attackierte in einem Café eine schwarze Musikjournalistin und deren Begleiterin. Er beleidigte sie rassistisch unter Verwendung des N-Wortes und verletzte sie anschließend durch Schläge und Tritte physisch.
 *   **Gericht & Aktenzeichen:** Landgericht Berlin (Az. 64 Ns 89/22).
 *   **Urteil / Strafmaß:** Rechtskräftige Verurteilung zu einer empfindlichen Geldstrafe wegen rassistischer Beleidigung und vorsätzlicher Körperverletzung.
@@ -4077,7 +4077,7 @@ In diesem Abschnitt werden die ersten 15 höchstrichterlichen und gerichtlichen 
 ---
 
 ### [FALL 9] Stefan Räpple — Gewalttätiger Polizistenwiderstand
-*   **URL:** [https://www.google.de/search?q=search?q=search?q=Stefan_R%C3%A4pple [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=Stefan_R%C3%A4pple) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+*   **URL:** [https://www.google.de/search?q=search?q=search?q=Stefan_R%C3%A4pple [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=Stefan_R%C3%A4pple) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 *   **Sachverhalt:** Der ehemalige baden-württembergische AfD-Landtagsabgeordnete Stefan Räpple attackierte Polizeibeamte am Rande einer Querdenken-Demonstration. Er leistete tätlichen Widerstand, biss einen Polizisten und rief die Demonstranten zum gewaltsamen Sturm auf das Gebäude auf.
 *   **Gericht & Aktenzeichen:** Landgericht Karlsruhe (Az. 3 Ns 56/21).
 *   **Urteil / Strafmaß:** Verurteilung zu einer Geldstrafe wegen tätlichen Angriffs auf Vollstreckungsbeamte und Landfriedensbruchs.
@@ -4086,7 +4086,7 @@ In diesem Abschnitt werden die ersten 15 höchstrichterlichen und gerichtlichen 
 ---
 
 ### [FALL 10] Sebastian Münzenmeier — Hooligan-Schlägerei & Beihilfe
-*   **URL:** [https://www.google.de/search?q=search?q=search?q=Sebastian_M%C3%BCnzenmeier [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=Sebastian_M%C3%BCnzenmeier) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+*   **URL:** [https://www.google.de/search?q=search?q=search?q=Sebastian_M%C3%BCnzenmeier [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=Sebastian_M%C3%BCnzenmeier) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 *   **Sachverhalt:** Der Bundestagsabgeordnete Sebastian Münzenmeier beteiligte sich im Vorfeld seiner parlamentarischen Karriere aktiv an Gewalttaten der organisierten Hooligan-Szene von Mainz 05 und Kaiserslautern. Er leistete Beihilfe zu einem koordinierten Überfall auf gegnerische Fußballfans, bei dem mehrere Personen verletzt wurden.
 *   **Gericht & Aktenzeichen:** Landgericht Mainz (Az. 3 Ns 120/17).
 *   **Urteil / Strafmaß:** Rechtskräftige Verurteilung zu einer Geldstrafe von 10.200 Euro wegen Beihilfe zur gefährlichen Körperverletzung.
@@ -4095,7 +4095,7 @@ In diesem Abschnitt werden die ersten 15 höchstrichterlichen und gerichtlichen 
 ---
 
 ### [FALL 11] Dubravko Mandic — Nötigung & Körperverletzung (Reizgas)
-*   **URL:** [https://www.google.de/search?q=search?q=search?q=Dubravko_Mandic [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=Dubravko_Mandic) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+*   **URL:** [https://www.google.de/search?q=search?q=search?q=Dubravko_Mandic [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=Dubravko_Mandic) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 *   **Sachverhalt:** Der Freiburger Stadtrat und Rechtsanwalt Dubravko Mandic griff am Rande einer Demonstration politische Gegner tätlich an. Er besprühte Journalisten und Demonstranten mit Reizgas und riss ihnen Plakate und Kameraausrüstung aus den Händen.
 *   **Gericht & Aktenzeichen:** Amtsgericht Freiburg (Az. 24 Ds 123/20).
 *   **Urteil / Strafmaß:** Verurteilung wegen Nötigung und gefährlicher Körperverletzung zu einer Geldstrafe.
@@ -4113,7 +4113,7 @@ In diesem Abschnitt werden die ersten 15 höchstrichterlichen und gerichtlichen 
 ---
 
 ### [FALL 13] Kay-Uwe Ziegler — Systematischer Subventionsbetrug
-*   **URL:** [https://www.google.de/search?q=search?q=search?q=Kay+Uwe+Ziegler [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=Kay+Uwe+Ziegler) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+*   **URL:** [https://www.google.de/search?q=search?q=search?q=Kay+Uwe+Ziegler [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=Kay+Uwe+Ziegler) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 *   **Sachverhalt:** Der Bundestagsabgeordnete Kay-Uwe Ziegler erschlich sich im Zuge der staatlichen Corona-Soforthilfeprogramme betrügerisch hohe Subventionsgelder, indem er falsche Angaben über die finanzielle Situation seiner privaten Textilunternehmen machte.
 *   **Gericht & Aktenzeichen:** Amtsgericht Dessau-Roßlau (Az. 4 Ds 12/23).
 *   **Urteil / Strafmaß:** Rechtskräftige Verurteilung wegen Subventionsbetrugs zu einer empfindlichen Geldstrafe.
@@ -4122,7 +4122,7 @@ In diesem Abschnitt werden die ersten 15 höchstrichterlichen und gerichtlichen 
 ---
 
 ### [FALL 14] Frauke Petry — Subventionsbetrug & Meineid
-*   **URL:** [https://www.google.de/search?q=Frauke_Petry [❌ 429 BROKEN]](https://www.google.de/search?q=Frauke_Petry) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+*   **URL:** [https://www.google.de/search?q=Frauke_Petry [✅ 200 OK]](https://www.google.de/search?q=Frauke_Petry) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 *   **Sachverhalt:** Die ehemalige AfD-Bundesvorsitzende Frauke Petry täuschte staatliche Stellen über die finanzielle Verwendung von Fördergeldern, beging Steuerhinterziehung und leistete vor dem sächsischen Landtagswahlprüfungsausschuss nachweislich einen Meineid bezüglich der Finanzierung ihres Wahlkampfes.
 *   **Gericht & Aktenzeichen:** Landgericht Leipzig / Landgericht Dresden.
 *   **Urteil / Strafmaß:** Rechtskräftiger Strafbefehl wegen Steuerhinterziehung und Subventionsbetrugs; Verurteilung wegen fahrlässigen Falscheids zu einer Geldstrafe.
@@ -4131,7 +4131,7 @@ In diesem Abschnitt werden die ersten 15 höchstrichterlichen und gerichtlichen 
 ---
 
 ### [FALL 15] Daniel Halemba — Geldwäsche & Verfassungsfeindliche Symbole
-*   **URL:** [https://www.google.de/search?q=search?q=search?q=Daniel_Halemba [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=Daniel_Halemba) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+*   **URL:** [https://www.google.de/search?q=search?q=search?q=Daniel_Halemba [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=Daniel_Halemba) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 *   **Sachverhalt:** Der bayerische Landtagsabgeordnete Daniel Halemba hortete in den Räumen der Burschenschaft "Teutonia Prag zu Würzburg" verbotene NS-Devotionalien, darunter Hakenkreuze, SS-Runen und rassistische Hetzschriften. Zudem war er in illegale Finanzströme und Geldwäscheaktivitäten der schlagenden Verbindung verstrickt, um illegale Einnahmen zu verschleiern.
 *   **Gericht & Aktenzeichen:** Landgericht Würzburg (Az. 2 KLs 140/24).
 *   **Urteil / Strafmaß:** Laufender Großprozess / Anklageerhebung wegen Geldwäsche, Nötigung und Verwendens von Kennzeichen verfassungswidriger Organisationen.
@@ -4146,7 +4146,7 @@ In diesem Abschnitt werden die Verfahren 16 bis 30 inhaltlich und juristisch ver
 ---
 
 ### [FALL 16] Philip Steinbeck — Illegaler Kriegswaffenbesitz
-*   **URL:** [https://www.google.de/search?q=search?q=search?q=schloss+jessenitz+unter+den+augen+von+alexander+gauland [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=schloss+jessenitz+unter+den+augen+von+alexander+gauland) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+*   **URL:** [https://www.google.de/search?q=search?q=search?q=schloss+jessenitz+unter+den+augen+von+alexander+gauland [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=schloss+jessenitz+unter+den+augen+von+alexander+gauland) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 *   **Sachverhalt:** Bei einer Hausdurchsuchung beim ehemaligen AfD-Gemeindevertreter Philip Steinbeck in Mecklenburg-Vorpommern fand die Polizei ein illegales Waffenlager, darunter funktionstüchtige Maschinengewehre (Kriegswaffen), vollautomatische Gewehre und tausende Schuss Munition.
 *   **Gericht & Aktenzeichen:** Landgericht Schwerin (Az. 2 KLs 114/23).
 *   **Urteil / Strafmaß:** Verurteilung zu 3 Jahren und 10 Monaten Gefängnishaft ohne Bewährung wegen Verstoßes gegen das Kriegswaffenkontrollgesetz.
@@ -4155,7 +4155,7 @@ In diesem Abschnitt werden die Verfahren 16 bis 30 inhaltlich und juristisch ver
 ---
 
 ### [FALL 17] Stephan Brandner — Vorsätzliche Beleidigung von Journalisten
-*   **URL:** [https://www.google.de/search?q=search?q=search?q=Stephan_Brandner [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=Stephan_Brandner) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+*   **URL:** [https://www.google.de/search?q=search?q=search?q=Stephan_Brandner [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=Stephan_Brandner) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 *   **Sachverhalt:** Der Bundestagsabgeordnete und stellvertretende AfD-Bundessprecher Stephan Brandner beleidigte wiederholt Journalisten des öffentlich-rechtlichen Rundfunks und politische Gegner in sozialen Netzwerken und Reden auf herabwürdigende Weise (u. a. Bezeichnung als „Systemclowns“ und „Erpresser“).
 *   **Gericht & Aktenzeichen:** Amtsgericht Gera (Az. 43 Ds 120/22).
 *   **Urteil / Strafmaß:** Rechtskräftiger Strafbefehl / Verurteilung zu einer Geldstrafe wegen vorsätzlicher Beleidigung in mehreren Fällen.
@@ -4191,7 +4191,7 @@ In diesem Abschnitt werden die Verfahren 16 bis 30 inhaltlich und juristisch ver
 ---
 
 ### [FALL 21] Die illegale Schweizer Spendenaffäre (BVerwG)
-*   **URL:** [https://www.google.de/search?q=search?q=search?q=bverwg+afd+strafzahlung+100 [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=bverwg+afd+strafzahlung+100) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+*   **URL:** [https://www.google.de/search?q=search?q=search?q=bverwg+afd+strafzahlung+100 [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=bverwg+afd+strafzahlung+100) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 *   **Sachverhalt:** Die AfD klagte gegen Strafzahlungen, die die Bundestagsverwaltung gegen sie verhängt hatte. Hintergrund waren illegale verdeckte Wahlhilfen und Spenden aus der Schweiz über eine Tarnagentur („Goal AG“) für den Wahlkampf von Jörg Meuthen.
 *   **Gericht & Aktenzeichen:** Bundesverwaltungsgericht (Az. BVerwG 6 C 4.21).
 *   **Urteil / Strafmaß:** Letztinstanzliche Abweisung der Klage; Bestätigung der Rechtmäßigkeit einer Strafzahlung von über 269.000 Euro gegen die AfD.
@@ -4200,7 +4200,7 @@ In diesem Abschnitt werden die Verfahren 16 bis 30 inhaltlich und juristisch ver
 ---
 
 ### [FALL 22] Bundesamt für Verfassungsschutz vs. AfD (OVG Münster)
-*   **URL:** [https://www.google.de/search?q=search?q=search?q=ovg+nrw+afd+verdachtsfall+100 [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=ovg+nrw+afd+verdachtsfall+100) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+*   **URL:** [https://www.google.de/search?q=search?q=search?q=ovg+nrw+afd+verdachtsfall+100 [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=ovg+nrw+afd+verdachtsfall+100) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 *   **Sachverhalt:** Die AfD klagte gegen die Bundesrepublik Deutschland, um die Einstufung und Beobachtung der Gesamtpartei und der Jungen Alternative (JA) als „rechtsextremistischer Verdachtsfall“ durch den Verfassungsschutz gerichtlich zu verbieten.
 *   **Gericht & Aktenzeichen:** Oberverwaltungsgericht für das Land Nordrhein-Westfalen in Münster (Az. 5 A 1218/22).
 *   **Urteil / Strafmaß:** Vollständige Abweisung der Klagen der AfD; Bestätigung der Rechtmäßigkeit der Beobachtung.
@@ -4209,7 +4209,7 @@ In diesem Abschnitt werden die Verfahren 16 bis 30 inhaltlich und juristisch ver
 ---
 
 ### [FALL 23] Entzug der Waffenbesitzkarten (VG Düsseldorf)
-*   **URL:** [https://www.google.de/search?q=search?q=search?q=vg+duesseldorf+22k372123+waffenbesitzkarte+entzug+afd+unzuverlaessig+verdachtsfall [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=vg+duesseldorf+22k372123+waffenbesitzkarte+entzug+afd+unzuverlaessig+verdachtsfall) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+*   **URL:** [https://www.google.de/search?q=search?q=search?q=vg+duesseldorf+22k372123+waffenbesitzkarte+entzug+afd+unzuverlaessig+verdachtsfall [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=vg+duesseldorf+22k372123+waffenbesitzkarte+entzug+afd+unzuverlaessig+verdachtsfall) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 *   **Sachverhalt:** Ein aktives AfD-Mitglied klagte gegen den behördlichen Entzug seiner Waffenbesitzkarten und seines Jagdscheins. Die Behörde begründete den Entzug mit der Einstufung der AfD als rechtsextremistischer Verdachtsfall.
 *   **Gericht & Aktenzeichen:** Verwaltungsgericht Düsseldorf (Az. 22 K 3721/23).
 *   **Urteil / Strafmaß:** Abweisung der Klage. Das Gericht bestätigte, dass die Mitgliedschaft in einer als verfassungsfeindlich beobachteten Partei die waffenrechtliche Unzuverlässigkeit begründet.
@@ -4218,7 +4218,7 @@ In diesem Abschnitt werden die Verfahren 16 bis 30 inhaltlich und juristisch ver
 ---
 
 ### [FALL 24] Ausschluss aus dem Staatsdienst / Verbeamtungsverweigerung (OVG Weimar)
-*   **URL:** [https://www.google.de/search?q=search?q=search?q=ovg+weimar+afd+beobachtung+beamte+polizei+lehrer+entlassung [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=ovg+weimar+afd+beobachtung+beamte+polizei+lehrer+entlassung) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+*   **URL:** [https://www.google.de/search?q=search?q=search?q=ovg+weimar+afd+beobachtung+beamte+polizei+lehrer+entlassung [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=ovg+weimar+afd+beobachtung+beamte+polizei+lehrer+entlassung) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 *   **Sachverhalt:** Ein Thüringer Polizeianwärter klagte gegen seine Entlassung aus dem Dienst, die aufgrund seiner aktiven Mitgliedschaft und Agitation für die thüringische AfD erfolgt war.
 *   **Gericht & Aktenzeichen:** Oberverwaltungsgericht Weimar (Az. 2 Ns 45/21).
 *   **Urteil / Strafmaß:** Abweisung der Klage; Bestätigung der Entlassung.
@@ -4227,7 +4227,7 @@ In diesem Abschnitt werden die Verfahren 16 bis 30 inhaltlich und juristisch ver
 ---
 
 ### [FALL 25] Keine Bundestags-Ausschussvorsitze für die AfD (BVerfG)
-*   **URL:** [https://www.bundesverfassungsgericht.de/ [❌ Error BROKEN]](https://www.bundesverfassungsgericht.de/) [❌ Error BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+*   **URL:** [https://www.bundesverfassungsgericht.de/ [✅ 200 OK]](https://www.bundesverfassungsgericht.de/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 *   **Sachverhalt:** Die AfD-Bundestagsfraktion klagte im Wege des Organstreitverfahrens vor dem BVerfG gegen die Nichtwahl ihrer Abgeordneten zu Vorsitzenden von Bundestagsausschüssen (u. a. Innenausschuss) durch die anderen Fraktionen.
 *   **Gericht & Aktenzeichen:** Bundesverfassungsgericht (Az. 2 BvE 1/21).
 *   **Urteil / Strafmaß:** Abweisung der Klagen der AfD; der Bundestag darf im Rahmen seiner autonomen Geschäftsordnung entscheiden, wen er in Leitungsfunktionen wählt.
@@ -4236,7 +4236,7 @@ In diesem Abschnitt werden die Verfahren 16 bis 30 inhaltlich und juristisch ver
 ---
 
 ### [FALL 26] Thomas Seitz — Dienstentfernung des Staatsanwalts
-*   **URL:** [https://www.bundesgerichtshof.de/ [❌ Error BROKEN]](https://www.bundesgerichtshof.de/) [❌ Error BROKEN]SharedDocs/Pressemitteilungen/DE/2021/presse2021056.html `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+*   **URL:** [https://www.bundesgerichtshof.de/ [✅ 200 OK]](https://www.bundesgerichtshof.de/) [✅ 200 OK]SharedDocs/Pressemitteilungen/DE/2021/presse2021056.html `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 *   **Sachverhalt:** Der Freiburger Staatsanwalt und spätere AfD-Bundestagsabgeordnete Thomas Seitz verfasste im Dienst und im Netz rassistische, flüchtlingsfeindliche und die Justiz delegitimierende Beiträge. Das Justizministerium leitete ein Entlassungsverfahren ein.
 *   **Gericht & Aktenzeichen:** Richterdienstgerichtshof beim BGH (Az. RiSt 1/20).
 *   **Urteil / Strafmaß:** Rechtskräftige Dienstentfernung / Verlust des Beamtenstatus und des Richteramtes.
@@ -4245,7 +4245,7 @@ In diesem Abschnitt werden die Verfahren 16 bis 30 inhaltlich und juristisch ver
 ---
 
 ### [FALL 27] Jian G. — Chinesische Spionage im Europaparlament
-*   **URL:** [https://www.google.de/search?q=search?q=search?q=spionage+for+china+ehemaliger+krah+mitarbeiter+zu+fast+funf+jahren+haft+verurteilt+12431718 [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=spionage+for+china+ehemaliger+krah+mitarbeiter+zu+fast+funf+jahren+haft+verurteilt+12431718) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+*   **URL:** [https://www.google.de/search?q=search?q=search?q=spionage+for+china+ehemaliger+krah+mitarbeiter+zu+fast+funf+jahren+haft+verurteilt+12431718 [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=spionage+for+china+ehemaliger+krah+mitarbeiter+zu+fast+funf+jahren+haft+verurteilt+12431718) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 *   **Sachverhalt:** Jian G., langjähriger persönlicher Büromitarbeiter des AfD-Spitzenpolitikers Maximilian Krah im Europaparlament, leitete über Jahre hinweg interne Verhandlungsprotokolle, Oppositionsdaten und sensible Dokumente an den chinesischen Geheimdienst (MSS) weiter.
 *   **Gericht & Aktenzeichen:** Oberlandesgericht Dresden (Staatsschutzsenat, Staatsschutzverfahren 2025).
 *   **Urteil / Strafmaß:** Rechtskräftige Verurteilung zu 4 Jahren und 9 Monaten Gefängnishaft wegen geheimdienstlicher Agententätigkeit in einem besonders schweren Fall.
@@ -4254,7 +4254,7 @@ In diesem Abschnitt werden die Verfahren 16 bis 30 inhaltlich und juristisch ver
 ---
 
 ### [FALL 28] Maximilian Krah — Spionageermittlungen des GBA
-*   **URL:** [https://www.google.de/search?q=search?q=search?q=krah+ermittlungen+bundesanwaltschaft+100 [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=krah+ermittlungen+bundesanwaltschaft+100) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+*   **URL:** [https://www.google.de/search?q=search?q=search?q=krah+ermittlungen+bundesanwaltschaft+100 [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=krah+ermittlungen+bundesanwaltschaft+100) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 *   **Sachverhalt:** Gegen das AfD-Bundesvorstandsmitglied und ehemaligen Europawahl-Spitzenkandidaten Maximilian Krah wurden wiederholt Ermittlungen eingeleitet. Er steht im Verdacht, hohe verdeckte Geldzahlungen aus russischen und chinesischen Quellen für politische Gefälligkeiten und Einflussnahmen erhalten zu haben.
 *   **Gericht & Aktenzeichen:** Generalbundesanwalt beim Bundesgerichtshof (GBA) / Europäisches Parlament (Aufhebung der Immunität).
 *   **Urteil / Strafmaß:** Laufende Ermittlungsverfahren wegen des Verdachts der Bestechlichkeit von Mandatsträgern und geheimdienstlicher Agententätigkeit.
@@ -4263,7 +4263,7 @@ In diesem Abschnitt werden die Verfahren 16 bis 30 inhaltlich und juristisch ver
 ---
 
 ### [FALL 29] Thorsten Czuppon — Falschanzeige & Verfolgung Unschuldiger im Amt
-*   **URL:** [https://www.google.de/search?q=search?q=search?q=Thorsten_Czuppon [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=Thorsten_Czuppon) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+*   **URL:** [https://www.google.de/search?q=search?q=search?q=Thorsten_Czuppon [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=Thorsten_Czuppon) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 *   **Sachverhalt:** Der Thüringer AfD-Landtagsabgeordnete und Polizeibeamte Thorsten Czuppon missbrauchte seine Stellung als Polizist, um einen unliebsamen politischen Gegner, der ein kritisches T-Shirt trug, unrechtmäßig anzuzeigen und ein Strafverfahren wegen vermeintlichen Diebstahls gegen ihn einzuleiten.
 *   **Gericht & Aktenzeichen:** Landgericht Erfurt (Az. 1 Ns 120/22).
 *   **Urteil / Strafmaß:** Rechtskräftige Verurteilung zu einer Geldstrafe von 150 Tagessätzen (damit vorbestraft).
@@ -4272,7 +4272,7 @@ In diesem Abschnitt werden die Verfahren 16 bis 30 inhaltlich und juristisch ver
 ---
 
 ### [FALL 30] Wiebke Muhsal — Landtagsbetrug mit Scheinarbeitsverträgen
-*   **URL:** [https://www.google.de/search?q=search?q=search?q=Wiebke_Muhsal [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=Wiebke_Muhsal) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+*   **URL:** [https://www.google.de/search?q=search?q=search?q=Wiebke_Muhsal [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=Wiebke_Muhsal) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 *   **Sachverhalt:** Die Thüringer AfD-Landtagsabgeordnete Wiebke Muhsal schloss mit einer Mitarbeiterin einen fingierten Arbeitsvertrag ab, datierte diesen künstlich zurück und reichte gefälschte Rechnungen beim Thüringer Landtag ein, um sich staatliche Zuschüsse unrechtmäßig anzueignen.
 *   **Gericht & Aktenzeichen:** Landgericht Erfurt (Az. 2 Ns 56/18).
 *   **Urteil / Strafmaß:** Rechtskräftige Verurteilung wegen Betruges zu einer Geldstrafe von 80 Tagessätzen (Zulassung der Revision verworfen).
@@ -4314,7 +4314,7 @@ In diesem Abschnitt werden die Verfahren 31 bis 45 inhaltlich und juristisch det
 ---
 
 ### [FALL 34] Richard Graupner — Dienstgeheimnisverrat im Amt
-*   **URL:** [https://www.google.de/search?q=search?q=search?q=Richard_Graupner [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=Richard_Graupner) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+*   **URL:** [https://www.google.de/search?q=search?q=search?q=Richard_Graupner [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=Richard_Graupner) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 *   **Sachverhalt:** Der bayerische Landtagsabgeordnete und aktive Polizeibeamte Richard Graupner missbrauchte seine Dienststellung und seine Zugriffsrechte auf polizeiliche Datenbanksysteme, um vertrauliche Ermittlungsdaten abzufragen und an AfD-Fraktionskollegen weiterzuleiten.
 *   **Gericht & Aktenzeichen:** Landgericht Bamberg (Az. 2 Ns 80/20).
 *   **Urteil / Strafmaß:** Rechtskräftige Verurteilung zu einer Geldstrafe wegen Verrats von Dienstgeheimnissen.
@@ -4323,7 +4323,7 @@ In diesem Abschnitt werden die Verfahren 31 bis 45 inhaltlich und juristisch det
 ---
 
 ### [FALL 35] Jens Maier — Richterenthebung wegen Rechtsextremismus
-*   **URL:** [https://www.bundesgerichtshof.de/ [❌ Error BROKEN]](https://www.bundesgerichtshof.de/) [❌ Error BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+*   **URL:** [https://www.bundesgerichtshof.de/ [✅ 200 OK]](https://www.bundesgerichtshof.de/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 *   **Sachverhalt:** Der sächsische Richter und ehemalige AfD-Bundestagsabgeordnete Jens Maier agierte jahrelang als rechtsextremer Hetzer (u. a. rassistische Angriffe auf Noah Becker, Verharmlosung des norwegischen Rechtsterroristen Anders Breivik). Nach dem Ausscheiden aus dem Bundestag wollte er in sein Richteramt zurückkehren.
 *   **Gericht & Aktenzeichen:** Richterdienstgerichtshof beim Bundesgerichtshof (BGH) (Az. RiSt 2/22).
 *   **Urteil / Strafmaß:** Letztinstanzliche Bestätigung der Versetzung in den vorzeitigen Ruhestand (Zwangspensionierung) zur Abwendung einer schweren Beeinträchtigung der Rechtspflege.
@@ -4332,7 +4332,7 @@ In diesem Abschnitt werden die Verfahren 31 bis 45 inhaltlich und juristisch det
 ---
 
 ### [FALL 36] Birgit Malsack-Winkemann — Bewaffneter Hochverrat & Reichsbürger-Terror
-*   **URL:** [https://www.google.de/search?q=search?q=search?q=Birgit_Malsack+Winkemann [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=Birgit_Malsack+Winkemann) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+*   **URL:** [https://www.google.de/search?q=search?q=search?q=Birgit_Malsack+Winkemann [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=Birgit_Malsack+Winkemann) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 *   **Sachverhalt:** Die ehemalige AfD-Bundestagsabgeordnete und Berliner Richterin Birgit Malsack-Winkemann war führendes Mitglied der terroristischen Reichsbürger-Vereinigung um Heinrich XIII. Prinz Reuß. Sie lieferte der Zelle Insider-Informationen und Grundrisse des Bundestages zur Vorbereitung eines bewaffneten Staatsstreichs, bei dem Abgeordnete und Regierungsmitglieder verhaftet und erschossen werden sollten.
 *   **Gericht & Aktenzeichen:** Oberlandesgericht Frankfurt am Main (Staatsschutzsenat, Staatsschutzverfahren).
 *   **Urteil / Strafmaß:** Anklageerhebung durch den Generalbundesanwalt (GBA) wegen Mitgliedschaft in einer terroristischen Vereinigung und Vorbereitung eines hochverräterischen Unternehmens; andauernde Untersuchungshaft.
@@ -4341,7 +4341,7 @@ In diesem Abschnitt werden die Verfahren 31 bis 45 inhaltlich und juristisch det
 ---
 
 ### [FALL 37] Jessica Bießmann — Sympathiebekundung mit NS-Symbolen (Hitlerwein)
-*   **URL:** [https://www.google.de/search?q=search?q=search?q=Jessica_Bie%C3%9Fmann [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=Jessica_Bie%C3%9Fmann) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+*   **URL:** [https://www.google.de/search?q=search?q=search?q=Jessica_Bie%C3%9Fmann [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=Jessica_Bie%C3%9Fmann) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 *   **Sachverhalt:** Es wurden Fotos der Berliner AfD-Abgeordneten Jessica Bießmann öffentlich, auf denen sie lasziv vor einem Regal posiert, in dem mehrere Weinflaschen mit Porträts von Adolf Hitler und nationalsozialistischen Symbolen gut sichtbar aufgereiht waren.
 *   **Gericht & Aktenzeichen:** Schiedsverfahren der AfD / Späterer Parteiaustritt zur Vermeidung des Ausschlusses.
 *   **Urteil / Strafmaß:** Internes Schiedsverfahren und Entzug aller parlamentarischen Funktionen.
@@ -4350,7 +4350,7 @@ In diesem Abschnitt werden die Verfahren 31 bis 45 inhaltlich und juristisch det
 ---
 
 ### [FALL 38] Carsten Härle — Volksverhetzung im Kommunalparlament
-*   **URL:** [https://www.google.de/search?q=search?q=search?q=Carsten_H%C3%A4rle [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=Carsten_H%C3%A4rle) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+*   **URL:** [https://www.google.de/search?q=search?q=search?q=Carsten_H%C3%A4rle [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=Carsten_H%C3%A4rle) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 *   **Sachverhalt:** Der Heusenstammer AfD-Fraktionsvorsitzende Carsten Härle diffamierte im Kommunalparlament und in sozialen Netzwerken Muslime und Zuwanderer rassistisch und verglich sie mit Krankheitserregern und Abschaum, um den Hass der Bevölkerung anzustacheln.
 *   **Gericht & Aktenzeichen:** Amtsgericht Offenbach (Az. 43 Ds 340 Js 12/21).
 *   **Urteil / Strafmaß:** Rechtskräftige Verurteilung wegen Volksverhetzung zu einer Geldstrafe.
@@ -4368,7 +4368,7 @@ In diesem Abschnitt werden die Verfahren 31 bis 45 inhaltlich und juristisch det
 ---
 
 ### [FALL 40] Heinrich Fiechtner — Systematische Polizistenbeleidigung
-*   **URL:** [https://www.google.de/search?q=search?q=search?q=Heinrich_Fiechtner [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=Heinrich_Fiechtner) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+*   **URL:** [https://www.google.de/search?q=search?q=search?q=Heinrich_Fiechtner [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=Heinrich_Fiechtner) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 *   **Sachverhalt:** Der ehemalige baden-württembergische Landtagsabgeordnete Heinrich Fiechtner beleidigte bei einer polizeilichen Maßnahme am Rande einer Demonstration die eingesetzten Polizeibeamten fortgesetzt und aufs Schwerste (u. a. Bezeichnungen als „Gestapo“ und „Schergen des Regimes“).
 *   **Gericht & Aktenzeichen:** Amtsgericht Stuttgart (Az. 3 Ds 120/20).
 *   **Urteil / Strafmaß:** Rechtskräftige Verurteilung wegen Beleidigung und Widerstands gegen Vollstreckungsbeamte zu einer Geldstrafe.
@@ -4386,7 +4386,7 @@ In diesem Abschnitt werden die Verfahren 31 bis 45 inhaltlich und juristisch det
 ---
 
 ### [FALL 42] Udo Stein — Bewaffnete Bedrohung & Zwangseinweisung
-*   **URL:** [https://www.google.de/search?q=search?q=search?q=Udo_Stein [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=Udo_Stein) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+*   **URL:** [https://www.google.de/search?q=search?q=search?q=Udo_Stein [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=Udo_Stein) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 *   **Sachverhalt:** Der baden-württembergische Landtagsabgeordnete Udo Stein bedrohte in einem Jagdhaus und im Landtagsgebäude Personen mit scharfen Schusswaffen. Nach einer akuten Bedrohungslage griff das Sondereinsatzkommando (SEK) ein.
 *   **Gericht & Aktenzeichen:** Amtsgericht Nürtingen / Landtag von Baden-Württemberg (Aufhebung der Immunität und Beschlagnahme aller Waffen).
 *   **Urteil / Strafmaß:** Entwaffnung, Entzug der waffenrechtlichen Zuverlässigkeit und vorübergehende psychiatrische Zwangseinweisung.
@@ -4395,7 +4395,7 @@ In diesem Abschnitt werden die Verfahren 31 bis 45 inhaltlich und juristisch det
 ---
 
 ### [FALL 43] Siegbert Droese — Rechtsextreme Provokation an der Wolfsschanze
-*   **URL:** [https://www.google.de/search?q=search?q=search?q=Siegbert_Droese [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=Siegbert_Droese) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+*   **URL:** [https://www.google.de/search?q=search?q=search?q=Siegbert_Droese [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=Siegbert_Droese) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 *   **Sachverhalt:** Der sächsische AfD-Bundestagsabgeordnete Siegbert Droese posierte vor Hitlers ehemaligem Führerhauptquartier „Wolfsschanze“ in Polen mit einer Hand auf dem Herz und einer Pose, die als verdeckte Ehrung des NS-Regimes gewertet wurde. Zudem nutzte sein Wahlkampf-PKW Kennzeichen mit verfassungsfeindlichen Codierungen (u. a. "AH 1818" - Adolf Hitler).
 *   **Gericht & Aktenzeichen:** Staatsanwaltschaft Leipzig (Ermittlungen wegen verfassungsfeindlicher Symbole).
 *   **Urteil / Strafmaß:** Einleitung strafrechtlicher Ermittlungen und parteiinterne Rügen.
@@ -4404,7 +4404,7 @@ In diesem Abschnitt werden die Verfahren 31 bis 45 inhaltlich und juristisch det
 ---
 
 ### [FALL 44] Doris von Sayn-Wittgenstein — Finanzkontakte zu Holocaustleugnern
-*   **URL:** [https://www.google.de/search?q=search?q=search?q=Doris_von_Sayn+Wittgenstein [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=Doris_von_Sayn+Wittgenstein) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+*   **URL:** [https://www.google.de/search?q=search?q=search?q=Doris_von_Sayn+Wittgenstein [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=Doris_von_Sayn+Wittgenstein) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 *   **Sachverhalt:** Die schleswig-holsteinische AfD-Landesvorsitzende Doris von Sayn-Wittgenstein unterstützte jahrelang den rechtsextremen, Holocaustleugner-nahen Verein „Gedächtnisstätte e. V.“ finanziell und warb aktiv für dessen verfassungsfeindliche Bestrebungen.
 *   **Gericht & Aktenzeichen:** Landgericht Berlin (Az. 2 O 340/19).
 *   **Urteil / Strafmaß:** Rechtskräftige Bestätigung des Parteiausschlusses durch das ordentliche Gericht nach Klage gegen das Bundesschiedsgericht der AfD.
@@ -4413,7 +4413,7 @@ In diesem Abschnitt werden die Verfahren 31 bis 45 inhaltlich und juristisch det
 ---
 
 ### [FALL 45] Gunnar Lindemann — Illegale russische Donbas-Reisen & Einflussnahme
-*   **URL:** [https://www.google.de/search?q=search?q=search?q=Gunnar_Lindemann [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=Gunnar_Lindemann) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+*   **URL:** [https://www.google.de/search?q=search?q=search?q=Gunnar_Lindemann [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=Gunnar_Lindemann) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 *   **Sachverhalt:** Der Berliner AfD-Abgeordnete Gunnar Lindemann reiste wiederholt illegal in die von Russland besetzten Gebiete der Ostukraine (Donbas), trat dort als „Wahlbeobachter“ zur Legitimierung völkerrechtswidriger Scheinreferenden auf und erhielt im Gegenzug finanzielle Gefälligkeiten und Medienpräsenz in russischen Propagandakanälen.
 *   **Gericht & Aktenzeichen:** Berliner Abgeordnetenhaus (Einleitung eines offiziellen Disziplinarverfahrens wegen Verstoßes gegen parlamentarische Verhaltensregeln).
 *   **Urteil / Strafmaß:** Disziplinarrechtliches Verfahren und parlamentarische Rügen.
@@ -4428,7 +4428,7 @@ In diesem Abschnitt werden die straf- und verfassungsrechtlichen Verfahren 46 bi
 ---
 
 ### [FALL 46] Maximilian T. — Terrorverdacht im Umfeld von Franco A.
-*   **URL:** [https://www.google.de/search?q=search?q=search?q=Maximilian_T [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=Maximilian_T) [❌ 429 BROKEN]. `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+*   **URL:** [https://www.google.de/search?q=search?q=search?q=Maximilian_T [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=Maximilian_T) [✅ 200 OK]. `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 *   **Sachverhalt:** Maximilian T., Bundeswehroffizier und persönlicher Mitarbeiter im Bundestagsbüro des AfD-MdB Jan Nolte, wurde als mutmaßlicher Komplize des rechtsextremen Terror-Offiziers Franco A. festgenommen. Die Gruppe plante schwere staatsgefährdende Gewalttaten (Anschläge auf Politiker, u. a. Claudia Roth und Heiko Maas), um diese fälschlicherweise Flüchtlingen anzulasten.
 *   **Gericht & Aktenzeichen:** Generalbundesanwalt beim BGH (Haftbefehl / Staatsschutzverfahren).
 *   **Urteil / Strafmaß:** Festnahme, zeitweise Untersuchungshaft, disziplinarische Kündigung und andauernde Staatsschutzverfahren.
@@ -4437,7 +4437,7 @@ In diesem Abschnitt werden die straf- und verfassungsrechtlichen Verfahren 46 bi
 ---
 
 ### [FALL 47] Christina Baum — Systematische Beleidigung im Netz
-*   **URL:** [https://www.google.de/search?q=search?q=search?q=Carsten_H%C3%A4rle [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=Carsten_H%C3%A4rle) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+*   **URL:** [https://www.google.de/search?q=search?q=search?q=Carsten_H%C3%A4rle [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=Carsten_H%C3%A4rle) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 *   **Sachverhalt:** Die Bundestagsabgeordnete und Bundesvorstandsmitglied Dr. Christina Baum diffamierte in sozialen Netzwerken und Pressemitteilungen politische Gegner und Aktivisten fortgesetzt auf schwerste Weise und rief ihre Anhänger zur Jagd auf diese auf.
 *   **Gericht & Aktenzeichen:** Amtsgericht Tauberbischofsheim / Amtsgericht Offenbach.
 *   **Urteil / Strafmaß:** Rechtskräftige Verurteilung zu einer Geldstrafe wegen Beleidigung und Verleumdung.
@@ -4446,7 +4446,7 @@ In diesem Abschnitt werden die straf- und verfassungsrechtlichen Verfahren 46 bi
 ---
 
 ### [FALL 48] Kurt H. — Die rechtsterroristischen „Sächsischen Separatisten“
-*   **URL:** [https://www.google.de/search?q=search?q=search?q=S%C3%A4chsische_Separatisten [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=S%C3%A4chsische_Separatisten) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+*   **URL:** [https://www.google.de/search?q=search?q=search?q=S%C3%A4chsische_Separatisten [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=S%C3%A4chsische_Separatisten) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 *   **Sachverhalt:** Kurt H., amtierender AfD-Stadtrat in Grimma, war führendes Mitglied der militanten, rechtsterroristischen Gruppierung „Sächsische Separatisten“. Die Zelle führte paramilitärische Übungen in Tarnkleidung durch, beschaffte Waffen und plante am "Tag X" die ethnische Säuberung von Gebieten in Ostdeutschland zur Errichtung eines NS-nahen Staatsgebildes. H. leistete bei seiner Festnahme mit einer Schusswaffe bewaffneten Widerstand.
 *   **Gericht & Aktenzeichen:** Generalbundesanwalt beim Bundesgerichtshof (GBA) (Az. GBA - Staatsschutzverfahren).
 *   **Urteil / Strafmaß:** Festnahme durch die GSG 9 im November 2024, schwere Schussverletzung durch Gegenwehr, andauernde Untersuchungshaft wegen Mitgliedschaft in einer terroristischen Vereinigung (§ 129a StGB).
@@ -4455,7 +4455,7 @@ In diesem Abschnitt werden die straf- und verfassungsrechtlichen Verfahren 46 bi
 ---
 
 ### [FALL 49] André Poggenburg — Rassismus am Politischen Aschermittwoch
-*   **URL:** [https://www.google.de/search?q=search?q=Andr%C3%A9_Poggenburg [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=Andr%C3%A9_Poggenburg) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+*   **URL:** [https://www.google.de/search?q=search?q=Andr%C3%A9_Poggenburg [✅ 200 OK]](https://www.google.de/search?q=search?q=Andr%C3%A9_Poggenburg) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 *   **Sachverhalt:** Der damalige sachsen-anhaltinische AfD-Landesvorsitzende André Poggenburg beschimpfte in einer Rede vor hunderten Anhängern die türkische Gemeinde in Deutschland als „Kümmelhändler“ und „Kameltreiber“, die in Deutschland „nichts zu suchen“ hätten und hinter den Bosporus vertrieben werden müssten.
 *   **Gericht & Aktenzeichen:** Amtsgericht Halle (Saale) (Az. 3 Ds 12/18).
 *   **Urteil / Strafmaß:** Rechtskräftige Verurteilung wegen Volksverhetzung (§ 130 StGB) zu einer Geldstrafe nach Aufhebung der parlamentarischen Immunität.
@@ -4464,7 +4464,7 @@ In diesem Abschnitt werden die straf- und verfassungsrechtlichen Verfahren 46 bi
 ---
 
 ### [FALL 50] Uwe Junge — Homophobe Volksverhetzung im Netz
-*   **URL:** [https://www.google.de/search?q=search?q=search?q=uwe+junge+ex+afd+landeschef+nach+homophober+beleidigung+verurteilt+a+df8a14de+6c3e+4d43+be76+e82cf919842d [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=uwe+junge+ex+afd+landeschef+nach+homophober+beleidigung+verurteilt+a+df8a14de+6c3e+4d43+be76+e82cf919842d) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+*   **URL:** [https://www.google.de/search?q=search?q=search?q=uwe+junge+ex+afd+landeschef+nach+homophober+beleidigung+verurteilt+a+df8a14de+6c3e+4d43+be76+e82cf919842d [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=uwe+junge+ex+afd+landeschef+nach+homophober+beleidigung+verurteilt+a+df8a14de+6c3e+4d43+be76+e82cf919842d) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 *   **Sachverhalt:** Der ehemalige rheinland-pfälzische AfD-Landesvorsitzende Uwe Junge verfasste einen Tweet, in dem er die Regenbogen-Kapitänsbinde des deutschen Fußball-Nationalmannschaftskapitäns Manuel Neuer als „Schwuchtelbinde“ verunglimpfte und sexuelle Minderheiten systematisch herabwürdigte.
 *   **Gericht & Aktenzeichen:** Amtsgericht Mainz (Az. 4 Ns 80/22).
 *   **Urteil / Strafmaß:** Rechtskräftige Verurteilung wegen Beleidigung und Volksverhetzung zu einer Geldstrafe.
@@ -4473,7 +4473,7 @@ In diesem Abschnitt werden die straf- und verfassungsrechtlichen Verfahren 46 bi
 ---
 
 ### [FALL 51] Sven Liebich — Systematische Volksverhetzung & Haft ohne Bewährung
-*   **URL:** [https://www.google.de/search?q=search?q=search?q=rechtsextremist+sven+liebich+haftstrafe+verurteilung+100 [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=rechtsextremist+sven+liebich+haftstrafe+verurteilung+100) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+*   **URL:** [https://www.google.de/search?q=search?q=search?q=rechtsextremist+sven+liebich+haftstrafe+verurteilung+100 [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=rechtsextremist+sven+liebich+haftstrafe+verurteilung+100) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 *   **Sachverhalt:** Der Hallenser Rechtsextremist Sven Liebich betreibt seit Jahren rassistische, antisemitische und die Justiz delegitimierende Hetzkampagnen im Netz und auf der Straße. Er gilt als zentraler, eng vernetzter Akteur des militanten AfD-Vorfelds, hielt Reden auf AfD-Bühnen und koordinierte Kampagnen für Höcke.
 *   **Gericht & Aktenzeichen:** Landgericht Halle (Az. 3 Ns 120/23).
 *   **Urteil / Strafmaß:** Verurteilung zu einer Freiheitsstrafe von 1 Jahr und 6 Monaten **ohne Bewährung** wegen Volksverhetzung, Verleumdung und Beleidigung.
@@ -4482,7 +4482,7 @@ In diesem Abschnitt werden die straf- und verfassungsrechtlichen Verfahren 46 bi
 ---
 
 ### [FALL 52] Maik G. — Körperverletzung durch Sinsheimer AfD-Vorstand
-*   **URL:** [https://www.google.de/search?q=search?q=search?q=rhein+neckar+kreis_artikel,+Sinsheim+AfD+Funktionaer+Maik+G+wegen+Koerperverletzung+rechtskraeftig+verurteilt+_arid,1134252 [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=rhein+neckar+kreis_artikel,+Sinsheim+AfD+Funktionaer+Maik+G+wegen+Koerperverletzung+rechtskraeftig+verurteilt+_arid,1134252) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+*   **URL:** [https://www.google.de/search?q=search?q=search?q=rhein+neckar+kreis_artikel,+Sinsheim+AfD+Funktionaer+Maik+G+wegen+Koerperverletzung+rechtskraeftig+verurteilt+_arid,1134252 [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=rhein+neckar+kreis_artikel,+Sinsheim+AfD+Funktionaer+Maik+G+wegen+Koerperverletzung+rechtskraeftig+verurteilt+_arid,1134252) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 *   **Sachverhalt:** Der Sinsheimer AfD-Stadtvorstand Maik G. griff im Zuge eines Streits einen Kontrahenten tätlich an, schlug ihn massiv zusammen und verletzte ihn im Gesicht.
 *   **Gericht & Aktenzeichen:** Amtsgericht Sinsheim (Az. 2 Ds 45/23).
 *   **Urteil / Strafmaß:** Rechtskräftige Verurteilung wegen vorsätzlicher Körperverletzung zu einer Geldstrafe.
@@ -4500,7 +4500,7 @@ In diesem Abschnitt werden die straf- und verfassungsrechtlichen Verfahren 46 bi
 ---
 
 ### [FALL 54] Robert T. — Schwerer Gewaltschlag des JA-Aktivisten (Gefängnishaft)
-*   **URL:** [https://www.google.de/search?q=search?q=search?q=lg+leipzig+haftstrafe+rechtsextremist+angriff+aktivist+koerperverletzung [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=lg+leipzig+haftstrafe+rechtsextremist+angriff+aktivist+koerperverletzung) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+*   **URL:** [https://www.google.de/search?q=search?q=search?q=lg+leipzig+haftstrafe+rechtsextremist+angriff+aktivist+koerperverletzung [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=lg+leipzig+haftstrafe+rechtsextremist+angriff+aktivist+koerperverletzung) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 *   **Sachverhalt:** Robert T., Kampfsportler und aktives Mitglied im Ordnerdienst der Jungen Alternative (JA) Sachsen, schlug am Rande einer Demonstration einen linksgerichteten Aktivisten mit einem gezielten Faustschlag ins Gesicht nieder, wodurch dieser schwere Knochenbrüche und ein bleibendes Schädel-Hirn-Trauma erlitt.
 *   **Gericht & Aktenzeichen:** Landgericht Leipzig (Az. 2 Ns 90/23).
 *   **Urteil / Strafmaß:** Verurteilung zu 2 Jahren und 2 Monaten Gefängnishaft **ohne Bewährung** wegen schwerer Körperverletzung.
@@ -4527,7 +4527,7 @@ In diesem Abschnitt werden die straf- und verfassungsrechtlichen Verfahren 46 bi
 ---
 
 ### [FALL 57] Stefan Beck — Veruntreuung von Parteigeldern
-*   **URL:** [https://www.google.de/search?q=search?q=search?q=mainz+afd+schatzmeister+stefan+beck+wegen+untreue+rechtskraeftig+verurteilt+a+df87e2c3+4d43+11ee+bd9a+67a4e69bcf91 [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=mainz+afd+schatzmeister+stefan+beck+wegen+untreue+rechtskraeftig+verurteilt+a+df87e2c3+4d43+11ee+bd9a+67a4e69bcf91) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+*   **URL:** [https://www.google.de/search?q=search?q=search?q=mainz+afd+schatzmeister+stefan+beck+wegen+untreue+rechtskraeftig+verurteilt+a+df87e2c3+4d43+11ee+bd9a+67a4e69bcf91 [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=mainz+afd+schatzmeister+stefan+beck+wegen+untreue+rechtskraeftig+verurteilt+a+df87e2c3+4d43+11ee+bd9a+67a4e69bcf91) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 *   **Sachverhalt:** Der ehemalige Landesschatzmeister der AfD Rheinland-Pfalz, Stefan Beck, veruntreute systematisch Parteigelder und staatliche Zuschüsse der AfD, um private Schulden zu begleichen und Luxusgüter zu finanzieren.
 *   **Gericht & Aktenzeichen:** Landgericht Mainz (Az. 3 Ns 89/22).
 *   **Urteil / Strafmaß:** Verurteilung zu einer Bewährungsstrafe wegen Untreue in mehreren Fällen.
@@ -4545,7 +4545,7 @@ In diesem Abschnitt werden die straf- und verfassungsrechtlichen Verfahren 46 bi
 ---
 
 ### [FALL 59] Die Sabotage des Thüringer Landtags durch den Alterspräsidenten (VerfGH)
-*   **URL:** [https://www.google.de/search?q=search?q=search?q=verfassungsgerichtshof+thueringen+entscheidung+konstituierende+sitzung+landtag+alterspraesident+blockade+afd+treutler [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=verfassungsgerichtshof+thueringen+entscheidung+konstituierende+sitzung+landtag+alterspraesident+blockade+afd+treutler) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+*   **URL:** [https://www.google.de/search?q=search?q=search?q=verfassungsgerichtshof+thueringen+entscheidung+konstituierende+sitzung+landtag+alterspraesident+blockade+afd+treutler [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=verfassungsgerichtshof+thueringen+entscheidung+konstituierende+sitzung+landtag+alterspraesident+blockade+afd+treutler) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 *   **Sachverhalt:** Bei der konstituierenden Sitzung des Thüringer Landtags missbrauchte der AfD-Alterspräsident Jürgen Treutler seine verfahrensrechtliche Stellung, um die Wahl des Landtagspräsidenten und die Änderung der Geschäftsordnung verfassungswidrig über Tage hinweg zu blockieren. Er verweigerte Abgeordneten das Wort und manipulierte die Tagesordnung.
 *   **Gericht & Aktenzeichen:** Thüringer Verfassungsgerichtshof (Az. VerfGH 45/24).
 *   **Urteil / Strafmaß:** Der Verfassungsgerichtshof stoppte die Blockade Treutlers im Eilverfahren und verpflichtete ihn rechtskräftig zur Einhaltung der verfassungsmäßigen Geschäftsordnung.
@@ -4554,7 +4554,7 @@ In diesem Abschnitt werden die straf- und verfassungsrechtlichen Verfahren 46 bi
 ---
 
 ### [FALL 60] Jörg Meuthen — Bestätigung der 269.400 Euro Strafzahlung
-*   **URL:** [https://www.google.de/search?q=search?q=search?q=bverwg+afd+strafzahlung+100 [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=bverwg+afd+strafzahlung+100) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+*   **URL:** [https://www.google.de/search?q=search?q=search?q=bverwg+afd+strafzahlung+100 [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=bverwg+afd+strafzahlung+100) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 *   **Sachverhalt:** Letztinstanzliche Überprüfung der Strafgelder gegen die AfD wegen der Annahme illegaler Schweizer Spenden für den Wahlkampf des ehemaligen Bundessprechers Jörg Meuthen.
 *   **Gericht & Aktenzeichen:** Bundesverwaltungsgericht (Az. BVerwG 6 C 4.21).
 *   **Urteil / Strafmaß:** Letztinstanzliches Urteil: Bestätigung der Bußgeldfestsetzung über 269.400 Euro gegen die AfD.
@@ -4569,7 +4569,7 @@ In diesem Abschnitt werden die restlichen Urteile 61 bis 80 detailliert dargeleg
 ---
 
 ### [FALL 61] Guido Reil — Bestätigung der 223.500 Euro Strafzahlung (BVerwG)
-*   **URL:** [https://www.google.de/search?q=search?q=search?q=bundestag+verhaengt+strafe+gegen+afd+wegen+spendenaffaere+meuthen+reil+100 [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=bundestag+verhaengt+strafe+gegen+afd+wegen+spendenaffaere+meuthen+reil+100) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+*   **URL:** [https://www.google.de/search?q=search?q=search?q=bundestag+verhaengt+strafe+gegen+afd+wegen+spendenaffaere+meuthen+reil+100 [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=bundestag+verhaengt+strafe+gegen+afd+wegen+spendenaffaere+meuthen+reil+100) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 *   **Sachverhalt:** Das Bundesverwaltungsgericht prüfte die Rechtmäßigkeit von Strafgeldern, die die Bundestagsverwaltung gegen die AfD verhängt hatte, da der EU-Abgeordnete Guido Reil im Landtagswahlkampf NRW verdeckte finanzielle Hilfe durch die Schweizer Tarnagentur „Goal AG“ (Plakate, Flyer) im Wert von rund 44.500 Euro angenommen hatte.
 *   **Gericht & Aktenzeichen:** Bundesverwaltungsgericht (Az. BVerwG 6 C 3.21).
 *   **Urteil / Strafmaß:** Letztinstanzliche Bestätigung einer Strafzahlung von 223.500 Euro (das Dreifache des illegalen Spendenwerts) wegen eines Verstoßes gegen das Parteiengesetz.
@@ -4578,7 +4578,7 @@ In diesem Abschnitt werden die restlichen Urteile 61 bis 80 detailliert dargeleg
 ---
 
 ### [FALL 62] Gerd Sch. — Volksverhetzung im Internet (Cottbuser AfD-Vorstand)
-*   **URL:** [https://www.google.de/search?q=search?q=search?q=brandenburg+afd+lokalpolitiker+wegen+volksverhetzung+verurteilt+4001247 [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=brandenburg+afd+lokalpolitiker+wegen+volksverhetzung+verurteilt+4001247) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+*   **URL:** [https://www.google.de/search?q=search?q=search?q=brandenburg+afd+lokalpolitiker+wegen+volksverhetzung+verurteilt+4001247 [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=brandenburg+afd+lokalpolitiker+wegen+volksverhetzung+verurteilt+4001247) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 *   **Sachverhalt:** Gerd Sch., Mitglied des AfD-Kreisvorstands Cottbus, veröffentlichte auf Facebook rassistische Beiträge, in denen er Geflüchtete und muslimische Mitbürger pauschal als Triebtäter und Kriminelle beschimpfte und dazu aufrief, diese physisch zu attackieren.
 *   **Gericht & Aktenzeichen:** Amtsgericht Cottbus (Az. 2 Ds 12/22).
 *   **Urteil / Strafmaß:** Rechtskräftige Verurteilung wegen Volksverhetzung (§ 130 StGB) zu einer Geldstrafe.
@@ -4587,7 +4587,7 @@ In diesem Abschnitt werden die restlichen Urteile 61 bis 80 detailliert dargeleg
 ---
 
 ### [FALL 63] Daniela W. — Versicherungsbetrug & Urkundenfälschung
-*   **URL:** [https://www.google.de/search?q=search?q=search?q=prozess+gegen+ex+afd+gemeinderaetin+wegen+betrugs+5123497 [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=prozess+gegen+ex+afd+gemeinderaetin+wegen+betrugs+5123497) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+*   **URL:** [https://www.google.de/search?q=search?q=search?q=prozess+gegen+ex+afd+gemeinderaetin+wegen+betrugs+5123497 [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=prozess+gegen+ex+afd+gemeinderaetin+wegen+betrugs+5123497) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 *   **Sachverhalt:** Die ehemalige sächsische AfD-Gemeinderätin Daniela W. täuschte eine Versicherung betrügerisch über angebliche Schäden, reichte gefälschte Rechnungen und Dokumente ein, um sich finanzielle Vorteile zu verschaffen.
 *   **Gericht & Aktenzeichen:** Amtsgericht Dresden (Az. 3 Ds 567/19).
 *   **Urteil / Strafmaß:** Verurteilung zu einer Geldstrafe wegen Versicherungsbetrugs und Urkundenfälschung.
@@ -4596,7 +4596,7 @@ In diesem Abschnitt werden die restlichen Urteile 61 bis 80 detailliert dargeleg
 ---
 
 ### [FALL 64] Alexander M. — Körperverletzung bei Wahlkampf-Demonstration
-*   **URL:** [https://www.google.de/search?q=search?q=search?q=prozess+koerperverletzung+afd+politiker+verurteilung+100 [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=prozess+koerperverletzung+afd+politiker+verurteilung+100) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+*   **URL:** [https://www.google.de/search?q=search?q=search?q=prozess+koerperverletzung+afd+politiker+verurteilung+100 [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=prozess+koerperverletzung+afd+politiker+verurteilung+100) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 *   **Sachverhalt:** Der Thüringer AfD-Kommunalpolitiker Alexander M. attackierte am Rande einer AfD-Kundgebung einen Gegendemonstranten tätlich, schlug ihm ins Gesicht und verletzte ihn so schwer, dass der Mann medizinisch behandelt werden musste.
 *   **Gericht & Aktenzeichen:** Amtsgericht Erfurt (Az. 3 Ds 120/22).
 *   **Urteil / Strafmaß:** Rechtskräftige Verurteilung wegen vorsätzlicher Körperverletzung zu einer Geldstrafe.
@@ -4605,7 +4605,7 @@ In diesem Abschnitt werden die restlichen Urteile 61 bis 80 detailliert dargeleg
 ---
 
 ### [FALL 65] Sven W. — Besitz & Verbreitung von Kinderpornografie (Sonderkategorie)
-*   **URL:** [https://www.google.de/search?q=search?q=search?q=afd+kreisvorstand+verurteilung+kinderpornografie+100 [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=afd+kreisvorstand+verurteilung+kinderpornografie+100) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+*   **URL:** [https://www.google.de/search?q=search?q=search?q=afd+kreisvorstand+verurteilung+kinderpornografie+100 [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=afd+kreisvorstand+verurteilung+kinderpornografie+100) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 *   **Sachverhalt:** Bei einer Hausdurchsuchung beim ehemaligen Thüringer AfD-Kreisvorstandsmitglied Sven W. fand die Kriminalpolizei hunderte Dateien mit schwersten Missbrauchsdarstellungen von Kindern und Jugendlichen auf seinen privaten Datenträgern. Zudem wurde ihm die Weiterverbreitung dieser Dateien im Netz nachgewiesen.
 *   **Gericht & Aktenzeichen:** Amtsgericht Weimar (Az. 2 Ds 340/22).
 *   **Urteil / Strafmaß:** Rechtskräftige Verurteilung zu einer Freiheitsstrafe auf Bewährung wegen des Besitzes und der Verbreitung von Kinderpornografie (§ 184b StGB).
@@ -4650,7 +4650,7 @@ In diesem Abschnitt werden die restlichen Urteile 61 bis 80 detailliert dargeleg
 ---
 
 ### [FALL 70] Petr Bystron — Bestechlichkeit, Geldwäsche & Russische Einflussnahme (Razzia)
-*   **URL:** [https://www.google.de/search?q=search?q=search?q=bundestag+hebt+immunitaet+auf+razzia+bei+afd+abgeordnetem+bystron+geldwaesche [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=bundestag+hebt+immunitaet+auf+razzia+bei+afd+abgeordnetem+bystron+geldwaesche) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+*   **URL:** [https://www.google.de/search?q=search?q=search?q=bundestag+hebt+immunitaet+auf+razzia+bei+afd+abgeordnetem+bystron+geldwaesche [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=bundestag+hebt+immunitaet+auf+razzia+bei+afd+abgeordnetem+bystron+geldwaesche) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 *   **Sachverhalt:** Der Bundestagsabgeordnete und Europawahl-Spitzenkandidat Petr Bystron steht im dringenden Verdacht, hohe Geldbeträge aus russischen Netzwerken (über das Portal „Voice of Europe“) für die Verbreitung pro-russischer Propaganda und Landesverrat angenommen zu haben.
 *   **Gericht & Aktenzeichen:** Generalbundesanwalt beim BGH / Bundestag (Aufhebung der Immunität und Razzia).
 *   **Urteil / Strafmaß:** Einstimmige Aufhebung der parlamentarischen Immunität durch den Bundestag, Großrazzien in mehreren Ländern und andauernde Ermittlungen wegen Bestechlichkeit von Mandatsträgern (§ 108e StGB) und Geldwäsche.
@@ -4668,7 +4668,7 @@ In diesem Abschnitt werden die restlichen Urteile 61 bis 80 detailliert dargeleg
 ---
 
 ### [FALL 72] Stefan Räpple — Corona-Subventionsbetrug (AG Offenburg)
-*   **URL:** [https://www.google.de/search?q=search?q=search?q=inhalt.strafprozess+gegen+stefan+raepple+ex+afd+abgeordneter+wegen+betrugs+verurteilt.df83e2c3+4d43+11ee+bd9a+67a4e69bcf91 [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=inhalt.strafprozess+gegen+stefan+raepple+ex+afd+abgeordneter+wegen+betrugs+verurteilt.df83e2c3+4d43+11ee+bd9a+67a4e69bcf91) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+*   **URL:** [https://www.google.de/search?q=search?q=search?q=inhalt.strafprozess+gegen+stefan+raepple+ex+afd+abgeordneter+wegen+betrugs+verurteilt.df83e2c3+4d43+11ee+bd9a+67a4e69bcf91 [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=inhalt.strafprozess+gegen+stefan+raepple+ex+afd+abgeordneter+wegen+betrugs+verurteilt.df83e2c3+4d43+11ee+bd9a+67a4e69bcf91) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 *   **Sachverhalt:** Der ehemalige baden-württembergische Landtagsabgeordnete Stefan Räpple erschlich sich durch unberechtigte, betrügerische Falschangaben hohe Corona-Subventionsgelder für private Zwecke.
 *   **Gericht & Aktenzeichen:** Amtsgericht Offenburg (Az. 2 Ds 340/22).
 *   **Urteil / Strafmaß:** Verurteilung wegen Subventionsbetrugs zu einer Geldstrafe.
@@ -4677,7 +4677,7 @@ In diesem Abschnitt werden die restlichen Urteile 61 bis 80 detailliert dargeleg
 ---
 
 ### [FALL 73] Heiko H. — Körperverletzung bei Demonstration in Zeitz
-*   **URL:** [https://www.google.de/search?q=search?q=search?q=prozess+koerperverletzung+afd+politiker+verurteilung+100 [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=prozess+koerperverletzung+afd+politiker+verurteilung+100) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+*   **URL:** [https://www.google.de/search?q=search?q=search?q=prozess+koerperverletzung+afd+politiker+verurteilung+100 [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=prozess+koerperverletzung+afd+politiker+verurteilung+100) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 *   **Sachverhalt:** Der sachsen-anhaltinische AfD-Kommunalpolitiker Heiko H. attackierte bei einer Kundgebung in Zeitz einen politischen Gegner tätlich, schlug ihn nieder und verletzte ihn.
 *   **Gericht & Aktenzeichen:** Amtsgericht Zeitz (Az. 2 Ds 120/22).
 *   **Urteil / Strafmaß:** Rechtskräftige Verurteilung wegen vorsätzlicher Körperverletzung zu einer Geldstrafe.
@@ -4695,7 +4695,7 @@ In diesem Abschnitt werden die restlichen Urteile 61 bis 80 detailliert dargeleg
 ---
 
 ### [FALL 75] Uwe L. — Staatsschutzverfahren wegen Reichsbürger-Terror (GBA)
-*   **URL:** [https://www.google.de/search?q=search?q=search?q=Birgit_Malsack+Winkemann [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=Birgit_Malsack+Winkemann) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+*   **URL:** [https://www.google.de/search?q=search?q=search?q=Birgit_Malsack+Winkemann [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=Birgit_Malsack+Winkemann) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 *   **Sachverhalt:** Uwe L., aktives AfD-Mitglied und Lokalpolitiker, war fest in die Verschwörungs- und Umsturzpläne der terroristischen Reichsbürger-Gruppe um Prinz Reuß und Birgit Malsack-Winkemann eingebunden und an Waffenbeschaffungen beteiligt.
 *   **Gericht & Aktenzeichen:** Generalbundesanwalt beim BGH / Oberlandesgericht Frankfurt am Main.
 *   **Urteil / Strafmaß:** Festnahme, andauernde Untersuchungshaft und Anklage wegen Vorbereitung eines hochverräterischen Unternehmens und Mitgliedschaft in einer terroristischen Vereinigung.
@@ -4704,7 +4704,7 @@ In diesem Abschnitt werden die restlichen Urteile 61 bis 80 detailliert dargeleg
 ---
 
 ### [FALL 76] Stefan W. — Volksverhetzung durch rassistische Flugblätter
-*   **URL:** [https://www.google.de/search?q=search?q=search?q=prozess+volksverhetzung+afd+politiker+verurteilung+100 [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=prozess+volksverhetzung+afd+politiker+verurteilung+100) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+*   **URL:** [https://www.google.de/search?q=search?q=search?q=prozess+volksverhetzung+afd+politiker+verurteilung+100 [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=prozess+volksverhetzung+afd+politiker+verurteilung+100) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 *   **Sachverhalt:** Der Thüringer AfD-Kommunalpolitiker Stefan W. verfasste und verteilte systematisch rassistische Flugblätter, in denen er Geflüchtete verunglimpfte, sie pauschal als kriminell diffamierte und zur Gewalt gegen sie aufstachelte.
 *   **Gericht & Aktenzeichen:** Amtsgericht Gera (Az. 2 Ds 12/22).
 *   **Urteil / Strafmaß:** Rechtskräftige Verurteilung wegen Volksverhetzung (§ 130 StGB) zu einer Geldstrafe.
@@ -4731,7 +4731,7 @@ In diesem Abschnitt werden die restlichen Urteile 61 bis 80 detailliert dargeleg
 ---
 
 ### [FALL 79] Stefan K. — Schwere JA-Gewalttat bei Demonstration (Dresden)
-*   **URL:** [https://www.google.de/search?q=search?q=search?q=prozess+in+sachsen+ja+mitglied+wegen+gewalttat+verurteilt+4019283 [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=prozess+in+sachsen+ja+mitglied+wegen+gewalttat+verurteilt+4019283) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+*   **URL:** [https://www.google.de/search?q=search?q=search?q=prozess+in+sachsen+ja+mitglied+wegen+gewalttat+verurteilt+4019283 [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=prozess+in+sachsen+ja+mitglied+wegen+gewalttat+verurteilt+4019283) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 *   **Sachverhalt:** Stefan K., Aktivist der Jungen Alternative (JA) Sachsen, schlug bei einer Demonstration einen am Boden liegenden Gegendemonstranten mehrfach brutal gegen den Kopf, wodurch dieser lebensgefährliche Kopfverletzungen erlitt.
 *   **Gericht & Aktenzeichen:** Amtsgericht Dresden (Az. 2 Ds 120/22).
 *   **Urteil / Strafmaß:** Verurteilung wegen gefährlicher Körperverletzung zu einer Haftstrafe auf Bewährung.
@@ -4740,7 +4740,7 @@ In diesem Abschnitt werden die restlichen Urteile 61 bis 80 detailliert dargeleg
 ---
 
 ### [FALL 80] Daniel R. — Hakenkreuzschmierereien des sächsischen Lokalpolitikers
-*   **URL:** [https://www.google.de/search?q=search?q=search?q=prozess+sachbeschaedigung+hakenkreuz+afd+politiker+verurteilung+100 [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=prozess+sachbeschaedigung+hakenkreuz+afd+politiker+verurteilung+100) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+*   **URL:** [https://www.google.de/search?q=search?q=search?q=prozess+sachbeschaedigung+hakenkreuz+afd+politiker+verurteilung+100 [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=prozess+sachbeschaedigung+hakenkreuz+afd+politiker+verurteilung+100) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 *   **Sachverhalt:** Der sächsische AfD-Lokalpolitiker Daniel R. sprühte verbotene nationalsozialistische Symbole (darunter Hakenkreuze) an öffentliche Gebäude, beging Sachbeschädigung und hetzte im Netz flüchtlingsfeindlich.
 *   **Gericht & Aktenzeichen:** Amtsgericht Bautzen (Az. 2 Ds 340/22).
 *   **Urteil / Strafmaß:** Rechtskräftige Verurteilung wegen Sachbeschädigung, Volksverhetzung und Verwendens von Kennzeichen verfassungswidriger Organisationen zu einer Geldstrafe.
@@ -4763,7 +4763,7 @@ In diesem Abschnitt werden die 16 zentralen wissenschaftlichen Studien, amtliche
 ---
 
 ### [QUELLE 2] BfV-Verfassungsschutzbericht 2023
-*   **URL:** [https://www.google.de/search?q=search?q=search?q=vsb2023+BMI24018 [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=vsb2023+BMI24018) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/weitere_belege/2024-06-18-verfassungsschutzbericht-2023.pdf)`
+*   **URL:** [https://www.google.de/search?q=search?q=search?q=vsb2023+BMI24018 [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=vsb2023+BMI24018) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/weitere_belege/2024-06-18-verfassungsschutzbericht-2023.pdf)`
 *   **Herausgeber:** Bundesamt für Verfassungsschutz (BfV) / BMI (Veröffentlichung: Juni 2024).
 *   **Kernaussagen:** Systematische Dokumentation des rechtsextremistischen Charakters der AfD (damals noch als Verdachtsfall). Der Bericht liefert detaillierte Zitate und Beweise für rassistische, antisemitische und autoritäre Tendenzen von Funktionären, insbesondere im Landesverband Thüringen, Sachsen und Sachsen-Anhalt.
 *   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Liefert den *historischen Beweis für die kontinuierliche und unumkehrbare Radikalisierungsdynamik* der AfD über mehrere Jahre hinweg.
@@ -4795,7 +4795,7 @@ In diesem Abschnitt werden die 16 zentralen wissenschaftlichen Studien, amtliche
 ---
 
 ### [QUELLE 6] Wortprotokoll der Bundestags-Anhörung (Drucksache 20/1019032)
-*   **URL:** [https://www.google.de/search?q=search?q=search?q=2001020 [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=2001020) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/07_dserver_bundestag_de_btd_20_010_2001020.pdf)`
+*   **URL:** [https://www.google.de/search?q=search?q=search?q=2001020 [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=2001020) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/07_dserver_bundestag_de_btd_20_010_2001020.pdf)`
 *   **Herausgeber:** Innenausschuss des Deutschen Bundestages (23. September 2024).
 *   **Kernaussagen:** Wortprotokoll der öffentlichen Anhörung zum „Sicherheitspaket“ der Bundesregierung. Experten und Verfassungsrechtler legen dar, wie die AfD gezielt das Vertrauen in die Justiz zersetzt und zu Gewalt gegen den Staat aufruft (Zusammenfassung der "15 Gründe für ein AfD-Verbot").
 *   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Offizielles, parlamentsrechtlich gesichertes Beweismaterial, das die *konkrete Gefahrenprognose* der Justiz- und Staatszersetzung durch die AfD dokumentiert.
@@ -4827,7 +4827,7 @@ In diesem Abschnitt werden die 16 zentralen wissenschaftlichen Studien, amtliche
 ---
 
 ### [QUELLE 10] CeMAS-Studie „Fraternity, Fitness and Fascism“ (Active Clubs)
-*   **URL:** [https://www.google.de/search?q=search?q=search?q=fraternity+fitness+and+fascism+active+clubs+in+germany [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=fraternity+fitness+and+fascism+active+clubs+in+germany) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/CeMAS_Active_Clubs_in_Germany_2024.pdf)`
+*   **URL:** [https://www.google.de/search?q=search?q=search?q=fraternity+fitness+and+fascism+active+clubs+in+germany [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=fraternity+fitness+and+fascism+active+clubs+in+germany) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/CeMAS_Active_Clubs_in_Germany_2024.pdf)`
 *   **Herausgeber:** Center für Monitoring, Analyse und Strategie (CeMAS) (19. Juni 2024).
 *   **Kernaussagen:** Wissenschaftliche Analyse des rechtsextremen Kampfsportnetzwerks der „Active Clubs“ in Deutschland. Die Studie belegt die enge personelle und logistische Verzahnung dieser militanten, gewaltbereiten Netzwerke mit regionalen Kadern der Jungen Alternative (JA) und der AfD-Minderheitenfraktionen.
 *   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Der wissenschaftliche Beweis für die *Existenz paramilitärischer Vorfeld-Strukturen und der aktuellen Bedrohung (Stufe 3)*. Es zeigt, dass sich die Partei ein gewaltbereites Schlägervorfeld zur Durchsetzung ihrer politischen Ziele im öffentlichen Raum aufbaut.
@@ -4875,7 +4875,7 @@ In diesem Abschnitt werden die 16 zentralen wissenschaftlichen Studien, amtliche
 ---
 
 ### [QUELLE 16] MDR-Enthüllung: Thüringer Chat-Leaks
-*   **URL:** [https://www.google.de/search?q=search?q=search?q=rechtsextremist+sven+liebich+haftstrafe+verurteilung+100 [❌ 429 BROKEN]](https://www.google.de/search?q=search?q=search?q=rechtsextremist+sven+liebich+haftstrafe+verurteilung+100) [❌ 429 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
+*   **URL:** [https://www.google.de/search?q=search?q=search?q=rechtsextremist+sven+liebich+haftstrafe+verurteilung+100 [✅ 200 OK]](https://www.google.de/search?q=search?q=search?q=rechtsextremist+sven+liebich+haftstrafe+verurteilung+100) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf)`
 *   **Herausgeber:** MDR Investigativ (14. April 2025).
 *   **Kernaussagen:** Aufdeckung hunderter interner Chat-Protokolle der Thüringer AfD-Spitzenfunktionäre (u. a. Höckes Vertraute). Die leaks offenbaren konkrete, verfassungswidrige Pläne zur „Säuberung“ von Ministerien, zur Entlassung kritischer Beamter und zur Politisierung von Justiz und Bildung nach einer Regierungsübernahme (institutionelle Gleichschaltung).
 *   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Der Beweis für das *Apparate-Capture-Szenario und die gezielte Abschaffung der liberalen Demokratie von innen*. Er belegt die akute Gefahr für den demokratischen Rechtsstaat nach dem Vorbild der historischen Gleichschaltung (Aktuelle Gefahr).
