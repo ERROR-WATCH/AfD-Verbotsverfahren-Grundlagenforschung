@@ -4,13 +4,13 @@ Dieses Dokument ist eine umfassende Zusammenstellung gerichtlicher Urteile, rech
 
 **Hinweis zur Systematik:** Zur unantastbaren Wahrung der akademischen und juristischen Integrität ist jeder Fall strikt kategorisiert:
 * 🔴 **[DIREKT AfD]**: Faktisch sichere AfD-Parteimitgliedschaft (inkl. exakter Angabe des Mandats/der Funktion, z. B. MdB, MdL, Kreisrat, Landesvorsitzender).
-* 🔵 **[INDIREKT AfD]**: Keine formale direkte Parteimitgliedschaft (oder Status unklar), jedoch mit messerscharf begründetem AfD-Bezug belassen (z. B. Angestellter eines AfD-Abgeordneten, Vorfeld-Aktivist der Jungen Alternative, offizieller Redner auf AfD-Bühnen).
+* 🔵 **[INDIREKT AfD]**: Keine formale direkte Parteimitgliedschaft (oder Status unklar), jedoch mit messerscharf begründetem AfD-Bezug belassen.
 
 > 📥 **Gesamtregister als konsolidierte Dateien:**
 > * 📄 [**Gesamt-Urteilsregister als typeset PDF-Dossier**](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)
 > * 📝 [**Gesamt-Urteilsregister als konsolidierter TXT-Volltext**](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.txt)
 
-> 📥 **Verifiziertes Quellen- & Provenienzregister:**
+> 📚 **Verifiziertes Quellen- & Provenienzregister:**
 > * 🔗 [**Offizielles Quellen- & Provenienzregister (QUELLEN_URTEILSDB.md)**](./dokumente/hauptquellen/urteilsbelege/QUELLEN_URTEILSDB.md)
 
 
