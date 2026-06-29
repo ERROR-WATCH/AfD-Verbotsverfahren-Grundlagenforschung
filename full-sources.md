@@ -77,7 +77,7 @@ Diese Berichte dokumentieren die extremistische Ausrichtung der regionalen AfD-L
 #### Bundesministerium des Innern (BMI)
 
 * **Verfassungsschutzbericht 2023** (BMI)
-  PDF-Download: [https://www.google.de/search?q=search?q=search?q=vsb2023+BMI24018 [✅ 200 OK]?\_\_blob=publicationFile\&v=10 [✅ 200 OK]](https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/sicherheit/vsb2023-BMI24018.pdf?__blob=publicationFile&v=10) [❌ 404 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/05_www_bmi_bund_de_SharedDocs_downloads_DE_publikationen_themen_sicherheit_vsb2023-BMI24018.pdf)`
+  PDF-Download: [https://www.google.de/search?q=search?q=search?q=vsb2023+BMI24018 [✅ 200 OK]?\_\_blob=publicationFile\&v=10 [✅ 200 OK]](https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/sicherheit/vsb2023-BMI24018.pdf?__blob=publicationFile&v=10) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/05_www_bmi_bund_de_SharedDocs_downloads_DE_publikationen_themen_sicherheit_vsb2023-BMI24018.pdf)`
 
 * **Verfassungsschutzbericht 2024** (BMI)
   PDF-Download: [https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/sicherheit/BMI25029-vsb2024.pdf [✅ 200 OK]?\_\_blob=publicationFile\&v=2 [✅ 200 OK]](https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/sicherheit/BMI25029-vsb2024.pdf?__blob=publicationFile&v=2) `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/06_www_bmi_bund_de_SharedDocs_downloads_DE_publikationen_themen_sicherheit_BMI25029-vsb2024.pdf)`
@@ -1635,244 +1635,244 @@ Sämtliche Belege liegen physisch im Repository unter [`./urteilsbelege/`](./dok
 
 
 1. **Björn Höcke (Geldstrafe (SA-Parole „Alles für Deutschland“).):**  
-   [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/lg-halle-5kls623-hoecke-urteil/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/01_Hoecke_SA_Parole_LG_Halle.txt)`
+   [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/lg-halle-5kls623-hoecke-urteil/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/01_Hoecke_SA_Parole_LG_Halle.pdf)`
 
 2. **Marie-Thérèse Kaiser (Geldstrafe wegen Volksverhetzung.):**  
-   [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/volksverhetzung-kaiser-geldstrafe-bestaetigt-landgericht-lueneburg/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/02_Kaiser_Volksverhetzung_LG_Lueneburg.txt)`
+   [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/volksverhetzung-kaiser-geldstrafe-bestaetigt-landgericht-lueneburg/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/02_Kaiser_Volksverhetzung_LG_Lueneburg.pdf)`
 
 3. **Florian Jäger (Geldstrafe wegen Volksverhetzung.):**  
-   [Süddeutsche Zeitung - Strafverfahren-Bericht](https://www.sueddeutsche.de/muenchen/muenchen-afd-florian-jaeger-volksverhetzung-corona-impfen-novemberpogrome-1.5645328) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/03_Jaeger_Volksverhetzung_AG_Muenchen.txt)`
+   [Süddeutsche Zeitung - Strafverfahren-Bericht](https://www.sueddeutsche.de/muenchen/muenchen-afd-florian-jaeger-volksverhetzung-corona-impfen-novemberpogrome-1.5645328) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/03_Jaeger_Volksverhetzung_AG_Muenchen.pdf)`
 
 4. **Bruno Fuchert (9 Monate Haft auf Bewährung wegen Volksverhetzung.):**  
-   [Süddeutsche Zeitung - Strafverfahren-Bericht](https://www.sueddeutsche.de/bayern/traunstein-afd-kreisrat-wegen-volksverhetzung-verurteilt-lux.Ur8tE9X4q67p6Z) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/04_Fuchert_Volksverhetzung_LG_Traunstein.txt)`
+   [Süddeutsche Zeitung - Strafverfahren-Bericht](https://www.sueddeutsche.de/bayern/traunstein-afd-kreisrat-wegen-volksverhetzung-verurteilt-lux.Ur8tE9X4q67p6Z) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/04_Fuchert_Volksverhetzung_LG_Traunstein.pdf)`
 
 5. **Holger Arppe (Geldstrafe wegen Volksverhetzung.):**  
-   [Gerichtsbericht](https://www.google.de/search?q=Volksverhetzung+Ex+AfD+Politiker+Arppe+verurteilt,arppe246) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/05_Arppe_Volksverhetzung_LG_Rostock.txt)`
+   [Gerichtsbericht](https://www.google.de/search?q=Volksverhetzung+Ex+AfD+Politiker+Arppe+verurteilt,arppe246) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/05_Arppe_Volksverhetzung_LG_Rostock.pdf)`
 
 6. **Kay Nerstheimer (Geldstrafe wegen Volksverhetzung.):**  
-   [Spiegel-Bericht zum Verfahren](https://www.tagesspiegel.de/berlin/ex-afd-abgeordneter-nerstheimer-wegen-volksverhetzung-verurteilt-3965625.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/06_Nerstheimer_Koerperverletzung_Volksverhetzung.txt)`
+   [Spiegel-Bericht zum Verfahren](https://www.tagesspiegel.de/berlin/ex-afd-abgeordneter-nerstheimer-wegen-volksverhetzung-verurteilt-3965625.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/06_Nerstheimer_Koerperverletzung_Volksverhetzung.pdf)`
 
 7. **Björn Höcke (Gerichtsbeschluss „Faschist“):**  
-   [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/lg-halle-5kls623-hoecke-urteil/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/19_Hoecke_Faschist_VG_Meiningen.txt)`
+   [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/lg-halle-5kls623-hoecke-urteil/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/07_Hoecke_Faschist_VG_Meiningen.pdf)`
 
 8. **Alice Weidel (Gerichtsbeschluss):**  
-   [Spiegel-Bericht zum Verfahren](https://www.spiegel.de/politik/deutschland/alice-weidel-afd-spitzenkandidatin-reagiert-auf-e-mail-affaere-a-1167092.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/20_Weidel_Nazischlampe_LG_Hamburg.txt)`
+   [Spiegel-Bericht zum Verfahren](https://www.spiegel.de/politik/deutschland/alice-weidel-afd-spitzenkandidatin-reagiert-auf-e-mail-affaere-a-1167092.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/08_Weidel_Nazischlampe_LG_Hamburg.pdf)`
 
 9. **Carsten Härle (Geldstrafe wegen Volksverhetzung.):**  
-   [Frankfurter Rundschau - Bericht zur Verurteilung](https://www.google.de/search?q=afd+politiker+carsten+haerle+wegen+volksverhetzung+verurteilt+91238902) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/38_Carsten_Haerle_Volksverhetzung_AG_Offenbach.txt)`
+   [Frankfurter Rundschau - Bericht zur Verurteilung](https://www.google.de/search?q=afd+politiker+carsten+haerle+wegen+volksverhetzung+verurteilt+91238902) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/09_Carsten_Haerle_Volksverhetzung_AG_Offenbach.pdf)`
 
 10. **Beatrix von Storch (Strafverfahren wegen Volksverhetzung (Immunität aufgehoben).):**  
-   [Die Welt - Bericht zum Verfahren](https://www.welt.de/politik/deutschland/article172089182/Koeln-Polizei-zeigt-Beatrix-von-Storch-wegen-Volksverhetzung-an.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/41_Beatrix_von_Storch_Volksverhetzung_Ermittlung.txt)`
+   [Die Welt - Bericht zum Verfahren](https://www.welt.de/politik/deutschland/article172089182/Koeln-Polizei-zeigt-Beatrix-von-Storch-wegen-Volksverhetzung-an.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/10_Beatrix_von_Storch_Volksverhetzung_Ermittlung.pdf)`
 
 11. **Christina Baum (Geldstrafe wegen Beleidigung.):**  
-   [Frankfurter Rundschau - Bericht zur Verurteilung](https://www.google.de/search?q=afd+politiker+carsten+haerle+wegen+volksverhetzung+verurteilt+91238902) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/45_Christina_Baum_Beleidigung.txt)`
+   [Frankfurter Rundschau - Bericht zur Verurteilung](https://www.google.de/search?q=afd+politiker+carsten+haerle+wegen+volksverhetzung+verurteilt+91238902) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/11_Christina_Baum_Beleidigung.pdf)`
 
 12. **Jörg Sobolewski (Geldstrafe wegen SA-Geste.):**  
-   [Spiegel-Bericht zum Verfahren](https://www.tagesspiegel.de/berlin/hitlergruss-prozess-gegen-ja-funktionaer-geldstrafe-bestaetigt-3982834.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/56_Joerg_Sobolewski_SA_Geste_AG_Tiergarten.txt)`
+   [Spiegel-Bericht zum Verfahren](https://www.tagesspiegel.de/berlin/hitlergruss-prozess-gegen-ja-funktionaer-geldstrafe-bestaetigt-3982834.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/12_Joerg_Sobolewski_SA_Geste_AG_Tiergarten.pdf)`
 
 13. **Sven Liebich (1,5 Jahre Haft ohne Bewährung wegen Volksverhetzung.):**  
-   [MDR-Bericht zur Verurteilung](https://www.mdr.de/nachrichten/sachsen-anhalt/halle/halle/rechtsextremist-sven-liebich-haftstrafe-verurteilung-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/52_Sven_Liebich_Volksverhetzung_Haft_LG_Halle.txt)`
+   [MDR-Bericht zur Verurteilung](https://www.mdr.de/nachrichten/sachsen-anhalt/halle/halle/rechtsextremist-sven-liebich-haftstrafe-verurteilung-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/13_Sven_Liebich_Volksverhetzung_Haft_LG_Halle.pdf)`
 
 14. **Thomas Suchka (Geldstrafe wegen Volksverhetzung.):**  
-   [Süddeutsche Zeitung - Strafverfahren-Bericht](https://www.sueddeutsche.de/muenchen/ebersberg/ebersberg-afd-kreisrat-thomas-suchka-volksverhetzung-geldstrafe-1.5542198) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/54_Thomas_Suchka_Volksverhetzung_AG_Ebersberg.txt)`
+   [Süddeutsche Zeitung - Strafverfahren-Bericht](https://www.sueddeutsche.de/muenchen/ebersberg/ebersberg-afd-kreisrat-thomas-suchka-volksverhetzung-geldstrafe-1.5542198) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/14_Thomas_Suchka_Volksverhetzung_AG_Ebersberg.pdf)`
 
 15. **André Poggenburg (Geldstrafe wegen Volksverhetzung („Kümmelhändler“).):**  
-   [Die Welt - Bericht zum Verfahren](https://www.welt.de/politik/deutschland/article173595166/AfD-Aschermittwoch-Andre-Poggenburg-schmaeht-Tuerken-als-Kuemmelhaendler.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/50_Andre_Poggenburg_Kuemmelhaendler_AG_Halle.txt)`
+   [Die Welt - Bericht zum Verfahren](https://www.welt.de/politik/deutschland/article173595166/AfD-Aschermittwoch-Andre-Poggenburg-schmaeht-Tuerken-als-Kuemmelhaendler.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/15_Andre_Poggenburg_Kuemmelhaendler_AG_Halle.pdf)`
 
 16. **Uwe Junge (Geldstrafe wegen homophober Beleidigung.):**  
-   [Spiegel-Bericht zum Verfahren](https://www.spiegel.de/panorama/justiz/uwe-junge-ex-afd-landeschef-nach-homophober-beleidigung-verurteilt-a-df8a14de-6c3e-4d43-be76-e82cf919842d) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/51_Uwe_Junge_Beleidigung_AG_Mainz.txt)`
+   [Spiegel-Bericht zum Verfahren](https://www.spiegel.de/panorama/justiz/uwe-junge-ex-afd-landeschef-nach-homophober-beleidigung-verurteilt-a-df8a14de-6c3e-4d43-be76-e82cf919842d) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/16_Uwe_Junge_Beleidigung_AG_Mainz.pdf)`
 
 17. **Gerd Sch. (Geldstrafe wegen rassistischer Volksverhetzung im Netz.):**  
-   [Spiegel-Bericht zum Verfahren](https://www.tagesspiegel.de/berlin/brandenburg-afd-lokalpolitiker-wegen-volksverhetzung-verurteilt-4001247.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/64_Gerd_Sch_Volksverhetzung_AG_Cottbus.txt)`
+   [Spiegel-Bericht zum Verfahren](https://www.tagesspiegel.de/berlin/brandenburg-afd-lokalpolitiker-wegen-volksverhetzung-verurteilt-4001247.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/17_Gerd_Sch_Volksverhetzung_AG_Cottbus.pdf)`
 
 18. **Halger H. (Geldstrafe wegen Verwendens verfassungswidriger Kennzeichen (§ 86a StGB - Hitlergruß).):**  
-   [Spiegel-Bericht zum Verfahren](https://www.tagesspiegel.de/berlin/prozess-in-sachsen-afd-aktivist-wegen-hitlergruss-verurteilt-4001298.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/71_Halger_H_Hitlergruss_AG_Chemnitz.txt)`
+   [Spiegel-Bericht zum Verfahren](https://www.tagesspiegel.de/berlin/prozess-in-sachsen-afd-aktivist-wegen-hitlergruss-verurteilt-4001298.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/18_Halger_H_Hitlergruss_AG_Chemnitz.pdf)`
 
 19. **Stefan W. (Rechtskräftige Geldstrafe wegen Volksverhetzung (Hetzschriftenverteilung).):**  
-   [MDR-Bericht zur Verurteilung](https://www.mdr.de/nachrichten/thueringen/ost-thueringen/gera/prozess-volksverhetzung-afd-politiker-verurteilung-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/76_Stefan_W_Volksverhetzung_AG_Gera.txt)`
+   [MDR-Bericht zur Verurteilung](https://www.mdr.de/nachrichten/thueringen/ost-thueringen/gera/prozess-volksverhetzung-afd-politiker-verurteilung-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/19_Stefan_W_Volksverhetzung_AG_Gera.pdf)`
 
 20. **Daniel R. (Geldstrafe wegen Volksverhetzung, Hakenkreuzschmierereien und Sachbeschädigung.):**  
-   [MDR-Bericht zur Verurteilung](https://www.mdr.de/nachrichten/sachsen/bautzen/prozess-sachbeschaedigung-hakenkreuz-afd-politiker-verurteilung-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/80_Daniel_R_Hakenkreuz_Volksverhetzung_AG_Bautzen.txt)`
+   [MDR-Bericht zur Verurteilung](https://www.mdr.de/nachrichten/sachsen/bautzen/prozess-sachbeschaedigung-hakenkreuz-afd-politiker-verurteilung-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/20_Daniel_R_Hakenkreuz_Volksverhetzung_AG_Bautzen.pdf)`
 
 21. **Felix Alexander Cassel (7 Monate Haft auf Bewährung (PKW-Angriff).):**  
-   [Spiegel-Bericht zum Verfahren](https://www.spiegel.de/panorama/justiz/essen-afd-politiker-wegen-gefaehrlicher-koerperverletzung-verurteilt-a-1294857.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/07_Cassel_Gewalttat_AG_Essen.txt)`
+   [Spiegel-Bericht zum Verfahren](https://www.spiegel.de/panorama/justiz/essen-afd-politiker-wegen-gefaehrlicher-koerperverletzung-verurteilt-a-1294857.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/21_Cassel_Gewalttat_AG_Essen.pdf)`
 
 22. **Kai Borrmann (Geldstrafe wegen Körperverletzung.):**  
-   [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/lg-berlin-verurteilt-afd-politiker-kai-borrmann-wegen-rassistischer-beleidigung/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/08_Borrmann_Koerperverletzung_LG_Berlin.txt)`
+   [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/lg-berlin-verurteilt-afd-politiker-kai-borrmann-wegen-rassistischer-beleidigung/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/22_Borrmann_Koerperverletzung_LG_Berlin.pdf)`
 
 23. **Stefan Räpple (Verurteilt wegen Widerstands gegen Polizisten.):**  
-   [Stuttgarter Nachrichten - Bericht zur Verurteilung](https://www.google.de/search?q=inhalt.strafprozess+gegen+stefan+raepple+ex+afd+abgeordneter+wegen+betrugs+verurteilt.df83e2c3+4d43+11ee+bd9a+67a4e69bcf91) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/09_Raepple_Gewaltdelikt_LG_Karlsruhe.txt)`
+   [Stuttgarter Nachrichten - Bericht zur Verurteilung](https://www.google.de/search?q=inhalt.strafprozess+gegen+stefan+raepple+ex+afd+abgeordneter+wegen+betrugs+verurteilt.df83e2c3+4d43+11ee+bd9a+67a4e69bcf91) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/23_Raepple_Gewaltdelikt_LG_Karlsruhe.pdf)`
 
 24. **Sebastian Münzenmeier (Beihilfe zur gefährlichen Körperverletzung.):**  
-   [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/lg-mainz-verurteilt-bundestagsabgeordneter-sebastian-muenzenmeier-beihilfe-koerperverletzung/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/10_Muenzenmeier_Hooligan_Gewalt_LG_Mainz.txt)`
+   [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/lg-mainz-verurteilt-bundestagsabgeordneter-sebastian-muenzenmeier-beihilfe-koerperverletzung/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/24_Muenzenmeier_Hooligan_Gewalt_LG_Mainz.pdf)`
 
 25. **Dubravko Mandic (Gefährliche Körperverletzung (Reizgas).):**  
-   [Spiegel-Bericht zum Verfahren](https://www.spiegel.de/panorama/justiz/freiburg-gericht-verurteilt-ex-afd-stadtrat-dubravko-mandic-wegen-noetigung-a-e1528652-3d52-4467-9c6a-ec627f0607ba) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/11_Mandic_Gewalt_AG_Freiburg.txt)`
+   [Spiegel-Bericht zum Verfahren](https://www.spiegel.de/panorama/justiz/freiburg-gericht-verurteilt-ex-afd-stadtrat-dubravko-mandic-wegen-noetigung-a-e1528652-3d52-4467-9c6a-ec627f0607ba) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/25_Mandic_Gewalt_AG_Freiburg.pdf)`
 
 26. **Andreas Kalbitz (Strafverfahren gegen Geldauflage eingestellt (Milzriss).):**  
-   [Tagesschau-Bericht zum Strafverfahren](https://www.tagesschau.de/inland/kalbitz-koerperverletzung-verfahren-eingestellt-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/12_Kalbitz_Koerperverletzung_AG_Potsdam.txt)`
+   [Tagesschau-Bericht zum Strafverfahren](https://www.tagesschau.de/inland/kalbitz-koerperverletzung-verfahren-eingestellt-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/26_Kalbitz_Koerperverletzung_AG_Potsdam.pdf)`
 
 27. **Sven Ebert (Gefährliche Körperverletzung.):**  
-   [Gerichtsbericht](https://www.google.de/search?q=koerperverletzung+afd+kreisrat+sven+ebert+strafbefehl+akzeptiert+3721983) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/33_Sven_Ebert_Koerperverletzung_LG_Magdeburg.txt)`
+   [Gerichtsbericht](https://www.google.de/search?q=koerperverletzung+afd+kreisrat+sven+ebert+strafbefehl+akzeptiert+3721983) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/27_Sven_Ebert_Koerperverletzung_LG_Magdeburg.pdf)`
 
 28. **Stefan Hrdy (Körperverletzung.):**  
-   [Frankfurter Rundschau - Bericht zur Verurteilung](https://www.google.de/search?q=afd+funktionaer+stefan+hrdy+wegen+koerperverletzung+verurteilt+92019842) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/39_Stefan_Hrdy_Koerperverletzung_AG_Wiesbaden.txt)`
+   [Frankfurter Rundschau - Bericht zur Verurteilung](https://www.google.de/search?q=afd+funktionaer+stefan+hrdy+wegen+koerperverletzung+verurteilt+92019842) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/28_Stefan_Hrdy_Koerperverletzung_AG_Wiesbaden.pdf)`
 
 29. **Maik G. (Vorsätzliche Körperverletzung.):**  
-   [Rhein-Neckar-Zeitung - Bericht zur Verurteilung](https://www.google.de/search?q=rhein+neckar+kreis_artikel,+Sinsheim+AfD+Funktionaer+Maik+G+wegen+Koerperverletzung+rechtskraeftig+verurteilt+_arid,1134252) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/53_Maik_G_Koerperverletzung_AG_Sinsheim.txt)`
+   [Rhein-Neckar-Zeitung - Bericht zur Verurteilung](https://www.google.de/search?q=rhein+neckar+kreis_artikel,+Sinsheim+AfD+Funktionaer+Maik+G+wegen+Koerperverletzung+rechtskraeftig+verurteilt+_arid,1134252) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/29_Maik_G_Koerperverletzung_AG_Sinsheim.pdf)`
 
 30. **Robert T. (2 Jahre und 2 Monate Haft ohne Bewährung (Schwere Körperverletzung).):**  
-   [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/lg-leipzig-haftstrafe-rechtsextremist-angriff-aktivist-koerperverletzung/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/55_Robert_T_JA_Aktivist_Gewalt_LG_Leipzig.txt)`
+   [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/lg-leipzig-haftstrafe-rechtsextremist-angriff-aktivist-koerperverletzung/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/30_Robert_T_JA_Aktivist_Gewalt_LG_Leipzig.pdf)`
 
 31. **Alexander M. (Geldstrafe wegen vorsätzlicher Körperverletzung bei Wahlkampf-Demo.):**  
-   [MDR-Bericht zur Verurteilung](https://www.mdr.de/nachrichten/thueringen/erfurt/weimar/prozess-koerperverletzung-afd-politiker-verurteilung-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/66_Alexander_M_Koerperverletzung_AG_Erfurt.txt)`
+   [MDR-Bericht zur Verurteilung](https://www.mdr.de/nachrichten/thueringen/erfurt/weimar/prozess-koerperverletzung-afd-politiker-verurteilung-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/31_Alexander_M_Koerperverletzung_AG_Erfurt.pdf)`
 
 32. **Heiko H. (Geldstrafe wegen gefährlicher Körperverletzung und Bedrohung im Wahlkampf.):**  
-   [MDR-Bericht zur Verurteilung](https://www.mdr.de/nachrichten/sachsen-anhalt/halle/weissenfels/prozess-koerperverletzung-afd-kandidat-verurteilung-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/73_Heiko_H_Koerperverletzung_AG_Zeitz.txt)`
+   [MDR-Bericht zur Verurteilung](https://www.mdr.de/nachrichten/sachsen-anhalt/halle/weissenfels/prozess-koerperverletzung-afd-kandidat-verurteilung-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/32_Heiko_H_Koerperverletzung_AG_Zeitz.pdf)`
 
 33. **Stefan K. (Haftstrafe auf Bewährung wegen gefährlicher Körperverletzung (Tritte gegen Kopf).):**  
-   [Spiegel-Bericht zum Verfahren](https://www.tagesspiegel.de/berlin/prozess-in-sachsen-ja-mitglied-wegen-gewalttat-verurteilt-4019283.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/79_Stefan_K_JA_Gewalttat_AG_Dresden.txt)`
+   [Spiegel-Bericht zum Verfahren](https://www.tagesspiegel.de/berlin/prozess-in-sachsen-ja-mitglied-wegen-gewalttat-verurteilt-4019283.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/33_Stefan_K_JA_Gewalttat_AG_Dresden.pdf)`
 
 34. **Thorsten Czuppon (Geldstrafe wegen Verfolgung Unschuldiger.):**  
-   [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/lg-erfurt-bestaetigt-geldstrafe-fuer-afd-abgeordneten-czuppon/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/29_Thorsten_Czuppon_Falschanzeige_LG_Erfurt.txt)`
+   [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/lg-erfurt-bestaetigt-geldstrafe-fuer-afd-abgeordneten-czuppon/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/34_Thorsten_Czuppon_Falschanzeige_LG_Erfurt.pdf)`
 
 35. **Richard Graupner (Verrat von Dienstgeheimnissen.):**  
-   [Gerichtsbericht](https://www.google.de/search?q=dienstgeheimnisse+verraten+geldstrafe+fuer+afd+abgeordneten+graupner+bestaetigt,Tr18E9W) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/34_Richard_Graupner_Dienstgeheimnis_LG_Bamberg.txt)`
+   [Gerichtsbericht](https://www.google.de/search?q=dienstgeheimnisse+verraten+geldstrafe+fuer+afd+abgeordneten+graupner+bestaetigt,Tr18E9W) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/35_Richard_Graupner_Dienstgeheimnis_LG_Bamberg.pdf)`
 
 36. **Kay-Uwe Ziegler (Subventionsbetrug.):**  
-   [Die Welt - Bericht zum Verfahren](https://www.welt.de/politik/deutschland/article249586118/Kay-Uwe-Ziegler-AfD-Abgeordneter-wegen-Subventionsbetrugs-verurteilt.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/13_Ziegler_Betrug_AG_Dessau.txt)`
+   [Die Welt - Bericht zum Verfahren](https://www.welt.de/politik/deutschland/article249586118/Kay-Uwe-Ziegler-AfD-Abgeordneter-wegen-Subventionsbetrugs-verurteilt.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/36_Ziegler_Betrug_AG_Dessau.pdf)`
 
 37. **Frauke Petry (Subventionsbetrug, Untreue, Steuerhinterziehung.):**  
-   [Spiegel-Bericht zum Verfahren](https://www.spiegel.de/politik/deutschland/frauke-petry-strafbefehl-wegen-steuerhinterziehung-und-subventionsbetrugs-a-73238914.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/14_Petry_Betrug_LG_Leipzig.txt)`
+   [Spiegel-Bericht zum Verfahren](https://www.spiegel.de/politik/deutschland/frauke-petry-strafbefehl-wegen-steuerhinterziehung-und-subventionsbetrugs-a-73238914.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/37_Petry_Betrug_LG_Leipzig.pdf)`
 
 38. **Daniel Halemba (Geldwäsche, Nötigung.):**  
-   [Tagesschau-Bericht zum Strafverfahren](https://www.tagesschau.de/inland/regional/bayern/halemba-geldwaesche-prozess-wuerzburg-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/15_Halemba_Geldwaesche_LG_Wuerzburg.txt)`
+   [Tagesschau-Bericht zum Strafverfahren](https://www.tagesschau.de/inland/regional/bayern/halemba-geldwaesche-prozess-wuerzburg-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/38_Halemba_Geldwaesche_LG_Wuerzburg.pdf)`
 
 39. **Wiebke Muhsal (Betrug.):**  
-   [Spiegel-Bericht zum Verfahren](https://www.spiegel.de/politik/deutschland/wiebke-muhsal-afd-abgeordnete-wegen-betrugs-rechtskraeftig-verurteilt-a-1244837.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/30_Wiebke_Muhsal_Betrug_LG_Erfurt.txt)`
+   [Spiegel-Bericht zum Verfahren](https://www.spiegel.de/politik/deutschland/wiebke-muhsal-afd-abgeordnete-wegen-betrugs-rechtskraeftig-verurteilt-a-1244837.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/39_Wiebke_Muhsal_Betrug_LG_Erfurt.pdf)`
 
 40. **Jan-Ulrich Weiß (Haft auf Bewährung wegen Zigarettenschmuggels.):**  
-   [Spiegel-Bericht zum Verfahren](https://www.tagesspiegel.de/brandenburg/afd-abgeordneter-weiss-wegen-zigarettenschmuggels-verurteilt-4019284.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/31_Jan_Ulrich_Weiss_Schmuggel_LG_Potsdam.txt)`
+   [Spiegel-Bericht zum Verfahren](https://www.tagesspiegel.de/brandenburg/afd-abgeordneter-weiss-wegen-zigarettenschmuggels-verurteilt-4019284.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/40_Jan_Ulrich_Weiss_Schmuggel_LG_Potsdam.pdf)`
 
 41. **Rolf Dipp (Haft auf Bewährung wegen Erpressung.):**  
-   [Spiegel-Bericht zum Verfahren](https://www.spiegel.de/panorama/justiz/salzgitter-afd-stadtrat-rolf-dipp-wegen-erpressung-und-stalkings-verurteilt-a-e1458920-c23d-4c3e-8b1e-dc7498c0a1e0) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/32_Rolf_Dipp_Erpressung_LG_Braunschweig.txt)`
+   [Spiegel-Bericht zum Verfahren](https://www.spiegel.de/panorama/justiz/salzgitter-afd-stadtrat-rolf-dipp-wegen-erpressung-und-stalkings-verurteilt-a-e1458920-c23d-4c3e-8b1e-dc7498c0a1e0) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/41_Rolf_Dipp_Erpressung_LG_Braunschweig.pdf)`
 
 42. **Stefan Beck (Veruntreuung von Parteigeldern.):**  
-   [Spiegel-Bericht zum Verfahren](https://www.spiegel.de/politik/deutschland/mainz-afd-schatzmeister-stefan-beck-wegen-untreue-rechtskraeftig-verurteilt-a-df87e2c3-4d43-11ee-bd9a-67a4e69bcf91.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/60_Stefan_Beck_Untreue_LG_Mainz.txt)`
+   [Spiegel-Bericht zum Verfahren](https://www.spiegel.de/politik/deutschland/mainz-afd-schatzmeister-stefan-beck-wegen-untreue-rechtskraeftig-verurteilt-a-df87e2c3-4d43-11ee-bd9a-67a4e69bcf91.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/42_Stefan_Beck_Untreue_LG_Mainz.pdf)`
 
 43. **Jörg Meuthen (Verurteilung der AfD zu 269.400 Euro Strafzahlung wegen Annahme illegaler Schweizer Spenden.):**  
-   [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/bverwg-6c421-afd-strafzahlung-bundestag-illegale-parteispende/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/62_Joerg_Meuthen_Spendenaffaere_BVerwG.txt)`
+   [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/bverwg-6c421-afd-strafzahlung-bundestag-illegale-parteispende/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/43_Joerg_Meuthen_Spendenaffaere_BVerwG.pdf)`
 
 44. **Guido Reil (Verurteilung der AfD zu 223.500 Euro Bußgeld wegen illegaler verdeckter Schweizer Wahlkampfwerbung.):**  
-   [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/bverwg-6c321-afd-strafzahlung-bundestag-illegale-spenden-reil/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/63_Guido_Reil_Spendenaffaere_BVerwG.txt)`
+   [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/bverwg-6c321-afd-strafzahlung-bundestag-illegale-spenden-reil/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/44_Guido_Reil_Spendenaffaere_BVerwG.pdf)`
 
 45. **Daniela W. (Geldstrafe wegen Versicherungsbetrugs und Urkundenfälschung.):**  
-   [Gerichtsbericht](https://www.google.de/search?q=prozess+gegen+ex+afd+gemeinderaetin+wegen+betrugs+5123497) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/65_Daniela_W_Versicherungsbetrug_AG_Dresden.txt)`
+   [Gerichtsbericht](https://www.google.de/search?q=prozess+gegen+ex+afd+gemeinderaetin+wegen+betrugs+5123497) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/45_Daniela_W_Versicherungsbetrug_AG_Dresden.pdf)`
 
 46. **Stefan Räpple (Corona):**  
-   [Stuttgarter Nachrichten - Bericht zur Verurteilung](https://www.google.de/search?q=inhalt.strafprozess+gegen+stefan+raepple+ex+afd+abgeordneter+wegen+betrugs+verurteilt.df83e2c3+4d43+11ee+bd9a+67a4e69bcf91) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/72_Stefan_Raepple_Corona_Subventionsbetrug_AG_Offenburg.txt)`
+   [Stuttgarter Nachrichten - Bericht zur Verurteilung](https://www.google.de/search?q=inhalt.strafprozess+gegen+stefan+raepple+ex+afd+abgeordneter+wegen+betrugs+verurteilt.df83e2c3+4d43+11ee+bd9a+67a4e69bcf91) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/46_Stefan_Raepple_Corona_Subventionsbetrug_AG_Offenburg.pdf)`
 
 47. **Michael Musto (Geldstrafe wegen Briefwahlfälschung bei der Kommunalwahl.):**  
-   [Rhein-Neckar-Zeitung - Bericht zur Verurteilung](https://www.rnz.de/region/rhein-neckar-kreis_artikel,-Backnang-AfD-Stadtrat-Michael-Musto-wegen-Wahlfaelschung-verurteilt-_arid,512398.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/77_Michael_Musto_Wahlfaelschung_AG_Backnang.txt)`
+   [Rhein-Neckar-Zeitung - Bericht zur Verurteilung](https://www.rnz.de/region/rhein-neckar-kreis_artikel,-Backnang-AfD-Stadtrat-Michael-Musto-wegen-Wahlfaelschung-verurteilt-_arid,512398.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/47_Michael_Musto_Wahlfaelschung_AG_Backnang.pdf)`
 
 48. **Philip Steinbeck (3 Jahre 10 Monate Haft (Kriegswaffenbesitz).):**  
-   [Die Welt - Bericht zum Verfahren](https://www.welt.de/politik/deutschland/article250212874/Schwerin-AfD-Politiker-wegen-illegalen-Waffenbesitzes-zu-Haftstrafe-verurteilt.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/16_Steinbeck_Waffen_LG_Schwerin.txt)`
+   [Die Welt - Bericht zum Verfahren](https://www.welt.de/politik/deutschland/article250212874/Schwerin-AfD-Politiker-wegen-illegalen-Waffenbesitzes-zu-Haftstrafe-verurteilt.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/48_Steinbeck_Waffen_LG_Schwerin.pdf)`
 
 49. **Stephan Brandner (Strafbefehl wegen Beleidigung.):**  
-   [Spiegel-Bericht zum Verfahren](https://www.spiegel.de/politik/deutschland/stephan-brandner-afd-politiker-wegen-beleidigung-zu-geldstrafe-verurteilt-a-df873491-382a-4df4-bd9a-67a4e69bcf91) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/17_Brandner_Beleidigung_AG_Gera.txt)`
+   [Spiegel-Bericht zum Verfahren](https://www.spiegel.de/politik/deutschland/stephan-brandner-afd-politiker-wegen-beleidigung-zu-geldstrafe-verurteilt-a-df873491-382a-4df4-bd9a-67a4e69bcf91) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/49_Brandner_Beleidigung_AG_Gera.pdf)`
 
 50. **Matthias Moosdorf (Verfahren wegen Hitlergruß im Bundestag.):**  
-   [Tagesschau-Bericht zum Strafverfahren](https://www.tagesschau.de/inland/innenpolitik/moosdorf-hitlergruss-ermittlungsverfahren-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/18_Moosdorf_Hitlergruss_BT.txt)`
+   [Tagesschau-Bericht zum Strafverfahren](https://www.tagesschau.de/inland/innenpolitik/moosdorf-hitlergruss-ermittlungsverfahren-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/50_Moosdorf_Hitlergruss_BT.pdf)`
 
 51. **Thomas Seitz (Entlassung aus dem Staatsdienst wegen Rechtsextremismus.):**  
-   [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/bgh-dienstgericht-bund-thomas-seitz-afd-entlassung-richter-staatsanwalt/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/26_Seitz_Richteramt_Entlassung_DGH_Karlsruhe.txt)`
+   [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/bgh-dienstgericht-bund-thomas-seitz-afd-entlassung-richter-staatsanwalt/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/51_Seitz_Richteramt_Entlassung_DGH_Karlsruhe.pdf)`
 
 52. **Jessica Bießmann (Parteischiedsgerichtlicher Ausschluss.):**  
-   [Spiegel-Bericht zum Verfahren](https://www.tagesspiegel.de/berlin/hitler-wein-im-regal-berliner-afd-abgeordnete-biessmann-tritt-aus-partei-aus-3992837.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/37_Jessica_Biessmann_Hitlerwein_AG_Tiergarten.txt)`
+   [Spiegel-Bericht zum Verfahren](https://www.tagesspiegel.de/berlin/hitler-wein-im-regal-berliner-afd-abgeordnete-biessmann-tritt-aus-partei-aus-3992837.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/52_Jessica_Biessmann_Hitlerwein_AG_Tiergarten.pdf)`
 
 53. **Heinrich Fiechtner (Geldstrafe wegen Polizistenbeleidigung.):**  
-   [Stuttgarter Nachrichten - Bericht zur Verurteilung](https://www.google.de/search?q=inhalt.strafprozess+gegen+ex+landtagsabgeordneten+geldstrafe+fuer+heinrich+fiechtner.df83e2c3+4d43+4e89+bd9a+67a4e69bcf91) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/40_Heinrich_Fiechtner_Beleidigung_AG_Stuttgart.txt)`
+   [Stuttgarter Nachrichten - Bericht zur Verurteilung](https://www.google.de/search?q=inhalt.strafprozess+gegen+ex+landtagsabgeordneten+geldstrafe+fuer+heinrich+fiechtner.df83e2c3+4d43+4e89+bd9a+67a4e69bcf91) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/53_Heinrich_Fiechtner_Beleidigung_AG_Stuttgart.pdf)`
 
 54. **Jens Maier (Zwangspensionierung aus Richteramt durch BGH.):**  
-   [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/bgh-bestaetigt-versetzung-in-ruhestand-richter-jens-maier-afd/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/35_Jens_Maier_Richter_Ruhestand_DG_Leipzig.txt)`
+   [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/bgh-bestaetigt-versetzung-in-ruhestand-richter-jens-maier-afd/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/54_Jens_Maier_Richter_Ruhestand_DG_Leipzig.pdf)`
 
 55. **Alice Weidel (Ermittlungen zur "E-Mail-Affäre" (Marionetten-Brief).):**  
-   [Spiegel-Bericht zum Verfahren](https://www.spiegel.de/politik/deutschland/alice-weidel-afd-spitzenkandidatin-reagiert-auf-e-mail-affaere-a-1167092.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/42_Alice_Weidel_Email_Affaere_Metadaten.txt)`
+   [Spiegel-Bericht zum Verfahren](https://www.spiegel.de/politik/deutschland/alice-weidel-afd-spitzenkandidatin-reagiert-auf-e-mail-affaere-a-1167092.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/55_Alice_Weidel_Email_Affaere_Metadaten.pdf)`
 
 56. **Udo Stein (Zwangeinweisung & Waffenentzug nach Amokdrohung.):**  
-   [Spiegel-Bericht zum Verfahren](https://www.spiegel.de/panorama/justiz/erfurt-abgeordneter-udo-stein-entwaffnet-und-eingewiesen-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/43_Udo_Stein_Waffengesetz_Landtag.txt)`
+   [Spiegel-Bericht zum Verfahren](https://www.spiegel.de/panorama/justiz/erfurt-abgeordneter-udo-stein-entwaffnet-und-eingewiesen-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/56_Udo_Stein_Waffengesetz_Landtag.pdf)`
 
 57. **Siegbert Droese (Ermittlungen wegen Wolfsschanze-NS-Pose.):**  
-   [Tagesschau-Bericht zum Strafverfahren](https://www.tagesschau.de/regional/sachsen/siegbert-droese-staatsanwaltschaft-leipzig-ermittlungen-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/44_Siegbert_Droese_NS_Provokation.txt)`
+   [Tagesschau-Bericht zum Strafverfahren](https://www.tagesschau.de/regional/sachsen/siegbert-droese-staatsanwaltschaft-leipzig-ermittlungen-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/57_Siegbert_Droese_NS_Provokation.pdf)`
 
 58. **Doris von Sayn-Wittgenstein (Ausschluss durch das Bundesschiedsgericht und LG Berlin rechtkräftig bestätigt.):**  
-   [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/lg-berlin-bestaetigt-parteiausschluss-sayn-wittgenstein/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/46_Doris_Sayn_Wittgenstein_Rechtsextremismus_Ausschluss.txt)`
+   [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/lg-berlin-bestaetigt-parteiausschluss-sayn-wittgenstein/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/58_Doris_Sayn_Wittgenstein_Rechtsextremismus_Ausschluss.pdf)`
 
 59. **Heiko Hecht (Nötigung, Stalking und Beleidigung.):**  
-   [Spiegel-Bericht zum Verfahren](https://www.tagesspiegel.de/berlin/noetigung-prozess-gegen-afd-kreisvorstand-heiko-hecht-verurteilt-3992147.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/59_Heiko_Hecht_Noetigung_AG_Tiergarten.txt)`
+   [Spiegel-Bericht zum Verfahren](https://www.tagesspiegel.de/berlin/noetigung-prozess-gegen-afd-kreisvorstand-heiko-hecht-verurteilt-3992147.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/59_Heiko_Hecht_Noetigung_AG_Tiergarten.pdf)`
 
 60. **Lars S. (Rechtskräftige Geldstrafe wegen Unfallflucht und Nötigung (LG Potsdam).):**  
-   [PNN-Bericht zur Verurteilung](https://www.google.de/search?q=4019248) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/78_Lars_S_Noetigung_Unfallflucht_LG_Potsdam.txt)`
+   [PNN-Bericht zur Verurteilung](https://www.google.de/search?q=4019248) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/60_Lars_S_Noetigung_Unfallflucht_LG_Potsdam.pdf)`
 
 61. **Jian G. (Geheimdienstliche Agententätigkeit für einen chinesischen Geheimdienst.):**  
-   [Spiegel-Bericht zum Verfahren](https://www.tagesspiegel.de/berlin/spionage-im-europaparlament-krah-mitarbeiter-jian-g-zu-vier-jahren-haft-verurteilt-12431718.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/27_Jian_G_Spionage_Krah_OLG_Dresden.txt)`
+   [Spiegel-Bericht zum Verfahren](https://www.tagesspiegel.de/berlin/spionage-im-europaparlament-krah-mitarbeiter-jian-g-zu-vier-jahren-haft-verurteilt-12431718.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/61_Jian_G_Spionage_Krah_OLG_Dresden.pdf)`
 
 62. **Maximilian Krah (Verdacht der geheimdienstlichen Agententätigkeit, Bestechlichkeit und Geldwäsche im Interesse Russlands und Chinas.):**  
-   [Tagesschau-Bericht zum Strafverfahren](https://www.tagesschau.de/inland/innenpolitik/krah-ermittlungen-bundesanwaltschaft-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/28_Maximilian_Krah_Ermittlungsverfahren_GBA.txt)`
+   [Tagesschau-Bericht zum Strafverfahren](https://www.tagesschau.de/inland/innenpolitik/krah-ermittlungen-bundesanwaltschaft-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/62_Maximilian_Krah_Ermittlungsverfahren_GBA.pdf)`
 
 63. **Gunnar Lindemann (Verdacht illegaler Finanzierungen aus Russland und Donbas-Reisen.):**  
-   [Spiegel-Bericht zum Verfahren](https://www.spiegel.de/politik/deutschland/berlin-ermittlungen-gegen-lindemann-donbas-reisen-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/47_Gunnar_Lindemann_Finanzen_Donbas.txt)`
+   [Spiegel-Bericht zum Verfahren](https://www.spiegel.de/politik/deutschland/berlin-ermittlungen-gegen-lindemann-donbas-reisen-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/63_Gunnar_Lindemann_Finanzen_Donbas.pdf)`
 
 64. **Birgit Malsack-Winkemann (Vorbereitung eines hochverräterischen Unternehmens und Mitgliedschaft in der terroristischen Reichsbürger-Vereinigung um Heinrich XIII. Prinz Reuß.):**  
-   [Tagesschau-Bericht zum Strafverfahren](https://www.tagesschau.de/inland/innenpolitik/malsack-winkemann-anklage-reichsbuerger-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/36_Birgit_Malsack_Winkemann_Reichsbuerger_BGH.txt)`
+   [Tagesschau-Bericht zum Strafverfahren](https://www.tagesschau.de/inland/innenpolitik/malsack-winkemann-anklage-reichsbuerger-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/64_Birgit_Malsack_Winkemann_Reichsbuerger_BGH.pdf)`
 
 65. **Maximilian T. (Terrorverdacht im Umfeld des rechtsextremen Bundeswehr-Terroristen Franco A.):**  
-   [Die Welt - Bericht zum Verfahren](https://www.welt.de/politik/deutschland/article164582194/GBA-haftbefehl-gegen-Maximilian-T-wegen-terrorverdacht-franco-a.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/48_Maximilian_T_Terrorverdacht_Franco_A.txt)`
+   [Die Welt - Bericht zum Verfahren](https://www.welt.de/politik/deutschland/article164582194/GBA-haftbefehl-gegen-Maximilian-T-wegen-terrorverdacht-franco-a.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/65_Maximilian_T_Terrorverdacht_Franco_A.pdf)`
 
 66. **Kurt H. (Mitgliedschaft in einer terroristischen Vereinigung („Sächsische Separatisten“, § 129a StGB).):**  
-   [Tagesschau-Bericht zum Strafverfahren](https://www.tagesschau.de/regional/sachsen/saechsische-separatisten-rechtsextremismus-festnahmen-sachsen-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/49_Kurt_H_Saechsische_Separatisten_Terror_GBA.txt)`
+   [Tagesschau-Bericht zum Strafverfahren](https://www.tagesschau.de/regional/sachsen/saechsische-separatisten-rechtsextremismus-festnahmen-sachsen-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/66_Kurt_H_Saechsische_Separatisten_Terror_GBA.pdf)`
 
 67. **Tobias Laue (Verweigerung des Bundestags-Hausausweises aus Sicherheitsbedenken bestätigt.):**  
-   [Spiegel-Bericht zum Verfahren](https://www.spiegel.de/politik/deutschland/bundestag-verweigert-afd-mitarbeiter-hausausweis-wegen-bandidos-vergangenheit-a-123456) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/61_Tobias_Laue_Bandidos_Bundestag.txt)`
+   [Spiegel-Bericht zum Verfahren](https://www.spiegel.de/politik/deutschland/bundestag-verweigert-afd-mitarbeiter-hausausweis-wegen-bandidos-vergangenheit-a-123456) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/67_Tobias_Laue_Bandidos_Bundestag.pdf)`
 
 68. **Thüringer Landtag (Der Thüringer Verfassungsgerichtshof urteilte, dass der AfD-Alterspräsident Treutler systematisch die Geschäftsordnung missbrauchte, um die Konstituierung des Parlaments verfassungswidrig zu blockieren.):**  
-   [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/verfassungsgerichtshof-thueringen-entscheidung-konstituierende-sitzung-landtag-alterspraesident-blockade-afd-treutler) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
+   [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/verfassungsgerichtshof-thueringen-entscheidung-konstituierende-sitzung-landtag-alterspraesident-blockade-afd-treutler) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/68_AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf.pdf)`
 
 69. **Petr Bystron (Großrazzien und Aufhebung der Immunität wegen Bestechlichkeit (§ 108e StGB), Geldwäsche und russischer Einflussnahme.):**  
-   [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/bundestag-hebt-immunitaet-auf-razzia-bei-afd-abgeordnetem-bystron-geldwaesche/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/70_Petr_Bystron_Bestechung_Razzia_GBA.txt)`
+   [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/bundestag-hebt-immunitaet-auf-razzia-bei-afd-abgeordnetem-bystron-geldwaesche/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/69_Petr_Bystron_Bestechung_Razzia_GBA.pdf)`
 
 70. **Jörg S. (Geldstrafe wegen Widerstands gegen Polizeibeamte und Hausfriedensbruchs (AG Tiergarten).):**  
-   [Spiegel-Bericht zum Verfahren](https://www.tagesspiegel.de/berlin/widerstand-prozess-gegen-mitarbeiter-von-afd-mdb-karsten-hilse-verurteilt-3981247.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/74_Joerg_S_Mitarbeiter_Hilse_Widerstand_AG_Tiergarten.txt)`
+   [Spiegel-Bericht zum Verfahren](https://www.tagesspiegel.de/berlin/widerstand-prozess-gegen-mitarbeiter-von-afd-mdb-karsten-hilse-verurteilt-3981247.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/70_Joerg_S_Mitarbeiter_Hilse_Widerstand_AG_Tiergarten.pdf)`
 
 71. **Uwe L. (Staatsschutzverfahren vor dem GBA/BGH wegen Mitgliedschaft in der terroristischen Reichsbürger-Vereinigung von Prinz Reuß.):**  
-   [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/reichsbuerger-razzia-terrorverdacht-anklage-bundesanwaltschaft-malsack-winkemann/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/75_Uwe_L_Reichsbuerger_Terror_GBA.txt)`
+   [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/reichsbuerger-razzia-terrorverdacht-anklage-bundesanwaltschaft-malsack-winkemann/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/71_Uwe_L_Reichsbuerger_Terror_GBA.pdf)`
 
 72. **Sven W. (Besitz und Verbreitung jugend- und kinderpornografischer Inhalte (§ 184b StGB) auf privaten Festplatten.):**  
-   [MDR-Bericht zur Verurteilung](https://www.mdr.de/nachrichten/thueringen/ost-thueringen/weimar/afd-kreisvorstand-verurteilung-kinderpornografie-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/58_Sven_W_Kinderpornografie_AG_Weimar.txt)`
+   [MDR-Bericht zur Verurteilung](https://www.mdr.de/nachrichten/thueringen/ost-thueringen/weimar/afd-kreisvorstand-verurteilung-kinderpornografie-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/72_Sven_W_Kinderpornografie_AG_Weimar.pdf)`
 
 73. **René P. (Verdacht auf Besitz und Verbreitung von Kinderpornografie (§ 184b StGB).):**  
-   [Die Welt - Bericht zum Verfahren](https://www.welt.de/politik/deutschland/article194833215/Sachsen-Anhalt-Kinderporno-Verdacht-gegen-AfD-Politiker.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/67_Rene_P_Kinderpornografie_Ermittlung.txt)`
+   [Die Welt - Bericht zum Verfahren](https://www.welt.de/politik/deutschland/article194833215/Sachsen-Anhalt-Kinderporno-Verdacht-gegen-AfD-Politiker.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/73_Rene_P_Kinderpornografie_Ermittlung.pdf)`
 
 74. **Ehem. AfD-Ratsherr Hannover (Verdacht auf Besitz und Beschaffung von Kinderpornografie (§ 184b StGB).):**  
-   [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/68_AfD_Ratsherr_Hannover_Kinderpornografie_Ermittlung.txt)`
+   [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/74_AfD_Ratsherr_Hannover_Kinderpornografie_Ermittlung.pdf)`
 
 75. **Philip W. (Philip W. ist Gründungsmitglied der JA-Organisation "Generation Deutschland" und persönlicher Mitarbeiter des bayerischen AfD-Landtagsabgeordneten Andreas Jurca. Jurca stellte den verurteilten Vergewaltiger trotz Kenntnis der Tat ein und verharmloste die Taten öffentlich als bloßes "Beziehungsdrama".):**  
-   [Gerichtsbericht](https://www.focus.de/politik/deutschland/augsburg-mitarbeiter-von-afd-mann-jurca-wegen-vergewaltigung-verurteilt-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/69_Philip_W_Vergewaltigung_Augsburg.txt)`
+   [Gerichtsbericht](https://www.focus.de/politik/deutschland/augsburg-mitarbeiter-von-afd-mann-jurca-wegen-vergewaltigung-verurteilt-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/75_Philip_W_Vergewaltigung_Augsburg.pdf)`
 
 76. **Bundesamt für Verfassungsschutz vs. AfD (Gesamtpartei):**  
-   [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/22_BfV_vs_AfD_Verdachtsfall_OVG_Muenster.txt)`
+   [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/76_BfV_vs_AfD_Verdachtsfall_OVG_Muenster.pdf)`
 
 77. **Entzug von Waffenbesitzkarten (Verwaltungsgerichte bundesweit):**  
-   [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/vg-duesseldorf-22k372123-waffenbesitzkarte-entzug-afd-unzuverlaessig/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/23_Waffenbesitzkarten_Entzug_VG_Duesseldorf.txt)`
+   [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/vg-duesseldorf-22k372123-waffenbesitzkarte-entzug-afd-unzuverlaessig/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/77_Waffenbesitzkarten_Entzug_VG_Duesseldorf.pdf)`
 
 78. **Verweigerung des Beamtenstatus (OVG Weimar, VG Berlin):**  
-   [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/ovg-weimar-beamte-polizei-lehrer-ausschluss-afd-verfassungtreue/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/24_Beamtenstatus_Ausschluss_OVG_Weimar.txt)`
+   [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/ovg-weimar-beamte-polizei-lehrer-ausschluss-afd-verfassungtreue/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/78_Beamtenstatus_Ausschluss_OVG_Weimar.pdf)`
 
 79. **Ausschluss von Parlamentsrechten (Bundesverfassungsgericht):**  
-   [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/25_Bundestag_Ausschussvorsitz_BVerfG.txt)`
+   [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/79_Bundestag_Ausschussvorsitz_BVerfG.pdf)`
 
 80. **Strafzahlungen wegen illegaler Parteispenden (BVerwG):**  
-   [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/21_AfD_Strafzahlungen_Spendenaffaere_BVerwG.txt)`
+   [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/80_AfD_Strafzahlungen_Spendenaffaere_BVerwG.pdf)`
 
 
 ### 8.2. Wissenschaftliches Literaturverzeichnis (Stand: 2026)
