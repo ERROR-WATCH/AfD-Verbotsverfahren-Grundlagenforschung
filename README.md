@@ -963,7 +963,7 @@ In der Datei [`leicht zugängliche Quellen.txt`](./skripte/leicht%20zug%C3%A4ngl
 - **Verfassungsschutzberichte (BfV 2023 & 2024)**
 - **Bundestags-Plenarprotokolle** (86. und 203. Sitzung)
 - **Drucksache 20/010** (Sicherheitspaket-Anhörung)
-- **NPD-Verbotsurteil** (BVerfG 2017, BVerfGE 123, 267 ff.)
+- **NPD-Verbotsurteil** (BVerfG 2017, BVerfGE 144, 20 ff.)
 - **BMI-Pressemitteilungen** zum VSB
 
 Einfach die Datei öffnen und die Links anklicken oder kopieren.

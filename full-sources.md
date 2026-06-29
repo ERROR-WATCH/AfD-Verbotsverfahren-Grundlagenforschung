@@ -95,8 +95,8 @@ Diese Berichte dokumentieren die extremistische Ausrichtung der regionalen AfD-L
 
 #### Bundesverfassungsgericht (BVerfG)
 
-* **NPD-Verbotsurteil** (2 BvR 1077/15, 15. Februar 2017; BVerfGE 123, 267 ff.)
-  [https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2017/01/bvs20170117_2bvb000113.html [✅ 200 OK]](https://www.bverfg.de/e/rs20170215_2bvr107715.html Connection reset by peer> BROKEN]) `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/bverfg.de_e_rs20170215_2bvr107715_html_Connection_reset_by_peer_BROKEN_.pdf)`
+* **NPD-Verbotsurteil** (2 BvB 1/13, 17. Januar 2017; BVerfGE 144, 20 ff.)
+  [https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2017/01/bvs20170117_2bvb000113.html [✅ 200 OK]](https://www.bverfg.de/e/bs20170117_2bvb000113.html [✅ 200 OK]) `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/bverfg.de_e_bs20170117_2bvb000113_html.pdf)`
 
 * [BVerfG - SRP-Verbot (Volltext-Entscheidung aus openJur) (OPENJUR Beleg 1)](https://openjur.de/u/132648.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/openjur.de_u_132648_html.pdf)`
 * [Wikipedia - SRP-Urteil (Historischer Abriss des ersten Parteiverbots) (DE Beleg 2)](https://de.wikipedia.org/wiki/Socialist_Reich_Party) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/de.wikipedia.org_wiki_Socialist_Reich_Party.pdf)`
@@ -142,8 +142,8 @@ Diese Berichte dokumentieren die extremistische Ausrichtung der regionalen AfD-L
 * **Bundestagsdrucksachen-Suche**
   [https://www.bundestag.de/services/suche [✅ 200 OK]](https://www.bundestag.de/services/suche) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/weitere_belege/2013750.pdf)`
 
-* **juris (BVerfGE 123, 267 ff.)**
-  [https://www.juris.de/jportal/?quelle=jlink\&query=BVerfGE+123%2C267 [✅ 200 OK]](https://www.juris.de/jportal/?quelle=jlink&query=BVerfGE+123%2C267) `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/juris.de_jportal.pdf)`
+* **juris (BVerfGE 144, 20 ff.)**
+  [https://www.juris.de/jportal/?quelle=jlink\&query=BVerfGE+144%2C20 [✅ 200 OK]](https://www.juris.de/jportal/?quelle=jlink&query=BVerfGE+144%2C20) `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/juris.de_jportal.pdf)`
   
 #### Ergänzende Quellen aus Deep Research
 
@@ -2577,7 +2577,7 @@ Deutscher Bundestag – Plenarprotokoll 203. Sitzung (05. 12. 2024). Protoko
 Gerichtsurteile
 Bundesverfassungsgericht – Verbot der Sozialistischen Reichspartei (SRP) – Urteil vom 23. Oktober 1952 (BVerfGE 2, 1). Entscheidungstext online
 Bundesverfassungsgericht – Verbot der Kommunistischen Partei Deutschlands (KPD) – Urteil vom 17. August 1956 (BVerfGE 5, 85). Entscheidungstext online
-Bundesverfassungsgericht – NPD-Verbotsurteil (kein Parteiverbot) – Urteil vom 17. Januar 2017 (BVerfGE 123, 267). Leitsätze und Volltext zum Verbotsantrag gegen die NPD. Entscheidung (BVerfG-Mitteilung)
+Bundesverfassungsgericht – NPD-Verbotsurteil (kein Parteiverbot) – Urteil vom 17. Januar 2017 (BVerfGE 144, 20). Leitsätze und Volltext zum Verbotsantrag gegen die NPD. Entscheidung (BVerfG-Mitteilung)
 Medienberichte & Investigativjournalismus
 Correctiv (2024): „Geheimplan gegen Deutschland“ – Investigativbericht über ein geheimes AfD-Treffen und Pläne zur „Remigration“ (Vertreibung Millionen Menschen). Correctiv, 10. 01. 2024. Online-Artikel
 Süddeutsche Zeitung (2023): „Remigrationsbeschluss Essen“ – Bericht über den AfD-Parteitagsbeschluss zur „Remigration“ (Essen 2023). SZ, 02. 12. 2023. Online-Artikel

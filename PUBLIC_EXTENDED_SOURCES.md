@@ -415,7 +415,7 @@ Deutscher Bundestag – Plenarprotokoll 203. Sitzung (05. 12. 2024). Protoko
 Gerichtsurteile
 Bundesverfassungsgericht – Verbot der Sozialistischen Reichspartei (SRP) – Urteil vom 23. Oktober 1952 (BVerfGE 2, 1). Entscheidungstext online
 Bundesverfassungsgericht – Verbot der Kommunistischen Partei Deutschlands (KPD) – Urteil vom 17. August 1956 (BVerfGE 5, 85). Entscheidungstext online
-Bundesverfassungsgericht – NPD-Verbotsurteil (kein Parteiverbot) – Urteil vom 17. Januar 2017 (BVerfGE 123, 267). Leitsätze und Volltext zum Verbotsantrag gegen die NPD. Entscheidung (BVerfG-Mitteilung)
+Bundesverfassungsgericht – NPD-Verbotsurteil (kein Parteiverbot) – Urteil vom 17. Januar 2017 (BVerfGE 144, 20). Leitsätze und Volltext zum Verbotsantrag gegen die NPD. Entscheidung (BVerfG-Mitteilung)
 Medienberichte & Investigativjournalismus
 Correctiv (2024): „Geheimplan gegen Deutschland“ – Investigativbericht über ein geheimes AfD-Treffen und Pläne zur „Remigration“ (Vertreibung Millionen Menschen). Correctiv, 10. 01. 2024. Online-Artikel
 Süddeutsche Zeitung (2023): „Remigrationsbeschluss Essen“ – Bericht über den AfD-Parteitagsbeschluss zur „Remigration“ (Essen 2023). SZ, 02. 12. 2023. Online-Artikel

@@ -33,14 +33,14 @@ Diese Datei listet alle frei verfügbaren Dokumente und Links, die für die Klag
 
 ## Bundesverfassungsgericht (BVerfG)
 
-* **NPD-Verbotsurteil** (2 BvR 1077/15, 15. Februar 2017; BVerfGE 123, 267 ff.)
-  [https://www.bverfg.de/e/rs20170215\_2bvr107715.html](https://www.bverfg.de/e/rs20170215_2bvr107715.html)
+* **NPD-Verbotsurteil** (2 BvB 1/13, 17. Januar 2017; BVerfGE 144, 20 ff.)
+  [https://www.bverfg.de/e/bs20170117\_2bvb000113.html](https://www.bverfg.de/e/bs20170117_2bvb000113.html)
 
-* **SRP-Verbotsurteil** (1 BvR 147/51, Juli 1952; BVerfGE 2, 1)
-  [https://www.bverfg.de/e/rs19520717\_1bvr014751.html](https://www.bverfg.de/e/rs19520717_1bvr014751.html)
+* **SRP-Verbotsurteil** (1 BvB 1/51, 23. Oktober 1952; BVerfGE 2, 1 ff.)
+  [https://www.bverfg.de/e/bs19521023\_1bvb000151.html](https://www.bverfg.de/e/bs19521023_1bvb000151.html)
 
-* **KPD-Verbotsurteil** (1 BvR 61/54, Juli 1956; BVerfGE 5, 85)
-  [https://www.bverfg.de/e/rs19560717\_1bvr061054.html](https://www.bverfg.de/e/rs19560717_1bvr061054.html)
+* **KPD-Verbotsurteil** (1 BvB 2/51, 17. August 1956; BVerfGE 5, 85 ff.)
+  [https://www.bverfg.de/e/bs19560817\_1bvb000251.html](https://www.bverfg.de/e/bs19560817_1bvb000251.html)
 
 ## Wissenschaftliche Studien & NGO-Berichte
 
