@@ -1184,3 +1184,21 @@ Einfach Artikel oder Quelle als PDF drucken und Uploaden.
 
 zusätzlich empfehle ich:
 [https://github.com/ERROR-WATCH/TODESSTATISTIKEN](https://github.com/ERROR-WATCH/TODESSTATISTIKEN)
+
+---
+
+## 🏛️ Persönliche Widmung & Ursprung dieses Repositories
+
+Dieses Projekt ist nicht nur eine juristische und dokumentarische Aufarbeitung – es ist das Ergebnis eines tiefen, lebenslangen Versprechens.
+
+Als ich 12 Jahre alt war, verbrachte ich wie jedes Jahr meine Ferien bei meinem Onkel in seinem Haus am Meer. In jenem Sommer war das Haus voller Gäste, und unter ihnen war ein Mann namens Bruno. Er war ein starker Raucher, ein ehemaliger Partisan und Überlebender eines Konzentrationslagers (KZ). Nach seiner Befreiung hatte er indirekt sogar dabei geholfen, Mussolini aufzuspüren und seiner gerechten Strafe zuzuführen. In jenem Urlaub half er meinem Onkel, das gesamte Haus neu zu streichen.
+
+Da das Haus so überfüllt war, teilte ich mir mit Bruno ein Schlafzimmer. Wir verbrachten die Abende mit tiefen, langen Diskussionen. Für mich waren diese Gespräche der eigentliche Beginn meiner politischen Bildung; sie haben meine Sicht auf die Gesellschaft maßgeblich und dauerhaft geprägt. 
+
+Ich war damals ein sehr wählerisches Kind beim Essen (ich bin Autist) und sortierte einmal am Tisch die Erbsen akribisch aus. Bruno sah mir ruhig dabei zu und erzählte mir daraufhin ganz sachlich und eindringlich vom Essen im Konzentrationslager – von dem unvorstellbaren Hunger, dem Kampf um Krümel und dem Wert jedes einzelnen Bissens. 
+
+Nach diesem Sommer sah ich die Welt mit völlig anderen Augen. Ich habe Bruno damals ein feierliches Versprechen gegeben: dass ich immer Antifaschist bleiben, mich gegen jede Form von Tyrannei stellen und unerschütterlich für humanistische Werte einstehen werde. 
+
+Die Verteidigung unserer freiheitlich-demokratischen Grundordnung ist für mich daher kein theoretisches Konstrukt, sondern eine zutiefst persönliche Herzensangelegenheit. 
+
+**Ich widme dieses Repository und die gesamte darin geflossene Arbeit in tiefer Dankbarkeit und Ehrfurcht Bruno – dem Partisanen, KZ-Häftling und meinem prägendsten Lehrer.**
