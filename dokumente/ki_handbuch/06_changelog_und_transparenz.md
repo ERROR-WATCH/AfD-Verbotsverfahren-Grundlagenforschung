@@ -1,0 +1,70 @@
+# 06 | Changelog, Transparenz & Wissenschaftliche Methodik
+
+## 1. Changelog des Forschungsportals (Versionshistorie)
+
+Dieses Kapitel dient der lückenlosen, wissenschaftlichen Dokumentation aller Datenaktualisierungen, Systemerweiterungen und Quellenbereinigungen.
+
+### Version 3.0.0 (Letzte Aktualisierung: 29.06.2026) – *Aktueller Stand*
+*   **Erweiterung des Gerichtsregisters (80 ➔ 239):** Die Belegdatenbank wurde von 80 auf 239 verifizierte Gerichtsurteile, Beschlüsse und behördliche Entscheidungen erweitert. Alle 239 Fälle wurden formatsymmetrisch als `.md` und `.txt` abgelegt.
+*   **100%iges Landes-PDF-Archiv (16/16):** Alle 16 Landeswahlprogramme der AfD sowie die beiden Bundesbelege (Bundestagswahlprogramm 2025 und Grundsatzprogramm) liegen nun als originale, unmanipulierte Primärbeleg-PDFs physisch im Verzeichnis `/landeswahlprogramme/` vor.
+*   **Der neue Tab „Parteiprogramme AfD“:** Integration eines dedizierten 10. Navigations-Tabs mit einem visuellen, farblich codierten Card-Grid für alle 16 Bundesländer zur sofortigen, ausfallfreien Einsicht der Landesprogrammatiken.
+*   **In-Memory-Zitate-Suchindex:** Einbindung einer volltextdurchsuchbaren Quotes-Datenbank (`zitate_search_index.json` direkt in `index.html` eingebettet), die eine CORS-freie, rasend schnelle Echtzeitsuche nach Namen, Zitaten und Quellen für alle 3.611 Belegzitate ermöglicht.
+*   **Sichtbare Aktenzeichen-Badges & Suchverstärker:** Monospace-Darstellung von Aktenzeichen auf allen 239 Kacheln sowie programmgesteuerte Begriffskombination bei Google für eine präzise Online-Quellenfindung.
+*   **Wissenschaftliche Begleitdokumente:** Veröffentlichung des Beleg-Audits (`PDF_AUDIT_REPORT.md`) sowie der tagesaktuellen Presseschau vom 29. Juni 2026 (`PRESSESCHAU_AKTUELL.md`).
+
+### Version 2.0.0 (Stand: Mai 2025)
+*   **Pristine „Gutachten & Leaks“ Tab:** Bereinigung des wissenschaftlichen Reiters von Presseartikeln und Bündelung von 159 lupenreinen amtlichen und verfassungsrechtlichen Fachgutachten (GFF, BfV etc.).
+*   **Marked.js Integration:** Umstieg von statischem Vorrendern der README auf dynamisches Markdown-Parsing in Echtzeit, inklusive automatischer Konvertierung von Roh-Anhängen in spielbare HTML5-Videoplayer.
+
+---
+
+## 2. Methodik der Fall-Kategorisierung (Zugehörigkeit)
+
+Um eine differenzierte und gerichtlich belastbare Argumentation zu sichern, werden alle Gerichtsfälle des Registers streng nach ihrer parteiorganisatorischen Nähe kategorisiert:
+
+```
+┌────────────────────────────────────────────────────────────────────────┐
+│               SYSTEM DER PARTEI-KATEGORISIERUNG                       │
+└───────────────────────────────────┬────────────────────────────────────┘
+                                    │
+       ┌────────────────────────────┴────────────────────────────┐
+       ▼                                                         ▼
+┌─────────────────────────────────┐                       ┌─────────────────────────────────┐
+│        🔴 DIREKT AfD            │                       │        🔵 INDIREKT AfD          │
+│  - Offizielle Parteiträger      │                       │  - Rechtsextremes Vorfeld       │
+│  - Mandatsträger (MdB, MdL, MdA)│                       │  - Identitäre Bewegung          │
+│  - Vorstandsmitglieder          │                       │  - Verlage, Burschenschaften    │
+│  - Angestellte der Fraktionen   │                       │  - Einzelfälle mit Parteibezug  │
+└─────────────────────────────────┘                       └─────────────────────────────────┘
+```
+
+*   **🔴 DIREKT AfD:**  
+    Umfasst Personen, die zum Tatzeitpunkt ein offizielles Parteiamt innehatten (z. B. Björn Höcke als Landesvorsitzender), ein Mandat für die AfD ausübten (z. B. Christina Baum als MdB), als offizielle Mitarbeiter in Fraktionen angestellt waren (z. B. Jian G.) oder sich offiziell im Namen der Partei betätigten.  
+    *Bedeutung:* Das Verhalten dieser Personen ist der Partei organisationsrechtlich direkt als eigenes Verhalten zuzurechnen (Zurechnungsprinzip).
+*   **🔵 INDIREKT AfD:**  
+    Umfasst Personen, die sich im rechtsextremen Vorfeld (Identitäre Bewegung, rechtsextreme Burschenschaften, Verlage wie „Compact“ oder Vereine wie „Ein Prozent“) bewegen und nachweisbare, personelle oder finanzielle Verflechtungen zur AfD-Führung aufweisen, ohne selbst formelles Parteimitglied oder Träger eines Amtes zu sein.  
+    *Bedeutung:* Dokumentiert die systematische, verfassungsfeindliche Vernetzung und das „Vorfeld-Netzwerk“ der Partei zur Untermauerung der Potentialität und der gesellschaftlichen Entgrenzung.
+
+---
+
+## 3. Zitierstandards in der Grundlagenforschung (Juris-Norm)
+
+Zur Erhöhung der wissenschaftlichen Nachprüfbarkeit und zur Vorbereitung einer fehlerfreien Übernahme in gerichtliche Schriftsätze folgt das Register standardmäßig der **Juris-Zitiernorm**:
+
+$$\text{Zitierformat: } \mathbf{[Autor/Herausgeber, Gericht, Entscheidungsdatum, Aktenzeichen]}$$
+
+### Beispiel für ein Strafurteil (Fall 1):
+*   **Format:** `Landgericht Halle, Urteil vom 14. Mai 2024, Az. 5 Ks 132/23`
+*   **Prozessuale Kettensicherung:** Jedes Urteil im Register verlinkt direkt auf das lokal im Repository gesicherte Markdown-Dokument (`.md`), das unstrukturierte Textdokument (`.txt`) sowie – sofern vorhanden – auf das physische PDF-Originaldokument mitsamt Zugriffsdatum und Archiv-Signatur.
+
+---
+
+## 4. Methodische Zuordnung von Zitaten zu Verbotsgründen
+
+Die Zuordnung der 3.611 Belegzitate zu den 18 wehrhaften Verbotsgründen des Portals erfolgt über einen dreistufigen semantischen Zuordnungsalgorithmus:
+1.  **Lexikalische Filterung:** Zuordnung über Schlüsselbegriffe (z. B. Zitate mit Begriffen wie „Umvolkung“, „Säuberung“ oder „Heimat erhalten“ werden automatisch dem Verbotsgrund *„Völkisch-ethnische Staatsvolkdefinition“* vorgeschlagen).
+2.  **Kontextuelle Validierung:** Manuelle Prüfung der Zitate durch verfassungsrechtliche Gutachter, um sicherzustellen, dass die Zitate nicht im satirischen oder rein referenzierenden Kontext geäußert wurden.
+3.  **RAG-Indexierung:** Einbettung der Zitate im Vektorraum zur Gewährleistung, dass bei Suchen nach übergeordneten Begriffen wie *„Gewalttoleranz“* die semantisch passenden Primärzitate augenblicklich als Beweisantritte vorgeschlagen werden.
+
+---
+*Ende des methodischen Handbuchs. Dieses Kapitel sichert die Transparenz und wissenschaftliche Integrität des Gesamtprojekts.*

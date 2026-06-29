@@ -1566,13 +1566,13 @@ Ersatz- und Beschaffungs­strategien für zwölf fehlende Schlüssel­quellen si
 
 ---
 
-## ERGÄNZTES MASTER-QUELLENREGISTER (80 GERICHTSFÄLLE, LITERATUR & DOSSIERS)
+## ERGÄNZTES MASTER-QUELLENREGISTER (239 GERICHTSFÄLLE, LITERATUR & DOSSIERS)
 
 Dieses Kapitel erweitert den juristischen Deep-Research-Ausgangspunkt um die vollständigen, unzensierten Belege und Quellennachweise des Portals (Stand: Juni 2026).
 
 ---
 
-### A) Systematisches Strafrechts- und Gerichtsregister (Alle 80 Fälle mit Quellen)
+### A) Systematisches Strafrechts- und Gerichtsregister (Alle 239 Fälle mit Quellen im Portal)
 
 - 1. **Björn Höcke (SA-Parole „Alles für Deutschland“):**  
    [LTO-Bericht zur Verurteilung und BGH-Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/bgh-verwirft-revision-bjoern-hoecke-sa-parole-alles-fuer-deutschland/)
