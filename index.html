@@ -301,14 +301,17 @@
         function normalizeStr(str) {
             if (!str) return '';
             return str.toLowerCase()
-                .normalize('NFD') // decomposes combined graphemes (e.g. e + accent)
+                .replace(/ae/g, 'a')
+                .replace(/oe/g, 'o')
+                .replace(/ue/g, 'u')
+                .replace(/ä/g, 'a')
+                .replace(/ö/g, 'o')
+                .replace(/ü/g, 'u')
+                .normalize('NFD') // decomposes combined graphemes (e.g. e + diacritic)
                 .replace(/[̀-ͯ]/g, '') // removes accents
+                .replace(/ß/g, 'ss')
                 .replace(/_/g, ' ')
                 .replace(/-/g, ' ')
-                .replace(/ä/g, 'ae')
-                .replace(/ö/g, 'oe')
-                .replace(/ü/g, 'ue')
-                .replace(/ß/g, 'ss')
                 .trim();
         }
         // Tab switching function
