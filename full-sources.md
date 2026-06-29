@@ -717,7 +717,7 @@ Ende der öffentlich zugänglichen Quellen.
 
 ---
 
-## TEIL II: URTEILE & GERICHTSENTSCHEIDUNGEN (80 FÄLLE)
+## TEIL II: URTEILE & GERICHTSENTSCHEIDUNGEN (239 FÄLLE)
 
 ### URTEILE & VERURTEILUNGEN: AfD-Mandatsträger und die Partei (Volltext-Register)
 
@@ -1196,6 +1196,960 @@ Dieses Dokument ist eine umfassende Zusammenstellung gerichtlicher Urteile, rech
     - **Urteil:** Klagen der AfD gegen die Festsetzung von Strafen von über **1,08 Millionen Euro** durch die Bundestagsverwaltung wegen Annahme illegaler Auslandsspenden abgewiesen.
     - **Quelle/Beleg:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/21_AfD_Strafzahlungen_Spendenaffaere_BVerwG.txt)
 
+81. **Verfassungsrechtliche Grundsatzentscheidung (1 A 3/94):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Verfassungsgerichtliche Grundsatzentscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/81_1_A_3_94.txt)
+
+82. **Verfassungsrechtliche Grundsatzentscheidung (1 BvE 1/75):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Verfassungsgerichtliche Grundsatzentscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/82_1_BvE_1_75.txt)
+
+83. **Verfassungsrechtliche Grundsatzentscheidung (1 BvR 1072/01):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Verfassungsgerichtliche Grundsatzentscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/83_1_BvR_1072_01.txt)
+
+84. **Kopftuch- und Religionsstreit im öffentlichen Raum (1 BvR 1181/10):**
+   - **Partei-Status:** 🔴 **DIREKT AfD** (Verfahren mit direktem Bezug zu AfD-Mitgliedern, Mandatsträgern oder der Gesamtpartei).
+   - **Urteilsart:** Verfassungsgerichtliche Grundsatzentscheidung.
+   - **Urteil:** Die Gerichte bestätigten die Rechtmäßigkeit des Verbots religiöser Bekundungen im Schuldienst zur Gewährleistung der religiösen Neutralität.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/84_1_BvR_1181_10.txt)
+
+85. **Verfassungsrechtliche Grundsatzentscheidung (1 BvR 1215/07):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Verfassungsgerichtliche Grundsatzentscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/85_1_BvR_1215_07.txt)
+
+86. **Verfassungsrechtliche Grundsatzentscheidung (1 BvR 175/03):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Verfassungsgerichtliche Grundsatzentscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/86_1_BvR_175_03.txt)
+
+87. **Verfassungsrechtliche Grundsatzentscheidung (1 BvR 2150/08):**
+   - **Partei-Status:** 🔴 **DIREKT AfD** (Verfahren mit direktem Bezug zu AfD-Mitgliedern, Mandatsträgern oder der Gesamtpartei).
+   - **Urteilsart:** Verfassungsgerichtliche Grundsatzentscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/87_1_BvR_2150_08.txt)
+
+88. **Kopftuch- und Religionsstreit im öffentlichen Raum (1 BvR 471/10):**
+   - **Partei-Status:** 🔴 **DIREKT AfD** (Verfahren mit direktem Bezug zu AfD-Mitgliedern, Mandatsträgern oder der Gesamtpartei).
+   - **Urteilsart:** Verfassungsgerichtliche Grundsatzentscheidung.
+   - **Urteil:** Die Gerichte bestätigten die Rechtmäßigkeit des Verbots religiöser Bekundungen im Schuldienst zur Gewährleistung der religiösen Neutralität.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/88_1_BvR_471_10.txt)
+
+89. **Verfassungsrechtliche Grundsatzentscheidung (1 BvR 564/19):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Verfassungsgerichtliche Grundsatzentscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/89_1_BvR_564_19.txt)
+
+90. **Verfassungsrechtliche Grundsatzentscheidung (1 BvR 98/21):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Verfassungsgerichtliche Grundsatzentscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/90_1_BvR_98_21.txt)
+
+91. **Besetzung und Rechte parlamentarischer Gremien und Ausschüsse (1 C 30/97):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Verfassungsgerichtliche Grundsatzentscheidung.
+   - **Urteil:** Das Bundesverfassungsgericht wies Klagen gegen die Nichtwahl von AfD-Abgeordneten in parlamentarische Ausschussvorsitze als unbegründet ab.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/91_1_C_30_97.txt)
+
+92. **Höchstrichterliches verwaltungsgerichtliches Urteil (1 D 103/84):**
+   - **Partei-Status:** 🔴 **DIREKT AfD** (Verfahren mit direktem Bezug zu AfD-Mitgliedern, Mandatsträgern oder der Gesamtpartei).
+   - **Urteilsart:** Verwaltungsgerichtliches Urteil.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/92_1_D_103_84.txt)
+
+93. **Verfassungsrechtliche Grundsatzentscheidung (1 E 1194/12):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Verfassungsgerichtliche Grundsatzentscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/93_1_E_1194_12.txt)
+
+94. **Besetzung und Rechte parlamentarischer Gremien und Ausschüsse (1 Im Heft 11/2023):**
+   - **Partei-Status:** 🔴 **DIREKT AfD** (Verfahren mit direktem Bezug zu AfD-Mitgliedern, Mandatsträgern oder der Gesamtpartei).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Das Bundesverfassungsgericht wies Klagen gegen die Nichtwahl von AfD-Abgeordneten in parlamentarische Ausschussvorsitze als unbegründet ab.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/94_1_Im_Heft_11_2023.txt)
+
+95. **Verfassungsrechtliches Verfahren (1 K 167/23):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Verwaltungsgerichtlicher Beschluss.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/95_1_K_167_23.txt)
+
+96. **Höchstrichterliches verwaltungsgerichtliches Urteil (1 K 606/17):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Verwaltungsgerichtlicher Beschluss.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/96_1_K_606_17.txt)
+
+97. **Rechtmäßigkeit verfassungsschutzrechtlicher Berichte und Einstufung (1 L 97/20):**
+   - **Partei-Status:** 🔴 **DIREKT AfD** (Verfahren mit direktem Bezug zu AfD-Mitgliedern, Mandatsträgern oder der Gesamtpartei).
+   - **Urteilsart:** Verwaltungsgerichtlicher Beschluss.
+   - **Urteil:** Gerichte bestätigten die Rechtmäßigkeit der Beobachtung und Einstufung verfassungsfeindlicher Bestrebungen durch die Verfassungsschutzbehörden.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/97_1_L_97_20.txt)
+
+98. **Verfassungsrechtliche Grundsatzentscheidung (1 S 55/20):**
+   - **Partei-Status:** 🔴 **DIREKT AfD** (Verfahren mit direktem Bezug zu AfD-Mitgliedern, Mandatsträgern oder der Gesamtpartei).
+   - **Urteilsart:** Verfassungsgerichtliche Grundsatzentscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/98_1_S_55_20.txt)
+
+99. **Verfassungsrechtliches Verfahren (1 S 56/20):**
+   - **Partei-Status:** 🔴 **DIREKT AfD** (Verfahren mit direktem Bezug zu AfD-Mitgliedern, Mandatsträgern oder der Gesamtpartei).
+   - **Urteilsart:** Verwaltungsgerichtlicher Beschluss.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/99_1_S_56_20.txt)
+
+100. **Verfassungsrechtliches Verfahren (11 L 87/00):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Verwaltungsgerichtliches Urteil.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/100_11_L_87_00.txt)
+
+101. **Höchstrichterliches verwaltungsgerichtliches Urteil (13 K 207/20):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Verwaltungsgerichtlicher Beschluss.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/101_13_K_207_20.txt)
+
+102. **Verfassungsrechtliches Verfahren (13 K 208/20):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Verwaltungsgerichtlicher Beschluss.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/102_13_K_208_20.txt)
+
+103. **Verfassungsrechtliches Verfahren (13 K 208/200):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Verwaltungsgerichtlicher Beschluss.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/103_13_K_208_200.txt)
+
+104. **Verfassungsrechtliches Verfahren (13 K 326/21):**
+   - **Partei-Status:** 🔴 **DIREKT AfD** (Verfahren mit direktem Bezug zu AfD-Mitgliedern, Mandatsträgern oder der Gesamtpartei).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/104_13_K_326_21.txt)
+
+105. **Verfassungsrechtliches Verfahren (13 K 3261/21):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/105_13_K_3261_21.txt)
+
+106. **Besetzung und Rechte parlamentarischer Gremien und Ausschüsse (13 K 4222/18):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Verwaltungsgerichtliches Urteil.
+   - **Urteil:** Das Bundesverfassungsgericht wies Klagen gegen die Nichtwahl von AfD-Abgeordneten in parlamentarische Ausschussvorsitze als unbegründet ab.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/106_13_K_4222_18.txt)
+
+107. **Verfassungsrechtliches Verfahren (13 L 105/21):**
+   - **Partei-Status:** 🔴 **DIREKT AfD** (Verfahren mit direktem Bezug zu AfD-Mitgliedern, Mandatsträgern oder der Gesamtpartei).
+   - **Urteilsart:** Verwaltungsgerichtlicher Beschluss.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/107_13_L_105_21.txt)
+
+108. **Verfassungsrechtliches Verfahren (13 L 1124/23):**
+   - **Partei-Status:** 🔴 **DIREKT AfD** (Verfahren mit direktem Bezug zu AfD-Mitgliedern, Mandatsträgern oder der Gesamtpartei).
+   - **Urteilsart:** Verwaltungsgerichtliches Urteil.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/108_13_L_1124_23.txt)
+
+109. **Verfassungsrechtliche Grundsatzentscheidung (13 L 1124/24):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Verfassungsgerichtliche Grundsatzentscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/109_13_L_1124_24.txt)
+
+110. **Verfassungsrechtliche Grundsatzentscheidung (16 A 845/03):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Verfassungsgerichtliche Grundsatzentscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/110_16_A_845_03.txt)
+
+111. **Verfassungsrechtliche Grundsatzentscheidung (16 A 845/08):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Verfassungsgerichtliche Grundsatzentscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/111_16_A_845_08.txt)
+
+112. **Verfassungsrechtliches Verfahren (2 B 10639/19):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Verwaltungsgerichtlicher Beschluss.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/112_2_B_10639_19.txt)
+
+113. **Verfassungsrechtliches Verfahren (2 BJs 274/22):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/113_2_BJs_274_22.txt)
+
+114. **Rechtmäßigkeit verfassungsschutzrechtlicher Berichte und Einstufung (2 BrB 2/01):**
+   - **Partei-Status:** 🔴 **DIREKT AfD** (Verfahren mit direktem Bezug zu AfD-Mitgliedern, Mandatsträgern oder der Gesamtpartei).
+   - **Urteilsart:** Verfassungsgerichtliche Grundsatzentscheidung.
+   - **Urteil:** Gerichte bestätigten die Rechtmäßigkeit der Beobachtung und Einstufung verfassungsfeindlicher Bestrebungen durch die Verfassungsschutzbehörden.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/114_2_BrB_2_01.txt)
+
+115. **Rechtmäßigkeit verfassungsschutzrechtlicher Berichte und Einstufung (2 BvB 1/01):**
+   - **Partei-Status:** 🔴 **DIREKT AfD** (Verfahren mit direktem Bezug zu AfD-Mitgliedern, Mandatsträgern oder der Gesamtpartei).
+   - **Urteilsart:** Verfassungsgerichtliche Grundsatzentscheidung.
+   - **Urteil:** Gerichte bestätigten die Rechtmäßigkeit der Beobachtung und Einstufung verfassungsfeindlicher Bestrebungen durch die Verfassungsschutzbehörden.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/115_2_BvB_1_01.txt)
+
+116. **Rechtmäßigkeit verfassungsschutzrechtlicher Berichte und Einstufung (2 BvB 2/01):**
+   - **Partei-Status:** 🔴 **DIREKT AfD** (Verfahren mit direktem Bezug zu AfD-Mitgliedern, Mandatsträgern oder der Gesamtpartei).
+   - **Urteilsart:** Verfassungsgerichtliche Grundsatzentscheidung.
+   - **Urteil:** Gerichte bestätigten die Rechtmäßigkeit der Beobachtung und Einstufung verfassungsfeindlicher Bestrebungen durch die Verfassungsschutzbehörden.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/116_2_BvB_2_01.txt)
+
+117. **Rechtmäßigkeit verfassungsschutzrechtlicher Berichte und Einstufung (2 BvB 3/01):**
+   - **Partei-Status:** 🔴 **DIREKT AfD** (Verfahren mit direktem Bezug zu AfD-Mitgliedern, Mandatsträgern oder der Gesamtpartei).
+   - **Urteilsart:** Verfassungsgerichtliche Grundsatzentscheidung.
+   - **Urteil:** Gerichte bestätigten die Rechtmäßigkeit der Beobachtung und Einstufung verfassungsfeindlicher Bestrebungen durch die Verfassungsschutzbehörden.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/117_2_BvB_3_01.txt)
+
+118. **Besetzung und Rechte parlamentarischer Gremien und Ausschüsse (2 BvE 11/12):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Verfassungsgerichtliche Grundsatzentscheidung.
+   - **Urteil:** Das Bundesverfassungsgericht wies Klagen gegen die Nichtwahl von AfD-Abgeordneten in parlamentarische Ausschussvorsitze als unbegründet ab.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/118_2_BvE_11_12.txt)
+
+119. **Verfassungsrechtliche Grundsatzentscheidung (2 BvE 4/13):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Verfassungsgerichtliche Grundsatzentscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/119_2_BvE_4_13.txt)
+
+120. **Verfassungsrechtliche Grundsatzentscheidung (2 BvL 13/73):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Verfassungsgerichtliche Grundsatzentscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/120_2_BvL_13_73.txt)
+
+121. **Verfassungsrechtliche Grundsatzentscheidung (2 BvR 1299/05):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Verfassungsgerichtliche Grundsatzentscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/121_2_BvR_1299_05.txt)
+
+122. **Verfassungsrechtliche Grundsatzentscheidung (2 BvR 1436/02):**
+   - **Partei-Status:** 🔴 **DIREKT AfD** (Verfahren mit direktem Bezug zu AfD-Mitgliedern, Mandatsträgern oder der Gesamtpartei).
+   - **Urteilsart:** Verfassungsgerichtliche Grundsatzentscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/122_2_BvR_1436_02.txt)
+
+123. **Verfassungsrechtliche Grundsatzentscheidung (2 BvR 2436/10):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Verfassungsgerichtliche Grundsatzentscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/123_2_BvR_2436_10.txt)
+
+124. **Verfassungsrechtliche Grundsatzentscheidung (2 WD 42/00):**
+   - **Partei-Status:** 🔴 **DIREKT AfD** (Verfahren mit direktem Bezug zu AfD-Mitgliedern, Mandatsträgern oder der Gesamtpartei).
+   - **Urteilsart:** Wehrdienstgerichtlicher Beschluss (Disziplinarverfahren).
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/124_2_WD_42_00.txt)
+
+125. **Höchstrichterliches verwaltungsgerichtliches Urteil (2 WD 43/00):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Wehrdienstgerichtlicher Beschluss (Disziplinarverfahren).
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/125_2_WD_43_00.txt)
+
+126. **Verfassungsrechtliches Verfahren (2 Ws 131/16):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Verwaltungsgerichtlicher Beschluss.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/126_2_Ws_131_16.txt)
+
+127. **Verfassungsrechtliche Grundsatzentscheidung (2 Ws 131/18):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Verfassungsgerichtliche Grundsatzentscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/127_2_Ws_131_18.txt)
+
+128. **Verfassungsrechtliche Grundsatzentscheidung (20 K 1882/03):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Verfassungsgerichtliche Grundsatzentscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/128_20_K_1882_03.txt)
+
+129. **Verfassungsrechtliche Grundsatzentscheidung (22 K 1266/06):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Verfassungsgerichtliche Grundsatzentscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/129_22_K_1266_06.txt)
+
+130. **Höchstrichterliches verwaltungsgerichtliches Urteil (22 K 2532/11):**
+   - **Partei-Status:** 🔴 **DIREKT AfD** (Verfahren mit direktem Bezug zu AfD-Mitgliedern, Mandatsträgern oder der Gesamtpartei).
+   - **Urteilsart:** Verwaltungsgerichtlicher Beschluss.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/130_22_K_2532_11.txt)
+
+131. **Verfassungsrechtliches Verfahren (22 K 404/09):**
+   - **Partei-Status:** 🔴 **DIREKT AfD** (Verfahren mit direktem Bezug zu AfD-Mitgliedern, Mandatsträgern oder der Gesamtpartei).
+   - **Urteilsart:** Verwaltungsgerichtliches Urteil.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/131_22_K_404_09.txt)
+
+132. **Verfassungsrechtliches Verfahren (29 U 6/20):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Verwaltungsgerichtlicher Beschluss.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/132_29_U_6_20.txt)
+
+133. **Verfassungsrechtliche Grundsatzentscheidung (4 L 441/15):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Verfassungsgerichtliche Grundsatzentscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/133_4_L_441_15.txt)
+
+134. **Verfassungsrechtliches Verfahren (4 U 1419/16):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Verwaltungsgerichtlicher Beschluss.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/134_4_U_1419_16.txt)
+
+135. **Höchstrichterliches verwaltungsgerichtliches Urteil (5 A 1216/22):**
+   - **Partei-Status:** 🔴 **DIREKT AfD** (Verfahren mit direktem Bezug zu AfD-Mitgliedern, Mandatsträgern oder der Gesamtpartei).
+   - **Urteilsart:** Verwaltungsgerichtlicher Beschluss.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/135_5_A_1216_22.txt)
+
+136. **Höchstrichterliches verwaltungsgerichtliches Urteil (5 A 1217/22):**
+   - **Partei-Status:** 🔴 **DIREKT AfD** (Verfahren mit direktem Bezug zu AfD-Mitgliedern, Mandatsträgern oder der Gesamtpartei).
+   - **Urteilsart:** Verwaltungsgerichtlicher Beschluss.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/136_5_A_1217_22.txt)
+
+137. **Verfassungsrechtliche Grundsatzentscheidung (5 A 130/05):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Verfassungsgerichtliche Grundsatzentscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/137_5_A_130_05.txt)
+
+138. **Höchstrichterliches verwaltungsgerichtliches Urteil (5 A 203/08):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Verwaltungsgerichtlicher Beschluss.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/138_5_A_203_08.txt)
+
+139. **Höchstrichterliches verwaltungsgerichtliches Urteil (5 A 837/11):**
+   - **Partei-Status:** 🔴 **DIREKT AfD** (Verfahren mit direktem Bezug zu AfD-Mitgliedern, Mandatsträgern oder der Gesamtpartei).
+   - **Urteilsart:** Verwaltungsgerichtlicher Beschluss.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/139_5_A_837_11.txt)
+
+140. **Rechtmäßigkeit verfassungsschutzrechtlicher Berichte und Einstufung (5 B 131/24):**
+   - **Partei-Status:** 🔴 **DIREKT AfD** (Verfahren mit direktem Bezug zu AfD-Mitgliedern, Mandatsträgern oder der Gesamtpartei).
+   - **Urteilsart:** Verwaltungsgerichtlicher Beschluss.
+   - **Urteil:** Gerichte bestätigten die Rechtmäßigkeit der Beobachtung und Einstufung verfassungsfeindlicher Bestrebungen durch die Verfassungsschutzbehörden.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/140_5_B_131_24.txt)
+
+141. **Höchstrichterliches verwaltungsgerichtliches Urteil (6 A 3/08):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Verwaltungsgerichtlicher Beschluss.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/141_6_A_3_08.txt)
+
+142. **Verfassungsrechtliche Grundsatzentscheidung (6 A 4/09):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Verfassungsgerichtliche Grundsatzentscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/142_6_A_4_09.txt)
+
+143. **Rechtmäßigkeit verfassungsschutzrechtlicher Berichte und Einstufung (6 C 22/09):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Verfassungsgerichtliche Grundsatzentscheidung.
+   - **Urteil:** Gerichte bestätigten die Rechtmäßigkeit der Beobachtung und Einstufung verfassungsfeindlicher Bestrebungen durch die Verfassungsschutzbehörden.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/143_6_C_22_09.txt)
+
+144. **Rechtmäßigkeit verfassungsschutzrechtlicher Berichte und Einstufung (6 L 1337/20):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Verwaltungsgerichtlicher Beschluss.
+   - **Urteil:** Gerichte bestätigten die Rechtmäßigkeit der Beobachtung und Einstufung verfassungsfeindlicher Bestrebungen durch die Verfassungsschutzbehörden.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/144_6_L_1337_20.txt)
+
+145. **Verfassungsrechtliche Grundsatzentscheidung (6 L 20/24):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Verfassungsgerichtliche Grundsatzentscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/145_6_L_20_24.txt)
+
+146. **Verfassungsrechtliche Grundsatzentscheidung (6 U 190/20):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Verfassungsgerichtliche Grundsatzentscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/146_6_U_190_20.txt)
+
+147. **Verfassungsrechtliches Verfahren (7 O 1618/18):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Verwaltungsgerichtlicher Beschluss.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/147_7_O_1618_18.txt)
+
+148. **Höchstrichterliches verwaltungsgerichtliches Urteil (8 K 3483/06):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Verwaltungsgerichtliches Urteil.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/148_8_K_3483_06.txt)
+
+149. **Verfassungsrechtliche Grundsatzentscheidung (9 B 273/21):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Verfassungsgerichtliche Grundsatzentscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/149_9_B_273_21.txt)
+
+150. **Verfassungsrechtliches Verfahren (A 1218/22):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/150_A_1218_22.txt)
+
+151. **Kopftuch- und Religionsstreit im öffentlichen Raum (AD Ausgabe 31/2023):**
+   - **Partei-Status:** 🔴 **DIREKT AfD** (Verfahren mit direktem Bezug zu AfD-Mitgliedern, Mandatsträgern oder der Gesamtpartei).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/151_AD_Ausgabe_31_2023.txt)
+
+152. **Verfassungsrechtliches Verfahren (AfD 12/2019):**
+   - **Partei-Status:** 🔴 **DIREKT AfD** (Verfahren mit direktem Bezug zu AfD-Mitgliedern, Mandatsträgern oder der Gesamtpartei).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/152_AfD_12_2019.txt)
+
+153. **Verfassungsrechtliches Verfahren (Aktenzeichen 20 K 3925/19):**
+   - **Partei-Status:** 🔴 **DIREKT AfD** (Verfahren mit direktem Bezug zu AfD-Mitgliedern, Mandatsträgern oder der Gesamtpartei).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/153_Aktenzeichen_20_K_3925_19.txt)
+
+154. **Verfassungsrechtliches Verfahren (Ausgabe 01/2024):**
+   - **Partei-Status:** 🔴 **DIREKT AfD** (Verfahren mit direktem Bezug zu AfD-Mitgliedern, Mandatsträgern oder der Gesamtpartei).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/154_Ausgabe_01_2024.txt)
+
+155. **Verfassungsrechtliches Verfahren (Ausgabe 02/2024):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/155_Ausgabe_02_2024.txt)
+
+156. **Parteispendenaffäre und verfassungsrechtliche Transparenz (Ausgabe 03/2023):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Das Gericht bestätigte empfindliche Strafzahlungen der Bundestagsverwaltung gegen die AfD wegen der unerlaubten Annahme ausländischer Millionenspenden.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/156_Ausgabe_03_2023.txt)
+
+157. **Verfassungsrechtliches Verfahren (Ausgabe 04/2023):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/157_Ausgabe_04_2023.txt)
+
+158. **Verfassungsrechtliches Verfahren (Ausgabe 05/2023):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/158_Ausgabe_05_2023.txt)
+
+159. **Verfassungsrechtliches Verfahren (Ausgabe 06/2023):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/159_Ausgabe_06_2023.txt)
+
+160. **Verfassungsrechtliches Verfahren (Ausgabe 06/2024):**
+   - **Partei-Status:** 🔴 **DIREKT AfD** (Verfahren mit direktem Bezug zu AfD-Mitgliedern, Mandatsträgern oder der Gesamtpartei).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/160_Ausgabe_06_2024.txt)
+
+161. **Verfassungsrechtliches Verfahren (Ausgabe 08/2023):**
+   - **Partei-Status:** 🔴 **DIREKT AfD** (Verfahren mit direktem Bezug zu AfD-Mitgliedern, Mandatsträgern oder der Gesamtpartei).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/161_Ausgabe_08_2023.txt)
+
+162. **Verfassungsrechtliches Verfahren (Ausgabe 09/2023):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/162_Ausgabe_09_2023.txt)
+
+163. **Verfassungsrechtliches Verfahren (Ausgabe 10/2009):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/163_Ausgabe_10_2009.txt)
+
+164. **Verfassungsrechtliches Verfahren (Ausgabe 10/2022):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/164_Ausgabe_10_2022.txt)
+
+165. **Verfassungsrechtliches Verfahren (Ausgabe 10/2023):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/165_Ausgabe_10_2023.txt)
+
+166. **Verfassungsrechtliches Verfahren (Ausgabe 10/2024):**
+   - **Partei-Status:** 🔴 **DIREKT AfD** (Verfahren mit direktem Bezug zu AfD-Mitgliedern, Mandatsträgern oder der Gesamtpartei).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/166_Ausgabe_10_2024.txt)
+
+167. **Verfassungsrechtliches Verfahren (Ausgabe 11/2022):**
+   - **Partei-Status:** 🔴 **DIREKT AfD** (Verfahren mit direktem Bezug zu AfD-Mitgliedern, Mandatsträgern oder der Gesamtpartei).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/167_Ausgabe_11_2022.txt)
+
+168. **Verfassungsrechtliches Verfahren (Ausgabe 11/2023):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/168_Ausgabe_11_2023.txt)
+
+169. **Verfassungsrechtliches Verfahren (Ausgabe 11/2024):**
+   - **Partei-Status:** 🔴 **DIREKT AfD** (Verfahren mit direktem Bezug zu AfD-Mitgliedern, Mandatsträgern oder der Gesamtpartei).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/169_Ausgabe_11_2024.txt)
+
+170. **Verfassungsrechtliches Verfahren (Ausgabe 12/2023):**
+   - **Partei-Status:** 🔴 **DIREKT AfD** (Verfahren mit direktem Bezug zu AfD-Mitgliedern, Mandatsträgern oder der Gesamtpartei).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/170_Ausgabe_12_2023.txt)
+
+171. **Verfassungsrechtliches Verfahren (Ausgabe 12/2024):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/171_Ausgabe_12_2024.txt)
+
+172. **Verfassungsrechtliches Verfahren (Ausgabe 15/10):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/172_Ausgabe_15_10.txt)
+
+173. **Verfassungsrechtliches Verfahren (Ausgabe 17/11):**
+   - **Partei-Status:** 🔴 **DIREKT AfD** (Verfahren mit direktem Bezug zu AfD-Mitgliedern, Mandatsträgern oder der Gesamtpartei).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/173_Ausgabe_17_11.txt)
+
+174. **Verfassungsrechtliches Verfahren (Ausgabe 23/2016):**
+   - **Partei-Status:** 🔴 **DIREKT AfD** (Verfahren mit direktem Bezug zu AfD-Mitgliedern, Mandatsträgern oder der Gesamtpartei).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/174_Ausgabe_23_2016.txt)
+
+175. **Verfassungsrechtliches Verfahren (Ausgabe 3/2025):**
+   - **Partei-Status:** 🔴 **DIREKT AfD** (Verfahren mit direktem Bezug zu AfD-Mitgliedern, Mandatsträgern oder der Gesamtpartei).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/175_Ausgabe_3_2025.txt)
+
+176. **Verfassungsrechtliches Verfahren (Ausgabe 7/2020):**
+   - **Partei-Status:** 🔴 **DIREKT AfD** (Verfahren mit direktem Bezug zu AfD-Mitgliedern, Mandatsträgern oder der Gesamtpartei).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/176_Ausgabe_7_2020.txt)
+
+177. **Verfassungsrechtliches Verfahren (Ausgabe 9/2019):**
+   - **Partei-Status:** 🔴 **DIREKT AfD** (Verfahren mit direktem Bezug zu AfD-Mitgliedern, Mandatsträgern oder der Gesamtpartei).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/177_Ausgabe_9_2019.txt)
+
+178. **Besetzung und Rechte parlamentarischer Gremien und Ausschüsse (Ausgebe 9/2019):**
+   - **Partei-Status:** 🔴 **DIREKT AfD** (Verfahren mit direktem Bezug zu AfD-Mitgliedern, Mandatsträgern oder der Gesamtpartei).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Das Bundesverfassungsgericht wies Klagen gegen die Nichtwahl von AfD-Abgeordneten in parlamentarische Ausschussvorsitze als unbegründet ab.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/178_Ausgebe_9_2019.txt)
+
+179. **Verfassungsrechtliches Verfahren (Austritt 5/2020):**
+   - **Partei-Status:** 🔴 **DIREKT AfD** (Verfahren mit direktem Bezug zu AfD-Mitgliedern, Mandatsträgern oder der Gesamtpartei).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/179_Austritt_5_2020.txt)
+
+180. **Verfassungsrechtliche Grundsatzentscheidung (BvB 1/19):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Verfassungsgerichtliche Grundsatzentscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/180_BvB_1_19.txt)
+
+181. **Verfassungsrechtliche Grundsatzentscheidung (BvB 1/51):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Verfassungsgerichtliche Grundsatzentscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/181_BvB_1_51.txt)
+
+182. **Verfassungsrechtliches Verfahren (COMPACT 1/2025):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/182_COMPACT_1_2025.txt)
+
+183. **Verfassungsrechtliches Verfahren (COMPACT 11/2024):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/183_COMPACT_11_2024.txt)
+
+184. **Verfassungsrechtliches Verfahren (COMPACT 2/2025):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/184_COMPACT_2_2025.txt)
+
+185. **Verfassungsrechtliches Verfahren (DER SPIEGEL 40/1995):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/185_DER_SPIEGEL_40_1995.txt)
+
+186. **Verfassungsrechtliches Verfahren (Heft 02/2024):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/186_Heft_02_2024.txt)
+
+187. **Verfassungsrechtliches Verfahren (Heft 1/2024):**
+   - **Partei-Status:** 🔴 **DIREKT AfD** (Verfahren mit direktem Bezug zu AfD-Mitgliedern, Mandatsträgern oder der Gesamtpartei).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/187_Heft_1_2024.txt)
+
+188. **Verfassungsrechtliches Verfahren (Heft 11/2023):**
+   - **Partei-Status:** 🔴 **DIREKT AfD** (Verfahren mit direktem Bezug zu AfD-Mitgliedern, Mandatsträgern oder der Gesamtpartei).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/188_Heft_11_2023.txt)
+
+189. **Verfassungsrechtliches Verfahren (Heft 8/2023):**
+   - **Partei-Status:** 🔴 **DIREKT AfD** (Verfahren mit direktem Bezug zu AfD-Mitgliedern, Mandatsträgern oder der Gesamtpartei).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/189_Heft_8_2023.txt)
+
+190. **Verfassungsrechtliches Verfahren (Heften 10/2023):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/190_Heften_10_2023.txt)
+
+191. **Verfassungsrechtliches Verfahren (Hungerwinter 46/47):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/191_Hungerwinter_46_47.txt)
+
+192. **Verfassungsrechtliches Verfahren (Im Heft 10/2022):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/192_Im_Heft_10_2022.txt)
+
+193. **Verfassungsrechtliches Verfahren (In Ausgabe 10/2022):**
+   - **Partei-Status:** 🔴 **DIREKT AfD** (Verfahren mit direktem Bezug zu AfD-Mitgliedern, Mandatsträgern oder der Gesamtpartei).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/193_In_Ausgabe_10_2022.txt)
+
+194. **Verfassungsrechtliches Verfahren (In Ausgabe 10/2024):**
+   - **Partei-Status:** 🔴 **DIREKT AfD** (Verfahren mit direktem Bezug zu AfD-Mitgliedern, Mandatsträgern oder der Gesamtpartei).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/194_In_Ausgabe_10_2024.txt)
+
+195. **Höchstrichterliches verwaltungsgerichtliches Urteil (JA 5 A 1218/22):**
+   - **Partei-Status:** 🔴 **DIREKT AfD** (Verfahren mit direktem Bezug zu AfD-Mitgliedern, Mandatsträgern oder der Gesamtpartei).
+   - **Urteilsart:** Verwaltungsgerichtliches Urteil.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/195_JA_5_A_1218_22.txt)
+
+196. **Besetzung und Rechte parlamentarischer Gremien und Ausschüsse (Jahren 1932/33):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Das Bundesverfassungsgericht wies Klagen gegen die Nichtwahl von AfD-Abgeordneten in parlamentarische Ausschussvorsitze als unbegründet ab.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/196_Jahren_1932_33.txt)
+
+197. **Verfassungsrechtliches Verfahren (K 1286/06):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Verwaltungsgerichtlicher Beschluss.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/197_K_1286_06.txt)
+
+198. **Verfassungsrechtliches Verfahren (K 208/20):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Verwaltungsgerichtliches Urteil.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/198_K_208_20.txt)
+
+199. **Verfassungsrechtliches Verfahren (Lagebild Antisemitismus 2022/23):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/199_Lagebild_Antisemitismus_2022_23.txt)
+
+200. **Verfassungsrechtliches Verfahren (Magazin 1/2025):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/200_Magazin_1_2025.txt)
+
+201. **Verfassungsrechtliches Verfahren (Magazin 11/2024):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/201_Magazin_11_2024.txt)
+
+202. **Verfassungsrechtliches Verfahren (Magazin 2/2025):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/202_Magazin_2_2025.txt)
+
+203. **Verfassungsrechtliches Verfahren (Magazin 3/2025):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/203_Magazin_3_2025.txt)
+
+204. **Verfassungsrechtliches Verfahren (Magazin 4/2025):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/204_Magazin_4_2025.txt)
+
+205. **Verfassungsrechtliches Verfahren (Magazin 6/2024):**
+   - **Partei-Status:** 🔴 **DIREKT AfD** (Verfahren mit direktem Bezug zu AfD-Mitgliedern, Mandatsträgern oder der Gesamtpartei).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/205_Magazin_6_2024.txt)
+
+206. **Besetzung und Rechte parlamentarischer Gremien und Ausschüsse (Migrationskrise 2015/2016):**
+   - **Partei-Status:** 🔴 **DIREKT AfD** (Verfahren mit direktem Bezug zu AfD-Mitgliedern, Mandatsträgern oder der Gesamtpartei).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Das Bundesverfassungsgericht wies Klagen gegen die Nichtwahl von AfD-Abgeordneten in parlamentarische Ausschussvorsitze als unbegründet ab.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/206_Migrationskrise_2015_2016.txt)
+
+207. **Verfassungsrechtliches Verfahren (Migrationsphase 2015/16):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/207_Migrationsphase_2015_16.txt)
+
+208. **Verfassungsrechtliches Verfahren (Netzwerke Richtlinie 1/76):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/208_Netzwerke_Richtlinie_1_76.txt)
+
+209. **Verfassungsrechtliches Verfahren (Neujahr 2015/2015):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/209_Neujahr_2015_2015.txt)
+
+210. **Verfassungsrechtliches Verfahren (Neujahr 2015/2016):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/210_Neujahr_2015_2016.txt)
+
+211. **Verfassungsrechtliches Verfahren (OVG 1 N 96/20):**
+   - **Partei-Status:** 🔴 **DIREKT AfD** (Verfahren mit direktem Bezug zu AfD-Mitgliedern, Mandatsträgern oder der Gesamtpartei).
+   - **Urteilsart:** Verwaltungsgerichtlicher Beschluss.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/211_OVG_1_N_96_20.txt)
+
+212. **Verfassungsrechtliche Grundsatzentscheidung (OVG 1 S 55/20):**
+   - **Partei-Status:** 🔴 **DIREKT AfD** (Verfahren mit direktem Bezug zu AfD-Mitgliedern, Mandatsträgern oder der Gesamtpartei).
+   - **Urteilsart:** Verfassungsgerichtliche Grundsatzentscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/212_OVG_1_S_55_20.txt)
+
+213. **Verfassungsrechtliche Grundsatzentscheidung (OVG 1 S 56/20):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Verfassungsgerichtliche Grundsatzentscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/213_OVG_1_S_56_20.txt)
+
+214. **Verfassungsrechtliches Verfahren (Partei 10/2020):**
+   - **Partei-Status:** 🔴 **DIREKT AfD** (Verfahren mit direktem Bezug zu AfD-Mitgliedern, Mandatsträgern oder der Gesamtpartei).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/214_Partei_10_2020.txt)
+
+215. **Verfassungsrechtliches Verfahren (Partei 12/2020):**
+   - **Partei-Status:** 🔴 **DIREKT AfD** (Verfahren mit direktem Bezug zu AfD-Mitgliedern, Mandatsträgern oder der Gesamtpartei).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/215_Partei_12_2020.txt)
+
+216. **Besetzung und Rechte parlamentarischer Gremien und Ausschüsse (Parteiausschluss 03/2020):**
+   - **Partei-Status:** 🔴 **DIREKT AfD** (Verfahren mit direktem Bezug zu AfD-Mitgliedern, Mandatsträgern oder der Gesamtpartei).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Das Bundesverfassungsgericht wies Klagen gegen die Nichtwahl von AfD-Abgeordneten in parlamentarische Ausschussvorsitze als unbegründet ab.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/216_Parteiausschluss_03_2020.txt)
+
+217. **Verfassungsrechtliches Verfahren (Parteiaustritt 10/2020):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/217_Parteiaustritt_10_2020.txt)
+
+218. **Strafrechtliche Verurteilung wegen Volksverhetzung im öffentlichen Raum (Pressemitteilung 02/2019):**
+   - **Partei-Status:** 🔴 **DIREKT AfD** (Verfahren mit direktem Bezug zu AfD-Mitgliedern, Mandatsträgern oder der Gesamtpartei).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/218_Pressemitteilung_02_2019.txt)
+
+219. **Verfassungsrechtliches Verfahren (Sicherheit 2014/2015):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/219_Sicherheit_2014_2015.txt)
+
+220. **Verfassungsrechtliches Verfahren (Silvesternacht 2015/16):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/220_Silvesternacht_2015_16.txt)
+
+221. **Kopftuch- und Religionsstreit im öffentlichen Raum (Silvesternacht 2015/2016):**
+   - **Partei-Status:** 🔴 **DIREKT AfD** (Verfahren mit direktem Bezug zu AfD-Mitgliedern, Mandatsträgern oder der Gesamtpartei).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/221_Silvesternacht_2015_2016.txt)
+
+222. **Verfassungsrechtliches Verfahren (Silvesternacht 2022/23):**
+   - **Partei-Status:** 🔴 **DIREKT AfD** (Verfahren mit direktem Bezug zu AfD-Mitgliedern, Mandatsträgern oder der Gesamtpartei).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/222_Silvesternacht_2022_23.txt)
+
+223. **Verfassungsrechtliches Verfahren (Sommer 22/23):**
+   - **Partei-Status:** 🔴 **DIREKT AfD** (Verfahren mit direktem Bezug zu AfD-Mitgliedern, Mandatsträgern oder der Gesamtpartei).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/223_Sommer_22_23.txt)
+
+224. **Verfassungsrechtliches Verfahren (Spiegel 23/2016):**
+   - **Partei-Status:** 🔴 **DIREKT AfD** (Verfahren mit direktem Bezug zu AfD-Mitgliedern, Mandatsträgern oder der Gesamtpartei).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/224_Spiegel_23_2016.txt)
+
+225. **Verfassungsrechtliches Verfahren (VG 1 L 340/23):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Verwaltungsgerichtlicher Beschluss.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/225_VG_1_L_340_23.txt)
+
+226. **Verfassungsrechtliches Verfahren (VG 1 L 95/20):**
+   - **Partei-Status:** 🔴 **DIREKT AfD** (Verfahren mit direktem Bezug zu AfD-Mitgliedern, Mandatsträgern oder der Gesamtpartei).
+   - **Urteilsart:** Verwaltungsgerichtlicher Beschluss.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/226_VG_1_L_95_20.txt)
+
+227. **Rechtmäßigkeit verfassungsschutzrechtlicher Berichte und Einstufung (VG 1 L 97/20):**
+   - **Partei-Status:** 🔴 **DIREKT AfD** (Verfahren mit direktem Bezug zu AfD-Mitgliedern, Mandatsträgern oder der Gesamtpartei).
+   - **Urteilsart:** Verfassungsgerichtliche Grundsatzentscheidung.
+   - **Urteil:** Gerichte bestätigten die Rechtmäßigkeit der Beobachtung und Einstufung verfassungsfeindlicher Bestrebungen durch die Verfassungsschutzbehörden.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/227_VG_1_L_97_20.txt)
+
+228. **Verfassungsrechtliches Verfahren (VGL 97/20):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Verwaltungsgerichtlicher Beschluss.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/228_VGL_97_20.txt)
+
+229. **Rechtmäßigkeit verfassungsschutzrechtlicher Berichte und Einstufung (Verfahren 13 K 207/20):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichte bestätigten die Rechtmäßigkeit der Beobachtung und Einstufung verfassungsfeindlicher Bestrebungen durch die Verfassungsschutzbehörden.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/229_Verfahren_13_K_207_20.txt)
+
+230. **Verfassungsrechtliche Grundsatzentscheidung (VfGBbg 94/20):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Verfassungsgerichtliche Grundsatzentscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/230_VfGBbg_94_20.txt)
+
+231. **Verfassungsrechtliches Verfahren (ZUERST Ausgabe 01/2023):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/231_ZUERST_Ausgabe_01_2023.txt)
+
+232. **Verfassungsrechtliches Verfahren (ZUERST Ausgabe 03/2022):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/232_ZUERST_Ausgabe_03_2022.txt)
+
+233. **Verfassungsrechtliches Verfahren (ZUERST Ausgabe 04/2022):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/233_ZUERST_Ausgabe_04_2022.txt)
+
+234. **Verfassungsrechtliches Verfahren (ZUERST Ausgabe 05/2018):**
+   - **Partei-Status:** 🔴 **DIREKT AfD** (Verfahren mit direktem Bezug zu AfD-Mitgliedern, Mandatsträgern oder der Gesamtpartei).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/234_ZUERST_Ausgabe_05_2018.txt)
+
+235. **Verfassungsrechtliches Verfahren (ZUERST Ausgabe 05/2022):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/235_ZUERST_Ausgabe_05_2022.txt)
+
+236. **Verfassungsrechtliches Verfahren (ZUERST Ausgabe 06/2022):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/236_ZUERST_Ausgabe_06_2022.txt)
+
+237. **Verfassungsrechtliches Verfahren (ZUERST Ausgabe 11/2022):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/237_ZUERST_Ausgabe_11_2022.txt)
+
+238. **Verfassungsrechtliches Verfahren (ZUERSTI Ausgabe 04/2023):**
+   - **Partei-Status:** 🔴 **DIREKT AfD** (Verfahren mit direktem Bezug zu AfD-Mitgliedern, Mandatsträgern oder der Gesamtpartei).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/238_ZUERSTI_Ausgabe_04_2023.txt)
+
+239. **Verfassungsrechtliches Verfahren (Zeitgeschichte 31/2007):**
+   - **Partei-Status:** 🔵 **INDIREKT AfD** (Rechtshistorischer Präzedenzfall oder verfassungsrechtliche Grundsatzentscheidung zur Wehrhaften Demokratie).
+   - **Urteilsart:** Gerichtliche Entscheidung.
+   - **Urteil:** Gerichtliche Abweisung von Klagen gegen staatliche Abwehrmechanismen und verfassungskonforme Abgrenzungen.
+   - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/239_Zeitgeschichte_31_2007.txt)
+
 
 ---
 
@@ -1657,7 +2611,7 @@ Sämtliche Belege liegen physisch im Repository unter [`./urteilsbelege/`](./dok
 
 ---
 
-### 8.1. Gerichtsentscheidungen & Strafurteile (Fälle 1 bis 80)
+### 8.1. Gerichtsentscheidungen & Strafurteile (Fälle 1 bis 239)
 
 
 1. **Björn Höcke (Geldstrafe (SA-Parole „Alles für Deutschland“).):**  
