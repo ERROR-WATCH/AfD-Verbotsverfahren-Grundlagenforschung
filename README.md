@@ -1226,3 +1226,9 @@ Ich hoffe zutiefst, dass dieses Repository einen Beitrag dazu leisten kann, dass
 Für ein rechtsstaatliches Parteiverbot bleibt uns nicht viel Zeit. Die Mühlen der Justiz mahlen langsam, und die Einleitung eines solchen Verfahrens beim Bundesverfassungsgericht ist ein historischer Kraftakt, der Monate, wenn nicht Jahre intensiver Vorbereitung braucht. Realistisch sind für ein Verbotsverfahren mindestens 2,5 bis 3,5 Jahre zu veranschlagen. Die Zeit ist somit denkbar knapp. Stand 2026 habe ich mit der derzeitigen Regierung kaum noch Hoffnung auf ein rechtzeitiges Abwenden eines drohenden Faschismus. Aber ich bin es Bruno schuldig, vorher wenigstens alles versucht und meinen Beitrag für eine humanistische und demokratische Welt geleistet zu haben.
 
 Vielen Dank – und in ewigem Gedenken an Bruno.
+
+---
+
+Abschließend möchte ich Soso über Rassismus ein paar Worte sagen lassen:
+
+[Soso über Rassismus - YouTube Shorts](https://www.youtube.com/shorts/en99n4pWuzw)
