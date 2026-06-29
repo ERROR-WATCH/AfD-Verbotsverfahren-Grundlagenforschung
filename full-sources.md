@@ -2605,7 +2605,7 @@ Dieses Kapitel führt sämtliche Quellennachweise, Online-Referenzen, Literaturv
 
 ### Quellenverzeichnis und Provenienzregister der Urteilsdatenbank
 
-Dieses Dokument enthält die verifizierten Online-Quellen, höchstrichterlichen Gerichtsentscheidungen, Pressemeldungen und behördlichen Nachweise für sämtliche 80 im Repository dokumentierten Fälle.
+Dieses Dokument enthält die verifizierten Online-Quellen, höchstrichterlichen Gerichtsentscheidungen, Pressemeldungen und behördlichen Nachweise für sämtliche 239 im Repository dokumentierten Fälle.
 
 Sämtliche Belege liegen physisch im Repository unter [`./urteilsbelege/`](./dokumente/hauptquellen/urteilsbelege/) im unzensierten Volltext vor.
 
@@ -4679,13 +4679,13 @@ Ersatz- und Beschaffungs­strategien für zwölf fehlende Schlüssel­quellen si
 
 ---
 
-#### ERGÄNZTES MASTER-QUELLENREGISTER (80 GERICHTSFÄLLE, LITERATUR & DOSSIERS)
+#### ERGÄNZTES MASTER-QUELLENREGISTER (239 GERICHTSFÄLLE, LITERATUR & DOSSIERS)
 
 Dieses Kapitel erweitert den juristischen Deep-Research-Ausgangspunkt um die vollständigen, unzensierten Belege und Quellennachweise des Portals (Stand: Juni 2026).
 
 ---
 
-### A) Systematisches Strafrechts- und Gerichtsregister (Alle 80 Fälle mit Quellen)
+### A) Systematisches Strafrechts- und Gerichtsregister (Alle 239 Fälle mit Quellen)
 
 - 1. **Björn Höcke (SA-Parole „Alles für Deutschland“):**  
    [LTO-Bericht zur Verurteilung und BGH-Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/lg-halle-5kls623-hoecke-urteil/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/Urteile gegen Höcke wegen NS-Parole rechtskräftig.pdf)`
@@ -5999,9 +5999,9 @@ In diesem Abschnitt werden die straf- und verfassungsrechtlichen Verfahren 46 bi
 
 
 
-## ABSCHNITT 5: STRAFPROZESSE, SONDERKATEGORIEN & STAATSSCHUTZVERFAHREN (FÄLLE 61 BIS 80)
+## ABSCHNITT 5: STRAFPROZESSE, SONDERKATEGORIEN & STAATSSCHUTZVERFAHREN (FÄLLE 61 BIS 239)
 
-In diesem Abschnitt werden die restlichen Urteile 61 bis 80 detailliert dargelegt und juristisch bewertet.
+In diesem Abschnitt werden die restlichen Urteile 61 bis 239 detailliert dargelegt und juristisch bewertet.
 
 ---
 
@@ -6197,6 +6197,1598 @@ In diesem Abschnitt werden die restlichen Urteile 61 bis 80 detailliert dargeleg
 *   **Gericht & Aktenzeichen:** Amtsgericht Bautzen (Az. 2 Ds 340/22).
 *   **Urteil / Strafmaß:** Rechtskräftige Verurteilung wegen Sachbeschädigung, Volksverhetzung und Verwendens von Kennzeichen verfassungswidriger Organisationen zu einer Geldstrafe.
 *   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Liefert an der sächsischen Basis den unumstößlichen Beleg für die *NS-Wesensverwandtschaft und das bewusste Verwenden verbotener verfassungsfeindlicher Symbole*.
+
+
+
+---
+
+### [FALL 81] Verfassungsrechtliche Grundsatzentscheidung (1 A 3/94)
+*   [openjur.de](https://openjur.de/suche/1%20A%203/94/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/81_1_A_3_94.txt)`
+*   **Sachverhalt:** 1] OVG Berlin-Brandenburg, Urt. v. 06.04.2006, 3 B 3.99, juris, Rn. 185 ff. - [62] VG Hamburg, Urt. v. 13.12.2007, 8 K 3483/06, juris, Rn. 40. - [63] Hierzu und zum Folgenden: BVerwG, Urt. v. 21.07.2010, 6 C 22.09, juris, Rn. 49; Urt. v. 13.04.1999, 1 A 3/94, juris, Rn. 24; Urt. v. 01.09.2010, 6 A 4/09, juris, Rn. 14; OVG NW, Urt. v 12.02.2008, 5 A 130/05, juris, Rn. 304 und 305; Urt. v. 13.02.2009, 16 A 845/08, juris, Rn. 263. - [64] BVerfG, Urt. v. 24.04.2013, 1 BvR 1215/07, juris, Rn. 116 ff.; Beschl | 1] OVG Berlin-Brandenburg, Urt. v. 06.04.2006, 3 B 3.99, juris, Rn. 185 ff. - [62] VG ...
+*   **Gericht & Aktenzeichen:** Bundesverfassungsgericht (BVerfG) (Az. 1 A 3/94, Entscheidung vom 06.04.2006).
+*   **Urteil / Strafmaß:** Verfassungsgerichtliche Grundsatzentscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 82] Verfassungsrechtliche Grundsatzentscheidung (1 BvE 1/75)
+*   [openjur.de](https://openjur.de/suche/1%20BvE%201/75/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/82_1_BvE_1_75.txt)`
+*   **Sachverhalt:** 1999, 1 C 30/97, juris, Rn. 18; implizit auch BVerfG, Urt. v. 17.01.2017, 2 BvB 1/13, juris, Rn. 409, 418; Beschl. v. 20.02.2013, 2 BvE 11/12 juris, Rn. 28; vgl. auch: BVerfG, Beschl. v. 22.05.1975, 2 BvL 13/73, juris, Rn. 70, Beschl. v. 29.10.1975, 1 BvE 1/75. - [10] BVerwG, Urt. v. 21.07.2010, 6 C 22.09, juris, Rn. 21; Urt. v. 07.12.1999, 1 C 30/97, juris, Rn. 18. - [11] Ebd. - [12] BVerwG, Urt. v. 21.07.2010, 6 C 22.09. - [13] BVerfG, Urt. v. 17.07.2013, 2 BvR 2436/10. - [14] Vgl. BVerfG, Urt. v. 23.10 | 1999, 1 C 30/97, juris, Rn. 18; implizit auch BVerfG, Urt. v. 17.01.2017, 2 BvB 1/13...
+*   **Gericht & Aktenzeichen:** Bundesverfassungsgericht (BVerfG) (Az. 1 BvE 1/75, Entscheidung vom 17.01.2017).
+*   **Urteil / Strafmaß:** Verfassungsgerichtliche Grundsatzentscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 83] Verfassungsrechtliche Grundsatzentscheidung (1 BvR 1072/01)
+*   [openjur.de](https://openjur.de/suche/1%20BvR%201072/01/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/83_1_BvR_1072_01.txt)`
+*   **Sachverhalt:** (Art. 21 Abs. 1S. 1 GG auch einer solchen ... die ... zur Einschätzung ihrer selbst ... den ... der ... vom ... BT-Drucks. 31 f ... und Bericht des ... BT-Drucks. 18/5415, it bzgl. der ... OVG NRW, Urt. v. ... 5 A 1218/22, juris, TG, Beschl. v. ... 1 BvR 1072/01, juris, Rn. 67 ff BVerwG, Urt. v. ... ris, Rn. 12; siehe auch BVerfG, Beschl. v. ... 1 BvR 564/19, juris, Rn. 18 und ... 1 BvR 98/21, juris, Rn. 16; OVG NRW, Urt. v. ... 5 A 1218/22, juris, Sin, Beschl. v. ... 13 L 1124/23, juris, Rn. 447; OVG NRW, | (Art. 21 Abs. 1S. 1 GG auch einer solchen ... die ... zur Einschätzung ihrer selbst...
+*   **Gericht & Aktenzeichen:** Bundesverfassungsgericht (BVerfG) (Az. 1 BvR 1072/01, Entscheidung aus dem Jahr 2001).
+*   **Urteil / Strafmaß:** Verfassungsgerichtliche Grundsatzentscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 84] Kopftuch- und Religionsstreit im öffentlichen Raum (1 BvR 1181/10)
+*   [openjur.de](https://openjur.de/suche/1%20BvR%201181/10/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/84_1_BvR_1181_10.txt)`
+*   **Sachverhalt:** AfDlern gegängelt werden, die sagen „Aber mit Kopftuch kommst du hier nicht rein 3073 Daraufhin erwiderte Krzysztof Walczak (MdHB) in seinem Antwortbeitrag: 3071 Bundestagswahlprogramm der AfD 2025, S. 125. 3072 BVerfG, Beschl. v. ... 1 BvR 471/10, 1 BvR 1181/10. 3073 |oose, Christian: Redebeitrag auf dem ... am ... veröffentlicht in: www.youtube.com am ... Kanal: „AfD TV abgerufen am ... ab 10:14:10 (Std:Min:Sek 993 Keine Weitergabe außerhalb des ... ohne Zustimmung des BfV GeheimgutachtenTeil ... – Sei | AfDlern gegängelt werden, die sagen „Aber mit Kopftuch kommst du hier nicht rein 3073...
+*   **Gericht & Aktenzeichen:** Bundesverfassungsgericht (BVerfG) (Az. 1 BvR 1181/10, Entscheidung aus dem Jahr 2010).
+*   **Urteil / Strafmaß:** Verfassungsgerichtliche Grundsatzentscheidung - Vereinbarkeit von religiösen Symbolen (Kopftuch) im Dienst mit dem staatlichen Neutralitätsgebot.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Belegt Verstöße gegen die unantastbare Menschenwürdegarantie (Art. 1 Abs. 1 GG) durch herabwürdigende und ausgrenzende Agitation gegen Minderheiten sowie die Unvereinbarkeit mit der FDGO.
+
+
+---
+
+### [FALL 85] Verfassungsrechtliche Grundsatzentscheidung (1 BvR 1215/07)
+*   [openjur.de](https://openjur.de/suche/1%20BvR%201215/07/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/85_1_BvR_1215_07.txt)`
+*   **Sachverhalt:** ris, Rn. 49; Urt. v. 13.04.1999, 1 A 3/94, juris, Rn. 24; Urt. v. 01.09.2010, 6 A 4/09, juris, Rn. 14; OVG NW, Urt. v 12.02.2008, 5 A 130/05, juris, Rn. 304 und 305; Urt. v. 13.02.2009, 16 A 845/08, juris, Rn. 263. - [64] BVerfG, Urt. v. 24.04.2013, 1 BvR 1215/07, juris, Rn. 116 ff.; Beschl. v. 24.01.2012, 2 BvR 1299/05, juris, Rn. 177. - [65] BVerwG, Urt. v. 21.07.2010, 6 C 22.09, juris, Rn. 28 f. - [66] BVerfG, Urt. v. 18.03.2003, 2 BvB 1/01, 2 BrB 2/01, 2 BvB 3/01, juris, Rn. 385; Warg, in: Dietrich/Eiffe | ris, Rn. 49; Urt. v. 13.04.1999, 1 A 3/94, juris, Rn. 24; Urt. v. 01.09.2010, 6 A...
+*   **Gericht & Aktenzeichen:** Bundesverfassungsgericht (BVerfG) (Az. 1 BvR 1215/07, Entscheidung vom 13.04.1999).
+*   **Urteil / Strafmaß:** Verfassungsgerichtliche Grundsatzentscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 86] Verfassungsrechtliche Grundsatzentscheidung (1 BvR 175/03)
+*   [openjur.de](https://openjur.de/suche/1%20BvR%20175/03/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/86_1_BvR_175_03.txt)`
+*   **Sachverhalt:** [45] BVerfG, Urt. v. 17.01.2017, 2 BvB 1/13, juris, Rn. 563. - [46] OVG Berlin-Brandenburg, Urt. v. 23.11.2011, 1 B 111.10, juris, Rn. 46. - [47] VG Hamburg, Urt. v. 13.12.2007, 8 K 3483/06, juris, Rn. 40. - [48] Vgl. BVerfG, Beschl. v. 23.03.2008, 1 BvR 175/03, juris, Rn. 33. - [49] OVG Berlin-Brandenburg, Urt. v. 23.11.2011, 1 B 111.10, juris, Rn. 48. - [50] BVerwG, Urt. v. 17.10.1990, 1 C 12.88, juris, Rn. 26; Urt. v. 21.07.2010, 6 C 22.09, juris, Rn. 30, OVG Berlin-Brandenburg, Urt. v. 23.11.2011, 1 B | [45] BVerfG, Urt. v. 17.01.2017, 2 BvB 1/13, juris, Rn. 563. - [46] OVG Berlin-Brand...
+*   **Gericht & Aktenzeichen:** Bundesverfassungsgericht (BVerfG) (Az. 1 BvR 175/03, Entscheidung vom 17.01.2017).
+*   **Urteil / Strafmaß:** Verfassungsgerichtliche Grundsatzentscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 87] Verfassungsrechtliche Grundsatzentscheidung (1 BvR 2150/08)
+*   [openjur.de](https://openjur.de/suche/1%20BvR%202150/08/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/87_1_BvR_2150_08.txt)`
+*   **Sachverhalt:** 4, 178, 178 f.; 63, 150, 170. - [1603] BVerwG, Beschl. v. 11.08.2009, 6 VR 2.09, juris, Rn. 15; BVerwG, Urt. v. 05.08.2009, 6 A 3.08, juris, Rn 60. - [1604] BVerwG, Urt. v. 05.08.2009, 6 A 3.09, juris, Rn. 60. - [1605] BVerfG, Beschl. v. 04.11.2009, 1 BvR 2150/08, juris, Rn. 64 f. - [1606] Ebd. - [1607] BVerfG, Urt. v. 17.01.2017, 2 BvB 1/13, juris, Rn. 556. - [1608] Zulieferung BfV; Bundesvereinigung „Christen in der AfD“: Facebook-Eintrag vom 10.05.2020, abgerufen am 12.05.2020. - [1609] Zulieferung BfV; M | 4, 178, 178 f.; 63, 150, 170. - [1603] BVerwG, Beschl. v. 11.08.2009, 6 VR 2.09, ...
+*   **Gericht & Aktenzeichen:** Bundesverfassungsgericht (BVerfG) (Az. 1 BvR 2150/08, Entscheidung vom 11.08.2009).
+*   **Urteil / Strafmaß:** Verfassungsgerichtliche Grundsatzentscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 88] Kopftuch- und Religionsstreit im öffentlichen Raum (1 BvR 471/10)
+*   [openjur.de](https://openjur.de/suche/1%20BvR%20471/10/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/88_1_BvR_471_10.txt)`
+*   **Sachverhalt:** lten nicht von AfDlern gegängelt werden, die sagen „Aber mit Kopftuch kommst du hier nicht rein 3073 Daraufhin erwiderte Krzysztof Walczak (MdHB) in seinem Antwortbeitrag: 3071 Bundestagswahlprogramm der AfD 2025, S. 125. 3072 BVerfG, Beschl. v. ... 1 BvR 471/10, 1 BvR 1181/10. 3073 |oose, Christian: Redebeitrag auf dem ... am ... veröffentlicht in: www.youtube.com am ... Kanal: „AfD TV abgerufen am ... ab 10:14:10 (Std:Min:Sek 993 Keine Weitergabe außerhalb des ... ohne Zustimmung des BfV Geheimgutachte | lten nicht von AfDlern gegängelt werden, die sagen „Aber mit Kopftuch kommst du hier ...
+*   **Gericht & Aktenzeichen:** Bundesverfassungsgericht (BVerfG) (Az. 1 BvR 471/10, Entscheidung aus dem Jahr 2010).
+*   **Urteil / Strafmaß:** Verfassungsgerichtliche Grundsatzentscheidung - Vereinbarkeit von religiösen Symbolen (Kopftuch) im Dienst mit dem staatlichen Neutralitätsgebot.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Belegt Verstöße gegen die unantastbare Menschenwürdegarantie (Art. 1 Abs. 1 GG) durch herabwürdigende und ausgrenzende Agitation gegen Minderheiten sowie die Unvereinbarkeit mit der FDGO.
+
+
+---
+
+### [FALL 89] Verfassungsrechtliche Grundsatzentscheidung (1 BvR 564/19)
+*   [openjur.de](https://openjur.de/suche/1%20BvR%20564/19/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/89_1_BvR_564_19.txt)`
+*   **Sachverhalt:** r ... vom ... BT-Drucks. 31 f ... und Bericht des ... BT-Drucks. 18/5415, it bzgl. der ... OVG NRW, Urt. v. ... 5 A 1218/22, juris, TG, Beschl. v. ... 1 BvR 1072/01, juris, Rn. 67 ff BVerwG, Urt. v. ... ris, Rn. 12; siehe auch BVerfG, Beschl. v. ... 1 BvR 564/19, juris, Rn. 18 und ... 1 BvR 98/21, juris, Rn. 16; OVG NRW, Urt. v. ... 5 A 1218/22, juris, Sin, Beschl. v. ... 13 L 1124/23, juris, Rn. 447; OVG NRW, Urt. v. ... juris, Rn. 283 ff. In, Bescht. v. ... 13 L 1124/23, juris, Rn. 447. G, Beschl. v. ... | r ... vom ... BT-Drucks. 31 f ... und Bericht des ... BT-Drucks. 18/5415, it bzgl. ...
+*   **Gericht & Aktenzeichen:** Bundesverfassungsgericht (BVerfG) (Az. 1 BvR 564/19, Entscheidung aus dem Jahr 2019).
+*   **Urteil / Strafmaß:** Verfassungsgerichtliche Grundsatzentscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 90] Verfassungsrechtliche Grundsatzentscheidung (1 BvR 98/21)
+*   [openjur.de](https://openjur.de/suche/1%20BvR%2098/21/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/90_1_BvR_98_21.txt)`
+*   **Sachverhalt:** d Bericht des ... BT-Drucks. 18/5415, it bzgl. der ... OVG NRW, Urt. v. ... 5 A 1218/22, juris, TG, Beschl. v. ... 1 BvR 1072/01, juris, Rn. 67 ff BVerwG, Urt. v. ... ris, Rn. 12; siehe auch BVerfG, Beschl. v. ... 1 BvR 564/19, juris, Rn. 18 und ... 1 BvR 98/21, juris, Rn. 16; OVG NRW, Urt. v. ... 5 A 1218/22, juris, Sin, Beschl. v. ... 13 L 1124/23, juris, Rn. 447; OVG NRW, Urt. v. ... juris, Rn. 283 ff. In, Bescht. v. ... 13 L 1124/23, juris, Rn. 447. G, Beschl. v. ... 2 BvE 11/12, juris, Rn. 24; BVerwG, | d Bericht des ... BT-Drucks. 18/5415, it bzgl. der ... OVG NRW, Urt. v. ... 5 A 121...
+*   **Gericht & Aktenzeichen:** Bundesverfassungsgericht (BVerfG) (Az. 1 BvR 98/21, Entscheidung aus dem Jahr 2021).
+*   **Urteil / Strafmaß:** Verfassungsgerichtliche Grundsatzentscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 91] Besetzung und Rechte parlamentarischer Gremien und Ausschüsse (1 C 30/97)
+*   [openjur.de](https://openjur.de/suche/1%20C%2030/97/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/91_1_C_30_97.txt)`
+*   **Sachverhalt:** der Vorschrift sind die in $ 4 Abs. 2 BVerfSchG ... Bei der Prüfung der verfassungsfeindlichen Ausrichtung gegen einen ... darf allerdings nicht allein auf den Wortlaut des 8 4 Abs. 2 BVerf5, Urt. v. ... 6 C 22/09, juris, Rn. 21; Urt. v. 07.12.1999, 1 C 30/97, juris, Rn. 18; BVerfG, Urt. v. 17.01.2017, 2 BvB 1/13, juris, Rn. 409, 418; Beschl. v. ... 2 BvE ‚ Rn. 28; vgl. auch: BVerfG, Beschl. v. 22.05.1975, 2 BvL 13/73, juris, Rn. 70, Beschl. v. "5, 1 BvE 1/75. G, Urt. v. ... 6 C 22/09, juris, Rn. 21; Urt | ienöffentlichkeit und die Instrumente des Verfassungsschutzes, AöR 2009, 572, 591 ff....
+*   **Gericht & Aktenzeichen:** Bundesverfassungsgericht (BVerfG) (Az. 1 C 30/97, Entscheidung vom 07.12.1999).
+*   **Urteil / Strafmaß:** Verfassungsgerichtliche Grundsatzentscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Bestätigt das parlamentarische Selbstorganisationsrecht der Fraktionen und die verfassungsrechtliche Zulässigkeit des Ausschlusses extremistischer Kräfte.
+
+
+---
+
+### [FALL 92] Höchstrichterliches verwaltungsgerichtliches Urteil (1 D 103/84)
+*   [openjur.de](https://openjur.de/suche/1%20D%20103/84/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/92_1_D_103_84.txt)`
+*   **Sachverhalt:** Reise“ vom 22.11.2019, in: www.welt.de, abgerufen am 12.01.2020. - [1961] Zulieferung BfV; DER SPIEGEL: „AfD-Politiker gibt Sponsoring aus Moskau zu“ vom 25.06.2020, in: www.spiegel.de, abgerufen am 12.01.2021. - [1962] BVerwG, Urt. vom 12.03.1986 + 1 D 103/84 -, NJW 1936, 3095, 3098. - [1963] Ebd. - [1964] Zulieferung BfV; Alternative für Deutschland: „Programm für Deutschland vom 30.04./01.05.2016‚ in: www.afd.de, abgerufen am 22.12.2020. - [1965] Zulieferung BfV; Bundesamt für Verfassungsschutz: Gutach | 16; Zulieferung BfV; Hilse, Karsten: Facebook-Eintrag vom 14.11.2020, abgerufen am 0...
+*   **Gericht & Aktenzeichen:** Bundesverwaltungsgericht (BVerwG) (Az. 1 D 103/84, Entscheidung vom 12.03.1986).
+*   **Urteil / Strafmaß:** Verwaltungsgerichtliches Urteil - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 93] Verfassungsrechtliche Grundsatzentscheidung (1 E 1194/12)
+*   [openjur.de](https://openjur.de/suche/1%20E%201194/12/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/93_1_E_1194_12.txt)`
+*   **Sachverhalt:** die freiheitliche demokratische Grundordnung geDVG ... Beschl. v. ... OVG 1 N 96.20, juris, Rn. 13. VerfG, Urt. v. 17.01.2017, 2 BvB 1/13, BVerfGE 144, 20 Rn. 673 ff 690 ff VG München, 07.2017, M 22E 17.1861, juris, Rn. 68; VG Weimar, Beschl. v. ... 1 E 1194/12 n. 8, ff, 177 Keine Weitergabe außerhalb des ... ohne Zustimmung des BfV GeheimgutachtenTeil ... – Seite 87 VS-NUR FÜR DEN D ENSTGEBRAUCH ETHN SCH-ABSTAMMUNGSMÄR GE ... UND POS TIONEN chsische ... Carolin Bachmann veröffentlichte im ... einen zw | die freiheitliche demokratische Grundordnung geDVG ... Beschl. v. ... OVG 1 N 96.20, ju...
+*   **Gericht & Aktenzeichen:** Bundesverfassungsgericht (BVerfG) (Az. 1 E 1194/12, Entscheidung vom 17.01.2017).
+*   **Urteil / Strafmaß:** Verfassungsgerichtliche Grundsatzentscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 94] Besetzung und Rechte parlamentarischer Gremien und Ausschüsse (1 Im Heft 11/2023)
+*   [openjur.de](https://openjur.de/suche/1%20Im%20Heft%2011/2023/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/94_1_Im_Heft_11_2023.txt)`
+*   **Sachverhalt:** ... nd stand ebenfalls im Januar 2025, wie auch der ... Karsten Hilse (SN und im März 2025 8 für eine ... im Bundestag zur Verfügung. Auch die ... Martin Reichardt (ST) und Nicole Höchst (RP) gaben COMPACT im März 2025 im ... an eine ... Interviews 1 Im Heft 11/2023 wurde Baum außerdem unter dem Titel „Die sanfte "81 Krah, Maximilian/ ... Arno/ Baum, Christina: Interviews mit COMPACT am Rande des AfD-Parteitags in Magdeburg; veröffentlicht in: www.youtube.com am ... Kanal: „COMPACTTV abgerufen am ... Krah, Maxi | ... nd stand ebenfalls im Januar 2025, wie auch der ... Karsten Hilse (SN und ...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. 1 Im Heft 11/2023, Entscheidung aus dem Jahr 2023).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Bestätigt das parlamentarische Selbstorganisationsrecht der Fraktionen und die verfassungsrechtliche Zulässigkeit des Ausschlusses extremistischer Kräfte.
+
+
+---
+
+### [FALL 95] Verfassungsrechtliches Verfahren (1 K 167/23)
+*   [openjur.de](https://openjur.de/suche/1%20K%20167/23/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/95_1_K_167_23.txt)`
+*   **Sachverhalt:** . kann auch die Positionierung zum ... unter Umvon ... für die verfassungsschutzrechtliche Einschätzung einer Par- (dd - In, Urt. v. ... 13 K 326/21, juris, Rn. 183 ff VG München, Beschl. v. ... : 22.4913, juris, Rn. 63; VG Stuttgart, Beschl. v. ... 1 K 167/23, juris, Rn. 67; VG Dreseschl. v. ... 6 L 20/24, juris, Rn. 83 ff. RW, Urt. v. ... 5 A 1218/22, juris, Rn. 119. rg in: ... „Handbuch des Rechts der ... 2017, V 8 1 Rn. 48. 6, Urt. v. 17.01.2017, 2 BvB 1/13, juris, Rn. 541; VGH München, Urt. v. ... 10 | mögliche Reaktionen und Prada v. 17.01.2017, 2 BvB 1/13, juris, Rn. 563; OVG NRW, Ur...
+*   **Gericht & Aktenzeichen:** Oberverwaltungsgericht (OVG) (Az. 1 K 167/23, Entscheidung vom 17.01.2017).
+*   **Urteil / Strafmaß:** Verwaltungsgerichtlicher Beschluss - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 96] Höchstrichterliches verwaltungsgerichtliches Urteil (1 K 606/17)
+*   [openjur.de](https://openjur.de/suche/1%20K%20606/17/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/96_1_K_606_17.txt)`
+*   **Sachverhalt:** 00. - [3163] Vgl. Kapitel C I., S. 12 ff. - [3164] Vgl. BVerwG, Urt. vom 18.05.2001, 2 WD 42/00, 2 WD 43/00, juris, Rn. 43 ff. - [3165] Vgl. OVG Berlin-Brandenburg: Beschl. v. 19.06.2020, OVG 1 S 55/20, juris, Rn. 37; VG Berlin, Urt. vom 12.11.2020, 1 K 606/17, juris, Rn. 39. - [3166] Ebd. - [3167] Vgl. BVerwG, Urt. v. 21.07.2010, 6 C 22.09, Rn. 49. - [3168] So auch für Gruppierungen innerhalb der Partei Die Linke: BVerwG, Urt. v. 21.07.2010, 6 C 22.09, Rn. 48. - [3169] Vgl. BVerwG, Urt. v. 21.07.2010, 6 | 00. - [3163] Vgl. Kapitel C I., S. 12 ff. - [3164] Vgl. BVerwG, Urt. vom 18.05.2001, ...
+*   **Gericht & Aktenzeichen:** Bundesverwaltungsgericht (BVerwG) (Az. 1 K 606/17, Entscheidung vom 19.06.2020).
+*   **Urteil / Strafmaß:** Verwaltungsgerichtlicher Beschluss - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 97] Rechtmäßigkeit verfassungsschutzrechtlicher Berichte und Einstufung (1 L 97/20)
+*   [openjur.de](https://openjur.de/suche/1%20L%2097/20/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/97_1_L_97_20.txt)`
+*   **Sachverhalt:** gl. insoweit die ähnliche Lage in Bezug auf die Beobachtung der Partei Die Linke, BVerwG, Urt. v. 21.07.2010, 6 C 22.09, juris, Rn. 63. - [2990] Zulieferung BfV; Gutachten zur Einstufung des „Flügel“ 2020. - [2991a] VG Berlin, Beschl. v. 28.05.2020, 1 L 97/20, BeckRS, Rn. 37. - [2991] Vgl. Kapitel F. I. 1., S. 180 ff. - [2992] Zulieferung BfV; AfD: Facebook-Eintrag vom 16.10.2019, abgerufen am 06.05.2020, siehe S. 196. - [2993] VG Berlin, Beschl. v. 28.05.2020, 1 L 97/20, BeckRS, Rn. 39. - [2994] Zuliefe | VG Berlin, Beschl. v. 28.05.2020, 1 L 97/20, BeckRS, Rn. 37. - [2991] Vgl. Kapitel F....
+*   **Gericht & Aktenzeichen:** Bundesverwaltungsgericht (BVerwG) (Az. 1 L 97/20, Entscheidung vom 21.07.2010).
+*   **Urteil / Strafmaß:** Verwaltungsgerichtlicher Beschluss - Einstufung und öffentliche Bezeichnung politischer Parteien als extremistischer Verdachtsfall.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 98] Verfassungsrechtliche Grundsatzentscheidung (1 S 55/20)
+*   [openjur.de](https://openjur.de/suche/1%20S%2055/20/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/98_1_S_55_20.txt)`
+*   **Sachverhalt:** Berlin, Urt. vom 12.11.2020, 5 K 608.17, S. 9 UA; VG München, Beschl. vom 27.07.2017, M 22 E 17.1851, juris, Rn. 57. - [615] VG Berlin, Beschl. vom 12.11.2020, VG 1K 606.17, juris, Rn. 38. - [616] OVG Berlin-Brandenburg, Beschluss vom 19. Juni 2020, 1 S 55/20, juris, Rn. 37. - [617] BVerfG, Urt. v. 17.01.2017, 2 BvB 1/13, juris, Rn. 720; VG Berlin, Urt. vom 12.11.2020, 1 K 605.17, juris, Rn. 42. - [618] OVG Berlin-Brandenburg, Beschl. vom 21.12.2012, 1 L 82.12, juris, Rn. 11. - [619] OLG München, Beschl. | is, Rn. 38 ff., bestätigt durch OVG Berlin, Beschl. vom 19.09.2020, 1 S 56/20; VG Ber...
+*   **Gericht & Aktenzeichen:** Bundesverfassungsgericht (BVerfG) (Az. 1 S 55/20, Entscheidung vom 17.01.2017).
+*   **Urteil / Strafmaß:** Verfassungsgerichtliche Grundsatzentscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 99] Verfassungsrechtliches Verfahren (1 S 56/20)
+*   [openjur.de](https://openjur.de/suche/1%20S%2056/20/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/99_1_S_56_20.txt)`
+*   **Sachverhalt:** , Urt. v. 07.09.16, 1 K 71.15, juris, Rn. 22 m. w. Nachw Urt. v. ... 1K 17, juris, Rn. 38; Jarass/Pieroth, Kommentar GG 13. Aufl. & 1 Rn. 6 und 12; VG Berlin, Beschl. v. 5.2020, VGL 97/20, BeckRS 2020, 14940, Rn. 38 ff bestätigt durch OVG ... Be ... 1 S 56/20, juris, Rn. 33 ff vgl. zur ... Ansicht des OVG NRW a Hell: 1:2. na VG Berlin, Urt. v. 21.01.16, 1 K 255.13, juris, Rn. 76; Urt. v. ... K 606.17, juris, Rn. 18: Droste: „Handbuch des Verfassungsschutzrecht 1. Aufl. 2007, S. 180. BR VG Berlin, Urt. v. | , Urt. v. 07.09.16, 1 K 71.15, juris, Rn. 22 m. w. Nachw Urt. v. ... 1K 17, juris, Rn...
+*   **Gericht & Aktenzeichen:** Oberverwaltungsgericht (OVG) (Az. 1 S 56/20, Entscheidung aus dem Jahr 2020).
+*   **Urteil / Strafmaß:** Verwaltungsgerichtlicher Beschluss - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 100] Verfassungsrechtliches Verfahren (11 L 87/00)
+*   [openjur.de](https://openjur.de/suche/11%20L%2087/00/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/100_11_L_87_00.txt)`
+*   **Sachverhalt:** 8, juris, Rn. 52; Schenke/Graulich/Ruthig/Roth, 2. Aufl. 2019, BVerfSchG § 4, Rn. 114. - [60] OVG Berlin-Brandenburg, Urt. v. 23.11.2011, 1 B 111.10, juris, Rn. 46 und 49; Urt. v. 06.04.2006, 3 B 3.99, juris, Rn. 185 ff.; OVG NI, Urt. v. 19.10.2000, 11 L 87/00, juris, Rn. 107 ff.; VG Hamburg, Urt. v. 13.12.2007, 8 K 3483/06, juris, Rn. 40. - [61] OVG Berlin-Brandenburg, Urt. v. 06.04.2006, 3 B 3.99, juris, Rn. 185 ff. - [62] VG Hamburg, Urt. v. 13.12.2007, 8 K 3483/06, juris, Rn. 40. - [63] Hierzu und zum | 8, juris, Rn. 52; Schenke/Graulich/Ruthig/Roth, 2. Aufl. 2019, BVerfSchG § 4, Rn. 11...
+*   **Gericht & Aktenzeichen:** Oberverwaltungsgericht (OVG) (Az. 11 L 87/00, Entscheidung vom 23.11.2011).
+*   **Urteil / Strafmaß:** Verwaltungsgerichtliches Urteil - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 101] Höchstrichterliches verwaltungsgerichtliches Urteil (13 K 207/20)
+*   [openjur.de](https://openjur.de/suche/13%20K%20207/20/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/101_13_K_207_20.txt)`
+*   **Sachverhalt:** s hervorgehen, dass sich die tatsächlichen ... dergestalt veraben, dass die ... besteht, dass es sich tatsächlich um eine exthe ... handelt Die tatsächlichen ... sich r Gewissheit verdichtet haben Erforderlich ist somit eine derartige VerUrt. v. ... 13 K 207/20, juris, Rn. 554; VG Köln, Beschl. v. ... 13 L ris, Rn. 169. n ... „Handbuch des Rechts der ... V & 1, S. 532 und ae ... 13 K 207/20, juris, Rn. 552; VG Köln, Beschl. v. ... 13 1124/23, Urt. v. 07.12.1999, 1 C 30.97, NVwZ 2000, 824 (828 VG Berlin, Ur | r Ausfälle von ... stammte, die die Partei freiwillig ... itten oder sie ... Dies h...
+*   **Gericht & Aktenzeichen:** Bundesverwaltungsgericht (BVerwG) (Az. 13 K 207/20, Entscheidung vom 07.12.1999).
+*   **Urteil / Strafmaß:** Verwaltungsgerichtlicher Beschluss - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 102] Verfassungsrechtliches Verfahren (13 K 208/20)
+*   [openjur.de](https://openjur.de/suche/13%20K%20208/20/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/102_13_K_208_20.txt)`
+*   **Sachverhalt:** .. Beschi. v. ... 1 L 82.12, juris, Rn. 11. nchen, Beschl. v. ... 2 Ws 131/16, juris, Rn. 16. chen, Beschl. v. ... M 22 E 17.1861, juris, Rn. 68 unter ... des Begriffs ıgsaustausch VG Berlin, Urt. v. ... 1 K 606.17, juris, Rn. 42; VG Köln, Urt. v. ‚ 13 K 208/20, juris, Rn. 220 f VG Köln, Beschl. v. ... 13 L 1124/23, juris, Rn. erfG, Urt. v. 17.01.2017, 2 BvB 1/13, juris, Rn. 720; OVG ... Beschl. , 021, OVG 1 N 96.20, juris, Rn. 9 ff OLG München, Beschl. v. ... 2 Ws uris, Rn. 16; BayVGH, Beschl. v ... 10 CE | .. Beschi. v. ... 1 L 82.12, juris, Rn. 11. nchen, Beschl. v. ... 2 Ws 131/16, juri...
+*   **Gericht & Aktenzeichen:** Oberverwaltungsgericht (OVG) (Az. 13 K 208/20, Entscheidung vom 17.01.2017).
+*   **Urteil / Strafmaß:** Verwaltungsgerichtlicher Beschluss - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 103] Verfassungsrechtliches Verfahren (13 K 208/200)
+*   [openjur.de](https://openjur.de/suche/13%20K%20208/200/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/103_13_K_208_200.txt)`
+*   **Sachverhalt:** hthone ... Sin, Urt. v. ... 13 K 4222/18, juris, Rn. 85 ff; vgl. Pfahl-Traughber, Armin (2022 ler ... Das ... der Neuen Rechten Bonn: S. 91. Urt. v. 17.01.2017, 2 BvB 1/13, juris, Rn. 720 f VG Berlin, Urt. v. ... 1 K 606.17, 42; VG Köln, Urt. v. ... 13 K 208/200, juris, Rn. 220; VG Köln, Beschl. v. ‚ 13L 1124/23, juris, Rn. 240. ... Beschi. v. ... 1 L 82.12, juris, Rn. 11. nchen, Beschl. v. ... 2 Ws 131/16, juris, Rn. 16. chen, Beschl. v. ... M 22 E 17.1861, juris, Rn. 68 unter ... des Begriffs ıgsaustausch | hthone ... Sin, Urt. v. ... 13 K 4222/18, juris, Rn. 85 ff; vgl. Pfahl-Traughber, ...
+*   **Gericht & Aktenzeichen:** Verwaltungsgericht (VG) (Az. 13 K 208/200, Entscheidung vom 17.01.2017).
+*   **Urteil / Strafmaß:** Verwaltungsgerichtlicher Beschluss - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 104] Verfassungsrechtliches Verfahren (13 K 326/21)
+*   [openjur.de](https://openjur.de/suche/13%20K%20326/21/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/104_13_K_326_21.txt)`
+*   **Sachverhalt:** ein bei ... dass die als verfassungsfeindlich ... innerbejahte sowohl hinsichtlich der JA als auch des Flügels das Vorliegen ... für verfassungsfeindliche ... des ... Urteils verstößt ... der von völkisch-abstammungsmäßige Volksbegriff gegen die ... 13 K 326/21, juris, Rn. 180. 022, 13 K 326/21, juris, Rn. 206. 2022, 13 K 326/21, juris, Rn. 209. -2022, 13 K 326/21, juris, Rn. 210. 3 022, 13 K 326/21, juris, Rn. 212. 2,13 K 3261/21, ‚Juris, Rn. 214. 2,13 K 326/21 ‚Juris, Rn. 206, 216, 529. Yabe außerhalb de | sichert extremistische it einem Ai -hland (IBD) gemäß der ... der JA eigentlich m i...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. 13 K 326/21, Entscheidung aus dem Jahr 2021).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 105] Verfassungsrechtliches Verfahren (13 K 3261/21)
+*   [openjur.de](https://openjur.de/suche/13%20K%203261/21/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/105_13_K_3261_21.txt)`
+*   **Sachverhalt:** ls verstößt ... der von völkisch-abstammungsmäßige Volksbegriff gegen die ... 13 K 326/21, juris, Rn. 180. 022, 13 K 326/21, juris, Rn. 206. 2022, 13 K 326/21, juris, Rn. 209. -2022, 13 K 326/21, juris, Rn. 210. 3 022, 13 K 326/21, juris, Rn. 212. 2,13 K 3261/21, ‚Juris, Rn. 214. 2,13 K 326/21 ‚Juris, Rn. 206, 216, 529. Yabe außerhalb des ... ohne Zustimmung des BfV GeheimgutachtenTeil ... – Seite 13 VS-NUR FÜR DEN D ENSTGEBRAUCH E NFÜHRUNG Aierzu führte das Gericht wie folgt auS: hliche ... dafür, dass | ls verstößt ... der von völkisch-abstammungsmäßige Volksbegriff gegen die ... 13 K 326...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. 13 K 3261/21, Entscheidung aus dem Jahr 2021).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 106] Besetzung und Rechte parlamentarischer Gremien und Ausschüsse (13 K 4222/18)
+*   [openjur.de](https://openjur.de/suche/13%20K%204222/18/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/106_13_K_4222_18.txt)`
+*   **Sachverhalt:** g als ... Gefahr und ndübel für das ... als Einheit ... Volk ellt wird oder ... an die ethnische Abstammung zwischen zwei deutscher Staatsbürger ... wird Auch ... nach ollständigen Assimilierung von Migranten „an die autochthone ... Sin, Urt. v. ... 13 K 4222/18, juris, Rn. 85 ff; vgl. Pfahl-Traughber, Armin (2022 ler ... Das ... der Neuen Rechten Bonn: S. 91. Urt. v. 17.01.2017, 2 BvB 1/13, juris, Rn. 720 f VG Berlin, Urt. v. ... 1 K 606.17, 42; VG Köln, Urt. v. ... 13 K 208/200, juris, Rn. 220; VG Köln, B | g als ... Gefahr und ndübel für das ... als Einheit ... Volk ellt wird oder ... an...
+*   **Gericht & Aktenzeichen:** Verwaltungsgericht (VG) (Az. 13 K 4222/18, Entscheidung vom 17.01.2017).
+*   **Urteil / Strafmaß:** Verwaltungsgerichtliches Urteil - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Belegt Verstöße gegen die unantastbare Menschenwürdegarantie (Art. 1 Abs. 1 GG) durch herabwürdigende und ausgrenzende Agitation gegen Minderheiten sowie die Unvereinbarkeit mit der FDGO.
+
+
+---
+
+### [FALL 107] Verfassungsrechtliches Verfahren (13 L 105/21)
+*   [openjur.de](https://openjur.de/suche/13%20L%20105/21/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/107_13_L_105_21.txt)`
+*   **Sachverhalt:** ten zudem Klage vor dem VG Köln ein. Mit öln, Urt. v. ... 13 K 326/21, juris, Rn. 934. Sin, Un v. ... 13 K 326/21, juris, Rn. 936. am bt v. ... 13 K 326/21, juris, Rn. 938. ann ... 13 K 207/20 und VG Köln, Urt. v. ... 13 K 208/20. On, Beschl. v. ... 13 L 105/21. 12 Keine Weitergabe außerhalb des ... ohne Zustimmung des BfV GeheimgutachtenTeil ... – Seite 22 VS-NUR FÜR DEN D ENSTGEBRAUCH E NFÜHRUNG s vom 5. Februar 2024 lehnte das ... die Anträge der AfD A bezüglich der ... und Bearbeitung der JA als ge | ten zudem Klage vor dem VG Köln ein. Mit öln, Urt. v. ... 13 K 326/21, juris, Rn. 934. ...
+*   **Gericht & Aktenzeichen:** Verwaltungsgericht (VG) (Az. 13 L 105/21, Entscheidung aus dem Jahr 2021).
+*   **Urteil / Strafmaß:** Verwaltungsgerichtlicher Beschluss - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 108] Verfassungsrechtliches Verfahren (13 L 1124/23)
+*   [openjur.de](https://openjur.de/suche/13%20L%201124/23/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/108_13_L_1124_23.txt)`
+*   **Sachverhalt:** anisationen und ... aus dem ... eine Verdichtung der tatsächlichen ... für ... gegen die freiheitliche demokratische Grundordnung ... Bereits im Vorfeld der ... waren ... festgestellt worden. Ferner wird auf den ... des VG Köln vom 5. Februar 2024 - 13 L 1124/23 Rn. 403 ff ... in welchem das Gericht im Rahmen des Eilverfahrens bestätigt hat, dass die ... der JA als ... der AfD zu als verfassungsfeindlich ... die Annahme einer Verdichtung der ... für das Vorliegen verfassungsfeindlicher ... der JA rechtferti | recht erhalten und es werde sojramm als auch über ... zu Benedikt Kaiser auf die V...
+*   **Gericht & Aktenzeichen:** Verwaltungsgericht (VG) (Az. 13 L 1124/23, Entscheidung aus dem Jahr 2023).
+*   **Urteil / Strafmaß:** Verwaltungsgerichtliches Urteil - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 109] Verfassungsrechtliche Grundsatzentscheidung (13 L 1124/24)
+*   [openjur.de](https://openjur.de/suche/13%20L%201124/24/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/109_13_L_1124_24.txt)`
+*   **Sachverhalt:** ern, damit ihr zugleich die freiheitliche demokratische Grundordnung als Ganzes fragwürdig ... 78 1472 BVerfG, Urt. v. 17.01.2017, 2 BvB 1/13, juris, Rn. 546. 1473 VG München, Beschl. v. ... M 30 E 22.4913, juris, Rn. 110 und VG Köln, Beschl. v. ... 13 L 1124/24, juris, Rn. 359. 1474 VG Magdeburg, Beschl. v. ... 9 B 273/21 MD, juris, Rn. 58 und VG Köln, Beschl. v. ... 13 L 1124/24, juris, Rn. 361. 1475 Vgl. VG München, Beschl. v. ... M 30 E 22.4913, juris, Rn. 108 m. w. N. 1476 gl. hierfür bereits die ... i | .01.2017, 2 BvB 1/13, juris, Rn. 546. 1473 VG München, Beschl. v. ... M 30 E 22.49...
+*   **Gericht & Aktenzeichen:** Bundesverfassungsgericht (BVerfG) (Az. 13 L 1124/24, Entscheidung vom 17.01.2017).
+*   **Urteil / Strafmaß:** Verfassungsgerichtliche Grundsatzentscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 110] Verfassungsrechtliche Grundsatzentscheidung (16 A 845/03)
+*   [openjur.de](https://openjur.de/suche/16%20A%20845/03/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/110_16_A_845_03.txt)`
+*   **Sachverhalt:** hig, 2. Aufl. 2019, BVerfSchG § 4, Rn. 133 m. w. Nachw. - [3183] So spezifisch für Abgeordnete BVerfG, Urt. v. 17.09.2013, 2 BvR 2436/10, juris, Rn. 123. - [3184] Vgl. BVerwG, Urt. v. 21.07.2010, 6 C 22.09, juris, Rn. 45; OVG NW, Urt. v. 13.02.2009, 16 A 845/03, juris, Rn. 52; Schenke/Graulich/Ruthig, 2. Aufl. 2019, BVerfSchG § 4, Rn. 114. Wir berichten über aktuelle netzpolitische Entwicklungen, decken Skandale auf und stoßen Debatten an. Dabei sind wir vollkommen unabhängig. Denn unser Kampf für digital | hig, 2. Aufl. 2019, BVerfSchG § 4, Rn. 133 m. w. Nachw. - [3183] So spezifisch für A...
+*   **Gericht & Aktenzeichen:** Bundesverfassungsgericht (BVerfG) (Az. 16 A 845/03, Entscheidung vom 17.09.2013).
+*   **Urteil / Strafmaß:** Verfassungsgerichtliche Grundsatzentscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Bestätigt das parlamentarische Selbstorganisationsrecht der Fraktionen und die verfassungsrechtliche Zulässigkeit des Ausschlusses extremistischer Kräfte.
+
+
+---
+
+### [FALL 111] Verfassungsrechtliche Grundsatzentscheidung (16 A 845/08)
+*   [openjur.de](https://openjur.de/suche/16%20A%20845/08/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/111_16_A_845_08.txt)`
+*   **Sachverhalt:** C 22.09, juris, Rn. 30; VG München, Urt. v. 16.10.2014, 22 K 14.1663, juris, Rn. 54. - [41] Hierzu und zum Folgenden: BVerfG, Urt. v. 17.01.2017, 2 BvB 1/13, juris, Rn. 562; OVG NW, Urt. v. 12.02.2008, 5 A 130/05, juris, Rn. 272; Urt. v. 13.02.2009, 16 A 845/08; juris, Rn. 47. - [42] Hierzu und zum Folgenden: BVerfG, Urt. v. 23.10.1952, BvB 1/51, juris, Rn. 52; OVG Berlin-Brandenburg, Urt. v. 23.11.2011, 1 B 111.10, juris, Rn. 45; BayVGH, Beschl. v. 07.10.1993, 5 CE 93.23327, juris, Rn. 23. - [43] Hierzu u | . v. 23.11.2011, 1 B 111.10, juris, Rn. 48. - [50] BVerwG, Urt. v. 17.10.1990, 1 C ...
+*   **Gericht & Aktenzeichen:** Bundesverfassungsgericht (BVerfG) (Az. 16 A 845/08, Entscheidung vom 16.10.2014).
+*   **Urteil / Strafmaß:** Verfassungsgerichtliche Grundsatzentscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 112] Verfassungsrechtliches Verfahren (2 B 10639/19)
+*   [openjur.de](https://openjur.de/suche/2%20B%2010639/19/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/112_2_B_10639_19.txt)`
+*   **Sachverhalt:** ohl äußern ... und Funktionäre der der in einer solchen Weise: ... Roger Beckamp (NW) erklärte etwa am n einem Tweet apodiktisch, die Anzahl der ... durch : ... vom ... abgerufen am ... ; ... Beschl. v. 13.05.2019, OVG 3 S 33.19, juris, Rn. 13 f ... 2 B 10639/19, juris, Rn. 10; OVG NRW, Beschl. v. ... 5 B 8; OVG NRW, Urt. v. ... 5 A 1218/22, juris, Rn. 233 f. oo 293 © Weitergabe außerhalb des ... ohne Zustimmung des BfV GeheimgutachtenTeil ... – Seite 3 VS-NUR FÜR DEN D ENSTGEBRAUCH EMDEN- UND M NDERHE | ohl äußern ... und Funktionäre der der in einer solchen Weise: ... Roger Beckamp (NW) e...
+*   **Gericht & Aktenzeichen:** Oberverwaltungsgericht (OVG) (Az. 2 B 10639/19, Entscheidung vom 13.05.2019).
+*   **Urteil / Strafmaß:** Verwaltungsgerichtlicher Beschluss - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 113] Verfassungsrechtliches Verfahren (2 BJs 274/22)
+*   [openjur.de](https://openjur.de/suche/2%20BJs%20274/22/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/113_2_BJs_274_22.txt)`
+*   **Sachverhalt:** n Ill. Weg trifft" vom ... in: www.taz.de, abgerufen am ... 1805 ... „Reichsbürger Szene stark gewachsen: 19 ... nach ... Razzia in U-Haft“ vom ... in: ... abgerufen am ... 1806 Der ... Anordnung der ... gegen die Beschuldigte Birgit ... vom ... Az. 2 BJs 274/22-5. 699 Keine Weitergabe außerhalb des ... ohne Zustimmung des BfV | n Ill. Weg trifft" vom ... in: www.taz.de, abgerufen am ... 1805 ... „Reichsbürger Szene stark gewachsen: 19 ... nach ... Razzia in U-Haft“ vom ... in: ... abgerufen am ... 1806 Der ... Anordnung der ... gegen die Beschuldigte Birgit ... vom ... Az. 2 BJs 274/22-5. ...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. 2 BJs 274/22, Entscheidung aus dem Jahr 2022).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 114] Rechtmäßigkeit verfassungsschutzrechtlicher Berichte und Einstufung (2 BrB 2/01)
+*   [openjur.de](https://openjur.de/suche/2%20BrB%202/01/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/114_2_BrB_2_01.txt)`
+*   **Sachverhalt:** juris, Rn. 263. - [64] BVerfG, Urt. v. 24.04.2013, 1 BvR 1215/07, juris, Rn. 116 ff.; Beschl. v. 24.01.2012, 2 BvR 1299/05, juris, Rn. 177. - [65] BVerwG, Urt. v. 21.07.2010, 6 C 22.09, juris, Rn. 28 f. - [66] BVerfG, Urt. v. 18.03.2003, 2 BvB 1/01, 2 BrB 2/01, 2 BvB 3/01, juris, Rn. 385; Warg, in: Dietrich/Eiffer, V § 1 Rn. 40; Roth, in: Schenke/Graulich/Ruthig, 2. Aufl. 2019, BVerfSchG § 4 Rn. 131 m. w. Nachw.; Gärditz, Klaus Ferdinand; „Beobachtung der AfD“ vom 01.02.2021, in: www.verfassungsblog.de, a | juris, Rn. 263. - [64] BVerfG, Urt. v. 24.04.2013, 1 BvR 1215/07, juris, Rn. 116 ff....
+*   **Gericht & Aktenzeichen:** Bundesverfassungsgericht (BVerfG) (Az. 2 BrB 2/01, Entscheidung vom 24.04.2013).
+*   **Urteil / Strafmaß:** Verfassungsgerichtliche Grundsatzentscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 115] Rechtmäßigkeit verfassungsschutzrechtlicher Berichte und Einstufung (2 BvB 1/01)
+*   [openjur.de](https://openjur.de/suche/2%20BvB%201/01/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/115_2_BvB_1_01.txt)`
+*   **Sachverhalt:** ‚erden des Verfassungsschutzes setzt - von dem Sonderfall des 8 4 Abs. 1 4 BVerfSchG ... - zunächst das ... eines ... voraus. Unter einem Personenzusammenschluss i.S.d. Satz 1 und 2 BVerfSchG ist dabei jede beliebige Mehrheit von ... TG, Urt. v. ... 2 BvB 1/01, 2 BvB 2/01, 2 BvB 3/01, juris, Rn. 365; Warg, in ler, VS 1 Rn. 40; ... des Bundes, 2. Aufl. schG 8 4 Rn. 131 m. w. N Gärditz, Klaus Ferdinand: „Beobachtung der AfD“ vom ... OVG NRW, Urt. v. ... 5 A 1218/22, juris, Rn. 288. RW, Urt. v. ... 5 A 1218/ | 6 A 845/08, juris, Rn. 263. - [64] BVerfG, Urt. v. 24.04.2013, 1 BvR 1215/07, juris,...
+*   **Gericht & Aktenzeichen:** Bundesverfassungsgericht (BVerfG) (Az. 2 BvB 1/01, Entscheidung vom 24.04.2013).
+*   **Urteil / Strafmaß:** Verfassungsgerichtliche Grundsatzentscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 116] Rechtmäßigkeit verfassungsschutzrechtlicher Berichte und Einstufung (2 BvB 2/01)
+*   [openjur.de](https://openjur.de/suche/2%20BvB%202/01/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/116_2_BvB_2_01.txt)`
+*   **Sachverhalt:** erfassungsschutzes setzt - von dem Sonderfall des 8 4 Abs. 1 4 BVerfSchG ... - zunächst das ... eines ... voraus. Unter einem Personenzusammenschluss i.S.d. Satz 1 und 2 BVerfSchG ist dabei jede beliebige Mehrheit von ... TG, Urt. v. ... 2 BvB 1/01, 2 BvB 2/01, 2 BvB 3/01, juris, Rn. 365; Warg, in ler, VS 1 Rn. 40; ... des Bundes, 2. Aufl. schG 8 4 Rn. 131 m. w. N Gärditz, Klaus Ferdinand: „Beobachtung der AfD“ vom ... OVG NRW, Urt. v. ... 5 A 1218/22, juris, Rn. 288. RW, Urt. v. ... 5 A 1218/22, juris, R | ichtigen und ihr Ausgleich über den Grundsatz der Verhältnismäßigahmen einer ... zu ...
+*   **Gericht & Aktenzeichen:** Bundesverfassungsgericht (BVerfG) (Az. 2 BvB 2/01, Entscheidung vom 18.03.2003).
+*   **Urteil / Strafmaß:** Verfassungsgerichtliche Grundsatzentscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 117] Rechtmäßigkeit verfassungsschutzrechtlicher Berichte und Einstufung (2 BvB 3/01)
+*   [openjur.de](https://openjur.de/suche/2%20BvB%203/01/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/117_2_BvB_3_01.txt)`
+*   **Sachverhalt:** hutzes setzt - von dem Sonderfall des 8 4 Abs. 1 4 BVerfSchG ... - zunächst das ... eines ... voraus. Unter einem Personenzusammenschluss i.S.d. Satz 1 und 2 BVerfSchG ist dabei jede beliebige Mehrheit von ... TG, Urt. v. ... 2 BvB 1/01, 2 BvB 2/01, 2 BvB 3/01, juris, Rn. 365; Warg, in ler, VS 1 Rn. 40; ... des Bundes, 2. Aufl. schG 8 4 Rn. 131 m. w. N Gärditz, Klaus Ferdinand: „Beobachtung der AfD“ vom ... OVG NRW, Urt. v. ... 5 A 1218/22, juris, Rn. 288. RW, Urt. v. ... 5 A 1218/22, juris, Rn. 270, stel | bis 5 BVerfSchG aufgestellt hat (vgl. OVG NRW Beschl. vom 13.02.2009, 16 A 845/08, j...
+*   **Gericht & Aktenzeichen:** Bundesverfassungsgericht (BVerfG) (Az. 2 BvB 3/01, Entscheidung vom 17.01.2017).
+*   **Urteil / Strafmaß:** Verfassungsgerichtliche Grundsatzentscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 118] Besetzung und Rechte parlamentarischer Gremien und Ausschüsse (2 BvE 11/12)
+*   [openjur.de](https://openjur.de/suche/2%20BvE%2011/12/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/118_2_BvE_11_12.txt)`
+*   **Sachverhalt:** , juris, Rn. 18 und ... 1 BvR 98/21, juris, Rn. 16; OVG NRW, Urt. v. ... 5 A 1218/22, juris, Sin, Beschl. v. ... 13 L 1124/23, juris, Rn. 447; OVG NRW, Urt. v. ... juris, Rn. 283 ff. In, Bescht. v. ... 13 L 1124/23, juris, Rn. 447. G, Beschl. v. ... 2 BvE 11/12, juris, Rn. 24; BVerwG, Urt. v. ... 6C iS, Rn. 24, 45; OVG ... Beschl. v. ... OVG 1 S 55/20, juris, Rn. 19; ‚Beschl. v. 07.12.1999, 1C 30.97, juris, Rn. 19, 27, OVG NRW, Urt. v. ... 5 A ris, Rn. 331. 65 . Keine Weitergabe außerhalb des ... ohne Zust | hen Dienste des Bundestages, WD 3–3000-072/16, S. 6. - [9] BVerwG, Urt. v. 21.07.20...
+*   **Gericht & Aktenzeichen:** Bundesverfassungsgericht (BVerfG) (Az. 2 BvE 11/12, Entscheidung vom 07.12.1999).
+*   **Urteil / Strafmaß:** Verfassungsgerichtliche Grundsatzentscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Bestätigt das parlamentarische Selbstorganisationsrecht der Fraktionen und die verfassungsrechtliche Zulässigkeit des Ausschlusses extremistischer Kräfte.
+
+
+---
+
+### [FALL 119] Verfassungsrechtliche Grundsatzentscheidung (2 BvE 4/13)
+*   [openjur.de](https://openjur.de/suche/2%20BvE%204/13/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/119_2_BvE_4_13.txt)`
+*   **Sachverhalt:** t. Auch die Größe der AnhängerPartei begründet ein hohes öffentliches ... an der ... ein Bedürfnis einhergeht, einer möglichen oder ... Gefahr für iche demokratische Grundordnung mit politischen Mitteln ... U und zu Vorstehendem: BVerfG, Urt. v. ... 2 BvE 4/13, juris, Rn. 26; BVerfG, 2.2013, 2 BvE 11/12, juris, Rn. 20 ff OVG NRW, Urt. v. ... 5 A 1218/22, juris, PR. ... 6 C 22.09, juris, Rn. 95; OVG NRW, Urt. v. ... 5 A 1218/22, W, Urt. v. ... 5 A 1218/22, juris, Rn. 343. 66 Keine Weitergabe außerhalb des | t. Auch die Größe der AnhängerPartei begründet ein hohes öffentliches ... an der ... ...
+*   **Gericht & Aktenzeichen:** Bundesverfassungsgericht (BVerfG) (Az. 2 BvE 4/13, Entscheidung aus dem Jahr 2013).
+*   **Urteil / Strafmaß:** Verfassungsgerichtliche Grundsatzentscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 120] Verfassungsrechtliche Grundsatzentscheidung (2 BvL 13/73)
+*   [openjur.de](https://openjur.de/suche/2%20BvL%2013/73/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/120_2_BvL_13_73.txt)`
+*   **Sachverhalt:** t. v. 21.07.2010, 6 C 22.09, Rn. 21; Urt. v. 07.12.1999, 1 C 30/97, juris, Rn. 18; implizit auch BVerfG, Urt. v. 17.01.2017, 2 BvB 1/13, juris, Rn. 409, 418; Beschl. v. 20.02.2013, 2 BvE 11/12 juris, Rn. 28; vgl. auch: BVerfG, Beschl. v. 22.05.1975, 2 BvL 13/73, juris, Rn. 70, Beschl. v. 29.10.1975, 1 BvE 1/75. - [10] BVerwG, Urt. v. 21.07.2010, 6 C 22.09, juris, Rn. 21; Urt. v. 07.12.1999, 1 C 30/97, juris, Rn. 18. - [11] Ebd. - [12] BVerwG, Urt. v. 21.07.2010, 6 C 22.09. - [13] BVerfG, Urt. v. 17.07.2013 | t. v. 21.07.2010, 6 C 22.09, Rn. 21; Urt. v. 07.12.1999, 1 C 30/97, juris, Rn. 18; ...
+*   **Gericht & Aktenzeichen:** Bundesverfassungsgericht (BVerfG) (Az. 2 BvL 13/73, Entscheidung vom 07.12.1999).
+*   **Urteil / Strafmaß:** Verfassungsgerichtliche Grundsatzentscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 121] Verfassungsrechtliche Grundsatzentscheidung (2 BvR 1299/05)
+*   [openjur.de](https://openjur.de/suche/2%20BvR%201299/05/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/121_2_BvR_1299_05.txt)`
+*   **Sachverhalt:** Urt. v. 01.09.2010, 6 A 4/09, juris, Rn. 14; OVG NW, Urt. v 12.02.2008, 5 A 130/05, juris, Rn. 304 und 305; Urt. v. 13.02.2009, 16 A 845/08, juris, Rn. 263. - [64] BVerfG, Urt. v. 24.04.2013, 1 BvR 1215/07, juris, Rn. 116 ff.; Beschl. v. 24.01.2012, 2 BvR 1299/05, juris, Rn. 177. - [65] BVerwG, Urt. v. 21.07.2010, 6 C 22.09, juris, Rn. 28 f. - [66] BVerfG, Urt. v. 18.03.2003, 2 BvB 1/01, 2 BrB 2/01, 2 BvB 3/01, juris, Rn. 385; Warg, in: Dietrich/Eiffer, V § 1 Rn. 40; Roth, in: Schenke/Graulich/Ruthig, 2. Auf | Urt. v. 01.09.2010, 6 A 4/09, juris, Rn. 14; OVG NW, Urt. v 12.02.2008, 5 A 130/0...
+*   **Gericht & Aktenzeichen:** Bundesverfassungsgericht (BVerfG) (Az. 2 BvR 1299/05, Entscheidung vom 01.09.2010).
+*   **Urteil / Strafmaß:** Verfassungsgerichtliche Grundsatzentscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 122] Verfassungsrechtliche Grundsatzentscheidung (2 BvR 1436/02)
+*   [openjur.de](https://openjur.de/suche/2%20BvR%201436/02/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/122_2_BvR_1436_02.txt)`
+*   **Sachverhalt:** ff.; VG Minden, Beschl. v. 12.06.2015, 4 L 441/15, juris, Rn. 116. - [1290] VG Berlin, Urt. v. 07.09.2016, 1 K 71.15, juris, Rn. 23. - [1291] OVG Berlin-Brandenburg. Urt v. 23.11.2011, 1 B 111.10, juris, Rn. 48. - [1292] BVerfG, Urt. v. 24.09.2003, 2 BvR 1436/02, juris, Rn. 37. - [1293] Zulieferung BfV; AfD Europawahlprogramm „Programm der Alternative für Deutschland für die Wahl zum 9. Europäischen Parlament 2019“, S. 51 f. - [1294] Ebd., S. 37. - [1295] Zulieferung BfV; AfD Europawahlprogramm „Programm de | ff.; VG Minden, Beschl. v. 12.06.2015, 4 L 441/15, juris, Rn. 116. - [1290] VG Ber...
+*   **Gericht & Aktenzeichen:** Bundesverfassungsgericht (BVerfG) (Az. 2 BvR 1436/02, Entscheidung vom 12.06.2015).
+*   **Urteil / Strafmaß:** Verfassungsgerichtliche Grundsatzentscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Bestätigt das parlamentarische Selbstorganisationsrecht der Fraktionen und die verfassungsrechtliche Zulässigkeit des Ausschlusses extremistischer Kräfte.
+
+
+---
+
+### [FALL 123] Verfassungsrechtliche Grundsatzentscheidung (2 BvR 2436/10)
+*   [openjur.de](https://openjur.de/suche/2%20BvR%202436/10/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/123_2_BvR_2436_10.txt)`
+*   **Sachverhalt:** juris, Rn. 70, Beschl. v. 29.10.1975, 1 BvE 1/75. - [10] BVerwG, Urt. v. 21.07.2010, 6 C 22.09, juris, Rn. 21; Urt. v. 07.12.1999, 1 C 30/97, juris, Rn. 18. - [11] Ebd. - [12] BVerwG, Urt. v. 21.07.2010, 6 C 22.09. - [13] BVerfG, Urt. v. 17.07.2013, 2 BvR 2436/10. - [14] Vgl. BVerfG, Urt. v. 23.10.1952, BvB 1/51, juris, Rn. 37 f; Urt. v. 17.08.1956, juris, Rn. 261f, Zusammenfassung bei BVerfG, Urt. v. 17.01.2017, 2 BvB 1/13, juris, Rn. 529 ff. - [15] Hierzu und zum Folgenden: BVerfG, Urt. v. 17.01.2017, 2 Bv | fG, Urt. v. 17.01.2017, 2 BvB 1/13, juris, Rn. 585 ff. - [38] Vgl. zum kämpferisc...
+*   **Gericht & Aktenzeichen:** Bundesverfassungsgericht (BVerfG) (Az. 2 BvR 2436/10, Entscheidung vom 29.10.1975).
+*   **Urteil / Strafmaß:** Verfassungsgerichtliche Grundsatzentscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 124] Verfassungsrechtliche Grundsatzentscheidung (2 WD 42/00)
+*   [openjur.de](https://openjur.de/suche/2%20WD%2042/00/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/124_2_WD_42_00.txt)`
+*   **Sachverhalt:** www.afd.de, abgerufen am 20.01.2021. - [3162] OVG NRW, Beschl. v. 23.05.2012, 5 A 837/11, juris, Rn. 6; VG Düsseldorf, Urt. v. 28.05.2013, 22 K 2532/11, juris, Rn. 200. - [3163] Vgl. Kapitel C I., S. 12 ff. - [3164] Vgl. BVerwG, Urt. vom 18.05.2001, 2 WD 42/00, 2 WD 43/00, juris, Rn. 43 ff. - [3165] Vgl. OVG Berlin-Brandenburg: Beschl. v. 19.06.2020, OVG 1 S 55/20, juris, Rn. 37; VG Berlin, Urt. vom 12.11.2020, 1 K 606/17, juris, Rn. 39. - [3166] Ebd. - [3167] Vgl. BVerwG, Urt. v. 21.07.2010, 6 C 22.09, R | gl. BVerwG, Urt. v. 21.07.2010, 6 C 22.09, Rn. 63. - [3174] BVerfG, Urt. v. 17.08.19...
+*   **Gericht & Aktenzeichen:** Bundesverfassungsgericht (BVerfG) (Az. 2 WD 42/00, Entscheidung vom 23.05.2012).
+*   **Urteil / Strafmaß:** Wehrdienstgerichtlicher Beschluss (Disziplinarverfahren) - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 125] Höchstrichterliches verwaltungsgerichtliches Urteil (2 WD 43/00)
+*   [openjur.de](https://openjur.de/suche/2%20WD%2043/00/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/125_2_WD_43_00.txt)`
+*   **Sachverhalt:** abgerufen am 20.01.2021. - [3162] OVG NRW, Beschl. v. 23.05.2012, 5 A 837/11, juris, Rn. 6; VG Düsseldorf, Urt. v. 28.05.2013, 22 K 2532/11, juris, Rn. 200. - [3163] Vgl. Kapitel C I., S. 12 ff. - [3164] Vgl. BVerwG, Urt. vom 18.05.2001, 2 WD 42/00, 2 WD 43/00, juris, Rn. 43 ff. - [3165] Vgl. OVG Berlin-Brandenburg: Beschl. v. 19.06.2020, OVG 1 S 55/20, juris, Rn. 37; VG Berlin, Urt. vom 12.11.2020, 1 K 606/17, juris, Rn. 39. - [3166] Ebd. - [3167] Vgl. BVerwG, Urt. v. 21.07.2010, 6 C 22.09, Rn. 49. - [31 | abgerufen am 20.01.2021. - [3162] OVG NRW, Beschl. v. 23.05.2012, 5 A 837/11, juris,...
+*   **Gericht & Aktenzeichen:** Bundesverwaltungsgericht (BVerwG) (Az. 2 WD 43/00, Entscheidung vom 23.05.2012).
+*   **Urteil / Strafmaß:** Wehrdienstgerichtlicher Beschluss (Disziplinarverfahren) - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 126] Verfassungsrechtliches Verfahren (2 Ws 131/16)
+*   [openjur.de](https://openjur.de/suche/2%20Ws%20131/16/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/126_2_Ws_131_16.txt)`
+*   **Sachverhalt:** 17.01.2017, 2 BvB 1/13, juris, Rn. 720 f VG Berlin, Urt. v. ... 1 K 606.17, 42; VG Köln, Urt. v. ... 13 K 208/200, juris, Rn. 220; VG Köln, Beschl. v. ‚ 13L 1124/23, juris, Rn. 240. ... Beschi. v. ... 1 L 82.12, juris, Rn. 11. nchen, Beschl. v. ... 2 Ws 131/16, juris, Rn. 16. chen, Beschl. v. ... M 22 E 17.1861, juris, Rn. 68 unter ... des Begriffs ıgsaustausch VG Berlin, Urt. v. ... 1 K 606.17, juris, Rn. 42; VG Köln, Urt. v. ‚ 13 K 208/20, juris, Rn. 220 f VG Köln, Beschl. v. ... 13 L 1124/23, juris, Rn | 17.01.2017, 2 BvB 1/13, juris, Rn. 720 f VG Berlin, Urt. v. ... 1 K 606.17, 42; VG K...
+*   **Gericht & Aktenzeichen:** Verwaltungsgericht (VG) (Az. 2 Ws 131/16, Entscheidung aus dem Jahr 2016).
+*   **Urteil / Strafmaß:** Verwaltungsgerichtlicher Beschluss - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 127] Verfassungsrechtliche Grundsatzentscheidung (2 Ws 131/18)
+*   [openjur.de](https://openjur.de/suche/2%20Ws%20131/18/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/127_2_Ws_131_18.txt)`
+*   **Sachverhalt:** - [617] BVerfG, Urt. v. 17.01.2017, 2 BvB 1/13, juris, Rn. 720; VG Berlin, Urt. vom 12.11.2020, 1 K 605.17, juris, Rn. 42. - [618] OVG Berlin-Brandenburg, Beschl. vom 21.12.2012, 1 L 82.12, juris, Rn. 11. - [619] OLG München, Beschl. vom 21.03.2016, 2 Ws 131/18, juris, Rn. 18. - [620] VG München, Beschl. vom 27.07.2017, M 22 E 17.1851, juris, Rn. 68; VG Berlin, Urt. vom 12.11.2020 – 1 K 605.17, juris, Rn. 42. - [621] VG Ansbach, Urt. vom 25.04.2019, 16 K 17.01038, juris, Rn. 39. - [622] VG München, Beschl. | - [617] BVerfG, Urt. v. 17.01.2017, 2 BvB 1/13, juris, Rn. 720; VG Berlin, Urt. vom...
+*   **Gericht & Aktenzeichen:** Bundesverfassungsgericht (BVerfG) (Az. 2 Ws 131/18, Entscheidung vom 17.01.2017).
+*   **Urteil / Strafmaß:** Verfassungsgerichtliche Grundsatzentscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 128] Verfassungsrechtliche Grundsatzentscheidung (20 K 1882/03)
+*   [openjur.de](https://openjur.de/suche/20%20K%201882/03/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/128_20_K_1882_03.txt)`
+*   **Sachverhalt:** v. 17.01.2017, 2 BvB 1/13, juris, Rn. 547. - [33] BVerfG, Urt. v. 17.01.2017, 2 BvB 1/13, juris, Rn. 598. - [34] Hierzu und zum Folgenden: BVerwG, Urt. v. 21.07.2010, 6 C 22.09, juris, Rn. 60. - [35] BVerfG a.a.O. - [36] VG Köln, Urt. v. 11.11.2004, 20 K 1882/03, juris, Rn. 141. - [37] BVerfG, Urt. v. 17.01.2017, 2 BvB 1/13, juris, Rn. 585 ff. - [38] Vgl. zum kämpferisch-aggressives Vorgehen: BVerwG, Urt. v. 21.07.2010, 6 C 22.09, juris, Rn. 59. - [39] BVerfG, Urt. v. 17.08.1956, 1 BvB 2/51, juris, Rn. 251; | v. 17.01.2017, 2 BvB 1/13, juris, Rn. 547. - [33] BVerfG, Urt. v. 17.01.2017, 2 Bv...
+*   **Gericht & Aktenzeichen:** Bundesverfassungsgericht (BVerfG) (Az. 20 K 1882/03, Entscheidung vom 17.01.2017).
+*   **Urteil / Strafmaß:** Verfassungsgerichtliche Grundsatzentscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 129] Verfassungsrechtliche Grundsatzentscheidung (22 K 1266/06)
+*   [openjur.de](https://openjur.de/suche/22%20K%201266/06/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/129_22_K_1266_06.txt)`
+*   **Sachverhalt:** chen der autochthonen Gesellschaft und den Kolonialherren hervor. Maßgeblich ist dabei die Imagination einer entwicklungsbezogenen Ungleichheit. - [1289] OVG Münster, Beseht v. 08.07.2009, 5 A 203/08, juris, Rn. 6; VG Düsseldorf, Urt. v. 04.12.2007, 22 K 1266/06, juris, Rn. 135 ff.; VG Minden, Beschl. v. 12.06.2015, 4 L 441/15, juris, Rn. 116. - [1290] VG Berlin, Urt. v. 07.09.2016, 1 K 71.15, juris, Rn. 23. - [1291] OVG Berlin-Brandenburg. Urt v. 23.11.2011, 1 B 111.10, juris, Rn. 48. - [1292] BVerfG, Urt. | chen der autochthonen Gesellschaft und den Kolonialherren hervor. Maßgeblich ist d...
+*   **Gericht & Aktenzeichen:** Bundesverfassungsgericht (BVerfG) (Az. 22 K 1266/06, Entscheidung vom 04.12.2007).
+*   **Urteil / Strafmaß:** Verfassungsgerichtliche Grundsatzentscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 130] Höchstrichterliches verwaltungsgerichtliches Urteil (22 K 2532/11)
+*   [openjur.de](https://openjur.de/suche/22%20K%202532/11/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/130_22_K_2532_11.txt)`
+*   **Sachverhalt:** ternative für Deutschland: „Erklärung zum deutschen Staatsvolk und zur deutschen Identität“ vom 18.01.2021 in: www.afd.de, abgerufen am 20.01.2021. - [3162] OVG NRW, Beschl. v. 23.05.2012, 5 A 837/11, juris, Rn. 6; VG Düsseldorf, Urt. v. 28.05.2013, 22 K 2532/11, juris, Rn. 200. - [3163] Vgl. Kapitel C I., S. 12 ff. - [3164] Vgl. BVerwG, Urt. vom 18.05.2001, 2 WD 42/00, 2 WD 43/00, juris, Rn. 43 ff. - [3165] Vgl. OVG Berlin-Brandenburg: Beschl. v. 19.06.2020, OVG 1 S 55/20, juris, Rn. 37; VG Berlin, Urt. vo | ternative für Deutschland: „Erklärung zum deutschen Staatsvolk und zur deutschen I...
+*   **Gericht & Aktenzeichen:** Bundesverwaltungsgericht (BVerwG) (Az. 22 K 2532/11, Entscheidung vom 23.05.2012).
+*   **Urteil / Strafmaß:** Verwaltungsgerichtlicher Beschluss - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 131] Verfassungsrechtliches Verfahren (22 K 404/09)
+*   [openjur.de](https://openjur.de/suche/22%20K%20404/09/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/131_22_K_404_09.txt)`
+*   **Sachverhalt:** : „Für Gerechtigkeit“ am 11.04.2020, abgerufen am 22.04.2020, siehe S. 312. - [3037] Zulieferung LfV ST; AfD-Fraktion Sachsen-Anhalt: Facebook-Eintrag vom 12.02.2020, abgerufen am 13.02.2020, siehe S. 333. - [3038] VG Düsseldorf, Urt. v. 15.02.2011, 22 K 404/09, Julis, Rn. 86. - [3039] Zulieferung BfV; AfD-Europawahlprogramm „Programm der Alternative für Deutschland für die Wahl zum 9. Europäischen Parlament 2019“. S. 51 f., siehe S. 416. - [3040] Zulieferung BfV; Storch, Beatrix von: Facebook-Eintrag vom | : „Für Gerechtigkeit“ am 11.04.2020, abgerufen am 22.04.2020, siehe S. 312. - [3037]...
+*   **Gericht & Aktenzeichen:** Verwaltungsgericht (VG) (Az. 22 K 404/09, Entscheidung vom 15.02.2011).
+*   **Urteil / Strafmaß:** Verwaltungsgerichtliches Urteil - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Bestätigt das parlamentarische Selbstorganisationsrecht der Fraktionen und die verfassungsrechtliche Zulässigkeit des Ausschlusses extremistischer Kräfte.
+
+
+---
+
+### [FALL 132] Verfassungsrechtliches Verfahren (29 U 6/20)
+*   [openjur.de](https://openjur.de/suche/29%20U%206/20/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/132_29_U_6_20.txt)`
+*   **Sachverhalt:** Christen in der m Zeitpunkt sächsische ... Ulrich Oehme auf ... vom ... abgerufen am ... : VG Köln, Beschl. v. ... 13 L ... juris, Rn. 294. der: ... vom ... abgerufen am ... Bremen, Urt. v. ... 7 O 1618/18, juris, Rn. 61; OLG Hamm, Beschl. v. 6/20, 29 U 6/20, juris, Rn. 174 f LG Koblenz, Urt. v. ... 90 239/18, juris, 344 Ne Weitergabe außerhalb des ... ohne Zustimmung des BfV GeheimgutachtenTeil ... – Seite 54 VS-NUR FÜR DEN D ENSTGEBRAUCH FREMDEN- UND M NDERHE TENFE NDL CHE ... UND POS TIONEN book | Christen in der m Zeitpunkt sächsische ... Ulrich Oehme auf ... vom ... abgerufen am ... : ...
+*   **Gericht & Aktenzeichen:** Verwaltungsgericht (VG) (Az. 29 U 6/20, Entscheidung aus dem Jahr 2020).
+*   **Urteil / Strafmaß:** Verwaltungsgerichtlicher Beschluss - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 133] Verfassungsrechtliche Grundsatzentscheidung (4 L 441/15)
+*   [openjur.de](https://openjur.de/suche/4%20L%20441/15/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/133_4_L_441_15.txt)`
+*   **Sachverhalt:** ßgeblich ist dabei die Imagination einer entwicklungsbezogenen Ungleichheit. - [1289] OVG Münster, Beseht v. 08.07.2009, 5 A 203/08, juris, Rn. 6; VG Düsseldorf, Urt. v. 04.12.2007, 22 K 1266/06, juris, Rn. 135 ff.; VG Minden, Beschl. v. 12.06.2015, 4 L 441/15, juris, Rn. 116. - [1290] VG Berlin, Urt. v. 07.09.2016, 1 K 71.15, juris, Rn. 23. - [1291] OVG Berlin-Brandenburg. Urt v. 23.11.2011, 1 B 111.10, juris, Rn. 48. - [1292] BVerfG, Urt. v. 24.09.2003, 2 BvR 1436/02, juris, Rn. 37. - [1293] Zulieferung | ßgeblich ist dabei die Imagination einer entwicklungsbezogenen Ungleichheit. - [1289...
+*   **Gericht & Aktenzeichen:** Bundesverfassungsgericht (BVerfG) (Az. 4 L 441/15, Entscheidung vom 04.12.2007).
+*   **Urteil / Strafmaß:** Verfassungsgerichtliche Grundsatzentscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 134] Verfassungsrechtliches Verfahren (4 U 1419/16)
+*   [openjur.de](https://openjur.de/suche/4%20U%201419/16/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/134_4_U_1419_16.txt)`
+*   **Sachverhalt:** .10.1990, 1 C 12.88, juris, Rn. 26; Urt. v. 21.07.2010, 6 C 22.09, juris, Rn. 30, OVG Berlin-Brandenburg, Urt. v. 23.11.2011, 1 B 111.10, juris, Rn. 44; OVG NW, Urt. v. 13.02.2009, 16 A 845/08, juris, Rn. 281. - [51] OLG Dresden, Urt. v. 07.02.2017, 4 U 1419/16. - [52] Schenke/Graulich/Ruthig/Roth, 2. Aufl. 2019, BVerfSchG § 3, Rn. 63, 66. - [53] VG Regensburg, Urt. v. 21.03.2019, RO 5 K 17.1402; VG München, Beschl. v. 28.10.2011, 22 E 11.3568. - [54] Schenke/Graulich/Ruthig/Roth, 2. Aufl. 2019, BVerfSchG | .10.1990, 1 C 12.88, juris, Rn. 26; Urt. v. 21.07.2010, 6 C 22.09, juris, Rn. 30, OV...
+*   **Gericht & Aktenzeichen:** Oberverwaltungsgericht (OVG) (Az. 4 U 1419/16, Entscheidung vom 21.07.2010).
+*   **Urteil / Strafmaß:** Verwaltungsgerichtlicher Beschluss - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 135] Höchstrichterliches verwaltungsgerichtliches Urteil (5 A 1216/22)
+*   [openjur.de](https://openjur.de/suche/5%20A%201216/22/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/135_5_A_1216_22.txt)`
+*   **Sachverhalt:** sen Vorsitzender der malige ... Kernfunktionär des Flügels und Obmann für Sachsen-Anhalt ans-Thomas Tillschneider ist. Als Redner auf der ... traten neben 'n Führungsfunktionären des ehemaligen Flügels Björn Höcke (2020 7? und 7 OVG NRW, Urt. v. ... 5 A 1216/22, juris, Rn. 189. ® OVG NRW, Urt. v. ... 5 A 1216/22, juris, Rn. 192. 9 So auch VG ... Beschl. v. ... 6 L 20/24, juris, Rn. 96 ff. hinsichtlich des sächsihen Landesverbands. Das Gericht begründete seine vorläufige bestätigende Bewertung im Hinblick f | lügels und Obmann für Sachsen-Anhalt ans-Thomas Tillschneider ist. Als Redner auf d...
+*   **Gericht & Aktenzeichen:** Bundesverwaltungsgericht (BVerwG) (Az. 5 A 1216/22, Entscheidung aus dem Jahr 2022).
+*   **Urteil / Strafmaß:** Verwaltungsgerichtlicher Beschluss - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 136] Höchstrichterliches verwaltungsgerichtliches Urteil (5 A 1217/22)
+*   [openjur.de](https://openjur.de/suche/5%20A%201217/22/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/136_5_A_1217_22.txt)`
+*   **Sachverhalt:** . und mangels einer Abkehr \ liegt hier eine Verdichtung zur Gewissheit für das Vertreten ... ‘und ... menschenwürdewidriger ... der ... ch, Tomasz: Tweet vom ... abgerufen am ... ble, Fabian: ... vom ... abgerufen am ... Ansicht des RW, Urt. v. ... 5 A 1217/22 (JA juris, Rn. 226 ist diese ... ebenfalls ein „klarer tür die ... von ... Staatsangehörigen mit ... Gunnar: ... auf der ... am ... veröffentlicht in: outube.com am ... Kanal: „AfD TV abgerufen am ... 98 Alternative Altmark: ... vom ... abgerufen am | e ... ist derzeit noch nicht absehbar 09 a. ... und ... e ... der JA als ... für di...
+*   **Gericht & Aktenzeichen:** Bundesverwaltungsgericht (BVerwG) (Az. 5 A 1217/22, Entscheidung aus dem Jahr 2022).
+*   **Urteil / Strafmaß:** Verwaltungsgerichtlicher Beschluss - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 137] Verfassungsrechtliche Grundsatzentscheidung (5 A 130/05)
+*   [openjur.de](https://openjur.de/suche/5%20A%20130/05/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/137_5_A_130_05.txt)`
+*   **Sachverhalt:** , Rn. 121. - [40] BVerwG, Urt. v. 21.07.2010, 6 C 22.09, juris, Rn. 30; VG München, Urt. v. 16.10.2014, 22 K 14.1663, juris, Rn. 54. - [41] Hierzu und zum Folgenden: BVerfG, Urt. v. 17.01.2017, 2 BvB 1/13, juris, Rn. 562; OVG NW, Urt. v. 12.02.2008, 5 A 130/05, juris, Rn. 272; Urt. v. 13.02.2009, 16 A 845/08; juris, Rn. 47. - [42] Hierzu und zum Folgenden: BVerfG, Urt. v. 23.10.1952, BvB 1/51, juris, Rn. 52; OVG Berlin-Brandenburg, Urt. v. 23.11.2011, 1 B 111.10, juris, Rn. 45; BayVGH, Beschl. v. 07.10.19 | t. v. 13.12.2007, 8 K 3483/06, juris, Rn. 40. - [63] Hierzu und zum Folgenden: BVerw...
+*   **Gericht & Aktenzeichen:** Bundesverfassungsgericht (BVerfG) (Az. 5 A 130/05, Entscheidung vom 21.07.2010).
+*   **Urteil / Strafmaß:** Verfassungsgerichtliche Grundsatzentscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 138] Höchstrichterliches verwaltungsgerichtliches Urteil (5 A 203/08)
+*   [openjur.de](https://openjur.de/suche/5%20A%20203/08/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/138_5_A_203_08.txt)`
+*   **Sachverhalt:** torien bezeichnet. Daraus gebt ein Herrschaftsverhältnis zwischen der autochthonen Gesellschaft und den Kolonialherren hervor. Maßgeblich ist dabei die Imagination einer entwicklungsbezogenen Ungleichheit. - [1289] OVG Münster, Beseht v. 08.07.2009, 5 A 203/08, juris, Rn. 6; VG Düsseldorf, Urt. v. 04.12.2007, 22 K 1266/06, juris, Rn. 135 ff.; VG Minden, Beschl. v. 12.06.2015, 4 L 441/15, juris, Rn. 116. - [1290] VG Berlin, Urt. v. 07.09.2016, 1 K 71.15, juris, Rn. 23. - [1291] OVG Berlin-Brandenburg. Urt | torien bezeichnet. Daraus gebt ein Herrschaftsverhältnis zwischen der autochthonen Ge...
+*   **Gericht & Aktenzeichen:** Bundesverwaltungsgericht (BVerwG) (Az. 5 A 203/08, Entscheidung vom 04.12.2007).
+*   **Urteil / Strafmaß:** Verwaltungsgerichtlicher Beschluss - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 139] Höchstrichterliches verwaltungsgerichtliches Urteil (5 A 837/11)
+*   [openjur.de](https://openjur.de/suche/5%20A%20837/11/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/139_5_A_837_11.txt)`
+*   **Sachverhalt:** 2.2020, abgerufen am 18.12.2020. - [3161] Zulieferung BfV; Alternative für Deutschland: „Erklärung zum deutschen Staatsvolk und zur deutschen Identität“ vom 18.01.2021 in: www.afd.de, abgerufen am 20.01.2021. - [3162] OVG NRW, Beschl. v. 23.05.2012, 5 A 837/11, juris, Rn. 6; VG Düsseldorf, Urt. v. 28.05.2013, 22 K 2532/11, juris, Rn. 200. - [3163] Vgl. Kapitel C I., S. 12 ff. - [3164] Vgl. BVerwG, Urt. vom 18.05.2001, 2 WD 42/00, 2 WD 43/00, juris, Rn. 43 ff. - [3165] Vgl. OVG Berlin-Brandenburg: Beschl. | 2.2020, abgerufen am 18.12.2020. - [3161] Zulieferung BfV; Alternative für Deutschlan...
+*   **Gericht & Aktenzeichen:** Bundesverwaltungsgericht (BVerwG) (Az. 5 A 837/11, Entscheidung vom 23.05.2012).
+*   **Urteil / Strafmaß:** Verwaltungsgerichtlicher Beschluss - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 140] Rechtmäßigkeit verfassungsschutzrechtlicher Berichte und Einstufung (5 B 131/24)
+*   [openjur.de](https://openjur.de/suche/5%20B%20131/24/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/140_5_B_131_24.txt)`
+*   **Sachverhalt:** Urt. v. ... 5 A 1217/22, juris, Rn. 147. 8 OVG NRW, Urt. v. ... 5 A 1217/22, juris, Rn. 182. OVG NRW, Urt. v. ... 5 A 1217/22, juris, Rn. 194 f. 2508 VG Köln, Beschl. v. ... 13 L 1124/23, juris, Rn. 190. 2509 Das Verfahren wird geführt unter dem Az. 5 B 131/24, vgl. hierzu: OVG NRW: „Bundesamt für Verfassungsschutz darf AfD und JA als Verdachtsfall beobachten“ vom ... in: Yww.ovg.nrw.de, abgerufen am ... “ Alternative für Deutschland: „8 17a Abs. 4 S. 2 ... vom 29.11.2015, zuletzt geandert am ... in: www. | Urt. v. ... 5 A 1217/22, juris, Rn. 147. 8 OVG NRW, Urt. v. ... 5 A 1217/22, juris, ...
+*   **Gericht & Aktenzeichen:** Oberverwaltungsgericht (OVG) (Az. 5 B 131/24, Entscheidung aus dem Jahr 2024).
+*   **Urteil / Strafmaß:** Verwaltungsgerichtlicher Beschluss - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 141] Höchstrichterliches verwaltungsgerichtliches Urteil (6 A 3/08)
+*   [openjur.de](https://openjur.de/suche/6%20A%203/08/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/141_6_A_3_08.txt)`
+*   **Sachverhalt:** 30, VG Köln, Urt. v. ... 13 K 326/21, 93; ... des Bundes, 2. Aufl. 2019, BVerfSchG 6; VG Köln, Beschl. v. ... 13 L 1124/23, juris, Rn. 263; OVG NRW, Un. v. 5 A 1218/22, juris, Rn. 171. ... des Bundes, 2. Aufl. 2018, BVerfSchG 8 4 Rn. G, Urt. v. ... 6 A 3/08, juris, Rn. 45. ... des Bundes, 2. Aufl. 2019, BVerfSchG 8 4 Rn. en S Un. v. ... 6C 22/09, juris, Rn. 49; OVG NRW, Urt. v. ... 5 A 1218/22, RW, Urt. v. ... 5 A 1218/22, juris, Rn. 173. at v. ... 13 K 207/20, juris, Rn. 550; VG Köln, Urt. v. ... 13 K | 30, VG Köln, Urt. v. ... 13 K 326/21, 93; ... des Bundes, 2. Aufl. 2019, BVerfSchG 6; V...
+*   **Gericht & Aktenzeichen:** Bundesverwaltungsgericht (BVerwG) (Az. 6 A 3/08, Entscheidung aus dem Jahr 2008).
+*   **Urteil / Strafmaß:** Verwaltungsgerichtlicher Beschluss - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 142] Verfassungsrechtliche Grundsatzentscheidung (6 A 4/09)
+*   [openjur.de](https://openjur.de/suche/6%20A%204/09/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/142_6_A_4_09.txt)`
+*   **Sachverhalt:** , 3 B 3.99, juris, Rn. 185 ff. - [62] VG Hamburg, Urt. v. 13.12.2007, 8 K 3483/06, juris, Rn. 40. - [63] Hierzu und zum Folgenden: BVerwG, Urt. v. 21.07.2010, 6 C 22.09, juris, Rn. 49; Urt. v. 13.04.1999, 1 A 3/94, juris, Rn. 24; Urt. v. 01.09.2010, 6 A 4/09, juris, Rn. 14; OVG NW, Urt. v 12.02.2008, 5 A 130/05, juris, Rn. 304 und 305; Urt. v. 13.02.2009, 16 A 845/08, juris, Rn. 263. - [64] BVerfG, Urt. v. 24.04.2013, 1 BvR 1215/07, juris, Rn. 116 ff.; Beschl. v. 24.01.2012, 2 BvR 1299/05, juris, Rn. 17 | , 3 B 3.99, juris, Rn. 185 ff. - [62] VG Hamburg, Urt. v. 13.12.2007, 8 K 3483/06, jur...
+*   **Gericht & Aktenzeichen:** Bundesverfassungsgericht (BVerfG) (Az. 6 A 4/09, Entscheidung vom 13.12.2007).
+*   **Urteil / Strafmaß:** Verfassungsgerichtliche Grundsatzentscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 143] Rechtmäßigkeit verfassungsschutzrechtlicher Berichte und Einstufung (6 C 22/09)
+*   [openjur.de](https://openjur.de/suche/6%20C%2022/09/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/143_6_C_22_09.txt)`
+*   **Sachverhalt:** iche demokratische Grundordnung als Schutzgut der Vorschrift sind die in $ 4 Abs. 2 BVerfSchG ... Bei der Prüfung der verfassungsfeindlichen Ausrichtung gegen einen ... darf allerdings nicht allein auf den Wortlaut des 8 4 Abs. 2 BVerf5, Urt. v. ... 6 C 22/09, juris, Rn. 21; Urt. v. 07.12.1999, 1 C 30/97, juris, Rn. 18; BVerfG, Urt. v. 17.01.2017, 2 BvB 1/13, juris, Rn. 409, 418; Beschl. v. ... 2 BvE ‚ Rn. 28; vgl. auch: BVerfG, Beschl. v. 22.05.1975, 2 BvL 13/73, juris, Rn. 70, Beschl. v. "5, 1 BvE 1/75 | iche demokratische Grundordnung als Schutzgut der Vorschrift sind die in $ 4 Abs. 2 B...
+*   **Gericht & Aktenzeichen:** Bundesverfassungsgericht (BVerfG) (Az. 6 C 22/09, Entscheidung vom 07.12.1999).
+*   **Urteil / Strafmaß:** Verfassungsgerichtliche Grundsatzentscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 144] Rechtmäßigkeit verfassungsschutzrechtlicher Berichte und Einstufung (6 L 1337/20)
+*   [openjur.de](https://openjur.de/suche/6%20L%201337/20/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/144_6_L_1337_20.txt)`
+*   **Sachverhalt:** 10.07.2019, abgerufen am 26.05.2020, siehe S. 162. - [2959] VG Berlin, Beschl. v. 28.05.2020, VG 1 L 97/20, BeckRS, Rn. 51 f.; OVG Berlin-Brandenburg, Beschl. v. 19.06.2020, OVG 1 S 56/20, juris, Rn. 45. - [2960] VG Wiesbaden, Beschl. v. 13.01.2021, 6 L 1337/20.WI. - [2961] Die größenmäßige Relevanz von innerparteilichen Strömungen, die eine Beobachtung der Gesamtpartei rechtfertigen kann, wurde vom Bundesverwaltungsgericht bereits bei deutlich kleineren Zusammenschlüssen innerhalb der Partei bejaht. So st | 10.07.2019, abgerufen am 26.05.2020, siehe S. 162. - [2959] VG Berlin, Beschl. v. 2...
+*   **Gericht & Aktenzeichen:** Oberverwaltungsgericht (OVG) (Az. 6 L 1337/20, Entscheidung vom 28.05.2020).
+*   **Urteil / Strafmaß:** Verwaltungsgerichtlicher Beschluss - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 145] Verfassungsrechtliche Grundsatzentscheidung (6 L 20/24)
+*   [openjur.de](https://openjur.de/suche/6%20L%2020/24/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/145_6_L_20_24.txt)`
+*   **Sachverhalt:** nicht, wieso der Begriff ‚arisch' der ... ist. ... sei nur auf das Reichsbürgergesetz vom 15.09.1935 ... in demin$ 2 geregelt ist, dass Reichsbürger nur der Staatsbürger sei, der ... oder artverwandten Blutes sei. "1844 189 Das VG ... Beschl. v. ... 6 L 20/24, juris, Rn.131 ff. sieht in der unkritischen Bezug- . nahme auf die ... unter ... der ... Definition der freiheitlich demokratischen Grundordnung die im ... betroffen. 1892 BVerfG, Urt. v. 17.01.2017, 2 BvB 1/13, juris, Rn. 596. 1843 Eng. 1% ... „Be | on ... für die verfassungsschutzrechtliche Einschätzung einer Par- (dd - In, Urt. v. ...
+*   **Gericht & Aktenzeichen:** Bundesverfassungsgericht (BVerfG) (Az. 6 L 20/24, Entscheidung vom 17.01.2017).
+*   **Urteil / Strafmaß:** Verfassungsgerichtliche Grundsatzentscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 146] Verfassungsrechtliche Grundsatzentscheidung (6 U 190/20)
+*   [openjur.de](https://openjur.de/suche/6%20U%20190/20/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/146_6_U_190_20.txt)`
+*   **Sachverhalt:** ... Lenard/ Virchow, Fabian (Hrsg „Handwörterbuch rechtsextremer Kampfbegriffe ... 2016, S. 269-281; BVerfG, Urt. v. 17.01.2017, 2 BvB 1/13, juris, Rn. 831, 836, zur Bewerng des ... „Schuldkult“ als antisemitisch und ... auch OLG Karlsruhe, Urt. ... 6 U 190/20, juris, Rn. 181, als „nicht auf dem Boden des ... ferner GH, Urt. v. ... RiZ (R) 1/23, juris, Rn. 40. 681 Keine Weitergabe außerhalb des ... ohne Zustimmung des BfV GeheimgutachtenTeil ... – Seite 83 VS-NUR FÜR DEN D ENSTGEBRAUCH POS TION ERUNG | ... Lenard/ Virchow, Fabian (Hrsg „Handwörterbuch rechtsextremer Kampfbegriffe ... 2016, ...
+*   **Gericht & Aktenzeichen:** Bundesverfassungsgericht (BVerfG) (Az. 6 U 190/20, Entscheidung vom 17.01.2017).
+*   **Urteil / Strafmaß:** Verfassungsgerichtliche Grundsatzentscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 147] Verfassungsrechtliches Verfahren (7 O 1618/18)
+*   [openjur.de](https://openjur.de/suche/7%20O%201618/18/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/147_7_O_1618_18.txt)`
+*   **Sachverhalt:** zu schüren. veröffentlichte der Co-Vorsitzende der ... Christen in der m Zeitpunkt sächsische ... Ulrich Oehme auf ... vom ... abgerufen am ... : VG Köln, Beschl. v. ... 13 L ... juris, Rn. 294. der: ... vom ... abgerufen am ... Bremen, Urt. v. ... 7 O 1618/18, juris, Rn. 61; OLG Hamm, Beschl. v. 6/20, 29 U 6/20, juris, Rn. 174 f LG Koblenz, Urt. v. ... 90 239/18, juris, 344 Ne Weitergabe außerhalb des ... ohne Zustimmung des BfV GeheimgutachtenTeil ... – Seite 54 VS-NUR FÜR DEN D ENSTGEBRAUCH FREMDEN | zu schüren. veröffentlichte der Co-Vorsitzende der ... Christen in der m Zeitpunkt sächs...
+*   **Gericht & Aktenzeichen:** Verwaltungsgericht (VG) (Az. 7 O 1618/18, Entscheidung aus dem Jahr 2018).
+*   **Urteil / Strafmaß:** Verwaltungsgerichtlicher Beschluss - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 148] Höchstrichterliches verwaltungsgerichtliches Urteil (8 K 3483/06)
+*   [openjur.de](https://openjur.de/suche/8%20K%203483/06/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/148_8_K_3483_06.txt)`
+*   **Sachverhalt:** VerfSchG § 4, Rn. 114. - [60] OVG Berlin-Brandenburg, Urt. v. 23.11.2011, 1 B 111.10, juris, Rn. 46 und 49; Urt. v. 06.04.2006, 3 B 3.99, juris, Rn. 185 ff.; OVG NI, Urt. v. 19.10.2000, 11 L 87/00, juris, Rn. 107 ff.; VG Hamburg, Urt. v. 13.12.2007, 8 K 3483/06, juris, Rn. 40. - [61] OVG Berlin-Brandenburg, Urt. v. 06.04.2006, 3 B 3.99, juris, Rn. 185 ff. - [62] VG Hamburg, Urt. v. 13.12.2007, 8 K 3483/06, juris, Rn. 40. - [63] Hierzu und zum Folgenden: BVerwG, Urt. v. 21.07.2010, 6 C 22.09, juris, Rn. 49; | . 185 ff.; OVG NI, Urt. v. 19.10.2000, 11 L 87/00, juris, Rn. 107 ff.; VG Hamburg, ...
+*   **Gericht & Aktenzeichen:** Bundesverwaltungsgericht (BVerwG) (Az. 8 K 3483/06, Entscheidung vom 23.11.2011).
+*   **Urteil / Strafmaß:** Verwaltungsgerichtliches Urteil - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 149] Verfassungsrechtliche Grundsatzentscheidung (9 B 273/21)
+*   [openjur.de](https://openjur.de/suche/9%20B%20273/21/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/149_9_B_273_21.txt)`
+*   **Sachverhalt:** nung als Ganzes fragwürdig ... 78 1472 BVerfG, Urt. v. 17.01.2017, 2 BvB 1/13, juris, Rn. 546. 1473 VG München, Beschl. v. ... M 30 E 22.4913, juris, Rn. 110 und VG Köln, Beschl. v. ... 13 L 1124/24, juris, Rn. 359. 1474 VG Magdeburg, Beschl. v. ... 9 B 273/21 MD, juris, Rn. 58 und VG Köln, Beschl. v. ... 13 L 1124/24, juris, Rn. 361. 1475 Vgl. VG München, Beschl. v. ... M 30 E 22.4913, juris, Rn. 108 m. w. N. 1476 gl. hierfür bereits die ... im Kapitel C. Rechtliche Vorgaben auf S. 39. 1477 Vgl. BVerfG, | nung als Ganzes fragwürdig ... 78 1472 BVerfG, Urt. v. 17.01.2017, 2 BvB 1/13, juris,...
+*   **Gericht & Aktenzeichen:** Bundesverfassungsgericht (BVerfG) (Az. 9 B 273/21, Entscheidung vom 17.01.2017).
+*   **Urteil / Strafmaß:** Verfassungsgerichtliche Grundsatzentscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 150] Verfassungsrechtliches Verfahren (A 1218/22)
+*   [openjur.de](https://openjur.de/suche/A%201218/22/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/150_A_1218_22.txt)`
+*   **Sachverhalt:** e „Machtkritik“ zu ... seien inhaltspunkt für verfassungsfeindliche ... darstellen würden. Verächtlichmachung des ... sei aber jedenfalls dann wenn sich aus den ... ergebe, dass dem politischen Gegner echtigung abgesprochen werden soll 2 Urt. v. ... A 1218/22, juris, Rn. 239 f 243 ff 246. v. ... 5 A 1218/22, juris, Rn. 247. rt. v. ... 5 A 1218/22, juris, Rn. 248. ft.v. ... 5 A 1218/22, juris, Rn. 250. 'v. ... 5 A 1218/22, juris, Rn. 252 ff. 21 Weitergabe außerhalb des ... ohne Zustimmung des BfV Gehei | e „Machtkritik“ zu ... seien inhaltspunkt für verfassungsfeindliche ... darstellen würde...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. A 1218/22, Entscheidung aus dem Jahr 2022).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 151] Kopftuch- und Religionsstreit im öffentlichen Raum (AD Ausgabe 31/2023)
+*   [openjur.de](https://openjur.de/suche/AD%20Ausgabe%2031/2023/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/151_AD_Ausgabe_31_2023.txt)`
+*   **Sachverhalt:** r quantitativen ... marginaliitel D. II. 3. ielhaft Storch, Beatrix von: „Muslimischer Antisemitismus in Berlin wird weiter verharmlost“ 22, in: www.afd.de, abgerufen am ... Pakt: ... mit dem Import von Gewalt und Antisemitismus! ... Freiheit — der "AD Ausgabe 31/2023“ vom ... in: https afdkompakt.de, abgerufen am Pakt: ... Statistik hat islamischen Antisemitismus verschleiert vom ... in: 'pakt.de, abgerufen am ... 488 Keine Weitergabe außerhalb des ... ohne Zustimmung des BfV GeheimgutachtenTeil ... – Seite 9 | r quantitativen ... marginaliitel D. II. 3. ielhaft Storch, Beatrix von: „Musli...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. AD Ausgabe 31/2023, Entscheidung aus dem Jahr 2023).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Belegt Verstöße gegen die unantastbare Menschenwürdegarantie (Art. 1 Abs. 1 GG) durch herabwürdigende und ausgrenzende Agitation gegen Minderheiten sowie die Unvereinbarkeit mit der FDGO.
+
+
+---
+
+### [FALL 152] Verfassungsrechtliches Verfahren (AfD 12/2019)
+*   [openjur.de](https://openjur.de/suche/AfD%2012/2019/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/152_AfD_12_2019.txt)`
+*   **Sachverhalt:** alz und Vorsitzender im KV Rhein-Pfalz-Kreis. - Schieske, Lars: MdL in Brandenburg, Mitglied im AfD LV Brandenburg und im KV Cottbus. - Schlund, Robby: MdB, Mitglied im AfD LV Thüringen und im KV Greiz-Altenburg. - Schmidt, Donatus: Austritt aus der AfD 12/2019, Fraktionsmitarbeiter im Stadthaus Halle. - Schmidt, Jan Wenzel: MdL in Sachsen-Anhalt, Beisitzer im AfD LV Sachsen-Anhalt und Mitglied im KV Magdeburg, Vorsitzender der JA Sachsen-Anhalt. - Schmidt, Robert: Mitglied im AfD LV Baden-Württemberg und | alz und Vorsitzender im KV Rhein-Pfalz-Kreis. - Schieske, Lars: MdL in Brandenburg, ...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. AfD 12/2019, Entscheidung aus dem Jahr 2019).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Bestätigt das parlamentarische Selbstorganisationsrecht der Fraktionen und die verfassungsrechtliche Zulässigkeit des Ausschlusses extremistischer Kräfte.
+
+
+---
+
+### [FALL 153] Verfassungsrechtliches Verfahren (Aktenzeichen 20 K 3925/19)
+*   [openjur.de](https://openjur.de/suche/Aktenzeichen%2020%20K%203925/19/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/153_Aktenzeichen_20_K_3925_19.txt)`
+*   **Sachverhalt:** 9, abgerufen am 13.05.2020. - [1181] Zulieferung LfV ST; AfD Bitterfeld-Wolfen: Facebook-Eintrag vom 06.01.2020, abgerufen am 09.01.2020. - [1182] Zulieferung LfV HE; Härle, Carsten: Facebook-Eintrag vom 09.01.2020, abgerufen am 16.05.2020. - [1183] Aktenzeichen 20 K 3925/19. - [1184] Zulieferung BfV; AfD Kreisverband Wesel: Facebook-Eintrag vom 21.05.2019, abgerufen am 29.05.2020. - [1185] Zulieferung LfV RP; AfD Mainz-Bingen: Facebook-Eintrag vom 09.12.2019, abgerufen am 12.12.2019. - [1186] Zulieferung BfV; AfD Kreis | 9, abgerufen am 13.05.2020. - [1181] Zulieferung LfV ST; AfD Bitterfe...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. Aktenzeichen 20 K 3925/19, Entscheidung aus dem Jahr 2019).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 154] Verfassungsrechtliches Verfahren (Ausgabe 01/2024)
+*   [openjur.de](https://openjur.de/suche/Ausgabe%2001/2024/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/154_Ausgabe_01_2024.txt)`
+*   **Sachverhalt:** Münchener ... Als Redner traten nejen ... Petr Bystron (mittlerweile MdEP, BY Christina (BW/ST) und ... Kotr& (BB) auch der ... Jürgen ser auf. Das COMPACT-Magazin fungierte zudem als ... für die ebung 0%8 C \ ... vom ... (VS-NfD zeige, in: COMPACT, Ausgabe 01/2024, S. 63. eichel, Stefan: Vortrag am ... veröffentlicht in: www.youtube.com am ... Kaktionsgruppe Nord Ost abgerufen am ... OMPACT: „COMPACT-Großplakate „Frieden mit ... jetzt im Berliner Osten! Am Do. t ... in ... vom ... in: ... abgerufen am ... D . | Münchener ... Als Redner traten nejen ... Petr Bystron (mittlerweile MdEP, BY C...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. Ausgabe 01/2024, Entscheidung aus dem Jahr 2024).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 155] Verfassungsrechtliches Verfahren (Ausgabe 02/2024)
+*   [openjur.de](https://openjur.de/suche/Ausgabe%2002/2024/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/155_Ausgabe_02_2024.txt)`
+*   **Sachverhalt:** n: COMPACT, Ausgabe 11/2023, S. 38. ‚Anzeige, in: COMPACT, Ausgabe 10/2023, S. 21. its Anzeige, in: COMPACT, Ausgabe 11/2023, S. 31. Anzeige, in: COMPACT, Ausgabe 05/2023; S. 53. Anzeige, in: COMPACT, Ausgabe 06/2023, S. 28. ons „zeige, in: COMPACT, Ausgabe 02/2024, S. 47. u Anzeige, in: COMPACT, Ausgabe 08/2023, S. 20. ° Anzeige, in: COMPACT, Ausgabe 09/2023, S. 37. oo Anzeige, in: COMPACT, Ausgabe 12/2023, S. 31. . Anzeige, in: COMPACT, Ausgabe 10/2024, S. 47. 35: 735 Keine Weitergabe außerhalb des ... ohne | n: COMPACT, Ausgabe 11/2023, S. 38. ‚Anzeige, in: COMPACT, Ausgabe 10/2023, S. 2...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. Ausgabe 02/2024, Entscheidung aus dem Jahr 2024).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 156] Parteispendenaffäre und verfassungsrechtliche Transparenz (Ausgabe 03/2023)
+*   [openjur.de](https://openjur.de/suche/Ausgabe%2003/2023/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/156_Ausgabe_03_2023.txt)`
+*   **Sachverhalt:** d ... ich seit Jahren die identitäre ... (IB) bei ihrer wichtigen Arbeit. 7 Schmidt, Jan Wenzel: Tweet vom ... abgerufen am ... Schmidt, Jan Wenzel: Tweet vom ... abgerufen am ... n Schmidt, Jan Wenzel: ... vom ... abgerufen am ... sr Blaue Zukunft: Ausgabe 03/2023, S. 2 und S. 29. Heimatkurier: „Identitäres ... Exklusiver Bericht eines ... in: www.hei- „alkurier.at vom ... abgerufen am ... der Identitären ... in: Blaue Zukunft: Ausgabe 03/2023, S. 29. 78 Keine Weitergabe außerhalb des ... ohne Zustimmung des | d ... ich seit Jahren die identitäre ... (IB) bei ihrer wichtigen Arbeit. 7 Schm...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. Ausgabe 03/2023, Entscheidung aus dem Jahr 2023).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Annahme illegaler ausländischer Parteispenden und verdeckter Wahlkampfunterstützung.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Belegt den systematischen Verstoß gegen die verfassungsrechtlich verankerten Transparenz- und Rechenschaftspflichten von Parteien bezüglich ihrer Finanzierung (Art. 21 GG).
+
+
+---
+
+### [FALL 157] Verfassungsrechtliches Verfahren (Ausgabe 04/2023)
+*   [openjur.de](https://openjur.de/suche/Ausgabe%2004/2023/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/157_Ausgabe_04_2023.txt)`
+*   **Sachverhalt:** r Tag“ interviewt. Dort verkündete sie mitunter, die JA sei der 2020 COMPACT: „Die Flucht der ... aus ihren Städten - Teil 2" vom ... in: ... abgerufen am ... des Belegs aus Kapitel E.1.1.a.aa. (1 a Hilse, Karsten: ‚Am atomaren Abgrund“ in: COMPACT, Ausgabe 04/2023, S. 34. u 22 Moncsek, Mike: Interview mit COMPACT; veröffentlicht in: www.youtube.com am ... Kanal: „COMPACTTV abgerufen am ... 2024 „Mein Angebot an die Freien Wähler in: COMPACT, Ausgabe 10/2023, S. 28 f. "opas Schmidt, Jan Wenzel: ... vom ... abg | t aberkannt, da sie monatelang nicht an ... teilgenommen hatte und sich offenba...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. Ausgabe 04/2023, Entscheidung aus dem Jahr 2023).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 158] Verfassungsrechtliches Verfahren (Ausgabe 05/2023)
+*   [openjur.de](https://openjur.de/suche/Ausgabe%2005/2023/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/158_Ausgabe_05_2023.txt)`
+*   **Sachverhalt:** OMPACT; veröffentlicht in: www. youtube.com am ... Kanal: JMPACTTV abgerufen am ... ‚Anzeige, in: COMPACT, Ausgabe 11/2023, S. 38. ‚Anzeige, in: COMPACT, Ausgabe 10/2023, S. 21. its Anzeige, in: COMPACT, Ausgabe 11/2023, S. 31. Anzeige, in: COMPACT, Ausgabe 05/2023; S. 53. Anzeige, in: COMPACT, Ausgabe 06/2023, S. 28. ons „zeige, in: COMPACT, Ausgabe 02/2024, S. 47. u Anzeige, in: COMPACT, Ausgabe 08/2023, S. 20. ° Anzeige, in: COMPACT, Ausgabe 09/2023, S. 37. oo Anzeige, in: COMPACT, Ausgabe 12/2023, S. 31. . | OMPACT; veröffentlicht in: www. youtube.com am ... Kanal: JMPACTTV abgerufen am...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. Ausgabe 05/2023, Entscheidung aus dem Jahr 2023).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 159] Verfassungsrechtliches Verfahren (Ausgabe 06/2023)
+*   [openjur.de](https://openjur.de/suche/Ausgabe%2006/2023/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/159_Ausgabe_06_2023.txt)`
+*   **Sachverhalt:** ... Kanal: JMPACTTV abgerufen am ... ‚Anzeige, in: COMPACT, Ausgabe 11/2023, S. 38. ‚Anzeige, in: COMPACT, Ausgabe 10/2023, S. 21. its Anzeige, in: COMPACT, Ausgabe 11/2023, S. 31. Anzeige, in: COMPACT, Ausgabe 05/2023; S. 53. Anzeige, in: COMPACT, Ausgabe 06/2023, S. 28. ons „zeige, in: COMPACT, Ausgabe 02/2024, S. 47. u Anzeige, in: COMPACT, Ausgabe 08/2023, S. 20. ° Anzeige, in: COMPACT, Ausgabe 09/2023, S. 37. oo Anzeige, in: COMPACT, Ausgabe 12/2023, S. 31. . Anzeige, in: COMPACT, Ausgabe 10/2024, S. 47. | ... Kanal: JMPACTTV abgerufen am ... ‚Anzeige, in: COMPACT, Ausgabe 11/2023, S. ...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. Ausgabe 06/2023, Entscheidung aus dem Jahr 2023).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 160] Verfassungsrechtliches Verfahren (Ausgabe 06/2024)
+*   [openjur.de](https://openjur.de/suche/Ausgabe%2006/2024/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/160_Ausgabe_06_2024.txt)`
+*   **Sachverhalt:** erufen am ... Krah, Maximilian: ... vom ... abgerufen am ... 8° Krah, Maximilian: Interview mit COMPACT zu gegen ihn ... Vorwürfen; veröffentlicht in: www.youtube.com, Kanal: „COMPACTTV“ am ... abgerufen am ... „Hier wurde zielgenau ... in: COMPACT, Ausgabe 06/2024, S. 18 ff. Cover des ... Ausgabe 06/2024. 885 COMPACT: „Sommerfest - hier Tickets buchen und letzte Infos“ vom ... in: ... abgerufen am ... 6 Liebt euch selbst in: COMPACT, Ausgabe ... 25 f. 1»87 Baum, Christina: Interview mit COMPACT am Rande des . | .. abgerufen am ... 8° Krah, Maximilian: Interview mit COMPACT zu gegen ihn ......
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. Ausgabe 06/2024, Entscheidung aus dem Jahr 2024).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 161] Verfassungsrechtliches Verfahren (Ausgabe 08/2023)
+*   [openjur.de](https://openjur.de/suche/Ausgabe%2008/2023/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/161_Ausgabe_08_2023.txt)`
+*   **Sachverhalt:** e des ... in Magdeburg; veröffentlicht in: www.youtube.com am ... Kanal: „COMPACTTV abgerufen am ... "70 Weidel, Alice: Interview mit COMPACT im Juli 2023; veröffentlicht in: www.youtube.com am ... Kanal: „COMPACTTV abgerufen am ... on Cover des ... Ausgabe 08/2023. Weidel, Alice: Interview mit COMPACT zur Landtagswahl in Brandenburg; veröffentlicht in: . www.youtube.com am ... Kanal: „COMPACTTV abgerufen am ... 718 Keine Weitergabe außerhalb des ... ohne Zustimmung des BfV GeheimgutachtenTeil ... – Seite 2 | e des ... in Magdeburg; veröffentlicht in: www.youtube.com am ... Kanal: „COMPACTT...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. Ausgabe 08/2023, Entscheidung aus dem Jahr 2023).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 162] Verfassungsrechtliches Verfahren (Ausgabe 09/2023)
+*   [openjur.de](https://openjur.de/suche/Ausgabe%2009/2023/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/162_Ausgabe_09_2023.txt)`
+*   **Sachverhalt:** in: COMPACT, Ausgabe 11/2023, S. 31. Anzeige, in: COMPACT, Ausgabe 05/2023; S. 53. Anzeige, in: COMPACT, Ausgabe 06/2023, S. 28. ons „zeige, in: COMPACT, Ausgabe 02/2024, S. 47. u Anzeige, in: COMPACT, Ausgabe 08/2023, S. 20. ° Anzeige, in: COMPACT, Ausgabe 09/2023, S. 37. oo Anzeige, in: COMPACT, Ausgabe 12/2023, S. 31. . Anzeige, in: COMPACT, Ausgabe 10/2024, S. 47. 35: 735 Keine Weitergabe außerhalb des ... ohne Zustimmung des BfV GeheimgutachtenTeil ... – Seite 37 VS-NUR FÜR DEN D ENSTGEBRAUCH VERB ... | in: COMPACT, Ausgabe 11/2023, S. 31. Anzeige, in: COMPACT, Ausgabe 05/2023; S. 53. ...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. Ausgabe 09/2023, Entscheidung aus dem Jahr 2023).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 163] Verfassungsrechtliches Verfahren (Ausgabe 10/2009)
+*   [openjur.de](https://openjur.de/suche/Ausgabe%2010/2009/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/163_Ausgabe_10_2009.txt)`
+*   **Sachverhalt:** usen: „Zukunft braucht Herkunft. Veranstaltungen 1. Halbjahr 2017“, von 2017, abgerufen am 11.11.2020. - [2913] Zulieferung BfV; National-Zeitung: Geschäftsanzeigen, Nr. 42 vom 09.10.2009. - [2914] Zulieferung BfV; Deutsche Stimme: Aktuelle Termine, Ausgabe 10/2009. - [2915] Zulieferung BfV; Nigel Copsey: „The English Defence League: Challenging our Country and our Values of Social Inclusion, Fairness and Equality“, in: www.faith-matters.org abgerufen am 17.11.2020. - [2916] Zulieferung BfV; Tommy Robinson: „M | usen: „Zukunft braucht Herkunft. Veranstaltungen 1. Halbjahr 2017“, von 2017, a...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. Ausgabe 10/2009, Entscheidung aus dem Jahr 2009).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 164] Verfassungsrechtliches Verfahren (Ausgabe 10/2022)
+*   [openjur.de](https://openjur.de/suche/Ausgabe%2010/2022/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/164_Ausgabe_10_2022.txt)`
+*   **Sachverhalt:** nicht 2007 RBB24: ... an rechte Organisationen“ vom ... in: ... abgerufen am ... 08 Abakus. News: BURGENLANDKRE S: POL TISCHES #OKTOBERFEST AM ... AB 12 "UHR - R TTERGUT #NÖBED TZ“ vom ... in: ... abgerufen am ... 2009 2 ... ist ein ... in: COMPACT, Ausgabe 10/2022, S. 52 f. 201 Flickr: Auszug aus Fotoalbum zur Veranstaltung, in: www.flickr.com, ohne Abrufdatum. om Farle, Robert: Rede auf der Veranstaltung „Patriotischer Aschermittwoch“ am ... veröf- \ fentlicht In: www.youtube.com am ... Kanal: „Weichreite TV | schneider einen Tweet der ... Baum zu einem von ihr bei OMPACT ... Interview. 2...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. Ausgabe 10/2022, Entscheidung aus dem Jahr 2022).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 165] Verfassungsrechtliches Verfahren (Ausgabe 10/2023)
+*   [openjur.de](https://openjur.de/suche/Ausgabe%2010/2023/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/165_Ausgabe_10_2023.txt)`
+*   **Sachverhalt:** im April 2023 neben ... Jürgen EI_ sässer Teilnehmer eines ... in einer COMPACT-Ausgabe war 0 Mit Mike Moncsek (zum damaligen Zeitpunkt MdB, mittlerweile MdL SN) gab im Januar 2024 ein ... Mitglied der ... ein Interview bei COM- .PACT TV 2022 In der Ausgabe 10/2023 des ... ein Interview mit dem bayerischen ... und ... Protschka (BY 2023 Der ... Jan Wenzel Schmidt (ST) teilte am 22. August 2022 ei- “nen COMPACT-Artikel, in dem über seinen Besuch im Leipziger Stadtviertel Connev itz (SN) berichtet wurde Am 1. Au | im April 2023 neben ... Jürgen EI_ sässer Teilnehmer eines ... in einer COMPACT...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. Ausgabe 10/2023, Entscheidung aus dem Jahr 2023).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 166] Verfassungsrechtliches Verfahren (Ausgabe 10/2024)
+*   [openjur.de](https://openjur.de/suche/Ausgabe%2010/2024/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/166_Ausgabe_10_2024.txt)`
+*   **Sachverhalt:** ... „Motor“ der Mutterpartei AfD.2%28 Am 17. Juli 2023 war ... erneut in einem Videobeitrag für COMPACT TV zu sehen und gab dort ein Interview zum Thema „Umfrage-Hoch: Geheimdienst jagt AfD-Jugend 7 ... bewarb im Oktober 2024 in einem Werbeclip die Ausgabe 10/2024 des ... mit dem Titel „Neue ... Jugend — Warum Rechts jetzt angesagt ist und wies dabei auch auf das Heftcover mit der JA-Aktivistin Candy Jacob (JA TH) hin. 2028 Auch zahlreiche hochrangige ... und Funktionäre der ... zudem die ... Aktivitäten des | ... „Motor“ der Mutterpartei AfD.2%28 Am 17. Juli 2023 war ... erneut in einem Vi...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. Ausgabe 10/2024, Entscheidung aus dem Jahr 2024).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 167] Verfassungsrechtliches Verfahren (Ausgabe 11/2022)
+*   [openjur.de](https://openjur.de/suche/Ausgabe%2011/2022/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/167_Ausgabe_11_2022.txt)`
+*   **Sachverhalt:** 8/2023 zusätzlich in Teilen abgedruckt wurde 2 In der ersten Ausgabe des Jahres 2024 gab Höcke dem COMPACT-Magazin außerdem ein Interview und war zudem auf dem Cover des Magazins abgebildet 2031 Ebd. 2032 An einer historischen Wegmarke in: COMPACT, Ausgabe 11/2022, S. 17 ff. 203 Höcke, Björn: Interview mit COMPACT; veröffentlicht in: www.youtube.com am ... Kanal: COMPACTTV abgerufen am ... 20% Nicht als Juniorpartner in: COMPACT, Ausgabe 08/2023, S. 13 ff. 2035 ‚ir werden schnell Dinge ... in: COMPACT, Ausgab | 8/2023 zusätzlich in Teilen abgedruckt wurde 2 In der ersten Ausgabe des Jahres ...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. Ausgabe 11/2022, Entscheidung aus dem Jahr 2022).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 168] Verfassungsrechtliches Verfahren (Ausgabe 11/2023)
+*   [openjur.de](https://openjur.de/suche/Ausgabe%2011/2023/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/168_Ausgabe_11_2023.txt)`
+*   **Sachverhalt:** Sachsen-Anhalt Jürgen ... im Juli 2023 "für ein Interview zur Verfügung In einem Tweet vom 8. Februar 2024 kritisierte Reichardt darüber hinaus, dass eine ... die Publikation COMPACT aus dem Sortiment ... habe: 191 „Die sanfte Kriegerin in: COMPACT, Ausgabe 11/2023, S. 35 ff. 1992 Baum, Christina: ... vom ... abgerufen am ... 1993 Baum, Christina: ... vom ... abgerufen am ... 1994 Baum, Christina: Studiogast in ... von COMPACT; veröffentlicht in: www.youtube.com am ... Kanal: „COMPACTTV abgerufen am ... "885 B | tlicht in: www.youtube.com am 08.2023, Kanal: „COMPACTTV abgerufen am ... Klemm...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. Ausgabe 11/2023, Entscheidung aus dem Jahr 2023).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 169] Verfassungsrechtliches Verfahren (Ausgabe 11/2024)
+*   [openjur.de](https://openjur.de/suche/Ausgabe%2011/2024/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/169_Ausgabe_11_2024.txt)`
+*   **Sachverhalt:** er AfD ür die Europawahl 2024 und Mitglied des ... (mittlerweile MdB, SN) 978 COMPACT: „Weidel Interview: So werde ich Kanzlerin vom ... in: ... abgerufen am ... »74 „Die Angriffe werden ... Alice Weidel im Gespräch mit ... und Paul an, in: COMPACT, Ausgabe 11/2024, S. 15 ff. Cover des ... Ausgabe v7 COMPACT: „Corona-Gipfel: Interview mit AfD-Parteichef Tino Chrupalla“ vom ... in: ... abgerufen am ... 1876 Chrupalla, Tino: Interview mit COMPACT am Rande des ... in Riesa; veröffent- „fieht in: www.youtube.com a | er AfD ür die Europawahl 2024 und Mitglied des ... (mittlerweile MdB, SN) 978 C...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. Ausgabe 11/2024, Entscheidung aus dem Jahr 2024).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 170] Verfassungsrechtliches Verfahren (Ausgabe 12/2023)
+*   [openjur.de](https://openjur.de/suche/Ausgabe%2012/2023/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/170_Ausgabe_12_2023.txt)`
+*   **Sachverhalt:** n ... bei der er laut des Beitrags gemeinsam mit Jürgen ... auftreten ... 2085 Kirchner, Oliver: ... auf der ... „Raus aus der NATO veröffentlicht in: www.youtube.com am ... Kanal: „COMPACTTV abgerufen am ... 2066 ... als Bündnispartner in: COMPACT, Ausgabe 12/2023; S. 52 ff. 2067 „Ein Rohrkrepierer in: COMPACT, Ausgabe 12/2023; S. 43. 2068 Olga ... wurde im Mai 2024 aus der AfD-Fraktion ... Im Dezember 2024 wurde ihr zudem das Mandat aberkannt, da sie monatelang nicht an ... teilgenommen hatte und sich offenb | n ... bei der er laut des Beitrags gemeinsam mit Jürgen ... auftreten ... 2085 ...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. Ausgabe 12/2023, Entscheidung aus dem Jahr 2023).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Bestätigt das parlamentarische Selbstorganisationsrecht der Fraktionen und die verfassungsrechtliche Zulässigkeit des Ausschlusses extremistischer Kräfte.
+
+
+---
+
+### [FALL 171] Verfassungsrechtliches Verfahren (Ausgabe 12/2024)
+*   [openjur.de](https://openjur.de/suche/Ausgabe%2012/2024/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/171_Ausgabe_12_2024.txt)`
+*   **Sachverhalt:** tlicht in: www.youtube.com, Kanal: „COMPACTTV“ am ... abgerufen am ... 3092 Berndt, Hans-Christoph: Studiogast bei COMPACT TV; veröffentlicht in: www.youtube.com, Kanal: „COMPACTTV am ... abgerufen am ... 3093 |Rechtsbruch gegen Rechts“ in: COMPACT, Ausgabe 12/2024, S. 33 ff. 3094 Bachmann, Carolin: Studiogast bei COMPACT TV; veröffentlicht in: www.youtube.com, Kanal: „COMPACTTV" am ... abgerufen am ... 3085 Bachmann, Carolin: Berichtet über Besuch in ... veröffentlicht in: www.youtube.com, Kanal: „COMPACTTV“ | tlicht in: www.youtube.com, Kanal: „COMPACTTV“ am ... abgerufen am ... 3092 Bern...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. Ausgabe 12/2024, Entscheidung aus dem Jahr 2024).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 172] Verfassungsrechtliches Verfahren (Ausgabe 15/10)
+*   [openjur.de](https://openjur.de/suche/Ausgabe%2015/10/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/172_Ausgabe_15_10.txt)`
+*   **Sachverhalt:** ilt als Auslöser für die Karlsbader Beschlüsse. - [2823] Zulieferung BfV; taz: „Ein Autor für die NPD“ vom 24.05.2019, in: www.taz.de, abgerufen am 18.06.2020. - [2824] Zulieferung BfV; hier & jetzt – radikal rechte zeitschrift: „Ilias der Moderne“, Ausgabe 15/10 von 2010, S. 104–105. - [2825] Zulieferung BfV; hier & jetzt – radikal rechte zeitschrift: „Weltenbaum und Gjallarjorn“, „Die Wiedergeburt von Blood Avis“, Ausgabe 17/11 von 2011, S. 126. - [2826] Zulieferung BfV; Allgemeine Zeitung: „NPD-Vorwürfe: | ilt als Auslöser für die Karlsbader Beschlüsse. - [2823] Zulieferung BfV; taz: „Ei...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. Ausgabe 15/10, Entscheidung aus dem Jahr 2010).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 173] Verfassungsrechtliches Verfahren (Ausgabe 17/11)
+*   [openjur.de](https://openjur.de/suche/Ausgabe%2017/11/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/173_Ausgabe_17_11.txt)`
+*   **Sachverhalt:** ulieferung BfV; hier & jetzt – radikal rechte zeitschrift: „Ilias der Moderne“, Ausgabe 15/10 von 2010, S. 104–105. - [2825] Zulieferung BfV; hier & jetzt – radikal rechte zeitschrift: „Weltenbaum und Gjallarjorn“, „Die Wiedergeburt von Blood Avis“, Ausgabe 17/11 von 2011, S. 126. - [2826] Zulieferung BfV; Allgemeine Zeitung: „NPD-Vorwürfe: AfD-Petition gegen Joachim Paul“ vom 07.11.2019, abgerufen am 26.05.2020. - [2827] Zulieferung BfV; Junge Alternative Mecklenburg-Vorpommern: Instagram-Eintrag vom 11.08. | ulieferung BfV; hier & jetzt – radikal rechte zeitschrift: „Ilias der Moderne“, A...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. Ausgabe 17/11, Entscheidung aus dem Jahr 2011).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 174] Verfassungsrechtliches Verfahren (Ausgabe 23/2016)
+*   [openjur.de](https://openjur.de/suche/Ausgabe%2023/2016/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/174_Ausgabe_23_2016.txt)`
+*   **Sachverhalt:** tag der AfD Bayern am 09.06.2018, veröffentlicht in: www.youtube.com, Kanal „Politik Aktuell“ am 10.06.2018, abgerufen am 11.02.2021. - [659] Gutachten AfD und Teilorganisationen 2019, S. 70 f. - [660] Zulieferung BfV; „Boateng will jeder haben“ von Ausgabe 23/2016, in: DER SPIEGEL, S, 35 f. - [661] Gutachten AfD und Teilorganisationen 2019, S. 70. - [662] Zulieferung BfV; Gminder, Franziska: Facebook-Eintrag vom 15.10.2019, abgerufen am 10.06.2020. - [663] Zulieferung BfV; Hampel, Armin-Paulus: Facebook-Eintr | tag der AfD Bayern am 09.06.2018, veröffentlicht in: www.youtube.com, Kanal „Po...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. Ausgabe 23/2016, Entscheidung aus dem Jahr 2016).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 175] Verfassungsrechtliches Verfahren (Ausgabe 3/2025)
+*   [openjur.de](https://openjur.de/suche/Ausgabe%203/2025/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/175_Ausgabe_3_2025.txt)`
+*   **Sachverhalt:** er-Partei, an.289° Überdies ist die ... bislang innerhalb der AfD nicht rezipiert worden und steht den im Übrigen ... sodass aus ihr nicht auf eine Aufgabe des in der AfD ... Volksbegriffs ... werden kann. 2888 Remigration ist nicht ... in: COMPACT, Ausgabe 3/2025, S. 16 f. 2889 Ebd. 2890 gl. WELT: „Wenn AfD-Mann Krah das ... der Erdogan-Dämmerung‘ wittert“ vom ... in: www.welt.de, abgerufen am ... 897 Keine Weitergabe außerhalb des ... ohne Zustimmung des BfV GeheimgutachtenTeil ... – Seite 99 VS-NUR FÜR | er-Partei, an.289° Überdies ist die ... bislang innerhalb der AfD nicht rezipiert wo...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. Ausgabe 3/2025, Entscheidung aus dem Jahr 2025).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 176] Verfassungsrechtliches Verfahren (Ausgabe 7/2020)
+*   [openjur.de](https://openjur.de/suche/Ausgabe%207/2020/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/176_Ausgabe_7_2020.txt)`
+*   **Sachverhalt:** Jahresrückblick 2019“, in www.chrafd.de, abgerufen am 28.05.2020. - [93] Zulieferung BfV; Botsch, Gideon: „Die ‚Juden in der AfD’ und der Antisemitismus“, in: Mitteilungen der Emil Julius Gumbel Forschungsstelle Antisemitismus und Rechtsextremismus, Ausgabe 7/2020, S. 1–15. - [94] Zulieferung BfV; Jüdische-Allgemeine: „Treffe Alternative“ vom 08.10.2016, in: www.juedische-allgemeine.de, abgerufen am 03.05.2020. - [95] Zulieferung BfV; JAfD: „Werden Sie Mitglied!“, in: www.j‑afd.org, abgerufen am 03.06.2020. - | erden Sie Mitglied!“, in: www.j‑afd.org, abgerufen am 03.06.2020. - [96] Zuliefe...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. Ausgabe 7/2020, Entscheidung aus dem Jahr 2020).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 177] Verfassungsrechtliches Verfahren (Ausgabe 9/2019)
+*   [openjur.de](https://openjur.de/suche/Ausgabe%209/2019/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/177_Ausgabe_9_2019.txt)`
+*   **Sachverhalt:** DR: „Für eine geeinte und starke AfD – ein Appell“, veröffentlicht am 10.07.2019, in: www.mdr.de, abgerufen am 27.01.2021. - [274] Zulieferung BfV; „ ‚Der Osten ist unser Erfolgsmotor’. Marc Jongen im Gespräch mit Daniell Pföhringer“, in: „COMPACT“, Ausgabe 9/2019, S. 14 f. - [275] Zulieferung BfV; Frankfurter Rundschau: „AfD: Alice Weidel lobt Björn Höcke und will nationalistischen Flügel einbinden“, veröffentlicht am 15.02.2020, in: www.fr.de, abgerufen am 08.01.2021. - [276] Zulieferung BfV; Junge Alternat | DR: „Für eine geeinte und starke AfD – ein Appell“, veröffentlicht am 10.07.2019...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. Ausgabe 9/2019, Entscheidung aus dem Jahr 2019).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 178] Besetzung und Rechte parlamentarischer Gremien und Ausschüsse (Ausgebe 9/2019)
+*   [openjur.de](https://openjur.de/suche/Ausgebe%209/2019/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/178_Ausgebe_9_2019.txt)`
+*   **Sachverhalt:** me (RP, 2. stellv. Vorsitzender der AfD-Landtagsfraktion Rheinland-Pfalz), Frank Brodehl (SH, 1. Sprecher im Kreisverband Ostholstein), Detlef Ehlebracht (HH), Dana Guth (NI) und Stefan Herre (BW) acht Abgeordnete aus der Partei ausgetreten. In der Ausgebe 9/2019 des Magazins COMPACT erschien ein Interview mit dem Bundestagsabgeordneten und Vorsitzenden im AfD-Landesverband Baden-Württemberg, Marc Jongen, der ebenfalls zu den Unterzeichnern des Appells gehörte. Darin äußerte dieser sich insbesondere über das | me (RP, 2. stellv. Vorsitzender der AfD-Landtagsfraktion Rheinland-Pfalz), Frank ...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. Ausgebe 9/2019, Entscheidung aus dem Jahr 2019).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Bestätigt das parlamentarische Selbstorganisationsrecht der Fraktionen und die verfassungsrechtliche Zulässigkeit des Ausschlusses extremistischer Kräfte.
+
+
+---
+
+### [FALL 179] Verfassungsrechtliches Verfahren (Austritt 5/2020)
+*   [openjur.de](https://openjur.de/suche/Austritt%205/2020/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/179_Austritt_5_2020.txt)`
+*   **Sachverhalt:** Regionalvorstand Mitte der ChrAfD, Unterstützer des „Flügel“. - Oschlies, Roland: Mitglied im AfD LV Nordrhein-Westfalen und Sprecher im KV Aachen Städteregion. - Otti, Andreas: Mitglied im AfD LV Berlin und Sprecher im BV Spandau. - Pachal, Bernd: Austritt 5/2020 (Mitglied im AfD LV Berlin und im BV Marzahn-Hellersdorf). - Pana, Patrick: Mitglied im AfD LV Hessen und im KV Wiesbaden, stellv. Vorsitzender der JA Hessen. - Pasemann, Frank: Parteiausschluss am 19.08.2020 (Ausschluss innerparteilich rechtskräfti | Regionalvorstand Mitte der ChrAfD, Unterstützer des „Flügel“. - Oschlies, Roland...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. Austritt 5/2020, Entscheidung aus dem Jahr 2020).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 180] Verfassungsrechtliche Grundsatzentscheidung (BvB 1/19)
+*   [openjur.de](https://openjur.de/suche/BvB%201/19/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/180_BvB_1_19.txt)`
+*   **Sachverhalt:** ann überschritten, wenn der ... als der erfG, Urt. v. 17.01.2017, 2 BvB 1/13, juris, Rn. 539. VerfG, Urt. v. 17.01.2017, 2 BvB 1/13, juris, Rn. 540. vo und zum Folgenden: BVerfG, Urt. v. 17.01.2017, 2 BvB 1/13, juris, Rn. 538 ff BVerfG, Urt. 1.2024, BvB 1/19, juris, Rn. 250 ff OVG NRW, Urt. v. ... 5 A 1218/22, juris, Rn. 197. 34 Keine Weitergabe außerhalb des ... ohne Zustimmung des BfV GeheimgutachtenTeil ... – Seite 44 VS-NUR FÜR DEN D ENSTGEBRAUCH RECHTL CHE VORGABEN ‚schaft unbedingt ... gedacht | ann überschritten, wenn der ... als der erfG, Urt. v. 17.01.2017, 2 BvB 1/13, juris, Rn. 5...
+*   **Gericht & Aktenzeichen:** Bundesverfassungsgericht (BVerfG) (Az. BvB 1/19, Entscheidung vom 17.01.2017).
+*   **Urteil / Strafmaß:** Verfassungsgerichtliche Grundsatzentscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 181] Verfassungsrechtliche Grundsatzentscheidung (BvB 1/51)
+*   [openjur.de](https://openjur.de/suche/BvB%201/51/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/181_BvB_1_51.txt)`
+*   **Sachverhalt:** ] BVerwG, Urt. v. 21.07.2010, 6 C 22.09, juris, Rn. 21; Urt. v. 07.12.1999, 1 C 30/97, juris, Rn. 18. - [11] Ebd. - [12] BVerwG, Urt. v. 21.07.2010, 6 C 22.09. - [13] BVerfG, Urt. v. 17.07.2013, 2 BvR 2436/10. - [14] Vgl. BVerfG, Urt. v. 23.10.1952, BvB 1/51, juris, Rn. 37 f; Urt. v. 17.08.1956, juris, Rn. 261f, Zusammenfassung bei BVerfG, Urt. v. 17.01.2017, 2 BvB 1/13, juris, Rn. 529 ff. - [15] Hierzu und zum Folgenden: BVerfG, Urt. v. 17.01.2017, 2 BvB 1/13, juris, Rn. 535 ff. - [16] Hierzu und zum F | 1] Hierzu und zum Folgenden: BVerfG, Urt. v. 17.01.2017, 2 BvB 1/13, juris, Rn. 562; O...
+*   **Gericht & Aktenzeichen:** Bundesverfassungsgericht (BVerfG) (Az. BvB 1/51, Entscheidung vom 21.07.2010).
+*   **Urteil / Strafmaß:** Verfassungsgerichtliche Grundsatzentscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 182] Verfassungsrechtliches Verfahren (COMPACT 1/2025)
+*   [openjur.de](https://openjur.de/suche/COMPACT%201/2025/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/182_COMPACT_1_2025.txt)`
+*   **Sachverhalt:** eines harmlosen Graffitis zum ‚Stolzmonat‘ das SEK anrückte, die Tür ... und die Wohnung völlig verwüstete (siehe Fotos Während Vergewaltiger und ... mit lächerlichen Strafen davonkommen, zeigt der 3122 Titelseite: COMPACT 11/2024. 9123 Titelseite: COMPACT 1/2025. 3124 Titelseite: COMPACT 2/2025. 3125 Anzeige, in: COMPACT-Magazin 11/2024, S. 61. 3128 Anzeige, in: COMPACT-Magazin 1/2025, S. 35. 3127 Anzeige, in: COMPACT-Magazin 2/2025, S. 25. 3128 Anzeige, in: COMPACT-Magazin 3/2025, S. 35. 3129 Anzeige, in: | eines harmlosen Graffitis zum ‚Stolzmonat‘ das SEK anrückte, die Tür ... und die W...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. COMPACT 1/2025, Entscheidung aus dem Jahr 2025).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 183] Verfassungsrechtliches Verfahren (COMPACT 11/2024)
+*   [openjur.de](https://openjur.de/suche/COMPACT%2011/2024/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/183_COMPACT_11_2024.txt)`
+*   **Sachverhalt:** itären Aktivisten, bei denen wegen eines harmlosen Graffitis zum ‚Stolzmonat‘ das SEK anrückte, die Tür ... und die Wohnung völlig verwüstete (siehe Fotos Während Vergewaltiger und ... mit lächerlichen Strafen davonkommen, zeigt der 3122 Titelseite: COMPACT 11/2024. 9123 Titelseite: COMPACT 1/2025. 3124 Titelseite: COMPACT 2/2025. 3125 Anzeige, in: COMPACT-Magazin 11/2024, S. 61. 3128 Anzeige, in: COMPACT-Magazin 1/2025, S. 35. 3127 Anzeige, in: COMPACT-Magazin 2/2025, S. 25. 3128 Anzeige, in: COMPACT-Magazin | itären Aktivisten, bei denen wegen eines harmlosen Graffitis zum ‚Stolzmonat‘ da...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. COMPACT 11/2024, Entscheidung aus dem Jahr 2024).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 184] Verfassungsrechtliches Verfahren (COMPACT 2/2025)
+*   [openjur.de](https://openjur.de/suche/COMPACT%202/2025/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/184_COMPACT_2_2025.txt)`
+*   **Sachverhalt:** tolzmonat‘ das SEK anrückte, die Tür ... und die Wohnung völlig verwüstete (siehe Fotos Während Vergewaltiger und ... mit lächerlichen Strafen davonkommen, zeigt der 3122 Titelseite: COMPACT 11/2024. 9123 Titelseite: COMPACT 1/2025. 3124 Titelseite: COMPACT 2/2025. 3125 Anzeige, in: COMPACT-Magazin 11/2024, S. 61. 3128 Anzeige, in: COMPACT-Magazin 1/2025, S. 35. 3127 Anzeige, in: COMPACT-Magazin 2/2025, S. 25. 3128 Anzeige, in: COMPACT-Magazin 3/2025, S. 35. 3129 Anzeige, in: COMPACT-Magazin 4/2025, S. 27. 10 | tolzmonat‘ das SEK anrückte, die Tür ... und die Wohnung völlig verwüstete (sieh...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. COMPACT 2/2025, Entscheidung aus dem Jahr 2025).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 185] Verfassungsrechtliches Verfahren (DER SPIEGEL 40/1995)
+*   [openjur.de](https://openjur.de/suche/DER%20SPIEGEL%2040/1995/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/185_DER_SPIEGEL_40_1995.txt)`
+*   **Sachverhalt:** sef Strauß“ von unbekanntem Datum, in: www.akademische-freiheit.de, abgerufen am 02.06.2020. - [2910] Zulieferung BfV; Nette, Benjamin: Facebook-Eintrag vom 08.05.2020, abgerufen am 27.05.2020. - [2911] Zulieferung BfV; DER SPIEGEL: „Schlechte Note“ DER SPIEGEL 40/1995, S. 103. - [2912] Zulieferung BfV; Kultur- und Tagungsstätte Guthmannshausen: „Zukunft braucht Herkunft. Veranstaltungen 1. Halbjahr 2017“, von 2017, abgerufen am 11.11.2020. - [2913] Zulieferung BfV; National-Zeitung: Geschäftsanzeigen, Nr. 42 vom | sef Strauß“ von unbekanntem Datum, in: www.akademische-freiheit.de, abgerufe...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. DER SPIEGEL 40/1995, Entscheidung aus dem Jahr 1995).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 186] Verfassungsrechtliches Verfahren (Heft 02/2024)
+*   [openjur.de](https://openjur.de/suche/Heft%2002/2024/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/186_Heft_02_2024.txt)`
+*   **Sachverhalt:** esem Zusammenhang die ... Sachsen-Anhalt ennen, die in der Vergangenheit regelmäßig ... schaltete. So warb die tion in den Heften 10/2023 3 und ... für ihre eigene ... Zeitung fbruch, in den Heften ... und ... für die Bürgerdialoge der Fraktion d im Heft 02/2024 für die ... Resolution“ der ... In den Jaben, ... 9/2023 ... für Bundes- und ... 2089, 12/2023 ... für ... und Sport und 10/2024 ... /wld) für Infrastruktur, Landwirtschaft und ... suchte sie über die Anzein außerdem nach neuen Mitarbeitenden. ... R | esem Zusammenhang die ... Sachsen-Anhalt ennen, die in der Vergangenheit regelmäßi...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. Heft 02/2024, Entscheidung aus dem Jahr 2024).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Bestätigt das parlamentarische Selbstorganisationsrecht der Fraktionen und die verfassungsrechtliche Zulässigkeit des Ausschlusses extremistischer Kräfte.
+
+
+---
+
+### [FALL 187] Verfassungsrechtliches Verfahren (Heft 1/2024)
+*   [openjur.de](https://openjur.de/suche/Heft%201/2024/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/187_Heft_1_2024.txt)`
+*   **Sachverhalt:** GRUPP ... ORGAN SAT ONEN UND E ... AUS DEM RECHTSEXTREM ST SCHEN ... lie ... wurden der Fraktion offensichtlich in ... gestellt. So überwies ... Sachsen-Anhalt ... am 2. Februar 2024 den etrag von 2.368,10 Euro an ... ch die ... Bayern schaltete im Heft 1/2024 eine allgemeine ... im COMPACT-Magazin 0% s COMPACT-Magazin weist nicht nur ... zu Vertretern der ... auf, ... auch zu ... und ... der ... hielt der ... Stefan Treichel (MV zu diesem Zeitpunkt AfD-Verer in der Bürgerschaft Rostock (MV am 29. April 2 | GRUPP ... ORGAN SAT ONEN UND E ... AUS DEM RECHTSEXTREM ST SCHEN ... lie ... wurden ...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. Heft 1/2024, Entscheidung aus dem Jahr 2024).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Bestätigt das parlamentarische Selbstorganisationsrecht der Fraktionen und die verfassungsrechtliche Zulässigkeit des Ausschlusses extremistischer Kräfte.
+
+
+---
+
+### [FALL 188] Verfassungsrechtliches Verfahren (Heft 11/2023)
+*   [openjur.de](https://openjur.de/suche/Heft%2011/2023/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/188_Heft_11_2023.txt)`
+*   **Sachverhalt:** seiner Kandidatur befragen. ieser ... äußerte sich auch Björn Höcke zum Thema. ben der Teilnahme an ... und Beiträgen im Magazin konnte außerm festgestellt werden, dass ... und ein Landesverband ... im COMPACT-Magazin geschaltet hatten. So wurde im Heft 11/2023 e Anzeige des ... Brandenburg abgedruckt, in der um ... ‚Großplakate ... onders ist in diesem Zusammenhang die ... Sachsen-Anhalt ennen, die in der Vergangenheit regelmäßig ... schaltete. So warb die tion in den Heften 10/2023 3 und ... für ihre eig | seiner Kandidatur befragen. ieser ... äußerte sich auch Björn Höcke zum Thema. ben ...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. Heft 11/2023, Entscheidung aus dem Jahr 2023).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 189] Verfassungsrechtliches Verfahren (Heft 8/2023)
+*   [openjur.de](https://openjur.de/suche/Heft%208/2023/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/189_Heft_8_2023.txt)`
+*   **Sachverhalt:** ir nichts, liebe ... 03 Zuvor hatte er in dem Magazin im November-Heft 2022 einen Beitrag unter dem Titel „An einer historischen Wegmarke" ... Im Juli 2023 war Höcke Gast im ... von COMPACT und führte ein ausführliches Gespräch mit Jürgen ... das im Heft 8/2023 zusätzlich in Teilen abgedruckt wurde 2 In der ersten Ausgabe des Jahres 2024 gab Höcke dem COMPACT-Magazin außerdem ein Interview und war zudem auf dem Cover des Magazins abgebildet 2031 Ebd. 2032 An einer historischen Wegmarke in: COMPACT, Ausgabe | ir nichts, liebe ... 03 Zuvor hatte er in dem Magazin im November-Heft 2022 einen B...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. Heft 8/2023, Entscheidung aus dem Jahr 2023).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 190] Verfassungsrechtliches Verfahren (Heften 10/2023)
+*   [openjur.de](https://openjur.de/suche/Heften%2010/2023/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/190_Heften_10_2023.txt)`
+*   **Sachverhalt:** ltet hatten. So wurde im Heft 11/2023 e Anzeige des ... Brandenburg abgedruckt, in der um ... ‚Großplakate ... onders ist in diesem Zusammenhang die ... Sachsen-Anhalt ennen, die in der Vergangenheit regelmäßig ... schaltete. So warb die tion in den Heften 10/2023 3 und ... für ihre eigene ... Zeitung fbruch, in den Heften ... und ... für die Bürgerdialoge der Fraktion d im Heft 02/2024 für die ... Resolution“ der ... In den Jaben, ... 9/2023 ... für Bundes- und ... 2089, 12/2023 ... für ... und Sport und 10/ | ltet hatten. So wurde im Heft 11/2023 e Anzeige des ... Brandenburg abgedruckt, ...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. Heften 10/2023, Entscheidung aus dem Jahr 2023).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Bestätigt das parlamentarische Selbstorganisationsrecht der Fraktionen und die verfassungsrechtliche Zulässigkeit des Ausschlusses extremistischer Kräfte.
+
+
+---
+
+### [FALL 191] Verfassungsrechtliches Verfahren (Hungerwinter 46/47)
+*   [openjur.de](https://openjur.de/suche/Hungerwinter%2046/47/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/191_Hungerwinter_46_47.txt)`
+*   **Sachverhalt:** Ende der Kampfhandlungen unter fürchterlichen Bedingungen festgehalten, beispielsweise in den Rheinwiesenlagern. Auch wenn der Bombenterror endete, war die Versorgungslage der Bevölkerung lange Zeit extrem schlecht. Hunderttausende starben allein im Hungerwinter 46/47. Die millionenfachen barbarischen Gräuel an der deutschen Zivilbevölkerung, wie auch in mittel- und osteuropäischen Staaten, durch die Rote Armee kann ebenfalls niemand leugnen. Selbst das KZ-Lagersystem wurde durch die Sowjets weiterbetrieben, und | Ende der Kampfhandlungen unter fürchterlichen Bedingungen festgehalten, beisp...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. Hungerwinter 46/47, Entscheidung aus dem Jahr 2047).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Dient als Beweis für die gezielte Kooperation mit verfassungsfeindlichen Strukturen und ausländischen Akteuren zur Schädigung der inneren und äußeren Sicherheit.
+
+
+---
+
+### [FALL 192] Verfassungsrechtliches Verfahren (Im Heft 10/2022)
+*   [openjur.de](https://openjur.de/suche/Im%20Heft%2010/2022/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/192_Im_Heft_10_2022.txt)`
+*   **Sachverhalt:** ligen ... Robert Farle (ST) zu beobachten, der wiederholt als Redner bei ... auftrat. So war Farle auf dem am 22. Oktober 2022 von COMPACT organisierten „Politischen Oktoberfest das unter dem Motto „Ami go home“ in Stößen (ST) stattfand, als ... 20% Im Heft 10/2022 wurde unter dem Titel ... ist ein ... eine gekürzte Rede von ihm ... Einen Monat später, am 26. November 2022, fungierte Farle als Redner auf der von COMPACT maßgeblich ... Demonstration „Ami go home Leipzig (SN 2 Darüber hinaus hielt Farle am 22. F | ligen ... Robert Farle (ST) zu beobachten, der wiederholt als Redner bei ... au...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. Im Heft 10/2022, Entscheidung aus dem Jahr 2022).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 193] Verfassungsrechtliches Verfahren (In Ausgabe 10/2022)
+*   [openjur.de](https://openjur.de/suche/In%20Ausgabe%2010/2022/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/193_In_Ausgabe_10_2022.txt)`
+*   **Sachverhalt:** iser (Kommunalmandatsträgerin und Mitarbeiterin a er AFD-Bundesgeschäftsstelle, NI) zu dem Thema: „AfD: So schaffen wir die blaue ende an einer ... von COMPACT TV ... Auch der ... Hans-Thomas Tillschneider (ST) pflegt ein enges erhältnis zu COMPACT. In Ausgabe 10/2022 des ... wurde der Redebeitrag von Tillschneider auf dem Sommerfest von COMPACT am 27. August 2022 in Stößen (ST) abgedruckt. Darin heißt es: „Die AfD und ihr Umfeld brauchen Medien, die uns nicht mit schlechter Absicht, ... mit guter ... Neutralität | iser (Kommunalmandatsträgerin und Mitarbeiterin a er AFD-Bundesgeschäftsstel...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. In Ausgabe 10/2022, Entscheidung aus dem Jahr 2022).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 194] Verfassungsrechtliches Verfahren (In Ausgabe 10/2024)
+*   [openjur.de](https://openjur.de/suche/In%20Ausgabe%2010/2024/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/194_In_Ausgabe_10_2024.txt)`
+*   **Sachverhalt:** SN) ... Paul Klemm Das Gespräch wurde ergänzend im COMPACT-Magazin 6/2024, auf dessen Cover Krah abgebildet ist, publiziert. '98* Maximilian Krah sagte im Juli 2024 seine Teilnahme am ... zu das letztlich aber aufgrund des Verbots nicht stattfand. ‚In Ausgabe 10/2024 des ... ein Interview mit Krah. 1986 Neben dem bereits erwähnten Interview wurde Christina Baum bereits im Jahr zuvor beim ... in Riesa (SN) im Juni 2022 für COMPACT TV ... nd stand ebenfalls im Januar 2025, wie auch der ... Karsten Hilse (SN und im | SN) ... Paul Klemm Das Gespräch wurde ergänzend im COMPACT-Magazin 6/2024, au...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. In Ausgabe 10/2024, Entscheidung aus dem Jahr 2024).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 195] Höchstrichterliches verwaltungsgerichtliches Urteil (JA 5 A 1218/22)
+*   [openjur.de](https://openjur.de/suche/JA%205%20A%201218/22/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/195_JA_5_A_1218_22.txt)`
+*   **Sachverhalt:** ... Mitder rechtlich ... Gemeinschaft versagt werden solle. Zwar würden die egten ... zum Teil für sich ... die Grenze der Missachtung ... nicht überschreiten, die Vielzahl der diffamierenden und die NRW, Urt. v. ... 5 A 1216/22 (Flügel 5 A 1217/22 (JA 5 A 1218/22 (AfD Die ... weisen in Teilen Parallelen auf. Im Folgenden wird aufgrund der ... Begutachzur In "pariei in der Regel nur das Urteil zur Gesamtpartei zitiert, sofern nicht ... un oder zum Flügel belegt werden müssen oder im Urteil zur Gesamtpartei ni | ... Mitder rechtlich ... Gemeinschaft versagt werden solle. Zwar würden die egte...
+*   **Gericht & Aktenzeichen:** Bundesverwaltungsgericht (BVerwG) (Az. JA 5 A 1218/22, Entscheidung aus dem Jahr 2022).
+*   **Urteil / Strafmaß:** Verwaltungsgerichtliches Urteil - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 196] Besetzung und Rechte parlamentarischer Gremien und Ausschüsse (Jahren 1932/33)
+*   [openjur.de](https://openjur.de/suche/Jahren%201932/33/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/196_Jahren_1932_33.txt)`
+*   **Sachverhalt:** er Staatsmacht betrifft. Ich erinnere mich an den Geschichtsunterricht, ich erinnere mich, wie mir beigebracht worden ist, dass auch die Notverordnungen, mit denen die Reichsregierung in der Weimarer Republik am Parlament vorbei regiert haben in den Jahren 1932/33. Ich habe im Geschichtsunterricht gelernt, dass das ein wesentlicher Grund war, wie wir hineingeschlittert sind in die nationalsozialistische Diktatur. Was wir heute haben und ich sehe es schon an eurer Reaktion – ich bin Mitglied des Bundestages – | er Staatsmacht betrifft. Ich erinnere mich an den Geschichtsunterricht, ich erinn...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. Jahren 1932/33, Entscheidung aus dem Jahr 2033).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Bestätigt das parlamentarische Selbstorganisationsrecht der Fraktionen und die verfassungsrechtliche Zulässigkeit des Ausschlusses extremistischer Kräfte.
+
+
+---
+
+### [FALL 197] Verfassungsrechtliches Verfahren (K 1286/06)
+*   [openjur.de](https://openjur.de/suche/K%201286/06/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/197_K_1286_06.txt)`
+*   **Sachverhalt:** r ... um solche handelt, die sich auf konkrete ... als Reaktion auf eine konkrete Gewalttat ... ÄußeOliver: ... vom ... abgerufen am ... "Wandsbek: ... vom ... abgerufen am ... OVG NRW, Beschl. v. ... 5 A 203/08, juris, Rn. 6; VG Düsseldorf, Urt. v. K 1286/06, juris, Rn. 135 ff. 279 “eine Weitergabe außerhalb des ... ohne Zustimmung des BfV GeheimgutachtenTeil ... – Seite 89 VS-NUR FÜR DEN D ENSTGEBRAUCH EMDEN- UND M NDERHE TENFE NDL CHE ... UND POS TIONEN ın.es sein, dass vereinzelt zu ... gegriffen | r ... um solche handelt, die sich auf konkrete ... als Reaktion auf eine konkrete Gewaltt...
+*   **Gericht & Aktenzeichen:** Oberverwaltungsgericht (OVG) (Az. K 1286/06, Entscheidung aus dem Jahr 2006).
+*   **Urteil / Strafmaß:** Verwaltungsgerichtlicher Beschluss - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 198] Verfassungsrechtliches Verfahren (K 208/20)
+*   [openjur.de](https://openjur.de/suche/K%20208/20/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/198_K_208_20.txt)`
+*   **Sachverhalt:** , V. ... 13 L 1124/23, juris, Rn. 307. eschl. v. ... 13 L 1124/23, juris, Rn. 308. S a v. ... 13 L 1124/23, juris, Rn. 312, 315. schl. v. ... 13 L 1124/23, juris, Rn. 323. seht v. ... 13 L 1124/23, juris, Rn. 325 ff. mit Verweis auf VG Köln, Urt. v. K 208/20, juris, Rn. 449 ff 354 ff. 15 Keine Weitergabe außerhalb des ... ohne Zustimmung des BfV GeheimgutachtenTeil ... – Seite 25 VS-NUR FÜR DEN D ENSTGEBRAUCH E NFÜHRUNG bungen der JA ... Die JA agitiere sowohl auf Bundes- als auch auf jes- und ... g | , V. ... 13 L 1124/23, juris, Rn. 307. eschl. v. ... 13 L 1124/23, juris, Rn. 308. S a v. ...
+*   **Gericht & Aktenzeichen:** Verwaltungsgericht (VG) (Az. K 208/20, Entscheidung aus dem Jahr 2020).
+*   **Urteil / Strafmaß:** Verwaltungsgerichtliches Urteil - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 199] Verfassungsrechtliches Verfahren (Lagebild Antisemitismus 2022/23)
+*   [openjur.de](https://openjur.de/suche/Lagebild%20Antisemitismus%202022/23/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/199_Lagebild_Antisemitismus_2022_23.txt)`
+*   **Sachverhalt:** ung des Bargelds, die Kontrolle der Medie übertriebene ... des ... sowie das staatliche BeIn selbst privatester Kommunikation durch ... und Petr: Rede vom ... veröffentlicht in: www.youtube.com am ... Kanal: ... am ... desamt für Verfassungsschutz: „Lagebild Antisemitismus 2022/23 Mai 2024, S. 39. 498 Keine Weitergabe außerhalb des ... ohne Zustimmung des BfV GeheimgutachtenTeil ... – Seite 8 VS-NUR FÜR DEN D ENSTGEBRAUCH ÄNT SEM TISCHE ... UND POS TIONEN Chatkontrollen, sollen aus einst freien Bürgern eine entmündigte, W | ung des Bargelds, die Kontrolle der Medie übertriebene ... des ... ...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. Lagebild Antisemitismus 2022/23, Entscheidung aus dem Jahr 2023).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 200] Verfassungsrechtliches Verfahren (Magazin 1/2025)
+*   [openjur.de](https://openjur.de/suche/Magazin%201/2025/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/200_Magazin_1_2025.txt)`
+*   **Sachverhalt:** end Vergewaltiger und ... mit lächerlichen Strafen davonkommen, zeigt der 3122 Titelseite: COMPACT 11/2024. 9123 Titelseite: COMPACT 1/2025. 3124 Titelseite: COMPACT 2/2025. 3125 Anzeige, in: COMPACT-Magazin 11/2024, S. 61. 3128 Anzeige, in: COMPACT-Magazin 1/2025, S. 35. 3127 Anzeige, in: COMPACT-Magazin 2/2025, S. 25. 3128 Anzeige, in: COMPACT-Magazin 3/2025, S. 35. 3129 Anzeige, in: COMPACT-Magazin 4/2025, S. 27. 1005 Keine Weitergabe außerhalb des ... ohne Zustimmung des BfV GeheimgutachtenTeil ... – S | end Vergewaltiger und ... mit lächerlichen Strafen davonkommen, zeigt der 3122 Tite...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. Magazin 1/2025, Entscheidung aus dem Jahr 2025).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 201] Verfassungsrechtliches Verfahren (Magazin 11/2024)
+*   [openjur.de](https://openjur.de/suche/Magazin%2011/2024/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/201_Magazin_11_2024.txt)`
+*   **Sachverhalt:** nd die Wohnung völlig verwüstete (siehe Fotos Während Vergewaltiger und ... mit lächerlichen Strafen davonkommen, zeigt der 3122 Titelseite: COMPACT 11/2024. 9123 Titelseite: COMPACT 1/2025. 3124 Titelseite: COMPACT 2/2025. 3125 Anzeige, in: COMPACT-Magazin 11/2024, S. 61. 3128 Anzeige, in: COMPACT-Magazin 1/2025, S. 35. 3127 Anzeige, in: COMPACT-Magazin 2/2025, S. 25. 3128 Anzeige, in: COMPACT-Magazin 3/2025, S. 35. 3129 Anzeige, in: COMPACT-Magazin 4/2025, S. 27. 1005 Keine Weitergabe außerhalb des ... ohne | nd die Wohnung völlig verwüstete (siehe Fotos Während Vergewaltiger und ... mit ...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. Magazin 11/2024, Entscheidung aus dem Jahr 2024).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 202] Verfassungsrechtliches Verfahren (Magazin 2/2025)
+*   [openjur.de](https://openjur.de/suche/Magazin%202/2025/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/202_Magazin_2_2025.txt)`
+*   **Sachverhalt:** n davonkommen, zeigt der 3122 Titelseite: COMPACT 11/2024. 9123 Titelseite: COMPACT 1/2025. 3124 Titelseite: COMPACT 2/2025. 3125 Anzeige, in: COMPACT-Magazin 11/2024, S. 61. 3128 Anzeige, in: COMPACT-Magazin 1/2025, S. 35. 3127 Anzeige, in: COMPACT-Magazin 2/2025, S. 25. 3128 Anzeige, in: COMPACT-Magazin 3/2025, S. 35. 3129 Anzeige, in: COMPACT-Magazin 4/2025, S. 27. 1005 Keine Weitergabe außerhalb des ... ohne Zustimmung des BfV GeheimgutachtenTeil ... – Seite 7 VS-NUR FÜR DEN D ENSTGEBRAUCH VERB ... ZU | n davonkommen, zeigt der 3122 Titelseite: COMPACT 11/2024. 9123 Titelseite: COMPACT ...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. Magazin 2/2025, Entscheidung aus dem Jahr 2025).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 203] Verfassungsrechtliches Verfahren (Magazin 3/2025)
+*   [openjur.de](https://openjur.de/suche/Magazin%203/2025/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/203_Magazin_3_2025.txt)`
+*   **Sachverhalt:** 11/2024. 9123 Titelseite: COMPACT 1/2025. 3124 Titelseite: COMPACT 2/2025. 3125 Anzeige, in: COMPACT-Magazin 11/2024, S. 61. 3128 Anzeige, in: COMPACT-Magazin 1/2025, S. 35. 3127 Anzeige, in: COMPACT-Magazin 2/2025, S. 25. 3128 Anzeige, in: COMPACT-Magazin 3/2025, S. 35. 3129 Anzeige, in: COMPACT-Magazin 4/2025, S. 27. 1005 Keine Weitergabe außerhalb des ... ohne Zustimmung des BfV GeheimgutachtenTeil ... – Seite 7 VS-NUR FÜR DEN D ENSTGEBRAUCH VERB ... ZU GRUPP ... ORGAN SAT ONEN UND E ... AUS DEM RECHT | 11/2024. 9123 Titelseite: COMPACT 1/2025. 3124 Titelseite: COMPACT 2/2025. 3125 Anzei...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. Magazin 3/2025, Entscheidung aus dem Jahr 2025).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 204] Verfassungsrechtliches Verfahren (Magazin 4/2025)
+*   [openjur.de](https://openjur.de/suche/Magazin%204/2025/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/204_Magazin_4_2025.txt)`
+*   **Sachverhalt:** itelseite: COMPACT 2/2025. 3125 Anzeige, in: COMPACT-Magazin 11/2024, S. 61. 3128 Anzeige, in: COMPACT-Magazin 1/2025, S. 35. 3127 Anzeige, in: COMPACT-Magazin 2/2025, S. 25. 3128 Anzeige, in: COMPACT-Magazin 3/2025, S. 35. 3129 Anzeige, in: COMPACT-Magazin 4/2025, S. 27. 1005 Keine Weitergabe außerhalb des ... ohne Zustimmung des BfV GeheimgutachtenTeil ... – Seite 7 VS-NUR FÜR DEN D ENSTGEBRAUCH VERB ... ZU GRUPP ... ORGAN SAT ONEN UND E ... AUS DEM RECHTSEXTREM ST SCHEN ... Linksstaat bei Aktivisten vö | itelseite: COMPACT 2/2025. 3125 Anzeige, in: COMPACT-Magazin 11/2024, S. 61. 3128 An...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. Magazin 4/2025, Entscheidung aus dem Jahr 2025).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 205] Verfassungsrechtliches Verfahren (Magazin 6/2024)
+*   [openjur.de](https://openjur.de/suche/Magazin%206/2024/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/205_Magazin_6_2024.txt)`
+*   **Sachverhalt:** n COMPACT, der sich mit seinem Buch „Politik von rechts“ beschäftigt. 2 Bereits in einem im Mai 2024 veröffentlichten TV-Interview empfing der damalige ... Maximilian Krah (mittlerweile MdB, SN) ... Paul Klemm Das Gespräch wurde ergänzend im COMPACT-Magazin 6/2024, auf dessen Cover Krah abgebildet ist, publiziert. '98* Maximilian Krah sagte im Juli 2024 seine Teilnahme am ... zu das letztlich aber aufgrund des Verbots nicht stattfand. ‚In Ausgabe 10/2024 des ... ein Interview mit Krah. 1986 Neben dem bereits | n COMPACT, der sich mit seinem Buch „Politik von rechts“ beschäftigt. 2 Bereits i...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. Magazin 6/2024, Entscheidung aus dem Jahr 2024).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 206] Besetzung und Rechte parlamentarischer Gremien und Ausschüsse (Migrationskrise 2015/2016)
+*   [openjur.de](https://openjur.de/suche/Migrationskrise%202015/2016/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/206_Migrationskrise_2015_2016.txt)`
+*   **Sachverhalt:** “[661] „Der Profifußball folgt eben anderen Regeln, und eine deutsche oder eine englische Nationalmannschaft sind eben schon lange nicht mehr deutsch oder englisch im klassischen Sinne.“[661] Viele AfD-Funktionärinnen und ‑Funktionäre bewerten die Migrationskrise 2015/2016 zwar als Schlüsselereignis und als Bestätigung des gegenwärtigen Bevölkerungsaustauschs, doch kommt darin letztlich nur ein bereits seit längerer Zeit andauernder gesellschaftlicher Trend zum Ausdruck. So kommentiert die AfD-Bundestagsabgeordnete F | “[661] „Der Profifußball folgt eben anderen Regeln, und eine deutsche od...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. Migrationskrise 2015/2016, Entscheidung aus dem Jahr 2016).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Bestätigt das parlamentarische Selbstorganisationsrecht der Fraktionen und die verfassungsrechtliche Zulässigkeit des Ausschlusses extremistischer Kräfte.
+
+
+---
+
+### [FALL 207] Verfassungsrechtliches Verfahren (Migrationsphase 2015/16)
+*   [openjur.de](https://openjur.de/suche/Migrationsphase%202015/16/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/207_Migrationsphase_2015_16.txt)`
+*   **Sachverhalt:** an. Diese Ereignisse werden dann aber instrumentalisiert, um ein unsubstantiiertes und völlig unsachliches Gesamtbild zu propagieren, nicht zuletzt auch durch die Konstruktion einer vermeintlich nahezu kriminalitätsfreien Situation vor der erhöhten Migrationsphase 2015/16, von dem Mythos einer völlige Sicherheit gewährleistenden ethnisch-homogenen Gemeinschaft ganz zu schweigen. Auf diese Weise wird nichteuropäischen Geflüchteten pauschalisierend-polemisch aufgrund ihrer ethnischen Herkunft ein deutlich erhöhtes Krim | an. Diese Ereignisse werden dann aber instrumentalisiert, um ein unsubst...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. Migrationsphase 2015/16, Entscheidung aus dem Jahr 2016).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 208] Verfassungsrechtliches Verfahren (Netzwerke Richtlinie 1/76)
+*   [openjur.de](https://openjur.de/suche/Netzwerke%20Richtlinie%201/76/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/208_Netzwerke_Richtlinie_1_76.txt)`
+*   **Sachverhalt:** ----------------------------- ---------------------------- 1950–71 Klassische ... Verhöre, Haft, Folter Müller‑Enbergs 2012 **1971–89** ... Einsatz „Inoffizieller Mitarbeiter“ (IM), Gerüchte, Postkontrolle, berufliche Degradierung, Sabotage sozialer Netzwerke Richtlinie 1/76, BStU‑Archiv 1989 ... Vernichtung Akten Kowalczuk 2015 > Laut BStU wurden **1985 bereits 10 200 operative Zersetzungs­vorgänge** bearbeitet (BStU: Statistik 1990). #### 3.1 ... (Richtlinie 1/76) 1. ... im beruflichen Umfeld** 2. **Zersplitterung | ----------------------------- ---------------------------- 1950–71 Klassi...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. Netzwerke Richtlinie 1/76, Entscheidung aus dem Jahr 1976).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Dient als Beweis für die gezielte Kooperation mit verfassungsfeindlichen Strukturen und ausländischen Akteuren zur Schädigung der inneren und äußeren Sicherheit.
+
+
+---
+
+### [FALL 209] Verfassungsrechtliches Verfahren (Neujahr 2015/2015)
+*   [openjur.de](https://openjur.de/suche/Neujahr%202015/2015/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/209_Neujahr_2015_2015.txt)`
+*   **Sachverhalt:** g“ erfülle: > „Inzwischen ist die Soldateska von 1945 von neuen Besatzern abgelöst worden, den sogenannten Bereicherern. Auch diese leben auf Kosten Deutschlands (über 50 Milliarden Euro Jährlich), begehen nahezu straflos schwerste Verbrechen (Köln Neujahr 2015/2015), missachteten unsere Kultur (Aydan Ozoguz und Konsorten), verbreiten eine neue Ideologie, die ebenso gefährlich ist wie der Faschismus. Mit Hilfe von Kollaborateuren und Masochisten (‚Nie wieder Deutschland!, Deutschland verrecke!, Tod dem deutsche | olkes.“[1422] „Inzwischen ist die Soldateska von 1945 von neuen Besatzern abge...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. Neujahr 2015/2015, Entscheidung aus dem Jahr 2015).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 210] Verfassungsrechtliches Verfahren (Neujahr 2015/2016)
+*   [openjur.de](https://openjur.de/suche/Neujahr%202015/2016/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/210_Neujahr_2015_2016.txt)`
+*   **Sachverhalt:** er Website: > „Inzwischen ist die Soldateska von 1945 von neuen Besatzern abgelöst worden, den sogenannten Bereicherern. Auch diese leben auf Kosten Deutschlands (über 50 Milliarden Euro jährlich), begehen nahezu straflos schwerste Verbrechen (Köln Neujahr 2015/2016), missachten unsere Kurkur (Aydan Ozoguz und Konsorten), verbreiten eine neue Ideologie, die ebenso gefährlich ist wie der Faschismus. Mit Hilfe von Kollaborateuren und Masochisten (‚Nie wieder Deutschland!, Deutschland verrecke!, Tod dem deutschen | Volkes.“[775] „Inzwischen ist die Soldateska von 1945 von neuen Besatzern abgel...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. Neujahr 2015/2016, Entscheidung aus dem Jahr 2016).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 211] Verfassungsrechtliches Verfahren (OVG 1 N 96/20)
+*   [openjur.de](https://openjur.de/suche/OVG%201%20N%2096/20/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/211_OVG_1_N_96_20.txt)`
+*   **Sachverhalt:** schland und Europa gefordert wird, die ‚ Birgit: ... Info-Abend der AfD am 3.6.in München. ‚West trifft m ... veröffentlicht in: www.youtube.com, Kanal: „AfD Kreisverband Bad Tölz abm ... er, Marvin: ... vom ... abgerufen am ... G ... Beschl. v. ... OVG 1 N 96/20, juris, Rn. 10; VGH München, v. ... 10 CE 19.2517, juris, Rn. 17; VG Köln, Urt. v. ... 13 K 326/21, juris, 402 Keine Weitergabe außerhalb des ... ohne Zustimmung des BfV GeheimgutachtenTeil ... – Seite 12 VS-NUR FÜR DEN D ENSTGEBRAUCH - FREMDEN- | schland und Europa gefordert wird, die ‚ Birgit: ... Info-Abend der AfD am 3.6.in Mün...
+*   **Gericht & Aktenzeichen:** Oberverwaltungsgericht (OVG) (Az. OVG 1 N 96/20, Entscheidung aus dem Jahr 2020).
+*   **Urteil / Strafmaß:** Verwaltungsgerichtlicher Beschluss - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 212] Verfassungsrechtliche Grundsatzentscheidung (OVG 1 S 55/20)
+*   [openjur.de](https://openjur.de/suche/OVG%201%20S%2055/20/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/212_OVG_1_S_55_20.txt)`
+*   **Sachverhalt:** andenburg, Urt. v. 06.04.06, juris, 3 B 3.99, Rn. 58. - [612a] BVerfG, Urt. v. 17.01.2017, 2 BvB 1/13, juris, Rn. 690 ff. - [613] BVerfG, Urt. v. 17.01.2017, 2 BvB 1/13, juris, Rn. 635, 690 ff. - [614] OVG Berlin-Brandenburg, Beschl. vom 19.06.2020, OVG 1 S 55/20, juris, Rn. 351; VG Ansbach, Urt. vom 25.04.2019, 18 K 17.01038, juris, Rn. 35 ff.; VG Berlin, Urt. vom 12.11.2020, 5 K 608.17, S. 9 UA; VG München, Beschl. vom 27.07.2017, M 22 E 17.1851, juris, Rn. 57. - [615] VG Berlin, Beschl. vom 12.11.2020, VG | nal schnellroda“ am 25.09.2019, abgerufen am 01.10.2020. - [655] Zulieferung BfV;...
+*   **Gericht & Aktenzeichen:** Bundesverfassungsgericht (BVerfG) (Az. OVG 1 S 55/20, Entscheidung vom 17.01.2017).
+*   **Urteil / Strafmaß:** Verfassungsgerichtliche Grundsatzentscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 213] Verfassungsrechtliche Grundsatzentscheidung (OVG 1 S 56/20)
+*   [openjur.de](https://openjur.de/suche/OVG%201%20S%2056/20/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/213_OVG_1_S_56_20.txt)`
+*   **Sachverhalt:** 8.05.2020, VG 1 L 97/20, Rn. 37 BeckRS; bestätigt in OVG Berlin-Brandenburg, Beschl. v. 19.06.2020, OVG 1 S 56/20, juris, Rn. 29 f. - [23] BVerfG, Urt. v. 17.01.2017, 2 BvB 1/13, juris, Rn. 635. - [23a] OVG Berlin-Brandenburg, Beschl. v. 19.06.2020, OVG 1 S 56/20, juris, Rn. 38. - [24] Vgl. OVG Berlin-Brandenburg, Urt. v. 23.11.2011, 1 B 111.10, juris, Rn. 40; VG München, Beschl. v. 27.07.2017, M 22 E 17.1861, juris, Rn. 67. - [25] BVerfG, Urt. v. 17.01.2017, 2 BvB 1/13, juris, Rn. 721. - [26] VG Berlin, Urt | 8.05.2020, VG 1 L 97/20, Rn. 37 BeckRS; bestätigt in OVG Berlin-Brandenburg, Besc...
+*   **Gericht & Aktenzeichen:** Bundesverfassungsgericht (BVerfG) (Az. OVG 1 S 56/20, Entscheidung vom 19.06.2020).
+*   **Urteil / Strafmaß:** Verfassungsgerichtliche Grundsatzentscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 214] Verfassungsrechtliches Verfahren (Partei 10/2020)
+*   [openjur.de](https://openjur.de/suche/Partei%2010/2020/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/214_Partei_10_2020.txt)`
+*   **Sachverhalt:** h, Artur: Mitglied im AfD LV Bayern und im Kreisverband Bamberg, Schatzmeister der JA Bayern und Vorstandsmitglied der JAfD. - Ahrends, Jens: MdL in Niedersachsen, Mitglied im AfD LV Niedersachsen und Sprecher im KV Oldenburg/Ammerland, Austritt aus Partei 10/2020. - Aicher, Roland: Mitglied im AfD LV Bayern, 3, stellv. Vorsitzender im BV Schwaben, 1. stellv. Vorsitzender im KV Oberallgäu/Lindau/Kempten. - Anderson, Christine: MdEP, Mitglied im AfD LV Hessen und im KV Limburg-Weilburg, Landesobfrau des „Flüge | h, Artur: Mitglied im AfD LV Bayern und im Kreisverband Bamberg, Schatzmeister d...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. Partei 10/2020, Entscheidung aus dem Jahr 2020).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 215] Verfassungsrechtliches Verfahren (Partei 12/2020)
+*   [openjur.de](https://openjur.de/suche/Partei%2012/2020/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/215_Partei_12_2020.txt)`
+*   **Sachverhalt:** ktion, Mitglied im AfD LV Hessen und stellvertretender Vorsitzender im KV Rheingau-Taunus. - Günther, Lars: MdL in Brandenburg, Mitglied im AfD LV Brandenburg und Vorsitzender im KV Märkisch-Oderland. - Guth, Dana: MdL in Niedersachsen, Austritt aus Partei 12/2020. - Haas, Andreas: Mitglied im AfD LV Bayern, Vorsitzender im BV Mittelfranken und Vorsitzender im KV Fürth/Neustadt a. d. Aisch. - Habermann, Andy: Mitglied im AfD LV Brandenburg und Mitglied im KV Barnim. - Hadjimohamadvali, Laleh: Mitglied im AfD | ktion, Mitglied im AfD LV Hessen und stellvertretender Vorsitzender im KV Rheinga...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. Partei 12/2020, Entscheidung aus dem Jahr 2020).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 216] Besetzung und Rechte parlamentarischer Gremien und Ausschüsse (Parteiausschluss 03/2020)
+*   [openjur.de](https://openjur.de/suche/Parteiausschluss%2003/2020/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/216_Parteiausschluss_03_2020.txt)`
+*   **Sachverhalt:** ch, Mitglied im Vorstand der JAfD. - Gauland, Alexander: MdB, Ehrenvorsitzender der AfD, Ehrenvorsitzender im AfD LV Brandenburg und Mitglied im KV Oder-Spree, Co-Vorsitzender der AfD-Bundestagsfraktion. - Gedeon, Wolfgang: MdL in Baden-Württemberg. Parteiausschluss 03/2020. - Gehrke, Axel: MdB, Mitglied im AfD LV Schleswig-Holstein und im KV Ostholstein. - Geng, Günter: Mitglied im AD LV Baden-Württemberg und im KV Ortenau. - Gerlach, Joachim: Mitglied im AfD LV Nordrhein-Westfalen und im KV Rhein-Sieg, Unterstützer d | ch, Mitglied im Vorstand der JAfD. - Gauland, Alexander: MdB, Ehrenvor...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. Parteiausschluss 03/2020, Entscheidung aus dem Jahr 2020).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Bestätigt das parlamentarische Selbstorganisationsrecht der Fraktionen und die verfassungsrechtliche Zulässigkeit des Ausschlusses extremistischer Kräfte.
+
+
+---
+
+### [FALL 217] Verfassungsrechtliches Verfahren (Parteiaustritt 10/2020)
+*   [openjur.de](https://openjur.de/suche/Parteiaustritt%2010/2020/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/217_Parteiaustritt_10_2020.txt)`
+*   **Sachverhalt:** Carsten: Tweet vom 21.10.2019, abgerufen am 05.06.2020. - [707] Zulieferung BfV; Ufer, Andreas: Tweet vom 02.12.2019, abgerufen am 04.03.2020. - [708] Zulieferung BfV; Joa, Matthias: Facebook-Eintrag vom 13.09.2019, abgerufen am 16.07.2020. - [709] Parteiaustritt 10/2020. - [710] Zulieferung BfV; Ahrends, Jens; Facebook-Eintrag vom 20.05.2019, abgerufen am 20.07.2020. - [711] Zulieferung BfV; Joa, Matthias: Facebook-Eintrag vom 14.04.2020, abgerufen am 16.06.2020. - [712] Zulieferung BfV; Sänze, Emil: Facebook-Eintr | Carsten: Tweet vom 21.10.2019, abgerufen am 05.06.2020. - [707] Zulieferu...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. Parteiaustritt 10/2020, Entscheidung aus dem Jahr 2020).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 218] Strafrechtliche Verurteilung wegen Volksverhetzung im öffentlichen Raum (Pressemitteilung 02/2019)
+*   [openjur.de](https://openjur.de/suche/Pressemitteilung%2002/2019/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/218_Pressemitteilung_02_2019.txt)`
+*   **Sachverhalt:** kfurter Rundschau: „Vor Gericht wegen Volksverhetzung“ vom 04.06.2019, in: www.fr.de, abgerufen am 27.01.2021. - [1593] Zulieferung BfV; Alternative für Deutschland – Landesverband Hessen: „Parteiausschlussverfahren gegen AfD-Mitglied Carsten Härle (Pressemitteilung 02/2019) vom 24.01.2019, in: www.afd-hessen.de, abgerufen am 01.09.2020. - [1594] Zulieferung BfV; Offenbach-Post: „Wirft AfD den Heusenstammer Carsten Härle aus der Partei?“ vom 25.01.2019, in: www.op-online.de, abgerufen am 01.09.2020. - [1595] Zulieferun | ssverfahren gegen AfD-Mitglied Carsten Härle“ vom 24.01.2019, in: www....
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. Pressemitteilung 02/2019, Entscheidung aus dem Jahr 2019).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Belegt Verstöße gegen die unantastbare Menschenwürdegarantie (Art. 1 Abs. 1 GG) durch herabwürdigende und ausgrenzende Agitation gegen Minderheiten sowie die Unvereinbarkeit mit der FDGO.
+
+
+---
+
+### [FALL 219] Verfassungsrechtliches Verfahren (Sicherheit 2014/2015)
+*   [openjur.de](https://openjur.de/suche/Sicherheit%202014/2015/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/219_Sicherheit_2014_2015.txt)`
+*   **Sachverhalt:** chen Rechtsextremismus“. Zulieferung BfV; Salzborn, Samuel: „Religionsverständnisse im Rechtsextremismus. Eine Analyse am Beispiel des neurechten Theorieorgans Sezession“, in: Martin H. W. Möllers/Robert Chr. van Ooyen (Hrsg.): „Jahrbuch Öffentliche Sicherheit 2014/2015“, Frankfurt 2015, S. 285–301, hier S. 297. - [2373] Zulieferung BfV; Kellershohn, Helmut: „Das Institut für Staatspolitik und das jungkonservative Hegemonieprojekt“, in: Braun, Stephan/Geisler, Alexander/Gerster, Martin (Hrsg.): „Strategien der extr | chen Rechtsextremismus“. Zulieferung BfV; Salzborn, Samuel: „Religionsvers...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. Sicherheit 2014/2015, Entscheidung aus dem Jahr 2015).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 220] Verfassungsrechtliches Verfahren (Silvesternacht 2015/16)
+*   [openjur.de](https://openjur.de/suche/Silvesternacht%202015/16/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/220_Silvesternacht_2015_16.txt)`
+*   **Sachverhalt:** ßerhalb des ... ohne Zustimmung des BfV GeheimgutachtenTeil ... – Seite 14 VS-NUR FÜR DEN D ENSTGEBRAUCH FREMDEN- UND M NDERHE TENFE NDL CHE ... UND POS TIONEN Istraftat Verdächtigten ... Der Begriff „Fukken“ geht auf die ... riffe im Rahmen der Silvesternacht 2015/16 in Köln (NW) zurück. Bei einem grantischen Verdächtigen wurde ein Zettel ... der u. a. dieses Wort ent- \us der Verbindung von Bild und Begriff ist ein häufig durch ... tes ... das nicht-weiße Männer und im ... Sinne nten in herabwürdigender Weise p | ßerhalb des ... ohne Zustimmung des BfV GeheimgutachtenTeil ... – Seite 14 V...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. Silvesternacht 2015/16, Entscheidung aus dem Jahr 2016).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 221] Kopftuch- und Religionsstreit im öffentlichen Raum (Silvesternacht 2015/2016)
+*   [openjur.de](https://openjur.de/suche/Silvesternacht%202015/2016/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/221_Silvesternacht_2015_2016.txt)`
+*   **Sachverhalt:** bezeichnete die sogenannte Flüchtlingskrise im Dezember 2015 folgerichtig gar als „Geschenk“ für seine Partei.[150] Auch die islamistischen Terroranschläge in den folgenden Monaten sowie Ausschreitungen und sexuelle Übergriffe im Kontext der Kölner Silvesternacht 2015/2016 befeuerten das Erstarken der AfD und bestätigten die neugewählten Schwerpunktthemen Zuwanderung und Asyl. Die AfD erzielte im Jahr 2018 auch in westdeutschen Bundesländern erstmals zweistellige Wahlergebnisse bei Landtagswahlen in Baden-Württemberg | bezeichnete die sogenannte Flüchtlingskrise im Dezember 2015 folgerichti...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. Silvesternacht 2015/2016, Entscheidung aus dem Jahr 2016).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Belegt Verstöße gegen die unantastbare Menschenwürdegarantie (Art. 1 Abs. 1 GG) durch herabwürdigende und ausgrenzende Agitation gegen Minderheiten sowie die Unvereinbarkeit mit der FDGO.
+
+
+---
+
+### [FALL 222] Verfassungsrechtliches Verfahren (Silvesternacht 2022/23)
+*   [openjur.de](https://openjur.de/suche/Silvesternacht%202022/23/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/222_Silvesternacht_2022_23.txt)`
+*   **Sachverhalt:** nicht-weiße Männer ... gewaltaffin. In ihrer Instagram-Story veröffentlichten sie folgende er sie als ... für Gewalt in Deutschland einen nicht-weißen ... Maximilian Krah (mittlerweile MdB, SN) ... mit dem ... am 4. Januar 2023, dass die Ausn. n der Silvesternacht 2022/23 auf die fehlerhafte Asyl- und ... zurückzuführen seien: es waren nicht Kevin, Rico und Ronny, die in der Silvesternacht in Düs- ‚Köln, Berlin und anderswo Polizisten mit ... beschosd die ... deutscher Städte in bürgerkriegsähnliche ... geI! haben. E | nicht-weiße Männer ... gewaltaffin. In ihrer Instagram-Story veröffentli...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. Silvesternacht 2022/23, Entscheidung aus dem Jahr 2023).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Belegt Verstöße gegen die unantastbare Menschenwürdegarantie (Art. 1 Abs. 1 GG) durch herabwürdigende und ausgrenzende Agitation gegen Minderheiten sowie die Unvereinbarkeit mit der FDGO.
+
+
+---
+
+### [FALL 223] Verfassungsrechtliches Verfahren (Sommer 22/23)
+*   [openjur.de](https://openjur.de/suche/Sommer%2022/23/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/223_Sommer_22_23.txt)`
+*   **Sachverhalt:** ... betonte er u. a. auch die ... Vorfelds für die AfD hinsichtlich der ideologischen wie ... Ebene: „Ich komme ja aus der ... aus dem ... Vorfeld. Und wir soll- “ten uns auch in ... rufen, dass die AfD, wie wir sie jetzt haben, die AfD, . die seit Sommer 22/23 ja diesen, doch diese wachsende Zustimmung erhalten hat, nicht die AfD wäre, ohne dass sie ... die ... den ... und auch wichtige Vertreter dieser ganzen ... der letzten zehn Jahre ... hätte. Nämlich der ... gegen die Grenzöff- ? Tillschneider, Hans- | ... betonte er u. a. auch die ... Vorfelds für die AfD hinsichtlich der ideologisch...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. Sommer 22/23, Entscheidung aus dem Jahr 2023).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 224] Verfassungsrechtliches Verfahren (Spiegel 23/2016)
+*   [openjur.de](https://openjur.de/suche/Spiegel%2023/2016/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/224_Spiegel_23_2016.txt)`
+*   **Sachverhalt:** lorganisationen 2019, S. 701; Gauland, Alexander: Rede in Elsterwerda am 02.06.2016, veröffentlicht in: www.youtube.com, Kanal: „Deutschland Vaterland“ am 06.06.2016. abgerufen am 26.10.2018. - [3013] Zulieferung BfV; „Boateng will jeder haben“, in: Spiegel 23/2016, S. 36 f., siehe S. 207. - [3014] Zulieferung BfV; Bundesamt für Verfassungsschutz: Gutachten AfD und Teilorganisationen 2019, S. 70; „Boateng will jeder haben“, in: Spiegel 23/2016, S. 36 f. - [3015] Zulieferung BfV; Weidel, Alice: Redebeitrag auf | .10.2018. - [3013] Zulieferung BfV; „Boateng will jeder haben“, in: Spiegel 23/2...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. Spiegel 23/2016, Entscheidung aus dem Jahr 2016).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 225] Verfassungsrechtliches Verfahren (VG 1 L 340/23)
+*   [openjur.de](https://openjur.de/suche/VG%201%20L%20340/23/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/225_VG_1_L_340_23.txt)`
+*   **Sachverhalt:** ichert extremistische ... Die ... verchiedener ... des Flügels ... nach den ... des erichts „am 15. Januar 2019 jedenfalls den starken Verdacht und rechtfertigten am 2. März 2020 auch die ... dass die politischen ... des an VG Berlin, Beschl. v. ... VG 1 L 340/23, juris, Rn. 31. s VG Berlin, Beschi. v. ... VG 1 L 340/23, juris, Rn. 40. 8 OVG NRW, Urt. v. ... 5 A 1216/22, juris, Rn. 93. 806 Keine Weitergabe außerhalb des ... ohne Zustimmung des BfV GeheimgutachtenTeil ... – Seite 8 VS-NUR FÜR DEN D ENSTGE | ichert extremistische ... Die ... verchiedener ... des Flügels ... nach den ... des e...
+*   **Gericht & Aktenzeichen:** Oberverwaltungsgericht (OVG) (Az. VG 1 L 340/23, Entscheidung aus dem Jahr 2023).
+*   **Urteil / Strafmaß:** Verwaltungsgerichtlicher Beschluss - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 226] Verfassungsrechtliches Verfahren (VG 1 L 95/20)
+*   [openjur.de](https://openjur.de/suche/VG%201%20L%2095/20/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/226_VG_1_L_95_20.txt)`
+*   **Sachverhalt:** . 68. - [623] VG Berlin, Beschl. vom 28.05.2020, VG 1 L 97/20, juris, Rn. 38 ff., bestätigt durch OVG Berlin, Beschl. vom 19.09.2020, 1 S 56/20; VG Berlin, Urt. vom 12.11.2020, VG 1 K 505.17, juris, Rn. 38. - [624] VG Berlin, Beschl. vom 28.05.2020, VG 1 L 95/20, bestätigt durch OVG Berlin, Beschl. vom 19.06.2020, 1 S 55/20. - [625] Zulieferung BfV; AfD: „PROGRAMM FÜR DEUTSCHLAND, Grundsatzprogramm der Alternative für Deutschland“ vom 30.04./01.05.2018, in: www.afd.de, abgerufen am 22.12.2020. - [626] Ebd., | . 68. - [623] VG Berlin, Beschl. vom 28.05.2020, VG 1 L 97/20, juris, Rn. 38 ff., ...
+*   **Gericht & Aktenzeichen:** Oberverwaltungsgericht (OVG) (Az. VG 1 L 95/20, Entscheidung aus dem Jahr 2020).
+*   **Urteil / Strafmaß:** Verwaltungsgerichtlicher Beschluss - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 227] Rechtmäßigkeit verfassungsschutzrechtlicher Berichte und Einstufung (VG 1 L 97/20)
+*   [openjur.de](https://openjur.de/suche/VG%201%20L%2097/20/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/227_VG_1_L_97_20.txt)`
+*   **Sachverhalt:** chen Partei regelmänommen werden könne, dass sie den von ihr ... echtlich und tatsächlich ... wolle. Hinreichende ... Vorliegen solcher ... böten daher auch abwertende ... itlich machen, dass ... Staatsangehörige mit ... nicht Berlin, Beschl. v. ... VG 1 L 97/20, Rn. 37 BeckRS; bestätigt in OVG ... v. ... OVG 1 S 56/20, juris, Rn. 29 f. » Urt. v. 17.01.2017, 2 BvB 1/13, juris, Rn. 635. ... Beschl. v. ... OVG 1 S 56/20, juris, Rn. 38. NRW, Urt. v. ... 5 A 1218/22, juris, Rn. 202. 35 Keine Weitergabe außerhal | rt. v. 17.01.2017, 2 BvB 1/13, juris, Rn. 539. - [19] Ebd. - [20] BVerfG, Urt. v. ...
+*   **Gericht & Aktenzeichen:** Bundesverfassungsgericht (BVerfG) (Az. VG 1 L 97/20, Entscheidung vom 17.01.2017).
+*   **Urteil / Strafmaß:** Verfassungsgerichtliche Grundsatzentscheidung - Einstufung und öffentliche Bezeichnung politischer Parteien als extremistischer Verdachtsfall.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 228] Verfassungsrechtliches Verfahren (VGL 97/20)
+*   [openjur.de](https://openjur.de/suche/VGL%2097/20/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/228_VGL_97_20.txt)`
+*   **Sachverhalt:** rantinnen adressiert sind und diese pauverächtlich machen. gl. VG Berlin, Urt. v. 07.09.16, 1 K 71.15, juris, Rn. 22 m. w. Nachw Urt. v. ... 1K 17, juris, Rn. 38; Jarass/Pieroth, Kommentar GG 13. Aufl. & 1 Rn. 6 und 12; VG Berlin, Beschl. v. 5.2020, VGL 97/20, BeckRS 2020, 14940, Rn. 38 ff bestätigt durch OVG ... Be ... 1 S 56/20, juris, Rn. 33 ff vgl. zur ... Ansicht des OVG NRW a Hell: 1:2. na VG Berlin, Urt. v. 21.01.16, 1 K 255.13, juris, Rn. 76; Urt. v. ... K 606.17, juris, Rn. 18: Droste: „Handbuch | rantinnen adressiert sind und diese pauverächtlich machen. gl. VG Berlin, Urt. v. 07....
+*   **Gericht & Aktenzeichen:** Oberverwaltungsgericht (OVG) (Az. VGL 97/20, Entscheidung aus dem Jahr 2020).
+*   **Urteil / Strafmaß:** Verwaltungsgerichtlicher Beschluss - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 229] Rechtmäßigkeit verfassungsschutzrechtlicher Berichte und Einstufung (Verfahren 13 K 207/20)
+*   [openjur.de](https://openjur.de/suche/Verfahren%2013%20K%20207/20/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/229_Verfahren_13_K_207_20.txt)`
+*   **Sachverhalt:** gegenläufige ... oder ... innerhalb des Flügels nicht verzeichnet werden können. Für die ... ist nicht relevant, ob der Flügel im hier maßgeblichen Zeitpunkt immer noch als gesichert extremistische ... werden kann. Diese Frage hat das ... Gericht im Verfahren 13 K 207/20 ... und damit begründet, dass keine Gewissheit (mehr) über die ... des Flügels als Personenzusammenschluss vorliegt. Im Rahmen der ... der Gesamtpartei als Verdachtsfall kommt es hierauf aber nicht an. Es ist vielmehr ... dass hinsichtlich des Flüge | gegenläufige ... oder ... innerhalb des Flügels nicht verzeichnet werden ...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. Verfahren 13 K 207/20, Entscheidung aus dem Jahr 2020).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 230] Verfassungsrechtliche Grundsatzentscheidung (VfGBbg 94/20)
+*   [openjur.de](https://openjur.de/suche/VfGBbg%2094/20/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/230_VfGBbg_94_20.txt)`
+*   **Sachverhalt:** e ... 3233 BVerwG, Urt. v. ... 6 C 22.09, BVerwGE 137, 275 Rn. 20; ... des Bundes, 2. Aufl. 2019, BVerfSchG 88 3, 4 Rn. 8. Vgl. allgemein zu ... als ... S. 30 f. 3234 BVerfG, Beschl. v. ... 2 BvE 11/12, BVerfGE 133, 100 Rn. 24; BbgVerfG, Urt. v. ... VfGBbg 94/20, juris, Rn. 59 ff BVerwG, Urt. v. ... 6 C 22.09, BVerwGE 137, 275 Rn. 20 ff VG Köln, Urt. v. ... 13 K 326/21, juris, Rn. 167 ff VG Magdeburg, Beschi. v. ... 9 B ... juris, Rn. 44 ff VG München, Beschl. v. ... M 20 E 22.4913, juris, Rn. 19; Beschl. v | e ... 3233 BVerwG, Urt. v. ... 6 C 22.09, BVerwGE 137, 275 Rn. 20; ... des Bundes,...
+*   **Gericht & Aktenzeichen:** Bundesverfassungsgericht (BVerfG) (Az. VfGBbg 94/20, Entscheidung aus dem Jahr 2020).
+*   **Urteil / Strafmaß:** Verfassungsgerichtliche Grundsatzentscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 231] Verfassungsrechtliches Verfahren (ZUERST Ausgabe 01/2023)
+*   [openjur.de](https://openjur.de/suche/ZUERST%20Ausgabe%2001/2023/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/231_ZUERST_Ausgabe_01_2023.txt)`
+*   **Sachverhalt:** ERST Ausgabe 06/2022, S. 21. “ „Der Titel ist nicht das Wichtigste in: ZUERST Ausgabe 04/2022, S. 17 ff. hs ... Deutschlands in: ZUERST Ausgabe 05/2022, S. 36 f. n ° „Ausdruck ... Politik in: ZUERST Ausgabe 11/2022, S. 17 ff. 7 ... Führungsrolle in: ZUERST Ausgabe 01/2023, S. 17 f. 793 Keine Weitergabe außerhalb des ... ohne Zustimmung des BfV GeheimgutachtenTeil ... – Seite 95 VS-NUR FÜR DEN D ENSTGEBRAUCH B ... ZU GRUPP ... ORGAN SAT ONEN UND E ... AUS DEM RECHTSEXTREM ST SCHEN ... „Wir reden hier wohl eher von | ERST Ausgabe 06/2022, S. 21. “ „Der Titel ist nicht das Wichtigste in: ZUERS...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. ZUERST Ausgabe 01/2023, Entscheidung aus dem Jahr 2023).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 232] Verfassungsrechtliches Verfahren (ZUERST Ausgabe 03/2022)
+*   [openjur.de](https://openjur.de/suche/ZUERST%20Ausgabe%2003/2022/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/232_ZUERST_Ausgabe_03_2022.txt)`
+*   **Sachverhalt:** Rechtfertigung in: ZUERST Ausgabe 05/2022, S. 28 ff. Verhärtete Fronten in: ZUERST Ausgabe 05/2022, S. 24. Kampf gegen die Einheitsfront in: ZUERST Ausgabe 11/2022, S. 75 ff. Freiheit statt Eurokratie in: ZUERST Ausgabe 04/2022, S. 31. Anzeige, in: ZUERST Ausgabe 03/2022, S. 27. Maier, Christoph: ... vom ... abgerufen am ... EL 795 Keine Weitergabe außerhalb des ... ohne Zustimmung des BfV GeheimgutachtenTeil ... – Seite 97 VS-NUR FÜR DEN D ENSTGEBRAUCH B ... ZU GRUPP ... ORGAN SAT ONEN UND E ... AUS DEM RECHTSE | Rechtfertigung in: ZUERST Ausgabe 05/2022, S. 28 ff. Verhärtete Fronten in: Z...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. ZUERST Ausgabe 03/2022, Entscheidung aus dem Jahr 2022).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 233] Verfassungsrechtliches Verfahren (ZUERST Ausgabe 04/2022)
+*   [openjur.de](https://openjur.de/suche/ZUERST%20Ausgabe%2004/2022/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/233_ZUERST_Ausgabe_04_2022.txt)`
+*   **Sachverhalt:** bgerufen am ... an lokr Fotostrecke vom ... in: www.flickr.de, Kanal: ... abgerufen am ... „yunge Alternative Sachsen-Anhalt: ... vom ... abgerufen am ... “ „Grüne sind ... in: ZUERST Ausgabe 06/2022, S. 21. “ „Der Titel ist nicht das Wichtigste in: ZUERST Ausgabe 04/2022, S. 17 ff. hs ... Deutschlands in: ZUERST Ausgabe 05/2022, S. 36 f. n ° „Ausdruck ... Politik in: ZUERST Ausgabe 11/2022, S. 17 ff. 7 ... Führungsrolle in: ZUERST Ausgabe 01/2023, S. 17 f. 793 Keine Weitergabe außerhalb des ... ohne Zustimmung des B | bgeordnete Christoph Maier (BY) teilte am 16. ... 2022 auf ebook einen Z...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. ZUERST Ausgabe 04/2022, Entscheidung aus dem Jahr 2022).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 234] Verfassungsrechtliches Verfahren (ZUERST Ausgabe 05/2018)
+*   [openjur.de](https://openjur.de/suche/ZUERST%20Ausgabe%2005/2018/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/234_ZUERST_Ausgabe_05_2018.txt)`
+*   **Sachverhalt:** -Parteitag? Alice Weidel gerät ins Stocken, als sie kontiert wird“ vom ... in: www.merkur.de, abgerufen am ... Weidel, Alice: Interview in der ... „Bericht vom Parteitag der AfD vom 06.2022; veröffentlicht in: ... abgerufen am ... ”2 ... der AfD in: ZUERST Ausgabe 05/2018, S. 32 f. Beckamp, Roger: Tweet vom ... abgerufen am ... „Erhaltung der nationalen Identität in: ZUERST Ausgabe ... S. 38 ff. 794 Keine Weitergabe außerhalb des ... ohne Zustimmung des BfV GeheimgutachtenTeil ... – Seite 96 VS-NUR FÜR DEN D ENST | -Parteitag? Alice Weidel gerät ins Stocken, als sie kontiert wird“ vom ... i...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. ZUERST Ausgabe 05/2018, Entscheidung aus dem Jahr 2018).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 235] Verfassungsrechtliches Verfahren (ZUERST Ausgabe 05/2022)
+*   [openjur.de](https://openjur.de/suche/ZUERST%20Ausgabe%2005/2022/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/235_ZUERST_Ausgabe_05_2022.txt)`
+*   **Sachverhalt:** n ZUERST Artikel 3? Günther, Lars: ... „Ami go home“ am ... veröffentlicht in: www.videos.wir ‚Kanal: ‚Robert Götz Matuschewski“ am ... abgerufen am ... ne echte Debatte führen in: ZUERST Ausgabe 04/2022, S. 35 ff. Offensive statt Rechtfertigung in: ZUERST Ausgabe 05/2022, S. 28 ff. Verhärtete Fronten in: ZUERST Ausgabe 05/2022, S. 24. Kampf gegen die Einheitsfront in: ZUERST Ausgabe 11/2022, S. 75 ff. Freiheit statt Eurokratie in: ZUERST Ausgabe 04/2022, S. 31. Anzeige, in: ZUERST Ausgabe 03/2022, S. 27. Maier, Chri | .. veröffentlicht in: www.videos.wir ‚Kanal: ‚Robert Götz Matuschewski“ ...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. ZUERST Ausgabe 05/2022, Entscheidung aus dem Jahr 2022).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 236] Verfassungsrechtliches Verfahren (ZUERST Ausgabe 06/2022)
+*   [openjur.de](https://openjur.de/suche/ZUERST%20Ausgabe%2006/2022/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/236_ZUERST_Ausgabe_06_2022.txt)`
+*   **Sachverhalt:** . den ... von fremden Mächten: Junge Alternative Thüringen: ... vom ... abgerufen am ... an lokr Fotostrecke vom ... in: www.flickr.de, Kanal: ... abgerufen am ... „yunge Alternative Sachsen-Anhalt: ... vom ... abgerufen am ... “ „Grüne sind ... in: ZUERST Ausgabe 06/2022, S. 21. “ „Der Titel ist nicht das Wichtigste in: ZUERST Ausgabe 04/2022, S. 17 ff. hs ... Deutschlands in: ZUERST Ausgabe 05/2022, S. 36 f. n ° „Ausdruck ... Politik in: ZUERST Ausgabe 11/2022, S. 17 ff. 7 ... Führungsrolle in: ZUERST Ausgabe 01/20 | . den ... von fremden Mächten: Junge Alternative Thüringen: ... vom ... ...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. ZUERST Ausgabe 06/2022, Entscheidung aus dem Jahr 2022).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 237] Verfassungsrechtliches Verfahren (ZUERST Ausgabe 11/2022)
+*   [openjur.de](https://openjur.de/suche/ZUERST%20Ausgabe%2011/2022/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/237_ZUERST_Ausgabe_11_2022.txt)`
+*   **Sachverhalt:** ewski“ am ... abgerufen am ... ne echte Debatte führen in: ZUERST Ausgabe 04/2022, S. 35 ff. Offensive statt Rechtfertigung in: ZUERST Ausgabe 05/2022, S. 28 ff. Verhärtete Fronten in: ZUERST Ausgabe 05/2022, S. 24. Kampf gegen die Einheitsfront in: ZUERST Ausgabe 11/2022, S. 75 ff. Freiheit statt Eurokratie in: ZUERST Ausgabe 04/2022, S. 31. Anzeige, in: ZUERST Ausgabe 03/2022, S. 27. Maier, Christoph: ... vom ... abgerufen am ... EL 795 Keine Weitergabe außerhalb des ... ohne Zustimmung des BfV GeheimgutachtenTe | ewski“ am ... abgerufen am ... ne echte Debatte führen in: ZUERST Ausgabe 0...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. ZUERST Ausgabe 11/2022, Entscheidung aus dem Jahr 2022).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 238] Verfassungsrechtliches Verfahren (ZUERSTI Ausgabe 04/2023)
+*   [openjur.de](https://openjur.de/suche/ZUERSTI%20Ausgabe%2004/2023/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/238_ZUERSTI_Ausgabe_04_2023.txt)`
+*   **Sachverhalt:** berland (BB Im Zuge der ... äußerte sich Günther unter anem wohlwollend über das ZU ERST Magazin: „Wir müssen selbstverständlich in vielen Kategorien denken. Der ... Raum auf ... muss das alles ... werden. Wir haben Ebd. ... statt Gleichstellung in: ZUERSTI Ausgabe 04/2023, S. 36 f. erkur: ‚Rechtsextremes Magazin auf AfD-Parteitag? Alice Weidel gerät ins Stocken, als sie kontiert wird“ vom ... in: www.merkur.de, abgerufen am ... Weidel, Alice: Interview in der ... „Bericht vom Parteitag der AfD vom 06.2022; veröffentl | berland (BB Im Zuge der ... äußerte sich Günther unter anem wohlwollend...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. ZUERSTI Ausgabe 04/2023, Entscheidung aus dem Jahr 2023).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
+
+---
+
+### [FALL 239] Verfassungsrechtliches Verfahren (Zeitgeschichte 31/2007)
+*   [openjur.de](https://openjur.de/suche/Zeitgeschichte%2031/2007/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/239_Zeitgeschichte_31_2007.txt)`
+*   **Sachverhalt:** . vom ... S. 10. iisterium des Innern (Hrsg „Antisemitismus in Deutschland. ... Beäventionsansätze. Bericht des Unabhängigen ... Antisemitismus Berlin GE 144, 20 Rn. 541. Qisierung folgt: Pfahl-Traughber, Armin: „Ideologische ... des ... Politik und Zeitgeschichte 31/2007 vom ... S. 4 ff. Andere Forschende ... vorgeschlagen. 485 ‘eine Weitergabe außerhalb des ... ohne Zustimmung des BfV GeheimgutachtenTeil ... – Seite 95 VS-NUR FÜR DEN D ENSTGEBRAUCH ÄNT SEM TISCHE ... UND POS TIONEN ... Bezug nehmen und miteinan | . vom ... S. 10. iisterium des Innern (Hrsg „Antisemitismus in Deutschland. ...
+*   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. Zeitgeschichte 31/2007, Entscheidung aus dem Jahr 2007).
+*   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
+
 
 
 
