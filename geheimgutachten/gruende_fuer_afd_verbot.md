@@ -45,4 +45,13 @@ Die AfD erfüllt sämtliche ... des BVerfG für ein Parteiverbot gemäß Art. 21
 15. **keine marginale ...
 sie sind nicht wie beim NPD ... eine marginale ... und deshalb wirklich gefährlich für die Demokratie.
 
+16. **Aufbau verdeckter Tarnstrukturen zur Umgehung von Vereinsverboten (IfS-Selbstauflösung)**
+Metapolitische Umetikettierung und formale Selbstauflösung zur Fortführung verfassungsfeindlicher Bestrebungen.
+
+17. **Missbrauch von Symbolen zur straffreien rechtsextremen Milieubindung (Kühnen-Gruß)**
+Gezielter Einsatz der 3-Finger-Variante des Hitlergrußes zur provokativen Demonstration und Mobilisierung.
+
+18. **Logistik für flächendeckende Remigration und Deportationen (Deportationspläne)**
+Planvolles und konkretes Vorgehen zur massenhaften Vertreibung und Abschiebung von Menschen mit Migrationshintergrund.
+
 ... ergibt sich aus diesen ... ein kohärentes Bild einer Partei, die nicht nur verbal, ... auch ... und strategisch auf die Abschaffung oder Aushöhlung der demokratischen Grundordnung abzielt – und damit alle rechtlichen ... für ein Parteiverbot erfüllt.

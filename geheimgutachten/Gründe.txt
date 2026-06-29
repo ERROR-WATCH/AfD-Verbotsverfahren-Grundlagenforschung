@@ -1,4 +1,4 @@
-Hier alle 15 Verbotsgründe mit der jeweiligen Quelle:
+Hier alle 18 Verbotsgründe mit der jeweiligen Quelle:
 
 1. ...
 – Die AfD strebt eine ... homogene ... statt ... an.
@@ -58,7 +58,19 @@ Hier alle 15 Verbotsgründe mit der jeweiligen Quelle:
 
 15. **Keine marginale ...
 – Anders als bei der NPD verfügt die AfD über ... Organisations‑ und ...
-– Quelle: *Gründe für ein ... (Punkt 15)&#x20;
+– Quelle: *Gründe für ein ... (Punkt 15)
+
+16. **Aufbau verdeckter Tarnstrukturen zur Umgehung von Vereinsverboten (IfS-Selbstauflösung)**
+– Metapolitische Umetikettierung und formale Selbstauflösung zur Fortführung verfassungsfeindlicher Bestrebungen.
+– Quelle: *Gründe für ein ... (Punkt 16)&#x20;
+
+17. **Missbrauch von Symbolen zur straffreien rechtsextremen Milieubindung (Kühnen-Gruß)**
+– Gezielter Einsatz der 3-Finger-Variante des Hitlergrußes zur provokativen Demonstration und Mobilisierung.
+– Quelle: *Gründe für ein ... (Punkt 17)&#x20;
+
+18. **Logistik für flächendeckende Remigration und Deportationen (Deportationspläne)**
+– Planvolles und konkretes Vorgehen zur massenhaften Vertreibung und Abschiebung von Menschen mit Migrationshintergrund.
+– Quelle: *Gründe für ein ... (Punkt 18)&#x20;&#x20;
 
 ---
 
