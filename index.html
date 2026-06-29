@@ -1681,6 +1681,10 @@ Die Verteidigung unserer freiheitlich-demokratischen Grundordnung ist für mich 
                     ? `<span class="bg-red-50 text-red-700 border border-red-200 text-xs px-2.5 py-1 rounded font-semibold flex items-center gap-1"><span class="w-1.5 h-1.5 rounded-full bg-red-500 animate-pulse"></span> DIREKT AfD</span>`
                     : `<span class="bg-blue-50 text-blue-700 border border-blue-200 text-xs px-2.5 py-1 rounded font-semibold flex items-center gap-1"><span class="w-1.5 h-1.5 rounded-full bg-blue-500"></span> INDIREKT</span>`;
 
+                // Extract Aktenzeichen from text if possible
+                const azMatch = c.text ? c.text.match(/Aktenzeichen:\s*([^\n]+?)(?:\s*(?:Datum|Delikt|Urteil)|$)/i) : null;
+                const aktenzeichen = azMatch ? azMatch[1].trim().replace(/\s+/g, ' ') : '';
+
                 card.innerHTML = `
                     <div class="space-y-3">
                         <div class="flex items-center justify-between gap-2">
@@ -1697,14 +1701,18 @@ Die Verteidigung unserer freiheitlich-demokratischen Grundordnung ist für mich 
                         <p class="text-slate-600 text-sm leading-relaxed">${c.description}</p>
                         ${c.text ? `<p class="text-[11px] text-slate-500 italic leading-relaxed mt-1.5 border-t pt-1.5 border-slate-100 overflow-hidden text-ellipsis" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; max-height: 2.5rem;" title="${c.text.replace(/"/g, '&quot;')}"><i class="fa-solid fa-quote-left text-slate-300 mr-1"></i>${c.text}...</p>` : ''}
                     </div>
-                    <div class="flex items-center justify-between pt-4 border-t border-slate-100 text-xs gap-2">
-                        <a href="${c.beleg}" target="_blank" class="text-brand-blue hover:text-blue-800 font-semibold transition flex items-center space-x-1">
+                    <div class="flex items-center justify-between pt-4 border-t border-slate-100 text-[11px] gap-2">
+                        <a href="${c.beleg}" target="_blank" class="text-brand-blue hover:text-blue-800 font-bold transition flex items-center space-x-1 shrink-0">
                             <i class="fa-solid fa-file-text"></i>
                             <span>Lokaler Beleg</span>
                         </a>
-                        <a href="${c.online}" target="_blank" class="text-brand-gold hover:text-amber-700 font-semibold transition flex items-center space-x-1">
-                            <i class="fa-solid fa-globe"></i>
-                            <span>Online-Quelle</span>
+                        <a href="https://www.google.com/search?q=${encodeURIComponent(aktenzeichen ? 'Urteil ' + aktenzeichen : 'Urteil ' + c.title.replace(/\(.*?\)/g, '').trim())}" target="_blank" class="text-brand-gold hover:text-amber-800 font-bold transition flex items-center space-x-1" title="Sucht nach dem originalen Gerichtsurteil im Internet">
+                            <i class="fa-solid fa-gavel text-[10px]"></i>
+                            <span>Urteil online suchen</span>
+                        </a>
+                        <a href="${c.online}" target="_blank" class="text-slate-400 hover:text-slate-600 font-semibold transition flex items-center space-x-1 shrink-0" title="Öffnet den hinterlegten Pressebericht oder die Online-Quelle">
+                            <i class="fa-solid fa-external-link-alt text-[9px]"></i>
+                            <span>Pressebericht</span>
                         </a>
                     </div>
                 `;
