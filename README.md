@@ -22,6 +22,24 @@
 
 Dieses Repository sammelt die zentralen Dokumente, Textfragmente und Forschungsergebnisse zur Vorbereitung einer Klageschrift gegen die Partei „Alternative für Deutschland“ (AfD) beim Bundesverfassungsgericht.
 
+## ⚠️ Wichtiger Hinweis zur Methodik, KI-Unterstützung und rechtlichen Einordnung
+
+Dieses Repository stellt eine **solid fundierte Arbeitsbasis** dar, die nach bestem Wissen und Gewissen und mit erheblicher **KI-Unterstützung** erstellt und strukturiert wurde. Es ist jedoch von zentraler Bedeutung, die folgenden Aspekte für jede weitere wissenschaftliche, journalistische oder juristische Verwendung zu berücksichtigen:
+
+1. **Kein Anspruch auf Vollständigkeit (Die Oberfläche des Komplexes):**  
+   Trotz der sorgfältigen Aufbereitung von 239 Gerichtsfällen und über 1.400 Dokumenten legt diese Datenbank **bei weitem keinen Anspruch auf Vollständigkeit** nahe. In Anbetracht der enormen Tiefe und Verästelung der verfassungsfeindlichen Strukturen der Partei stellt dieses Archiv in unseren Augen lediglich die **Oberfläche des gesamten rechtlichen und tatsächlichen Komplexes** dar. Viele verdeckte Netzwerke, Finanzströme und behördliche Erkenntnisse liegen im Verborgenen oder unterliegen dem Geheimschutz.
+   
+2. **Notwendigkeit händischer und professioneller Auswertung:**  
+   Die in diesem Repository bereitgestellten Daten und KI-generierten Strukturierungshilfen (z. B. RAG-Dumps und Zusammenfassungen) sind **Arbeitswerkzeuge, keine gerichtsfertigen Beweise**. Für ein tatsächliches gerichtliches Verbotsverfahren vor dem Bundesverfassungsgericht bedarf es zwingend einer **vollständig händischen Auswertung, detaillierten Verifizierung und juristisch präzisen Aufbereitung aller Belege durch geschultes Fachpersonal** (wie habilitierte Verfassungsrechtler, erfahrene Prozessbevollmächtigte und staatliche Gutachter).
+   
+3. **Ausschluss jeglicher Gewährleistung (Keine Rechts- oder Gerichtsformgarantie):**  
+   Wir geben **keinerlei Gewähr** auf eine gerichtlich ausreichende Form, prozessuale Zulässigkeit oder die absolute juristische Fehlerfreiheit der Belegketten. Die prozessuale Taktik, die formale Kettensicherung (Chain of Custody) und die Einhaltung verfahrensrechtlicher Fristen und Standards obliegen einzig und allein den antragstellenden Verfassungsorganen.
+
+4. **Unsere Motivation: Erleichterter Einstieg & Demokratischer Beitrag:**  
+   Da die politische und verfassungsrechtliche Zeit drängt, wollten wir nicht tatenlos abwarten, sondern **wertvolle Vorarbeit leisten** und einen stark vereinfachten, strukturierten Zugang zu zentralen Primärdaten und Quellen schaffen. Dies verfolgt im Kern zwei Ziele:
+   - **Bürgerinnen und Bürger:** Jede Person soll in die Lage versetzt werden, sich selbst ein umfassendes, faktenbasiertes und unzensiertes Bild von der realen Dichte rechtsextremer Bestrebungen und Verurteilungen zu machen.
+   - **Anwälte, Gutachter und Richter:** Den prozessualen Akteuren, Gutachtern und juristischen Beraterstäben soll ein **erleichterter Einstieg** in das unübersichtliche Dickicht der Einzelverfahren, Aktenzeichen und behördlichen Berichte ermöglicht werden, um wertvolle Zeit bei der eigentlichen Schriftsatzvorbereitung zu sparen.
+
 ## Zweck & Scope (KI-Quellenbündel)
 
 Dieses Repository ist **eine Bündelung öffentlich zugänglicher Quellen** als **Basiskorpus für KI-gestützte Analyse** (Suche, Retrieval, Clustering).  

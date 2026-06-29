@@ -1957,7 +1957,7 @@ Eine gründliche Bestandsaufnahme der Forschungsdatenbank zeigt, dass die verfah
 
 ## 2 | Verfassungsrechtliches Prüfschema nach Art. 21 Abs. 2 GG (BVerfG „NPD II“)
 
-Ein Parteiverbotsverfahren vor dem Bundesverfassungsgericht (BVerfG) unterliegt den im NPD-II-Urteil (*2 BvB 1/13*) vom 17. Januar 2017 definierten Hürden. Die im Archiv gesammelten Beweismittel lassen sich nahtlos in dieses dreistufige materielle Prüfraster einordnen:
+Ein Parteiverbotsverfahren vor dem Bundesverfassungsgericht (BVerfG) unterliegt den im NPD-II-Urteil (*2 BvB 1/13*) vom 17. Januar 2017 definierten Hürden. Die im Archiv gesammelten Beweismittel lassen sich nahtlos in dieses dreistufige materielles Prüfraster einordnen:
 
 ```
                   ┌────────────────────────────────────────────────────────┐
@@ -2089,7 +2089,7 @@ Trotz der herausragenden Qualität des Portals lassen sich **vier strategische B
 * *Ergänzungsbedarf:* Integration von **OSINT-Metadaten** (Wayback-Maschine, archivierte Telegram-Chats, Geodaten von Sentinel-Satelliten zu den Trainingslagern, z. B. in Lübtheen). Diese Daten beweisen die personelle Identität zwischen JA-Funktionären und den Trainern der "Active Clubs" und belegen die Existenz einer wehrhaften, paramilitärischen Vorbereitung auf den "Tag X".
 
 ### Lücke 4: Der Thüringer Verfassungsgerichts-Beschluss zur Justizsabotage
-* *Problem:* Das Urteil des Thüringer Verfassungsgerichtshofs gegen den AfD-Alterspräsidenten Jürgen Treutler wegen der gezielten Blockade der Landtagskonstituierung im September 2024 (Fall 68/59) ist im Archiv dokumentiert.
+* *Problem:* Das Urteil des Thüringer Verfassungsgerichtshofs gegen den AfD-Alterspräsidenten Jürgen Treutler wegen der gezielten Blockade der Landtagskonstituierung im September 2024 (Fall 68/59) is im Archiv dokumentiert.
 * *Gefahr:* Die AfD stellt dies als legitimen Streit um die Auslegung der parlamentarischen Geschäftsordnung dar.
 * *Ergänzungsbedarf:* Aufnahme der **Original-Schriftsätze und der Urteilsbegründung des ThürVerfGH**. Das Urteil beweist gerichtlich, dass die AfD bereit ist, geschriebenes Verfassungsrecht und parlamentarische Bräuche gezielt zu missbrauchen (Constitutional Obstructionism), um demokratische Prozesse lahmzulegen. Dies ist der ultimative Beweis für die „aktiv-kämpferische Haltung“ gegen das Demokratie- und Rechtsstaatsprinzip.
 
