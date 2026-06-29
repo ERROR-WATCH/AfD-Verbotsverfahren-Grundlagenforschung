@@ -154,8 +154,12 @@
                     <span>🛡️ Verfassungsschutz</span>
                 </button>
                 <button onclick="switchTab('tab-sonstige')" id="btn-tab-sonstige" class="tab-btn px-5 py-3 font-bold text-sm border-b-2 border-transparent hover:text-brand-gold transition duration-150 flex items-center space-x-2 rounded-t-lg">
-                    <i class="fa-solid fa-box-archive"></i>
-                    <span>📂 Sonstige Dokumente</span>
+                   <i class="fa-solid fa-box-archive"></i>
+                   <span>📂 Sonstige Dokumente</span>
+                </button>
+                <button onclick="switchTab('tab-programme')" id="btn-tab-programme" class="tab-btn px-5 py-3 font-bold text-sm border-b-2 border-transparent hover:text-brand-gold transition duration-150 flex items-center space-x-2 rounded-t-lg">
+                   <i class="fa-solid fa-file-shield text-brand-blue"></i>
+                   <span>📘 Parteiprogramme AfD</span>
                 </button>
                 <button onclick="switchTab('tab-quellen')" id="btn-tab-quellen" class="tab-btn px-5 py-3 font-bold text-sm border-b-2 border-transparent hover:text-brand-gold transition duration-150 flex items-center space-x-2 rounded-t-lg">
                     <i class="fa-solid fa-list-check"></i>
@@ -297,11 +301,562 @@
                         </select>
                     </div>
                     <div class="text-slate-500 text-sm font-semibold" id="docStats-sonstige">
-                        Lade Archiv...
+                       Lade Archiv...
                     </div>
-                </div>
-                <div id="categoriesContainer-sonstige" class="space-y-8"></div>
-            </div>
+                    </div>
+                    <div id="categoriesContainer-sonstige" class="space-y-8"></div>
+                    </div>
+
+                    <!-- TAB 6b: PARTEIPROGRAMME AFD -->
+                    <div id="tab-programme" class="tab-content hidden space-y-6">
+                    <div class="bg-gradient-to-r from-blue-900 to-indigo-950 rounded-xl shadow-lg p-8 border border-slate-100 text-white space-y-4">
+                    <h3 class="text-2xl font-extrabold flex items-center space-x-3">
+                       <i class="fa-solid fa-file-shield text-brand-gold"></i>
+                       <span>📘 Parteiprogramme & Landesprogrammatik der AfD</span>
+                    </h3>
+                    <p class="text-slate-300 text-sm max-w-4xl leading-relaxed">
+                       Die Parteiprogramme der AfD dienen vor dem Bundesverfassungsgericht als fundamentale Primärbelege für die Verfassungswidrigkeit. Sie dokumentieren ein systematisches, parteioffizielles Bestreben zur Etablierung eines völkisch-ethnischen Volksbegriffs (Ausschluss und Diskriminierung von Staatsbürgern mit Migrationshintergrund) sowie Pläne zur massenhaften verfassungswidrigen Vertreibung ("Remigration").
+                    </p>
+                    </div>
+
+                    <!-- Federal Programs Highlight -->
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                    <!-- Bundestagswahlprogramm -->
+                    <div class="bg-white rounded-xl shadow p-6 border-t-4 border-brand-blue border border-slate-100 space-y-4 flex flex-col justify-between">
+                       <div class="space-y-2">
+                           <span class="bg-blue-100 text-brand-blue text-xs font-bold px-2.5 py-1 rounded">Bundesweit</span>
+                           <h4 class="text-xl font-bold text-slate-800">Bundestagswahlprogramm 2025</h4>
+                           <p class="text-slate-500 text-sm leading-relaxed">
+                               Das aktuelle nationale Wahlprogramm zur Bundestagswahl. Es bildet das legislative Fundament für die gesamte Bundespartei und untermauert die bundesweit koordinierte Ausgrenzungsstrategie.
+                           </p>
+                       </div>
+                       <div class="flex flex-wrap gap-2 pt-4">
+                           <a href="./dokumente/hauptquellen/AfD_Bundestagswahlprogramm2025_web.pdf" target="_blank" class="bg-brand-blue hover:bg-blue-800 text-white font-bold px-4 py-2 rounded text-xs transition inline-flex items-center space-x-2">
+                               <i class="fa-solid fa-file-pdf"></i>
+                               <span>Original-PDF öffnen</span>
+                           </a>
+                       </div>
+                    </div>
+
+                    <!-- Grundsatzprogramm -->
+                    <div class="bg-white rounded-xl shadow p-6 border-t-4 border-brand-gold border border-slate-100 space-y-4 flex flex-col justify-between">
+                       <div class="space-y-2">
+                           <span class="bg-amber-100 text-brand-gold text-xs font-bold px-2.5 py-1 rounded">Grundsatzprogramm</span>
+                           <h4 class="text-xl font-bold text-slate-800">Grundsatzprogramm der AfD</h4>
+                           <p class="text-slate-500 text-sm leading-relaxed">
+                               Das offizielle, dauerhafte Grundsatzprogramm ("Programm für Deutschland"). Es formuliert die ideologischen Leitlinien der Gesamtpartei und dient als dauerhafte verfassungsrechtliche Referenz.
+                           </p>
+                       </div>
+                       <div class="flex flex-wrap gap-2 pt-4">
+                           <a href="./dokumente/hauptquellen/afd.de_wahlprogramm-medien.pdf" target="_blank" class="bg-brand-gold hover:bg-amber-600 text-white font-bold px-4 py-2 rounded text-xs transition inline-flex items-center space-x-2">
+                               <i class="fa-solid fa-file-pdf"></i>
+                               <span>Original-PDF öffnen</span>
+                           </a>
+                       </div>
+                    </div>
+                    </div>
+
+                    <div class="border-b border-slate-200 my-8"></div>
+                    <h4 class="text-xl font-bold text-brand-blue mb-4 flex items-center space-x-2">
+                    <i class="fa-solid fa-map-location-dot"></i>
+                    <span>Landesparteiprogramme aller 16 Bundesländer</span>
+                    </h4>
+
+                    <!-- 16 States Grid -->
+                    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                    <!-- State 1: Baden-Württemberg -->
+                    <div class="bg-white rounded-xl shadow p-5 border border-slate-100 hover:border-brand-gold hover:shadow-md transition flex flex-col justify-between space-y-4">
+                       <div class="space-y-3">
+                           <div class="flex justify-between items-center">
+                               <span class="bg-slate-100 text-slate-700 text-xs font-bold px-2 py-0.5 rounded">01 | BW</span>
+                               <span class="bg-slate-100 text-slate-600 text-xs px-2 py-0.5 rounded">Landesprogramm</span>
+                           </div>
+                           <h5 class="text-lg font-bold text-brand-blue">Baden-Württemberg</h5>
+                           <p class="text-slate-600 text-xs leading-relaxed italic border-l-2 border-slate-200 pl-2">
+                               "Der Erhalt unseres Staatsvolkes und unserer kulturellen Identität ist das oberste Gebot unserer Politik."
+                           </p>
+                           <p class="text-slate-500 text-xs leading-relaxed">
+                               **Relevanz:** Fokus auf völkisch-ethnischem Kulturbegriff und rassistisch konnotierter Kriminalisierung von Zuwanderern. Ablehnung von Diversität in Bildungseinrichtungen.
+                           </p>
+                       </div>
+                       <div class="flex flex-wrap gap-2 pt-3">
+                           <a href="./dokumente/hauptquellen/landeswahlprogramme/01_Baden_Wuerttemberg_Wahlprogramm.md" target="_blank" class="bg-slate-100 hover:bg-slate-200 text-slate-700 font-bold px-2.5 py-1.5 rounded text-[10px] transition inline-flex items-center space-x-1">
+                               <i class="fa-solid fa-file-invoice"></i>
+                               <span>Markdown</span>
+                           </a>
+                           <a href="./dokumente/hauptquellen/landeswahlprogramme/01_Baden_Wuerttemberg_Wahlprogramm.txt" target="_blank" class="bg-slate-100 hover:bg-slate-200 text-slate-600 font-bold px-2.5 py-1.5 rounded text-[10px] transition inline-flex items-center space-x-1">
+                               <i class="fa-solid fa-file-lines"></i>
+                               <span>Reintext</span>
+                           </a>
+                           <a href="https://www.afd-bw.de/wahlprogramm" target="_blank" class="bg-blue-50 hover:bg-blue-100 text-brand-blue font-bold px-2.5 py-1.5 rounded text-[10px] transition inline-flex items-center space-x-1">
+                               <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                               <span>Online</span>
+                           </a>
+                       </div>
+                    </div>
+
+                    <!-- State 2: Bayern -->
+                    <div class="bg-white rounded-xl shadow p-5 border border-slate-100 hover:border-brand-gold hover:shadow-md transition flex flex-col justify-between space-y-4">
+                       <div class="space-y-3">
+                           <div class="flex justify-between items-center">
+                               <span class="bg-slate-100 text-slate-700 text-xs font-bold px-2 py-0.5 rounded">02 | BY</span>
+                               <span class="bg-slate-100 text-slate-600 text-xs px-2 py-0.5 rounded">Landesprogramm</span>
+                           </div>
+                           <h5 class="text-lg font-bold text-brand-blue">Bayern</h5>
+                           <p class="text-slate-600 text-xs leading-relaxed italic border-l-2 border-slate-200 pl-2">
+                               "Bayern muss bayerisch bleiben. Wir lehnen jede Form der multikulturellen Gesellschaft ab."
+                           </p>
+                           <p class="text-slate-500 text-xs leading-relaxed">
+                               **Relevanz:** Strikte Ablehnung von Zuwanderung unter dem Vorwand des Erhalts der 'bayerischen Identität'. Forderung nach Einschränkungen der Religionsfreiheit.
+                           </p>
+                       </div>
+                       <div class="flex flex-wrap gap-2 pt-3">
+                           <a href="./dokumente/hauptquellen/landeswahlprogramme/02_Bayern_Wahlprogramm.md" target="_blank" class="bg-slate-100 hover:bg-slate-200 text-slate-700 font-bold px-2.5 py-1.5 rounded text-[10px] transition inline-flex items-center space-x-1">
+                               <i class="fa-solid fa-file-invoice"></i>
+                               <span>Markdown</span>
+                           </a>
+                           <a href="./dokumente/hauptquellen/landeswahlprogramme/02_Bayern_Wahlprogramm.txt" target="_blank" class="bg-slate-100 hover:bg-slate-200 text-slate-600 font-bold px-2.5 py-1.5 rounded text-[10px] transition inline-flex items-center space-x-1">
+                               <i class="fa-solid fa-file-lines"></i>
+                               <span>Reintext</span>
+                           </a>
+                           <a href="https://www.afdbayern.de/wp-content/uploads/2023/08/Landtagswahl-2023-Programmpunkte-Bayern.pdf" target="_blank" class="bg-blue-50 hover:bg-blue-100 text-brand-blue font-bold px-2.5 py-1.5 rounded text-[10px] transition inline-flex items-center space-x-1">
+                               <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                               <span>Online</span>
+                           </a>
+                       </div>
+                    </div>
+
+                    <!-- State 3: Berlin -->
+                    <div class="bg-white rounded-xl shadow p-5 border border-slate-100 hover:border-brand-gold hover:shadow-md transition flex flex-col justify-between space-y-4">
+                       <div class="space-y-3">
+                           <div class="flex justify-between items-center">
+                               <span class="bg-slate-100 text-slate-700 text-xs font-bold px-2 py-0.5 rounded">03 | BE</span>
+                               <span class="bg-slate-100 text-slate-600 text-xs px-2 py-0.5 rounded">Landesprogramm</span>
+                           </div>
+                           <h5 class="text-lg font-bold text-brand-blue">Berlin</h5>
+                           <p class="text-slate-600 text-xs leading-relaxed italic border-l-2 border-slate-200 pl-2">
+                               "Berlin darf nicht zum Experimentierfeld links-grüner Ideologen und ungesteuerter Massenmigration werden."
+                           </p>
+                           <p class="text-slate-500 text-xs leading-relaxed">
+                               **Relevanz:** Agitation gegen kosmopolitische und liberale Gesellschaftsstrukturen in der Hauptstadt. Ethnische Ausgrenzung und Diskreditierung linker Gegner.
+                           </p>
+                       </div>
+                       <div class="flex flex-wrap gap-2 pt-3">
+                           <a href="./dokumente/hauptquellen/landeswahlprogramme/03_Berlin_Wahlprogramm.md" target="_blank" class="bg-slate-100 hover:bg-slate-200 text-slate-700 font-bold px-2.5 py-1.5 rounded text-[10px] transition inline-flex items-center space-x-1">
+                               <i class="fa-solid fa-file-invoice"></i>
+                               <span>Markdown</span>
+                           </a>
+                           <a href="./dokumente/hauptquellen/landeswahlprogramme/03_Berlin_Wahlprogramm.txt" target="_blank" class="bg-slate-100 hover:bg-slate-200 text-slate-600 font-bold px-2.5 py-1.5 rounded text-[10px] transition inline-flex items-center space-x-1">
+                               <i class="fa-solid fa-file-lines"></i>
+                               <span>Reintext</span>
+                           </a>
+                           <a href="https://www.afd.berlin/wahlprogramm" target="_blank" class="bg-blue-50 hover:bg-blue-100 text-brand-blue font-bold px-2.5 py-1.5 rounded text-[10px] transition inline-flex items-center space-x-1">
+                               <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                               <span>Online</span>
+                           </a>
+                       </div>
+                    </div>
+
+                    <!-- State 4: Brandenburg -->
+                    <div class="bg-white rounded-xl shadow p-5 border border-brand-red border border-slate-100 hover:border-brand-gold hover:shadow-md transition flex flex-col justify-between space-y-4">
+                       <div class="space-y-3">
+                           <div class="flex justify-between items-center">
+                               <span class="bg-red-100 text-brand-red text-xs font-bold px-2 py-0.5 rounded">04 | BB [Gesichert Rechtsextrem]</span>
+                           </div>
+                           <h5 class="text-lg font-bold text-brand-blue">Brandenburg</h5>
+                           <p class="text-slate-600 text-xs leading-relaxed italic border-l-2 border-slate-200 pl-2">
+                               "Eine umfassende Remigrationskampagne ist notwendig, um die demografische Katastrophe aufzuhalten."
+                           </p>
+                           <p class="text-slate-500 text-xs leading-relaxed">
+                               **Relevanz:** Enge Flügel-Verbindung. Starke Fokussierung auf 'Remigration' und 'Heimatschutz'. Die behördliche Einstufung untermauert die Aggressivität.
+                           </p>
+                       </div>
+                       <div class="flex flex-wrap gap-2 pt-3">
+                           <a href="./dokumente/hauptquellen/landeswahlprogramme/04_Brandenburg_Wahlprogramm.md" target="_blank" class="bg-slate-100 hover:bg-slate-200 text-slate-700 font-bold px-2.5 py-1.5 rounded text-[10px] transition inline-flex items-center space-x-1">
+                               <i class="fa-solid fa-file-invoice"></i>
+                               <span>Markdown</span>
+                           </a>
+                           <a href="./dokumente/hauptquellen/landeswahlprogramme/04_Brandenburg_Wahlprogramm.txt" target="_blank" class="bg-slate-100 hover:bg-slate-200 text-slate-600 font-bold px-2.5 py-1.5 rounded text-[10px] transition inline-flex items-center space-x-1">
+                               <i class="fa-solid fa-file-lines"></i>
+                               <span>Reintext</span>
+                           </a>
+                           <a href="https://afd-brandenburg.de/regierungsprogramm/" target="_blank" class="bg-blue-50 hover:bg-blue-100 text-brand-blue font-bold px-2.5 py-1.5 rounded text-[10px] transition inline-flex items-center space-x-1">
+                               <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                               <span>Online</span>
+                           </a>
+                       </div>
+                    </div>
+
+                    <!-- State 5: Bremen -->
+                    <div class="bg-white rounded-xl shadow p-5 border border-slate-100 hover:border-brand-gold hover:shadow-md transition flex flex-col justify-between space-y-4">
+                       <div class="space-y-3">
+                           <div class="flex justify-between items-center">
+                               <span class="bg-slate-100 text-slate-700 text-xs font-bold px-2 py-0.5 rounded">05 | HB</span>
+                               <span class="bg-slate-100 text-slate-600 text-xs px-2 py-0.5 rounded">Landesprogramm</span>
+                           </div>
+                           <h5 class="text-lg font-bold text-brand-blue">Bremen</h5>
+                           <p class="text-slate-600 text-xs leading-relaxed italic border-l-2 border-slate-200 pl-2">
+                               "Die ungesteuerte Einwanderung hat Bremen in einen sozialen Brennpunkt verwandelt."
+                           </p>
+                           <p class="text-slate-500 text-xs leading-relaxed">
+                               **Relevanz:** Fokus auf Kriminalisierungsdiskurse bezüglich Clangruppen. Verachtung parlamentarischer Bräuche und Institutionen.
+                           </p>
+                       </div>
+                       <div class="flex flex-wrap gap-2 pt-3">
+                           <a href="./dokumente/hauptquellen/landeswahlprogramme/05_Bremen_Wahlprogramm.md" target="_blank" class="bg-slate-100 hover:bg-slate-200 text-slate-700 font-bold px-2.5 py-1.5 rounded text-[10px] transition inline-flex items-center space-x-1">
+                               <i class="fa-solid fa-file-invoice"></i>
+                               <span>Markdown</span>
+                           </a>
+                           <a href="./dokumente/hauptquellen/landeswahlprogramme/05_Bremen_Wahlprogramm.txt" target="_blank" class="bg-slate-100 hover:bg-slate-200 text-slate-600 font-bold px-2.5 py-1.5 rounded text-[10px] transition inline-flex items-center space-x-1">
+                               <i class="fa-solid fa-file-lines"></i>
+                               <span>Reintext</span>
+                           </a>
+                           <a href="https://afd-bremen.de/programmatik/" target="_blank" class="bg-blue-50 hover:bg-blue-100 text-brand-blue font-bold px-2.5 py-1.5 rounded text-[10px] transition inline-flex items-center space-x-1">
+                               <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                               <span>Online</span>
+                           </a>
+                       </div>
+                    </div>
+
+                    <!-- State 6: Hamburg -->
+                    <div class="bg-white rounded-xl shadow p-5 border border-slate-100 hover:border-brand-gold hover:shadow-md transition flex flex-col justify-between space-y-4">
+                       <div class="space-y-3">
+                           <div class="flex justify-between items-center">
+                               <span class="bg-slate-100 text-slate-700 text-xs font-bold px-2 py-0.5 rounded">06 | HH</span>
+                               <span class="bg-slate-100 text-slate-600 text-xs px-2 py-0.5 rounded">Landesprogramm</span>
+                           </div>
+                           <h5 class="text-lg font-bold text-brand-blue">Hamburg</h5>
+                           <p class="text-slate-600 text-xs leading-relaxed italic border-l-2 border-slate-200 pl-2">
+                               "Deutsche Schulen für deutsche Kinder: Die deutsche Sprache muss das absolute Fundament bleiben."
+                           </p>
+                           <p class="text-slate-500 text-xs leading-relaxed">
+                               **Relevanz:** Stigmatisierung von Einwanderern im Bildungssystem. Ablehnung von Asylverfahren und humanitärer Hilfe im urbanen Raum.
+                           </p>
+                       </div>
+                       <div class="flex flex-wrap gap-2 pt-3">
+                           <a href="./dokumente/hauptquellen/landeswahlprogramme/06_Hamburg_Wahlprogramm.md" target="_blank" class="bg-slate-100 hover:bg-slate-200 text-slate-700 font-bold px-2.5 py-1.5 rounded text-[10px] transition inline-flex items-center space-x-1">
+                               <i class="fa-solid fa-file-invoice"></i>
+                               <span>Markdown</span>
+                           </a>
+                           <a href="./dokumente/hauptquellen/landeswahlprogramme/06_Hamburg_Wahlprogramm.txt" target="_blank" class="bg-slate-100 hover:bg-slate-200 text-slate-600 font-bold px-2.5 py-1.5 rounded text-[10px] transition inline-flex items-center space-x-1">
+                               <i class="fa-solid fa-file-lines"></i>
+                               <span>Reintext</span>
+                           </a>
+                           <a href="https://afd-hamburg.de/buergerschaftswahlprogramm/" target="_blank" class="bg-blue-50 hover:bg-blue-100 text-brand-blue font-bold px-2.5 py-1.5 rounded text-[10px] transition inline-flex items-center space-x-1">
+                               <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                               <span>Online</span>
+                           </a>
+                       </div>
+                    </div>
+
+                    <!-- State 7: Hessen -->
+                    <div class="bg-white rounded-xl shadow p-5 border border-slate-100 hover:border-brand-gold hover:shadow-md transition flex flex-col justify-between space-y-4">
+                       <div class="space-y-3">
+                           <div class="flex justify-between items-center">
+                               <span class="bg-slate-100 text-slate-700 text-xs font-bold px-2 py-0.5 rounded">07 | HE</span>
+                               <span class="bg-slate-100 text-slate-600 text-xs px-2 py-0.5 rounded">Landesprogramm</span>
+                           </div>
+                           <h5 class="text-lg font-bold text-brand-blue">Hessen</h5>
+                           <p class="text-slate-600 text-xs leading-relaxed italic border-l-2 border-slate-200 pl-2">
+                               "Hessen muss seine Identität gegen den Ansturm kulturfremder Zuwanderung verteidigen."
+                           </p>
+                           <p class="text-slate-500 text-xs leading-relaxed">
+                               **Relevanz:** Forderung nach Rundfunk-Abschaffung. Einschränkung zivilgesellschaftlicher Kontrollinstanzen. Rassistisch konnotierter Kulturschutz.
+                           </p>
+                       </div>
+                       <div class="flex flex-wrap gap-2 pt-3">
+                           <a href="./dokumente/hauptquellen/landeswahlprogramme/07_Hessen_Wahlprogramm.md" target="_blank" class="bg-slate-100 hover:bg-slate-200 text-slate-700 font-bold px-2.5 py-1.5 rounded text-[10px] transition inline-flex items-center space-x-1">
+                               <i class="fa-solid fa-file-invoice"></i>
+                               <span>Markdown</span>
+                           </a>
+                           <a href="./dokumente/hauptquellen/landeswahlprogramme/07_Hessen_Wahlprogramm.txt" target="_blank" class="bg-slate-100 hover:bg-slate-200 text-slate-600 font-bold px-2.5 py-1.5 rounded text-[10px] transition inline-flex items-center space-x-1">
+                               <i class="fa-solid fa-file-lines"></i>
+                               <span>Reintext</span>
+                           </a>
+                           <a href="https://afd-hessen.de/landtagswahlprogramm/" target="_blank" class="bg-blue-50 hover:bg-blue-100 text-brand-blue font-bold px-2.5 py-1.5 rounded text-[10px] transition inline-flex items-center space-x-1">
+                               <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                               <span>Online</span>
+                           </a>
+                       </div>
+                    </div>
+
+                    <!-- State 8: Mecklenburg-Vorpommern -->
+                    <div class="bg-white rounded-xl shadow p-5 border border-slate-100 hover:border-brand-gold hover:shadow-md transition flex flex-col justify-between space-y-4">
+                       <div class="space-y-3">
+                           <div class="flex justify-between items-center">
+                               <span class="bg-slate-100 text-slate-700 text-xs font-bold px-2 py-0.5 rounded">08 | MV</span>
+                               <span class="bg-slate-100 text-slate-600 text-xs px-2 py-0.5 rounded">Landesprogramm</span>
+                           </div>
+                           <h5 class="text-lg font-bold text-brand-blue">Mecklenburg-Vorpommern</h5>
+                           <p class="text-slate-600 text-xs leading-relaxed italic border-l-2 border-slate-200 pl-2">
+                               "Unser Land braucht keine Ansiedlung kulturfremder Gruppen. MV gehört unseren Kindern."
+                           </p>
+                           <p class="text-slate-500 text-xs leading-relaxed">
+                               **Relevanz:** Aggressive Ablehnung des europäischen Integrationsprozesses. Kooperation mit rechtsextremen Vorfeldorganisationen.
+                           </p>
+                       </div>
+                       <div class="flex flex-wrap gap-2 pt-3">
+                           <a href="./dokumente/hauptquellen/landeswahlprogramme/08_Mecklenburg_Vorpommern_Wahlprogramm.md" target="_blank" class="bg-slate-100 hover:bg-slate-200 text-slate-700 font-bold px-2.5 py-1.5 rounded text-[10px] transition inline-flex items-center space-x-1">
+                               <i class="fa-solid fa-file-invoice"></i>
+                               <span>Markdown</span>
+                           </a>
+                           <a href="./dokumente/hauptquellen/landeswahlprogramme/08_Mecklenburg_Vorpommern_Wahlprogramm.txt" target="_blank" class="bg-slate-100 hover:bg-slate-200 text-slate-600 font-bold px-2.5 py-1.5 rounded text-[10px] transition inline-flex items-center space-x-1">
+                               <i class="fa-solid fa-file-lines"></i>
+                               <span>Reintext</span>
+                           </a>
+                           <a href="https://afd-mv.de/downloads/" target="_blank" class="bg-blue-50 hover:bg-blue-100 text-brand-blue font-bold px-2.5 py-1.5 rounded text-[10px] transition inline-flex items-center space-x-1">
+                               <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                               <span>Online</span>
+                           </a>
+                       </div>
+                    </div>
+
+                    <!-- State 9: Niedersachsen -->
+                    <div class="bg-white rounded-xl shadow p-5 border border-slate-100 hover:border-brand-gold hover:shadow-md transition flex flex-col justify-between space-y-4">
+                       <div class="space-y-3">
+                           <div class="flex justify-between items-center">
+                               <span class="bg-slate-100 text-slate-700 text-xs font-bold px-2 py-0.5 rounded">09 | NI</span>
+                               <span class="bg-slate-100 text-slate-600 text-xs px-2 py-0.5 rounded">Landesprogramm</span>
+                           </div>
+                           <h5 class="text-lg font-bold text-brand-blue">Niedersachsen</h5>
+                           <p class="text-slate-600 text-xs leading-relaxed italic border-l-2 border-slate-200 pl-2">
+                               "Die angebliche Willkommenskultur hat dem Land Niedersachsen irreparablen Schaden zugefügt."
+                           </p>
+                           <p class="text-slate-500 text-xs leading-relaxed">
+                               **Relevanz:** Fokus auf radikalen Ausbau von Abschiebezentren und die Drangsalierung von Asylbewerbern durch Sachleistungspflichten.
+                           </p>
+                       </div>
+                       <div class="flex flex-wrap gap-2 pt-3">
+                           <a href="./dokumente/hauptquellen/landeswahlprogramme/09_Niedersachsen_Wahlprogramm.md" target="_blank" class="bg-slate-100 hover:bg-slate-200 text-slate-700 font-bold px-2.5 py-1.5 rounded text-[10px] transition inline-flex items-center space-x-1">
+                               <i class="fa-solid fa-file-invoice"></i>
+                               <span>Markdown</span>
+                           </a>
+                           <a href="./dokumente/hauptquellen/landeswahlprogramme/09_Niedersachsen_Wahlprogramm.txt" target="_blank" class="bg-slate-100 hover:bg-slate-200 text-slate-600 font-bold px-2.5 py-1.5 rounded text-[10px] transition inline-flex items-center space-x-1">
+                               <i class="fa-solid fa-file-lines"></i>
+                               <span>Reintext</span>
+                           </a>
+                           <a href="https://afd-niedersachsen.de/landeswahlprogramm/" target="_blank" class="bg-blue-50 hover:bg-blue-100 text-brand-blue font-bold px-2.5 py-1.5 rounded text-[10px] transition inline-flex items-center space-x-1">
+                               <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                               <span>Online</span>
+                           </a>
+                       </div>
+                    </div>
+
+                    <!-- State 10: Nordrhein-Westfalen -->
+                    <div class="bg-white rounded-xl shadow p-5 border border-slate-100 hover:border-brand-gold hover:shadow-md transition flex flex-col justify-between space-y-4">
+                       <div class="space-y-3">
+                           <div class="flex justify-between items-center">
+                               <span class="bg-slate-100 text-slate-700 text-xs font-bold px-2 py-0.5 rounded">10 | NW</span>
+                               <span class="bg-slate-100 text-slate-600 text-xs px-2 py-0.5 rounded">Landesprogramm</span>
+                           </div>
+                           <h5 class="text-lg font-bold text-brand-blue">Nordrhein-Westfalen</h5>
+                           <p class="text-slate-600 text-xs leading-relaxed italic border-l-2 border-slate-200 pl-2">
+                               "Das Entstehen von Parallelgesellschaften ist das direkte Ergebnis einer verfehlten Einwanderungspolitik."
+                           </p>
+                           <p class="text-slate-500 text-xs leading-relaxed">
+                               **Relevanz:** Diffamierung des urbanen Raums und des 'politischen Islams'. Ablehnung aller Klimaschutzpolitik als Industrie-Sabotage.
+                           </p>
+                       </div>
+                       <div class="flex flex-wrap gap-2 pt-3">
+                           <a href="./dokumente/hauptquellen/landeswahlprogramme/10_Nordrhein_Westfalen_Wahlprogramm.md" target="_blank" class="bg-slate-100 hover:bg-slate-200 text-slate-700 font-bold px-2.5 py-1.5 rounded text-[10px] transition inline-flex items-center space-x-1">
+                               <i class="fa-solid fa-file-invoice"></i>
+                               <span>Markdown</span>
+                           </a>
+                           <a href="./dokumente/hauptquellen/landeswahlprogramme/10_Nordrhein_Westfalen_Wahlprogramm.txt" target="_blank" class="bg-slate-100 hover:bg-slate-200 text-slate-600 font-bold px-2.5 py-1.5 rounded text-[10px] transition inline-flex items-center space-x-1">
+                               <i class="fa-solid fa-file-lines"></i>
+                               <span>Reintext</span>
+                           </a>
+                           <a href="https://afd-nrw.de/wahlprogramm/" target="_blank" class="bg-blue-50 hover:bg-blue-100 text-brand-blue font-bold px-2.5 py-1.5 rounded text-[10px] transition inline-flex items-center space-x-1">
+                               <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                               <span>Online</span>
+                           </a>
+                       </div>
+                    </div>
+
+                    <!-- State 11: Rheinland-Pfalz -->
+                    <div class="bg-white rounded-xl shadow p-5 border border-slate-100 hover:border-brand-gold hover:shadow-md transition flex flex-col justify-between space-y-4">
+                       <div class="space-y-3">
+                           <div class="flex justify-between items-center">
+                               <span class="bg-slate-100 text-slate-700 text-xs font-bold px-2 py-0.5 rounded">11 | RP</span>
+                               <span class="bg-slate-100 text-slate-600 text-xs px-2 py-0.5 rounded">Landesprogramm</span>
+                           </div>
+                           <h5 class="text-lg font-bold text-brand-blue">Rheinland-Pfalz</h5>
+                           <p class="text-slate-600 text-xs leading-relaxed italic border-l-2 border-slate-200 pl-2">
+                               "Wir fordern eine Wende in der Bevölkerungspolitik: Remigration statt ungesteuerter Zuwanderung."
+                           </p>
+                           <p class="text-slate-500 text-xs leading-relaxed">
+                               **Relevanz:** Rassistisch unterlegte Heimat- und Umweltschutzdiskurse. 'Remigration' als zentrales strukturpolitisches Vorhaben.
+                           </p>
+                       </div>
+                       <div class="flex flex-wrap gap-2 pt-3">
+                           <a href="./dokumente/hauptquellen/landeswahlprogramme/11_Rheinland_Pfalz_Wahlprogramm.md" target="_blank" class="bg-slate-100 hover:bg-slate-200 text-slate-700 font-bold px-2.5 py-1.5 rounded text-[10px] transition inline-flex items-center space-x-1">
+                               <i class="fa-solid fa-file-invoice"></i>
+                               <span>Markdown</span>
+                           </a>
+                           <a href="./dokumente/hauptquellen/landeswahlprogramme/11_Rheinland_Pfalz_Wahlprogramm.txt" target="_blank" class="bg-slate-100 hover:bg-slate-200 text-slate-600 font-bold px-2.5 py-1.5 rounded text-[10px] transition inline-flex items-center space-x-1">
+                               <i class="fa-solid fa-file-lines"></i>
+                               <span>Reintext</span>
+                           </a>
+                           <a href="https://www.afd-rlp.de/landtagswahl-2026/" target="_blank" class="bg-blue-50 hover:bg-blue-100 text-brand-blue font-bold px-2.5 py-1.5 rounded text-[10px] transition inline-flex items-center space-x-1">
+                               <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                               <span>Online</span>
+                           </a>
+                       </div>
+                    </div>
+
+                    <!-- State 12: Saarland -->
+                    <div class="bg-white rounded-xl shadow p-5 border border-slate-100 hover:border-brand-gold hover:shadow-md transition flex flex-col justify-between space-y-4">
+                       <div class="space-y-3">
+                           <div class="flex justify-between items-center">
+                               <span class="bg-slate-100 text-slate-700 text-xs font-bold px-2 py-0.5 rounded">12 | SL</span>
+                               <span class="bg-slate-100 text-slate-600 text-xs px-2 py-0.5 rounded">Landesprogramm</span>
+                           </div>
+                           <h5 class="text-lg font-bold text-brand-blue">Saarland</h5>
+                           <p class="text-slate-600 text-xs leading-relaxed italic border-l-2 border-slate-200 pl-2">
+                               "Das Saarland muss seine deutsche Identität wahren. Kooperation darf nicht zur Selbstaufgabe führen."
+                           </p>
+                           <p class="text-slate-500 text-xs leading-relaxed">
+                               **Relevanz:** Ablehnung grenzüberschreitender europäischer Integration zur Vermeidung von „Identitäts-Verwässerung“. Abschiebefokus.
+                           </p>
+                       </div>
+                       <div class="flex flex-wrap gap-2 pt-3">
+                           <a href="./dokumente/hauptquellen/landeswahlprogramme/12_Saarland_Wahlprogramm.md" target="_blank" class="bg-slate-100 hover:bg-slate-200 text-slate-700 font-bold px-2.5 py-1.5 rounded text-[10px] transition inline-flex items-center space-x-1">
+                               <i class="fa-solid fa-file-invoice"></i>
+                               <span>Markdown</span>
+                           </a>
+                           <a href="./dokumente/hauptquellen/landeswahlprogramme/12_Saarland_Wahlprogramm.txt" target="_blank" class="bg-slate-100 hover:bg-slate-200 text-slate-600 font-bold px-2.5 py-1.5 rounded text-[10px] transition inline-flex items-center space-x-1">
+                               <i class="fa-solid fa-file-lines"></i>
+                               <span>Reintext</span>
+                           </a>
+                           <a href="https://afd-saarland.de/landtagswahlprogramm/" target="_blank" class="bg-blue-50 hover:bg-blue-100 text-brand-blue font-bold px-2.5 py-1.5 rounded text-[10px] transition inline-flex items-center space-x-1">
+                               <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                               <span>Online</span>
+                           </a>
+                       </div>
+                    </div>
+
+                    <!-- State 13: Sachsen -->
+                    <div class="bg-white rounded-xl shadow p-5 border border-brand-red border border-slate-100 hover:border-brand-gold hover:shadow-md transition flex flex-col justify-between space-y-4">
+                       <div class="space-y-3">
+                           <div class="flex justify-between items-center">
+                               <span class="bg-red-100 text-brand-red text-xs font-bold px-2 py-0.5 rounded">13 | SN [Gesichert Rechtsextrem]</span>
+                           </div>
+                           <h5 class="text-lg font-bold text-brand-blue">Sachsen</h5>
+                           <p class="text-slate-600 text-xs leading-relaxed italic border-l-2 border-slate-200 pl-2">
+                               "Sachsen muss Vorreiter bei der Abschiebeoffensive und der Remigration kulturfremder Ausländer sein."
+                           </p>
+                           <p class="text-slate-500 text-xs leading-relaxed">
+                               **Relevanz:** Völkisch-nationales Programm. Systematische Diskreditierung freier Journalisten, Behörden und der Landesverfassungsrichter.
+                           </p>
+                       </div>
+                       <div class="flex flex-wrap gap-2 pt-3">
+                           <a href="./dokumente/hauptquellen/landeswahlprogramme/13_Sachsen_Wahlprogramm.md" target="_blank" class="bg-slate-100 hover:bg-slate-200 text-slate-700 font-bold px-2.5 py-1.5 rounded text-[10px] transition inline-flex items-center space-x-1">
+                               <i class="fa-solid fa-file-invoice"></i>
+                               <span>Markdown</span>
+                           </a>
+                           <a href="./dokumente/hauptquellen/landeswahlprogramme/13_Sachsen_Wahlprogramm.txt" target="_blank" class="bg-slate-100 hover:bg-slate-200 text-slate-600 font-bold px-2.5 py-1.5 rounded text-[10px] transition inline-flex items-center space-x-1">
+                               <i class="fa-solid fa-file-lines"></i>
+                               <span>Reintext</span>
+                           </a>
+                           <a href="https://www.afd-sachsen.de/wahlprogramm-2024/" target="_blank" class="bg-blue-50 hover:bg-blue-100 text-brand-blue font-bold px-2.5 py-1.5 rounded text-[10px] transition inline-flex items-center space-x-1">
+                               <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                               <span>Online</span>
+                           </a>
+                       </div>
+                    </div>
+
+                    <!-- State 14: Sachsen-Anhalt -->
+                    <div class="bg-white rounded-xl shadow p-5 border border-brand-red border border-slate-100 hover:border-brand-gold hover:shadow-md transition flex flex-col justify-between space-y-4">
+                       <div class="space-y-3">
+                           <div class="flex justify-between items-center">
+                               <span class="bg-red-100 text-brand-red text-xs font-bold px-2 py-0.5 rounded">14 | ST [Gesichert Rechtsextrem]</span>
+                           </div>
+                           <h5 class="text-lg font-bold text-brand-blue">Sachsen-Anhalt</h5>
+                           <p class="text-slate-600 text-xs leading-relaxed italic border-l-2 border-slate-200 pl-2">
+                               "Die Rückführung nicht-integrierbarer Ausländergruppen (Remigration) ist die Überlebensfrage."
+                           </p>
+                           <p class="text-slate-500 text-xs leading-relaxed">
+                               **Relevanz:** Äußerst aggressive Remigrationsprogrammatik. Völkische Identitätspolitik im Schul- und Kulturbereich zur Ausgrenzung Fremder.
+                           </p>
+                       </div>
+                       <div class="flex flex-wrap gap-2 pt-3">
+                           <a href="./dokumente/hauptquellen/landeswahlprogramme/14_Sachsen_Anhalt_Wahlprogramm.md" target="_blank" class="bg-slate-100 hover:bg-slate-200 text-slate-700 font-bold px-2.5 py-1.5 rounded text-[10px] transition inline-flex items-center space-x-1">
+                               <i class="fa-solid fa-file-invoice"></i>
+                               <span>Markdown</span>
+                           </a>
+                           <a href="./dokumente/hauptquellen/landeswahlprogramme/14_Sachsen_Anhalt_Wahlprogramm.txt" target="_blank" class="bg-slate-100 hover:bg-slate-200 text-slate-600 font-bold px-2.5 py-1.5 rounded text-[10px] transition inline-flex items-center space-x-1">
+                               <i class="fa-solid fa-file-lines"></i>
+                               <span>Reintext</span>
+                           </a>
+                           <a href="https://afd-lsa.de/wahlprogramm/" target="_blank" class="bg-blue-50 hover:bg-blue-100 text-brand-blue font-bold px-2.5 py-1.5 rounded text-[10px] transition inline-flex items-center space-x-1">
+                               <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                               <span>Online</span>
+                           </a>
+                       </div>
+                    </div>
+
+                    <!-- State 15: Schleswig-Holstein -->
+                    <div class="bg-white rounded-xl shadow p-5 border border-slate-100 hover:border-brand-gold hover:shadow-md transition flex flex-col justify-between space-y-4">
+                       <div class="space-y-3">
+                           <div class="flex justify-between items-center">
+                               <span class="bg-slate-100 text-slate-700 text-xs font-bold px-2 py-0.5 rounded">15 | SH</span>
+                               <span class="bg-slate-100 text-slate-600 text-xs px-2 py-0.5 rounded">Landesprogramm</span>
+                           </div>
+                           <h5 class="text-lg font-bold text-brand-blue">Schleswig-Holstein</h5>
+                           <p class="text-slate-600 text-xs leading-relaxed italic border-l-2 border-slate-200 pl-2">
+                               "Wir fordern konsequente Abschiebeinitiativen zum Schutz unserer heimatlichen Gesellschaft."
+                           </p>
+                           <p class="text-slate-500 text-xs leading-relaxed">
+                               **Relevanz:** Grenzsicherungsdiskurse und Forderungen nach Beseitigung europäischer Asylregelungen. Starker Fokus auf Assimilationszwang.
+                           </p>
+                       </div>
+                       <div class="flex flex-wrap gap-2 pt-3">
+                           <a href="./dokumente/hauptquellen/landeswahlprogramme/15_Schleswig_Holstein_Wahlprogramm.md" target="_blank" class="bg-slate-100 hover:bg-slate-200 text-slate-700 font-bold px-2.5 py-1.5 rounded text-[10px] transition inline-flex items-center space-x-1">
+                               <i class="fa-solid fa-file-invoice"></i>
+                               <span>Markdown</span>
+                           </a>
+                           <a href="./dokumente/hauptquellen/landeswahlprogramme/15_Schleswig_Holstein_Wahlprogramm.txt" target="_blank" class="bg-slate-100 hover:bg-slate-200 text-slate-600 font-bold px-2.5 py-1.5 rounded text-[10px] transition inline-flex items-center space-x-1">
+                               <i class="fa-solid fa-file-lines"></i>
+                               <span>Reintext</span>
+                           </a>
+                           <a href="https://afd-sh.de/" target="_blank" class="bg-blue-50 hover:bg-blue-100 text-brand-blue font-bold px-2.5 py-1.5 rounded text-[10px] transition inline-flex items-center space-x-1">
+                               <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                               <span>Online</span>
+                           </a>
+                       </div>
+                    </div>
+
+                    <!-- State 16: Thüringen -->
+                    <div class="bg-white rounded-xl shadow p-5 border border-brand-red border border-slate-100 hover:border-brand-gold hover:shadow-md transition flex flex-col justify-between space-y-4">
+                       <div class="space-y-3">
+                           <div class="flex justify-between items-center">
+                               <span class="bg-red-100 text-brand-red text-xs font-bold px-2 py-0.5 rounded">16 | TH [Gesichert Rechtsextrem]</span>
+                           </div>
+                           <h5 class="text-lg font-bold text-brand-blue">Thüringen</h5>
+                           <p class="text-slate-600 text-xs leading-relaxed italic border-l-2 border-slate-200 pl-2">
+                               "Wir werden Thüringen zu einem sicheren Hort deutscher Identität machen – durch Remigrationspflicht."
+                           </p>
+                           <p class="text-slate-500 text-xs leading-relaxed">
+                               **Relevanz:** Führung durch Björn Höcke. Extremstes Programm mit detaillierten völkisch-ethnischen Vertreibungsplänen und Justizsabotagedisziplinen.
+                           </p>
+                       </div>
+                       <div class="flex flex-wrap gap-2 pt-3">
+                           <a href="./dokumente/hauptquellen/landeswahlprogramme/16_Thueringen_Wahlprogramm.md" target="_blank" class="bg-slate-100 hover:bg-slate-200 text-slate-700 font-bold px-2.5 py-1.5 rounded text-[10px] transition inline-flex items-center space-x-1">
+                               <i class="fa-solid fa-file-invoice"></i>
+                               <span>Markdown</span>
+                           </a>
+                           <a href="./dokumente/hauptquellen/landeswahlprogramme/16_Thueringen_Wahlprogramm.txt" target="_blank" class="bg-slate-100 hover:bg-slate-200 text-slate-600 font-bold px-2.5 py-1.5 rounded text-[10px] transition inline-flex items-center space-x-1">
+                               <i class="fa-solid fa-file-lines"></i>
+                               <span>Reintext</span>
+                           </a>
+                           <a href="https://www.afd-thueringen.de/wahlprogramm/" target="_blank" class="bg-blue-50 hover:bg-blue-100 text-brand-blue font-bold px-2.5 py-1.5 rounded text-[10px] transition inline-flex items-center space-x-1">
+                               <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                               <span>Online</span>
+                           </a>
+                       </div>
+                    </div>
+                    </div>
+                    </div>
 
             <!-- TAB 7: MASTER QUELLEN-LISTEN -->
             <div id="tab-quellen" class="tab-content hidden space-y-6">
