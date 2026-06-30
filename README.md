@@ -778,34 +778,34 @@ Dort sind u. a. enthalten:
 
    Beispiele:
 ```
-   [https://github.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/blob/main/ChatGPT_-_Analyse-Beispiel.pdf](https://github.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/blob/main/ChatGPT_-_Analyse-Beispiel.pdf)
-   [https://github.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/blob/main/ChatGPT_-_Analyse-Beispiel-2.pdf](https://github.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/blob/main/ChatGPT_-_Analyse-Beispiel-2.pdf)
-   [https://github.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/blob/main/ChatGPT_-_Analyse-Beispiel-3.pdf](https://github.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/blob/main/ChatGPT_-_Analyse-Beispiel-3.pdf)
-   [https://github.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/blob/main/ChatGPT_-_Analyse-Beispiel-4.pdf](https://github.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/blob/main/ChatGPT_-_Analyse-Beispiel-4.pdf)
+   [ChatGPT_-_Analyse-Beispiel.pdf](./dokumente/hauptquellen/ChatGPT_-_Analyse-Beispiel.pdf)
+   [ChatGPT_-_Analyse-Beispiel-2.pdf](./dokumente/hauptquellen/ChatGPT_-_Analyse-Beispiel-2.pdf)
+   [ChatGPT_-_Analyse-Beispiel-3.pdf](./dokumente/hauptquellen/ChatGPT_-_Analyse-Beispiel-3.pdf)
+   [ChatGPT_-_Analyse-Beispiel-4.pdf](./dokumente/hauptquellen/ChatGPT_-_Analyse-Beispiel-4.pdf)
 ````
    Beispiel 2:
 ```
-   [https://github.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/blob/main/ChatGPT_-_Warum_die_Alternative_f%C3%BCr_Deutschland.pdf](https://github.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/blob/main/ChatGPT_-_Warum_die_Alternative_f%C3%BCr_Deutschland.pdf)
+   [ChatGPT_-_Warum_die_Alternative_für_Deutschland.pdf](./dokumente/hauptquellen/ChatGPT_-_Warum_die_Alternative_für_Deutschland.pdf)
 ````
    Beispiel 3:
 ```   
-   [https://github.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/blob/main/Zitate_Analyse_Hausarbeit.pdf](https://github.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/blob/main/Zitate_Analyse_Hausarbeit.pdf)
+   [Zitate_Analyse_Hausarbeit.pdf](./dokumente/hauptquellen/Zitate_Analyse_Hausarbeit.pdf)
 ````
    Beispiel 4:
 ```
-   [https://github.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/blob/main/Warum_die_AfD_eine_Gefahr_f%C3%BCr_die_Demokratie_ist.pdf](https://github.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/blob/main/Warum_die_AfD_eine_Gefahr_f%C3%BCr_die_Demokratie_ist.pdf)
+   [Warum die AfD eine Gefahr für die Demokratie ist.pdf](./dokumente/hauptquellen/Warum_die_AfD_eine_Gefahr_für_die_Demokratie_ist.pdf)
 ````
    Beispiel 5:
 ```
-   [https://github.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/blob/main/Warum_die_Normalisierung_der_AfD_eine_Gefahr_f%C3%BCr_die_Demokratie_darstellt.pdf](https://github.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/blob/main/Warum_die_Normalisierung_der_AfD_eine_Gefahr_f%C3%BCr_die_Demokratie_darstellt.pdf)
+   [Warum die Normalisierung der AfD eine Gefahr für die Demokratie darstellt.pdf](./dokumente/hauptquellen/Warum_die_Normalisierung_der_AfD_eine_Gefahr_für_die_Demokratie_darstellt.pdf)
 ````
    Beispiel 6:
 ```
-   [https://github.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/blob/main/Claude_-_Warum_ein_AfD-Verbot_verfassungsrechtlich_geboten_und_demokratiepolitisch_%C3%BCberf%C3%A4llig_ist.pdf](https://github.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/blob/main/Claude_-_Warum_ein_AfD-Verbot_verfassungsrechtlich_geboten_und_demokratiepolitisch_%C3%BCberf%C3%A4llig_ist.pdf)
+   [Claude_-_Warum ein AfD-Verbot verfassungsrechtlich geboten und demokratiepolitisch überfällig ist.pdf](./dokumente/hauptquellen/Claude_-_Warum_ein_AfD-Verbot_verfassungsrechtlich_geboten_und_demokratiepolitisch_überfällig_ist.pdf)
 ````
    Beispiel 7:
 ```
-   [https://github.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/blob/main/ChatGPT%20-%20Szenarioanalyse_%20AfD-Wahlsieg%202025%20und%20Regierungs%C3%BCbernahme%20(2025%E2%80%932029](https://github.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/blob/main/ChatGPT%20-%20Szenarioanalyse_%20AfD-Wahlsieg%202025%20und%20Regierungs%C3%BCbernahme%20(2025%E2%80%932029)).pdf
+   [ChatGPT - Szenarioanalyse: AfD-Wahlsieg 2025 und Regierungsübernahme (2025–2029).pdf](./dokumente/hauptquellen/ChatGPT%20-%20Szenarioanalyse_%20AfD-Wahlsieg%202025%20und%20Regierungs%C3%BCbernahme%20(2025%E2%80%932029).pdf)
 ````
 
 5. Wenn wirklich ein Verbotsverfahren anfangen sollte und Sie Staatsanwalt sind, finden sie Möglichkeiten, die noch nicht zugänglichen Quellen in [`quellen.pdf`](./dokumente/hauptquellen/quellen.pdf) , dem Gericht zugänglich zu machen
