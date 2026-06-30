@@ -9,7 +9,7 @@
 
 > 📢 **Dank und Anerkennung:** Ein herzlicher Dank geht an **netzpolitik.org** für ihre großartige Arbeit bei der Erstveröffentlichung und Aufbereitung des 1.000-seitigen Verfassungsschutz-Folgegutachtens zur AfD (`2021-02-22_BfV_AfD_Folgegutachten`). Durch deren hochwertige Digitalisierung konnten wir die Transkriptionen in diesem Repository umfassend aktualisieren und auf ein fehlerfreies Niveau heben.
 
-<img width="1254" height="1254" alt="afd verdachtsfall" src="https://github.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/blob/main/assets/afd%20verdachtsfall.jpg?raw=true" />
+<img width="1254" height="1254" alt="afd verdachtsfall" src="assets/afd%20verdachtsfall.jpg" />
 
 [![Watch on YouTube](https://img.youtube.com/vi/eSgFEpI9ZDQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=eSgFEpI9ZDQ "Auf YouTube ansehen")
 
