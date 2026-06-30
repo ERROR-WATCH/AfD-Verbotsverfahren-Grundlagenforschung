@@ -663,7 +663,7 @@ Dieses Verzeichnis enthält weitere im Archiv erfasste Belege, Zeitungsberichte,
 ## Presse / Medienberichte (HTML)
 - [`03_www.deutschlandfunk.de_afd-einstufung-verfassungsschutz-rechtsextrem-100.html.pdf`](./dokumente/hauptquellen/03_www.deutschlandfunk.de_afd-einstufung-verfassungsschutz-rechtsextrem-100.html.pdf) (Deutschlandfunk)
 - [`04_www.zdfheute.de_politik_deutschland_afd-verfassungsschutz-gutachten-rechtsextremistisch-100.html.pdf`](./dokumente/hauptquellen/04_www.zdfheute.de_politik_deutschland_afd-verfassungsschutz-gutachten-rechtsextremistisch-100.html.pdf) (ZDFheute)
-- [`05_www.dw.com_de_afd-einstufung-verfassungsschutz-rechtsextremismus-geheimdienst-verwaltungsgericht-k%C3%B6ln-nancy-faeser_a-72478906.pdf`](./dokumente/hauptquellen/05_www.dw.com_de_afd-einstufung-verfassungsschutz-rechtsextremismus-geheimdienst-verwaltungsgericht-k%C3%B6ln-nancy-faeser_a-72478906.pdf) (Deutsche Welle)
+- [`05_www.dw.com_de_afd-einstufung-verfassungsschutz-rechtsextremismus-geheimdienst-verwaltungsgericht-koeln-nancy-faeser_a-72478906.pdf`](./dokumente/hauptquellen/05_www.dw.com_de_afd-einstufung-verfassungsschutz-rechtsextremismus-geheimdienst-verwaltungsgericht-koeln-nancy-faeser_a-72478906.pdf) (Deutsche Welle)
 - [`Tagesschau_AfD_Systemmedien.txt`](./dokumente/hauptquellen/Tagesschau_AfD_Systemmedien.txt) (Tagesschau - Offline-Beleg)
 - [`07_www.belltower.news_rassistische-narrative-nach-silvester-neues-jahr-alte-hetze-144885_.pdf`](./dokumente/hauptquellen/07_www.belltower.news_rassistische-narrative-nach-silvester-neues-jahr-alte-hetze-144885_.pdf) (Belltower.News)
 - [`MDR_Investigativ_Chat_Leaks_Thueringen.txt`](./dokumente/hauptquellen/MDR_Investigativ_Chat_Leaks_Thueringen.txt) (MDR Investigativ - Chat Leaks)
@@ -805,7 +805,7 @@ Dort sind u. a. enthalten:
 ````
    Beispiel 7:
 ```
-   [ChatGPT - Szenarioanalyse: AfD-Wahlsieg 2025 und Regierungsübernahme (2025–2029).pdf](./dokumente/hauptquellen/ChatGPT%20-%20Szenarioanalyse_%20AfD-Wahlsieg%202025%20und%20Regierungs%C3%BCbernahme%20(2025%E2%80%932029).pdf)
+   [ChatGPT - Szenarioanalyse: AfD-Wahlsieg 2025 und Regierungsübernahme (2025–2029).pdf](./dokumente/hauptquellen/ChatGPT_-_Szenarioanalyse__AfD-Wahlsieg_2025_und_Regierungs%C3%BCbernahme_%282025%E2%80%932029%29.pdf)
 ````
 
 5. Wenn wirklich ein Verbotsverfahren anfangen sollte und Sie Staatsanwalt sind, finden sie Möglichkeiten, die noch nicht zugänglichen Quellen in [`quellen.pdf`](./dokumente/hauptquellen/quellen.pdf) , dem Gericht zugänglich zu machen
