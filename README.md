@@ -1232,3 +1232,5 @@ Vielen Dank – und in ewigem Gedenken an Bruno.
 Abschließend möchte ich Soso über Rassismus ein paar Worte sagen lassen:
 
 [![Soso über Rassismus](https://img.youtube.com/vi/en99n4pWuzw/0.jpg)](https://www.youtube.com/shorts/en99n4pWuzw)
+
+# Habe fertig !!!
