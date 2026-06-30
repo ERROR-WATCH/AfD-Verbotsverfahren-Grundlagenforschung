@@ -96,7 +96,7 @@ Diese Berichte dokumentieren die extremistische Ausrichtung der regionalen AfD-L
 #### Bundesverfassungsgericht (BVerfG)
 
 * **NPD-Verbotsurteil** (2 BvB 1/13, 17. Januar 2017; BVerfGE 144, 20 ff.)
-  [https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2017/01/bvs20170117_2bvb000113.html [✅ 200 OK]](https://www.bverfg.de/e/bs20170117_2bvb000113.html [✅ 200 OK]) `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/bverfg.de_e_bs20170117_2bvb000113_html.pdf)`
+  [https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2017/01/bvs20170117_2bvb000113.html [✅ 200 OK]](https://www.bverfg.de/e/bs20170117_2bvb000113.html [✅ 200 OK]) `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/BVerfG_2_BvB_1_13_NPD_Urteil_2017.pdf)`
 
 * [BVerfG - SRP-Verbot (Volltext-Entscheidung aus openJur) (OPENJUR Beleg 1)](https://openjur.de/u/132648.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/openjur.de_u_132648_html.pdf)`
 * [Wikipedia - SRP-Urteil (Historischer Abriss des ersten Parteiverbots) (DE Beleg 2)](https://de.wikipedia.org/wiki/Socialist_Reich_Party) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/de.wikipedia.org_wiki_Socialist_Reich_Party.pdf)`

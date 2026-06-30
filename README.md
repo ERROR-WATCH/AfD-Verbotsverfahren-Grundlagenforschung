@@ -629,16 +629,16 @@ Dieses Verzeichnis enthält weitere im Archiv erfasste Belege, Zeitungsberichte,
 </details>
 
 ### F) Skripte & Tools (18)
-- [`skripte/afd-verbot.de-scrape-dependencies.sh`](./skripte/afd-verbot.de-scrape-dependencies.sh)
-- [`skripte/afd-verbot.de-scrape-beweise-zitate.py`](./skripte/afd-verbot.de-scrape-beweise-zitate.py)
-- [`skripte/afd-verbot-linkliste.py`](./skripte/afd-verbot-linkliste.py)
-- [`skripte/afd-verbot-print-proofs.py`](./skripte/afd-verbot-print-proofs.py)
-- [`skripte/pdf-to-md.sh`](./skripte/pdf-to-md.sh)
-- [`skripte/split_pdf.py`](./skripte/split_pdf.py)
-- [`skripte/split10_pdf.py`](./skripte/split10_pdf.py)
-- [`skripte/bulk_ocr_pdfs_to_md.py`](./skripte/bulk_ocr_pdfs_to_md.py)
-- [`skripte/setup_all_ocr_deps.sh`](./skripte/setup_all_ocr_deps.sh)
-- [`skripte/dependencies.sh`](./skripte/dependencies.sh)
+- `skripte/afd-verbot.de-scrape-dependencies.sh`
+- `skripte/afd-verbot.de-scrape-beweise-zitate.py`
+- `skripte/afd-verbot-linkliste.py`
+- `skripte/afd-verbot-print-proofs.py`
+- `skripte/pdf-to-md.sh`
+- `skripte/split_pdf.py`
+- `skripte/split10_pdf.py`
+- `skripte/bulk_ocr_pdfs_to_md.py`
+- `skripte/setup_all_ocr_deps.sh`
+- `skripte/dependencies.sh`
 - [`geheimgutachten/afd-verbot-deepresearch-ausgangspunkt_split_1.txt`](./geheimgutachten/afd-verbot-deepresearch-ausgangspunkt_split_1.txt)
 - [`geheimgutachten/afd-verbot-deepresearch-ausgangspunkt_split_2.txt`](./geheimgutachten/afd-verbot-deepresearch-ausgangspunkt_split_2.txt)
 - [`geheimgutachten/afd-verbot-deepresearch-ausgangspunkt_split_3.txt`](./geheimgutachten/afd-verbot-deepresearch-ausgangspunkt_split_3.txt)
