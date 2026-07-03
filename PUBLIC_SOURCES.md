@@ -4,6 +4,11 @@ Diese Datei listet alle frei verfügbaren Dokumente und Links, die für die Klag
 
 ## Verfassungsschutzberichte (BfV)
 
+* **Verfassungsschutzbericht 2025** (BfV)
+  PDF-Download: [https://www.verfassungsschutz.de/SharedDocs/publikationen/DE/verfassungsschutzberichte/2026-06-30-verfassungsschutzbericht-2025.pdf](https://www.verfassungsschutz.de/SharedDocs/publikationen/DE/verfassungsschutzberichte/2026-06-30-verfassungsschutzbericht-2025.pdf)
+  Lokale Vollversion: [`2026-06-30-verfassungsschutzbericht-2025.pdf`](./dokumente/vfs_berichte_bundeslaender/2026-06-30-verfassungsschutzbericht-2025.pdf)
+  Lokale Kurzfassung: [`2026-06-30-verfassungsschutzbericht-2025-kurz.pdf`](./dokumente/vfs_berichte_bundeslaender/2026-06-30-verfassungsschutzbericht-2025-kurz.pdf)
+
 * **Verfassungsschutzbericht 2023** (BfV)
   PDF-Download: [https://www.verfassungsschutz.de/SharedDocs/publikationen/DE/verfassungsschutzberichte/2024-06-18-verfassungsschutzbericht-2023.pdf?\_\_blob=publicationFile\&v=10](https://www.verfassungsschutz.de/SharedDocs/publikationen/DE/verfassungsschutzberichte/2024-06-18-verfassungsschutzbericht-2023.pdf?__blob=publicationFile&v=10)
   HTML und Kurzfassung: [https://www.verfassungsschutz.de/SharedDocs/publikationen/DE/verfassungsschutzberichte/2024-06-18-verfassungsschutzbericht-2023.html](https://www.verfassungsschutz.de/SharedDocs/publikationen/DE/verfassungsschutzberichte/2024-06-18-verfassungsschutzbericht-2023.html)
