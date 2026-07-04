@@ -16,6 +16,7 @@ Die derzeit robustesten Reihen sind:
 - thematische Treffer und Zitatcluster aus den vorhandenen Gutachten, Verfassungsschutzberichten und dem Urteilsregister.
 
 Diese Reihen werden im Repo als konsistente Primärblöcke gefuehrt, sofern die jeweilige Fundstelle, Jahresfassung und Ebene sichtbar benannt sind.
+Der Statistik-Tab zeigt zusätzlich Volltextmarker fuer BfV 2025, Landesberichte und Gutachten, damit die Auswertung inhaltlich bleibt und nicht bei Inventarzahlen stehenbleibt.
 
 Alles andere bleibt nur dann Statistik, wenn die Zahl aus einer konkreten Quelle mit Fundstelle ableitbar ist.
 
