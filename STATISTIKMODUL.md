@@ -17,6 +17,7 @@ Die derzeit robustesten Reihen sind:
 
 Diese Reihen werden im Repo als konsistente Primärblöcke gefuehrt, sofern die jeweilige Fundstelle, Jahresfassung und Ebene sichtbar benannt sind.
 Der Statistik-Tab zeigt zusätzlich Volltextmarker fuer BfV 2025, Landesberichte und Gutachten, damit die Auswertung inhaltlich bleibt und nicht bei Inventarzahlen stehenbleibt.
+Diese Reihen sind als Berichtstreffer und Kapitelthemen verstanden, nicht als bloße Roh-Wortfrequenzen.
 
 Alles andere bleibt nur dann Statistik, wenn die Zahl aus einer konkreten Quelle mit Fundstelle ableitbar ist.
 
