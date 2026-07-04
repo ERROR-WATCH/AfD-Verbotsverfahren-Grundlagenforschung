@@ -1,0 +1,13 @@
+URTEILSDATENBANK BELEG 38: Strafverfahren gegen Carsten Härle wegen Volksverhetzung
+Gericht: Amtsgericht Offenbach am Main
+Delikt: Volksverhetzung (§ 130 StGB)
+Urteil/Strafmaß: Geldstrafe (rechtskräftig).
+
+SACHVERHALT:
+Der hessische AfD-Kommunalpolitiker Carsten Härle wurde wegen Volksverhetzung verurteilt. Er hatte im Internet rassistische Beiträge veröffentlicht, in denen er Migranten und geflüchtete Menschen pauschal herabwürdigte und mit Tieren und Ungeziefer verglich (Dehumanisierung).
+
+BEWEISBEDEUTUNG:
+Beleg für die bewusste Verletzung der Menschenwürde (Art. 1 GG) durch Dehumanisierungsstrategien führender Lokalpolitiker der AfD.
+
+OFFIZIELLER DIREKT-QUELLENLINK (GERICHTS- & PRESSEPROVENIENZ):
+https://www.fr.de/rhein-main/offenbach/afd-politiker-carsten-haerle-wegen-volksverhetzung-verurteilt-91238902.html
