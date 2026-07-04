@@ -1160,7 +1160,7 @@ Das Gutachten liefert damit eine fundierte juristische Grundlage, um ein Verbots
 
 Alle Quellenangaben sind in den Dateien enthalten.
 
-## Dringlichkeitsantrag
+## Afd und Gold
 
 [![Dringlichkeitsantrag auf YouTube](https://img.youtube.com/vi/VPKaWjqpL10/maxresdefault.jpg)](https://www.youtube.com/watch?v=VPKaWjqpL10)
 
@@ -1186,6 +1186,11 @@ Alle Quellenangaben sind in den Dateien enthalten.
 ## Was AfD-Aussteiger erzählen
 
 [![YouTube](https://img.youtube.com/vi/RoyfB-3NpsQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=RoyfB-3NpsQ)
+
+## Dringlichkeitsantrag
+
+https://github.com/user-attachments/assets/cd1d9830-66fe-422b-a432-2fb35d34d31e
+
 
 ## Ende des Repos
 
