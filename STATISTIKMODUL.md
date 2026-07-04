@@ -97,22 +97,22 @@ Diese Felder sind im Repo inhaltlich angelegt, aber fuer eine harte Zahl oft noc
 Sie koennen nur dann in das Statistikmodul, wenn eine konkrete Quelle, Fundstelle und eine reproduzierbare Berechnung vorliegen.
 
 ## Konkrete Ausbaureserven aus den MD-Korpora
-Diese Auswertungen sind in den vorhandenen MD-Dateien bereits angelegt und koennen als naechste Statistikmodule sauber extrahiert werden:
+Die naechsten belastbaren Auswertungen liegen bereits im Korpus und sollten als strukturierte Statistikachsen umgesetzt werden:
 
-- BfV-Verfassungsschutzbericht 2023 und 2025: AfD-Potenzial, Mitgliederzahlen, Gewaltorientierung, Mobilisierung in sozialen Medien, Passdeutsche, Remigration, Großer Austausch, Bevölkerungsaustausch und Plattformnennungen wie Telegram, TikTok, Instagram, X und Facebook.
-- Landesverfassungsschutzberichte 2023/2024: AfD-Status je Bundesland, Nennungen von Landesverband, Jugendorganisation, Vorfeld, Netzwerken und digitaler Propaganda; besonders geeignet fuer eine Bundesland-Matrix mit Status, Thema und Fundstelle.
-- BfV-Folgegutachten 2021: Kapitelauswertungen nach Menschenwuerde, Demokratieprinzip, Rechtsstaatsprinzip, Nationalsozialismus und Verbindungen; daraus lassen sich Kapitel-, Abschnitts- und Akteursstatistiken ableiten.
-- BfV-Sonderberichte zu Rechtsextremismus im Internet, Musik, Symbolen und Antisemitismus: daraus lassen sich Plattform-, Kanal- und Motivstatistiken extrahieren, ohne Social-Media-Hinweise mit amtlichen Lagezahlen zu vermischen.
-- Gutachten-Methodik und Gesamtwuerdigung: belastbare Querschnittszahlen zu Personen, Organisationseinheiten, Bundes-/Land-/Kreisebene, Verbindungen, Reaktionen und Freundschaften.
-- Urteilsregister: sauber trennbare Reihen nach Delikt, Verfahrensstatus, Bundesland, AfD-Bezug und Akteursrolle.
+- BfV-Verfassungsschutzbericht 2023/2025: AfD-Potenzial, Mitgliederzahl, Gewaltorientierung, Mobilisierung, Plattformnennungen und Kernnarrative.
+- Landesverfassungsschutzberichte 2023/2024: AfD-Status je Bundesland, Jugendorganisation, Vorfeld, Netzwerke und digitale Propaganda.
+- BfV-Folgegutachten 2021: Kapitelstatistiken zu Menschenwuerde, Demokratieprinzip, Rechtsstaatsprinzip, Nationalsozialismus und Verbindungen.
+- Sonderberichte zu Internet, Musik, Symbolen und Antisemitismus: Plattform-, Kanal- und Motivstatistiken.
+- Urteilsregister: Delikt, Verfahrensstatus, Bundesland, AfD-Bezug und Akteursrolle.
 
-Am meisten Zusatzwert liefern dabei nicht weitere Gesamtzahlen, sondern folgende neue Statistikachsen:
-- Ebene: Bund, Land, Kreis, Kommune, Parteieinheit, Jugendorganisation, Vorfeld.
-- Zeit: Jahr, Berichtsfassung, Auswertungszeitraum, Vorher-Nachher-Vergleich.
-- Narrativ: Remigration, ethnischer Volksbegriff, Minderheitenfeindlichkeit, Medienfeindlichkeit, Gewalt/Widerstand, NS-Relativierung, Demokratieverachtung, Russlandnaehe, digitale Mobilisierung.
+Die wichtigsten neuen Achsen sind:
+- Ebene: Bund, Land, Kreis, Kommune, Partei, Jugend, Vorfeld.
+- Zeit: Jahr, Berichtsfassung, Zeitraum.
+- Narrativ: Remigration, ethnischer Volksbegriff, Medienfeindlichkeit, Gewalt/Widerstand, NS-Relativierung, Islamfeindlichkeit, Demokratieverachtung.
 - Plattform: Telegram, TikTok, Instagram, X, Facebook, YouTube, Messenger, Foren.
-- Rollen: Funktionstraeger, Mandatstraeger, einfache Mitglieder, Vorfeldakteure, Medienakteure, Influencer.
-- Rechtsstatus: Verdacht, Einstufung, laufendes Verfahren, rechtskraeftiges Urteil, Einstellung, Strafbefehl.
+- Rechtsstatus: Verdacht, Einstufung, laufend, rechtskraeftig, eingestellt, Strafbefehl.
+
+Die Quellenliste bleibt unten im Modul bzw. in `full-sources.md` fuer die Nachpruefung erhalten.
 
 ## Belegqualitaet
 | Stufe | Bedeutung | Verwendung |
