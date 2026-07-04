@@ -9078,3 +9078,17 @@ Die AfD und ihr Umfeld testen in den Jahren 2024/2025 systematisch die Grenzen d
 *   **Hitlergruß-Äquivalente:** Im Dezember 2025 wurde der AfD-MdB Matthias Moosdorf wegen eines „Hackenschlags mit Hitlergruß“ im Bundestag angeklagt (Moosdorf spricht von einem „politischen Spektakel“). Im Juni 2026 geriet der sachsen-anhaltinische Landeschef Martin Reichardt wegen eines gehobenen Arms in die Kritik, den er als „humoresken Ritterschlag“ umdeutete. Ebenso wurde ein Brandenburger AfD-Plakat wegen Ähnlichkeiten zum Hitlergruß im Februar 2026 strafrechtlich geahndet.
 *   **Der Kühnen-Gruß:** Die Modifikation des Hitlergrußes mit drei abgespreizten Fingern (Widerstandsgruß) wird auf Versammlungen zunehmend gezeigt. Diese bewusste Provokation und anschließende Umdeutung dient der Festigung des radikalen Milieus, während man sich nach außen juristisch unangreifbar geben will – eine Strategie, der die deutsche Justiz 2025/2026 mit einer strikten Null-Toleranz-Linie begegnet.
 
+---
+
+## Statistikquellen und konsistente Auswertungsbasis (Stand: 04.07.2026)
+
+Die im Statistik-Tab angezeigten Kennzahlen sind dokumentiert in [`statistikquellen.md`](./statistikquellen.md). Diese Quelle ist Teil des Quellen-Tabs und konsolidiert die reproduzierbare Zaehlbasis fuer:
+
+* Portalbestand: `index.html` Arrays `cases`, `quotes`, `documents`
+* Gutachten: `geheimgutachten/`, `geheimgutachten_netzpolitik/`, Gutachten-Splits in `dokumente/splits/`
+* RAG-Belege: `dataset/A__aktuelle_gefahr__0000.jsonl`, `dataset/A__potenzial__0000.jsonl`, `dataset/A__zielrichtung__0000.jsonl`
+* Verfassungsschutzberichte: `dokumente/vfs_berichte_bundeslaender/`, einschlaegige VS-Splits und lokale Hauptquellen
+* BfV-Verfassungsschutzbericht 2025: [`2026-06-30-verfassungsschutzbericht-2025.pdf`](./dokumente/vfs_berichte_bundeslaender/2026-06-30-verfassungsschutzbericht-2025.pdf) und Kurzfassung [`2026-06-30-verfassungsschutzbericht-2025-kurz.pdf`](./dokumente/vfs_berichte_bundeslaender/2026-06-30-verfassungsschutzbericht-2025-kurz.pdf)
+
+Zaehlmethodik: lokale Auswertung mit `pdftotext -layout` fuer PDF-Volltexte, JSONL-Zeilenzaehlung fuer RAG-Belegpassagen, strukturierte Auswertung der Portal-Arrays und regexbasierte Themenzaehlung. Themenstatistiken sind Trefferzahlen, keine semantischen Fallzahlen.
+
