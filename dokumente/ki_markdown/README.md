@@ -1166,8 +1166,6 @@ Alle Quellenangaben sind in den Dateien enthalten.
 
 [![YouTube: Todesstatistiken](https://img.youtube.com/vi/bH8QCgEg680/maxresdefault.jpg)](https://www.youtube.com/watch?v=bH8QCgEg680 "Auf YouTube ansehen")
 
-Lokale Arbeitskopie: `/home/error/Downloads/Dringlichkeitsantrag.mp4`
-
 ---
 
 [![YouTube Video: Einführung](https://img.youtube.com/vi/Pb21x8gALRg/maxresdefault.jpg)](https://www.youtube.com/watch?v=Pb21x8gALRg)
