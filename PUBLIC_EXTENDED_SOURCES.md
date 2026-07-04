@@ -1,5 +1,15 @@
 # Vollständige Quellenliste: AfD-Parteiverbotsverfahren nach Art. 21 Abs. 2 GG
 
+## 0. Statistik-Konsistenzblock
+
+Diese Quelle liste ist die verbindliche Referenz fuer die Statistikschicht des Repositories. Als konsistente Primärbloecke gelten hier nur:
+- BfV/BMI-Verfassungsschutzberichte und Lageberichte,
+- BKA-PMK-Fallzahlen,
+- BfV-Folgegutachten und zugehoerige Gutachtenkopien,
+- Gerichtsentscheidungen und Urteilsregister im Repository.
+
+Diese Bloecke werden in der Statistik nicht mit technischen Repo-Zaehlungen, journalistischen Hinweisen oder offenen Recherchefeldern vermischt.
+
 ## 1. VERFASSUNGSRECHTLICHE GRUNDLAGEN
 
 ### Grundgesetz und Verfahrensrecht
@@ -58,6 +68,7 @@
 ### Verfassungsschutzberichte (BfV/BMI)
 
 **Verfassungsschutzbericht 2024**
+- **Konsistenzstatus**: konsistenter amtlicher Primärblock fuer die Statistikschicht
 - **Vollständiger Titel**: Verfassungsschutzbericht 2024
 - **Herausgeber**: Bundesministerium des Innern und für Heimat
 - **Erscheinungsdatum**: 2025
@@ -67,6 +78,7 @@
 - **Relevanz**: **ENTSCHEIDEND** - Dokumentiert Hochstufung der AfD zur "gesichert rechtsextremistischen Bestrebung" (März 2025); Auflösung der Jungen Alternative
 
 **Verfassungsschutzbericht 2023**
+- **Konsistenzstatus**: konsistenter amtlicher Primärblock fuer die Statistikschicht
 - **Vollständiger Titel**: Verfassungsschutzbericht 2023
 - **Erscheinungsdatum**: 18. Juni 2024
 - **Dokument-Nr.**: BMI24018
@@ -83,6 +95,7 @@
 ### BKA-Berichte zu politisch motivierter Kriminalität
 
 **PMK-Statistik 2024**
+- **Konsistenzstatus**: konsistenter amtlicher Primärblock fuer die Statistikschicht
 - **Vollständiger Titel**: Politisch motivierte Kriminalität - Bundesweite Fallzahlen 2024
 - **Herausgeber**: Bundeskriminalamt
 - **Erscheinungsdatum**: 2025
@@ -91,6 +104,7 @@
 - **Relevanz**: **ZENTRAL** - Rekordanstieg: 84.172 PMK-Straftaten (+40,22%), davon 42.788 rechtsmotiviert (+47,8%)
 
 **PMK-Statistik 2023**
+- **Konsistenzstatus**: konsistenter amtlicher Primärblock fuer die Statistikschicht
 - **Erscheinungsdatum**: 21. Mai 2024
 - **URL**: https://www.bka.de/SharedDocs/Downloads/DE/UnsereAufgaben/Deliktsbereiche/PMK/2023PMKFallzahlen.pdf
 - **Verfügbarkeit**: Öffentlich
@@ -109,6 +123,7 @@
 ### Bundestagsdrucksachen
 
 **Antrag auf AfD-Verbotsverfahren**
+- **Konsistenzstatus**: parlamentarischer Primärblock mit hoher statistischer Verwertbarkeit
 - **Vollständiger Titel**: "Antrag auf Entscheidung des Deutschen Bundestages über die Einleitung eines Verfahrens zur Feststellung der Verfassungswidrigkeit der 'Alternative für Deutschland'"
 - **Erscheinungsdatum**: 13. November 2024
 - **Drucksachen-Nr.**: 20/13750

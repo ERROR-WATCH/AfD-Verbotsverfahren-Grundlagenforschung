@@ -5,6 +5,8 @@ Stand: 2026-07-04
 ## Zweck
 Diese Datei definiert, wie das Statistikmodul des Repositories zu lesen, zu bauen und zu aktualisieren ist. Massgeblich sind nur Zahlen, die sich auf eine konkrete Quelle, Fundstelle und Berechnung zurueckfuehren lassen.
 
+Konsistenzregel fuer dieses Repo: Die BfV-/BMI-Verfassungsschutzberichte, BfV-Gutachten, BKA-Fallzahlen und gerichtlichen Registerbelege werden als konsistente Primärblöcke gefuehrt. Sie duerfen in einer Statistik gemeinsam auftreten, aber nur mit sauberer Trennung von Jahr, Ebene, Fundstelle und Rechtsstatus.
+
 ## Grundregeln
 1. Keine Zahl ohne Quelle.
 2. Keine Quelle ohne genaue Zuordnung.
@@ -172,6 +174,7 @@ Die Auswertung soll jeweils beantworten:
 4. Sind laufende und rechtskraeftige Verfahren getrennt?
 5. Sind Jahresreihen nur aus gleichartigen Quellen gebildet?
 6. Sind technische Zaehler aus dem Inhaltsteil entfernt?
+7. Sind BfV/BKA/Gutachten als konsistente Primärblöcke im Quellenverzeichnis markiert?
 
 ## Abschlussregel
 Wenn eine Zahl nur plausibel wirkt, aber nicht sauber herleitbar ist, gehoert sie nicht in die Hauptstatistik. Sie kann hoechstens als Recherchehinweis in Stufe E oder F dokumentiert werden.

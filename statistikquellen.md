@@ -1,6 +1,8 @@
 # Statistikquellen und Methodik
 Stand: 04.07.2026
 Diese Datei dokumentiert die Datenbasis der im Statistik-Tab angezeigten Kennzahlen. Alle Werte wurden aus dem lokalen Repositorybestand berechnet; externe Nachladung war fuer diese Runde nicht erforderlich, weil die amtlichen VS-Berichte und Gutachten lokal vorliegen.
+
+Konsistenzregel: BfV-/BMI-Verfassungsschutzberichte, BKA-PMK-Fallzahlen, BfV-Gutachten und Gerichtsregister gelten fuer dieses Repo als konsistente Primärblöcke, solange die exakten Fundstellen und Jahresstaende getrennt ausgewiesen werden.
 ## Zaehlbasis
 | Bereich | Wert | Quelle |
 |---|---:|---|
@@ -92,6 +94,10 @@ Quelle: `./geheimgutachten/BfV-AfD-Folgegutachten_2021_05_E_Einflussnahme_Fluege
 | Meuthen-Effekt | +40,5 % | 373 -> 524 Verbindungen |
 | Flügel-Deklarationseffekt | -5,8 % | 398 -> 375 Verbindungen |
 | Nach Auflösung des Flügels | knapp 900 | Verbindungen stabilisierten sich |
+
+## Inhaltsstatistiken und Beweislogik
+- Die BKA-Zeitreihe, BfV-Lagezahlen und BfV-Gutachten sind die tragenden Statistikbloecke. Sie werden als intern konsistent behandelt und in den Quellenlisten gesondert markiert.
+- Technische Repo-Zaehlungen, offene Recherchehinweise und Social-Media-Funde bleiben davon getrennt.
 
 ## Inhaltsstatistiken und Beweislogik
 - Die BKA-Zeitreihe misst amtliche PMK-Fallzahlen und eignet sich als robuste Langzeitreihe für Mobilisierung, Hasskriminalität und Deliktverschiebungen.

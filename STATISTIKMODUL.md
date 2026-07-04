@@ -15,6 +15,8 @@ Die derzeit robustesten Reihen sind:
 - BfV-Folgegutachten 2021 (Netzwerk- und Einflusszahlen),
 - thematische Treffer und Zitatcluster aus den vorhandenen Gutachten, Verfassungsschutzberichten und dem Urteilsregister.
 
+Diese Reihen werden im Repo als konsistente Primärblöcke gefuehrt, sofern die jeweilige Fundstelle, Jahresfassung und Ebene sichtbar benannt sind.
+
 Alles andere bleibt nur dann Statistik, wenn die Zahl aus einer konkreten Quelle mit Fundstelle ableitbar ist.
 
 ## Was hier als Statistik gilt
