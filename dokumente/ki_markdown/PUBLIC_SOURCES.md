@@ -125,7 +125,7 @@ Dieses Verzeichnis enthält weitere im Archiv erfasste Belege, Zeitungsberichte,
 | Datei (Direkter Klick-Link) | Inhalt / Beschreibung |
 | :--- | :--- |
 | [`2023PMKFallzahlen.pdf`](./dokumente/hauptquellen/2023PMKFallzahlen.pdf) | 2023PMKFallzahlen |
-| [`2025-06-10-verfassungsschutzbericht-2024-startseitenmodul.pdf`](./dokumente/hauptquellen/2025-06-10-verfassungsschutzbericht-2024-startseitenmodul.pdf) | 2025-06-10-verfassungsschutzbericht-2024-startseitenmodul |
+| [`2025-06-10-verfassungsschutzbericht-2024-startseitenmodul.pdf`](./dokumente/hauptquellen/BfV_Verfassungsschutzbericht_2024.pdf) | 2025-06-10-verfassungsschutzbericht-2024-startseitenmodul |
 | [`25-03-27_Erster-Bericht-Zu-Rechtsextremen-Aktivitaeten-In-Neukoelln.pdf`](./dokumente/hauptquellen/25-03-27_Erster-Bericht-Zu-Rechtsextremen-Aktivitaeten-In-Neukoelln.pdf) | 25-03-27 Erster-Bericht-Zu-Rechtsextremen-Aktivitaeten-In-Neukoelln |
 | [`AfD-Anhänger_zeigt_Hitlergruß_bei_Demo_in_Unna__Die_Polizei_ermittelt_sofort.pdf`](./dokumente/hauptquellen/AfD-Anh%C3%A4nger_zeigt_Hitlergru%C3%9F_bei_Demo_in_Unna__Die_Polizei_ermittelt_sofort.pdf) | AfD-Anhänger zeigt Hitlergruß bei Demo in Unna Die Polizei ermittelt sofort |
 | [`AfD-Austritt_in_Berlin__Neonazismus-Vorwürfe_gegen_Tino_Chrupalla.pdf`](./dokumente/hauptquellen/AfD-Austritt_in_Berlin__Neonazismus-Vorw%C3%BCrfe_gegen_Tino_Chrupalla.pdf) | AfD-Austritt in Berlin Neonazismus-Vorwürfe gegen Tino Chrupalla |
@@ -154,7 +154,7 @@ Dieses Verzeichnis enthält weitere im Archiv erfasste Belege, Zeitungsberichte,
 | [`Attacken_auf_Parteibüros_in_Flensburg__Tatverdächiger_in_U-Haft.pdf`](./dokumente/hauptquellen/Attacken_auf_Parteib%C3%BCros_in_Flensburg__Tatverd%C3%A4chiger_in_U-Haft.pdf) | Attacken auf Parteibüros in Flensburg Tatverdächiger in U-Haft |
 | [`Beatrix_von_Storch__So_will_die_AfD_mit_Kulturkampf_Wahlen_gewinnen.pdf`](./dokumente/hauptquellen/Beatrix_von_Storch__So_will_die_AfD_mit_Kulturkampf_Wahlen_gewinnen.pdf) | Beatrix von Storch So will die AfD mit Kulturkampf Wahlen gewinnen |
 | [`Behindertenfeindlichkeit_der_AfD.pdf`](./dokumente/hauptquellen/Behindertenfeindlichkeit_der_AfD.pdf) | Behindertenfeindlichkeit der AfD |
-| [`BelltowerNews_Rassistische_Silvester_Narrative.pdf`](./dokumente/hauptquellen/BelltowerNews_Rassistische_Silvester_Narrative.pdf) | BelltowerNews Rassistische Silvester Narrative |
+| [`BelltowerNews_Rassistische_Silvester_Narrative.pdf`](./dokumente/hauptquellen/BelltowerNews_Rassistische_Silvester_Narrative_Original.pdf) | BelltowerNews Rassistische Silvester Narrative |
 | [`BelltowerNews_Rassistische_Silvester_Narrative_Original.pdf`](./dokumente/hauptquellen/BelltowerNews_Rassistische_Silvester_Narrative_Original.pdf) | BelltowerNews Rassistische Silvester Narrative Original |
 | [`Berlin__Betrunkener_Polizeischüler_soll_Mann_geschlagen_haben_-_DER_SPIEGEL.pdf`](./dokumente/hauptquellen/Berlin__Betrunkener_Polizeisch%C3%BCler_soll_Mann_geschlagen_haben_-_DER_SPIEGEL.pdf) | Berlin Betrunkener Polizeischüler soll Mann geschlagen haben - DER SPIEGEL |
 | [`Berliner_Aufruf__AfD-Verbotsverfahren_im_Bundesrat_einleiten_–_JETZT!___WeAct.pdf`](./dokumente/hauptquellen/Berliner_Aufruf__AfD-Verbotsverfahren_im_Bundesrat_einleiten_%E2%80%93_JETZT%21___WeAct.pdf) | Berliner Aufruf AfD-Verbotsverfahren im Bundesrat einleiten – JETZT! WeAct |
@@ -166,15 +166,15 @@ Dieses Verzeichnis enthält weitere im Archiv erfasste Belege, Zeitungsberichte,
 | [`CDU_und_SPD_verschaffen_konservativer_Denkfabrik_R21_staatliche_Fördergelder.pdf`](./dokumente/hauptquellen/CDU_und_SPD_verschaffen_konservativer_Denkfabrik_R21_staatliche_F%C3%B6rdergelder.pdf) | CDU und SPD verschaffen konservativer Denkfabrik R21 staatliche Fördergelder |
 | [`Campact_Petition_AfD_Verbotsverfahren.pdf`](./dokumente/hauptquellen/Campact_Petition_AfD_Verbotsverfahren.pdf) | Campact Petition AfD Verbotsverfahren |
 | [`CeMAS_Active_Clubs_in_Germany_2024.pdf`](./dokumente/hauptquellen/CeMAS_Active_Clubs_in_Germany_2024.pdf) | CeMAS Active Clubs in Germany 2024 |
-| [`CeMAS_Kameradschaft_Fitness_Faschismus_Active_Clubs.pdf`](./dokumente/hauptquellen/CeMAS_Kameradschaft_Fitness_Faschismus_Active_Clubs.pdf) | CeMAS Kameradschaft Fitness Faschismus Active Clubs |
+| [`CeMAS_Kameradschaft_Fitness_Faschismus_Active_Clubs.pdf`](./dokumente/hauptquellen/CeMAS_Active_Clubs_in_Germany_2024.pdf) | CeMAS Kameradschaft Fitness Faschismus Active Clubs |
 | [`ChatGPT-Agent-Repo_Analyse_durchführen.pdf`](./dokumente/hauptquellen/ChatGPT-Agent-Repo_Analyse_durchf%C3%BChren.pdf) | ChatGPT-Agent-Repo Analyse durchführen |
 | [`ChatGPT_-_Szenarioanalyse__AfD-Wahlsieg_2025_und_Regierungsübernahme_(2025–2029).pdf`](./dokumente/hauptquellen/ChatGPT_-_Szenarioanalyse__AfD-Wahlsieg_2025_und_Regierungs%C3%BCbernahme_%282025%E2%80%932029%29.pdf) | ChatGPT - Szenarioanalyse AfD-Wahlsieg 2025 und Regierungsübernahme (2025–2029) |
 | [`Christian_Lüth___Wir_können_die_nachher_immer_noch_alle_erschießen____DIE_ZEIT.pdf`](./dokumente/hauptquellen/Christian_L%C3%BCth___Wir_k%C3%B6nnen_die_nachher_immer_noch_alle_erschie%C3%9Fen____DIE_ZEIT.pdf) | Christian Lüth Wir können die nachher immer noch alle erschießen DIE ZEIT |
 | [`Chronik_rechter_und_rassistischer_Gewalt_der_Woche.pdf`](./dokumente/hauptquellen/Chronik_rechter_und_rassistischer_Gewalt_der_Woche.pdf) | Chronik rechter und rassistischer Gewalt der Woche |
 | [`Correctiv-Recherche_zeigt_Straftäter_unter_AfD-Abgeordneten.pdf`](./dokumente/hauptquellen/Correctiv-Recherche_zeigt_Straft%C3%A4ter_unter_AfD-Abgeordneten.pdf) | Correctiv-Recherche zeigt Straftäter unter AfD-Abgeordneten |
 | [`DIMR_Analyse_Warum_die_AfD_verboten_werden_koennte.pdf`](./dokumente/hauptquellen/DIMR_Analyse_Warum_die_AfD_verboten_werden_koennte.pdf) | DIMR Analyse Warum die AfD verboten werden koennte |
-| [`DIMR_Analyse_Warum_die_AfD_verboten_werden_koennte_Original.pdf`](./dokumente/hauptquellen/DIMR_Analyse_Warum_die_AfD_verboten_werden_koennte_Original.pdf) | DIMR Analyse Warum die AfD verboten werden koennte Original |
-| [`DW_Aussetzung_der_AfD_Einstufung.pdf`](./dokumente/hauptquellen/DW_Aussetzung_der_AfD_Einstufung.pdf) | DW Aussetzung der AfD Einstufung |
+| [`DIMR_Analyse_Warum_die_AfD_verboten_werden_koennte_Original.pdf`](./dokumente/hauptquellen/DIMR_Analyse_Warum_die_AfD_verboten_werden_koennte.pdf) | DIMR Analyse Warum die AfD verboten werden koennte Original |
+| [`DW_Aussetzung_der_AfD_Einstufung.pdf`](./dokumente/hauptquellen/DW_Aussetzung_der_AfD_Einstufung_Original.pdf) | DW Aussetzung der AfD Einstufung |
 | [`DW_Aussetzung_der_AfD_Einstufung_Original.pdf`](./dokumente/hauptquellen/DW_Aussetzung_der_AfD_Einstufung_Original.pdf) | DW Aussetzung der AfD Einstufung Original |
 | [`Dario_Seifert__Dieser_Ex-Neonazi_soll_die_AfD_zum_Erfolg_führen.pdf`](./dokumente/hauptquellen/Dario_Seifert__Dieser_Ex-Neonazi_soll_die_AfD_zum_Erfolg_f%C3%BChren.pdf) | Dario Seifert Dieser Ex-Neonazi soll die AfD zum Erfolg führen |
 | [`Debunked__Die_10_häufigsten_Fakes_über_das_AfD-Verbotsverfahren_-_Volksverpetzer.pdf`](./dokumente/hauptquellen/Debunked__Die_10_h%C3%A4ufigsten_Fakes_%C3%BCber_das_AfD-Verbotsverfahren_-_Volksverpetzer.pdf) | Debunked Die 10 häufigsten Fakes über das AfD-Verbotsverfahren - Volksverpetzer |
@@ -375,22 +375,22 @@ Ende der öffentlich zugänglichen Quellen.
   Lokale Quelle: [`AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf`](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)
 
 * **Gesamtregister aller Gerichtsentscheidungen & Urteile (TXT-Volltext)**
-  Lokale Quelle: [`AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.txt`](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.txt)
+  Lokale Quelle: [`AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.txt`](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.md)
 
 * **BfV-Lagebericht: Reichsbürger-Putschversuch - Mittäterin Birgit Malsack-Winkemann (Volltext)**
-  Lokale Quelle: [`36_Birgit_Malsack_Winkemann_Reichsbuerger_BGH.txt`](./dokumente/hauptquellen/urteilsbelege/36_Birgit_Malsack_Winkemann_Reichsbuerger_BGH.txt)
+  Lokale Quelle: [`36_Birgit_Malsack_Winkemann_Reichsbuerger_BGH.txt`](./dokumente/hauptquellen/urteilsbelege/36_Birgit_Malsack_Winkemann_Reichsbuerger_BGH.md)
 
 * **Dienstgerichtliche Versetzung in den Ruhestand - Richter Jens Maier (Volltext)**
-  Lokale Quelle: [`35_Jens_Maier_Richter_Ruhestand_DG_Leipzig.txt`](./dokumente/hauptquellen/urteilsbelege/35_Jens_Maier_Richter_Ruhestand_DG_Leipzig.txt)
+  Lokale Quelle: [`35_Jens_Maier_Richter_Ruhestand_DG_Leipzig.txt`](./dokumente/hauptquellen/urteilsbelege/35_Jens_Maier_Richter_Ruhestand_DG_Leipzig.md)
 
 * **Ermittlungsverfahren wegen Volksverhetzung - Abgeordnete Beatrix von Storch (Volltext)**
-  Lokale Quelle: [`41_Beatrix_von_Storch_Volksverhetzung_Ermittlung.txt`](./dokumente/hauptquellen/urteilsbelege/41_Beatrix_von_Storch_Volksverhetzung_Ermittlung.txt)
+  Lokale Quelle: [`41_Beatrix_von_Storch_Volksverhetzung_Ermittlung.txt`](./dokumente/hauptquellen/urteilsbelege/41_Beatrix_von_Storch_Volksverhetzung_Ermittlung.md)
 
 * **BfV-Lagebericht: Spionage und Landesverrat - Krah-Assistent Jian G. (Volltext)**
   Lokale Quelle: [`AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf`](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)
 
 * **Gesamtregister aller Gerichtsentscheidungen & Urteile (TXT-Volltext)**
-  Lokale Quelle: [`AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.txt`](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.txt)
+  Lokale Quelle: [`AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.txt`](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.md)
 
 
 
@@ -404,19 +404,19 @@ Ende der öffentlich zugänglichen Quellen.
   Lokale Quelle: [`BfV_Sonderbericht_Symbole_Zeichen_und_verbotene_Organisationen_2022.pdf`](./dokumente/vfs_rechtsextremismus/BfV_Sonderbericht_Symbole_Zeichen_und_verbotene_Organisationen_2022.pdf)
 
 * **BfV-Lagebericht: Spionage und Landesverrat - Krah-Assistent Jian G. (Volltext)**
-  Lokale Quelle: [`27_Jian_G_Spionage_Krah_OLG_Dresden.txt`](./dokumente/hauptquellen/urteilsbelege/27_Jian_G_Spionage_Krah_OLG_Dresden.txt)
+  Lokale Quelle: [`27_Jian_G_Spionage_Krah_OLG_Dresden.txt`](./dokumente/hauptquellen/urteilsbelege/27_Jian_G_Spionage_Krah_OLG_Dresden.md)
 
 * **Correctiv-Lagebericht: Gewalt als Alternative - Straftäter in der AfD**
-  Lokale Quelle: [`29_Thorsten_Czuppon_Falschanzeige_LG_Erfurt.txt`](./dokumente/hauptquellen/urteilsbelege/29_Thorsten_Czuppon_Falschanzeige_LG_Erfurt.txt)
+  Lokale Quelle: [`29_Thorsten_Czuppon_Falschanzeige_LG_Erfurt.txt`](./dokumente/hauptquellen/urteilsbelege/29_Thorsten_Czuppon_Falschanzeige_LG_Erfurt.md)
 
 * **Correctiv-Lagebericht: Betrugsfälle - Abgeordnete Wiebke Muhsal (Volltext)**
-  Lokale Quelle: [`30_Wiebke_Muhsal_Betrug_LG_Erfurt.txt`](./dokumente/hauptquellen/urteilsbelege/30_Wiebke_Muhsal_Betrug_LG_Erfurt.txt)
+  Lokale Quelle: [`30_Wiebke_Muhsal_Betrug_LG_Erfurt.txt`](./dokumente/hauptquellen/urteilsbelege/30_Wiebke_Muhsal_Betrug_LG_Erfurt.md)
 
 * **BfV-Lagebericht: Spionage und Landesverrat - Krah-Assistent Jian G. (Volltext)**
-  Lokale Quelle: [`27_Jian_G_Spionage_Krah_OLG_Dresden.txt`](./dokumente/hauptquellen/urteilsbelege/27_Jian_G_Spionage_Krah_OLG_Dresden.txt)
+  Lokale Quelle: [`27_Jian_G_Spionage_Krah_OLG_Dresden.txt`](./dokumente/hauptquellen/urteilsbelege/27_Jian_G_Spionage_Krah_OLG_Dresden.md)
 
 * **BfV-Lagebericht: Ermittlungen gegen Maximilian Krah (Volltext)**
-  Lokale Quelle: [`28_Maximilian_Krah_Ermittlungsverfahren_GBA.txt`](./dokumente/hauptquellen/urteilsbelege/28_Maximilian_Krah_Ermittlungsverfahren_GBA.txt)
+  Lokale Quelle: [`28_Maximilian_Krah_Ermittlungsverfahren_GBA.txt`](./dokumente/hauptquellen/urteilsbelege/28_Maximilian_Krah_Ermittlungsverfahren_GBA.md)
 
 
 
@@ -456,7 +456,7 @@ Ende der öffentlich zugänglichen Quellen.
 
 * **DIMR / Hendrik Cremer: Warum die AfD verboten werden koennte (offizielle PDF, 2023)**
   Online: [https://www.institut-fuer-menschenrechte.de/fileadmin/Redaktion/Publikationen/Analyse_Studie/Analyse_Warum_die_AfD_verboten_werden_koennte.pdf](https://www.institut-fuer-menschenrechte.de/fileadmin/Redaktion/Publikationen/Analyse_Studie/Analyse_Warum_die_AfD_verboten_werden_koennte.pdf)
-  Lokale Archivkopie: [`DIMR_Analyse_Warum_die_AfD_verboten_werden_koennte_Official_2023.pdf`](./dokumente/hauptquellen/DIMR_Analyse_Warum_die_AfD_verboten_werden_koennte_Official_2023.pdf)
+  Lokale Archivkopie: [`DIMR_Analyse_Warum_die_AfD_verboten_werden_koennte_Official_2023.pdf`](./dokumente/hauptquellen/DIMR_Analyse_Warum_die_AfD_verboten_werden_koennte.pdf)
 
 * **tagesschau.de: BGH bestaetigt Hoecke-Urteile wegen NS-Parole (11.09.2025)**
   Online: [https://www.tagesschau.de/inland/innenpolitik/urteil-bestaetigung-hoecke-100.html](https://www.tagesschau.de/inland/innenpolitik/urteil-bestaetigung-hoecke-100.html)
@@ -469,7 +469,7 @@ Ende der öffentlich zugänglichen Quellen.
 | :--- | :--- |
 | [`LfV_Mecklenburg_Vorpommern_Verfassungsschutzbericht_2024_full.pdf`](./dokumente/vfs_berichte_bundeslaender/LfV_Mecklenburg_Vorpommern_Verfassungsschutzbericht_2024_full.pdf) | [https://verfassungsschutzberichte.de/pdfs/vsbericht-mv-2024.pdf](https://verfassungsschutzberichte.de/pdfs/vsbericht-mv-2024.pdf) |
 | [`LfV_Mecklenburg_Vorpommern_Verfassungsschutzbericht_2024_full.txt`](./dokumente/vfs_berichte_bundeslaender/LfV_Mecklenburg_Vorpommern_Verfassungsschutzbericht_2024_full.txt) | [https://verfassungsschutzberichte.de/mecklenburg-vorpommern-2024.txt](https://verfassungsschutzberichte.de/mecklenburg-vorpommern-2024.txt) |
-| [`LfV_Saarland_Verfassungsschutzbericht_2024_full.pdf`](./dokumente/vfs_berichte_bundeslaender/LfV_Saarland_Verfassungsschutzbericht_2024_full.pdf) | [https://verfassungsschutzberichte.de/pdfs/vsbericht-sl-2024.pdf](https://verfassungsschutzberichte.de/pdfs/vsbericht-sl-2024.pdf) |
+| [Externes Original-PDF Saarland 2024 (>100 MB, nicht im Git-Archiv)](https://verfassungsschutzberichte.de/pdfs/vsbericht-sl-2024.pdf) | [https://verfassungsschutzberichte.de/pdfs/vsbericht-sl-2024.pdf](https://verfassungsschutzberichte.de/pdfs/vsbericht-sl-2024.pdf) |
 | [`LfV_Saarland_Verfassungsschutzbericht_2024_full.txt`](./dokumente/vfs_berichte_bundeslaender/LfV_Saarland_Verfassungsschutzbericht_2024_full.txt) | [https://verfassungsschutzberichte.de/saarland-2024.txt](https://verfassungsschutzberichte.de/saarland-2024.txt) |
 | [`LfV_Sachsen_Anhalt_Verfassungsschutzbericht_2024_full.pdf`](./dokumente/vfs_berichte_bundeslaender/LfV_Sachsen_Anhalt_Verfassungsschutzbericht_2024_full.pdf) | [https://verfassungsschutzberichte.de/pdfs/vsbericht-st-2024.pdf](https://verfassungsschutzberichte.de/pdfs/vsbericht-st-2024.pdf) |
 | [`LfV_Sachsen_Anhalt_Verfassungsschutzbericht_2024_full.txt`](./dokumente/vfs_berichte_bundeslaender/LfV_Sachsen_Anhalt_Verfassungsschutzbericht_2024_full.txt) | [https://verfassungsschutzberichte.de/sachsen-anhalt-2024.txt](https://verfassungsschutzberichte.de/sachsen-anhalt-2024.txt) |

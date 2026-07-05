@@ -15,72 +15,26 @@
 | `afd-verbot-deepresearch-ausgangspunkt.txt` | `dokumente/ki_markdown/afd-verbot-deepresearch-ausgangspunkt.md` | txt |
 | `dashboard/statistik.html` | `dokumente/ki_markdown/dashboard/statistik.md` | html |
 | `daten/README.md` | `dokumente/ki_markdown/daten/README.md` | md |
-| `dokumente/hauptquellen/01_cemas.io_en_blog_active-clubs-in-germany_.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/01_cemas.io_en_blog_active-clubs-in-germany_.md` | pdf |
-| `dokumente/hauptquellen/01_dserver.bundestag.de_btd_20_010_2001020.pdf.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/01_dserver.bundestag.de_btd_20_010_2001020.pdf.md` | pdf |
-| `dokumente/hauptquellen/01_www_verfassungsschutz_de_SharedDocs_publikationen_DE_verfassungsschutzberichte_2024-06-18-verfassungsschutzbericht-2023.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/01_www_verfassungsschutz_de_SharedDocs_publikationen_DE_verfassungsschutzberichte_2024-06-18-verfassungsschutzbericht-2023.md` | pdf |
-| `dokumente/hauptquellen/02_dserver.bundestag.de_btd_20_133_2013317.pdf.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/02_dserver.bundestag.de_btd_20_133_2013317.pdf.md` | pdf |
-| `dokumente/hauptquellen/02_www.institut-fuer-menschenrechte.de_fileadmin_Redaktion_Publikationen_Analyse_Studie_Analyse_Warum_die_AfD_verboten_werden_koennte.pdf.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/02_www.institut-fuer-menschenrechte.de_fileadmin_Redaktion_Publikationen_Analyse_Studie_Analyse_Warum_die_AfD_verboten_werden_koennte.pdf.md` | pdf |
-| `dokumente/hauptquellen/02_www_verfassungsschutz_de_SharedDocs_publikationen_DE_verfassungsschutzberichte_2024-06-18-verfassungsschutzbericht-2023.html.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/02_www_verfassungsschutz_de_SharedDocs_publikationen_DE_verfassungsschutzberichte_2024-06-18-verfassungsschutzbericht-2023.html.md` | pdf |
-| `dokumente/hauptquellen/03_dserver.bundestag.de_btp_20_20203.pdf.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/03_dserver.bundestag.de_btp_20_20203.pdf.md` | pdf |
-| `dokumente/hauptquellen/03_www.deutschlandfunk.de_afd-einstufung-verfassungsschutz-rechtsextrem-100.html.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/03_www.deutschlandfunk.de_afd-einstufung-verfassungsschutz-rechtsextrem-100.html.md` | pdf |
-| `dokumente/hauptquellen/03_www_verfassungsschutz_de_SharedDocs_publikationen_DE_verfassungsschutzberichte_2025-06-10-verfassungsschutzbericht-2024.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/03_www_verfassungsschutz_de_SharedDocs_publikationen_DE_verfassungsschutzberichte_2025-06-10-verfassungsschutzbericht-2024.md` | pdf |
-| `dokumente/hauptquellen/04_www.zdfheute.de_politik_deutschland_afd-verfassungsschutz-gutachten-rechtsextremistisch-100.html.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/04_www.zdfheute.de_politik_deutschland_afd-verfassungsschutz-gutachten-rechtsextremistisch-100.html.md` | pdf |
-| `dokumente/hauptquellen/04_www_verfassungsschutz_de_SharedDocs_publikationen_DE_verfassungsschutzberichte_2025-06-10-verfassungsschutzbericht-2024.html.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/04_www_verfassungsschutz_de_SharedDocs_publikationen_DE_verfassungsschutzberichte_2025-06-10-verfassungsschutzbericht-2024.html.md` | pdf |
-| `dokumente/hauptquellen/05_www.dw.com_de_afd-einstufung-verfassungsschutz-rechtsextremismus-geheimdienst-verwaltungsgericht-koeln-nancy-faeser_a-72478906.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/05_www.dw.com_de_afd-einstufung-verfassungsschutz-rechtsextremismus-geheimdienst-verwaltungsgericht-koeln-nancy-faeser_a-72478906.md` | pdf |
-| `dokumente/hauptquellen/05_www.dw.com_de_afd-einstufung-verfassungsschutz-rechtsextremismus-geheimdienst-verwaltungsgericht-köln-nancy-faeser_a-72478906.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/05_www.dw.com_de_afd-einstufung-verfassungsschutz-rechtsextremismus-geheimdienst-verwaltungsgericht-köln-nancy-faeser_a-72478906.md` | pdf |
-| `dokumente/hauptquellen/05_www_bmi_bund_de_SharedDocs_downloads_DE_publikationen_themen_sicherheit_vsb2023-BMI24018.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/05_www_bmi_bund_de_SharedDocs_downloads_DE_publikationen_themen_sicherheit_vsb2023-BMI24018.md` | pdf |
-| `dokumente/hauptquellen/06_www_bmi_bund_de_SharedDocs_downloads_DE_publikationen_themen_sicherheit_BMI25029-vsb2024.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/06_www_bmi_bund_de_SharedDocs_downloads_DE_publikationen_themen_sicherheit_BMI25029-vsb2024.md` | pdf |
-| `dokumente/hauptquellen/07_cemas.io_en_blog_active-clubs-in-germany_.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/07_cemas.io_en_blog_active-clubs-in-germany_.md` | pdf |
-| `dokumente/hauptquellen/07_dserver_bundestag_de_btd_20_010_2001020.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/07_dserver_bundestag_de_btd_20_010_2001020.md` | pdf |
-| `dokumente/hauptquellen/07_www.belltower.news_rassistische-narrative-nach-silvester-neues-jahr-alte-hetze-144885_.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/07_www.belltower.news_rassistische-narrative-nach-silvester-neues-jahr-alte-hetze-144885_.md` | pdf |
-| `dokumente/hauptquellen/08_dserver_bundestag_de_btd_20_133_2013317.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/08_dserver_bundestag_de_btd_20_133_2013317.md` | pdf |
-| `dokumente/hauptquellen/08_www.institut-fuer-menschenrechte.de_fileadmin_Redaktion_Publikationen_Analyse_Studie_Analyse_Warum_die_AfD_verboten_werden_koennte.pdf.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/08_www.institut-fuer-menschenrechte.de_fileadmin_Redaktion_Publikationen_Analyse_Studie_Analyse_Warum_die_AfD_verboten_werden_koennte.pdf.md` | pdf |
-| `dokumente/hauptquellen/09_dserver_bundestag_de_btp_20_20203.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/09_dserver_bundestag_de_btp_20_20203.md` | pdf |
-| `dokumente/hauptquellen/09_www.deutschlandfunk.de_afd-einstufung-verfassungsschutz-rechtsextrem-100.html.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/09_www.deutschlandfunk.de_afd-einstufung-verfassungsschutz-rechtsextrem-100.html.md` | pdf |
-| `dokumente/hauptquellen/10_www.zdfheute.de_politik_deutschland_afd-verfassungsschutz-gutachten-rechtsextremistisch-100.html.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/10_www.zdfheute.de_politik_deutschland_afd-verfassungsschutz-gutachten-rechtsextremistisch-100.html.md` | pdf |
-| `dokumente/hauptquellen/11_www.dw.com_de_afd-einstufung-verfassungsschutz-rechtsextremismus-geheimdienst-verwaltungsgericht-k%C3%B6ln-nancy-faeser_a-72478906.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/11_www.dw.com_de_afd-einstufung-verfassungsschutz-rechtsextremismus-geheimdienst-verwaltungsgericht-k%C3%B6ln-nancy-faeser_a-72478906.md` | pdf |
-| `dokumente/hauptquellen/11_www.dw.com_de_afd-einstufung-verfassungsschutz-rechtsextremismus-geheimdienst-verwaltungsgericht-köln-nancy-faeser_a-72478906.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/11_www.dw.com_de_afd-einstufung-verfassungsschutz-rechtsextremismus-geheimdienst-verwaltungsgericht-köln-nancy-faeser_a-72478906.md` | pdf |
-| `dokumente/hauptquellen/13_www.belltower.news_rassistische-narrative-nach-silvester-neues-jahr-alte-hetze-144885_.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/13_www.belltower.news_rassistische-narrative-nach-silvester-neues-jahr-alte-hetze-144885_.md` | pdf |
-| `dokumente/hauptquellen/13_www.campact.de_afd-verbotsverfahren_petition.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/13_www.campact.de_afd-verbotsverfahren_petition.md` | pdf |
-| `dokumente/hauptquellen/18_verfassungsschutzberichte.de_.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/18_verfassungsschutzberichte.de_.md` | pdf |
 | `dokumente/hauptquellen/2023PMKFallzahlen.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/2023PMKFallzahlen.md` | pdf |
-| `dokumente/hauptquellen/2025-06-10-verfassungsschutzbericht-2024-startseitenmodul.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/2025-06-10-verfassungsschutzbericht-2024-startseitenmodul.md` | pdf |
 | `dokumente/hauptquellen/22_www.tagesschau.de_inland_innenpolitik_afd-rechtsextrem-verfassungsschutz-100.html.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/22_www.tagesschau.de_inland_innenpolitik_afd-rechtsextrem-verfassungsschutz-100.html.md` | pdf |
 | `dokumente/hauptquellen/25-03-27_Erster-Bericht-Zu-Rechtsextremen-Aktivitaeten-In-Neukoelln.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/25-03-27_Erster-Bericht-Zu-Rechtsextremen-Aktivitaeten-In-Neukoelln.md` | pdf |
 | `dokumente/hauptquellen/44Rechtliche_Stellungnahme_AfD-Parteiverbot.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/44Rechtliche_Stellungnahme_AfD-Parteiverbot.md` | pdf |
-| `dokumente/hauptquellen/AfD - Vox mingle with ex-US Border Patrol chief white nationalist leader at remigration summit – POLITICO.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/AfD - Vox mingle with ex-US Border Patrol chief white nationalist leader at remigration summit – POLITICO.md` | pdf |
 | `dokumente/hauptquellen/AfD muss Geschäftsstelle in Berlin räumen.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/AfD muss Geschäftsstelle in Berlin räumen.md` | pdf |
-| `dokumente/hauptquellen/AfD und CDU streichen Fördergelder_ „Demokratie Leben“ stirbt im Ilm-Kreis _ taz.de.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/AfD und CDU streichen Fördergelder_ „Demokratie Leben“ stirbt im Ilm-Kreis _ taz.de.md` | pdf |
 | `dokumente/hauptquellen/AfD und Identitäre Bewegung_ An einem Strang - Ausgabe 756.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/AfD und Identitäre Bewegung_ An einem Strang - Ausgabe 756.md` | pdf |
 | `dokumente/hauptquellen/AfD-Anhänger zeigt Hitlergruß bei Demo in Unna_ Die Polizei ermittelt sofort.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/AfD-Anhänger zeigt Hitlergruß bei Demo in Unna_ Die Polizei ermittelt sofort.md` | pdf |
-| `dokumente/hauptquellen/AfD-Anhänger_zeigt_Hitlergruß_bei_Demo_in_Unna__Die_Polizei_ermittelt_sofort.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/AfD-Anhänger_zeigt_Hitlergruß_bei_Demo_in_Unna__Die_Polizei_ermittelt_sofort.md` | pdf |
 | `dokumente/hauptquellen/AfD-Austritt in Berlin_ Neonazismus-Vorwürfe gegen Tino Chrupalla.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/AfD-Austritt in Berlin_ Neonazismus-Vorwürfe gegen Tino Chrupalla.md` | pdf |
-| `dokumente/hauptquellen/AfD-Austritt_in_Berlin__Neonazismus-Vorwürfe_gegen_Tino_Chrupalla.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/AfD-Austritt_in_Berlin__Neonazismus-Vorwürfe_gegen_Tino_Chrupalla.md` | pdf |
-| `dokumente/hauptquellen/AfD-Entscheidung des Verwaltungsgerichts Wiesbaden steht bevor _ FAZ.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/AfD-Entscheidung des Verwaltungsgerichts Wiesbaden steht bevor _ FAZ.md` | pdf |
 | `dokumente/hauptquellen/AfD-Entscheidung_des_Verwaltungsgerichts_Wiesbaden_steht_bevor___FAZ.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/AfD-Entscheidung_des_Verwaltungsgerichts_Wiesbaden_steht_bevor___FAZ.md` | pdf |
-| `dokumente/hauptquellen/AfD-Fraktion nur noch Gruppierung im Stuttgarter Gemeinderat - SWR Aktuell.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/AfD-Fraktion nur noch Gruppierung im Stuttgarter Gemeinderat - SWR Aktuell.md` | pdf |
 | `dokumente/hauptquellen/AfD-Fraktion_nur_noch_Gruppierung_im_Stuttgarter_Gemeinderat_-_SWR_Aktuell.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/AfD-Fraktion_nur_noch_Gruppierung_im_Stuttgarter_Gemeinderat_-_SWR_Aktuell.md` | pdf |
 | `dokumente/hauptquellen/AfD-Funktionär-Kampagnen-Organisator und Online-Mobber - Volksverpetzer.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/AfD-Funktionär-Kampagnen-Organisator und Online-Mobber - Volksverpetzer.md` | pdf |
-| `dokumente/hauptquellen/AfD-Funktionär-Kampagnen-Organisator_und_Online-Mobber_-_Volksverpetzer.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/AfD-Funktionär-Kampagnen-Organisator_und_Online-Mobber_-_Volksverpetzer.md` | pdf |
 | `dokumente/hauptquellen/AfD-Landeschef Martin Reichardt musste Fake-KI-Bild löschen _ taz.de.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/AfD-Landeschef Martin Reichardt musste Fake-KI-Bild löschen _ taz.de.md` | pdf |
-| `dokumente/hauptquellen/AfD-Landeschef_Martin_Reichardt_musste_Fake-KI-Bild_löschen___taz.de.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/AfD-Landeschef_Martin_Reichardt_musste_Fake-KI-Bild_löschen___taz.de.md` | pdf |
-| `dokumente/hauptquellen/AfD-Mitarbeiter im Bundestag_ Der Securitymann mit dem Sicherheitsrisiko _ DIE ZEIT.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/AfD-Mitarbeiter im Bundestag_ Der Securitymann mit dem Sicherheitsrisiko _ DIE ZEIT.md` | pdf |
 | `dokumente/hauptquellen/AfD-Mitarbeiter_im_Bundestag__Der_Securitymann_mit_dem_Sicherheitsrisiko___DIE_ZEIT.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/AfD-Mitarbeiter_im_Bundestag__Der_Securitymann_mit_dem_Sicherheitsrisiko___DIE_ZEIT.md` | pdf |
-| `dokumente/hauptquellen/AfD-Politiker Halemba muss vor Gericht _ BR24.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/AfD-Politiker Halemba muss vor Gericht _ BR24.md` | pdf |
 | `dokumente/hauptquellen/AfD-Politiker beleidigt 15-Jährige auf Facebook.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/AfD-Politiker beleidigt 15-Jährige auf Facebook.md` | pdf |
 | `dokumente/hauptquellen/AfD-Politiker_Halemba_muss_vor_Gericht___BR24.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/AfD-Politiker_Halemba_muss_vor_Gericht___BR24.md` | pdf |
-| `dokumente/hauptquellen/AfD-Politiker_beleidigt_15-Jährige_auf_Facebook.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/AfD-Politiker_beleidigt_15-Jährige_auf_Facebook.md` | pdf |
 | `dokumente/hauptquellen/AfD-Spende_ Bundestag sieht Tatverdacht bestätigt.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/AfD-Spende_ Bundestag sieht Tatverdacht bestätigt.md` | pdf |
-| `dokumente/hauptquellen/AfD-Spende__Bundestag_sieht_Tatverdacht_bestätigt.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/AfD-Spende__Bundestag_sieht_Tatverdacht_bestätigt.md` | pdf |
 | `dokumente/hauptquellen/AfD-Spitze unter Druck_ Unterstützer fordern keine Mäßigung – sondern radikalen Kurs.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/AfD-Spitze unter Druck_ Unterstützer fordern keine Mäßigung – sondern radikalen Kurs.md` | pdf |
-| `dokumente/hauptquellen/AfD-Spitze_unter_Druck__Unterstützer_fordern_keine_Mäßigung_–_sondern_radikalen_Kurs.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/AfD-Spitze_unter_Druck__Unterstützer_fordern_keine_Mäßigung_–_sondern_radikalen_Kurs.md` | pdf |
 | `dokumente/hauptquellen/AfD-Verbot hätte laut neuem Gutachten „wahrscheinlich Erfolg“.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/AfD-Verbot hätte laut neuem Gutachten „wahrscheinlich Erfolg“.md` | pdf |
 | `dokumente/hauptquellen/AfD-Verbot_ Alle Anträge, Abstimmungen und Gutachten.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/AfD-Verbot_ Alle Anträge, Abstimmungen und Gutachten.md` | pdf |
-| `dokumente/hauptquellen/AfD-Verbot__Alle_Anträge,_Abstimmungen_und_Gutachten.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/AfD-Verbot__Alle_Anträge,_Abstimmungen_und_Gutachten.md` | pdf |
-| `dokumente/hauptquellen/AfD-Verbot_hätte_laut_neuem_Gutachten_„wahrscheinlich_Erfolg“.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/AfD-Verbot_hätte_laut_neuem_Gutachten_„wahrscheinlich_Erfolg“.md` | pdf |
-| `dokumente/hauptquellen/AfD_ Gold aus Erbschaft wohl nach Liechtenstein gebracht – Fragen bleiben offen - DER SPIEGEL.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/AfD_ Gold aus Erbschaft wohl nach Liechtenstein gebracht – Fragen bleiben offen - DER SPIEGEL.md` | pdf |
 | `dokumente/hauptquellen/AfD_ Schwurblerin und Identitärer kriegen keinen Hausausweis.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/AfD_ Schwurblerin und Identitärer kriegen keinen Hausausweis.md` | pdf |
-| `dokumente/hauptquellen/AfD_ Verdacht auf Informationsweitergabe an Russland - DER SPIEGEL.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/AfD_ Verdacht auf Informationsweitergabe an Russland - DER SPIEGEL.md` | pdf |
 | `dokumente/hauptquellen/AfD_ Wie Demokraten mit Verfassungsfeinden umgehen können.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/AfD_ Wie Demokraten mit Verfassungsfeinden umgehen können.md` | pdf |
 | `dokumente/hauptquellen/AfD_ Überwachungsbehörde nimmt Europapartei ins Visier.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/AfD_ Überwachungsbehörde nimmt Europapartei ins Visier.md` | pdf |
 | `dokumente/hauptquellen/AfD_-_Vox_mingle_with_ex-US_Border_Patrol_chief_white_nationalist_leader_at_remigration_summit_–_POLITICO.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/AfD_-_Vox_mingle_with_ex-US_Border_Patrol_chief_white_nationalist_leader_at_remigration_summit_–_POLITICO.md` | pdf |
@@ -89,26 +43,16 @@
 | `dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.md` | pdf |
 | `dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.md` | txt |
 | `dokumente/hauptquellen/AfD_Landeswahlprogramm_Sachsen_Anhalt_2026.md` | `dokumente/ki_markdown/dokumente/hauptquellen/AfD_Landeswahlprogramm_Sachsen_Anhalt_2026.md` | md |
-| `dokumente/hauptquellen/AfD_Landeswahlprogramm_Sachsen_Anhalt_2026.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/AfD_Landeswahlprogramm_Sachsen_Anhalt_2026.md` | txt |
 | `dokumente/hauptquellen/AfD__Gold_aus_Erbschaft_wohl_nach_Liechtenstein_gebracht_–_Fragen_bleiben_offen_-_DER_SPIEGEL.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/AfD__Gold_aus_Erbschaft_wohl_nach_Liechtenstein_gebracht_–_Fragen_bleiben_offen_-_DER_SPIEGEL.md` | pdf |
-| `dokumente/hauptquellen/AfD__Schwurblerin_und_Identitärer_kriegen_keinen_Hausausweis.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/AfD__Schwurblerin_und_Identitärer_kriegen_keinen_Hausausweis.md` | pdf |
 | `dokumente/hauptquellen/AfD__Verdacht_auf_Informationsweitergabe_an_Russland_-_DER_SPIEGEL.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/AfD__Verdacht_auf_Informationsweitergabe_an_Russland_-_DER_SPIEGEL.md` | pdf |
-| `dokumente/hauptquellen/AfD__Wie_Demokraten_mit_Verfassungsfeinden_umgehen_können.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/AfD__Wie_Demokraten_mit_Verfassungsfeinden_umgehen_können.md` | pdf |
-| `dokumente/hauptquellen/AfD__Überwachungsbehörde_nimmt_Europapartei_ins_Visier.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/AfD__Überwachungsbehörde_nimmt_Europapartei_ins_Visier.md` | pdf |
-| `dokumente/hauptquellen/AfD_muss_Geschäftsstelle_in_Berlin_räumen.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/AfD_muss_Geschäftsstelle_in_Berlin_räumen.md` | pdf |
 | `dokumente/hauptquellen/AfD_und_CDU_streichen_Fördergelder__„Demokratie_Leben“_stirbt_im_Ilm-Kreis___taz.de.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/AfD_und_CDU_streichen_Fördergelder__„Demokratie_Leben“_stirbt_im_Ilm-Kreis___taz.de.md` | pdf |
-| `dokumente/hauptquellen/AfD_und_Identitäre_Bewegung__An_einem_Strang_-_Ausgabe_756.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/AfD_und_Identitäre_Bewegung__An_einem_Strang_-_Ausgabe_756.md` | pdf |
 | `dokumente/hauptquellen/AfD‑Jugend.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/AfD‑Jugend.md` | pdf |
-| `dokumente/hauptquellen/Alice Weidel_ Hass gegen Syrer unter Instagram-Post hat Folgen - SWR Aktuell.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Alice Weidel_ Hass gegen Syrer unter Instagram-Post hat Folgen - SWR Aktuell.md` | pdf |
 | `dokumente/hauptquellen/Alice_Weidel__Hass_gegen_Syrer_unter_Instagram-Post_hat_Folgen_-_SWR_Aktuell.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Alice_Weidel__Hass_gegen_Syrer_unter_Instagram-Post_hat_Folgen_-_SWR_Aktuell.md` | pdf |
 | `dokumente/hauptquellen/Analyse in den Bundesländern_ Mehr rechte Gewalt als bekannt _ taz.de.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Analyse in den Bundesländern_ Mehr rechte Gewalt als bekannt _ taz.de.md` | pdf |
 | `dokumente/hauptquellen/Analyse_Die_AfD_eine_Gefahr_fuer_Menschen_mit_Behinderungen.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Analyse_Die_AfD_eine_Gefahr_fuer_Menschen_mit_Behinderungen.md` | pdf |
-| `dokumente/hauptquellen/Analyse_Warum_die_AfD_verboten_werden_koennte.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Analyse_Warum_die_AfD_verboten_werden_koennte.md` | pdf |
-| `dokumente/hauptquellen/Analyse_in_den_Bundesländern__Mehr_rechte_Gewalt_als_bekannt___taz.de.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Analyse_in_den_Bundesländern__Mehr_rechte_Gewalt_als_bekannt___taz.de.md` | pdf |
 | `dokumente/hauptquellen/Antraege_AfD_Minderheiten_DeepResearch.md` | `dokumente/ki_markdown/dokumente/hauptquellen/Antraege_AfD_Minderheiten_DeepResearch.md` | md |
 | `dokumente/hauptquellen/Archiv_Verfassungsschutzberichte.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Archiv_Verfassungsschutzberichte.md` | pdf |
 | `dokumente/hauptquellen/Attacken auf Parteibüros in Flensburg_ Tatverdächiger in U-Haft.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Attacken auf Parteibüros in Flensburg_ Tatverdächiger in U-Haft.md` | pdf |
-| `dokumente/hauptquellen/Attacken_auf_Parteibüros_in_Flensburg__Tatverdächiger_in_U-Haft.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Attacken_auf_Parteibüros_in_Flensburg__Tatverdächiger_in_U-Haft.md` | pdf |
 | `dokumente/hauptquellen/BKA_Deliktsbereich_PMK_rechts.md` | `dokumente/ki_markdown/dokumente/hauptquellen/BKA_Deliktsbereich_PMK_rechts.md` | md |
 | `dokumente/hauptquellen/BKA_Deliktsbereich_PMK_rechts.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/BKA_Deliktsbereich_PMK_rechts.md` | txt |
 | `dokumente/hauptquellen/BKA_Fallzahlen_PMK_2024.md` | `dokumente/ki_markdown/dokumente/hauptquellen/BKA_Fallzahlen_PMK_2024.md` | md |
@@ -117,25 +61,17 @@
 | `dokumente/hauptquellen/BKA_Fallzahlen_PMK_2025.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/BKA_Fallzahlen_PMK_2025.md` | txt |
 | `dokumente/hauptquellen/BMI_Verfassungsschutzbericht_2023.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/BMI_Verfassungsschutzbericht_2023.md` | pdf |
 | `dokumente/hauptquellen/BMI_Verfassungsschutzbericht_2024.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/BMI_Verfassungsschutzbericht_2024.md` | pdf |
-| `dokumente/hauptquellen/BT_Drucksache_20_010_Protokoll_Anhoerung.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/BT_Drucksache_20_010_Protokoll_Anhoerung.md` | pdf |
 | `dokumente/hauptquellen/BT_Drucksache_20_010_Sicherheitspaket.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/BT_Drucksache_20_010_Sicherheitspaket.md` | pdf |
 | `dokumente/hauptquellen/BT_Plenarprotokoll_20_133_Hetze_Debatte.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/BT_Plenarprotokoll_20_133_Hetze_Debatte.md` | pdf |
-| `dokumente/hauptquellen/BT_Plenarprotokoll_20_133_Hetze_Debatte_Original.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/BT_Plenarprotokoll_20_133_Hetze_Debatte_Original.md` | pdf |
 | `dokumente/hauptquellen/BT_Plenarprotokoll_20_203_Verfassungsschutz_Anhoerung.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/BT_Plenarprotokoll_20_203_Verfassungsschutz_Anhoerung.md` | pdf |
-| `dokumente/hauptquellen/BT_Plenarprotokoll_20_203_Verfassungsschutz_Anhoerung_Original.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/BT_Plenarprotokoll_20_203_Verfassungsschutz_Anhoerung_Original.md` | pdf |
 | `dokumente/hauptquellen/BVerfG_2_BvB_1_13_NPD_Urteil_2017.md` | `dokumente/ki_markdown/dokumente/hauptquellen/BVerfG_2_BvB_1_13_NPD_Urteil_2017.md` | md |
 | `dokumente/hauptquellen/BVerfG_2_BvB_1_13_NPD_Urteil_2017.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/BVerfG_2_BvB_1_13_NPD_Urteil_2017.md` | pdf |
 | `dokumente/hauptquellen/BVerfG_2_BvB_1_13_NPD_Urteil_2017.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/BVerfG_2_BvB_1_13_NPD_Urteil_2017.md` | txt |
 | `dokumente/hauptquellen/Bannon_Epstein_DeepResearch.md` | `dokumente/ki_markdown/dokumente/hauptquellen/Bannon_Epstein_DeepResearch.md` | md |
-| `dokumente/hauptquellen/Beatrix von Storch_ So will die AfD mit Kulturkampf Wahlen gewinnen.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Beatrix von Storch_ So will die AfD mit Kulturkampf Wahlen gewinnen.md` | pdf |
 | `dokumente/hauptquellen/Beatrix_von_Storch__So_will_die_AfD_mit_Kulturkampf_Wahlen_gewinnen.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Beatrix_von_Storch__So_will_die_AfD_mit_Kulturkampf_Wahlen_gewinnen.md` | pdf |
-| `dokumente/hauptquellen/Behindertenfeindlichkeit der AfD.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Behindertenfeindlichkeit der AfD.md` | pdf |
 | `dokumente/hauptquellen/Behindertenfeindlichkeit_der_AfD.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Behindertenfeindlichkeit_der_AfD.md` | pdf |
-| `dokumente/hauptquellen/BelltowerNews_Rassistische_Silvester_Narrative.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/BelltowerNews_Rassistische_Silvester_Narrative.md` | pdf |
 | `dokumente/hauptquellen/BelltowerNews_Rassistische_Silvester_Narrative_Original.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/BelltowerNews_Rassistische_Silvester_Narrative_Original.md` | pdf |
 | `dokumente/hauptquellen/Berlin_ Betrunkener Polizeischüler soll Mann geschlagen haben - DER SPIEGEL.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Berlin_ Betrunkener Polizeischüler soll Mann geschlagen haben - DER SPIEGEL.md` | pdf |
-| `dokumente/hauptquellen/Berlin__Betrunkener_Polizeischüler_soll_Mann_geschlagen_haben_-_DER_SPIEGEL.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Berlin__Betrunkener_Polizeischüler_soll_Mann_geschlagen_haben_-_DER_SPIEGEL.md` | pdf |
-| `dokumente/hauptquellen/Berliner Aufruf_ AfD-Verbotsverfahren im Bundesrat einleiten – JETZT! _ WeAct.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Berliner Aufruf_ AfD-Verbotsverfahren im Bundesrat einleiten – JETZT! _ WeAct.md` | pdf |
 | `dokumente/hauptquellen/Berliner_Aufruf__AfD-Verbotsverfahren_im_Bundesrat_einleiten_–_JETZT!___WeAct.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Berliner_Aufruf__AfD-Verbotsverfahren_im_Bundesrat_einleiten_–_JETZT!___WeAct.md` | pdf |
 | `dokumente/hauptquellen/BfV_Pressemitteilung_Einstufungsentscheidung_2022_03_08.md` | `dokumente/ki_markdown/dokumente/hauptquellen/BfV_Pressemitteilung_Einstufungsentscheidung_2022_03_08.md` | md |
 | `dokumente/hauptquellen/BfV_Pressemitteilung_Einstufungsentscheidung_2022_03_08.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/BfV_Pressemitteilung_Einstufungsentscheidung_2022_03_08.md` | txt |
@@ -148,282 +84,155 @@
 | `dokumente/hauptquellen/BfV_Verfassungsschutzbericht_2024.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/BfV_Verfassungsschutzbericht_2024.md` | pdf |
 | `dokumente/hauptquellen/BfV_Verfassungsschutzbericht_2024_Kurzfassung.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/BfV_Verfassungsschutzbericht_2024_Kurzfassung.md` | pdf |
 | `dokumente/hauptquellen/Brandenburg - AfD zieht Eilantrag gegen Einstufung als gesichert rechtsextrem zurück.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Brandenburg - AfD zieht Eilantrag gegen Einstufung als gesichert rechtsextrem zurück.md` | pdf |
-| `dokumente/hauptquellen/Brandenburg_-_AfD_zieht_Eilantrag_gegen_Einstufung_als_gesichert_rechtsextrem_zurück.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Brandenburg_-_AfD_zieht_Eilantrag_gegen_Einstufung_als_gesichert_rechtsextrem_zurück.md` | pdf |
-| `dokumente/hauptquellen/Bundestag hebt Immunität von AfD-Politiker Krah auf _ tagesschau.de.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Bundestag hebt Immunität von AfD-Politiker Krah auf _ tagesschau.de.md` | pdf |
-| `dokumente/hauptquellen/Bundestag_ Missbraucht die AfD die Kleinen Anfragen_ Eine Datenanalyse - SZ.de.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Bundestag_ Missbraucht die AfD die Kleinen Anfragen_ Eine Datenanalyse - SZ.de.md` | pdf |
 | `dokumente/hauptquellen/Bundestag__Missbraucht_die_AfD_die_Kleinen_Anfragen__Eine_Datenanalyse_-_SZ.de.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Bundestag__Missbraucht_die_AfD_die_Kleinen_Anfragen__Eine_Datenanalyse_-_SZ.de.md` | pdf |
 | `dokumente/hauptquellen/Bundestag_hebt_Immunität_von_AfD-Politiker_Krah_auf___tagesschau.de.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Bundestag_hebt_Immunität_von_AfD-Politiker_Krah_auf___tagesschau.de.md` | pdf |
 | `dokumente/hauptquellen/Bundestagsverwaltung_ Wahlplakat-Spende an AfD war unzulässig.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Bundestagsverwaltung_ Wahlplakat-Spende an AfD war unzulässig.md` | pdf |
-| `dokumente/hauptquellen/Bundestagsverwaltung__Wahlplakat-Spende_an_AfD_war_unzulässig.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Bundestagsverwaltung__Wahlplakat-Spende_an_AfD_war_unzulässig.md` | pdf |
 | `dokumente/hauptquellen/Bundesverwaltungsgericht_ AfD-Einstufung als _Verdachtsfall_ rechtskräftig _ tagesschau.de.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Bundesverwaltungsgericht_ AfD-Einstufung als _Verdachtsfall_ rechtskräftig _ tagesschau.de.md` | pdf |
-| `dokumente/hauptquellen/Bundesverwaltungsgericht__AfD-Einstufung_als__Verdachtsfall__rechtskräftig___tagesschau.de.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Bundesverwaltungsgericht__AfD-Einstufung_als__Verdachtsfall__rechtskräftig___tagesschau.de.md` | pdf |
 | `dokumente/hauptquellen/Buttersäure in Döbeln_ Trautmann hatte Hilfe von AfD-Mann.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Buttersäure in Döbeln_ Trautmann hatte Hilfe von AfD-Mann.md` | pdf |
-| `dokumente/hauptquellen/Buttersäure_in_Döbeln__Trautmann_hatte_Hilfe_von_AfD-Mann.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Buttersäure_in_Döbeln__Trautmann_hatte_Hilfe_von_AfD-Mann.md` | pdf |
 | `dokumente/hauptquellen/CDU und SPD verschaffen konservativer Denkfabrik R21 staatliche Fördergelder.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/CDU und SPD verschaffen konservativer Denkfabrik R21 staatliche Fördergelder.md` | pdf |
-| `dokumente/hauptquellen/CDU-Politikerin Saskia Ludwig_ Diskutieren bei einer Gruselshow in Ungarn _ taz.de.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/CDU-Politikerin Saskia Ludwig_ Diskutieren bei einer Gruselshow in Ungarn _ taz.de.md` | pdf |
 | `dokumente/hauptquellen/CDU-Politikerin_Saskia_Ludwig__Diskutieren_bei_einer_Gruselshow_in_Ungarn___taz.de.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/CDU-Politikerin_Saskia_Ludwig__Diskutieren_bei_einer_Gruselshow_in_Ungarn___taz.de.md` | pdf |
-| `dokumente/hauptquellen/CDU_und_SPD_verschaffen_konservativer_Denkfabrik_R21_staatliche_Fördergelder.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/CDU_und_SPD_verschaffen_konservativer_Denkfabrik_R21_staatliche_Fördergelder.md` | pdf |
 | `dokumente/hauptquellen/Campact_Petition_AfD_Verbotsverfahren.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Campact_Petition_AfD_Verbotsverfahren.md` | pdf |
 | `dokumente/hauptquellen/CeMAS_Active_Clubs_in_Germany_2024.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/CeMAS_Active_Clubs_in_Germany_2024.md` | pdf |
-| `dokumente/hauptquellen/CeMAS_Kameradschaft_Fitness_Faschismus_Active_Clubs.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/CeMAS_Kameradschaft_Fitness_Faschismus_Active_Clubs.md` | pdf |
-| `dokumente/hauptquellen/ChatGPT - Analyse-Beispiel-2.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/ChatGPT - Analyse-Beispiel-2.md` | pdf |
-| `dokumente/hauptquellen/ChatGPT - Analyse-Beispiel-3.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/ChatGPT - Analyse-Beispiel-3.md` | pdf |
-| `dokumente/hauptquellen/ChatGPT - Analyse-Beispiel-4.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/ChatGPT - Analyse-Beispiel-4.md` | pdf |
-| `dokumente/hauptquellen/ChatGPT - Analyse-Beispiel.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/ChatGPT - Analyse-Beispiel.md` | pdf |
-| `dokumente/hauptquellen/ChatGPT - BRANDBRIEF.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/ChatGPT - BRANDBRIEF.md` | pdf |
 | `dokumente/hauptquellen/ChatGPT - Begründung für ein entschiedenes Handeln.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/ChatGPT - Begründung für ein entschiedenes Handeln.md` | pdf |
 | `dokumente/hauptquellen/ChatGPT - Szenarioanalyse_ AfD-Wahlsieg 2025 und Regierungsübernahme (2025–2029).pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/ChatGPT - Szenarioanalyse_ AfD-Wahlsieg 2025 und Regierungsübernahme (2025–2029).md` | pdf |
 | `dokumente/hauptquellen/ChatGPT - Warum die Alternative für Deutschland.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/ChatGPT - Warum die Alternative für Deutschland.md` | pdf |
 | `dokumente/hauptquellen/ChatGPT-Agent-Repo Analyse durchführen.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/ChatGPT-Agent-Repo Analyse durchführen.md` | pdf |
-| `dokumente/hauptquellen/ChatGPT-Agent-Repo_Analyse_durchführen.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/ChatGPT-Agent-Repo_Analyse_durchführen.md` | pdf |
 | `dokumente/hauptquellen/ChatGPT_-_Analyse-Beispiel-2.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/ChatGPT_-_Analyse-Beispiel-2.md` | pdf |
 | `dokumente/hauptquellen/ChatGPT_-_Analyse-Beispiel-3.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/ChatGPT_-_Analyse-Beispiel-3.md` | pdf |
 | `dokumente/hauptquellen/ChatGPT_-_Analyse-Beispiel-4.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/ChatGPT_-_Analyse-Beispiel-4.md` | pdf |
 | `dokumente/hauptquellen/ChatGPT_-_Analyse-Beispiel.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/ChatGPT_-_Analyse-Beispiel.md` | pdf |
 | `dokumente/hauptquellen/ChatGPT_-_BRANDBRIEF.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/ChatGPT_-_BRANDBRIEF.md` | pdf |
-| `dokumente/hauptquellen/ChatGPT_-_Begründung_für_ein_entschiedenes_Handeln.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/ChatGPT_-_Begründung_für_ein_entschiedenes_Handeln.md` | pdf |
-| `dokumente/hauptquellen/ChatGPT_-_Szenarioanalyse__AfD-Wahlsieg_2025_und_Regierungsübernahme_(2025–2029).pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/ChatGPT_-_Szenarioanalyse__AfD-Wahlsieg_2025_und_Regierungsübernahme_(2025–2029).md` | pdf |
-| `dokumente/hauptquellen/ChatGPT_-_Warum_die_Alternative_für_Deutschland.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/ChatGPT_-_Warum_die_Alternative_für_Deutschland.md` | pdf |
 | `dokumente/hauptquellen/Christian Lüth_ _Wir können die nachher immer noch alle erschießen_ _ DIE ZEIT.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Christian Lüth_ _Wir können die nachher immer noch alle erschießen_ _ DIE ZEIT.md` | pdf |
-| `dokumente/hauptquellen/Christian_Lüth___Wir_können_die_nachher_immer_noch_alle_erschießen____DIE_ZEIT.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Christian_Lüth___Wir_können_die_nachher_immer_noch_alle_erschießen____DIE_ZEIT.md` | pdf |
-| `dokumente/hauptquellen/Chronik rechter und rassistischer Gewalt der Woche.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Chronik rechter und rassistischer Gewalt der Woche.md` | pdf |
 | `dokumente/hauptquellen/Chronik_rechter_und_rassistischer_Gewalt_der_Woche.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Chronik_rechter_und_rassistischer_Gewalt_der_Woche.md` | pdf |
 | `dokumente/hauptquellen/Claude - Warum ein AfD-Verbot verfassungsrechtlich geboten und demokratiepolitisch überfällig ist.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Claude - Warum ein AfD-Verbot verfassungsrechtlich geboten und demokratiepolitisch überfällig ist.md` | pdf |
-| `dokumente/hauptquellen/Claude_-_Warum_ein_AfD-Verbot_verfassungsrechtlich_geboten_und_demokratiepolitisch_überfällig_ist.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Claude_-_Warum_ein_AfD-Verbot_verfassungsrechtlich_geboten_und_demokratiepolitisch_überfällig_ist.md` | pdf |
 | `dokumente/hauptquellen/Correctiv-Recherche zeigt Straftäter unter AfD-Abgeordneten.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Correctiv-Recherche zeigt Straftäter unter AfD-Abgeordneten.md` | pdf |
-| `dokumente/hauptquellen/Correctiv-Recherche_zeigt_Straftäter_unter_AfD-Abgeordneten.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Correctiv-Recherche_zeigt_Straftäter_unter_AfD-Abgeordneten.md` | pdf |
 | `dokumente/hauptquellen/DIMR_Analyse_Warum_die_AfD_verboten_werden_koennte.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/DIMR_Analyse_Warum_die_AfD_verboten_werden_koennte.md` | pdf |
-| `dokumente/hauptquellen/DIMR_Analyse_Warum_die_AfD_verboten_werden_koennte_Official_2023.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/DIMR_Analyse_Warum_die_AfD_verboten_werden_koennte_Official_2023.md` | pdf |
-| `dokumente/hauptquellen/DIMR_Analyse_Warum_die_AfD_verboten_werden_koennte_Original.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/DIMR_Analyse_Warum_die_AfD_verboten_werden_koennte_Original.md` | pdf |
 | `dokumente/hauptquellen/DISS_Hoecke_NS_Rhetorik_2016.md` | `dokumente/ki_markdown/dokumente/hauptquellen/DISS_Hoecke_NS_Rhetorik_2016.md` | md |
 | `dokumente/hauptquellen/DISS_Hoecke_NS_Rhetorik_2016.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/DISS_Hoecke_NS_Rhetorik_2016.md` | pdf |
-| `dokumente/hauptquellen/DW_Aussetzung_der_AfD_Einstufung.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/DW_Aussetzung_der_AfD_Einstufung.md` | pdf |
 | `dokumente/hauptquellen/DW_Aussetzung_der_AfD_Einstufung_Original.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/DW_Aussetzung_der_AfD_Einstufung_Original.md` | pdf |
 | `dokumente/hauptquellen/Dario Seifert_ Dieser Ex-Neonazi soll die AfD zum Erfolg führen.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Dario Seifert_ Dieser Ex-Neonazi soll die AfD zum Erfolg führen.md` | pdf |
-| `dokumente/hauptquellen/Dario_Seifert__Dieser_Ex-Neonazi_soll_die_AfD_zum_Erfolg_führen.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Dario_Seifert__Dieser_Ex-Neonazi_soll_die_AfD_zum_Erfolg_führen.md` | pdf |
 | `dokumente/hauptquellen/Debunked_ Die 10 häufigsten Fakes über das AfD-Verbotsverfahren - Volksverpetzer.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Debunked_ Die 10 häufigsten Fakes über das AfD-Verbotsverfahren - Volksverpetzer.md` | pdf |
-| `dokumente/hauptquellen/Debunked__Die_10_häufigsten_Fakes_über_das_AfD-Verbotsverfahren_-_Volksverpetzer.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Debunked__Die_10_häufigsten_Fakes_über_das_AfD-Verbotsverfahren_-_Volksverpetzer.md` | pdf |
-| `dokumente/hauptquellen/Der Weg ins Kanzleramt_ Wie die AfD-Strategie funktioniert _ tagesschau.de.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Der Weg ins Kanzleramt_ Wie die AfD-Strategie funktioniert _ tagesschau.de.md` | pdf |
 | `dokumente/hauptquellen/Der_Weg_ins_Kanzleramt__Wie_die_AfD-Strategie_funktioniert___tagesschau.de.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Der_Weg_ins_Kanzleramt__Wie_die_AfD-Strategie_funktioniert___tagesschau.de.md` | pdf |
-| `dokumente/hauptquellen/Deutschlandfunk_Streit_um_AfD_Einstufung.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Deutschlandfunk_Streit_um_AfD_Einstufung.md` | pdf |
 | `dokumente/hauptquellen/Deutschlandfunk_Streit_um_AfD_Einstufung_Original.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Deutschlandfunk_Streit_um_AfD_Einstufung_Original.md` | pdf |
 | `dokumente/hauptquellen/Disziplinarverfahren läuft_ Polizist trotz Krankmeldung im Wahlkampf für die AfD _ Politik _ BILD.de.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Disziplinarverfahren läuft_ Polizist trotz Krankmeldung im Wahlkampf für die AfD _ Politik _ BILD.de.md` | pdf |
-| `dokumente/hauptquellen/Disziplinarverfahren_läuft__Polizist_trotz_Krankmeldung_im_Wahlkampf_für_die_AfD___Politik___BILD.de.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Disziplinarverfahren_läuft__Polizist_trotz_Krankmeldung_im_Wahlkampf_für_die_AfD___Politik___BILD.de.md` | pdf |
-| `dokumente/hauptquellen/Durchsuchung bei AfD-Politiker_ Polizei findet Waffen und Sprengstoff.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Durchsuchung bei AfD-Politiker_ Polizei findet Waffen und Sprengstoff.md` | pdf |
 | `dokumente/hauptquellen/Durchsuchung_bei_AfD-Politiker__Polizei_findet_Waffen_und_Sprengstoff.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Durchsuchung_bei_AfD-Politiker__Polizei_findet_Waffen_und_Sprengstoff.md` | pdf |
 | `dokumente/hauptquellen/Düsseldorf_ Ex-AfD-Politiker Beck wegen mutmaßlichem Diebstahl vor Gericht.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Düsseldorf_ Ex-AfD-Politiker Beck wegen mutmaßlichem Diebstahl vor Gericht.md` | pdf |
-| `dokumente/hauptquellen/Düsseldorf__Ex-AfD-Politiker_Beck_wegen_mutmaßlichem_Diebstahl_vor_Gericht.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Düsseldorf__Ex-AfD-Politiker_Beck_wegen_mutmaßlichem_Diebstahl_vor_Gericht.md` | pdf |
 | `dokumente/hauptquellen/EFTA01614968 - Epstein mit Steve Bannon im Gespräch über europäischen Rechten.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/EFTA01614968 - Epstein mit Steve Bannon im Gespräch über europäischen Rechten.md` | pdf |
-| `dokumente/hauptquellen/EFTA01614968_-_Epstein_mit_Steve_Bannon_im_Gespräch_über_europäischen_Rechten.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/EFTA01614968_-_Epstein_mit_Steve_Bannon_im_Gespräch_über_europäischen_Rechten.md` | pdf |
-| `dokumente/hauptquellen/ENTWURF KLAGESCHRIFT - ERWEITERTER SACHVERHALT - GRUNDLAGEN .pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/ENTWURF KLAGESCHRIFT - ERWEITERTER SACHVERHALT - GRUNDLAGEN .md` | pdf |
-| `dokumente/hauptquellen/ENTWURF KLAGESCHRIFT .pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/ENTWURF KLAGESCHRIFT .md` | pdf |
 | `dokumente/hauptquellen/ENTWURF_KLAGESCHRIFT_-_ERWEITERTER_SACHVERHALT_-_GRUNDLAGEN_.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/ENTWURF_KLAGESCHRIFT_-_ERWEITERTER_SACHVERHALT_-_GRUNDLAGEN_.md` | pdf |
 | `dokumente/hauptquellen/ENTWURF_KLAGESCHRIFT_.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/ENTWURF_KLAGESCHRIFT_.md` | pdf |
-| `dokumente/hauptquellen/Ehemaliger AfD-Schatzmeister soll Geld veruntreut haben - SWR Aktuell.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Ehemaliger AfD-Schatzmeister soll Geld veruntreut haben - SWR Aktuell.md` | pdf |
 | `dokumente/hauptquellen/Ehemaliger_AfD-Schatzmeister_soll_Geld_veruntreut_haben_-_SWR_Aktuell.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Ehemaliger_AfD-Schatzmeister_soll_Geld_veruntreut_haben_-_SWR_Aktuell.md` | pdf |
-| `dokumente/hauptquellen/Eilantrag abgelehnt_ Verfassungsschutz darf AfD Niedersachsen zum Beobachtungsobjekt hochstufen.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Eilantrag abgelehnt_ Verfassungsschutz darf AfD Niedersachsen zum Beobachtungsobjekt hochstufen.md` | pdf |
 | `dokumente/hauptquellen/Eilantrag_abgelehnt__Verfassungsschutz_darf_AfD_Niedersachsen_zum_Beobachtungsobjekt_hochstufen.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Eilantrag_abgelehnt__Verfassungsschutz_darf_AfD_Niedersachsen_zum_Beobachtungsobjekt_hochstufen.md` | pdf |
-| `dokumente/hauptquellen/Erneute Durchsuchungen bei Polizeibeamtinnen und -beamten wegen Beteiligung an Chatgruppe mit verfassungsfeindlichen Inhalten _ Nds. Ministerium für Inneres, Sport und Digitalisierung.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Erneute Durchsuchungen bei Polizeibeamtinnen und -beamten wegen Beteiligung an Chatgruppe mit verfassungsfeindlichen Inhalten _ Nds. Ministerium für Inneres, Sport und Digitalisierung.md` | pdf |
 | `dokumente/hauptquellen/Erneute-Durchsuchungen-Nds-Ministerium.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Erneute-Durchsuchungen-Nds-Ministerium.md` | pdf |
 | `dokumente/hauptquellen/Eskalation in der NRW-AfD_ Einer der letzten Gemäßigten strauchelt.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Eskalation in der NRW-AfD_ Einer der letzten Gemäßigten strauchelt.md` | pdf |
-| `dokumente/hauptquellen/Eskalation_in_der_NRW-AfD__Einer_der_letzten_Gemäßigten_strauchelt.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Eskalation_in_der_NRW-AfD__Einer_der_letzten_Gemäßigten_strauchelt.md` | pdf |
-| `dokumente/hauptquellen/Extreme Rechte – »Zeckenbiss«_ AfD-Politiker Stefan Hrdy verurteilt _ nd-aktuell.de.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Extreme Rechte – »Zeckenbiss«_ AfD-Politiker Stefan Hrdy verurteilt _ nd-aktuell.de.md` | pdf |
 | `dokumente/hauptquellen/Extreme_Rechte_–_»Zeckenbiss«__AfD-Politiker_Stefan_Hrdy_verurteilt___nd-aktuell.de.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Extreme_Rechte_–_»Zeckenbiss«__AfD-Politiker_Stefan_Hrdy_verurteilt___nd-aktuell.de.md` | pdf |
-| `dokumente/hauptquellen/Extremismus_ Verdacht auf Angriffe – Razzia gegen junge Rechtsextremisten _ STERN.de.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Extremismus_ Verdacht auf Angriffe – Razzia gegen junge Rechtsextremisten _ STERN.de.md` | pdf |
 | `dokumente/hauptquellen/Extremismus__Verdacht_auf_Angriffe_–_Razzia_gegen_junge_Rechtsextremisten___STERN.de.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Extremismus__Verdacht_auf_Angriffe_–_Razzia_gegen_junge_Rechtsextremisten___STERN.de.md` | pdf |
-| `dokumente/hauptquellen/Extremisten in Deutschland haben legal Tausende Waffen _ STERN.de.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Extremisten in Deutschland haben legal Tausende Waffen _ STERN.de.md` | pdf |
 | `dokumente/hauptquellen/Extremisten_in_Deutschland_haben_legal_Tausende_Waffen___STERN.de.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Extremisten_in_Deutschland_haben_legal_Tausende_Waffen___STERN.de.md` | pdf |
 | `dokumente/hauptquellen/Foitzik.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Foitzik.md` | pdf |
 | `dokumente/hauptquellen/Fotografen der Identitären Bewegung_ Ins rechte Licht gerückt _ taz.de.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Fotografen der Identitären Bewegung_ Ins rechte Licht gerückt _ taz.de.md` | pdf |
-| `dokumente/hauptquellen/Fotografen_der_Identitären_Bewegung__Ins_rechte_Licht_gerückt___taz.de.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Fotografen_der_Identitären_Bewegung__Ins_rechte_Licht_gerückt___taz.de.md` | pdf |
-| `dokumente/hauptquellen/Frank Gotthardt_ CDU-Spitze erwog Kooperation mit Firma von Nius-Finanzier _ DIE ZEIT.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Frank Gotthardt_ CDU-Spitze erwog Kooperation mit Firma von Nius-Finanzier _ DIE ZEIT.md` | pdf |
 | `dokumente/hauptquellen/Frank_Gotthardt__CDU-Spitze_erwog_Kooperation_mit_Firma_von_Nius-Finanzier___DIE_ZEIT.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Frank_Gotthardt__CDU-Spitze_erwog_Kooperation_mit_Firma_von_Nius-Finanzier___DIE_ZEIT.md` | pdf |
 | `dokumente/hauptquellen/GPA_Erblehre_1937.md` | `dokumente/ki_markdown/dokumente/hauptquellen/GPA_Erblehre_1937.md` | md |
 | `dokumente/hauptquellen/GPA_Erblehre_1937.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/GPA_Erblehre_1937.md` | pdf |
-| `dokumente/hauptquellen/Gericht entscheidet_ Hessen-AfD darf als Verdachtsfall eingestuft werden _ hessenschau.de.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Gericht entscheidet_ Hessen-AfD darf als Verdachtsfall eingestuft werden _ hessenschau.de.md` | pdf |
 | `dokumente/hauptquellen/Gericht_entscheidet__Hessen-AfD_darf_als_Verdachtsfall_eingestuft_werden___hessenschau.de.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Gericht_entscheidet__Hessen-AfD_darf_als_Verdachtsfall_eingestuft_werden___hessenschau.de.md` | pdf |
 | `dokumente/hauptquellen/Gewalt als Alternative_ 14 verurteilte AfD-Mandatsträger im Amt.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Gewalt als Alternative_ 14 verurteilte AfD-Mandatsträger im Amt.md` | pdf |
-| `dokumente/hauptquellen/Gewalt_als_Alternative__14_verurteilte_AfD-Mandatsträger_im_Amt.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Gewalt_als_Alternative__14_verurteilte_AfD-Mandatsträger_im_Amt.md` | pdf |
 | `dokumente/hauptquellen/Gründe für ein Afd-Verbots-Verfahren - KI generiert - PDF.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Gründe für ein Afd-Verbots-Verfahren - KI generiert - PDF.md` | pdf |
-| `dokumente/hauptquellen/Gründe_für_ein_Afd-Verbots-Verfahren_-_KI_generiert_-_PDF.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Gründe_für_ein_Afd-Verbots-Verfahren_-_KI_generiert_-_PDF.md` | pdf |
 | `dokumente/hauptquellen/Hamburg_ Nächster AfD-Abgeordneter soll Mandat verlieren _ MOPO.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Hamburg_ Nächster AfD-Abgeordneter soll Mandat verlieren _ MOPO.md` | pdf |
-| `dokumente/hauptquellen/Hamburg__Nächster_AfD-Abgeordneter_soll_Mandat_verlieren___MOPO.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Hamburg__Nächster_AfD-Abgeordneter_soll_Mandat_verlieren___MOPO.md` | pdf |
-| `dokumente/hauptquellen/Hamburger AfD-Politiker Risch offenbar bei Neonazi-Treffen in Russland _ ndr.de.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Hamburger AfD-Politiker Risch offenbar bei Neonazi-Treffen in Russland _ ndr.de.md` | pdf |
 | `dokumente/hauptquellen/Hamburger_AfD-Politiker_Risch_offenbar_bei_Neonazi-Treffen_in_Russland___ndr.de.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Hamburger_AfD-Politiker_Risch_offenbar_bei_Neonazi-Treffen_in_Russland___ndr.de.md` | pdf |
-| `dokumente/hauptquellen/Hausdurchsuchung bei AfD-Waffenfan _ Endstation Rechts_.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Hausdurchsuchung bei AfD-Waffenfan _ Endstation Rechts_.md` | pdf |
 | `dokumente/hauptquellen/Hausdurchsuchung_bei_AfD-Waffenfan___Endstation_Rechts_.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Hausdurchsuchung_bei_AfD-Waffenfan___Endstation_Rechts_.md` | pdf |
 | `dokumente/hauptquellen/Hendrik Cremer über Rechtsextremismus und die AfD in Deutschland - Politik - SZ.de.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Hendrik Cremer über Rechtsextremismus und die AfD in Deutschland - Politik - SZ.de.md` | pdf |
-| `dokumente/hauptquellen/Hendrik_Cremer_über_Rechtsextremismus_und_die_AfD_in_Deutschland_-_Politik_-_SZ.de.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Hendrik_Cremer_über_Rechtsextremismus_und_die_AfD_in_Deutschland_-_Politik_-_SZ.de.md` | pdf |
 | `dokumente/hauptquellen/Hessen - Verwaltungsgericht Wiesbaden lehnt Beweisanträge der AfD ab.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Hessen - Verwaltungsgericht Wiesbaden lehnt Beweisanträge der AfD ab.md` | pdf |
-| `dokumente/hauptquellen/Hessen_ AfD darf als Verdachtsfall eingestuft werden.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Hessen_ AfD darf als Verdachtsfall eingestuft werden.md` | pdf |
-| `dokumente/hauptquellen/Hessen_ AfD-Kreisverband wirbt für rechtsextremes „Thule-Seminar“.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Hessen_ AfD-Kreisverband wirbt für rechtsextremes „Thule-Seminar“.md` | pdf |
 | `dokumente/hauptquellen/Hessen_ Streit um AfD-Einstufung_ Gericht weist Beweisanträge zurück - ntv.de.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Hessen_ Streit um AfD-Einstufung_ Gericht weist Beweisanträge zurück - ntv.de.md` | pdf |
-| `dokumente/hauptquellen/Hessen_-_Verwaltungsgericht_Wiesbaden_lehnt_Beweisanträge_der_AfD_ab.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Hessen_-_Verwaltungsgericht_Wiesbaden_lehnt_Beweisanträge_der_AfD_ab.md` | pdf |
 | `dokumente/hauptquellen/Hessen__AfD-Kreisverband_wirbt_für_rechtsextremes_„Thule-Seminar“.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Hessen__AfD-Kreisverband_wirbt_für_rechtsextremes_„Thule-Seminar“.md` | pdf |
 | `dokumente/hauptquellen/Hessen__AfD_darf_als_Verdachtsfall_eingestuft_werden.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Hessen__AfD_darf_als_Verdachtsfall_eingestuft_werden.md` | pdf |
-| `dokumente/hauptquellen/Hessen__Streit_um_AfD-Einstufung__Gericht_weist_Beweisanträge_zurück_-_ntv.de.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Hessen__Streit_um_AfD-Einstufung__Gericht_weist_Beweisanträge_zurück_-_ntv.de.md` | pdf |
-| `dokumente/hauptquellen/Hessens Verfassungsschutz darf AfD als rechtsextremen Verdachtsfall beobachten.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Hessens Verfassungsschutz darf AfD als rechtsextremen Verdachtsfall beobachten.md` | pdf |
 | `dokumente/hauptquellen/Hessens_Verfassungsschutz_darf_AfD_als_rechtsextremen_Verdachtsfall_beobachten.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Hessens_Verfassungsschutz_darf_AfD_als_rechtsextremen_Verdachtsfall_beobachten.md` | pdf |
 | `dokumente/hauptquellen/Historiker Volker Weiß über die extremen Rechten_ Wie sie Geschichte umschreiben - Ausgabe 756.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Historiker Volker Weiß über die extremen Rechten_ Wie sie Geschichte umschreiben - Ausgabe 756.md` | pdf |
-| `dokumente/hauptquellen/Historiker_Volker_Weiß_über_die_extremen_Rechten__Wie_sie_Geschichte_umschreiben_-_Ausgabe_756.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Historiker_Volker_Weiß_über_die_extremen_Rechten__Wie_sie_Geschichte_umschreiben_-_Ausgabe_756.md` | pdf |
 | `dokumente/hauptquellen/Hitlergruß-Vorwurf gegen AfD-Landeschef Reichardt-mdr.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Hitlergruß-Vorwurf gegen AfD-Landeschef Reichardt-mdr.md` | pdf |
-| `dokumente/hauptquellen/Hitlergruß-Vorwurf_gegen_AfD-Landeschef_Reichardt-mdr.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Hitlergruß-Vorwurf_gegen_AfD-Landeschef_Reichardt-mdr.md` | pdf |
 | `dokumente/hauptquellen/Hoecke_NS_Sprache_Parteitag_2026.md` | `dokumente/ki_markdown/dokumente/hauptquellen/Hoecke_NS_Sprache_Parteitag_2026.md` | md |
 | `dokumente/hauptquellen/Identitäre Bewegung_ Maximilian Märkl aus Augsburg steht an der Spitze.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Identitäre Bewegung_ Maximilian Märkl aus Augsburg steht an der Spitze.md` | pdf |
-| `dokumente/hauptquellen/Identitäre_Bewegung__Maximilian_Märkl_aus_Augsburg_steht_an_der_Spitze.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Identitäre_Bewegung__Maximilian_Märkl_aus_Augsburg_steht_an_der_Spitze.md` | pdf |
 | `dokumente/hauptquellen/Im Folgenden werden die zuvor genannten 15 Gründe für ein Parteiverbot der AfD jeweils ausführlich begründet.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Im Folgenden werden die zuvor genannten 15 Gründe für ein Parteiverbot der AfD jeweils ausführlich begründet.md` | pdf |
-| `dokumente/hauptquellen/Im_Folgenden_werden_die_zuvor_genannten_15_Gründe_für_ein_Parteiverbot_der_AfD_jeweils_ausführlich_begründet.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Im_Folgenden_werden_die_zuvor_genannten_15_Gründe_für_ein_Parteiverbot_der_AfD_jeweils_ausführlich_begründet.md` | pdf |
-| `dokumente/hauptquellen/Intensive Verbindung_ Wie die CDU mit Fr • Table.Briefings.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Intensive Verbindung_ Wie die CDU mit Fr • Table.Briefings.md` | pdf |
 | `dokumente/hauptquellen/Intensive_Verbindung__Wie_die_CDU_mit_Fr_•_Table.Briefings.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Intensive_Verbindung__Wie_die_CDU_mit_Fr_•_Table.Briefings.md` | pdf |
-| `dokumente/hauptquellen/Justiz_ Einstufung der hessischen AfD - Hauptsacheverfahren im Mai _ DIE ZEIT.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Justiz_ Einstufung der hessischen AfD - Hauptsacheverfahren im Mai _ DIE ZEIT.md` | pdf |
 | `dokumente/hauptquellen/Justiz__Einstufung_der_hessischen_AfD_-_Hauptsacheverfahren_im_Mai___DIE_ZEIT.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Justiz__Einstufung_der_hessischen_AfD_-_Hauptsacheverfahren_im_Mai___DIE_ZEIT.md` | pdf |
 | `dokumente/hauptquellen/Katholische Kirche angezündet – AfD stellt in Wickede_Ruhr verurteilten Brandstifter für die Ratswahl auf.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Katholische Kirche angezündet – AfD stellt in Wickede_Ruhr verurteilten Brandstifter für die Ratswahl auf.md` | pdf |
-| `dokumente/hauptquellen/Katholische_Kirche_angezündet_–_AfD_stellt_in_Wickede_Ruhr_verurteilten_Brandstifter_für_die_Ratswahl_auf.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Katholische_Kirche_angezündet_–_AfD_stellt_in_Wickede_Ruhr_verurteilten_Brandstifter_für_die_Ratswahl_auf.md` | pdf |
 | `dokumente/hauptquellen/Kette-des-Versagens-17-02-2021.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Kette-des-Versagens-17-02-2021.md` | pdf |
 | `dokumente/hauptquellen/Kommunalwahl 2025 Düsseldorf_ AfD provoziert mit möglicher Nazi-Parole.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Kommunalwahl 2025 Düsseldorf_ AfD provoziert mit möglicher Nazi-Parole.md` | pdf |
-| `dokumente/hauptquellen/Kommunalwahl_2025_Düsseldorf__AfD_provoziert_mit_möglicher_Nazi-Parole.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Kommunalwahl_2025_Düsseldorf__AfD_provoziert_mit_möglicher_Nazi-Parole.md` | pdf |
-| `dokumente/hauptquellen/Kotré, Sellner und Co._ Wer war beim Remigration Summit 2025_.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Kotré, Sellner und Co._ Wer war beim Remigration Summit 2025_.md` | pdf |
-| `dokumente/hauptquellen/Kotré, Urban, Frohnmaier_ AfD-Prominenz reist zu Putins Wirtschaftsforum.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Kotré, Urban, Frohnmaier_ AfD-Prominenz reist zu Putins Wirtschaftsforum.md` | pdf |
 | `dokumente/hauptquellen/Kotré,_Sellner_und_Co.__Wer_war_beim_Remigration_Summit_2025_.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Kotré,_Sellner_und_Co.__Wer_war_beim_Remigration_Summit_2025_.md` | pdf |
 | `dokumente/hauptquellen/Kotré,_Urban,_Frohnmaier__AfD-Prominenz_reist_zu_Putins_Wirtschaftsforum.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Kotré,_Urban,_Frohnmaier__AfD-Prominenz_reist_zu_Putins_Wirtschaftsforum.md` | pdf |
 | `dokumente/hauptquellen/Landtagswahlkampf in Mecklenburg-Vorpommern_ AfD in Mecklenburg-Vorpommern fordert »Rückführungspolizei« _ DIE ZEIT.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Landtagswahlkampf in Mecklenburg-Vorpommern_ AfD in Mecklenburg-Vorpommern fordert »Rückführungspolizei« _ DIE ZEIT.md` | pdf |
-| `dokumente/hauptquellen/Landtagswahlkampf_in_Mecklenburg-Vorpommern__AfD_in_Mecklenburg-Vorpommern_fordert_»Rückführungspolizei«___DIE_ZEIT.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Landtagswahlkampf_in_Mecklenburg-Vorpommern__AfD_in_Mecklenburg-Vorpommern_fordert_»Rückführungspolizei«___DIE_ZEIT.md` | pdf |
 | `dokumente/hauptquellen/Leipzig_ AfD-Sticker mit Rasierklingen präpariert.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Leipzig_ AfD-Sticker mit Rasierklingen präpariert.md` | pdf |
-| `dokumente/hauptquellen/Leipzig__AfD-Sticker_mit_Rasierklingen_präpariert.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Leipzig__AfD-Sticker_mit_Rasierklingen_präpariert.md` | pdf |
 | `dokumente/hauptquellen/Leipziger Sicherheitsbehörde entzieht zwei AfD-Politikern die Waffenscheine.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Leipziger Sicherheitsbehörde entzieht zwei AfD-Politikern die Waffenscheine.md` | pdf |
-| `dokumente/hauptquellen/Leipziger_Sicherheitsbehörde_entzieht_zwei_AfD-Politikern_die_Waffenscheine.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Leipziger_Sicherheitsbehörde_entzieht_zwei_AfD-Politikern_die_Waffenscheine.md` | pdf |
 | `dokumente/hauptquellen/Linnemann (CDU) nennt falsche Zahl zur Beschäftigung Geflüchteter _ WEB.DE.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Linnemann (CDU) nennt falsche Zahl zur Beschäftigung Geflüchteter _ WEB.DE.md` | pdf |
-| `dokumente/hauptquellen/Linnemann_(CDU)_nennt_falsche_Zahl_zur_Beschäftigung_Geflüchteter___WEB.DE.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Linnemann_(CDU)_nennt_falsche_Zahl_zur_Beschäftigung_Geflüchteter___WEB.DE.md` | pdf |
 | `dokumente/hauptquellen/Ludwigshafen_ AfD-Politiker darf nicht bei OB-Wahl antreten, das sind die Gründe _ taz.de.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Ludwigshafen_ AfD-Politiker darf nicht bei OB-Wahl antreten, das sind die Gründe _ taz.de.md` | pdf |
-| `dokumente/hauptquellen/Ludwigshafen__AfD-Politiker_darf_nicht_bei_OB-Wahl_antreten,_das_sind_die_Gründe___taz.de.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Ludwigshafen__AfD-Politiker_darf_nicht_bei_OB-Wahl_antreten,_das_sind_die_Gründe___taz.de.md` | pdf |
 | `dokumente/hauptquellen/MDR_Investigativ_Chat_Leaks_Thueringen.md` | `dokumente/ki_markdown/dokumente/hauptquellen/MDR_Investigativ_Chat_Leaks_Thueringen.md` | md |
 | `dokumente/hauptquellen/MDR_Investigativ_Chat_Leaks_Thueringen.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/MDR_Investigativ_Chat_Leaks_Thueringen.md` | txt |
 | `dokumente/hauptquellen/Maaßen als Minister für die AfD_ Ein ernst zu nehmender Kandidat.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Maaßen als Minister für die AfD_ Ein ernst zu nehmender Kandidat.md` | pdf |
-| `dokumente/hauptquellen/Maaßen_als_Minister_für_die_AfD__Ein_ernst_zu_nehmender_Kandidat.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Maaßen_als_Minister_für_die_AfD__Ein_ernst_zu_nehmender_Kandidat.md` | pdf |
-| `dokumente/hauptquellen/Maximilian Krah_ Bundestag hebt Immunität des AfD-Politikers auf.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Maximilian Krah_ Bundestag hebt Immunität des AfD-Politikers auf.md` | pdf |
 | `dokumente/hauptquellen/Maximilian_Krah__Bundestag_hebt_Immunität_des_AfD-Politikers_auf.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Maximilian_Krah__Bundestag_hebt_Immunität_des_AfD-Politikers_auf.md` | pdf |
 | `dokumente/hauptquellen/Missbrauch von Fragerecht_ Spionageverdacht gegen AfD_ - Minister in Konflikt mit Höcke _ DIE ZEIT.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Missbrauch von Fragerecht_ Spionageverdacht gegen AfD_ - Minister in Konflikt mit Höcke _ DIE ZEIT.md` | pdf |
-| `dokumente/hauptquellen/Missbrauch_von_Fragerecht__Spionageverdacht_gegen_AfD__-_Minister_in_Konflikt_mit_Höcke___DIE_ZEIT.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Missbrauch_von_Fragerecht__Spionageverdacht_gegen_AfD__-_Minister_in_Konflikt_mit_Höcke___DIE_ZEIT.md` | pdf |
 | `dokumente/hauptquellen/Mögliches AfD-Verbot_ Gutachten liefert neue Argumente.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Mögliches AfD-Verbot_ Gutachten liefert neue Argumente.md` | pdf |
-| `dokumente/hauptquellen/Mögliches_AfD-Verbot__Gutachten_liefert_neue_Argumente.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Mögliches_AfD-Verbot__Gutachten_liefert_neue_Argumente.md` | pdf |
-| `dokumente/hauptquellen/Neonazis, Soldaten und Polizisten_ Das radikale Netzwerk des Johannes K. _ taz.de.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Neonazis, Soldaten und Polizisten_ Das radikale Netzwerk des Johannes K. _ taz.de.md` | pdf |
 | `dokumente/hauptquellen/Neonazis,_Soldaten_und_Polizisten__Das_radikale_Netzwerk_des_Johannes_K.___taz.de.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Neonazis,_Soldaten_und_Polizisten__Das_radikale_Netzwerk_des_Johannes_K.___taz.de.md` | pdf |
 | `dokumente/hauptquellen/Niederlage für Rechtsextreme_ Bayerns Verfassungsschutz darf AfD beobachten _ taz.de.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Niederlage für Rechtsextreme_ Bayerns Verfassungsschutz darf AfD beobachten _ taz.de.md` | pdf |
-| `dokumente/hauptquellen/Niederlage_für_Rechtsextreme__Bayerns_Verfassungsschutz_darf_AfD_beobachten___taz.de.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Niederlage_für_Rechtsextreme__Bayerns_Verfassungsschutz_darf_AfD_beobachten___taz.de.md` | pdf |
 | `dokumente/hauptquellen/Nordrhein-Westfalen_ Staatsschutz ermittelt nach Hitlergruß bei AfD-Kreisparteitag - Politik.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Nordrhein-Westfalen_ Staatsschutz ermittelt nach Hitlergruß bei AfD-Kreisparteitag - Politik.md` | pdf |
-| `dokumente/hauptquellen/Nordrhein-Westfalen__Staatsschutz_ermittelt_nach_Hitlergruß_bei_AfD-Kreisparteitag_-_Politik.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Nordrhein-Westfalen__Staatsschutz_ermittelt_nach_Hitlergruß_bei_AfD-Kreisparteitag_-_Politik.md` | pdf |
 | `dokumente/hauptquellen/PIXA.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/PIXA.md` | pdf |
 | `dokumente/hauptquellen/PRESSESCHAU_AKTUELL.md` | `dokumente/ki_markdown/dokumente/hauptquellen/PRESSESCHAU_AKTUELL.md` | md |
 | `dokumente/hauptquellen/PRESSESCHAU_AKTUELL.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/PRESSESCHAU_AKTUELL.md` | txt |
 | `dokumente/hauptquellen/Plädoyer für ein AfD-Verbot aus antifaschistischer Perspektive.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Plädoyer für ein AfD-Verbot aus antifaschistischer Perspektive.md` | pdf |
-| `dokumente/hauptquellen/Plädoyer_für_ein_AfD-Verbot_aus_antifaschistischer_Perspektive.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Plädoyer_für_ein_AfD-Verbot_aus_antifaschistischer_Perspektive.md` | pdf |
 | `dokumente/hauptquellen/Polizei stoppt Neonazi mit scharf geladener Schusswaffe und Ersatzmunition auf A8 - Allgäu ⇏ rechtsaußen.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Polizei stoppt Neonazi mit scharf geladener Schusswaffe und Ersatzmunition auf A8 - Allgäu ⇏ rechtsaußen.md` | pdf |
-| `dokumente/hauptquellen/Polizei_stoppt_Neonazi_mit_scharf_geladener_Schusswaffe_und_Ersatzmunition_auf_A8_-_Allgäu_⇏_rechtsaußen.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Polizei_stoppt_Neonazi_mit_scharf_geladener_Schusswaffe_und_Ersatzmunition_auf_A8_-_Allgäu_⇏_rechtsaußen.md` | pdf |
-| `dokumente/hauptquellen/Professor der Bundespolizei_ „Ausgewiesener Extremist an zentraler Stelle“.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Professor der Bundespolizei_ „Ausgewiesener Extremist an zentraler Stelle“.md` | pdf |
 | `dokumente/hauptquellen/Professor_der_Bundespolizei__„Ausgewiesener_Extremist_an_zentraler_Stelle“.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Professor_der_Bundespolizei__„Ausgewiesener_Extremist_an_zentraler_Stelle“.md` | pdf |
 | `dokumente/hauptquellen/Prozess gegen Jian G. in Dresden_ Das wird gefährlich für die AfD.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Prozess gegen Jian G. in Dresden_ Das wird gefährlich für die AfD.md` | pdf |
 | `dokumente/hauptquellen/Prozess gegen Krah-Assistenten_ Das steht in den AfD-Dossiers des mutmaßlichen China-Spions - DER SPIEGEL.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Prozess gegen Krah-Assistenten_ Das steht in den AfD-Dossiers des mutmaßlichen China-Spions - DER SPIEGEL.md` | pdf |
 | `dokumente/hauptquellen/Prozess_gegen_Jian_G._in_Dresden__Das_wird_gef%C3%A4hrlich_f%C3%BCr_die_AfD.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Prozess_gegen_Jian_G._in_Dresden__Das_wird_gef%C3%A4hrlich_f%C3%BCr_die_AfD.md` | pdf |
-| `dokumente/hauptquellen/Prozess_gegen_Jian_G._in_Dresden__Das_wird_gefährlich_für_die_AfD.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Prozess_gegen_Jian_G._in_Dresden__Das_wird_gefährlich_für_die_AfD.md` | pdf |
-| `dokumente/hauptquellen/Prozess_gegen_Krah-Assistenten__Das_steht_in_den_AfD-Dossiers_des_mutmaßlichen_China-Spions_-_DER_SPIEGEL.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Prozess_gegen_Krah-Assistenten__Das_steht_in_den_AfD-Dossiers_des_mutmaßlichen_China-Spions_-_DER_SPIEGEL.md` | pdf |
-| `dokumente/hauptquellen/Razzia bei AfD-Politiker_ Waffen und Sprengstoff gefunden _ tagesschau.de.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Razzia bei AfD-Politiker_ Waffen und Sprengstoff gefunden _ tagesschau.de.md` | pdf |
 | `dokumente/hauptquellen/Razzia in Lübtheen_ Scharfe Waffen entdeckt – AfD-Politiker unter Verdacht_.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Razzia in Lübtheen_ Scharfe Waffen entdeckt – AfD-Politiker unter Verdacht_.md` | pdf |
-| `dokumente/hauptquellen/Razzia_ Polizei sucht Waffen bei Rechtsextremen vom „Nordbund“ _ taz.de.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Razzia_ Polizei sucht Waffen bei Rechtsextremen vom „Nordbund“ _ taz.de.md` | pdf |
 | `dokumente/hauptquellen/Razzia__Polizei_sucht_Waffen_bei_Rechtsextremen_vom_„Nordbund“___taz.de.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Razzia__Polizei_sucht_Waffen_bei_Rechtsextremen_vom_„Nordbund“___taz.de.md` | pdf |
 | `dokumente/hauptquellen/Razzia_bei_AfD-Politiker__Waffen_und_Sprengstoff_gefunden___tagesschau.de.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Razzia_bei_AfD-Politiker__Waffen_und_Sprengstoff_gefunden___tagesschau.de.md` | pdf |
-| `dokumente/hauptquellen/Razzia_in_Lübtheen__Scharfe_Waffen_entdeckt_–_AfD-Politiker_unter_Verdacht_.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Razzia_in_Lübtheen__Scharfe_Waffen_entdeckt_–_AfD-Politiker_unter_Verdacht_.md` | pdf |
-| `dokumente/hauptquellen/Recherche_ So organisiert sich die neue Generation der Neonazis.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Recherche_ So organisiert sich die neue Generation der Neonazis.md` | pdf |
 | `dokumente/hauptquellen/Recherche__So_organisiert_sich_die_neue_Generation_der_Neonazis.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Recherche__So_organisiert_sich_die_neue_Generation_der_Neonazis.md` | pdf |
-| `dokumente/hauptquellen/Rechtsextreme AfD-Kandidaten im Kreis Unna - Ruhrgebiet - Nachrichten - WDR.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Rechtsextreme AfD-Kandidaten im Kreis Unna - Ruhrgebiet - Nachrichten - WDR.md` | pdf |
 | `dokumente/hauptquellen/Rechtsextreme_AfD-Kandidaten_im_Kreis_Unna_-_Ruhrgebiet_-_Nachrichten_-_WDR.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Rechtsextreme_AfD-Kandidaten_im_Kreis_Unna_-_Ruhrgebiet_-_Nachrichten_-_WDR.md` | pdf |
 | `dokumente/hauptquellen/Rechtsextremismus_ Immer mehr junge Menschen wegen rechtsextremer Straftaten verdächtigt _ DIE ZEIT.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Rechtsextremismus_ Immer mehr junge Menschen wegen rechtsextremer Straftaten verdächtigt _ DIE ZEIT.md` | pdf |
-| `dokumente/hauptquellen/Rechtsextremismus__Immer_mehr_junge_Menschen_wegen_rechtsextremer_Straftaten_verdächtigt___DIE_ZEIT.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Rechtsextremismus__Immer_mehr_junge_Menschen_wegen_rechtsextremer_Straftaten_verdächtigt___DIE_ZEIT.md` | pdf |
 | `dokumente/hauptquellen/Rechtsradikale begehen mehr als 120 Straftaten im Kreis Nordhausen – Südharzer Reichsbürger besitzen Waffen.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Rechtsradikale begehen mehr als 120 Straftaten im Kreis Nordhausen – Südharzer Reichsbürger besitzen Waffen.md` | pdf |
-| `dokumente/hauptquellen/Rechtsradikale_begehen_mehr_als_120_Straftaten_im_Kreis_Nordhausen_–_Südharzer_Reichsbürger_besitzen_Waffen.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Rechtsradikale_begehen_mehr_als_120_Straftaten_im_Kreis_Nordhausen_–_Südharzer_Reichsbürger_besitzen_Waffen.md` | pdf |
 | `dokumente/hauptquellen/Reichsbürger-Prozess in Frankfurt_ Was wusste Markus Krall_ _ FAZ.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Reichsbürger-Prozess in Frankfurt_ Was wusste Markus Krall_ _ FAZ.md` | pdf |
-| `dokumente/hauptquellen/Reichsbürger-Prozess_in_Frankfurt__Was_wusste_Markus_Krall____FAZ.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Reichsbürger-Prozess_in_Frankfurt__Was_wusste_Markus_Krall____FAZ.md` | pdf |
-| `dokumente/hauptquellen/Reinbek_ AfD-Politiker Stienen verurteilt – 5000 Euro Strafe.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Reinbek_ AfD-Politiker Stienen verurteilt – 5000 Euro Strafe.md` | pdf |
 | `dokumente/hauptquellen/Reinbek__AfD-Politiker_Stienen_verurteilt_–_5000_Euro_Strafe.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Reinbek__AfD-Politiker_Stienen_verurteilt_–_5000_Euro_Strafe.md` | pdf |
 | `dokumente/hauptquellen/Reuters_Germany_Security_Agency_Extremist.md` | `dokumente/ki_markdown/dokumente/hauptquellen/Reuters_Germany_Security_Agency_Extremist.md` | md |
 | `dokumente/hauptquellen/Reuters_Germany_Security_Agency_Extremist.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/Reuters_Germany_Security_Agency_Extremist.md` | txt |
 | `dokumente/hauptquellen/Schuldig und weiter im Amt_ Mindestens elf AfD-Mandatsträger wegen Gewalttaten verurteilt.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Schuldig und weiter im Amt_ Mindestens elf AfD-Mandatsträger wegen Gewalttaten verurteilt.md` | pdf |
-| `dokumente/hauptquellen/Schuldig_und_weiter_im_Amt__Mindestens_elf_AfD-Mandatsträger_wegen_Gewalttaten_verurteilt.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Schuldig_und_weiter_im_Amt__Mindestens_elf_AfD-Mandatsträger_wegen_Gewalttaten_verurteilt.md` | pdf |
-| `dokumente/hauptquellen/Skandal in Flensburg_ Schild in Schaufenster verbietet Juden Zutritt.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Skandal in Flensburg_ Schild in Schaufenster verbietet Juden Zutritt.md` | pdf |
 | `dokumente/hauptquellen/Skandal_in_Flensburg__Schild_in_Schaufenster_verbietet_Juden_Zutritt.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Skandal_in_Flensburg__Schild_in_Schaufenster_verbietet_Juden_Zutritt.md` | pdf |
 | `dokumente/hauptquellen/Spiegel_Politik_Roedder_Warnt_vor_Buergerkrieg.md` | `dokumente/ki_markdown/dokumente/hauptquellen/Spiegel_Politik_Roedder_Warnt_vor_Buergerkrieg.md` | md |
 | `dokumente/hauptquellen/Spiegel_Politik_Roedder_Warnt_vor_Buergerkrieg.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/Spiegel_Politik_Roedder_Warnt_vor_Buergerkrieg.md` | txt |
 | `dokumente/hauptquellen/Sportschützen und die AfD_ Schüsse von rechts _ taz.de.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Sportschützen und die AfD_ Schüsse von rechts _ taz.de.md` | pdf |
-| `dokumente/hauptquellen/Sportschützen_und_die_AfD__Schüsse_von_rechts___taz.de.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Sportschützen_und_die_AfD__Schüsse_von_rechts___taz.de.md` | pdf |
 | `dokumente/hauptquellen/Streit in der AfD_ Wie völkisch darf's denn sein_.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Streit in der AfD_ Wie völkisch darf's denn sein_.md` | pdf |
 | `dokumente/hauptquellen/Streit um AfD-Parteizentrale in Berlin_ Vermieter kündigt, AfD will einfach bleiben - SZ.de.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Streit um AfD-Parteizentrale in Berlin_ Vermieter kündigt, AfD will einfach bleiben - SZ.de.md` | pdf |
-| `dokumente/hauptquellen/Streit_in_der_AfD__Wie_völkisch_darf's_denn_sein_.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Streit_in_der_AfD__Wie_völkisch_darf's_denn_sein_.md` | pdf |
-| `dokumente/hauptquellen/Streit_um_AfD-Parteizentrale_in_Berlin__Vermieter_kündigt,_AfD_will_einfach_bleiben_-_SZ.de.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Streit_um_AfD-Parteizentrale_in_Berlin__Vermieter_kündigt,_AfD_will_einfach_bleiben_-_SZ.de.md` | pdf |
 | `dokumente/hauptquellen/Tagesschau_AfD_Systemmedien.md` | `dokumente/ki_markdown/dokumente/hauptquellen/Tagesschau_AfD_Systemmedien.md` | md |
 | `dokumente/hauptquellen/Tagesschau_AfD_Systemmedien.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/Tagesschau_AfD_Systemmedien.md` | txt |
 | `dokumente/hauptquellen/The_Guardian_Germany_Security_Labels_AfD_Extremist.md` | `dokumente/ki_markdown/dokumente/hauptquellen/The_Guardian_Germany_Security_Labels_AfD_Extremist.md` | md |
 | `dokumente/hauptquellen/The_Guardian_Germany_Security_Labels_AfD_Extremist.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/The_Guardian_Germany_Security_Labels_AfD_Extremist.md` | txt |
 | `dokumente/hauptquellen/Thomas Biebricher im Interview über die Krise des Konservativismus - Kultur - SZ.de.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Thomas Biebricher im Interview über die Krise des Konservativismus - Kultur - SZ.de.md` | pdf |
-| `dokumente/hauptquellen/Thomas_Biebricher_im_Interview_über_die_Krise_des_Konservativismus_-_Kultur_-_SZ.de.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Thomas_Biebricher_im_Interview_über_die_Krise_des_Konservativismus_-_Kultur_-_SZ.de.md` | pdf |
 | `dokumente/hauptquellen/Thüringens Innenminister verdächtigt AfD der Russland-Spionage.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Thüringens Innenminister verdächtigt AfD der Russland-Spionage.md` | pdf |
-| `dokumente/hauptquellen/Thüringens_Innenminister_verdächtigt_AfD_der_Russland-Spionage.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Thüringens_Innenminister_verdächtigt_AfD_der_Russland-Spionage.md` | pdf |
-| `dokumente/hauptquellen/TikTok und Skinhead-Revival_ Nichts als substanzloses Gebaren_.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/TikTok und Skinhead-Revival_ Nichts als substanzloses Gebaren_.md` | pdf |
 | `dokumente/hauptquellen/TikTok_und_Skinhead-Revival__Nichts_als_substanzloses_Gebaren_.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/TikTok_und_Skinhead-Revival__Nichts_als_substanzloses_Gebaren_.md` | pdf |
 | `dokumente/hauptquellen/Urteil gegen Ex-Mitarbeiter_ Für AfD-Politiker Krah ist es noch nicht vorbei _ tagesschau.de.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Urteil gegen Ex-Mitarbeiter_ Für AfD-Politiker Krah ist es noch nicht vorbei _ tagesschau.de.md` | pdf |
-| `dokumente/hauptquellen/Urteil_gegen_Ex-Mitarbeiter__Für_AfD-Politiker_Krah_ist_es_noch_nicht_vorbei___tagesschau.de.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Urteil_gegen_Ex-Mitarbeiter__Für_AfD-Politiker_Krah_ist_es_noch_nicht_vorbei___tagesschau.de.md` | pdf |
 | `dokumente/hauptquellen/Urteile gegen Höcke wegen NS-Parole rechtskräftig.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Urteile gegen Höcke wegen NS-Parole rechtskräftig.md` | pdf |
 | `dokumente/hauptquellen/Urteile_gegen_Hoecke_wegen_NS-Parole_Volltext.md` | `dokumente/ki_markdown/dokumente/hauptquellen/Urteile_gegen_Hoecke_wegen_NS-Parole_Volltext.md` | md |
-| `dokumente/hauptquellen/Urteile_gegen_Hoecke_wegen_NS-Parole_Volltext.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/Urteile_gegen_Hoecke_wegen_NS-Parole_Volltext.md` | txt |
-| `dokumente/hauptquellen/Urteile_gegen_Höcke_wegen_NS-Parole_rechtskräftig.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Urteile_gegen_Höcke_wegen_NS-Parole_rechtskräftig.md` | pdf |
 | `dokumente/hauptquellen/VGH weist Beschwerden zu Beobachtung des hessischen AfD-Landesverbands zurück _ Hessen Verwaltungsgerichtsbarkeit.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/VGH weist Beschwerden zu Beobachtung des hessischen AfD-Landesverbands zurück _ Hessen Verwaltungsgerichtsbarkeit.md` | pdf |
-| `dokumente/hauptquellen/VGH_weist_Beschwerden_zu_Beobachtung_des_hessischen_AfD-Landesverbands_zurück___Hessen_Verwaltungsgerichtsbarkeit.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/VGH_weist_Beschwerden_zu_Beobachtung_des_hessischen_AfD-Landesverbands_zurück___Hessen_Verwaltungsgerichtsbarkeit.md` | pdf |
-| `dokumente/hauptquellen/Verfassungsschutz darf AfD Hessen weiter beobachten.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Verfassungsschutz darf AfD Hessen weiter beobachten.md` | pdf |
 | `dokumente/hauptquellen/Verfassungsschutz_darf_AfD_Hessen_weiter_beobachten.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Verfassungsschutz_darf_AfD_Hessen_weiter_beobachten.md` | pdf |
 | `dokumente/hauptquellen/Verfassungsschutzbericht für Hessen_ Viel mehr rechtsextreme Straftaten _ hessenschau.de _ Landtag.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Verfassungsschutzbericht für Hessen_ Viel mehr rechtsextreme Straftaten _ hessenschau.de _ Landtag.md` | pdf |
-| `dokumente/hauptquellen/Verfassungsschutzbericht_für_Hessen__Viel_mehr_rechtsextreme_Straftaten___hessenschau.de___Landtag.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Verfassungsschutzbericht_für_Hessen__Viel_mehr_rechtsextreme_Straftaten___hessenschau.de___Landtag.md` | pdf |
-| `dokumente/hauptquellen/Verhandlung zur AfD-Einstufung _ Hessen Verwaltungsgerichtsbarkeit.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Verhandlung zur AfD-Einstufung _ Hessen Verwaltungsgerichtsbarkeit.md` | pdf |
 | `dokumente/hauptquellen/Verhandlung_zur_AfD-Einstufung___Hessen_Verwaltungsgerichtsbarkeit.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Verhandlung_zur_AfD-Einstufung___Hessen_Verwaltungsgerichtsbarkeit.md` | pdf |
 | `dokumente/hauptquellen/Verlust von deutschem Pass_ AfD nimmt deutsche Staatsbürger ins Visier - Bayern - SZ.de.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Verlust von deutschem Pass_ AfD nimmt deutsche Staatsbürger ins Visier - Bayern - SZ.de.md` | pdf |
-| `dokumente/hauptquellen/Verlust_von_deutschem_Pass__AfD_nimmt_deutsche_Staatsbürger_ins_Visier_-_Bayern_-_SZ.de.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Verlust_von_deutschem_Pass__AfD_nimmt_deutsche_Staatsbürger_ins_Visier_-_Bayern_-_SZ.de.md` | pdf |
-| `dokumente/hauptquellen/Verwaltungsgericht zum Verdachtsfall AfD_ Alice Weidel wohl kein Spitzel _ taz.de.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Verwaltungsgericht zum Verdachtsfall AfD_ Alice Weidel wohl kein Spitzel _ taz.de.md` | pdf |
 | `dokumente/hauptquellen/Verwaltungsgericht_zum_Verdachtsfall_AfD__Alice_Weidel_wohl_kein_Spitzel___taz.de.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Verwaltungsgericht_zum_Verdachtsfall_AfD__Alice_Weidel_wohl_kein_Spitzel___taz.de.md` | pdf |
 | `dokumente/hauptquellen/Volksverpetzer-764-Gesamt.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Volksverpetzer-764-Gesamt.md` | pdf |
 | `dokumente/hauptquellen/Vorwurf rechter Terror_ Anklage gegen „Sächsische Separatisten“ erhoben _ taz.de.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Vorwurf rechter Terror_ Anklage gegen „Sächsische Separatisten“ erhoben _ taz.de.md` | pdf |
-| `dokumente/hauptquellen/Vorwurf_rechter_Terror__Anklage_gegen_„Sächsische_Separatisten“_erhoben___taz.de.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Vorwurf_rechter_Terror__Anklage_gegen_„Sächsische_Separatisten“_erhoben___taz.de.md` | pdf |
 | `dokumente/hauptquellen/WELT_Hoecke_Einfluss_Bundes_AfD_Parteitag_Erfurt_2026.html` | `dokumente/ki_markdown/dokumente/hauptquellen/WELT_Hoecke_Einfluss_Bundes_AfD_Parteitag_Erfurt_2026.md` | html |
 | `dokumente/hauptquellen/WELT_Hoecke_Siegmund_Parteitag_Erfurt_2026.html` | `dokumente/ki_markdown/dokumente/hauptquellen/WELT_Hoecke_Siegmund_Parteitag_Erfurt_2026.md` | html |
-| `dokumente/hauptquellen/WISSENSTAND MAI 2025 AfD.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/WISSENSTAND MAI 2025 AfD.md` | pdf |
 | `dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.md` | pdf |
-| `dokumente/hauptquellen/WW_ Fotos sollen Neonazi als Ordner bei AfD-Veranstaltung zeigen - SWR Aktuell.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/WW_ Fotos sollen Neonazi als Ordner bei AfD-Veranstaltung zeigen - SWR Aktuell.md` | pdf |
 | `dokumente/hauptquellen/WW__Fotos_sollen_Neonazi_als_Ordner_bei_AfD-Veranstaltung_zeigen_-_SWR_Aktuell.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/WW__Fotos_sollen_Neonazi_als_Ordner_bei_AfD-Veranstaltung_zeigen_-_SWR_Aktuell.md` | pdf |
 | `dokumente/hauptquellen/Wahl zum Berliner Abgeordnetenhaus_ Berliner AfD nominiert erstmals Kandidatin für Amt der »Regierenden« _ DIE ZEIT.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Wahl zum Berliner Abgeordnetenhaus_ Berliner AfD nominiert erstmals Kandidatin für Amt der »Regierenden« _ DIE ZEIT.md` | pdf |
-| `dokumente/hauptquellen/Wahl_zum_Berliner_Abgeordnetenhaus__Berliner_AfD_nominiert_erstmals_Kandidatin_für_Amt_der_»Regierenden«___DIE_ZEIT.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Wahl_zum_Berliner_Abgeordnetenhaus__Berliner_AfD_nominiert_erstmals_Kandidatin_für_Amt_der_»Regierenden«___DIE_ZEIT.md` | pdf |
 | `dokumente/hauptquellen/Wahlfälschung - Gericht spricht Ex-AfD-Chef schuldig.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Wahlfälschung - Gericht spricht Ex-AfD-Chef schuldig.md` | pdf |
-| `dokumente/hauptquellen/Wahlfälschung_-_Gericht_spricht_Ex-AfD-Chef_schuldig.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Wahlfälschung_-_Gericht_spricht_Ex-AfD-Chef_schuldig.md` | pdf |
 | `dokumente/hauptquellen/Warum die AfD eine Gefahr für die Demokratie ist.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Warum die AfD eine Gefahr für die Demokratie ist.md` | pdf |
 | `dokumente/hauptquellen/Warum die Alternative für Deutschland verboten gehört.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Warum die Alternative für Deutschland verboten gehört.md` | pdf |
 | `dokumente/hauptquellen/Warum die Normalisierung der AfD eine Gefahr für die Demokratie darstellt.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Warum die Normalisierung der AfD eine Gefahr für die Demokratie darstellt.md` | pdf |
 | `dokumente/hauptquellen/Warum wählen Arbeiter die AfD_ Eine Spurensuche - Politik - SZ.de.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Warum wählen Arbeiter die AfD_ Eine Spurensuche - Politik - SZ.de.md` | pdf |
-| `dokumente/hauptquellen/Warum_die_AfD_eine_Gefahr_für_die_Demokratie_ist.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Warum_die_AfD_eine_Gefahr_für_die_Demokratie_ist.md` | pdf |
-| `dokumente/hauptquellen/Warum_die_Alternative_für_Deutschland_verboten_gehört.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Warum_die_Alternative_für_Deutschland_verboten_gehört.md` | pdf |
-| `dokumente/hauptquellen/Warum_die_Normalisierung_der_AfD_eine_Gefahr_für_die_Demokratie_darstellt.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Warum_die_Normalisierung_der_AfD_eine_Gefahr_für_die_Demokratie_darstellt.md` | pdf |
-| `dokumente/hauptquellen/Warum_wählen_Arbeiter_die_AfD__Eine_Spurensuche_-_Politik_-_SZ.de.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Warum_wählen_Arbeiter_die_AfD__Eine_Spurensuche_-_Politik_-_SZ.de.md` | pdf |
 | `dokumente/hauptquellen/Wenn die Brandmauer fällt _ KATAPULT Sachsen.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Wenn die Brandmauer fällt _ KATAPULT Sachsen.md` | pdf |
-| `dokumente/hauptquellen/Wenn_die_Brandmauer_fällt___KATAPULT_Sachsen.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Wenn_die_Brandmauer_fällt___KATAPULT_Sachsen.md` | pdf |
 | `dokumente/hauptquellen/Wie die AfD im Netz bei der KI die Konkurrenz abhängt _ STERN.de.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Wie die AfD im Netz bei der KI die Konkurrenz abhängt _ STERN.de.md` | pdf |
-| `dokumente/hauptquellen/Wie_die_AfD_im_Netz_bei_der_KI_die_Konkurrenz_abhängt___STERN.de.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Wie_die_AfD_im_Netz_bei_der_KI_die_Konkurrenz_abhängt___STERN.de.md` | pdf |
 | `dokumente/hauptquellen/Wir werden wohl bald erfahren, ob die AfD verboten werden würde - Volksverpetzer.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Wir werden wohl bald erfahren, ob die AfD verboten werden würde - Volksverpetzer.md` | pdf |
-| `dokumente/hauptquellen/Wir_werden_wohl_bald_erfahren,_ob_die_AfD_verboten_werden_würde_-_Volksverpetzer.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Wir_werden_wohl_bald_erfahren,_ob_die_AfD_verboten_werden_würde_-_Volksverpetzer.md` | pdf |
 | `dokumente/hauptquellen/ZDFheute_Bericht_VS_Gutachten_AfD.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/ZDFheute_Bericht_VS_Gutachten_AfD.md` | pdf |
-| `dokumente/hauptquellen/ZDFheute_Bericht_VS_Gutachten_AfD_Original.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/ZDFheute_Bericht_VS_Gutachten_AfD_Original.md` | pdf |
-| `dokumente/hauptquellen/Zahlen zu Kriminalität von Geflüchteten sind teils frei erfundenZahlen, die einen extremen Anstieg von Gewalttaten durch Zuwanderer zeigen sollen, sind falsch - correctiv.org.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Zahlen zu Kriminalität von Geflüchteten sind teils frei erfundenZahlen, die einen extremen Anstieg von Gewalttaten durch Zuwanderer zeigen sollen, sind falsch - correctiv.org.md` | pdf |
 | `dokumente/hauptquellen/Zahlen-Kriminalitaet-Gefluechtete-Correctiv.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Zahlen-Kriminalitaet-Gefluechtete-Correctiv.md` | pdf |
-| `dokumente/hauptquellen/Zitate Analyse Hausarbeit.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Zitate Analyse Hausarbeit.md` | pdf |
 | `dokumente/hauptquellen/Zitate_Analyse_Hausarbeit.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Zitate_Analyse_Hausarbeit.md` | pdf |
-| `dokumente/hauptquellen/Zwickau_ Rechtsextremismus bei Simson-Treffen - DDR-Kult im braunen Sumpf _ MDR.DE.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Zwickau_ Rechtsextremismus bei Simson-Treffen - DDR-Kult im braunen Sumpf _ MDR.DE.md` | pdf |
 | `dokumente/hauptquellen/Zwickau__Rechtsextremismus_bei_Simson-Treffen_-_DDR-Kult_im_braunen_Sumpf___MDR.DE.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Zwickau__Rechtsextremismus_bei_Simson-Treffen_-_DDR-Kult_im_braunen_Sumpf___MDR.DE.md` | pdf |
 | `dokumente/hauptquellen/_Gegen Europas Werte__ EU leitet Verbot von AfD-Parteienbündnis ein _ Kurier.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/_Gegen Europas Werte__ EU leitet Verbot von AfD-Parteienbündnis ein _ Kurier.md` | pdf |
-| `dokumente/hauptquellen/_Gegen_Europas_Werte___EU_leitet_Verbot_von_AfD-Parteienbündnis_ein___Kurier.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/_Gegen_Europas_Werte___EU_leitet_Verbot_von_AfD-Parteienbündnis_ein___Kurier.md` | pdf |
-| `dokumente/hauptquellen/_Nationalistische_ Inhalte! Polizisten aus Niedersachsen im Visier - news38.de.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/_Nationalistische_ Inhalte! Polizisten aus Niedersachsen im Visier - news38.de.md` | pdf |
 | `dokumente/hauptquellen/_Nationalistische__Inhalte!_Polizisten_aus_Niedersachsen_im_Visier_-_news38.de.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/_Nationalistische__Inhalte!_Polizisten_aus_Niedersachsen_im_Visier_-_news38.de.md` | pdf |
 | `dokumente/hauptquellen/abgeordnetenwatch.de_profile_marie-therese-kaiser.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/abgeordnetenwatch.de_profile_marie-therese-kaiser.md` | pdf |
 | `dokumente/hauptquellen/abgeordnetenwatch.de_profile_udo-stein.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/abgeordnetenwatch.de_profile_udo-stein.md` | pdf |
@@ -472,7 +281,6 @@
 | `dokumente/hauptquellen/cemas.io_en_blog_we-are-live.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/cemas.io_en_blog_we-are-live.md` | pdf |
 | `dokumente/hauptquellen/chatwithai.app_chat_index.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/chatwithai.app_chat_index.md` | pdf |
 | `dokumente/hauptquellen/correctiv-Recherche_ Verurteilt - und trotzdem Mandatsträger _ tagesschau.de.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/correctiv-Recherche_ Verurteilt - und trotzdem Mandatsträger _ tagesschau.de.md` | pdf |
-| `dokumente/hauptquellen/correctiv-Recherche__Verurteilt_-_und_trotzdem_Mandatsträger___tagesschau.de.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/correctiv-Recherche__Verurteilt_-_und_trotzdem_Mandatsträger___tagesschau.de.md` | pdf |
 | `dokumente/hauptquellen/correctiv.org_aktuelles_afd_2026_05_07_gericht-erklaert-afd-millionenspende-vor-bundestagswahl-fuer-unzulaessig.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/correctiv.org_aktuelles_afd_2026_05_07_gericht-erklaert-afd-millionenspende-vor-bundestagswahl-fuer-unzulaessig.md` | pdf |
 | `dokumente/hauptquellen/correctiv.org_aktuelles_debatte-um-afd-verbot_2026_04_15_alle-wichtigen-dokumente-zum-moeglichen-afd-verbot.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/correctiv.org_aktuelles_debatte-um-afd-verbot_2026_04_15_alle-wichtigen-dokumente-zum-moeglichen-afd-verbot.md` | pdf |
 | `dokumente/hauptquellen/correctiv.org_aktuelles_neue-rechte_2024_01_10_geheimplan-remigration-vertreibung-afd-rechtsextreme-november-treff.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/correctiv.org_aktuelles_neue-rechte_2024_01_10_geheimplan-remigration-vertreibung-afd-rechtsextreme-november-treff.md` | pdf |
@@ -518,7 +326,6 @@
 | `dokumente/hauptquellen/gesetze-im-internet.de_gg_art_21_html.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/gesetze-im-internet.de_gg_art_21_html.md` | pdf |
 | `dokumente/hauptquellen/grokipedia.com_page_Socialist_Reich_Party.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/grokipedia.com_page_Socialist_Reich_Party.md` | pdf |
 | `dokumente/hauptquellen/gruende für ein afd verbotsverfahren.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/gruende für ein afd verbotsverfahren.md` | pdf |
-| `dokumente/hauptquellen/gruende_für_ein_afd_verbotsverfahren.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/gruende_für_ein_afd_verbotsverfahren.md` | pdf |
 | `dokumente/hauptquellen/gruene-bundestag.de_unsere-politik_fachtexte_einstufung-der-afd-und-moegliches-verbotsverfahren.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/gruene-bundestag.de_unsere-politik_fachtexte_einstufung-der-afd-und-moegliches-verbotsverfahren.md` | pdf |
 | `dokumente/hauptquellen/gutshaeuser.de_de_guts_herrenhaeuser_gutshaeuser_j_gutshaus_jessenitz.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/gutshaeuser.de_de_guts_herrenhaeuser_gutshaeuser_j_gutshaus_jessenitz.md` | pdf |
 | `dokumente/hauptquellen/hudoc.echr.coe.int_eng.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/hudoc.echr.coe.int_eng.md` | pdf |
@@ -608,7 +415,6 @@
 | `dokumente/hauptquellen/richard-graupner.de_ueber-mein-person.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/richard-graupner.de_ueber-mein-person.md` | pdf |
 | `dokumente/hauptquellen/rnz.de_region_rhein-neckar-kreis_artikel_-Backnang-AfD-Stadtrat-Michael-Musto-wegen-Wahlfaelschung-verurtei.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/rnz.de_region_rhein-neckar-kreis_artikel_-Backnang-AfD-Stadtrat-Michael-Musto-wegen-Wahlfaelschung-verurtei.md` | pdf |
 | `dokumente/hauptquellen/rnz.de_region_sinsheim-kraichgau_artikel_-Sinsheim-Warum-sitzt-die-AfD-im-Gemeinderat-mittendrin-statt-rech.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/rnz.de_region_sinsheim-kraichgau_artikel_-Sinsheim-Warum-sitzt-die-AfD-im-Gemeinderat-mittendrin-statt-rech.md` | pdf |
-| `dokumente/hauptquellen/schlimmsten zitate der afd.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/schlimmsten zitate der afd.md` | pdf |
 | `dokumente/hauptquellen/schlimmsten_zitate_der_afd.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/schlimmsten_zitate_der_afd.md` | pdf |
 | `dokumente/hauptquellen/sfg.media_en_a_german-court-orders-removal-afd-confirmed-extremism-status.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/sfg.media_en_a_german-court-orders-removal-afd-confirmed-extremism-status.md` | pdf |
 | `dokumente/hauptquellen/spiegel.de_kultur_tv_alice-weidel-extra-3-darf-afd-politikerin-nazischlampe-nennen-a-1148135_html.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/spiegel.de_kultur_tv_alice-weidel-extra-3-darf-afd-politikerin-nazischlampe-nennen-a-1148135_html.md` | pdf |
@@ -709,10 +515,8 @@
 | `dokumente/hauptquellen/untersuchung-bfv-gutachten-und-afd-parteiverbot.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/untersuchung-bfv-gutachten-und-afd-parteiverbot.md` | pdf |
 | `dokumente/hauptquellen/urteilsbelege/01_Hoecke_SA_Parole_LG_Halle.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/01_Hoecke_SA_Parole_LG_Halle.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/01_Hoecke_SA_Parole_LG_Halle.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/01_Hoecke_SA_Parole_LG_Halle.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/01_Hoecke_SA_Parole_LG_Halle.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/01_Hoecke_SA_Parole_LG_Halle.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/02_Kaiser_Volksverhetzung_LG_Lueneburg.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/02_Kaiser_Volksverhetzung_LG_Lueneburg.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/02_Kaiser_Volksverhetzung_LG_Lueneburg.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/02_Kaiser_Volksverhetzung_LG_Lueneburg.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/02_Kaiser_Volksverhetzung_LG_Lueneburg.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/02_Kaiser_Volksverhetzung_LG_Lueneburg.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/03_Jaeger_Volksverhetzung_AG_Muenchen.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/03_Jaeger_Volksverhetzung_AG_Muenchen.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/03_Jaeger_Volksverhetzung_AG_Muenchen.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/03_Jaeger_Volksverhetzung_AG_Muenchen.md` | pdf |
 | `dokumente/hauptquellen/urteilsbelege/03_Jaeger_Volksverhetzung_AG_Muenchen.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/03_Jaeger_Volksverhetzung_AG_Muenchen.md` | txt |
@@ -736,493 +540,339 @@
 | `dokumente/hauptquellen/urteilsbelege/09_Raepple_Gewaltdelikt_LG_Karlsruhe.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/09_Raepple_Gewaltdelikt_LG_Karlsruhe.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/100_11_L_87_00.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/100_11_L_87_00.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/100_11_L_87_00.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/100_11_L_87_00.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/100_11_L_87_00.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/100_11_L_87_00.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/101_13_K_207_20.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/101_13_K_207_20.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/101_13_K_207_20.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/101_13_K_207_20.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/101_13_K_207_20.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/101_13_K_207_20.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/102_13_K_208_20.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/102_13_K_208_20.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/102_13_K_208_20.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/102_13_K_208_20.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/102_13_K_208_20.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/102_13_K_208_20.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/103_13_K_208_200.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/103_13_K_208_200.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/103_13_K_208_200.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/103_13_K_208_200.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/103_13_K_208_200.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/103_13_K_208_200.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/104_13_K_326_21.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/104_13_K_326_21.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/104_13_K_326_21.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/104_13_K_326_21.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/104_13_K_326_21.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/104_13_K_326_21.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/105_13_K_3261_21.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/105_13_K_3261_21.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/105_13_K_3261_21.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/105_13_K_3261_21.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/105_13_K_3261_21.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/105_13_K_3261_21.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/106_13_K_4222_18.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/106_13_K_4222_18.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/106_13_K_4222_18.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/106_13_K_4222_18.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/106_13_K_4222_18.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/106_13_K_4222_18.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/107_13_L_105_21.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/107_13_L_105_21.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/107_13_L_105_21.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/107_13_L_105_21.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/107_13_L_105_21.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/107_13_L_105_21.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/108_13_L_1124_23.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/108_13_L_1124_23.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/108_13_L_1124_23.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/108_13_L_1124_23.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/108_13_L_1124_23.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/108_13_L_1124_23.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/109_13_L_1124_24.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/109_13_L_1124_24.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/109_13_L_1124_24.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/109_13_L_1124_24.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/109_13_L_1124_24.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/109_13_L_1124_24.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/10_Beatrix_von_Storch_Volksverhetzung_Ermittlung.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/10_Beatrix_von_Storch_Volksverhetzung_Ermittlung.md` | pdf |
 | `dokumente/hauptquellen/urteilsbelege/10_Muenzenmeier_Hooligan_Gewalt_LG_Mainz.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/10_Muenzenmeier_Hooligan_Gewalt_LG_Mainz.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/10_Muenzenmeier_Hooligan_Gewalt_LG_Mainz.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/10_Muenzenmeier_Hooligan_Gewalt_LG_Mainz.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/110_16_A_845_03.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/110_16_A_845_03.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/110_16_A_845_03.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/110_16_A_845_03.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/110_16_A_845_03.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/110_16_A_845_03.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/111_16_A_845_08.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/111_16_A_845_08.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/111_16_A_845_08.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/111_16_A_845_08.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/111_16_A_845_08.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/111_16_A_845_08.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/112_2_B_10639_19.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/112_2_B_10639_19.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/112_2_B_10639_19.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/112_2_B_10639_19.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/112_2_B_10639_19.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/112_2_B_10639_19.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/113_2_BJs_274_22.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/113_2_BJs_274_22.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/113_2_BJs_274_22.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/113_2_BJs_274_22.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/113_2_BJs_274_22.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/113_2_BJs_274_22.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/114_2_BrB_2_01.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/114_2_BrB_2_01.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/114_2_BrB_2_01.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/114_2_BrB_2_01.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/114_2_BrB_2_01.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/114_2_BrB_2_01.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/115_2_BvB_1_01.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/115_2_BvB_1_01.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/115_2_BvB_1_01.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/115_2_BvB_1_01.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/115_2_BvB_1_01.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/115_2_BvB_1_01.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/116_2_BvB_2_01.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/116_2_BvB_2_01.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/116_2_BvB_2_01.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/116_2_BvB_2_01.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/116_2_BvB_2_01.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/116_2_BvB_2_01.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/117_2_BvB_3_01.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/117_2_BvB_3_01.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/117_2_BvB_3_01.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/117_2_BvB_3_01.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/117_2_BvB_3_01.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/117_2_BvB_3_01.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/118_2_BvE_11_12.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/118_2_BvE_11_12.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/118_2_BvE_11_12.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/118_2_BvE_11_12.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/118_2_BvE_11_12.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/118_2_BvE_11_12.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/119_2_BvE_4_13.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/119_2_BvE_4_13.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/119_2_BvE_4_13.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/119_2_BvE_4_13.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/119_2_BvE_4_13.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/119_2_BvE_4_13.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/11_Christina_Baum_Beleidigung.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/11_Christina_Baum_Beleidigung.md` | pdf |
 | `dokumente/hauptquellen/urteilsbelege/11_Mandic_Gewalt_AG_Freiburg.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/11_Mandic_Gewalt_AG_Freiburg.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/11_Mandic_Gewalt_AG_Freiburg.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/11_Mandic_Gewalt_AG_Freiburg.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/120_2_BvL_13_73.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/120_2_BvL_13_73.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/120_2_BvL_13_73.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/120_2_BvL_13_73.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/120_2_BvL_13_73.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/120_2_BvL_13_73.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/121_2_BvR_1299_05.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/121_2_BvR_1299_05.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/121_2_BvR_1299_05.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/121_2_BvR_1299_05.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/121_2_BvR_1299_05.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/121_2_BvR_1299_05.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/122_2_BvR_1436_02.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/122_2_BvR_1436_02.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/122_2_BvR_1436_02.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/122_2_BvR_1436_02.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/122_2_BvR_1436_02.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/122_2_BvR_1436_02.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/123_2_BvR_2436_10.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/123_2_BvR_2436_10.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/123_2_BvR_2436_10.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/123_2_BvR_2436_10.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/123_2_BvR_2436_10.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/123_2_BvR_2436_10.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/124_2_WD_42_00.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/124_2_WD_42_00.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/124_2_WD_42_00.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/124_2_WD_42_00.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/124_2_WD_42_00.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/124_2_WD_42_00.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/125_2_WD_43_00.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/125_2_WD_43_00.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/125_2_WD_43_00.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/125_2_WD_43_00.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/125_2_WD_43_00.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/125_2_WD_43_00.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/126_2_Ws_131_16.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/126_2_Ws_131_16.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/126_2_Ws_131_16.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/126_2_Ws_131_16.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/126_2_Ws_131_16.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/126_2_Ws_131_16.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/127_2_Ws_131_18.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/127_2_Ws_131_18.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/127_2_Ws_131_18.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/127_2_Ws_131_18.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/127_2_Ws_131_18.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/127_2_Ws_131_18.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/128_20_K_1882_03.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/128_20_K_1882_03.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/128_20_K_1882_03.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/128_20_K_1882_03.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/128_20_K_1882_03.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/128_20_K_1882_03.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/129_22_K_1266_06.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/129_22_K_1266_06.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/129_22_K_1266_06.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/129_22_K_1266_06.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/129_22_K_1266_06.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/129_22_K_1266_06.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/12_Joerg_Sobolewski_SA_Geste_AG_Tiergarten.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/12_Joerg_Sobolewski_SA_Geste_AG_Tiergarten.md` | pdf |
 | `dokumente/hauptquellen/urteilsbelege/12_Kalbitz_Koerperverletzung_AG_Potsdam.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/12_Kalbitz_Koerperverletzung_AG_Potsdam.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/12_Kalbitz_Koerperverletzung_AG_Potsdam.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/12_Kalbitz_Koerperverletzung_AG_Potsdam.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/130_22_K_2532_11.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/130_22_K_2532_11.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/130_22_K_2532_11.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/130_22_K_2532_11.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/130_22_K_2532_11.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/130_22_K_2532_11.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/131_22_K_404_09.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/131_22_K_404_09.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/131_22_K_404_09.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/131_22_K_404_09.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/131_22_K_404_09.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/131_22_K_404_09.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/132_29_U_6_20.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/132_29_U_6_20.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/132_29_U_6_20.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/132_29_U_6_20.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/132_29_U_6_20.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/132_29_U_6_20.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/133_4_L_441_15.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/133_4_L_441_15.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/133_4_L_441_15.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/133_4_L_441_15.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/133_4_L_441_15.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/133_4_L_441_15.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/134_4_U_1419_16.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/134_4_U_1419_16.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/134_4_U_1419_16.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/134_4_U_1419_16.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/134_4_U_1419_16.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/134_4_U_1419_16.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/135_5_A_1216_22.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/135_5_A_1216_22.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/135_5_A_1216_22.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/135_5_A_1216_22.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/135_5_A_1216_22.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/135_5_A_1216_22.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/136_5_A_1217_22.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/136_5_A_1217_22.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/136_5_A_1217_22.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/136_5_A_1217_22.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/136_5_A_1217_22.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/136_5_A_1217_22.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/137_5_A_130_05.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/137_5_A_130_05.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/137_5_A_130_05.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/137_5_A_130_05.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/137_5_A_130_05.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/137_5_A_130_05.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/138_5_A_203_08.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/138_5_A_203_08.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/138_5_A_203_08.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/138_5_A_203_08.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/138_5_A_203_08.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/138_5_A_203_08.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/139_5_A_837_11.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/139_5_A_837_11.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/139_5_A_837_11.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/139_5_A_837_11.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/139_5_A_837_11.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/139_5_A_837_11.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/13_Sven_Liebich_Volksverhetzung_Haft_LG_Halle.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/13_Sven_Liebich_Volksverhetzung_Haft_LG_Halle.md` | pdf |
 | `dokumente/hauptquellen/urteilsbelege/13_Ziegler_Betrug_AG_Dessau.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/13_Ziegler_Betrug_AG_Dessau.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/13_Ziegler_Betrug_AG_Dessau.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/13_Ziegler_Betrug_AG_Dessau.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/140_5_B_131_24.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/140_5_B_131_24.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/140_5_B_131_24.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/140_5_B_131_24.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/140_5_B_131_24.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/140_5_B_131_24.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/141_6_A_3_08.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/141_6_A_3_08.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/141_6_A_3_08.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/141_6_A_3_08.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/141_6_A_3_08.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/141_6_A_3_08.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/142_6_A_4_09.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/142_6_A_4_09.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/142_6_A_4_09.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/142_6_A_4_09.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/142_6_A_4_09.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/142_6_A_4_09.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/143_6_C_22_09.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/143_6_C_22_09.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/143_6_C_22_09.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/143_6_C_22_09.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/143_6_C_22_09.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/143_6_C_22_09.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/144_6_L_1337_20.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/144_6_L_1337_20.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/144_6_L_1337_20.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/144_6_L_1337_20.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/144_6_L_1337_20.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/144_6_L_1337_20.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/145_6_L_20_24.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/145_6_L_20_24.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/145_6_L_20_24.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/145_6_L_20_24.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/145_6_L_20_24.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/145_6_L_20_24.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/146_6_U_190_20.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/146_6_U_190_20.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/146_6_U_190_20.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/146_6_U_190_20.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/146_6_U_190_20.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/146_6_U_190_20.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/147_7_O_1618_18.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/147_7_O_1618_18.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/147_7_O_1618_18.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/147_7_O_1618_18.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/147_7_O_1618_18.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/147_7_O_1618_18.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/148_8_K_3483_06.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/148_8_K_3483_06.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/148_8_K_3483_06.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/148_8_K_3483_06.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/148_8_K_3483_06.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/148_8_K_3483_06.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/149_9_B_273_21.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/149_9_B_273_21.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/149_9_B_273_21.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/149_9_B_273_21.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/149_9_B_273_21.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/149_9_B_273_21.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/14_Petry_Betrug_LG_Leipzig.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/14_Petry_Betrug_LG_Leipzig.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/14_Petry_Betrug_LG_Leipzig.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/14_Petry_Betrug_LG_Leipzig.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/14_Thomas_Suchka_Volksverhetzung_AG_Ebersberg.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/14_Thomas_Suchka_Volksverhetzung_AG_Ebersberg.md` | pdf |
 | `dokumente/hauptquellen/urteilsbelege/150_A_1218_22.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/150_A_1218_22.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/150_A_1218_22.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/150_A_1218_22.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/150_A_1218_22.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/150_A_1218_22.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/151_AD_Ausgabe_31_2023.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/151_AD_Ausgabe_31_2023.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/151_AD_Ausgabe_31_2023.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/151_AD_Ausgabe_31_2023.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/151_AD_Ausgabe_31_2023.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/151_AD_Ausgabe_31_2023.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/152_AfD_12_2019.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/152_AfD_12_2019.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/152_AfD_12_2019.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/152_AfD_12_2019.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/152_AfD_12_2019.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/152_AfD_12_2019.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/153_Aktenzeichen_20_K_3925_19.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/153_Aktenzeichen_20_K_3925_19.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/153_Aktenzeichen_20_K_3925_19.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/153_Aktenzeichen_20_K_3925_19.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/153_Aktenzeichen_20_K_3925_19.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/153_Aktenzeichen_20_K_3925_19.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/154_Ausgabe_01_2024.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/154_Ausgabe_01_2024.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/154_Ausgabe_01_2024.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/154_Ausgabe_01_2024.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/154_Ausgabe_01_2024.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/154_Ausgabe_01_2024.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/155_Ausgabe_02_2024.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/155_Ausgabe_02_2024.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/155_Ausgabe_02_2024.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/155_Ausgabe_02_2024.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/155_Ausgabe_02_2024.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/155_Ausgabe_02_2024.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/156_Ausgabe_03_2023.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/156_Ausgabe_03_2023.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/156_Ausgabe_03_2023.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/156_Ausgabe_03_2023.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/156_Ausgabe_03_2023.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/156_Ausgabe_03_2023.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/157_Ausgabe_04_2023.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/157_Ausgabe_04_2023.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/157_Ausgabe_04_2023.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/157_Ausgabe_04_2023.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/157_Ausgabe_04_2023.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/157_Ausgabe_04_2023.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/158_Ausgabe_05_2023.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/158_Ausgabe_05_2023.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/158_Ausgabe_05_2023.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/158_Ausgabe_05_2023.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/158_Ausgabe_05_2023.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/158_Ausgabe_05_2023.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/159_Ausgabe_06_2023.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/159_Ausgabe_06_2023.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/159_Ausgabe_06_2023.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/159_Ausgabe_06_2023.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/159_Ausgabe_06_2023.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/159_Ausgabe_06_2023.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/15_Andre_Poggenburg_Kuemmelhaendler_AG_Halle.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/15_Andre_Poggenburg_Kuemmelhaendler_AG_Halle.md` | pdf |
 | `dokumente/hauptquellen/urteilsbelege/15_Halemba_Geldwaesche_LG_Wuerzburg.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/15_Halemba_Geldwaesche_LG_Wuerzburg.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/15_Halemba_Geldwaesche_LG_Wuerzburg.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/15_Halemba_Geldwaesche_LG_Wuerzburg.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/160_Ausgabe_06_2024.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/160_Ausgabe_06_2024.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/160_Ausgabe_06_2024.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/160_Ausgabe_06_2024.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/160_Ausgabe_06_2024.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/160_Ausgabe_06_2024.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/161_Ausgabe_08_2023.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/161_Ausgabe_08_2023.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/161_Ausgabe_08_2023.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/161_Ausgabe_08_2023.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/161_Ausgabe_08_2023.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/161_Ausgabe_08_2023.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/162_Ausgabe_09_2023.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/162_Ausgabe_09_2023.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/162_Ausgabe_09_2023.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/162_Ausgabe_09_2023.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/162_Ausgabe_09_2023.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/162_Ausgabe_09_2023.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/163_Ausgabe_10_2009.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/163_Ausgabe_10_2009.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/163_Ausgabe_10_2009.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/163_Ausgabe_10_2009.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/163_Ausgabe_10_2009.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/163_Ausgabe_10_2009.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/164_Ausgabe_10_2022.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/164_Ausgabe_10_2022.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/164_Ausgabe_10_2022.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/164_Ausgabe_10_2022.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/164_Ausgabe_10_2022.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/164_Ausgabe_10_2022.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/165_Ausgabe_10_2023.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/165_Ausgabe_10_2023.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/165_Ausgabe_10_2023.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/165_Ausgabe_10_2023.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/165_Ausgabe_10_2023.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/165_Ausgabe_10_2023.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/166_Ausgabe_10_2024.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/166_Ausgabe_10_2024.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/166_Ausgabe_10_2024.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/166_Ausgabe_10_2024.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/166_Ausgabe_10_2024.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/166_Ausgabe_10_2024.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/167_Ausgabe_11_2022.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/167_Ausgabe_11_2022.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/167_Ausgabe_11_2022.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/167_Ausgabe_11_2022.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/167_Ausgabe_11_2022.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/167_Ausgabe_11_2022.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/168_Ausgabe_11_2023.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/168_Ausgabe_11_2023.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/168_Ausgabe_11_2023.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/168_Ausgabe_11_2023.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/168_Ausgabe_11_2023.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/168_Ausgabe_11_2023.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/169_Ausgabe_11_2024.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/169_Ausgabe_11_2024.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/169_Ausgabe_11_2024.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/169_Ausgabe_11_2024.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/169_Ausgabe_11_2024.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/169_Ausgabe_11_2024.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/16_Steinbeck_Waffen_LG_Schwerin.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/16_Steinbeck_Waffen_LG_Schwerin.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/16_Steinbeck_Waffen_LG_Schwerin.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/16_Steinbeck_Waffen_LG_Schwerin.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/16_Uwe_Junge_Beleidigung_AG_Mainz.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/16_Uwe_Junge_Beleidigung_AG_Mainz.md` | pdf |
 | `dokumente/hauptquellen/urteilsbelege/170_Ausgabe_12_2023.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/170_Ausgabe_12_2023.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/170_Ausgabe_12_2023.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/170_Ausgabe_12_2023.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/170_Ausgabe_12_2023.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/170_Ausgabe_12_2023.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/171_Ausgabe_12_2024.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/171_Ausgabe_12_2024.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/171_Ausgabe_12_2024.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/171_Ausgabe_12_2024.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/171_Ausgabe_12_2024.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/171_Ausgabe_12_2024.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/172_Ausgabe_15_10.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/172_Ausgabe_15_10.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/172_Ausgabe_15_10.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/172_Ausgabe_15_10.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/172_Ausgabe_15_10.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/172_Ausgabe_15_10.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/173_Ausgabe_17_11.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/173_Ausgabe_17_11.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/173_Ausgabe_17_11.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/173_Ausgabe_17_11.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/173_Ausgabe_17_11.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/173_Ausgabe_17_11.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/174_Ausgabe_23_2016.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/174_Ausgabe_23_2016.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/174_Ausgabe_23_2016.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/174_Ausgabe_23_2016.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/174_Ausgabe_23_2016.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/174_Ausgabe_23_2016.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/175_Ausgabe_3_2025.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/175_Ausgabe_3_2025.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/175_Ausgabe_3_2025.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/175_Ausgabe_3_2025.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/175_Ausgabe_3_2025.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/175_Ausgabe_3_2025.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/176_Ausgabe_7_2020.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/176_Ausgabe_7_2020.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/176_Ausgabe_7_2020.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/176_Ausgabe_7_2020.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/176_Ausgabe_7_2020.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/176_Ausgabe_7_2020.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/177_Ausgabe_9_2019.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/177_Ausgabe_9_2019.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/177_Ausgabe_9_2019.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/177_Ausgabe_9_2019.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/177_Ausgabe_9_2019.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/177_Ausgabe_9_2019.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/178_Ausgebe_9_2019.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/178_Ausgebe_9_2019.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/178_Ausgebe_9_2019.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/178_Ausgebe_9_2019.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/178_Ausgebe_9_2019.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/178_Ausgebe_9_2019.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/179_Austritt_5_2020.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/179_Austritt_5_2020.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/179_Austritt_5_2020.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/179_Austritt_5_2020.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/179_Austritt_5_2020.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/179_Austritt_5_2020.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/17_Brandner_Beleidigung_AG_Gera.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/17_Brandner_Beleidigung_AG_Gera.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/17_Brandner_Beleidigung_AG_Gera.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/17_Brandner_Beleidigung_AG_Gera.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/17_Gerd_Sch_Volksverhetzung_AG_Cottbus.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/17_Gerd_Sch_Volksverhetzung_AG_Cottbus.md` | pdf |
 | `dokumente/hauptquellen/urteilsbelege/180_BvB_1_19.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/180_BvB_1_19.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/180_BvB_1_19.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/180_BvB_1_19.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/180_BvB_1_19.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/180_BvB_1_19.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/181_BvB_1_51.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/181_BvB_1_51.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/181_BvB_1_51.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/181_BvB_1_51.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/181_BvB_1_51.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/181_BvB_1_51.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/182_COMPACT_1_2025.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/182_COMPACT_1_2025.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/182_COMPACT_1_2025.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/182_COMPACT_1_2025.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/182_COMPACT_1_2025.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/182_COMPACT_1_2025.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/183_COMPACT_11_2024.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/183_COMPACT_11_2024.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/183_COMPACT_11_2024.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/183_COMPACT_11_2024.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/183_COMPACT_11_2024.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/183_COMPACT_11_2024.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/184_COMPACT_2_2025.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/184_COMPACT_2_2025.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/184_COMPACT_2_2025.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/184_COMPACT_2_2025.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/184_COMPACT_2_2025.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/184_COMPACT_2_2025.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/185_DER_SPIEGEL_40_1995.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/185_DER_SPIEGEL_40_1995.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/185_DER_SPIEGEL_40_1995.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/185_DER_SPIEGEL_40_1995.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/185_DER_SPIEGEL_40_1995.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/185_DER_SPIEGEL_40_1995.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/186_Heft_02_2024.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/186_Heft_02_2024.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/186_Heft_02_2024.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/186_Heft_02_2024.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/186_Heft_02_2024.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/186_Heft_02_2024.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/187_Heft_1_2024.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/187_Heft_1_2024.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/187_Heft_1_2024.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/187_Heft_1_2024.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/187_Heft_1_2024.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/187_Heft_1_2024.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/188_Heft_11_2023.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/188_Heft_11_2023.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/188_Heft_11_2023.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/188_Heft_11_2023.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/188_Heft_11_2023.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/188_Heft_11_2023.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/189_Heft_8_2023.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/189_Heft_8_2023.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/189_Heft_8_2023.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/189_Heft_8_2023.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/189_Heft_8_2023.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/189_Heft_8_2023.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/18_Halger_H_Hitlergruss_AG_Chemnitz.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/18_Halger_H_Hitlergruss_AG_Chemnitz.md` | pdf |
 | `dokumente/hauptquellen/urteilsbelege/18_Moosdorf_Hitlergruss_BT.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/18_Moosdorf_Hitlergruss_BT.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/18_Moosdorf_Hitlergruss_BT.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/18_Moosdorf_Hitlergruss_BT.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/190_Heften_10_2023.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/190_Heften_10_2023.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/190_Heften_10_2023.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/190_Heften_10_2023.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/190_Heften_10_2023.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/190_Heften_10_2023.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/191_Hungerwinter_46_47.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/191_Hungerwinter_46_47.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/191_Hungerwinter_46_47.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/191_Hungerwinter_46_47.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/191_Hungerwinter_46_47.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/191_Hungerwinter_46_47.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/192_Im_Heft_10_2022.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/192_Im_Heft_10_2022.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/192_Im_Heft_10_2022.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/192_Im_Heft_10_2022.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/192_Im_Heft_10_2022.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/192_Im_Heft_10_2022.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/193_In_Ausgabe_10_2022.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/193_In_Ausgabe_10_2022.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/193_In_Ausgabe_10_2022.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/193_In_Ausgabe_10_2022.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/193_In_Ausgabe_10_2022.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/193_In_Ausgabe_10_2022.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/194_In_Ausgabe_10_2024.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/194_In_Ausgabe_10_2024.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/194_In_Ausgabe_10_2024.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/194_In_Ausgabe_10_2024.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/194_In_Ausgabe_10_2024.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/194_In_Ausgabe_10_2024.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/195_JA_5_A_1218_22.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/195_JA_5_A_1218_22.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/195_JA_5_A_1218_22.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/195_JA_5_A_1218_22.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/195_JA_5_A_1218_22.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/195_JA_5_A_1218_22.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/196_Jahren_1932_33.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/196_Jahren_1932_33.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/196_Jahren_1932_33.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/196_Jahren_1932_33.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/196_Jahren_1932_33.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/196_Jahren_1932_33.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/197_K_1286_06.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/197_K_1286_06.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/197_K_1286_06.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/197_K_1286_06.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/197_K_1286_06.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/197_K_1286_06.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/198_K_208_20.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/198_K_208_20.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/198_K_208_20.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/198_K_208_20.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/198_K_208_20.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/198_K_208_20.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/199_Lagebild_Antisemitismus_2022_23.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/199_Lagebild_Antisemitismus_2022_23.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/199_Lagebild_Antisemitismus_2022_23.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/199_Lagebild_Antisemitismus_2022_23.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/199_Lagebild_Antisemitismus_2022_23.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/199_Lagebild_Antisemitismus_2022_23.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/19_Hoecke_Faschist_VG_Meiningen.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/19_Hoecke_Faschist_VG_Meiningen.md` | md |
-| `dokumente/hauptquellen/urteilsbelege/19_Hoecke_Faschist_VG_Meiningen.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/19_Hoecke_Faschist_VG_Meiningen.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/19_Stefan_W_Volksverhetzung_AG_Gera.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/19_Stefan_W_Volksverhetzung_AG_Gera.md` | pdf |
 | `dokumente/hauptquellen/urteilsbelege/200_Magazin_1_2025.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/200_Magazin_1_2025.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/200_Magazin_1_2025.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/200_Magazin_1_2025.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/200_Magazin_1_2025.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/200_Magazin_1_2025.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/201_Magazin_11_2024.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/201_Magazin_11_2024.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/201_Magazin_11_2024.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/201_Magazin_11_2024.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/201_Magazin_11_2024.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/201_Magazin_11_2024.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/202_Magazin_2_2025.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/202_Magazin_2_2025.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/202_Magazin_2_2025.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/202_Magazin_2_2025.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/202_Magazin_2_2025.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/202_Magazin_2_2025.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/203_Magazin_3_2025.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/203_Magazin_3_2025.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/203_Magazin_3_2025.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/203_Magazin_3_2025.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/203_Magazin_3_2025.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/203_Magazin_3_2025.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/204_Magazin_4_2025.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/204_Magazin_4_2025.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/204_Magazin_4_2025.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/204_Magazin_4_2025.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/204_Magazin_4_2025.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/204_Magazin_4_2025.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/205_Magazin_6_2024.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/205_Magazin_6_2024.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/205_Magazin_6_2024.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/205_Magazin_6_2024.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/205_Magazin_6_2024.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/205_Magazin_6_2024.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/206_Migrationskrise_2015_2016.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/206_Migrationskrise_2015_2016.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/206_Migrationskrise_2015_2016.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/206_Migrationskrise_2015_2016.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/206_Migrationskrise_2015_2016.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/206_Migrationskrise_2015_2016.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/207_Migrationsphase_2015_16.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/207_Migrationsphase_2015_16.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/207_Migrationsphase_2015_16.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/207_Migrationsphase_2015_16.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/207_Migrationsphase_2015_16.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/207_Migrationsphase_2015_16.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/208_Netzwerke_Richtlinie_1_76.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/208_Netzwerke_Richtlinie_1_76.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/208_Netzwerke_Richtlinie_1_76.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/208_Netzwerke_Richtlinie_1_76.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/208_Netzwerke_Richtlinie_1_76.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/208_Netzwerke_Richtlinie_1_76.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/209_Neujahr_2015_2015.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/209_Neujahr_2015_2015.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/209_Neujahr_2015_2015.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/209_Neujahr_2015_2015.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/209_Neujahr_2015_2015.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/209_Neujahr_2015_2015.md` | txt |
-| `dokumente/hauptquellen/urteilsbelege/20_Daniel_R_Hakenkreuz_Volksverhetzung_AG_Bautzen.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/20_Daniel_R_Hakenkreuz_Volksverhetzung_AG_Bautzen.md` | pdf |
 | `dokumente/hauptquellen/urteilsbelege/20_Weidel_Nazischlampe_LG_Hamburg.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/20_Weidel_Nazischlampe_LG_Hamburg.md` | md |
-| `dokumente/hauptquellen/urteilsbelege/20_Weidel_Nazischlampe_LG_Hamburg.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/20_Weidel_Nazischlampe_LG_Hamburg.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/210_Neujahr_2015_2016.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/210_Neujahr_2015_2016.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/210_Neujahr_2015_2016.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/210_Neujahr_2015_2016.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/210_Neujahr_2015_2016.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/210_Neujahr_2015_2016.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/211_OVG_1_N_96_20.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/211_OVG_1_N_96_20.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/211_OVG_1_N_96_20.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/211_OVG_1_N_96_20.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/211_OVG_1_N_96_20.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/211_OVG_1_N_96_20.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/212_OVG_1_S_55_20.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/212_OVG_1_S_55_20.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/212_OVG_1_S_55_20.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/212_OVG_1_S_55_20.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/212_OVG_1_S_55_20.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/212_OVG_1_S_55_20.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/213_OVG_1_S_56_20.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/213_OVG_1_S_56_20.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/213_OVG_1_S_56_20.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/213_OVG_1_S_56_20.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/213_OVG_1_S_56_20.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/213_OVG_1_S_56_20.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/214_Partei_10_2020.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/214_Partei_10_2020.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/214_Partei_10_2020.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/214_Partei_10_2020.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/214_Partei_10_2020.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/214_Partei_10_2020.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/215_Partei_12_2020.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/215_Partei_12_2020.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/215_Partei_12_2020.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/215_Partei_12_2020.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/215_Partei_12_2020.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/215_Partei_12_2020.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/216_Parteiausschluss_03_2020.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/216_Parteiausschluss_03_2020.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/216_Parteiausschluss_03_2020.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/216_Parteiausschluss_03_2020.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/216_Parteiausschluss_03_2020.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/216_Parteiausschluss_03_2020.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/217_Parteiaustritt_10_2020.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/217_Parteiaustritt_10_2020.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/217_Parteiaustritt_10_2020.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/217_Parteiaustritt_10_2020.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/217_Parteiaustritt_10_2020.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/217_Parteiaustritt_10_2020.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/218_Pressemitteilung_02_2019.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/218_Pressemitteilung_02_2019.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/218_Pressemitteilung_02_2019.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/218_Pressemitteilung_02_2019.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/218_Pressemitteilung_02_2019.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/218_Pressemitteilung_02_2019.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/219_Sicherheit_2014_2015.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/219_Sicherheit_2014_2015.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/219_Sicherheit_2014_2015.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/219_Sicherheit_2014_2015.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/219_Sicherheit_2014_2015.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/219_Sicherheit_2014_2015.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/21_AfD_Strafzahlungen_Spendenaffaere_BVerwG.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/21_AfD_Strafzahlungen_Spendenaffaere_BVerwG.md` | md |
-| `dokumente/hauptquellen/urteilsbelege/21_AfD_Strafzahlungen_Spendenaffaere_BVerwG.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/21_AfD_Strafzahlungen_Spendenaffaere_BVerwG.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/21_Cassel_Gewalttat_AG_Essen.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/21_Cassel_Gewalttat_AG_Essen.md` | pdf |
 | `dokumente/hauptquellen/urteilsbelege/220_Silvesternacht_2015_16.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/220_Silvesternacht_2015_16.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/220_Silvesternacht_2015_16.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/220_Silvesternacht_2015_16.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/220_Silvesternacht_2015_16.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/220_Silvesternacht_2015_16.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/221_Silvesternacht_2015_2016.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/221_Silvesternacht_2015_2016.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/221_Silvesternacht_2015_2016.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/221_Silvesternacht_2015_2016.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/221_Silvesternacht_2015_2016.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/221_Silvesternacht_2015_2016.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/222_Silvesternacht_2022_23.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/222_Silvesternacht_2022_23.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/222_Silvesternacht_2022_23.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/222_Silvesternacht_2022_23.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/222_Silvesternacht_2022_23.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/222_Silvesternacht_2022_23.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/223_Sommer_22_23.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/223_Sommer_22_23.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/223_Sommer_22_23.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/223_Sommer_22_23.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/223_Sommer_22_23.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/223_Sommer_22_23.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/224_Spiegel_23_2016.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/224_Spiegel_23_2016.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/224_Spiegel_23_2016.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/224_Spiegel_23_2016.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/224_Spiegel_23_2016.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/224_Spiegel_23_2016.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/225_VG_1_L_340_23.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/225_VG_1_L_340_23.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/225_VG_1_L_340_23.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/225_VG_1_L_340_23.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/225_VG_1_L_340_23.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/225_VG_1_L_340_23.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/226_VG_1_L_95_20.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/226_VG_1_L_95_20.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/226_VG_1_L_95_20.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/226_VG_1_L_95_20.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/226_VG_1_L_95_20.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/226_VG_1_L_95_20.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/227_VG_1_L_97_20.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/227_VG_1_L_97_20.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/227_VG_1_L_97_20.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/227_VG_1_L_97_20.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/227_VG_1_L_97_20.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/227_VG_1_L_97_20.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/228_VGL_97_20.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/228_VGL_97_20.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/228_VGL_97_20.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/228_VGL_97_20.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/228_VGL_97_20.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/228_VGL_97_20.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/229_Verfahren_13_K_207_20.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/229_Verfahren_13_K_207_20.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/229_Verfahren_13_K_207_20.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/229_Verfahren_13_K_207_20.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/229_Verfahren_13_K_207_20.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/229_Verfahren_13_K_207_20.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/22_BfV_vs_AfD_Verdachtsfall_OVG_Muenster.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/22_BfV_vs_AfD_Verdachtsfall_OVG_Muenster.md` | md |
-| `dokumente/hauptquellen/urteilsbelege/22_BfV_vs_AfD_Verdachtsfall_OVG_Muenster.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/22_BfV_vs_AfD_Verdachtsfall_OVG_Muenster.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/22_Borrmann_Koerperverletzung_LG_Berlin.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/22_Borrmann_Koerperverletzung_LG_Berlin.md` | pdf |
 | `dokumente/hauptquellen/urteilsbelege/230_VfGBbg_94_20.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/230_VfGBbg_94_20.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/230_VfGBbg_94_20.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/230_VfGBbg_94_20.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/230_VfGBbg_94_20.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/230_VfGBbg_94_20.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/231_ZUERST_Ausgabe_01_2023.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/231_ZUERST_Ausgabe_01_2023.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/231_ZUERST_Ausgabe_01_2023.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/231_ZUERST_Ausgabe_01_2023.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/231_ZUERST_Ausgabe_01_2023.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/231_ZUERST_Ausgabe_01_2023.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/232_ZUERST_Ausgabe_03_2022.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/232_ZUERST_Ausgabe_03_2022.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/232_ZUERST_Ausgabe_03_2022.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/232_ZUERST_Ausgabe_03_2022.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/232_ZUERST_Ausgabe_03_2022.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/232_ZUERST_Ausgabe_03_2022.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/233_ZUERST_Ausgabe_04_2022.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/233_ZUERST_Ausgabe_04_2022.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/233_ZUERST_Ausgabe_04_2022.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/233_ZUERST_Ausgabe_04_2022.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/233_ZUERST_Ausgabe_04_2022.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/233_ZUERST_Ausgabe_04_2022.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/234_ZUERST_Ausgabe_05_2018.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/234_ZUERST_Ausgabe_05_2018.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/234_ZUERST_Ausgabe_05_2018.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/234_ZUERST_Ausgabe_05_2018.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/234_ZUERST_Ausgabe_05_2018.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/234_ZUERST_Ausgabe_05_2018.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/235_ZUERST_Ausgabe_05_2022.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/235_ZUERST_Ausgabe_05_2022.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/235_ZUERST_Ausgabe_05_2022.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/235_ZUERST_Ausgabe_05_2022.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/235_ZUERST_Ausgabe_05_2022.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/235_ZUERST_Ausgabe_05_2022.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/236_ZUERST_Ausgabe_06_2022.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/236_ZUERST_Ausgabe_06_2022.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/236_ZUERST_Ausgabe_06_2022.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/236_ZUERST_Ausgabe_06_2022.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/236_ZUERST_Ausgabe_06_2022.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/236_ZUERST_Ausgabe_06_2022.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/237_ZUERST_Ausgabe_11_2022.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/237_ZUERST_Ausgabe_11_2022.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/237_ZUERST_Ausgabe_11_2022.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/237_ZUERST_Ausgabe_11_2022.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/237_ZUERST_Ausgabe_11_2022.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/237_ZUERST_Ausgabe_11_2022.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/238_ZUERSTI_Ausgabe_04_2023.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/238_ZUERSTI_Ausgabe_04_2023.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/238_ZUERSTI_Ausgabe_04_2023.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/238_ZUERSTI_Ausgabe_04_2023.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/238_ZUERSTI_Ausgabe_04_2023.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/238_ZUERSTI_Ausgabe_04_2023.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/239_Zeitgeschichte_31_2007.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/239_Zeitgeschichte_31_2007.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/239_Zeitgeschichte_31_2007.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/239_Zeitgeschichte_31_2007.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/239_Zeitgeschichte_31_2007.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/239_Zeitgeschichte_31_2007.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/23_Raepple_Gewaltdelikt_LG_Karlsruhe.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/23_Raepple_Gewaltdelikt_LG_Karlsruhe.md` | pdf |
 | `dokumente/hauptquellen/urteilsbelege/23_Waffenbesitzkarten_Entzug_VG_Duesseldorf.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/23_Waffenbesitzkarten_Entzug_VG_Duesseldorf.md` | md |
-| `dokumente/hauptquellen/urteilsbelege/23_Waffenbesitzkarten_Entzug_VG_Duesseldorf.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/23_Waffenbesitzkarten_Entzug_VG_Duesseldorf.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/24_Beamtenstatus_Ausschluss_OVG_Weimar.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/24_Beamtenstatus_Ausschluss_OVG_Weimar.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/24_Beamtenstatus_Ausschluss_OVG_Weimar.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/24_Beamtenstatus_Ausschluss_OVG_Weimar.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/24_Muenzenmeier_Hooligan_Gewalt_LG_Mainz.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/24_Muenzenmeier_Hooligan_Gewalt_LG_Mainz.md` | pdf |
 | `dokumente/hauptquellen/urteilsbelege/25_Bundestag_Ausschussvorsitz_BVerfG.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/25_Bundestag_Ausschussvorsitz_BVerfG.md` | md |
-| `dokumente/hauptquellen/urteilsbelege/25_Bundestag_Ausschussvorsitz_BVerfG.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/25_Bundestag_Ausschussvorsitz_BVerfG.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/25_Mandic_Gewalt_AG_Freiburg.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/25_Mandic_Gewalt_AG_Freiburg.md` | pdf |
 | `dokumente/hauptquellen/urteilsbelege/26_Kalbitz_Koerperverletzung_AG_Potsdam.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/26_Kalbitz_Koerperverletzung_AG_Potsdam.md` | pdf |
 | `dokumente/hauptquellen/urteilsbelege/26_Seitz_Richteramt_Entlassung_DGH_Karlsruhe.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/26_Seitz_Richteramt_Entlassung_DGH_Karlsruhe.md` | md |
-| `dokumente/hauptquellen/urteilsbelege/26_Seitz_Richteramt_Entlassung_DGH_Karlsruhe.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/26_Seitz_Richteramt_Entlassung_DGH_Karlsruhe.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/27_Jian_G_Spionage_Krah_OLG_Dresden.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/27_Jian_G_Spionage_Krah_OLG_Dresden.md` | md |
-| `dokumente/hauptquellen/urteilsbelege/27_Jian_G_Spionage_Krah_OLG_Dresden.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/27_Jian_G_Spionage_Krah_OLG_Dresden.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/27_Sven_Ebert_Koerperverletzung_LG_Magdeburg.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/27_Sven_Ebert_Koerperverletzung_LG_Magdeburg.md` | pdf |
 | `dokumente/hauptquellen/urteilsbelege/28_Maximilian_Krah_Ermittlungsverfahren_GBA.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/28_Maximilian_Krah_Ermittlungsverfahren_GBA.md` | md |
-| `dokumente/hauptquellen/urteilsbelege/28_Maximilian_Krah_Ermittlungsverfahren_GBA.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/28_Maximilian_Krah_Ermittlungsverfahren_GBA.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/28_Stefan_Hrdy_Koerperverletzung_AG_Wiesbaden.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/28_Stefan_Hrdy_Koerperverletzung_AG_Wiesbaden.md` | pdf |
 | `dokumente/hauptquellen/urteilsbelege/29_Maik_G_Koerperverletzung_AG_Sinsheim.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/29_Maik_G_Koerperverletzung_AG_Sinsheim.md` | pdf |
 | `dokumente/hauptquellen/urteilsbelege/29_Thorsten_Czuppon_Falschanzeige_LG_Erfurt.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/29_Thorsten_Czuppon_Falschanzeige_LG_Erfurt.md` | md |
-| `dokumente/hauptquellen/urteilsbelege/29_Thorsten_Czuppon_Falschanzeige_LG_Erfurt.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/29_Thorsten_Czuppon_Falschanzeige_LG_Erfurt.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/30_Robert_T_JA_Aktivist_Gewalt_LG_Leipzig.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/30_Robert_T_JA_Aktivist_Gewalt_LG_Leipzig.md` | pdf |
 | `dokumente/hauptquellen/urteilsbelege/30_Wiebke_Muhsal_Betrug_LG_Erfurt.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/30_Wiebke_Muhsal_Betrug_LG_Erfurt.md` | md |
-| `dokumente/hauptquellen/urteilsbelege/30_Wiebke_Muhsal_Betrug_LG_Erfurt.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/30_Wiebke_Muhsal_Betrug_LG_Erfurt.md` | txt |
-| `dokumente/hauptquellen/urteilsbelege/31_Alexander_M_Koerperverletzung_AG_Erfurt.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/31_Alexander_M_Koerperverletzung_AG_Erfurt.md` | pdf |
 | `dokumente/hauptquellen/urteilsbelege/31_Jan_Ulrich_Weiss_Schmuggel_LG_Potsdam.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/31_Jan_Ulrich_Weiss_Schmuggel_LG_Potsdam.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/31_Jan_Ulrich_Weiss_Schmuggel_LG_Potsdam.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/31_Jan_Ulrich_Weiss_Schmuggel_LG_Potsdam.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/32_Heiko_H_Koerperverletzung_AG_Zeitz.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/32_Heiko_H_Koerperverletzung_AG_Zeitz.md` | pdf |
 | `dokumente/hauptquellen/urteilsbelege/32_Rolf_Dipp_Erpressung_LG_Braunschweig.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/32_Rolf_Dipp_Erpressung_LG_Braunschweig.md` | md |
-| `dokumente/hauptquellen/urteilsbelege/32_Rolf_Dipp_Erpressung_LG_Braunschweig.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/32_Rolf_Dipp_Erpressung_LG_Braunschweig.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/33_Stefan_K_JA_Gewalttat_AG_Dresden.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/33_Stefan_K_JA_Gewalttat_AG_Dresden.md` | pdf |
 | `dokumente/hauptquellen/urteilsbelege/33_Sven_Ebert_Koerperverletzung_LG_Magdeburg.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/33_Sven_Ebert_Koerperverletzung_LG_Magdeburg.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/33_Sven_Ebert_Koerperverletzung_LG_Magdeburg.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/33_Sven_Ebert_Koerperverletzung_LG_Magdeburg.md` | txt |
@@ -1230,10 +880,8 @@
 | `dokumente/hauptquellen/urteilsbelege/34_Richard_Graupner_Dienstgeheimnis_LG_Bamberg.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/34_Richard_Graupner_Dienstgeheimnis_LG_Bamberg.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/34_Thorsten_Czuppon_Falschanzeige_LG_Erfurt.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/34_Thorsten_Czuppon_Falschanzeige_LG_Erfurt.md` | pdf |
 | `dokumente/hauptquellen/urteilsbelege/35_Jens_Maier_Richter_Ruhestand_DG_Leipzig.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/35_Jens_Maier_Richter_Ruhestand_DG_Leipzig.md` | md |
-| `dokumente/hauptquellen/urteilsbelege/35_Jens_Maier_Richter_Ruhestand_DG_Leipzig.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/35_Jens_Maier_Richter_Ruhestand_DG_Leipzig.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/35_Richard_Graupner_Dienstgeheimnis_LG_Bamberg.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/35_Richard_Graupner_Dienstgeheimnis_LG_Bamberg.md` | pdf |
 | `dokumente/hauptquellen/urteilsbelege/36_Birgit_Malsack_Winkemann_Reichsbuerger_BGH.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/36_Birgit_Malsack_Winkemann_Reichsbuerger_BGH.md` | md |
-| `dokumente/hauptquellen/urteilsbelege/36_Birgit_Malsack_Winkemann_Reichsbuerger_BGH.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/36_Birgit_Malsack_Winkemann_Reichsbuerger_BGH.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/36_Ziegler_Betrug_AG_Dessau.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/36_Ziegler_Betrug_AG_Dessau.md` | pdf |
 | `dokumente/hauptquellen/urteilsbelege/37_Jessica_Biessmann_Hitlerwein_AG_Tiergarten.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/37_Jessica_Biessmann_Hitlerwein_AG_Tiergarten.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/37_Jessica_Biessmann_Hitlerwein_AG_Tiergarten.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/37_Jessica_Biessmann_Hitlerwein_AG_Tiergarten.md` | txt |
@@ -1248,17 +896,13 @@
 | `dokumente/hauptquellen/urteilsbelege/40_Heinrich_Fiechtner_Beleidigung_AG_Stuttgart.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/40_Heinrich_Fiechtner_Beleidigung_AG_Stuttgart.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/40_Jan_Ulrich_Weiss_Schmuggel_LG_Potsdam.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/40_Jan_Ulrich_Weiss_Schmuggel_LG_Potsdam.md` | pdf |
 | `dokumente/hauptquellen/urteilsbelege/41_Beatrix_von_Storch_Volksverhetzung_Ermittlung.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/41_Beatrix_von_Storch_Volksverhetzung_Ermittlung.md` | md |
-| `dokumente/hauptquellen/urteilsbelege/41_Beatrix_von_Storch_Volksverhetzung_Ermittlung.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/41_Beatrix_von_Storch_Volksverhetzung_Ermittlung.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/41_Rolf_Dipp_Erpressung_LG_Braunschweig.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/41_Rolf_Dipp_Erpressung_LG_Braunschweig.md` | pdf |
 | `dokumente/hauptquellen/urteilsbelege/42_Alice_Weidel_Email_Affaere_Metadaten.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/42_Alice_Weidel_Email_Affaere_Metadaten.md` | md |
-| `dokumente/hauptquellen/urteilsbelege/42_Alice_Weidel_Email_Affaere_Metadaten.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/42_Alice_Weidel_Email_Affaere_Metadaten.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/42_Stefan_Beck_Untreue_LG_Mainz.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/42_Stefan_Beck_Untreue_LG_Mainz.md` | pdf |
 | `dokumente/hauptquellen/urteilsbelege/43_Joerg_Meuthen_Spendenaffaere_BVerwG.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/43_Joerg_Meuthen_Spendenaffaere_BVerwG.md` | pdf |
 | `dokumente/hauptquellen/urteilsbelege/43_Udo_Stein_Waffengesetz_Landtag.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/43_Udo_Stein_Waffengesetz_Landtag.md` | md |
-| `dokumente/hauptquellen/urteilsbelege/43_Udo_Stein_Waffengesetz_Landtag.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/43_Udo_Stein_Waffengesetz_Landtag.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/44_Guido_Reil_Spendenaffaere_BVerwG.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/44_Guido_Reil_Spendenaffaere_BVerwG.md` | pdf |
 | `dokumente/hauptquellen/urteilsbelege/44_Siegbert_Droese_NS_Provokation.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/44_Siegbert_Droese_NS_Provokation.md` | md |
-| `dokumente/hauptquellen/urteilsbelege/44_Siegbert_Droese_NS_Provokation.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/44_Siegbert_Droese_NS_Provokation.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/45_Christina_Baum_Beleidigung.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/45_Christina_Baum_Beleidigung.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/45_Christina_Baum_Beleidigung.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/45_Christina_Baum_Beleidigung.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/45_Daniela_W_Versicherungsbetrug_AG_Dresden.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/45_Daniela_W_Versicherungsbetrug_AG_Dresden.md` | pdf |
@@ -1269,20 +913,15 @@
 | `dokumente/hauptquellen/urteilsbelege/47_Gunnar_Lindemann_Finanzen_Donbas.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/47_Gunnar_Lindemann_Finanzen_Donbas.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/47_Michael_Musto_Wahlfaelschung_AG_Backnang.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/47_Michael_Musto_Wahlfaelschung_AG_Backnang.md` | pdf |
 | `dokumente/hauptquellen/urteilsbelege/48_Maximilian_T_Terrorverdacht_Franco_A.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/48_Maximilian_T_Terrorverdacht_Franco_A.md` | md |
-| `dokumente/hauptquellen/urteilsbelege/48_Maximilian_T_Terrorverdacht_Franco_A.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/48_Maximilian_T_Terrorverdacht_Franco_A.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/48_Steinbeck_Waffen_LG_Schwerin.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/48_Steinbeck_Waffen_LG_Schwerin.md` | pdf |
 | `dokumente/hauptquellen/urteilsbelege/49_Brandner_Beleidigung_AG_Gera.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/49_Brandner_Beleidigung_AG_Gera.md` | pdf |
 | `dokumente/hauptquellen/urteilsbelege/49_Kurt_H_Saechsische_Separatisten_Terror_GBA.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/49_Kurt_H_Saechsische_Separatisten_Terror_GBA.md` | md |
-| `dokumente/hauptquellen/urteilsbelege/49_Kurt_H_Saechsische_Separatisten_Terror_GBA.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/49_Kurt_H_Saechsische_Separatisten_Terror_GBA.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/50_Andre_Poggenburg_Kuemmelhaendler_AG_Halle.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/50_Andre_Poggenburg_Kuemmelhaendler_AG_Halle.md` | md |
-| `dokumente/hauptquellen/urteilsbelege/50_Andre_Poggenburg_Kuemmelhaendler_AG_Halle.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/50_Andre_Poggenburg_Kuemmelhaendler_AG_Halle.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/50_Moosdorf_Hitlergruss_BT.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/50_Moosdorf_Hitlergruss_BT.md` | pdf |
 | `dokumente/hauptquellen/urteilsbelege/51_Seitz_Richteramt_Entlassung_DGH_Karlsruhe.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/51_Seitz_Richteramt_Entlassung_DGH_Karlsruhe.md` | pdf |
 | `dokumente/hauptquellen/urteilsbelege/51_Uwe_Junge_Beleidigung_AG_Mainz.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/51_Uwe_Junge_Beleidigung_AG_Mainz.md` | md |
-| `dokumente/hauptquellen/urteilsbelege/51_Uwe_Junge_Beleidigung_AG_Mainz.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/51_Uwe_Junge_Beleidigung_AG_Mainz.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/52_Jessica_Biessmann_Hitlerwein_AG_Tiergarten.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/52_Jessica_Biessmann_Hitlerwein_AG_Tiergarten.md` | pdf |
 | `dokumente/hauptquellen/urteilsbelege/52_Sven_Liebich_Volksverhetzung_Haft_LG_Halle.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/52_Sven_Liebich_Volksverhetzung_Haft_LG_Halle.md` | md |
-| `dokumente/hauptquellen/urteilsbelege/52_Sven_Liebich_Volksverhetzung_Haft_LG_Halle.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/52_Sven_Liebich_Volksverhetzung_Haft_LG_Halle.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/53_Heinrich_Fiechtner_Beleidigung_AG_Stuttgart.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/53_Heinrich_Fiechtner_Beleidigung_AG_Stuttgart.md` | pdf |
 | `dokumente/hauptquellen/urteilsbelege/53_Maik_G_Koerperverletzung_AG_Sinsheim.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/53_Maik_G_Koerperverletzung_AG_Sinsheim.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/53_Maik_G_Koerperverletzung_AG_Sinsheim.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/53_Maik_G_Koerperverletzung_AG_Sinsheim.md` | txt |
@@ -1291,139 +930,97 @@
 | `dokumente/hauptquellen/urteilsbelege/54_Thomas_Suchka_Volksverhetzung_AG_Ebersberg.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/54_Thomas_Suchka_Volksverhetzung_AG_Ebersberg.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/55_Alice_Weidel_Email_Affaere_Metadaten.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/55_Alice_Weidel_Email_Affaere_Metadaten.md` | pdf |
 | `dokumente/hauptquellen/urteilsbelege/55_Robert_T_JA_Aktivist_Gewalt_LG_Leipzig.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/55_Robert_T_JA_Aktivist_Gewalt_LG_Leipzig.md` | md |
-| `dokumente/hauptquellen/urteilsbelege/55_Robert_T_JA_Aktivist_Gewalt_LG_Leipzig.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/55_Robert_T_JA_Aktivist_Gewalt_LG_Leipzig.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/56_Joerg_Sobolewski_SA_Geste_AG_Tiergarten.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/56_Joerg_Sobolewski_SA_Geste_AG_Tiergarten.md` | md |
-| `dokumente/hauptquellen/urteilsbelege/56_Joerg_Sobolewski_SA_Geste_AG_Tiergarten.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/56_Joerg_Sobolewski_SA_Geste_AG_Tiergarten.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/56_Udo_Stein_Waffengesetz_Landtag.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/56_Udo_Stein_Waffengesetz_Landtag.md` | pdf |
 | `dokumente/hauptquellen/urteilsbelege/57_Michael_Musto_Wahlfaelschung_AG_Backnang.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/57_Michael_Musto_Wahlfaelschung_AG_Backnang.md` | md |
-| `dokumente/hauptquellen/urteilsbelege/57_Michael_Musto_Wahlfaelschung_AG_Backnang.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/57_Michael_Musto_Wahlfaelschung_AG_Backnang.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/57_Siegbert_Droese_NS_Provokation.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/57_Siegbert_Droese_NS_Provokation.md` | pdf |
 | `dokumente/hauptquellen/urteilsbelege/58_Doris_Sayn_Wittgenstein_Rechtsextremismus_Ausschluss.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/58_Doris_Sayn_Wittgenstein_Rechtsextremismus_Ausschluss.md` | pdf |
 | `dokumente/hauptquellen/urteilsbelege/58_Sven_W_Kinderpornografie_AG_Weimar.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/58_Sven_W_Kinderpornografie_AG_Weimar.md` | md |
-| `dokumente/hauptquellen/urteilsbelege/58_Sven_W_Kinderpornografie_AG_Weimar.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/58_Sven_W_Kinderpornografie_AG_Weimar.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/59_Heiko_Hecht_Noetigung_AG_Tiergarten.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/59_Heiko_Hecht_Noetigung_AG_Tiergarten.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/59_Heiko_Hecht_Noetigung_AG_Tiergarten.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/59_Heiko_Hecht_Noetigung_AG_Tiergarten.md` | pdf |
 | `dokumente/hauptquellen/urteilsbelege/59_Heiko_Hecht_Noetigung_AG_Tiergarten.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/59_Heiko_Hecht_Noetigung_AG_Tiergarten.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/60_Lars_S_Noetigung_Unfallflucht_LG_Potsdam.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/60_Lars_S_Noetigung_Unfallflucht_LG_Potsdam.md` | pdf |
 | `dokumente/hauptquellen/urteilsbelege/60_Stefan_Beck_Untreue_LG_Mainz.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/60_Stefan_Beck_Untreue_LG_Mainz.md` | md |
-| `dokumente/hauptquellen/urteilsbelege/60_Stefan_Beck_Untreue_LG_Mainz.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/60_Stefan_Beck_Untreue_LG_Mainz.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/61_Jian_G_Spionage_Krah_OLG_Dresden.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/61_Jian_G_Spionage_Krah_OLG_Dresden.md` | pdf |
 | `dokumente/hauptquellen/urteilsbelege/61_Tobias_Laue_Bandidos_Bundestag.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/61_Tobias_Laue_Bandidos_Bundestag.md` | md |
-| `dokumente/hauptquellen/urteilsbelege/61_Tobias_Laue_Bandidos_Bundestag.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/61_Tobias_Laue_Bandidos_Bundestag.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/62_Joerg_Meuthen_Spendenaffaere_BVerwG.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/62_Joerg_Meuthen_Spendenaffaere_BVerwG.md` | md |
-| `dokumente/hauptquellen/urteilsbelege/62_Joerg_Meuthen_Spendenaffaere_BVerwG.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/62_Joerg_Meuthen_Spendenaffaere_BVerwG.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/62_Maximilian_Krah_Ermittlungsverfahren_GBA.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/62_Maximilian_Krah_Ermittlungsverfahren_GBA.md` | pdf |
 | `dokumente/hauptquellen/urteilsbelege/63_Guido_Reil_Spendenaffaere_BVerwG.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/63_Guido_Reil_Spendenaffaere_BVerwG.md` | md |
-| `dokumente/hauptquellen/urteilsbelege/63_Guido_Reil_Spendenaffaere_BVerwG.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/63_Guido_Reil_Spendenaffaere_BVerwG.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/63_Gunnar_Lindemann_Finanzen_Donbas.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/63_Gunnar_Lindemann_Finanzen_Donbas.md` | pdf |
 | `dokumente/hauptquellen/urteilsbelege/64_Birgit_Malsack_Winkemann_Reichsbuerger_BGH.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/64_Birgit_Malsack_Winkemann_Reichsbuerger_BGH.md` | pdf |
 | `dokumente/hauptquellen/urteilsbelege/64_Gerd_Sch_Volksverhetzung_AG_Cottbus.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/64_Gerd_Sch_Volksverhetzung_AG_Cottbus.md` | md |
-| `dokumente/hauptquellen/urteilsbelege/64_Gerd_Sch_Volksverhetzung_AG_Cottbus.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/64_Gerd_Sch_Volksverhetzung_AG_Cottbus.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/65_Daniela_W_Versicherungsbetrug_AG_Dresden.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/65_Daniela_W_Versicherungsbetrug_AG_Dresden.md` | md |
-| `dokumente/hauptquellen/urteilsbelege/65_Daniela_W_Versicherungsbetrug_AG_Dresden.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/65_Daniela_W_Versicherungsbetrug_AG_Dresden.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/65_Maximilian_T_Terrorverdacht_Franco_A.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/65_Maximilian_T_Terrorverdacht_Franco_A.md` | pdf |
 | `dokumente/hauptquellen/urteilsbelege/66_Alexander_M_Koerperverletzung_AG_Erfurt.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/66_Alexander_M_Koerperverletzung_AG_Erfurt.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/66_Alexander_M_Koerperverletzung_AG_Erfurt.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/66_Alexander_M_Koerperverletzung_AG_Erfurt.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/66_Kurt_H_Saechsische_Separatisten_Terror_GBA.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/66_Kurt_H_Saechsische_Separatisten_Terror_GBA.md` | pdf |
 | `dokumente/hauptquellen/urteilsbelege/67_Rene_P_Kinderpornografie_Ermittlung.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/67_Rene_P_Kinderpornografie_Ermittlung.md` | md |
-| `dokumente/hauptquellen/urteilsbelege/67_Rene_P_Kinderpornografie_Ermittlung.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/67_Rene_P_Kinderpornografie_Ermittlung.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/67_Tobias_Laue_Bandidos_Bundestag.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/67_Tobias_Laue_Bandidos_Bundestag.md` | pdf |
 | `dokumente/hauptquellen/urteilsbelege/68_AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/68_AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf.md` | pdf |
 | `dokumente/hauptquellen/urteilsbelege/68_AfD_Ratsherr_Hannover_Kinderpornografie_Ermittlung.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/68_AfD_Ratsherr_Hannover_Kinderpornografie_Ermittlung.md` | md |
-| `dokumente/hauptquellen/urteilsbelege/68_AfD_Ratsherr_Hannover_Kinderpornografie_Ermittlung.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/68_AfD_Ratsherr_Hannover_Kinderpornografie_Ermittlung.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/69_Petr_Bystron_Bestechung_Razzia_GBA.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/69_Petr_Bystron_Bestechung_Razzia_GBA.md` | pdf |
 | `dokumente/hauptquellen/urteilsbelege/69_Philip_W_Vergewaltigung_Augsburg.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/69_Philip_W_Vergewaltigung_Augsburg.md` | md |
-| `dokumente/hauptquellen/urteilsbelege/69_Philip_W_Vergewaltigung_Augsburg.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/69_Philip_W_Vergewaltigung_Augsburg.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/70_Joerg_S_Mitarbeiter_Hilse_Widerstand_AG_Tiergarten.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/70_Joerg_S_Mitarbeiter_Hilse_Widerstand_AG_Tiergarten.md` | pdf |
 | `dokumente/hauptquellen/urteilsbelege/70_Petr_Bystron_Bestechung_Razzia_GBA.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/70_Petr_Bystron_Bestechung_Razzia_GBA.md` | md |
-| `dokumente/hauptquellen/urteilsbelege/70_Petr_Bystron_Bestechung_Razzia_GBA.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/70_Petr_Bystron_Bestechung_Razzia_GBA.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/71_Halger_H_Hitlergruss_AG_Chemnitz.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/71_Halger_H_Hitlergruss_AG_Chemnitz.md` | md |
-| `dokumente/hauptquellen/urteilsbelege/71_Halger_H_Hitlergruss_AG_Chemnitz.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/71_Halger_H_Hitlergruss_AG_Chemnitz.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/71_Uwe_L_Reichsbuerger_Terror_GBA.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/71_Uwe_L_Reichsbuerger_Terror_GBA.md` | pdf |
 | `dokumente/hauptquellen/urteilsbelege/72_Stefan_Raepple_Corona_Subventionsbetrug_AG_Offenburg.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/72_Stefan_Raepple_Corona_Subventionsbetrug_AG_Offenburg.md` | md |
-| `dokumente/hauptquellen/urteilsbelege/72_Stefan_Raepple_Corona_Subventionsbetrug_AG_Offenburg.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/72_Stefan_Raepple_Corona_Subventionsbetrug_AG_Offenburg.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/72_Sven_W_Kinderpornografie_AG_Weimar.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/72_Sven_W_Kinderpornografie_AG_Weimar.md` | pdf |
 | `dokumente/hauptquellen/urteilsbelege/73_Heiko_H_Koerperverletzung_AG_Zeitz.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/73_Heiko_H_Koerperverletzung_AG_Zeitz.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/73_Heiko_H_Koerperverletzung_AG_Zeitz.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/73_Heiko_H_Koerperverletzung_AG_Zeitz.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/73_Rene_P_Kinderpornografie_Ermittlung.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/73_Rene_P_Kinderpornografie_Ermittlung.md` | pdf |
 | `dokumente/hauptquellen/urteilsbelege/74_AfD_Ratsherr_Hannover_Kinderpornografie_Ermittlung.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/74_AfD_Ratsherr_Hannover_Kinderpornografie_Ermittlung.md` | pdf |
 | `dokumente/hauptquellen/urteilsbelege/74_Joerg_S_Mitarbeiter_Hilse_Widerstand_AG_Tiergarten.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/74_Joerg_S_Mitarbeiter_Hilse_Widerstand_AG_Tiergarten.md` | md |
-| `dokumente/hauptquellen/urteilsbelege/74_Joerg_S_Mitarbeiter_Hilse_Widerstand_AG_Tiergarten.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/74_Joerg_S_Mitarbeiter_Hilse_Widerstand_AG_Tiergarten.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/75_Philip_W_Vergewaltigung_Augsburg.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/75_Philip_W_Vergewaltigung_Augsburg.md` | pdf |
 | `dokumente/hauptquellen/urteilsbelege/75_Uwe_L_Reichsbuerger_Terror_GBA.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/75_Uwe_L_Reichsbuerger_Terror_GBA.md` | md |
-| `dokumente/hauptquellen/urteilsbelege/75_Uwe_L_Reichsbuerger_Terror_GBA.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/75_Uwe_L_Reichsbuerger_Terror_GBA.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/76_BfV_vs_AfD_Verdachtsfall_OVG_Muenster.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/76_BfV_vs_AfD_Verdachtsfall_OVG_Muenster.md` | pdf |
 | `dokumente/hauptquellen/urteilsbelege/76_Stefan_W_Volksverhetzung_AG_Gera.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/76_Stefan_W_Volksverhetzung_AG_Gera.md` | md |
-| `dokumente/hauptquellen/urteilsbelege/76_Stefan_W_Volksverhetzung_AG_Gera.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/76_Stefan_W_Volksverhetzung_AG_Gera.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/77_Michael_Musto_Wahlfaelschung_AG_Backnang.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/77_Michael_Musto_Wahlfaelschung_AG_Backnang.md` | md |
-| `dokumente/hauptquellen/urteilsbelege/77_Michael_Musto_Wahlfaelschung_AG_Backnang.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/77_Michael_Musto_Wahlfaelschung_AG_Backnang.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/77_Waffenbesitzkarten_Entzug_VG_Duesseldorf.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/77_Waffenbesitzkarten_Entzug_VG_Duesseldorf.md` | pdf |
 | `dokumente/hauptquellen/urteilsbelege/78_Beamtenstatus_Ausschluss_OVG_Weimar.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/78_Beamtenstatus_Ausschluss_OVG_Weimar.md` | pdf |
 | `dokumente/hauptquellen/urteilsbelege/78_Lars_S_Noetigung_Unfallflucht_LG_Potsdam.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/78_Lars_S_Noetigung_Unfallflucht_LG_Potsdam.md` | md |
-| `dokumente/hauptquellen/urteilsbelege/78_Lars_S_Noetigung_Unfallflucht_LG_Potsdam.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/78_Lars_S_Noetigung_Unfallflucht_LG_Potsdam.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/79_Bundestag_Ausschussvorsitz_BVerfG.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/79_Bundestag_Ausschussvorsitz_BVerfG.md` | pdf |
 | `dokumente/hauptquellen/urteilsbelege/79_Stefan_K_JA_Gewalttat_AG_Dresden.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/79_Stefan_K_JA_Gewalttat_AG_Dresden.md` | md |
-| `dokumente/hauptquellen/urteilsbelege/79_Stefan_K_JA_Gewalttat_AG_Dresden.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/79_Stefan_K_JA_Gewalttat_AG_Dresden.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/80_AfD_Strafzahlungen_Spendenaffaere_BVerwG.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/80_AfD_Strafzahlungen_Spendenaffaere_BVerwG.md` | pdf |
 | `dokumente/hauptquellen/urteilsbelege/80_Daniel_R_Hakenkreuz_Volksverhetzung_AG_Bautzen.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/80_Daniel_R_Hakenkreuz_Volksverhetzung_AG_Bautzen.md` | md |
-| `dokumente/hauptquellen/urteilsbelege/80_Daniel_R_Hakenkreuz_Volksverhetzung_AG_Bautzen.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/80_Daniel_R_Hakenkreuz_Volksverhetzung_AG_Bautzen.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/81_1_A_3_94.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/81_1_A_3_94.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/81_1_A_3_94.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/81_1_A_3_94.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/81_1_A_3_94.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/81_1_A_3_94.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/82_1_BvE_1_75.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/82_1_BvE_1_75.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/82_1_BvE_1_75.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/82_1_BvE_1_75.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/82_1_BvE_1_75.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/82_1_BvE_1_75.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/83_1_BvR_1072_01.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/83_1_BvR_1072_01.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/83_1_BvR_1072_01.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/83_1_BvR_1072_01.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/83_1_BvR_1072_01.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/83_1_BvR_1072_01.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/84_1_BvR_1181_10.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/84_1_BvR_1181_10.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/84_1_BvR_1181_10.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/84_1_BvR_1181_10.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/84_1_BvR_1181_10.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/84_1_BvR_1181_10.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/85_1_BvR_1215_07.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/85_1_BvR_1215_07.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/85_1_BvR_1215_07.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/85_1_BvR_1215_07.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/85_1_BvR_1215_07.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/85_1_BvR_1215_07.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/86_1_BvR_175_03.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/86_1_BvR_175_03.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/86_1_BvR_175_03.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/86_1_BvR_175_03.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/86_1_BvR_175_03.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/86_1_BvR_175_03.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/87_1_BvR_2150_08.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/87_1_BvR_2150_08.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/87_1_BvR_2150_08.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/87_1_BvR_2150_08.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/87_1_BvR_2150_08.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/87_1_BvR_2150_08.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/88_1_BvR_471_10.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/88_1_BvR_471_10.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/88_1_BvR_471_10.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/88_1_BvR_471_10.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/88_1_BvR_471_10.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/88_1_BvR_471_10.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/89_1_BvR_564_19.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/89_1_BvR_564_19.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/89_1_BvR_564_19.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/89_1_BvR_564_19.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/89_1_BvR_564_19.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/89_1_BvR_564_19.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/90_1_BvR_98_21.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/90_1_BvR_98_21.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/90_1_BvR_98_21.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/90_1_BvR_98_21.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/90_1_BvR_98_21.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/90_1_BvR_98_21.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/91_1_C_30_97.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/91_1_C_30_97.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/91_1_C_30_97.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/91_1_C_30_97.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/91_1_C_30_97.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/91_1_C_30_97.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/92_1_D_103_84.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/92_1_D_103_84.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/92_1_D_103_84.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/92_1_D_103_84.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/92_1_D_103_84.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/92_1_D_103_84.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/93_1_E_1194_12.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/93_1_E_1194_12.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/93_1_E_1194_12.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/93_1_E_1194_12.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/93_1_E_1194_12.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/93_1_E_1194_12.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/94_1_Im_Heft_11_2023.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/94_1_Im_Heft_11_2023.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/94_1_Im_Heft_11_2023.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/94_1_Im_Heft_11_2023.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/94_1_Im_Heft_11_2023.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/94_1_Im_Heft_11_2023.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/95_1_K_167_23.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/95_1_K_167_23.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/95_1_K_167_23.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/95_1_K_167_23.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/95_1_K_167_23.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/95_1_K_167_23.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/96_1_K_606_17.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/96_1_K_606_17.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/96_1_K_606_17.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/96_1_K_606_17.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/96_1_K_606_17.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/96_1_K_606_17.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/97_1_L_97_20.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/97_1_L_97_20.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/97_1_L_97_20.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/97_1_L_97_20.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/97_1_L_97_20.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/97_1_L_97_20.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/98_1_S_55_20.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/98_1_S_55_20.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/98_1_S_55_20.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/98_1_S_55_20.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/98_1_S_55_20.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/98_1_S_55_20.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/99_1_S_56_20.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/99_1_S_56_20.md` | md |
 | `dokumente/hauptquellen/urteilsbelege/99_1_S_56_20.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/99_1_S_56_20.md` | pdf |
-| `dokumente/hauptquellen/urteilsbelege/99_1_S_56_20.txt` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/99_1_S_56_20.md` | txt |
 | `dokumente/hauptquellen/urteilsbelege/QUELLEN_URTEILSDB.md` | `dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/QUELLEN_URTEILSDB.md` | md |
 | `dokumente/hauptquellen/verfassungsblog.de_afd-parteiverbot-verfassungsrecht.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/verfassungsblog.de_afd-parteiverbot-verfassungsrecht.md` | pdf |
 | `dokumente/hauptquellen/verfassungsblog.de_afd-parteiverbot.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/verfassungsblog.de_afd-parteiverbot.md` | pdf |
@@ -1431,7 +1028,6 @@
 | `dokumente/hauptquellen/verfassungsschutz.de_DE_verfassungsschutz_der-bericht_vsb-rechtsextremismus_vsb-rechtsextremismus_node_html.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/verfassungsschutz.de_DE_verfassungsschutz_der-bericht_vsb-rechtsextremismus_vsb-rechtsextremismus_node_html.md` | pdf |
 | `dokumente/hauptquellen/verfassungsschutz.de_SharedDocs_hintergruende_DE_spionage-und-proliferationsabwehr_gefaehrdung-der-bundestagswahl-2025-du.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/verfassungsschutz.de_SharedDocs_hintergruende_DE_spionage-und-proliferationsabwehr_gefaehrdung-der-bundestagswahl-2025-du.md` | pdf |
 | `dokumente/hauptquellen/warum die afd verboten gehört.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/warum die afd verboten gehört.md` | pdf |
-| `dokumente/hauptquellen/warum_die_afd_verboten_gehört.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/warum_die_afd_verboten_gehört.md` | pdf |
 | `dokumente/hauptquellen/wd-3-245-16-pdf-data.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/wd-3-245-16-pdf-data.md` | pdf |
 | `dokumente/hauptquellen/welt.de_255101488.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/welt.de_255101488.md` | pdf |
 | `dokumente/hauptquellen/welt.de_politik_deutschland_article164582194_GBA-haftbefehl-gegen-Maximilian-T-wegen-terrorverdacht-franco-a.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/welt.de_politik_deutschland_article164582194_GBA-haftbefehl-gegen-Maximilian-T-wegen-terrorverdacht-franco-a.md` | pdf |
@@ -1459,15 +1055,10 @@
 | `dokumente/hauptquellen/zeit.de_politik_deutschland_2025-10_spendenaffaere-afd-bundestag-henning-conle-millionen.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/zeit.de_politik_deutschland_2025-10_spendenaffaere-afd-bundestag-henning-conle-millionen.md` | pdf |
 | `dokumente/hauptquellen/zitatsuchmaschine.informatik.hu-berlin.de_topic_Schwerpunkt_20AfD.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/zitatsuchmaschine.informatik.hu-berlin.de_topic_Schwerpunkt_20AfD.md` | pdf |
 | `dokumente/hauptquellen/„Es könnte bald soweit sein“_ Thüringer AfD-Chef Höcke zählt die Justiz an - und einen Staatsanwalt in Halle persönlich.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/„Es könnte bald soweit sein“_ Thüringer AfD-Chef Höcke zählt die Justiz an - und einen Staatsanwalt in Halle persönlich.md` | pdf |
-| `dokumente/hauptquellen/„Es_könnte_bald_soweit_sein“__Thüringer_AfD-Chef_Höcke_zählt_die_Justiz_an_-_und_einen_Staatsanwalt_in_Halle_persönlich.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/„Es_könnte_bald_soweit_sein“__Thüringer_AfD-Chef_Höcke_zählt_die_Justiz_an_-_und_einen_Staatsanwalt_in_Halle_persönlich.md` | pdf |
-| `dokumente/hauptquellen/„Ist vom Teufel geschickt“_ Die AfD legt sich mit dem Limburger Bischof an und entlarvt sich dabei selbst.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/„Ist vom Teufel geschickt“_ Die AfD legt sich mit dem Limburger Bischof an und entlarvt sich dabei selbst.md` | pdf |
 | `dokumente/hauptquellen/„Ist_vom_Teufel_geschickt“__Die_AfD_legt_sich_mit_dem_Limburger_Bischof_an_und_entlarvt_sich_dabei_selbst.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/„Ist_vom_Teufel_geschickt“__Die_AfD_legt_sich_mit_dem_Limburger_Bischof_an_und_entlarvt_sich_dabei_selbst.md` | pdf |
-| `dokumente/hauptquellen/„Niemand kommt rein und Millionen fliegen raus“_ AfD-Politiker besuchen internationalen Gipfel zu Remigration.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/„Niemand kommt rein und Millionen fliegen raus“_ AfD-Politiker besuchen internationalen Gipfel zu Remigration.md` | pdf |
 | `dokumente/hauptquellen/„Niemand_kommt_rein_und_Millionen_fliegen_raus“__AfD-Politiker_besuchen_internationalen_Gipfel_zu_Remigration.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/„Niemand_kommt_rein_und_Millionen_fliegen_raus“__AfD-Politiker_besuchen_internationalen_Gipfel_zu_Remigration.md` | pdf |
 | `dokumente/hauptquellen/„Ohne Russland geht nichts“_ Wie sich AfD-Politiker für Moskaus Interessen stark machen.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/„Ohne Russland geht nichts“_ Wie sich AfD-Politiker für Moskaus Interessen stark machen.md` | pdf |
-| `dokumente/hauptquellen/„Ohne_Russland_geht_nichts“__Wie_sich_AfD-Politiker_für_Moskaus_Interessen_stark_machen.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/„Ohne_Russland_geht_nichts“__Wie_sich_AfD-Politiker_für_Moskaus_Interessen_stark_machen.md` | pdf |
 | `dokumente/hauptquellen/„Remigration“_ AfD sucht Nähe zu Sellner und US-Hardliner Bovino.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/„Remigration“_ AfD sucht Nähe zu Sellner und US-Hardliner Bovino.md` | pdf |
-| `dokumente/hauptquellen/„Remigration“__AfD_sucht_Nähe_zu_Sellner_und_US-Hardliner_Bovino.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/„Remigration“__AfD_sucht_Nähe_zu_Sellner_und_US-Hardliner_Bovino.md` | pdf |
 | `dokumente/ki_handbuch/01_einfuehrung_ki_methodik.md` | `dokumente/ki_markdown/dokumente/ki_handbuch/01_einfuehrung_ki_methodik.md` | md |
 | `dokumente/ki_handbuch/02_deep_research_anleitung.md` | `dokumente/ki_markdown/dokumente/ki_handbuch/02_deep_research_anleitung.md` | md |
 | `dokumente/ki_handbuch/03_datenaufbereitung_anleitung.md` | `dokumente/ki_markdown/dokumente/ki_handbuch/03_datenaufbereitung_anleitung.md` | md |
@@ -1563,130 +1154,56 @@
 | `dokumente/vfs_rechtsextremismus/BfV_Sonderbericht_Rechtsextremismus_im_Internet_2024.pdf` | `dokumente/ki_markdown/dokumente/vfs_rechtsextremismus/BfV_Sonderbericht_Rechtsextremismus_im_Internet_2024.md` | pdf |
 | `dokumente/vfs_rechtsextremismus/BfV_Sonderbericht_Rechtsextremistische_Musik_2025.pdf` | `dokumente/ki_markdown/dokumente/vfs_rechtsextremismus/BfV_Sonderbericht_Rechtsextremistische_Musik_2025.md` | pdf |
 | `dokumente/vfs_rechtsextremismus/BfV_Sonderbericht_Symbole_Zeichen_und_verbotene_Organisationen_2022.pdf` | `dokumente/ki_markdown/dokumente/vfs_rechtsextremismus/BfV_Sonderbericht_Symbole_Zeichen_und_verbotene_Organisationen_2022.md` | pdf |
-| `dokumente/weitere_belege/2013317.pdf` | `dokumente/ki_markdown/dokumente/weitere_belege/2013317.md` | pdf |
 | `dokumente/weitere_belege/2013750.pdf` | `dokumente/ki_markdown/dokumente/weitere_belege/2013750.md` | pdf |
-| `dokumente/weitere_belege/20203.pdf` | `dokumente/ki_markdown/dokumente/weitere_belege/20203.md` | pdf |
 | `dokumente/weitere_belege/2024-06-18-verfassungsschutzbericht-2023.pdf` | `dokumente/ki_markdown/dokumente/weitere_belege/2024-06-18-verfassungsschutzbericht-2023.md` | pdf |
 | `dokumente/weitere_belege/2025-06-10-verfassungsschutzbericht-2024.pdf` | `dokumente/ki_markdown/dokumente/weitere_belege/2025-06-10-verfassungsschutzbericht-2024.md` | pdf |
 | `full-sources.md` | `dokumente/ki_markdown/full-sources.md` | md |
-| `geheimgutachten/BfV-AfD-Folgegutachten_2021_01_A_Einfuehrung.md` | `dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_01_A_Einfuehrung.md` | md |
-| `geheimgutachten/BfV-AfD-Folgegutachten_2021_01_A_Einfuehrung.pdf` | `dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_01_A_Einfuehrung.md` | pdf |
-| `geheimgutachten/BfV-AfD-Folgegutachten_2021_01_A_Einfuehrung.txt` | `dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_01_A_Einfuehrung.md` | txt |
-| `geheimgutachten/BfV-AfD-Folgegutachten_2021_02_B_Methodik.md` | `dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_02_B_Methodik.md` | md |
-| `geheimgutachten/BfV-AfD-Folgegutachten_2021_02_B_Methodik.pdf` | `dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_02_B_Methodik.md` | pdf |
-| `geheimgutachten/BfV-AfD-Folgegutachten_2021_02_B_Methodik.txt` | `dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_02_B_Methodik.md` | txt |
-| `geheimgutachten/BfV-AfD-Folgegutachten_2021_03_C_Rechtliche_Vorgaben.md` | `dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_03_C_Rechtliche_Vorgaben.md` | md |
-| `geheimgutachten/BfV-AfD-Folgegutachten_2021_03_C_Rechtliche_Vorgaben.pdf` | `dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_03_C_Rechtliche_Vorgaben.md` | pdf |
-| `geheimgutachten/BfV-AfD-Folgegutachten_2021_03_C_Rechtliche_Vorgaben.txt` | `dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_03_C_Rechtliche_Vorgaben.md` | txt |
-| `geheimgutachten/BfV-AfD-Folgegutachten_2021_04_D_Struktur_und_Entwicklung.md` | `dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_04_D_Struktur_und_Entwicklung.md` | md |
-| `geheimgutachten/BfV-AfD-Folgegutachten_2021_04_D_Struktur_und_Entwicklung.pdf` | `dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_04_D_Struktur_und_Entwicklung.md` | pdf |
-| `geheimgutachten/BfV-AfD-Folgegutachten_2021_04_D_Struktur_und_Entwicklung.txt` | `dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_04_D_Struktur_und_Entwicklung.md` | txt |
-| `geheimgutachten/BfV-AfD-Folgegutachten_2021_05_E_Einflussnahme_Fluegel.md` | `dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_05_E_Einflussnahme_Fluegel.md` | md |
-| `geheimgutachten/BfV-AfD-Folgegutachten_2021_05_E_Einflussnahme_Fluegel.pdf` | `dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_05_E_Einflussnahme_Fluegel.md` | pdf |
-| `geheimgutachten/BfV-AfD-Folgegutachten_2021_05_E_Einflussnahme_Fluegel.txt` | `dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_05_E_Einflussnahme_Fluegel.md` | txt |
-| `geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde.md` | `dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde.md` | md |
-| `geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde.pdf` | `dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde.md` | pdf |
-| `geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde.txt` | `dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde.md` | txt |
-| `geheimgutachten/BfV-AfD-Folgegutachten_2021_07_F_II_Demokratieprinzip.md` | `dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_07_F_II_Demokratieprinzip.md` | md |
-| `geheimgutachten/BfV-AfD-Folgegutachten_2021_07_F_II_Demokratieprinzip.pdf` | `dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_07_F_II_Demokratieprinzip.md` | pdf |
-| `geheimgutachten/BfV-AfD-Folgegutachten_2021_07_F_II_Demokratieprinzip.txt` | `dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_07_F_II_Demokratieprinzip.md` | txt |
-| `geheimgutachten/BfV-AfD-Folgegutachten_2021_08_F_III_Rechtsstaatsprinzip.md` | `dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_08_F_III_Rechtsstaatsprinzip.md` | md |
-| `geheimgutachten/BfV-AfD-Folgegutachten_2021_08_F_III_Rechtsstaatsprinzip.pdf` | `dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_08_F_III_Rechtsstaatsprinzip.md` | pdf |
-| `geheimgutachten/BfV-AfD-Folgegutachten_2021_08_F_III_Rechtsstaatsprinzip.txt` | `dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_08_F_III_Rechtsstaatsprinzip.md` | txt |
-| `geheimgutachten/BfV-AfD-Folgegutachten_2021_09_F_IV_Nationalsozialismus.md` | `dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_09_F_IV_Nationalsozialismus.md` | md |
-| `geheimgutachten/BfV-AfD-Folgegutachten_2021_09_F_IV_Nationalsozialismus.pdf` | `dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_09_F_IV_Nationalsozialismus.md` | pdf |
-| `geheimgutachten/BfV-AfD-Folgegutachten_2021_09_F_IV_Nationalsozialismus.txt` | `dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_09_F_IV_Nationalsozialismus.md` | txt |
-| `geheimgutachten/BfV-AfD-Folgegutachten_2021_10_G_Verbindungen.md` | `dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_10_G_Verbindungen.md` | md |
-| `geheimgutachten/BfV-AfD-Folgegutachten_2021_10_G_Verbindungen.pdf` | `dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_10_G_Verbindungen.md` | pdf |
-| `geheimgutachten/BfV-AfD-Folgegutachten_2021_10_G_Verbindungen.txt` | `dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_10_G_Verbindungen.md` | txt |
-| `geheimgutachten/BfV-AfD-Folgegutachten_2021_11_H_Gesamtwuerdigung.md` | `dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_11_H_Gesamtwuerdigung.md` | md |
-| `geheimgutachten/BfV-AfD-Folgegutachten_2021_11_H_Gesamtwuerdigung.pdf` | `dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_11_H_Gesamtwuerdigung.md` | pdf |
-| `geheimgutachten/BfV-AfD-Folgegutachten_2021_11_H_Gesamtwuerdigung.txt` | `dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_11_H_Gesamtwuerdigung.md` | txt |
-| `geheimgutachten/BfV-AfD-Folgegutachten_2021_12_I_Fazit.md` | `dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_12_I_Fazit.md` | md |
-| `geheimgutachten/BfV-AfD-Folgegutachten_2021_12_I_Fazit.pdf` | `dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_12_I_Fazit.md` | pdf |
-| `geheimgutachten/BfV-AfD-Folgegutachten_2021_12_I_Fazit.txt` | `dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_12_I_Fazit.md` | txt |
-| `geheimgutachten/BfV-AfD-Folgegutachten_2021_13_Anhang_Glossar_Fussnoten.md` | `dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_13_Anhang_Glossar_Fussnoten.md` | md |
-| `geheimgutachten/BfV-AfD-Folgegutachten_2021_13_Anhang_Glossar_Fussnoten.pdf` | `dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_13_Anhang_Glossar_Fussnoten.md` | pdf |
-| `geheimgutachten/BfV-AfD-Folgegutachten_2021_13_Anhang_Glossar_Fussnoten.txt` | `dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_13_Anhang_Glossar_Fussnoten.md` | txt |
 | `geheimgutachten/Geheimgutachten_Teil A_pages_101_to_200.md` | `dokumente/ki_markdown/geheimgutachten/Geheimgutachten_Teil A_pages_101_to_200.md` | md |
 | `geheimgutachten/Geheimgutachten_Teil A_pages_101_to_200.pdf` | `dokumente/ki_markdown/geheimgutachten/Geheimgutachten_Teil A_pages_101_to_200.md` | pdf |
-| `geheimgutachten/Geheimgutachten_Teil A_pages_101_to_200.txt` | `dokumente/ki_markdown/geheimgutachten/Geheimgutachten_Teil A_pages_101_to_200.md` | txt |
 | `geheimgutachten/Geheimgutachten_Teil A_pages_1_to_100.md` | `dokumente/ki_markdown/geheimgutachten/Geheimgutachten_Teil A_pages_1_to_100.md` | md |
 | `geheimgutachten/Geheimgutachten_Teil A_pages_1_to_100.pdf` | `dokumente/ki_markdown/geheimgutachten/Geheimgutachten_Teil A_pages_1_to_100.md` | pdf |
-| `geheimgutachten/Geheimgutachten_Teil A_pages_1_to_100.txt` | `dokumente/ki_markdown/geheimgutachten/Geheimgutachten_Teil A_pages_1_to_100.md` | txt |
 | `geheimgutachten/Geheimgutachten_Teil A_pages_201_to_300.md` | `dokumente/ki_markdown/geheimgutachten/Geheimgutachten_Teil A_pages_201_to_300.md` | md |
 | `geheimgutachten/Geheimgutachten_Teil A_pages_201_to_300.pdf` | `dokumente/ki_markdown/geheimgutachten/Geheimgutachten_Teil A_pages_201_to_300.md` | pdf |
-| `geheimgutachten/Geheimgutachten_Teil A_pages_201_to_300.txt` | `dokumente/ki_markdown/geheimgutachten/Geheimgutachten_Teil A_pages_201_to_300.md` | txt |
 | `geheimgutachten/Geheimgutachten_Teil A_pages_301_to_400.md` | `dokumente/ki_markdown/geheimgutachten/Geheimgutachten_Teil A_pages_301_to_400.md` | md |
 | `geheimgutachten/Geheimgutachten_Teil A_pages_301_to_400.pdf` | `dokumente/ki_markdown/geheimgutachten/Geheimgutachten_Teil A_pages_301_to_400.md` | pdf |
-| `geheimgutachten/Geheimgutachten_Teil A_pages_301_to_400.txt` | `dokumente/ki_markdown/geheimgutachten/Geheimgutachten_Teil A_pages_301_to_400.md` | txt |
 | `geheimgutachten/Geheimgutachten_Teil A_pages_401_to_500.md` | `dokumente/ki_markdown/geheimgutachten/Geheimgutachten_Teil A_pages_401_to_500.md` | md |
 | `geheimgutachten/Geheimgutachten_Teil A_pages_401_to_500.pdf` | `dokumente/ki_markdown/geheimgutachten/Geheimgutachten_Teil A_pages_401_to_500.md` | pdf |
-| `geheimgutachten/Geheimgutachten_Teil A_pages_401_to_500.txt` | `dokumente/ki_markdown/geheimgutachten/Geheimgutachten_Teil A_pages_401_to_500.md` | txt |
 | `geheimgutachten/Geheimgutachten_Teil A_pages_501_to_508.md` | `dokumente/ki_markdown/geheimgutachten/Geheimgutachten_Teil A_pages_501_to_508.md` | md |
 | `geheimgutachten/Geheimgutachten_Teil A_pages_501_to_508.pdf` | `dokumente/ki_markdown/geheimgutachten/Geheimgutachten_Teil A_pages_501_to_508.md` | pdf |
-| `geheimgutachten/Geheimgutachten_Teil A_pages_501_to_508.txt` | `dokumente/ki_markdown/geheimgutachten/Geheimgutachten_Teil A_pages_501_to_508.md` | txt |
 | `geheimgutachten/Geheimgutachten_Teil B_pages_101_to_200.md` | `dokumente/ki_markdown/geheimgutachten/Geheimgutachten_Teil B_pages_101_to_200.md` | md |
 | `geheimgutachten/Geheimgutachten_Teil B_pages_101_to_200.pdf` | `dokumente/ki_markdown/geheimgutachten/Geheimgutachten_Teil B_pages_101_to_200.md` | pdf |
-| `geheimgutachten/Geheimgutachten_Teil B_pages_101_to_200.txt` | `dokumente/ki_markdown/geheimgutachten/Geheimgutachten_Teil B_pages_101_to_200.md` | txt |
 | `geheimgutachten/Geheimgutachten_Teil B_pages_1_to_100.md` | `dokumente/ki_markdown/geheimgutachten/Geheimgutachten_Teil B_pages_1_to_100.md` | md |
 | `geheimgutachten/Geheimgutachten_Teil B_pages_1_to_100.pdf` | `dokumente/ki_markdown/geheimgutachten/Geheimgutachten_Teil B_pages_1_to_100.md` | pdf |
-| `geheimgutachten/Geheimgutachten_Teil B_pages_1_to_100.txt` | `dokumente/ki_markdown/geheimgutachten/Geheimgutachten_Teil B_pages_1_to_100.md` | txt |
 | `geheimgutachten/Geheimgutachten_Teil B_pages_201_to_300.md` | `dokumente/ki_markdown/geheimgutachten/Geheimgutachten_Teil B_pages_201_to_300.md` | md |
 | `geheimgutachten/Geheimgutachten_Teil B_pages_201_to_300.pdf` | `dokumente/ki_markdown/geheimgutachten/Geheimgutachten_Teil B_pages_201_to_300.md` | pdf |
-| `geheimgutachten/Geheimgutachten_Teil B_pages_201_to_300.txt` | `dokumente/ki_markdown/geheimgutachten/Geheimgutachten_Teil B_pages_201_to_300.md` | txt |
 | `geheimgutachten/Geheimgutachten_Teil B_pages_301_to_400.md` | `dokumente/ki_markdown/geheimgutachten/Geheimgutachten_Teil B_pages_301_to_400.md` | md |
 | `geheimgutachten/Geheimgutachten_Teil B_pages_301_to_400.pdf` | `dokumente/ki_markdown/geheimgutachten/Geheimgutachten_Teil B_pages_301_to_400.md` | pdf |
-| `geheimgutachten/Geheimgutachten_Teil B_pages_301_to_400.txt` | `dokumente/ki_markdown/geheimgutachten/Geheimgutachten_Teil B_pages_301_to_400.md` | txt |
 | `geheimgutachten/Geheimgutachten_Teil B_pages_401_to_500.md` | `dokumente/ki_markdown/geheimgutachten/Geheimgutachten_Teil B_pages_401_to_500.md` | md |
 | `geheimgutachten/Geheimgutachten_Teil B_pages_401_to_500.pdf` | `dokumente/ki_markdown/geheimgutachten/Geheimgutachten_Teil B_pages_401_to_500.md` | pdf |
-| `geheimgutachten/Geheimgutachten_Teil B_pages_401_to_500.txt` | `dokumente/ki_markdown/geheimgutachten/Geheimgutachten_Teil B_pages_401_to_500.md` | txt |
 | `geheimgutachten/Geheimgutachten_Teil B_pages_501_to_600.pdf` | `dokumente/ki_markdown/geheimgutachten/Geheimgutachten_Teil B_pages_501_to_600.md` | pdf |
 | `geheimgutachten/Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_11_to_20.md` | `dokumente/ki_markdown/geheimgutachten/Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_11_to_20.md` | md |
-| `geheimgutachten/Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_11_to_20.txt` | `dokumente/ki_markdown/geheimgutachten/Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_11_to_20.md` | txt |
 | `geheimgutachten/Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_1_to_10.md` | `dokumente/ki_markdown/geheimgutachten/Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_1_to_10.md` | md |
-| `geheimgutachten/Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_1_to_10.txt` | `dokumente/ki_markdown/geheimgutachten/Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_1_to_10.md` | txt |
 | `geheimgutachten/Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_21_to_30.md` | `dokumente/ki_markdown/geheimgutachten/Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_21_to_30.md` | md |
-| `geheimgutachten/Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_21_to_30.txt` | `dokumente/ki_markdown/geheimgutachten/Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_21_to_30.md` | txt |
 | `geheimgutachten/Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_31_to_40.md` | `dokumente/ki_markdown/geheimgutachten/Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_31_to_40.md` | md |
-| `geheimgutachten/Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_31_to_40.txt` | `dokumente/ki_markdown/geheimgutachten/Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_31_to_40.md` | txt |
 | `geheimgutachten/Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_41_to_50.md` | `dokumente/ki_markdown/geheimgutachten/Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_41_to_50.md` | md |
-| `geheimgutachten/Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_41_to_50.txt` | `dokumente/ki_markdown/geheimgutachten/Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_41_to_50.md` | txt |
 | `geheimgutachten/Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_51_to_60.md` | `dokumente/ki_markdown/geheimgutachten/Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_51_to_60.md` | md |
-| `geheimgutachten/Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_51_to_60.txt` | `dokumente/ki_markdown/geheimgutachten/Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_51_to_60.md` | txt |
 | `geheimgutachten/Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_61_to_70.md` | `dokumente/ki_markdown/geheimgutachten/Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_61_to_70.md` | md |
-| `geheimgutachten/Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_61_to_70.txt` | `dokumente/ki_markdown/geheimgutachten/Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_61_to_70.md` | txt |
 | `geheimgutachten/Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_71_to_80.md` | `dokumente/ki_markdown/geheimgutachten/Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_71_to_80.md` | md |
-| `geheimgutachten/Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_71_to_80.txt` | `dokumente/ki_markdown/geheimgutachten/Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_71_to_80.md` | txt |
 | `geheimgutachten/Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_81_to_90.md` | `dokumente/ki_markdown/geheimgutachten/Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_81_to_90.md` | md |
-| `geheimgutachten/Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_81_to_90.txt` | `dokumente/ki_markdown/geheimgutachten/Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_81_to_90.md` | txt |
 | `geheimgutachten/Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_91_to_100.md` | `dokumente/ki_markdown/geheimgutachten/Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_91_to_100.md` | md |
-| `geheimgutachten/Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_91_to_100.txt` | `dokumente/ki_markdown/geheimgutachten/Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_91_to_100.md` | txt |
 | `geheimgutachten/Geheimgutachten_Teil B_pages_601_to_609.pdf` | `dokumente/ki_markdown/geheimgutachten/Geheimgutachten_Teil B_pages_601_to_609.md` | pdf |
 | `geheimgutachten/Geheimgutachten_Teil B_pages_601_to_609_repaired_pages_1_to_9.md` | `dokumente/ki_markdown/geheimgutachten/Geheimgutachten_Teil B_pages_601_to_609_repaired_pages_1_to_9.md` | md |
-| `geheimgutachten/Geheimgutachten_Teil B_pages_601_to_609_repaired_pages_1_to_9.txt` | `dokumente/ki_markdown/geheimgutachten/Geheimgutachten_Teil B_pages_601_to_609_repaired_pages_1_to_9.md` | txt |
 | `geheimgutachten/Gründe.md` | `dokumente/ki_markdown/geheimgutachten/Gründe.md` | md |
-| `geheimgutachten/Gründe.txt` | `dokumente/ki_markdown/geheimgutachten/Gründe.md` | txt |
 | `geheimgutachten/afd-verbot-deepresearch-ausgangspunkt_split_1.md` | `dokumente/ki_markdown/geheimgutachten/afd-verbot-deepresearch-ausgangspunkt_split_1.md` | md |
-| `geheimgutachten/afd-verbot-deepresearch-ausgangspunkt_split_1.txt` | `dokumente/ki_markdown/geheimgutachten/afd-verbot-deepresearch-ausgangspunkt_split_1.md` | txt |
 | `geheimgutachten/afd-verbot-deepresearch-ausgangspunkt_split_2.md` | `dokumente/ki_markdown/geheimgutachten/afd-verbot-deepresearch-ausgangspunkt_split_2.md` | md |
-| `geheimgutachten/afd-verbot-deepresearch-ausgangspunkt_split_2.txt` | `dokumente/ki_markdown/geheimgutachten/afd-verbot-deepresearch-ausgangspunkt_split_2.md` | txt |
 | `geheimgutachten/afd-verbot-deepresearch-ausgangspunkt_split_3.md` | `dokumente/ki_markdown/geheimgutachten/afd-verbot-deepresearch-ausgangspunkt_split_3.md` | md |
-| `geheimgutachten/afd-verbot-deepresearch-ausgangspunkt_split_3.txt` | `dokumente/ki_markdown/geheimgutachten/afd-verbot-deepresearch-ausgangspunkt_split_3.md` | txt |
 | `geheimgutachten/afd-verbot-deepresearch-ausgangspunkt_split_4.md` | `dokumente/ki_markdown/geheimgutachten/afd-verbot-deepresearch-ausgangspunkt_split_4.md` | md |
-| `geheimgutachten/afd-verbot-deepresearch-ausgangspunkt_split_4.txt` | `dokumente/ki_markdown/geheimgutachten/afd-verbot-deepresearch-ausgangspunkt_split_4.md` | txt |
 | `geheimgutachten/afd-verbot-deepresearch-ausgangspunkt_split_5.md` | `dokumente/ki_markdown/geheimgutachten/afd-verbot-deepresearch-ausgangspunkt_split_5.md` | md |
-| `geheimgutachten/afd-verbot-deepresearch-ausgangspunkt_split_5.txt` | `dokumente/ki_markdown/geheimgutachten/afd-verbot-deepresearch-ausgangspunkt_split_5.md` | txt |
 | `geheimgutachten/afd-verbot-deepresearch-ausgangspunkt_split_6.md` | `dokumente/ki_markdown/geheimgutachten/afd-verbot-deepresearch-ausgangspunkt_split_6.md` | md |
-| `geheimgutachten/afd-verbot-deepresearch-ausgangspunkt_split_6.txt` | `dokumente/ki_markdown/geheimgutachten/afd-verbot-deepresearch-ausgangspunkt_split_6.md` | txt |
 | `geheimgutachten/afd-verbot-deepresearch-ausgangspunkt_split_7.md` | `dokumente/ki_markdown/geheimgutachten/afd-verbot-deepresearch-ausgangspunkt_split_7.md` | md |
-| `geheimgutachten/afd-verbot-deepresearch-ausgangspunkt_split_7.txt` | `dokumente/ki_markdown/geheimgutachten/afd-verbot-deepresearch-ausgangspunkt_split_7.md` | txt |
 | `geheimgutachten/afd-verbot-deepresearch-ausgangspunkt_split_8.md` | `dokumente/ki_markdown/geheimgutachten/afd-verbot-deepresearch-ausgangspunkt_split_8.md` | md |
-| `geheimgutachten/afd-verbot-deepresearch-ausgangspunkt_split_8.txt` | `dokumente/ki_markdown/geheimgutachten/afd-verbot-deepresearch-ausgangspunkt_split_8.md` | txt |
 | `geheimgutachten/gruende_fuer_afd_verbot.md` | `dokumente/ki_markdown/geheimgutachten/gruende_fuer_afd_verbot.md` | md |
-| `geheimgutachten/gruende_fuer_afd_verbot.txt` | `dokumente/ki_markdown/geheimgutachten/gruende_fuer_afd_verbot.md` | txt |
 | `geheimgutachten/zusammenfassung_vfs_gutachten_afd.md` | `dokumente/ki_markdown/geheimgutachten/zusammenfassung_vfs_gutachten_afd.md` | md |
-| `geheimgutachten/zusammenfassung_vfs_gutachten_afd.txt` | `dokumente/ki_markdown/geheimgutachten/zusammenfassung_vfs_gutachten_afd.md` | txt |
 | `geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_01_A_Einfuehrung.md` | `dokumente/ki_markdown/geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_01_A_Einfuehrung.md` | md |
 | `geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_01_A_Einfuehrung.pdf` | `dokumente/ki_markdown/geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_01_A_Einfuehrung.md` | pdf |
 | `geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_01_A_Einfuehrung.txt` | `dokumente/ki_markdown/geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_01_A_Einfuehrung.md` | txt |

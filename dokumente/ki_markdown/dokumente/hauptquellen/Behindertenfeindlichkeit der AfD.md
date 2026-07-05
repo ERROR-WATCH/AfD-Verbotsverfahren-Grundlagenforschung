@@ -1,3 +1,0 @@
-# Behindertenfeindlichkeit der AfD.pdf
-
-

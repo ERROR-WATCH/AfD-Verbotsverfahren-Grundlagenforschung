@@ -92,7 +92,7 @@
   {
     "id": "STAT-SOURCES-TOTAL-001",
     "title": "Quelleninventar: erfasste Quellen",
-    "value": 10561,
+    "value": 9761,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "Gesamtbestand",
@@ -110,7 +110,7 @@
   {
     "id": "STAT-SOURCES-USABLE-001",
     "title": "Quelleninventar: statistiknutzbare Quellen",
-    "value": 5060,
+    "value": 4706,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "Statistiknutzbar",
@@ -128,7 +128,7 @@
   {
     "id": "STAT-SOURCES-PRIMARY-001",
     "title": "Quelleninventar: Primaerquellen",
-    "value": 4977,
+    "value": 4624,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "Primaerquellen",
@@ -290,7 +290,7 @@
   {
     "id": "STAT-SOURCE-EVIDENCE-A-001",
     "title": "Quellen mit Beweisstufe A",
-    "value": 1366,
+    "value": 1013,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "Quellen-Stufe A",
@@ -308,7 +308,7 @@
   {
     "id": "STAT-SOURCE-EVIDENCE-B-001",
     "title": "Quellen mit Beweisstufe B",
-    "value": 83,
+    "value": 82,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "Quellen-Stufe B",
@@ -380,7 +380,7 @@
   {
     "id": "STAT-SOURCE-EVIDENCE-F-001",
     "title": "Quellen mit Beweisstufe F",
-    "value": 5501,
+    "value": 5055,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "Quellen-Stufe F",
@@ -2306,7 +2306,7 @@
   {
     "id": "STAT-SOURCE-TYPE-001-AUTOMATISCH-ERZEUGTE-MARKDOWN-KOPIE",
     "title": "Quellentyp: Automatisch erzeugte Markdown-Kopie",
-    "value": 4866,
+    "value": 4611,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "Automatisch erzeugte Markdown-Kopie",
@@ -2342,7 +2342,7 @@
   {
     "id": "STAT-SOURCE-TYPE-003-GERICHTSREGISTER-URTEILSBELEG",
     "title": "Quellentyp: Gerichtsregister / Urteilsbeleg",
-    "value": 781,
+    "value": 563,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "Gerichtsregister / Urteilsbeleg",
@@ -2360,7 +2360,7 @@
   {
     "id": "STAT-SOURCE-TYPE-004-INTERNE-DOKUMENTATION",
     "title": "Quellentyp: Interne Dokumentation",
-    "value": 635,
+    "value": 444,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "Interne Dokumentation",
@@ -2378,7 +2378,7 @@
   {
     "id": "STAT-SOURCE-TYPE-005-AMTLICHER-VERFASSUNGSSCHUTZBERICHT-O",
     "title": "Quellentyp: Amtlicher Verfassungsschutzbericht oder BfV-Gutachten / Markdown-Kopie",
-    "value": 328,
+    "value": 264,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "Amtlicher Verfassungsschutzbericht oder BfV-Gutachten / Markdown-Kopie",
@@ -2396,7 +2396,7 @@
   {
     "id": "STAT-SOURCE-TYPE-006-BFV-GUTACHTEN-OCR-ODER-SPLIT-FASSUNG",
     "title": "Quellentyp: BfV-Gutachten / OCR- oder Split-Fassung",
-    "value": 157,
+    "value": 85,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "BfV-Gutachten / OCR- oder Split-Fassung",
@@ -2414,7 +2414,7 @@
   {
     "id": "STAT-SOURCE-TYPE-007-METHODIK-ODER-ANALYSEDOKUMENT",
     "title": "Quellentyp: Methodik- oder Analysedokument",
-    "value": 66,
+    "value": 65,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "Methodik- oder Analysedokument",
@@ -2450,7 +2450,7 @@
   {
     "id": "STAT-SOURCE-TYPE-009-VERFASSUNGSSCHUTZBERICHT",
     "title": "Quellentyp: Verfassungsschutzbericht",
-    "value": 41,
+    "value": 42,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "Verfassungsschutzbericht",
@@ -2540,7 +2540,7 @@
   {
     "id": "STAT-SOURCE-PUBLISHER-001-REPOSITORY",
     "title": "Herausgeber: Repository",
-    "value": 5578,
+    "value": 5131,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "Repository",
@@ -2576,7 +2576,7 @@
   {
     "id": "STAT-SOURCE-PUBLISHER-003-GERICHT-LOKALE-ARCHIVKOPIE",
     "title": "Herausgeber: Gericht / lokale Archivkopie",
-    "value": 781,
+    "value": 563,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "Gericht / lokale Archivkopie",
@@ -2594,7 +2594,7 @@
   {
     "id": "STAT-SOURCE-PUBLISHER-004-BUNDESAMT-FUER-VERFASSUNGSSCHUTZ-LAN",
     "title": "Herausgeber: Bundesamt fuer Verfassungsschutz / Landesbehoerden",
-    "value": 369,
+    "value": 306,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "Bundesamt fuer Verfassungsschutz / Landesbehoerden",
@@ -2612,7 +2612,7 @@
   {
     "id": "STAT-SOURCE-PUBLISHER-005-BUNDESAMT-FUER-VERFASSUNGSSCHUTZ",
     "title": "Herausgeber: Bundesamt fuer Verfassungsschutz",
-    "value": 163,
+    "value": 91,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "Bundesamt fuer Verfassungsschutz",
@@ -2666,7 +2666,7 @@
   {
     "id": "STAT-SOURCE-FORMAT-001-MD",
     "title": "Quellenformat: MD",
-    "value": 9179,
+    "value": 8847,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "MD",
@@ -2684,7 +2684,7 @@
   {
     "id": "STAT-SOURCE-FORMAT-002-PDF",
     "title": "Quellenformat: PDF",
-    "value": 999,
+    "value": 785,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "PDF",
@@ -2702,7 +2702,7 @@
   {
     "id": "STAT-SOURCE-FORMAT-003-TXT",
     "title": "Quellenformat: TXT",
-    "value": 360,
+    "value": 105,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "TXT",
@@ -2736,12 +2736,12 @@
     "limitations": "Formatzahlen sagen nichts ueber materiellen Beweiswert aus."
   },
   {
-    "id": "STAT-SOURCE-FORMAT-005-JSONL",
-    "title": "Quellenformat: JSONL",
+    "id": "STAT-SOURCE-FORMAT-005-JSON",
+    "title": "Quellenformat: JSON",
     "value": 5,
     "unit": "Quellen",
     "theme": "Quelleninventar",
-    "subtheme": "JSONL",
+    "subtheme": "JSON",
     "source": "daten/source_inventory.jsonl",
     "source_type": "Abgeleiteter Kennwert aus Quelleninventar",
     "source_path": "daten/source_inventory.jsonl",
@@ -2754,12 +2754,12 @@
     "limitations": "Formatzahlen sagen nichts ueber materiellen Beweiswert aus."
   },
   {
-    "id": "STAT-SOURCE-FORMAT-006-JSON",
-    "title": "Quellenformat: JSON",
-    "value": 4,
+    "id": "STAT-SOURCE-FORMAT-006-JSONL",
+    "title": "Quellenformat: JSONL",
+    "value": 5,
     "unit": "Quellen",
     "theme": "Quelleninventar",
-    "subtheme": "JSON",
+    "subtheme": "JSONL",
     "source": "daten/source_inventory.jsonl",
     "source_type": "Abgeleiteter Kennwert aus Quelleninventar",
     "source_path": "daten/source_inventory.jsonl",
@@ -2828,7 +2828,7 @@
   {
     "id": "STAT-SOURCE-THEME-001-GENERIERTE-KOPIE",
     "title": "Quellenthemenbereich: Generierte Kopie",
-    "value": 4866,
+    "value": 4611,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "Generierte Kopie",
@@ -2864,7 +2864,7 @@
   {
     "id": "STAT-SOURCE-THEME-003-GERICHTE-UND-RECHTSPRECHUNG",
     "title": "Quellenthemenbereich: Gerichte und Rechtsprechung",
-    "value": 781,
+    "value": 563,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "Gerichte und Rechtsprechung",
@@ -2882,7 +2882,7 @@
   {
     "id": "STAT-SOURCE-THEME-004-INTERN",
     "title": "Quellenthemenbereich: Intern",
-    "value": 635,
+    "value": 444,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "Intern",
@@ -2900,7 +2900,7 @@
   {
     "id": "STAT-SOURCE-THEME-005-VERFASSUNGSSCHUTZ-AMTLICHE-BERICHTE",
     "title": "Quellenthemenbereich: Verfassungsschutz / amtliche Berichte und Gutachten",
-    "value": 328,
+    "value": 264,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "Verfassungsschutz / amtliche Berichte und Gutachten",
@@ -2918,7 +2918,7 @@
   {
     "id": "STAT-SOURCE-THEME-006-VERFASSUNGSSCHUTZ-GUTACHTEN",
     "title": "Quellenthemenbereich: Verfassungsschutz / Gutachten",
-    "value": 157,
+    "value": 85,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "Verfassungsschutz / Gutachten",
@@ -2936,7 +2936,7 @@
   {
     "id": "STAT-SOURCE-THEME-007-DOKUMENTATION-ANALYSE",
     "title": "Quellenthemenbereich: Dokumentation / Analyse",
-    "value": 66,
+    "value": 65,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "Dokumentation / Analyse",
@@ -2972,7 +2972,7 @@
   {
     "id": "STAT-SOURCE-THEME-009-VERFASSUNGSSCHUTZ-LANDES-UND-BUNDESB",
     "title": "Quellenthemenbereich: Verfassungsschutz / Landes- und Bundesberichte",
-    "value": 41,
+    "value": 42,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "Verfassungsschutz / Landes- und Bundesberichte",

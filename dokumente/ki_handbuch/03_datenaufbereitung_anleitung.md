@@ -62,7 +62,7 @@ Ein entscheidender Schritt der Datenaufbereitung ist das Extrahieren strukturier
   "urteil": "Geldstrafe (100 Tagessätze zu je 130 Euro)",
   "kategorie": "Rechtsextreme Symbole & Parolen",
   "status": "DIREKT AfD",
-  "quelle": "./dokumente/hauptquellen/urteilsbelege/01_Hoecke_SA_Parole_LG_Halle.txt"
+  "quelle": "./dokumente/hauptquellen/urteilsbelege/01_Hoecke_SA_Parole_LG_Halle.md"
 }
 ```
 
