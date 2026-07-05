@@ -1,6 +1,6 @@
 # Statistikmodul
 
-Das Statistikmodul ist die quantitative Beweislandkarte des Repositories. Der sichtbare Statistik-Tab wird aus `daten/statistik_manifest.json` gerendert. Ohne Manifest-Eintrag keine Anzeige.
+Das Statistikmodul ist die quantitative Beweislandkarte des Repositories. Der sichtbare Statistik-Tab wird aus `daten/statistik_manifest.json` gerendert. Das Manifest wird aus `daten/findings_art21.jsonl` gebaut; ohne Manifest-Eintrag keine Anzeige.
 
 ## Grundprinzipien
 - Keine Zahl ohne Quelle.
@@ -15,6 +15,7 @@ Das Statistikmodul ist die quantitative Beweislandkarte des Repositories. Der si
 - BfV 2025: 58.700 rechtsextremistisches Personenpotenzial.
 - BKA-PMK 2025: 28.450 PMK-rechts-Faelle als Kontextdaten.
 - BfV Sicherheitsbehoerden 2025: 493 Verfahren und Massnahmen.
+- Die aktuelle Manifestversion enthaelt zusaetzliche abgeleitete Kennzahlen aus Findings, nicht nur diese Kernwerte.
 
 ## Beweislogik
 - A/B-Eintraege koennen tragend sein.
