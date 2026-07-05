@@ -5,7 +5,7 @@
 Dieses Kapitel dient der lückenlosen, wissenschaftlichen Dokumentation aller Datenaktualisierungen, Systemerweiterungen und Quellenbereinigungen.
 
 ### Version 3.0.0 (Letzte Aktualisierung: 29.06.2026) – *Aktueller Stand*
-*   **Erweiterung des Gerichtsregisters (80 ➔ 239):** Die Belegdatenbank wurde von 80 auf 239 verifizierte Gerichtsurteile, Beschlüsse und behördliche Entscheidungen erweitert. Alle 239 Fälle wurden formatsymmetrisch als `.md` und `.txt` abgelegt.
+*   **Erweiterung des Gerichtsregisters (frueherer Zwischenstand ➔ 239):** Die Belegdatenbank wurde von 80 auf 239 verifizierte Gerichtsurteile, Beschlüsse und behördliche Entscheidungen erweitert. Alle 239 Fälle wurden formatsymmetrisch als `.md` und `.txt` abgelegt.
 *   **100%iges Landes-PDF-Archiv (16/16):** Alle 16 Landeswahlprogramme der AfD sowie die beiden Bundesbelege (Bundestagswahlprogramm 2025 und Grundsatzprogramm) liegen nun als originale, unmanipulierte Primärbeleg-PDFs physisch im Verzeichnis `/landeswahlprogramme/` vor.
 *   **Der neue Tab „Parteiprogramme AfD“:** Integration eines dedizierten 10. Navigations-Tabs mit einem visuellen, farblich codierten Card-Grid für alle 16 Bundesländer zur sofortigen, ausfallfreien Einsicht der Landesprogrammatiken.
 *   **In-Memory-Zitate-Suchindex:** Einbindung einer volltextdurchsuchbaren Quotes-Datenbank (`zitate_search_index.json` direkt in `index.html` eingebettet), die eine CORS-freie, rasend schnelle Echtzeitsuche nach Namen, Zitaten und Quellen für alle 3.611 Belegzitate ermöglicht.

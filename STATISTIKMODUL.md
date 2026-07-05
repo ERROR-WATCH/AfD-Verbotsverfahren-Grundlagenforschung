@@ -1,21 +1,18 @@
 # Statistikmodul
 
-Das Statistikmodul ist die quantitative Beweislandkarte des Repositories. Der sichtbare Statistik-Tab wird aus `daten/statistik_manifest.json` gerendert. Das Manifest wird aus `daten/findings_art21.jsonl` gebaut; ohne Manifest-Eintrag keine Anzeige.
+Das Statistikmodul ist die quantitative Beweislandkarte des Repositories. Die sichtbare Statistik im Portal wird ausschliesslich aus `daten/statistik_manifest.json` gerendert. Das Manifest wird aus `daten/findings_art21.jsonl` abgeleitet; ohne Manifest-Eintrag keine Anzeige.
+
+## Aktiver Stand
+- 13 validierte Manifest-Statistiken.
+- Kernwerte: 239 dokumentierte Gerichtsfaelle, 18 konsolidierte Verbotsgruende, 3.611 Belegzitate.
+- Weitere Manifestwerte: aggregierte Befunde, Beweisstufe-A-Verteilung und acht thematische Cluster.
 
 ## Grundprinzipien
 - Keine Zahl ohne Quelle.
-- Keine Quellenmischung zwischen Kontextdaten, behördlichen Lagezahlen, Gerichtsentscheidungen und journalistischen Recherchen.
 - Keine Dateianzahl als inhaltliche Statistik.
+- Keine Vermischung von Primaerquelle, Sekundaerquelle, Kontextdaten und Aggregat.
 - Keine alten Zwischenstaende ohne historischen Marker.
-
-## Aktuelle Startstatistiken
-- Gerichtsregister: 239 dokumentierte Faelle.
-- Belegzitate: 3.611 konsolidierte Belege.
-- Verbotsgruende: 18 konsolidierte Prueffelder.
-- BfV 2025: 58.700 rechtsextremistisches Personenpotenzial.
-- BKA-PMK 2025: 28.450 PMK-rechts-Faelle als Kontextdaten.
-- BfV Sicherheitsbehoerden 2025: 493 Verfahren und Massnahmen.
-- Die aktuelle Manifestversion enthaelt zusaetzliche abgeleitete Kennzahlen aus Findings, nicht nur diese Kernwerte.
+- PMK- und BfV-Lagezahlen bleiben Kontextdaten, sofern sie nicht separat als validierte Manifest-Statistik gefuehrt werden.
 
 ## Beweislogik
 - A/B-Eintraege koennen tragend sein.
@@ -23,6 +20,7 @@ Das Statistikmodul ist die quantitative Beweislandkarte des Repositories. Der si
 - E/F-Eintraege sind Recherchehinweise und nicht tragende Belege.
 
 ## Konsistenz
-- `index.html` darf nur Manifest-Eintraege anzeigen.
+- `index.html` rendert nur Manifest-Eintraege als sichtbare Statistik.
+- Historische oder legacy Statistikbloecke bleiben im Code nur, wenn sie technisch ausgeblendet sind.
 - `scripts/validate-statistics.mjs` prueft Pflichtfelder, Status und Altlasten.
-- Historische Dateien mit 80 Faellen oder 15 Verbotsgruenden bleiben als historische Zwischenstaende markiert.
+

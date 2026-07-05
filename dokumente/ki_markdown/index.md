@@ -72,6 +72,48 @@ Automatisch aus den aktuell eingebetteten Portal-Daten berechnet. Die Kennzahlen
 
 Statistik exportieren
 
+#### Themengewichtung
+
+lade
+
+#### Beweisstufen
+
+#### Pruefstatus
+
+Statistikmanifest
+
+### Gepruefte Statistikobjekte aus daten/statistik\_manifest.json
+
+Dieser Bereich rendert ausschliesslich Manifest-Eintraege mit Quelle, Fundstelle, Methodik, Beweisstärke und Status. Legacy-Zahlen werden im Statistik-Tab ausgeblendet.
+
+Manifest exportieren
+
+Suche
+
+Thema
+
+Beweis
+
+Status
+
+Sortierung
+
+Wert absteigend
+Wert aufsteigend
+Beweisstufe
+Thema
+Titel
+
+Statistiken werden geladen.
+
+Mehr laden
+Alle anzeigen
+Filter zuruecksetzen
+
+Keine Statistikobjekte fuer diese Filter.
+
+PMK-Daten sind Kontextdaten und keine automatische AfD-Zurechnung. Gepruefte Werte erscheinen nur mit Quelle und Methodik.
+
 BfV-Verfassungsschutzbericht 2025
 
 ### Inhaltliche Lagezahlen Rechtsextremismus
@@ -83,6 +125,10 @@ Ausgewählte Kennzahlen aus dem amtlichen BfV-Bericht 2025. Jahresvergleich jewe
 #### Personenpotenzial
 
 #### Straf- und Gewalttaten
+
+#### BfV 2025 Kernlagen
+
+#### BfV 2025 Personen und Strukturen
 
 Quelle: Bundesamt für Verfassungsschutz, Verfassungsschutzbericht 2025, Kapitel Politisch motivierte Kriminalität sowie Rechtsextremismus/rechtsextremistischer Terrorismus.
 
@@ -114,7 +160,7 @@ Gutachten-Volltextanalyse
 
 ### Alle Gutachten, OCR-Texte und RAG-Belegpassagen
 
-Gezählt aus den lokalen Gutachten-Verzeichnissen, den Portal-Dokumenten und den drei RAG-JSONL-Dateien. Themenwerte sind Trefferzahlen definierter Suchmuster, keine semantische Bewertung.
+Gezählt aus den lokalen Gutachten-Verzeichnissen, den Portal-Dokumenten und den drei RAG-JSONL-Dateien. Die Reihen zeigen Kapitelumfang, Korpusabdeckung, Personen- und Belegmarker aus den lokalen Fassungen, nicht bloße Wortfrequenzen.
 
 [Statistikquellen](./statistikquellen.md)
 
@@ -122,9 +168,13 @@ Gezählt aus den lokalen Gutachten-Verzeichnissen, den Portal-Dokumenten und den
 
 #### Gutachten-Dateiformate
 
+#### Gutachten: Kapitelkern
+
+#### Gutachten: Akteure und Institutionen
+
 ### BfV-Folgegutachten 2021: Kapitelumfang
 
-### Gutachten-Themen Treffer
+### Gutachten: Volltextmarker
 
 ### Personen im Gutachtenkorpus
 
@@ -136,9 +186,13 @@ Verfassungsschutzberichte Volltextanalyse
 
 Gezählt aus allen lokalen VS-Dateien, PDF-Splits und Textfassungen. PDF-Inhalte wurden lokal mit pdftotext extrahiert.
 
-#### VS-Volltextthemen
+#### VS-Volltextmarker
 
 #### VS-Dateiformate
+
+#### Landesberichte: Kernaussagen
+
+#### Landesberichte: Korpusstruktur
 
 ### Straftaten, Urteile und Gerichte
 

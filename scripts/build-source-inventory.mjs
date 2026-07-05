@@ -131,14 +131,37 @@ function classify(rel) {
   }
 
   if (lower.includes('ki_markdown/')) {
-    category = 'Generierte Kopie';
-    sourceType = 'Automatisch erzeugte Markdown-Kopie';
-    publisher = 'Repository';
-    primary = false;
-    evidence = 'F';
-    use = 'navigation';
-    risks = 'Generierte Kopie ohne eigenstaendige Beweiskraft';
-    allow = false;
+    const isOfficialVsCopy = lower.includes('verfassungsschutzbericht')
+      || lower.includes('vfs_berichte_bundeslaender')
+      || lower.includes('vfs_rechtsextremismus')
+      || lower.includes('geheimgutachten_netzpolitik')
+      || lower.includes('bfv-afd-folgegutachten')
+      || lower.includes('untersuchung_bfv_gutachten');
+    if (isOfficialVsCopy) {
+      category = lower.includes('untersuchung_bfv_gutachten')
+        ? 'Meta-Gutachten / Rechtswissenschaft'
+        : 'Verfassungsschutz / amtliche Berichte und Gutachten';
+      sourceType = lower.includes('untersuchung_bfv_gutachten')
+        ? 'Rechtswissenschaftliches Gutachten / Markdown-Kopie'
+        : 'Amtlicher Verfassungsschutzbericht oder BfV-Gutachten / Markdown-Kopie';
+      publisher = lower.includes('untersuchung_bfv_gutachten')
+        ? 'Universitaet zu Koeln / Markus Ogorek'
+        : 'Bundesamt fuer Verfassungsschutz / Landesbehoerden';
+      primary = !lower.includes('untersuchung_bfv_gutachten');
+      evidence = lower.includes('untersuchung_bfv_gutachten') ? 'B' : 'A';
+      use = lower.includes('untersuchung_bfv_gutachten') ? 'sekundaer' : 'tragend';
+      risks = 'Generierte Markdown-Kopie einer geprueften amtlichen bzw. fachgutachtlichen Quelle; bei Zitaten PDF/Original gegenlesen.';
+      allow = true;
+    } else {
+      category = 'Generierte Kopie';
+      sourceType = 'Automatisch erzeugte Markdown-Kopie';
+      publisher = 'Repository';
+      primary = false;
+      evidence = 'F';
+      use = 'navigation';
+      risks = 'Generierte Kopie ohne eigenstaendige Beweiskraft';
+      allow = false;
+    }
   }
 
   return { category, sourceType, publisher, primary, evidence, use, risks, allow, format };

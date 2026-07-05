@@ -1948,7 +1948,7 @@ Die Bannon-Epstein-Verbindung liefert im Rahmen des Verbotsverfahrens ein schwer
 ## 1 | Systematischer Querabgleich & Symmetrie der Belege
 
 Eine gründliche Bestandsaufnahme der Forschungsdatenbank zeigt, dass die verfahrensrechtlichen Beweismittel in einem Zustand exzellenter technischer und inhaltlicher Symmetrie vorliegen:
-* **Urteilsregister (239 Fälle):** Die Erweiterung von ursprünglich 80 auf 239 Urteile ist vollständig synchronisiert. Jedes Urteil existiert als strukturiertes Dokument im `.txt`- sowie `.md`-Format im Ordner `/dokumente/hauptquellen/urteilsbelege/`.
+* **Urteilsregister (239 Fälle):** Die Erweiterung von einer frueheren Zwischenzahl auf 239 Urteile ist vollständig synchronisiert. Jedes Urteil existiert als strukturiertes Dokument im `.txt`- sowie `.md`-Format im Ordner `/dokumente/hauptquellen/urteilsbelege/`.
 * **In-Memory-Suchindex:** Alle 239 Urteilskacheln und die 1.429 Gesamtdokumente verfügen über programmatisch extrahierte Textsegmente (bis zu 400 Zeichen) im Suchschlitz der `index.html`.
 * **Symmetrie-Verhältnis:** Für die ersten 80 Kernfälle liegen physische PDF-Abschriften der Urteile bzw. Ermittlungsdokumente vor. Für die restlichen 159 Fälle wurde ein intelligenter Suchbegriffs-Verstärker programmiert, der das Aktenzeichen (z. B. `5 Ks 132/23`) mit prägnanten Schlagworten der Urteilsbegründung verknüpft, um bei OpenJur oder Landesjustizportalen direkt den Primärtext abzurufen.
 * **Landesberichte:** Unter `/dokumente/vfs_berichte_bundeslaender/` sind die Verfassungsschutzberichte aller 16 Bundesländer physisch hinterlegt, was eine lückenlose Offline-Recherche und maschinelle Analyse ermöglicht.

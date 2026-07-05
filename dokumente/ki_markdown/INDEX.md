@@ -193,7 +193,10 @@
 | `dokumente/hauptquellen/Correctiv-Recherche zeigt Straftäter unter AfD-Abgeordneten.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Correctiv-Recherche zeigt Straftäter unter AfD-Abgeordneten.md` | pdf |
 | `dokumente/hauptquellen/Correctiv-Recherche_zeigt_Straftäter_unter_AfD-Abgeordneten.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Correctiv-Recherche_zeigt_Straftäter_unter_AfD-Abgeordneten.md` | pdf |
 | `dokumente/hauptquellen/DIMR_Analyse_Warum_die_AfD_verboten_werden_koennte.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/DIMR_Analyse_Warum_die_AfD_verboten_werden_koennte.md` | pdf |
+| `dokumente/hauptquellen/DIMR_Analyse_Warum_die_AfD_verboten_werden_koennte_Official_2023.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/DIMR_Analyse_Warum_die_AfD_verboten_werden_koennte_Official_2023.md` | pdf |
 | `dokumente/hauptquellen/DIMR_Analyse_Warum_die_AfD_verboten_werden_koennte_Original.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/DIMR_Analyse_Warum_die_AfD_verboten_werden_koennte_Original.md` | pdf |
+| `dokumente/hauptquellen/DISS_Hoecke_NS_Rhetorik_2016.md` | `dokumente/ki_markdown/dokumente/hauptquellen/DISS_Hoecke_NS_Rhetorik_2016.md` | md |
+| `dokumente/hauptquellen/DISS_Hoecke_NS_Rhetorik_2016.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/DISS_Hoecke_NS_Rhetorik_2016.md` | pdf |
 | `dokumente/hauptquellen/DW_Aussetzung_der_AfD_Einstufung.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/DW_Aussetzung_der_AfD_Einstufung.md` | pdf |
 | `dokumente/hauptquellen/DW_Aussetzung_der_AfD_Einstufung_Original.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/DW_Aussetzung_der_AfD_Einstufung_Original.md` | pdf |
 | `dokumente/hauptquellen/Dario Seifert_ Dieser Ex-Neonazi soll die AfD zum Erfolg führen.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Dario Seifert_ Dieser Ex-Neonazi soll die AfD zum Erfolg führen.md` | pdf |
@@ -235,6 +238,8 @@
 | `dokumente/hauptquellen/Fotografen_der_Identitären_Bewegung__Ins_rechte_Licht_gerückt___taz.de.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Fotografen_der_Identitären_Bewegung__Ins_rechte_Licht_gerückt___taz.de.md` | pdf |
 | `dokumente/hauptquellen/Frank Gotthardt_ CDU-Spitze erwog Kooperation mit Firma von Nius-Finanzier _ DIE ZEIT.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Frank Gotthardt_ CDU-Spitze erwog Kooperation mit Firma von Nius-Finanzier _ DIE ZEIT.md` | pdf |
 | `dokumente/hauptquellen/Frank_Gotthardt__CDU-Spitze_erwog_Kooperation_mit_Firma_von_Nius-Finanzier___DIE_ZEIT.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Frank_Gotthardt__CDU-Spitze_erwog_Kooperation_mit_Firma_von_Nius-Finanzier___DIE_ZEIT.md` | pdf |
+| `dokumente/hauptquellen/GPA_Erblehre_1937.md` | `dokumente/ki_markdown/dokumente/hauptquellen/GPA_Erblehre_1937.md` | md |
+| `dokumente/hauptquellen/GPA_Erblehre_1937.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/GPA_Erblehre_1937.md` | pdf |
 | `dokumente/hauptquellen/Gericht entscheidet_ Hessen-AfD darf als Verdachtsfall eingestuft werden _ hessenschau.de.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Gericht entscheidet_ Hessen-AfD darf als Verdachtsfall eingestuft werden _ hessenschau.de.md` | pdf |
 | `dokumente/hauptquellen/Gericht_entscheidet__Hessen-AfD_darf_als_Verdachtsfall_eingestuft_werden___hessenschau.de.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Gericht_entscheidet__Hessen-AfD_darf_als_Verdachtsfall_eingestuft_werden___hessenschau.de.md` | pdf |
 | `dokumente/hauptquellen/Gewalt als Alternative_ 14 verurteilte AfD-Mandatsträger im Amt.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Gewalt als Alternative_ 14 verurteilte AfD-Mandatsträger im Amt.md` | pdf |
@@ -263,6 +268,7 @@
 | `dokumente/hauptquellen/Historiker_Volker_Weiß_über_die_extremen_Rechten__Wie_sie_Geschichte_umschreiben_-_Ausgabe_756.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Historiker_Volker_Weiß_über_die_extremen_Rechten__Wie_sie_Geschichte_umschreiben_-_Ausgabe_756.md` | pdf |
 | `dokumente/hauptquellen/Hitlergruß-Vorwurf gegen AfD-Landeschef Reichardt-mdr.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Hitlergruß-Vorwurf gegen AfD-Landeschef Reichardt-mdr.md` | pdf |
 | `dokumente/hauptquellen/Hitlergruß-Vorwurf_gegen_AfD-Landeschef_Reichardt-mdr.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Hitlergruß-Vorwurf_gegen_AfD-Landeschef_Reichardt-mdr.md` | pdf |
+| `dokumente/hauptquellen/Hoecke_NS_Sprache_Parteitag_2026.md` | `dokumente/ki_markdown/dokumente/hauptquellen/Hoecke_NS_Sprache_Parteitag_2026.md` | md |
 | `dokumente/hauptquellen/Identitäre Bewegung_ Maximilian Märkl aus Augsburg steht an der Spitze.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Identitäre Bewegung_ Maximilian Märkl aus Augsburg steht an der Spitze.md` | pdf |
 | `dokumente/hauptquellen/Identitäre_Bewegung__Maximilian_Märkl_aus_Augsburg_steht_an_der_Spitze.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Identitäre_Bewegung__Maximilian_Märkl_aus_Augsburg_steht_an_der_Spitze.md` | pdf |
 | `dokumente/hauptquellen/Im Folgenden werden die zuvor genannten 15 Gründe für ein Parteiverbot der AfD jeweils ausführlich begründet.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Im Folgenden werden die zuvor genannten 15 Gründe für ein Parteiverbot der AfD jeweils ausführlich begründet.md` | pdf |
@@ -383,6 +389,8 @@
 | `dokumente/hauptquellen/Volksverpetzer-764-Gesamt.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Volksverpetzer-764-Gesamt.md` | pdf |
 | `dokumente/hauptquellen/Vorwurf rechter Terror_ Anklage gegen „Sächsische Separatisten“ erhoben _ taz.de.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Vorwurf rechter Terror_ Anklage gegen „Sächsische Separatisten“ erhoben _ taz.de.md` | pdf |
 | `dokumente/hauptquellen/Vorwurf_rechter_Terror__Anklage_gegen_„Sächsische_Separatisten“_erhoben___taz.de.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/Vorwurf_rechter_Terror__Anklage_gegen_„Sächsische_Separatisten“_erhoben___taz.de.md` | pdf |
+| `dokumente/hauptquellen/WELT_Hoecke_Einfluss_Bundes_AfD_Parteitag_Erfurt_2026.html` | `dokumente/ki_markdown/dokumente/hauptquellen/WELT_Hoecke_Einfluss_Bundes_AfD_Parteitag_Erfurt_2026.md` | html |
+| `dokumente/hauptquellen/WELT_Hoecke_Siegmund_Parteitag_Erfurt_2026.html` | `dokumente/ki_markdown/dokumente/hauptquellen/WELT_Hoecke_Siegmund_Parteitag_Erfurt_2026.md` | html |
 | `dokumente/hauptquellen/WISSENSTAND MAI 2025 AfD.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/WISSENSTAND MAI 2025 AfD.md` | pdf |
 | `dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/WISSENSTAND_MAI_2025_AfD.md` | pdf |
 | `dokumente/hauptquellen/WW_ Fotos sollen Neonazi als Ordner bei AfD-Veranstaltung zeigen - SWR Aktuell.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/WW_ Fotos sollen Neonazi als Ordner bei AfD-Veranstaltung zeigen - SWR Aktuell.md` | pdf |
@@ -662,6 +670,7 @@
 | `dokumente/hauptquellen/tagesschau.de_investigativ_ndr-wdr_afd-bundestagsfraktion-chats-101_html.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/tagesschau.de_investigativ_ndr-wdr_afd-bundestagsfraktion-chats-101_html.md` | pdf |
 | `dokumente/hauptquellen/tagesschau.de_investigativ_swr_kampfssport-rechtsextremismus-100_html.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/tagesschau.de_investigativ_swr_kampfssport-rechtsextremismus-100_html.md` | pdf |
 | `dokumente/hauptquellen/tagesschau.de_regional_sachsen_siegbert-droese-staatsanwaltschaft-leipzig-ermittlungen-100_html.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/tagesschau.de_regional_sachsen_siegbert-droese-staatsanwaltschaft-leipzig-ermittlungen-100_html.md` | pdf |
+| `dokumente/hauptquellen/tagesschau_BGH_Urteile_Hoecke_NS_Parole_rechtskraeftig_2025.html` | `dokumente/ki_markdown/dokumente/hauptquellen/tagesschau_BGH_Urteile_Hoecke_NS_Parole_rechtskraeftig_2025.md` | html |
 | `dokumente/hauptquellen/tagesspiegel.de_berlin_afd-politiker-gunnar-lindemann-sorgt-fur-eklat-im-abgeordnetenhaus-4054249_html.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/tagesspiegel.de_berlin_afd-politiker-gunnar-lindemann-sorgt-fur-eklat-im-abgeordnetenhaus-4054249_html.md` | pdf |
 | `dokumente/hauptquellen/tagesspiegel.de_berlin_brandenburg-afd-lokalpolitiker-wegen-volksverhetzung-verurteilt-4001247_html.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/tagesspiegel.de_berlin_brandenburg-afd-lokalpolitiker-wegen-volksverhetzung-verurteilt-4001247_html.md` | pdf |
 | `dokumente/hauptquellen/tagesspiegel.de_berlin_hitlergruss-prozess-gegen-ja-funktionaer-geldstrafe-bestaetigt-3982834_html.pdf` | `dokumente/ki_markdown/dokumente/hauptquellen/tagesspiegel.de_berlin_hitlergruss-prozess-gegen-ja-funktionaer-geldstrafe-bestaetigt-3982834_html.md` | pdf |
@@ -1509,24 +1518,45 @@
 | `dokumente/vfs_berichte_bundeslaender/2026-06-30-verfassungsschutzbericht-2025-kurz.pdf` | `dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/2026-06-30-verfassungsschutzbericht-2025-kurz.md` | pdf |
 | `dokumente/vfs_berichte_bundeslaender/2026-06-30-verfassungsschutzbericht-2025.pdf` | `dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/2026-06-30-verfassungsschutzbericht-2025.md` | pdf |
 | `dokumente/vfs_berichte_bundeslaender/LfV_Baden_Wuerttemberg_Verfassungsschutzbericht_2024.pdf` | `dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Baden_Wuerttemberg_Verfassungsschutzbericht_2024.md` | pdf |
+| `dokumente/vfs_berichte_bundeslaender/LfV_Baden_Wuerttemberg_Verfassungsschutzbericht_2024_full.txt` | `dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Baden_Wuerttemberg_Verfassungsschutzbericht_2024_full.md` | txt |
 | `dokumente/vfs_berichte_bundeslaender/LfV_Bayern_Verfassungsschutzbericht_2024.pdf` | `dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Bayern_Verfassungsschutzbericht_2024.md` | pdf |
+| `dokumente/vfs_berichte_bundeslaender/LfV_Bayern_Verfassungsschutzbericht_2024_full.txt` | `dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Bayern_Verfassungsschutzbericht_2024_full.md` | txt |
 | `dokumente/vfs_berichte_bundeslaender/LfV_Berlin_Verfassungsschutzbericht_2023.pdf` | `dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Berlin_Verfassungsschutzbericht_2023.md` | pdf |
+| `dokumente/vfs_berichte_bundeslaender/LfV_Berlin_Verfassungsschutzbericht_2024_full.pdf` | `dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Berlin_Verfassungsschutzbericht_2024_full.md` | pdf |
+| `dokumente/vfs_berichte_bundeslaender/LfV_Berlin_Verfassungsschutzbericht_2024_full.txt` | `dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Berlin_Verfassungsschutzbericht_2024_full.md` | txt |
 | `dokumente/vfs_berichte_bundeslaender/LfV_Brandenburg_Verfassungsschutzbericht_2024.pdf` | `dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Brandenburg_Verfassungsschutzbericht_2024.md` | pdf |
+| `dokumente/vfs_berichte_bundeslaender/LfV_Brandenburg_Verfassungsschutzbericht_2024_full.txt` | `dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Brandenburg_Verfassungsschutzbericht_2024_full.md` | txt |
 | `dokumente/vfs_berichte_bundeslaender/LfV_Bremen_Verfassungsschutzbericht_2024.pdf` | `dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Bremen_Verfassungsschutzbericht_2024.md` | pdf |
+| `dokumente/vfs_berichte_bundeslaender/LfV_Bremen_Verfassungsschutzbericht_2024_full.txt` | `dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Bremen_Verfassungsschutzbericht_2024_full.md` | txt |
 | `dokumente/vfs_berichte_bundeslaender/LfV_Hamburg_Verfassungsschutzbericht_2024.pdf` | `dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Hamburg_Verfassungsschutzbericht_2024.md` | pdf |
+| `dokumente/vfs_berichte_bundeslaender/LfV_Hamburg_Verfassungsschutzbericht_2024_full.txt` | `dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Hamburg_Verfassungsschutzbericht_2024_full.md` | txt |
 | `dokumente/vfs_berichte_bundeslaender/LfV_Hessen_Verfassungsschutzbericht_2024.pdf` | `dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Hessen_Verfassungsschutzbericht_2024.md` | pdf |
+| `dokumente/vfs_berichte_bundeslaender/LfV_Hessen_Verfassungsschutzbericht_2024_full.txt` | `dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Hessen_Verfassungsschutzbericht_2024_full.md` | txt |
 | `dokumente/vfs_berichte_bundeslaender/LfV_Mecklenburg_Vorpommern_Verfassungsschutzbericht_2024.md` | `dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Mecklenburg_Vorpommern_Verfassungsschutzbericht_2024.md` | md |
 | `dokumente/vfs_berichte_bundeslaender/LfV_Mecklenburg_Vorpommern_Verfassungsschutzbericht_2024.txt` | `dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Mecklenburg_Vorpommern_Verfassungsschutzbericht_2024.md` | txt |
+| `dokumente/vfs_berichte_bundeslaender/LfV_Mecklenburg_Vorpommern_Verfassungsschutzbericht_2024_full.pdf` | `dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Mecklenburg_Vorpommern_Verfassungsschutzbericht_2024_full.md` | pdf |
+| `dokumente/vfs_berichte_bundeslaender/LfV_Mecklenburg_Vorpommern_Verfassungsschutzbericht_2024_full.txt` | `dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Mecklenburg_Vorpommern_Verfassungsschutzbericht_2024_full.md` | txt |
 | `dokumente/vfs_berichte_bundeslaender/LfV_Niedersachsen_Verfassungsschutzbericht_2023.pdf` | `dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Niedersachsen_Verfassungsschutzbericht_2023.md` | pdf |
+| `dokumente/vfs_berichte_bundeslaender/LfV_Niedersachsen_Verfassungsschutzbericht_2024_full.pdf` | `dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Niedersachsen_Verfassungsschutzbericht_2024_full.md` | pdf |
+| `dokumente/vfs_berichte_bundeslaender/LfV_Niedersachsen_Verfassungsschutzbericht_2024_full.txt` | `dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Niedersachsen_Verfassungsschutzbericht_2024_full.md` | txt |
 | `dokumente/vfs_berichte_bundeslaender/LfV_Nordrhein_Westfalen_Verfassungsschutzbericht_2024.pdf` | `dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Nordrhein_Westfalen_Verfassungsschutzbericht_2024.md` | pdf |
+| `dokumente/vfs_berichte_bundeslaender/LfV_Nordrhein_Westfalen_Verfassungsschutzbericht_2024_full.txt` | `dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Nordrhein_Westfalen_Verfassungsschutzbericht_2024_full.md` | txt |
 | `dokumente/vfs_berichte_bundeslaender/LfV_Rheinland_Pfalz_Verfassungsschutzbericht_2024.pdf` | `dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Rheinland_Pfalz_Verfassungsschutzbericht_2024.md` | pdf |
+| `dokumente/vfs_berichte_bundeslaender/LfV_Rheinland_Pfalz_Verfassungsschutzbericht_2024_full.txt` | `dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Rheinland_Pfalz_Verfassungsschutzbericht_2024_full.md` | txt |
 | `dokumente/vfs_berichte_bundeslaender/LfV_Saarland_Verfassungsschutzbericht_2024.md` | `dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Saarland_Verfassungsschutzbericht_2024.md` | md |
 | `dokumente/vfs_berichte_bundeslaender/LfV_Saarland_Verfassungsschutzbericht_2024.txt` | `dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Saarland_Verfassungsschutzbericht_2024.md` | txt |
+| `dokumente/vfs_berichte_bundeslaender/LfV_Saarland_Verfassungsschutzbericht_2024_full.pdf` | `dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Saarland_Verfassungsschutzbericht_2024_full.md` | pdf |
+| `dokumente/vfs_berichte_bundeslaender/LfV_Saarland_Verfassungsschutzbericht_2024_full.txt` | `dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Saarland_Verfassungsschutzbericht_2024_full.md` | txt |
 | `dokumente/vfs_berichte_bundeslaender/LfV_Sachsen_Anhalt_Verfassungsschutzbericht_2024.md` | `dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Sachsen_Anhalt_Verfassungsschutzbericht_2024.md` | md |
 | `dokumente/vfs_berichte_bundeslaender/LfV_Sachsen_Anhalt_Verfassungsschutzbericht_2024.txt` | `dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Sachsen_Anhalt_Verfassungsschutzbericht_2024.md` | txt |
+| `dokumente/vfs_berichte_bundeslaender/LfV_Sachsen_Anhalt_Verfassungsschutzbericht_2024_full.pdf` | `dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Sachsen_Anhalt_Verfassungsschutzbericht_2024_full.md` | pdf |
+| `dokumente/vfs_berichte_bundeslaender/LfV_Sachsen_Anhalt_Verfassungsschutzbericht_2024_full.txt` | `dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Sachsen_Anhalt_Verfassungsschutzbericht_2024_full.md` | txt |
 | `dokumente/vfs_berichte_bundeslaender/LfV_Sachsen_Verfassungsschutzbericht_2024.pdf` | `dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Sachsen_Verfassungsschutzbericht_2024.md` | pdf |
+| `dokumente/vfs_berichte_bundeslaender/LfV_Sachsen_Verfassungsschutzbericht_2024_full.txt` | `dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Sachsen_Verfassungsschutzbericht_2024_full.md` | txt |
 | `dokumente/vfs_berichte_bundeslaender/LfV_Schleswig_Holstein_Verfassungsschutzbericht_2024.pdf` | `dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Schleswig_Holstein_Verfassungsschutzbericht_2024.md` | pdf |
+| `dokumente/vfs_berichte_bundeslaender/LfV_Schleswig_Holstein_Verfassungsschutzbericht_2024_full.txt` | `dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Schleswig_Holstein_Verfassungsschutzbericht_2024_full.md` | txt |
 | `dokumente/vfs_berichte_bundeslaender/LfV_Thueringen_Verfassungsschutzbericht_2024.pdf` | `dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Thueringen_Verfassungsschutzbericht_2024.md` | pdf |
+| `dokumente/vfs_berichte_bundeslaender/LfV_Thueringen_Verfassungsschutzbericht_2024_full.txt` | `dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Thueringen_Verfassungsschutzbericht_2024_full.md` | txt |
 | `dokumente/vfs_rechtsextremismus/BfV_Lagebericht_Rechtsextremisten_in_Sicherheitsbehoerden_2024.pdf` | `dokumente/ki_markdown/dokumente/vfs_rechtsextremismus/BfV_Lagebericht_Rechtsextremisten_in_Sicherheitsbehoerden_2024.md` | pdf |
 | `dokumente/vfs_rechtsextremismus/BfV_Lagebericht_Rechtsextremisten_in_Sicherheitsbehoerden_2025.pdf` | `dokumente/ki_markdown/dokumente/vfs_rechtsextremismus/BfV_Lagebericht_Rechtsextremisten_in_Sicherheitsbehoerden_2025.md` | pdf |
 | `dokumente/vfs_rechtsextremismus/BfV_Lagebild_Antisemitismus_2024.pdf` | `dokumente/ki_markdown/dokumente/vfs_rechtsextremismus/BfV_Lagebild_Antisemitismus_2024.md` | pdf |
@@ -1697,6 +1727,12 @@
 | `geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_13_Anhang_Glossar_Fussnoten.pdf` | `dokumente/ki_markdown/geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_13_Anhang_Glossar_Fussnoten.md` | pdf |
 | `geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_13_Anhang_Glossar_Fussnoten.txt` | `dokumente/ki_markdown/geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_13_Anhang_Glossar_Fussnoten.md` | txt |
 | `index.html` | `dokumente/ki_markdown/index.md` | html |
+| `methodik/CODEBOOK_ART21.md` | `dokumente/ki_markdown/methodik/CODEBOOK_ART21.md` | md |
+| `methodik/CODEBOOK_BEWEISSTAERKE.md` | `dokumente/ki_markdown/methodik/CODEBOOK_BEWEISSTAERKE.md` | md |
+| `methodik/CODEBOOK_QUELLENTYPEN.md` | `dokumente/ki_markdown/methodik/CODEBOOK_QUELLENTYPEN.md` | md |
+| `methodik/CODEBOOK_RECHTSSTATUS.md` | `dokumente/ki_markdown/methodik/CODEBOOK_RECHTSSTATUS.md` | md |
+| `methodik/CODEBOOK_ZURECHNUNG.md` | `dokumente/ki_markdown/methodik/CODEBOOK_ZURECHNUNG.md` | md |
+| `methodik/STATISTIK_METHODIK.md` | `dokumente/ki_markdown/methodik/STATISTIK_METHODIK.md` | md |
 | `skripte/afd-verbot-deepresearch-ausgangspunkt.txt` | `dokumente/ki_markdown/skripte/afd-verbot-deepresearch-ausgangspunkt.md` | txt |
 | `skripte/afd-verbot.de-scrape-link-liste.txt` | `dokumente/ki_markdown/skripte/afd-verbot.de-scrape-link-liste.md` | txt |
 | `skripte/leicht zugängliche Quellen.txt` | `dokumente/ki_markdown/skripte/leicht zugängliche Quellen.md` | txt |

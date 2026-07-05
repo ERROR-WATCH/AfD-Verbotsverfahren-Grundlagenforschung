@@ -1572,7 +1572,7 @@ Dieses Kapitel erweitert den juristischen Deep-Research-Ausgangspunkt um die vol
 
 ---
 
-### A) Systematisches Strafrechts- und Gerichtsregister (Alle 80 Fälle mit Quellen)
+### A) Systematisches Strafrechts- und Gerichtsregister (Alle Fälle des früheren Zwischenstands mit Quellen)
 
 - 1. **Björn Höcke (SA-Parole „Alles für Deutschland“):**  
    [LTO-Bericht zur Verurteilung und BGH-Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/bgh-verwirft-revision-bjoern-hoecke-sa-parole-alles-fuer-deutschland/)
