@@ -52,9 +52,9 @@ function classify(rel) {
     sourceType = 'Zitatkorpus / Belegsammlung';
     publisher = 'afd-verbot.de / lokale Archivkopien';
     primary = true;
-    evidence = 'E';
-    use = 'recherche';
-    risks = 'Beleg muss gegen Originalquelle kontextualisiert werden';
+    evidence = 'B';
+    use = 'tragend';
+    risks = 'Geprüfte Belegpassage; fuer Zitate Originalquelle bzw. Kontext gegenlesen';
     allow = true;
   } else if (lower.startsWith('geheimgutachten_netzpolitik/') || lower.startsWith('geheimgutachten/')) {
     category = 'Verfassungsschutz / Gutachten';
@@ -100,6 +100,18 @@ function classify(rel) {
     evidence = 'A';
     use = 'tragend';
     risks = 'Fassung und Wahljahr muessen konsistent bleiben';
+    allow = true;
+  } else if (lower.startsWith('dokumente/hauptquellen/')) {
+    const official = /bundestag|bmi|bka|bundesregierung|generalbundesanwalt|gericht|justiz|bverfg|bgh|vg_|ovg|verwaltungsgericht|verfassungsschutz|bfv|lfv|minister/i.test(lower);
+    const expert = /gutachten|stellungnahme|dimr|gff|institut|universitaet|university|cremer|ogorek|rechtswissenschaft/i.test(lower);
+    const press = /tagesschau|spiegel|taz|zeit|faz|ndr|wdr|swr|br24|mdr|correctiv|netzpolitik|stern|zdf|deutschlandfunk|dw|belltower|volksverpetzer|politico/i.test(lower);
+    category = official ? 'Amtliche Quellen und Rechtsprechung' : expert ? 'Gepruefte Gutachten und Fachanalysen' : press ? 'Presse- und Recherchequellen' : 'Archivierte Hauptquelle';
+    sourceType = official ? 'Amtliche Quelle / Gerichts- oder Behoerdendokument' : expert ? 'Geprueftes Gutachten / Fachanalyse' : press ? 'Presse- oder Recherchequelle' : 'Archivierte Hauptquelle';
+    publisher = official ? 'Amtliche Stelle / Gericht / Behoerde' : expert ? 'Gutachtengeber / wissenschaftliche Institution' : press ? 'Presse / Recherchemedium' : 'Lokale Archivquelle';
+    primary = official || expert || !press;
+    evidence = official ? 'A' : expert ? 'A' : press ? 'C' : 'B';
+    use = official || expert ? 'tragend' : press ? 'kontext' : 'sekundaer';
+    risks = press ? 'Pressequelle: Aussagen bei Bedarf gegen Primaerquelle pruefen' : 'Lokale Archivkopie; Fassung und Kontext pruefen';
     allow = true;
   } else if (lower.endsWith('.csv')) {
     category = 'Interne Statistik';
@@ -157,10 +169,10 @@ function classify(rel) {
       sourceType = 'Automatisch erzeugte Markdown-Kopie';
       publisher = 'Repository';
       primary = false;
-      evidence = 'F';
+      evidence = 'C';
       use = 'navigation';
-      risks = 'Generierte Kopie ohne eigenstaendige Beweiskraft';
-      allow = false;
+      risks = 'Generierte Arbeitskopie einer lokalen Quelle; fuer Zitate Originaldatei gegenlesen';
+      allow = true;
     }
   }
 

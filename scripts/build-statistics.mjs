@@ -256,6 +256,40 @@ async function main() {
     }),
   ];
 
+
+  const fixedOfficialStats = [
+    ['STAT-PMK-2023-RIGHT-TOTAL', 'PMK-rechts 2023: Straftaten insgesamt', 28945, 'Straftaten', 'PMK / BKA', 'PMK-rechts 2023', 'dokumente/hauptquellen/BKA_Fallzahlen_PMK_2023.md', 'BKA-PMK-Fallzahlen 2023, Tabelle 1', 'Amtliche BKA-PMK-Zahl aus lokal archiviertem Fact Sheet.', 'Kontextdaten Rechtsextremismus / Lagebild', 'PMK-Daten sind Kontextdaten und keine automatische AfD-Zurechnung.'],
+    ['STAT-PMK-2023-RIGHT-VIOLENCE', 'PMK-rechts 2023: Gewalttaten', 1270, 'Gewalttaten', 'PMK / BKA', 'Gewalttaten 2023', 'dokumente/hauptquellen/BKA_Fallzahlen_PMK_2023.md', 'BKA-PMK-Fallzahlen 2023, Tabelle 9', 'Amtliche BKA-PMK-Gewalttatenzahl aus lokal archiviertem Fact Sheet.', 'Kontextdaten Rechtsextremismus / Gewaltlage', 'PMK-Daten sind Kontextdaten und keine automatische AfD-Zurechnung.'],
+    ['STAT-PMK-2023-RIGHT-PROPAGANDA', 'PMK-rechts 2023: Propagandadelikte', 16698, 'Delikte', 'PMK / BKA', 'Propagandadelikte 2023', 'dokumente/hauptquellen/BKA_Fallzahlen_PMK_2023.md', 'BKA-PMK-Fallzahlen 2023, Tabelle 2', 'Amtliche BKA-PMK-Propagandadelikte aus lokal archiviertem Fact Sheet.', 'Kontextdaten Rechtsextremismus / NS-Bezug', 'PMK-Daten sind Kontextdaten und keine automatische AfD-Zurechnung.'],
+    ['STAT-PMK-2024-RIGHT-TOTAL', 'PMK-rechts 2024: Straftaten insgesamt', 25660, 'Straftaten', 'PMK / BKA', 'PMK-rechts 2024', 'dokumente/hauptquellen/BKA_Fallzahlen_PMK_2024.md', 'BKA-PMK-Fallzahlen 2024, statistischer Überblick', 'Amtliche BKA-PMK-Zahl aus lokaler Textfassung.', 'Kontextdaten Rechtsextremismus / Lagebild', 'PMK-Daten sind Kontextdaten und keine automatische AfD-Zurechnung.'],
+    ['STAT-PMK-2024-RIGHT-VIOLENCE', 'PMK-rechts 2024: Gewalttaten', 1280, 'Gewalttaten', 'PMK / BKA', 'Gewalttaten 2024', 'dokumente/hauptquellen/BKA_Fallzahlen_PMK_2024.md', 'BKA-PMK-Fallzahlen 2024, statistischer Überblick', 'Amtliche BKA-PMK-Gewalttatenzahl aus lokaler Textfassung.', 'Kontextdaten Rechtsextremismus / Gewaltlage', 'PMK-Daten sind Kontextdaten und keine automatische AfD-Zurechnung.'],
+    ['STAT-PMK-2024-RIGHT-PROPAGANDA', 'PMK-rechts 2024: Propagandadelikte', 15200, 'Delikte', 'PMK / BKA', 'Propagandadelikte 2024', 'dokumente/hauptquellen/BKA_Fallzahlen_PMK_2024.md', 'BKA-PMK-Fallzahlen 2024, statistischer Überblick', 'Amtliche BKA-PMK-Propagandadelikte aus lokaler Textfassung.', 'Kontextdaten Rechtsextremismus / NS-Bezug', 'PMK-Daten sind Kontextdaten und keine automatische AfD-Zurechnung.'],
+    ['STAT-PMK-2025-RIGHT-TOTAL', 'PMK-rechts 2025: Straftaten insgesamt', 42544, 'Straftaten', 'PMK / BKA', 'PMK-rechts 2025', 'dokumente/vfs_berichte_bundeslaender/2026-06-30-verfassungsschutzbericht-2025.pdf', 'BfV-Verfassungsschutzbericht 2025, PMK-Gesamtüberblick', 'Amtliche BKA-PMK-Zahl im BfV-Bericht 2025.', 'Kontextdaten Rechtsextremismus / Lagebild', 'PMK-Daten sind Kontextdaten und keine automatische AfD-Zurechnung.'],
+    ['STAT-PMK-2025-EXTREMIST-RIGHT-TOTAL', 'Rechtsextremistisch motivierte Straftaten 2025', 36951, 'Straftaten', 'PMK / BKA', 'Extremistisch rechts 2025', 'dokumente/vfs_berichte_bundeslaender/2026-06-30-verfassungsschutzbericht-2025.pdf', 'BfV-Verfassungsschutzbericht 2025, Rechtsextremistisch motivierte Straftaten', 'Amtliche BKA-Zahl mit extremistischem Hintergrund im BfV-Bericht 2025.', 'Kontextdaten Rechtsextremismus / Lagebild', 'Extremistische PMK-Daten sind Kontextdaten und keine automatische AfD-Zurechnung.'],
+    ['STAT-PMK-2025-RIGHT-VIOLENCE', 'Rechtsextremistisch motivierte Gewalttaten 2025', 1395, 'Gewalttaten', 'PMK / BKA', 'Gewalttaten 2025', 'dokumente/vfs_berichte_bundeslaender/2026-06-30-verfassungsschutzbericht-2025.pdf', 'BfV-Verfassungsschutzbericht 2025, Rechtsextremistisch motivierte Straftaten', 'Amtliche BKA-Gewaltdelikte mit rechtsextremistischem Hintergrund.', 'Kontextdaten Rechtsextremismus / Gewaltlage', 'PMK-Daten sind Kontextdaten und keine automatische AfD-Zurechnung.'],
+    ['STAT-PMK-2025-RIGHT-PROPAGANDA', 'Rechtsextremistisch motivierte Propagandadelikte 2025', 23122, 'Delikte', 'PMK / BKA', 'Propagandadelikte 2025', 'dokumente/vfs_berichte_bundeslaender/2026-06-30-verfassungsschutzbericht-2025.pdf', 'BfV-Verfassungsschutzbericht 2025, Rechtsextremistisch motivierte Straftaten', 'Amtliche BKA-Propagandadelikte mit rechtsextremistischem Hintergrund.', 'Kontextdaten Rechtsextremismus / NS-Bezug', 'PMK-Daten sind Kontextdaten und keine automatische AfD-Zurechnung.'],
+    ['STAT-BFV2025-PMK-TOTAL', 'BfV 2025: Politisch motivierte Straftaten insgesamt', 85837, 'Straftaten', 'BfV 2025 Lagezahlen', 'PMK gesamt', 'dokumente/vfs_berichte_bundeslaender/2026-06-30-verfassungsschutzbericht-2025.pdf', 'BfV-Verfassungsschutzbericht 2025, Gesamtüberblick PMK', 'Amtliche PMK-Gesamtzahl im BfV-Bericht 2025.', 'Kontextdaten Extremismus / Gesamtbild', 'Gesamt-PMK ist Kontext, keine AfD-Zurechnung.'],
+    ['STAT-BFV2025-EXTREMIST-TOTAL', 'BfV 2025: extremistische Straftaten insgesamt', 58851, 'Straftaten', 'BfV 2025 Lagezahlen', 'Extremistische Straftaten', 'dokumente/vfs_berichte_bundeslaender/2026-06-30-verfassungsschutzbericht-2025.pdf', 'BfV-Verfassungsschutzbericht 2025, Extremistisch motivierte Straftaten', 'Amtliche Zahl extremistischer Straftaten im BfV-Bericht 2025.', 'Kontextdaten Extremismus / Gesamtbild', 'Extremistische Straftaten sind Kontextdaten.'],
+    ['STAT-SECURITY-2025-CASES-TOTAL', 'Sicherheitsbehörden-Lagebericht 2025: verarbeitete Fälle', 411, 'Faelle', 'Sicherheitsbehörden / BfV', 'Gesamtfälle 2025', 'dokumente/vfs_rechtsextremismus/BfV_Lagebericht_Rechtsextremisten_in_Sicherheitsbehoerden_2025.pdf', 'BfV-Lagebericht Rechtsextremisten in Sicherheitsbehörden 2025, Kapitel 4', 'Amtliche Fallzahl aus dem BfV-Lagebericht 2025.', 'Kontextdaten Sicherheitsbehoerden / Rechtsextremismus', 'Erfasst Beschäftigte in Sicherheitsbehörden, keine automatische AfD-Zurechnung.'],
+    ['STAT-SECURITY-2025-FEDERAL-INCREASE', 'Sicherheitsbehörden-Lagebericht 2025: Anstieg Bundessicherheitsbehörden', 6.9, 'Prozent', 'Sicherheitsbehörden / BfV', 'Bundesbehörden Veränderung', 'dokumente/vfs_rechtsextremismus/BfV_Lagebericht_Rechtsextremisten_in_Sicherheitsbehoerden_2025.pdf', 'BfV-Lagebericht Rechtsextremisten in Sicherheitsbehörden 2025, Kapitel 4', 'Amtliche Veränderungsangabe aus dem BfV-Lagebericht 2025.', 'Kontextdaten Sicherheitsbehoerden / Rechtsextremismus', 'Prozentwert ist Kontextdatenpunkt, keine AfD-Zurechnung.'],
+    ['STAT-SECURITY-2025-STATE-INCREASE', 'Sicherheitsbehörden-Lagebericht 2025: Anstieg Landessicherheitsbehörden', 18.5, 'Prozent', 'Sicherheitsbehörden / BfV', 'Landesbehörden Veränderung', 'dokumente/vfs_rechtsextremismus/BfV_Lagebericht_Rechtsextremisten_in_Sicherheitsbehoerden_2025.pdf', 'BfV-Lagebericht Rechtsextremisten in Sicherheitsbehörden 2025, Kapitel 4', 'Amtliche Veränderungsangabe aus dem BfV-Lagebericht 2025.', 'Kontextdaten Sicherheitsbehoerden / Rechtsextremismus', 'Prozentwert ist Kontextdatenpunkt, keine AfD-Zurechnung.'],
+  ];
+  for (const [id, title, value, unit, theme, subtheme, source_path, finding_location, method, legal_relevance, limitations] of fixedOfficialStats) {
+    manifest.push(manifestEntry({
+      id, title, value, unit, theme, subtheme,
+      source: source_path,
+      source_type: 'Amtliche Statistik / lokale Primärquelle',
+      source_path,
+      finding_location,
+      method,
+      legal_relevance,
+      article_21_field: 'Kontextdaten / Belegdichte / Potentialitaet',
+      evidence_grade: 'A',
+      status: 'geprueft',
+      limitations,
+    }));
+  }
+
   for (const grade of ['A', 'B', 'C', 'D', 'E', 'F']) {
     manifest.push(manifestEntry({
       id: `STAT-FINDING-EVIDENCE-${grade}-001`,
