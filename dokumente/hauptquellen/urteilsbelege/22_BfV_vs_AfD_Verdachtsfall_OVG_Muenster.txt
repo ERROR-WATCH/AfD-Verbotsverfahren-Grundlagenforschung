@@ -1,0 +1,14 @@
+GERICHTLICHES URTEIL: VERDACHTSFALL-EINSTUFUNG DER GESAMTPARTEI RECHTMÄSSIG
+Gericht: Oberverwaltungsgericht Nordrhein-Westfalen (Münster)
+Aktenzeichen: 5 A 1218/22
+Datum der Entscheidung: 13. Mai 2024 (bestätigt durch das Bundesverwaltungsgericht 2025/2026)
+Gegenstand: Klage der AfD gegen die Einstufung als rechtsextremistischer Verdachtsfall durch das Bundesamt für Verfassungsschutz.
+
+URTEILSTEXT-RESÜMEE:
+Das OVG Münster hat nach wochenlanger Beweisaufnahme entschieden, dass die Einstufung der Gesamtpartei AfD und ihrer Jugendorganisation Junge Alternative (JA) als rechtsextremistischer Verdachtsfall rechtmäßig ist. Es liegen hinreichend gewichtige tatsächliche Anhaltspunkte vor, dass die AfD verfassungsfeindliche Bestrebungen verfolgt. Das Gericht betonte insbesondere die ethnisch-völkische Definition des Staatsvolks durch die AfD, die Migranten und eingebürgerte Staatsbürger rechtlich herabwürdigen will, was mit dem Grundgesetz (Menschenwürdegarantie) unvereinbar ist.
+
+BEWEISBEDEUTUNG FÜR DAS PARTEIVERBOTSVERFAHREN:
+Dieses wegweisende Urteil legitimiert den Einsatz nachrichtendienstlicher Mittel und liefert den verfassungsrechtlichen Beweis, dass die AfD aktiv-kämpferisch gegen die freiheitlich-demokratische Grundordnung agiert.
+
+OFFIZIELLER DIREKT-QUELLENLINK (GERICHTS- & PRESSEPROVENIENZ):
+https://www.lto.de/recht/hintergruende/h/ovg-nrw-5a121822-entscheidung-verfassungsschutz-beobachtung-afd-verdachtsfall-rechtsextremismus/

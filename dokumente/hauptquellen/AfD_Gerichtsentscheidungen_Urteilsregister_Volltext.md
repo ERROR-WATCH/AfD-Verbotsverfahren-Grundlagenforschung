@@ -7,11 +7,11 @@ Dieses Dokument ist eine umfassende Zusammenstellung gerichtlicher Urteile, rech
 * 🔵 **[INDIREKT AfD]**: Keine formale direkte Parteimitgliedschaft (oder Status unklar), jedoch mit messerscharf begründetem AfD-Bezug belassen.
 
 > 📥 **Gesamtregister als konsolidierte Dateien:**
-> * 📄 [**Gesamt-Urteilsregister als typeset PDF-Dossier**](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)
-> * 📝 [**Gesamt-Urteilsregister als konsolidierter TXT-Volltext**](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.md)
+> * 📄 [**Gesamt-Urteilsregister als typeset PDF-Dossier**](./AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)
+> * 📝 [**Gesamt-Urteilsregister als konsolidierter TXT-Volltext**](./AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.md)
 
 > 📚 **Verifiziertes Quellen- & Provenienzregister:**
-> * 🔗 [**Offizielles Quellen- & Provenienzregister (QUELLEN_URTEILSDB.md)**](./dokumente/hauptquellen/urteilsbelege/QUELLEN_URTEILSDB.md)
+> * 🔗 [**Offizielles Quellen- & Provenienzregister (QUELLEN_URTEILSDB.md)**](./urteilsbelege/QUELLEN_URTEILSDB.md)
 
 
 # 1. Strafrechtliche Verurteilungen von AfD-Politikern und Mandatsträgern

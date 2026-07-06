@@ -11,7 +11,7 @@ Offizielles Belegarchiv & Grundlagenforschung
 Eine systematische, wissenschaftlich fundierte Faktensammlung aus 239 Gerichtsentscheidungen, 3.611 Netzbelegen und unzensierten Verfassungsschutzgutachten für eine wehrhafte Demokratie.
 
 [Zum Portal-Dashboard](#portal)
- [PDF-Urteilsregister herunterladen](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)
+ [PDF-Urteilsregister herunterladen](../hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)
 
 ## Über dieses Forschungsportal
 
@@ -33,10 +33,10 @@ Bundesländer
 
 ### Core Downloads
 
-* [Master-PDF: Alle 239 Urteile](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)
-* [Master-TXT: Alle 239 Urteile](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.txt)
+* [Master-PDF: Alle 239 Urteile](../hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)
+* [Master-TXT: Alle 239 Urteile](../hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.txt)
 * [Zentrales Master-Quellenverzeichnis](./PUBLIC_EXTENDED_SOURCES.md)
-* [Sonder-Dossier: Bannon & Epstein](./dokumente/hauptquellen/Bannon_Epstein_DeepResearch.md)
+* [Sonder-Dossier: Bannon & Epstein](../hauptquellen/Bannon_Epstein_DeepResearch.md)
 
 ## 🔎 Interaktives Portal-Dashboard
 
@@ -120,7 +120,7 @@ BfV-Verfassungsschutzbericht 2025
 
 Ausgewählte Kennzahlen aus dem amtlichen BfV-Bericht 2025. Jahresvergleich jeweils 2024 zu 2025; gerundete Personenpotenziale nach BfV-Systematik.
 
-[BfV-Bericht öffnen](./dokumente/vfs_berichte_bundeslaender/2026-06-30-verfassungsschutzbericht-2025.pdf)
+[BfV-Bericht öffnen](../vfs_berichte_bundeslaender/2026-06-30-verfassungsschutzbericht-2025.pdf)
 
 #### Personenpotenzial
 
@@ -138,7 +138,7 @@ BKA-PMK-Fallzahlen
 
 Amtliche BKA-Fallzahlen aus den lokalen PMK-Fassungen. Die Zeitreihe zeigt den Verlauf der rechtsextremistischen Delikte und die wichtigsten Unterkategorien, soweit sie im Repo in konsistenter Form vorliegen.
 
-[BKA-Quelle öffnen](./dokumente/hauptquellen/BKA_Fallzahlen_PMK_2025.md)
+[BKA-Quelle öffnen](../hauptquellen/BKA_Fallzahlen_PMK_2025.md)
 
 #### PMK-rechts Zeitreihe
 
@@ -150,7 +150,7 @@ Sicherheitsbehörden-Lagebericht
 
 Quantitative Lagezahlen zu rechtsextremen Verdachts- und Verfahrensfällen in Sicherheitsbehörden. Diese Zahlen sind im Bericht ausdrücklich als Verfahren, Maßnahmen und Phänomenzuordnungen ausgewiesen.
 
-[Bericht öffnen](./dokumente/vfs_rechtsextremismus/BfV_Lagebericht_Rechtsextremisten_in_Sicherheitsbehoerden_2025.pdf)
+[Bericht öffnen](../vfs_rechtsextremismus/BfV_Lagebericht_Rechtsextremisten_in_Sicherheitsbehoerden_2025.pdf)
 
 #### Phänomenzuordnung
 
@@ -267,7 +267,7 @@ Bundesweit
 
 Das aktuelle nationale Wahlprogramm zur Bundestagswahl. Es bildet das legislative Fundament für die gesamte Bundespartei und untermauert die bundesweit koordinierte Ausgrenzungsstrategie.
 
-[Original-PDF öffnen](./dokumente/hauptquellen/AfD_Bundestagswahlprogramm2025_web.pdf)
+[Original-PDF öffnen](../hauptquellen/AfD_Bundestagswahlprogramm2025_web.pdf)
 
 Grundsatzprogramm
 
@@ -275,7 +275,7 @@ Grundsatzprogramm
 
 Das offizielle, dauerhafte Grundsatzprogramm ("Programm für Deutschland"). Es formuliert die ideologischen Leitlinien der Gesamtpartei und dient als dauerhafte verfassungsrechtliche Referenz.
 
-[Original-PDF öffnen](./dokumente/hauptquellen/afd.de_wahlprogramm-medien.pdf)
+[Original-PDF öffnen](../hauptquellen/afd.de_wahlprogramm-medien.pdf)
 
 #### Landesparteiprogramme aller 16 Bundesländer
 
@@ -288,9 +288,9 @@ Landesprogramm
 
 \*\*Relevanz:\*\* Fokus auf völkisch-ethnischem Kulturbegriff und rassistisch konnotierter Kriminalisierung von Zuwanderern. Ablehnung von Diversität in Bildungseinrichtungen.
 
-[Markdown](./dokumente/hauptquellen/landeswahlprogramme/01_Baden_Wuerttemberg_Wahlprogramm.md)
-[Reintext](./dokumente/hauptquellen/landeswahlprogramme/01_Baden_Wuerttemberg_Wahlprogramm.txt)
-[Original-PDF (Lokal)](./dokumente/hauptquellen/landeswahlprogramme/01_Baden_Wuerttemberg_Wahlprogramm.pdf)
+[Markdown](../hauptquellen/landeswahlprogramme/01_Baden_Wuerttemberg_Wahlprogramm.md)
+[Reintext](../hauptquellen/landeswahlprogramme/01_Baden_Wuerttemberg_Wahlprogramm.txt)
+[Original-PDF (Lokal)](../hauptquellen/landeswahlprogramme/01_Baden_Wuerttemberg_Wahlprogramm.pdf)
 
 02 | BY
 Landesprogramm
@@ -301,9 +301,9 @@ Landesprogramm
 
 \*\*Relevanz:\*\* Strikte Ablehnung von Zuwanderung unter dem Vorwand des Erhalts der 'bayerischen Identität'. Forderung nach Einschränkungen der Religionsfreiheit.
 
-[Markdown](./dokumente/hauptquellen/landeswahlprogramme/02_Bayern_Wahlprogramm.md)
-[Reintext](./dokumente/hauptquellen/landeswahlprogramme/02_Bayern_Wahlprogramm.txt)
-[Original-PDF (Lokal)](./dokumente/hauptquellen/landeswahlprogramme/02_Bayern_Wahlprogramm.pdf)
+[Markdown](../hauptquellen/landeswahlprogramme/02_Bayern_Wahlprogramm.md)
+[Reintext](../hauptquellen/landeswahlprogramme/02_Bayern_Wahlprogramm.txt)
+[Original-PDF (Lokal)](../hauptquellen/landeswahlprogramme/02_Bayern_Wahlprogramm.pdf)
 
 03 | BE
 Landesprogramm
@@ -314,9 +314,9 @@ Landesprogramm
 
 \*\*Relevanz:\*\* Agitation gegen kosmopolitische und liberale Gesellschaftsstrukturen in der Hauptstadt. Ethnische Ausgrenzung und Diskreditierung linker Gegner.
 
-[Markdown](./dokumente/hauptquellen/landeswahlprogramme/03_Berlin_Wahlprogramm.md)
-[Reintext](./dokumente/hauptquellen/landeswahlprogramme/03_Berlin_Wahlprogramm.txt)
-[Original-PDF (Lokal)](./dokumente/hauptquellen/landeswahlprogramme/03_Berlin_Wahlprogramm.pdf)
+[Markdown](../hauptquellen/landeswahlprogramme/03_Berlin_Wahlprogramm.md)
+[Reintext](../hauptquellen/landeswahlprogramme/03_Berlin_Wahlprogramm.txt)
+[Original-PDF (Lokal)](../hauptquellen/landeswahlprogramme/03_Berlin_Wahlprogramm.pdf)
 
 04 | BB [Gesichert Rechtsextrem]
 
@@ -326,9 +326,9 @@ Landesprogramm
 
 \*\*Relevanz:\*\* Enge Flügel-Verbindung. Starke Fokussierung auf 'Remigration' und 'Heimatschutz'. Die behördliche Einstufung untermauert die Aggressivität.
 
-[Markdown](./dokumente/hauptquellen/landeswahlprogramme/04_Brandenburg_Wahlprogramm.md)
-[Reintext](./dokumente/hauptquellen/landeswahlprogramme/04_Brandenburg_Wahlprogramm.txt)
-[Original-PDF (Lokal)](./dokumente/hauptquellen/landeswahlprogramme/04_Brandenburg_Wahlprogramm.pdf)
+[Markdown](../hauptquellen/landeswahlprogramme/04_Brandenburg_Wahlprogramm.md)
+[Reintext](../hauptquellen/landeswahlprogramme/04_Brandenburg_Wahlprogramm.txt)
+[Original-PDF (Lokal)](../hauptquellen/landeswahlprogramme/04_Brandenburg_Wahlprogramm.pdf)
 
 05 | HB
 Landesprogramm
@@ -339,9 +339,9 @@ Landesprogramm
 
 \*\*Relevanz:\*\* Fokus auf Kriminalisierungsdiskurse bezüglich Clangruppen. Verachtung parlamentarischer Bräuche und Institutionen.
 
-[Markdown](./dokumente/hauptquellen/landeswahlprogramme/05_Bremen_Wahlprogramm.md)
-[Reintext](./dokumente/hauptquellen/landeswahlprogramme/05_Bremen_Wahlprogramm.txt)
-[Original-PDF (Lokal)](./dokumente/hauptquellen/landeswahlprogramme/05_Bremen_Wahlprogramm.pdf)
+[Markdown](../hauptquellen/landeswahlprogramme/05_Bremen_Wahlprogramm.md)
+[Reintext](../hauptquellen/landeswahlprogramme/05_Bremen_Wahlprogramm.txt)
+[Original-PDF (Lokal)](../hauptquellen/landeswahlprogramme/05_Bremen_Wahlprogramm.pdf)
 
 06 | HH
 Landesprogramm
@@ -352,9 +352,9 @@ Landesprogramm
 
 \*\*Relevanz:\*\* Stigmatisierung von Einwanderern im Bildungssystem. Ablehnung von Asylverfahren und humanitärer Hilfe im urbanen Raum.
 
-[Markdown](./dokumente/hauptquellen/landeswahlprogramme/06_Hamburg_Wahlprogramm.md)
-[Reintext](./dokumente/hauptquellen/landeswahlprogramme/06_Hamburg_Wahlprogramm.txt)
-[Original-PDF (Lokal)](./dokumente/hauptquellen/landeswahlprogramme/06_Hamburg_Wahlprogramm.pdf)
+[Markdown](../hauptquellen/landeswahlprogramme/06_Hamburg_Wahlprogramm.md)
+[Reintext](../hauptquellen/landeswahlprogramme/06_Hamburg_Wahlprogramm.txt)
+[Original-PDF (Lokal)](../hauptquellen/landeswahlprogramme/06_Hamburg_Wahlprogramm.pdf)
 
 07 | HE
 Landesprogramm
@@ -365,9 +365,9 @@ Landesprogramm
 
 \*\*Relevanz:\*\* Forderung nach Rundfunk-Abschaffung. Einschränkung zivilgesellschaftlicher Kontrollinstanzen. Rassistisch konnotierter Kulturschutz.
 
-[Markdown](./dokumente/hauptquellen/landeswahlprogramme/07_Hessen_Wahlprogramm.md)
-[Reintext](./dokumente/hauptquellen/landeswahlprogramme/07_Hessen_Wahlprogramm.txt)
-[Original-PDF (Lokal)](./dokumente/hauptquellen/landeswahlprogramme/07_Hessen_Wahlprogramm.pdf)
+[Markdown](../hauptquellen/landeswahlprogramme/07_Hessen_Wahlprogramm.md)
+[Reintext](../hauptquellen/landeswahlprogramme/07_Hessen_Wahlprogramm.txt)
+[Original-PDF (Lokal)](../hauptquellen/landeswahlprogramme/07_Hessen_Wahlprogramm.pdf)
 
 08 | MV
 Landesprogramm
@@ -378,9 +378,9 @@ Landesprogramm
 
 \*\*Relevanz:\*\* Aggressive Ablehnung des europäischen Integrationsprozesses. Kooperation mit rechtsextremen Vorfeldorganisationen.
 
-[Markdown](./dokumente/hauptquellen/landeswahlprogramme/08_Mecklenburg_Vorpommern_Wahlprogramm.md)
-[Reintext](./dokumente/hauptquellen/landeswahlprogramme/08_Mecklenburg_Vorpommern_Wahlprogramm.txt)
-[Original-PDF (Lokal)](./dokumente/hauptquellen/landeswahlprogramme/08_Mecklenburg_Vorpommern_Wahlprogramm.pdf)
+[Markdown](../hauptquellen/landeswahlprogramme/08_Mecklenburg_Vorpommern_Wahlprogramm.md)
+[Reintext](../hauptquellen/landeswahlprogramme/08_Mecklenburg_Vorpommern_Wahlprogramm.txt)
+[Original-PDF (Lokal)](../hauptquellen/landeswahlprogramme/08_Mecklenburg_Vorpommern_Wahlprogramm.pdf)
 
 09 | NI
 Landesprogramm
@@ -391,9 +391,9 @@ Landesprogramm
 
 \*\*Relevanz:\*\* Fokus auf radikalen Ausbau von Abschiebezentren und die Drangsalierung von Asylbewerbern durch Sachleistungspflichten.
 
-[Markdown](./dokumente/hauptquellen/landeswahlprogramme/09_Niedersachsen_Wahlprogramm.md)
-[Reintext](./dokumente/hauptquellen/landeswahlprogramme/09_Niedersachsen_Wahlprogramm.txt)
-[Original-PDF (Lokal)](./dokumente/hauptquellen/landeswahlprogramme/09_Niedersachsen_Wahlprogramm.pdf)
+[Markdown](../hauptquellen/landeswahlprogramme/09_Niedersachsen_Wahlprogramm.md)
+[Reintext](../hauptquellen/landeswahlprogramme/09_Niedersachsen_Wahlprogramm.txt)
+[Original-PDF (Lokal)](../hauptquellen/landeswahlprogramme/09_Niedersachsen_Wahlprogramm.pdf)
 
 10 | NW
 Landesprogramm
@@ -404,9 +404,9 @@ Landesprogramm
 
 \*\*Relevanz:\*\* Diffamierung des urbanen Raums und des 'politischen Islams'. Ablehnung aller Klimaschutzpolitik als Industrie-Sabotage.
 
-[Markdown](./dokumente/hauptquellen/landeswahlprogramme/10_Nordrhein_Westfalen_Wahlprogramm.md)
-[Reintext](./dokumente/hauptquellen/landeswahlprogramme/10_Nordrhein_Westfalen_Wahlprogramm.txt)
-[Original-PDF (Lokal)](./dokumente/hauptquellen/landeswahlprogramme/10_Nordrhein_Westfalen_Wahlprogramm.pdf)
+[Markdown](../hauptquellen/landeswahlprogramme/10_Nordrhein_Westfalen_Wahlprogramm.md)
+[Reintext](../hauptquellen/landeswahlprogramme/10_Nordrhein_Westfalen_Wahlprogramm.txt)
+[Original-PDF (Lokal)](../hauptquellen/landeswahlprogramme/10_Nordrhein_Westfalen_Wahlprogramm.pdf)
 
 11 | RP
 Landesprogramm
@@ -417,9 +417,9 @@ Landesprogramm
 
 \*\*Relevanz:\*\* Rassistisch unterlegte Heimat- und Umweltschutzdiskurse. 'Remigration' als zentrales strukturpolitisches Vorhaben.
 
-[Markdown](./dokumente/hauptquellen/landeswahlprogramme/11_Rheinland_Pfalz_Wahlprogramm.md)
-[Reintext](./dokumente/hauptquellen/landeswahlprogramme/11_Rheinland_Pfalz_Wahlprogramm.txt)
-[Original-PDF (Lokal)](./dokumente/hauptquellen/landeswahlprogramme/11_Rheinland_Pfalz_Wahlprogramm.pdf)
+[Markdown](../hauptquellen/landeswahlprogramme/11_Rheinland_Pfalz_Wahlprogramm.md)
+[Reintext](../hauptquellen/landeswahlprogramme/11_Rheinland_Pfalz_Wahlprogramm.txt)
+[Original-PDF (Lokal)](../hauptquellen/landeswahlprogramme/11_Rheinland_Pfalz_Wahlprogramm.pdf)
 
 12 | SL
 Landesprogramm
@@ -430,9 +430,9 @@ Landesprogramm
 
 \*\*Relevanz:\*\* Ablehnung grenzüberschreitender europäischer Integration zur Vermeidung von „Identitäts-Verwässerung“. Abschiebefokus.
 
-[Markdown](./dokumente/hauptquellen/landeswahlprogramme/12_Saarland_Wahlprogramm.md)
-[Reintext](./dokumente/hauptquellen/landeswahlprogramme/12_Saarland_Wahlprogramm.txt)
-[Original-PDF (Lokal)](./dokumente/hauptquellen/landeswahlprogramme/12_Saarland_Wahlprogramm.pdf)
+[Markdown](../hauptquellen/landeswahlprogramme/12_Saarland_Wahlprogramm.md)
+[Reintext](../hauptquellen/landeswahlprogramme/12_Saarland_Wahlprogramm.txt)
+[Original-PDF (Lokal)](../hauptquellen/landeswahlprogramme/12_Saarland_Wahlprogramm.pdf)
 
 13 | SN [Gesichert Rechtsextrem]
 
@@ -442,9 +442,9 @@ Landesprogramm
 
 \*\*Relevanz:\*\* Völkisch-nationales Programm. Systematische Diskreditierung freier Journalisten, Behörden und der Landesverfassungsrichter.
 
-[Markdown](./dokumente/hauptquellen/landeswahlprogramme/13_Sachsen_Wahlprogramm.md)
-[Reintext](./dokumente/hauptquellen/landeswahlprogramme/13_Sachsen_Wahlprogramm.txt)
-[Original-PDF (Lokal)](./dokumente/hauptquellen/landeswahlprogramme/13_Sachsen_Wahlprogramm.pdf)
+[Markdown](../hauptquellen/landeswahlprogramme/13_Sachsen_Wahlprogramm.md)
+[Reintext](../hauptquellen/landeswahlprogramme/13_Sachsen_Wahlprogramm.txt)
+[Original-PDF (Lokal)](../hauptquellen/landeswahlprogramme/13_Sachsen_Wahlprogramm.pdf)
 
 14 | ST [Gesichert Rechtsextrem]
 
@@ -454,9 +454,9 @@ Landesprogramm
 
 \*\*Relevanz:\*\* Äußerst aggressive Remigrationsprogrammatik. Völkische Identitätspolitik im Schul- und Kulturbereich zur Ausgrenzung Fremder.
 
-[Markdown](./dokumente/hauptquellen/landeswahlprogramme/14_Sachsen_Anhalt_Wahlprogramm.md)
-[Reintext](./dokumente/hauptquellen/landeswahlprogramme/14_Sachsen_Anhalt_Wahlprogramm.txt)
-[Original-PDF (Lokal)](./dokumente/hauptquellen/landeswahlprogramme/14_Sachsen_Anhalt_Wahlprogramm.pdf)
+[Markdown](../hauptquellen/landeswahlprogramme/14_Sachsen_Anhalt_Wahlprogramm.md)
+[Reintext](../hauptquellen/landeswahlprogramme/14_Sachsen_Anhalt_Wahlprogramm.txt)
+[Original-PDF (Lokal)](../hauptquellen/landeswahlprogramme/14_Sachsen_Anhalt_Wahlprogramm.pdf)
 
 15 | SH
 Landesprogramm
@@ -467,9 +467,9 @@ Landesprogramm
 
 \*\*Relevanz:\*\* Grenzsicherungsdiskurse und Forderungen nach Beseitigung europäischer Asylregelungen. Starker Fokus auf Assimilationszwang.
 
-[Markdown](./dokumente/hauptquellen/landeswahlprogramme/15_Schleswig_Holstein_Wahlprogramm.md)
-[Reintext](./dokumente/hauptquellen/landeswahlprogramme/15_Schleswig_Holstein_Wahlprogramm.txt)
-[Original-PDF (Lokal)](./dokumente/hauptquellen/landeswahlprogramme/15_Schleswig_Holstein_Wahlprogramm.pdf)
+[Markdown](../hauptquellen/landeswahlprogramme/15_Schleswig_Holstein_Wahlprogramm.md)
+[Reintext](../hauptquellen/landeswahlprogramme/15_Schleswig_Holstein_Wahlprogramm.txt)
+[Original-PDF (Lokal)](../hauptquellen/landeswahlprogramme/15_Schleswig_Holstein_Wahlprogramm.pdf)
 
 16 | TH [Gesichert Rechtsextrem]
 
@@ -479,9 +479,9 @@ Landesprogramm
 
 \*\*Relevanz:\*\* Führung durch Björn Höcke. Extremstes Programm mit detaillierten völkisch-ethnischen Vertreibungsplänen und Justizsabotagedisziplinen.
 
-[Markdown](./dokumente/hauptquellen/landeswahlprogramme/16_Thueringen_Wahlprogramm.md)
-[Reintext](./dokumente/hauptquellen/landeswahlprogramme/16_Thueringen_Wahlprogramm.txt)
-[Original-PDF (Lokal)](./dokumente/hauptquellen/landeswahlprogramme/16_Thueringen_Wahlprogramm.pdf)
+[Markdown](../hauptquellen/landeswahlprogramme/16_Thueringen_Wahlprogramm.md)
+[Reintext](../hauptquellen/landeswahlprogramme/16_Thueringen_Wahlprogramm.txt)
+[Original-PDF (Lokal)](../hauptquellen/landeswahlprogramme/16_Thueringen_Wahlprogramm.pdf)
 
 Alle Kategorien
 

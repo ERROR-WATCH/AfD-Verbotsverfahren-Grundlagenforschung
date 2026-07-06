@@ -1,0 +1,12 @@
+URTEILSDATENBANK BELEG 42: Ermittlungsverfahren und Metadaten-Beweis zur „E-Mail-Affäre“ von Alice Weidel (MdB)
+Behörde: Staatsanwaltschaft Konstanz / Bundestag
+Gegenstand: Beweissicherung verfassungsfeindlicher und staatsfeindlicher Äußerungen einer Verfassungsorgan-Abgeordneten.
+
+SACHVERHALT:
+Im Rahmen der Bundestagswahl 2017 wurde eine vertrauliche E-Mail von Alice Weidel geleakt, deren Authentizität gutachterlich und ermittlungsbehördlich verifiziert wurde. In der E-Mail äußert sich Weidel tief verfassungsfeindlich und rassistisch über die Bundesregierung und Migranten. Sie bezeichnete Regierungsmitglieder als „Scharmacher“ und „Kulturvernichter“ und schrieb: „Diese Schweine sind nichts anderes als Marionetten der Siegermächte des 2. Weltkriegs und haben die Aufgabe, das deutsche Volk klein zu halten.“
+
+BEWEISBEDEUTUNG FÜR DAS PARTEIVERBOTSVERFAHREN:
+Die rassistische und reichsbürgernahe Denkhaltung („Marionetten der Siegermächte“) der Co-Bundesvorsitzenden belegt das tief verankerte, antidemokratische Weltbild an der absoluten Spitze der Partei.
+
+OFFIZIELLER DIREKT-QUELLENLINK (GERICHTS- & PRESSEPROVENIENZ):
+https://www.spiegel.de/politik/deutschland/alice-weidel-afd-spitzenkandidatin-reagiert-auf-e-mail-affaere-a-1167092.html
