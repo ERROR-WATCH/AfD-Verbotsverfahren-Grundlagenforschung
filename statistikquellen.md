@@ -15,7 +15,7 @@ Diese Datei ist die kompakte Bruecke zum Statistiksystem. Die kanonischen Datenp
 ## Aktiver Stand
 - Der sichtbare Statistik-Tab rendert ausschliesslich `daten/statistik_manifest.json`.
 - Das Manifest enthaelt derzeit 13 validierte Statistikobjekte.
-- Die Kernwerte sind 239 dokumentierte Gerichtsfaelle, 18 konsolidierte Verbotsgruende und 3.611 Belegzitate.
+- Die Kernwerte sind 244 dokumentierte Gerichtsfaelle, 18 konsolidierte Verbotsgruende und 3.611 Belegzitate.
 - Weitere Manifestwerte bilden Aggregatbefunde, Beweisstufe-A-Verteilung und thematische Cluster ab.
 
 ## Kernregeln

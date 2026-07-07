@@ -4,7 +4,7 @@ Das Statistikmodul ist die quantitative Beweislandkarte des Repositories. Die si
 
 ## Aktiver Stand
 - 13 validierte Manifest-Statistiken.
-- Kernwerte: 239 dokumentierte Gerichtsfaelle, 18 konsolidierte Verbotsgruende, 3.611 Belegzitate.
+- Kernwerte: 244 dokumentierte Gerichtsfaelle, 18 konsolidierte Verbotsgruende, 3.611 Belegzitate.
 - Weitere Manifestwerte: aggregierte Befunde, Beweisstufe-A-Verteilung und acht thematische Cluster.
 
 ## Grundprinzipien

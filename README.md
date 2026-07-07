@@ -3,7 +3,7 @@
 > 🌐 **Interaktives Web-Portal (Forschungs-Dashboard) live online:**  
 > Erkunde dieses gesamte Belegarchiv unzensiert, schnell und interaktiv direkt im Browser:  
 > 👉 **[https://ERROR-WATCH.github.io/AfD-Verbotsverfahren-Grundlagenforschung/](https://ERROR-WATCH.github.io/AfD-Verbotsverfahren-Grundlagenforschung/)**  
-> *Das Portal bietet eine hochintelligente, umlautsensitive Volltextsuche über alle 239 Gerichtsfälle, 18 Verbotsgründe, alle unzensierten Gutachten/PDF-Splits und alle 3.611 Belegzitate mit Live-Textvorschau!*
+> *Das Portal bietet eine hochintelligente, umlautsensitive Volltextsuche über alle 244 Gerichtsfälle, 18 Verbotsgründe, alle unzensierten Gutachten/PDF-Splits und alle 3.611 Belegzitate mit Live-Textvorschau!*
 
 ---
 
@@ -27,7 +27,7 @@ Dieses Repository sammelt die zentralen Dokumente, Textfragmente und Forschungse
 Dieses Repository stellt eine **solid fundierte Arbeitsbasis** dar, die nach bestem Wissen und Gewissen und mit erheblicher **KI-Unterstützung** erstellt und strukturiert wurde. Es ist jedoch von zentraler Bedeutung, die folgenden Aspekte für jede weitere wissenschaftliche, journalistische oder juristische Verwendung zu berücksichtigen:
 
 1. **Kein Anspruch auf Vollständigkeit (Die Oberfläche des Komplexes):**  
-   Trotz der sorgfältigen Aufbereitung von 239 Gerichtsfällen und über 1.400 Dokumenten legt diese Datenbank **bei weitem keinen Anspruch auf Vollständigkeit** nahe. In Anbetracht der enormen Tiefe und Verästelung der verfassungsfeindlichen Strukturen der Partei stellt dieses Archiv in unseren Augen lediglich die **Oberfläche des gesamten rechtlichen und tatsächlichen Komplexes** dar. Viele verdeckte Netzwerke, Finanzströme und behördliche Erkenntnisse liegen im Verborgenen oder unterliegen dem Geheimschutz.
+   Trotz der sorgfältigen Aufbereitung von 244 Gerichtsfällen und über 1.400 Dokumenten legt diese Datenbank **bei weitem keinen Anspruch auf Vollständigkeit** nahe. In Anbetracht der enormen Tiefe und Verästelung der verfassungsfeindlichen Strukturen der Partei stellt dieses Archiv in unseren Augen lediglich die **Oberfläche des gesamten rechtlichen und tatsächlichen Komplexes** dar. Viele verdeckte Netzwerke, Finanzströme und behördliche Erkenntnisse liegen im Verborgenen oder unterliegen dem Geheimschutz.
    
 2. **Notwendigkeit händischer und professioneller Auswertung:**  
    Die in diesem Repository bereitgestellten Daten und KI-generierten Strukturierungshilfen (z. B. RAG-Dumps und Zusammenfassungen) sind **Arbeitswerkzeuge, keine gerichtsfertigen Beweise**. Für ein tatsächliches gerichtliches Verbotsverfahren vor dem Bundesverfassungsgericht bedarf es zwingend einer **vollständig händischen Auswertung, detaillierten Verifizierung und juristisch präzisen Aufbereitung aller Belege durch geschultes Fachpersonal** (wie habilitierte Verfassungsrechtler, erfahrene Prozessbevollmächtigte und staatliche Gutachter).
@@ -218,14 +218,14 @@ Dieses Register ist eine umfassende, wissenschaftlich gepflegte Zusammenstellung
 
 Sämtliche Belege liegen physisch im Repository vor und sind im vollumfänglichen Register [**`URTEILE_DEEPRESEARCH.md`**](./URTEILE_DEEPRESEARCH.md) systematisch verzeichnet.
 
-> 📥 **Gesamtregister zum Download:** Wir haben alle 239 straf- und verfassungsrechtlichen Urteile in einem einzigen, offline-fähigen Gesamtregister kompiliert:
+> 📥 **Gesamtregister zum Download:** Wir haben alle 244 straf- und verfassungsrechtlichen Urteile in einem einzigen, offline-fähigen Gesamtregister kompiliert:
 > * 📄 [**Gesamt-Urteilsregister als gesetztes PDF-Dossier**](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf) *(Perfekt formatiert für RAG und Druck)*
 > * 📝 [**Gesamt-Urteilsregister als TXT-Dokument**](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.md)
 
-> 📚 **Verifiziertes Quellen- & Provenienzregister:** Wir haben eine dedizierte Quellenliste angelegt, die für alle 239 Fälle die originalen, höchstrichterlichen Gerichtsdatenbank-Einträge und Pressebelege (LTO, Spiegel, Tagesschau) enthält:
+> 📚 **Verifiziertes Quellen- & Provenienzregister:** Wir haben eine dedizierte Quellenliste angelegt, die für alle 244 Fälle die originalen, höchstrichterlichen Gerichtsdatenbank-Einträge und Pressebelege (LTO, Spiegel, Tagesschau) enthält:
 > * 🔗 [**Offizielles Quellen- & Provenienzregister (QUELLEN_URTEILSDB.md)**](./dokumente/hauptquellen/urteilsbelege/QUELLEN_URTEILSDB.md)
 
-#### 🏛️ Systematisches & fortlaufend erweitertes Strafrechts- und Gerichtsregister (239 exemplarische Fälle direkt im Repository):
+#### 🏛️ Systematisches & fortlaufend erweitertes Strafrechts- und Gerichtsregister (244 exemplarische Fälle direkt im Repository):
 
 ##### A) Volksverhetzung & Verfassungswidrige Kennzeichen (20 Fälle)
 * ⚖️ **1. Björn Höcke (SA-Parole „Alles für Deutschland“):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/01_Hoecke_SA_Parole_LG_Halle.md) | [Online-Quelle](https://www.lto.de/recht/nachrichten/n/bgh-verwirft-revision-bjoern-hoecke-sa-parole-alles-fuer-deutschland/) – *[**DIREKT AfD - Landessprecher**] LG Halle verurteilte Höcke wegen des Verwendens verbotener SA-Kennzeichen.*
@@ -323,12 +323,17 @@ Sämtliche Belege liegen physisch im Repository vor und sind im vollumfängliche
 ##### H) SONDERKATEGORIE: Schwere Vergewaltigung & Sexualstraftaten (1 Fall)
 * ⚖️ **75. Philip W. (Zweifache Vergewaltigung):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/69_Philip_W_Vergewaltigung_Augsburg.md) | [Online-Quelle](https://www.focus.de/politik/deutschland/augsburg-mitarbeiter-von-afd-mann-jurca-wegen-vergewaltigung-verurteilt-100.html) – *[**INDIREKT AfD - Abgeordnetenmitarbeiter**] Rechtskräftige Haftstrafe auf Bewährung wegen brutaler zweifacher Vergewaltigung der Partnerin. Begründung des AfD-Bezugs: Er ist persönlicher Vollzeit-Mitarbeiter des AfD-Landtagsabgeordneten Andreas Jurca.*
 
-##### I) Gerichtsentscheidungen gegen die Gesamtpartei (5 Fälle)
+##### I) Gerichtsentscheidungen gegen die Gesamtpartei und Landesverbaende (10 Fälle)
 * ⚖️ **76. BfV vs. AfD (Gesamtpartei - Verfassungskonforme Beobachtung):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/22_BfV_vs_AfD_Verdachtsfall_OVG_Muenster.md) | [Online-Quelle](https://www.lto.de/recht/hintergruende/h/ovg-nrw-5a121822-entscheidung-verfassungsschutz-beobachtung-afd-verdachtsfall-rechtsextremismus/) – *OVG Münster bestätigt Einstufung der Bundes-AfD und JA als rechtsextremistischer Verdachtsfall.*
 * ⚖️ **77. Entzug von Waffenbesitzkarten (Verwaltungsgerichte):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/23_Waffenbesitzkarten_Entzug_VG_Duesseldorf.md) | [Online-Quelle](https://www.lto.de/recht/nachrichten/n/vg-duesseldorf-22k372123-waffenbesitzkarte-entzug-afd-unzuverlaessig/) – *Rechtmäßiger Ausschluss bewaffneter AfD-Funktionäre aus Sicherheitsgründen.*
 * ⚖️ **78. Verweigerung des Beamtenstatus (OVG Weimar):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/24_Beamtenstatus_Ausschluss_OVG_Weimar.txt) | [Online-Quelle](https://www.lto.de/recht/nachrichten/n/ovg-weimar-beamte-polizei-lehrer-ausschluss-afd-verfassungtreue/) – *Entlassung von Beamten wegen verfassungsfeindlicher Betätigung.*
 * ⚖️ **79. Ausschluss von Bundestagsrechten (BVerfG):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/25_Bundestag_Ausschussvorsitz_BVerfG.md) | [Online-Quelle](https://www.lto.de/recht/nachrichten/n/bverfg-2bve121-ausschussvorsitz-bundestag-afd-kein-anspruch-wahl/) – *Ausschussvorsitze können der AfD rechtmäßig vorenthalten werden.*
 * ⚖️ **80. Parteistrafen wegen illegaler Auslandsspenden (BVerwG):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/21_AfD_Strafzahlungen_Spendenaffaere_BVerwG.md) | [Online-Quelle](https://www.lto.de/recht/nachrichten/n/bverwg-6c421-afd-strafzahlung-bundestag-illegale-parteispende/) – *Bestätigung von 1,08 Mio. Euro Bußgeldern wegen illegaler Schweizer Spenden für Weidels Wahlkampf.*
+* ⚖️ **240. AfD Niedersachsen gegen Verfassungsschutz Niedersachsen:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/240_AfD_Niedersachsen_Verfassungsschutz_VG_Hannover.md) | [Online-Quelle](https://volksverpetzer.de/serie/urteile-juni-26-afd-gegen-verfassungsschutz/) – *VG Hannover: Eilantrag gegen Hochstufung zum Beobachtungsobjekt von erheblicher Bedeutung abgelehnt.*
+* ⚖️ **241. AfD Bayern gegen Bayerisches Landesamt fuer Verfassungsschutz:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/241_AfD_Bayern_Verfassungsschutz_VGH_Bayern.md) | [Online-Quelle](https://volksverpetzer.de/serie/urteile-juni-26-afd-gegen-verfassungsschutz/) – *Bayerischer VGH: Antrag auf Zulassung der Berufung gegen Beobachtung als Verdachtsfall abgelehnt.*
+* ⚖️ **242. AfD Hessen gegen Landesamt fuer Verfassungsschutz Hessen:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/242_AfD_Hessen_Verfassungsschutz_VG_Wiesbaden.md) | [Online-Quelle](https://volksverpetzer.de/serie/urteile-juni-26-afd-gegen-verfassungsschutz/) – *VG Wiesbaden: Einstufung und Beobachtung als Verdachtsfall im Hauptsacheverfahren bestaetigt.*
+* ⚖️ **243. AfD-Kommunalpolitiker gegen Land Berlin:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/243_AfD_Kommunalpolitiker_Verbeamtung_Kriminalpolizei_VG_Berlin.md) | [Online-Quelle](https://volksverpetzer.de/serie/urteile-juni-26-afd-gegen-verfassungsschutz/) – *VG Berlin: keine Einstellung in den gehobenen Dienst der Kriminalpolizei wegen Eignungszweifeln.*
+* ⚖️ **244. Antisemitisches Hausverbot-Plakat Flensburg:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/244_Antisemitisches_Plakat_Flensburg_AG_Flensburg.md) | [Online-Quelle](https://volksverpetzer.de/serie/urteile-juni-26-afd-gegen-verfassungsschutz/) – *AG Flensburg: Volksverhetzung, sechs Monate Freiheitsstrafe auf Bewaehrung und Zahlung an die KZ-Gedenkstaette Ladelund.*
 # Ergänzungen thematisch sortiert
 
 ---

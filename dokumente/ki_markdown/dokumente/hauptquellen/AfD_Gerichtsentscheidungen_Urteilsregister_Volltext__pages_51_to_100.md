@@ -1,6 +1,6 @@
 # AfD_Gerichtsentscheidungen_Urteilsregister_Volltext (51-100)
 
-Rechtsbelege & Urteilsregister (239 Fälle)                                          Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                          Stand: Juni 2026
 
 
 
@@ -53,7 +53,7 @@ koerperverletzung-afd-kandidat-verurteilung-100.html
 
 
 Forschungsportal AfD-Verbotsverfahren                                                       Seite 51
-Rechtsbelege & Urteilsregister (239 Fälle)                                          Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                          Stand: Juni 2026
 
 
 
@@ -84,7 +84,7 @@ mitarbeiter-von-afd-mdb-karsten-hilse-verurteilt-3981247.html
 
 
 Forschungsportal AfD-Verbotsverfahren                                                       Seite 52
-Rechtsbelege & Urteilsregister (239 Fälle)                                         Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                         Stand: Juni 2026
 
 
 
@@ -135,7 +135,7 @@ Untersuchungshaft, Großverfahren vor dem Staatsschutzsenat.
 
 
 Forschungsportal AfD-Verbotsverfahren                                                      Seite 53
-Rechtsbelege & Urteilsregister (239 Fälle)                                        Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                        Stand: Juni 2026
 
 
 
@@ -157,7 +157,7 @@ terrorverdacht-anklage-bundesanwaltschaft-malsack-winkemann/
 
 
 Forschungsportal AfD-Verbotsverfahren                                                     Seite 54
-Rechtsbelege & Urteilsregister (239 Fälle)                                          Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                          Stand: Juni 2026
 
 
 
@@ -208,7 +208,7 @@ Backnang-AfD-Stadtrat-Michael-Musto-wegen-Wahlfaelschung-verurteilt-_arid,512398
 
 
 Forschungsportal AfD-Verbotsverfahren                                                       Seite 55
-Rechtsbelege & Urteilsregister (239 Fälle)                                             Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                             Stand: Juni 2026
 
 
 
@@ -258,7 +258,7 @@ mitglied-wegen-gewalttat-verurteilt-4019283.html
 
 
 Forschungsportal AfD-Verbotsverfahren                                                          Seite 56
-Rechtsbelege & Urteilsregister (239 Fälle)                                         Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                         Stand: Juni 2026
 
 
 
@@ -310,7 +310,7 @@ bei Vorliegen verfassungsfeindlicher Bestrebungen.
 
 
 Forschungsportal AfD-Verbotsverfahren                                                      Seite 57
-Rechtsbelege & Urteilsregister (239 Fälle)                                          Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                          Stand: Juni 2026
 
 
 
@@ -363,7 +363,7 @@ Sachverhalt: (Art. 21 Abs. 1S. 1 GG auch einer solchen … die … zur Einschät
 
 
 Forschungsportal AfD-Verbotsverfahren                                                       Seite 58
-Rechtsbelege & Urteilsregister (239 Fälle)                                         Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                         Stand: Juni 2026
 
 
 
@@ -412,7 +412,7 @@ Oﬀizielle Quelle / Pressebeleg: https://openjur.de/suche/1%20BvR%201215/07/
 
 
 Forschungsportal AfD-Verbotsverfahren                                                      Seite 59
-Rechtsbelege & Urteilsregister (239 Fälle)                                          Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                          Stand: Juni 2026
 
 
 
@@ -463,7 +463,7 @@ BfV; Bundesvereinigung „Christen in der AfD“: Facebook-Eintrag vom 10.05.202
 
 
 Forschungsportal AfD-Verbotsverfahren                                                       Seite 60
-Rechtsbelege & Urteilsregister (239 Fälle)                                          Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                          Stand: Juni 2026
 
 
 
@@ -516,7 +516,7 @@ Fall 90: (1 BvR 98/21) Verfassungsrechtliche Grundsatzentscheidung
 
 
 Forschungsportal AfD-Verbotsverfahren                                                       Seite 61
-Rechtsbelege & Urteilsregister (239 Fälle)                                          Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                          Stand: Juni 2026
 
 
 
@@ -567,7 +567,7 @@ istischer Kräfte.
 
 
 Forschungsportal AfD-Verbotsverfahren                                                       Seite 62
-Rechtsbelege & Urteilsregister (239 Fälle)                                       Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                       Stand: Juni 2026
 
 
 
@@ -620,7 +620,7 @@ Sachverhalt: die freiheitliche demokratische Grundordnung geDVG … Beschl. v. �
 
 
 Forschungsportal AfD-Verbotsverfahren                                                    Seite 63
-Rechtsbelege & Urteilsregister (239 Fälle)                                          Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                          Stand: Juni 2026
 
 
 
@@ -670,7 +670,7 @@ Oﬀizielle Quelle / Pressebeleg: https://openjur.de/suche/1%20Im%20Heft%2011/20
 
 
 Forschungsportal AfD-Verbotsverfahren                                                       Seite 64
-Rechtsbelege & Urteilsregister (239 Fälle)                                        Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                        Stand: Juni 2026
 
 
 
@@ -721,7 +721,7 @@ für Gruppierungen innerhalb der Partei Die Linke: BVerwG, Urt. v. 21.07.2010, 6
 
 
 Forschungsportal AfD-Verbotsverfahren                                                     Seite 65
-Rechtsbelege & Urteilsregister (239 Fälle)                                           Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                           Stand: Juni 2026
 
 
 
@@ -774,7 +774,7 @@ Fall 98: (1 S 55/20) Verfassungsrechtliche Grundsatzentscheidung
 
 
 Forschungsportal AfD-Verbotsverfahren                                                        Seite 66
-Rechtsbelege & Urteilsregister (239 Fälle)                                         Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                         Stand: Juni 2026
 
 
 
@@ -825,7 +825,7 @@ tiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Be
 
 
 Forschungsportal AfD-Verbotsverfahren                                                      Seite 67
-Rechtsbelege & Urteilsregister (239 Fälle)                                           Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                           Stand: Juni 2026
 
 
 
@@ -878,7 +878,7 @@ Fall 101: (13 K 207/20) Höchstrichterliches verwaltungsgerichtliches Urteil
 
 
 Forschungsportal AfD-Verbotsverfahren                                                        Seite 68
-Rechtsbelege & Urteilsregister (239 Fälle)                                          Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                          Stand: Juni 2026
 
 
 
@@ -928,7 +928,7 @@ Oﬀizielle Quelle / Pressebeleg: https://openjur.de/suche/13%20K%20208/20/
 
 
 Forschungsportal AfD-Verbotsverfahren                                                       Seite 69
-Rechtsbelege & Urteilsregister (239 Fälle)                                          Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                          Stand: Juni 2026
 
 
 
@@ -979,7 +979,7 @@ von völkisch-abstammungsmäßige Volksbegriff gegen die … 13 K 326/21, juris,
 
 
 Forschungsportal AfD-Verbotsverfahren                                                       Seite 70
-Rechtsbelege & Urteilsregister (239 Fälle)                                       Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                       Stand: Juni 2026
 
 
 
@@ -1032,7 +1032,7 @@ Fall 107: (13 L 105/21) Verfassungsrechtliches Verfahren
 
 
 Forschungsportal AfD-Verbotsverfahren                                                    Seite 71
-Rechtsbelege & Urteilsregister (239 Fälle)                                          Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                          Stand: Juni 2026
 
 
 
@@ -1083,7 +1083,7 @@ bei Vorliegen verfassungsfeindlicher Bestrebungen.
 
 
 Forschungsportal AfD-Verbotsverfahren                                                       Seite 72
-Rechtsbelege & Urteilsregister (239 Fälle)                                         Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                         Stand: Juni 2026
 
 
 
@@ -1136,7 +1136,7 @@ Sachverhalt: hig, 2. Aufl. 2019, BVerfSchG § 4, Rn. 133 m. w. Nachw. - [3183] S
 
 
 Forschungsportal AfD-Verbotsverfahren                                                      Seite 73
-Rechtsbelege & Urteilsregister (239 Fälle)                                          Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                          Stand: Juni 2026
 
 
 
@@ -1185,7 +1185,7 @@ Oﬀizielle Quelle / Pressebeleg: https://openjur.de/suche/16%20A%20845/08/
 
 
 Forschungsportal AfD-Verbotsverfahren                                                       Seite 74
-Rechtsbelege & Urteilsregister (239 Fälle)                                      Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                      Stand: Juni 2026
 
 
 
@@ -1236,7 +1236,7 @@ am … 1805 … „Reichsbürger Szene stark gewachsen: 19 … nach … Razzia i
 
 
 Forschungsportal AfD-Verbotsverfahren                                                   Seite 75
-Rechtsbelege & Urteilsregister (239 Fälle)                                           Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                           Stand: Juni 2026
 
 
 
@@ -1289,7 +1289,7 @@ stufung
 
 
 Forschungsportal AfD-Verbotsverfahren                                                        Seite 76
-Rechtsbelege & Urteilsregister (239 Fälle)                                        Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                        Stand: Juni 2026
 
 
 
@@ -1339,7 +1339,7 @@ Verhältnismäßigahmen einer … zu …
 
 
 Forschungsportal AfD-Verbotsverfahren                                                     Seite 77
-Rechtsbelege & Urteilsregister (239 Fälle)                                      Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                      Stand: Juni 2026
 
 
 
@@ -1392,7 +1392,7 @@ chüsse
 
 
 Forschungsportal AfD-Verbotsverfahren                                                   Seite 78
-Rechtsbelege & Urteilsregister (239 Fälle)                                          Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                          Stand: Juni 2026
 
 
 
@@ -1443,7 +1443,7 @@ bei Vorliegen verfassungsfeindlicher Bestrebungen.
 
 
 Forschungsportal AfD-Verbotsverfahren                                                       Seite 79
-Rechtsbelege & Urteilsregister (239 Fälle)                                          Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                          Stand: Juni 2026
 
 
 
@@ -1496,7 +1496,7 @@ Sachverhalt: Urt. v. 01.09.2010, 6 A 4/09, juris, Rn. 14; OVG NW, Urt. v 12.02.2
 
 
 Forschungsportal AfD-Verbotsverfahren                                                       Seite 80
-Rechtsbelege & Urteilsregister (239 Fälle)                                          Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                          Stand: Juni 2026
 
 
 
@@ -1545,7 +1545,7 @@ Oﬀizielle Quelle / Pressebeleg: https://openjur.de/suche/2%20BvR%201436/02/
 
 
 Forschungsportal AfD-Verbotsverfahren                                                       Seite 81
-Rechtsbelege & Urteilsregister (239 Fälle)                                          Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                          Stand: Juni 2026
 
 
 
@@ -1596,7 +1596,7 @@ juris, Rn. 37; VG Berlin, Urt. vom 12.11.2020, 1 K 606/17, juris, Rn. 39. - [316
 
 
 Forschungsportal AfD-Verbotsverfahren                                                       Seite 82
-Rechtsbelege & Urteilsregister (239 Fälle)                                           Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                           Stand: Juni 2026
 
 
 
@@ -1649,7 +1649,7 @@ Fall 126: (2 Ws 131/16) Verfassungsrechtliches Verfahren
 
 
 Forschungsportal AfD-Verbotsverfahren                                                        Seite 83
-Rechtsbelege & Urteilsregister (239 Fälle)                                          Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                          Stand: Juni 2026
 
 
 
@@ -1700,7 +1700,7 @@ bei Vorliegen verfassungsfeindlicher Bestrebungen.
 
 
 Forschungsportal AfD-Verbotsverfahren                                                       Seite 84
-Rechtsbelege & Urteilsregister (239 Fälle)                                        Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                        Stand: Juni 2026
 
 
 
@@ -1753,7 +1753,7 @@ Sachverhalt: chen der autochthonen Gesellschaft und den Kolonialherren hervor. M
 
 
 Forschungsportal AfD-Verbotsverfahren                                                     Seite 85
-Rechtsbelege & Urteilsregister (239 Fälle)                                        Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                        Stand: Juni 2026
 
 
 
@@ -1802,7 +1802,7 @@ Oﬀizielle Quelle / Pressebeleg: https://openjur.de/suche/22%20K%202532/11/
 
 
 Forschungsportal AfD-Verbotsverfahren                                                     Seite 86
-Rechtsbelege & Urteilsregister (239 Fälle)                                          Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                          Stand: Juni 2026
 
 
 
@@ -1853,7 +1853,7 @@ GeheimgutachtenTeil … – Seite 54 VS-NUR FÜR DEN D ENSTGEBRAUCH FREMDEN- UND
 
 
 Forschungsportal AfD-Verbotsverfahren                                                       Seite 87
-Rechtsbelege & Urteilsregister (239 Fälle)                                           Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                           Stand: Juni 2026
 
 
 
@@ -1906,7 +1906,7 @@ Fall 134: (4 U 1419/16) Verfassungsrechtliches Verfahren
 
 
 Forschungsportal AfD-Verbotsverfahren                                                        Seite 88
-Rechtsbelege & Urteilsregister (239 Fälle)                                         Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                         Stand: Juni 2026
 
 
 
@@ -1957,7 +1957,7 @@ bei Vorliegen verfassungsfeindlicher Bestrebungen.
 
 
 Forschungsportal AfD-Verbotsverfahren                                                      Seite 89
-Rechtsbelege & Urteilsregister (239 Fälle)                                        Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                        Stand: Juni 2026
 
 
 
@@ -2010,7 +2010,7 @@ Urt. v. 16.10.2014, 22 K 14.1663, juris, Rn. 54. - [41] Hierzu und zum Folgenden
 
 
 Forschungsportal AfD-Verbotsverfahren                                                     Seite 90
-Rechtsbelege & Urteilsregister (239 Fälle)                                           Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                           Stand: Juni 2026
 
 
 
@@ -2063,7 +2063,7 @@ Fall 139: (5 A 837/11) Höchstrichterliches verwaltungsgerichtliches Urteil
 
 
 Forschungsportal AfD-Verbotsverfahren                                                        Seite 91
-Rechtsbelege & Urteilsregister (239 Fälle)                                           Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                           Stand: Juni 2026
 
 
 
@@ -2113,7 +2113,7 @@ OVG NRW: „Bundesamt für Verfassungsschutz darf AfD und JA als Verdachtsfall b
 
 
 Forschungsportal AfD-Verbotsverfahren                                                        Seite 92
-Rechtsbelege & Urteilsregister (239 Fälle)                                        Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                        Stand: Juni 2026
 
 
 
@@ -2167,7 +2167,7 @@ Fall 142: (6 A 4/09) Verfassungsrechtliche Grundsatzentscheidung
 
 
 Forschungsportal AfD-Verbotsverfahren                                                     Seite 93
-Rechtsbelege & Urteilsregister (239 Fälle)                                          Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                          Stand: Juni 2026
 
 
 
@@ -2218,7 +2218,7 @@ tiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Be
 
 
 Forschungsportal AfD-Verbotsverfahren                                                       Seite 94
-Rechtsbelege & Urteilsregister (239 Fälle)                                      Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                      Stand: Juni 2026
 
 
 
@@ -2271,7 +2271,7 @@ Fall 145: (6 L 20/24) Verfassungsrechtliche Grundsatzentscheidung
 
 
 Forschungsportal AfD-Verbotsverfahren                                                   Seite 95
-Rechtsbelege & Urteilsregister (239 Fälle)                                         Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                         Stand: Juni 2026
 
 
 
@@ -2323,7 +2323,7 @@ Oﬀizielle Quelle / Pressebeleg: https://openjur.de/suche/6%20U%20190/20/
 
 
 Forschungsportal AfD-Verbotsverfahren                                                      Seite 96
-Rechtsbelege & Urteilsregister (239 Fälle)                                      Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                      Stand: Juni 2026
 
 
 
@@ -2373,7 +2373,7 @@ Sachverhalt: VerfSchG § 4, Rn. 114. - [60] OVG Berlin-Brandenburg, Urt. v. 23.1
 
 
 Forschungsportal AfD-Verbotsverfahren                                                   Seite 97
-Rechtsbelege & Urteilsregister (239 Fälle)                                        Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                        Stand: Juni 2026
 
 
 
@@ -2426,7 +2426,7 @@ Fall 150: (A 1218/22) Verfassungsrechtliches Verfahren
 
 
 Forschungsportal AfD-Verbotsverfahren                                                     Seite 98
-Rechtsbelege & Urteilsregister (239 Fälle)                                        Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                        Stand: Juni 2026
 
 
 
@@ -2477,7 +2477,7 @@ Beweisbedeutung für das Parteiverbotsverfahren: Bestätigt das parlamentarische
 
 
 Forschungsportal AfD-Verbotsverfahren                                                     Seite 99
-Rechtsbelege & Urteilsregister (239 Fälle)                                          Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                          Stand: Juni 2026
 
 
 

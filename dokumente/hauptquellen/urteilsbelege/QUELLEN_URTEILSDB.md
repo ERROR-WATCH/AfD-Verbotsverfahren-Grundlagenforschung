@@ -1,12 +1,12 @@
 # Quellenverzeichnis und Provenienzregister der Urteilsdatenbank
 
-Dieses Dokument enthält die verifizierten Online-Quellen, höchstrichterlichen Gerichtsentscheidungen, Pressemeldungen und behördlichen Nachweise für sämtliche 239 im Repository dokumentierten Fälle.
+Dieses Dokument enthält die verifizierten Online-Quellen, höchstrichterlichen Gerichtsentscheidungen, Pressemeldungen und behördlichen Nachweise für sämtliche 244 im Repository dokumentierten Fälle.
 
 Sämtliche Belege liegen physisch im Repository unter [`./urteilsbelege/`](./) im unzensierten Volltext vor.
 
 ---
 
-## 🏛️ Verifiziertes Quellen- und Provenienzregister (Fälle 1 bis 239)
+## 🏛️ Verifiziertes Quellen- und Provenienzregister (Fälle 1 bis 244)
 
 1. **Björn Höcke (SA-Parole „Alles für Deutschland“):**  
    [LTO-Bericht zur Verurteilung und BGH-Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/bgh-verwirft-revision-bjoern-hoecke-sa-parole-alles-fuer-deutschland/)
@@ -487,3 +487,13 @@ Sämtliche Belege liegen physisch im Repository unter [`./urteilsbelege/`](./) i
    [Online-Referenz](https://openjur.de/suche/ZUERSTI%20Ausgabe%2004/2023/)
 239. **(Zeitgeschichte 31/2007) Verfassungsrechtliches Verfahren:**  
    [Online-Referenz](https://openjur.de/suche/Zeitgeschichte%2031/2007/)
+240. **AfD Niedersachsen gegen Verfassungsschutz Niedersachsen (Eilverfahren Hochstufung):**  
+   [Volksverpetzer-Ueberblick Juni 2026](https://volksverpetzer.de/serie/urteile-juni-26-afd-gegen-verfassungsschutz/) / [VG Hannover](https://www.verwaltungsgericht-hannover.niedersachsen.de/)
+241. **AfD Bayern gegen Bayerisches Landesamt fuer Verfassungsschutz (Berufungszulassung):**  
+   [Volksverpetzer-Ueberblick Juni 2026](https://volksverpetzer.de/serie/urteile-juni-26-afd-gegen-verfassungsschutz/) / [Bayerischer VGH](https://www.vgh.bayern.de/)
+242. **AfD Hessen gegen Landesamt fuer Verfassungsschutz Hessen (Hauptsache Verdachtsfall):**  
+   [Volksverpetzer-Ueberblick Juni 2026](https://volksverpetzer.de/serie/urteile-juni-26-afd-gegen-verfassungsschutz/) / [VG Wiesbaden / Hessische Verwaltungsgerichtsbarkeit](https://verwaltungsgerichtsbarkeit.hessen.de/)
+243. **AfD-Kommunalpolitiker gegen Land Berlin (Verbeamtung Kriminalpolizei):**  
+   [Volksverpetzer-Ueberblick Juni 2026](https://volksverpetzer.de/serie/urteile-juni-26-afd-gegen-verfassungsschutz/) / [Land Berlin / VG Berlin](https://www.berlin.de/)
+244. **Antisemitisches Hausverbot-Plakat Flensburg (Volksverhetzung):**  
+   [Volksverpetzer-Ueberblick Juni 2026](https://volksverpetzer.de/serie/urteile-juni-26-afd-gegen-verfassungsschutz/) / [NDR](https://www.ndr.de/)

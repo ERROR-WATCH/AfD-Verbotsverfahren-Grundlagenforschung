@@ -46,7 +46,7 @@ Volltext-Register aller Gerichtsentscheidungen                                  
 
 
                                                      1
-Rechtsbelege & Urteilsregister (239 Fälle)                                               Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                               Stand: Juni 2026
 
 
 
@@ -100,7 +100,7 @@ Volltext-Register aller Gerichtsentscheidungen                                  
          Fall 52: Jessica Bießmann (Parteischiedsgerichtlicher Ausschluss.) . . . . . . . . . . . 38
 
 Forschungsportal AfD-Verbotsverfahren                                                             Seite 2
-Rechtsbelege & Urteilsregister (239 Fälle)                                                   Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                                   Stand: Juni 2026
 
 
 
@@ -155,7 +155,7 @@ Forschungsportal AfD-Verbotsverfahren                                           
 
 
 Forschungsportal AfD-Verbotsverfahren                                                                  Seite 3
-Rechtsbelege & Urteilsregister (239 Fälle)                                             Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                             Stand: Juni 2026
 
 
 
@@ -210,7 +210,7 @@ Forschungsportal AfD-Verbotsverfahren                                           
 
 
 Forschungsportal AfD-Verbotsverfahren                                                            Seite 4
-Rechtsbelege & Urteilsregister (239 Fälle)                                                  Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                                  Stand: Juni 2026
 
 
 
@@ -264,7 +264,7 @@ Forschungsportal AfD-Verbotsverfahren                                           
           Fall 157: (Ausgabe 04/2023) Verfassungsrechtliches Verfahren . . . . . . . . . . . . . 102
 
 Forschungsportal AfD-Verbotsverfahren                                                                Seite 5
-Rechtsbelege & Urteilsregister (239 Fälle)                                               Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                               Stand: Juni 2026
 
 
 
@@ -318,7 +318,7 @@ Forschungsportal AfD-Verbotsverfahren                                           
           Fall 204: (Magazin 4/2025) Verfassungsrechtliches Verfahren . . . . . . . . . . . . . 131
 
 Forschungsportal AfD-Verbotsverfahren                                                             Seite 6
-Rechtsbelege & Urteilsregister (239 Fälle)                                               Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                               Stand: Juni 2026
 
 
 
@@ -371,7 +371,7 @@ Landesvorsitzender).       * [INDIREKT AfD]: Keine formale direkte Parteimitglie
 
 
 Forschungsportal AfD-Verbotsverfahren                                                             Seite 7
-Rechtsbelege & Urteilsregister (239 Fälle)                                Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                Stand: Juni 2026
 
 
 
@@ -387,7 +387,7 @@ Status unklar), jedoch mit messerscharf begründetem AfD-Bezug belassen.
 
 
 Forschungsportal AfD-Verbotsverfahren                                                Seite 8
-Rechtsbelege & Urteilsregister (239 Fälle)                                          Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                          Stand: Juni 2026
 
 
 
@@ -438,7 +438,7 @@ Beweisbedeutung für das Parteiverbotsverfahren: Das Urteil dokumentiert die ras
 
 
 Forschungsportal AfD-Verbotsverfahren                                                        Seite 9
-Rechtsbelege & Urteilsregister (239 Fälle)                                           Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                           Stand: Juni 2026
 
 
 
@@ -489,7 +489,7 @@ wegen-volksverhetzung-verurteilt-lux.Ur8tE9X4q67p6Z
 
 
 Forschungsportal AfD-Verbotsverfahren                                                        Seite 10
-Rechtsbelege & Urteilsregister (239 Fälle)                                           Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                           Stand: Juni 2026
 
 
 
@@ -544,7 +544,7 @@ wegen-gefaehrlicher-koerperverletzung-verurteilt-a-1294857.html
 
 
 Forschungsportal AfD-Verbotsverfahren                                                        Seite 11
-Rechtsbelege & Urteilsregister (239 Fälle)                                            Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                            Stand: Juni 2026
 
 
 
@@ -598,7 +598,7 @@ bundestagsabgeordneter-sebastian-muenzenmeier-beihilfe-koerperverletzung/
 
 
 Forschungsportal AfD-Verbotsverfahren                                                         Seite 12
-Rechtsbelege & Urteilsregister (239 Fälle)                                            Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                            Stand: Juni 2026
 
 
 
@@ -650,7 +650,7 @@ Uwe-Ziegler-AfD-Abgeordneter-wegen-Subventionsbetrugs-verurteilt.html
 
 
 Forschungsportal AfD-Verbotsverfahren                                                         Seite 13
-Rechtsbelege & Urteilsregister (239 Fälle)                                            Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                            Stand: Juni 2026
 
 
 
@@ -705,7 +705,7 @@ AfD-Politiker-wegen-illegalen-Waffenbesitzes-zu-Haftstrafe-verurteilt.html
 
 
 Forschungsportal AfD-Verbotsverfahren                                                         Seite 14
-Rechtsbelege & Urteilsregister (239 Fälle)                                            Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                            Stand: Juni 2026
 
 
 
@@ -759,7 +759,7 @@ che Programmatik und Agitation des einflussreichsten AfD-Landesführers nachweis
 
 
 Forschungsportal AfD-Verbotsverfahren                                                         Seite 15
-Rechtsbelege & Urteilsregister (239 Fälle)                                         Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                         Stand: Juni 2026
 
 
 
@@ -812,7 +812,7 @@ destagswahlprogramm der AfD 2025, S. 125. 3072 BVerfG, Beschl. v. … 1 BvR 471/
 
 
 Forschungsportal AfD-Verbotsverfahren                                                      Seite 16
-Rechtsbelege & Urteilsregister (239 Fälle)                                       Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                       Stand: Juni 2026
 
 
 
@@ -865,7 +865,7 @@ chüsse
 
 
 Forschungsportal AfD-Verbotsverfahren                                                    Seite 17
-Rechtsbelege & Urteilsregister (239 Fälle)                                        Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                        Stand: Juni 2026
 
 
 
@@ -915,7 +915,7 @@ Beatrix von: „Musli…
 
 
 Forschungsportal AfD-Verbotsverfahren                                                     Seite 18
-Rechtsbelege & Urteilsregister (239 Fälle)                                            Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                            Stand: Juni 2026
 
 
 
@@ -968,7 +968,7 @@ Raum
 
 
 Forschungsportal AfD-Verbotsverfahren                                                         Seite 19
-Rechtsbelege & Urteilsregister (239 Fälle)                                         Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                         Stand: Juni 2026
 
 
 
@@ -1019,7 +1019,7 @@ gegen Minderheiten sowie die Unvereinbarkeit mit der FDGO.
 
 
 Forschungsportal AfD-Verbotsverfahren                                                      Seite 20
-Rechtsbelege & Urteilsregister (239 Fälle)                                  Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                  Stand: Juni 2026
 
 
 
@@ -1029,7 +1029,7 @@ Oﬀizielle Quelle / Pressebeleg: https://openjur.de/suche/Silvesternacht%202022
 
 
 Forschungsportal AfD-Verbotsverfahren                                                Seite 21
-Rechtsbelege & Urteilsregister (239 Fälle)                                         Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                         Stand: Juni 2026
 
 
 
@@ -1081,7 +1081,7 @@ Einsatz nachrichtendienstlicher Mittel und liefert den verfassungsrechtlichen Be
 
 
 Forschungsportal AfD-Verbotsverfahren                                                      Seite 22
-Rechtsbelege & Urteilsregister (239 Fälle)                                           Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                           Stand: Juni 2026
 
 
 
@@ -1136,7 +1136,7 @@ polizei-lehrer-ausschluss-afd-verfassungstreue/
 
 
 Forschungsportal AfD-Verbotsverfahren                                                        Seite 23
-Rechtsbelege & Urteilsregister (239 Fälle)                                          Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                          Stand: Juni 2026
 
 
 
@@ -1186,7 +1186,7 @@ bund-thomas-seitz-afd-entlassung-richter-staatsanwalt/
 
 
 Forschungsportal AfD-Verbotsverfahren                                                       Seite 24
-Rechtsbelege & Urteilsregister (239 Fälle)                                          Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                          Stand: Juni 2026
 
 
 
@@ -1238,7 +1238,7 @@ dacht, hohe Summen aus Russland erhalten zu haben, um pro-russische Propaganda i
 
 
 Forschungsportal AfD-Verbotsverfahren                                                       Seite 25
-Rechtsbelege & Urteilsregister (239 Fälle)                                        Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                        Stand: Juni 2026
 
 
 
@@ -1291,7 +1291,7 @@ letzung).)
 
 
 Forschungsportal AfD-Verbotsverfahren                                                     Seite 26
-Rechtsbelege & Urteilsregister (239 Fälle)                                         Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                         Stand: Juni 2026
 
 
 
@@ -1345,7 +1345,7 @@ Wahlkampf.)
 
 
 Forschungsportal AfD-Verbotsverfahren                                                      Seite 27
-Rechtsbelege & Urteilsregister (239 Fälle)                                          Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                          Stand: Juni 2026
 
 
 
@@ -1386,7 +1386,7 @@ kreisrat-sven-ebert-strafbefehl-akzeptiert-3721983
 
 
 Forschungsportal AfD-Verbotsverfahren                                                         Seite 28
-Rechtsbelege & Urteilsregister (239 Fälle)                                            Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                            Stand: Juni 2026
 
 
 
@@ -1439,13 +1439,13 @@ versetzung-in-ruhestand-richter-jens-maier-afd/
 
 
 Forschungsportal AfD-Verbotsverfahren                                                         Seite 29
-Rechtsbelege & Urteilsregister (239 Fälle)   Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)   Stand: Juni 2026
 
 
 
 
 Forschungsportal AfD-Verbotsverfahren                Seite 30
-Rechtsbelege & Urteilsregister (239 Fälle)                                            Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                            Stand: Juni 2026
 
 
 
@@ -1498,7 +1498,7 @@ Oﬀizielle Quelle / Pressebeleg:              https://www.tagesspiegel.de/berli
 
 
 Forschungsportal AfD-Verbotsverfahren                                                         Seite 31
-Rechtsbelege & Urteilsregister (239 Fälle)                                            Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                            Stand: Juni 2026
 
 
 
@@ -1554,7 +1554,7 @@ Fall 40: Jan-Ulrich Weiß (Haft auf Bewährung wegen Zigarettenschmuggels.)
 
 
 Forschungsportal AfD-Verbotsverfahren                                                         Seite 32
-Rechtsbelege & Urteilsregister (239 Fälle)                                           Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                           Stand: Juni 2026
 
 
 
@@ -1608,7 +1608,7 @@ und haben die Aufgabe, das deutsche Volk klein zu halten.“
 
 
 Forschungsportal AfD-Verbotsverfahren                                                        Seite 33
-Rechtsbelege & Urteilsregister (239 Fälle)                                          Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                          Stand: Juni 2026
 
 
 
@@ -1661,7 +1661,7 @@ Code-Bereich.
 
 
 Forschungsportal AfD-Verbotsverfahren                                                       Seite 34
-Rechtsbelege & Urteilsregister (239 Fälle)                                         Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                         Stand: Juni 2026
 
 
 
@@ -1716,7 +1716,7 @@ Annahme illegaler Finanzströme aus Russland und illegale Reisen im besetzten Do
 
 
 Forschungsportal AfD-Verbotsverfahren                                                      Seite 35
-Rechtsbelege & Urteilsregister (239 Fälle)                                        Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                        Stand: Juni 2026
 
 
 
@@ -1734,7 +1734,7 @@ deutschen Außen- und Verfassungspolitik.
 
 
 Forschungsportal AfD-Verbotsverfahren                                                     Seite 36
-Rechtsbelege & Urteilsregister (239 Fälle)                                           Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                           Stand: Juni 2026
 
 
 
@@ -1786,7 +1786,7 @@ separatisten-rechtsextremismus-festnahmen-sachsen-100.html
 
 
 Forschungsportal AfD-Verbotsverfahren                                                        Seite 37
-Rechtsbelege & Urteilsregister (239 Fälle)                                        Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                        Stand: Juni 2026
 
 
 
@@ -1840,7 +1840,7 @@ Fall 52: Jessica Bießmann (Parteischiedsgerichtlicher Ausschluss.)
 
 
 Forschungsportal AfD-Verbotsverfahren                                                     Seite 38
-Rechtsbelege & Urteilsregister (239 Fälle)                                          Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                          Stand: Juni 2026
 
 
 
@@ -1894,7 +1894,7 @@ Volksverhetzung im Internet verurteilt.      Er hatte in den sozialen Netzwerken
 
 
 Forschungsportal AfD-Verbotsverfahren                                                       Seite 39
-Rechtsbelege & Urteilsregister (239 Fälle)                                       Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                       Stand: Juni 2026
 
 
 
@@ -1948,7 +1948,7 @@ desvorstands der Jungen Alternative (JA), wurde wegen des Zeigens verbotener nat
 
 
 Forschungsportal AfD-Verbotsverfahren                                                    Seite 40
-Rechtsbelege & Urteilsregister (239 Fälle)                                          Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                          Stand: Juni 2026
 
 
 
@@ -2002,7 +2002,7 @@ ntwerden der Vorwürfe von seinen Parteiämtern zurück.
 
 
 Forschungsportal AfD-Verbotsverfahren                                                       Seite 41
-Rechtsbelege & Urteilsregister (239 Fälle)                                         Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                         Stand: Juni 2026
 
 
 
@@ -2056,7 +2056,7 @@ Finanzführung eines Landesverbandes.
 
 
 Forschungsportal AfD-Verbotsverfahren                                                      Seite 42
-Rechtsbelege & Urteilsregister (239 Fälle)                                         Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                         Stand: Juni 2026
 
 
 
@@ -2068,7 +2068,7 @@ schatzmeister-stefan-beck-wegen-untreue-rechtskraeftig-verurteilt-a-df87e2c3-4d4
 
 
 Forschungsportal AfD-Verbotsverfahren                                                      Seite 43
-Rechtsbelege & Urteilsregister (239 Fälle)                                            Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                            Stand: Juni 2026
 
 
 
@@ -2120,7 +2120,7 @@ Bundesverwaltungsgericht wies die Klagen der AfD letztinstanzlich ab und bestät
 
 
 Forschungsportal AfD-Verbotsverfahren                                                          Seite 44
-Rechtsbelege & Urteilsregister (239 Fälle)                                            Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                            Stand: Juni 2026
 
 
 
@@ -2174,7 +2174,7 @@ Heinrich XIII. Prinz Reuß.)
 
 
 Forschungsportal AfD-Verbotsverfahren                                                         Seite 45
-Rechtsbelege & Urteilsregister (239 Fälle)                                        Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                        Stand: Juni 2026
 
 
 
@@ -2228,7 +2228,7 @@ aratisten“, § 129a StGB).)
 
 
 Forschungsportal AfD-Verbotsverfahren                                                     Seite 46
-Rechtsbelege & Urteilsregister (239 Fälle)                                        Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                        Stand: Juni 2026
 
 
 
@@ -2281,7 +2281,7 @@ pornografie (§ 184b StGB). Status: Laufendes Ermittlungsverfahren (Bekanntwerde
 
 
 Forschungsportal AfD-Verbotsverfahren                                                     Seite 47
-Rechtsbelege & Urteilsregister (239 Fälle)                                            Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                            Stand: Juni 2026
 
 
 
@@ -2333,7 +2333,7 @@ immunitaet-auf-razzia-bei-afd-abgeordnetem-bystron-geldwaesche/
 
 
 Forschungsportal AfD-Verbotsverfahren                                                         Seite 48
-Rechtsbelege & Urteilsregister (239 Fälle)                                              Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                              Stand: Juni 2026
 
 
 
@@ -2384,7 +2384,7 @@ Beweisbedeutung für das Parteiverbotsverfahren: Dient als Beweis für die gezie
 
 
 Forschungsportal AfD-Verbotsverfahren                                                           Seite 49
-Rechtsbelege & Urteilsregister (239 Fälle)                                       Stand: Juni 2026
+Rechtsbelege & Urteilsregister (244 Fälle)                                       Stand: Juni 2026
 
 
 

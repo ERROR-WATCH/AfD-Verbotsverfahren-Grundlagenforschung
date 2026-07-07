@@ -468,3 +468,29 @@ Dieses Dokument ist eine umfassende Zusammenstellung gerichtlicher Urteile, rech
 80. **Strafzahlungen wegen illegaler Parteispenden (BVerwG):**
     - **Urteil:** Klagen der AfD gegen die Festsetzung von Strafen von über **1,08 Millionen Euro** durch die Bundestagsverwaltung wegen Annahme illegaler Auslandsspenden abgewiesen.
     - **Quelle/Beleg:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/21_AfD_Strafzahlungen_Spendenaffaere_BVerwG.md)
+
+81. **AfD Niedersachsen gegen Verfassungsschutz Niedersachsen:**
+    - **Partei-Status:** 🔴 **DIREKT AfD** (Landesverband Niedersachsen).
+    - **Urteil/Beschluss:** VG Hannover lehnt den Eilantrag gegen die Hochstufung durch den niedersächsischen Verfassungsschutz ab.
+    - **Quelle/Beleg:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/240_AfD_Niedersachsen_Verfassungsschutz_VG_Hannover.md)
+
+82. **AfD Bayern gegen Bayerisches Landesamt für Verfassungsschutz:**
+    - **Partei-Status:** 🔴 **DIREKT AfD** (Landesverband Bayern).
+    - **Urteil/Beschluss:** Bayerischer VGH lehnt die Zulassung der Berufung gegen die verfassungsschutzrechtliche Einstufung ab.
+    - **Quelle/Beleg:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/241_AfD_Bayern_Verfassungsschutz_VGH_Bayern.md)
+
+83. **AfD Hessen gegen Landesamt für Verfassungsschutz Hessen:**
+    - **Partei-Status:** 🔴 **DIREKT AfD** (Landesverband Hessen).
+    - **Urteil/Beschluss:** VG Wiesbaden bestätigt in der Hauptsache die Einstufung als Verdachtsfall.
+    - **Quelle/Beleg:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/242_AfD_Hessen_Verfassungsschutz_VG_Wiesbaden.md)
+
+84. **AfD-Kommunalpolitiker gegen Land Berlin:**
+    - **Partei-Status:** 🔴 **DIREKT AfD** (Kommunalpolitiker mit AfD-Bezug).
+    - **Urteil/Beschluss:** VG Berlin sieht keinen Anspruch auf Verbeamtung beziehungsweise Einstellung in die Kriminalpolizei bei fehlender verfassungsrechtlicher Eignung.
+    - **Quelle/Beleg:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/243_AfD_Kommunalpolitiker_Verbeamtung_Kriminalpolizei_VG_Berlin.md)
+
+85. **Antisemitisches Hausverbot-Plakat Flensburg:**
+    - **Partei-Status:** 🔵 **INDIREKT AfD** (Kontextfall aus dem Juni-2026-Urteilsüberblick mit Rechtsextremismus-/Volksverhetzungsbezug).
+    - **Urteil:** AG Flensburg verurteilt wegen Volksverhetzung zu sechs Monaten Bewährung und 1.200 Euro Geldauflage an eine KZ-Gedenkstätte.
+    - **Quelle/Beleg:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/244_Antisemitisches_Plakat_Flensburg_AG_Flensburg.md)
+
