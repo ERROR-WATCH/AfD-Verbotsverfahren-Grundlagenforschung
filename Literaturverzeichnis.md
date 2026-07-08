@@ -46,6 +46,8 @@
 
 * **Correctiv**. (2024). *Geheimplan gegen Deutschland* (10.01.2024).&#x20;
 * **MDR Investigativ**. (2025). *Thüringer Chat-Leaks: Die “Patriotic Platform” der AfD* (14.04.2025).&#x20;
+* **Campact / Quent, M.** (2026). *Umgang mit der AfD: Kämpfen oder fliehen?* (31.03.2026).
+* **DER SPIEGEL / dpa / AFP**. (2026). *AfD-Dachorganisation: EU-Parlament stimmt für Prüfverfahren gegen rechtsextreme ESN* (07.07.2026).
 * **Reuters**. (2025). Russian disinformation targets German election campaign, says think-tank.&#x20;
 * **Tagesschau.de**. (2023). *AfD attackiert “Systemmedien”* (28.02.2023).&#x20;
 * **Deutschlandfunk**. (2025). *AfD hinterlegt 2,35 Mio € wegen illegaler Spende* (08.07.2025).&#x20;

@@ -91,6 +91,10 @@ INSA-Umfrage im Auftrag der BILD am SONNTAG (n≈1 001, 3.–5. Mai 2025)[http
 
 MDR Investigativ: Thüringer Chat-Leaks (14. Apr. 2025)[https://www.mdr.de/investigativ/chat-leaks-afd-thueringen-100.html](https://www.mdr.de/investigativ/chat-leaks-afd-thueringen-100.html)
 
+Campact/Matthias Quent: Umgang mit der AfD: Kämpfen oder fliehen? (31. März 2026)[https://www.campact.de/blog/2026/03/umgang-mit-der-afd-rechtsextreme-studie/](https://www.campact.de/blog/2026/03/umgang-mit-der-afd-rechtsextreme-studie/)
+
+DER SPIEGEL: AfD-Dachorganisation: EU-Parlament stimmt für Prüfverfahren gegen rechtsextreme ESN (07. Juli 2026)[https://www.spiegel.de/politik/eu-parlament-stimmt-fuer-pruefverfahren-gegen-rechtspopulistische-esn-a-f4bef86a-0d0b-451f-b55a-c8824091ab55](https://www.spiegel.de/politik/eu-parlament-stimmt-fuer-pruefverfahren-gegen-rechtspopulistische-esn-a-f4bef86a-0d0b-451f-b55a-c8824091ab55)
+
 Reuters: BfV stellt AfD als gesichert rechtsextremistische Bestrebung ein (02. Mai 2025)[https://www.reuters.com/world/europe/germany-security-agency-labels-afd-extremist-2025-05-02/](https://www.reuters.com/world/europe/germany-security-agency-labels-afd-extremist-2025-05-02/)
 
 The Guardian: Germany labels AfD extremist (03. Mai 2025)[https://www.theguardian.com/world/2025/may/03/germany-afd-security-service-extremist](https://www.theguardian.com/world/2025/may/03/germany-afd-security-service-extremist)
