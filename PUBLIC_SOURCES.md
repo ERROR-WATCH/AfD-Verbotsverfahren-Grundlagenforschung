@@ -80,7 +80,7 @@ Diese Datei listet alle frei verfügbaren Dokumente und Links, die für die Klag
 
 * **juris (BVerfGE 123, 267 ff.)**
   [https://www.juris.de/jportal/?quelle=jlink\&query=BVerfGE+123%2C267](https://www.juris.de/jportal/?quelle=jlink&query=BVerfGE+123%2C267)
-  
+
 ## Ergänzende Quellen aus Deep Research
 
 Campact-Petition für Verbotsverfahren gegen rechtsextreme Landesverbände[https://www.campact.de/afd-verbotsverfahren/petition](https://www.campact.de/afd-verbotsverfahren/petition)
@@ -527,3 +527,19 @@ Ergaenzend zu den bereits vorhandenen PDFs wurden diese Volltexte fuer Deep-Rese
 - Hessen 2024 / JA Hessen: `dokumente/ki_markdown/dokumente/splits/lfv_jahresbericht_2024_part3_51-75.md` bzw. `dokumente/splits/lfv_jahresbericht_2024_part3_51-75.pdf`.
 - Ogorek, Markus: `Rechtswissenschaftliche Untersuchung der Bedeutung des Gutachtens des Bundesamtes fuer Verfassungsschutz ueber die Einstufung der Alternative fuer Deutschland als gesichert rechtsextremistisch fuer ein moegliches gegen die Partei gerichtetes Verbotsverfahren`, Koeln, 15.08.2025; lokale Splits: `dokumente/ki_markdown/dokumente/splits/untersuchung_bfv_gutachten_split_1_sachverhalt_und_vfs.md` bis `..._split_6_belege_islamfeindlichkeit_bewertung.md`.
 
+## Nachtrag Urteilsregister 245-257 / Kontextquelle n-tv 2019
+- 248. Ingo Hahn (AG München, manipuliertes Landtagsvideo 2025): [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/248_Ingo_Hahn_Urheberrecht_AG_Muenchen_2025.md) | [Online-Quelle](https://www.welt.de/regionales/bayern/article6900d3564876ac87d158cdba/afd-abgeordneter-hahn-zu-4-800-euro-geldstrafe-verurteilt.html)
+- 249. Gunnar Beck (Titelmissbrauch AG Neuss / LG Düsseldorf): [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/249_Gunnar_Beck_Titelmissbrauch_AG_Neuss_LG_Duesseldorf.md) | [Online-Quelle](https://www.welt.de/239350569)
+- 250. Gunnar Beck (Widerstand gegen Vollstreckungsbeamte AG Neuss 2025): [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/250_Gunnar_Beck_Widerstand_AG_Neuss_2025.md) | [Online-Quelle](https://www.welt.de/article6926ffd6bf07554e4577b9a9)
+- 251. Siegbert Droese (Beleidigung AG Dresden 2024): [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/251_Siegbert_Droese_Beleidigung_AG_Dresden_2024.md) | [Online-Quelle](https://www.welt.de/regionales/sachsen/article6a4d16f2dfc0c82fa290942b/eu-parlament-hebt-immunitaet-von-afd-politiker-droese-auf.html)
+- 252. Wilko Möller (Hitlergruß-ähnliches Wahlplakat LG Frankfurt/Oder 2026): [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/252_Wilko_Moeller_Hitlergruss_Plakat_LG_Frankfurt_Oder_2026.md) | [Online-Quelle](https://www.welt.de/regionales/berlin/article6994912275f52fc0c39fc484/hitlergruss-auf-wahlplakat-afd-politiker-muss-strafe-zahlen.html)
+- 253. Petr Bystron (Hitlergruß-Collage AG/LG München 2025/2026): [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/253_Petr_Bystron_Hitlergruss_Collage_AG_LG_Muenchen_2025_2026.md) | [Online-Quelle](https://www.welt.de/regionales/bayern/article69fc81420696bba25ef31ce6/hitlergruss-collage-afd-mann-bystron-freigesprochen.html)
+- 254. AfD/Bundestagsverwaltung Millionenspende (VG Berlin 2026): [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/254_AfD_Millionenspende_VG_Berlin_2026.md) | [Online-Quelle](https://www.welt.de/regionales/berlin/article69fc95a6cd4a28c47001fc56/gericht-bundestag-muss-afd-spende-nicht-zurueckzahlen.html)
+- 255. AfD Thüringen/Parlamentarische Kontrollkommission (VerfGH Thüringen 2026): [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/255_AfD_Thueringen_Parlamentarische_Kontrollkommission_VerfGH_2026.md) | [Online-Quelle](https://www.welt.de/regionales/thueringen/article6a44d302f027d323739633c8/gericht-afd-klage-zur-verfassungsschutzkontrolle-unzulaessig.html)
+- 256. AfD Berlin/Untersuchungsausschuss-Sitz (VerfGH Berlin 2026): [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/256_AfD_Berlin_Untersuchungsausschuss_VerfGH_2026.md) | [Online-Quelle](https://www.welt.de/article69aeb23228206c8e00ed41ee)
+- 257. Schülerpraktikum bei AfD-Abgeordnetem (OVG Berlin-Brandenburg 2026): [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/257_Schuelerpraktikum_AfD_OVG_Berlin_Brandenburg_2026.md) | [Online-Quelle](https://www.welt.de/article696a5b0af3f350a68710b258)
+- Kontext: n-tv / Forsa 2019: [Lokaler Beleg](./dokumente/hauptquellen/ntv_AfD_Waehler_Gesinnung_2019.md) | [Online-Quelle](https://www.n-tv.de/politik/Umfrage-zeigt-Gesinnung-vieler-AfD-Waehler-article21426963.html)
+
+- 258. Christian Zorn (Freispruch AG Stralsund 2026): [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/258_Christian_Zorn_Freispruch_AG_Stralsund_2026.md) | [Online-Quelle](https://www.welt.de/regionales/mecklenburg-vorpommern/article69e786caff0951f41af8e88f/afd-mann-zorn-von-betrugsvorwurf-freigesprochen.html)
+- 259. AfD Bundespartei: vorläufig keine Einstufung als gesichert rechtsextrem (VG Köln 2026): [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/259_AfD_Bundespartei_Gesichert_Rechtsextrem_VG_Koeln_2026.md) | [Online-Quelle](https://www.bild.de/politik/inland/gerichts-hammer-afd-darf-nicht-als-gesichert-rechtsextrem-eingestuft-werden-69a051952cfe24517f7c9f85)
+- Urteil/Quelle 260: AfD/Facebook-Werbung, VG Berlin 2026: [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/260_AfD_Facebook_Werbung_Datenschutz_VG_Berlin_2026.md) | [Online-Quelle](https://www.welt.de/regionales/berlin/article69b194f29276d101b4c85b9f/gericht-afd-muss-daten-zu-facebook-werbung-offenlegen.html)

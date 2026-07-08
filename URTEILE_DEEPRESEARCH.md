@@ -494,3 +494,118 @@ Dieses Dokument ist eine umfassende Zusammenstellung gerichtlicher Urteile, rech
     - **Urteil:** AG Flensburg verurteilt wegen Volksverhetzung zu sechs Monaten Bewährung und 1.200 Euro Geldauflage an eine KZ-Gedenkstätte.
     - **Quelle/Beleg:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/244_Antisemitisches_Plakat_Flensburg_AG_Flensburg.md)
 
+86. **Ralf Stadler (Strafbefehl AG München 2020):**
+    - **Partei-Status:** 🔴 **DIREKT AfD** (Bayerischer Landtagsabgeordneter).
+    - **Urteil/Entscheidung:** Rechtskräftiger Strafbefehl über 60 Tagessätze wegen unerlaubter Verwertung urheberrechtlich geschützter Werke in Tateinheit mit Verstoß gegen das Kunsturhebergesetz und Verleumdung gegen eine Person des politischen Lebens.
+    - **Quelle/Beleg:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/245_Ralf_Stadler_Strafbefehl_AG_Muenchen_2020.md)
+
+87. **Ralf Stadler (Waffenbesitzkarte VG Regensburg 2022):**
+    - **Partei-Status:** 🔴 **DIREKT AfD** (Bayerischer Landtagsabgeordneter).
+    - **Urteil/Entscheidung:** VG Regensburg weist Stadlers Klage gegen den Entzug seiner Waffenbesitzkarte ab; der rechtskräftige Strafbefehl über 60 Tagessätze trägt die waffenrechtliche Regelvermutung fehlender Zuverlässigkeit.
+    - **Quelle/Beleg:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/246_Ralf_Stadler_Waffenbesitzkarte_VG_Regensburg_2022.md)
+
+88. **Ralf Stadler (Volksverhetzung/Gewaltdarstellung 2026):**
+    - **Partei-Status:** 🔴 **DIREKT AfD** (Bayerischer Landtagsabgeordneter).
+    - **Urteil/Entscheidung:** Nach Buergerblick-Bericht Geldstrafe von 160 Tagessätzen zu je 165 Euro, insgesamt 26.400 Euro, wegen Volksverhetzung, Gewaltdarstellung und Verletzung von Persönlichkeitsrechten; Berufung angekündigt, daher als nicht rechtskräftig zu führen.
+    - **Quelle/Beleg:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/247_Ralf_Stadler_Volksverhetzung_AG_2026.md)
+
+89. **Ingo Hahn (AG München, manipuliertes Landtagsvideo 2025):**
+    - **Gericht/Instanz:** Amtsgericht München; 2025
+    - **Gegenstand:** Urheberrechtsverstoss / ungenehmigte und manipulierte Landtagsvideo-Veröffentlichung
+    - **Entscheidung:** Geldstrafe von 4.800 Euro; Rechtskraft gesondert prüfen.
+    - **Status:** Strafgerichtliches Urteil; DIREKT AfD - ehem. MdL Bayern / MdB
+    - **Quelle/Beleg:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/248_Ingo_Hahn_Urheberrecht_AG_Muenchen_2025.md) | [Online-Quelle](https://www.welt.de/regionales/bayern/article6900d3564876ac87d158cdba/afd-abgeordneter-hahn-zu-4-800-euro-geldstrafe-verurteilt.html)
+
+
+90. **Gunnar Beck (Titelmissbrauch AG Neuss / LG Düsseldorf):**
+    - **Gericht/Instanz:** AG Neuss / LG Düsseldorf; 2022/2024
+    - **Gegenstand:** Titelmissbrauch durch unzutreffende Professorenbezeichnung
+    - **Entscheidung:** AG Neuss: Geldstrafe 9.200 Euro; LG Düsseldorf am 20.12.2024: Verwarnung mit Strafvorbehalt und Zahlung von 500 Euro nach Geständnis und langer Verfahrensdauer.
+    - **Status:** Strafgerichtliches Urteil / Berufungsentscheidung; DIREKT AfD - Ex-MdEP
+    - **Quelle/Beleg:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/249_Gunnar_Beck_Titelmissbrauch_AG_Neuss_LG_Duesseldorf.md) | [Online-Quelle](https://www.welt.de/239350569)
+
+
+91. **Gunnar Beck (Widerstand gegen Vollstreckungsbeamte AG Neuss 2025):**
+    - **Gericht/Instanz:** Amtsgericht Neuss; 26.11.2025
+    - **Gegenstand:** Widerstand gegen Vollstreckungsbeamte
+    - **Entscheidung:** Geldstrafe von 3.600 Euro; Diebstahl- und Körperverletzungsvorwürfe nach Absprache eingestellt.
+    - **Status:** Strafgerichtliches Urteil; DIREKT AfD - Ex-MdEP
+    - **Quelle/Beleg:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/250_Gunnar_Beck_Widerstand_AG_Neuss_2025.md) | [Online-Quelle](https://www.welt.de/article6926ffd6bf07554e4577b9a9)
+
+
+92. **Siegbert Droese (Beleidigung AG Dresden 2024):**
+    - **Gericht/Instanz:** Amtsgericht Dresden; April 2024
+    - **Gegenstand:** Beleidigung eines Journalisten
+    - **Entscheidung:** Geldstrafe; Berufung seit Mai 2024 anhängig, EU-Parlament hob am 07.07.2026 Immunität für Berufungsverfahren auf.
+    - **Status:** Strafgerichtliches Urteil, nicht rechtskräftig; DIREKT AfD - MdEP / Ex-MdB
+    - **Quelle/Beleg:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/251_Siegbert_Droese_Beleidigung_AG_Dresden_2024.md) | [Online-Quelle](https://www.welt.de/regionales/sachsen/article6a4d16f2dfc0c82fa290942b/eu-parlament-hebt-immunitaet-von-afd-politiker-droese-auf.html)
+
+
+93. **Wilko Möller (Hitlergruß-ähnliches Wahlplakat LG Frankfurt/Oder 2026):**
+    - **Gericht/Instanz:** Landgericht Frankfurt (Oder); Februar 2026
+    - **Gegenstand:** Verwenden von Kennzeichen verfassungswidriger Organisationen
+    - **Entscheidung:** Geldstrafe von 11.600 Euro; Revision angekündigt, daher nicht rechtskräftig.
+    - **Status:** Strafgerichtliches Urteil, nicht rechtskräftig; DIREKT AfD - MdL Brandenburg
+    - **Quelle/Beleg:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/252_Wilko_Moeller_Hitlergruss_Plakat_LG_Frankfurt_Oder_2026.md) | [Online-Quelle](https://www.welt.de/regionales/berlin/article6994912275f52fc0c39fc484/hitlergruss-auf-wahlplakat-afd-politiker-muss-strafe-zahlen.html)
+
+
+94. **Petr Bystron (Hitlergruß-Collage AG/LG München 2025/2026):**
+    - **Gericht/Instanz:** AG München / LG München I; 2025/2026
+    - **Gegenstand:** Vorwurf des Verwendens verfassungswidriger Kennzeichen durch Fotocollage
+    - **Entscheidung:** AG München: 90 Tagessätze zu 125 Euro; LG München I hob das Urteil im Mai 2026 auf und sprach Bystron frei. Nicht als bestehende Verurteilung zählen.
+    - **Status:** Aufgehobenes Strafurteil / Freispruch; DIREKT AfD - MdEP / MdB
+    - **Quelle/Beleg:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/253_Petr_Bystron_Hitlergruss_Collage_AG_LG_Muenchen_2025_2026.md) | [Online-Quelle](https://www.welt.de/regionales/bayern/article69fc81420696bba25ef31ce6/hitlergruss-collage-afd-mann-bystron-freigesprochen.html)
+
+
+95. **AfD/Bundestagsverwaltung Millionenspende (VG Berlin 2026):**
+    - **Gericht/Instanz:** Verwaltungsgericht Berlin; 07.05.2026
+    - **Gegenstand:** Parteienfinanzierung / unzulässige Zuwendung / Strohmannspende
+    - **Entscheidung:** VG Berlin entschied, dass die Bundestagsverwaltung rund 2,3 Mio. Euro nicht an die AfD zurückzahlen muss; Berufung zum OVG eingelegt.
+    - **Status:** Verwaltungsgerichtliche Entscheidung; DIREKT AfD - Bundespartei
+    - **Quelle/Beleg:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/254_AfD_Millionenspende_VG_Berlin_2026.md) | [Online-Quelle](https://www.welt.de/regionales/berlin/article69fc95a6cd4a28c47001fc56/gericht-bundestag-muss-afd-spende-nicht-zurueckzahlen.html)
+
+
+96. **AfD Thüringen/Parlamentarische Kontrollkommission (VerfGH Thüringen 2026):**
+    - **Gericht/Instanz:** Thüringer Verfassungsgerichtshof; Juli 2026
+    - **Gegenstand:** Organstreit / Besetzung der Parlamentarischen Kontrollkommission
+    - **Entscheidung:** Klage der AfD-Fraktion wegen Fristversäumnis als unzulässig abgewiesen; inhaltliche Entscheidung offen.
+    - **Status:** Verfassungsgerichtliche Entscheidung; DIREKT AfD - Landtagsfraktion Thüringen
+    - **Quelle/Beleg:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/255_AfD_Thueringen_Parlamentarische_Kontrollkommission_VerfGH_2026.md) | [Online-Quelle](https://www.welt.de/regionales/thueringen/article6a44d302f027d323739633c8/gericht-afd-klage-zur-verfassungsschutzkontrolle-unzulaessig.html)
+
+
+97. **AfD Berlin/Untersuchungsausschuss-Sitz (VerfGH Berlin 2026):**
+    - **Gericht/Instanz:** Verfassungsgerichtshof Berlin; 2026
+    - **Gegenstand:** Organstreit / Ausschussbesetzung
+    - **Entscheidung:** Eilantrag der AfD-Fraktion auf Sitz im Untersuchungsausschuss zur Fördermittelvergabe im Antisemitismusbereich abgewiesen.
+    - **Status:** Verfassungsgerichtliche Eilentscheidung; DIREKT AfD - Fraktion Berlin
+    - **Quelle/Beleg:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/256_AfD_Berlin_Untersuchungsausschuss_VerfGH_2026.md) | [Online-Quelle](https://www.welt.de/article69aeb23228206c8e00ed41ee)
+
+
+98. **Schülerpraktikum bei AfD-Abgeordnetem (OVG Berlin-Brandenburg 2026):**
+    - **Gericht/Instanz:** OVG Berlin-Brandenburg; 16.01.2026
+    - **Gegenstand:** Schulrecht / pädagogischer Gestaltungsspielraum / AfD-Brandenburg-Kontext
+    - **Entscheidung:** OVG bestätigte, dass eine Schule ein Schülerpraktikum bei einem AfD-Bundestagsabgeordneten mit Landesvorstandsbezug zur AfD Brandenburg verweigern durfte; Beschluss unanfechtbar.
+    - **Status:** Verwaltungsgerichtliche Entscheidung; DIREKT AfD - Abgeordneten-/Landesverbandsbezug
+    - **Quelle/Beleg:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/257_Schuelerpraktikum_AfD_OVG_Berlin_Brandenburg_2026.md) | [Online-Quelle](https://www.welt.de/article696a5b0af3f350a68710b258)
+99. **Christian Zorn (Freispruch AG Stralsund 2026):**
+    - **Gericht/Instanz:** Amtsgericht Stralsund / Zweigstelle Bergen auf Rügen; 21.04.2026
+    - **Gegenstand:** Betrugsvorwurf im Zusammenhang mit einer Autoreparatur
+    - **Entscheidung:** Freispruch; Entscheidung nach Bericht noch nicht rechtskräftig. Weiteres Betrugsverfahren anhängig, ohne Urteil.
+    - **Status:** Strafgerichtlicher Freispruch, nicht rechtskräftig; DIREKT AfD - Kreistag / Stadtvertretung / Landesvorstand Mecklenburg-Vorpommern
+    - **Quelle/Beleg:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/258_Christian_Zorn_Freispruch_AG_Stralsund_2026.md) | [Online-Quelle](https://www.welt.de/regionales/mecklenburg-vorpommern/article69e786caff0951f41af8e88f/afd-mann-zorn-von-betrugsvorwurf-freigesprochen.html)
+
+100. **AfD Bundespartei: vorläufig keine Einstufung als gesichert rechtsextrem (VG Köln 2026):**
+    - **Gericht/Instanz:** Verwaltungsgericht Köln; 26.02.2026
+    - **Gegenstand:** Eilrechtsschutz gegen BfV-Einstufung der Bundes-AfD als gesichert rechtsextremistische Bestrebung
+    - **Entscheidung:** VG Köln untersagte dem BfV vorläufig, die AfD bis zur Hauptsacheentscheidung als gesichert rechtsextremistisch einzustufen und zu behandeln; Verdachtsfall bleibt davon getrennt.
+    - **Status:** Verwaltungsgerichtlicher Eilbeschluss; DIREKT AfD - Bundespartei
+    - **Quelle/Beleg:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/259_AfD_Bundespartei_Gesichert_Rechtsextrem_VG_Koeln_2026.md) | [Online-Quelle](https://www.bild.de/politik/inland/gerichts-hammer-afd-darf-nicht-als-gesichert-rechtsextrem-eingestuft-werden-69a051952cfe24517f7c9f85)
+
+
+
+101. **AfD/Facebook-Werbung: Auskunftspflicht gegenüber Datenschutzbeauftragter (VG Berlin 2026):**
+    - **Gericht/Instanz:** Verwaltungsgericht Berlin; 11.03.2026
+    - **Gegenstand:** Datenschutzrecht / DSGVO-Auskunftspflicht / Political Targeting im Bundestagswahlkampf 2021
+    - **Entscheidung:** Klage der AfD gegen Auskunftsverlangen der Berliner Datenschutzbeauftragten abgewiesen; AfD muss Angaben zu Facebook-/Social-Media-Werbung machen.
+    - **Status:** Verwaltungsgerichtliches Urteil, nach Berichterstattung nicht rechtskräftig; DIREKT AfD - Bundespartei
+    - **Quelle/Beleg:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/260_AfD_Facebook_Werbung_Datenschutz_VG_Berlin_2026.md) | [Online-Quelle](https://www.welt.de/regionales/berlin/article69b194f29276d101b4c85b9f/gericht-afd-muss-daten-zu-facebook-werbung-offenlegen.html)
