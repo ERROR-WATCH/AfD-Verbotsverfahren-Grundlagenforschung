@@ -23,7 +23,7 @@ Wichtig fuer die Darstellung im Repo:
 
 ## 2. Mitglieder- und Personenpotenzial
 
-Die neuere Berichterstattung zum Verfassungsschutzbericht 2025 nennt rund **70.000 AfD-Mitglieder** und davon etwa **28.000 Personen**, die der Verfassungsschutz dem rechtsextremistischen Potenzial zurechnet. Das entspricht etwa **40 Prozent** der Mitgliedschaft.
+Die neuere Berichterstattung zum Verfassungsschutzbericht 2025 nennt rund **70.000 AfD-Mitglieder** und davon etwa **28.000 Personen**, die der Verfassungsschutz dem rechtsextremistischen Potenzial zurechnet. Das entspricht etwa **40 Prozent** der Mitgliedschaft. n-tv berichtet dies unter Berufung auf den Jahresbericht des BfV und nennt zugleich bundesweit **58.700** Personen im rechtsextremistischen Personenpotenzial.
 
 Diese Zahl ist als Schaetzung/Behoerdenbewertung zu fuehren, nicht als strafrechtliche Individualfeststellung. Sie bezeichnet ein rechtsextremistisches Personenpotenzial im verfassungsschutzrechtlichen Sinn.
 
@@ -96,6 +96,7 @@ Der Begriff "Nazi" sollte nur bei Zitaten, historischen NS-Bezuegen, Neonazi-Mil
 - Wikipedia: Liste rechtsextremer und neonazistischer Vorfaelle in der AfD: https://de.wikipedia.org/wiki/Liste_rechtsextremer_und_neonazistischer_Vorf%C3%A4lle_in_der_AfD
 - Tagesspiegel: AfD soll mehr als 100 Rechtsextremisten im Bundestag beschaeftigen, 12.03.2024: https://www.tagesspiegel.de/politik/recherche-belastet-auch-weidel-und-chrupalla-afd-soll-mehr-als-100-rechtsextremisten-im-bundestag-beschaftigen-11315497.html
 - taz: Studie vergleicht NS- und AfD-Hochburgen, 2019: https://taz.de/Studie-vergleicht-NS--und-AfD-Hochburgen/!5577189/
+- n-tv/dpa/rts: Großer Teil der AfD-Mitglieder soll rechtsextrem sein, 30.06.2026: https://www.n-tv.de/politik/Grosser-Teil-der-AfD-Mitglieder-soll-rechtsextrem-sein-id31030282.html
 - WELT/dpa: Verfassungsschutz zaehlt mehr Extremisten in Deutschland / 70.000 AfD-Mitglieder und ca. 28.000 rechtsextremistisches Potenzial, 30.06.2026: https://www.welt.de/article6a43785ee507bf1455ece105
 - WELT/dpa: BfV setzt Einstufung der AfD als rechtsextrem aus / Stillhaltezusage, 08.05.2025: https://www.welt.de/256087000
 - WELT/dpa: Keine Beschwerde gegen AfD-Entscheidung im Eilverfahren / VG Koeln, 02.03.2026: https://www.welt.de/newsticker/dpa_nt/infoline_nt/Politik__Inland_/article69a5c32acc6f44c0f427a9d5/keine-beschwerde-gegen-afd-entscheidung-im-eilverfahren.html
