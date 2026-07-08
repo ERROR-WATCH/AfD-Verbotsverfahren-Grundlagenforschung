@@ -3,7 +3,7 @@
 > 🌐 **Interaktives Web-Portal (Forschungs-Dashboard) live online:**  
 > Erkunde dieses gesamte Belegarchiv unzensiert, schnell und interaktiv direkt im Browser:  
 > 👉 **[https://ERROR-WATCH.github.io/AfD-Verbotsverfahren-Grundlagenforschung/](https://ERROR-WATCH.github.io/AfD-Verbotsverfahren-Grundlagenforschung/)**  
-> *Das Portal bietet eine hochintelligente, umlautsensitive Volltextsuche über alle 260 Gerichtsfälle, 18 Verbotsgründe, alle unzensierten Gutachten/PDF-Splits und alle 3.611 Belegzitate mit Live-Textvorschau!*
+> *Das Portal bietet eine hochintelligente, umlautsensitive Volltextsuche über alle 262 Gerichtsfälle, 18 Verbotsgründe, alle unzensierten Gutachten/PDF-Splits und alle 3.611 Belegzitate mit Live-Textvorschau!*
 
 ---
 
@@ -27,7 +27,7 @@ Dieses Repository sammelt die zentralen Dokumente, Textfragmente und Forschungse
 Dieses Repository stellt eine **solid fundierte Arbeitsbasis** dar, die nach bestem Wissen und Gewissen und mit erheblicher **KI-Unterstützung** erstellt und strukturiert wurde. Es ist jedoch von zentraler Bedeutung, die folgenden Aspekte für jede weitere wissenschaftliche, journalistische oder juristische Verwendung zu berücksichtigen:
 
 1. **Kein Anspruch auf Vollständigkeit (Die Oberfläche des Komplexes):**  
-   Trotz der sorgfältigen Aufbereitung von 260 Gerichtsfällen und über 1.400 Dokumenten legt diese Datenbank **bei weitem keinen Anspruch auf Vollständigkeit** nahe. In Anbetracht der enormen Tiefe und Verästelung der verfassungsfeindlichen Strukturen der Partei stellt dieses Archiv in unseren Augen lediglich die **Oberfläche des gesamten rechtlichen und tatsächlichen Komplexes** dar. Viele verdeckte Netzwerke, Finanzströme und behördliche Erkenntnisse liegen im Verborgenen oder unterliegen dem Geheimschutz.
+   Trotz der sorgfältigen Aufbereitung von 262 Gerichtsfällen und über 1.400 Dokumenten legt diese Datenbank **bei weitem keinen Anspruch auf Vollständigkeit** nahe. In Anbetracht der enormen Tiefe und Verästelung der verfassungsfeindlichen Strukturen der Partei stellt dieses Archiv in unseren Augen lediglich die **Oberfläche des gesamten rechtlichen und tatsächlichen Komplexes** dar. Viele verdeckte Netzwerke, Finanzströme und behördliche Erkenntnisse liegen im Verborgenen oder unterliegen dem Geheimschutz.
    
 2. **Notwendigkeit händischer und professioneller Auswertung:**  
    Die in diesem Repository bereitgestellten Daten und KI-generierten Strukturierungshilfen (z. B. RAG-Dumps und Zusammenfassungen) sind **Arbeitswerkzeuge, keine gerichtsfertigen Beweise**. Für ein tatsächliches gerichtliches Verbotsverfahren vor dem Bundesverfassungsgericht bedarf es zwingend einer **vollständig händischen Auswertung, detaillierten Verifizierung und juristisch präzisen Aufbereitung aller Belege durch geschultes Fachpersonal** (wie habilitierte Verfassungsrechtler, erfahrene Prozessbevollmächtigte und staatliche Gutachter).
@@ -163,6 +163,17 @@ Für vertiefte Analysen der verfassungswidrigen Symbole, Chiffren und Rekrutieru
 * 📑 **BfV-Sonderbericht Rechtsextremismus im Internet (2024):** [Lokales PDF-Dokument](./dokumente/vfs_rechtsextremismus/BfV_Sonderbericht_Rechtsextremismus_im_Internet_2024.pdf) | [Online-Quelle](https://www.verfassungsschutz.de/SharedDocs/publikationen/DE/rechtsextremismus/2024-09-rechtsextremismus-im-internet.pdf?__blob=publicationFile&v=2)
 * 📑 **BfV-Lagebild Antisemitismus (2024):** [Lokales PDF-Dokument](./dokumente/vfs_rechtsextremismus/BfV_Lagebild_Antisemitismus_2024.pdf) | [Online-Quelle](https://www.verfassungsschutz.de/SharedDocs/publikationen/DE/allgemein/2024-05-lagebild-antisemitismus.pdf?__blob=publicationFile&v=8)
 
+### 7) Themendossier: Neonazi-Kontinuitäten in AfD-Funktionärsrollen
+* 📑 **AIB 150: Alte (Neonazi-) Bekannte als AfD-Funktionäre? (2026):** [Lokaler Beleg](./dokumente/hauptquellen/AIB150_Alte_Neonazi_Bekannte_AfD_Funktionaere_2026.md) | [Online-Quelle](https://antifainfoblatt.de/aib150/alte-neonazi-bekannte-als-afd-funktionaere) - *Recherchequelle zu früheren Neonazi-, Kameradschafts-, JN/NPD-, Verbotsorganisations- und völkischen Milieubezügen, die laut AIB in AfD-Kommunal- und Funktionärsrollen wieder auftauchen. Als Kontext- und Strukturbeleg geführt, nicht als neuer Gerichtsfall.*
+
+
+### 8) Themendossiers: Brandmauer, Reichstagssturm und historische Steigbügelhalter-Mechanik
+* 📑 **Endstation Rechts: Reichstagsstürmerin in Diensten der AfD (2026):** [Lokaler Beleg](./dokumente/hauptquellen/Endstation_Rechts_Reichstagsstuermerin_AfD_Brandenburg_2026.md) | [Online-Quelle](https://www.endstation-rechts.de/news/reichstagsstuermerin-diensten-der-afd) - *Recherche zu Femke Grops, AfD Brandenburg, Reichstagssturm 2020 und extrem rechten Protest-/Alternativmedienmilieus.*
+* 📑 **Chrupalla/Phoenix-Screenshot: Parteienbeobachtung durch Verfassungsschutz:** [Prüfvermerk](./dokumente/hauptquellen/Chrupalla_Phoenix_Verfassungsschutz_Beobachtung_Screenshot_Pruefvermerk.md) | [Screenshot](./dokumente/hauptquellen/chrupalla_phoenix_verfassungsschutz_beobachtung_screenshot.jpeg) - *Screenshot archiviert; externe Primärquelle/Transkript noch offen, daher nicht als abschließend bestätigtes Direktzitat werten.*
+* 📑 **CDU/MIT Brandenburg und Brandmauer-Debatte (2026):** [Lokaler Beleg](./dokumente/hauptquellen/FR_CDU_MIT_Brandenburg_Brandmauer_AfD_2026.md) | [FR-Nutzerquelle](https://www.fr.de/politik/afd-cdu-verband-in-brandenburg-fordert-offiziell-ende-der-brandmauer-zur-zr-94386400.html) | [dpa/WELT-Bestätigung](https://www.welt.de/article6a4ccbb60b26a0c278d40a61) - *Debatte über Aufhebung/Überarbeitung des CDU-Unvereinbarkeitsbeschlusses gegenüber der AfD; später entschärft.*
+* 📑 **Zentrumspartei und Ermächtigungsgesetz 1933:** [Historischer Referenzbeleg](./dokumente/hauptquellen/Zentrumspartei_Ermaechtigungsgesetz_1933_Steigbuegelhalter_Analyse.md) - *Analyse der Zustimmung von Zentrum/BVP zum Ermächtigungsgesetz als historische Warnstruktur für Brandmauer- und Normalisierungsdebatten.*
+* 📑 **Build-Audit Deepresearch 2026-07-08:** [Lokaler Beleg](./BUILD_AUDIT_DEEPRESEARCH_2026-07-08.md) - *Offene Restpunkte, uebersprungene Punkte, Urteils- und Statistikluecken vor dem Pages-Build.*
+
 ### 4) Offizielle Einstufungsentscheidungen & Gerichtsverfahren (BfV)
 Da die detaillierten, mehrhundertseitigen BfV-Einstufungsgutachten als *„VS - Nur für den Dienstgebrauch“* eingestuft sind, dienen die offiziellen, gerichtlichen Verfahrensmeldungen des BfV auf seiner Primärquelle als fundamentale Belege für die Einstufungsketten:
 * 📑 **BfV-Einstufungsentscheidung OVG NRW (13. Mai 2024):** OVG NRW bestätigt in gänzlicher Instanz die Einstufung der Bundes-AfD und der Jungen Alternative (JA) als rechtsextremistischer Verdachtsfall. [Lokales Belegdokument (Volltext im Repository)](./dokumente/hauptquellen/BfV_Pressemitteilung_Einstufungsentscheidung_2024_05_13.txt) | [Online-Quelle](https://www.verfassungsschutz.de/SharedDocs/pressemitteilungen/DE/2024/pressemitteilung-2024-05-13-afd.html)
@@ -218,14 +229,14 @@ Dieses Register ist eine umfassende, wissenschaftlich gepflegte Zusammenstellung
 
 Sämtliche Belege liegen physisch im Repository vor und sind im vollumfänglichen Register [**`URTEILE_DEEPRESEARCH.md`**](./URTEILE_DEEPRESEARCH.md) systematisch verzeichnet.
 
-> 📥 **Gesamtregister zum Download:** Wir haben alle 260 straf- und verfassungsrechtlichen Urteile in einem einzigen, offline-fähigen Gesamtregister kompiliert:
+> 📥 **Gesamtregister zum Download:** Wir haben alle 262 straf- und verfassungsrechtlichen Urteile in einem einzigen, offline-fähigen Gesamtregister kompiliert:
 > * 📄 [**Gesamt-Urteilsregister als gesetztes PDF-Dossier**](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf) *(Perfekt formatiert für RAG und Druck)*
 > * 📝 [**Gesamt-Urteilsregister als TXT-Dokument**](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.md)
 
-> 📚 **Verifiziertes Quellen- & Provenienzregister:** Wir haben eine dedizierte Quellenliste angelegt, die für alle 260 Fälle die originalen, höchstrichterlichen Gerichtsdatenbank-Einträge und Pressebelege (LTO, Spiegel, Tagesschau) enthält:
+> 📚 **Verifiziertes Quellen- & Provenienzregister:** Wir haben eine dedizierte Quellenliste angelegt, die für alle 262 Fälle die originalen, höchstrichterlichen Gerichtsdatenbank-Einträge und Pressebelege (LTO, Spiegel, Tagesschau) enthält:
 > * 🔗 [**Offizielles Quellen- & Provenienzregister (QUELLEN_URTEILSDB.md)**](./dokumente/hauptquellen/urteilsbelege/QUELLEN_URTEILSDB.md)
 
-#### 🏛️ Systematisches & fortlaufend erweitertes Strafrechts- und Gerichtsregister (260 exemplarische Fälle direkt im Repository):
+#### 🏛️ Systematisches & fortlaufend erweitertes Strafrechts- und Gerichtsregister (262 exemplarische Fälle direkt im Repository):
 
 ##### A) Volksverhetzung & Verfassungswidrige Kennzeichen (20 Fälle)
 * ⚖️ **1. Björn Höcke (SA-Parole „Alles für Deutschland“):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/01_Hoecke_SA_Parole_LG_Halle.md) | [Online-Quelle](https://www.lto.de/recht/nachrichten/n/bgh-verwirft-revision-bjoern-hoecke-sa-parole-alles-fuer-deutschland/) – *[**DIREKT AfD - Landessprecher**] LG Halle verurteilte Höcke wegen des Verwendens verbotener SA-Kennzeichen.*
@@ -323,7 +334,7 @@ Sämtliche Belege liegen physisch im Repository vor und sind im vollumfängliche
 ##### H) SONDERKATEGORIE: Schwere Vergewaltigung & Sexualstraftaten (1 Fall)
 * ⚖️ **75. Philip W. (Zweifache Vergewaltigung):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/69_Philip_W_Vergewaltigung_Augsburg.md) | [Online-Quelle](https://www.focus.de/politik/deutschland/augsburg-mitarbeiter-von-afd-mann-jurca-wegen-vergewaltigung-verurteilt-100.html) – *[**INDIREKT AfD - Abgeordnetenmitarbeiter**] Rechtskräftige Haftstrafe auf Bewährung wegen brutaler zweifacher Vergewaltigung der Partnerin. Begründung des AfD-Bezugs: Er ist persönlicher Vollzeit-Mitarbeiter des AfD-Landtagsabgeordneten Andreas Jurca.*
 
-##### I) Gerichtsentscheidungen gegen die Gesamtpartei und Landesverbaende (11 Fälle)
+##### I) Gerichtsentscheidungen gegen die Gesamtpartei und Landesverbaende (13 Fälle)
 * ⚖️ **76. BfV vs. AfD (Gesamtpartei - Verfassungskonforme Beobachtung):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/22_BfV_vs_AfD_Verdachtsfall_OVG_Muenster.md) | [Online-Quelle](https://www.lto.de/recht/hintergruende/h/ovg-nrw-5a121822-entscheidung-verfassungsschutz-beobachtung-afd-verdachtsfall-rechtsextremismus/) – *OVG Münster bestätigt Einstufung der Bundes-AfD und JA als rechtsextremistischer Verdachtsfall.*
 * ⚖️ **77. Entzug von Waffenbesitzkarten (Verwaltungsgerichte):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/23_Waffenbesitzkarten_Entzug_VG_Duesseldorf.md) | [Online-Quelle](https://www.lto.de/recht/nachrichten/n/vg-duesseldorf-22k372123-waffenbesitzkarte-entzug-afd-unzuverlaessig/) – *Rechtmäßiger Ausschluss bewaffneter AfD-Funktionäre aus Sicherheitsgründen.*
 * ⚖️ **78. Verweigerung des Beamtenstatus (OVG Weimar):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/24_Beamtenstatus_Ausschluss_OVG_Weimar.txt) | [Online-Quelle](https://www.lto.de/recht/nachrichten/n/ovg-weimar-beamte-polizei-lehrer-ausschluss-afd-verfassungtreue/) – *Entlassung von Beamten wegen verfassungsfeindlicher Betätigung.*
@@ -350,6 +361,8 @@ Sämtliche Belege liegen physisch im Repository vor und sind im vollumfängliche
 * ⚖️ **258. Christian Zorn (Freispruch AG Stralsund 2026):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/258_Christian_Zorn_Freispruch_AG_Stralsund_2026.md) | [Online-Quelle](https://www.welt.de/regionales/mecklenburg-vorpommern/article69e786caff0951f41af8e88f/afd-mann-zorn-von-betrugsvorwurf-freigesprochen.html) – *[DIREKT AfD - Kreistag / Stadtvertretung / Landesvorstand Mecklenburg-Vorpommern] Freispruch; Entscheidung nach Bericht noch nicht rechtskräftig. Weiteres Betrugsverfahren anhängig, ohne Urteil.*
 * ⚖️ **259. AfD Bundespartei: vorläufig keine Einstufung als gesichert rechtsextrem (VG Köln 2026):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/259_AfD_Bundespartei_Gesichert_Rechtsextrem_VG_Koeln_2026.md) | [Online-Quelle](https://www.bild.de/politik/inland/gerichts-hammer-afd-darf-nicht-als-gesichert-rechtsextrem-eingestuft-werden-69a051952cfe24517f7c9f85) – *[DIREKT AfD - Bundespartei] VG Köln untersagte dem BfV vorläufig, die AfD bis zur Hauptsacheentscheidung als gesichert rechtsextremistisch einzustufen und zu behandeln; Verdachtsfall bleibt davon getrennt.*
 * ⚖️ **260. AfD/Facebook-Werbung: Auskunftspflicht gegenüber Datenschutzbeauftragter (VG Berlin 2026):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/260_AfD_Facebook_Werbung_Datenschutz_VG_Berlin_2026.md) | [Online-Quelle](https://www.welt.de/regionales/berlin/article69b194f29276d101b4c85b9f/gericht-afd-muss-daten-zu-facebook-werbung-offenlegen.html) – *[DIREKT AfD - Bundespartei] VG Berlin wies die Klage der AfD ab und bestätigte Auskunftspflichten zu Social-Media-Werbung/Political Targeting im Bundestagswahlkampf 2021; nach Berichterstattung nicht rechtskräftig.*
+* ⚖️ **261. AfD/BMI-BfV Verfassungsschutzbericht 2022: keine vorläufige Korrektur (VG Berlin 2024):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/261_AfD_BfV_Verfassungsschutzbericht_2022_VG_Berlin_2024.md) | [Online-Quelle](https://www.welt.de/politik/deutschland/article249960238/Bundesinnenministerium-muss-Aussagen-zu-AfD-vorerst-nicht-aendern.html) – *[DIREKT AfD] VG Berlin entschied im Eilverfahren, dass das Bundesinnenministerium Aussagen im Verfassungsschutzbericht 2022 zum Rechtsextremismuspotenzial in der AfD vorläufig nicht ändern muss.*
+* ⚖️ **262. AfD Sachsen: Eilanträge gegen Einstufung als gesichert rechtsextrem gescheitert (VG Dresden/OVG Bautzen):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/262_AfD_Sachsen_Gesichert_Rechtsextrem_VG_Dresden_OVG_Bautzen.md) | [Online-Quelle](https://www.welt.de/regionales/sachsen/article69d7a515c72227da0df14398/afd-klagt-gegen-einstufung-als-gesichert-rechtsextremistisch.html) – *[DIREKT AfD] VG Dresden und OVG Bautzen lehnten Eilanträge der AfD Sachsen gegen die Einstufung als gesichert rechtsextremistische Bestrebung ab; die Gerichte sahen ausreichende Anhaltspunkte gegen Menschenwürde und Demokratieprinzip.*
 # Ergänzungen thematisch sortiert
 
 ---

@@ -609,3 +609,18 @@ Dieses Dokument ist eine umfassende Zusammenstellung gerichtlicher Urteile, rech
     - **Entscheidung:** Klage der AfD gegen Auskunftsverlangen der Berliner Datenschutzbeauftragten abgewiesen; AfD muss Angaben zu Facebook-/Social-Media-Werbung machen.
     - **Status:** Verwaltungsgerichtliches Urteil, nach Berichterstattung nicht rechtskräftig; DIREKT AfD - Bundespartei
     - **Quelle/Beleg:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/260_AfD_Facebook_Werbung_Datenschutz_VG_Berlin_2026.md) | [Online-Quelle](https://www.welt.de/regionales/berlin/article69b194f29276d101b4c85b9f/gericht-afd-muss-daten-zu-facebook-werbung-offenlegen.html)
+
+
+102. **AfD/BMI-BfV Verfassungsschutzbericht 2022 (VG Berlin 2024):**
+    - **Gericht/Instanz:** Verwaltungsgericht Berlin; 02.02.2024
+    - **Gegenstand:** Verfassungsschutzbericht 2022 / Rechtsextremismuspotenzial in der AfD
+    - **Entscheidung:** Antrag der AfD auf vorläufige Änderung der Aussagen abgelehnt; Bundesinnenministerium musste Aussagen nach Berichterstattung vorläufig nicht ändern.
+    - **Status:** Verwaltungsgerichtliche Eilentscheidung; DIREKT AfD - Bundespartei
+    - **Quelle/Beleg:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/261_AfD_BfV_Verfassungsschutzbericht_2022_VG_Berlin_2024.md) | [Online-Quelle](https://www.welt.de/politik/deutschland/article249960238/Bundesinnenministerium-muss-Aussagen-zu-AfD-vorerst-nicht-aendern.html)
+
+103. **AfD Sachsen: Eilanträge gegen gesichert-rechtsextrem-Einstufung (VG Dresden/OVG Bautzen):**
+    - **Gericht/Instanz:** VG Dresden / OVG Bautzen; Eilverfahren vor Hauptsacheklage 2026
+    - **Gegenstand:** Einstufung als gesichert rechtsextremistische Bestrebung
+    - **Entscheidung:** Eilanträge gescheitert; Gerichte sahen ausreichende Anhaltspunkte gegen Menschenwürde und Demokratieprinzip.
+    - **Status:** Verwaltungsgerichtliche Eilentscheidungen; DIREKT AfD - Landesverband Sachsen
+    - **Quelle/Beleg:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/262_AfD_Sachsen_Gesichert_Rechtsextrem_VG_Dresden_OVG_Bautzen.md) | [Online-Quelle](https://www.welt.de/regionales/sachsen/article69d7a515c72227da0df14398/afd-klagt-gegen-einstufung-als-gesichert-rechtsextremistisch.html)
