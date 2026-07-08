@@ -38,7 +38,7 @@
   {
     "id": "STAT-FINDINGS-TOTAL-001",
     "title": "Gepruefte Findings im Art.-21-Datensatz",
-    "value": 3672,
+    "value": 3675,
     "unit": "Findings",
     "theme": "Finding-Korpus",
     "subtheme": "Gesamtbestand geprueft",
@@ -74,7 +74,7 @@
   {
     "id": "STAT-AGGREGATE-TOTAL-001",
     "title": "Aggregierte Statistik- und Registerbefunde",
-    "value": 61,
+    "value": 64,
     "unit": "Befunde",
     "theme": "Aggregierte Statistik",
     "subtheme": "CSV-Bestaende",
@@ -92,7 +92,7 @@
   {
     "id": "STAT-SOURCES-TOTAL-001",
     "title": "Quelleninventar: erfasste Quellen",
-    "value": 10319,
+    "value": 10320,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "Gesamtbestand",
@@ -110,7 +110,7 @@
   {
     "id": "STAT-SOURCES-USABLE-001",
     "title": "Quelleninventar: statistiknutzbare Quellen",
-    "value": 10263,
+    "value": 10264,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "Statistiknutzbar",
@@ -128,7 +128,7 @@
   {
     "id": "STAT-SOURCES-PRIMARY-001",
     "title": "Quelleninventar: Primaerquellen",
-    "value": 5438,
+    "value": 5439,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "Primaerquellen",
@@ -164,7 +164,7 @@
   {
     "id": "STAT-FINDINGS-DIRECT-001",
     "title": "Findings mit direkter AfD- oder Akteurszurechnung",
-    "value": 958,
+    "value": 961,
     "unit": "Findings",
     "theme": "Zurechnung",
     "subtheme": "Direkte Zurechnung",
@@ -488,7 +488,7 @@
   {
     "id": "STAT-FINDING-EVIDENCE-C-001",
     "title": "Findings mit Beweisstufe C",
-    "value": 0,
+    "value": 3,
     "unit": "Findings",
     "theme": "Beweisstärke",
     "subtheme": "Finding-Stufe C",
@@ -578,7 +578,7 @@
   {
     "id": "STAT-SOURCE-EVIDENCE-B-001",
     "title": "Quellen mit Beweisstufe B",
-    "value": 3943,
+    "value": 3944,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "Quellen-Stufe B",
@@ -1010,7 +1010,7 @@
   {
     "id": "STAT-BVERFG-FIELD-008-ZURECHNUNG-ZUR-PARTEI",
     "title": "BVerfG-Prueffeld: Zurechnung zur Partei",
-    "value": 13,
+    "value": 15,
     "unit": "Findings",
     "theme": "Art.-21-Prueffelder",
     "subtheme": "Zurechnung zur Partei",
@@ -1226,7 +1226,7 @@
   {
     "id": "STAT-ART21-ELEMENT-008-ZURECHNUNG-ZUR-PARTEI",
     "title": "Art.-21-Element: Zurechnung zur Partei",
-    "value": 13,
+    "value": 15,
     "unit": "Findings",
     "theme": "Art.-21-Elemente",
     "subtheme": "Zurechnung zur Partei",
@@ -1422,7 +1422,25 @@
     "limitations": "Quellenart ist eine Klassifikation des Befunddatensatzes; die Originalquelle bleibt massgeblich."
   },
   {
-    "id": "STAT-QUELLENART-007-PRESSE-RECHERCHE",
+    "id": "STAT-QUELLENART-007-SEKUNDAERCHRONIK-ABGLEICH",
+    "title": "Quellenart: Sekundaerchronik/Abgleich",
+    "value": 3,
+    "unit": "Findings",
+    "theme": "Quellenarten",
+    "subtheme": "Sekundaerchronik/Abgleich",
+    "source": "daten/findings_art21.jsonl",
+    "source_type": "Abgeleiteter Kennwert aus Findings",
+    "source_path": "daten/findings_art21.jsonl",
+    "finding_location": "Top-Auswertung Feld quellenart",
+    "method": "Zaehlung validierter Findings pro Quellenart.",
+    "legal_relevance": "Quellengewichtung und Beweisnaehe",
+    "article_21_field": "Belegdichte / Nachweisbarkeit / Zurechnung",
+    "evidence_grade": "B",
+    "status": "geprueft",
+    "limitations": "Quellenart ist eine Klassifikation des Befunddatensatzes; die Originalquelle bleibt massgeblich."
+  },
+  {
+    "id": "STAT-QUELLENART-008-PRESSE-RECHERCHE",
     "title": "Quellenart: Presse/Recherche",
     "value": 2,
     "unit": "Findings",
@@ -1440,7 +1458,7 @@
     "limitations": "Quellenart ist eine Klassifikation des Befunddatensatzes; die Originalquelle bleibt massgeblich."
   },
   {
-    "id": "STAT-QUELLENART-008-REPO-REGISTER-PRESSE-UND-GERICHTSNAC",
+    "id": "STAT-QUELLENART-009-REPO-REGISTER-PRESSE-UND-GERICHTSNAC",
     "title": "Quellenart: Repo-Register / Presse und Gerichtsnachrichten",
     "value": 2,
     "unit": "Findings",
@@ -1458,7 +1476,7 @@
     "limitations": "Quellenart ist eine Klassifikation des Befunddatensatzes; die Originalquelle bleibt massgeblich."
   },
   {
-    "id": "STAT-QUELLENART-009-DOKUMENTIERTE-RECHERCHEQUELLEN",
+    "id": "STAT-QUELLENART-010-DOKUMENTIERTE-RECHERCHEQUELLEN",
     "title": "Quellenart: dokumentierte Recherchequellen",
     "value": 1,
     "unit": "Findings",
@@ -1476,7 +1494,7 @@
     "limitations": "Quellenart ist eine Klassifikation des Befunddatensatzes; die Originalquelle bleibt massgeblich."
   },
   {
-    "id": "STAT-QUELLENART-010-PRESSE-ANALYSE",
+    "id": "STAT-QUELLENART-011-PRESSE-ANALYSE",
     "title": "Quellenart: Presse/Analyse",
     "value": 1,
     "unit": "Findings",
@@ -1494,7 +1512,7 @@
     "limitations": "Quellenart ist eine Klassifikation des Befunddatensatzes; die Originalquelle bleibt massgeblich."
   },
   {
-    "id": "STAT-QUELLENART-011-REPO-REGISTER-PRESSE-UND-AMTLICHE-QU",
+    "id": "STAT-QUELLENART-012-REPO-REGISTER-PRESSE-UND-AMTLICHE-QU",
     "title": "Quellenart: Repo-Register / Presse und amtliche Quelle",
     "value": 1,
     "unit": "Findings",
@@ -1802,7 +1820,7 @@
   {
     "id": "STAT-AFD-ZURECHNUNG-002-DIREKT",
     "title": "AfD-Zurechnung: direkt",
-    "value": 958,
+    "value": 961,
     "unit": "Findings",
     "theme": "Zurechnung",
     "subtheme": "direkt",
@@ -1944,7 +1962,25 @@
     "limitations": "Akteursebene ist eine Strukturklassifikation; die Originalquelle entscheidet ueber Belastbarkeit."
   },
   {
-    "id": "STAT-AKTEURSEBENE-007-VORFELDAKTEUR",
+    "id": "STAT-AKTEURSEBENE-007-REPO",
+    "title": "Akteursebene: Repo",
+    "value": 2,
+    "unit": "Findings",
+    "theme": "Zurechnung",
+    "subtheme": "Repo",
+    "source": "daten/findings_art21.jsonl",
+    "source_type": "Abgeleiteter Kennwert aus Findings",
+    "source_path": "daten/findings_art21.jsonl",
+    "finding_location": "Auswertung Feld akteursebene",
+    "method": "Zaehlung validierter Findings nach Akteursebene.",
+    "legal_relevance": "Funktionstraeger-, Mitglieder- und Umfeldzurechnung",
+    "article_21_field": "Zurechnung / Planmaessigkeit",
+    "evidence_grade": "B",
+    "status": "geprueft",
+    "limitations": "Akteursebene ist eine Strukturklassifikation; die Originalquelle entscheidet ueber Belastbarkeit."
+  },
+  {
+    "id": "STAT-AKTEURSEBENE-008-VORFELDAKTEUR",
     "title": "Akteursebene: Vorfeldakteur",
     "value": 2,
     "unit": "Findings",
@@ -1962,27 +1998,9 @@
     "limitations": "Akteursebene ist eine Strukturklassifikation; die Originalquelle entscheidet ueber Belastbarkeit."
   },
   {
-    "id": "STAT-AKTEURSEBENE-008-REPO",
-    "title": "Akteursebene: Repo",
-    "value": 1,
-    "unit": "Findings",
-    "theme": "Zurechnung",
-    "subtheme": "Repo",
-    "source": "daten/findings_art21.jsonl",
-    "source_type": "Abgeleiteter Kennwert aus Findings",
-    "source_path": "daten/findings_art21.jsonl",
-    "finding_location": "Auswertung Feld akteursebene",
-    "method": "Zaehlung validierter Findings nach Akteursebene.",
-    "legal_relevance": "Funktionstraeger-, Mitglieder- und Umfeldzurechnung",
-    "article_21_field": "Zurechnung / Planmaessigkeit",
-    "evidence_grade": "B",
-    "status": "geprueft",
-    "limitations": "Akteursebene ist eine Strukturklassifikation; die Originalquelle entscheidet ueber Belastbarkeit."
-  },
-  {
     "id": "STAT-BUNDESLAND-001-REPO",
     "title": "Bundesland: Repo",
-    "value": 1,
+    "value": 2,
     "unit": "Findings",
     "theme": "Bundeslaender",
     "subtheme": "Repo",
@@ -2018,7 +2036,7 @@
   {
     "id": "STAT-GRANULARITY-002-AGGREGATE",
     "title": "Granularitaet: aggregate",
-    "value": 61,
+    "value": 64,
     "unit": "Findings",
     "theme": "Datenstruktur",
     "subtheme": "aggregate",
@@ -2054,7 +2072,7 @@
   {
     "id": "STAT-UNSICHERHEIT-002-MITTEL",
     "title": "Unsicherheit: mittel",
-    "value": 4,
+    "value": 7,
     "unit": "Findings",
     "theme": "Datenqualitaet",
     "subtheme": "mittel",
@@ -2144,7 +2162,7 @@
   {
     "id": "STAT-SOURCE-TYPE-005-ARCHIVIERTE-HAUPTQUELLE",
     "title": "Quellentyp: Archivierte Hauptquelle",
-    "value": 288,
+    "value": 289,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "Archivierte Hauptquelle",
@@ -2396,7 +2414,7 @@
   {
     "id": "STAT-SOURCE-PUBLISHER-005-LOKALE-ARCHIVQUELLE",
     "title": "Herausgeber: Lokale Archivquelle",
-    "value": 288,
+    "value": 289,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "Lokale Archivquelle",
@@ -2522,7 +2540,7 @@
   {
     "id": "STAT-SOURCE-FORMAT-001-MD",
     "title": "Quellenformat: MD",
-    "value": 8925,
+    "value": 8926,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "MD",
@@ -2774,7 +2792,7 @@
   {
     "id": "STAT-SOURCE-THEME-005-ARCHIVIERTE-HAUPTQUELLE",
     "title": "Quellenthemenbereich: Archivierte Hauptquelle",
-    "value": 288,
+    "value": 289,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "Archivierte Hauptquelle",

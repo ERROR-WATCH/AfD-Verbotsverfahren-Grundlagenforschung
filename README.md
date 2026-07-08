@@ -174,6 +174,10 @@ Für vertiefte Analysen der verfassungswidrigen Symbole, Chiffren und Rekrutieru
 * 📑 **Zentrumspartei und Ermächtigungsgesetz 1933:** [Historischer Referenzbeleg](./dokumente/hauptquellen/Zentrumspartei_Ermaechtigungsgesetz_1933_Steigbuegelhalter_Analyse.md) - *Analyse der Zustimmung von Zentrum/BVP zum Ermächtigungsgesetz als historische Warnstruktur für Brandmauer- und Normalisierungsdebatten.*
 * 📑 **Build-Audit Deepresearch 2026-07-08:** [Lokaler Beleg](./BUILD_AUDIT_DEEPRESEARCH_2026-07-08.md) - *Offene Restpunkte, uebersprungene Punkte, Urteils- und Statistikluecken vor dem Pages-Build.*
 
+
+### 9) Wikipedia-Abgleich: Rechtsextreme und neonazistische Vorfaelle in der AfD
+* 📑 **Wikipedia-Abgleich Rechtsextreme/Neonazistische AfD-Vorfälle:** [Lokaler Beleg](./dokumente/hauptquellen/Wikipedia_Abgleich_Rechtsextreme_Neonazistische_Vorfaelle_AfD.md) | [Online-Quelle](https://de.wikipedia.org/wiki/Liste_rechtsextremer_und_neonazistischer_Vorf%C3%A4lle_in_der_AfD) - *Sekundärchronik als Coverage- und Lückenabgleich: 49 geprüfte Personen-/Vorfallscluster, 21 stark vorhanden, 15 teilweise vorhanden, 13 noch als eigene Vorfallsdossiers offen.*
+
 ### 4) Offizielle Einstufungsentscheidungen & Gerichtsverfahren (BfV)
 Da die detaillierten, mehrhundertseitigen BfV-Einstufungsgutachten als *„VS - Nur für den Dienstgebrauch“* eingestuft sind, dienen die offiziellen, gerichtlichen Verfahrensmeldungen des BfV auf seiner Primärquelle als fundamentale Belege für die Einstufungsketten:
 * 📑 **BfV-Einstufungsentscheidung OVG NRW (13. Mai 2024):** OVG NRW bestätigt in gänzlicher Instanz die Einstufung der Bundes-AfD und der Jungen Alternative (JA) als rechtsextremistischer Verdachtsfall. [Lokales Belegdokument (Volltext im Repository)](./dokumente/hauptquellen/BfV_Pressemitteilung_Einstufungsentscheidung_2024_05_13.txt) | [Online-Quelle](https://www.verfassungsschutz.de/SharedDocs/pressemitteilungen/DE/2024/pressemitteilung-2024-05-13-afd.html)
