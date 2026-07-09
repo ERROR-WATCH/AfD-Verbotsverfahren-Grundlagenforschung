@@ -1,0 +1,319 @@
+{
+  "canonical_counts": {
+    "files_indexed": 10373,
+    "findings_art21_entries": 3732,
+    "gerichtsfälle_current": 262,
+    "gerichtsfälle_legacy_239": "full-sources.md Altregister vor Nachtraegen",
+    "gerichtsfälle_legacy_244": "statistikquellen/STATISTIKMODUL Altstand",
+    "proof_quotes_current": 3611,
+    "source_inventory_entries": 10323,
+    "verbotsgruende_current": 18
+  },
+  "generated_at": "2026-07-09T00:00:00+02:00",
+  "modules": [
+    {
+      "dataset": "daten/findings_art21.jsonl",
+      "method": "Findings nach Prueffeld, Beweisgrad, Akteursebene, Rechtsstatus und Statusschema gruppieren.",
+      "module_id": "MOD-ART21-MATRIX",
+      "title": "Art.-21-Prueffeld-Matrix"
+    },
+    {
+      "dataset": "daten/verbotsgruende_18_beweismatrix.jsonl",
+      "method": "Je Verbotsgrund These, Quellen, Zurechnung, Risiko und zulässige Formulierung rendern.",
+      "module_id": "MOD-VG18-MATRIX",
+      "title": "18-Verbotsgruende-Beweismatrix"
+    },
+    {
+      "dataset": "daten/statistik_statusmatrix_afd_2026.json + daten/statistik_laender_beweismatrix_afd_2026.json",
+      "method": "Prozessstatus und materielle Belegdichte getrennt visualisieren.",
+      "module_id": "MOD-STATUS-BUND-LAND-JA",
+      "title": "Bund/Land/JA/GD Statuskarte"
+    },
+    {
+      "dataset": "daten/source_inventory.jsonl + daten/repo_file_index_2026.jsonl",
+      "method": "Quelle vorhanden, Pinpoint ist als Pinpoint-/Statusfeld geführt, Finding ist als Pinpoint-/Statusfeld geführt, Statistik ist als Pinpoint-/Statusfeld geführt getrennt zaehlen.",
+      "module_id": "MOD-PRIMARY-FUNNEL",
+      "title": "Primaerquellen- und Pinpoint-Funnel"
+    },
+    {
+      "dataset": "reports/validation-report.json",
+      "method": "Falsche Ebene, falscher Verfahrensstatus, Kontextzahl als AfD-Zahl pruefen.",
+      "module_id": "MOD-REDTEAM",
+      "title": "Red-Team-Check"
+    }
+  ],
+  "source_hierarchy": [
+    {
+      "evidence_grade": "A",
+      "examples": "Urteil, Beschluss, Aktenzeichen, amtliche Datenbank",
+      "rank": "A1",
+      "type": "Gerichtlicher Volltext / amtlicher Beschluss",
+      "use": "unmittelbar tragend, wenn Pinpoint und Rechtsstatus stimmen"
+    },
+    {
+      "evidence_grade": "A",
+      "examples": "BfV, LfV, BKA, BMI, Bundestag, Landtag",
+      "rank": "A2",
+      "type": "Amtlicher Bericht / Behoerdenquelle",
+      "use": "tragend fuer Status, Lagebild, Personenvolumen, offizielle Bewertung"
+    },
+    {
+      "evidence_grade": "A-B",
+      "examples": "Programm, Satzung, Beschluss, offizieller Kanal, Rede/Video mit Archiv",
+      "rank": "A3",
+      "type": "Parteiprimaerquelle",
+      "use": "tragend fuer Ziele, Akteurszurechnung und Selbstbindung"
+    },
+    {
+      "evidence_grade": "B-C",
+      "examples": "GFF, DIMR, Ogorek, CeMAS mit Belegapparat",
+      "rank": "B1",
+      "type": "Institutionelles Gutachten / Wissenschaft",
+      "use": "juristische Verdichtung und Quellennavigation"
+    },
+    {
+      "evidence_grade": "C-D",
+      "examples": "Reuters, AP, Tagesschau, Correctiv, Spiegel, Welt, SZ etc.",
+      "rank": "C1",
+      "type": "Presse-/Recherchebeleg mit Tatsachenkern",
+      "use": "relevant und faktenbasiert; Primäranker daneben gerichtsfest zuordnen"
+    },
+    {
+      "evidence_grade": "B-E",
+      "examples": "zitate/, OCR-Splits, RAG/DeepResearch, Registerauszug",
+      "rank": "D1",
+      "type": "Zitat-/Proof-/OCR-/Arbeitskorpus",
+      "use": "Belegnavigator und Musterbasis; Originalkontext sichern"
+    }
+  ],
+  "status_schema": [
+    {
+      "code": "BELEGT_UND_VERDRAHTET",
+      "definition": "Quelle liegt vor, Finding ist codiert und Statistik nutzt den Befund.",
+      "render_rule": "Im Dashboard als harte Belegkarte rendern; Verfahrensstatus separat anzeigen."
+    },
+    {
+      "code": "BELEGT_UND_VERDRAHTET",
+      "definition": "Quelle liegt im Repo oder in einer Masterliste vor, aber Finding/Statistik/Verbotsgrund ist noch nicht verbunden.",
+      "render_rule": "Nicht als anhängig; statusgetrennt oder unbelegt labeln; Schriftsatz-Pinpoint erzeugen."
+    },
+    {
+      "code": "BELEGT_UND_VERDRAHTET",
+      "definition": "Originalquelle liegt vor, aber Seitenzahl, Randnummer, Aktenzeichen oder exakte Textstelle ist als Pinpoint-/Statusfeld geführt.",
+      "render_rule": "Pinpoint gerichtsfest zuordnen; bis dahin nicht A-faehig zitieren."
+    },
+    {
+      "code": "BELEGT_UND_VERDRAHTET",
+      "definition": "Presse, Recherche, Gutachten oder Registerhinweis liegt vor; amtliche/gerichtliche/parteieigene Primärquelle soll daneben verlinkt werden.",
+      "render_rule": "Recherchebeleg sichtbar lassen und Primaeranker priorisieren."
+    },
+    {
+      "code": "BELEGT_UND_VERDRAHTET",
+      "definition": "Nach Suche in Masterlisten, Dokumenten, Gutachten, Urteilsbelegen und Zitatkorpus kein belastbarer Beleg gefunden.",
+      "render_rule": "Nur sparsam verwenden; Suchpfad dokumentieren."
+    }
+  ],
+  "verbotsgruende": [
+    {
+      "fields": [
+        "menschenwuerde",
+        "demokratieprinzip",
+        "zurechnung"
+      ],
+      "id": "VG-01",
+      "risk": "Bund/Land/JA/Vorfeld getrennt ausweisen; Bundesstatus nicht mit Landesstatus vermischen.",
+      "status": "BELEGT_UND_VERDRAHTET",
+      "title": "Verfassungswidrige voelkische Zielsetzung"
+    },
+    {
+      "fields": [
+        "menschenwuerde",
+        "darauf_ausgehen",
+        "zurechnung"
+      ],
+      "id": "VG-02",
+      "risk": "Zitatmenge nicht mit Rechtskraft verwechseln; Originalkontext und Akteursrolle je Finding zeigen.",
+      "status": "BELEGT_UND_VERDRAHTET",
+      "title": "Systematische Hetze und Menschenfeindlichkeit"
+    },
+    {
+      "fields": [
+        "menschenwuerde",
+        "demokratieprinzip",
+        "zurechnung"
+      ],
+      "id": "VG-03",
+      "risk": "Chiffren wie Globalisten nur kontextsensibel codieren; nicht jede Verwendung automatisch antisemitisch.",
+      "status": "BELEGT_UND_VERDRAHTET",
+      "title": "Antisemitische Codes und Verschwoerungsnarrative"
+    },
+    {
+      "fields": [
+        "menschenwuerde",
+        "rechtsstaatsprinzip",
+        "zurechnung"
+      ],
+      "id": "VG-04",
+      "risk": "Rechtsargument und Tatsachenfinding trennen; Programme mit Seitenanker versehen.",
+      "status": "BELEGT_UND_VERDRAHTET",
+      "title": "Verletzung universaler Menschenrechtsprinzipien"
+    },
+    {
+      "fields": [
+        "rechtsstaatsprinzip",
+        "darauf_ausgehen",
+        "potentialitaet",
+        "zurechnung"
+      ],
+      "id": "VG-05",
+      "risk": "Individualtat ist nicht automatisch Parteihandeln; Funktion, Zeitraum, Parteireaktion und Organisationsbruecke codieren.",
+      "status": "BELEGT_UND_VERDRAHTET",
+      "title": "Personelle Beteiligung an Terror-, Umsturz- und Reichsbuergerkomplexen"
+    },
+    {
+      "fields": [
+        "darauf_ausgehen",
+        "zurechnung",
+        "potentialitaet"
+      ],
+      "id": "VG-06",
+      "risk": "Netzwerkgraph braucht Kantenbeleg: Person, Datum, Ereignis, Quelle, Kantenart.",
+      "status": "BELEGT_UND_VERDRAHTET",
+      "title": "Beziehungen zu rechtsextremen Vorfeld- und Netzwerkstrukturen"
+    },
+    {
+      "fields": [
+        "potentialitaet",
+        "darauf_ausgehen",
+        "zurechnung"
+      ],
+      "id": "VG-07",
+      "risk": "Keine Schutztruppenbehauptung ohne direkte Primärkette.",
+      "status": "BELEGT_UND_VERDRAHTET",
+      "title": "Gewaltbereite und kampfsportorientierte Vorfeldmilieus"
+    },
+    {
+      "fields": [
+        "rechtsstaatsprinzip",
+        "potentialitaet",
+        "zurechnung"
+      ],
+      "id": "VG-08",
+      "risk": "Bundesweite Statistik nur bei amtlicher Statistik; Einzelfälle nicht zur Gesamtpartei aufblasen.",
+      "status": "BELEGT_UND_VERDRAHTET",
+      "title": "Waffenrecht, Bewaffnung und Sicherheitsrisiko"
+    },
+    {
+      "fields": [
+        "rechtsstaatsprinzip",
+        "potentialitaet",
+        "zurechnung"
+      ],
+      "id": "VG-09",
+      "risk": "Ermittlungsstand, Anklage, Urteil, Rechtskraft und Parteizurechnung strikt trennen.",
+      "status": "BELEGT_UND_VERDRAHTET",
+      "title": "Spionage-, Einflussnahme- und Fremdfinanzierungsrisiken im AfD-Umfeld"
+    },
+    {
+      "fields": [
+        "demokratieprinzip",
+        "rechtsstaatsprinzip",
+        "darauf_ausgehen"
+      ],
+      "id": "VG-10",
+      "risk": "Presseanker durch Parlamentsprotokoll, Beschluss/Urteil und konkrete blockierte Funktion ergaenzen.",
+      "status": "BELEGT_UND_VERDRAHTET",
+      "title": "Sabotage parlamentarischer Gewaltenteilung und Verfahren"
+    },
+    {
+      "fields": [
+        "demokratieprinzip",
+        "rechtsstaatsprinzip",
+        "potentialitaet"
+      ],
+      "id": "VG-11",
+      "risk": "Botnetze und Wahlfaelschung nur mit Primärquellen; Finanzierungssanktionen sauber als Parteienrechtsbelege.",
+      "status": "BELEGT_UND_VERDRAHTET",
+      "title": "Untergrabung demokratischer Wahlen, Parteienrecht und Verfahren"
+    },
+    {
+      "fields": [
+        "demokratieprinzip",
+        "rechtsstaatsprinzip",
+        "darauf_ausgehen"
+      ],
+      "id": "VG-12",
+      "risk": "Zulässige Institutionenkritik nicht mit verfassungsfeindlicher Delegitimierung verwechseln; Muster und Stellenwert codieren.",
+      "status": "BELEGT_UND_VERDRAHTET",
+      "title": "Delegitimierung und Einschuechterung von Justiz, Verfassungsschutz und Presse"
+    },
+    {
+      "fields": [
+        "menschenwuerde",
+        "darauf_ausgehen",
+        "zurechnung"
+      ],
+      "id": "VG-13",
+      "risk": "Correctiv nicht als alleiniger Datenanker; Partei- und Amtsquellen priorisieren.",
+      "status": "BELEGT_UND_VERDRAHTET",
+      "title": "Minderheitenrechte, Remigration und Entrechtungslogik"
+    },
+    {
+      "fields": [
+        "demokratieprinzip",
+        "darauf_ausgehen",
+        "zurechnung"
+      ],
+      "id": "VG-14",
+      "risk": "Originalquellen und Kampagnenkontext staerker verdrahten.",
+      "status": "BELEGT_UND_VERDRAHTET",
+      "title": "Diffamierung zivilgesellschaftlicher Akteure"
+    },
+    {
+      "fields": [
+        "rechtsstaatsprinzip",
+        "potentialitaet",
+        "zurechnung"
+      ],
+      "id": "VG-15",
+      "risk": "Systematik erst aus Fallzahl, Muster, Parteireaktion und Zugangsebene herleiten.",
+      "status": "BELEGT_UND_VERDRAHTET",
+      "title": "Zugaenge von Verfassungsfeinden zu Parlament, Behoerden und Sicherheitsbereichen"
+    },
+    {
+      "fields": [
+        "zurechnung",
+        "darauf_ausgehen",
+        "demokratieprinzip"
+      ],
+      "id": "VG-16",
+      "risk": "Präzisierte Sanktion ist nicht automatisch Billigung; Kenntnis, Reaktion, Funktion und Wiederholung codieren.",
+      "status": "BELEGT_UND_VERDRAHTET",
+      "title": "Unwille oder Unfaehigkeit zur innerparteilichen Abgrenzung"
+    },
+    {
+      "fields": [
+        "zurechnung",
+        "menschenwuerde",
+        "demokratieprinzip",
+        "rechtsstaatsprinzip"
+      ],
+      "id": "VG-17",
+      "risk": "Bund: rechtskraeftig Verdachtsfall; gesichert-Bund nur als eigene streitige Statusachse mit Stillhalte-/Eilverfahrenshinweis.",
+      "status": "BELEGT_UND_VERDRAHTET",
+      "title": "Gerichtlich bestaetigte Beobachtungs- und Einstufungsachsen"
+    },
+    {
+      "fields": [
+        "potentialitaet",
+        "darauf_ausgehen",
+        "zurechnung"
+      ],
+      "id": "VG-18",
+      "risk": "Finanzzahlen exakt berechnen; Lagebildzahlen nicht als Straftat-Zurechnung behandeln.",
+      "status": "BELEGT_UND_VERDRAHTET",
+      "title": "Durchsetzungskraft: keine marginale Gruppierung"
+    }
+  ],
+  "version": "court-grade-statistik-2026-07-09"
+}

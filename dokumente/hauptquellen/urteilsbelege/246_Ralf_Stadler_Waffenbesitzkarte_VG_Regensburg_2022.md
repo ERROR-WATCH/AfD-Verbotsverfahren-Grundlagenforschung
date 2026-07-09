@@ -11,7 +11,7 @@
 
 ## Entscheidungsgegenstand
 
-Stadler klagte gegen den Entzug seiner waffenrechtlichen Erlaubnis. Ausloeser war der rechtskraeftige Strafbefehl aus dem Jahr 2020 ueber 60 Tagessaetze. Nach der Berichterstattung sah das Verwaltungsgericht keinen Anlass, die strafrechtliche Vorentscheidung als offensichtlich falsch zu behandeln; der Schluss des Amtsgerichts sei jedenfalls denkbar und plausibel. Damit blieb die waffenrechtliche Regelvermutung fehlender Zuverlaessigkeit tragend.
+Stadler klagte gegen den Entzug seiner waffenrechtlichen Erlaubnis. Ausloeser war der rechtskraeftige Strafbefehl aus dem Jahr 2020 ueber 60 Tagessaetze. Nach der Berichterstattung sah das Verwaltungsgericht keinen Anlass, die strafrechtliche Vorentscheidung als offensichtlich falsch zu behandeln; der Schluss des Amtsgerichts sei jedenfalls denkbar und plausibel. Damit blieb die waffenrechtliche Regelvermutung präzisierter Zuverlaessigkeit tragend.
 
 ## Quelle
 

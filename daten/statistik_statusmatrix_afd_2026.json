@@ -1,0 +1,199 @@
+{
+  "stand": "2026-07-09",
+  "hinweis": "Statusmatrix fuer den Statistik-Tab. Sie trennt Bundespartei, Landesverbände, Jugendorganisationen, Vorfeldakteure, Register-/Medienstatus und Nichtbeobachtung nur einzelner Ebenen. Nichtbeobachtung ist keine Entlastung anderer Ebenen; Sonderstatus ist kein Beweismangel.",
+  "statusgruppen": [
+    {
+      "gruppe": "Bund",
+      "eintraege": [
+        {
+          "objekt": "AfD Bundespartei",
+          "status": "Verdachtsfall rechtskraeftig bestaetigt; gesichert-rechtsextremistische Hochstufung 2025/2026 als gesonderte Eil-/Hauptsacheachse fuehren, nicht als rechtskraeftige Hauptsachefeststellung",
+          "beweiswert": "hoch für den rechtskräftig bestätigten Verdachtsfall; gesichert-Bund als gesonderte Statusachse mit Eil-/Hauptsachestand führen",
+          "kernaussage": "Rechtskraeftig belegt ist die Beobachtbarkeit als Verdachtsfall. Die Hochstufung als gesichert rechtsextremistisch bleibt eine eigene Verfahrensachse; materiell sind umfangreiche amtliche, gerichtliche und gutachterliche Belege zu fuehren.",
+          "primaerbedarf": "VG Koeln/BfV-Stillhaltezusage, VG-Koeln-Beschluss 2026, BVerwG-Beschluss 2025, OVG NRW 2024 Urteil/Beschluss im Volltext",
+          "quellen_lokal": [
+            "dokumente/hauptquellen/urteilsbelege/259_AfD_Bundespartei_Gesichert_Rechtsextrem_VG_Koeln_2026.md",
+            "dokumente/hauptquellen/urteilsbelege/261_AfD_BfV_Verfassungsschutzbericht_2022_VG_Berlin_2024.md",
+            "dokumente/hauptquellen/Deepresearch_BfV_AfD_Rechtsextremismus_Belege_2025_2026.md"
+          ],
+          "diagramm": "Verfahrens-Timeline plus Status-Ampel"
+        },
+        {
+          "objekt": "Junge Alternative Bund / Nachfolgekontext",
+          "status": "BfV gesichert extremistische Bestrebung; VG Koeln Eilverfahren 05.02.2024 bestaetigt, Hauptsache anhängig; Status getrennt geführt / Beschwerdekontext gesondert markieren",
+          "beweiswert": "hoch, aber Verfahrensstand sichtbar halten",
+          "kernaussage": "Gerichte und Länderberichte sehen Verdichtung zur Gewissheit: ethnisch-abstammungsmaessiger Volksbegriff, Ausschluss ethnisch Fremder, massive auslaender- und islamfeindliche Agitation sowie Demokratieprinzip-Angriffe.",
+          "primaerbedarf": "VG Koeln 13 L 1124/23, OVG/BVerwG-Folgeentscheidungen, AfD-Beschluss zur JA-Neustrukturierung 2025",
+          "quellen_lokal": [
+            "dokumente/vfs_berichte_bundeslaender/LfV_Baden_Wuerttemberg_Verfassungsschutzbericht_2024_full.txt",
+            "dokumente/vfs_berichte_bundeslaender/LfV_Saarland_Verfassungsschutzbericht_2024_full.txt",
+            "dokumente/vfs_berichte_bundeslaender/LfV_Niedersachsen_Verfassungsschutzbericht_2024_full.txt"
+          ],
+          "diagramm": "Zurechnungsnetz JA -> AfD -> Vorfeld"
+        }
+      ]
+    },
+    {
+      "gruppe": "Länder gesichert / erwiesen",
+      "eintraege": [
+        {
+          "objekt": "AfD Thüringen",
+          "status": "erwiesen/gesichert rechtsextremistische Bestrebung",
+          "beweiswert": "sehr hoch im Landesstatus",
+          "kernaussage": "LfV Thüringen beschreibt die AfD Thüringen als erwiesen rechtsextremistische Bestrebung gegen die FDGO; Kern ist ein ethnisch-abstammungsmaessiges Volksverstaendnis, Agitation gegen Menschenwürde, Demokratie und Rechtsstaatlichkeit sowie hohe parlamentarische/kommunale Wirkungsmacht.",
+          "zahlen": {
+            "personenpotenzial_2024": 2050,
+            "personenpotenzial_2023": 1650,
+            "landtagsmandate_2024": 32
+          },
+          "quellen_lokal": [
+            "dokumente/vfs_berichte_bundeslaender/LfV_Thueringen_Verfassungsschutzbericht_2024_full.txt"
+          ],
+          "diagramm": "Landesstatuskarte plus Potentialitaetsbalken"
+        },
+        {
+          "objekt": "AfD Sachsen",
+          "status": "erwiesene extremistische Bestrebung; Einstufung als gesichert rechtsextremistisch im gerichtlichen Eilkontext bestaetigt",
+          "beweiswert": "sehr hoch fuer VS-Status, Hauptsachekontext separat",
+          "kernaussage": "LfV Sachsen fuehrt den Landesverband in der Liste der bekannten erwiesenen extremistischen Bestrebungen. Lokaler Urteilsbeleg: Eilantraege gegen die Einstufung als gesichert rechtsextremistisch vor VG Dresden/OVG Bautzen gescheitert.",
+          "quellen_lokal": [
+            "dokumente/vfs_berichte_bundeslaender/LfV_Sachsen_Verfassungsschutzbericht_2024_full.txt",
+            "dokumente/hauptquellen/urteilsbelege/262_AfD_Sachsen_Gesichert_Rechtsextrem_VG_Dresden_OVG_Bautzen.md"
+          ],
+          "diagramm": "Eilrechtsschutz/Status-Timeline"
+        },
+        {
+          "objekt": "AfD Sachsen-Anhalt",
+          "status": "gesichert rechtsextremistische Bestrebung mitsamt Teil-, Neben- und Unterorganisationen",
+          "beweiswert": "sehr hoch im Landesstatus",
+          "kernaussage": "LfV Sachsen-Anhalt begruendet die Einstufung mit Ethnopluralismus, völkisch-abstammungsmaessigem Volksbegriff, Ausweisung 'Volksfremder', menschenwuerdewidriger Abwertung von Migranten/Muslimen und fortwaehrender Erosion des Vertrauens in demokratische Institutionen.",
+          "zahlen": {
+            "mitglieder_2024": 2580,
+            "mitglieder_2023": 2210,
+            "rechtsextremismuspotenzial_2024": 4150,
+            "afd_ja_potenzial_2024": 2580
+          },
+          "quellen_lokal": [
+            "dokumente/vfs_berichte_bundeslaender/LfV_Sachsen_Anhalt_Verfassungsschutzbericht_2024_full.txt"
+          ],
+          "diagramm": "Gestapelte Balken Parteienpotenzial / Mitgliederentwicklung"
+        }
+      ]
+    },
+    {
+      "gruppe": "Länder Verdachtsfall / Verdachtsobjekt",
+      "eintraege": [
+        {
+          "objekt": "AfD Brandenburg",
+          "status": "Verdachtsfall 2024; spaetere Hochstufungs-/Klagekontexte getrennt pruefen",
+          "beweiswert": "hoch als Verdachtsfall; gesichert-Behauptung nur mit aktueller Primärquelle",
+          "kernaussage": "LfV Brandenburg 2024 sieht weiterhin hinreichend gewichtige Anhaltspunkte wegen völkisch-nationalistischer Ausrichtung. Zugleich ist die JA Brandenburg seit Juli 2023 erwiesen rechtsextremistisch.",
+          "zahlen": {
+            "afd_brandenburg_zugeordnet_2024": 1280,
+            "ja_brandenburg_2024": 150,
+            "tatsaechliche_afd_mitglieder_2024": 2600,
+            "kombiniert_abzgl_doppelzaehlung": 1400
+          },
+          "quellen_lokal": [
+            "dokumente/vfs_berichte_bundeslaender/LfV_Brandenburg_Verfassungsschutzbericht_2024_full.txt"
+          ],
+          "diagramm": "Split-Balken Verdachtsfall AfD / gesicherte JA / Gesamtmitglieder"
+        },
+        {
+          "objekt": "AfD Baden-Wuerttemberg",
+          "status": "Verdachtsfall; VG Stuttgart 18.03.2025 Klage abgewiesen, nicht rechtskraeftig; VGH-Eilbeschluss 11.11.2024 unanfechtbar",
+          "beweiswert": "hoch für Verdachtsfall",
+          "kernaussage": "LfV BW sieht extremistische Stroemungen mit ethnisch-homogenem Volksverstaendnis, Remigration/Grosser Austausch als Schwerpunkt, Menschenwürde- und Demokratie-/Rechtsstaatsbezug. Extremistische Kraefte sind noch nicht mehrheitlich durchgesetzt, aber praegen teilweise das Auftreten.",
+          "zahlen": {
+            "afd_bw_mitglieder_2024": 6200,
+            "afd_bw_mitglieder_2023": 5400,
+            "ja_bw_2024": 200,
+            "extremistisches_potenzial_2024": 1170
+          },
+          "quellen_lokal": [
+            "dokumente/vfs_berichte_bundeslaender/LfV_Baden_Wuerttemberg_Verfassungsschutzbericht_2024_full.txt"
+          ],
+          "diagramm": "Balken Mitglieder vs extremistisches Potenzial"
+        },
+        {
+          "objekt": "AfD Niedersachsen",
+          "status": "Verdachtsobjekt seit Mai 2022",
+          "beweiswert": "hoch für Beobachtungsstatus, bewusst nicht gesichert",
+          "kernaussage": "LfV Niedersachsen betont präzisierte Distanzierung von radikalen/extremistischen Positionen, Wahlkampfunterstuetzung fuer gesichert eingestufte Landesverbände, Kontakte zu Compact/Ein Prozent/Antaios und Delegitimierungsrhetorik. Zugleich wird ausdruecklich nicht jedes Mitglied als verfassungsfeindlich behandelt.",
+          "quellen_lokal": [
+            "dokumente/vfs_berichte_bundeslaender/LfV_Niedersachsen_Verfassungsschutzbericht_2024_full.txt",
+            "dokumente/hauptquellen/urteilsbelege/240_AfD_Niedersachsen_Verfassungsschutz_VG_Hannover.md"
+          ],
+          "diagramm": "Beweisampel Distanzierung / Vorfeld / Demokratieangriffe"
+        },
+        {
+          "objekt": "AfD Saarland",
+          "status": "rechtsextremistischer Verdachtsfall im Berichtskontext",
+          "beweiswert": "mittel bis hoch",
+          "kernaussage": "LfV Saarland referiert rechtskraeftige Bundes-Verdachtsfallbestaetigung und beschreibt lokale Remigrations-/IB-Naehe, Mitgliederzuwachs und Aussagen mit ethnisch-abstammungsmaessigem Volksverstaendnis.",
+          "zahlen": {
+            "mitglieder_2024_laut_partei": 1000,
+            "zuwachs_seit_2022_prozent": 150
+          },
+          "quellen_lokal": [
+            "dokumente/vfs_berichte_bundeslaender/LfV_Saarland_Verfassungsschutzbericht_2024_full.txt"
+          ],
+          "diagramm": "Timeline Bundesurteile plus lokaler Zuwachs"
+        }
+      ]
+    },
+    {
+      "gruppe": "Jugend / Vorfeld / Kontext",
+      "eintraege": [
+        {
+          "objekt": "JA Brandenburg",
+          "status": "erwiesen rechtsextremistische Bestrebung seit Juli 2023",
+          "beweiswert": "hoch",
+          "kernaussage": "Zentraler Entgrenzungsakteur im brandenburgischen AfD-Umfeld; 2024 in das AfD/JA-Personenpotenzial einbezogen.",
+          "quellen_lokal": [
+            "dokumente/vfs_berichte_bundeslaender/LfV_Brandenburg_Verfassungsschutzbericht_2024_full.txt"
+          ],
+          "diagramm": "Jugendanteil im AfD/JA-Potenzial"
+        },
+        {
+          "objekt": "JA Thüringen",
+          "status": "gesichert rechtsextremistisch seit 28.03.2024",
+          "beweiswert": "hoch",
+          "kernaussage": "LfV Thüringen sieht Anpassung an die Mutterpartei und Normalisierung verfassungsfeindlicher Positionen.",
+          "quellen_lokal": [
+            "dokumente/vfs_berichte_bundeslaender/LfV_Thueringen_Verfassungsschutzbericht_2024_full.txt"
+          ],
+          "diagramm": "Timeline Mutterpartei/JA"
+        },
+        {
+          "objekt": "JA Mecklenburg-Vorpommern",
+          "status": "im Rechtsextremismuspotenzial erfasst; Bundes-/Landes-JA-Bezug gesondert pruefen",
+          "beweiswert": "mittel",
+          "kernaussage": "Bericht weist JA MV im Personenpotenzial aus, aber die AfD als Landespartei nicht als eigenes Beobachtungsobjekt im gleichen Umfang. Relevanter Kontext sind Jugendradikalisierung, Online-Mobilisierung und bundesweite JA-Zurechnung.",
+          "zahlen": {
+            "ja_mv_2024": 20,
+            "rechtsextremismuspotenzial_mv_2024": 1950,
+            "gewaltorientierte_2024": 700
+          },
+          "quellen_lokal": [
+            "dokumente/vfs_berichte_bundeslaender/LfV_Mecklenburg_Vorpommern_Verfassungsschutzbericht_2024_full.txt"
+          ],
+          "diagramm": "Kontextbalken Rechtsextremismus/Jugend"
+        },
+        {
+          "objekt": "Neue Rechte / IB / IfS / Ein Prozent / Compact / Antaios",
+          "status": "Vorfeld, teils gesichert rechtsextremistisch bzw. Beobachtungsobjekte; Zurechnung zur AfD nur ueber konkrete Personen-, Organisations-, Kampagnen-, Medien- oder Zugangskanten",
+          "beweiswert": "hoch als Kontext, variabel fuer AfD-Zurechnung",
+          "kernaussage": "GFF, BfV und Länderberichte beschreiben kein Kontextstatus ohne Entlastungswirkung, sondern ein strategisches Mosaik aus Theorie, Medien, Kampagne, Rekrutierung und parlamentarischer Anschlussstelle.",
+          "quellen_lokal": [
+            "dokumente/ki_markdown/dokumente/splits/GFF_AfD-Gutachten_Teil_03_Teil_1_Entwicklung_Machtzentren_Vorfeld.md",
+            "geheimgutachten/BfV-AfD-Folgegutachten_2021_12_I_Fazit.md",
+            "dokumente/vfs_berichte_bundeslaender/LfV_Rheinland_Pfalz_Verfassungsschutzbericht_2024_full.txt",
+            "dokumente/vfs_berichte_bundeslaender/LfV_Niedersachsen_Verfassungsschutzbericht_2024_full.txt"
+          ],
+          "diagramm": "Netzwerkgraph Akteur -> Funktion -> AfD-Bruecke"
+        }
+      ]
+    }
+  ]
+}

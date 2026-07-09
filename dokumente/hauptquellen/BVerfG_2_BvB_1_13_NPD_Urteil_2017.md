@@ -1,10 +1,10 @@
 # BVerfG, Urteil vom 17. Januar 2017 – 2 BvB 1/13 (NPD II)
 
-**Gericht:** Bundesverfassungsgericht (2. Senat)  
-**Aktenzeichen:** 2 BvB 1/13  
-**Datum der Entscheidung:** 17. Januar 2017  
-**Veröffentlichungsreferenz:** BVerfGE 144, 20  
-**Gegenstand:** Zweites Verfahren auf Verbot der Nationaldemokratischen Partei Deutschlands (NPD)  
+**Gericht:** Bundesverfassungsgericht (2. Senat)
+**Aktenzeichen:** 2 BvB 1/13
+**Datum der Entscheidung:** 17. Januar 2017
+**Veröffentlichungsreferenz:** BVerfGE 144, 20
+**Gegenstand:** Zweites Verfahren auf Verbot der Nationaldemokratischen Partei Deutschlands (NPD)
 
 ---
 
@@ -19,8 +19,8 @@
    * Ein über die bloße Bekundung von verfassungsfeindlichen Überzeugungen hinausgehendes, **planvolles und zielgerichtetes Handeln** zur Beseitigung der verfassungsmäßigen Ordnung.
    * Konkrete Anhaltspunkte für eine **aktiv-kämpferische Haltung** der Partei oder ihrer Anhänger.
 
-3. Das Parteiverbot ist ein scharfes Schwert der wehrhaften Demokratie. Ein Verbot scheidet aus, wenn es an der **Potentialität** des Handelns der Partei fehlt. Konkrete Anhaltspunkte von Gewicht müssen vorliegen, die es zumindest möglich erscheinen lassen, dass das Handeln der Partei erfolgreich sein kann. 
-   * Fehlt es an einer realen Chance (Machtchance), die verfassungsfeindlichen Ziele zu erreichen (z. B. aufgrund von völliger politischer Bedeutungslosigkeit oder mangelnder Mobilisierungsfähigkeit), ist ein Verbot mangels konkreter Gefahr für die demokratische Ordnung unverhältnismäßig.
+3. Das Parteiverbot ist ein scharfes Schwert der wehrhaften Demokratie. Ein Verbot scheidet aus, wenn es an der **Potentialität** des Handelns der Partei ist als Pinpoint-/Statusfeld geführt. Konkrete Anhaltspunkte von Gewicht müssen vorliegen, die es zumindest möglich erscheinen lassen, dass das Handeln der Partei erfolgreich sein kann.
+   * Pinpoint-/Statusfeld es an einer realen Chance (Machtchance), die verfassungsfeindlichen Ziele zu erreichen (z. B. aufgrund von völliger politischer Bedeutungslosigkeit oder mangelnder Mobilisierungsfähigkeit), ist ein Verbot mangels konkreter Gefahr für die demokratische Ordnung unverhältnismäßig.
 
 ---
 

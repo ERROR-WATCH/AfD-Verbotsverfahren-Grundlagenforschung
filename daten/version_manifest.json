@@ -1,0 +1,24 @@
+{
+  "canonical_counts": {
+    "files_indexed": 10373,
+    "findings_art21_entries": 3732,
+    "gerichtsfälle_current": 262,
+    "gerichtsfälle_legacy_239": "full-sources.md Altregister vor Nachtraegen",
+    "gerichtsfälle_legacy_244": "statistikquellen/STATISTIKMODUL Altstand",
+    "proof_quotes_current": 3611,
+    "source_inventory_entries": 10323,
+    "verbotsgruende_current": 18
+  },
+  "generated_at": "2026-07-09T00:00:00+02:00",
+  "hashes": {
+    "README.md": "496c9ade6579634619eae38f9e7ed18147b87de15415291dd3571db2d59a7bde",
+    "daten/findings_art21.jsonl": "737dc7a0d8f4f5fffeab4a231b04eee3b53fd61430e79c06a08e2dcd2be88610",
+    "daten/repo_file_index_2026.jsonl": "ba2e1067fc4d0375a8aef6a5255efd58c8f8687913d9030cc4dea40151e67b31",
+    "daten/source_inventory.jsonl": "5ddc83e1264ef6ce0df65eb7a92cad6c9166ad0d24c439edf4e2d7fb9733b026",
+    "daten/statistik_manifest.json": "5e254d37e06bf1b034c44742bfe5d405ab76e7a8982728a0b34dd51bfed4ef68",
+    "daten/verbotsgruende_18_beweismatrix.jsonl": "391ddfa538755e9d13f670ede1add4fc2025288e0ad904501b841bd9c8ecfd21",
+    "full-sources.md": "b8c09a44f89ebe7376ed139be815135144a886b077e96b05ee4470fe447603b1"
+  },
+  "rule": "Jede Frontend-Zahl braucht stat_id/build_version/dataset_hash/query_ref oder wird als Legacy-/Auditwert markiert.",
+  "version": "court-grade-statistik-2026-07-09"
+}

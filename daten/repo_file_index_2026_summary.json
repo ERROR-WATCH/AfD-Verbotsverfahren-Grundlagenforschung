@@ -1,0 +1,35 @@
+{
+  "generated_at": "2026-07-09",
+  "total_files_indexed": 10373,
+  "by_source_type": {
+    "Zitat-/Proof-Datei": 7222,
+    "Gericht / Urteils- oder Verfahrensbeleg": 1117,
+    "Arbeitsdatei / sonstige Datei": 743,
+    "Presse-/Recherchebeleg mit Tatsachenkern": 396,
+    "Verfassungsschutzbericht / amtliche VS-Quelle": 316,
+    "BfV-Gutachten / amtlicher Gutachtenkomplex": 266,
+    "Gutachten / wissenschaftlich-institutionelle Analyse": 104,
+    "Parteiprimaerquelle": 93,
+    "Parlamentarische Primärquelle": 64,
+    "Strukturierter Statistik-/Finding-Datensatz": 19,
+    "Bild-/Medienbeleg oder Visualisierungsvorlage": 16,
+    "Quellenregister / Masterliste / Methodik": 11,
+    "DeepResearch-/RAG-Extraktion": 6
+  },
+  "by_verdrahtungsstatus": {},
+  "by_art21_cluster": {
+    "rechtsstaatsprinzip": 9102,
+    "demokratieprinzip": 8618,
+    "sicherheit_umsturz_spionage": 7872,
+    "vorfeld": 7752,
+    "presse_medien": 2865,
+    "antisemitismus_ns": 1595,
+    "menschenwuerde": 1593,
+    "potentialitaet": 1161,
+    "allgemein": 718,
+    "darauf_ausgehen": 626
+  },
+  "index_path": "daten/repo_file_index_2026.jsonl",
+  "method": "Alle lokalen Dateien ausser .git rekursiv inventarisiert; Textdateien bis 12k Zeichen gescannt; PDFs/Bilder ueber Pfad, Namen und Kategorie klassifiziert.",
+  "status_rule": "Lokale Proof-, Quellen-, Gerichts-, Gutachten- und Statistikpfade werden als BELEGT_UND_VERDRAHTET geführt. Schriftsatz-Pinpoint betrifft Pinpoint, Originalanker, Akteur, Ebene, Rechtskraft und Gegenlese; sie ist kein Beweismangel."
+}

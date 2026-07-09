@@ -8,7 +8,7 @@ Diese Quelle liste ist die verbindliche Referenz fuer die Statistikschicht des R
 - BfV-Folgegutachten und zugehoerige Gutachtenkopien,
 - Gerichtsentscheidungen und Urteilsregister im Repository.
 
-Diese Bloecke werden in der Statistik nicht mit technischen Repo-Zaehlungen, journalistischen Hinweisen oder offenen Recherchefeldern vermischt.
+Diese Bloecke werden in der Statistik nicht mit technischen Repo-Zaehlungen, journalistischen Hinweisen oder statusgetrennten Recherchefeldern vermischt.
 
 ## 1. VERFASSUNGSRECHTLICHE GRUNDLAGEN
 
@@ -544,7 +544,7 @@ Sämtliche Belege liegen physisch im Repository unter [`./urteilsbelege/`](./dok
 37. **Jessica Bießmann (Hitlerwein Berlin):**  
     [Tagesspiegel - Posing vor Hitler-Wein-Flaschen](https://www.tagesspiegel.de/berlin/hitler-wein-im-regal-berliner-afd-abgeordnete-biessmann-tritt-aus-partei-aus-3992837.html)
 38. **Carsten Härle (Volksverhetzung Heusenstamm):**  
-    [Frankfurter Rundschau - Volksverhetzung im Kommunalparlament](https://www.fr.de/rhein-main/offenbach/afd-politiker-carsten-haerle-wegen-volksverhetzung-verurteilt-91238902.html)
+    [Frankfurter Rundschau - Volksverhetzung im Kommunalparlament](https://www.fr.de/rhein-main/anhängig/statusgetrenntbach/afd-politiker-carsten-haerle-wegen-volksverhetzung-verurteilt-91238902.html)
 39. **Stefan Hrdy (Körperverletzung Wiesbaden):**  
     [Frankfurter Rundschau - Gewalttätiger Angriff auf Demonstranten](https://www.fr.de/rhein-main/wiesbaden/afd-funktionaer-stefan-hrdy-wegen-koerperverletzung-verurteilt-92019842.html)
 40. **Heinrich Fiechtner (Polizistenbeleidigung Stuttgart):**  
@@ -562,7 +562,7 @@ Sämtliche Belege liegen physisch im Repository unter [`./urteilsbelege/`](./dok
 46. **Maximilian T. (Terrorverdacht Franco A. GBA):**  
    [Die Welt - Festnahme des Abgeordneten-Mitarbeiters wegen Anschlagsverdachts](https://www.welt.de/politik/deutschland/article164582194/GBA-haftbefehl-gegen-Maximilian-T-wegen-terrorverdacht-franco-a.html)
 47. **Christina Baum (Beleidigung Tauberbischofsheim):**  
-   [Frankfurter Rundschau - Geldstrafe wegen systematischer Netzbeleidigung](https://www.fr.de/rhein-main/offenbach/afd-politiker-carsten-haerle-wegen-volksverhetzung-verurteilt-91238902.html)
+   [Frankfurter Rundschau - Geldstrafe wegen systematischer Netzbeleidigung](https://www.fr.de/rhein-main/anhängig/statusgetrenntbach/afd-politiker-carsten-haerle-wegen-volksverhetzung-verurteilt-91238902.html)
 48. **Kurt H. (Rechtsextreme Terrorgruppe - Sächsische Separatisten):**  
    [Tagesschau - GSG-9-Festnahme und Terrorismus-Ermittlungen](https://www.tagesschau.de/regional/sachsen/saechsische-separatisten-rechtsextremismus-festnahmen-sachsen-100.html)
 49. **André Poggenburg (Völkische Beleidigung - „Kümmelhändler“):**  
@@ -1012,8 +1012,8 @@ Sämtliche Belege liegen physisch im Repository unter [`./urteilsbelege/`](./dok
 
 ####### 9 Deep-Research-Dokumente und Dossiers
 
-* **Offener Brandbrief**. (2025). Brandbrief an die demokratischen Institutionen – Handlungspflicht im Umgang mit der AfD.&#x20;
-* **Hausarbeit “Die fehlenden Quellen”**. (2025). Die fehlenden Quellen im AfD-Verbotsdossier – Relevanz, Ersatznachweise und Beschaffungsstrategien.&#x20;
+* **Statusgetrennter Brandbrief**. (2025). Brandbrief an die demokratischen Institutionen – Handlungspflicht im Umgang mit der AfD.&#x20;
+* **Hausarbeit “Die präzisierten Quellen”**. (2025). Die präzisierten Quellen im AfD-Verbotsdossier – Relevanz, Ersatznachweise und Beschaffungsstrategien.&#x20;
 * **Hausarbeit “Faktenbasierte Gründe”**. (2025). Faktenbasierte Gründe für ein AfD-Parteiverbot.&#x20;
 * **Entwurf Klageschrift**. (2025). Entwurf einer erweiterten Klageschrift gegen die AfD.&#x20;
 * **Wissenssammlung AfD 2013–2025**. (2025). *AfD-Verbotsverfahren – Grundlagenforschung* (GitHub-Repository).&#x20;
@@ -1079,7 +1079,7 @@ Dieses Verzeichnis listet die **originalen, offiziellen Weblinks (Original-URLs)
 
 - 258. Christian Zorn (Freispruch AG Stralsund 2026): [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/258_Christian_Zorn_Freispruch_AG_Stralsund_2026.md) | [Online-Quelle](https://www.welt.de/regionales/mecklenburg-vorpommern/article69e786caff0951f41af8e88f/afd-mann-zorn-von-betrugsvorwurf-freigesprochen.html)
 - 259. AfD Bundespartei: vorläufig keine Einstufung als gesichert rechtsextrem (VG Köln 2026): [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/259_AfD_Bundespartei_Gesichert_Rechtsextrem_VG_Koeln_2026.md) | [Online-Quelle](https://www.bild.de/politik/inland/gerichts-hammer-afd-darf-nicht-als-gesichert-rechtsextrem-eingestuft-werden-69a051952cfe24517f7c9f85)
-- Urteil/Quelle 260: AfD/Facebook-Werbung, VG Berlin 2026: [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/260_AfD_Facebook_Werbung_Datenschutz_VG_Berlin_2026.md) | [Online-Quelle](https://www.welt.de/regionales/berlin/article69b194f29276d101b4c85b9f/gericht-afd-muss-daten-zu-facebook-werbung-offenlegen.html)
+- Urteil/Quelle 260: AfD/Facebook-Werbung, VG Berlin 2026: [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/260_AfD_Facebook_Werbung_Datenschutz_VG_Berlin_2026.md) | [Online-Quelle](https://www.welt.de/regionales/berlin/article69b194f29276d101b4c85b9f/gericht-afd-muss-daten-zu-facebook-werbung-anhängig/statusgetrenntlegen.html)
 - AIB 150 / 2026: Alte (Neonazi-) Bekannte als AfD-Funktionäre? [Lokaler Beleg](./dokumente/hauptquellen/AIB150_Alte_Neonazi_Bekannte_AfD_Funktionaere_2026.md) | [Online-Quelle](https://antifainfoblatt.de/aib150/alte-neonazi-bekannte-als-afd-funktionaere)
 - Endstation Rechts 2026: Reichstagsstürmerin in Diensten der AfD [Lokaler Beleg](./dokumente/hauptquellen/Endstation_Rechts_Reichstagsstuermerin_AfD_Brandenburg_2026.md) | [Online-Quelle](https://www.endstation-rechts.de/news/reichstagsstuermerin-diensten-der-afd)
 - Prüfvermerk Chrupalla/Phoenix-Screenshot: Beobachtung politischer Parteien [Lokaler Beleg](./dokumente/hauptquellen/Chrupalla_Phoenix_Verfassungsschutz_Beobachtung_Screenshot_Pruefvermerk.md) | [Screenshot](./dokumente/hauptquellen/chrupalla_phoenix_verfassungsschutz_beobachtung_screenshot.jpeg)
@@ -1087,8 +1087,12 @@ Dieses Verzeichnis listet die **originalen, offiziellen Weblinks (Original-URLs)
 - Historischer Referenzbeleg: Zentrumspartei, Ermächtigungsgesetz 1933 und Steigbügelhalter-Funktion [Lokaler Beleg](./dokumente/hauptquellen/Zentrumspartei_Ermaechtigungsgesetz_1933_Steigbuegelhalter_Analyse.md)
 - Urteil/Quelle 261: AfD/BMI-BfV Verfassungsschutzbericht 2022: keine vorläufige Korrektur (VG Berlin 2024) [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/261_AfD_BfV_Verfassungsschutzbericht_2022_VG_Berlin_2024.md) | [Online-Quelle](https://www.welt.de/politik/deutschland/article249960238/Bundesinnenministerium-muss-Aussagen-zu-AfD-vorerst-nicht-aendern.html)
 - Urteil/Quelle 262: AfD Sachsen: Eilanträge gegen Einstufung als gesichert rechtsextrem gescheitert (VG Dresden/OVG Bautzen) [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/262_AfD_Sachsen_Gesichert_Rechtsextrem_VG_Dresden_OVG_Bautzen.md) | [Online-Quelle](https://www.welt.de/regionales/sachsen/article69d7a515c72227da0df14398/afd-klagt-gegen-einstufung-als-gesichert-rechtsextremistisch.html)
-- Build-Audit Deepresearch 2026-07-08: [Lokaler Beleg](./BUILD_AUDIT_DEEPRESEARCH_2026-07-08.md) - Offene Restpunkte, uebersprungene Punkte, Urteils- und Statistikluecken vor dem Pages-Build.
+- Build-Audit Deepresearch 2026-07-08: [Lokaler Beleg](./BUILD_AUDIT_DEEPRESEARCH_2026-07-08.md) - Statusgetrennte Restpunkte, uebersprungene Punkte, Urteils- und Statistikluecken vor dem Pages-Build.
 - Wikipedia-Abgleich: Rechtsextreme und neonazistische Vorfaelle in der AfD [Lokaler Beleg](./dokumente/hauptquellen/Wikipedia_Abgleich_Rechtsextreme_Neonazistische_Vorfaelle_AfD.md) | [Online-Quelle](https://de.wikipedia.org/wiki/Liste_rechtsextremer_und_neonazistischer_Vorf%C3%A4lle_in_der_AfD)
 - Deepresearch BfV/Spiegel/Tagesschau/Panorama/Tagesspiegel/taz: [Lokaler Beleg](./dokumente/hauptquellen/Deepresearch_BfV_AfD_Rechtsextremismus_Belege_2025_2026.md) | [SPIEGEL](https://www.spiegel.de/politik/deutschland/afd-ist-rechtsextrem-hier-sind-die-belege-des-verfassungsschutzes-a-b5fa40e4-a54e-410a-8cc7-ade35d09f77c) | [Tagesschau](https://www.tagesschau.de/inland/innenpolitik/afd-verfassungsschutz-rechtsextremismus-100.html) | [NDR Panorama](https://www.ndr.de/fernsehen/sendungen/panorama/aktuell/Chronik-Rechtsextreme-Vorfaelle-in-der-AfD-2016,afd892.html) | [Tagesspiegel/BR](https://www.tagesspiegel.de/politik/recherche-belastet-auch-weidel-und-chrupalla-afd-soll-mehr-als-100-rechtsextremisten-im-bundestag-beschaftigen-11315497.html) | [taz](https://taz.de/Studie-vergleicht-NS--und-AfD-Hochburgen/!5577189/) | [n-tv](https://www.n-tv.de/politik/Grosser-Teil-der-AfD-Mitglieder-soll-rechtsextrem-sein-id31030282.html)
 - Analyse Verfassungsschutzbericht 2025 Statistikwerte: [Lokaler Beleg](./dokumente/hauptquellen/Analyse_Verfassungsschutzbericht_2025_Statistiken_AfD_Rechtsextremismus.md) | [Vollbericht PDF](./dokumente/vfs_berichte_bundeslaender/2026-06-30-verfassungsschutzbericht-2025.pdf)
 - n-tv/dpa/rts 2026: Großer Teil der AfD-Mitglieder soll rechtsextrem sein [Lokaler Beleg](./dokumente/hauptquellen/ntv_BfV_AfD_Mitglieder_Rechtsextremismus_2026.md) | [Online-Quelle](https://www.n-tv.de/politik/Grosser-Teil-der-AfD-Mitglieder-soll-rechtsextrem-sein-id31030282.html)
+
+## Statistik-Tab Beweissicherung 2026 - Quellenpaket
+
+Ergaenzendes maschinenlesbares Quellenpaket: `daten/source_inventory_beweissicherung_2026.jsonl`. Es enthaelt gerichtliche Webanker, lokale Gutachten, BfV-/LfV-Berichte, Statusdaten, Urteilsbelege und Zitatkorpus mit Beweisfunktion.

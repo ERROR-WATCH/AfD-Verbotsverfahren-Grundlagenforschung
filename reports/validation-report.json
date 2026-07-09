@@ -1,0 +1,13 @@
+{
+  "generated_at": "2026-07-09T21:11:35.779Z",
+  "counts": {
+    "manifest": 260,
+    "source_inventory": 10427,
+    "findings": 3757,
+    "verbotsgruende": 18,
+    "open_tasks": 18
+  },
+  "fatal": [],
+  "warnings": [],
+  "notes": []
+}

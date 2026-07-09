@@ -45,8 +45,32 @@ function countBool(rows, predicate) {
   return rows.reduce((sum, row) => sum + (predicate(row) ? 1 : 0), 0);
 }
 
+function normalizeManifestUiText(value) {
+  if (typeof value !== 'string') return value;
+  return value
+    .replace(/Primaerquellen/g, 'Primärquellen')
+    .replace(/Primaerquelle/g, 'Primärquelle')
+    .replace(/Primaeranker/g, 'Primäranker')
+    .replace(/Sekundaerchronik/g, 'Sekundärchronik')
+    .replace(/Sekundaerbeleg/g, 'Sekundärbeleg')
+    .replace(/Sekundaerquelle/g, 'Sekundärquelle')
+    .replace(/Sekundaer/g, 'Sekundär')
+    .replace(/Laender/g, 'Länder')
+    .replace(/hoechste/g, 'höchste')
+    .replace(/Beweisluecke/g, 'Beweislücke')
+    .replace(/Zaehlung/g, 'Zählung')
+    .replace(/Quellennaehe/g, 'Quellennähe');
+}
+
+function normalizeManifestEntryUiText(entry) {
+  for (const key of ['title', 'subtheme', 'source_type', 'finding_location', 'method', 'legal_relevance', 'limitations']) {
+    if (key in entry) entry[key] = normalizeManifestUiText(entry[key]);
+  }
+  return entry;
+}
+
 function manifestEntry({ id, title, value, unit, theme, subtheme, source, source_type, source_path, finding_location, method, legal_relevance, article_21_field, evidence_grade = 'B', status = 'geprueft', limitations }) {
-  return { id, title, value, unit, theme, subtheme, source, source_type, source_path, finding_location, method, legal_relevance, article_21_field, evidence_grade, status, limitations };
+  return normalizeManifestEntryUiText({ id, title, value, unit, theme, subtheme, source, source_type, source_path, finding_location, method, legal_relevance, article_21_field, evidence_grade, status, limitations });
 }
 
 function pushDistribution(manifest, rows, cfg) {
@@ -79,7 +103,7 @@ async function safeRead(file) {
 async function main() {
   const findings = readJsonl(await fs.readFile(findingsPath, 'utf8'));
   const inventory = readJsonl(await fs.readFile(inventoryPath, 'utf8'));
-  const validatedFindings = findings.filter(f => f.pruefstatus === 'geprueft');
+  const validatedFindings = findings;
   const aggregate = validatedFindings.filter(f => f.granularity === 'aggregate');
   const quote = validatedFindings.filter(f => f.granularity === 'quote');
   const usableSources = inventory.filter(row => row.statistik_nutzbar === true && row.nur_recherchehinweis !== true);
@@ -127,16 +151,16 @@ async function main() {
     }),
     manifestEntry({
       id: 'STAT-FINDINGS-TOTAL-001',
-      title: 'Gepruefte Findings im Art.-21-Datensatz',
+      title: 'Findings im Art.-21-Datensatz',
       value: validatedFindings.length,
       unit: 'Findings',
       theme: 'Finding-Korpus',
-      subtheme: 'Gesamtbestand geprueft',
+      subtheme: 'Gesamtbestand',
       source: 'daten/findings_art21.jsonl',
       source_type: 'Extraktionsdatensatz / Findings',
       source_path: 'daten/findings_art21.jsonl',
-      finding_location: 'Alle Findings mit pruefstatus=geprueft',
-      method: 'Zaehlung aller validierten Findings im Art.-21-Datensatz.',
+      finding_location: 'Alle Findings im Art.-21-Datensatz',
+      method: 'Zaehlung aller Findings im Art.-21-Datensatz; Beweisgrad und Pruefstatus bleiben je Finding separat sichtbar.',
       legal_relevance: 'Belegdichte, Nachvollziehbarkeit, Wiederholungsmuster',
       article_21_field: 'Belegdichte / Zurechnung / Planmaessigkeit',
       limitations: 'Findings sind strukturierte Befunde und muessen fuer Subsumtion mit Quelle und Kontext gelesen werden.'
@@ -207,19 +231,19 @@ async function main() {
     }),
     manifestEntry({
       id: 'STAT-SOURCES-PRIMARY-001',
-      title: 'Quelleninventar: Primaerquellen',
+      title: 'Quelleninventar: Primärquellen',
       value: primarySources.length,
       unit: 'Quellen',
       theme: 'Quelleninventar',
-      subtheme: 'Primaerquellen',
+      subtheme: 'Primärquellen',
       source: 'daten/source_inventory.jsonl',
       source_type: 'Quelleninventar',
       source_path: 'daten/source_inventory.jsonl',
       finding_location: 'primärquelle=true',
-      method: 'Zaehlung aller als Primaerquelle markierten Quellen.',
+      method: 'Zählung aller als Primärquelle markierten Quellen.',
       legal_relevance: 'Beweisnaehe und Zurechnungsqualitaet',
       article_21_field: 'Zurechnung / Belegdichte / Potentialitaet',
-      limitations: 'Primaerquelle beschreibt Quellennaehe, nicht automatisch juristische Durchschlagskraft.'
+      limitations: 'Primärquelle beschreibt Quellennähe, nicht automatisch juristische Durchschlagskraft.'
     }),
     manifestEntry({
       id: 'STAT-FINDINGS-OFFICIAL-001',

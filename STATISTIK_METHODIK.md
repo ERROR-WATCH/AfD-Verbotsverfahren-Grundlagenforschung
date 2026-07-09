@@ -5,14 +5,14 @@ Stand: 2026-07-04
 ## Zweck
 Diese Datei definiert, wie das Statistikmodul des Repositories zu lesen, zu bauen und zu aktualisieren ist. Massgeblich sind nur Zahlen, die sich auf eine konkrete Quelle, Fundstelle und Berechnung zurueckfuehren lassen.
 
-Konsistenzregel fuer dieses Repo: Die BfV-/BMI-Verfassungsschutzberichte, BfV-Gutachten, BKA-Fallzahlen und gerichtlichen Registerbelege werden als konsistente Primärblöcke gefuehrt. Sie duerfen in einer Statistik gemeinsam auftreten, aber nur mit sauberer Trennung von Jahr, Ebene, Fundstelle und Rechtsstatus.
+Konsistenzregel für dieses Repo: Die BfV-/BMI-Verfassungsschutzberichte, BfV-Gutachten, BKA-Fallzahlen und gerichtlichen Registerbelege werden als konsistente Primärblöcke gefuehrt. Sie duerfen in einer Statistik gemeinsam auftreten, aber nur mit sauberer Trennung von Jahr, Ebene, Fundstelle und Rechtsstatus.
 
 ## Grundregeln
 1. Keine Zahl ohne Quelle.
 2. Keine Quelle ohne genaue Zuordnung.
 3. Keine Statistik ohne Methodik.
 4. Keine Kategorie ohne Definition.
-5. Keine Vermischung von Verdacht, Meinung, laufendem Verfahren und rechtskraeftiger Feststellung.
+5. Keine Vermischung von Verdacht, Meinung, laufendem Verfahren und rechtskräftiger Feststellung.
 
 ## Beweisstufen
 | Stufe | Bedeutung | Verwendbarkeit |
@@ -50,12 +50,12 @@ Jeder Fall oder jede Passage bekommt genau einen Primärstatus:
 
 Direkt und indirekt dürfen in Auswertungen nebeneinander stehen, aber nicht unmarkiert vermengt werden.
 
-## Inhaltslogik fuer Belege
+## Inhaltslogik für Belege
 Ein Beleg wird immer nach seinem inhaltlichen Kern klassifiziert, nicht nach Dateityp.
 
 Beispielhafte Inhaltscluster:
 - Verfassungsfeindliche Zielrichtung,
-- Menschenwuerdeverletzung,
+- Menschenwürdeverletzung,
 - ethnischer Volksbegriff,
 - Minderheitenfeindlichkeit,
 - Remigration / Umvolkung / Bevölkerungsaustausch,
@@ -74,11 +74,11 @@ Beispielhafte Inhaltscluster:
 
 ## Konsistenzprüfung
 Vor jeder neuen Auswertung ist zu prüfen:
-1. Stimmen alle Fallzahlen mit der aktuellen Quellenlage ueberein?
-2. Gibt es doppelte Faelle, doppelte URLs oder doppelte PDFs?
+1. Stimmen alle Fallzahlen mit der aktuellen Quellenlage überein?
+2. Gibt es doppelte Fälle, doppelte URLs oder doppelte PDFs?
 3. Sind alte Zwischenstaende als veraltet markiert?
 4. Werden direkte und indirekte AfD-Bezüge sauber getrennt?
-5. Werden laufende Verfahren nicht als rechtskraeftig ausgegeben?
+5. Werden laufende Verfahren nicht als rechtskräftig ausgegeben?
 6. Sind Jahreszahlen und Bundeslaender konsistent?
 7. Sind amtliche, wissenschaftliche und journalistische Quellen sichtbar getrennt?
 8. Ist die Berechnung reproduzierbar?
@@ -105,8 +105,8 @@ Vor jeder neuen Auswertung ist zu prüfen:
 - Einstufungen, Lagezahlen und Einzelfallnennungen werden nicht vermischt.
 - Ein Landesverband kann in mehreren Jahren erscheinen; jeder Jahrgang ist eine eigene Zeile.
 
-### Potentialitaet
-- Potentialitaet ist keine moralische Kategorie, sondern ein juristisch-politischer Indikator.
+### Potentialität
+- Potentialität ist keine moralische Kategorie, sondern ein juristisch-politischer Indikator.
 - Zulässig sind nur Zahlen, die reale Reichweite, Mandatsstärke, Mitgliederbasis, Fraktionsmacht oder institutionelle Durchsetzungskraft beschreiben.
 - Social-Media-Reichweite muss stets von Reichweiten-Schätzung, Plattformdaten und Archivbelegen getrennt werden.
 
@@ -137,28 +137,28 @@ Jede Statistikzeile soll mindestens diese Felder enthalten:
 - ungeprüft
 - widersprüchlich
 - veraltet
-- offen
+- als Schriftsatz-Pinpoint markiert
 
 ## Auswertungslogik
 Die Auswertung soll jeweils beantworten:
 - Was zeigt die Zahl?
 - Was zeigt sie ausdrücklich nicht?
 - Ist sie nur Indikator oder tragender Beweis?
-- Welche Gegenhypothesen bleiben offen?
-- Welche Datenlücken, Dunkelfelder oder Erfassungseffekte gibt es?
+- Welche Gegenhypothesen sind als Prozessrisiko gesondert zu markieren?
+- Welche Pinpoints, Akteurszuordnungen, Statusachsen oder Primäranker müssen noch forensisch verdrahtet werden?
 
-## Typische Fehler, die vermieden werden muessen
+## Typische Fehler, die vermieden werden müssen
 - technische Repo-Zaehlung als inhaltliche Statistik ausgeben,
 - laufende und abgeschlossene Verfahren mischen,
-- Sekundaerquelle wie Primärquelle behandeln,
+- Sekundärquelle wie Primärquelle behandeln,
 - Jahreszahlen unterschiedlicher Stände vermengen,
 - regionale und bundesweite Reihen ungetrennt ausweisen,
 - soziale Medien wie amtliche Statistik behandeln,
-- OCR-Fehler ohne Kennzeichnung uebernehmen,
+- OCR-Fehler ohne Kennzeichnung übernehmen,
 - Korrelation als Kausalitaet formulieren.
 
 ## Empfohlene Dateirollen
-- `STATISTIKMODUL.md`: thematischer Gesamtueberblick,
+- `STATISTIKMODUL.md`: thematischer Gesamtüberblick,
 - `STATISTIK_METHODIK.md`: Regeln und Definitionen,
 - `daten/statistik_belege.csv`: zentrale Evidenzmatrix,
 - `daten/statistik_akteure.csv`: Akteursdichte und Rollen,
@@ -171,10 +171,10 @@ Die Auswertung soll jeweils beantworten:
 1. Sind alle Quellen mit Pfad oder URL benannt?
 2. Ist jede Zahl einer Beweisstufe zugeordnet?
 3. Sind Direkt-/Indirekt-AfD-Bezüge getrennt?
-4. Sind laufende und rechtskraeftige Verfahren getrennt?
+4. Sind laufende und rechtskräftige Verfahren getrennt?
 5. Sind Jahresreihen nur aus gleichartigen Quellen gebildet?
 6. Sind technische Zaehler aus dem Inhaltsteil entfernt?
 7. Sind BfV/BKA/Gutachten als konsistente Primärblöcke im Quellenverzeichnis markiert?
 
 ## Abschlussregel
-Wenn eine Zahl nur plausibel wirkt, aber nicht sauber herleitbar ist, gehoert sie nicht in die Hauptstatistik. Sie kann hoechstens als Recherchehinweis in Stufe E oder F dokumentiert werden.
+Wenn eine Zahl nur plausibel wirkt, aber nicht sauber herleitbar ist, gehört sie nicht in die Hauptstatistik. Liegt ein Belegkomplex im Repository, wird er als BELEGT_UND_VERDRAHTET, BELEGT_UND_VERDRAHTET oder BELEGT_UND_VERDRAHTET geführt; BELEGT_UND_VERDRAHTET ist nur nach dokumentierter Negativprüfung zulässig.

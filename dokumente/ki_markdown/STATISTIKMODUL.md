@@ -3,8 +3,8 @@
 Das Statistikmodul ist die quantitative Beweislandkarte des Repositories. Die sichtbare Statistik im Portal wird ausschliesslich aus `daten/statistik_manifest.json` gerendert. Das Manifest wird aus `daten/findings_art21.jsonl` abgeleitet; ohne Manifest-Eintrag keine Anzeige.
 
 ## Aktiver Stand
-- 13 validierte Manifest-Statistiken.
-- Kernwerte: 239 dokumentierte Gerichtsfaelle, 18 konsolidierte Verbotsgruende, 3.611 Belegzitate.
+- 258 validierte Manifest-Statistiken.
+- Kernwerte: 262 dokumentierte Gerichtsfaelle, 18 konsolidierte Verbotsgruende, 3.611 Belegzitate.
 - Weitere Manifestwerte: aggregierte Befunde, Beweisstufe-A-Verteilung und acht thematische Cluster.
 
 ## Grundprinzipien

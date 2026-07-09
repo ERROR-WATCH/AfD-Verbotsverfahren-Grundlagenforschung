@@ -1,0 +1,367 @@
+{
+  "total": 3611,
+  "with_originaltext": 295,
+  "with_pinpoint": 3611,
+  "with_actor": 3419,
+  "local_source_path": 3611,
+  "direct_attribution": 899,
+  "indirect_attribution": 20,
+  "belegpfad_normalisierung": 2692,
+  "to_normalize": 2692,
+  "official_or_court": 1178,
+  "strong_evidence_grade_abc": 1159,
+  "court_ready_quote_findings": 37,
+  "pinpoint_route_task": 0,
+  "originaltext_route_task": 3316,
+  "legal_note": "Zitat-Findings werden nicht als lose Wortzählung gewertet, sondern als Quelle -> Pinpoint -> Akteur -> Zurechnung -> Art.-21-Prüffeld -> Beweisstufe. Belegpfad-Normalisierung ist als Quellen- und Akteursroute zu prüfen.",
+  "by_art21": [
+    {
+      "label": "Verfassungsfeindliche Zielrichtung",
+      "value": 2130
+    },
+    {
+      "label": "Rechtsstaatsprinzip",
+      "value": 714
+    },
+    {
+      "label": "Menschenwürde",
+      "value": 354
+    },
+    {
+      "label": "Potentialitaet",
+      "value": 282
+    },
+    {
+      "label": "aktiv-kaempferisches Vorgehen",
+      "value": 50
+    },
+    {
+      "label": "Menschenwürde / Minderheitenfeindlichkeit",
+      "value": 43
+    },
+    {
+      "label": "Demokratieprinzip",
+      "value": 27
+    },
+    {
+      "label": "Ethnischer Volksbegriff / Remigration",
+      "value": 11
+    }
+  ],
+  "by_evidence_grade": [
+    {
+      "label": "E",
+      "value": 2452
+    },
+    {
+      "label": "A",
+      "value": 1159
+    }
+  ],
+  "by_source_type": [
+    {
+      "label": "Social Media / Video",
+      "value": 1641
+    },
+    {
+      "label": "amtlich/gutachtlich",
+      "value": 626
+    },
+    {
+      "label": "gerichtlich",
+      "value": 538
+    },
+    {
+      "label": "lokaler Belegpfad / sonstige Quelle",
+      "value": 497
+    },
+    {
+      "label": "parteieigene Quelle",
+      "value": 162
+    },
+    {
+      "label": "Presse/Recherche",
+      "value": 131
+    },
+    {
+      "label": "parlamentarisch",
+      "value": 16
+    }
+  ],
+  "by_attribution": [
+    {
+      "label": "Belegpfadbasierte Zurechnungsnormalisierung",
+      "value": 2692
+    },
+    {
+      "label": "Direkte AfD-/Funktionärszurechnung",
+      "value": 899
+    },
+    {
+      "label": "Indirekte Organisations-/Vorfeldzurechnung",
+      "value": 20
+    }
+  ],
+  "by_actor": [
+    {
+      "label": "Björn Höcke",
+      "value": 285
+    },
+    {
+      "label": "Akteur im Belegpfad zu normalisieren",
+      "value": 192
+    },
+    {
+      "label": "Der Bundesvorstand",
+      "value": 143
+    },
+    {
+      "label": "Maximilian Krah",
+      "value": 112
+    },
+    {
+      "label": "Christina Baum",
+      "value": 86
+    },
+    {
+      "label": "Gottfried Curio",
+      "value": 86
+    },
+    {
+      "label": "Sturmabteilung (JA) der AfD",
+      "value": 86
+    },
+    {
+      "label": "Alexander Gauland",
+      "value": 61
+    },
+    {
+      "label": "Alice Weidel",
+      "value": 57
+    },
+    {
+      "label": "Hans-Thomas Tillschneider",
+      "value": 52
+    },
+    {
+      "label": "René Springer",
+      "value": 50
+    },
+    {
+      "label": "Beatrix von Storch",
+      "value": 49
+    },
+    {
+      "label": "Matthias Helferich",
+      "value": 47
+    },
+    {
+      "label": "Marvin Weber",
+      "value": 45
+    },
+    {
+      "label": "Nicole Höchst",
+      "value": 43
+    },
+    {
+      "label": "Christoph Berndt",
+      "value": 40
+    },
+    {
+      "label": "Sebastian Münzenmaier",
+      "value": 40
+    },
+    {
+      "label": "Thüringen Landesvorstand",
+      "value": 38
+    }
+  ],
+  "by_source_medium": [
+    {
+      "label": "Facebook",
+      "value": 511
+    },
+    {
+      "label": "X",
+      "value": 255
+    },
+    {
+      "label": "Rede im Bundestag",
+      "value": 141
+    },
+    {
+      "label": "Landtagswahlprogramm",
+      "value": 113
+    },
+    {
+      "label": "Bundestagsrede",
+      "value": 104
+    },
+    {
+      "label": "Resolution: Kein Ruf des Muezins in unseren Städten, Facebook",
+      "value": 86
+    },
+    {
+      "label": "Rede bei Europawahlversammlung, Videomittschnitt auf Youtube vom 04.08.2023, Kanal: AfD TV",
+      "value": 40
+    },
+    {
+      "label": "Artikel in: AfD Kompakt",
+      "value": 37
+    },
+    {
+      "label": "Laudenbach, Peter: Volkstheater. Der rechte Angriff auf die Kunstfreiheit.",
+      "value": 31
+    },
+    {
+      "label": "Website: Brigitte Zypries",
+      "value": 31
+    },
+    {
+      "label": "Rede bei Europawahlversammlung, Videomittschnitt auf Youtube vom 30.07.2013, Kanal: AfD TV",
+      "value": 29
+    },
+    {
+      "label": "Twitter",
+      "value": 29
+    },
+    {
+      "label": "X.com",
+      "value": 27
+    },
+    {
+      "label": "Buch: Sebastian Pittelkow/Katja Riedel, Rechts unten. Die AfD: Intrigen, heimliche Herrscher und die Macht der",
+      "value": 22
+    },
+    {
+      "label": "Offizielle Pressemitteilung der AfD, Website: AfD",
+      "value": 20
+    },
+    {
+      "label": "Artikel in: Der Tagesspiegel",
+      "value": 17
+    },
+    {
+      "label": "X/Twitter",
+      "value": 15
+    },
+    {
+      "label": "Bundestagswahlprogramm der AfD 2025",
+      "value": 14
+    }
+  ],
+  "by_topic": [
+    {
+      "label": "Menschenwürde / Volksbegriff / Remigration",
+      "value": 1818
+    },
+    {
+      "label": "Demokratieprinzip / Institutionenangriff",
+      "value": 645
+    },
+    {
+      "label": "Sonstige Art.-21-Belegachse",
+      "value": 560
+    },
+    {
+      "label": "Rechtsstaatsprinzip / Justiz / Verwaltung",
+      "value": 377
+    },
+    {
+      "label": "Antisemitismus / NS-Relativierung / Codes",
+      "value": 134
+    },
+    {
+      "label": "Vorfeld / JA / Neue Rechte / Netzwerke",
+      "value": 49
+    },
+    {
+      "label": "Queer-/Gender-/Schul- und Kulturkampf",
+      "value": 25
+    },
+    {
+      "label": "Potentialität / Organisationsmacht",
+      "value": 2
+    },
+    {
+      "label": "Gewalt / Umsturz / Sicherheitsmilieu",
+      "value": 1
+    }
+  ],
+  "by_target_group": [
+    {
+      "label": "Zielgruppe im Einzelfinding zu prüfen",
+      "value": 1679
+    },
+    {
+      "label": "Justiz / Sicherheits- und Verfassungsorgane",
+      "value": 947
+    },
+    {
+      "label": "Muslimische Menschen / religiöse Minderheiten",
+      "value": 561
+    },
+    {
+      "label": "Queere Menschen / geschlechtliche Selbstbestimmung",
+      "value": 157
+    },
+    {
+      "label": "Menschen mit Migrationsgeschichte / Staatsbürgerstatus",
+      "value": 153
+    },
+    {
+      "label": "Jüdinnen/Juden / antisemitisch codierte Zielbilder",
+      "value": 46
+    },
+    {
+      "label": "Politische Gegner / Zivilgesellschaft",
+      "value": 26
+    },
+    {
+      "label": "Presse / freie Öffentlichkeit",
+      "value": 25
+    },
+    {
+      "label": "Schule / Jugend / Familie",
+      "value": 17
+    }
+  ],
+  "by_legal_cluster": [
+    {
+      "label": "Menschenwürde / Volksbegriff / Remigration",
+      "value": 1818
+    },
+    {
+      "label": "Demokratieprinzip / Institutionenangriff",
+      "value": 645
+    },
+    {
+      "label": "Sonstige Art.-21-Belegachse",
+      "value": 560
+    },
+    {
+      "label": "Rechtsstaatsprinzip / Justiz / Verwaltung",
+      "value": 377
+    },
+    {
+      "label": "Antisemitismus / NS-Relativierung / Codes",
+      "value": 134
+    },
+    {
+      "label": "Vorfeld / JA / Neue Rechte / Netzwerke",
+      "value": 49
+    },
+    {
+      "label": "Queer-/Gender-/Schul- und Kulturkampf",
+      "value": 25
+    },
+    {
+      "label": "Potentialität / Organisationsmacht",
+      "value": 2
+    },
+    {
+      "label": "Gewalt / Umsturz / Sicherheitsmilieu",
+      "value": 1
+    }
+  ]
+}

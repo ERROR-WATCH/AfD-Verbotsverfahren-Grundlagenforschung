@@ -1,0 +1,136 @@
+{
+  "generated_at": "2026-07-09T13:26:15.368Z",
+  "source_inventory_count": 10325,
+  "repo_file_index_count": 10373,
+  "verbotsgruende": 18,
+  "total_source_matches": 1080,
+  "total_primary_anchors": 341,
+  "rows": [
+    {
+      "verbotsgrund_id": "VG-01",
+      "title": "Verfassungswidrige voelkische Zielsetzung",
+      "source_match_count": 60,
+      "primary_anchor_count": 20,
+      "status_after_mining": "BELEGT_UND_VERDRAHTET"
+    },
+    {
+      "verbotsgrund_id": "VG-02",
+      "title": "Systematische Hetze und Menschenfeindlichkeit",
+      "source_match_count": 60,
+      "primary_anchor_count": 20,
+      "status_after_mining": "BELEGT_UND_VERDRAHTET"
+    },
+    {
+      "verbotsgrund_id": "VG-03",
+      "title": "Antisemitische Codes und Verschwoerungsnarrative",
+      "source_match_count": 60,
+      "primary_anchor_count": 20,
+      "status_after_mining": "BELEGT_UND_VERDRAHTET"
+    },
+    {
+      "verbotsgrund_id": "VG-04",
+      "title": "Verletzung universaler Menschenrechtsprinzipien",
+      "source_match_count": 60,
+      "primary_anchor_count": 20,
+      "status_after_mining": "BELEGT_UND_VERDRAHTET"
+    },
+    {
+      "verbotsgrund_id": "VG-05",
+      "title": "Personelle Beteiligung an Terror-, Umsturz- und Reichsbuergerkomplexen",
+      "source_match_count": 60,
+      "primary_anchor_count": 16,
+      "status_after_mining": "BELEGT_UND_VERDRAHTET"
+    },
+    {
+      "verbotsgrund_id": "VG-06",
+      "title": "Beziehungen zu rechtsextremen Vorfeld- und Netzwerkstrukturen",
+      "source_match_count": 60,
+      "primary_anchor_count": 20,
+      "status_after_mining": "BELEGT_UND_VERDRAHTET"
+    },
+    {
+      "verbotsgrund_id": "VG-07",
+      "title": "Gewaltbereite und kampfsportorientierte Vorfeldmilieus",
+      "source_match_count": 60,
+      "primary_anchor_count": 19,
+      "status_after_mining": "BELEGT_UND_VERDRAHTET"
+    },
+    {
+      "verbotsgrund_id": "VG-08",
+      "title": "Waffenrecht, Bewaffnung und Sicherheitsrisiko",
+      "source_match_count": 60,
+      "primary_anchor_count": 15,
+      "status_after_mining": "BELEGT_UND_VERDRAHTET"
+    },
+    {
+      "verbotsgrund_id": "VG-09",
+      "title": "Spionage-, Einflussnahme- und Fremdfinanzierungsrisiken im AfD-Umfeld",
+      "source_match_count": 60,
+      "primary_anchor_count": 16,
+      "status_after_mining": "BELEGT_UND_VERDRAHTET"
+    },
+    {
+      "verbotsgrund_id": "VG-10",
+      "title": "Sabotage parlamentarischer Gewaltenteilung und Verfahren",
+      "source_match_count": 60,
+      "primary_anchor_count": 20,
+      "status_after_mining": "BELEGT_UND_VERDRAHTET"
+    },
+    {
+      "verbotsgrund_id": "VG-11",
+      "title": "Untergrabung demokratischer Wahlen, Parteienrecht und Verfahren",
+      "source_match_count": 60,
+      "primary_anchor_count": 20,
+      "status_after_mining": "BELEGT_UND_VERDRAHTET"
+    },
+    {
+      "verbotsgrund_id": "VG-12",
+      "title": "Delegitimierung und Einschuechterung von Justiz, Verfassungsschutz und Presse",
+      "source_match_count": 60,
+      "primary_anchor_count": 20,
+      "status_after_mining": "BELEGT_UND_VERDRAHTET"
+    },
+    {
+      "verbotsgrund_id": "VG-13",
+      "title": "Minderheitenrechte, Remigration und Entrechtungslogik",
+      "source_match_count": 60,
+      "primary_anchor_count": 18,
+      "status_after_mining": "BELEGT_UND_VERDRAHTET"
+    },
+    {
+      "verbotsgrund_id": "VG-14",
+      "title": "Diffamierung zivilgesellschaftlicher Akteure",
+      "source_match_count": 60,
+      "primary_anchor_count": 20,
+      "status_after_mining": "BELEGT_UND_VERDRAHTET"
+    },
+    {
+      "verbotsgrund_id": "VG-15",
+      "title": "Zugaenge von Verfassungsfeinden zu Parlament, Behoerden und Sicherheitsbereichen",
+      "source_match_count": 60,
+      "primary_anchor_count": 20,
+      "status_after_mining": "BELEGT_UND_VERDRAHTET"
+    },
+    {
+      "verbotsgrund_id": "VG-16",
+      "title": "Unwille oder Unfaehigkeit zur innerparteilichen Abgrenzung",
+      "source_match_count": 60,
+      "primary_anchor_count": 20,
+      "status_after_mining": "BELEGT_UND_VERDRAHTET"
+    },
+    {
+      "verbotsgrund_id": "VG-17",
+      "title": "Gerichtlich bestaetigte Beobachtungs- und Einstufungsachsen",
+      "source_match_count": 60,
+      "primary_anchor_count": 17,
+      "status_after_mining": "BELEGT_UND_VERDRAHTET"
+    },
+    {
+      "verbotsgrund_id": "VG-18",
+      "title": "Durchsetzungskraft: keine marginale Gruppierung",
+      "source_match_count": 60,
+      "primary_anchor_count": 20,
+      "status_after_mining": "BELEGT_UND_VERDRAHTET"
+    }
+  ]
+}

@@ -529,7 +529,7 @@ Sämtliche Belege liegen physisch im Repository unter [`./urteilsbelege/`](./) i
     [Online-Quelle](https://www.bild.de/politik/inland/gerichts-hammer-afd-darf-nicht-als-gesichert-rechtsextrem-eingestuft-werden-69a051952cfe24517f7c9f85) | [Lokaler Beleg](./259_AfD_Bundespartei_Gesichert_Rechtsextrem_VG_Koeln_2026.md)
 
 260. **AfD/Facebook-Werbung: Auskunftspflicht gegenüber Datenschutzbeauftragter (VG Berlin 2026):**
-    [Online-Quelle](https://www.welt.de/regionales/berlin/article69b194f29276d101b4c85b9f/gericht-afd-muss-daten-zu-facebook-werbung-offenlegen.html) | [Lokaler Beleg](./260_AfD_Facebook_Werbung_Datenschutz_VG_Berlin_2026.md)
+    [Online-Quelle](https://www.welt.de/regionales/berlin/article69b194f29276d101b4c85b9f/gericht-afd-muss-daten-zu-facebook-werbung-anhängig; statusgetrenntlegen.html) | [Lokaler Beleg](./260_AfD_Facebook_Werbung_Datenschutz_VG_Berlin_2026.md)
 
 261. **AfD/BMI-BfV Verfassungsschutzbericht 2022: keine vorläufige Korrektur (VG Berlin 2024):**
     [Online-Quelle](https://www.welt.de/politik/deutschland/article249960238/Bundesinnenministerium-muss-Aussagen-zu-AfD-vorerst-nicht-aendern.html) | [Lokaler Beleg](./261_AfD_BfV_Verfassungsschutzbericht_2022_VG_Berlin_2024.md)

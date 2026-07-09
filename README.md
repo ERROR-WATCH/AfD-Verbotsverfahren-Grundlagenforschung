@@ -1294,6 +1294,41 @@ Abschließend möchte ich Soso über Rassismus ein paar Worte sagen lassen:
 
 # Habe fertig !!!
 
+
+---
+
+## Antragsreife-Audit 2026-07-09: Was fuer ein Verfahren jetzt hart verdrahtet ist
+
+Diese Erweiterung kuerzt keine bisherigen README-Inhalte. Sie ordnet den aktuellen Stand nach dem Repo- und Pages-Audit ein und verweist auf die maschinenlesbaren Beweisprodukte, die fuer eine Antragsschrift am naechsten an der gerichtlichen Beweislogik liegen.
+
+### Antragsspitze und Schriftsatzexport
+
+* **Antragsspitze Top 40:** [Markdown-Vermerk](./dokumente/hauptquellen/ANTRAGSSPITZE_TOP40_BEWEISE_2026.md) | [JSONL](./daten/antragsspitze_top40_beweise_2026.jsonl) - verdichtet die 144 Schriftsatzbeweisbloecke auf 40 priorisierte Beweisbloecke mit Quelle, Pinpoint, Akteur/Ebene, Zurechnung, Art.-21-Feld, Beweisangebot und Red-Team-Grenze.
+* **Schriftsatzexport Top-Beweise:** [Markdown-Vermerk](./dokumente/hauptquellen/SCHRIFTSATZ_EXPORT_TOP_BEWEISE_2026.md) | [JSONL](./daten/schriftsatz_export_top_beweise_2026.jsonl) - fuehrt 144 tragende Beweisbloecke aus der 18-Verbotsgruende-Matrix.
+* **Amtliche Webanker mit Hash:** [JSONL](./daten/official_web_anchor_integrity_2026.jsonl) - sichert neun amtliche oder gerichtliche Webanker mit lokalem Pfad, SHA-256, Bytes, Behoerde/Gericht und Pruefzeitpunkt.
+* **Repo-/Pages-Perfektionsaudit:** [Auditvermerk](./dokumente/hauptquellen/REPO_PAGES_PERFEKTIONS_AUDIT_2026_07_09.md) - dokumentiert gefundene Restqualitaetsthemen, Korrekturen und verbleibende Schriftsatzarbeit.
+
+### Harte Pflichtanker in der Antragsspitze
+
+Die aktuelle Top-40-Spitze fuehrt Sicherheits- und Statusanker nicht mehr als Randnotiz, sondern als streng begrenzte Beweisachsen:
+
+* Reuss/Malsack-Winkemann: GBA-/OLG-Anker, fruehere AfD-MdB-/Richterinnen- und Zugangsebene, keine Gesamtparteizurechnung.
+* Uwe L.: Reichsbuerger-/Tag-X-Komplex mit AfD-Lokalbezug, Parteifunktion und Zeitraum als Fallfelder.
+* Saechsische Separatisten/Kurt H.: GBA-Anklage, AfD-Stadtrat-/JA-Umfeld, keine Terror-Pauschalformel gegen die Gesamtpartei.
+* Jian G./Krah-Umfeld: GBA-Anklage, Mitarbeiter-/Zugangskante zum AfD-MdEP, kein Beschuldigtenstatus Krah aus der Zugangskante.
+* Bystron: Bundestagsanker zur Immunitaetsaufhebung, keine strafrechtliche Schuldbehauptung aus dem parlamentarischen Statusakt.
+
+### Statistik- und Pages-Audit
+
+* Das Statistikmanifest rendert 258 validierte Statistikobjekte; die veralteten README-/Methodik-Zaehler aus frueheren Zwischenstaenden wurden ergaenzt und korrigiert.
+* Der Statistik-Tab bleibt Beweislandkarte, nicht Wortwolke: PMK/BKA- und Lagebilddaten bleiben Kontext-/Potentialitaetsmaterial ohne automatische AfD-Tatzurechnung.
+* Die Pages-Texte wurden auf klare Antragssprache geschaerft: Quelle -> Pinpoint -> Akteur -> Zurechnung -> Rechtsgut -> Verfahrensstand.
+* Die Sperrfilter auf unverdrahtete Statussprache und schwache Platzhalter laufen leer im antragsrelevanten Korpus; Validierung meldet 0 Fatal und 0 Warnings.
+
+### Was fuer eine echte Antragsschrift weiterhin juristisch zu leisten ist
+
+Das Repository ersetzt keinen Antrag eines Verfassungsorgans. Gerichtliche Schriftsatzarbeit bleibt: aus den Top-40- und Top-144-Exports die konkreten Anlagen, Seiten-/Randnummern, Aktenzeichen, Zeugen-/Urkundsbeweise und Gegenargumente in eine prozessuale Antragsschrift zu uebernehmen. Inhaltlich sind diese Felder jetzt im Repo als Beweisrouten und Schriftsatzfelder angelegt, nicht als lose Recherchehinweise.
+
 ## Statistikmodul
 - [STATISTIKMODUL.md](./STATISTIKMODUL.md)
 - [STATISTIK_METHODIK.md](./STATISTIK_METHODIK.md)
@@ -1301,3 +1336,46 @@ Abschließend möchte ich Soso über Rassismus ein paar Worte sagen lassen:
 - [dashboard/statistik.html](./dashboard/statistik.html)
 
 - [n-tv / Forsa 2019: Gesinnung vieler AfD-Wähler](./dokumente/hauptquellen/ntv_AfD_Waehler_Gesinnung_2019.md) | https://www.n-tv.de/politik/Umfrage-zeigt-Gesinnung-vieler-AfD-Waehler-article21426963.html
+
+
+## Vollstaendiger Repository- und Pages-Index 2026-07-09
+
+Der vollstaendige Index liegt hier: [VOLLSTAENDIGER_REPOSITORY_PAGES_INDEX_2026_07_09.md](./dokumente/hauptquellen/VOLLSTAENDIGER_REPOSITORY_PAGES_INDEX_2026_07_09.md). Die maschinenlesbare Fassung liegt in [daten/repository_pages_index_2026.json](./daten/repository_pages_index_2026.json).
+
+### Was nach dem Vollscan nicht perfekt ist
+
+| Bereich | Befund / Reparaturweg |
+| --- | --- |
+| README-Historik | README enthaelt aeltere Stellen mit "offen", "Platzhalter" und Wikipedia-Altstand. Diese werden nicht geloescht, sondern durch diesen Index und den Antragsreife-Audit als historische bzw. statusbezogene Reststellen eingeordnet. |
+| Formaler Antrag | Das Repo ist keine Verfassungsorganschrift. Fuer das Verfahren fehlen ausserhalb des Repos: Antragstellerbeschluss, Prozessvertretung, Anlagenverzeichnis, formale Beweisantraege, Unterschriften/Beiziehung und Schriftsatzgliederung nach BVerfG-Standard. |
+| Pinpoint-Endarbeit | Viele Quellen sind vorhanden; die finale Antragsschrift muss die Top-Anlagen mit Seite, Randnummer, Aktenzeichen, Datum, Hash/Archiv und Gegenlese zitieren. |
+| Vorfeld-Granularitaet | Sammelkanten sind im Statistiksystem sichtbar, muessen fuer den Schriftsatz weiter in Person/Ereignis/Kampagne/Datum/Quelle zerlegt werden. |
+| Chronikcluster | Wikipedia-/Pressechroniken bleiben Indexrouten. Fuer Antragstauglichkeit zaehlen nur fallweise Primaeranker, Parteirolle, Verfahren und Zurechnung. |
+| Zitatkorpus | 3.611 Proofs sind pinntauglich, aber nur 37 liegen in enger Dossierklasse mit Originaltext/Auszug + starkem Quellenanker. Fuer eine Anlage muessen weitere Topzitate priorisiert werden. |
+| Pages-Navigation | Der Statistik-Tab zeigt die Beweislogik und fuehrt jetzt eine eigene sichtbare Vollindex-/Antragsreife-Karte mit Links auf Markdown-Index, JSON-Index, Perfektionsaudit, Antragsspitze, Schriftsatzexport, Statistikmanifest und Quelleninventar. |
+| Build-Qualitaet | `npm run build` sollte nicht nur Syntax pruefen, sondern Statistik-Build und Validierung ausfuehren. Diese Aenderung wird mit diesem Index vorgenommen. |
+
+### Index-Pflichtanker
+
+- Portal: [index.html](./index.html)
+- Statistikmanifest: [daten/statistik_manifest.json](./daten/statistik_manifest.json)
+- Findings: [daten/findings_art21.jsonl](./daten/findings_art21.jsonl)
+- Quelleninventar: [daten/source_inventory.jsonl](./daten/source_inventory.jsonl)
+- Antragsspitze Top 40: [dokumente/hauptquellen/ANTRAGSSPITZE_TOP40_BEWEISE_2026.md](./dokumente/hauptquellen/ANTRAGSSPITZE_TOP40_BEWEISE_2026.md)
+- Schriftsatzexport: [dokumente/hauptquellen/SCHRIFTSATZ_EXPORT_TOP_BEWEISE_2026.md](./dokumente/hauptquellen/SCHRIFTSATZ_EXPORT_TOP_BEWEISE_2026.md)
+- Repo-/Pages-Audit: [dokumente/hauptquellen/REPO_PAGES_PERFEKTIONS_AUDIT_2026_07_09.md](./dokumente/hauptquellen/REPO_PAGES_PERFEKTIONS_AUDIT_2026_07_09.md)
+
+Leseregel: Aeltere README-Zeilen mit "offen", "Platzhalter" oder historischen Coverage-Angaben werden nicht geloescht, sondern durch diesen Index als historische bzw. statusbezogene Reststellen eingeordnet. Fuer den Statistik-Tab und die Antragsreife gelten die generierten Datenprodukte und der Validierungsreport.
+
+Linkcheck 2026-07-09: README und Vollindex wurden lokal gegen relative Markdown-Links geprueft; Ergebnis `missingLinks: 0`. Der Vollindex verwendet wegen seiner Lage unter `dokumente/hauptquellen/` relative `../../`-Links.
+
+### Gutachten-Coverage-Audit 2026-07-09
+
+Ergänzender Index für die antragsrelevante Gutachtenabdeckung: [Gutachten-Coverage-Audit](./reports/gutachten-coverage-audit-2026-07-09.md) und [maschinenlesbare Matrix](./daten/gutachten_coverage_audit_2026.jsonl). Der Audit trennt GFF/BfV/DIMR/rechtswissenschaftliche Analysen, Presse-Routen und KI-Arbeitsprodukte nach Beweisrolle, Art.-21-Feld, lokaler Fundstelle, Online-/Originalroute und verbleibender Schriftsatzarbeit.
+
+### Anlagenregister Art. 21 2026-07-09
+
+- Anlagenregister: `dokumente/hauptquellen/ANLAGENREGISTER_ART21_2026.md`
+- Maschinenlesbare Fassung: `daten/anlagenregister_art21_2026.jsonl`
+- Auditbericht: `reports/anlagenregister-audit-2026-07-09.md`
+- Zweck: Topbeweise, Gutachtenfamilien, hashgesicherte Webanker, Pinpointstatus, Zurechnung, Gegenlese und formale naechste Anlagehandlung in einer Schriftsatzroute zusammenfuehren.

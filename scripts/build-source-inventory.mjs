@@ -102,16 +102,17 @@ function classify(rel) {
     risks = 'Fassung und Wahljahr muessen konsistent bleiben';
     allow = true;
   } else if (lower.startsWith('dokumente/hauptquellen/')) {
-    const official = /bundestag|bmi|bka|bundesregierung|generalbundesanwalt|gericht|justiz|bverfg|bgh|vg_|ovg|verwaltungsgericht|verfassungsschutz|bfv|lfv|minister/i.test(lower);
-    const expert = /gutachten|stellungnahme|dimr|gff|institut|universitaet|university|cremer|ogorek|rechtswissenschaft/i.test(lower);
-    const press = /tagesschau|spiegel|taz|zeit|faz|ndr|wdr|swr|br24|mdr|correctiv|netzpolitik|stern|zdf|deutschlandfunk|dw|belltower|volksverpetzer|politico/i.test(lower);
+    const quoteCompilation = /schlimmsten[ _-]?zitate|hasserfuellte.*menschenverachtende.*zitate|hasserfüllte.*menschenverachtende.*zitate|jugendstrategie.*zitate/i.test(lower);
+    const official = !quoteCompilation && /bundestag|bmi|bka|bundesregierung|generalbundesanwalt|gericht|justiz|bverfg|bgh|vg_|ovg|verwaltungsgericht|verfassungsschutz|bfv|lfv|minister/i.test(lower);
+    const expert = !quoteCompilation && /gutachten|stellungnahme|dimr|gff|institut|universitaet|university|cremer|ogorek|rechtswissenschaft/i.test(lower);
+    const press = quoteCompilation || /tagesschau|spiegel|taz|zeit|faz|ndr|wdr|swr|br24|mdr|correctiv|netzpolitik|stern|zdf|deutschlandfunk|dw|belltower|volksverpetzer|politico/i.test(lower);
     category = official ? 'Amtliche Quellen und Rechtsprechung' : expert ? 'Gepruefte Gutachten und Fachanalysen' : press ? 'Presse- und Recherchequellen' : 'Archivierte Hauptquelle';
-    sourceType = official ? 'Amtliche Quelle / Gerichts- oder Behoerdendokument' : expert ? 'Geprueftes Gutachten / Fachanalyse' : press ? 'Presse- oder Recherchequelle' : 'Archivierte Hauptquelle';
+    sourceType = quoteCompilation ? 'Recherche-/Sekundaerliste' : official ? 'Amtliche Quelle / Gerichts- oder Behoerdendokument' : expert ? 'Geprueftes Gutachten / Fachanalyse' : press ? 'Presse- oder Recherchequelle' : 'Archivierte Hauptquelle';
     publisher = official ? 'Amtliche Stelle / Gericht / Behoerde' : expert ? 'Gutachtengeber / wissenschaftliche Institution' : press ? 'Presse / Recherchemedium' : 'Lokale Archivquelle';
-    primary = official || expert || !press;
+    primary = official || expert || (!press && !quoteCompilation);
     evidence = official ? 'A' : expert ? 'A' : press ? 'C' : 'B';
     use = official || expert ? 'tragend' : press ? 'kontext' : 'sekundaer';
-    risks = press ? 'Pressequelle: Aussagen bei Bedarf gegen Primaerquelle pruefen' : 'Lokale Archivkopie; Fassung und Kontext pruefen';
+    risks = quoteCompilation ? 'Kompilierte Zitatliste: jedes Zitat gegen Original, Proof, Gutachten, Parlament oder Gericht pruefen; nicht als Endbeweis nutzen' : press ? 'Pressequelle: Aussagen bei Bedarf gegen Primaerquelle pruefen' : 'Lokale Archivkopie; Fassung und Kontext pruefen';
     allow = true;
   } else if (lower.endsWith('.csv')) {
     category = 'Interne Statistik';

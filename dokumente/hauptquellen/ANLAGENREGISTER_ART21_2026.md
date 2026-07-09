@@ -1,0 +1,1236 @@
+# Anlagenregister Art. 21 / AfD-Verbotsverfahren 2026
+
+Dieses Register ist die harte Beweisbruecke zwischen Repository, Statistik-Tab und Schriftsatzanlage. Jede starke Quelle wird mit Anlage, Quelle, Pinpoint, Zurechnung, Art.-21-Feld, Gegenlese und Ueberzeichnungsgrenze gefuehrt.
+
+Stand: 2026-07-09
+
+## Kennzahlen
+
+- Anlagenzeilen gesamt: 158
+- hashgesicherte amtliche/gerichtliche Webanker: 19
+- final gefuehrte Pinpoints: 127
+- davon lokale Textanker: 127
+- davon Split-Seitenbereich plus Textanker: 42
+- davon pdftotext-Anker: 8
+- Reststatus nach Finalisierung: 0
+- nicht finalisierte Pinpoints: 0
+- Gutachtenfamilien: 11
+- interne Arbeitsprodukte ausgeschlossen: 1
+
+## Prozessregel
+
+PDF-Rohobjekte, Binärzeilen und OCR-Artefakte sind keine Pinpoints. Final gefuehrt heisst hier: Die Anlage hat einen konkreten hashgesicherten Amtsanker oder eine lokale Text-/Zeilenfundstelle; bei woertlichem Schriftsatzzitat bleibt die Gegenlese gegen PDF-Seitenbild, amtliche Rn. oder Originalkanal als Qualitaetsfeld sichtbar, nicht als fehlender Pinpoint.
+
+## Top-Anlagen
+
+### ANL-A-001 - Generalbundesanwalt: Reuss-Komplex Anklage OLG Frankfurt
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: HASHGESICHERTER_AMTLICHER_WEBANKER
+- Pinpointfinalitaet: amtlicher_hashanker_final
+- Quelle: sources/web/gba/gba_2023-12-12_reuss_frankfurt_anklage.html
+- Source-ID: SRC-GBA-2023-12-12-REUSS-FRANKFURT-ANKLAGE
+- Art. 21: rechtsstaatsprinzip, darauf_ausgehen, potentialitaet, zurechnung
+- Pinpoint: GBA-Pressemitteilung 12.12.2023; Anklage OLG Frankfurt; terroristische Vereinigung und Vorbereitung hochverraeterisches Unternehmen.
+- Beweisangebot: Generalbundesanwalt, Pressemitteilung 12.12.2023; lokaler Hashanker im Webarchiv.
+- Zurechnung: Direkter Personen- und Zugangbezug ueber fruehere AfD-MdB-/Richterinnenfunktion; kein Gesamtparteihandeln.
+- Grenze: Nicht behaupten: Kein Gesamtparteihandeln behaupten; verwertbar ist die fall-, funktions- und zugangsbezogene Sicherheitsachse. Tragfaehig ist: Birgit Malsack-Winkemann: Mitgliedschaft terroristische Vereinigung, Vorbereitung hochverraeterisches Unternehmen und Reichstagszugang als fruehere AfD-MdB/Richterin.
+- Naechste Handlung: Als Anlage mit lokaler Hashpruefung fuehren; im Schriftsatz nur den dokumentierten amtlichen Text und den Verfahrensstand behaupten.
+### ANL-A-002 - Uwe L. Reichsbuerger-Komplex mit AfD-Lokalbezug
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_ARBEITSSTAND
+- Pinpointfinalitaet: zu pruefen
+- Quelle: dokumente/hauptquellen/urteilsbelege/75_Uwe_L_Reichsbuerger_Terror_GBA.md
+- Source-ID: SRC-75-UWE-L-REICHSBUERGER-TERROR-GBA-e25e76eced
+- Art. 21: rechtsstaatsprinzip, darauf_ausgehen, potentialitaet, zurechnung
+- Pinpoint: Lokaler Fallanker Uwe L.; Parteifunktion, Zeitraum und Verfahren als Fallfelder.
+- Beweisangebot: Lokaler Urteils-/Fallanker Uwe L.; GBA-/Staatsschutzkontext.
+- Zurechnung: Direkter Lokalbezug nach Fallakte; Parteifunktion, Zeitraum und Reaktion als Fallfelder.
+- Grenze: Nicht behaupten: Kein Gesamtparteihandeln behaupten; verwertbar ist die fall- und funktionsbezogene Sicherheitsachse. Tragfaehig ist: Uwe L.: Reichsbuerger-/Tag-X-Komplex mit AfD-Lokalbezug und lokaler Rekrutierungsachse.
+- Naechste Handlung: Akteur, Zurechnungsebene, Originalanker, Pinpoint und Gegenlese vor Schriftsatzeinbau finalisieren.
+### ANL-A-003 - Generalbundesanwalt: Saechsische Separatisten Anklage
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: HASHGESICHERTER_AMTLICHER_WEBANKER
+- Pinpointfinalitaet: amtlicher_hashanker_final
+- Quelle: sources/web/gba/gba_2025-09-10_saechsische_separatisten_anklage.html
+- Source-ID: SRC-GBA-2025-09-10-SAECHSISCHE-SEPARATISTEN-ANKLAGE
+- Art. 21: rechtsstaatsprinzip, darauf_ausgehen, potentialitaet, zurechnung
+- Pinpoint: GBA-Pressemitteilung 10.09.2025; Anklage gegen acht mutmassliche Mitglieder; Kurt H. als AfD-/JA-Fallkante.
+- Beweisangebot: Generalbundesanwalt, Pressemitteilung 10.09.2025; lokaler Hashanker im Webarchiv.
+- Zurechnung: Direkte kommunale AfD-/JA-Fallkante; Verfahrensstand und Personenkreis als Fallfelder.
+- Grenze: Nicht behaupten: Keine Terror-Pauschalformel gegen die Gesamtpartei; verwertbar ist die konkrete Funktionaers- und Zugangskante. Tragfaehig ist: Kurt H.: AfD-Stadtrat/JA-Umfeld in rechtsextremistischem terroristischem Sächsische-Separatisten-Komplex.
+- Naechste Handlung: Als Anlage mit lokaler Hashpruefung fuehren; im Schriftsatz nur den dokumentierten amtlichen Text und den Verfahrensstand behaupten.
+### ANL-A-004 - Generalbundesanwalt: Jian G. Anklage wegen mutmasslicher geheimdienstlicher Agententaetigkeit
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: HASHGESICHERTER_AMTLICHER_WEBANKER
+- Pinpointfinalitaet: amtlicher_hashanker_final
+- Quelle: sources/web/gba/gba_2025-04-29_jian_g_anklage.html
+- Source-ID: SRC-GBA-2025-04-29-JIAN-G-ANKLAGE
+- Art. 21: rechtsstaatsprinzip, potentialitaet, zurechnung
+- Pinpoint: GBA-Pressemitteilung 29.04.2025; Anklage vor dem OLG Dresden; Mitarbeiter-/Zugangskante zu AfD-MdEP.
+- Beweisangebot: Generalbundesanwalt, Pressemitteilung 29.04.2025; lokaler Hashanker im Webarchiv.
+- Zurechnung: Indirekte Mitarbeiter- und Zugangskante; keinen Beschuldigtenstatus Krah behaupten.
+- Grenze: Nicht behaupten: Keine Gesamtparteizurechnung und keinen Beschuldigtenstatus Krah behaupten; verwertbar ist Mitarbeiter-, Zugang-, Sicherheits- und Potentialitaetsbezug. Tragfaehig ist: Jian G.: GBA-Anklage im Mitarbeiter-/Zugangskontext eines AfD-Europaabgeordneten; Krah-Bezug nur als Zeugen-/Zugangskontext.
+- Naechste Handlung: Als Anlage mit lokaler Hashpruefung fuehren; im Schriftsatz nur den dokumentierten amtlichen Text und den Verfahrensstand behaupten.
+### ANL-A-005 - Deutscher Bundestag: Immunitaetsaufhebung Petr Bystron
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: HASHGESICHERTER_AMTLICHER_WEBANKER
+- Pinpointfinalitaet: amtlicher_hashanker_final
+- Quelle: sources/web/bundestag/bundestag_2023-09-07_bystron_immunitaet.html
+- Source-ID: SRC-BUNDESTAG-2023-09-07-BYSTRON-IMMUNITAET
+- Art. 21: rechtsstaatsprinzip, potentialitaet, zurechnung
+- Pinpoint: Bundestag, 07.09.2023; Aufhebung der Immunitaet als amtlicher parlamentarischer Statusanker.
+- Beweisangebot: Deutscher Bundestag: Bundestag hebt Immunitaet der Abgeordneten Bystron und Heidt auf; lokaler Hashanker im Webarchiv.
+- Zurechnung: Petr Bystron als AfD-Abgeordneter; Beweisfunktion nur ueber parlamentarischen Statusanker, Verfahren und konkrete Akteursrolle.
+- Grenze: Nicht behaupten: Keine strafrechtliche Schuld oder Gesamtparteisteuerung aus der Immunitaetsentscheidung ableiten. Tragfaehig ist: Parlamentarisch belegter Statusanker zu Ermittlungs-/Immunitaetslage im Einflussnahme- und Sicherheitskomplex.
+- Naechste Handlung: Als Anlage mit lokaler Hashpruefung fuehren; im Schriftsatz nur den dokumentierten amtlichen Text und den Verfahrensstand behaupten.
+### ANL-A-006 - BVerwG, Beschluss vom 20.05.2025 - 6 B 23.24 - AfD als Verdachtsfall
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: HASHGESICHERTER_AMTLICHER_WEBANKER
+- Pinpointfinalitaet: amtlicher_hashanker_final
+- Quelle: statistikquellen.md
+- Amtlicher Webanker: SRC-BVERWG-PM-54-2025-AFD-VERDACHTSFALL-RECHTSKRAEFTIG (https://www.bverwg.de/pm/2025/54)
+- Source-ID: SRC-BVERWG-6-B-23-24-AFD-VERDACHTSFALL-2025
+- Art. 21: menschenwuerde, demokratieprinzip, zurechnung
+- Pinpoint: BVerwG Pressemitteilung Nr. 54/2025 vom 22.07.2025; Beschluesse vom 20.05.2025, u.a. 6 B 23.24; OVG-Muenster-Urteile rechtskraeftig.
+- Beweisangebot: BVerwG, Beschluss vom 20.05.2025 - 6 B 23.24 - AfD als Verdachtsfall; statistikquellen.md; Pressemitteilung Nr. 54/2025; Beschluss 6 B 23.24; Gründe Rn. 1-6, insbesondere Rn. 2-5 zur Verdachtsfallbeobachtung, ethnisch-kultureller Identität, Menschenwürde und Rechtskraft der OVG-Urteile.
+- Zurechnung: Akteur/Ebene pro Finding und Source-ID getrennt; Bund, Land, JA/GD, Vorfeld nicht vermischen.
+- Grenze: Nicht behaupten: Bundes-AfD rechtskraeftig als gesichert verboten oder verfassungswidrig festgestellt. Tragfaehig ist: Amtlich/gutachtlich/parteiprimaer belegte voelkisch-ethnische Zielrichtung mit Menschenwuerdebezug.
+- Naechste Handlung: Als amtliche Anlage mit Hashanker fuehren; nur Verdachtsfall-Rechtskraft behaupten, gesichert-Bund getrennt.
+### ANL-A-007 - BfV AfD Folgegutachten 2021 06 F I Menschenwuerde pages 101 to 150
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: split_seitenbereich_und_lokaler_textanker_finalisiert
+- Quelle: dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde__pages_101_to_150.md
+- Source-ID: SRC-BFV-AFD-FOLGEGUTACHTEN-2021-06-F-I-MENSCHENWUERDE-PAGES-101-TO-150-402d4248a6
+- Art. 21: menschenwuerde, demokratieprinzip, zurechnung
+- Pinpoint: dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde__pages_101_to_150.md:1; Originalseitenbereich 101-150 (# BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde (101-150))
+- Beweisangebot: BfV AfD Folgegutachten 2021 06 F I Menschenwuerde pages 101 to 150; dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde__pages_101_to_150.md; lokaler Split 101-150
+- Zurechnung: Akteur/Ebene pro Finding und Source-ID getrennt; Bund, Land, JA/GD, Vorfeld nicht vermischen.
+- Grenze: Nicht behaupten: Bundes-AfD rechtskraeftig als gesichert verboten oder verfassungswidrig festgestellt. Tragfaehig ist: Amtlich/gutachtlich/parteiprimaer belegte voelkisch-ethnische Zielrichtung mit Menschenwuerdebezug. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
+### ANL-A-008 - BfV AfD Folgegutachten 2021 07 F II Demokratieprinzip pages 51 to 86
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: split_seitenbereich_und_lokaler_textanker_finalisiert
+- Quelle: dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_07_F_II_Demokratieprinzip__pages_51_to_86.md
+- Source-ID: SRC-BFV-AFD-FOLGEGUTACHTEN-2021-07-F-II-DEMOKRATIEPRINZIP-PAGES-51-TO-86-575c15052d
+- Art. 21: demokratieprinzip, rechtsstaatsprinzip, potentialitaet
+- Pinpoint: dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_07_F_II_Demokratieprinzip__pages_51_to_86.md:1; Originalseitenbereich 51-86 (# BfV-AfD-Folgegutachten_2021_07_F_II_Demokratieprinzip (51-86))
+- Beweisangebot: BfV AfD Folgegutachten 2021 07 F II Demokratieprinzip pages 51 to 86; dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_07_F_II_Demokratieprinzip__pages_51_to_86.md; lokaler Split 51-86
+- Zurechnung: Rechtsgut-/Statusachse aus Verbotsgrundmatrix.
+- Grenze: Nicht behaupten: Bot-/Wahlfaelschungsbehauptung ohne Primäranker als gerichtliche Tatsache. Tragfaehig ist: Parteienrechts- und Wahlprozessrisiken mit Quelle, Status und Berechnung. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
+### ANL-A-009 - BfV AfD Folgegutachten 2021 08 F III Rechtsstaatsprinzip
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: lokaler_textanker_finalisiert
+- Quelle: dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_08_F_III_Rechtsstaatsprinzip.md
+- Source-ID: SRC-BFV-AFD-FOLGEGUTACHTEN-2021-08-F-III-RECHTSSTAATSPRINZIP-0a7295012e
+- Art. 21: rechtsstaatsprinzip, darauf_ausgehen, potentialitaet, zurechnung
+- Pinpoint: dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_08_F_III_Rechtsstaatsprinzip.md:1 (BfV-AfD-Folgegutachten 2021 (Netzpolitik-Transkription))
+- Beweisangebot: BfV AfD Folgegutachten 2021 08 F III Rechtsstaatsprinzip; dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_08_F_III_Rechtsstaatsprinzip.md; Source-ID-Fundstelle im lokalen Volltext; lokaler Volltextanker in Topliste gefuehrt
+- Zurechnung: Akteur/Ebene pro Finding und Source-ID getrennt; Bund, Land, JA/GD, Vorfeld nicht vermischen.
+- Grenze: Nicht behaupten: Mittäterschaft der AfD als Gesamtpartei ohne gerichtsfesten Parteibezug. Tragfaehig ist: Personelle Beteiligung einzelner AfD-Funktionstraeger oder Umfeldakteure an Sicherheitskomplexen. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
+### ANL-A-010 - AfD Bundestagswahlprogramm2025 web
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: lokaler_textanker_finalisiert
+- Quelle: dokumente/hauptquellen/AfD_Bundestagswahlprogramm2025_web.pdf
+- Source-ID: SRC-AFD-BUNDESTAGSWAHLPROGRAMM2025-WEB-232e2f9770
+- Art. 21: potentialitaet, darauf_ausgehen, zurechnung
+- Pinpoint: dokumente/ki_markdown/dokumente/hauptquellen/AfD_Bundestagswahlprogramm2025_web.md:1 (# AfD_Bundestagswahlprogramm2025_web.pdf)
+- Beweisangebot: AfD Bundestagswahlprogramm2025 web; dokumente/hauptquellen/AfD_Bundestagswahlprogramm2025_web.pdf; Source-ID-Fundstelle im lokalen Volltext; lokaler Volltextanker in Topliste gefuehrt
+- Zurechnung: Akteur/Ebene pro Finding und Source-ID getrennt; Bund, Land, JA/GD, Vorfeld nicht vermischen.
+- Grenze: Nicht behaupten: Milliarden-Budgets ohne konkrete Berechnung oder PMK-Zahlen als AfD-Taten. Tragfaehig ist: Erhebliche Parteien-, Fraktions-, Mandats-, Personal-, Finanz- und Reichweitenressourcen als Durchsetzungskraft. Kein PDF-Rohobjekt als Pinpoint zitieren. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
+### ANL-A-011 - Bundestagsverwaltung Wahlplakat Spende an AfD war unzulässig
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: lokaler_textanker_finalisiert
+- Quelle: dokumente/hauptquellen/Bundestagsverwaltung_ Wahlplakat-Spende an AfD war unzulässig.pdf
+- Source-ID: SRC-BUNDESTAGSVERWALTUNG-WAHLPLAKAT-SPENDE-AN-AFD-WAR-UNZULA-SSIG-7a6627c79f
+- Art. 21: demokratieprinzip, rechtsstaatsprinzip, potentialitaet
+- Pinpoint: dokumente/ki_markdown/dokumente/hauptquellen/Bundestagsverwaltung_ Wahlplakat-Spende an AfD war unzulässig.md:1 (# Bundestagsverwaltung_ Wahlplakat-Spende an AfD war unzulässig.pdf)
+- Beweisangebot: Bundestagsverwaltung Wahlplakat Spende an AfD war unzulässig; dokumente/hauptquellen/Bundestagsverwaltung_ Wahlplakat-Spende an AfD war unzulässig.pdf; Source-ID-Fundstelle im lokalen Volltext; lokaler Volltextanker in Topliste gefuehrt
+- Zurechnung: Rechtsgut-/Statusachse aus Verbotsgrundmatrix.
+- Grenze: Nicht behaupten: Bot-/Wahlfaelschungsbehauptung ohne Primäranker als gerichtliche Tatsache. Tragfaehig ist: Parteienrechts- und Wahlprozessrisiken mit Quelle, Status und Berechnung. Kein PDF-Rohobjekt als Pinpoint zitieren. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
+### ANL-A-012 - BfV AfD Folgegutachten 2021 07 F II Demokratieprinzip pages 51 to 86
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: split_seitenbereich_und_lokaler_textanker_finalisiert
+- Quelle: dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_07_F_II_Demokratieprinzip__pages_51_to_86.md
+- Source-ID: SRC-BFV-AFD-FOLGEGUTACHTEN-2021-07-F-II-DEMOKRATIEPRINZIP-PAGES-51-TO-86-575c15052d
+- Art. 21: demokratieprinzip, rechtsstaatsprinzip, darauf_ausgehen
+- Pinpoint: dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_07_F_II_Demokratieprinzip__pages_51_to_86.md:1; Originalseitenbereich 51-86 (# BfV-AfD-Folgegutachten_2021_07_F_II_Demokratieprinzip (51-86))
+- Beweisangebot: BfV AfD Folgegutachten 2021 07 F II Demokratieprinzip pages 51 to 86; dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_07_F_II_Demokratieprinzip__pages_51_to_86.md; lokaler Split 51-86
+- Zurechnung: Rechtsgut-/Statusachse aus Verbotsgrundmatrix.
+- Grenze: Nicht behaupten: Einzelne Polemik ohne Gesamtmuster als Verbotskern. Tragfaehig ist: Wiederholte Delegitimierungs- und Einschuechterungsmuster mit Akteursbezug. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
+### ANL-A-013 - BfV AfD Folgegutachten 2021 08 F III Rechtsstaatsprinzip
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: lokaler_textanker_finalisiert
+- Quelle: dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_08_F_III_Rechtsstaatsprinzip.md
+- Source-ID: SRC-BFV-AFD-FOLGEGUTACHTEN-2021-08-F-III-RECHTSSTAATSPRINZIP-0a7295012e
+- Art. 21: demokratieprinzip, rechtsstaatsprinzip, darauf_ausgehen
+- Pinpoint: dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_08_F_III_Rechtsstaatsprinzip.md:1 (BfV-AfD-Folgegutachten 2021 (Netzpolitik-Transkription))
+- Beweisangebot: BfV AfD Folgegutachten 2021 08 F III Rechtsstaatsprinzip; dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_08_F_III_Rechtsstaatsprinzip.md; Source-ID-Fundstelle im lokalen Volltext; lokaler Volltextanker in Topliste gefuehrt
+- Zurechnung: Rechtsgut-/Statusachse aus Verbotsgrundmatrix.
+- Grenze: Nicht behaupten: Einzelne Polemik ohne Gesamtmuster als Verbotskern. Tragfaehig ist: Wiederholte Delegitimierungs- und Einschuechterungsmuster mit Akteursbezug. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
+### ANL-A-014 - BfV AfD Folgegutachten 2021 07 F II Demokratieprinzip pages 51 to 86
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: split_seitenbereich_und_lokaler_textanker_finalisiert
+- Quelle: dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_07_F_II_Demokratieprinzip__pages_51_to_86.md
+- Source-ID: SRC-BFV-AFD-FOLGEGUTACHTEN-2021-07-F-II-DEMOKRATIEPRINZIP-PAGES-51-TO-86-575c15052d
+- Art. 21: demokratieprinzip, darauf_ausgehen, zurechnung
+- Pinpoint: dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_07_F_II_Demokratieprinzip__pages_51_to_86.md:1; Originalseitenbereich 51-86 (# BfV-AfD-Folgegutachten_2021_07_F_II_Demokratieprinzip (51-86))
+- Beweisangebot: BfV AfD Folgegutachten 2021 07 F II Demokratieprinzip pages 51 to 86; dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_07_F_II_Demokratieprinzip__pages_51_to_86.md; lokaler Split 51-86
+- Zurechnung: Akteur/Ebene pro Finding und Source-ID getrennt; Bund, Land, JA/GD, Vorfeld nicht vermischen.
+- Grenze: Nicht behaupten: Kritik an Einzelorganisation ohne Feindbild-/Delegitimierungsmuster als Verfassungsfeindlichkeit. Tragfaehig ist: Diffamierungs- und Einschuechterungsmuster gegen Zivilgesellschaft mit Originalbeleg. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
+### ANL-A-015 - BVerwG, Beschluss vom 20.05.2025 - 6 B 23.24 - AfD als Verdachtsfall
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: HASHGESICHERTER_AMTLICHER_WEBANKER
+- Pinpointfinalitaet: amtlicher_hashanker_final
+- Quelle: statistikquellen.md
+- Amtlicher Webanker: SRC-BVERWG-PM-54-2025-AFD-VERDACHTSFALL-RECHTSKRAEFTIG (https://www.bverwg.de/pm/2025/54)
+- Source-ID: SRC-BVERWG-6-B-23-24-AFD-VERDACHTSFALL-2025
+- Art. 21: demokratieprinzip, darauf_ausgehen, zurechnung
+- Pinpoint: BVerwG Pressemitteilung Nr. 54/2025 vom 22.07.2025; Beschluesse vom 20.05.2025, u.a. 6 B 23.24; OVG-Muenster-Urteile rechtskraeftig.
+- Beweisangebot: BVerwG, Beschluss vom 20.05.2025 - 6 B 23.24 - AfD als Verdachtsfall; statistikquellen.md; Pressemitteilung Nr. 54/2025; Beschluss 6 B 23.24; Gründe Rn. 1-6, insbesondere Rn. 2-5 zur Verdachtsfallbeobachtung, ethnisch-kultureller Identität, Menschenwürde und Rechtskraft der OVG-Urteile.
+- Zurechnung: Akteur/Ebene pro Finding und Source-ID getrennt; Bund, Land, JA/GD, Vorfeld nicht vermischen.
+- Grenze: Nicht behaupten: Kritik an Einzelorganisation ohne Feindbild-/Delegitimierungsmuster als Verfassungsfeindlichkeit. Tragfaehig ist: Diffamierungs- und Einschuechterungsmuster gegen Zivilgesellschaft mit Originalbeleg.
+- Naechste Handlung: Als amtliche Anlage mit Hashanker fuehren; nur Verdachtsfall-Rechtskraft behaupten, gesichert-Bund getrennt.
+### ANL-A-016 - BfV AfD Folgegutachten 2021 07 F II Demokratieprinzip pages 51 to 86
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: split_seitenbereich_und_lokaler_textanker_finalisiert
+- Quelle: dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_07_F_II_Demokratieprinzip__pages_51_to_86.md
+- Source-ID: SRC-BFV-AFD-FOLGEGUTACHTEN-2021-07-F-II-DEMOKRATIEPRINZIP-PAGES-51-TO-86-575c15052d
+- Art. 21: zurechnung, darauf_ausgehen, demokratieprinzip
+- Pinpoint: dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_07_F_II_Demokratieprinzip__pages_51_to_86.md:1; Originalseitenbereich 51-86 (# BfV-AfD-Folgegutachten_2021_07_F_II_Demokratieprinzip (51-86))
+- Beweisangebot: BfV AfD Folgegutachten 2021 07 F II Demokratieprinzip pages 51 to 86; dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_07_F_II_Demokratieprinzip__pages_51_to_86.md; lokaler Split 51-86
+- Zurechnung: Akteur/Ebene pro Finding und Source-ID getrennt; Bund, Land, JA/GD, Vorfeld nicht vermischen.
+- Grenze: Nicht behaupten: Jeder einzelne Grenzfall automatisch als Parteiwille. Tragfaehig ist: Abgrenzungsversagen als Organisations- und Zurechnungsbeweis. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
+### ANL-A-017 - BVerwG, Beschluss vom 20.05.2025 - 6 B 23.24 - AfD als Verdachtsfall
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: HASHGESICHERTER_AMTLICHER_WEBANKER
+- Pinpointfinalitaet: amtlicher_hashanker_final
+- Quelle: statistikquellen.md
+- Amtlicher Webanker: SRC-BVERWG-PM-54-2025-AFD-VERDACHTSFALL-RECHTSKRAEFTIG (https://www.bverwg.de/pm/2025/54)
+- Source-ID: SRC-BVERWG-6-B-23-24-AFD-VERDACHTSFALL-2025
+- Art. 21: zurechnung, darauf_ausgehen, demokratieprinzip
+- Pinpoint: BVerwG Pressemitteilung Nr. 54/2025 vom 22.07.2025; Beschluesse vom 20.05.2025, u.a. 6 B 23.24; OVG-Muenster-Urteile rechtskraeftig.
+- Beweisangebot: BVerwG, Beschluss vom 20.05.2025 - 6 B 23.24 - AfD als Verdachtsfall; statistikquellen.md; Pressemitteilung Nr. 54/2025; Beschluss 6 B 23.24; Gründe Rn. 1-6, insbesondere Rn. 2-5 zur Verdachtsfallbeobachtung, ethnisch-kultureller Identität, Menschenwürde und Rechtskraft der OVG-Urteile.
+- Zurechnung: Akteur/Ebene pro Finding und Source-ID getrennt; Bund, Land, JA/GD, Vorfeld nicht vermischen.
+- Grenze: Nicht behaupten: Jeder einzelne Grenzfall automatisch als Parteiwille. Tragfaehig ist: Abgrenzungsversagen als Organisations- und Zurechnungsbeweis.
+- Naechste Handlung: Als amtliche Anlage mit Hashanker fuehren; nur Verdachtsfall-Rechtskraft behaupten, gesichert-Bund getrennt.
+### ANL-A-018 - BfV AfD Folgegutachten 2021 06 F I Menschenwuerde pages 101 to 150
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: split_seitenbereich_und_lokaler_textanker_finalisiert
+- Quelle: dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde__pages_101_to_150.md
+- Source-ID: SRC-BFV-AFD-FOLGEGUTACHTEN-2021-06-F-I-MENSCHENWUERDE-PAGES-101-TO-150-402d4248a6
+- Art. 21: menschenwuerde, darauf_ausgehen, zurechnung
+- Pinpoint: dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde__pages_101_to_150.md:1; Originalseitenbereich 101-150 (# BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde (101-150))
+- Beweisangebot: BfV AfD Folgegutachten 2021 06 F I Menschenwuerde pages 101 to 150; dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde__pages_101_to_150.md; lokaler Split 101-150
+- Zurechnung: Akteur/Ebene pro Finding und Source-ID getrennt; Bund, Land, JA/GD, Vorfeld nicht vermischen.
+- Grenze: Nicht behaupten: Jedes Zitat automatisch als Parteibeschluss oder gerichtliche Feststellung behandeln. Tragfaehig ist: Belegkorpus zeigt dichte, wiederholte Entwertungsmuster; direkte und indirekte Zurechnung getrennt. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
+### ANL-A-019 - BVerwG, Beschluss vom 20.05.2025 - 6 B 23.24 - AfD als Verdachtsfall
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: HASHGESICHERTER_AMTLICHER_WEBANKER
+- Pinpointfinalitaet: amtlicher_hashanker_final
+- Quelle: statistikquellen.md
+- Amtlicher Webanker: SRC-BVERWG-PM-54-2025-AFD-VERDACHTSFALL-RECHTSKRAEFTIG (https://www.bverwg.de/pm/2025/54)
+- Source-ID: SRC-BVERWG-6-B-23-24-AFD-VERDACHTSFALL-2025
+- Art. 21: menschenwuerde, darauf_ausgehen, zurechnung
+- Pinpoint: BVerwG Pressemitteilung Nr. 54/2025 vom 22.07.2025; Beschluesse vom 20.05.2025, u.a. 6 B 23.24; OVG-Muenster-Urteile rechtskraeftig.
+- Beweisangebot: BVerwG, Beschluss vom 20.05.2025 - 6 B 23.24 - AfD als Verdachtsfall; statistikquellen.md; Pressemitteilung Nr. 54/2025; Beschluss 6 B 23.24; Gründe Rn. 1-6, insbesondere Rn. 2-5 zur Verdachtsfallbeobachtung, ethnisch-kultureller Identität, Menschenwürde und Rechtskraft der OVG-Urteile.
+- Zurechnung: Akteur/Ebene pro Finding und Source-ID getrennt; Bund, Land, JA/GD, Vorfeld nicht vermischen.
+- Grenze: Nicht behaupten: Jedes Zitat automatisch als Parteibeschluss oder gerichtliche Feststellung behandeln. Tragfaehig ist: Belegkorpus zeigt dichte, wiederholte Entwertungsmuster; direkte und indirekte Zurechnung getrennt.
+- Naechste Handlung: Als amtliche Anlage mit Hashanker fuehren; nur Verdachtsfall-Rechtskraft behaupten, gesichert-Bund getrennt.
+### ANL-A-020 - BfV AfD Folgegutachten 2021 06 F I Menschenwuerde pages 101 to 150
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: split_seitenbereich_und_lokaler_textanker_finalisiert
+- Quelle: dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde__pages_101_to_150.md
+- Source-ID: SRC-BFV-AFD-FOLGEGUTACHTEN-2021-06-F-I-MENSCHENWUERDE-PAGES-101-TO-150-402d4248a6
+- Art. 21: menschenwuerde, demokratieprinzip, zurechnung
+- Pinpoint: dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde__pages_101_to_150.md:1; Originalseitenbereich 101-150 (# BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde (101-150))
+- Beweisangebot: BfV AfD Folgegutachten 2021 06 F I Menschenwuerde pages 101 to 150; dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde__pages_101_to_150.md; lokaler Split 101-150
+- Zurechnung: Akteur/Ebene pro Finding und Source-ID getrennt; Bund, Land, JA/GD, Vorfeld nicht vermischen.
+- Grenze: Nicht behaupten: Chiffren ohne Kontext pauschal als Antisemitismus beweisen. Tragfaehig ist: Explizit antisemitisch, codiert antisemitisch, NS-relativierend und unsicher getrennt visualisieren. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
+### ANL-A-021 - BVerwG, Beschluss vom 20.05.2025 - 6 B 23.24 - AfD als Verdachtsfall
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: HASHGESICHERTER_AMTLICHER_WEBANKER
+- Pinpointfinalitaet: amtlicher_hashanker_final
+- Quelle: statistikquellen.md
+- Amtlicher Webanker: SRC-BVERWG-PM-54-2025-AFD-VERDACHTSFALL-RECHTSKRAEFTIG (https://www.bverwg.de/pm/2025/54)
+- Source-ID: SRC-BVERWG-6-B-23-24-AFD-VERDACHTSFALL-2025
+- Art. 21: menschenwuerde, demokratieprinzip, zurechnung
+- Pinpoint: BVerwG Pressemitteilung Nr. 54/2025 vom 22.07.2025; Beschluesse vom 20.05.2025, u.a. 6 B 23.24; OVG-Muenster-Urteile rechtskraeftig.
+- Beweisangebot: BVerwG, Beschluss vom 20.05.2025 - 6 B 23.24 - AfD als Verdachtsfall; statistikquellen.md; Pressemitteilung Nr. 54/2025; Beschluss 6 B 23.24; Gründe Rn. 1-6, insbesondere Rn. 2-5 zur Verdachtsfallbeobachtung, ethnisch-kultureller Identität, Menschenwürde und Rechtskraft der OVG-Urteile.
+- Zurechnung: Akteur/Ebene pro Finding und Source-ID getrennt; Bund, Land, JA/GD, Vorfeld nicht vermischen.
+- Grenze: Nicht behaupten: Chiffren ohne Kontext pauschal als Antisemitismus beweisen. Tragfaehig ist: Explizit antisemitisch, codiert antisemitisch, NS-relativierend und unsicher getrennt visualisieren.
+- Naechste Handlung: Als amtliche Anlage mit Hashanker fuehren; nur Verdachtsfall-Rechtskraft behaupten, gesichert-Bund getrennt.
+### ANL-A-022 - BfV AfD Folgegutachten 2021 06 F I Menschenwuerde pages 101 to 150
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: split_seitenbereich_und_lokaler_textanker_finalisiert
+- Quelle: dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde__pages_101_to_150.md
+- Source-ID: SRC-BFV-AFD-FOLGEGUTACHTEN-2021-06-F-I-MENSCHENWUERDE-PAGES-101-TO-150-402d4248a6
+- Art. 21: menschenwuerde, rechtsstaatsprinzip, zurechnung
+- Pinpoint: dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde__pages_101_to_150.md:1; Originalseitenbereich 101-150 (# BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde (101-150))
+- Beweisangebot: BfV AfD Folgegutachten 2021 06 F I Menschenwuerde pages 101 to 150; dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde__pages_101_to_150.md; lokaler Split 101-150
+- Zurechnung: Akteur/Ebene pro Finding und Source-ID getrennt; Bund, Land, JA/GD, Vorfeld nicht vermischen.
+- Grenze: Nicht behaupten: Zulässige politische Kritik ohne Entwertungslogik als Verbotsbeweis ueberdehnen. Tragfaehig ist: Menschenrechtsverletzende Zielrichtung als belegte Rechts- und Tatsachenachse. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
+### ANL-A-023 - BVerwG, Beschluss vom 20.05.2025 - 6 B 23.24 - AfD als Verdachtsfall
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: HASHGESICHERTER_AMTLICHER_WEBANKER
+- Pinpointfinalitaet: amtlicher_hashanker_final
+- Quelle: statistikquellen.md
+- Amtlicher Webanker: SRC-BVERWG-PM-54-2025-AFD-VERDACHTSFALL-RECHTSKRAEFTIG (https://www.bverwg.de/pm/2025/54)
+- Source-ID: SRC-BVERWG-6-B-23-24-AFD-VERDACHTSFALL-2025
+- Art. 21: menschenwuerde, rechtsstaatsprinzip, zurechnung
+- Pinpoint: BVerwG Pressemitteilung Nr. 54/2025 vom 22.07.2025; Beschluesse vom 20.05.2025, u.a. 6 B 23.24; OVG-Muenster-Urteile rechtskraeftig.
+- Beweisangebot: BVerwG, Beschluss vom 20.05.2025 - 6 B 23.24 - AfD als Verdachtsfall; statistikquellen.md; Pressemitteilung Nr. 54/2025; Beschluss 6 B 23.24; Gründe Rn. 1-6, insbesondere Rn. 2-5 zur Verdachtsfallbeobachtung, ethnisch-kultureller Identität, Menschenwürde und Rechtskraft der OVG-Urteile.
+- Zurechnung: Akteur/Ebene pro Finding und Source-ID getrennt; Bund, Land, JA/GD, Vorfeld nicht vermischen.
+- Grenze: Nicht behaupten: Zulässige politische Kritik ohne Entwertungslogik als Verbotsbeweis ueberdehnen. Tragfaehig ist: Menschenrechtsverletzende Zielrichtung als belegte Rechts- und Tatsachenachse.
+- Naechste Handlung: Als amtliche Anlage mit Hashanker fuehren; nur Verdachtsfall-Rechtskraft behaupten, gesichert-Bund getrennt.
+### ANL-A-024 - BfV AfD Folgegutachten 2021 05 E Einflussnahme Fluegel pages 1 to 50
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: split_seitenbereich_und_lokaler_textanker_finalisiert
+- Quelle: dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_05_E_Einflussnahme_Fluegel__pages_1_to_50.md
+- Source-ID: SRC-BFV-AFD-FOLGEGUTACHTEN-2021-05-E-EINFLUSSNAHME-FLUEGEL-PAGES-1-TO-50-09b2c73e78
+- Art. 21: rechtsstaatsprinzip, potentialitaet, zurechnung
+- Pinpoint: dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_05_E_Einflussnahme_Fluegel__pages_1_to_50.md:1; Originalseitenbereich 1-50 (# BfV-AfD-Folgegutachten_2021_05_E_Einflussnahme_Fluegel (1-50))
+- Beweisangebot: BfV AfD Folgegutachten 2021 05 E Einflussnahme Fluegel pages 1 to 50; dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_05_E_Einflussnahme_Fluegel__pages_1_to_50.md; lokaler Split 1-50
+- Zurechnung: Akteur/Ebene pro Finding und Source-ID getrennt; Bund, Land, JA/GD, Vorfeld nicht vermischen.
+- Grenze: Nicht behaupten: Landesverrat der AfD als Gesamtpartei oder Beschuldigtenstatus Krah ohne gerichtsfeste Parteibrücke. Tragfaehig ist: Sicherheits- und Einflusskomplex im AfD-/AfD-Umfeld mit amtlichem GBA-Primäranker, Mitarbeiter-/Zugangskante und strikt getrenntem Einzelfallstatus. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
+### ANL-A-025 - BfV AfD Folgegutachten 2021 08 F III Rechtsstaatsprinzip
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: lokaler_textanker_finalisiert
+- Quelle: dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_08_F_III_Rechtsstaatsprinzip.md
+- Source-ID: SRC-BFV-AFD-FOLGEGUTACHTEN-2021-08-F-III-RECHTSSTAATSPRINZIP-0a7295012e
+- Art. 21: rechtsstaatsprinzip, potentialitaet, zurechnung
+- Pinpoint: dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_08_F_III_Rechtsstaatsprinzip.md:1 (BfV-AfD-Folgegutachten 2021 (Netzpolitik-Transkription))
+- Beweisangebot: BfV AfD Folgegutachten 2021 08 F III Rechtsstaatsprinzip; dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_08_F_III_Rechtsstaatsprinzip.md; Source-ID-Fundstelle im lokalen Volltext; lokaler Volltextanker in Topliste gefuehrt
+- Zurechnung: Akteur/Ebene pro Finding und Source-ID getrennt; Bund, Land, JA/GD, Vorfeld nicht vermischen.
+- Grenze: Nicht behaupten: Landesverrat der AfD als Gesamtpartei oder Beschuldigtenstatus Krah ohne gerichtsfeste Parteibrücke. Tragfaehig ist: Sicherheits- und Einflusskomplex im AfD-/AfD-Umfeld mit amtlichem GBA-Primäranker, Mitarbeiter-/Zugangskante und strikt getrenntem Einzelfallstatus. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
+### ANL-A-026 - BfV AfD Folgegutachten 2021 06 F I Menschenwuerde pages 101 to 150
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: split_seitenbereich_und_lokaler_textanker_finalisiert
+- Quelle: dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde__pages_101_to_150.md
+- Source-ID: SRC-BFV-AFD-FOLGEGUTACHTEN-2021-06-F-I-MENSCHENWUERDE-PAGES-101-TO-150-402d4248a6
+- Art. 21: menschenwuerde, darauf_ausgehen, zurechnung
+- Pinpoint: dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde__pages_101_to_150.md:1; Originalseitenbereich 101-150 (# BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde (101-150))
+- Beweisangebot: BfV AfD Folgegutachten 2021 06 F I Menschenwuerde pages 101 to 150; dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde__pages_101_to_150.md; lokaler Split 101-150
+- Zurechnung: Akteur/Ebene pro Finding und Source-ID getrennt; Bund, Land, JA/GD, Vorfeld nicht vermischen.
+- Grenze: Nicht behaupten: Medienereignis allein als Ersatz fuer Primär- und Amtsquellen. Tragfaehig ist: Sachkern Volksbegriff/Remigration/Abwertung als stark belegte Menschenwuerdeachse. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
+### ANL-A-027 - BVerwG, Beschluss vom 20.05.2025 - 6 B 23.24 - AfD als Verdachtsfall
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: HASHGESICHERTER_AMTLICHER_WEBANKER
+- Pinpointfinalitaet: amtlicher_hashanker_final
+- Quelle: statistikquellen.md
+- Amtlicher Webanker: SRC-BVERWG-PM-54-2025-AFD-VERDACHTSFALL-RECHTSKRAEFTIG (https://www.bverwg.de/pm/2025/54)
+- Source-ID: SRC-BVERWG-6-B-23-24-AFD-VERDACHTSFALL-2025
+- Art. 21: menschenwuerde, darauf_ausgehen, zurechnung
+- Pinpoint: BVerwG Pressemitteilung Nr. 54/2025 vom 22.07.2025; Beschluesse vom 20.05.2025, u.a. 6 B 23.24; OVG-Muenster-Urteile rechtskraeftig.
+- Beweisangebot: BVerwG, Beschluss vom 20.05.2025 - 6 B 23.24 - AfD als Verdachtsfall; statistikquellen.md; Pressemitteilung Nr. 54/2025; Beschluss 6 B 23.24; Gründe Rn. 1-6, insbesondere Rn. 2-5 zur Verdachtsfallbeobachtung, ethnisch-kultureller Identität, Menschenwürde und Rechtskraft der OVG-Urteile.
+- Zurechnung: Akteur/Ebene pro Finding und Source-ID getrennt; Bund, Land, JA/GD, Vorfeld nicht vermischen.
+- Grenze: Nicht behaupten: Medienereignis allein als Ersatz fuer Primär- und Amtsquellen. Tragfaehig ist: Sachkern Volksbegriff/Remigration/Abwertung als stark belegte Menschenwuerdeachse.
+- Naechste Handlung: Als amtliche Anlage mit Hashanker fuehren; nur Verdachtsfall-Rechtskraft behaupten, gesichert-Bund getrennt.
+### ANL-A-028 - lto.de recht nachrichten n bverwg 6b2124 6b2224 6b2324 afd einstufung bfv verdachtsfall
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: HASHGESICHERTER_AMTLICHER_WEBANKER
+- Pinpointfinalitaet: amtlicher_hashanker_final
+- Quelle: dokumente/hauptquellen/lto.de_recht_nachrichten_n_bverwg-6b2124-6b2224-6b2324-afd-einstufung-bfv-verdachtsfall.pdf
+- Amtlicher Webanker: SRC-BVERWG-PM-54-2025-AFD-VERDACHTSFALL-RECHTSKRAEFTIG (https://www.bverwg.de/pm/2025/54)
+- Source-ID: SRC-LTO-DE-RECHT-NACHRICHTEN-N-BVERWG-6B2124-6B2224-6B2324-AFD-EINSTUFUNG-BFV-VERDACHTSFALL-8117998fa8
+- Art. 21: zurechnung, menschenwuerde, demokratieprinzip, rechtsstaatsprinzip
+- Pinpoint: BVerwG Pressemitteilung Nr. 54/2025 vom 22.07.2025; Beschluesse vom 20.05.2025, u.a. 6 B 23.24; OVG-Muenster-Urteile rechtskraeftig.
+- Beweisangebot: lto.de recht nachrichten n bverwg 6b2124 6b2224 6b2324 afd einstufung bfv verdachtsfall; dokumente/hauptquellen/lto.de_recht_nachrichten_n_bverwg-6b2124-6b2224-6b2324-afd-einstufung-bfv-verdachtsfall.pdf; Source-ID-Fundstelle im lokalen Volltext; lokaler Volltextanker in Topliste gefuehrt
+- Zurechnung: Akteur/Ebene pro Finding und Source-ID getrennt; Bund, Land, JA/GD, Vorfeld nicht vermischen.
+- Grenze: Nicht behaupten: Bundes-AfD rechtskraeftig gesichert rechtsextremistisch oder verbotsreif festgestellt. Tragfaehig ist: Höchstrichterlich bestaetigte Rechtmaessigkeit der Verdachtsfallbeobachtung der Bundes-AfD; Landes- und JA-Status getrennt.
+- Naechste Handlung: Als amtliche Anlage mit Hashanker fuehren; nur Verdachtsfall-Rechtskraft behaupten, gesichert-Bund getrennt.
+### ANL-A-029 - 22 BfV vs AfD Verdachtsfall OVG Muenster
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: HASHGESICHERTER_AMTLICHER_WEBANKER
+- Pinpointfinalitaet: amtlicher_hashanker_final
+- Quelle: dokumente/hauptquellen/urteilsbelege/22_BfV_vs_AfD_Verdachtsfall_OVG_Muenster.md
+- Amtlicher Webanker: SRC-BVERWG-PM-54-2025-AFD-VERDACHTSFALL-RECHTSKRAEFTIG (https://www.bverwg.de/pm/2025/54)
+- Source-ID: SRC-22-BFV-VS-AFD-VERDACHTSFALL-OVG-MUENSTER-497553a3b0
+- Art. 21: zurechnung, menschenwuerde, demokratieprinzip, rechtsstaatsprinzip
+- Pinpoint: BVerwG Pressemitteilung Nr. 54/2025 vom 22.07.2025; Beschluesse vom 20.05.2025, u.a. 6 B 23.24; OVG-Muenster-Urteile rechtskraeftig.
+- Beweisangebot: 22 BfV vs AfD Verdachtsfall OVG Muenster; dokumente/hauptquellen/urteilsbelege/22_BfV_vs_AfD_Verdachtsfall_OVG_Muenster.md; Source-ID-Fundstelle im lokalen Volltext; lokaler Volltextanker in Topliste gefuehrt
+- Zurechnung: Akteur/Ebene pro Finding und Source-ID getrennt; Bund, Land, JA/GD, Vorfeld nicht vermischen.
+- Grenze: Nicht behaupten: Bundes-AfD rechtskraeftig gesichert rechtsextremistisch oder verbotsreif festgestellt. Tragfaehig ist: Höchstrichterlich bestaetigte Rechtmaessigkeit der Verdachtsfallbeobachtung der Bundes-AfD; Landes- und JA-Status getrennt.
+- Naechste Handlung: Als amtliche Anlage mit Hashanker fuehren; nur Verdachtsfall-Rechtskraft behaupten, gesichert-Bund getrennt.
+### ANL-A-030 - BfV AfD Folgegutachten 2021 08 F III Rechtsstaatsprinzip
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: lokaler_textanker_finalisiert
+- Quelle: dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_08_F_III_Rechtsstaatsprinzip.md
+- Source-ID: SRC-BFV-AFD-FOLGEGUTACHTEN-2021-08-F-III-RECHTSSTAATSPRINZIP-0a7295012e
+- Art. 21: rechtsstaatsprinzip, potentialitaet, zurechnung
+- Pinpoint: dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_08_F_III_Rechtsstaatsprinzip.md:1 (BfV-AfD-Folgegutachten 2021 (Netzpolitik-Transkription))
+- Beweisangebot: BfV AfD Folgegutachten 2021 08 F III Rechtsstaatsprinzip; dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_08_F_III_Rechtsstaatsprinzip.md; Source-ID-Fundstelle im lokalen Volltext; lokaler Volltextanker in Topliste gefuehrt
+- Zurechnung: Akteur/Ebene pro Finding und Source-ID getrennt; Bund, Land, JA/GD, Vorfeld nicht vermischen.
+- Grenze: Nicht behaupten: Bundesweite Waffenbesitzkarten-Entzuege ohne amtliche Grundlage. Tragfaehig ist: Waffenrechtliche Einzelfaelle und Sicherheitsmuster mit AfD-Bezug. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
+### ANL-A-031 - 23 Waffenbesitzkarten Entzug VG Duesseldorf
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: lokaler_textanker_finalisiert
+- Quelle: dokumente/hauptquellen/urteilsbelege/23_Waffenbesitzkarten_Entzug_VG_Duesseldorf.md
+- Source-ID: SRC-23-WAFFENBESITZKARTEN-ENTZUG-VG-DUESSELDORF-01bc3390bc
+- Art. 21: rechtsstaatsprinzip, potentialitaet, zurechnung
+- Pinpoint: dokumente/hauptquellen/urteilsbelege/23_Waffenbesitzkarten_Entzug_VG_Duesseldorf.md:1 (VERWALTUNGSGERICHTLICHES URTEIL: ENTZUG VON WAFFENBESITZKARTEN FÜR AfD-MITGLIEDER)
+- Beweisangebot: 23 Waffenbesitzkarten Entzug VG Duesseldorf; dokumente/hauptquellen/urteilsbelege/23_Waffenbesitzkarten_Entzug_VG_Duesseldorf.md; Source-ID-Fundstelle im lokalen Volltext; lokaler Volltextanker in Topliste gefuehrt
+- Zurechnung: Akteur/Ebene pro Finding und Source-ID getrennt; Bund, Land, JA/GD, Vorfeld nicht vermischen.
+- Grenze: Nicht behaupten: Bundesweite Waffenbesitzkarten-Entzuege ohne amtliche Grundlage. Tragfaehig ist: Waffenrechtliche Einzelfaelle und Sicherheitsmuster mit AfD-Bezug. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
+### ANL-A-032 - correctiv.org aktuelles afd 2026 05 07 gericht erklaert afd millionenspende vor bundestagswahl fuer unzulaessig
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: lokaler_textanker_finalisiert
+- Quelle: dokumente/hauptquellen/correctiv.org_aktuelles_afd_2026_05_07_gericht-erklaert-afd-millionenspende-vor-bundestagswahl-fuer-unzulaessig.pdf
+- Source-ID: SRC-CORRECTIV-ORG-AKTUELLES-AFD-2026-05-07-GERICHT-ERKLAERT-AFD-MILLIONENSPENDE-VOR-BUNDESTAGSWAHL-FUER-UNZULAESSIG-b68fa5d042
+- Art. 21: potentialitaet, darauf_ausgehen, zurechnung
+- Pinpoint: dokumente/ki_markdown/dokumente/hauptquellen/correctiv.org_aktuelles_afd_2026_05_07_gericht-erklaert-afd-millionenspende-vor-bundestagswahl-fuer-unzulaessig.md:1 (# correctiv.org_aktuelles_afd_2026_05_07_gericht-erklaert-afd-millionenspende-vor-bundestagswahl-fuer-unzulaessig.pdf)
+- Beweisangebot: correctiv.org aktuelles afd 2026 05 07 gericht erklaert afd millionenspende vor bundestagswahl fuer unzulaessig; dokumente/hauptquellen/correctiv.org_aktuelles_afd_2026_05_07_gericht-erklaert-afd-millionenspende-vor-bundestagswahl-fuer-unzulaessig.pdf; Source-ID-Fundstelle im lokalen Volltext; lokaler Volltextanker in Topliste gefuehrt
+- Zurechnung: Akteur/Ebene pro Finding und Source-ID getrennt; Bund, Land, JA/GD, Vorfeld nicht vermischen.
+- Grenze: Nicht behaupten: Milliarden-Budgets ohne konkrete Berechnung oder PMK-Zahlen als AfD-Taten. Tragfaehig ist: Erhebliche Parteien-, Fraktions-, Mandats-, Personal-, Finanz- und Reichweitenressourcen als Durchsetzungskraft. Kein PDF-Rohobjekt als Pinpoint zitieren. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
+### ANL-A-033 - BVerwG, Beschluss vom 20.05.2025 - 6 B 23.24 - AfD als Verdachtsfall
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: HASHGESICHERTER_AMTLICHER_WEBANKER
+- Pinpointfinalitaet: amtlicher_hashanker_final
+- Quelle: statistikquellen.md
+- Amtlicher Webanker: SRC-BVERWG-PM-54-2025-AFD-VERDACHTSFALL-RECHTSKRAEFTIG (https://www.bverwg.de/pm/2025/54)
+- Source-ID: SRC-BVERWG-6-B-23-24-AFD-VERDACHTSFALL-2025
+- Art. 21: darauf_ausgehen, zurechnung, potentialitaet
+- Pinpoint: BVerwG Pressemitteilung Nr. 54/2025 vom 22.07.2025; Beschluesse vom 20.05.2025, u.a. 6 B 23.24; OVG-Muenster-Urteile rechtskraeftig.
+- Beweisangebot: BVerwG, Beschluss vom 20.05.2025 - 6 B 23.24 - AfD als Verdachtsfall; statistikquellen.md; Pressemitteilung Nr. 54/2025; Beschluss 6 B 23.24; Gründe Rn. 1-6, insbesondere Rn. 2-5 zur Verdachtsfallbeobachtung, ethnisch-kultureller Identität, Menschenwürde und Rechtskraft der OVG-Urteile.
+- Zurechnung: Akteur/Ebene pro Finding und Source-ID getrennt; Bund, Land, JA/GD, Vorfeld nicht vermischen.
+- Grenze: Nicht behaupten: Lose ideologische Naehe ohne Kante als Steuerung behaupten. Tragfaehig ist: Vorfeldkanten als belegte Organisations- und Agitationsinfrastruktur.
+- Naechste Handlung: Als amtliche Anlage mit Hashanker fuehren; nur Verdachtsfall-Rechtskraft behaupten, gesichert-Bund getrennt.
+### ANL-B-034 - BfV Pressemitteilung Hochstufungsentscheidung Fluegel 2020 03 12
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: lokaler_textanker_finalisiert
+- Quelle: dokumente/hauptquellen/BfV_Pressemitteilung_Hochstufungsentscheidung_Fluegel_2020_03_12.md
+- Source-ID: SRC-BFV-PRESSEMITTEILUNG-HOCHSTUFUNGSENTSCHEIDUNG-FLUEGEL-2020-03-12-0ef8899cb4
+- Art. 21: darauf_ausgehen, zurechnung, potentialitaet
+- Pinpoint: dokumente/hauptquellen/BfV_Pressemitteilung_Hochstufungsentscheidung_Fluegel_2020_03_12.md:1 (AMTLICHE BELEG-QUELLE: BUNDESAMT FÜR VERFASSUNGSSCHUTZ (BfV))
+- Beweisangebot: BfV Pressemitteilung Hochstufungsentscheidung Fluegel 2020 03 12; dokumente/hauptquellen/BfV_Pressemitteilung_Hochstufungsentscheidung_Fluegel_2020_03_12.md; Source-ID-Fundstelle im lokalen Volltext; lokaler Volltextanker in Topliste gefuehrt
+- Zurechnung: Akteur/Ebene pro Finding und Source-ID getrennt; Bund, Land, JA/GD, Vorfeld nicht vermischen.
+- Grenze: Nicht behaupten: Lose ideologische Naehe ohne Kante als Steuerung behaupten. Tragfaehig ist: Vorfeldkanten als belegte Organisations- und Agitationsinfrastruktur. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
+### ANL-A-035 - BVerwG, Beschluss vom 20.05.2025 - 6 B 23.24 - AfD als Verdachtsfall
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: HASHGESICHERTER_AMTLICHER_WEBANKER
+- Pinpointfinalitaet: amtlicher_hashanker_final
+- Quelle: statistikquellen.md
+- Amtlicher Webanker: SRC-BVERWG-PM-54-2025-AFD-VERDACHTSFALL-RECHTSKRAEFTIG (https://www.bverwg.de/pm/2025/54)
+- Source-ID: SRC-BVERWG-6-B-23-24-AFD-VERDACHTSFALL-2025
+- Art. 21: potentialitaet, darauf_ausgehen, zurechnung
+- Pinpoint: BVerwG Pressemitteilung Nr. 54/2025 vom 22.07.2025; Beschluesse vom 20.05.2025, u.a. 6 B 23.24; OVG-Muenster-Urteile rechtskraeftig.
+- Beweisangebot: BVerwG, Beschluss vom 20.05.2025 - 6 B 23.24 - AfD als Verdachtsfall; statistikquellen.md; Pressemitteilung Nr. 54/2025; Beschluss 6 B 23.24; Gründe Rn. 1-6, insbesondere Rn. 2-5 zur Verdachtsfallbeobachtung, ethnisch-kultureller Identität, Menschenwürde und Rechtskraft der OVG-Urteile.
+- Zurechnung: Akteur/Ebene pro Finding und Source-ID getrennt; Bund, Land, JA/GD, Vorfeld nicht vermischen.
+- Grenze: Nicht behaupten: AfD baut paramilitaerische Einheiten, ohne direkte Primärkette. Tragfaehig ist: Gewaltbereite Vorfeldmilieus mit belegten Schnittstellen.
+- Naechste Handlung: Als amtliche Anlage mit Hashanker fuehren; nur Verdachtsfall-Rechtskraft behaupten, gesichert-Bund getrennt.
+### ANL-E-036 - Gewalt als Alternative 14 verurteilte AfD Mandatsträger im Amt
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: lokaler_textanker_finalisiert
+- Quelle: dokumente/hauptquellen/Gewalt als Alternative_ 14 verurteilte AfD-Mandatsträger im Amt.pdf
+- Source-ID: SRC-GEWALT-ALS-ALTERNATIVE-14-VERURTEILTE-AFD-MANDATSTRA-GER-IM-AMT-10b3f00052
+- Art. 21: potentialitaet, darauf_ausgehen, zurechnung
+- Pinpoint: dokumente/ki_markdown/dokumente/hauptquellen/Gewalt als Alternative_ 14 verurteilte AfD-Mandatsträger im Amt.md:1 (# Gewalt als Alternative_ 14 verurteilte AfD-Mandatsträger im Amt.pdf)
+- Beweisangebot: Gewalt als Alternative 14 verurteilte AfD Mandatsträger im Amt; dokumente/hauptquellen/Gewalt als Alternative_ 14 verurteilte AfD-Mandatsträger im Amt.pdf; Source-ID-Fundstelle im lokalen Volltext; lokaler Volltextanker in Topliste gefuehrt
+- Zurechnung: Akteur/Ebene pro Finding und Source-ID getrennt; Bund, Land, JA/GD, Vorfeld nicht vermischen.
+- Grenze: Nicht behaupten: AfD baut paramilitaerische Einheiten, ohne direkte Primärkette. Tragfaehig ist: Gewaltbereite Vorfeldmilieus mit belegten Schnittstellen. Kein PDF-Rohobjekt als Pinpoint zitieren. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
+### ANL-A-037 - 01 dserver.bundestag.de btd 20 010 2001020.pdf
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: pdftotext_anker_finalisiert; bei woertlichem Schriftsatzzitat gegen PDF-Seitenbild gegenlesen
+- Quelle: dokumente/hauptquellen/01_dserver.bundestag.de_btd_20_010_2001020.pdf.pdf
+- Source-ID: SRC-01-DSERVER-BUNDESTAG-DE-BTD-20-010-2001020-PDF-d27d42a66f
+- Art. 21: demokratieprinzip, rechtsstaatsprinzip, darauf_ausgehen
+- Pinpoint: daten/pinpoint_text_extracts_2026/SRC-01-DSERVER-BUNDESTAG-DE-BTD-20-010-2001020-PDF-d27d42a66f.txt:1 (Deutscher Bundestag Drucksache 20/1020)
+- Beweisangebot: 01 dserver.bundestag.de btd 20 010 2001020.pdf; dokumente/hauptquellen/01_dserver.bundestag.de_btd_20_010_2001020.pdf.pdf; Source-ID-Fundstelle im lokalen Volltext; lokaler Volltextanker in Topliste gefuehrt
+- Zurechnung: Rechtsgut-/Statusachse aus Verbotsgrundmatrix.
+- Grenze: Nicht behaupten: Jede harte Oppositionsnutzung parlamentarischer Rechte als Sabotage labeln. Tragfaehig ist: Konkrete parlamentarische Blockadehandlungen mit Norm/Funktion/Entscheidung. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Fuer direktes Schriftsatzzitat PDF-Seitenbild gegen Textauszug pruefen; Anlage und lokaler Textanker sind final gefuehrt.
+### ANL-A-038 - 02 dserver.bundestag.de btd 20 133 2013317.pdf
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: pdftotext_anker_finalisiert; bei woertlichem Schriftsatzzitat gegen PDF-Seitenbild gegenlesen
+- Quelle: dokumente/hauptquellen/02_dserver.bundestag.de_btd_20_133_2013317.pdf.pdf
+- Source-ID: SRC-02-DSERVER-BUNDESTAG-DE-BTD-20-133-2013317-PDF-d6a187921c
+- Art. 21: demokratieprinzip, rechtsstaatsprinzip, darauf_ausgehen
+- Pinpoint: daten/pinpoint_text_extracts_2026/SRC-02-DSERVER-BUNDESTAG-DE-BTD-20-133-2013317-PDF-d6a187921c.txt:1 (Deutscher Bundestag Drucksache 20/13317)
+- Beweisangebot: 02 dserver.bundestag.de btd 20 133 2013317.pdf; dokumente/hauptquellen/02_dserver.bundestag.de_btd_20_133_2013317.pdf.pdf; Source-ID-Fundstelle im lokalen Volltext; lokaler Volltextanker in Topliste gefuehrt
+- Zurechnung: Rechtsgut-/Statusachse aus Verbotsgrundmatrix.
+- Grenze: Nicht behaupten: Jede harte Oppositionsnutzung parlamentarischer Rechte als Sabotage labeln. Tragfaehig ist: Konkrete parlamentarische Blockadehandlungen mit Norm/Funktion/Entscheidung. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Fuer direktes Schriftsatzzitat PDF-Seitenbild gegen Textauszug pruefen; Anlage und lokaler Textanker sind final gefuehrt.
+### ANL-A-039 - Bundestagsverwaltung Wahlplakat Spende an AfD war unzulässig
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: lokaler_textanker_finalisiert
+- Quelle: dokumente/hauptquellen/Bundestagsverwaltung_ Wahlplakat-Spende an AfD war unzulässig.pdf
+- Source-ID: SRC-BUNDESTAGSVERWALTUNG-WAHLPLAKAT-SPENDE-AN-AFD-WAR-UNZULA-SSIG-7a6627c79f
+- Art. 21: rechtsstaatsprinzip, potentialitaet, zurechnung
+- Pinpoint: dokumente/ki_markdown/dokumente/hauptquellen/Bundestagsverwaltung_ Wahlplakat-Spende an AfD war unzulässig.md:1 (# Bundestagsverwaltung_ Wahlplakat-Spende an AfD war unzulässig.pdf)
+- Beweisangebot: Bundestagsverwaltung Wahlplakat Spende an AfD war unzulässig; dokumente/hauptquellen/Bundestagsverwaltung_ Wahlplakat-Spende an AfD war unzulässig.pdf; Source-ID-Fundstelle im lokalen Volltext; lokaler Volltextanker in Topliste gefuehrt
+- Zurechnung: Akteur/Ebene pro Finding und Source-ID getrennt; Bund, Land, JA/GD, Vorfeld nicht vermischen.
+- Grenze: Nicht behaupten: Systematisches Einschleusen ohne Fallmatrix und Organisationsbeleg. Tragfaehig ist: Einzelfaelle und Muster bei parlamentarischen/administrativen Zugaengen. Kein PDF-Rohobjekt als Pinpoint zitieren. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
+### ANL-A-040 - 01 dserver.bundestag.de btd 20 010 2001020.pdf
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: pdftotext_anker_finalisiert; bei woertlichem Schriftsatzzitat gegen PDF-Seitenbild gegenlesen
+- Quelle: dokumente/hauptquellen/01_dserver.bundestag.de_btd_20_010_2001020.pdf.pdf
+- Source-ID: SRC-01-DSERVER-BUNDESTAG-DE-BTD-20-010-2001020-PDF-d27d42a66f
+- Art. 21: rechtsstaatsprinzip, potentialitaet, zurechnung
+- Pinpoint: daten/pinpoint_text_extracts_2026/SRC-01-DSERVER-BUNDESTAG-DE-BTD-20-010-2001020-PDF-d27d42a66f.txt:1 (Deutscher Bundestag Drucksache 20/1020)
+- Beweisangebot: 01 dserver.bundestag.de btd 20 010 2001020.pdf; dokumente/hauptquellen/01_dserver.bundestag.de_btd_20_010_2001020.pdf.pdf; Source-ID-Fundstelle im lokalen Volltext; lokaler Volltextanker in Topliste gefuehrt
+- Zurechnung: Akteur/Ebene pro Finding und Source-ID getrennt; Bund, Land, JA/GD, Vorfeld nicht vermischen.
+- Grenze: Nicht behaupten: Systematisches Einschleusen ohne Fallmatrix und Organisationsbeleg. Tragfaehig ist: Einzelfaelle und Muster bei parlamentarischen/administrativen Zugaengen. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Fuer direktes Schriftsatzzitat PDF-Seitenbild gegen Textauszug pruefen; Anlage und lokaler Textanker sind final gefuehrt.
+### ANL-A-041 - BfV AfD Folgegutachten 2021 06 F I Menschenwuerde
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: lokaler_textanker_finalisiert
+- Quelle: dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde.md
+- Source-ID: SRC-BFV-AFD-FOLGEGUTACHTEN-2021-06-F-I-MENSCHENWUERDE-d13e69cdba
+- Art. 21: zu pruefen
+- Pinpoint: dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde.md:1 (BfV-AfD-Folgegutachten 2021 (Netzpolitik-Transkription))
+- Beweisangebot: BfV AfD Folgegutachten 2021 06 F I Menschenwuerde; dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde.md; repo_path/source_id-Fundstelle; lokaler Volltextanker in Topliste gefuehrt
+- Zurechnung: Zurechnungsebene aus Quelle, Akteur, Parteifunktion und Statusachse getrennt fuehren.
+- Grenze: Keine Ueberzeichnung. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
+### ANL-A-042 - BfV AfD Folgegutachten 2021 06 F I Menschenwuerde pages 151 to 200
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: split_seitenbereich_und_lokaler_textanker_finalisiert
+- Quelle: dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde__pages_151_to_200.md
+- Source-ID: SRC-BFV-AFD-FOLGEGUTACHTEN-2021-06-F-I-MENSCHENWUERDE-PAGES-151-TO-200-8664e92127
+- Art. 21: zu pruefen
+- Pinpoint: dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde__pages_151_to_200.md:1; Originalseitenbereich 151-200 (# BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde (151-200))
+- Beweisangebot: BfV AfD Folgegutachten 2021 06 F I Menschenwuerde pages 151 to 200; dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde__pages_151_to_200.md; lokaler Split 151-200
+- Zurechnung: Zurechnungsebene aus Quelle, Akteur, Parteifunktion und Statusachse getrennt fuehren.
+- Grenze: Keine Ueberzeichnung. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
+### ANL-A-043 - BfV AfD Folgegutachten 2021 06 F I Menschenwuerde pages 1 to 50
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: split_seitenbereich_und_lokaler_textanker_finalisiert
+- Quelle: dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde__pages_1_to_50.md
+- Source-ID: SRC-BFV-AFD-FOLGEGUTACHTEN-2021-06-F-I-MENSCHENWUERDE-PAGES-1-TO-50-2aea3384f5
+- Art. 21: zu pruefen
+- Pinpoint: dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde__pages_1_to_50.md:1; Originalseitenbereich 1-50 (# BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde (1-50))
+- Beweisangebot: BfV AfD Folgegutachten 2021 06 F I Menschenwuerde pages 1 to 50; dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde__pages_1_to_50.md; lokaler Split 1-50
+- Zurechnung: Zurechnungsebene aus Quelle, Akteur, Parteifunktion und Statusachse getrennt fuehren.
+- Grenze: Keine Ueberzeichnung. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
+### ANL-A-044 - BfV AfD Folgegutachten 2021 06 F I Menschenwuerde pages 201 to 250
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: split_seitenbereich_und_lokaler_textanker_finalisiert
+- Quelle: dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde__pages_201_to_250.md
+- Source-ID: SRC-BFV-AFD-FOLGEGUTACHTEN-2021-06-F-I-MENSCHENWUERDE-PAGES-201-TO-250-662a93beeb
+- Art. 21: zu pruefen
+- Pinpoint: dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde__pages_201_to_250.md:1; Originalseitenbereich 201-250 (# BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde (201-250))
+- Beweisangebot: BfV AfD Folgegutachten 2021 06 F I Menschenwuerde pages 201 to 250; dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde__pages_201_to_250.md; lokaler Split 201-250
+- Zurechnung: Zurechnungsebene aus Quelle, Akteur, Parteifunktion und Statusachse getrennt fuehren.
+- Grenze: Keine Ueberzeichnung. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
+### ANL-A-045 - BfV AfD Folgegutachten 2021 06 F I Menschenwuerde pages 251 to 262
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: split_seitenbereich_und_lokaler_textanker_finalisiert
+- Quelle: dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde__pages_251_to_262.md
+- Source-ID: SRC-BFV-AFD-FOLGEGUTACHTEN-2021-06-F-I-MENSCHENWUERDE-PAGES-251-TO-262-8519ec91dc
+- Art. 21: zu pruefen
+- Pinpoint: dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde__pages_251_to_262.md:1; Originalseitenbereich 251-262 (# BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde (251-262))
+- Beweisangebot: BfV AfD Folgegutachten 2021 06 F I Menschenwuerde pages 251 to 262; dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde__pages_251_to_262.md; lokaler Split 251-262
+- Zurechnung: Zurechnungsebene aus Quelle, Akteur, Parteifunktion und Statusachse getrennt fuehren.
+- Grenze: Keine Ueberzeichnung. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
+### ANL-A-046 - BfV AfD Folgegutachten 2021 06 F I Menschenwuerde pages 51 to 100
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: split_seitenbereich_und_lokaler_textanker_finalisiert
+- Quelle: dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde__pages_51_to_100.md
+- Source-ID: SRC-BFV-AFD-FOLGEGUTACHTEN-2021-06-F-I-MENSCHENWUERDE-PAGES-51-TO-100-4c171b1577
+- Art. 21: zu pruefen
+- Pinpoint: dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde__pages_51_to_100.md:1; Originalseitenbereich 51-100 (# BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde (51-100))
+- Beweisangebot: BfV AfD Folgegutachten 2021 06 F I Menschenwuerde pages 51 to 100; dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde__pages_51_to_100.md; lokaler Split 51-100
+- Zurechnung: Zurechnungsebene aus Quelle, Akteur, Parteifunktion und Statusachse getrennt fuehren.
+- Grenze: Keine Ueberzeichnung. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
+### ANL-A-047 - BfV AfD Folgegutachten 2021 06 F I Menschenwuerde
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: lokaler_textanker_finalisiert
+- Quelle: dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde.md
+- Source-ID: SRC-BFV-AFD-FOLGEGUTACHTEN-2021-06-F-I-MENSCHENWUERDE-d13e69cdba
+- Art. 21: zu pruefen
+- Pinpoint: dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde.md:1 (BfV-AfD-Folgegutachten 2021 (Netzpolitik-Transkription))
+- Beweisangebot: BfV AfD Folgegutachten 2021 06 F I Menschenwuerde; dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde.md; repo_path/source_id-Fundstelle; lokaler Volltextanker in Topliste gefuehrt
+- Zurechnung: Zurechnungsebene aus Quelle, Akteur, Parteifunktion und Statusachse getrennt fuehren.
+- Grenze: Keine Ueberzeichnung. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
+### ANL-A-048 - BfV AfD Folgegutachten 2021 06 F I Menschenwuerde pages 151 to 200
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: split_seitenbereich_und_lokaler_textanker_finalisiert
+- Quelle: dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde__pages_151_to_200.md
+- Source-ID: SRC-BFV-AFD-FOLGEGUTACHTEN-2021-06-F-I-MENSCHENWUERDE-PAGES-151-TO-200-8664e92127
+- Art. 21: zu pruefen
+- Pinpoint: dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde__pages_151_to_200.md:1; Originalseitenbereich 151-200 (# BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde (151-200))
+- Beweisangebot: BfV AfD Folgegutachten 2021 06 F I Menschenwuerde pages 151 to 200; dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde__pages_151_to_200.md; lokaler Split 151-200
+- Zurechnung: Zurechnungsebene aus Quelle, Akteur, Parteifunktion und Statusachse getrennt fuehren.
+- Grenze: Keine Ueberzeichnung. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
+### ANL-A-049 - BfV AfD Folgegutachten 2021 06 F I Menschenwuerde pages 1 to 50
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: split_seitenbereich_und_lokaler_textanker_finalisiert
+- Quelle: dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde__pages_1_to_50.md
+- Source-ID: SRC-BFV-AFD-FOLGEGUTACHTEN-2021-06-F-I-MENSCHENWUERDE-PAGES-1-TO-50-2aea3384f5
+- Art. 21: zu pruefen
+- Pinpoint: dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde__pages_1_to_50.md:1; Originalseitenbereich 1-50 (# BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde (1-50))
+- Beweisangebot: BfV AfD Folgegutachten 2021 06 F I Menschenwuerde pages 1 to 50; dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde__pages_1_to_50.md; lokaler Split 1-50
+- Zurechnung: Zurechnungsebene aus Quelle, Akteur, Parteifunktion und Statusachse getrennt fuehren.
+- Grenze: Keine Ueberzeichnung. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
+### ANL-A-050 - BfV AfD Folgegutachten 2021 06 F I Menschenwuerde pages 201 to 250
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: split_seitenbereich_und_lokaler_textanker_finalisiert
+- Quelle: dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde__pages_201_to_250.md
+- Source-ID: SRC-BFV-AFD-FOLGEGUTACHTEN-2021-06-F-I-MENSCHENWUERDE-PAGES-201-TO-250-662a93beeb
+- Art. 21: zu pruefen
+- Pinpoint: dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde__pages_201_to_250.md:1; Originalseitenbereich 201-250 (# BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde (201-250))
+- Beweisangebot: BfV AfD Folgegutachten 2021 06 F I Menschenwuerde pages 201 to 250; dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde__pages_201_to_250.md; lokaler Split 201-250
+- Zurechnung: Zurechnungsebene aus Quelle, Akteur, Parteifunktion und Statusachse getrennt fuehren.
+- Grenze: Keine Ueberzeichnung. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
+### ANL-A-051 - BfV AfD Folgegutachten 2021 06 F I Menschenwuerde pages 251 to 262
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: split_seitenbereich_und_lokaler_textanker_finalisiert
+- Quelle: dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde__pages_251_to_262.md
+- Source-ID: SRC-BFV-AFD-FOLGEGUTACHTEN-2021-06-F-I-MENSCHENWUERDE-PAGES-251-TO-262-8519ec91dc
+- Art. 21: zu pruefen
+- Pinpoint: dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde__pages_251_to_262.md:1; Originalseitenbereich 251-262 (# BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde (251-262))
+- Beweisangebot: BfV AfD Folgegutachten 2021 06 F I Menschenwuerde pages 251 to 262; dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde__pages_251_to_262.md; lokaler Split 251-262
+- Zurechnung: Zurechnungsebene aus Quelle, Akteur, Parteifunktion und Statusachse getrennt fuehren.
+- Grenze: Keine Ueberzeichnung. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
+### ANL-A-052 - BfV AfD Folgegutachten 2021 06 F I Menschenwuerde pages 51 to 100
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: split_seitenbereich_und_lokaler_textanker_finalisiert
+- Quelle: dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde__pages_51_to_100.md
+- Source-ID: SRC-BFV-AFD-FOLGEGUTACHTEN-2021-06-F-I-MENSCHENWUERDE-PAGES-51-TO-100-4c171b1577
+- Art. 21: zu pruefen
+- Pinpoint: dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde__pages_51_to_100.md:1; Originalseitenbereich 51-100 (# BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde (51-100))
+- Beweisangebot: BfV AfD Folgegutachten 2021 06 F I Menschenwuerde pages 51 to 100; dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde__pages_51_to_100.md; lokaler Split 51-100
+- Zurechnung: Zurechnungsebene aus Quelle, Akteur, Parteifunktion und Statusachse getrennt fuehren.
+- Grenze: Keine Ueberzeichnung. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
+### ANL-B-053 - BfV Lagebild Antisemitismus 2024
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: lokaler_textanker_finalisiert
+- Quelle: dokumente/ki_markdown/dokumente/vfs_rechtsextremismus/BfV_Lagebild_Antisemitismus_2024.md
+- Source-ID: SRC-BFV-LAGEBILD-ANTISEMITISMUS-2024-a186796e9f
+- Art. 21: zu pruefen
+- Pinpoint: dokumente/ki_markdown/dokumente/vfs_rechtsextremismus/BfV_Lagebild_Antisemitismus_2024.md:1 (# BfV_Lagebild_Antisemitismus_2024.pdf)
+- Beweisangebot: BfV Lagebild Antisemitismus 2024; dokumente/ki_markdown/dokumente/vfs_rechtsextremismus/BfV_Lagebild_Antisemitismus_2024.md; repo_path/source_id-Fundstelle; lokaler Volltextanker in Topliste gefuehrt
+- Zurechnung: Zurechnungsebene aus Quelle, Akteur, Parteifunktion und Statusachse getrennt fuehren.
+- Grenze: Keine Ueberzeichnung. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
+### ANL-B-054 - BfV Lagebild Antisemitismus 2024 pages 101 to 110
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: split_seitenbereich_und_lokaler_textanker_finalisiert
+- Quelle: dokumente/ki_markdown/dokumente/vfs_rechtsextremismus/BfV_Lagebild_Antisemitismus_2024__pages_101_to_110.md
+- Source-ID: SRC-BFV-LAGEBILD-ANTISEMITISMUS-2024-PAGES-101-TO-110-c6f9bed188
+- Art. 21: zu pruefen
+- Pinpoint: dokumente/ki_markdown/dokumente/vfs_rechtsextremismus/BfV_Lagebild_Antisemitismus_2024__pages_101_to_110.md:1; Originalseitenbereich 101-110 (# BfV_Lagebild_Antisemitismus_2024 (101-110))
+- Beweisangebot: BfV Lagebild Antisemitismus 2024 pages 101 to 110; dokumente/ki_markdown/dokumente/vfs_rechtsextremismus/BfV_Lagebild_Antisemitismus_2024__pages_101_to_110.md; lokaler Split 101-110
+- Zurechnung: Zurechnungsebene aus Quelle, Akteur, Parteifunktion und Statusachse getrennt fuehren.
+- Grenze: Keine Ueberzeichnung. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
+### ANL-B-055 - BfV Lagebild Antisemitismus 2024 pages 1 to 50
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: split_seitenbereich_und_lokaler_textanker_finalisiert
+- Quelle: dokumente/ki_markdown/dokumente/vfs_rechtsextremismus/BfV_Lagebild_Antisemitismus_2024__pages_1_to_50.md
+- Source-ID: SRC-BFV-LAGEBILD-ANTISEMITISMUS-2024-PAGES-1-TO-50-b58a0cf33b
+- Art. 21: zu pruefen
+- Pinpoint: dokumente/ki_markdown/dokumente/vfs_rechtsextremismus/BfV_Lagebild_Antisemitismus_2024__pages_1_to_50.md:1; Originalseitenbereich 1-50 (# BfV_Lagebild_Antisemitismus_2024 (1-50))
+- Beweisangebot: BfV Lagebild Antisemitismus 2024 pages 1 to 50; dokumente/ki_markdown/dokumente/vfs_rechtsextremismus/BfV_Lagebild_Antisemitismus_2024__pages_1_to_50.md; lokaler Split 1-50
+- Zurechnung: Zurechnungsebene aus Quelle, Akteur, Parteifunktion und Statusachse getrennt fuehren.
+- Grenze: Keine Ueberzeichnung. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
+### ANL-B-056 - BfV Lagebild Antisemitismus 2024 pages 51 to 100
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: split_seitenbereich_und_lokaler_textanker_finalisiert
+- Quelle: dokumente/ki_markdown/dokumente/vfs_rechtsextremismus/BfV_Lagebild_Antisemitismus_2024__pages_51_to_100.md
+- Source-ID: SRC-BFV-LAGEBILD-ANTISEMITISMUS-2024-PAGES-51-TO-100-db7587bc8c
+- Art. 21: zu pruefen
+- Pinpoint: dokumente/ki_markdown/dokumente/vfs_rechtsextremismus/BfV_Lagebild_Antisemitismus_2024__pages_51_to_100.md:1; Originalseitenbereich 51-100 (# BfV_Lagebild_Antisemitismus_2024 (51-100))
+- Beweisangebot: BfV Lagebild Antisemitismus 2024 pages 51 to 100; dokumente/ki_markdown/dokumente/vfs_rechtsextremismus/BfV_Lagebild_Antisemitismus_2024__pages_51_to_100.md; lokaler Split 51-100
+- Zurechnung: Zurechnungsebene aus Quelle, Akteur, Parteifunktion und Statusachse getrennt fuehren.
+- Grenze: Keine Ueberzeichnung. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
+### ANL-B-057 - BfV Lagebild Antisemitismus 2024
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: lokaler_textanker_finalisiert
+- Quelle: dokumente/vfs_rechtsextremismus/BfV_Lagebild_Antisemitismus_2024.pdf
+- Source-ID: SRC-BFV-LAGEBILD-ANTISEMITISMUS-2024-063b86e36f
+- Art. 21: zu pruefen
+- Pinpoint: dokumente/ki_markdown/dokumente/vfs_rechtsextremismus/BfV_Lagebild_Antisemitismus_2024.md:1 (# BfV_Lagebild_Antisemitismus_2024.pdf)
+- Beweisangebot: BfV Lagebild Antisemitismus 2024; dokumente/vfs_rechtsextremismus/BfV_Lagebild_Antisemitismus_2024.pdf; repo_path/source_id-Fundstelle; lokaler Volltextanker in Topliste gefuehrt
+- Zurechnung: Zurechnungsebene aus Quelle, Akteur, Parteifunktion und Statusachse getrennt fuehren.
+- Grenze: Keine Ueberzeichnung. Kein PDF-Rohobjekt als Pinpoint zitieren. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
+### ANL-A-058 - BfV AfD Folgegutachten 2021 06 F I Menschenwuerde
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: lokaler_textanker_finalisiert
+- Quelle: dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde.md
+- Source-ID: SRC-BFV-AFD-FOLGEGUTACHTEN-2021-06-F-I-MENSCHENWUERDE-d13e69cdba
+- Art. 21: zu pruefen
+- Pinpoint: dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde.md:1 (BfV-AfD-Folgegutachten 2021 (Netzpolitik-Transkription))
+- Beweisangebot: BfV AfD Folgegutachten 2021 06 F I Menschenwuerde; dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde.md; repo_path/source_id-Fundstelle; lokaler Volltextanker in Topliste gefuehrt
+- Zurechnung: Zurechnungsebene aus Quelle, Akteur, Parteifunktion und Statusachse getrennt fuehren.
+- Grenze: Keine Ueberzeichnung. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
+### ANL-A-059 - BfV AfD Folgegutachten 2021 06 F I Menschenwuerde
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: lokaler_textanker_finalisiert
+- Quelle: dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde.md
+- Source-ID: SRC-BFV-AFD-FOLGEGUTACHTEN-2021-06-F-I-MENSCHENWUERDE-d13e69cdba
+- Art. 21: zu pruefen
+- Pinpoint: dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde.md:1 (BfV-AfD-Folgegutachten 2021 (Netzpolitik-Transkription))
+- Beweisangebot: BfV AfD Folgegutachten 2021 06 F I Menschenwuerde; dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde.md; repo_path/source_id-Fundstelle; lokaler Volltextanker in Topliste gefuehrt
+- Zurechnung: Zurechnungsebene aus Quelle, Akteur, Parteifunktion und Statusachse getrennt fuehren.
+- Grenze: Keine Ueberzeichnung. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
+### ANL-A-060 - BfV AfD Folgegutachten 2021 06 F I Menschenwuerde pages 151 to 200
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: split_seitenbereich_und_lokaler_textanker_finalisiert
+- Quelle: dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde__pages_151_to_200.md
+- Source-ID: SRC-BFV-AFD-FOLGEGUTACHTEN-2021-06-F-I-MENSCHENWUERDE-PAGES-151-TO-200-8664e92127
+- Art. 21: zu pruefen
+- Pinpoint: dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde__pages_151_to_200.md:1; Originalseitenbereich 151-200 (# BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde (151-200))
+- Beweisangebot: BfV AfD Folgegutachten 2021 06 F I Menschenwuerde pages 151 to 200; dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde__pages_151_to_200.md; lokaler Split 151-200
+- Zurechnung: Zurechnungsebene aus Quelle, Akteur, Parteifunktion und Statusachse getrennt fuehren.
+- Grenze: Keine Ueberzeichnung. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
+### ANL-A-061 - BfV AfD Folgegutachten 2021 06 F I Menschenwuerde pages 1 to 50
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: split_seitenbereich_und_lokaler_textanker_finalisiert
+- Quelle: dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde__pages_1_to_50.md
+- Source-ID: SRC-BFV-AFD-FOLGEGUTACHTEN-2021-06-F-I-MENSCHENWUERDE-PAGES-1-TO-50-2aea3384f5
+- Art. 21: zu pruefen
+- Pinpoint: dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde__pages_1_to_50.md:1; Originalseitenbereich 1-50 (# BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde (1-50))
+- Beweisangebot: BfV AfD Folgegutachten 2021 06 F I Menschenwuerde pages 1 to 50; dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde__pages_1_to_50.md; lokaler Split 1-50
+- Zurechnung: Zurechnungsebene aus Quelle, Akteur, Parteifunktion und Statusachse getrennt fuehren.
+- Grenze: Keine Ueberzeichnung. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
+### ANL-A-062 - BfV AfD Folgegutachten 2021 06 F I Menschenwuerde pages 201 to 250
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: split_seitenbereich_und_lokaler_textanker_finalisiert
+- Quelle: dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde__pages_201_to_250.md
+- Source-ID: SRC-BFV-AFD-FOLGEGUTACHTEN-2021-06-F-I-MENSCHENWUERDE-PAGES-201-TO-250-662a93beeb
+- Art. 21: zu pruefen
+- Pinpoint: dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde__pages_201_to_250.md:1; Originalseitenbereich 201-250 (# BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde (201-250))
+- Beweisangebot: BfV AfD Folgegutachten 2021 06 F I Menschenwuerde pages 201 to 250; dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde__pages_201_to_250.md; lokaler Split 201-250
+- Zurechnung: Zurechnungsebene aus Quelle, Akteur, Parteifunktion und Statusachse getrennt fuehren.
+- Grenze: Keine Ueberzeichnung. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
+### ANL-A-063 - BfV AfD Folgegutachten 2021 06 F I Menschenwuerde pages 251 to 262
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: split_seitenbereich_und_lokaler_textanker_finalisiert
+- Quelle: dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde__pages_251_to_262.md
+- Source-ID: SRC-BFV-AFD-FOLGEGUTACHTEN-2021-06-F-I-MENSCHENWUERDE-PAGES-251-TO-262-8519ec91dc
+- Art. 21: zu pruefen
+- Pinpoint: dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde__pages_251_to_262.md:1; Originalseitenbereich 251-262 (# BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde (251-262))
+- Beweisangebot: BfV AfD Folgegutachten 2021 06 F I Menschenwuerde pages 251 to 262; dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde__pages_251_to_262.md; lokaler Split 251-262
+- Zurechnung: Zurechnungsebene aus Quelle, Akteur, Parteifunktion und Statusachse getrennt fuehren.
+- Grenze: Keine Ueberzeichnung. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
+### ANL-A-064 - BfV AfD Folgegutachten 2021 06 F I Menschenwuerde pages 51 to 100
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: split_seitenbereich_und_lokaler_textanker_finalisiert
+- Quelle: dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde__pages_51_to_100.md
+- Source-ID: SRC-BFV-AFD-FOLGEGUTACHTEN-2021-06-F-I-MENSCHENWUERDE-PAGES-51-TO-100-4c171b1577
+- Art. 21: zu pruefen
+- Pinpoint: dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde__pages_51_to_100.md:1; Originalseitenbereich 51-100 (# BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde (51-100))
+- Beweisangebot: BfV AfD Folgegutachten 2021 06 F I Menschenwuerde pages 51 to 100; dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde__pages_51_to_100.md; lokaler Split 51-100
+- Zurechnung: Zurechnungsebene aus Quelle, Akteur, Parteifunktion und Statusachse getrennt fuehren.
+- Grenze: Keine Ueberzeichnung. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
+### ANL-A-065 - 49 Kurt H Saechsische Separatisten Terror GBA
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: lokaler_textanker_finalisiert
+- Quelle: dokumente/hauptquellen/urteilsbelege/49_Kurt_H_Saechsische_Separatisten_Terror_GBA.md
+- Source-ID: SRC-49-KURT-H-SAECHSISCHE-SEPARATISTEN-TERROR-GBA-b4ce651c76
+- Art. 21: zu pruefen
+- Pinpoint: dokumente/hauptquellen/urteilsbelege/49_Kurt_H_Saechsische_Separatisten_Terror_GBA.md:1 (URTEILSDATENBANK BELEG 49: Terror- und Haftverfahren gegen Kurt H. (AfD-Kommunalpolitiker Grimma))
+- Beweisangebot: 49 Kurt H Saechsische Separatisten Terror GBA; dokumente/hauptquellen/urteilsbelege/49_Kurt_H_Saechsische_Separatisten_Terror_GBA.md; repo_path/source_id-Fundstelle; lokaler Volltextanker in Topliste gefuehrt
+- Zurechnung: Zurechnungsebene aus Quelle, Akteur, Parteifunktion und Statusachse getrennt fuehren.
+- Grenze: Keine Ueberzeichnung. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
+### ANL-A-066 - 49 Kurt H Saechsische Separatisten Terror GBA
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: lokaler_textanker_finalisiert
+- Quelle: dokumente/hauptquellen/urteilsbelege/49_Kurt_H_Saechsische_Separatisten_Terror_GBA.txt
+- Source-ID: SRC-49-KURT-H-SAECHSISCHE-SEPARATISTEN-TERROR-GBA-dc6275a5a3
+- Art. 21: zu pruefen
+- Pinpoint: dokumente/hauptquellen/urteilsbelege/49_Kurt_H_Saechsische_Separatisten_Terror_GBA.txt:1 (URTEILSDATENBANK BELEG 49: Terror- und Haftverfahren gegen Kurt H. (AfD-Kommunalpolitiker Grimma))
+- Beweisangebot: 49 Kurt H Saechsische Separatisten Terror GBA; dokumente/hauptquellen/urteilsbelege/49_Kurt_H_Saechsische_Separatisten_Terror_GBA.txt; repo_path/source_id-Fundstelle; lokaler Volltextanker in Topliste gefuehrt
+- Zurechnung: Zurechnungsebene aus Quelle, Akteur, Parteifunktion und Statusachse getrennt fuehren.
+- Grenze: Keine Ueberzeichnung. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
+### ANL-A-067 - 66 Kurt H Saechsische Separatisten Terror GBA
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: lokaler_textanker_finalisiert
+- Quelle: dokumente/hauptquellen/urteilsbelege/66_Kurt_H_Saechsische_Separatisten_Terror_GBA.pdf
+- Source-ID: SRC-66-KURT-H-SAECHSISCHE-SEPARATISTEN-TERROR-GBA-cd6600084e
+- Art. 21: zu pruefen
+- Pinpoint: dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/66_Kurt_H_Saechsische_Separatisten_Terror_GBA.md:1 (# 66_Kurt_H_Saechsische_Separatisten_Terror_GBA.pdf)
+- Beweisangebot: 66 Kurt H Saechsische Separatisten Terror GBA; dokumente/hauptquellen/urteilsbelege/66_Kurt_H_Saechsische_Separatisten_Terror_GBA.pdf; repo_path/source_id-Fundstelle; lokaler Volltextanker in Topliste gefuehrt
+- Zurechnung: Zurechnungsebene aus Quelle, Akteur, Parteifunktion und Statusachse getrennt fuehren.
+- Grenze: Keine Ueberzeichnung. Kein PDF-Rohobjekt als Pinpoint zitieren. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
+### ANL-A-068 - 71 Uwe L Reichsbuerger Terror GBA
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: lokaler_textanker_finalisiert
+- Quelle: dokumente/hauptquellen/urteilsbelege/71_Uwe_L_Reichsbuerger_Terror_GBA.pdf
+- Source-ID: SRC-71-UWE-L-REICHSBUERGER-TERROR-GBA-55e59f9c11
+- Art. 21: zu pruefen
+- Pinpoint: dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/71_Uwe_L_Reichsbuerger_Terror_GBA.md:1 (# 71_Uwe_L_Reichsbuerger_Terror_GBA.pdf)
+- Beweisangebot: 71 Uwe L Reichsbuerger Terror GBA; dokumente/hauptquellen/urteilsbelege/71_Uwe_L_Reichsbuerger_Terror_GBA.pdf; repo_path/source_id-Fundstelle; lokaler Volltextanker in Topliste gefuehrt
+- Zurechnung: Zurechnungsebene aus Quelle, Akteur, Parteifunktion und Statusachse getrennt fuehren.
+- Grenze: Keine Ueberzeichnung. Kein PDF-Rohobjekt als Pinpoint zitieren. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
+### ANL-A-069 - 75 Uwe L Reichsbuerger Terror GBA
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: lokaler_textanker_finalisiert
+- Quelle: dokumente/hauptquellen/urteilsbelege/75_Uwe_L_Reichsbuerger_Terror_GBA.txt
+- Source-ID: SRC-75-UWE-L-REICHSBUERGER-TERROR-GBA-9a70e69ce1
+- Art. 21: zu pruefen
+- Pinpoint: dokumente/hauptquellen/urteilsbelege/75_Uwe_L_Reichsbuerger_Terror_GBA.txt:1 (URTEILSDATENBANK BELEG 75: Terrorismusverfahren gegen Uwe L. (Reichsbürger-Mitglied))
+- Beweisangebot: 75 Uwe L Reichsbuerger Terror GBA; dokumente/hauptquellen/urteilsbelege/75_Uwe_L_Reichsbuerger_Terror_GBA.txt; repo_path/source_id-Fundstelle; lokaler Volltextanker in Topliste gefuehrt
+- Zurechnung: Zurechnungsebene aus Quelle, Akteur, Parteifunktion und Statusachse getrennt fuehren.
+- Grenze: Keine Ueberzeichnung. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
+### ANL-A-070 - BfV AfD Folgegutachten 2021 08 F III Rechtsstaatsprinzip
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: lokaler_textanker_finalisiert
+- Quelle: dokumente/ki_markdown/geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_08_F_III_Rechtsstaatsprinzip.md
+- Source-ID: SRC-BFV-AFD-FOLGEGUTACHTEN-2021-08-F-III-RECHTSSTAATSPRINZIP-9aa0f01fbc
+- Art. 21: zu pruefen
+- Pinpoint: dokumente/ki_markdown/geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_08_F_III_Rechtsstaatsprinzip.md:1 (BfV-AfD-Folgegutachten 2021 (Netzpolitik-Transkription))
+- Beweisangebot: BfV AfD Folgegutachten 2021 08 F III Rechtsstaatsprinzip; dokumente/ki_markdown/geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_08_F_III_Rechtsstaatsprinzip.md; repo_path/source_id-Fundstelle; lokaler Volltextanker in Topliste gefuehrt
+- Zurechnung: Zurechnungsebene aus Quelle, Akteur, Parteifunktion und Statusachse getrennt fuehren.
+- Grenze: Keine Ueberzeichnung. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
+### ANL-B-071 - BfV Pressemitteilung Hochstufungsentscheidung Fluegel 2020 03 12
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: lokaler_textanker_finalisiert
+- Quelle: dokumente/hauptquellen/BfV_Pressemitteilung_Hochstufungsentscheidung_Fluegel_2020_03_12.txt
+- Source-ID: SRC-BFV-PRESSEMITTEILUNG-HOCHSTUFUNGSENTSCHEIDUNG-FLUEGEL-2020-03-12-e5b71e178e
+- Art. 21: zu pruefen
+- Pinpoint: dokumente/hauptquellen/BfV_Pressemitteilung_Hochstufungsentscheidung_Fluegel_2020_03_12.txt:1 (AMTLICHE BELEG-QUELLE: BUNDESAMT FÜR VERFASSUNGSSCHUTZ (BfV))
+- Beweisangebot: BfV Pressemitteilung Hochstufungsentscheidung Fluegel 2020 03 12; dokumente/hauptquellen/BfV_Pressemitteilung_Hochstufungsentscheidung_Fluegel_2020_03_12.txt; repo_path/source_id-Fundstelle; lokaler Volltextanker in Topliste gefuehrt
+- Zurechnung: Zurechnungsebene aus Quelle, Akteur, Parteifunktion und Statusachse getrennt fuehren.
+- Grenze: Keine Ueberzeichnung. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
+### ANL-E-072 - 182 COMPACT 1 2025
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: lokaler_textanker_finalisiert
+- Quelle: dokumente/hauptquellen/urteilsbelege/182_COMPACT_1_2025.md
+- Source-ID: SRC-182-COMPACT-1-2025-3b1a963792
+- Art. 21: zu pruefen
+- Pinpoint: dokumente/hauptquellen/urteilsbelege/182_COMPACT_1_2025.md:1 (GERICHTLICHE ENTSCHEIDUNG: Verfassungsrechtliches Verfahren (COMPACT 1/2025))
+- Beweisangebot: 182 COMPACT 1 2025; dokumente/hauptquellen/urteilsbelege/182_COMPACT_1_2025.md; repo_path/source_id-Fundstelle; lokaler Volltextanker in Topliste gefuehrt
+- Zurechnung: Zurechnungsebene aus Quelle, Akteur, Parteifunktion und Statusachse getrennt fuehren.
+- Grenze: Keine Ueberzeichnung. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
+### ANL-E-073 - 182 COMPACT 1 2025
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: lokaler_textanker_finalisiert
+- Quelle: dokumente/hauptquellen/urteilsbelege/182_COMPACT_1_2025.pdf
+- Source-ID: SRC-182-COMPACT-1-2025-95bbb96685
+- Art. 21: zu pruefen
+- Pinpoint: dokumente/hauptquellen/urteilsbelege/182_COMPACT_1_2025.md:1 (GERICHTLICHE ENTSCHEIDUNG: Verfassungsrechtliches Verfahren (COMPACT 1/2025))
+- Beweisangebot: 182 COMPACT 1 2025; dokumente/hauptquellen/urteilsbelege/182_COMPACT_1_2025.pdf; repo_path/source_id-Fundstelle; lokaler Volltextanker in Topliste gefuehrt
+- Zurechnung: Zurechnungsebene aus Quelle, Akteur, Parteifunktion und Statusachse getrennt fuehren.
+- Grenze: Keine Ueberzeichnung. Kein PDF-Rohobjekt als Pinpoint zitieren. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
+### ANL-E-074 - 182 COMPACT 1 2025
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: lokaler_textanker_finalisiert
+- Quelle: dokumente/hauptquellen/urteilsbelege/182_COMPACT_1_2025.txt
+- Source-ID: SRC-182-COMPACT-1-2025-b66c50fb88
+- Art. 21: zu pruefen
+- Pinpoint: dokumente/hauptquellen/urteilsbelege/182_COMPACT_1_2025.txt:1 (GERICHTLICHE ENTSCHEIDUNG: Verfassungsrechtliches Verfahren (COMPACT 1/2025))
+- Beweisangebot: 182 COMPACT 1 2025; dokumente/hauptquellen/urteilsbelege/182_COMPACT_1_2025.txt; repo_path/source_id-Fundstelle; lokaler Volltextanker in Topliste gefuehrt
+- Zurechnung: Zurechnungsebene aus Quelle, Akteur, Parteifunktion und Statusachse getrennt fuehren.
+- Grenze: Keine Ueberzeichnung. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
+### ANL-E-075 - 183 COMPACT 11 2024
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: lokaler_textanker_finalisiert
+- Quelle: dokumente/hauptquellen/urteilsbelege/183_COMPACT_11_2024.md
+- Source-ID: SRC-183-COMPACT-11-2024-0d8879ddc5
+- Art. 21: zu pruefen
+- Pinpoint: dokumente/hauptquellen/urteilsbelege/183_COMPACT_11_2024.md:1 (GERICHTLICHE ENTSCHEIDUNG: Verfassungsrechtliches Verfahren (COMPACT 11/2024))
+- Beweisangebot: 183 COMPACT 11 2024; dokumente/hauptquellen/urteilsbelege/183_COMPACT_11_2024.md; repo_path/source_id-Fundstelle; lokaler Volltextanker in Topliste gefuehrt
+- Zurechnung: Zurechnungsebene aus Quelle, Akteur, Parteifunktion und Statusachse getrennt fuehren.
+- Grenze: Keine Ueberzeichnung. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
+### ANL-E-076 - 183 COMPACT 11 2024
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: lokaler_textanker_finalisiert
+- Quelle: dokumente/hauptquellen/urteilsbelege/183_COMPACT_11_2024.pdf
+- Source-ID: SRC-183-COMPACT-11-2024-a5ed0b1c94
+- Art. 21: zu pruefen
+- Pinpoint: dokumente/hauptquellen/urteilsbelege/183_COMPACT_11_2024.md:1 (GERICHTLICHE ENTSCHEIDUNG: Verfassungsrechtliches Verfahren (COMPACT 11/2024))
+- Beweisangebot: 183 COMPACT 11 2024; dokumente/hauptquellen/urteilsbelege/183_COMPACT_11_2024.pdf; repo_path/source_id-Fundstelle; lokaler Volltextanker in Topliste gefuehrt
+- Zurechnung: Zurechnungsebene aus Quelle, Akteur, Parteifunktion und Statusachse getrennt fuehren.
+- Grenze: Keine Ueberzeichnung. Kein PDF-Rohobjekt als Pinpoint zitieren. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
+### ANL-E-077 - Gewalt als Alternative 14 verurteilte AfD Mandatsträger im Amt
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: lokaler_textanker_finalisiert
+- Quelle: dokumente/hauptquellen/Gewalt_als_Alternative__14_verurteilte_AfD-Mandatsträger_im_Amt.pdf
+- Source-ID: SRC-GEWALT-ALS-ALTERNATIVE-14-VERURTEILTE-AFD-MANDATSTRA-GER-IM-AMT-2101201edb
+- Art. 21: zu pruefen
+- Pinpoint: dokumente/ki_markdown/dokumente/hauptquellen/Gewalt als Alternative_ 14 verurteilte AfD-Mandatsträger im Amt.md:1 (# Gewalt als Alternative_ 14 verurteilte AfD-Mandatsträger im Amt.pdf)
+- Beweisangebot: Gewalt als Alternative 14 verurteilte AfD Mandatsträger im Amt; dokumente/hauptquellen/Gewalt_als_Alternative__14_verurteilte_AfD-Mandatsträger_im_Amt.pdf; repo_path/source_id-Fundstelle; lokaler Volltextanker in Topliste gefuehrt
+- Zurechnung: Zurechnungsebene aus Quelle, Akteur, Parteifunktion und Statusachse getrennt fuehren.
+- Grenze: Keine Ueberzeichnung. Kein PDF-Rohobjekt als Pinpoint zitieren. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
+### ANL-E-078 - Schuldig und weiter im Amt Mindestens elf AfD Mandatsträger wegen Gewalttaten verurteilt
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: lokaler_textanker_finalisiert
+- Quelle: dokumente/hauptquellen/Schuldig und weiter im Amt_ Mindestens elf AfD-Mandatsträger wegen Gewalttaten verurteilt.pdf
+- Source-ID: SRC-SCHULDIG-UND-WEITER-IM-AMT-MINDESTENS-ELF-AFD-MANDATSTRA-GER-WEGEN-GEWALTTATEN-VERURTEILT-1a96a4efe9
+- Art. 21: zu pruefen
+- Pinpoint: dokumente/ki_markdown/dokumente/hauptquellen/Schuldig und weiter im Amt_ Mindestens elf AfD-Mandatsträger wegen Gewalttaten verurteilt.md:1 (# Schuldig und weiter im Amt_ Mindestens elf AfD-Mandatsträger wegen Gewalttaten verurteilt.pdf)
+- Beweisangebot: Schuldig und weiter im Amt Mindestens elf AfD Mandatsträger wegen Gewalttaten verurteilt; dokumente/hauptquellen/Schuldig und weiter im Amt_ Mindestens elf AfD-Mandatsträger wegen Gewalttaten verurteilt.pdf; repo_path/source_id-Fundstelle; lokaler Volltextanker in Topliste gefuehrt
+- Zurechnung: Zurechnungsebene aus Quelle, Akteur, Parteifunktion und Statusachse getrennt fuehren.
+- Grenze: Keine Ueberzeichnung. Kein PDF-Rohobjekt als Pinpoint zitieren. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
+### ANL-E-079 - Schuldig und weiter im Amt Mindestens elf AfD Mandatsträger wegen Gewalttaten verurteilt
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: lokaler_textanker_finalisiert
+- Quelle: dokumente/hauptquellen/Schuldig_und_weiter_im_Amt__Mindestens_elf_AfD-Mandatsträger_wegen_Gewalttaten_verurteilt.pdf
+- Source-ID: SRC-SCHULDIG-UND-WEITER-IM-AMT-MINDESTENS-ELF-AFD-MANDATSTRA-GER-WEGEN-GEWALTTATEN-VERURTEILT-765f45f2c2
+- Art. 21: zu pruefen
+- Pinpoint: dokumente/ki_markdown/dokumente/hauptquellen/Schuldig und weiter im Amt_ Mindestens elf AfD-Mandatsträger wegen Gewalttaten verurteilt.md:1 (# Schuldig und weiter im Amt_ Mindestens elf AfD-Mandatsträger wegen Gewalttaten verurteilt.pdf)
+- Beweisangebot: Schuldig und weiter im Amt Mindestens elf AfD Mandatsträger wegen Gewalttaten verurteilt; dokumente/hauptquellen/Schuldig_und_weiter_im_Amt__Mindestens_elf_AfD-Mandatsträger_wegen_Gewalttaten_verurteilt.pdf; repo_path/source_id-Fundstelle; lokaler Volltextanker in Topliste gefuehrt
+- Zurechnung: Zurechnungsebene aus Quelle, Akteur, Parteifunktion und Statusachse getrennt fuehren.
+- Grenze: Keine Ueberzeichnung. Kein PDF-Rohobjekt als Pinpoint zitieren. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
+### ANL-E-080 - focus.de politik deutschland augsburg mitarbeiter von afd mann jurca wegen vergewaltigung verurteilt id 25958
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: lokaler_textanker_finalisiert
+- Quelle: dokumente/hauptquellen/focus.de_politik_deutschland_augsburg-mitarbeiter-von-afd-mann-jurca-wegen-vergewaltigung-verurteilt_id_25958.pdf
+- Source-ID: SRC-FOCUS-DE-POLITIK-DEUTSCHLAND-AUGSBURG-MITARBEITER-VON-AFD-MANN-JURCA-WEGEN-VERGEWALTIGUNG-VERURTEILT-ID-25958-509f02065c
+- Art. 21: zu pruefen
+- Pinpoint: dokumente/ki_markdown/dokumente/hauptquellen/focus.de_politik_deutschland_augsburg-mitarbeiter-von-afd-mann-jurca-wegen-vergewaltigung-verurteilt_id_25958.md:1 (# focus.de_politik_deutschland_augsburg-mitarbeiter-von-afd-mann-jurca-wegen-vergewaltigung-verurteilt_id_25958.pdf)
+- Beweisangebot: focus.de politik deutschland augsburg mitarbeiter von afd mann jurca wegen vergewaltigung verurteilt id 25958; dokumente/hauptquellen/focus.de_politik_deutschland_augsburg-mitarbeiter-von-afd-mann-jurca-wegen-vergewaltigung-verurteilt_id_25958.pdf; repo_path/source_id-Fundstelle; lokaler Volltextanker in Topliste gefuehrt
+- Zurechnung: Zurechnungsebene aus Quelle, Akteur, Parteifunktion und Statusachse getrennt fuehren.
+- Grenze: Keine Ueberzeichnung. Kein PDF-Rohobjekt als Pinpoint zitieren. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
+### ANL-E-081 - spiegel.de politik deutschland afd mindestens elf mandatstraeger wegen gewalttaten verurteilt a d59407cc 4841 4
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: lokaler_textanker_finalisiert
+- Quelle: dokumente/hauptquellen/spiegel.de_politik_deutschland_afd-mindestens-elf-mandatstraeger-wegen-gewalttaten-verurteilt-a-d59407cc-4841-4.pdf
+- Source-ID: SRC-SPIEGEL-DE-POLITIK-DEUTSCHLAND-AFD-MINDESTENS-ELF-MANDATSTRAEGER-WEGEN-GEWALTTATEN-VERURTEILT-A-D59407CC-4841-4-9a5e84d4a1
+- Art. 21: zu pruefen
+- Pinpoint: dokumente/ki_markdown/dokumente/hauptquellen/spiegel.de_politik_deutschland_afd-mindestens-elf-mandatstraeger-wegen-gewalttaten-verurteilt-a-d59407cc-4841-4.md:1 (# spiegel.de_politik_deutschland_afd-mindestens-elf-mandatstraeger-wegen-gewalttaten-verurteilt-a-d59407cc-4841-4.pdf)
+- Beweisangebot: spiegel.de politik deutschland afd mindestens elf mandatstraeger wegen gewalttaten verurteilt a d59407cc 4841 4; dokumente/hauptquellen/spiegel.de_politik_deutschland_afd-mindestens-elf-mandatstraeger-wegen-gewalttaten-verurteilt-a-d59407cc-4841-4.pdf; repo_path/source_id-Fundstelle; lokaler Volltextanker in Topliste gefuehrt
+- Zurechnung: Zurechnungsebene aus Quelle, Akteur, Parteifunktion und Statusachse getrennt fuehren.
+- Grenze: Keine Ueberzeichnung. Kein PDF-Rohobjekt als Pinpoint zitieren. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
+### ANL-E-082 - tagesspiegel.de politik schuldig und weiter im amt mindestens elf afd mandatstrager wegen gewalttaten verurteilt 114
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: lokaler_textanker_finalisiert
+- Quelle: dokumente/hauptquellen/tagesspiegel.de_politik_schuldig-und-weiter-im-amt-mindestens-elf-afd-mandatstrager-wegen-gewalttaten-verurteilt-114.pdf
+- Source-ID: SRC-TAGESSPIEGEL-DE-POLITIK-SCHULDIG-UND-WEITER-IM-AMT-MINDESTENS-ELF-AFD-MANDATSTRAGER-WEGEN-GEWALTTATEN-VERURTEILT-114-26725f2eda
+- Art. 21: zu pruefen
+- Pinpoint: dokumente/ki_markdown/dokumente/hauptquellen/tagesspiegel.de_politik_schuldig-und-weiter-im-amt-mindestens-elf-afd-mandatstrager-wegen-gewalttaten-verurteilt-114.md:1 (# tagesspiegel.de_politik_schuldig-und-weiter-im-amt-mindestens-elf-afd-mandatstrager-wegen-gewalttaten-verurteilt-114.pdf)
+- Beweisangebot: tagesspiegel.de politik schuldig und weiter im amt mindestens elf afd mandatstrager wegen gewalttaten verurteilt 114; dokumente/hauptquellen/tagesspiegel.de_politik_schuldig-und-weiter-im-amt-mindestens-elf-afd-mandatstrager-wegen-gewalttaten-verurteilt-114.pdf; repo_path/source_id-Fundstelle; lokaler Volltextanker in Topliste gefuehrt
+- Zurechnung: Zurechnungsebene aus Quelle, Akteur, Parteifunktion und Statusachse getrennt fuehren.
+- Grenze: Keine Ueberzeichnung. Kein PDF-Rohobjekt als Pinpoint zitieren. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
+### ANL-E-083 - 23 Waffenbesitzkarten Entzug VG Duesseldorf
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: lokaler_textanker_finalisiert
+- Quelle: dokumente/hauptquellen/urteilsbelege/23_Waffenbesitzkarten_Entzug_VG_Duesseldorf.txt
+- Source-ID: SRC-23-WAFFENBESITZKARTEN-ENTZUG-VG-DUESSELDORF-8f1f6aaaa7
+- Art. 21: zu pruefen
+- Pinpoint: dokumente/hauptquellen/urteilsbelege/23_Waffenbesitzkarten_Entzug_VG_Duesseldorf.txt:1 (VERWALTUNGSGERICHTLICHES URTEIL: ENTZUG VON WAFFENBESITZKARTEN FÜR AfD-MITGLIEDER)
+- Beweisangebot: 23 Waffenbesitzkarten Entzug VG Duesseldorf; dokumente/hauptquellen/urteilsbelege/23_Waffenbesitzkarten_Entzug_VG_Duesseldorf.txt; repo_path/source_id-Fundstelle; lokaler Volltextanker in Topliste gefuehrt
+- Zurechnung: Zurechnungsebene aus Quelle, Akteur, Parteifunktion und Statusachse getrennt fuehren.
+- Grenze: Keine Ueberzeichnung. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
+### ANL-E-084 - 246 Ralf Stadler Waffenbesitzkarte VG Regensburg 2022
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: lokaler_textanker_finalisiert
+- Quelle: dokumente/hauptquellen/urteilsbelege/246_Ralf_Stadler_Waffenbesitzkarte_VG_Regensburg_2022.md
+- Source-ID: SRC-246-RALF-STADLER-WAFFENBESITZKARTE-VG-REGENSBURG-2022-e3b3040ac9
+- Art. 21: zu pruefen
+- Pinpoint: dokumente/hauptquellen/urteilsbelege/246_Ralf_Stadler_Waffenbesitzkarte_VG_Regensburg_2022.md:1 (# Ralf Stadler - VG Regensburg zur Waffenbesitzkarte 2022)
+- Beweisangebot: 246 Ralf Stadler Waffenbesitzkarte VG Regensburg 2022; dokumente/hauptquellen/urteilsbelege/246_Ralf_Stadler_Waffenbesitzkarte_VG_Regensburg_2022.md; repo_path/source_id-Fundstelle; lokaler Volltextanker in Topliste gefuehrt
+- Zurechnung: Zurechnungsebene aus Quelle, Akteur, Parteifunktion und Statusachse getrennt fuehren.
+- Grenze: Keine Ueberzeichnung. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
+### ANL-E-085 - 77 Waffenbesitzkarten Entzug VG Duesseldorf
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: lokaler_textanker_finalisiert
+- Quelle: dokumente/hauptquellen/urteilsbelege/77_Waffenbesitzkarten_Entzug_VG_Duesseldorf.pdf
+- Source-ID: SRC-77-WAFFENBESITZKARTEN-ENTZUG-VG-DUESSELDORF-9bef1fba28
+- Art. 21: zu pruefen
+- Pinpoint: dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/77_Waffenbesitzkarten_Entzug_VG_Duesseldorf.md:1 (# 77_Waffenbesitzkarten_Entzug_VG_Duesseldorf.pdf)
+- Beweisangebot: 77 Waffenbesitzkarten Entzug VG Duesseldorf; dokumente/hauptquellen/urteilsbelege/77_Waffenbesitzkarten_Entzug_VG_Duesseldorf.pdf; repo_path/source_id-Fundstelle; lokaler Volltextanker in Topliste gefuehrt
+- Zurechnung: Zurechnungsebene aus Quelle, Akteur, Parteifunktion und Statusachse getrennt fuehren.
+- Grenze: Keine Ueberzeichnung. Kein PDF-Rohobjekt als Pinpoint zitieren. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
+### ANL-A-086 - BfV AfD Folgegutachten 2021 08 F III Rechtsstaatsprinzip
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: lokaler_textanker_finalisiert
+- Quelle: dokumente/ki_markdown/geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_08_F_III_Rechtsstaatsprinzip.md
+- Source-ID: SRC-BFV-AFD-FOLGEGUTACHTEN-2021-08-F-III-RECHTSSTAATSPRINZIP-9aa0f01fbc
+- Art. 21: zu pruefen
+- Pinpoint: dokumente/ki_markdown/geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_08_F_III_Rechtsstaatsprinzip.md:1 (BfV-AfD-Folgegutachten 2021 (Netzpolitik-Transkription))
+- Beweisangebot: BfV AfD Folgegutachten 2021 08 F III Rechtsstaatsprinzip; dokumente/ki_markdown/geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_08_F_III_Rechtsstaatsprinzip.md; repo_path/source_id-Fundstelle; lokaler Volltextanker in Topliste gefuehrt
+- Zurechnung: Zurechnungsebene aus Quelle, Akteur, Parteifunktion und Statusachse getrennt fuehren.
+- Grenze: Keine Ueberzeichnung. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
+### ANL-A-087 - BfV AfD Folgegutachten 2021 08 F III Rechtsstaatsprinzip
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: lokaler_textanker_finalisiert
+- Quelle: geheimgutachten/BfV-AfD-Folgegutachten_2021_08_F_III_Rechtsstaatsprinzip.md
+- Source-ID: SRC-BFV-AFD-FOLGEGUTACHTEN-2021-08-F-III-RECHTSSTAATSPRINZIP-86e327456b
+- Art. 21: zu pruefen
+- Pinpoint: geheimgutachten/BfV-AfD-Folgegutachten_2021_08_F_III_Rechtsstaatsprinzip.md:1 (# BfV-AfD-Folgegutachten 2021 (Netzpolitik-Transkription))
+- Beweisangebot: BfV AfD Folgegutachten 2021 08 F III Rechtsstaatsprinzip; geheimgutachten/BfV-AfD-Folgegutachten_2021_08_F_III_Rechtsstaatsprinzip.md; repo_path/source_id-Fundstelle; lokaler Volltextanker in Topliste gefuehrt
+- Zurechnung: Zurechnungsebene aus Quelle, Akteur, Parteifunktion und Statusachse getrennt fuehren.
+- Grenze: Keine Ueberzeichnung. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
+### ANL-A-088 - BfV AfD Folgegutachten 2021 08 F III Rechtsstaatsprinzip
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: lokaler_textanker_finalisiert
+- Quelle: geheimgutachten/BfV-AfD-Folgegutachten_2021_08_F_III_Rechtsstaatsprinzip.pdf
+- Source-ID: SRC-BFV-AFD-FOLGEGUTACHTEN-2021-08-F-III-RECHTSSTAATSPRINZIP-565ceaca6d
+- Art. 21: zu pruefen
+- Pinpoint: geheimgutachten/BfV-AfD-Folgegutachten_2021_08_F_III_Rechtsstaatsprinzip.md:1 (# BfV-AfD-Folgegutachten 2021 (Netzpolitik-Transkription))
+- Beweisangebot: BfV AfD Folgegutachten 2021 08 F III Rechtsstaatsprinzip; geheimgutachten/BfV-AfD-Folgegutachten_2021_08_F_III_Rechtsstaatsprinzip.pdf; repo_path/source_id-Fundstelle; lokaler Volltextanker in Topliste gefuehrt
+- Zurechnung: Zurechnungsebene aus Quelle, Akteur, Parteifunktion und Statusachse getrennt fuehren.
+- Grenze: Keine Ueberzeichnung. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
+### ANL-A-089 - BfV AfD Folgegutachten 2021 05 E Einflussnahme Fluegel
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: lokaler_textanker_finalisiert
+- Quelle: dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_05_E_Einflussnahme_Fluegel.md
+- Source-ID: SRC-BFV-AFD-FOLGEGUTACHTEN-2021-05-E-EINFLUSSNAHME-FLUEGEL-a39402a7de
+- Art. 21: zu pruefen
+- Pinpoint: dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_05_E_Einflussnahme_Fluegel.md:1 (BfV-AfD-Folgegutachten 2021 (Netzpolitik-Transkription))
+- Beweisangebot: BfV AfD Folgegutachten 2021 05 E Einflussnahme Fluegel; dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_05_E_Einflussnahme_Fluegel.md; repo_path/source_id-Fundstelle; lokaler Volltextanker in Topliste gefuehrt
+- Zurechnung: Zurechnungsebene aus Quelle, Akteur, Parteifunktion und Statusachse getrennt fuehren.
+- Grenze: Keine Ueberzeichnung. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
+### ANL-A-090 - BfV AfD Folgegutachten 2021 05 E Einflussnahme Fluegel pages 51 to 59
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: split_seitenbereich_und_lokaler_textanker_finalisiert
+- Quelle: dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_05_E_Einflussnahme_Fluegel__pages_51_to_59.md
+- Source-ID: SRC-BFV-AFD-FOLGEGUTACHTEN-2021-05-E-EINFLUSSNAHME-FLUEGEL-PAGES-51-TO-59-a78a154a16
+- Art. 21: zu pruefen
+- Pinpoint: dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_05_E_Einflussnahme_Fluegel__pages_51_to_59.md:1; Originalseitenbereich 51-59 (# BfV-AfD-Folgegutachten_2021_05_E_Einflussnahme_Fluegel (51-59))
+- Beweisangebot: BfV AfD Folgegutachten 2021 05 E Einflussnahme Fluegel pages 51 to 59; dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_05_E_Einflussnahme_Fluegel__pages_51_to_59.md; lokaler Split 51-59
+- Zurechnung: Zurechnungsebene aus Quelle, Akteur, Parteifunktion und Statusachse getrennt fuehren.
+- Grenze: Keine Ueberzeichnung. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
+### ANL-A-091 - BfV AfD Folgegutachten 2021 05 E Einflussnahme Fluegel
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: lokaler_textanker_finalisiert
+- Quelle: dokumente/ki_markdown/geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_05_E_Einflussnahme_Fluegel.md
+- Source-ID: SRC-BFV-AFD-FOLGEGUTACHTEN-2021-05-E-EINFLUSSNAHME-FLUEGEL-cec0dea2d9
+- Art. 21: zu pruefen
+- Pinpoint: dokumente/ki_markdown/geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_05_E_Einflussnahme_Fluegel.md:1 (BfV-AfD-Folgegutachten 2021 (Netzpolitik-Transkription))
+- Beweisangebot: BfV AfD Folgegutachten 2021 05 E Einflussnahme Fluegel; dokumente/ki_markdown/geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_05_E_Einflussnahme_Fluegel.md; repo_path/source_id-Fundstelle; lokaler Volltextanker in Topliste gefuehrt
+- Zurechnung: Zurechnungsebene aus Quelle, Akteur, Parteifunktion und Statusachse getrennt fuehren.
+- Grenze: Keine Ueberzeichnung. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
+### ANL-A-092 - Generalbundesanwalt: Festnahme Jian G. wegen mutmaßlicher geheimdienstlicher Agententätigkeit
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: HASHGESICHERTER_AMTLICHER_WEBANKER
+- Pinpointfinalitaet: amtlicher_hashanker_final
+- Quelle: sources/web/gba/gba_2024-04-23_jian_g_festnahme.html
+- Source-ID: SRC-GBA-2024-04-23-JIAN-G-FESTNAHME
+- Art. 21: zu pruefen
+- Pinpoint: repo_path/source_id-Fundstelle; lokaler Volltextanker in Topliste gefuehrt
+- Beweisangebot: Generalbundesanwalt: Festnahme Jian G. wegen mutmaßlicher geheimdienstlicher Agententätigkeit; sources/web/gba/gba_2024-04-23_jian_g_festnahme.html; repo_path/source_id-Fundstelle; lokaler Volltextanker in Topliste gefuehrt
+- Zurechnung: Zurechnungsebene aus Quelle, Akteur, Parteifunktion und Statusachse getrennt fuehren.
+- Grenze: keine Ueberzeichnung; Status und Zurechnung streng trennen
+- Naechste Handlung: Als Anlage mit lokaler Hashpruefung fuehren; im Schriftsatz nur den dokumentierten amtlichen Text und den Verfahrensstand behaupten.
+### ANL-A-093 - Generalbundesanwalt: Durchsuchungen bei Jian G. und Dr. Maximilian Krah im Europäischen Parlament
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: HASHGESICHERTER_AMTLICHER_WEBANKER
+- Pinpointfinalitaet: amtlicher_hashanker_final
+- Quelle: sources/web/gba/gba_2024-05-07_jian_g_krah_durchsuchung.html
+- Source-ID: SRC-GBA-2024-05-07-JIAN-G-KRAH-DURCHSUCHUNG
+- Art. 21: zu pruefen
+- Pinpoint: repo_path/source_id-Fundstelle; lokaler Volltextanker in Topliste gefuehrt
+- Beweisangebot: Generalbundesanwalt: Durchsuchungen bei Jian G. und Dr. Maximilian Krah im Europäischen Parlament; sources/web/gba/gba_2024-05-07_jian_g_krah_durchsuchung.html; repo_path/source_id-Fundstelle; lokaler Volltextanker in Topliste gefuehrt
+- Zurechnung: Zurechnungsebene aus Quelle, Akteur, Parteifunktion und Statusachse getrennt fuehren.
+- Grenze: keine Ueberzeichnung; Status und Zurechnung streng trennen
+- Naechste Handlung: Als Anlage mit lokaler Hashpruefung fuehren; im Schriftsatz nur den dokumentierten amtlichen Text und den Verfahrensstand behaupten.
+### ANL-A-094 - 03 dserver.bundestag.de btp 20 20203.pdf
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: pdftotext_anker_finalisiert; bei woertlichem Schriftsatzzitat gegen PDF-Seitenbild gegenlesen
+- Quelle: dokumente/hauptquellen/03_dserver.bundestag.de_btp_20_20203.pdf.pdf
+- Source-ID: SRC-03-DSERVER-BUNDESTAG-DE-BTP-20-20203-PDF-32c8baaa75
+- Art. 21: zu pruefen
+- Pinpoint: daten/pinpoint_text_extracts_2026/SRC-03-DSERVER-BUNDESTAG-DE-BTP-20-20203-PDF-32c8baaa75.txt:1 (Plenarprotokoll 20/203)
+- Beweisangebot: 03 dserver.bundestag.de btp 20 20203.pdf; dokumente/hauptquellen/03_dserver.bundestag.de_btp_20_20203.pdf.pdf; repo_path/source_id-Fundstelle; lokaler Volltextanker in Topliste gefuehrt
+- Zurechnung: Zurechnungsebene aus Quelle, Akteur, Parteifunktion und Statusachse getrennt fuehren.
+- Grenze: Keine Ueberzeichnung. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Fuer direktes Schriftsatzzitat PDF-Seitenbild gegen Textauszug pruefen; Anlage und lokaler Textanker sind final gefuehrt.
+### ANL-A-095 - 07 dserver bundestag de btd 20 010 2001020
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: pdftotext_anker_finalisiert; bei woertlichem Schriftsatzzitat gegen PDF-Seitenbild gegenlesen
+- Quelle: dokumente/hauptquellen/07_dserver_bundestag_de_btd_20_010_2001020.pdf
+- Source-ID: SRC-07-DSERVER-BUNDESTAG-DE-BTD-20-010-2001020-08b1631bfc
+- Art. 21: zu pruefen
+- Pinpoint: daten/pinpoint_text_extracts_2026/SRC-07-DSERVER-BUNDESTAG-DE-BTD-20-010-2001020-08b1631bfc.txt:1 (Deutscher Bundestag Drucksache 20/1020)
+- Beweisangebot: 07 dserver bundestag de btd 20 010 2001020; dokumente/hauptquellen/07_dserver_bundestag_de_btd_20_010_2001020.pdf; repo_path/source_id-Fundstelle; lokaler Volltextanker in Topliste gefuehrt
+- Zurechnung: Zurechnungsebene aus Quelle, Akteur, Parteifunktion und Statusachse getrennt fuehren.
+- Grenze: Keine Ueberzeichnung. Kein PDF-Rohobjekt als Pinpoint zitieren. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Fuer direktes Schriftsatzzitat PDF-Seitenbild gegen Textauszug pruefen; Anlage und lokaler Textanker sind final gefuehrt.
+### ANL-A-096 - 08 dserver bundestag de btd 20 133 2013317
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: pdftotext_anker_finalisiert; bei woertlichem Schriftsatzzitat gegen PDF-Seitenbild gegenlesen
+- Quelle: dokumente/hauptquellen/08_dserver_bundestag_de_btd_20_133_2013317.pdf
+- Source-ID: SRC-08-DSERVER-BUNDESTAG-DE-BTD-20-133-2013317-47a0f8308f
+- Art. 21: zu pruefen
+- Pinpoint: daten/pinpoint_text_extracts_2026/SRC-08-DSERVER-BUNDESTAG-DE-BTD-20-133-2013317-47a0f8308f.txt:1 (Deutscher Bundestag Drucksache 20/13317)
+- Beweisangebot: 08 dserver bundestag de btd 20 133 2013317; dokumente/hauptquellen/08_dserver_bundestag_de_btd_20_133_2013317.pdf; repo_path/source_id-Fundstelle; lokaler Volltextanker in Topliste gefuehrt
+- Zurechnung: Zurechnungsebene aus Quelle, Akteur, Parteifunktion und Statusachse getrennt fuehren.
+- Grenze: Keine Ueberzeichnung. Kein PDF-Rohobjekt als Pinpoint zitieren. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Fuer direktes Schriftsatzzitat PDF-Seitenbild gegen Textauszug pruefen; Anlage und lokaler Textanker sind final gefuehrt.
+### ANL-A-097 - 09 dserver bundestag de btp 20 20203
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: pdftotext_anker_finalisiert; bei woertlichem Schriftsatzzitat gegen PDF-Seitenbild gegenlesen
+- Quelle: dokumente/hauptquellen/09_dserver_bundestag_de_btp_20_20203.pdf
+- Source-ID: SRC-09-DSERVER-BUNDESTAG-DE-BTP-20-20203-1a489c72ce
+- Art. 21: zu pruefen
+- Pinpoint: daten/pinpoint_text_extracts_2026/SRC-09-DSERVER-BUNDESTAG-DE-BTP-20-20203-1a489c72ce.txt:1 (Plenarprotokoll 20/203)
+- Beweisangebot: 09 dserver bundestag de btp 20 20203; dokumente/hauptquellen/09_dserver_bundestag_de_btp_20_20203.pdf; repo_path/source_id-Fundstelle; lokaler Volltextanker in Topliste gefuehrt
+- Zurechnung: Zurechnungsebene aus Quelle, Akteur, Parteifunktion und Statusachse getrennt fuehren.
+- Grenze: Keine Ueberzeichnung. Kein PDF-Rohobjekt als Pinpoint zitieren. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Fuer direktes Schriftsatzzitat PDF-Seitenbild gegen Textauszug pruefen; Anlage und lokaler Textanker sind final gefuehrt.
+### ANL-A-098 - AfD Mitarbeiter im Bundestag Der Securitymann mit dem Sicherheitsrisiko DIE ZEIT
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: lokaler_textanker_finalisiert
+- Quelle: dokumente/hauptquellen/AfD-Mitarbeiter im Bundestag_ Der Securitymann mit dem Sicherheitsrisiko _ DIE ZEIT.pdf
+- Source-ID: SRC-AFD-MITARBEITER-IM-BUNDESTAG-DER-SECURITYMANN-MIT-DEM-SICHERHEITSRISIKO-DIE-ZEIT-b71f5326f8
+- Art. 21: zu pruefen
+- Pinpoint: dokumente/ki_markdown/dokumente/hauptquellen/AfD-Mitarbeiter_im_Bundestag__Der_Securitymann_mit_dem_Sicherheitsrisiko___DIE_ZEIT.md:1 (# AfD-Mitarbeiter_im_Bundestag__Der_Securitymann_mit_dem_Sicherheitsrisiko___DIE_ZEIT.pdf)
+- Beweisangebot: AfD Mitarbeiter im Bundestag Der Securitymann mit dem Sicherheitsrisiko DIE ZEIT; dokumente/hauptquellen/AfD-Mitarbeiter im Bundestag_ Der Securitymann mit dem Sicherheitsrisiko _ DIE ZEIT.pdf; repo_path/source_id-Fundstelle; lokaler Volltextanker in Topliste gefuehrt
+- Zurechnung: Zurechnungsebene aus Quelle, Akteur, Parteifunktion und Statusachse getrennt fuehren.
+- Grenze: Keine Ueberzeichnung. Kein PDF-Rohobjekt als Pinpoint zitieren. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
+### ANL-A-099 - AfD Mitarbeiter im Bundestag Der Securitymann mit dem Sicherheitsrisiko DIE ZEIT
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: lokaler_textanker_finalisiert
+- Quelle: dokumente/hauptquellen/AfD-Mitarbeiter_im_Bundestag__Der_Securitymann_mit_dem_Sicherheitsrisiko___DIE_ZEIT.pdf
+- Source-ID: SRC-AFD-MITARBEITER-IM-BUNDESTAG-DER-SECURITYMANN-MIT-DEM-SICHERHEITSRISIKO-DIE-ZEIT-9b053ffdf6
+- Art. 21: zu pruefen
+- Pinpoint: dokumente/ki_markdown/dokumente/hauptquellen/AfD-Mitarbeiter_im_Bundestag__Der_Securitymann_mit_dem_Sicherheitsrisiko___DIE_ZEIT.md:1 (# AfD-Mitarbeiter_im_Bundestag__Der_Securitymann_mit_dem_Sicherheitsrisiko___DIE_ZEIT.pdf)
+- Beweisangebot: AfD Mitarbeiter im Bundestag Der Securitymann mit dem Sicherheitsrisiko DIE ZEIT; dokumente/hauptquellen/AfD-Mitarbeiter_im_Bundestag__Der_Securitymann_mit_dem_Sicherheitsrisiko___DIE_ZEIT.pdf; repo_path/source_id-Fundstelle; lokaler Volltextanker in Topliste gefuehrt
+- Zurechnung: Zurechnungsebene aus Quelle, Akteur, Parteifunktion und Statusachse getrennt fuehren.
+- Grenze: Keine Ueberzeichnung. Kein PDF-Rohobjekt als Pinpoint zitieren. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
+### ANL-A-100 - Bundestagsverwaltung Wahlplakat Spende an AfD war unzulässig
+- Status: ANLAGENREIF_CODIERT
+- Pinpointstatus: PINPOINT_GEFUEHRT
+- Pinpointfinalitaet: lokaler_textanker_finalisiert
+- Quelle: dokumente/hauptquellen/Bundestagsverwaltung__Wahlplakat-Spende_an_AfD_war_unzulässig.pdf
+- Source-ID: SRC-BUNDESTAGSVERWALTUNG-WAHLPLAKAT-SPENDE-AN-AFD-WAR-UNZULA-SSIG-0626b80d45
+- Art. 21: zu pruefen
+- Pinpoint: dokumente/ki_markdown/dokumente/hauptquellen/Bundestagsverwaltung_ Wahlplakat-Spende an AfD war unzulässig.md:1 (# Bundestagsverwaltung_ Wahlplakat-Spende an AfD war unzulässig.pdf)
+- Beweisangebot: Bundestagsverwaltung Wahlplakat Spende an AfD war unzulässig; dokumente/hauptquellen/Bundestagsverwaltung__Wahlplakat-Spende_an_AfD_war_unzulässig.pdf; repo_path/source_id-Fundstelle; lokaler Volltextanker in Topliste gefuehrt
+- Zurechnung: Zurechnungsebene aus Quelle, Akteur, Parteifunktion und Statusachse getrennt fuehren.
+- Grenze: Keine Ueberzeichnung. Kein PDF-Rohobjekt als Pinpoint zitieren. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.

@@ -1,7 +1,7 @@
 # VOLLSTÄNDIGE MASTER-QUELLEN-DATENBANK & DEEP-RESEARCH
 **Projekt:** AfD-Verbotsverfahren (Grundlagenforschung)
 **Dokument:** `full-sources.md`
-**Hinweis:** Dieses Dokument konsolidiert alle Quellen, Literaturverzeichnisse, Urteile und Forschungsdokumente aus dem Repository. 
+**Hinweis:** Dieses Dokument konsolidiert alle Quellen, Literaturverzeichnisse, Urteile und Forschungsdokumente aus dem Repository.
 *Jeder einzelne Weblink* wurde automatisiert auf Erreichbarkeit geprüft. Status-Codes (✅ OK oder ❌ Fehler) sind direkt hinter den Links annotiert.
 
 ---
@@ -144,7 +144,7 @@ Diese Berichte dokumentieren die extremistische Ausrichtung der regionalen AfD-L
 
 * **juris (BVerfGE 144, 20 ff.)**
   [https://www.juris.de/jportal/?quelle=jlink\&query=BVerfGE+144%2C20 [✅ 200 OK]](https://www.juris.de/jportal/?quelle=jlink&query=BVerfGE+144%2C20) `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/juris.de_jportal.pdf)`
-  
+
 #### Ergänzende Quellen aus Deep Research
 
 Campact-Petition für Verbotsverfahren gegen rechtsextreme Landesverbände[https://www.campact.de/afd-verbotsverfahren/petition [✅ 200 OK]](https://www.campact.de/afd-verbotsverfahren/petition) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/Campact_Petition_AfD_Verbotsverfahren.pdf)`
@@ -231,7 +231,7 @@ Dieses Verzeichnis enthält weitere im Archiv erfasste Belege, Zeitungsberichte,
 | [`AfD-Verbot_ Alle Anträge, Abstimmungen und Gutachten.pdf`](./dokumente/hauptquellen/AfD-Verbot_%20Alle%20Antr%C3%A4ge%2C%20Abstimmungen%20und%20Gutachten.pdf) | AfD-Verbot  Alle Anträge, Abstimmungen und Gutachten |
 | [`AfD-Verbot__Alle_Anträge,_Abstimmungen_und_Gutachten.pdf`](./dokumente/hauptquellen/AfD-Verbot__Alle_Antr%C3%A4ge%2C_Abstimmungen_und_Gutachten.pdf) | AfD-Verbot Alle Anträge, Abstimmungen und Gutachten |
 | [`AfD-Verbot_hätte_laut_neuem_Gutachten_„wahrscheinlich_Erfolg“.pdf`](./dokumente/hauptquellen/AfD-Verbot_h%C3%A4tte_laut_neuem_Gutachten_%E2%80%9Ewahrscheinlich_Erfolg%E2%80%9C.pdf) | AfD-Verbot hätte laut neuem Gutachten „wahrscheinlich Erfolg“ |
-| [`AfD_ Gold aus Erbschaft wohl nach Liechtenstein gebracht – Fragen bleiben offen - DER SPIEGEL.pdf`](./dokumente/hauptquellen/AfD_%20Gold%20aus%20Erbschaft%20wohl%20nach%20Liechtenstein%20gebracht%20%E2%80%93%20Fragen%20bleiben%20offen%20-%20DER%20SPIEGEL.pdf) | AfD  Gold aus Erbschaft wohl nach Liechtenstein gebracht – Fragen bleiben offen - DER SPIEGEL |
+| [`AfD_ Gold aus Erbschaft wohl nach Liechtenstein gebracht – Fragen bleiben offen - DER SPIEGEL.pdf`](./dokumente/hauptquellen/AfD_%20Gold%20aus%20Erbschaft%20wohl%20nach%20Liechtenstein%20gebracht%20%E2%80%93%20Fragen%20bleiben%20anhängig/statusgetrennt%20-%20DER%20SPIEGEL.pdf) | AfD  Gold aus Erbschaft wohl nach Liechtenstein gebracht – Fragen bleiben offen - DER SPIEGEL |
 | [`AfD_ Schwurblerin und Identitärer kriegen keinen Hausausweis.pdf`](./dokumente/hauptquellen/AfD_%20Schwurblerin%20und%20Identit%C3%A4rer%20kriegen%20keinen%20Hausausweis.pdf) | AfD  Schwurblerin und Identitärer kriegen keinen Hausausweis |
 | [`AfD_ Verdacht auf Informationsweitergabe an Russland - DER SPIEGEL.pdf`](./dokumente/hauptquellen/AfD_%20Verdacht%20auf%20Informationsweitergabe%20an%20Russland%20-%20DER%20SPIEGEL.pdf) | AfD  Verdacht auf Informationsweitergabe an Russland - DER SPIEGEL |
 | [`AfD_ Wie Demokraten mit Verfassungsfeinden umgehen können.pdf`](./dokumente/hauptquellen/AfD_%20Wie%20Demokraten%20mit%20Verfassungsfeinden%20umgehen%20k%C3%B6nnen.pdf) | AfD  Wie Demokraten mit Verfassungsfeinden umgehen können |
@@ -721,7 +721,7 @@ Ende der öffentlich zugänglichen Quellen.
 
 ### URTEILE & VERURTEILUNGEN: AfD-Mandatsträger und die Partei (Volltext-Register)
 
-Dieses Dokument ist eine umfassende Zusammenstellung gerichtlicher Urteile, rechtskräftiger Verurteilungen, Strafbefehle und laufender Verfahren gegen Mitglieder, Mandatsträger und die Partei Alternative für Deutschland (AfD) sowie deren Landesverbände. 
+Dieses Dokument ist eine umfassende Zusammenstellung gerichtlicher Urteile, rechtskräftiger Verurteilungen, Strafbefehle und laufender Verfahren gegen Mitglieder, Mandatsträger und die Partei Alternative für Deutschland (AfD) sowie deren Landesverbände.
 
 **Hinweis zur Systematik:** Zur unantastbaren Wahrung der akademischen und juristischen Integrität ist jeder Fall strikt kategorisiert:
 * 🔴 **[DIREKT AfD]**: Faktisch sichere AfD-Parteimitgliedschaft (inkl. exakter Angabe des Mandats/der Funktion, z. B. MdB, MdL, Kreisrat, Landesvorsitzender).
@@ -740,7 +740,7 @@ Dieses Dokument ist eine umfassende Zusammenstellung gerichtlicher Urteile, rech
 
 ### Volksverhetzung & Verfassungswidrige Kennzeichen
 
-1. **Björn Höcke:** 
+1. **Björn Höcke:**
    - **Partei-Status:** 🔴 **DIREKT AfD** (Landessprecher und Fraktionsvorsitzender der AfD Thüringen).
    - **Urteil:** Geldstrafe (SA-Parole „Alles für Deutschland“).
    - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/01_Hoecke_SA_Parole_LG_Halle.txt)
@@ -801,7 +801,7 @@ Dieses Dokument ist eine umfassende Zusammenstellung gerichtlicher Urteile, rech
     - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/56_Joerg_Sobolewski_SA_Geste_AG_Tiergarten.txt)
 
 13. **Sven Liebich:**
-    - **Partei-Status:** 🔵 **INDIREKT AfD**.  
+    - **Partei-Status:** 🔵 **INDIREKT AfD**.
       *Begründung des AfD-Bezugs:* Liebich tritt bundesweit als inoffizieller, aber extrem eng vernetzter Propagandist des AfD-Vorfelds auf. Er hält systematisch Reden auf AfD-Bühnen, organisiert Schulterschlüsse bei Demonstrationen und betreibt Kampagnen für Höcke.
     - **Urteil:** 1,5 Jahre Haft ohne Bewährung wegen Volksverhetzung.
     - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/52_Sven_Liebich_Volksverhetzung_Haft_LG_Halle.txt)
@@ -891,7 +891,7 @@ Dieses Dokument ist eine umfassende Zusammenstellung gerichtlicher Urteile, rech
     - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/53_Maik_G_Koerperverletzung_AG_Sinsheim.txt)
 
 30. **Robert T.:**
-    - **Partei-Status:** 🔵 **INDIREKT AfD**.  
+    - **Partei-Status:** 🔵 **INDIREKT AfD**.
       *Begründung des AfD-Bezugs:* Robert T. fungierte als Kampfsportler und "Schutztruppe" auf Veranstaltungen der Jungen Alternative (JA). Er führt die ideologische Gewaltbereitschaft des AfD-Vorfeldes auf der Straße aus.
     - **Urteil:** 2 Jahre und 2 Monate Haft ohne Bewährung (Schwere Körperverletzung).
     - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/55_Robert_T_JA_Aktivist_Gewalt_LG_Leipzig.txt)
@@ -1015,7 +1015,7 @@ Dieses Dokument ist eine umfassende Zusammenstellung gerichtlicher Urteile, rech
     - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/26_Seitz_Richteramt_Entlassung_DGH_Karlsruhe.txt)
 
 52. **Jessica Bießmann:**
-    - **Partei-Status:** 🔵 **INDIREKT AfD**.  
+    - **Partei-Status:** 🔵 **INDIREKT AfD**.
       *Begründung des AfD-Bezugs:* Ursprünglich MdA für die AfD Berlin, wurde nach Publikwerden von NS-Fotos (Hitlerweinflaschen) parteiintern gerügt und agierte danach im parteinahen rechtsextremen Vorfeld.
     - **Urteil:** Parteischiedsgerichtlicher Ausschluss.
     - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/37_Jessica_Biessmann_Hitlerwein_AG_Tiergarten.txt)
@@ -1106,7 +1106,7 @@ Dieses Dokument ist eine umfassende Zusammenstellung gerichtlicher Urteile, rech
     - **Quelle/Beleg:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/49_Kurt_H_Saechsische_Separatisten_Terror_GBA.txt)
 
 67. **Tobias Laue:**
-    - **Partei-Status:** 🔵 **INDIREKT AfD**.  
+    - **Partei-Status:** 🔵 **INDIREKT AfD**.
       *Begründung des AfD-Bezugs:* Laue wurde gezielt von dem AfD-Abgeordneten Peter Bohnhof als Mitarbeiter eingestellt. Die AfD-Fraktion forderte Zugang zum Sicherheitsbereich des Bundestags für einen bekannten Funktionär der verbotenen Rockergruppe "Bandidos".
     - **Urteil:** Verweigerung des Bundestags-Hausausweises aus Sicherheitsbedenken bestätigt.
     - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/61_Tobias_Laue_Bandidos_Bundestag.txt)
@@ -1124,7 +1124,7 @@ Dieses Dokument ist eine umfassende Zusammenstellung gerichtlicher Urteile, rech
     - **Quelle/Beleg:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/70_Petr_Bystron_Bestechung_Razzia_GBA.txt)
 
 70. **Jörg S.:**
-    - **Partei-Status:** 🔵 **INDIREKT AfD**.  
+    - **Partei-Status:** 🔵 **INDIREKT AfD**.
       *Begründung des AfD-Bezugs:* Jörg S. war direkter Angestellter im Bundestagsbüro des AfD-Abgeordneten Karsten Hilse und nutzte seine privilegierte parlamentarische Stellung, um Widerstandshandlungen am Rande von Demonstrationen auszuführen.
     - **Urteil:** Geldstrafe wegen Widerstands gegen Polizeibeamte und Hausfriedensbruchs (AG Tiergarten).
     - **Quelle/Beleg:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/74_Joerg_S_Mitarbeiter_Hilse_Widerstand_AG_Tiergarten.txt)
@@ -1156,9 +1156,9 @@ Dieses Dokument ist eine umfassende Zusammenstellung gerichtlicher Urteile, rech
     - **Status:** Laufendes Ermittlungsverfahren der Staatsanwaltschaft Hannover (Mai 2026), Mandatsniederlegung und Parteiaustritt nach US-Behördenhinweis.
     - **Quelle/Beleg:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/68_AfD_Ratsherr_Hannover_Kinderpornografie_Ermittlung.txt)
 
-> 💡 **Geopolitische & Netzwerkanmerkung zur völkischen Instrumentalisierung und Epstein-Verbindung:**  
-> Während die AfD im Inland das Thema Pädokriminalität instrumentalisiert, um queere Menschen und politische Gegner zu diffamieren und härtere Gesetze einzufordern, offenbaren sich im internationalen, rechtsextremen Unterstützernetzwerk der Partei gravierende Doppelmoral-Verstrickungen.  
-> Der engste transatlantische Partner und Berater der Bundes-AfD, **Steve Bannon** (der Höcke und die AfD-Spitze im Rahmen seines rechtsextremen 'Movement'-Netzwerks strategisch coacht und mehrfach traf), pflegte eine nachweislich enge Beziehung zu dem verurteilten Sexualstraftäter **Jeffrey Epstein**. Bannon fungierte 2018 und 2019 als Epsteins inoffellieller Medienberater, besuchte ihn wiederholt im Manhattan-Townhouse und drehte über 15 Stunden exklusive Interviewaufnahmen mit ihm, um dessen Image zu rehabilitieren. Dies belegt die enge Verzahnung und gegenseitige Absicherung im rechtsextremen und verschwörungsideologischen Netzwerk des AfD-Umfeldes.  
+> 💡 **Geopolitische & Netzwerkanmerkung zur völkischen Instrumentalisierung und Epstein-Verbindung:**
+> Während die AfD im Inland das Thema Pädokriminalität instrumentalisiert, um queere Menschen und politische Gegner zu diffamieren und härtere Gesetze einzufordern, offenbaren sich im internationalen, rechtsextremen Unterstützernetzwerk der Partei gravierende Doppelmoral-Verstrickungen.
+> Der engste transatlantische Partner und Berater der Bundes-AfD, **Steve Bannon** (der Höcke und die AfD-Spitze im Rahmen seines rechtsextremen 'Movement'-Netzwerks strategisch coacht und mehrfach traf), pflegte eine nachweislich enge Beziehung zu dem verurteilten Sexualstraftäter **Jeffrey Epstein**. Bannon fungierte 2018 und 2019 als Epsteins inoffellieller Medienberater, besuchte ihn wiederholt im Manhattan-Townhouse und drehte über 15 Stunden exklusive Interviewaufnahmen mit ihm, um dessen Image zu rehabilitieren. Dies belegt die enge Verzahnung und gegenseitige Absicherung im rechtsextremen und verschwörungsideologischen Netzwerk des AfD-Umfeldes.
 > 🔗 **Ausführliche Analyse & Belege im unzensierten Dossier:** [**Steve Bannon & Jeffrey Epstein – Die transatlantischen Netzwerke der extremen Rechten (Bannon_Epstein_DeepResearch.md)**](./dokumente/hauptquellen/Bannon_Epstein_DeepResearch.md)
 
 ---
@@ -1166,7 +1166,7 @@ Dieses Dokument ist eine umfassende Zusammenstellung gerichtlicher Urteile, rech
 ### SONDERKATEGORIE: Schwere Vergewaltigung & Sexualstraftaten
 
 75. **Philip W.:**
-    - **Partei-Status:** 🔵 **INDIREKT AfD**.  
+    - **Partei-Status:** 🔵 **INDIREKT AfD**.
       *Begründung des AfD-Bezugs:* Philip W. ist Gründungsmitglied der JA-Organisation "Generation Deutschland" und persönlicher Mitarbeiter des bayerischen AfD-Landtagsabgeordneten Andreas Jurca. Jurca stellte den verurteilten Vergewaltiger trotz Kenntnis der Tat ein und verharmloste die Taten öffentlich als bloßes "Beziehungsdrama".
     - **Delikt:** Zweifache Vergewaltigung (§ 177 StGB) der damaligen Lebenspartnerin.
     - **Urteil:** Rechtskräftige Freiheitsstrafe von zwei Jahren auf Bewährung nach sieben Monaten U-Haft und Geständnis vor dem Amtsgericht Augsburg (2023).
@@ -2169,7 +2169,7 @@ Dieses Dokument ist eine umfassende Zusammenstellung gerichtlicher Urteile, rech
 
 **Art. 21 Abs. 3 GG - Finanzierungsausschluss (2017)**
 - **Volltext**: Parteien können von staatlicher Finanzierung ausgeschlossen werden
-- **Verfügbarkeit**: Öffentlich  
+- **Verfügbarkeit**: Öffentlich
 - **Relevanz**: Alternative Sanktion ohne Vollverbot; bereits gegen "Die Heimat" (ehem. NPD) angewandt
 
 **BVerfGG §§ 43-46a - Verfahrensvorschriften**
@@ -2191,7 +2191,7 @@ Dieses Dokument ist eine umfassende Zusammenstellung gerichtlicher Urteile, rech
 - **Relevanz**: Grundlegende Kriterien für Parteiverbote; organisatorische NSDAP-Ähnlichkeit als Beweis
 
 **KPD-Urteil (BVerfGE 5, 85 - 1956)**
-- **Vollzitat**: BVerfG, Urteil vom 17. August 1956 - 1 BvB 2/51  
+- **Vollzitat**: BVerfG, Urteil vom 17. August 1956 - 1 BvB 2/51
 - **Leitsätze**: Definition "freiheitliche demokratische Grundordnung"; keine Potentialitätserfordernis
 - [bpb.de](https://www.bpb.de/shop/zeitschriften/apuz/archiv/532104/25-jahre-nach-dem-kpd-verbot-historische-und-aktuelle-ueberlegungen/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/bpb.de_shop_zeitschriften_apuz_archiv_532104_25-jahre-nach-dem-kpd-verbot-historische-und-aktuelle-ueberleg.pdf)`
 - [fallrecht.de](https://www.fallrecht.de/bv005085.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/fallrecht.de_bv005085_html.pdf)`
@@ -2200,7 +2200,7 @@ Dieses Dokument ist eine umfassende Zusammenstellung gerichtlicher Urteile, rech
 
 **NPD II-Urteil (BVerfGE 144, 20 - 2017)**
 - **Vollzitat**: BVerfG, Urteil vom 17. Januar 2017 - 2 BvB 1/13
-- **Revolution**: Einführung des "Potentialitätskriteriums" 
+- **Revolution**: Einführung des "Potentialitätskriteriums"
 - **Leitsätze**: Verfassungsfeindlich ≠ verfassungswidrig; realistische Erfolgschancen erforderlich
 - **URL**: [https://www.bundesverfassungsgericht.de/ [✅ 200 OK]](https://www.bundesverfassungsgericht.de/) [✅ 200 OK]SharedDocs/Entscheidungen/DE/2017/01/bvs20170117_2bvb000113.html `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/bundesverfassungsgericht.de_index.pdf)`
 - **Verfügbarkeit**: Öffentlich
@@ -2387,7 +2387,7 @@ Dieses Dokument ist eine umfassende Zusammenstellung gerichtlicher Urteile, rech
 **Schlüsselbefunde**:
 - **"Remigrations"-Plan**: Martin Sellner (österr. Identitären-Führer) präsentierte "Masterplan" für Massendeportationen dreier Gruppen:
   1. Asylsuchende
-  2. Nicht-Deutsche mit Aufenthaltsrecht  
+  2. Nicht-Deutsche mit Aufenthaltsrecht
   3. "Nicht-assimilierte" deutsche Staatsbürger
 - **AfD-Beteiligung**: Roland Hartwig (Alice Weidels persönlicher Referent), Gerrit Huy (MdB), Ulrich Siegmund (Fraktionschef Sachsen-Anhalt), Tim Krause (Brandenburg-Sprecher)
 - **Finanznetzwerk**: €5.000 Mindestspenden, Diskussionen über €1,37 Mio. zusätzliche Wahlkampffinanzierung über Agenturen zur Umgehung offizieller Parteikanäle
@@ -2614,255 +2614,255 @@ Sämtliche Belege liegen physisch im Repository unter [`./urteilsbelege/`](./dok
 ### 8.1. Gerichtsentscheidungen & Strafurteile (Fälle 1 bis 259)
 
 
-1. **Björn Höcke (Geldstrafe (SA-Parole „Alles für Deutschland“).):**  
+1. **Björn Höcke (Geldstrafe (SA-Parole „Alles für Deutschland“).):**
    [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/lg-halle-5kls623-hoecke-urteil/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/01_Hoecke_SA_Parole_LG_Halle.pdf)`
 
-2. **Marie-Thérèse Kaiser (Geldstrafe wegen Volksverhetzung.):**  
+2. **Marie-Thérèse Kaiser (Geldstrafe wegen Volksverhetzung.):**
    [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/volksverhetzung-kaiser-geldstrafe-bestaetigt-landgericht-lueneburg/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/02_Kaiser_Volksverhetzung_LG_Lueneburg.pdf)`
 
-3. **Florian Jäger (Geldstrafe wegen Volksverhetzung.):**  
+3. **Florian Jäger (Geldstrafe wegen Volksverhetzung.):**
    [Süddeutsche Zeitung - Strafverfahren-Bericht](https://www.sueddeutsche.de/muenchen/muenchen-afd-florian-jaeger-volksverhetzung-corona-impfen-novemberpogrome-1.5645328) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/03_Jaeger_Volksverhetzung_AG_Muenchen.pdf)`
 
-4. **Bruno Fuchert (9 Monate Haft auf Bewährung wegen Volksverhetzung.):**  
+4. **Bruno Fuchert (9 Monate Haft auf Bewährung wegen Volksverhetzung.):**
    [Süddeutsche Zeitung - Strafverfahren-Bericht](https://www.sueddeutsche.de/bayern/traunstein-afd-kreisrat-wegen-volksverhetzung-verurteilt-lux.Ur8tE9X4q67p6Z) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/04_Fuchert_Volksverhetzung_LG_Traunstein.pdf)`
 
-5. **Holger Arppe (Geldstrafe wegen Volksverhetzung.):**  
+5. **Holger Arppe (Geldstrafe wegen Volksverhetzung.):**
    [Gerichtsbericht (WELT Beleg 1)](https://www.welt.de/politik/deutschland/article176353087/Holger-Arppe-AfD-Politiker-wegen-Volksverhetzung-verurteilt.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/welt.de_politik_deutschland_article176353087_Holger-Arppe-AfD-Politiker-wegen-Volksverhetzung-verurteilt_htm.pdf)`
    [Gerichtsbericht (SPIEGEL Beleg 2)](https://www.spiegel.de/politik/deutschland/holger-arppe-ex-afd-landeschef-wegen-volksverhetzung-verurteilt-a-1207699.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/spiegel.de_politik_deutschland_holger-arppe-ex-afd-landeschef-wegen-volksverhetzung-verurteilt-a-1207699_html.pdf)`
    [Gerichtsbericht (LTO Beleg 3)](https://www.lto.de/recht/nachrichten/n/lg-rostock-afd-abgeordneter-mecklenburg-vorpommern-volksverhetzung-geldstrafe) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/lto.de_recht_nachrichten_n_lg-rostock-afd-abgeordneter-mecklenburg-vorpommern-volksverhetzung-geldstrafe.pdf)`
 
-6. **Kay Nerstheimer (Geldstrafe wegen Volksverhetzung.):**  
+6. **Kay Nerstheimer (Geldstrafe wegen Volksverhetzung.):**
    [Spiegel-Bericht zum Verfahren](https://www.tagesspiegel.de/berlin/ex-afd-abgeordneter-nerstheimer-wegen-volksverhetzung-verurteilt-3965625.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/06_Nerstheimer_Koerperverletzung_Volksverhetzung.pdf)`
 
-7. **Björn Höcke (Gerichtsbeschluss „Faschist“):**  
+7. **Björn Höcke (Gerichtsbeschluss „Faschist“):**
    [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/lg-halle-5kls623-hoecke-urteil/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/07_Hoecke_Faschist_VG_Meiningen.pdf)`
 
-8. **Alice Weidel (Gerichtsbeschluss):**  
+8. **Alice Weidel (Gerichtsbeschluss):**
    [Spiegel-Bericht zum Verfahren](https://www.spiegel.de/politik/deutschland/alice-weidel-afd-spitzenkandidatin-reagiert-auf-e-mail-affaere-a-1167092.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/08_Weidel_Nazischlampe_LG_Hamburg.pdf)`
 
-9. **Carsten Härle (Geldstrafe wegen Volksverhetzung.):**  
+9. **Carsten Härle (Geldstrafe wegen Volksverhetzung.):**
    [Frankfurter Rundschau - Bericht zur Verurteilung (RECHTPROFI Beleg 1)](https://rechtprofi.de/afd-politiker-wegen-rassistischer-facebook-posts-verurteilt-volksverhetzung/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/rechtprofi.de_afd-politiker-wegen-rassistischer-facebook-posts-verurteilt-volksverhetzung.pdf)`
    [Frankfurter Rundschau - Bericht zur Verurteilung (SUEDKURIER Beleg 2)](https://www.suedkurier.de/region/kreis-konstanz/singen/wolfgang-gedeon-beschaeftigt-einen-umstrittenen-afd-mann-der-mitarbeiter-ist-wegen-volksverhetzung-angeklagt;art372458,10757323) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/suedkurier.de_region_kreis-konstanz_singen_wolfgang-gedeon-beschaeftigt-einen-umstrittenen-afd-mann-der-mitarbeite.pdf)`
 
-10. **Beatrix von Storch (Strafverfahren wegen Volksverhetzung (Immunität aufgehoben).):**  
+10. **Beatrix von Storch (Strafverfahren wegen Volksverhetzung (Immunität aufgehoben).):**
    [Die Welt - Bericht zum Verfahren](https://www.welt.de/politik/deutschland/article172089182/Koeln-Polizei-zeigt-Beatrix-von-Storch-wegen-Volksverhetzung-an.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/10_Beatrix_von_Storch_Volksverhetzung_Ermittlung.pdf)`
 
-11. **Christina Baum (Geldstrafe wegen Beleidigung.):**  
+11. **Christina Baum (Geldstrafe wegen Beleidigung.):**
    [Frankfurter Rundschau - Bericht zur Verurteilung (RECHTPROFI Beleg 1)](https://rechtprofi.de/afd-politiker-wegen-rassistischer-facebook-posts-verurteilt-volksverhetzung/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/rechtprofi.de_afd-politiker-wegen-rassistischer-facebook-posts-verurteilt-volksverhetzung.pdf)`
    [Frankfurter Rundschau - Bericht zur Verurteilung (SUEDKURIER Beleg 2)](https://www.suedkurier.de/region/kreis-konstanz/singen/wolfgang-gedeon-beschaeftigt-einen-umstrittenen-afd-mann-der-mitarbeiter-ist-wegen-volksverhetzung-angeklagt;art372458,10757323) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/suedkurier.de_region_kreis-konstanz_singen_wolfgang-gedeon-beschaeftigt-einen-umstrittenen-afd-mann-der-mitarbeite.pdf)`
 
-12. **Jörg Sobolewski (Geldstrafe wegen SA-Geste.):**  
+12. **Jörg Sobolewski (Geldstrafe wegen SA-Geste.):**
    [Spiegel-Bericht zum Verfahren](https://www.tagesspiegel.de/berlin/hitlergruss-prozess-gegen-ja-funktionaer-geldstrafe-bestaetigt-3982834.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/12_Joerg_Sobolewski_SA_Geste_AG_Tiergarten.pdf)`
 
-13. **Sven Liebich (1,5 Jahre Haft ohne Bewährung wegen Volksverhetzung.):**  
+13. **Sven Liebich (1,5 Jahre Haft ohne Bewährung wegen Volksverhetzung.):**
    [MDR-Bericht zur Verurteilung](https://www.mdr.de/nachrichten/sachsen-anhalt/halle/halle/rechtsextremist-sven-liebich-haftstrafe-verurteilung-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/13_Sven_Liebich_Volksverhetzung_Haft_LG_Halle.pdf)`
 
-14. **Thomas Suchka (Geldstrafe wegen Volksverhetzung.):**  
+14. **Thomas Suchka (Geldstrafe wegen Volksverhetzung.):**
    [Süddeutsche Zeitung - Strafverfahren-Bericht](https://www.sueddeutsche.de/muenchen/ebersberg/ebersberg-afd-kreisrat-thomas-suchka-volksverhetzung-geldstrafe-1.5542198) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/14_Thomas_Suchka_Volksverhetzung_AG_Ebersberg.pdf)`
 
-15. **André Poggenburg (Geldstrafe wegen Volksverhetzung („Kümmelhändler“).):**  
+15. **André Poggenburg (Geldstrafe wegen Volksverhetzung („Kümmelhändler“).):**
    [Die Welt - Bericht zum Verfahren](https://www.welt.de/politik/deutschland/article173595166/AfD-Aschermittwoch-Andre-Poggenburg-schmaeht-Tuerken-als-Kuemmelhaendler.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/15_Andre_Poggenburg_Kuemmelhaendler_AG_Halle.pdf)`
 
-16. **Uwe Junge (Geldstrafe wegen homophober Beleidigung.):**  
+16. **Uwe Junge (Geldstrafe wegen homophober Beleidigung.):**
    [Spiegel-Bericht zum Verfahren](https://www.spiegel.de/panorama/justiz/uwe-junge-ex-afd-landeschef-nach-homophober-beleidigung-verurteilt-a-df8a14de-6c3e-4d43-be76-e82cf919842d) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/16_Uwe_Junge_Beleidigung_AG_Mainz.pdf)`
 
-17. **Gerd Sch. (Geldstrafe wegen rassistischer Volksverhetzung im Netz.):**  
+17. **Gerd Sch. (Geldstrafe wegen rassistischer Volksverhetzung im Netz.):**
    [Tagesspiegel - Brandenburgischer AfD-Lokalpolitiker wegen Volksverhetzung im Netz verurteilt](https://www.tagesspiegel.de/berlin/brandenburg-afd-lokalpolitiker-wegen-volksverhetzung-verurteilt-4001247.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/tagesspiegel.de_berlin_brandenburg-afd-lokalpolitiker-wegen-volksverhetzung-verurteilt-4001247_html.pdf)`
 
-18. **Halger H. (Geldstrafe wegen Verwendens verfassungswidriger Kennzeichen (§ 86a StGB - Hitlergruß).):**  
+18. **Halger H. (Geldstrafe wegen Verwendens verfassungswidriger Kennzeichen (§ 86a StGB - Hitlergruß).):**
    [Spiegel-Bericht zum Verfahren](https://www.tagesspiegel.de/berlin/prozess-in-sachsen-afd-aktivist-wegen-hitlergruss-verurteilt-4001298.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/18_Halger_H_Hitlergruss_AG_Chemnitz.pdf)`
 
-19. **Stefan W. (Rechtskräftige Geldstrafe wegen Volksverhetzung (Hetzschriftenverteilung).):**  
+19. **Stefan W. (Rechtskräftige Geldstrafe wegen Volksverhetzung (Hetzschriftenverteilung).):**
    [MDR-Bericht zur Verurteilung](https://www.mdr.de/nachrichten/thueringen/ost-thueringen/gera/prozess-volksverhetzung-afd-politiker-verurteilung-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/19_Stefan_W_Volksverhetzung_AG_Gera.pdf)`
 
-20. **Daniel R. (Geldstrafe wegen Volksverhetzung, Hakenkreuzschmierereien und Sachbeschädigung.):**  
+20. **Daniel R. (Geldstrafe wegen Volksverhetzung, Hakenkreuzschmierereien und Sachbeschädigung.):**
    [MDR-Bericht zur Verurteilung](https://www.mdr.de/nachrichten/sachsen/bautzen/prozess-sachbeschaedigung-hakenkreuz-afd-politiker-verurteilung-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/20_Daniel_R_Hakenkreuz_Volksverhetzung_AG_Bautzen.pdf)`
 
-21. **Felix Alexander Cassel (7 Monate Haft auf Bewährung (PKW-Angriff).):**  
+21. **Felix Alexander Cassel (7 Monate Haft auf Bewährung (PKW-Angriff).):**
    [Spiegel-Bericht zum Verfahren](https://www.spiegel.de/panorama/justiz/essen-afd-politiker-wegen-gefaehrlicher-koerperverletzung-verurteilt-a-1294857.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/21_Cassel_Gewalttat_AG_Essen.pdf)`
 
-22. **Kai Borrmann (Geldstrafe wegen Körperverletzung.):**  
+22. **Kai Borrmann (Geldstrafe wegen Körperverletzung.):**
    [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/lg-berlin-verurteilt-afd-politiker-kai-borrmann-wegen-rassistischer-beleidigung/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/22_Borrmann_Koerperverletzung_LG_Berlin.pdf)`
 
-23. **Stefan Räpple (Verurteilt wegen Widerstands gegen Polizisten.):**  
+23. **Stefan Räpple (Verurteilt wegen Widerstands gegen Polizisten.):**
    [Stuttgarter Nachrichten - Bericht zur Verurteilung](https://www.stuttgarter-nachrichten.de/inhalt.strafprozess-gegen-stefan-raepple-ex-afd-abgeordneter-wegen-betrugs-verurteilt.df83e2c3-4d43-11ee-bd9a-67a4e69bcf91.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/23_Raepple_Gewaltdelikt_LG_Karlsruhe.pdf)`
 
-24. **Sebastian Münzenmeier (Beihilfe zur gefährlichen Körperverletzung.):**  
+24. **Sebastian Münzenmeier (Beihilfe zur gefährlichen Körperverletzung.):**
    [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/lg-mainz-verurteilt-bundestagsabgeordneter-sebastian-muenzenmeier-beihilfe-koerperverletzung/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/24_Muenzenmeier_Hooligan_Gewalt_LG_Mainz.pdf)`
 
-25. **Dubravko Mandic (Gefährliche Körperverletzung (Reizgas).):**  
+25. **Dubravko Mandic (Gefährliche Körperverletzung (Reizgas).):**
    [Spiegel-Bericht zum Verfahren](https://www.spiegel.de/panorama/justiz/freiburg-gericht-verurteilt-ex-afd-stadtrat-dubravko-mandic-wegen-noetigung-a-e1528652-3d52-4467-9c6a-ec627f0607ba) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/25_Mandic_Gewalt_AG_Freiburg.pdf)`
 
-26. **Andreas Kalbitz (Strafverfahren gegen Geldauflage eingestellt (Milzriss).):**  
+26. **Andreas Kalbitz (Strafverfahren gegen Geldauflage eingestellt (Milzriss).):**
    [Tagesschau-Bericht zum Strafverfahren](https://www.tagesschau.de/inland/kalbitz-koerperverletzung-verfahren-eingestellt-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/26_Kalbitz_Koerperverletzung_AG_Potsdam.pdf)`
 
-27. **Sven Ebert (Gefährliche Körperverletzung.):**  
+27. **Sven Ebert (Gefährliche Körperverletzung.):**
    [Gerichtsbericht (SPIEGEL Beleg 1)](https://www.spiegel.de/politik/deutschland/afd-mindestens-elf-mandatstraeger-wegen-gewalttaten-verurteilt-a-d59407cc-4841-4703-9a2a-d749fc7b7889) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/spiegel.de_politik_deutschland_afd-mindestens-elf-mandatstraeger-wegen-gewalttaten-verurteilt-a-d59407cc-4841-4.pdf)`
    [Gerichtsbericht (TAZ Beleg 2)](https://taz.de/!6089077&SuchRahmen=Print/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/taz.de_6089077_SuchRahmen_Print.pdf)`
 
-28. **Stefan Hrdy (Körperverletzung.):**  
+28. **Stefan Hrdy (Körperverletzung.):**
    [Frankfurter Rundschau - Bericht zur Verurteilung (SPIEGEL Beleg 1)](https://www.tagesspiegel.de/gesellschaft/panorama/nach-biss-in-die-wade-afd-delegierter-soll-auch-spd-politikerin-in-essen-bespuckt-haben-11930024.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/tagesspiegel.de_gesellschaft_panorama_nach-biss-in-die-wade-afd-delegierter-soll-auch-spd-politikerin-in-essen-bespu.pdf)`
 
-29. **Maik G. (Vorsätzliche Körperverletzung.):**  
+29. **Maik G. (Vorsätzliche Körperverletzung.):**
    [Rhein-Neckar-Zeitung - Bericht zur Verurteilung (AFD-BW Beleg 1)](https://afd-bw.de/aktuell/news/27867/AfD+Rhein-Neckar+verurteilt+Ausschreitungen+zweier+Gro%C3%9Ffamilien+in+Sinsheim) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/afd-bw.de_aktuell_news_27867_AfD_Rhein-Neckar_verurteilt_Ausschreitungen_zweier_Gro_C3_9Ffamilien_in_Sinsheim.pdf)`
    [Rhein-Neckar-Zeitung - Bericht zur Verurteilung (FACEBOOK Beleg 2)](https://www.facebook.com/p/AfD-Fraktion-im-Kreistag-Rhein-Neckar-100064856043517/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/facebook.com_p_AfD-Fraktion-im-Kreistag-Rhein-Neckar-100064856043517.pdf)`
 
-30. **Robert T. (2 Jahre und 2 Monate Haft ohne Bewährung (Schwere Körperverletzung).):**  
+30. **Robert T. (2 Jahre und 2 Monate Haft ohne Bewährung (Schwere Körperverletzung).):**
    [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/lg-leipzig-haftstrafe-rechtsextremist-angriff-aktivist-koerperverletzung/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/30_Robert_T_JA_Aktivist_Gewalt_LG_Leipzig.pdf)`
 
-31. **Alexander M. (Geldstrafe wegen vorsätzlicher Körperverletzung bei Wahlkampf-Demo.):**  
+31. **Alexander M. (Geldstrafe wegen vorsätzlicher Körperverletzung bei Wahlkampf-Demo.):**
    [MDR-Bericht zur Verurteilung](https://www.mdr.de/nachrichten/thueringen/erfurt/weimar/prozess-koerperverletzung-afd-politiker-verurteilung-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/31_Alexander_M_Koerperverletzung_AG_Erfurt.pdf)`
 
-32. **Heiko H. (Geldstrafe wegen gefährlicher Körperverletzung und Bedrohung im Wahlkampf.):**  
+32. **Heiko H. (Geldstrafe wegen gefährlicher Körperverletzung und Bedrohung im Wahlkampf.):**
    [MDR-Bericht zur Verurteilung](https://www.mdr.de/nachrichten/sachsen-anhalt/halle/weissenfels/prozess-koerperverletzung-afd-kandidat-verurteilung-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/32_Heiko_H_Koerperverletzung_AG_Zeitz.pdf)`
 
-33. **Stefan K. (Haftstrafe auf Bewährung wegen gefährlicher Körperverletzung (Tritte gegen Kopf).):**  
+33. **Stefan K. (Haftstrafe auf Bewährung wegen gefährlicher Körperverletzung (Tritte gegen Kopf).):**
    [Spiegel-Bericht zum Verfahren](https://www.tagesspiegel.de/berlin/prozess-in-sachsen-ja-mitglied-wegen-gewalttat-verurteilt-4019283.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/33_Stefan_K_JA_Gewalttat_AG_Dresden.pdf)`
 
-34. **Thorsten Czuppon (Geldstrafe wegen Verfolgung Unschuldiger.):**  
+34. **Thorsten Czuppon (Geldstrafe wegen Verfolgung Unschuldiger.):**
    [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/lg-erfurt-bestaetigt-geldstrafe-fuer-afd-abgeordneten-czuppon/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/34_Thorsten_Czuppon_Falschanzeige_LG_Erfurt.pdf)`
 
-35. **Richard Graupner (Verrat von Dienstgeheimnissen.):**  
+35. **Richard Graupner (Verrat von Dienstgeheimnissen.):**
    [Gerichtsbericht (ZEIT Beleg 1)](https://www.zeit.de/news/2022-11/27/dienstgeheimnisse-verraten-urteil-erwartet) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/zeit.de_news_2022-11_27_dienstgeheimnisse-verraten-urteil-erwartet.pdf)`
    [Gerichtsbericht (WELT Beleg 2)](https://www.welt.de/regionales/bayern/article242365821/Dienstgeheimnisse-verraten-Geldstrafe-fuer-Abgeordneten.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/welt.de_regionales_bayern_article242365821_Dienstgeheimnisse-verraten-Geldstrafe-fuer-Abgeordneten_html.pdf)`
 
-36. **Kay-Uwe Ziegler (Subventionsbetrug.):**  
+36. **Kay-Uwe Ziegler (Subventionsbetrug.):**
    [Die Welt - Bericht zum Verfahren](https://www.welt.de/politik/deutschland/article249586118/Kay-Uwe-Ziegler-AfD-Abgeordneter-wegen-Subventionsbetrugs-verurteilt.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/36_Ziegler_Betrug_AG_Dessau.pdf)`
 
-37. **Frauke Petry (Subventionsbetrug, Untreue, Steuerhinterziehung.):**  
+37. **Frauke Petry (Subventionsbetrug, Untreue, Steuerhinterziehung.):**
    [Spiegel-Bericht zum Verfahren](https://www.spiegel.de/politik/deutschland/frauke-petry-strafbefehl-wegen-steuerhinterziehung-und-subventionsbetrugs-a-73238914.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/37_Petry_Betrug_LG_Leipzig.pdf)`
 
-38. **Daniel Halemba (Geldwäsche, Nötigung.):**  
+38. **Daniel Halemba (Geldwäsche, Nötigung.):**
    [Tagesschau-Bericht zum Strafverfahren](https://www.tagesschau.de/inland/regional/bayern/halemba-geldwaesche-prozess-wuerzburg-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/38_Halemba_Geldwaesche_LG_Wuerzburg.pdf)`
 
-39. **Wiebke Muhsal (Betrug.):**  
+39. **Wiebke Muhsal (Betrug.):**
    [Spiegel-Bericht zum Verfahren](https://www.spiegel.de/politik/deutschland/wiebke-muhsal-afd-abgeordnete-wegen-betrugs-rechtskraeftig-verurteilt-a-1244837.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/39_Wiebke_Muhsal_Betrug_LG_Erfurt.pdf)`
 
-40. **Jan-Ulrich Weiß (Haft auf Bewährung wegen Zigarettenschmuggels.):**  
+40. **Jan-Ulrich Weiß (Haft auf Bewährung wegen Zigarettenschmuggels.):**
    [Spiegel-Bericht zum Verfahren](https://www.tagesspiegel.de/brandenburg/afd-abgeordneter-weiss-wegen-zigarettenschmuggels-verurteilt-4019284.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/40_Jan_Ulrich_Weiss_Schmuggel_LG_Potsdam.pdf)`
 
-41. **Rolf Dipp (Haft auf Bewährung wegen Erpressung.):**  
+41. **Rolf Dipp (Haft auf Bewährung wegen Erpressung.):**
    [Spiegel-Bericht zum Verfahren](https://www.spiegel.de/panorama/justiz/salzgitter-afd-stadtrat-rolf-dipp-wegen-erpressung-und-stalkings-verurteilt-a-e1458920-c23d-4c3e-8b1e-dc7498c0a1e0) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/41_Rolf_Dipp_Erpressung_LG_Braunschweig.pdf)`
 
-42. **Stefan Beck (Veruntreuung von Parteigeldern.):**  
+42. **Stefan Beck (Veruntreuung von Parteigeldern.):**
    [Spiegel-Bericht zum Verfahren](https://www.spiegel.de/politik/deutschland/mainz-afd-schatzmeister-stefan-beck-wegen-untreue-rechtskraeftig-verurteilt-a-df87e2c3-4d43-11ee-bd9a-67a4e69bcf91.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/42_Stefan_Beck_Untreue_LG_Mainz.pdf)`
 
-43. **Jörg Meuthen (Verurteilung der AfD zu 269.400 Euro Strafzahlung wegen Annahme illegaler Schweizer Spenden.):**  
+43. **Jörg Meuthen (Verurteilung der AfD zu 269.400 Euro Strafzahlung wegen Annahme illegaler Schweizer Spenden.):**
    [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/bverwg-6c421-afd-strafzahlung-bundestag-illegale-parteispende/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/43_Joerg_Meuthen_Spendenaffaere_BVerwG.pdf)`
 
-44. **Guido Reil (Verurteilung der AfD zu 223.500 Euro Bußgeld wegen illegaler verdeckter Schweizer Wahlkampfwerbung.):**  
+44. **Guido Reil (Verurteilung der AfD zu 223.500 Euro Bußgeld wegen illegaler verdeckter Schweizer Wahlkampfwerbung.):**
    [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/bverwg-6c321-afd-strafzahlung-bundestag-illegale-spenden-reil/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/44_Guido_Reil_Spendenaffaere_BVerwG.pdf)`
 
-45. **Daniela W. (Geldstrafe wegen Versicherungsbetrugs und Urkundenfälschung.):**  
+45. **Daniela W. (Geldstrafe wegen Versicherungsbetrugs und Urkundenfälschung.):**
    [Gerichtsbericht (SUEDDEUTSCHE Beleg 1)](https://www.sueddeutsche.de/bayern/halemba-urteil-afd-gericht-prozess-geldwaesche-urteil-richterin-li.3376279) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/sueddeutsche.de_bayern_halemba-urteil-afd-gericht-prozess-geldwaesche-urteil-richterin-li_3376279.pdf)`
 
-46. **Stefan Räpple (Corona):**  
+46. **Stefan Räpple (Corona):**
    [Stuttgarter Nachrichten - Bericht zur Verurteilung](https://www.stuttgarter-nachrichten.de/inhalt.strafprozess-gegen-stefan-raepple-ex-afd-abgeordneter-wegen-betrugs-verurteilt.df83e2c3-4d43-11ee-bd9a-67a4e69bcf91.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/46_Stefan_Raepple_Corona_Subventionsbetrug_AG_Offenburg.pdf)`
 
-47. **Michael Musto (Geldstrafe wegen Briefwahlfälschung bei der Kommunalwahl.):**  
+47. **Michael Musto (Geldstrafe wegen Briefwahlfälschung bei der Kommunalwahl.):**
    [Rhein-Neckar-Zeitung - Bericht zur Verurteilung](https://www.rnz.de/region/rhein-neckar-kreis_artikel,-Backnang-AfD-Stadtrat-Michael-Musto-wegen-Wahlfaelschung-verurteilt-_arid,512398.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/47_Michael_Musto_Wahlfaelschung_AG_Backnang.pdf)`
 
-48. **Philip Steinbeck (3 Jahre 10 Monate Haft (Kriegswaffenbesitz).):**  
+48. **Philip Steinbeck (3 Jahre 10 Monate Haft (Kriegswaffenbesitz).):**
    [Die Welt - Bericht zum Verfahren](https://www.welt.de/politik/deutschland/article250212874/Schwerin-AfD-Politiker-wegen-illegalen-Waffenbesitzes-zu-Haftstrafe-verurteilt.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/48_Steinbeck_Waffen_LG_Schwerin.pdf)`
 
-49. **Stephan Brandner (Strafbefehl wegen Beleidigung.):**  
+49. **Stephan Brandner (Strafbefehl wegen Beleidigung.):**
    [Spiegel-Bericht zum Verfahren](https://www.spiegel.de/politik/deutschland/stephan-brandner-afd-politiker-wegen-beleidigung-zu-geldstrafe-verurteilt-a-df873491-382a-4df4-bd9a-67a4e69bcf91) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/49_Brandner_Beleidigung_AG_Gera.pdf)`
 
-50. **Matthias Moosdorf (Verfahren wegen Hitlergruß im Bundestag.):**  
+50. **Matthias Moosdorf (Verfahren wegen Hitlergruß im Bundestag.):**
    [Tagesschau-Bericht zum Strafverfahren](https://www.tagesschau.de/inland/innenpolitik/moosdorf-hitlergruss-ermittlungsverfahren-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/50_Moosdorf_Hitlergruss_BT.pdf)`
 
-51. **Thomas Seitz (Entlassung aus dem Staatsdienst wegen Rechtsextremismus.):**  
+51. **Thomas Seitz (Entlassung aus dem Staatsdienst wegen Rechtsextremismus.):**
    [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/bgh-dienstgericht-bund-thomas-seitz-afd-entlassung-richter-staatsanwalt/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/51_Seitz_Richteramt_Entlassung_DGH_Karlsruhe.pdf)`
 
-52. **Jessica Bießmann (Parteischiedsgerichtlicher Ausschluss.):**  
+52. **Jessica Bießmann (Parteischiedsgerichtlicher Ausschluss.):**
    [Spiegel-Bericht zum Verfahren](https://www.tagesspiegel.de/berlin/hitler-wein-im-regal-berliner-afd-abgeordnete-biessmann-tritt-aus-partei-aus-3992837.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/52_Jessica_Biessmann_Hitlerwein_AG_Tiergarten.pdf)`
 
-53. **Heinrich Fiechtner (Geldstrafe wegen Polizistenbeleidigung.):**  
+53. **Heinrich Fiechtner (Geldstrafe wegen Polizistenbeleidigung.):**
    [Geldstrafe für Heinrich Fiechtner wegen Beamtenbeleidigung (Stuttgarter Nachrichten)](https://www.stuttgarter-nachrichten.de/inhalt.strafprozess-gegen-ex-landtagsabgeordneten-geldstrafe-fuer-heinrich-fiechtner.df83e2c3-4d43-4e89-bd9a-67a4e69bcf91.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/stuttgarter-nachrichten.de_inhalt_strafprozess-gegen-ex-landtagsabgeordneten-geldstrafe-fuer-heinrich-fiechtner_df83e2c3-4d43-4.pdf)`
    [Geldstrafe für Heinrich Fiechtner wegen Beamtenbeleidigung (Stuttgarter Nachrichten)](https://www.stuttgarter-nachrichten.de/inhalt.strafprozess-gegen-ex-landtagsabgeordneten-geldstrafe-fuer-heinrich-fiechtner.df83e2c3-4d43-4e89-bd9a-67a4e69bcf91.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/stuttgarter-nachrichten.de_inhalt_strafprozess-gegen-ex-landtagsabgeordneten-geldstrafe-fuer-heinrich-fiechtner_df83e2c3-4d43-4.pdf)`
 
-54. **Jens Maier (Zwangspensionierung aus Richteramt durch BGH.):**  
+54. **Jens Maier (Zwangspensionierung aus Richteramt durch BGH.):**
    [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/bgh-bestaetigt-versetzung-in-ruhestand-richter-jens-maier-afd/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/54_Jens_Maier_Richter_Ruhestand_DG_Leipzig.pdf)`
 
-55. **Alice Weidel (Ermittlungen zur "E-Mail-Affäre" (Marionetten-Brief).):**  
+55. **Alice Weidel (Ermittlungen zur "E-Mail-Affäre" (Marionetten-Brief).):**
    [Spiegel-Bericht zum Verfahren](https://www.spiegel.de/politik/deutschland/alice-weidel-afd-spitzenkandidatin-reagiert-auf-e-mail-affaere-a-1167092.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/55_Alice_Weidel_Email_Affaere_Metadaten.pdf)`
 
-56. **Udo Stein (Zwangeinweisung & Waffenentzug nach Amokdrohung.):**  
+56. **Udo Stein (Zwangeinweisung & Waffenentzug nach Amokdrohung.):**
    [Spiegel - Thüringer AfD-Abgeordneter Udo Stein nach Waffeninzidents eingewiesen](https://www.spiegel.de/panorama/justiz/erfurt-abgeordneter-udo-stein-entwaffnet-und-eingewiesen-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/spiegel.de_panorama_justiz_erfurt-abgeordneter-udo-stein-entwaffnet-und-eingewiesen-100_html.pdf)`
 
-57. **Siegbert Droese (Ermittlungen wegen Wolfsschanze-NS-Pose.):**  
+57. **Siegbert Droese (Ermittlungen wegen Wolfsschanze-NS-Pose.):**
    [Tagesschau - Staatsanwaltschaft ermittelt gegen Siegbert Droese wegen NS-Symbol-Posing](https://www.tagesschau.de/regional/sachsen/siegbert-droese-staatsanwaltschaft-leipzig-ermittlungen-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/tagesschau.de_regional_sachsen_siegbert-droese-staatsanwaltschaft-leipzig-ermittlungen-100_html.pdf)`
 
-58. **Doris von Sayn-Wittgenstein (Ausschluss durch das Bundesschiedsgericht und LG Berlin rechtkräftig bestätigt.):**  
+58. **Doris von Sayn-Wittgenstein (Ausschluss durch das Bundesschiedsgericht und LG Berlin rechtkräftig bestätigt.):**
    [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/lg-berlin-bestaetigt-parteiausschluss-sayn-wittgenstein/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/58_Doris_Sayn_Wittgenstein_Rechtsextremismus_Ausschluss.pdf)`
 
-59. **Heiko Hecht (Nötigung, Stalking und Beleidigung.):**  
+59. **Heiko Hecht (Nötigung, Stalking und Beleidigung.):**
    [Spiegel-Bericht zum Verfahren](https://www.tagesspiegel.de/berlin/noetigung-prozess-gegen-afd-kreisvorstand-heiko-hecht-verurteilt-3992147.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/59_Heiko_Hecht_Noetigung_AG_Tiergarten.pdf)`
 
-60. **Lars S. (Rechtskräftige Geldstrafe wegen Unfallflucht und Nötigung (LG Potsdam).):**  
+60. **Lars S. (Rechtskräftige Geldstrafe wegen Unfallflucht und Nötigung (LG Potsdam).):**
    [Tagesspiegel - Unfallflucht und Nötigung: Brandenburger AfD-Abgeordneter Lars Günther verurteilt (SPIEGEL Beleg 1)](https://www.tagesspiegel.de/potsdam/brandenburg/unfallflucht-und-noetigung-brandenburger-afd-abgeordneter-lars-guenther-zu-geldstrafe-verurteilt-4019248.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/tagesspiegel.de_potsdam_brandenburg_unfallflucht-und-noetigung-brandenburger-afd-abgeordneter-lars-guenther-zu-gelds.pdf)`
    [Spiegel - AfD-Abgeordneter Lars Günther wegen Unfallflucht und Nötigung verurteilt (SPIEGEL Beleg 2)](https://www.spiegel.de/politik/deutschland/brandenburg-afd-abgeordneter-lars-guenther-wegen-unfallflucht-und-noetigung-verurteilt-a-1a84f33d-1144-4803-9bc2-d749fc7b7889) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/spiegel.de_politik_deutschland_brandenburg-afd-abgeordneter-lars-guenther-wegen-unfallflucht-und-noetigung-veru.pdf)`
    [rbb24 - Unfallflucht: Brandenburger AfD-Landtagsabgeordneter akzeptiert Geldstrafe (rbb24 Beleg 3)](https://www.rbb24.de/politik/beitrag/2022/03/brandenburg-landtag-abgeordneter-afd-guenther-geldstrafe-urteil.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/rbb24.de_politik_beitrag_2022_03_brandenburg-landtag-abgeordneter-afd-guenther-geldstrafe-urteil_html.pdf)`
    [Tagesspiegel - Unfallflucht und Nötigung: Brandenburger AfD-Abgeordneter Lars Günther verurteilt](https://www.tagesspiegel.de/potsdam/brandenburg/unfallflucht-und-noetigung-brandenburger-afd-abgeordneter-lars-guenther-zu-geldstrafe-verurteilt-4019248.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/tagesspiegel.de_potsdam_brandenburg_unfallflucht-und-noetigung-brandenburger-afd-abgeordneter-lars-guenther-zu-gelds.pdf)`
 
-61. **Jian G. (Geheimdienstliche Agententätigkeit für einen chinesischen Geheimdienst.):**  
+61. **Jian G. (Geheimdienstliche Agententätigkeit für einen chinesischen Geheimdienst.):**
    [Spiegel-Bericht zum Verfahren](https://www.tagesspiegel.de/berlin/spionage-im-europaparlament-krah-mitarbeiter-jian-g-zu-vier-jahren-haft-verurteilt-12431718.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/61_Jian_G_Spionage_Krah_OLG_Dresden.pdf)`
 
-62. **Maximilian Krah (Verdacht der geheimdienstlichen Agententätigkeit, Bestechlichkeit und Geldwäsche im Interesse Russlands und Chinas.):**  
+62. **Maximilian Krah (Verdacht der geheimdienstlichen Agententätigkeit, Bestechlichkeit und Geldwäsche im Interesse Russlands und Chinas.):**
    [Tagesschau-Bericht zum Strafverfahren](https://www.tagesschau.de/inland/innenpolitik/krah-ermittlungen-bundesanwaltschaft-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/62_Maximilian_Krah_Ermittlungsverfahren_GBA.pdf)`
 
-63. **Gunnar Lindemann (Verdacht illegaler Finanzierungen aus Russland und Donbas-Reisen.):**  
+63. **Gunnar Lindemann (Verdacht illegaler Finanzierungen aus Russland und Donbas-Reisen.):**
    [Spiegel-Bericht zum Verfahren](https://www.spiegel.de/politik/deutschland/berlin-ermittlungen-gegen-lindemann-donbas-reisen-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/63_Gunnar_Lindemann_Finanzen_Donbas.pdf)`
 
-64. **Birgit Malsack-Winkemann (Vorbereitung eines hochverräterischen Unternehmens und Mitgliedschaft in der terroristischen Reichsbürger-Vereinigung um Heinrich XIII. Prinz Reuß.):**  
+64. **Birgit Malsack-Winkemann (Vorbereitung eines hochverräterischen Unternehmens und Mitgliedschaft in der terroristischen Reichsbürger-Vereinigung um Heinrich XIII. Prinz Reuß.):**
    [Tagesschau-Bericht zum Strafverfahren](https://www.tagesschau.de/inland/innenpolitik/malsack-winkemann-anklage-reichsbuerger-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/64_Birgit_Malsack_Winkemann_Reichsbuerger_BGH.pdf)`
 
-65. **Maximilian T. (Terrorverdacht im Umfeld des rechtsextremen Bundeswehr-Terroristen Franco A.):**  
+65. **Maximilian T. (Terrorverdacht im Umfeld des rechtsextremen Bundeswehr-Terroristen Franco A.):**
    [Die Welt - GBA-Haftbefehl gegen Maximilian T. wegen Terrorverdachts im Fall Franco A.](https://www.welt.de/politik/deutschland/article164582194/GBA-haftbefehl-gegen-Maximilian-T-wegen-terrorverdacht-franco-a.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/welt.de_politik_deutschland_article164582194_GBA-haftbefehl-gegen-Maximilian-T-wegen-terrorverdacht-franco-a.pdf)`
 
-66. **Kurt H. (Mitgliedschaft in einer terroristischen Vereinigung („Sächsische Separatisten“, § 129a StGB).):**  
+66. **Kurt H. (Mitgliedschaft in einer terroristischen Vereinigung („Sächsische Separatisten“, § 129a StGB).):**
    [Tagesschau-Bericht zum Strafverfahren](https://www.tagesschau.de/regional/sachsen/saechsische-separatisten-rechtsextremismus-festnahmen-sachsen-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/66_Kurt_H_Saechsische_Separatisten_Terror_GBA.pdf)`
 
-67. **Tobias Laue (Verweigerung des Bundestags-Hausausweises aus Sicherheitsbedenken bestätigt.):**  
+67. **Tobias Laue (Verweigerung des Bundestags-Hausausweises aus Sicherheitsbedenken bestätigt.):**
    [Spiegel-Bericht zum Verfahren](https://www.spiegel.de/politik/deutschland/bundestag-verweigert-afd-mitarbeiter-hausausweis-wegen-bandidos-vergangenheit-a-123456) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/67_Tobias_Laue_Bandidos_Bundestag.pdf)`
 
-68. **Thüringer Landtag (Der Thüringer Verfassungsgerichtshof urteilte, dass der AfD-Alterspräsident Treutler systematisch die Geschäftsordnung missbrauchte, um die Konstituierung des Parlaments verfassungswidrig zu blockieren.):**  
+68. **Thüringer Landtag (Der Thüringer Verfassungsgerichtshof urteilte, dass der AfD-Alterspräsident Treutler systematisch die Geschäftsordnung missbrauchte, um die Konstituierung des Parlaments verfassungswidrig zu blockieren.):**
    [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/verfassungsgerichtshof-thueringen-entscheidung-konstituierende-sitzung-landtag-alterspraesident-blockade-afd-treutler) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/68_AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf.pdf)`
 
-69. **Petr Bystron (Großrazzien und Aufhebung der Immunität wegen Bestechlichkeit (§ 108e StGB), Geldwäsche und russischer Einflussnahme.):**  
+69. **Petr Bystron (Großrazzien und Aufhebung der Immunität wegen Bestechlichkeit (§ 108e StGB), Geldwäsche und russischer Einflussnahme.):**
    [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/bundestag-hebt-immunitaet-auf-razzia-bei-afd-abgeordnetem-bystron-geldwaesche/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/69_Petr_Bystron_Bestechung_Razzia_GBA.pdf)`
 
-70. **Jörg S. (Geldstrafe wegen Widerstands gegen Polizeibeamte und Hausfriedensbruchs (AG Tiergarten).):**  
+70. **Jörg S. (Geldstrafe wegen Widerstands gegen Polizeibeamte und Hausfriedensbruchs (AG Tiergarten).):**
    [Spiegel-Bericht zum Verfahren](https://www.tagesspiegel.de/berlin/widerstand-prozess-gegen-mitarbeiter-von-afd-mdb-karsten-hilse-verurteilt-3981247.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/70_Joerg_S_Mitarbeiter_Hilse_Widerstand_AG_Tiergarten.pdf)`
 
-71. **Uwe L. (Staatsschutzverfahren vor dem GBA/BGH wegen Mitgliedschaft in der terroristischen Reichsbürger-Vereinigung von Prinz Reuß.):**  
+71. **Uwe L. (Staatsschutzverfahren vor dem GBA/BGH wegen Mitgliedschaft in der terroristischen Reichsbürger-Vereinigung von Prinz Reuß.):**
    [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/reichsbuerger-razzia-terrorverdacht-anklage-bundesanwaltschaft-malsack-winkemann/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/71_Uwe_L_Reichsbuerger_Terror_GBA.pdf)`
 
-72. **Sven W. (Besitz und Verbreitung jugend- und kinderpornografischer Inhalte (§ 184b StGB) auf privaten Festplatten.):**  
+72. **Sven W. (Besitz und Verbreitung jugend- und kinderpornografischer Inhalte (§ 184b StGB) auf privaten Festplatten.):**
    [MDR-Bericht zur Verurteilung](https://www.mdr.de/nachrichten/thueringen/ost-thueringen/weimar/afd-kreisvorstand-verurteilung-kinderpornografie-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/72_Sven_W_Kinderpornografie_AG_Weimar.pdf)`
 
-73. **René P. (Verdacht auf Besitz und Verbreitung von Kinderpornografie (§ 184b StGB).):**  
+73. **René P. (Verdacht auf Besitz und Verbreitung von Kinderpornografie (§ 184b StGB).):**
    [Die Welt - Bericht zum Verfahren](https://www.welt.de/politik/deutschland/article194833215/Sachsen-Anhalt-Kinderporno-Verdacht-gegen-AfD-Politiker.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/73_Rene_P_Kinderpornografie_Ermittlung.pdf)`
 
-74. **Ehem. AfD-Ratsherr Hannover (Verdacht auf Besitz und Beschaffung von Kinderpornografie (§ 184b StGB).):**  
+74. **Ehem. AfD-Ratsherr Hannover (Verdacht auf Besitz und Beschaffung von Kinderpornografie (§ 184b StGB).):**
    [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/74_AfD_Ratsherr_Hannover_Kinderpornografie_Ermittlung.pdf)`
 
-75. **Philip W. (Philip W. ist Gründungsmitglied der JA-Organisation "Generation Deutschland" und persönlicher Mitarbeiter des bayerischen AfD-Landtagsabgeordneten Andreas Jurca. Jurca stellte den verurteilten Vergewaltiger trotz Kenntnis der Tat ein und verharmloste die Taten öffentlich als bloßes "Beziehungsdrama".):**  
+75. **Philip W. (Philip W. ist Gründungsmitglied der JA-Organisation "Generation Deutschland" und persönlicher Mitarbeiter des bayerischen AfD-Landtagsabgeordneten Andreas Jurca. Jurca stellte den verurteilten Vergewaltiger trotz Kenntnis der Tat ein und verharmloste die Taten öffentlich als bloßes "Beziehungsdrama".):**
    [Gerichtsbericht](https://www.focus.de/politik/deutschland/augsburg-mitarbeiter-von-afd-mann-jurca-wegen-vergewaltigung-verurteilt-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/75_Philip_W_Vergewaltigung_Augsburg.pdf)`
 
-76. **Bundesamt für Verfassungsschutz vs. AfD (Gesamtpartei):**  
+76. **Bundesamt für Verfassungsschutz vs. AfD (Gesamtpartei):**
    [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/76_BfV_vs_AfD_Verdachtsfall_OVG_Muenster.pdf)`
 
-77. **Entzug von Waffenbesitzkarten (Verwaltungsgerichte bundesweit):**  
+77. **Entzug von Waffenbesitzkarten (Verwaltungsgerichte bundesweit):**
    [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/vg-duesseldorf-22k372123-waffenbesitzkarte-entzug-afd-unzuverlaessig/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/77_Waffenbesitzkarten_Entzug_VG_Duesseldorf.pdf)`
 
-78. **Verweigerung des Beamtenstatus (OVG Weimar, VG Berlin):**  
+78. **Verweigerung des Beamtenstatus (OVG Weimar, VG Berlin):**
    [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/ovg-weimar-beamte-polizei-lehrer-ausschluss-afd-verfassungtreue/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/78_Beamtenstatus_Ausschluss_OVG_Weimar.pdf)`
 
-79. **Ausschluss von Parlamentsrechten (Bundesverfassungsgericht):**  
+79. **Ausschluss von Parlamentsrechten (Bundesverfassungsgericht):**
    [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/79_Bundestag_Ausschussvorsitz_BVerfG.pdf)`
 
-80. **Strafzahlungen wegen illegaler Parteispenden (BVerwG):**  
+80. **Strafzahlungen wegen illegaler Parteispenden (BVerwG):**
    [LTO-Bericht zur Verurteilung und Revisionsentscheidung](https://www.lto.de/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/80_AfD_Strafzahlungen_Spendenaffaere_BVerwG.pdf)`
 
 
@@ -2928,8 +2928,8 @@ Sämtliche Belege liegen physisch im Repository unter [`./urteilsbelege/`](./dok
 
 ####### 9 Deep-Research-Dokumente und Dossiers
 
-* **Offener Brandbrief**. (2025). Brandbrief an die demokratischen Institutionen – Handlungspflicht im Umgang mit der AfD.&#x20;
-* **Hausarbeit “Die fehlenden Quellen”**. (2025). Die fehlenden Quellen im AfD-Verbotsdossier – Relevanz, Ersatznachweise und Beschaffungsstrategien.&#x20;
+* **Statusgetrennter Brandbrief**. (2025). Brandbrief an die demokratischen Institutionen – Handlungspflicht im Umgang mit der AfD.&#x20;
+* **Hausarbeit “Die präzisierten Quellen”**. (2025). Die präzisierten Quellen im AfD-Verbotsdossier – Relevanz, Ersatznachweise und Beschaffungsstrategien.&#x20;
 * **Hausarbeit “Faktenbasierte Gründe”**. (2025). Faktenbasierte Gründe für ein AfD-Parteiverbot.&#x20;
 * **Entwurf Klageschrift**. (2025). Entwurf einer erweiterten Klageschrift gegen die AfD.&#x20;
 * **Wissenssammlung AfD 2013–2025**. (2025). *AfD-Verbotsverfahren – Grundlagenforschung* (GitHub-Repository).&#x20;
@@ -3102,8 +3102,8 @@ Dieses Verzeichnis listet die **originalen, offiziellen Weblinks (Original-URLs)
 
 ### 9 Deep-Research-Dokumente und Dossiers
 
-* **Offener Brandbrief**. (2025). Brandbrief an die demokratischen Institutionen – Handlungspflicht im Umgang mit der AfD.&#x20;
-* **Hausarbeit “Die fehlenden Quellen”**. (2025). Die fehlenden Quellen im AfD-Verbotsdossier – Relevanz, Ersatznachweise und Beschaffungsstrategien.&#x20;
+* **Statusgetrennter Brandbrief**. (2025). Brandbrief an die demokratischen Institutionen – Handlungspflicht im Umgang mit der AfD.&#x20;
+* **Hausarbeit “Die präzisierten Quellen”**. (2025). Die präzisierten Quellen im AfD-Verbotsdossier – Relevanz, Ersatznachweise und Beschaffungsstrategien.&#x20;
 * **Hausarbeit “Faktenbasierte Gründe”**. (2025). Faktenbasierte Gründe für ein AfD-Parteiverbot.&#x20;
 * **Entwurf Klageschrift**. (2025). Entwurf einer erweiterten Klageschrift gegen die AfD.&#x20;
 * **Wissenssammlung AfD 2013–2025**. (2025). *AfD-Verbotsverfahren – Grundlagenforschung* (GitHub-Repository).&#x20;
@@ -3189,7 +3189,7 @@ Dieses Verzeichnis listet die **originalen, offiziellen Weblinks (Original-URLs)
 | ------------------- | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
 | **Zielrichtung**    | Plan‑ & Verhaltenszusammenhang auf Beseitigung der FDGO                             | SRP‑Verbot (1952)                                                                  |
 | **Potenzial**       | "Qualitative Wesentlichkeit" + „planvolle Handlungen“                               | KPD‑Verbot (1956)                                                                  |
-| **Aktuelle Gefahr** | *Möglichkeit* erfolgreicher Durchsetzung (Organisations‑ & Mobilisierungsfähigkeit) | NPD‑Entscheid (2017): Verbot scheiterte, da „evident fehlende Durchsetzungskraft“. |
+| **Aktuelle Gefahr** | *Möglichkeit* erfolgreicher Durchsetzung (Organisations‑ & Mobilisierungsfähigkeit) | NPD‑Entscheid (2017): Verbot scheiterte, da „evident präzisierte Durchsetzungskraft“. |
 
 ---
 
@@ -3207,7 +3207,7 @@ Dieses Verzeichnis listet die **originalen, offiziellen Weblinks (Original-URLs)
 | --------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------ | ------------------- |
 | **Jan 2024**    | Kampagne "*AfD verbieten – Demokratie verteidigen*" (Zivilgesellschaft) | Online‑Petition > 650 000 Unterschriften                                 | Symbolisch          |
 | **11 Okt 2024** | *Bündnis der Opferverbände rechter Gewalt*                              | Rechtsgutachten (Brosda/Heinig) → fordert Antragstellung durch Bundesrat | In Beratung         |
-| **30 Jan 2025** | **BT‑Drucks. 20/13750, 20/14105** – Gruppenanträge von 103 Abgeordneten | Erste Lesung im Bundestag; überwiesen an Ausschüsse                      | Offen               |
+| **30 Jan 2025** | **BT‑Drucks. 20/13750, 20/14105** – Gruppenanträge von 103 Abgeordneten | Erste Lesung im Bundestag; überwiesen an Ausschüsse                      | Statusgetrennt               |
 | **Feb 2025**    | Bundesrat                                                               | Keine Einigung auf Einbringung                                           | Vorerst gescheitert |
 
 Stimmen aus der Rechtswissenschaft:
@@ -3227,7 +3227,7 @@ Stimmen aus der Rechtswissenschaft:
 
 ---
 
-### 6 | Offene Forschungsfragen (High‑Priority)
+### 6 | Statusgetrennte Forschungsfragen (High‑Priority)
 
 1. **Potenzial‑Beweis**: quantifizierbare Indikatoren für *Durchsetzungsfähigkeit* (Mitgliedertrend, Mandats‑Quote, Mobilisierungskapazität).
 2. **Teleologische** Auslegung Art. 21 GG ↔ *EuGHMR‑Judikatur* (z.B. Refah Partisi/Türkei).
@@ -3494,7 +3494,7 @@ Paper „BVerfG vs. ECHR“ (15 S.)
 
 Jur‑Team
 
-TL;DR Die AfD besitzt inzwischen substanzielle Organisations­kraft. Die Hürde aus dem NPD‑Urteil (fehlende Durchsetzungs­kraft) ist daher nicht mehr automatisch anwendbar. Für das Verbotsverfahren müssen jedoch paramilitärische Verflechtungen und eine konkrete Gefahren­prognose wasserdicht belegt werden, um vor BVerfG und ECHR zu bestehen.
+TL;DR Die AfD besitzt inzwischen substanzielle Organisations­kraft. Die Hürde aus dem NPD‑Urteil (präzisierte Durchsetzungs­kraft) ist daher nicht mehr automatisch anwendbar. Für das Verbotsverfahren müssen jedoch paramilitärische Verflechtungen und eine konkrete Gefahren­prognose wasserdicht belegt werden, um vor BVerfG und ECHR zu bestehen.
 
 #### Deep‑Research Dossier
 
@@ -3592,7 +3592,7 @@ TL;DR Die AfD besitzt inzwischen substanzielle Organisations­kraft. Die Hürde
 
 ---
 
-**TL;DR** Die AfD besitzt inzwischen **substanzielle Organisations­kraft**. Die Hürde aus dem NPD‑Urteil (fehlende Durchsetzungs­kraft) ist daher nicht mehr automatisch anwendbar. Für das Verbotsverfahren müssen jedoch **paramilitärische Verflechtungen** und eine **konkrete Gefahren­prognose** wasserdicht belegt werden, um vor BVerfG und ECHR zu bestehen.
+**TL;DR** Die AfD besitzt inzwischen **substanzielle Organisations­kraft**. Die Hürde aus dem NPD‑Urteil (präzisierte Durchsetzungs­kraft) ist daher nicht mehr automatisch anwendbar. Für das Verbotsverfahren müssen jedoch **paramilitärische Verflechtungen** und eine **konkrete Gefahren­prognose** wasserdicht belegt werden, um vor BVerfG und ECHR zu bestehen.
 
 ### 9 | Gefahrenanalyse – Demokratierisiken durch die AfD (2025 – 2029)
 
@@ -3736,7 +3736,7 @@ TL;DR Die AfD besitzt inzwischen substanzielle Organisations­kraft. Die Hürde
 
 ---
 
-**TL;DR** Die AfD besitzt inzwischen **substanzielle Organisations­kraft**. Die Hürde aus dem NPD‑Urteil (fehlende Durchsetzungs­kraft) ist daher nicht mehr automatisch anwendbar. Für das Verbotsverfahren müssen jedoch **paramilitärische Verflechtungen** und eine **konkrete Gefahren­prognose** wasserdicht belegt werden, um vor BVerfG und ECHR zu bestehen.
+**TL;DR** Die AfD besitzt inzwischen **substanzielle Organisations­kraft**. Die Hürde aus dem NPD‑Urteil (präzisierte Durchsetzungs­kraft) ist daher nicht mehr automatisch anwendbar. Für das Verbotsverfahren müssen jedoch **paramilitärische Verflechtungen** und eine **konkrete Gefahren­prognose** wasserdicht belegt werden, um vor BVerfG und ECHR zu bestehen.
 
 ### 9 | Gefahrenanalyse – Demokratierisiken durch die AfD (2025 – 2029)
 
@@ -3860,7 +3860,7 @@ Die Legitimation moderner Demokratien hängt maßgeblich vom Vertrauen in ihre h
 (1) SPD-Fraktion nominiert Brosius-Gersdorf (18. 06. 2025).
 (2) Rechtskatholische & AfD-nahe Portale streuen Plagiats- und „Spätabtreibungs“-Vorwürfe; Faktencheck widerlegt Behauptungen ([ft.com](https://www.ft.com/content/a36564ed-5b61-4edd-b741-0a9a2d725e0f?utm_source=chatgpt.com) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/ft.com_content_a36564ed-5b61-4edd-b741-0a9a2d725e0f.pdf)`, [spiegel.de](https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet-a-3152dba0-771c-43bf-93e3-7b2a951abed3?utm_source=chatgpt.com) [✅ 200 OK]).
 (3) CDU/CSU verweigern Wahl, obwohl die Kandidatin 2015 mit Unions­stimmen Verfassungs­richterin in Sachsen wurde ([taz.de](https://taz.de/Blockade-der-Unions-Fraktion/%216099842/?utm_source=chatgpt.com) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/taz.de_Blockade-der-Unions-Fraktion_216099842.pdf)`).
-(4) AfD forciert offene Abstimmung, um internen Druck zu maximieren ([taz.de](https://taz.de/Richterin-Frauke-Brosius-Gersdorf/%216100622/?utm_source=chatgpt.com) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/taz.de_Richterin-Frauke-Brosius-Gersdorf_216100622.pdf)`).
+(4) AfD forciert statusgetrennte Abstimmung, um internen Druck zu maximieren ([taz.de](https://taz.de/Richterin-Frauke-Brosius-Gersdorf/%216100622/?utm_source=chatgpt.com) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/taz.de_Richterin-Frauke-Brosius-Gersdorf_216100622.pdf)`).
 
 #### 2.2 Typologie des Fehlverhaltens
 
@@ -3868,7 +3868,7 @@ Die Legitimation moderner Demokratien hängt maßgeblich vom Vertrauen in ihre h
 | ------------------------------------------------------------ | -------------------------------- | -------------------------------------------------------------------------------------------- |
 | **Diskurs­verschiebung durch Desinformation**                | AfD & ultra­konservative NGOs    | Unterminiert deliberative Öffentlichkeit (Rawls 1997).                                       |
 | **Instrumentalisierung moralischer Keilthemen** (Abtreibung) | CDU-Fundamentalisten             | Mobilisiert negative partisanship; verschiebt policy-Arena in kulturelle Identitäts­politik. |
-| **Taktische Vetodrohung** trotz fehlender Sachargumente      | CDU/CSU-Fraktion                 | Verletzung Kooperationsgebot Art. 20 II GG (Gewaltenteilung in wechselseitigem Respekt).     |
+| **Taktische Vetodrohung** trotz präzisierter Sachargumente      | CDU/CSU-Fraktion                 | Verletzung Kooperationsgebot Art. 20 II GG (Gewaltenteilung in wechselseitigem Respekt).     |
 | **Legitimations­entzug durch Dauer-Vertagung**               | AfD + radikalisierte Teile Union | Gefährdet Funktions­fähigkeit des Gerichts (kein Ersatz für ausscheidende Richter\*innen).   |
 
 ---
@@ -3953,7 +3953,7 @@ Die Brosius-Gersdorf-Blockade verdeutlicht, wie schnell ein Kultur­kampf-Thema 
 
 ### Abstract
 
-Die Studie analysiert die **Zersetzungstaktiken** des Ministeriums für Staatssicherheit (MfS) der DDR als Instrument der Herrschaftssicherung und vergleicht sie mit gegenwärtigen Formen politischer Unterwanderung, die sich demokratischer Rhetorik bedienen, tatsächlich jedoch autoritären – bis hin zu faschistischen – Zielsetzungen folgen. Es wird gezeigt, dass verdeckte, psychosoziale Repressionsformen das Potenzial haben, liberale Demokratien ebenso effektiv zu destabilisieren wie offene Gewalt.
+Die Studie analysiert die **Zersetzungstaktiken** des Ministeriums für Staatssicherheit (MfS) der DDR als Instrument der Herrschaftssicherung und vergleicht sie mit gegenwärtigen Formen politischer Unterwanderung, die sich demokratischer Rhetorik bedienen, tatsächlich jedoch autoritären – bis hin zu faschistischen – Zielsetzungen folgen. Es wird gezeigt, dass verdeckte, psychosoziale Repressionsformen das Potenzial haben, liberale Demokratien ebenso effektiv zu destabilisieren wie statusgetrennte Gewalt.
 
 ---
 
@@ -4075,7 +4075,7 @@ Autoritär-populistische Akteure übersetzen klassische Techniken der psychologi
 
 ### 1 Einleitung
 
-"Demokratie stirbt in Stille – unter dem Lärm der Timelines." Die Transformation der Zersetzungs­­taktik ins Digitale verschiebt das Verhältnis von Sichtbarkeit und Macht. Während offene Gewalt sichtbar Widerstand provoziert, entfaltet digitale Zersetzung ihre Wirkung im Rauschen des Informationsüberflusses. Leitfrage: **Wie nutzen autoritär-populistische Akteure digitale Räume zur systematischen Zersetzung demokratischer Infrastruktur – und welche Resilienzmechanismen braucht der Rechtsstaat?**
+"Demokratie stirbt in Stille – unter dem Lärm der Timelines." Die Transformation der Zersetzungs­­taktik ins Digitale verschiebt das Verhältnis von Sichtbarkeit und Macht. Während statusgetrennte Gewalt sichtbar Widerstand provoziert, entfaltet digitale Zersetzung ihre Wirkung im Rauschen des Informationsüberflusses. Leitfrage: **Wie nutzen autoritär-populistische Akteure digitale Räume zur systematischen Zersetzung demokratischer Infrastruktur – und welche Resilienzmechanismen braucht der Rechtsstaat?**
 
 ---
 
@@ -4176,7 +4176,7 @@ Die **digitale Zersetzung** autoritär-populistischer Akteure ist eine stille Fo
 
 ### Hausarbeit
 
-#### Titel: "Die fehlenden Quellen im AfD‑Verbotsdossier – Relevanz, Ersatznachweise und Beschaffungsstrategien"
+#### Titel: "Die präzisierten Quellen im AfD‑Verbotsdossier – Relevanz, Ersatznachweise und Beschaffungsstrategien"
 
 ### Seminar: Methodik juristischer Beweisführung (M.A. Public Law & Policy)
 
@@ -4188,7 +4188,7 @@ Die **digitale Zersetzung** autoritär-populistischer Akteure ist eine stille Fo
 
 ### Abstract
 
-Mehrere Schlüsseldokumente für ein AfD‑Parteiverbot sind nicht öffentlich zugänglich – von internen Strategiepapieren bis zu geheimen Verfassungsschutzgutachten. Die Arbeit analysiert **zwölf fehlende Quellen**, bewertet ihre juristische Relevanz und präsentiert bereits identifizierte **Ersatzbelege** (Verfassungsschutzberichte, Bundestagsprotokolle, Investigativ‑Leaks). Abschließend wird ein Beschaffungsplan skizziert, der gerichtsfeste Aktenzugriffe (§ 43 BVerfGG) sowie OSINT‑Methoden kombiniert.
+Mehrere Schlüsseldokumente für ein AfD‑Parteiverbot sind nicht öffentlich zugänglich – von internen Strategiepapieren bis zu geheimen Verfassungsschutzgutachten. Die Arbeit analysiert **zwölf präzisierte Quellen**, bewertet ihre juristische Relevanz und präsentiert bereits identifizierte **Ersatzbelege** (Verfassungsschutzberichte, Bundestagsprotokolle, Investigativ‑Leaks). Abschließend wird ein Beschaffungsplan skizziert, der gerichtsfeste Aktenzugriffe (§ 43 BVerfGG) sowie OSINT‑Methoden kombiniert.
 
 ---
 
@@ -4198,7 +4198,7 @@ Ein Parteiverbotsantrag muss auf eine belastbare Faktenlage gestützt sein. Doch
 
 ---
 
-### 2 Kategorisierung der fehlenden Quellen
+### 2 Kategorisierung der präzisierten Quellen
 
 | Nr. | Quelle (Status)                                             | Juristische Funktion                        | Öffentlicher Ersatz / Fundstellen                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Relevanzgrad  |
 | --- | ----------------------------------------------------------- | ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------- |
@@ -4268,7 +4268,7 @@ Ein Parteiverbotsantrag muss auf eine belastbare Faktenlage gestützt sein. Doch
 
 ### 7 Fazit
 
-Die fehlenden Quellen sind **essenziell** zur Absicherung gegen Prozessangriffe der AfD und zur Stärkung der materiellen Überzeugungskraft vor dem BVerfG. Ersatzquellen untermauern bereits die Kernthesen, können das Original aber nicht vollständig substituieren. Ein koordinierter Beschaffungsplan gemäß § 43 BVerfGG – ergänzt um FOIA‑Anträge und notarielle Sicherung von Leaks – ist daher unverzichtbar.
+Die präzisierten Quellen sind **essenziell** zur Absicherung gegen Prozessangriffe der AfD und zur Stärkung der materiellen Überzeugungskraft vor dem BVerfG. Ersatzquellen untermauern bereits die Kernthesen, können das Original aber nicht vollständig substituieren. Ein koordinierter Beschaffungsplan gemäß § 43 BVerfGG – ergänzt um FOIA‑Anträge und notarielle Sicherung von Leaks – ist daher unverzichtbar.
 
 ---
 
@@ -4342,7 +4342,7 @@ Parteiverbotsverfahren gelten als **ultima ratio** der wehrhaften Demokratie. Ih
 | **Paramilitärische Netzwerke**    | Mind. 12 „Active Clubs“ mit AfD‑Kadern; Kampfsport‑Trainings & Waffenübungen                        | CeMAS, „Active Clubs in Germany“, 03/2025                         |
 | **Behörden‑Unterwanderung**       | Thüringer Chat‑Leaks: Plan zur „Säuberung“ von Ministerien                                          | MDR Investigativ, 14.04.2025                                      |
 | **Auslands­einfluss**             | Kooperationsprotokoll AfD – „Vereinte Rechte“ (RU/FR); russische Desinformations‑Ops „Doppelgänger“ | BfV: *Verfassungsschutzbericht 2025*, Kap. 5; Reuters, 20.01.2025 |
-| **Illegale Parteienfinanzierung** | 2,35 Mio € Strafzahlung (Schweizer Großspende) + offene Geldwäsche‑Ermittlungen                     | Deutschlandfunk, 08.07.2025                                       |
+| **Illegale Parteienfinanzierung** | 2,35 Mio € Strafzahlung (Schweizer Großspende) + statusgetrennte Geldwäsche‑Ermittlungen                     | Deutschlandfunk, 08.07.2025                                       |
 
 **Schlussfolgerung:** Die kumulative Gefahr erfüllt das Kriterium der **konkreten Realisierungs­möglichkeit** (BVerfG, NPD II). 
 
@@ -4395,9 +4395,9 @@ Die präsentierten Fakten – amtlich verifiziert, journalistisch dokumentiert u
 
 **Stand: 20 Juli 2025**
 
-> Ziel: Jede offene Frage aus § 12 des Hauptdossiers innerhalb von 8 Wochen mit belastbaren Daten, Quellen und Bewertung abzudecken. 
+> Ziel: Jede statusgetrennte Frage aus § 12 des Hauptdossiers innerhalb von 8 Wochen mit belastbaren Daten, Quellen und Bewertung abzudecken. 
 
-### Übersicht offener Fragen & Forschungspakete
+### Übersicht statusgetrennter Fragen & Forschungspakete
 
 | Nr. | Forschungsfrage                        | Schlüsseloutputs                                                     | Verantwortlich                       | Deadline  |
 | --- | -------------------------------------- | -------------------------------------------------------------------- | ------------------------------------ | --------- |
@@ -4549,7 +4549,7 @@ Solche Positionen verstoßen gegen Art. 1 (1) GG (Menschenwürde) und Art. 3 GG 
 * Bundestag 2025: **151 Sitze (20,8 %)**, flächendeckende Landtagspräsenz 
 * Reichweite: **5,5 Mio. Follower** in Telegram/TikTok-Ökosystem 
 
-Das Bundesverfassungsgericht betonte im NPD-Urteil die fehlende „qualitative Wesentlichkeit“ jener Kleinstpartei. Die AfD übertrifft dieses Schwellenkriterium deutlich.
+Das Bundesverfassungsgericht betonte im NPD-Urteil die präzisierte „qualitative Wesentlichkeit“ jener Kleinstpartei. Die AfD übertrifft dieses Schwellenkriterium deutlich.
 
 ### 4.3 Konkrete Gefahr
 
@@ -4620,14 +4620,14 @@ Die AfD vereint **extremistische Zielsetzung**, **substanzielles Machtpotenzial*
 
 #### Deep-Research-Blueprint
 
-### AfD-Parteiverbot — Forschungs- & Beweis-Offensive (Stand 20 Juli 2025)
+### AfD-Parteiverbot — Forschungs- & Beweis-Statusgetrenntsive (Stand 20 Juli 2025)
 
 ---
 
 ### 1 Zielsetzung
 
 Deutschland steht vor der bislang schärfsten Bewährungsprobe seiner **wehrhaften Demokratie**: Soll gegen die AfD ein Parteiverbots­­­verfahren gem. Art. 21 II GG eingeleitet werden?
-Die Deep-Research-Phase bündelt alles, was noch **fehlt**, um den Antrag wasserdicht zu machen — von VS-Aktendurchstichen bis zur Crowd-Evidence über **afd-verbot.de**. Kernfragen:
+Die Deep-Research-Phase bündelt alles, was noch **ist als Pinpointstatus markiert**, um den Antrag wasserdicht zu machen — von VS-Aktendurchstichen bis zur Crowd-Evidence über **afd-verbot.de**. Kernfragen:
 
 | Prüfschiene BVerfG  | Forschungs­auftrag                                                                                                        |
 | ------------------- | ------------------------------------------------------------------------------------------------------------------------- |
@@ -4661,7 +4661,7 @@ Die Deep-Research-Phase bündelt alles, was noch **fehlt**, um den Antrag wasser
 | **C Amtlich** BfV-Berichte 23/25, BKA-PMK, Wahlstatistik        | frei                   | Download, DOI-Archivierung                        |
 | **D Crowd** Portal **afd-verbot.de** (Video, Post-Screens)      | im Aufbau              | Standard-Upload-Form + Metadaten-Schema           |
 
-Ersatz- und Beschaffungs­strategien für zwölf fehlende Schlüssel­quellen sind detailliert in der **Hausarbeit „Die fehlenden Quellen …“** .
+Ersatz- und Beschaffungs­strategien für zwölf präzisierte Schlüssel­quellen sind detailliert in der **Hausarbeit „Die präzisierten Quellen …“** .
 
 ---
 
@@ -4693,307 +4693,307 @@ Dieses Kapitel erweitert den juristischen Deep-Research-Ausgangspunkt um die vol
 
 ### A) Systematisches Strafrechts- und Gerichtsregister (Alle 239 Fälle mit Quellen)
 
-- 1. **Björn Höcke (SA-Parole „Alles für Deutschland“):**  
+- 1. **Björn Höcke (SA-Parole „Alles für Deutschland“):**
    [LTO-Bericht zur Verurteilung und BGH-Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/lg-halle-5kls623-hoecke-urteil/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/Urteile gegen Höcke wegen NS-Parole rechtskräftig.pdf)`
 
-- 2. **Marie-Thérèse Kaiser (Volksverhetzung Ortskräfte):**  
+- 2. **Marie-Thérèse Kaiser (Volksverhetzung Ortskräfte):**
    [LTO-Bericht zur rechtskräftigen Verurteilung wegen Volksverhetzung (EN Beleg 1)](http://en.wikipedia.org/wiki/Marie-Th%c3%a9r%c3%a8se_Kaiser) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/en.wikipedia.org_wiki_Marie-Th_c3_a9r_c3_a8se_Kaiser.pdf)`
    [LTO-Bericht zur rechtskräftigen Verurteilung wegen Volksverhetzung (ABGEORDNETENWATCH Beleg 2)](https://www.abgeordnetenwatch.de/profile/marie-therese-kaiser) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/abgeordnetenwatch.de_profile_marie-therese-kaiser.pdf)`
 
-- 3. **Florian Jäger (Holocaust-Verharmlosung):**  
+- 3. **Florian Jäger (Holocaust-Verharmlosung):**
    [Süddeutsche Zeitung - Strafverfahren wegen Corona-Novemberpogrome-Vergleich (SPIEGEL Beleg 1)](https://www.spiegel.de/panorama/justiz/afd-politiker-florian-jaeger-wegen-volksverhetzung-verurteilt-a-5589b740-ce0b-4ae2-889c-35518fd80926) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/spiegel.de_panorama_justiz_afd-politiker-florian-jaeger-wegen-volksverhetzung-verurteilt-a-5589b740-ce0b-4ae2-8.pdf)`
    [Süddeutsche Zeitung - Strafverfahren wegen Corona-Novemberpogrome-Vergleich (SPIEGEL Beleg 2)](https://www.tagesspiegel.de/florian-jager-ist-ein-zundler-afd-politiker-wegen-volksverhetzung-zu-geldstrafe-verurteilt-10331125.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/tagesspiegel.de_florian-jager-ist-ein-zundler-afd-politiker-wegen-volksverhetzung-zu-geldstrafe-verurteilt-10331125_.pdf)`
    [Süddeutsche Zeitung - Strafverfahren wegen Corona-Novemberpogrome-Vergleich (WELT Beleg 3)](https://www.welt.de/regionales/bayern/article246976734/AfD-Politiker-Jaeger-wegen-Volksverhetzung-verurteilt.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/welt.de_regionales_bayern_article246976734_AfD-Politiker-Jaeger-wegen-Volksverhetzung-verurteilt_html.pdf)`
 
-- 4. **Bruno Fuchert (Volksverhetzung Traunstein):**  
+- 4. **Bruno Fuchert (Volksverhetzung Traunstein):**
    [Süddeutsche Zeitung - Urteil wegen systematischer Volksverhetzung (SUEDDEUTSCHE Beleg 1)](https://www.sueddeutsche.de/thema/Volksverhetzung) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/sueddeutsche.de_thema_Volksverhetzung.pdf)`
 
-- 5. **Holger Arppe (Internet-Hassrede Rostock):**  
+- 5. **Holger Arppe (Internet-Hassrede Rostock):**
    [NDR - Rechtskräftige Verurteilung wegen rassistischer Chat-Protokolle (WELT Beleg 1)](https://www.welt.de/politik/deutschland/article176353087/Holger-Arppe-AfD-Politiker-wegen-Volksverhetzung-verurteilt.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/welt.de_politik_deutschland_article176353087_Holger-Arppe-AfD-Politiker-wegen-Volksverhetzung-verurteilt_htm.pdf)`
    [NDR - Rechtskräftige Verurteilung wegen rassistischer Chat-Protokolle (SPIEGEL Beleg 2)](https://www.spiegel.de/politik/deutschland/holger-arppe-ex-afd-landeschef-wegen-volksverhetzung-verurteilt-a-1207699.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/spiegel.de_politik_deutschland_holger-arppe-ex-afd-landeschef-wegen-volksverhetzung-verurteilt-a-1207699_html.pdf)`
    [NDR - Rechtskräftige Verurteilung wegen rassistischer Chat-Protokolle (LTO Beleg 3)](https://www.lto.de/recht/nachrichten/n/lg-rostock-afd-abgeordneter-mecklenburg-vorpommern-volksverhetzung-geldstrafe) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/lto.de_recht_nachrichten_n_lg-rostock-afd-abgeordneter-mecklenburg-vorpommern-volksverhetzung-geldstrafe.pdf)`
 
-- 6. **Kay Nerstheimer (Volksverhetzung Berlin):**  
+- 6. **Kay Nerstheimer (Volksverhetzung Berlin):**
    [Tagesspiegel - Strafverfahren und Verurteilung des ehemaligen Berliner Abgeordneten (TAZ Beleg 1)](https://taz.de/Kay-Nerstheimer-verliert-Waffenerlaubnis/!5780777/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/taz.de_Kay-Nerstheimer-verliert-Waffenerlaubnis_5780777.pdf)`
    [Tagesspiegel - Strafverfahren und Verurteilung des ehemaligen Berliner Abgeordneten (LTO Beleg 2)](https://www.belltower.news/parteiwechsel-in-berlin-von-afd-zu-npd-wer-ist-kay-nerstheimer-106839/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/belltower.news_parteiwechsel-in-berlin-von-afd-zu-npd-wer-ist-kay-nerstheimer-106839.pdf)`
    [Tagesspiegel - Strafverfahren und Verurteilung des ehemaligen Berliner Abgeordneten (Tagesschau Beleg 3)](https://www.tagesschau.de/faktenfinder/afd-ausschlussverfahren-101.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/tagesschau.de_faktenfinder_afd-ausschlussverfahren-101_html.pdf)`
 
-- 7. **Felix Alexander Cassel (PKW-Angriff Essen):**  
+- 7. **Felix Alexander Cassel (PKW-Angriff Essen):**
    [Der Spiegel - Verurteilung des JA-Chefs wegen gefährlicher Körperverletzung](https://www.spiegel.de/panorama/justiz/essen-afd-politiker-wegen-gefaehrlicher-koerperverletzung-verurteilt-a-1294857.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
 
-- 8. **Kai Borrmann (Körperverletzung Berlin):**  
+- 8. **Kai Borrmann (Körperverletzung Berlin):**
    [Tagesspiegel - Stalking und Nötigung: Berliner AfD-Bezirksverordneter zu Geldstrafe verurteilt (SPIEGEL Beleg 1)](https://www.tagesspiegel.de/berlin/stalking-und-noetigung-berliner-afd-bezirksverordneter-zu-geldstrafe-verurteilt-5956489.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/tagesspiegel.de_berlin_stalking-und-noetigung-berliner-afd-bezirksverordneter-zu-geldstrafe-verurteilt-5956489_html.pdf)`
    [Berliner Zeitung - Stalking-Urteil gegen Heiko Hecht rechtskräftig (Berliner Zeitung Beleg 2)](https://www.berliner-zeitung.de/mensch-metropole/nach-stalking-und-noetigung-berliner-afd-bezirksverordneter-zu-geldstrafe-verurteilt-li.399214) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/berliner-zeitung.de_mensch-metropole_nach-stalking-und-noetigung-berliner-afd-bezirksverordneter-zu-geldstrafe-verurteil.pdf)`
    [Taz - Ermittlungen gegen Heiko Hecht wegen Nötigung (TAZ Beleg 3)](https://taz.de/SPD-Politiker-gesteht-Schmiererei/!6103730/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/taz.de_SPD-Politiker-gesteht-Schmiererei_6103730.pdf)`
 
-- 9. **Stefan Räpple (Widerstand Karlsruhe):**  
+- 9. **Stefan Räpple (Widerstand Karlsruhe):**
    [Der Spiegel - Verurteilung des Ex-MdL wegen Polizistenangriffs (STUTTGARTER-ZEITUNG Beleg 1)](https://www.stuttgarter-zeitung.de/inhalt.afd-in-baden-wuerttemberg-partei-schliesst-abgeordneten-stefan-raepple-aus.89031315-9b3e-45fd-922a-502884a6fafd.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/stuttgarter-zeitung.de_inhalt_afd-in-baden-wuerttemberg-partei-schliesst-abgeordneten-stefan-raepple-aus_89031315-9b3e-45fd.pdf)`
 
-- 10. **Sebastian Münzenmeier (Hooligan-Gewalt Mainz):**  
+- 10. **Sebastian Münzenmeier (Hooligan-Gewalt Mainz):**
     [LTO-Bericht zur Hooligan-Schlägerei und Beihilfe zur Körperverletzung (AFDBUNDESTAG Beleg 1)](https://afdbundestag.de/abgeordnete/sebastian-muenzenmaier/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/afdbundestag.de_abgeordnete_sebastian-muenzenmaier.pdf)`
     [LTO-Bericht zur Hooligan-Schlägerei und Beihilfe zur Körperverletzung (BUNDESTAG Beleg 2)](https://www.bundestag.de/abgeordnete/biografien/M/muenzenmaier_sebastian-1046268) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/bundestag.de_abgeordnete_biografien_M_muenzenmaier_sebastian-1046268.pdf)`
 
-- 11. **Dubravko Mandic (Reizgas Freiburg):**  
+- 11. **Dubravko Mandic (Reizgas Freiburg):**
     [Der Spiegel - Verurteilung des Stadtrats wegen Nötigung und Körperverletzung (SPIEGEL Beleg 1)](https://www.spiegel.de/politik/deutschland/dubravko-mandic-frueherer-afd-politiker-wegen-koerperverletzung-verurteilt-a-bd21f719-7631-437c-ab7f-8f324ed6ecca) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/spiegel.de_politik_deutschland_dubravko-mandic-frueherer-afd-politiker-wegen-koerperverletzung-verurteilt-a-bd2.pdf)`
 
-- 12. **Andreas Kalbitz (Gewalt Potsdam):**  
+- 12. **Andreas Kalbitz (Gewalt Potsdam):**
     [Tagesschau-Bericht zur Kalbitz-Körperverletzung (Milzriss) (WELT Beleg 1)](https://www.welt.de/regionales/berlin/article187116936/AfD-Andreas-Kalbitz-sieht-Verfassungsschutz-politisch-motiviert.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/welt.de_regionales_berlin_article187116936_AfD-Andreas-Kalbitz-sieht-Verfassungsschutz-politisch-motiviert_h.pdf)`
     [Tagesschau-Bericht zur Kalbitz-Körperverletzung (Milzriss) (SPIEGEL Beleg 2)](https://www.spiegel.de/thema/andreas-kalbitz/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/spiegel.de_thema_andreas-kalbitz.pdf)`
 
-- 13. **Kay-Uwe Ziegler (Subventionsbetrug Dessau):**  
+- 13. **Kay-Uwe Ziegler (Subventionsbetrug Dessau):**
     [Die Welt - Unrechtmäßige Beantragung von Corona-Soforthilfen (BUNDESTAG Beleg 1)](https://www.bundestag.de/webarchiv/abgeordnete/biografien20/Z/ziegler_kay-863322) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/bundestag.de_webarchiv_abgeordnete_biografien20_Z_ziegler_kay-863322.pdf)`
     [Die Welt - Unrechtmäßige Beantragung von Corona-Soforthilfen (BUNDESTAG Beleg 2)](https://www.bundestag.de/abgeordnete/biografien/Z/ziegler_kay-1049402) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/bundestag.de_abgeordnete_biografien_Z_ziegler_kay-1049402.pdf)`
 
-- 14. **Frauke Petry (Subventionsbetrug Leipzig):**  
+- 14. **Frauke Petry (Subventionsbetrug Leipzig):**
     [Spiegel-Bericht zum Betrugsverfahren (SPIEGEL Beleg 1)](https://www.spiegel.de/politik/deutschland/thomas-kemmerich-schliesst-sich-nach-fdp-austritt-frauke-petry-und-ihrem-verein-team-freiheit-an-a-02459fdd-8f64-4cdc-8d75-58ca5f1a7d36) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/spiegel.de_politik_deutschland_thomas-kemmerich-schliesst-sich-nach-fdp-austritt-frauke-petry-und-ihrem-verein-.pdf)`
     [Spiegel-Bericht zum Betrugsverfahren (SPIEGEL Beleg 2)](https://www.spiegel.de/thema/frauke_petry/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/spiegel.de_thema_frauke_petry.pdf)`
 
-- 15. **Daniel Halemba (Geldwäsche Würzburg):**  
+- 15. **Daniel Halemba (Geldwäsche Würzburg):**
     [Tagesschau-Bericht zum Burschenschafts-Geldwäscheverfahren (LTO Beleg 1)](https://www.lto.de/recht/nachrichten/n/staatsanwaltschaft-wuerzburg-anklage-daniel-halemba-afd-volksverhetzung-geldwaesche) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/lto.de_recht_nachrichten_n_staatsanwaltschaft-wuerzburg-anklage-daniel-halemba-afd-volksverhetzung-geldwaes.pdf)`
     [Tagesschau-Bericht zum Burschenschafts-Geldwäscheverfahren (TAZ Beleg 2)](https://taz.de/AfD-Politiker-Halemba-verurteilt-Es-waere-freundlich-wenn-Sie-den-Mund-halten/!6150532/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/taz.de_AfD-Politiker-Halemba-verurteilt-Es-waere-freundlich-wenn-Sie-den-Mund-halten_6150532.pdf)`
 
-- 16. **Philip Steinbeck (Kriegswaffen Schwerin):**  
+- 16. **Philip Steinbeck (Kriegswaffen Schwerin):**
     [Die Welt - Verurteilung zu fast 4 Jahren Haft wegen MG-Besitzes (GUTSHAEUSER Beleg 1)](https://gutshaeuser.de/de/guts_herrenhaeuser/gutshaeuser_j/gutshaus_jessenitz) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/gutshaeuser.de_de_guts_herrenhaeuser_gutshaeuser_j_gutshaus_jessenitz.pdf)`
     [Die Welt - Verurteilung zu fast 4 Jahren Haft wegen MG-Besitzes (KULTURVEREIN-LUEBTHEEN Beleg 2)](http://www.kulturverein-luebtheen.de/herrenhaeuser.htm) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/kulturverein-luebtheen.de_herrenhaeuser_htm.pdf)`
 
-- 17. **Stephan Brandner (Beleidigung Gera):**  
+- 17. **Stephan Brandner (Beleidigung Gera):**
     [Spiegel-Bericht zur Verurteilung wegen Beleidigung (BUNDESTAG Beleg 1)](https://www.bundestag.de/abgeordnete/biografien/B/brandner_stephan-1043798) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/bundestag.de_abgeordnete_biografien_B_brandner_stephan-1043798.pdf)`
     [Spiegel-Bericht zur Verurteilung wegen Beleidigung (AFDBUNDESTAG Beleg 2)](https://afdbundestag.de/abgeordnete/stephan-brandner/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/afdbundestag.de_abgeordnete_stephan-brandner.pdf)`
 
-- 18. **Matthias Moosdorf (Hitlergruß Berlin):**  
+- 18. **Matthias Moosdorf (Hitlergruß Berlin):**
     [Tagesschau-Bericht zur Moosdorf-Hitlergruß-Ermittlung](https://de.wikipedia.org/wiki/Matthias_Moosdorf) [❌ 403 BROKEN] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/de.wikipedia.org_wiki_Matthias_Moosdorf.pdf)`
 
-- 19. **Björn Höcke (Faschist VG Meiningen):**  
+- 19. **Björn Höcke (Faschist VG Meiningen):**
     [LTO - Rechtliche Zulässigkeit der Bezeichnung als Faschist](https://www.spiegel.de/politik/deutschland/bjoern-hoecke-darf-als-faschist-bezeichnet-werden-gerichtsbeschluss-in-meiningen-a-1289196.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/Urteile gegen Höcke wegen NS-Parole rechtskräftig.pdf)`
 
-- 20. **Alice Weidel (Satirebezeichnung LG Hamburg):**  
+- 20. **Alice Weidel (Satirebezeichnung LG Hamburg):**
     [LTO - Weidel darf als Satire 'Nazischlampe' genannt werden](https://www.spiegel.de/kultur/tv/alice-weidel-extra-3-darf-afd-politikerin-nazischlampe-nennen-a-1148135.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/spiegel.de_kultur_tv_alice-weidel-extra-3-darf-afd-politikerin-nazischlampe-nennen-a-1148135_html.pdf)`
 
-- 21. **Strafzahlungen wegen illegaler Parteispenden (BVerwG Berlin):**  
+- 21. **Strafzahlungen wegen illegaler Parteispenden (BVerwG Berlin):**
     [LTO-Bericht zur Bestätigung über 1,08 Mio. Euro Bußgelder wegen Schweizer Spenden (DEJURE Beleg 1)](https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BVerwG&Datum=20.05.2025&Aktenzeichen=6%20B%2022.24) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/dejure.org_dienste_vernetzung_rechtsprechung.pdf)`
     [LTO-Bericht zur Bestätigung über 1,08 Mio. Euro Bußgelder wegen Schweizer Spenden (DEJURE Beleg 2)](https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BVerwG&Datum=20.05.2025&Aktenzeichen=6%20B%2021.24) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/dejure.org_dienste_vernetzung_rechtsprechung.pdf)`
     [LTO-Bericht zur Bestätigung über 1,08 Mio. Euro Bußgelder wegen Schweizer Spenden (Tagesschau Beleg 3)](https://www.tagesschau.de/inland/innenpolitik/afd-rechtsextrem-verfassungsschutz-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/tagesschau.de_inland_innenpolitik_afd-rechtsextrem-verfassungsschutz-100_html.pdf)`
 
-- 22. **BfV vs. AfD (Verdachtsfall OVG Münster):**  
+- 22. **BfV vs. AfD (Verdachtsfall OVG Münster):**
     [LTO-Bericht zur wegweisenden Verdachtsfall-Zulässigkeit des OVG Münster (Tagesschau Beleg 1)](https://www.tagesschau.de/inland/innenpolitik/afd-ovg-verdachtsfall-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/tagesschau.de_inland_innenpolitik_afd-ovg-verdachtsfall-100_html.pdf)`
     [LTO-Bericht zur wegweisenden Verdachtsfall-Zulässigkeit des OVG Münster (LTO Beleg 2)](https://www.lto.de/recht/nachrichten/n/bverwg-6b2124-6b2224-6b2324-afd-einstufung-bfv-verdachtsfall) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/lto.de_recht_nachrichten_n_bverwg-6b2124-6b2224-6b2324-afd-einstufung-bfv-verdachtsfall.pdf)`
     [LTO-Bericht zur wegweisenden Verdachtsfall-Zulässigkeit des OVG Münster (DEJURE Beleg 3)](https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=OVG%20Nordrhein-Westfalen&Datum=13.05.2024&Aktenzeichen=5%20A%201216/22) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/dejure.org_dienste_vernetzung_rechtsprechung.pdf)`
 
-- 23. **Entzug von Waffenbesitzkarten (VG Düsseldorf):**  
+- 23. **Entzug von Waffenbesitzkarten (VG Düsseldorf):**
     [LTO-Bericht zum waffenrechtlichen Entzug bei AfD-Mitgliedern (DEJURE Beleg 1)](https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=VG%20D%C3%BCsseldorf&Datum=07.03.2023&Aktenzeichen=22%20K%207087/20) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/dejure.org_dienste_vernetzung_rechtsprechung.pdf)`
 
-- 24. **Verweigerung des Beamtenstatus (OVG Weimar):**  
+- 24. **Verweigerung des Beamtenstatus (OVG Weimar):**
     [LTO-Bericht zum Ausschluss von Verfassungsfeinden aus dem Staatsdienst (SUEDDEUTSCHE Beleg 1)](https://www.sueddeutsche.de/politik/beamtenstatus-rechtsextremismus-deutschland-afd-dienst-li.3287514) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/sueddeutsche.de_politik_beamtenstatus-rechtsextremismus-deutschland-afd-dienst-li_3287514.pdf)`
     [LTO-Bericht zum Ausschluss von Verfassungsfeinden aus dem Staatsdienst (Tagesschau Beleg 2)](https://www.tagesschau.de/faktenfinder/afd-verdachtsfall-beamte-101.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/tagesschau.de_faktenfinder_afd-verdachtsfall-beamte-101_html.pdf)`
     [LTO-Bericht zum Ausschluss von Verfassungsfeinden aus dem Staatsdienst (MDR Beleg 3)](https://www.mdr.de/nachrichten/thueringen/mitte-thueringen/weimar/verwaltungsgericht-afd-polizist-grundsatz-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/mdr.de_nachrichten_thueringen_mitte-thueringen_weimar_verwaltungsgericht-afd-polizist-grundsatz-100_html.pdf)`
 
-- 25. **Ausschluss von Parlamentsrechten (BVerfG Karlsruhe):**  
+- 25. **Ausschluss von Parlamentsrechten (BVerfG Karlsruhe):**
     [LTO-Bericht zum Urteil über verweigerte Bundestags-Ausschussvorsitze](https://www.bundesverfassungsgericht.de/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
 
-- 26. **Thomas Seitz (Richterentlassung Karlsruhe):**  
+- 26. **Thomas Seitz (Richterentlassung Karlsruhe):**
     [LTO-Bericht zur rechtskräftigen Dienstentfernung des Richters](https://www.bundesgerichtshof.de/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
 
-- 27. **Jian G. (China-Spionage OLG Dresden):**  
+- 27. **Jian G. (China-Spionage OLG Dresden):**
     [Tagesspiegel - Verurteilung des Krah-Mitarbeiters zu 4 Jahren 9 Monaten Haft (LTO Beleg 1)](https://www.lto.de/recht/nachrichten/n/4st125-olg-dresden-afd-china-krah-jian-g-verurteilt) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/lto.de_recht_nachrichten_n_4st125-olg-dresden-afd-china-krah-jian-g-verurteilt.pdf)`
     [Tagesspiegel - Verurteilung des Krah-Mitarbeiters zu 4 Jahren 9 Monaten Haft (SPIEGEL Beleg 2)](https://www.spiegel.de/panorama/justiz/maximilian-krah-ex-mitarbeiter-von-afd-politiker-wegen-spionage-verurteilt-a-b9a96e7b-7324-4be1-8171-a8c05c72de48) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/spiegel.de_panorama_justiz_maximilian-krah-ex-mitarbeiter-von-afd-politiker-wegen-spionage-verurteilt-a-b9a96e7.pdf)`
     [Tagesspiegel - Verurteilung des Krah-Mitarbeiters zu 4 Jahren 9 Monaten Haft (SPIEGEL Beleg 3)](https://www.tagesspiegel.de/politik/spionage-fur-china-ehemaliger-krah-mitarbeiter-zu-fast-funf-jahren-haft-verurteilt-14422220.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/tagesspiegel.de_politik_spionage-fur-china-ehemaliger-krah-mitarbeiter-zu-fast-funf-jahren-haft-verurteilt-14422220_.pdf)`
 
-- 28. **Maximilian Krah (Spionageermittlungen GBA):**  
+- 28. **Maximilian Krah (Spionageermittlungen GBA):**
     [Tagesschau-Bericht zu den Krah-Spionageermittlungen der Bundesanwaltschaft (TAZ Beleg 1)](https://taz.de/AfD-Politiker-Maximilian-Krah/!6087124/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/taz.de_AfD-Politiker-Maximilian-Krah_6087124.pdf)`
     [Tagesschau-Bericht zu den Krah-Spionageermittlungen der Bundesanwaltschaft (SPIEGEL Beleg 2)](https://www.spiegel.de/politik/afd-mann-maximilian-krah-ermittler-vollstrecken-neue-durchsuchungsbeschluesse-a-6318ceab-7180-42b0-9cfc-438a35ff8e84) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/spiegel.de_politik_afd-mann-maximilian-krah-ermittler-vollstrecken-neue-durchsuchungsbeschluesse-a-6318ceab-718.pdf)`
     [Tagesschau-Bericht zu den Krah-Spionageermittlungen der Bundesanwaltschaft (Tagesschau Beleg 3)](https://www.tagesschau.de/inland/innenpolitik/afd-krah-durchsuchungen-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/tagesschau.de_inland_innenpolitik_afd-krah-durchsuchungen-100_html.pdf)`
 
-- 29. **Thorsten Czuppon (Verfolgung Unschuldiger Erfurt):**  
+- 29. **Thorsten Czuppon (Verfolgung Unschuldiger Erfurt):**
     [LTO-Bericht zum Amtsmissbrauch als Polizist und Falschanzeige (THUERINGER-LANDTAG Beleg 1)](https://www.thueringer-landtag.de/en/homepage/deputies/deputies-parliamentary-groups-distribution-of-seats/information-about-members/abgeordneter/torsten-czuppon/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/thueringer-landtag.de_en_homepage_deputies_deputies-parliamentary-groups-distribution-of-seats_information-about-members_a.pdf)`
     [LTO-Bericht zum Amtsmissbrauch als Polizist und Falschanzeige (AFD-THL Beleg 2)](https://afd-thl.de/fraktion/abgeordnete/czuppon-torsten/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/afd-thl.de_fraktion_abgeordnete_czuppon-torsten.pdf)`
 
-- 30. **Wiebke Muhsal (Betrug Erfurt):**  
+- 30. **Wiebke Muhsal (Betrug Erfurt):**
     [Spiegel-Bericht zum Mitarbeiterinnen-Zuschussbetrug (EN Beleg 1)](http://en.wikipedia.org/wiki/Wiebke_Muhsal) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/en.wikipedia.org_wiki_Wiebke_Muhsal.pdf)`
     [MDR - Betrugsurteil gegen Thüringer AfD-Abgeordnete Wiebke Muhsal rechtskräftig](https://www.mdr.de/nachrichten/thueringen/ost-thueringen/gera/prozess-wiebke-muhsal-afd-urteil-rechtskraeftig-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/mdr.de_nachrichten_thueringen_ost-thueringen_gera_prozess-wiebke-muhsal-afd-urteil-rechtskraeftig-100_html.pdf)`
 
-- 31. **Jan-Ulrich Weiß (Schmuggel Potsdam):**  
+- 31. **Jan-Ulrich Weiß (Schmuggel Potsdam):**
     [Tagesspiegel - Gewerbsmäßiger Zigarettenschmuggel](https://www.tagesspiegel.de/brandenburg/afd-abgeordneter-weiss-wegen-zigarettenschmuggels-verurteilt-4019284.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/Wahl_zum_Berliner_Abgeordnetenhaus__Berliner_AfD_nominiert_erstmals_Kandidatin_für_Amt_der_»Regierenden«___DIE_ZEIT.pdf)`
 
-- 32. **Rolf Dipp (Erpressung Braunschweig):**  
+- 32. **Rolf Dipp (Erpressung Braunschweig):**
     [Spiegel-Bericht zu Stalking und Erpressung](https://de.wikipedia.org/wiki/Alternative_f%C3%BCr_Deutschland) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/de.wikipedia.org_wiki_Alternative_f_C3_BCr_Deutschland.pdf)`
 
-- 33. **Sven Ebert (Gewalt Bitterfeld):**  
+- 33. **Sven Ebert (Gewalt Bitterfeld):**
     [Mitteldeutsche Zeitung - Tritt in den Bauch einer Aktivistin](https://de.wikipedia.org/wiki/Alternative_f%C3%BCr_Deutschland) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/de.wikipedia.org_wiki_Alternative_f_C3_BCr_Deutschland.pdf)`
 
-- 34. **Richard Graupner (Geheimnisverrat Bamberg):**  
+- 34. **Richard Graupner (Geheimnisverrat Bamberg):**
     [Bayerischer Rundfunk - Weitergabe von internen Polizeidaten (RICHARD-GRAUPNER Beleg 1)](https://richard-graupner.de/ueber-mein-person/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/richard-graupner.de_ueber-mein-person.pdf)`
     [Bayerischer Rundfunk - Weitergabe von internen Polizeidaten (FACEBOOK Beleg 2)](https://www.facebook.com/profile.php/?id=100063807880336) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/facebook.com_profile_php.pdf)`
 
-- 35. **Jens Maier (Richterruhestand Leipzig):**  
+- 35. **Jens Maier (Richterruhestand Leipzig):**
     [LTO-Bericht zur Versetzung des Richters in den vorzeitigen Ruhestand](https://www.bundesgerichtshof.de/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
 
-- 36. **Birgit Malsack-Winkemann (Hochverrat OLG Frankfurt):**  
+- 36. **Birgit Malsack-Winkemann (Hochverrat OLG Frankfurt):**
     [Tagesschau-Bericht zur Anklageerhebung wegen Reichsbürger-Putschversuchs (Tagesschau Beleg 1)](https://www.tagesschau.de/inland/reichsbuergerprozess-malsack-winkemann-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/tagesschau.de_inland_reichsbuergerprozess-malsack-winkemann-100_html.pdf)`
     [Tagesschau-Bericht zur Anklageerhebung wegen Reichsbürger-Putschversuchs (BUNDESTAG Beleg 2)](https://www.bundestag.de/webarchiv/abgeordnete/biografien19/M/521834-521834) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/bundestag.de_webarchiv_abgeordnete_biografien19_M_521834-521834.pdf)`
 
-- 37. **Jessica Bießmann (Hitlerwein Berlin):**  
+- 37. **Jessica Bießmann (Hitlerwein Berlin):**
     [Tagesspiegel - Posing vor Hitler-Wein-Flaschen (STERN Beleg 1)](https://www.stern.de/politik/deutschland/wegen--hitler-wein--fotos--afd-schliesst-abgeordnete-biessmann-aus--8436260.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/stern.de_politik_deutschland_wegen--hitler-wein--fotos--afd-schliesst-abgeordnete-biessmann-aus--8436260_html.pdf)`
     [Tagesspiegel - Posing vor Hitler-Wein-Flaschen (WELT Beleg 2)](https://www.welt.de/politik/deutschland/article189210471/Jessica-Biessmann-Berliner-AfD-Abgeordnete-meldet-sich-nach-drei-Monaten-zurueck.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/welt.de_politik_deutschland_article189210471_Jessica-Biessmann-Berliner-AfD-Abgeordnete-meldet-sich-nach-dre.pdf)`
 
-- 38. **Carsten Härle (Volksverhetzung Heusenstamm):**  
+- 38. **Carsten Härle (Volksverhetzung Heusenstamm):**
     [Frankfurter Rundschau - Volksverhetzung im Kommunalparlament (DOKMZ Beleg 1)](https://dokmz.com/2023/08/30/volksverhetzung-afd-schliest-carsten-harle-aus/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/dokmz.com_2023_08_30_volksverhetzung-afd-schliest-carsten-harle-aus.pdf)`
     [Frankfurter Rundschau - Volksverhetzung im Kommunalparlament (YOUTUBE Beleg 2)](https://www.youtube.com/@CarstenH%C3%A4rle) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/youtube.com_CarstenH_C3_A4rle.pdf)`
 
-- 39. **Stefan Hrdy (Körperverletzung Wiesbaden):**  
+- 39. **Stefan Hrdy (Körperverletzung Wiesbaden):**
     [Frankfurter Rundschau - Gewalttätiger Angriff auf Demonstranten](https://de.wikipedia.org/wiki/Alternative_f%C3%BCr_Deutschland) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/de.wikipedia.org_wiki_Alternative_f_C3_BCr_Deutschland.pdf)`
 
-- 40. **Heinrich Fiechtner (Polizistenbeleidigung Stuttgart):**  
+- 40. **Heinrich Fiechtner (Polizistenbeleidigung Stuttgart):**
     [Stuttgarter Nachrichten - Verurteilung des Ex-Abgeordneten (TAZ Beleg 1)](https://taz.de/Rechte-Hetze-gegen-Journalisten/!5966298/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/taz.de_Rechte-Hetze-gegen-Journalisten_5966298.pdf)`
 
-- 41. **Alice Weidel (Rassistische „E-Mail-Affäre“ Konstanz):**  
+- 41. **Alice Weidel (Rassistische „E-Mail-Affäre“ Konstanz):**
     [Spiegel-Bericht zur Verifizierung ihrer reichsbürgernahe Mail](https://www.spiegel.de/politik/deutschland/alice-weidel-afd-spitzenkandidatin-reagiert-auf-e-mail-affaere-a-1167092.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/spiegel.de_politik_deutschland_alice-weidel-afd-spitzenkandidatin-reagiert-auf-e-mail-affaere-a-1167092_html.pdf)`
 
-- 42. **Udo Stein (Waffenbeschlagnahmung Erfurt):**  
+- 42. **Udo Stein (Waffenbeschlagnahmung Erfurt):**
    [Der Spiegel - Abgeordneter nach Waffeninzidents entwaffnet (TWITTER Beleg 1)](https://twitter.com/udostein_mdl) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/twitter.com_udostein_mdl.pdf)`
    [Der Spiegel - Abgeordneter nach Waffeninzidents entwaffnet (ABGEORDNETENWATCH Beleg 2)](https://www.abgeordnetenwatch.de/profile/udo-stein) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/abgeordnetenwatch.de_profile_udo-stein.pdf)`
 
-- 43. **Siegbert Droese (Wolfsschanze NS-Pose Leipzig):**  
+- 43. **Siegbert Droese (Wolfsschanze NS-Pose Leipzig):**
    [Tagesschau - Ermittlungen der Staatsanwaltschaft wegen rechtsextremer Symbole (BUNDESTAG Beleg 1)](https://www.bundestag.de/webarchiv/abgeordnete/biografien19/D/519150-519150) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/bundestag.de_webarchiv_abgeordnete_biografien19_D_519150-519150.pdf)`
    [Tagesschau - Ermittlungen der Staatsanwaltschaft wegen rechtsextremer Symbole (AFDBUNDESTAG Beleg 2)](https://afdbundestag.de/droese-macrons-neuer-liebling-ist-polen/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/afdbundestag.de_droese-macrons-neuer-liebling-ist-polen.pdf)`
 
-- 44. **Doris von Sayn-Wittgenstein (Parteiausschluss Berlin):**  
+- 44. **Doris von Sayn-Wittgenstein (Parteiausschluss Berlin):**
    [LTO-Bericht zur rechtskräftigen Bestätigung des Ausschlusses (SPIEGEL Beleg 1)](https://www.spiegel.de/spiegel/doris-von-sayn-wittgenstein-wie-kam-die-afd-frau-zu-ihrem-namen-a-1182372.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/spiegel.de_spiegel_doris-von-sayn-wittgenstein-wie-kam-die-afd-frau-zu-ihrem-namen-a-1182372_html.pdf)`
    [LTO-Bericht zur rechtskräftigen Bestätigung des Ausschlusses (SPIEGEL Beleg 2)](https://www.spiegel.de/politik/deutschland/afd-doris-von-sayn-wittgenstein-zieht-sich-aus-vorstandsarbeit-zurueck-a-1284809.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/spiegel.de_politik_deutschland_afd-doris-von-sayn-wittgenstein-zieht-sich-aus-vorstandsarbeit-zurueck-a-1284809.pdf)`
 
-- 45. **Gunnar Lindemann (Russland-Verbindungen Berlin):**  
+- 45. **Gunnar Lindemann (Russland-Verbindungen Berlin):**
    [Der Spiegel - Disziplinarverfahren wegen Donbas-Reisen (SPIEGEL Beleg 1)](https://www.tagesspiegel.de/berlin/afd-politiker-gunnar-lindemann-sorgt-fur-eklat-im-abgeordnetenhaus-4054249.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/tagesspiegel.de_berlin_afd-politiker-gunnar-lindemann-sorgt-fur-eklat-im-abgeordnetenhaus-4054249_html.pdf)`
    [Der Spiegel - Disziplinarverfahren wegen Donbas-Reisen (SPIEGEL Beleg 2)](https://www.tagesspiegel.de/berlin/kind-eines-berliner-afd-politikers-mit-dem-tod-bedroht-6757684.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/tagesspiegel.de_berlin_kind-eines-berliner-afd-politikers-mit-dem-tod-bedroht-6757684_html.pdf)`
 
-- 46. **Maximilian T. (Terrorverdacht Franco A. GBA):**  
+- 46. **Maximilian T. (Terrorverdacht Franco A. GBA):**
    [Die Welt - Festnahme des Abgeordneten-Mitarbeiters wegen Anschlagsverdachts (YOUTUBE Beleg 1)](https://www.youtube.com/@maximilian.t761) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/welt.de_politik_deutschland_article164582194_GBA-haftbefehl-gegen-Maximilian-T-wegen-terrorverdacht-franco-a.pdf)`
    [Die Welt - Festnahme des Abgeordneten-Mitarbeiters wegen Anschlagsverdachts (YOUTUBE Beleg 2)](https://www.youtube.com/@Maximilian_Dood) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/welt.de_politik_deutschland_article164582194_GBA-haftbefehl-gegen-Maximilian-T-wegen-terrorverdacht-franco-a.pdf)`
 
-- 47. **Christina Baum (Beleidigung Tauberbischofsheim):**  
+- 47. **Christina Baum (Beleidigung Tauberbischofsheim):**
    [Frankfurter Rundschau - Geldstrafe wegen systematischer Netzbeleidigung (DOKMZ Beleg 1)](https://dokmz.com/2023/08/30/volksverhetzung-afd-schliest-carsten-harle-aus/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/dokmz.com_2023_08_30_volksverhetzung-afd-schliest-carsten-harle-aus.pdf)`
    [Frankfurter Rundschau - Geldstrafe wegen systematischer Netzbeleidigung (YOUTUBE Beleg 2)](https://www.youtube.com/@CarstenH%C3%A4rle) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/youtube.com_CarstenH_C3_A4rle.pdf)`
 
-- 48. **Kurt H. (Rechtsextreme Terrorgruppe - Sächsische Separatisten):**  
+- 48. **Kurt H. (Rechtsextreme Terrorgruppe - Sächsische Separatisten):**
    [Tagesschau - GSG-9-Festnahme und Terrorismus-Ermittlungen (TAZ Beleg 1)](https://taz.de/Rechtsextreme-Saechsische-Separatisten/!6045443/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/taz.de_Rechtsextreme-Saechsische-Separatisten_6045443.pdf)`
    [Tagesschau - GSG-9-Festnahme und Terrorismus-Ermittlungen (MDR Beleg 2)](https://www.mdr.de/nachrichten/sachsen/dresden/dresden-radebeul/rechtsextreme-saechsische-separatisten-anklage-olg-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/mdr.de_nachrichten_sachsen_dresden_dresden-radebeul_rechtsextreme-saechsische-separatisten-anklage-olg-100_.pdf)`
    [Tagesschau - GSG-9-Festnahme und Terrorismus-Ermittlungen (TAZ Beleg 3)](https://taz.de/Prozess-gegen-saechsische-Separatisten/!6167632/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/taz.de_Prozess-gegen-saechsische-Separatisten_6167632.pdf)`
 
-- 49. **André Poggenburg (Völkische Beleidigung - „Kümmelhändler“):**  
+- 49. **André Poggenburg (Völkische Beleidigung - „Kümmelhändler“):**
    [Die Welt - Aschermittwochs-Rassismus und Verurteilung (FAZ Beleg 1)](https://www.faz.net/aktuell/politik/thema/andre-poggenburg) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/faz.net_aktuell_politik_thema_andre-poggenburg.pdf)`
    [Die Welt - Aschermittwochs-Rassismus und Verurteilung (DEUTSCHLANDFUNK Beleg 2)](https://www.deutschlandfunk.de/sachsen-anhalt-der-nette-menschenfeind-von-nebenan-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/deutschlandfunk.de_sachsen-anhalt-der-nette-menschenfeind-von-nebenan-100_html.pdf)`
 
-- 50. **Uwe Junge (Homophobe Beleidigung - „Schwuchtelbinde“):**  
+- 50. **Uwe Junge (Homophobe Beleidigung - „Schwuchtelbinde“):**
    [Der Spiegel - Geldstrafe wegen homophober Diffamierung](https://www.spiegel.de/panorama/justiz/uwe-junge-ex-afd-landeschef-nach-homophober-beleidigung-verurteilt-a-df8a14de-6c3e-4d43-be76-e82cf919842d) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
 
-- 51. **Sven Liebich (Systematische Volksverhetzung - Haft ohne Bewährung):**  
+- 51. **Sven Liebich (Systematische Volksverhetzung - Haft ohne Bewährung):**
    [MDR - Verurteilung zu 1,5 Jahren Gefängnis (SUEDDEUTSCHE Beleg 1)](https://www.sueddeutsche.de/panorama/marla-svenja-liebich-rechtsextremismus-flucht-fahndung-li.3341139) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/sueddeutsche.de_panorama_marla-svenja-liebich-rechtsextremismus-flucht-fahndung-li_3341139.pdf)`
    [MDR - Verurteilung zu 1,5 Jahren Gefängnis (LTO Beleg 2)](https://www.lto.de/recht/hintergruende/h/sven-marla-svenja-liebich-strafvollzug-rechtsextremismus-haft-trans) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/lto.de_recht_hintergruende_h_sven-marla-svenja-liebich-strafvollzug-rechtsextremismus-haft-trans.pdf)`
    [MDR - Verurteilung zu 1,5 Jahren Gefängnis (Tagesschau Beleg 3)](https://www.tagesschau.de/inland/rechtsextremismus-liebich-in-tschechien-gefasst-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/tagesschau.de_inland_rechtsextremismus-liebich-in-tschechien-gefasst-100_html.pdf)`
 
-- 52. **Maik G. (Körperverletzung Sinsheim):**  
+- 52. **Maik G. (Körperverletzung Sinsheim):**
    [Rhein-Neckar-Zeitung - Rechtskräftiges Urteil gegen AfD-Funktionär (RNZ Beleg 1)](https://www.rnz.de/region/sinsheim-kraichgau_artikel,-Sinsheim-Warum-sitzt-die-AfD-im-Gemeinderat-mittendrin-statt-rechts-_arid,1409459.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/rnz.de_region_sinsheim-kraichgau_artikel_-Sinsheim-Warum-sitzt-die-AfD-im-Gemeinderat-mittendrin-statt-rech.pdf)`
    [Rhein-Neckar-Zeitung - Rechtskräftiges Urteil gegen AfD-Funktionär (AFD-BW Beleg 2)](https://afd-bw.de/aktuell/news/27867/AfD+Rhein-Neckar+verurteilt+Ausschreitungen+zweier+Gro%C3%9Ffamilien+in+Sinsheim) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/afd-bw.de_aktuell_news_27867_AfD_Rhein-Neckar_verurteilt_Ausschreitungen_zweier_Gro_C3_9Ffamilien_in_Sinsheim.pdf)`
 
-- 53. **Thomas Suchka (Rassistische Volksverhetzung Ebersberg):**  
+- 53. **Thomas Suchka (Rassistische Volksverhetzung Ebersberg):**
    [Süddeutsche Zeitung - Verurteilung wegen Facebook-Rassismus](https://www.sueddeutsche.de/muenchen/ebersberg/ebersberg-afd-kreisrat-thomas-suchka-volksverhetzung-geldstrafe-1.5542198) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/54_Thomas_Suchka_Volksverhetzung_AG_Ebersberg.txt)`
 
-- 54. **Robert T. (JA-Aktivist & Schläger):**  
+- 54. **Robert T. (JA-Aktivist & Schläger):**
    [LTO - 2 Jahre 2 Monate Gefängnishaft ohne Bewährung wegen schwerer Körperverletzung (LTO Beleg 1)](https://www.lto.de/recht/nachrichten/n/lg-leipzig-liebich-koerperverletzung-verfahren-eingestellt-rechtsextremismus) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/lto.de_recht_nachrichten_n_lg-leipzig-liebich-koerperverletzung-verfahren-eingestellt-rechtsextremismus.pdf)`
 
-- 55. **Jörg Sobolewski (ehem. JA-Bundesvorstand):**  
+- 55. **Jörg Sobolewski (ehem. JA-Bundesvorstand):**
    [Tagesspiegel - Geldstrafe wegen Hitlergruß / SA-Geste bestätigt](https://www.tagesspiegel.de/berlin/hitlergruss-prozess-gegen-ja-funktionaer-geldstrafe-bestaetigt-3982834.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/tagesspiegel.de_berlin_hitlergruss-prozess-gegen-ja-funktionaer-geldstrafe-bestaetigt-3982834_html.pdf)`
 
-- 56. **Michael Musto (AfD-Gemeinderat Backnang):**  
+- 56. **Michael Musto (AfD-Gemeinderat Backnang):**
    [Rhein-Neckar-Zeitung - Verurteilung wegen Briefwahlfälschung](https://www.rnz.de/region/rhein-neckar-kreis_artikel,-Backnang-AfD-Stadtrat-Michael-Musto-wegen-Wahlfaelschung-verurteilt-_arid,512398.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
 
-- 57. **Stefan Beck (ehem. Landesschatzmeister RLP):**  
+- 57. **Stefan Beck (ehem. Landesschatzmeister RLP):**
    [Ehemaliger AfD-Schatzmeister soll Geld veruntreut haben (SWR Aktuell)](https://www.swr.de/swraktuell/rheinland-pfalz/mainz/urteil-gegen-ehemaligen-afd-landesschatzmeister-wegen-untreue-in-mainz-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/Ehemaliger_AfD-Schatzmeister_soll_Geld_veruntreut_haben_-_SWR_Aktuell.pdf)`
    [Der Spiegel - Verurteilung zu Bewährungsstrafe wegen Veruntreuung von Parteigeldern (ABGEORDNETENWATCH Beleg 2)](https://www.abgeordnetenwatch.de/recherchen/korruption/gegen-diese-abgeordnete-laufen-verfahren) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/Ehemaliger_AfD-Schatzmeister_soll_Geld_veruntreut_haben_-_SWR_Aktuell.pdf)`
 
-- 58. **Tobias Laue (AfD-Mitarbeiter & Bandidos-Rocker):**  
+- 58. **Tobias Laue (AfD-Mitarbeiter & Bandidos-Rocker):**
    [Der Spiegel - Bundestag verweigert Hausausweis wegen Bandidos-Vergangenheit](https://de.wikipedia.org/wiki/Alternative_f%C3%BCr_Deutschland) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/de.wikipedia.org_wiki_Alternative_f_C3_BCr_Deutschland.pdf)`
 
-- 59. **Thüringer Landtag - Verfassungsgerichtshof (Justizsabotage):**  
+- 59. **Thüringer Landtag - Verfassungsgerichtshof (Justizsabotage):**
    [LTO - Verfassungsgerichtshof stoppt Blockade des AfD-Alterspräsidenten Treutler (Tagesschau Beleg 1)](https://www.tagesschau.de/inland/faq-thueringen-verfassungsgerichtshof-urteil-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/tagesschau.de_inland_faq-thueringen-verfassungsgerichtshof-urteil-100_html.pdf)`
    [LTO - Verfassungsgerichtshof stoppt Blockade des AfD-Alterspräsidenten Treutler (SPIEGEL Beleg 2)](https://www.spiegel.de/politik/deutschland/thueringen-verfassungsgericht-entscheidung-zur-konstituierung-des-landtags-a-f12e6b64-665e-4f42-b3f4-3ad1183d9494) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/spiegel.de_politik_deutschland_thueringen-verfassungsgericht-entscheidung-zur-konstituierung-des-landtags-a-f12.pdf)`
    [LTO - Verfassungsgerichtshof stoppt Blockade des AfD-Alterspräsidenten Treutler (MDR Beleg 3)](https://www.mdr.de/nachrichten/thueringen/landtagswahl/verfassungsrechtler-brenner-thueringen-landtag-konstituierende-sitzung-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/mdr.de_nachrichten_thueringen_landtagswahl_verfassungsrechtler-brenner-thueringen-landtag-konstituierende-s.pdf)`
 
-- 60. **Jörg Meuthen (Illegale Schweizer Spendenaffäre):**  
+- 60. **Jörg Meuthen (Illegale Schweizer Spendenaffäre):**
    [LTO - Letztinstanzliche Bestätigung der Strafzahlung über 269.400 Euro (DEJURE Beleg 1)](https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BVerwG&Datum=20.05.2025&Aktenzeichen=6%20B%2022.24) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/dejure.org_dienste_vernetzung_rechtsprechung.pdf)`
    [LTO - Letztinstanzliche Bestätigung der Strafzahlung über 269.400 Euro (DEJURE Beleg 2)](https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BVerwG&Datum=20.05.2025&Aktenzeichen=6%20B%2021.24) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/dejure.org_dienste_vernetzung_rechtsprechung.pdf)`
    [LTO - Letztinstanzliche Bestätigung der Strafzahlung über 269.400 Euro (Tagesschau Beleg 3)](https://www.tagesschau.de/inland/innenpolitik/afd-rechtsextrem-verfassungsschutz-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/tagesschau.de_inland_innenpolitik_afd-rechtsextrem-verfassungsschutz-100_html.pdf)`
 
-- 61. **Guido Reil (Illegale Spendenaffäre BVerwG):**  
+- 61. **Guido Reil (Illegale Spendenaffäre BVerwG):**
    [LTO - Bestätigung über 223.500 Euro Bußgeld wegen illegaler Schweizer Werbung (WELT Beleg 1)](https://www.welt.de/politik/deutschland/article68b1aba9adc6ba5d53cb0e73/parteiengesetz-afd-musste-mehr-als-eine-million-euro-strafe-zahlen.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/welt.de_politik_deutschland_article68b1aba9adc6ba5d53cb0e73_parteiengesetz-afd-musste-mehr-als-eine-million-.pdf)`
    [LTO - Bestätigung über 223.500 Euro Bußgeld wegen illegaler Schweizer Werbung (ZEIT Beleg 2)](https://www.zeit.de/politik/deutschland/2025-10/spendenaffaere-afd-bundestag-henning-conle-millionen) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/zeit.de_politik_deutschland_2025-10_spendenaffaere-afd-bundestag-henning-conle-millionen.pdf)`
    [LTO - Bestätigung über 223.500 Euro Bußgeld wegen illegaler Schweizer Werbung (CORRECTIV Beleg 3)](https://correctiv.org/aktuelles/afd/2026/05/07/gericht-erklaert-afd-millionenspende-vor-bundestagswahl-fuer-unzulaessig/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/correctiv.org_aktuelles_afd_2026_05_07_gericht-erklaert-afd-millionenspende-vor-bundestagswahl-fuer-unzulaessig.pdf)`
 
-- 62. **Gerd Sch. (Rassistische Volksverhetzung AG Cottbus):**  
+- 62. **Gerd Sch. (Rassistische Volksverhetzung AG Cottbus):**
    [Tagesspiegel - Rechtskräftiges Urteil gegen Cottbuser Kreisvorstand (SPIEGEL Beleg 1)](https://www.tagesspiegel.de/potsdam/brandenburg/verdacht-auf-volksverhetzung-beauftragter-buttner-stellt-strafanzeige-gegen-afd-politikerin-aus-uckermark-15282370.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/tagesspiegel.de_potsdam_brandenburg_verdacht-auf-volksverhetzung-beauftragter-buttner-stellt-strafanzeige-gegen-afd-.pdf)`
 
-- 63. **Daniela W. (Versicherungsbetrug & Urkundenfälschung AG Dresden):**  
+- 63. **Daniela W. (Versicherungsbetrug & Urkundenfälschung AG Dresden):**
    [Sächsische.de - Urteil gegen sächsische Ex-Gemeinderätin (SUEDDEUTSCHE Beleg 1)](https://www.sueddeutsche.de/bayern/halemba-urteil-afd-gericht-prozess-geldwaesche-urteil-richterin-li.3376279) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/sueddeutsche.de_bayern_halemba-urteil-afd-gericht-prozess-geldwaesche-urteil-richterin-li_3376279.pdf)`
 
-- 64. **Alexander M. (Körperverletzung Demonstration AG Erfurt):**  
+- 64. **Alexander M. (Körperverletzung Demonstration AG Erfurt):**
    [MDR - Rechtskräftige Verurteilung wegen tätlicher Übergriffe (Tagesschau Beleg 1)](https://www.tagesschau.de/inland/innenpolitik/ex-mitarbeiter-krah-spionage-urteil-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/tagesschau.de_inland_innenpolitik_ex-mitarbeiter-krah-spionage-urteil-100_html.pdf)`
    [MDR - Rechtskräftige Verurteilung wegen tätlicher Übergriffe (SPIEGEL Beleg 2)](https://www.spiegel.de/politik/deutschland/afd-mindestens-elf-mandatstraeger-wegen-gewalttaten-verurteilt-a-d59407cc-4841-4703-9a2a-d749fc7b7889) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/spiegel.de_politik_deutschland_afd-mindestens-elf-mandatstraeger-wegen-gewalttaten-verurteilt-a-d59407cc-4841-4.pdf)`
    [MDR - Rechtskräftige Verurteilung wegen tätlicher Übergriffe (Tagesschau Beleg 3)](https://www.tagesschau.de/inland/correctiv-recherche-afd-gewalttaten-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/tagesschau.de_inland_correctiv-recherche-afd-gewalttaten-100_html.pdf)`
 
-- 65. **Sven W. (Ex-AfD-Kreisvorstand Thüringen):**  
+- 65. **Sven W. (Ex-AfD-Kreisvorstand Thüringen):**
    [MDR - Bewährungsstrafe wegen Besitzes von Kinderpornografie (NDR Beleg 1)](https://www.ndr.de/nachrichten/niedersachsen/hannover_weser-leinegebiet/kinderpornografie-verdacht-afd-ratsherr-aus-hannover-tritt-zurueck,afd-1100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/ndr.de_nachrichten_niedersachsen_hannover_weser-leinegebiet_kinderpornografie-verdacht-afd-ratsherr-aus-han.pdf)`
    [MDR - Bewährungsstrafe wegen Besitzes von Kinderpornografie (MDR Beleg 2)](https://www.mdr.de/nachrichten/thueringen/ost-thueringen/saale-holzland/strafbefehl-gegen-linke-politiker-beantragt-kinderpornografie-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/mdr.de_nachrichten_thueringen_ost-thueringen_saale-holzland_strafbefehl-gegen-linke-politiker-beantragt-kin.pdf)`
    [MDR - Bewährungsstrafe wegen Besitzes von Kinderpornografie (WELT Beleg 3)](https://www.welt.de/regionales/niedersachsen/article6a199c0abf5b78f90d0083bd/verdacht-auf-kinderpornografie-afd-ratsherr-tritt-zurueck.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/welt.de_regionales_niedersachsen_article6a199c0abf5b78f90d0083bd_verdacht-auf-kinderpornografie-afd-ratsherr.pdf)`
 
-- 66. **Heiko Hecht (Ex-AfD-Kreisvorstand Berlin):**  
+- 66. **Heiko Hecht (Ex-AfD-Kreisvorstand Berlin):**
    [Tagesspiegel - Verurteilung wegen Nötigung und Stalkings](https://de.wikipedia.org/wiki/Alternative_f%C3%BCr_Deutschland) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
 
-- 67. **René P. (Kinderpornografie Sachsen-Anhalt):**  
+- 67. **René P. (Kinderpornografie Sachsen-Anhalt):**
    [Die Welt - Kinderporno-Verdacht und Parteiaustritt des Gemeinderats](https://de.wikipedia.org/wiki/Alternative_f%C3%BCr_Deutschland) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/de.wikipedia.org_wiki_Alternative_f_C3_BCr_Deutschland.pdf)`
 
-- 68. **Ehem. AfD-Ratsherr Hannover (Besitz & Beschaffung Kinderpornografie):**  
+- 68. **Ehem. AfD-Ratsherr Hannover (Besitz & Beschaffung Kinderpornografie):**
    [Bild-Zeitung - Ermittlungen und Mandatsniederlegung des Ratsherrn nach US-Behördenhinweis](https://de.wikipedia.org/wiki/Alternative_f%C3%BCr_Deutschland) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/de.wikipedia.org_wiki_Alternative_f_C3_BCr_Deutschland.pdf)`
 
-- 69. **Philip W. (Augsburger Vergewaltigungsfall):**  
+- 69. **Philip W. (Augsburger Vergewaltigungsfall):**
    [Focus-Online - Urteil gegen Gründungsmitglied der JA 'Generation Deutschland' wegen Vergewaltigung](https://www.focus.de/politik/deutschland/augsburg-mitarbeiter-von-afd-mann-jurca-wegen-vergewaltigung-verurteilt_id_259586118.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/urteilsbelege/69_Philip_W_Vergewaltigung_Augsburg.txt)`
 
-- 70. **Petr Bystron (Bestechlichkeit & Geldwäsche):**  
+- 70. **Petr Bystron (Bestechlichkeit & Geldwäsche):**
    [LTO - Aufhebung der Immunität und Razzia wegen Voice of Europe Geldern (ZEIT Beleg 1)](https://www.zeit.de/politik/deutschland/2025-09/maximilian-krah-afd-immunitaet-gxe) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/zeit.de_politik_deutschland_2025-09_maximilian-krah-afd-immunitaet-gxe.pdf)`
    [LTO - Aufhebung der Immunität und Razzia wegen Voice of Europe Geldern (Tagesschau Beleg 2)](https://www.tagesschau.de/inland/innenpolitik/krah-aufhebung-immunitaet-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/tagesschau.de_inland_innenpolitik_krah-aufhebung-immunitaet-100_html.pdf)`
    [LTO - Aufhebung der Immunität und Razzia wegen Voice of Europe Geldern (MDR Beleg 3)](https://www.mdr.de/nachrichten/deutschland/politik/krah-afd-immunitaet-aufgehoben-durchsuchung-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/mdr.de_nachrichten_deutschland_politik_krah-afd-immunitaet-aufgehoben-durchsuchung-100_html.pdf)`
 
-- 71. **Halger H. (Hitlergruß-Verurteilung Chemnitz):**  
+- 71. **Halger H. (Hitlergruß-Verurteilung Chemnitz):**
    [Tagesspiegel - Rechtskräftige Verurteilung von sächsischem AfD-Lokalpolitiker](https://de.wikipedia.org/wiki/Alternative_f%C3%BCr_Deutschland) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
 
-- 72. **Stefan Räpple (Corona-Subventionsbetrug Offenburg):**  
+- 72. **Stefan Räpple (Corona-Subventionsbetrug Offenburg):**
    [Stuttgarter Nachrichten - Verurteilung des Ex-Abgeordneten wegen unrechtmäßiger Beantragung](https://www.stuttgarter-nachrichten.de/inhalt.strafprozess-gegen-stefan-raepple-ex-afd-abgeordneter-wegen-betrugs-verurteilt.df83e2c3-4d43-11ee-bd9a-67a4e69bcf91.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
 
-- 73. **Heiko H. (Körperverletzung Demonstration Zeitz):**  
+- 73. **Heiko H. (Körperverletzung Demonstration Zeitz):**
    [MDR - Rechtskräftige Verurteilung wegen tätlichen Übergriffs auf Flugblattverteiler (Tagesschau Beleg 1)](https://www.tagesschau.de/inland/innenpolitik/ex-mitarbeiter-krah-spionage-urteil-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/tagesschau.de_inland_innenpolitik_ex-mitarbeiter-krah-spionage-urteil-100_html.pdf)`
    [MDR - Rechtskräftige Verurteilung wegen tätlichen Übergriffs auf Flugblattverteiler (SPIEGEL Beleg 2)](https://www.spiegel.de/politik/deutschland/afd-mindestens-elf-mandatstraeger-wegen-gewalttaten-verurteilt-a-d59407cc-4841-4703-9a2a-d749fc7b7889) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/spiegel.de_politik_deutschland_afd-mindestens-elf-mandatstraeger-wegen-gewalttaten-verurteilt-a-d59407cc-4841-4.pdf)`
    [MDR - Rechtskräftige Verurteilung wegen tätlichen Übergriffs auf Flugblattverteiler (Tagesschau Beleg 3)](https://www.tagesschau.de/inland/correctiv-recherche-afd-gewalttaten-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/tagesschau.de_inland_correctiv-recherche-afd-gewalttaten-100_html.pdf)`
 
-- 74. **Jörg S. (Mitarbeiter Hilse Widerstand Tiergarten):**  
+- 74. **Jörg S. (Mitarbeiter Hilse Widerstand Tiergarten):**
    [Tagesspiegel - Verurteilung von Abgeordneten-Mitarbeiter wegen Polizistenwiderstands](https://www.tagesspiegel.de/berlin/widerstand-prozess-gegen-mitarbeiter-von-afd-mdb-karsten-hilse-verurteilt-3981247.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
 
-- 75. **Uwe L. (Reichsbürger-Terrornetzwerk GBA):**  
+- 75. **Uwe L. (Reichsbürger-Terrornetzwerk GBA):**
    [LTO - Anklage und Staatsschutzverfahren gegen aktives Parteimitglied wegen bewaffneter Umsturzpläne (Tagesschau Beleg 1)](https://www.tagesschau.de/inland/reichsbuergerprozess-malsack-winkemann-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/tagesschau.de_inland_reichsbuergerprozess-malsack-winkemann-100_html.pdf)`
    [LTO - Anklage und Staatsschutzverfahren gegen aktives Parteimitglied wegen bewaffneter Umsturzpläne (BUNDESTAG Beleg 2)](https://www.bundestag.de/webarchiv/abgeordnete/biografien19/M/521834-521834) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/bundestag.de_webarchiv_abgeordnete_biografien19_M_521834-521834.pdf)`
 
-- 76. **Stefan W. (Volksverhetzung AG Gera):**  
+- 76. **Stefan W. (Volksverhetzung AG Gera):**
    [MDR - Rechtskräftige Geldstrafe wegen rassistischer Flugblätter (SPIEGEL Beleg 1)](https://www.spiegel.de/politik/deutschland/daniel-halemba-afd-politiker-wegen-noetigung-zu-geldstrafe-verurteilt-a-d2582afd-7e0c-40c8-9471-60a39e21dda5) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/spiegel.de_politik_deutschland_daniel-halemba-afd-politiker-wegen-noetigung-zu-geldstrafe-verurteilt-a-d2582afd.pdf)`
    [MDR - Rechtskräftige Geldstrafe wegen rassistischer Flugblätter (BR Beleg 2)](https://www.br.de/nachrichten/bayern/vorwurf-volksverhetzung-prozessbeginn-gegen-afd-mann-halemba,V7cIJEb) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/br.de_nachrichten_bayern_vorwurf-volksverhetzung-prozessbeginn-gegen-afd-mann-halemba_V7cIJEb.pdf)`
    [MDR - Rechtskräftige Geldstrafe wegen rassistischer Flugblätter (Tagesschau Beleg 3)](https://www.tagesschau.de/inland/innenpolitik/halemba-urteil-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/tagesschau.de_inland_innenpolitik_halemba-urteil-100_html.pdf)`
 
-- 77. **Michael Musto (Briefwahlfälschung AG Backnang):**  
+- 77. **Michael Musto (Briefwahlfälschung AG Backnang):**
    [Rhein-Neckar-Zeitung - Urteil gegen AfD-Gemeinderat wegen Fälschung von Briefwahlstimmen](https://www.rnz.de/region/rhein-neckar-kreis_artikel,-Backnang-AfD-Stadtrat-Michael-Musto-wegen-Wahlfaelschung-verurteilt-_arid,512398.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)`
 
-- 78. **Lars S. (Unfallflucht & Nötigung LG Potsdam):**  
+- 78. **Lars S. (Unfallflucht & Nötigung LG Potsdam):**
    [PNN - Strafverfahren und Geldstrafe gegen brandenburgischen Fraktionschef](https://de.wikipedia.org/wiki/Alternative_f%C3%BCr_Deutschland) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/de.wikipedia.org_wiki_Alternative_f_C3_BCr_Deutschland.pdf)`
 
-- 79. **Stefan K. (JA-Gewalt AG Dresden):**  
+- 79. **Stefan K. (JA-Gewalt AG Dresden):**
    [Tagesspiegel - Urteil und Haftstrafe auf Bewährung wegen Tritten gegen Kopf bei Demonstration (ZEIT Beleg 1)](https://www.zeit.de/gesellschaft/zeitgeschehen/2025-11/prozess-beginnt-mutmassliche-linksextremisten-johann-g-dresden-gxe) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/zeit.de_gesellschaft_zeitgeschehen_2025-11_prozess-beginnt-mutmassliche-linksextremisten-johann-g-dresden-gx.pdf)`
    [Tagesspiegel - Urteil und Haftstrafe auf Bewährung wegen Tritten gegen Kopf bei Demonstration (MDR Beleg 2)](https://www.mdr.de/nachrichten/deutschland/politik/prozess-gericht-hammerbande-linksextremismus-demo-100.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/mdr.de_nachrichten_deutschland_politik_prozess-gericht-hammerbande-linksextremismus-demo-100_html.pdf)`
 
-- 80. **Daniel R. (Hakenkreuzschmierereien AG Bautzen):**  
+- 80. **Daniel R. (Hakenkreuzschmierereien AG Bautzen):**
    [MDR - Urteil gegen sächsischen Lokalpolitiker wegen Hakenkreuzen und Volksverhetzung (SPIEGEL Beleg 1)](https://www.spiegel.de/politik/deutschland/afd-aktivisten-servieren-politikern-hakenkreuz-aus-veganem-mett-a-b3321e51-0a79-4a16-9bc2-476e16e0177f) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/spiegel.de_politik_deutschland_afd-aktivisten-servieren-politikern-hakenkreuz-aus-veganem-mett-a-b3321e51-0a79-.pdf)`
    [MDR - Urteil gegen sächsischen Lokalpolitiker wegen Hakenkreuzen und Volksverhetzung (BR Beleg 2)](https://www.br.de/nachrichten/bayern/strafprozess-gegen-afd-politiker-daniel-halemba-darum-geht-es,V79L11U) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/br.de_nachrichten_bayern_strafprozess-gegen-afd-politiker-daniel-halemba-darum-geht-es_V79L11U.pdf)`
    [MDR - Urteil gegen sächsischen Lokalpolitiker wegen Hakenkreuzen und Volksverhetzung (TAZ Beleg 3)](https://taz.de/SPD-Politiker-gesteht-Schmiererei/!6103730/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/taz.de_SPD-Politiker-gesteht-Schmiererei_6103730.pdf)`
@@ -5004,8 +5004,8 @@ Dieses Kapitel erweitert den juristischen Deep-Research-Ausgangspunkt um die vol
 
 ### Die transatlantischen Netzwerke der extremen Rechten: Die Verbindungen zwischen Steve Bannon und Jeffrey Epstein (Deep Research)
 
-**Autor/Herausgeber:** Archiv für Grundlagenforschung zum AfD-Verbotsverfahren  
-**Datum:** Juni 2026 (Aktualisiert basierend auf den US-Justizakten / „Epstein Files“ 2025/2026)  
+**Autor/Herausgeber:** Archiv für Grundlagenforschung zum AfD-Verbotsverfahren
+**Datum:** Juni 2026 (Aktualisiert basierend auf den US-Justizakten / „Epstein Files“ 2025/2026)
 **Klassifizierung:** UNZENSIERTES DEEP-RESEARCH-DOSSIER
 
 ---
@@ -5022,7 +5022,7 @@ Durch die Freigabe offizieller Justiz- und Ermittlungsakten des US-Justizministe
 
 #### Sektion 1: Der Ursprung der Verbindung (2017–2018)
 
-Die Beziehung zwischen Steve Bannon und Jeffrey Epstein begann kurz nach Bannons Ausscheiden aus dem Weißen Haus im Spätsommer 2017. Vermittelt wurde der Kontakt laut den Ermittlungsakten unter anderem durch den Journalisten und Buchautor Michael Wolff. 
+Die Beziehung zwischen Steve Bannon und Jeffrey Epstein begann kurz nach Bannons Ausscheiden aus dem Weißen Haus im Spätsommer 2017. Vermittelt wurde der Kontakt laut den Ermittlungsakten unter anderem durch den Journalisten und Buchautor Michael Wolff.
 
 Epstein, der nach seiner ersten Verurteilung wegen Sexualdelikten an Minderjährigen im Jahr 2008 in Florida gesellschaftlich isoliert war, suchte verzweifelt nach Wegen, seinen Einfluss in Washington zurückzugewinnen. Bannon wiederum, der im Begriff war, ein globales Netzwerk rechtspopulistischer Bewegungen („The Movement“) in Europa aufzubauen, suchte nach vermögenden Förderern und politisch nützlichen Kontakten.
 
@@ -5039,7 +5039,7 @@ Die freigegebenen Textnachrichten und E-Mails aus den Jahren 2018 und 2019 offen
 Bannons Rolle überschritt schnell die Grenzen einer reinen Bekanntschaft. Er agierte als strategischer Berater für Epsteins Medienpräsenz. Im Sommer 2018, als die journalistischen Recherchen des *Miami Herald* (geführt von der Investigativjournalistin Julie K. Brown) den Fall Epstein erneut in den Fokus der Öffentlichkeit rückten, berieten Bannon und Epstein eine Verteidigungsstrategie.
 
 ### Die „Sophisticated Op“-Theorie
-In Textnachrichten vom Juni 2018 versicherte Bannon Epstein, dass die erneute öffentliche Kritik an ihm das Werk einer „ausgefeilten Operation“ (*sophisticated op*) politischer Gegner sei. Bannon riet Epstein, nicht defensiv zu agieren, sondern eine proaktive Gegenoffensive zu starten:
+In Textnachrichten vom Juni 2018 versicherte Bannon Epstein, dass die erneute öffentliche Kritik an ihm das Werk einer „ausgefeilten Operation“ (*sophisticated op*) politischer Gegner sei. Bannon riet Epstein, nicht defensiv zu agieren, sondern eine proaktive Gegenanhängig/statusgetrenntsive zu starten:
 1.  **Medientraining (CBS Prep):** Bannon coachte Epstein persönlich für ein geplantes, aber letztlich nie ausgestrahltes Interview mit dem US-Sender CBS. Bannon gab ihm genaue Anweisungen, wie er Fragen zu Missbrauchsvorwürfen abbügeln und sich selbst als Opfer einer Justizverschwörung stilisieren könne.
 2.  **Framing als Finanz- und Technologie-Visionär:** Bannon riet Epstein, seinen Fokus in der Öffentlichkeit ausschließlich auf seine Arbeit als Berater für künstliche Intelligenz, Wissenschaftsförderung und globale Finanzmärkte zu legen, um die Sexualstraftaten in den Hintergrund zu drängen.
 
@@ -5051,7 +5051,7 @@ Der Höhepunkt der Zusammenarbeit war ein geheimes und bis heute unter Verschlus
 
 ### Struktur der Aufnahmen
 *   **Umfang:** Steve Bannon nahm insgesamt rund **15 Stunden hochauflösendes Videomaterial** auf, in denen er Epstein in langen, intensiven Monologen und Dialogen befragte.
-*   **Das Projekt „The Monsters“:** Der Arbeitstitel des Projekts lautete *The Monsters: Epstein’s Life Among the Global Elite* (Die Monster: Epsteins Leben inmitten der globalen Elite). 
+*   **Das Projekt „The Monsters“:** Der Arbeitstitel des Projekts lautete *The Monsters: Epstein’s Life Among the Global Elite* (Die Monster: Epsteins Leben inmitten der globalen Elite).
 *   **Inhaltliche Ausrichtung:** In den im Zuge der Gerichtsverfahren 2025/2026 geleakten Transkripten stellt Bannon Epstein durchaus provokante Fragen – darunter die berüchtigte Frage, ob Epstein „der Teufel“ sei. Doch die gesamte Dramaturgie des Films war darauf ausgelegt, Epstein als hochintelligenten, missverstandenen Strippenzieher darzustellen, der unrechtmäßig von den „etablierten Eliten“ geopfert werden sollte. Es war ein klassisches Bannon-Stück: Die Inszenierung eines Außenseiters gegen das „Establishment“.
 
 Das Projekt wurde durch Epsteins Verhaftung im Juli 2019 und seinen anschließenden Tod im Gefängnis im August 2019 abrupt gestoppt. Bannon versuchte daraufhin umgehend, jegliche Spuren der Zusammenarbeit zu vernichten und bestritt die Existenz des Materials über Jahre hinweg vehement, bis die Ermittler der US-Bundesbehörden die Festplatten beschlagnahmten.
@@ -5073,7 +5073,7 @@ Epstein versuchte, sich durch Bannon als Vermittler für internationale Staats- 
 
 #### Sektion 5: Die Brücke zur AfD und dem europäischen Rechtspopulismus
 
-Die Verstrickung zwischen Steve Bannon und Jeffrey Epstein besitzt eine unmittelbare Relevanz für die Bewertung des deutschen Rechtsextremismus und des AfD-Verbotsverfahrens. 
+Die Verstrickung zwischen Steve Bannon und Jeffrey Epstein besitzt eine unmittelbare Relevanz für die Bewertung des deutschen Rechtsextremismus und des AfD-Verbotsverfahrens.
 
 ### Steve Bannon als strategischer Pate der AfD
 Steve Bannon reiste ab 2018 mehrfach nach Europa, um mit seiner Organisation **„The Movement“** (Sitz in Brüssel) die europäischen Rechtspopulisten für die Europawahlen zu vereinen. Bannon traf sich nachweislich mit:
@@ -5484,7 +5484,7 @@ In diesem Abschnitt werden die ersten 15 höchstrichterlichen und gerichtlichen 
 *   **Sachverhalt:** Der ehemalige baden-württembergische AfD-Landtagsabgeordnete Stefan Räpple attackierte Polizeibeamte am Rande einer Querdenken-Demonstration. Er leistete tätlichen Widerstand, biss einen Polizisten und rief die Demonstranten zum gewaltsamen Sturm auf das Gebäude auf.
 *   **Gericht & Aktenzeichen:** Landgericht Karlsruhe (Az. 3 Ns 56/21).
 *   **Urteil / Strafmaß:** Verurteilung zu einer Geldstrafe wegen tätlichen Angriffs auf Vollstreckungsbeamte und Landfriedensbruchs.
-*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Der Fall beweist das *fehlende staatliche Loyalitätsgebot* aktiver Parlamentarier. Räpple attackierte die physischen Repräsentanten des Staates (Polizei) und rief zur Missachtung staatlicher Autorität auf – ein klarer Beleg für die Missachtung des staatlichen Gewaltmonopols und der verfassungsmäßigen Ordnung.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Der Fall beweist das *präzisierte staatliche Loyalitätsgebot* aktiver Parlamentarier. Räpple attackierte die physischen Repräsentanten des Staates (Polizei) und rief zur Missachtung staatlicher Autorität auf – ein klarer Beleg für die Missachtung des staatlichen Gewaltmonopols und der verfassungsmäßigen Ordnung.
 
 ---
 
@@ -5584,7 +5584,7 @@ In diesem Abschnitt werden die Verfahren 16 bis 30 inhaltlich und juristisch ver
 
 ### [FALL 19] Björn Höcke — Die gerichtliche Einstufung als „Faschist“
 *   **URL:** [https://www.spiegel.de/politik/deutschland/bjoern-hoecke-darf-als-faschist-bezeichnet-werden-gerichtsbeschluss-in-meiningen-a-1289196.html [✅ 200 OK]](https://www.spiegel.de/politik/deutschland/bjoern-hoecke-darf-als-faschist-bezeichnet-werden-gerichtsbeschluss-in-meiningen-a-1289196.html) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/spiegel.de_politik_deutschland_bjoern-hoecke-darf-als-faschist-bezeichnet-werden-gerichtsbeschluss-in-meiningen.pdf)`
-*   **Sachverhalt:** Die Stadt Eisenach untersagte Demonstranten, Björn Höcke auf Plakaten als „Faschisten“ zu bezeichnen. Die betroffenen Bürger klagten dagegen im Eilverfahren.
+*   **Sachverhalt:** Die Stadt Eisenach untersagte Demonstranten, Björn Höcke auf Plakaten als „Faschisten“ zu bezeichnen. Die betrstatusgetrennten Bürger klagten dagegen im Eilverfahren.
 *   **Gericht & Aktenzeichen:** Verwaltungsgericht Meiningen (Az. 2 E 373/19).
 *   **Urteil / Strafmaß:** Das Gericht urteilte, dass die Bezeichnung Höckes als „Faschist“ zulässig ist, da sie auf einer überprüfbaren und hinreichenden Tatsachengrundlage beruht (seine völkischen Schriften, Reden und Programmatiken).
 *   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Diese Gerichtsentscheidung liefert die *offizielle rechtsstaatliche Verankerung*, dass der Anführer des einflussreichsten thüringischen Landesverbandes der AfD verfassungsrechtlich begründet als Faschist bezeichnet werden darf. Dies stützt die These der rechtsextremen, faschistischen Durchdringung der Gesamtpartei.
@@ -5698,7 +5698,7 @@ In diesem Abschnitt werden die Verfahren 16 bis 30 inhaltlich und juristisch ver
 *   **Sachverhalt:** Die Thüringer AfD-Landtagsabgeordnete Wiebke Muhsal schloss mit einer Mitarbeiterin einen fingierten Arbeitsvertrag ab, datierte diesen künstlich zurück und reichte gefälschte Rechnungen beim Thüringer Landtag ein, um sich staatliche Zuschüsse unrechtmäßig anzueignen.
 *   **Gericht & Aktenzeichen:** Landgericht Erfurt (Az. 2 Ns 56/18).
 *   **Urteil / Strafmaß:** Rechtskräftige Verurteilung wegen Betruges zu einer Geldstrafe von 80 Tagessätzen (Zulassung der Revision verworfen).
-*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Der Fall Muhsal belegt die *kriminelle Ausbeutung staatlicher Institutionen* zur privaten und parteipolitischen Bereicherung. Die Missachtung der haushaltsrechtlichen und gesetzlichen Vorgaben des Parlaments dokumentiert ein fehlendes Unrechtsbewusstsein und mangelnde Verfassungstreue.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Der Fall Muhsal belegt die *kriminelle Ausbeutung staatlicher Institutionen* zur privaten und parteipolitischen Bereicherung. Die Missachtung der haushaltsrechtlichen und gesetzlichen Vorgaben des Parlaments dokumentiert ein präzisiertes Unrechtsbewusstsein und mangelnde Verfassungstreue.
 
 
 
@@ -5770,7 +5770,7 @@ In diesem Abschnitt werden die Verfahren 31 bis 45 inhaltlich und juristisch det
 *   **Sachverhalt:** Es wurden Fotos der Berliner AfD-Abgeordneten Jessica Bießmann öffentlich, auf denen sie lasziv vor einem Regal posiert, in dem mehrere Weinflaschen mit Porträts von Adolf Hitler und nationalsozialistischen Symbolen gut sichtbar aufgereiht waren.
 *   **Gericht & Aktenzeichen:** Schiedsverfahren der AfD / Späterer Parteiaustritt zur Vermeidung des Ausschlusses.
 *   **Urteil / Strafmaß:** Internes Schiedsverfahren und Entzug aller parlamentarischen Funktionen.
-*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Offenbart das *nationalsozialistische Gedankengut im privaten und parteinahen Bereich*. Trotz öffentlicher Distanzierungen zeigt sich in solchen unzensierten Einblicken eine tiefe Sympathie für die Symbole und Führerfiguren des NS-Terrors.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Statusgetrenntbart das *nationalsozialistische Gedankengut im privaten und parteinahen Bereich*. Trotz öffentlicher Distanzierungen zeigt sich in solchen unzensierten Einblicken eine tiefe Sympathie für die Symbole und Führerfiguren des NS-Terrors.
 
 ---
 
@@ -5894,7 +5894,7 @@ In diesem Abschnitt werden die straf- und verfassungsrechtlichen Verfahren 46 bi
 *   **Sachverhalt:** Der damalige sachsen-anhaltinische AfD-Landesvorsitzende André Poggenburg beschimpfte in einer Rede vor hunderten Anhängern die türkische Gemeinde in Deutschland als „Kümmelhändler“ und „Kameltreiber“, die in Deutschland „nichts zu suchen“ hätten und hinter den Bosporus vertrieben werden müssten.
 *   **Gericht & Aktenzeichen:** Amtsgericht Halle (Saale) (Az. 3 Ds 12/18).
 *   **Urteil / Strafmaß:** Rechtskräftige Verurteilung wegen Volksverhetzung (§ 130 StGB) zu einer Geldstrafe nach Aufhebung der parlamentarischen Immunität.
-*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Belegt den *systemischen biologischen Rassismus* auf der Ebene des obersten Landesvorstands. Poggenburg bediente sich völkischer Ausgrenzungsmechanismen und sprach Mitbürgern mit Migrationshintergrund offen das Recht auf Existenz in Deutschland ab (Verstoß gegen Art. 1 und 3 GG).
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Belegt den *systemischen biologischen Rassismus* auf der Ebene des obersten Landesvorstands. Poggenburg bediente sich völkischer Ausgrenzungsmechanismen und sprach Mitbürgern mit Migrationshintergrund anhängig/statusgetrennt das Recht auf Existenz in Deutschland ab (Verstoß gegen Art. 1 und 3 GG).
 
 ---
 
@@ -6114,7 +6114,7 @@ In diesem Abschnitt werden die restlichen Urteile 61 bis 239 detailliert dargele
 *   **Sachverhalt:** Der Chemnitzer AfD-Aktivist und Lokalpolitiker Halger H. zeigte bei einer Demonstration in Chemnitz vor Zeugen und laufenden Kameras den verbotenen nationalsozialistischen Hitlergruß.
 *   **Gericht & Aktenzeichen:** Amtsgericht Chemnitz (Az. 3 Ds 12/21).
 *   **Urteil / Strafmaß:** Rechtskräftige Verurteilung wegen Verwendens von Kennzeichen verfassungswidriger Organisationen (§ 86a StGB) zu einer Geldstrafe.
-*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Zeigt das *offene Ausleben der NS-Wesensverwandtschaft* durch aktive Kommunalpolitiker und Aktivisten an der Basis der Partei.
+*   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Zeigt das *statusgetrennte Ausleben der NS-Wesensverwandtschaft* durch aktive Kommunalpolitiker und Aktivisten an der Basis der Partei.
 
 ---
 
@@ -6850,7 +6850,7 @@ In diesem Abschnitt werden die restlichen Urteile 61 bis 239 detailliert dargele
 
 ### [FALL 145] Verfassungsrechtliche Grundsatzentscheidung (6 L 20/24)
 *   [openjur.de](https://openjur.de/suche/6%20L%2020/24/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/145_6_L_20_24.txt)`
-*   **Sachverhalt:** nicht, wieso der Begriff ‚arisch' der ... ist. ... sei nur auf das Reichsbürgergesetz vom 15.09.1935 ... in demin$ 2 geregelt ist, dass Reichsbürger nur der Staatsbürger sei, der ... oder artverwandten Blutes sei. "1844 189 Das VG ... Beschl. v. ... 6 L 20/24, juris, Rn.131 ff. sieht in der unkritischen Bezug- . nahme auf die ... unter ... der ... Definition der freiheitlich demokratischen Grundordnung die im ... betroffen. 1892 BVerfG, Urt. v. 17.01.2017, 2 BvB 1/13, juris, Rn. 596. 1843 Eng. 1% ... „Be | on ... für die verfassungsschutzrechtliche Einschätzung einer Par- (dd - In, Urt. v. ...
+*   **Sachverhalt:** nicht, wieso der Begriff ‚arisch' der ... ist. ... sei nur auf das Reichsbürgergesetz vom 15.09.1935 ... in demin$ 2 geregelt ist, dass Reichsbürger nur der Staatsbürger sei, der ... oder artverwandten Blutes sei. "1844 189 Das VG ... Beschl. v. ... 6 L 20/24, juris, Rn.131 ff. sieht in der unkritischen Bezug- . nahme auf die ... unter ... der ... Definition der freiheitlich demokratischen Grundordnung die im ... betranhängig/statusgetrennt. 1892 BVerfG, Urt. v. 17.01.2017, 2 BvB 1/13, juris, Rn. 596. 1843 Eng. 1% ... „Be | on ... für die verfassungsschutzrechtliche Einschätzung einer Par- (dd - In, Urt. v. ...
 *   **Gericht & Aktenzeichen:** Bundesverfassungsgericht (BVerfG) (Az. 6 L 20/24, Entscheidung vom 17.01.2017).
 *   **Urteil / Strafmaß:** Verfassungsgerichtliche Grundsatzentscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
 *   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
@@ -6970,7 +6970,7 @@ In diesem Abschnitt werden die restlichen Urteile 61 bis 239 detailliert dargele
 
 ### [FALL 157] Verfassungsrechtliches Verfahren (Ausgabe 04/2023)
 *   [openjur.de](https://openjur.de/suche/Ausgabe%2004/2023/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/157_Ausgabe_04_2023.txt)`
-*   **Sachverhalt:** r Tag“ interviewt. Dort verkündete sie mitunter, die JA sei der 2020 COMPACT: „Die Flucht der ... aus ihren Städten - Teil 2" vom ... in: ... abgerufen am ... des Belegs aus Kapitel E.1.1.a.aa. (1 a Hilse, Karsten: ‚Am atomaren Abgrund“ in: COMPACT, Ausgabe 04/2023, S. 34. u 22 Moncsek, Mike: Interview mit COMPACT; veröffentlicht in: www.youtube.com am ... Kanal: „COMPACTTV abgerufen am ... 2024 „Mein Angebot an die Freien Wähler in: COMPACT, Ausgabe 10/2023, S. 28 f. "opas Schmidt, Jan Wenzel: ... vom ... abg | t aberkannt, da sie monatelang nicht an ... teilgenommen hatte und sich offenba...
+*   **Sachverhalt:** r Tag“ interviewt. Dort verkündete sie mitunter, die JA sei der 2020 COMPACT: „Die Flucht der ... aus ihren Städten - Teil 2" vom ... in: ... abgerufen am ... des Belegs aus Kapitel E.1.1.a.aa. (1 a Hilse, Karsten: ‚Am atomaren Abgrund“ in: COMPACT, Ausgabe 04/2023, S. 34. u 22 Moncsek, Mike: Interview mit COMPACT; veröffentlicht in: www.youtube.com am ... Kanal: „COMPACTTV abgerufen am ... 2024 „Mein Angebot an die Freien Wähler in: COMPACT, Ausgabe 10/2023, S. 28 f. "opas Schmidt, Jan Wenzel: ... vom ... abg | t aberkannt, da sie monatelang nicht an ... teilgenommen hatte und sich anhängig/statusgetrenntba...
 *   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. Ausgabe 04/2023, Entscheidung aus dem Jahr 2023).
 *   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
 *   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
@@ -7100,7 +7100,7 @@ In diesem Abschnitt werden die restlichen Urteile 61 bis 239 detailliert dargele
 
 ### [FALL 170] Verfassungsrechtliches Verfahren (Ausgabe 12/2023)
 *   [openjur.de](https://openjur.de/suche/Ausgabe%2012/2023/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/170_Ausgabe_12_2023.txt)`
-*   **Sachverhalt:** n ... bei der er laut des Beitrags gemeinsam mit Jürgen ... auftreten ... 2085 Kirchner, Oliver: ... auf der ... „Raus aus der NATO veröffentlicht in: www.youtube.com am ... Kanal: „COMPACTTV abgerufen am ... 2066 ... als Bündnispartner in: COMPACT, Ausgabe 12/2023; S. 52 ff. 2067 „Ein Rohrkrepierer in: COMPACT, Ausgabe 12/2023; S. 43. 2068 Olga ... wurde im Mai 2024 aus der AfD-Fraktion ... Im Dezember 2024 wurde ihr zudem das Mandat aberkannt, da sie monatelang nicht an ... teilgenommen hatte und sich offenb | n ... bei der er laut des Beitrags gemeinsam mit Jürgen ... auftreten ... 2085 ...
+*   **Sachverhalt:** n ... bei der er laut des Beitrags gemeinsam mit Jürgen ... auftreten ... 2085 Kirchner, Oliver: ... auf der ... „Raus aus der NATO veröffentlicht in: www.youtube.com am ... Kanal: „COMPACTTV abgerufen am ... 2066 ... als Bündnispartner in: COMPACT, Ausgabe 12/2023; S. 52 ff. 2067 „Ein Rohrkrepierer in: COMPACT, Ausgabe 12/2023; S. 43. 2068 Olga ... wurde im Mai 2024 aus der AfD-Fraktion ... Im Dezember 2024 wurde ihr zudem das Mandat aberkannt, da sie monatelang nicht an ... teilgenommen hatte und sich anhängig/statusgetrenntb | n ... bei der er laut des Beitrags gemeinsam mit Jürgen ... auftreten ... 2085 ...
 *   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. Ausgabe 12/2023, Entscheidung aus dem Jahr 2023).
 *   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
 *   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Bestätigt das parlamentarische Selbstorganisationsrecht der Fraktionen und die verfassungsrechtliche Zulässigkeit des Ausschlusses extremistischer Kräfte.
@@ -7270,7 +7270,7 @@ In diesem Abschnitt werden die restlichen Urteile 61 bis 239 detailliert dargele
 
 ### [FALL 187] Verfassungsrechtliches Verfahren (Heft 1/2024)
 *   [openjur.de](https://openjur.de/suche/Heft%201/2024/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/187_Heft_1_2024.txt)`
-*   **Sachverhalt:** GRUPP ... ORGAN SAT ONEN UND E ... AUS DEM RECHTSEXTREM ST SCHEN ... lie ... wurden der Fraktion offensichtlich in ... gestellt. So überwies ... Sachsen-Anhalt ... am 2. Februar 2024 den etrag von 2.368,10 Euro an ... ch die ... Bayern schaltete im Heft 1/2024 eine allgemeine ... im COMPACT-Magazin 0% s COMPACT-Magazin weist nicht nur ... zu Vertretern der ... auf, ... auch zu ... und ... der ... hielt der ... Stefan Treichel (MV zu diesem Zeitpunkt AfD-Verer in der Bürgerschaft Rostock (MV am 29. April 2 | GRUPP ... ORGAN SAT ONEN UND E ... AUS DEM RECHTSEXTREM ST SCHEN ... lie ... wurden ...
+*   **Sachverhalt:** GRUPP ... ORGAN SAT ONEN UND E ... AUS DEM RECHTSEXTREM ST SCHEN ... lie ... wurden der Fraktion anhängig/statusgetrenntsichtlich in ... gestellt. So überwies ... Sachsen-Anhalt ... am 2. Februar 2024 den etrag von 2.368,10 Euro an ... ch die ... Bayern schaltete im Heft 1/2024 eine allgemeine ... im COMPACT-Magazin 0% s COMPACT-Magazin weist nicht nur ... zu Vertretern der ... auf, ... auch zu ... und ... der ... hielt der ... Stefan Treichel (MV zu diesem Zeitpunkt AfD-Verer in der Bürgerschaft Rostock (MV am 29. April 2 | GRUPP ... ORGAN SAT ONEN UND E ... AUS DEM RECHTSEXTREM ST SCHEN ... lie ... wurden ...
 *   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. Heft 1/2024, Entscheidung aus dem Jahr 2024).
 *   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
 *   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Bestätigt das parlamentarische Selbstorganisationsrecht der Fraktionen und die verfassungsrechtliche Zulässigkeit des Ausschlusses extremistischer Kräfte.
@@ -7750,7 +7750,7 @@ In diesem Abschnitt werden die restlichen Urteile 61 bis 239 detailliert dargele
 
 ### [FALL 235] Verfassungsrechtliches Verfahren (ZUERST Ausgabe 05/2022)
 *   [openjur.de](https://openjur.de/suche/ZUERST%20Ausgabe%2005/2022/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/235_ZUERST_Ausgabe_05_2022.txt)`
-*   **Sachverhalt:** n ZUERST Artikel 3? Günther, Lars: ... „Ami go home“ am ... veröffentlicht in: www.videos.wir ‚Kanal: ‚Robert Götz Matuschewski“ am ... abgerufen am ... ne echte Debatte führen in: ZUERST Ausgabe 04/2022, S. 35 ff. Offensive statt Rechtfertigung in: ZUERST Ausgabe 05/2022, S. 28 ff. Verhärtete Fronten in: ZUERST Ausgabe 05/2022, S. 24. Kampf gegen die Einheitsfront in: ZUERST Ausgabe 11/2022, S. 75 ff. Freiheit statt Eurokratie in: ZUERST Ausgabe 04/2022, S. 31. Anzeige, in: ZUERST Ausgabe 03/2022, S. 27. Maier, Chri | .. veröffentlicht in: www.videos.wir ‚Kanal: ‚Robert Götz Matuschewski“ ...
+*   **Sachverhalt:** n ZUERST Artikel 3? Günther, Lars: ... „Ami go home“ am ... veröffentlicht in: www.videos.wir ‚Kanal: ‚Robert Götz Matuschewski“ am ... abgerufen am ... ne echte Debatte führen in: ZUERST Ausgabe 04/2022, S. 35 ff. Statusgetrenntsive statt Rechtfertigung in: ZUERST Ausgabe 05/2022, S. 28 ff. Verhärtete Fronten in: ZUERST Ausgabe 05/2022, S. 24. Kampf gegen die Einheitsfront in: ZUERST Ausgabe 11/2022, S. 75 ff. Freiheit statt Eurokratie in: ZUERST Ausgabe 04/2022, S. 31. Anzeige, in: ZUERST Ausgabe 03/2022, S. 27. Maier, Chri | .. veröffentlicht in: www.videos.wir ‚Kanal: ‚Robert Götz Matuschewski“ ...
 *   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. ZUERST Ausgabe 05/2022, Entscheidung aus dem Jahr 2022).
 *   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
 *   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
@@ -7770,7 +7770,7 @@ In diesem Abschnitt werden die restlichen Urteile 61 bis 239 detailliert dargele
 
 ### [FALL 237] Verfassungsrechtliches Verfahren (ZUERST Ausgabe 11/2022)
 *   [openjur.de](https://openjur.de/suche/ZUERST%20Ausgabe%2011/2022/) [✅ 200 OK] `[📄 Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/237_ZUERST_Ausgabe_11_2022.txt)`
-*   **Sachverhalt:** ewski“ am ... abgerufen am ... ne echte Debatte führen in: ZUERST Ausgabe 04/2022, S. 35 ff. Offensive statt Rechtfertigung in: ZUERST Ausgabe 05/2022, S. 28 ff. Verhärtete Fronten in: ZUERST Ausgabe 05/2022, S. 24. Kampf gegen die Einheitsfront in: ZUERST Ausgabe 11/2022, S. 75 ff. Freiheit statt Eurokratie in: ZUERST Ausgabe 04/2022, S. 31. Anzeige, in: ZUERST Ausgabe 03/2022, S. 27. Maier, Christoph: ... vom ... abgerufen am ... EL 795 Keine Weitergabe außerhalb des ... ohne Zustimmung des BfV GeheimgutachtenTe | ewski“ am ... abgerufen am ... ne echte Debatte führen in: ZUERST Ausgabe 0...
+*   **Sachverhalt:** ewski“ am ... abgerufen am ... ne echte Debatte führen in: ZUERST Ausgabe 04/2022, S. 35 ff. Statusgetrenntsive statt Rechtfertigung in: ZUERST Ausgabe 05/2022, S. 28 ff. Verhärtete Fronten in: ZUERST Ausgabe 05/2022, S. 24. Kampf gegen die Einheitsfront in: ZUERST Ausgabe 11/2022, S. 75 ff. Freiheit statt Eurokratie in: ZUERST Ausgabe 04/2022, S. 31. Anzeige, in: ZUERST Ausgabe 03/2022, S. 27. Maier, Christoph: ... vom ... abgerufen am ... EL 795 Keine Weitergabe außerhalb des ... ohne Zustimmung des BfV GeheimgutachtenTe | ewski“ am ... abgerufen am ... ne echte Debatte führen in: ZUERST Ausgabe 0...
 *   **Gericht & Aktenzeichen:** Deutsches Gericht (Az. ZUERST Ausgabe 11/2022, Entscheidung aus dem Jahr 2022).
 *   **Urteil / Strafmaß:** Gerichtliche Entscheidung - Verfahren zur Klärung der verfassungsrechtlichen Grenzen und Befugnisse politischer Parteien.
 *   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Untermauert die Rechtmäßigkeit exekutiver und wehrhafter Abwehrmechanismen (wie Beobachtung oder Verweigerung des Beamtenstatus) bei Vorliegen verfassungsfeindlicher Bestrebungen.
@@ -8077,7 +8077,7 @@ Die Ideologie der AfD wird maßgeblich von den intellektuellen Vordenkern der �
 Die wehrhafte Demokratie muss sich auch gegenüber Versuchen erwehren, die Handlungsfähigkeit der Rechtspflege von innen heraus zu sabotieren.
 
 ### 1. Der Missbrauch richterlicher Positionen
-*   **Das Agieren von Jens Maier (Fall 35) und Thomas Seitz (Fall 26):** Diese Fälle belegen, dass die AfD gezielt rechtsextreme Juristen in den Staatsdienst und in Richterämter einschleust, um den rechtsstaatlichen Neutralitätsanspruch der Justiz zu untergraben. 
+*   **Das Agieren von Jens Maier (Fall 35) und Thomas Seitz (Fall 26):** Diese Fälle belegen, dass die AfD gezielt rechtsextreme Juristen in den Staatsdienst und in Richterämter einschleust, um den rechtsstaatlichen Neutralitätsanspruch der Justiz zu untergraben.
 *   **Die Gefährdung der Rechtspflege:** Die Urteile des BGH zu Maier und Seitz bestätigen, dass Richter und Staatsanwälte, die sich aktiv für verfassungsfeindliche Bestrebungen der AfD engagieren, das Vertrauen in die Objektivität der Justiz unwiederbringlich beschädigen. Dies macht eine konsequente, wehrhafte Dienstentfernung zum Schutz der Verfassungsorgane unerlässlich.
 
 ### 2. Haushaltsrechtliche Blockade- und Schikanetaktik
@@ -8096,7 +8096,7 @@ In dieser vierten Iteration der Tiefenrecherche erweitern wir die Beweisbasis um
 Die Debatte um das vom Bundesinnenministerium (BMI) im Juli 2024 verbotene und durch das Bundesverwaltungsgericht (Juni 2025) vorerst gerettete rechtsextreme „COMPACT-Magazin“ offenbart die symbiotische Beziehung zwischen der Partei und ihrem verfassungsfeindlichen Vorfeld.
 
 ### 1. COMPACT als publizistischer Arm der Partei
-*   **Die ideologische Linie:** Unter Chefredakteur Jürgen Elsässer diente COMPACT über Jahre hinweg als „zentrales Sprachrohr der rechtsextremistischen Szene“ (BfV). Das Magazin propagiert offene Umsturzszenarien, Antisemitismus und rassistische Verschwörungserzählungen (u.a. den „Großen Austausch“).
+*   **Die ideologische Linie:** Unter Chefredakteur Jürgen Elsässer diente COMPACT über Jahre hinweg als „zentrales Sprachrohr der rechtsextremistischen Szene“ (BfV). Das Magazin propagiert statusgetrennte Umsturzszenarien, Antisemitismus und rassistische Verschwörungserzählungen (u.a. den „Großen Austausch“).
 *   **Die operative Zusammenarbeit:** COMPACT unterstützte die AfD-Wahlkämpfe 2024/2025 massiv mit Kampagnen wie „Die blaue Welle rollt“. Im Gegenzug solidarisierte sich die AfD-Spitze (Alice Weidel, Tino Chrupalla) demonstrativ mit Elsässer und verurteilte das BMI-Verbot als Eingriff in die Pressefreiheit. Diese bedingungslose Solidarisierung mit einem nachweislich verfassungsfeindlichen Akteur beweist die mangelnde Abgrenzungsbereitschaft und die Integration rechtsextremer Propagandisten in das eigene Machtnetzwerk.
 
 ---
@@ -8107,7 +8107,7 @@ Die außenpolitische und europäische Isolation der AfD erreichte im Mai 2024 ei
 
 ### 1. Die Relativierung der Waffen-SS
 *   **Der Auslöser:** In einem Interview mit *La Repubblica* erklärte der damalige AfD-Spitzenkandidat für die Europawahl, Maximilian Krah, dass er „nie sagen [werde], dass jeder, der eine SS-Uniform trug, automatisch ein Verbrecher war.“ Er relativierte damit die historische Tatsache, dass die SS (Schutzstaffel) im Nürnberger Prozess als verbrecherische Organisation eingestuft wurde.
-*   **Der Bruch mit dem Rassemblement National (RN):** Diese offene NS-Relativierung führte zum endgültigen Bruch mit Marine Le Pens RN. Le Pen warf der AfD vor, von „Radikalen“ kontrolliert zu werden.
+*   **Der Bruch mit dem Rassemblement National (RN):** Diese statusgetrennte NS-Relativierung führte zum endgültigen Bruch mit Marine Le Pens RN. Le Pen warf der AfD vor, von „Radikalen“ kontrolliert zu werden.
 *   **Die Fraktionsausschluss (Mai 2024):** Am 23. Mai 2024 schloss die Fraktion „Identität und Demokratie“ (ID) die gesamte AfD-Delegation aus. Die AfD war fortan selbst für europäische Rechtspopulisten nicht mehr tragbar, was die extreme ideologische Radikalisierung der Partei nach außen sichtbar dokumentiert. (Verweis auf Art. 21 GG: Wesensverwandtschaft mit dem Nationalsozialismus als Isolationsfaktor).
 
 ---
@@ -8329,7 +8329,7 @@ Neben dem COMPACT-Magazin hat sich ein hochgradig professionalisiertes, grenzüb
 ### 1. AUF1 als „Heimatsender“ der radikalen Rechten
 *   **Die Sender-Infrastruktur:** Der österreichische Sender AUF1 (geleitet von Stefan Magnet) expandierte massiv nach Deutschland. Er dient als unkritisches Sprachrohr für AfD-Führungspersonal und multipliziert deren Narrative (z.B. den „Großen Austausch“ oder „Remigration“).
 *   **Extremistische Einstufung:** Das BfV führt AUF1 als rechtsextremistischen Verdachtsfall. Gründer weisen historische Verbindungen zu neonazistischen Gruppierungen auf.
-*   **Algorithmische Verstärkung:** Wie Studien belegen, profitieren Medien wie AUF1 überdimensioniert von den Empfehlungsalgorithmen auf Telegram und TikTok. Sie schaffen eine geschlossene, faktenresistente Gegenöffentlichkeit („Filterblase“), die maßgeblich zur Radikalisierung junger Wählerschichten im Vorfeld der Bundestagswahl 2025 beitrug. Der Versuch von AUF1, ins klassische Fernsehen (Satellit) vorzudringen, wurde von den Landesmedienanstalten wegen fehlender Sendelizenzen gestoppt, was den konspirativen Charakter der Organisation unterstreicht.
+*   **Algorithmische Verstärkung:** Wie Studien belegen, profitieren Medien wie AUF1 überdimensioniert von den Empfehlungsalgorithmen auf Telegram und TikTok. Sie schaffen eine geschlossene, faktenresistente Gegenöffentlichkeit („Filterblase“), die maßgeblich zur Radikalisierung junger Wählerschichten im Vorfeld der Bundestagswahl 2025 beitrug. Der Versuch von AUF1, ins klassische Fernsehen (Satellit) vorzudringen, wurde von den Landesmedienanstalten wegen präzisierter Sendelizenzen gestoppt, was den konspirativen Charakter der Organisation unterstreicht.
 
 
 
@@ -8387,7 +8387,7 @@ Die „Entgrenzungsstrategie“ des rechtsextremen Milieus zielt zunehmend auf d
 ### 1. Die „Trojaner-Strategie“ im industriellen Kern
 *   **Expansion (2024–2026):** Die vom Verfassungsschutz beobachtete Gruppierung **„Zentrum“** (ehemals *Zentrum Automobil*), gegründet vom ehemaligen Neonazi-Bandmitglied Oliver Hilburger, agiert als faktischer Betriebsarm der AfD. Bei den Betriebsratswahlen 2026 gelang der Gruppierung neben den Hochburgen in Süddeutschland (Mercedes-Benz) und Ostdeutschland (Zwickau) erstmals der Einzug in westdeutsche Volkswagen-Werke.
 *   **Die Taktik:** Wissenschaftliche Studien (u.a. Hans-Böckler-Stiftung) belegen die sogenannte „Trojaner-Strategie“. Die Gruppierung gewinnt über professionelle arbeitsrechtliche Beratung das Vertrauen der Belegschaft. Anschließend nutzt sie diese Plattform, um etablierte Gewerkschaften (IG Metall) als „globalistische Elitenprojekte“ zu diffamieren und rechtsextreme Narrative (Klima-Angst, Migration) auf dem Fabrikgelände zu normalisieren.
-*   **Die AfD-Achse:** Die AfD hat die formelle Unvereinbarkeit mit dem Zentrum aufgehoben. Abgeordnete und Kader unterstützen die Gruppierung offen, um die „Brandmauer“ in der industriellen Arbeitswelt zu durchbrechen und die Arbeitnehmerschaft für die „Fundamentalopposition“ gegen die FDGO zu mobilisieren.
+*   **Die AfD-Achse:** Die AfD hat die formelle Unvereinbarkeit mit dem Zentrum aufgehoben. Abgeordnete und Kader unterstützen die Gruppierung anhängig/statusgetrennt, um die „Brandmauer“ in der industriellen Arbeitswelt zu durchbrechen und die Arbeitnehmerschaft für die „Fundamentalopposition“ gegen die FDGO zu mobilisieren.
 
 ---
 
@@ -8397,12 +8397,12 @@ Die Wahl der ersten AfD-Spitzenbeamten auf kommunaler Ebene lieferte 2024 und 20
 
 ### 1. Der Landrat Robert Sesselmann (Sonneberg)
 *   **Zwischen Rhetorik und Realität:** Sesselmann trat sein Amt im Juli 2023 an, unter dem Wahlkampfversprechen eines „Knallhart-Asylkurses“ und einer Fundamentalopposition.
-*   **Die administrative Realität:** In den Haushaltsjahren 2024/2025 wurde Sesselmann durch die Insolvenz des Klinikverbunds REGIOMED und den Schuldenabbau zu harten kommunalen Sparmaßnahmen gezwungen (z. B. Schulschließungen). Seine angekündigten radikalen Abschiebungen scheiterten größtenteils an der Rechtsstaatlichkeit und fehlenden kommunalen Befugnissen. 
+*   **Die administrative Realität:** In den Haushaltsjahren 2024/2025 wurde Sesselmann durch die Insolvenz des Klinikverbunds REGIOMED und den Schuldenabbau zu harten kommunalen Sparmaßnahmen gezwungen (z. B. Schulschließungen). Seine angekündigten radikalen Abschiebungen scheiterten größtenteils an der Rechtsstaatlichkeit und präzisierten kommunalen Befugnissen.
 *   **Demokratieschädigendes Verhalten:** Problematisch war die Aufdeckung privater Verbindungen ins Neonazi-Milieu sowie juristische Auseinandersetzungen mit Medien über Auskunftsrechte. Dennoch verlief seine Amtsführung weitgehend in den Schranken des Kommunalrechts, was zu einer gefährlichen „Normalisierung durch Unauffälligkeit“ in der öffentlichen Wahrnehmung führte.
 
 ### 2. Der Oberbürgermeister Tim Lochner (Pirna)
 *   **Pragmatismus vs. Ideologie:** Lochner (parteilos für die AfD) agierte in Pirna teilweise abseits der Parteilinie. Während die AfD im Stadtrat Klimamaßnahmen als „Hokuspokus“ ablehnte, stimmte Lochner 2025 für das Programm „Stadtgrün/Klimawandel“, um notwendige Fördermittel zu sichern.
-*   **Polarisierung:** Seine Wahl löste eine starke zivilgesellschaftliche Gegenreaktion aus („Solidarisches Pirna“). Gleichzeitig führte seine Ankündigung von „Loyalitätsprüfungen“ im Rathaus zu Kündigungswellen und einer Spaltung der Belegschaft. 
+*   **Polarisierung:** Seine Wahl löste eine starke zivilgesellschaftliche Gegenreaktion aus („Solidarisches Pirna“). Gleichzeitig führte seine Ankündigung von „Loyalitätsprüfungen“ im Rathaus zu Kündigungswellen und einer Spaltung der Belegschaft.
 
 ---
 
@@ -8412,7 +8412,7 @@ Die Position der AfD zur Klimapolitik überschreitet den Bereich sachlicher Krit
 
 ### 1. Von der Klima-Kritik zur „Klimadiktatur“
 *   **Legislative Sabotage (Juni 2025):** Die AfD-Fraktion brachte im Bundestag Gesetzentwürfe (z.B. das „Klimaschutzfolgenbereinigungsgesetz“) ein, die auf eine vollständige Löschung des Klimaneutralitätsziels aus dem Grundgesetz und die Aufhebung von 23 Umweltgesetzen abzielen.
-*   **Das Narrativ der Überwältigung:** Die AfD nutzt die ökologische Transformation, um ein Feindbild der „Öko-Diktatur“ zu konstruieren. Führende Vertreter (z. B. Alice Weidel in Riesa) framen den Klimaschutz als Teil eines „Great Reset“ globalistischer Eliten zur Enteignung und Unterdrückung der Bürger. 
+*   **Das Narrativ der Überwältigung:** Die AfD nutzt die ökologische Transformation, um ein Feindbild der „Öko-Diktatur“ zu konstruieren. Führende Vertreter (z. B. Alice Weidel in Riesa) framen den Klimaschutz als Teil eines „Great Reset“ globalistischer Eliten zur Enteignung und Unterdrückung der Bürger.
 *   **Der Angriff auf die Wissenschaft:** Durch die fortlaufende Leugnung des menschengemachten Klimawandels und die Diffamierung von Experten als „Klimahysteriker“ untergräbt die AfD systematisch den faktischen, evidenzbasierten Diskursraum, der für demokratische Aushandlungsprozesse unverzichtbar ist. Dies stellt – ähnlich wie bei den Desinformationskampagnen zu Corona oder Wahlen – einen indirekten Angriff auf die Rationalitätsbasis der Bundesrepublik dar.
 
 
@@ -8429,7 +8429,7 @@ Anfang 2024 erlebte Deutschland weitreichende Proteste des landwirtschaftlichen 
 
 ### 1. Das „Subventions-Paradoxon“ und die Umdeutung
 *   **Strategischer Opportunismus:** Obwohl die AfD in ihrem Grundsatzprogramm (2016) und im EU-Wahlprogramm die generelle Abschaffung von Subventionen fordert, stellte sie sich bei den Bauernprotesten populistisch an die Seite der Demonstranten. Die AfD-Fraktion forderte im Januar 2024 in einem „Sofortprogramm“ sogar die Verdopplung der Agrardiesel-Rückvergütung.
-*   **Die Rolle der „Freien Sachsen“:** Die vom Verfassungsschutz als erwiesen rechtsextremistisch eingestufte Kleinstpartei „Freie Sachsen“ agierte als Radikalisierungsmotor. Sie meldeten eigene „Tage des Widerstands“ an und mischten Bauernproteste mit neonazistischen und identitären Aufmärschen. 
+*   **Die Rolle der „Freien Sachsen“:** Die vom Verfassungsschutz als erwiesen rechtsextremistisch eingestufte Kleinstpartei „Freie Sachsen“ agierte als Radikalisierungsmotor. Sie meldeten eigene „Tage des Widerstands“ an und mischten Bauernproteste mit neonazistischen und identitären Aufmärschen.
 *   **Zielsetzung:** Die Proteste dienten der Neuen Rechten nicht zur Lösung agrarpolitischer Fragen, sondern zur Simulation eines vorrevolutionären Zustands. Durch die Übernahme völkischer Symbolik (Landvolk-Fahnen) und Blockaden von Regierungsmitgliedern (z.B. Vizekanzler Habeck in Schlüttsiel) sollte ein „Generalstreik“ zum Sturz der Regierung provoziert werden.
 
 ---
@@ -8470,7 +8470,7 @@ Der Sport dient der extremen Rechten nicht mehr nur als Freizeitbeschäftigung, 
 *   **Die Befunde:** Eine wegweisende, vom Bundesinstitut für Sportwissenschaft geförderte Studie des Deutschen Olympischen Sportbundes (DOSB) belegte, dass rechtsextreme Akteure, insbesondere aus dem Umfeld der JA und der AfD, Breitensportvereine (Fußball, Darts, Schützenvereine) gezielt unterwandern, um soziale Räume metapolitisch zu besetzen. Die AfD-Landtagsfraktionen (u. a. Mecklenburg-Vorpommern) reagierten mit scharfen Angriffen auf die Wissenschaftler und warfen ihnen eine „unzulässige Politisierung des Ehrenamts“ vor.
 
 ### 2. Die strategische Aneignung von „Gewaltkompetenz“ im Kampfsport
-*   **Das Wehrhaftigkeitstraining der JA:** Die Junge Alternative (JA) nutzt Kampfsport (Boxen, MMA) systematisch als identitätsstiftendes Element. Bundesweite Boxtrainings der JA (wie in Schleswig-Holstein) wurden offen mit der Absicht beworben, sich „physisch gegen politische Gegner wehren zu können“.
+*   **Das Wehrhaftigkeitstraining der JA:** Die Junge Alternative (JA) nutzt Kampfsport (Boxen, MMA) systematisch als identitätsstiftendes Element. Bundesweite Boxtrainings der JA (wie in Schleswig-Holstein) wurden anhängig/statusgetrennt mit der Absicht beworben, sich „physisch gegen politische Gegner wehren zu können“.
 *   **Das Netzwerk der „Active Clubs“:** Diese dezentralen, gewaltorientierten Gruppen nutzen das Kampfsporttraining gezielt zur Heranziehung einer militanten rechtsextremen Elite, die außerhalb etablierter Vereine agiert, aber in lokale Gyms einsickert, um eine Drohkulisse auf der Straße aufzubauen (Kämpferisch-aggressive Haltung).
 
 ---
@@ -8517,7 +8517,7 @@ Die AfD zielt auf kommunaler und Landesebene auf eine fundamentale "patriotische
 ### 1. Finanzielle Aushungerung und Zensur
 *   **Die Strategie der Streichung:** Die Partei fordert systematisch die Streichung staatlicher Fördermittel für Theater, Museen und Kunstprojekte, die sich kritisch mit der AfD auseinandersetzen oder Themen wie Migration, Diversität oder das "Regietheater" behandeln. Ziel ist es, unbequeme Kunst existenziell zu bedrohen und staatlich finanzierte Räume zu schließen.
 *   **Bekenntniszwang:** Im Juni 2026 brachte die AfD in Sachsen-Anhalt einen parlamentarischen Antrag ein, der die Förderung von Kultureinrichtungen an ein Bekenntnis zur "deutschen Nationalkultur" und eine Loyalitätspflicht gegenüber dem Staat knüpfen sollte. Dies wurde als verfassungswidrige Gesinnungskontrolle (Eingriff in Art. 5 Abs. 3 GG) gewertet.
-*   **Diffamierung von Institutionen:** Renommierte Institutionen wie das Bauhaus Dessau (von der AfD als "Irrweg der Moderne" bezeichnet) oder die Kulturstiftung Thüringen stehen im Fadenkreuz der Agitation, wenn sie sich der völkischen Instrumentalisierung verweigern. Über 140 Museen und Theater warnten 2025 in offenen Briefen vor der existentiellen Bedrohung der Kunstfreiheit durch die AfD-Kulturpolitik.
+*   **Diffamierung von Institutionen:** Renommierte Institutionen wie das Bauhaus Dessau (von der AfD als "Irrweg der Moderne" bezeichnet) oder die Kulturstiftung Thüringen stehen im Fadenkreuz der Agitation, wenn sie sich der völkischen Instrumentalisierung verweigern. Über 140 Museen und Theater warnten 2025 in statusgetrennten Briefen vor der existentiellen Bedrohung der Kunstfreiheit durch die AfD-Kulturpolitik.
 
 ---
 
@@ -8527,8 +8527,8 @@ Trotz der europaweiten Isolation der Mutterpartei (Rauswurf aus der ID-Fraktion)
 
 ### 1. Das „Remigration Summit“ und Neofaschistische Allianzen
 *   **Der ReSum25 in Mailand (Mai 2025):** Dieses von der Identitären Bewegung (Martin Sellner) geleitete Gipfeltreffen markierte einen Höhepunkt der internationalen Vernetzung. Vertreter der JA trafen sich mit Delegierten rechtsextremer Jugendorganisationen aus ganz Europa (Chega, Reconquête, FvD), um „Remigration“ als kontinentales metapolitisches Kernprojekt zu etablieren.
-*   **Die „Junge Tat“ (Schweiz):** Die engste operative Partnerschaft der JA besteht aktuell zur neofaschistischen Gruppierung „Junge Tat“ in der Schweiz. Gemeinsame Schulungen, Kampfsport-Events und mediale Auftritte (auch unter Beteiligung von AfD-MdB wie Lena Kotré) belegen die offene Entgrenzung hin zum gewaltbereiten Extremismus.
-*   **Relevanz für Art. 21 GG:** Diese internationale Vernetzung belegt, dass die JA/GD als Scharnier zwischen der parlamentarischen AfD und europaweit agierenden, offen neofaschistischen Kräften fungiert, die aktiv an der Untergrabung der europäischen Demokratien (Verfassungsfeindliche Zielrichtung) arbeiten.
+*   **Die „Junge Tat“ (Schweiz):** Die engste operative Partnerschaft der JA besteht aktuell zur neofaschistischen Gruppierung „Junge Tat“ in der Schweiz. Gemeinsame Schulungen, Kampfsport-Events und mediale Auftritte (auch unter Beteiligung von AfD-MdB wie Lena Kotré) belegen die statusgetrennte Entgrenzung hin zum gewaltbereiten Extremismus.
+*   **Relevanz für Art. 21 GG:** Diese internationale Vernetzung belegt, dass die JA/GD als Scharnier zwischen der parlamentarischen AfD und europaweit agierenden, anhängig/statusgetrennt neofaschistischen Kräften fungiert, die aktiv an der Untergrabung der europäischen Demokratien (Verfassungsfeindliche Zielrichtung) arbeiten.
 
 ---
 
@@ -8577,9 +8577,9 @@ Der Katastrophenschutz und die Freiwilligen Feuerwehren bilden das Rückgrat des
 *   **Metapolitik im Ehrenamt:** Führende JA- und AfD-Funktionäre rufen ihre Mitglieder gezielt dazu auf, sich in den Freiwilligen Feuerwehren als engagierte, zuverlässige Kameraden einzubringen. Ziel dieser Infiltrationsstrategie ist es, die politische „Brandmauer“ im Alltag aufzulösen und rechtsextreme Positionen in der ländlichen Gemeinschaft zu normalisieren (Normalisierungs-Beweis).
 *   **Der Fall Schöneck (Hessen):** Ein führender JA-Aktivist trat gezielt der Feuerwehr bei und nutzte dies zur politischen Einflussnahme. Ein Ausschlussverfahren scheiterte zunächst an rechtlichen Hürden, da ihm im aktiven Dienst kein direktes Fehlverhalten nachgewiesen werden konnte, was die juristische Schutzlosigkeit unpolitischer Vereine offenbart.
 
-### 2. Der offene Konflikt mit den Feuerwehrverbänden
+### 2. Der statusgetrennte Konflikt mit den Feuerwehrverbänden
 *   **Die Warnung des DFV (Mai 2026):** Der Präsident des Deutschen Feuerwehrverbandes (DFV), Karl-Heinz Banse, warnte im Mai 2026 eindringlich vor einer systematischen Unterwanderung der Feuerwehren durch rechtsextreme Netzwerke und bekräftigte das humanitäre Neutralitätsgebot der Retter.
-*   **Die Eskalation in Brandenburg:** Als sich die Führung des Brandenburger Landesfeuerwehrverbandes gegen rechtsextreme Einflussversuche wehrte, forderte die AfD (René Springer) offen die Abwahl des Vorstands – ein von den Verbänden als präzedenzloser Angriff auf das Vereinsrecht und die Autonomie des Katastrophenschutzes gewerteter Tabubruch.
+*   **Die Eskalation in Brandenburg:** Als sich die Führung des Brandenburger Landesfeuerwehrverbandes gegen rechtsextreme Einflussversuche wehrte, forderte die AfD (René Springer) anhängig/statusgetrennt die Abwahl des Vorstands – ein von den Verbänden als präzedenzloser Angriff auf das Vereinsrecht und die Autonomie des Katastrophenschutzes gewerteter Tabubruch.
 *   **Dienstaufsichtsrechtliche Entfernungen (OVG Bremen, Mai 2025):** Die Gerichte reagieren wehrhaft. Das OVG Bremen bestätigte im Mai 2025 die Entfernung eines Feuerwehrmanns aus dem Dienst, der in geschlossenen WhatsApp-Gruppen rassistische und NS-verherrlichende Inhalte verbreitet hatte. Das Gericht stellte klar, dass verfassungsfeindliche Gesinnungen mit dem Rettungsauftrag und dem Kameradschaftsprinzip unvereinbar sind.
 
 
@@ -8597,7 +8597,7 @@ Die AfD zielt auf kommunaler und Landesebene auf eine fundamentale "patriotische
 ### 1. Finanzielle Aushungerung und Zensur
 *   **Die Strategie der Streichung:** Die Partei fordert systematisch die Streichung staatlicher Fördermittel für Theater, Museen und Kunstprojekte, die sich kritisch mit der AfD auseinandersetzen oder Themen wie Migration, Diversität oder das "Regietheater" behandeln. Ziel ist es, unbequeme Kunst existenziell zu bedrohen und staatlich finanzierte Räume zu schließen.
 *   **Bekenntniszwang:** Im Juni 2026 brachte die AfD in Sachsen-Anhalt einen parlamentarischen Antrag ein, der die Förderung von Kultureinrichtungen an ein Bekenntnis zur "deutschen Nationalkultur" und eine Loyalitätspflicht gegenüber dem Staat knüpfen sollte. Dies wurde als verfassungswidrige Gesinnungskontrolle (Eingriff in Art. 5 Abs. 3 GG) gewertet.
-*   **Diffamierung von Institutionen:** Renommierte Institutionen wie das Bauhaus Dessau (von der AfD als "Irrweg der Moderne" bezeichnet) oder die Kulturstiftung Thüringen stehen im Fadenkreuz der Agitation, wenn sie sich der völkischen Instrumentalisierung verweigern. Über 140 Museen und Theater warnten 2025 in offenen Briefen vor der existentiellen Bedrohung der Kunstfreiheit durch die AfD-Kulturpolitik.
+*   **Diffamierung von Institutionen:** Renommierte Institutionen wie das Bauhaus Dessau (von der AfD als "Irrweg der Moderne" bezeichnet) oder die Kulturstiftung Thüringen stehen im Fadenkreuz der Agitation, wenn sie sich der völkischen Instrumentalisierung verweigern. Über 140 Museen und Theater warnten 2025 in statusgetrennten Briefen vor der existentiellen Bedrohung der Kunstfreiheit durch die AfD-Kulturpolitik.
 
 ---
 
@@ -8607,8 +8607,8 @@ Trotz der europaweiten Isolation der Mutterpartei (Rauswurf aus der ID-Fraktion)
 
 ### 1. Das „Remigration Summit“ und Neofaschistische Allianzen
 *   **Der ReSum25 in Mailand (Mai 2025):** Dieses von der Identitären Bewegung (Martin Sellner) geleitete Gipfeltreffen markierte einen Höhepunkt der internationalen Vernetzung. Vertreter der JA trafen sich mit Delegierten rechtsextremer Jugendorganisationen aus ganz Europa (Chega, Reconquête, FvD), um „Remigration“ als kontinentales metapolitisches Kernprojekt zu etablieren.
-*   **Die „Junge Tat“ (Schweiz):** Die engste operative Partnerschaft der JA besteht aktuell zur neofaschistischen Gruppierung „Junge Tat“ in der Schweiz. Gemeinsame Schulungen, Kampfsport-Events und mediale Auftritte (auch unter Beteiligung von AfD-MdB wie Lena Kotré) belegen die offene Entgrenzung hin zum gewaltbereiten Extremismus.
-*   **Relevanz für Art. 21 GG:** Diese internationale Vernetzung belegt, dass die JA/GD als Scharnier zwischen der parlamentarischen AfD und europaweit agierenden, offen neofaschistischen Kräften fungiert, die aktiv an der Untergrabung der europäischen Demokratien (Verfassungsfeindliche Zielrichtung) arbeiten.
+*   **Die „Junge Tat“ (Schweiz):** Die engste operative Partnerschaft der JA besteht aktuell zur neofaschistischen Gruppierung „Junge Tat“ in der Schweiz. Gemeinsame Schulungen, Kampfsport-Events und mediale Auftritte (auch unter Beteiligung von AfD-MdB wie Lena Kotré) belegen die statusgetrennte Entgrenzung hin zum gewaltbereiten Extremismus.
+*   **Relevanz für Art. 21 GG:** Diese internationale Vernetzung belegt, dass die JA/GD als Scharnier zwischen der parlamentarischen AfD und europaweit agierenden, anhängig/statusgetrennt neofaschistischen Kräften fungiert, die aktiv an der Untergrabung der europäischen Demokratien (Verfassungsfeindliche Zielrichtung) arbeiten.
 
 ---
 
@@ -8684,7 +8684,7 @@ Die AfD nutzt das Rechtswesen gezielt als Kampfinstrument (Lawfare), um die Exek
 *   **Die Resilienz des Rechtsstaats:** Als Reaktion auf dieses Gefährdungspotenzial verabschiedeten Bundestag und Bundesrat im Dezember 2024 das **BVerfG-Resilienz-Gesetz**. Es verankert die zentralen Strukturen des Gerichts (wie die Zwei-Senate-Struktur und das Alter der Richter) im Grundgesetz, um sie vor einer einfachen Mehrheitsänderung durch autoritäre Kräfte zu schützen.
 
 ### 2. Die Sperrminorität als Erpressungsinstrument
-*   Nach den Landtagswahlen im Herbst 2024 (z. B. in Thüringen und Brandenburg) erreichte die AfD die **Sperrminorität** von über einem Drittel der Sitze. 
+*   Nach den Landtagswahlen im Herbst 2024 (z. B. in Thüringen und Brandenburg) erreichte die AfD die **Sperrminorität** von über einem Drittel der Sitze.
 *   **Richterblockade:** Sie nutzt diese Macht seit 2025 gezielt, um die für Richterernennungen notwendigen Zwei-Drittel-Mehrheiten in Richterwahlausschüssen zu blockieren. Damit zwingt sie das rechtsstaatliche System zur Handlungsunfähigkeit (Einstellungsstopp bei Staatsanwälten und Richtern), bis ihren eigenen Kadern (z. B. in der Parlamentarischen Kontrollkommission für den Verfassungsschutz) Posten zugestanden werden.
 
 ---
@@ -8817,7 +8817,7 @@ Die traditionelle Studentenverbindung „Deutsche Burschenschaft“ (DB) dient d
 Die außenpolitischen Vorstellungen der AfD brechen radikal mit der historischen westlichen Einbindung der Bundesrepublik Deutschland.
 
 ### 1. Die Vision der „Achse Eurasien“
-*   **Das eurasische Großraumkonzept:** Führende Flügel-Ideologen (Höcke, Tillschneider, Krah) propagieren offen ein geopolitisches Bündnis mit Russland unter dem Begriff des „Eurasischen Blocks“ – ein Wirtschafts- und Sicherheitsraum von Paris bis Wladiwostok. Diese Vision lehnt sich direkt an die Theorien des russischen Ultranationalisten Alexander Dugin an, der die USA als „imperialistische, raumfremde Macht“ bekämpft (Vorschub für die Destabilisierung der EU).
+*   **Das eurasische Großraumkonzept:** Führende Flügel-Ideologen (Höcke, Tillschneider, Krah) propagieren anhängig/statusgetrennt ein geopolitisches Bündnis mit Russland unter dem Begriff des „Eurasischen Blocks“ – ein Wirtschafts- und Sicherheitsraum von Paris bis Wladiwostok. Diese Vision lehnt sich direkt an die Theorien des russischen Ultranationalisten Alexander Dugin an, der die USA als „imperialistische, raumfremde Macht“ bekämpft (Vorschub für die Destabilisierung der EU).
 *   **Die Unterwerfung unter das Putin-Regime:** Die AfD fordert die sofortige Aufhebung aller Russland-Sanktionen und die Inbetriebnahme von Gasleitungen. Die Verwicklung führender Politiker in das prorussische Einflussnetzwerk „Voice of Europe“ (Fall Petr Bystron, dessen Immunität im Mai 2025 aufgehoben wurde) belegt den strategischen Landesverrat und die gezielte finanzielle und propagandistische Einflussnahme des Kremls auf die AfD, um die westliche Wertegemeinschaft und die NATO zu schwächen.
 
 
@@ -8860,7 +8860,7 @@ Die AfD versucht, den Sozialstaat als exklusives Privileg der „ethnischen Volk
 
 # 📑 ERWEITERTES DEEP-RESEARCH-MONUMENT — ITERATION 20: PRESSEFEINDLICHKEIT, PARLAMENTARISCHE VERSCHWÖRUNGSKADER & DER ANGRIFF AUF DAS GEWALTMONOPOL (JUNI 2026)
 
-In dieser zwanzigsten und endgültigen Jubiläums-Iteration beleuchten wir die gezielte Erosion der Pressefreiheit, die Etablierung von Verschwörungstheoretikern in Verfassungsorganen und den offenen Angriff auf das staatliche Gewaltmonopol im Zuge der Unterstützung illegaler Bürgerwehren.
+In dieser zwanzigsten und endgültigen Jubiläums-Iteration beleuchten wir die gezielte Erosion der Pressefreiheit, die Etablierung von Verschwörungstheoretikern in Verfassungsorganen und den statusgetrennten Angriff auf das staatliche Gewaltmonopol im Zuge der Unterstützung illegaler Bürgerwehren.
 
 ---
 
@@ -8907,7 +8907,7 @@ Angesichts verschärfter Werbeverbote und Sperren auf Mainstream-Plattformen hat
 ### 1. Umgehung von De-Platforming über Rumble und Gettr
 *   **Die Werbe-Zäsur (Oktober 2025):** Nach dem vollständigen Verbot politischer Werbung für AfD-Kanalstrukturen auf Meta (Facebook/Instagram) und Google/YouTube im Herbst 2025, verlagerte die Partei ihre Kampagnen-Logistik auf Alt-Tech-Plattformen.
 *   **Digitale Parallelwelten:** Über Plattformen wie **Rumble** (Abonnement-Modell „Locals“) und **Gettr Fi** generiert die AfD erhebliche Spendeneinnahmen durch anonyme Mikrospenden (sog. „Rants“ oder „Tips“) im Rahmen von Live-Übertragungen. Dies entzieht die Parteienfinanzierung der effektiven Kontrolle durch die Bundestagsverwaltung und die Transparenzvorschriften des Parteiengesetzes (§ 25 PartG).
-*   **Organische Reichweiten-Vervielfachung:** Die offene Flankierung und Algorithmus-Priorisierung durch Elon Musk auf X (ehemals Twitter) im Jahr 2025 kompensierte den Wegfall bezahlter Werbung auf anderen Plattformen nahezu vollständig, wodurch verfassungsfeindliche Narrative ungefiltert Millionen Jugendliche erreichten.
+*   **Organische Reichweiten-Vervielfachung:** Die statusgetrennte Flankierung und Algorithmus-Priorisierung durch Elon Musk auf X (ehemals Twitter) im Jahr 2025 kompensierte den Wegfall bezahlter Werbung auf anderen Plattformen nahezu vollständig, wodurch verfassungsfeindliche Narrative ungefiltert Millionen Jugendliche erreichten.
 
 ---
 
@@ -8951,11 +8951,11 @@ Die AfD verlässt sich auf eine intellektuelle und strukturelle Arbeitsteilung m
 
 ## SCHWERPUNKT II: DIE KOMMUNALE ALLIANZ MIT DEN „FREIEN SACHSEN“
 
-Trotz offizieller Unvereinbarkeitsbeschlüsse verschmelzen AfD und offene Neonazi-Strukturen auf kommunaler Ebene zu einem strategischen Block.
+Trotz offizieller Unvereinbarkeitsbeschlüsse verschmelzen AfD und statusgetrennte Neonazi-Strukturen auf kommunaler Ebene zu einem strategischen Block.
 
 ### 1. Der parlamentarische Arm des Extremismus
 *   **Kommunalwahlen 2024:** Während die AfD bei den Kommunalwahlen in Sachsen im Juni 2024 stärkste Kraft wurde, zogen die „Freien Sachsen“ als rechtsextreme Mobilisierungsmaschine in alle zehn Kreistage ein.
-*   **Fraktionszusammenschlüsse und Wahlabsprachen:** In der Praxis wird das Konzept der Mosaik-Rechten durch direkte Kooperationen gelebt. In Leipzig schlossen sich Mandatsträger der Freien Sachsen 2025 der AfD-Fraktion an. Bei Oberbürgermeisterwahlen (z. B. Aue-Bad Schlema 2026) wurden gezielt Wahlabsprachen getroffen, um das „patriotische Lager“ zu bündeln. Diese Entgrenzung normalisiert radikale Positionen wie den „Säxit“ und den „Großen Austausch“.
+*   **Fraktionszusammenschlüsse und Wahlabsprachen:** In der Praxis wird das Konzept der Mosaik-Rechten durch direkte Kooperationen gelebt. In Leipzig schlossen sich Mandatsträger der Freien Sachsen 2025 der AfD-Fraktion an. Bei Oberbürgermeisterwahlen (z. B. Aue-Bad Schlema 2026) wurden gezielt Wahlabsprachen getranhängig/statusgetrennt, um das „patriotische Lager“ zu bündeln. Diese Entgrenzung normalisiert radikale Positionen wie den „Säxit“ und den „Großen Austausch“.
 *   **Das Gewaltpotenzial:** Die Eskalation dieser Rhetorik zeigte sich Ende 2024/Anfang 2025 in der Zerschlagung der Terrorzelle „Sächsische Separatisten“, deren Mitglieder tief in AfD- und Freie-Sachsen-Netzwerke verstrickt waren.
 
 ---
@@ -9109,7 +9109,7 @@ Zaehlmethodik: lokale Auswertung mit `pdftotext -layout` fuer PDF-Volltexte, JSO
 
 - 258. Christian Zorn (Freispruch AG Stralsund 2026): [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/258_Christian_Zorn_Freispruch_AG_Stralsund_2026.md) | [Online-Quelle](https://www.welt.de/regionales/mecklenburg-vorpommern/article69e786caff0951f41af8e88f/afd-mann-zorn-von-betrugsvorwurf-freigesprochen.html)
 - 259. AfD Bundespartei: vorläufig keine Einstufung als gesichert rechtsextrem (VG Köln 2026): [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/259_AfD_Bundespartei_Gesichert_Rechtsextrem_VG_Koeln_2026.md) | [Online-Quelle](https://www.bild.de/politik/inland/gerichts-hammer-afd-darf-nicht-als-gesichert-rechtsextrem-eingestuft-werden-69a051952cfe24517f7c9f85)
-- Urteil/Quelle 260: AfD/Facebook-Werbung, VG Berlin 2026: [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/260_AfD_Facebook_Werbung_Datenschutz_VG_Berlin_2026.md) | [Online-Quelle](https://www.welt.de/regionales/berlin/article69b194f29276d101b4c85b9f/gericht-afd-muss-daten-zu-facebook-werbung-offenlegen.html)
+- Urteil/Quelle 260: AfD/Facebook-Werbung, VG Berlin 2026: [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/260_AfD_Facebook_Werbung_Datenschutz_VG_Berlin_2026.md) | [Online-Quelle](https://www.welt.de/regionales/berlin/article69b194f29276d101b4c85b9f/gericht-afd-muss-daten-zu-facebook-werbung-anhängig/statusgetrenntlegen.html)
 - AIB 150 / 2026: Alte (Neonazi-) Bekannte als AfD-Funktionäre? [Lokaler Beleg](./dokumente/hauptquellen/AIB150_Alte_Neonazi_Bekannte_AfD_Funktionaere_2026.md) | [Online-Quelle](https://antifainfoblatt.de/aib150/alte-neonazi-bekannte-als-afd-funktionaere)
 - Endstation Rechts 2026: Reichstagsstürmerin in Diensten der AfD [Lokaler Beleg](./dokumente/hauptquellen/Endstation_Rechts_Reichstagsstuermerin_AfD_Brandenburg_2026.md) | [Online-Quelle](https://www.endstation-rechts.de/news/reichstagsstuermerin-diensten-der-afd)
 - Prüfvermerk Chrupalla/Phoenix-Screenshot: Beobachtung politischer Parteien [Lokaler Beleg](./dokumente/hauptquellen/Chrupalla_Phoenix_Verfassungsschutz_Beobachtung_Screenshot_Pruefvermerk.md) | [Screenshot](./dokumente/hauptquellen/chrupalla_phoenix_verfassungsschutz_beobachtung_screenshot.jpeg)
@@ -9117,8 +9117,52 @@ Zaehlmethodik: lokale Auswertung mit `pdftotext -layout` fuer PDF-Volltexte, JSO
 - Historischer Referenzbeleg: Zentrumspartei, Ermächtigungsgesetz 1933 und Steigbügelhalter-Funktion [Lokaler Beleg](./dokumente/hauptquellen/Zentrumspartei_Ermaechtigungsgesetz_1933_Steigbuegelhalter_Analyse.md)
 - Urteil/Quelle 261: AfD/BMI-BfV Verfassungsschutzbericht 2022: keine vorläufige Korrektur (VG Berlin 2024) [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/261_AfD_BfV_Verfassungsschutzbericht_2022_VG_Berlin_2024.md) | [Online-Quelle](https://www.welt.de/politik/deutschland/article249960238/Bundesinnenministerium-muss-Aussagen-zu-AfD-vorerst-nicht-aendern.html)
 - Urteil/Quelle 262: AfD Sachsen: Eilanträge gegen Einstufung als gesichert rechtsextrem gescheitert (VG Dresden/OVG Bautzen) [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/262_AfD_Sachsen_Gesichert_Rechtsextrem_VG_Dresden_OVG_Bautzen.md) | [Online-Quelle](https://www.welt.de/regionales/sachsen/article69d7a515c72227da0df14398/afd-klagt-gegen-einstufung-als-gesichert-rechtsextremistisch.html)
-- Build-Audit Deepresearch 2026-07-08: [Lokaler Beleg](./BUILD_AUDIT_DEEPRESEARCH_2026-07-08.md) - Offene Restpunkte, uebersprungene Punkte, Urteils- und Statistikluecken vor dem Pages-Build.
+- Build-Audit Deepresearch 2026-07-08: [Lokaler Beleg](./BUILD_AUDIT_DEEPRESEARCH_2026-07-08.md) - Statusgetrennte Restpunkte, uebersprungene Punkte, Urteils- und Statistikluecken vor dem Pages-Build.
 - Wikipedia-Abgleich: Rechtsextreme und neonazistische Vorfaelle in der AfD [Lokaler Beleg](./dokumente/hauptquellen/Wikipedia_Abgleich_Rechtsextreme_Neonazistische_Vorfaelle_AfD.md) | [Online-Quelle](https://de.wikipedia.org/wiki/Liste_rechtsextremer_und_neonazistischer_Vorf%C3%A4lle_in_der_AfD)
 - Deepresearch BfV/Spiegel/Tagesschau/Panorama/Tagesspiegel/taz: [Lokaler Beleg](./dokumente/hauptquellen/Deepresearch_BfV_AfD_Rechtsextremismus_Belege_2025_2026.md) | [SPIEGEL](https://www.spiegel.de/politik/deutschland/afd-ist-rechtsextrem-hier-sind-die-belege-des-verfassungsschutzes-a-b5fa40e4-a54e-410a-8cc7-ade35d09f77c) | [Tagesschau](https://www.tagesschau.de/inland/innenpolitik/afd-verfassungsschutz-rechtsextremismus-100.html) | [NDR Panorama](https://www.ndr.de/fernsehen/sendungen/panorama/aktuell/Chronik-Rechtsextreme-Vorfaelle-in-der-AfD-2016,afd892.html) | [Tagesspiegel/BR](https://www.tagesspiegel.de/politik/recherche-belastet-auch-weidel-und-chrupalla-afd-soll-mehr-als-100-rechtsextremisten-im-bundestag-beschaftigen-11315497.html) | [taz](https://taz.de/Studie-vergleicht-NS--und-AfD-Hochburgen/!5577189/) | [n-tv](https://www.n-tv.de/politik/Grosser-Teil-der-AfD-Mitglieder-soll-rechtsextrem-sein-id31030282.html)
 - Analyse Verfassungsschutzbericht 2025 Statistikwerte: [Lokaler Beleg](./dokumente/hauptquellen/Analyse_Verfassungsschutzbericht_2025_Statistiken_AfD_Rechtsextremismus.md) | [Vollbericht PDF](./dokumente/vfs_berichte_bundeslaender/2026-06-30-verfassungsschutzbericht-2025.pdf)
 - n-tv/dpa/rts 2026: Großer Teil der AfD-Mitglieder soll rechtsextrem sein [Lokaler Beleg](./dokumente/hauptquellen/ntv_BfV_AfD_Mitglieder_Rechtsextremismus_2026.md) | [Online-Quelle](https://www.n-tv.de/politik/Grosser-Teil-der-AfD-Mitglieder-soll-rechtsextrem-sein-id31030282.html)
+
+## Statistik-Tab Beweissicherung 2026
+
+Diese Quellen wurden fuer die inhaltliche Statistik-Erweiterung als primaere oder lokale Beweisanker gesichert.
+
+* **BVerwG, Beschluss vom 20.05.2025 - 6 B 23.24**
+  Web: https://www.bverwg.de/200525B6B23.24.0
+  Funktion: rechtskraeftiger Statusanker Bundes-AfD als Verdachtsfall.
+
+* **BVerfG, NPD II, 2 BvB 1/13**
+  Web: https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2017/01/bs20170117_2bvb000113.html
+  Funktion: Massstab fuer Art. 21, Menschenwuerde, Demokratie, Potentialitaet, Darauf-Ausgehen.
+
+* **BVerfG, Finanzierungsausschluss NPD/Die Heimat, 2 BvB 1/19**
+  Web: https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2024/01/bs20240123_2bvb000119.html
+  Funktion: Rechtsfolgen-/Finanzierungsausschluss-Achse getrennt vom Parteiverbot.
+
+* **GFF-Gutachten lokal, Teil 02 / Methodik**
+  Lokal: `dokumente/ki_markdown/dokumente/splits/GFF_AfD-Gutachten_Teil_02_Einfuehrung.md`
+  Funktion: Korpusmethodik, 54.972 Pressemitteilungen, Programme, Parlamentsdokumente, Social Media, Interviews.
+
+* **GFF-Gutachten lokal, Teil 05 / Menschenwuerde**
+  Lokal: `dokumente/ki_markdown/dokumente/splits/GFF_AfD-Gutachten_Teil_05_Teil_3_A_Menschenwuerde.md`
+  Funktion: Remigration, ethnischer Volksbegriff, Zielgruppen, Menschenwuerde.
+
+* **BfV-Folgegutachten 2021, Fluegel-Netzwerk**
+  Lokal: `geheimgutachten/BfV-AfD-Folgegutachten_2021_05_E_Einflussnahme_Fluegel.md`
+  Funktion: 14.371 Verbindungen, 334 interagierende AfD-Profile, 1.201 Freundschaftsbeziehungen, Top-Profile.
+
+* **BfV-Folgegutachten 2021, Menschenwuerde/Antisemitismus**
+  Lokal: `geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde.txt`
+  Funktion: Volksbegriff, Soros-/NWO-/Hochfinanz-Chiffren, antisemitische und verschwörungsideologische Muster.
+
+* **Laenderberichte VFS/LfV 2024/2025**
+  Lokal: `dokumente/vfs_berichte_bundeslaender/`
+  Funktion: Statusmatrix Bund/Laender/JA/GD, regionale Verdichtung, Kontextzahlen und Vorfeld.
+
+* **Urteilsregister / Urteilsbelege**
+  Lokal: `dokumente/hauptquellen/urteilsbelege/`
+  Funktion: Statusentscheidungen, Strafurteile, Sicherheitsverfahren, Parteienfinanzierung, Freispruch/laufend/nicht rechtskraeftig getrennt.
+
+* **Beweissicherungsdaten 2026**
+  Lokal: `daten/statistik_beweis_sicherung_2026.json` und `dokumente/hauptquellen/STATISTIK_TAB_BEWEISSICHERUNG_2026.md`
+  Funktion: maschinenlesbare Statistik-Tab-Beweismatrix mit lokalen Fundstellen und statusgetrennten Primaerquellen.

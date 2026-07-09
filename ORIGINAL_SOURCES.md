@@ -115,3 +115,6 @@ Ergaenzend zu den bereits vorhandenen PDFs wurden diese Volltexte fuer Deep-Rese
 - Hessen 2024 / JA Hessen: `dokumente/ki_markdown/dokumente/splits/lfv_jahresbericht_2024_part3_51-75.md` bzw. `dokumente/splits/lfv_jahresbericht_2024_part3_51-75.pdf`.
 - Ogorek, Markus: `Rechtswissenschaftliche Untersuchung der Bedeutung des Gutachtens des Bundesamtes fuer Verfassungsschutz ueber die Einstufung der Alternative fuer Deutschland als gesichert rechtsextremistisch fuer ein moegliches gegen die Partei gerichtetes Verbotsverfahren`, Koeln, 15.08.2025; lokale Splits: `dokumente/ki_markdown/dokumente/splits/untersuchung_bfv_gutachten_split_1_sachverhalt_und_vfs.md` bis `..._split_6_belege_islamfeindlichkeit_bewertung.md`.
 
+## Statistik-Tab Beweissicherung 2026 - Quellenpaket
+
+Ergaenzendes maschinenlesbares Quellenpaket: `daten/source_inventory_beweissicherung_2026.jsonl`. Es enthaelt gerichtliche Webanker, lokale Gutachten, BfV-/LfV-Berichte, Statusdaten, Urteilsbelege und Zitatkorpus mit Beweisfunktion.

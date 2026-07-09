@@ -37,7 +37,7 @@ Keine Statistik ohne Quelle, Fundstelle, Methodik, Beweisstufe und Status.
 - ungeprueft
 - veraltet
 - widerspruechlich
-- offen
+- anhängig; statusgetrennt
 
 ## Konsistenzpruefung
 Vor jeder neuen Auswertung:

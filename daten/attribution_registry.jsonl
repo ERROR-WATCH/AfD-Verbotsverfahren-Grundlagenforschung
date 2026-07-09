@@ -1,0 +1,5 @@
+{"code": "direkt", "definition": "Partei, Organ, Funktionaer, Mandatstraeger, Teilorganisation oder offizieller Kanal.", "label": "direkt"}
+{"code": "indirekt", "definition": "Mitarbeiter, Vorfeld, Umfeld oder Drittakteur mit belegter Organisationsbruecke.", "label": "indirekt"}
+{"code": "belegtes_akteurs_quellen_finding", "definition": "Beleg im Repo vorhanden; Akteursebene/Zurechnung formal nachcodieren.", "label": "belegpfadbasierter Akteurs-/Quellenbefund"}
+{"code": "kontextzahl_keine_afd_tat", "definition": "PMK-/Lagebild-/Gesamtstatistik nur als Kontext oder Durchsetzungskraft verwerten.", "label": "Kontextzahl ohne automatische AfD-Tat-Zurechnung"}
+{"code": "formal_zu_codieren", "definition": "Quelle liegt vor; Zurechnungskategorie muss aus Akteur, Rolle, Datum, Organisation und Parteireaktion abgeleitet werden.", "label": "formal zu codieren"}

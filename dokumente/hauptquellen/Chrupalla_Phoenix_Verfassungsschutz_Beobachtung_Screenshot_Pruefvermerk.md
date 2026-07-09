@@ -2,7 +2,7 @@
 
 **Lokaler Screenshot:** ./chrupalla_phoenix_verfassungsschutz_beobachtung_screenshot.jpeg  
 **Vom Screenshot gelesener Wortlaut:** „Wir werden dafür sorgen, dass politische Parteien in diesem Land nicht mehr beobachtet werden können.“ - Tino Chrupalla (AfD) bei Phoenix  
-**Status:** Screenshot liegt lokal vor; externe Primärquelle/Transkript noch nicht verifiziert. Nicht als abschließend bestätigtes Direktzitat verwenden, bis Phoenix-Video, Sendungstranskript oder seriöse Pressereferenz nachgetragen ist.
+**Status:** Screenshot liegt lokal vor; externe Primärquelle/Transkript noch nicht verifiziert. Nicht als abschließend bestätigtes Direktzitat verwenden, bis Phoenix-Video, Sendungstranskript oder seriöse Pressereferenz gerichtsfest eingetragen ist.
 
 ## Recherchestand
 

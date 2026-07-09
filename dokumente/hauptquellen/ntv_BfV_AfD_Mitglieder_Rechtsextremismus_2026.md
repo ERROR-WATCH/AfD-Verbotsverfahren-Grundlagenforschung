@@ -27,5 +27,5 @@ Die n-tv-Quelle stützt die bereits im Repo geführte Darstellung, dass die Bund
 
 ## Statistikverwendung
 
-- Sichtbare Statistik-Karten: 70.000 Mitglieder, 28.000 Potenzial, ca. 40 %, 58.700 Rechtsextremismuspotenzial bundesweit.
+- Sichtbare Statistik-Karten: 70.000 Mitglieder, 28.000 rechtsextremistisch zugeordnete Personen, ca. 40 %, 58.700 Rechtsextremismuspotenzial bundesweit.
 - Keine belastbare Quelle für 50 % gefunden. Im Statistikbereich wird deshalb 40 % geführt.

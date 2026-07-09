@@ -1,0 +1,46 @@
+[
+  {
+    "viz_id": "VIZ-SANKEY-MENSCHENWUERDE-001",
+    "title": "Quelle -> Akteur -> Zielgruppe -> Rechtsgut",
+    "data_sources": [
+      "daten/findings_art21.jsonl",
+      "daten/topzitat_dossierklasse_2026_top300.jsonl"
+    ],
+    "purpose": "Menschenwuerde-/Volksbegriffachse als Beweiskette sichtbar machen."
+  },
+  {
+    "viz_id": "VIZ-TIMELINE-STATUS-001",
+    "title": "Bund/Land/JA/GD/Vorfeld Status-Timeline",
+    "data_sources": [
+      "daten/status_rechtskraft_monitor_2026.jsonl"
+    ],
+    "purpose": "Verdachtsfall, gesichert/erwiesen, Eil, Hauptsache und Rechtskraft trennen."
+  },
+  {
+    "viz_id": "VIZ-NETZWERK-VORFELD-001",
+    "title": "Vorfeld-/JA-/Medien-/Sicherheitskanten",
+    "data_sources": [
+      "daten/vorfeld_einzelkanten_2026.jsonl",
+      "daten/terror_umsturz_paramilitaer_matrix_2026.jsonl"
+    ],
+    "purpose": "Keine Sammelzurechnung; nur dokumentierte Personen-, Organisations-, Kampagnen- und Zugangskanten."
+  },
+  {
+    "viz_id": "VIZ-HEATMAP-ZIELGRUPPE-001",
+    "title": "Zielgruppe x Handlungsmuster x Quelle",
+    "data_sources": [
+      "daten/findings_art21.jsonl",
+      "daten/antragsreife_top300_zitatpaket_2026.jsonl"
+    ],
+    "purpose": "Ausschlusslogik, Institutionenangriff und Zielgruppen getrennt auswerten."
+  },
+  {
+    "viz_id": "VIZ-STATUS-DONUT-001",
+    "title": "Gerichts-/Verfahrensstatus",
+    "data_sources": [
+      "daten/status_rechtskraft_monitor_2026.jsonl",
+      "dokumente/hauptquellen/urteilsbelege/"
+    ],
+    "purpose": "Rechtskraeftig, Eil, Hauptsache, Berufung, laufend und Freispruch sichtbar trennen."
+  }
+]

@@ -1,0 +1,95 @@
+# afd-verbot.de-Webanker fuer schlimmste Zitate
+
+- Archivierte eindeutige Handakten: 83 / 83
+- Quote-Webanker-Verknuepfungen: 132
+- Quellenrisiko mit Eigenhinweis keine Belege: 1
+
+## Kritische Korrekturen
+- SZ-002 Meuthen: PDF-Kurzform ersetzt durch Proof 00693 und afd-verbot.de Handakte 33922.
+- SZ-003 Welsch: PDF-Kurzform ersetzt durch praezisen Buchenwald-Wortlaut aus Proof 00093 / Handakte 81223.
+- SZ-013 von Storch: Webanker archiviert, bleibt aber Quellenrisiko wegen Eigenhinweis ohne Belege.
+
+## Handakten
+- 84996 | Alice Weidel | https://afd-verbot.de/beweise/84996 | lokal: sources/web/afd-verbot/afd_verbot_beweis_84996_alice_weidel.html | status: 200 | risiko: nein
+- 47513 | Alice Weidel | https://afd-verbot.de/beweise/47513 | lokal: sources/web/afd-verbot/afd_verbot_beweis_47513_alice_weidel.html | status: 200 | risiko: nein
+- 27491 | Alice Weidel | https://afd-verbot.de/beweise/27491 | lokal: sources/web/afd-verbot/afd_verbot_beweis_27491_alice_weidel.html | status: 200 | risiko: nein
+- 63767 | Alice Weidel | https://afd-verbot.de/beweise/63767 | lokal: sources/web/afd-verbot/afd_verbot_beweis_63767_alice_weidel.html | status: 200 | risiko: nein
+- 26876 | Alice Weidel | https://afd-verbot.de/beweise/26876 | lokal: sources/web/afd-verbot/afd_verbot_beweis_26876_alice_weidel.html | status: 200 | risiko: nein
+- 71035 | Alice Weidel | https://afd-verbot.de/beweise/71035 | lokal: sources/web/afd-verbot/afd_verbot_beweis_71035_alice_weidel.html | status: 200 | risiko: nein
+- 22433 | Alice Weidel | https://afd-verbot.de/beweise/22433 | lokal: sources/web/afd-verbot/afd_verbot_beweis_22433_alice_weidel.html | status: 200 | risiko: nein
+- 72965 | Alice Weidel | https://afd-verbot.de/beweise/72965 | lokal: sources/web/afd-verbot/afd_verbot_beweis_72965_alice_weidel.html | status: 200 | risiko: nein
+- 79830 | Alice Weidel | https://afd-verbot.de/beweise/79830 | lokal: sources/web/afd-verbot/afd_verbot_beweis_79830_alice_weidel.html | status: 200 | risiko: nein
+- 33922 | Joerg Meuthen | https://afd-verbot.de/beweise/33922 | lokal: sources/web/afd-verbot/afd_verbot_beweis_33922_joerg_meuthen.html | status: 200 | risiko: nein
+- 59161 | Joerg Meuthen | https://afd-verbot.de/beweise/59161 | lokal: sources/web/afd-verbot/afd_verbot_beweis_59161_joerg_meuthen.html | status: 200 | risiko: nein
+- 81223 | Mirko Welsch | https://afd-verbot.de/beweise/81223 | lokal: sources/web/afd-verbot/afd_verbot_beweis_81223_mirko_welsch.html | status: 200 | risiko: nein
+- 38743 | Mirko Welsch | https://afd-verbot.de/beweise/38743 | lokal: sources/web/afd-verbot/afd_verbot_beweis_38743_mirko_welsch.html | status: 200 | risiko: nein
+- 31669 | Mirko Welsch | https://afd-verbot.de/beweise/31669 | lokal: sources/web/afd-verbot/afd_verbot_beweis_31669_mirko_welsch.html | status: 200 | risiko: nein
+- 15444 | Mirko Welsch | https://afd-verbot.de/beweise/15444 | lokal: sources/web/afd-verbot/afd_verbot_beweis_15444_mirko_welsch.html | status: 200 | risiko: nein
+- 25610 | Mirko Welsch | https://afd-verbot.de/beweise/25610 | lokal: sources/web/afd-verbot/afd_verbot_beweis_25610_mirko_welsch.html | status: 200 | risiko: nein
+- 56893 | Mirko Welsch | https://afd-verbot.de/beweise/56893 | lokal: sources/web/afd-verbot/afd_verbot_beweis_56893_mirko_welsch.html | status: 200 | risiko: nein
+- 92517 | Mirko Welsch | https://afd-verbot.de/beweise/92517 | lokal: sources/web/afd-verbot/afd_verbot_beweis_92517_mirko_welsch.html | status: 200 | risiko: nein
+- 80991 | Mirko Welsch | https://afd-verbot.de/beweise/80991 | lokal: sources/web/afd-verbot/afd_verbot_beweis_80991_mirko_welsch.html | status: 200 | risiko: nein
+- 96271 | Andreas Gehlmann | https://afd-verbot.de/beweise/96271 | lokal: sources/web/afd-verbot/afd_verbot_beweis_96271_andreas_gehlmann.html | status: 200 | risiko: nein
+- 21104 | Andreas Gehlmann | https://afd-verbot.de/beweise/21104 | lokal: sources/web/afd-verbot/afd_verbot_beweis_21104_andreas_gehlmann.html | status: 200 | risiko: nein
+- 99352 | Marcel Grauf | https://afd-verbot.de/beweise/99352 | lokal: sources/web/afd-verbot/afd_verbot_beweis_99352_marcel_grauf.html | status: 200 | risiko: nein
+- 20903 | Marcel Grauf | https://afd-verbot.de/beweise/20903 | lokal: sources/web/afd-verbot/afd_verbot_beweis_20903_marcel_grauf.html | status: 200 | risiko: nein
+- 31014 | Marcel Grauf | https://afd-verbot.de/beweise/31014 | lokal: sources/web/afd-verbot/afd_verbot_beweis_31014_marcel_grauf.html | status: 200 | risiko: nein
+- 11258 | Marcel Grauf | https://afd-verbot.de/beweise/11258 | lokal: sources/web/afd-verbot/afd_verbot_beweis_11258_marcel_grauf.html | status: 200 | risiko: nein
+- 60229 | Marcel Grauf | https://afd-verbot.de/beweise/60229 | lokal: sources/web/afd-verbot/afd_verbot_beweis_60229_marcel_grauf.html | status: 200 | risiko: nein
+- 18885 | Marcel Grauf | https://afd-verbot.de/beweise/18885 | lokal: sources/web/afd-verbot/afd_verbot_beweis_18885_marcel_grauf.html | status: 200 | risiko: nein
+- 48818 | Andreas Geithe | https://afd-verbot.de/beweise/48818 | lokal: sources/web/afd-verbot/afd_verbot_beweis_48818_andreas_geithe.html | status: 200 | risiko: nein
+- 15176 | Egbert Ermer | https://afd-verbot.de/beweise/15176 | lokal: sources/web/afd-verbot/afd_verbot_beweis_15176_egbert_ermer.html | status: 200 | risiko: nein
+- 79608 | Egbert Ermer | https://afd-verbot.de/beweise/79608 | lokal: sources/web/afd-verbot/afd_verbot_beweis_79608_egbert_ermer.html | status: 200 | risiko: nein
+- 19467 | Heiko Hessenkemper | https://afd-verbot.de/beweise/19467 | lokal: sources/web/afd-verbot/afd_verbot_beweis_19467_heiko_hessenkemper.html | status: 200 | risiko: nein
+- 58491 | Heiko Hessenkemper | https://afd-verbot.de/beweise/58491 | lokal: sources/web/afd-verbot/afd_verbot_beweis_58491_heiko_hessenkemper.html | status: 200 | risiko: nein
+- 78364 | Heiko Hessenkemper | https://afd-verbot.de/beweise/78364 | lokal: sources/web/afd-verbot/afd_verbot_beweis_78364_heiko_hessenkemper.html | status: 200 | risiko: nein
+- 19660 | Heiko Hessenkemper | https://afd-verbot.de/beweise/19660 | lokal: sources/web/afd-verbot/afd_verbot_beweis_19660_heiko_hessenkemper.html | status: 200 | risiko: nein
+- 61537 | Heiko Hessenkemper | https://afd-verbot.de/beweise/61537 | lokal: sources/web/afd-verbot/afd_verbot_beweis_61537_heiko_hessenkemper.html | status: 200 | risiko: nein
+- 29883 | Heiko Hessenkemper | https://afd-verbot.de/beweise/29883 | lokal: sources/web/afd-verbot/afd_verbot_beweis_29883_heiko_hessenkemper.html | status: 200 | risiko: nein
+- 12163 | Heiko Hessenkemper | https://afd-verbot.de/beweise/12163 | lokal: sources/web/afd-verbot/afd_verbot_beweis_12163_heiko_hessenkemper.html | status: 200 | risiko: nein
+- 97198 | Heiko Hessenkemper | https://afd-verbot.de/beweise/97198 | lokal: sources/web/afd-verbot/afd_verbot_beweis_97198_heiko_hessenkemper.html | status: 200 | risiko: nein
+- 32572 | Hans-Thomas Tillschneider | https://afd-verbot.de/beweise/32572 | lokal: sources/web/afd-verbot/afd_verbot_beweis_32572_hans_thomas_tillschneider.html | status: 200 | risiko: nein
+- 27439 | Hans-Thomas Tillschneider | https://afd-verbot.de/beweise/27439 | lokal: sources/web/afd-verbot/afd_verbot_beweis_27439_hans_thomas_tillschneider.html | status: 200 | risiko: nein
+- 83208 | Hans-Thomas Tillschneider | https://afd-verbot.de/beweise/83208 | lokal: sources/web/afd-verbot/afd_verbot_beweis_83208_hans_thomas_tillschneider.html | status: 200 | risiko: nein
+- 71671 | Hans-Thomas Tillschneider | https://afd-verbot.de/beweise/71671 | lokal: sources/web/afd-verbot/afd_verbot_beweis_71671_hans_thomas_tillschneider.html | status: 200 | risiko: nein
+- 28899 | Markus Frohnmaier | https://afd-verbot.de/beweise/28899 | lokal: sources/web/afd-verbot/afd_verbot_beweis_28899_markus_frohnmaier.html | status: 200 | risiko: nein
+- 22387 | Markus Frohnmaier | https://afd-verbot.de/beweise/22387 | lokal: sources/web/afd-verbot/afd_verbot_beweis_22387_markus_frohnmaier.html | status: 200 | risiko: nein
+- 58597 | Markus Frohnmaier | https://afd-verbot.de/beweise/58597 | lokal: sources/web/afd-verbot/afd_verbot_beweis_58597_markus_frohnmaier.html | status: 200 | risiko: nein
+- 81894 | Markus Frohnmaier | https://afd-verbot.de/beweise/81894 | lokal: sources/web/afd-verbot/afd_verbot_beweis_81894_markus_frohnmaier.html | status: 200 | risiko: nein
+- 96302 | Markus Frohnmaier | https://afd-verbot.de/beweise/96302 | lokal: sources/web/afd-verbot/afd_verbot_beweis_96302_markus_frohnmaier.html | status: 200 | risiko: nein
+- 79756 | Markus Frohnmaier | https://afd-verbot.de/beweise/79756 | lokal: sources/web/afd-verbot/afd_verbot_beweis_79756_markus_frohnmaier.html | status: 200 | risiko: nein
+- 74438 | Markus Frohnmaier | https://afd-verbot.de/beweise/74438 | lokal: sources/web/afd-verbot/afd_verbot_beweis_74438_markus_frohnmaier.html | status: 200 | risiko: nein
+- 59888 | Markus Frohnmaier | https://afd-verbot.de/beweise/59888 | lokal: sources/web/afd-verbot/afd_verbot_beweis_59888_markus_frohnmaier.html | status: 200 | risiko: nein
+- 56204 | Sandro Hersel | https://afd-verbot.de/beweise/56204 | lokal: sources/web/afd-verbot/afd_verbot_beweis_56204_sandro_hersel.html | status: 200 | risiko: nein
+- 72054 | Dubravko Mandic | https://afd-verbot.de/beweise/72054 | lokal: sources/web/afd-verbot/afd_verbot_beweis_72054_dubravko_mandic.html | status: 200 | risiko: nein
+- 33330 | Dubravko Mandic | https://afd-verbot.de/beweise/33330 | lokal: sources/web/afd-verbot/afd_verbot_beweis_33330_dubravko_mandic.html | status: 200 | risiko: nein
+- 16430 | Dubravko Mandic | https://afd-verbot.de/beweise/16430 | lokal: sources/web/afd-verbot/afd_verbot_beweis_16430_dubravko_mandic.html | status: 200 | risiko: nein
+- 58642 | Dubravko Mandic | https://afd-verbot.de/beweise/58642 | lokal: sources/web/afd-verbot/afd_verbot_beweis_58642_dubravko_mandic.html | status: 200 | risiko: nein
+- 83620 | Dubravko Mandic | https://afd-verbot.de/beweise/83620 | lokal: sources/web/afd-verbot/afd_verbot_beweis_83620_dubravko_mandic.html | status: 200 | risiko: nein
+- 62081 | Dubravko Mandic | https://afd-verbot.de/beweise/62081 | lokal: sources/web/afd-verbot/afd_verbot_beweis_62081_dubravko_mandic.html | status: 200 | risiko: nein
+- 50738 | Dubravko Mandic | https://afd-verbot.de/beweise/50738 | lokal: sources/web/afd-verbot/afd_verbot_beweis_50738_dubravko_mandic.html | status: 200 | risiko: nein
+- 86748 | Dubravko Mandic | https://afd-verbot.de/beweise/86748 | lokal: sources/web/afd-verbot/afd_verbot_beweis_86748_dubravko_mandic.html | status: 200 | risiko: nein
+- 42249 | Beatrix von Storch | https://afd-verbot.de/beweise/42249 | lokal: sources/web/afd-verbot/afd_verbot_beweis_42249_beatrix_von_storch.html | status: 200 | risiko: ja
+- 75305 | Beatrix von Storch | https://afd-verbot.de/beweise/75305 | lokal: sources/web/afd-verbot/afd_verbot_beweis_75305_beatrix_von_storch.html | status: 200 | risiko: nein
+- 92717 | Beatrix von Storch | https://afd-verbot.de/beweise/92717 | lokal: sources/web/afd-verbot/afd_verbot_beweis_92717_beatrix_von_storch.html | status: 200 | risiko: nein
+- 40102 | Beatrix von Storch | https://afd-verbot.de/beweise/40102 | lokal: sources/web/afd-verbot/afd_verbot_beweis_40102_beatrix_von_storch.html | status: 200 | risiko: nein
+- 17346 | Beatrix von Storch | https://afd-verbot.de/beweise/17346 | lokal: sources/web/afd-verbot/afd_verbot_beweis_17346_beatrix_von_storch.html | status: 200 | risiko: nein
+- 17060 | Beatrix von Storch | https://afd-verbot.de/beweise/17060 | lokal: sources/web/afd-verbot/afd_verbot_beweis_17060_beatrix_von_storch.html | status: 200 | risiko: nein
+- 78745 | Beatrix von Storch | https://afd-verbot.de/beweise/78745 | lokal: sources/web/afd-verbot/afd_verbot_beweis_78745_beatrix_von_storch.html | status: 200 | risiko: nein
+- 59664 | Beatrix von Storch | https://afd-verbot.de/beweise/59664 | lokal: sources/web/afd-verbot/afd_verbot_beweis_59664_beatrix_von_storch.html | status: 200 | risiko: nein
+- 22866 | Beatrix von Storch | https://afd-verbot.de/beweise/22866 | lokal: sources/web/afd-verbot/afd_verbot_beweis_22866_beatrix_von_storch.html | status: 200 | risiko: nein
+- 23120 | Beatrix von Storch | https://afd-verbot.de/beweise/23120 | lokal: sources/web/afd-verbot/afd_verbot_beweis_23120_beatrix_von_storch.html | status: 200 | risiko: nein
+- 33629 | Petr Bystron | https://afd-verbot.de/beweise/33629 | lokal: sources/web/afd-verbot/afd_verbot_beweis_33629_petr_bystron.html | status: 200 | risiko: nein
+- 59858 | Petr Bystron | https://afd-verbot.de/beweise/59858 | lokal: sources/web/afd-verbot/afd_verbot_beweis_59858_petr_bystron.html | status: 200 | risiko: nein
+- 29198 | Petr Bystron | https://afd-verbot.de/beweise/29198 | lokal: sources/web/afd-verbot/afd_verbot_beweis_29198_petr_bystron.html | status: 200 | risiko: nein
+- 73842 | Petr Bystron | https://afd-verbot.de/beweise/73842 | lokal: sources/web/afd-verbot/afd_verbot_beweis_73842_petr_bystron.html | status: 200 | risiko: nein
+- 61923 | Petr Bystron | https://afd-verbot.de/beweise/61923 | lokal: sources/web/afd-verbot/afd_verbot_beweis_61923_petr_bystron.html | status: 200 | risiko: nein
+- 40263 | Petr Bystron | https://afd-verbot.de/beweise/40263 | lokal: sources/web/afd-verbot/afd_verbot_beweis_40263_petr_bystron.html | status: 200 | risiko: nein
+- 61530 | Petr Bystron | https://afd-verbot.de/beweise/61530 | lokal: sources/web/afd-verbot/afd_verbot_beweis_61530_petr_bystron.html | status: 200 | risiko: nein
+- 52503 | Petr Bystron | https://afd-verbot.de/beweise/52503 | lokal: sources/web/afd-verbot/afd_verbot_beweis_52503_petr_bystron.html | status: 200 | risiko: nein
+- 82508 | Petr Bystron | https://afd-verbot.de/beweise/82508 | lokal: sources/web/afd-verbot/afd_verbot_beweis_82508_petr_bystron.html | status: 200 | risiko: nein
+- 83355 | Petr Bystron | https://afd-verbot.de/beweise/83355 | lokal: sources/web/afd-verbot/afd_verbot_beweis_83355_petr_bystron.html | status: 200 | risiko: nein
+- 77837 | Holger Arppe | https://afd-verbot.de/beweise/77837 | lokal: sources/web/afd-verbot/afd_verbot_beweis_77837_holger_arppe.html | status: 200 | risiko: nein
+- 35238 | Holger Arppe | https://afd-verbot.de/beweise/35238 | lokal: sources/web/afd-verbot/afd_verbot_beweis_35238_holger_arppe.html | status: 200 | risiko: nein
+- 35789 | Holger Arppe | https://afd-verbot.de/beweise/35789 | lokal: sources/web/afd-verbot/afd_verbot_beweis_35789_holger_arppe.html | status: 200 | risiko: nein
+- 53266 | Holger Arppe | https://afd-verbot.de/beweise/53266 | lokal: sources/web/afd-verbot/afd_verbot_beweis_53266_holger_arppe.html | status: 200 | risiko: nein

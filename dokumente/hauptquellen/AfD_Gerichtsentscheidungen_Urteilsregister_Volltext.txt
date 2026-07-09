@@ -545,7 +545,7 @@ Die Bundestagsverwaltung verhängte gegen die AfD Strafzahlungen von über 1,08 
 
 
 **Beweisbedeutung für das Parteiverbotsverfahren:**
-Systematischer Bruch des Parteiengesetzes und der verfassungsrechtlichen Pflicht zur Offenlegung der Herkunft von Parteimitteln (Art. 21 Abs. 1 Satz 4 GG).
+Systematischer Bruch des Parteiengesetzes und der verfassungsrechtlichen Pflicht zur Statusgetrenntlegung der Herkunft von Parteimitteln (Art. 21 Abs. 1 Satz 4 GG).
 
 
 **Offizielle Quelle / Pressebeleg:**
@@ -1326,7 +1326,7 @@ Die Bundestagsverwaltung verweigerte dem AfD-Lokalpolitiker und Mitarbeiter des 
 
 
 **Beweisbedeutung für das Parteiverbotsverfahren:**
-Dieser Fall ist ein zentraler Beleg für die gezielte Einschleusung von Personen aus dem gewaltbereiten, organisierten kriminellen Milieu in die Herzkammer der deutschen Demokratie durch AfD-Mandatsträger. Er beweist die fehlende Abgrenzung der AfD zu verfassungsfeindlichen und gewalttätigen Strukturen.
+Dieser Fall ist ein zentraler Beleg für die gezielte Einschleusung von Personen aus dem gewaltbereiten, organisierten kriminellen Milieu in die Herzkammer der deutschen Demokratie durch AfD-Mandatsträger. Er beweist die präzisierte Abgrenzung der AfD zu verfassungsfeindlichen und gewalttätigen Strukturen.
 
 
 **Offizielle Quelle / Pressebeleg:**
@@ -5131,7 +5131,7 @@ https://openjur.de/suche/ZUERST%20Ausgabe%2005/2018/
 
 
 **Sachverhalt:**
-n ZUERST Artikel 3? Günther, Lars: ... „Ami go home“ am ... veröffentlicht in: www.videos.wir ‚Kanal: ‚Robert Götz Matuschewski“ am ... abgerufen am ... ne echte Debatte führen in: ZUERST Ausgabe 04/2022, S. 35 ff. Offensive statt Rechtfertigung in: ZUERST Ausgabe 05/2022, S. 28 ff. Verhärtete Fronten in: ZUERST Ausgabe 05/2022, S. 24. Kampf gegen die Einheitsfront in: ZUERST Ausgabe 11/2022, S. 75 ff. Freiheit statt Eurokratie in: ZUERST Ausgabe 04/2022, S. 31. Anzeige, in: ZUERST Ausgabe 03/2022, S. 27. Maier, Chri | .. veröffentlicht in: www.videos.wir ‚Kanal: ‚Robert Götz Matuschewski“ ...
+n ZUERST Artikel 3? Günther, Lars: ... „Ami go home“ am ... veröffentlicht in: www.videos.wir ‚Kanal: ‚Robert Götz Matuschewski“ am ... abgerufen am ... ne echte Debatte führen in: ZUERST Ausgabe 04/2022, S. 35 ff. Statusgetrenntsive statt Rechtfertigung in: ZUERST Ausgabe 05/2022, S. 28 ff. Verhärtete Fronten in: ZUERST Ausgabe 05/2022, S. 24. Kampf gegen die Einheitsfront in: ZUERST Ausgabe 11/2022, S. 75 ff. Freiheit statt Eurokratie in: ZUERST Ausgabe 04/2022, S. 31. Anzeige, in: ZUERST Ausgabe 03/2022, S. 27. Maier, Chri | .. veröffentlicht in: www.videos.wir ‚Kanal: ‚Robert Götz Matuschewski“ ...
 
 
 **Beweisbedeutung für das Parteiverbotsverfahren:**
@@ -5177,7 +5177,7 @@ https://openjur.de/suche/ZUERST%20Ausgabe%2006/2022/
 
 
 **Sachverhalt:**
-ewski“ am ... abgerufen am ... ne echte Debatte führen in: ZUERST Ausgabe 04/2022, S. 35 ff. Offensive statt Rechtfertigung in: ZUERST Ausgabe 05/2022, S. 28 ff. Verhärtete Fronten in: ZUERST Ausgabe 05/2022, S. 24. Kampf gegen die Einheitsfront in: ZUERST Ausgabe 11/2022, S. 75 ff. Freiheit statt Eurokratie in: ZUERST Ausgabe 04/2022, S. 31. Anzeige, in: ZUERST Ausgabe 03/2022, S. 27. Maier, Christoph: ... vom ... abgerufen am ... EL 795 Keine Weitergabe außerhalb des ... ohne Zustimmung des BfV GeheimgutachtenTe | ewski“ am ... abgerufen am ... ne echte Debatte führen in: ZUERST Ausgabe 0...
+ewski“ am ... abgerufen am ... ne echte Debatte führen in: ZUERST Ausgabe 04/2022, S. 35 ff. Statusgetrenntsive statt Rechtfertigung in: ZUERST Ausgabe 05/2022, S. 28 ff. Verhärtete Fronten in: ZUERST Ausgabe 05/2022, S. 24. Kampf gegen die Einheitsfront in: ZUERST Ausgabe 11/2022, S. 75 ff. Freiheit statt Eurokratie in: ZUERST Ausgabe 04/2022, S. 31. Anzeige, in: ZUERST Ausgabe 03/2022, S. 27. Maier, Christoph: ... vom ... abgerufen am ... EL 795 Keine Weitergabe außerhalb des ... ohne Zustimmung des BfV GeheimgutachtenTe | ewski“ am ... abgerufen am ... ne echte Debatte führen in: ZUERST Ausgabe 0...
 
 
 **Beweisbedeutung für das Parteiverbotsverfahren:**

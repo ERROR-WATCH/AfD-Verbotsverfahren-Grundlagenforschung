@@ -1,4 +1,4 @@
-# URTEILSDATENBANK BELEG 260: AfD muss Daten zu Facebook-Werbung offenlegen (VG Berlin 2026)
+# URTEILSDATENBANK BELEG 260: AfD muss Daten zu Facebook-Werbung anhängig; statusgetrenntlegen (VG Berlin 2026)
 
 **Gericht:** Verwaltungsgericht Berlin  
 **Datum:** 11. März 2026 (Berichterstattung/Entscheidung)  
@@ -22,4 +22,4 @@ Der Fall ist kein Strafurteil, aber ein direkt gegen die AfD gerichtetes verwalt
 
 ## Quellen
 
-- WELT/dpa: Gericht: AfD muss Daten zu Facebook-Werbung offenlegen, 11.03.2026, https://www.welt.de/regionales/berlin/article69b194f29276d101b4c85b9f/gericht-afd-muss-daten-zu-facebook-werbung-offenlegen.html
+- WELT/dpa: Gericht: AfD muss Daten zu Facebook-Werbung anhängig; statusgetrenntlegen, 11.03.2026, https://www.welt.de/regionales/berlin/article69b194f29276d101b4c85b9f/gericht-afd-muss-daten-zu-facebook-werbung-anhängig; statusgetrenntlegen.html

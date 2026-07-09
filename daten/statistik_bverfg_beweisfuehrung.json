@@ -1,0 +1,72 @@
+[
+  {
+    "id": "BVERFG-AXIS-001",
+    "axis": "Menschenwuerde",
+    "core_question": "Spricht die Partei bestimmten Gruppen gleiche Wuerde, Zugehoerigkeit oder Rechtssubjektivitaet ab?",
+    "evidence_logic": "BfV, GFF und DIMR fuehren den ethnisch-kulturellen Volksbegriff, antimuslimische Ausgrenzung, Remigrationslogik und gruppenbezogene Entwertung als zentrale Beweislinien.",
+    "primary_statistics": [
+      "Findings nach Zielgruppe",
+      "Menschenwuerde-Befunde nach Beweisstufe",
+      "Zurechnung direkt/indirekt/belegpfadbasierte Akteurs- und Funktionsebene",
+      "Zitatcluster Remigration/Volksbegriff"
+    ],
+    "best_chart": "Heatmap plus gestapelte Balken",
+    "warning": "Nicht jede migrationspolitische Forderung ist menschenwuerdewidrig; entscheidend sind Lagebild, Zielgruppe, Zurechnung und Rechtsfolge."
+  },
+  {
+    "id": "BVERFG-AXIS-002",
+    "axis": "Demokratieprinzip",
+    "core_question": "Zielt die Partei auf Delegitimierung demokratischer Institutionen, Gegner, Medien, Justiz oder parlamentarischer Verfahren?",
+    "evidence_logic": "GFF und BfV behandeln Parteienstaat-, System-, Kartellparteien-, Volksverraeter- und Einschuechterungsrhetorik als relevante Muster, wenn sie ueber Polemik hinaus institutionelle Legitimation angreifen.",
+    "primary_statistics": [
+      "Demokratieprinzip-Findings",
+      "Akteure mit Delegitimierungsbefunden",
+      "Gerichts-/Institutionenbezug",
+      "Medien-/Justizfeindlichkeitscluster"
+    ],
+    "best_chart": "Sankey und Zeitstrahl",
+    "warning": "Scharfe Regierungskritik ist geschuetzt; statistisch relevant ist der Sprung zur systematischen Delegitimierung demokratischer Verfahren."
+  },
+  {
+    "id": "BVERFG-AXIS-003",
+    "axis": "Darauf-Ausgehen",
+    "core_question": "Bleibt es bei Meinung und Programmatik oder zeigt sich planmaessiges, aktiv auf Wirkung gerichtetes Verhalten?",
+    "evidence_logic": "GFF, 44er-Stellungnahme und Ogorek verlangen die Verbindung von Zielrichtung, Verhalten, Organisation, Kampagnen, Wiederholung und realer Durchsetzungsperspektive.",
+    "primary_statistics": [
+      "Handlungsformen",
+      "Wiederholungsmuster",
+      "Organisationsebene",
+      "Kampagnen-/Parlaments-/Social-Media-Belege"
+    ],
+    "best_chart": "Matrix Quelle x Handlungsform plus Timeline",
+    "warning": "Einzelzitate allein reichen nicht; relevant ist die Verdichtung zu Strategie, Duldung, Aufnahme oder Wiederholung."
+  },
+  {
+    "id": "BVERFG-AXIS-004",
+    "axis": "Durchsetzungspotential",
+    "core_question": "Hat die Partei reale Moeglichkeiten, ihre verfassungsfeindlichen Ziele politisch wirksam zu verfolgen?",
+    "evidence_logic": "BfV- und PMK-Zahlen, Mitglieder, Mandate, Wahlergebnisse, staatliche Finanzierung, Medienreichweite und Vorfeldnetzwerke bilden den Durchsetzungspotential-Kontext.",
+    "primary_statistics": [
+      "rechtsextremistisch zugeordnete AfD-Personen 2023-2025",
+      "28.000 von 70.000",
+      "Mandate/Wahlergebnisse",
+      "Vorfeld- und JA-Netzwerke"
+    ],
+    "best_chart": "Linienchart, gestapelte Balken, Netzwerk",
+    "warning": "PMK-rechts ist Lagebild und keine automatische Parteizurechnung."
+  },
+  {
+    "id": "BVERFG-AXIS-005",
+    "axis": "Zurechnung",
+    "core_question": "Ist ein Befund der Partei, einem Organ, Funktionaer, Landesverband, der JA, einem einfachen Mitglied oder nur dem Umfeld zurechenbar?",
+    "evidence_logic": "BfV-Methodik, Ogorek und die Gerichtslogik machen Zurechnung zur zentralen Schaltstelle der Beweisfuehrung.",
+    "primary_statistics": [
+      "Direkt/indirekt/belegpfadbasierte Akteurs- und Funktionsebene",
+      "Akteursebene",
+      "Bund/Land/Kreis/JA",
+      "Quelle und Kanal"
+    ],
+    "best_chart": "Donut plus Scatterplot Beweisstaerke x Zurechnungsnaehe",
+    "warning": "Die hohe Zahl belegter, aber noch nicht nach Ebene/Kanal codierter Zurechnungspfade muss sichtbar sein, sonst entsteht Scheingenauigkeit."
+  }
+]

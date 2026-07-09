@@ -1,0 +1,144 @@
+{
+  "title": "Correctiv-Laenderstatus AfD 2026, lokal gesichert",
+  "stand": "2026-07-09",
+  "webquelle": "https://correctiv.org/aktuelles/afd/2026/06/17/wie-stuft-der-verfassungsschutz-die-afd-in-den-bundeslaendern-ein/",
+  "bildquelle_lokal": "assets/afd verdachtsfall.jpg",
+  "kernaussage": "Die Laenderkarte ist eine eigenstaendige Status- und Beweisachse: gesichert/hoechste Stufe, Verdachtsfall, Sonderstatus/Beobachtung, Teilstrukturstatus und nicht beobachtet muessen getrennt visualisiert werden.",
+  "gruppen": {
+    "gesichert_hoechste_stufe": 5,
+    "verdachtsfall_offiziell": 4,
+    "sonderstatus_beobachtung_nicht_oeffentlich_standard": 3,
+    "teilstrukturen": 1,
+    "nicht_beobachtet": 3
+  },
+  "rows": [
+    {
+      "land": "Thueringen",
+      "status_gruppe": "gesichert/höchste Stufe",
+      "status": "AfD Thueringen gilt als gesichert rechtsextremistisch; Hochstufung laut Correctiv nicht angefochten, also gueltig, aber nicht gerichtlich ueberprueft.",
+      "verfahren": "gueltig, keine gerichtliche Ueberpruefung der Hochstufung bekannt",
+      "correctiv": "Zeilen 38-52",
+      "lokal": "daten/statistik_laender_beweismatrix_afd_2026.json; LfV_Thueringen_Verfassungsschutzbericht_2024"
+    },
+    {
+      "land": "Brandenburg",
+      "status_gruppe": "gesichert/höchste Stufe",
+      "status": "AfD Brandenburg als gesichert/extremistische Bestrebung eingestuft; gerichtliche Hauptsache laeuft.",
+      "verfahren": "gerichtliche Ueberpruefung laeuft; Eilantrags-/Stillhaltehistorie getrennt fuehren",
+      "correctiv": "Zeilen 38-52",
+      "lokal": "LfV_Brandenburg_Verfassungsschutzbericht_2024_full.txt; DEEPRESEARCH_BRANDENBURG_NIEDERSACHSEN_AFD_STATUS_2026.md"
+    },
+    {
+      "land": "Sachsen",
+      "status_gruppe": "gesichert/höchste Stufe",
+      "status": "AfD Sachsen gesichert rechtsextremistisch; OVG Bautzen bestaetigte Einstufung laut Correctiv rechtsverbindlich.",
+      "verfahren": "gerichtlich bestaetigt/rechtsverbindlich laut Correctiv",
+      "correctiv": "Zeile 51",
+      "lokal": "LfV_Sachsen_Verfassungsschutzbericht_2024_full.txt; statistik_laender_beweismatrix_afd_2026.json"
+    },
+    {
+      "land": "Sachsen-Anhalt",
+      "status_gruppe": "gesichert/höchste Stufe",
+      "status": "AfD Sachsen-Anhalt als gesichert rechtsextremistische Bestrebung; Verfahren ruht laut Correctiv bis Koelner Bundesverfahren rechtskraeftig entschieden ist.",
+      "verfahren": "Verfahren ruht; nicht mit rechtskraeftiger Hauptsache verwechseln",
+      "correctiv": "Zeilen 40,52",
+      "lokal": "LfV_Sachsen_Anhalt_Verfassungsschutzbericht_2024_full.txt; statistik_laender_beweismatrix_afd_2026.json"
+    },
+    {
+      "land": "Niedersachsen",
+      "status_gruppe": "gesichert/höchste Stufe",
+      "status": "AfD Niedersachsen auf hoechster Beobachtungsstufe/Beobachtungsobjekt von besonderer Bedeutung; VG Hannover gab dem Verfassungsschutz Anfang Juni 2026 im Eilverfahren Recht.",
+      "verfahren": "Eilentscheidung; Hauptverfahren laeuft",
+      "correctiv": "Zeilen 40,47-50",
+      "lokal": "LfV_Niedersachsen_Verfassungsschutzbericht_2024_full.txt; 240_AfD_Niedersachsen_Verfassungsschutz_VG_Hannover.md"
+    },
+    {
+      "land": "Bayern",
+      "status_gruppe": "Verdachtsfall",
+      "status": "AfD Bayern offiziell Verdachtsfall; Klage gegen Einstufung scheiterte laut Correctiv.",
+      "verfahren": "gerichtlich/eilrechtlich bestaetigt, Stand gesondert pruefen",
+      "correctiv": "Zeilen 60-64",
+      "lokal": "urteilsbelege/241_AfD_Bayern_Verfassungsschutz_VGH_Bayern.md"
+    },
+    {
+      "land": "Baden-Wuerttemberg",
+      "status_gruppe": "Verdachtsfall",
+      "status": "AfD Baden-Wuerttemberg Verdachtsfall; VGH-Beschluss 2024 bestaetigte Einstufung laut Correctiv.",
+      "verfahren": "gerichtlich bestaetigt im Beschlusskontext",
+      "correctiv": "Zeilen 60-64",
+      "lokal": "LfV_Baden_Wuerttemberg_Verfassungsschutzbericht_2024_full.txt; statistik_laender_beweismatrix_afd_2026.json"
+    },
+    {
+      "land": "Bremen",
+      "status_gruppe": "Verdachtsfall",
+      "status": "AfD Bremen offiziell Verdachtsfall; laut Correctiv nicht angefochten.",
+      "verfahren": "nicht angefochten laut Correctiv",
+      "correctiv": "Zeilen 60-64",
+      "lokal": "LfV_Bremen_Verfassungsschutzbericht_2024_full.txt"
+    },
+    {
+      "land": "Hessen",
+      "status_gruppe": "Verdachtsfall",
+      "status": "AfD Hessen Verdachtsfall; VG Wiesbaden bestaetigte im Hauptsacheverfahren Anfang Juni 2026, Urteil laut Correctiv noch nicht rechtskraeftig.",
+      "verfahren": "Hauptsache erstinstanzlich, nicht rechtskraeftig",
+      "correctiv": "Zeilen 60-64",
+      "lokal": "urteilsbelege/242_AfD_Hessen_Verfassungsschutz_VG_Wiesbaden.md; LfV_Hessen_Verfassungsschutzbericht_2024_full.txt"
+    },
+    {
+      "land": "Berlin",
+      "status_gruppe": "Medien-/Registerstatus Verdachtsfall / Statusachse trennen",
+      "status": "AfD Berlin als Medien-/Registerstatus Verdachtsfall gesondert führen; der Berliner LfV-Bericht 2024 dient als amtlicher Themen-, Lagebild- und Methodikanker zu Rechtsextremismus, Neuer Rechter, Queerfeindlichkeit, FDGO und Personenpotenzialen. Lokale AfD-Berlin-Belege werden separat nach Akteur, Quelle und Zurechnung codiert.",
+      "verfahren": "oeffentliche Bestaetigung ist oeffentlich nicht bestaetigt; nicht als kein Befund darstellen",
+      "correctiv": "Zeilen 65-66",
+      "lokal": "LfV_Berlin_Verfassungsschutzbericht_2024_full.txt"
+    },
+    {
+      "land": "Mecklenburg-Vorpommern",
+      "status_gruppe": "Medien-/Registerstatus Verdachtsfall / Statusachse trennen",
+      "status": "AfD MV laut Medienberichten Verdachtsfall, aber nicht oeffentlich bestaetigt; JA-/AfD-Bezuege und lokale Rechtsextremismuszahlen vorhanden.",
+      "verfahren": "oeffentliche Bestaetigung ist oeffentlich nicht bestaetigt; lokale Belege separat zeigen",
+      "correctiv": "Zeile 65",
+      "lokal": "LfV_Mecklenburg_Vorpommern_Verfassungsschutzbericht_2024_full.txt"
+    },
+    {
+      "land": "Rheinland-Pfalz",
+      "status_gruppe": "Beobachtung ohne Standardstufen",
+      "status": "AfD Rheinland-Pfalz wird beobachtet; Landesverfassungsschutz nutzt nicht die Kategorien Prueffall/Verdachtsfall/gesichert, sondern beobachtet wegen hinreichender tatsaechlicher Anhaltspunkte.",
+      "verfahren": "eigene Landesrechtslogik; nicht als abweichenden Status abwerten",
+      "correctiv": "Zeilen 69-70",
+      "lokal": "LfV_Rheinland_Pfalz_Verfassungsschutzbericht_2024_full.txt"
+    },
+    {
+      "land": "Nordrhein-Westfalen",
+      "status_gruppe": "Teilstrukturen Verdachtsfall",
+      "status": "Nicht der gesamte Landesverband, aber Teilstrukturen innerhalb der AfD/ehemals Fluegel sowie Generation Deutschland NRW werden als Verdachtsfaelle beobachtet; Jugendverband seit Maerz 2026 entsprechend eingestuft.",
+      "verfahren": "Teilstrukturstatus, nicht Gesamt-Landesverband",
+      "correctiv": "Zeile 67",
+      "lokal": "LfV_Nordrhein_Westfalen_Verfassungsschutzbericht_2024_full.txt"
+    },
+    {
+      "land": "Saarland",
+      "status_gruppe": "nicht beobachtet",
+      "status": "AfD Saarland gilt nicht als Verdachtsfall; einschlaegige Erkenntnisse werden wegen Bundes-Verdachtsfall an das BfV uebermittelt.",
+      "verfahren": "kein Landesverdachtsfall laut Correctiv",
+      "correctiv": "Zeilen 71-73",
+      "lokal": "LfV_Saarland_Verfassungsschutzbericht_2024_full.txt"
+    },
+    {
+      "land": "Schleswig-Holstein",
+      "status_gruppe": "nicht beobachtet",
+      "status": "AfD Schleswig-Holstein wird auf Landesebene nicht als Verdachtsfall gefuehrt; fortlaufende Auswertung des Informationsaufkommens.",
+      "verfahren": "keine konkrete Einstufung laut Correctiv",
+      "correctiv": "Zeile 74",
+      "lokal": "LfV_Schleswig_Holstein_Verfassungsschutzbericht_2024_full.txt"
+    },
+    {
+      "land": "Hamburg",
+      "status_gruppe": "nicht beobachtet",
+      "status": "AfD Hamburg wird auf Landesebene nicht als Verdachtsfall gefuehrt.",
+      "verfahren": "keine konkrete Landesbeobachtung laut Correctiv",
+      "correctiv": "Zeilen 71-74",
+      "lokal": "LfV_Hamburg_Verfassungsschutzbericht_2024_full.txt"
+    }
+  ]
+}

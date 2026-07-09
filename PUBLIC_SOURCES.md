@@ -542,7 +542,7 @@ Ergaenzend zu den bereits vorhandenen PDFs wurden diese Volltexte fuer Deep-Rese
 
 - 258. Christian Zorn (Freispruch AG Stralsund 2026): [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/258_Christian_Zorn_Freispruch_AG_Stralsund_2026.md) | [Online-Quelle](https://www.welt.de/regionales/mecklenburg-vorpommern/article69e786caff0951f41af8e88f/afd-mann-zorn-von-betrugsvorwurf-freigesprochen.html)
 - 259. AfD Bundespartei: vorläufig keine Einstufung als gesichert rechtsextrem (VG Köln 2026): [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/259_AfD_Bundespartei_Gesichert_Rechtsextrem_VG_Koeln_2026.md) | [Online-Quelle](https://www.bild.de/politik/inland/gerichts-hammer-afd-darf-nicht-als-gesichert-rechtsextrem-eingestuft-werden-69a051952cfe24517f7c9f85)
-- Urteil/Quelle 260: AfD/Facebook-Werbung, VG Berlin 2026: [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/260_AfD_Facebook_Werbung_Datenschutz_VG_Berlin_2026.md) | [Online-Quelle](https://www.welt.de/regionales/berlin/article69b194f29276d101b4c85b9f/gericht-afd-muss-daten-zu-facebook-werbung-offenlegen.html)
+- Urteil/Quelle 260: AfD/Facebook-Werbung, VG Berlin 2026: [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/260_AfD_Facebook_Werbung_Datenschutz_VG_Berlin_2026.md) | [Online-Quelle](https://www.welt.de/regionales/berlin/article69b194f29276d101b4c85b9f/gericht-afd-muss-daten-zu-facebook-werbung-anhängig/statusgetrenntlegen.html)
 - AIB 150 / 2026: Alte (Neonazi-) Bekannte als AfD-Funktionäre? [Lokaler Beleg](./dokumente/hauptquellen/AIB150_Alte_Neonazi_Bekannte_AfD_Funktionaere_2026.md) | [Online-Quelle](https://antifainfoblatt.de/aib150/alte-neonazi-bekannte-als-afd-funktionaere)
 - Endstation Rechts 2026: Reichstagsstürmerin in Diensten der AfD [Lokaler Beleg](./dokumente/hauptquellen/Endstation_Rechts_Reichstagsstuermerin_AfD_Brandenburg_2026.md) | [Online-Quelle](https://www.endstation-rechts.de/news/reichstagsstuermerin-diensten-der-afd)
 - Prüfvermerk Chrupalla/Phoenix-Screenshot: Beobachtung politischer Parteien [Lokaler Beleg](./dokumente/hauptquellen/Chrupalla_Phoenix_Verfassungsschutz_Beobachtung_Screenshot_Pruefvermerk.md) | [Screenshot](./dokumente/hauptquellen/chrupalla_phoenix_verfassungsschutz_beobachtung_screenshot.jpeg)
@@ -550,8 +550,52 @@ Ergaenzend zu den bereits vorhandenen PDFs wurden diese Volltexte fuer Deep-Rese
 - Historischer Referenzbeleg: Zentrumspartei, Ermächtigungsgesetz 1933 und Steigbügelhalter-Funktion [Lokaler Beleg](./dokumente/hauptquellen/Zentrumspartei_Ermaechtigungsgesetz_1933_Steigbuegelhalter_Analyse.md)
 - Urteil/Quelle 261: AfD/BMI-BfV Verfassungsschutzbericht 2022: keine vorläufige Korrektur (VG Berlin 2024) [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/261_AfD_BfV_Verfassungsschutzbericht_2022_VG_Berlin_2024.md) | [Online-Quelle](https://www.welt.de/politik/deutschland/article249960238/Bundesinnenministerium-muss-Aussagen-zu-AfD-vorerst-nicht-aendern.html)
 - Urteil/Quelle 262: AfD Sachsen: Eilanträge gegen Einstufung als gesichert rechtsextrem gescheitert (VG Dresden/OVG Bautzen) [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/262_AfD_Sachsen_Gesichert_Rechtsextrem_VG_Dresden_OVG_Bautzen.md) | [Online-Quelle](https://www.welt.de/regionales/sachsen/article69d7a515c72227da0df14398/afd-klagt-gegen-einstufung-als-gesichert-rechtsextremistisch.html)
-- Build-Audit Deepresearch 2026-07-08: [Lokaler Beleg](./BUILD_AUDIT_DEEPRESEARCH_2026-07-08.md) - Offene Restpunkte, uebersprungene Punkte, Urteils- und Statistikluecken vor dem Pages-Build.
+- Build-Audit Deepresearch 2026-07-08: [Lokaler Beleg](./BUILD_AUDIT_DEEPRESEARCH_2026-07-08.md) - Statusgetrennte Restpunkte, uebersprungene Punkte, Urteils- und Statistikluecken vor dem Pages-Build.
 - Wikipedia-Abgleich: Rechtsextreme und neonazistische Vorfaelle in der AfD [Lokaler Beleg](./dokumente/hauptquellen/Wikipedia_Abgleich_Rechtsextreme_Neonazistische_Vorfaelle_AfD.md) | [Online-Quelle](https://de.wikipedia.org/wiki/Liste_rechtsextremer_und_neonazistischer_Vorf%C3%A4lle_in_der_AfD)
 - Deepresearch BfV/Spiegel/Tagesschau/Panorama/Tagesspiegel/taz: [Lokaler Beleg](./dokumente/hauptquellen/Deepresearch_BfV_AfD_Rechtsextremismus_Belege_2025_2026.md) | [SPIEGEL](https://www.spiegel.de/politik/deutschland/afd-ist-rechtsextrem-hier-sind-die-belege-des-verfassungsschutzes-a-b5fa40e4-a54e-410a-8cc7-ade35d09f77c) | [Tagesschau](https://www.tagesschau.de/inland/innenpolitik/afd-verfassungsschutz-rechtsextremismus-100.html) | [NDR Panorama](https://www.ndr.de/fernsehen/sendungen/panorama/aktuell/Chronik-Rechtsextreme-Vorfaelle-in-der-AfD-2016,afd892.html) | [Tagesspiegel/BR](https://www.tagesspiegel.de/politik/recherche-belastet-auch-weidel-und-chrupalla-afd-soll-mehr-als-100-rechtsextremisten-im-bundestag-beschaftigen-11315497.html) | [taz](https://taz.de/Studie-vergleicht-NS--und-AfD-Hochburgen/!5577189/) | [n-tv](https://www.n-tv.de/politik/Grosser-Teil-der-AfD-Mitglieder-soll-rechtsextrem-sein-id31030282.html)
 - Analyse Verfassungsschutzbericht 2025 Statistikwerte: [Lokaler Beleg](./dokumente/hauptquellen/Analyse_Verfassungsschutzbericht_2025_Statistiken_AfD_Rechtsextremismus.md) | [Vollbericht PDF](./dokumente/vfs_berichte_bundeslaender/2026-06-30-verfassungsschutzbericht-2025.pdf)
 - n-tv/dpa/rts 2026: Großer Teil der AfD-Mitglieder soll rechtsextrem sein [Lokaler Beleg](./dokumente/hauptquellen/ntv_BfV_AfD_Mitglieder_Rechtsextremismus_2026.md) | [Online-Quelle](https://www.n-tv.de/politik/Grosser-Teil-der-AfD-Mitglieder-soll-rechtsextrem-sein-id31030282.html)
+
+## Statistik-Tab Beweissicherung 2026
+
+Diese Quellen wurden fuer die inhaltliche Statistik-Erweiterung als primaere oder lokale Beweisanker gesichert.
+
+* **BVerwG, Beschluss vom 20.05.2025 - 6 B 23.24**
+  Web: https://www.bverwg.de/200525B6B23.24.0
+  Funktion: rechtskraeftiger Statusanker Bundes-AfD als Verdachtsfall.
+
+* **BVerfG, NPD II, 2 BvB 1/13**
+  Web: https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2017/01/bs20170117_2bvb000113.html
+  Funktion: Massstab fuer Art. 21, Menschenwuerde, Demokratie, Potentialitaet, Darauf-Ausgehen.
+
+* **BVerfG, Finanzierungsausschluss NPD/Die Heimat, 2 BvB 1/19**
+  Web: https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2024/01/bs20240123_2bvb000119.html
+  Funktion: Rechtsfolgen-/Finanzierungsausschluss-Achse getrennt vom Parteiverbot.
+
+* **GFF-Gutachten lokal, Teil 02 / Methodik**
+  Lokal: `dokumente/ki_markdown/dokumente/splits/GFF_AfD-Gutachten_Teil_02_Einfuehrung.md`
+  Funktion: Korpusmethodik, 54.972 Pressemitteilungen, Programme, Parlamentsdokumente, Social Media, Interviews.
+
+* **GFF-Gutachten lokal, Teil 05 / Menschenwuerde**
+  Lokal: `dokumente/ki_markdown/dokumente/splits/GFF_AfD-Gutachten_Teil_05_Teil_3_A_Menschenwuerde.md`
+  Funktion: Remigration, ethnischer Volksbegriff, Zielgruppen, Menschenwuerde.
+
+* **BfV-Folgegutachten 2021, Fluegel-Netzwerk**
+  Lokal: `geheimgutachten/BfV-AfD-Folgegutachten_2021_05_E_Einflussnahme_Fluegel.md`
+  Funktion: 14.371 Verbindungen, 334 interagierende AfD-Profile, 1.201 Freundschaftsbeziehungen, Top-Profile.
+
+* **BfV-Folgegutachten 2021, Menschenwuerde/Antisemitismus**
+  Lokal: `geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde.txt`
+  Funktion: Volksbegriff, Soros-/NWO-/Hochfinanz-Chiffren, antisemitische und verschwörungsideologische Muster.
+
+* **Laenderberichte VFS/LfV 2024/2025**
+  Lokal: `dokumente/vfs_berichte_bundeslaender/`
+  Funktion: Statusmatrix Bund/Laender/JA/GD, regionale Verdichtung, Kontextzahlen und Vorfeld.
+
+* **Urteilsregister / Urteilsbelege**
+  Lokal: `dokumente/hauptquellen/urteilsbelege/`
+  Funktion: Statusentscheidungen, Strafurteile, Sicherheitsverfahren, Parteienfinanzierung, Freispruch/laufend/nicht rechtskraeftig getrennt.
+
+* **Beweissicherungsdaten 2026**
+  Lokal: `daten/statistik_beweis_sicherung_2026.json` und `dokumente/hauptquellen/STATISTIK_TAB_BEWEISSICHERUNG_2026.md`
+  Funktion: maschinenlesbare Statistik-Tab-Beweismatrix mit lokalen Fundstellen und statusgetrennten Primaerquellen.

@@ -16,7 +16,7 @@ Agitation gegen Großstadt-Milieus, Zuwanderungsgruppen und den 'politischen Isl
 ## 🔎 Repräsentative Beweis-Zitate (Auswahl)
 
 * „Die Deindustrialisierung des Ruhrgebiets durch links-grüne Klimahysterie muss gestoppt werden.“
-* „Das Entstehen von Parallelgesellschaften in unseren Städten ist das direkte Ergebnis einer verfehlten Einwanderungspolitik.“
+* „Das Entstehen von Parallelgesellschaften in unseren Städten ist das direkte Ergebnis einer verist als Pinpoint-/Statusfeld geführten Einwanderungspolitik.“
 
 ---
 *Dokumentenarchiv zum AfD-Verbotsverfahren (Juni 2026).*

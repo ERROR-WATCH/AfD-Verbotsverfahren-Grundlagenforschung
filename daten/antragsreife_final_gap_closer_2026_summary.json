@@ -1,0 +1,28 @@
+{
+  "generated_at": "2026-07-09T00:00:00+02:00",
+  "purpose": "Finale Verfahrenshaertung vor Antragsschrift: Beschaffen, Verlinken, Visualisieren und Schriftsatzlogik.",
+  "total_actions": 7,
+  "priority_a": 7,
+  "local_anchor_sets": 33,
+  "output_artifacts": 21,
+  "key_counts": {
+    "quote_findings": 3611,
+    "top_quote_rows": 150,
+    "actor_registry_rows": 3611,
+    "inventory_sources": 10427,
+    "official_or_primary_sources": 5591,
+    "route_only_sources": 175,
+    "social_media_routes": 22,
+    "anlagen_rows": 158,
+    "official_web_anchors": 19,
+    "final_pinpoints": 127,
+    "local_line_anchors": 127,
+    "chronik_clusters_to_dossier": 13,
+    "gutachten_audit_rows": 11,
+    "status_axes": 13,
+    "laender_axes": 20,
+    "security_rows": 10,
+    "vorfeld_edges": 6,
+    "vorfeld_single_edges": 32
+  }
+}

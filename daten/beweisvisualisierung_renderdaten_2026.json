@@ -1,0 +1,1029 @@
+{
+  "generated_at": "2026-07-09",
+  "sankey_source_actor_legal": [
+    {
+      "path": "sonstige -> Akteur im Belegpfad -> Potentialitaet",
+      "value": 52
+    },
+    {
+      "path": "sonstige -> Der Bundesvorstand -> Rechtsstaatsprinzip",
+      "value": 26
+    },
+    {
+      "path": "sonstige -> Akteur im Belegpfad -> Menschenwürde",
+      "value": 15
+    },
+    {
+      "path": "sonstige -> Thüringen Landesvorstand -> Potentialitaet",
+      "value": 14
+    },
+    {
+      "path": "sonstige -> Sturmabteilung (JA) der AfD -> Rechtsstaatsprinzip",
+      "value": 13
+    },
+    {
+      "path": "sonstige -> Bayern Landesvorstand -> Rechtsstaatsprinzip",
+      "value": 11
+    },
+    {
+      "path": "sonstige -> Der Bundesvorstand -> Potentialitaet",
+      "value": 11
+    },
+    {
+      "path": "sonstige -> Brandenburg Landesvorstand -> Potentialitaet",
+      "value": 9
+    },
+    {
+      "path": "sonstige -> Sturmabteilung (JA) der AfD -> Menschenwürde",
+      "value": 7
+    },
+    {
+      "path": "sonstige -> Jan Wenzel Schmidt -> Rechtsstaatsprinzip",
+      "value": 5
+    },
+    {
+      "path": "social/video -> Gottfried Curio -> Verfassungsfeindliche Zielrichtung",
+      "value": 5
+    },
+    {
+      "path": "sonstige -> Ulrich Siegmund -> Verfassungsfeindliche Zielrichtung",
+      "value": 5
+    },
+    {
+      "path": "sonstige -> Christoph Maier -> Verfassungsfeindliche Zielrichtung",
+      "value": 4
+    },
+    {
+      "path": "social/video -> Martin Hess -> Potentialitaet",
+      "value": 4
+    },
+    {
+      "path": "sonstige -> Jan Nolte -> Rechtsstaatsprinzip",
+      "value": 3
+    },
+    {
+      "path": "sonstige -> Thüringen Landesvorstand -> Rechtsstaatsprinzip",
+      "value": 3
+    },
+    {
+      "path": "sonstige -> Thüringen Landesvorstand -> Menschenwürde",
+      "value": 3
+    },
+    {
+      "path": "sonstige -> Sachsen Landesvorstand -> Menschenwürde",
+      "value": 3
+    },
+    {
+      "path": "sonstige -> Sachsen Landesvorstand -> Potentialitaet",
+      "value": 3
+    },
+    {
+      "path": "sonstige -> Bremen Landesvorstand -> Menschenwürde",
+      "value": 3
+    },
+    {
+      "path": "sonstige -> Bremen Landesvorstand -> Potentialitaet",
+      "value": 3
+    },
+    {
+      "path": "sonstige -> Saarland Landesvorstand -> Potentialitaet",
+      "value": 3
+    },
+    {
+      "path": "social/video -> Mariana Iris Harder-Kühnel -> Potentialitaet",
+      "value": 3
+    },
+    {
+      "path": "social/video -> Roland Ulbrich -> Verfassungsfeindliche Zielrichtung",
+      "value": 3
+    },
+    {
+      "path": "social/video -> Stefan Keuter -> Potentialitaet",
+      "value": 3
+    },
+    {
+      "path": "social/video -> Thomas Göbel -> Potentialitaet",
+      "value": 3
+    },
+    {
+      "path": "social/video -> Bernd Baumann -> Verfassungsfeindliche Zielrichtung",
+      "value": 3
+    },
+    {
+      "path": "sonstige -> Sachsen Landesvorstand -> Rechtsstaatsprinzip",
+      "value": 2
+    },
+    {
+      "path": "sonstige -> Brandenburg Landesvorstand -> Menschenwürde",
+      "value": 2
+    },
+    {
+      "path": "sonstige -> Hessen Landesvorstand -> Menschenwürde",
+      "value": 2
+    },
+    {
+      "path": "sonstige -> Christoph Berndt -> Verfassungsfeindliche Zielrichtung",
+      "value": 2
+    },
+    {
+      "path": "social/video -> Enxhi Seli-Zacharias -> Verfassungsfeindliche Zielrichtung",
+      "value": 2
+    },
+    {
+      "path": "amtlich/gerichtlich -> Der Bundesvorstand -> Rechtsstaatsprinzip",
+      "value": 2
+    },
+    {
+      "path": "sonstige -> Der Bundesvorstand -> Verfassungsfeindliche Zielrichtung",
+      "value": 2
+    },
+    {
+      "path": "sonstige -> Saarland Landesvorstand -> Menschenwürde",
+      "value": 2
+    },
+    {
+      "path": "sonstige -> Markus Wagner -> Verfassungsfeindliche Zielrichtung",
+      "value": 2
+    },
+    {
+      "path": "social/video -> Mariana Iris Harder-Kühnel -> Verfassungsfeindliche Zielrichtung",
+      "value": 2
+    },
+    {
+      "path": "social/video -> Martin Sichert -> Potentialitaet",
+      "value": 2
+    },
+    {
+      "path": "social/video -> Nicole Höchst -> Potentialitaet",
+      "value": 2
+    },
+    {
+      "path": "social/video -> Roger Beckamp -> Potentialitaet",
+      "value": 2
+    },
+    {
+      "path": "social/video -> Sebastian Münzenmaier -> Verfassungsfeindliche Zielrichtung",
+      "value": 2
+    },
+    {
+      "path": "social/video -> Sven Tritschler -> Verfassungsfeindliche Zielrichtung",
+      "value": 2
+    },
+    {
+      "path": "sonstige -> André Poggenburg -> Verfassungsfeindliche Zielrichtung",
+      "value": 2
+    },
+    {
+      "path": "sonstige -> Katrin Ebner-Steiner -> Rechtsstaatsprinzip",
+      "value": 1
+    },
+    {
+      "path": "sonstige -> Marc Bernhard -> Menschenwürde",
+      "value": 1
+    },
+    {
+      "path": "sonstige -> Ronald Gläser -> Menschenwürde",
+      "value": 1
+    },
+    {
+      "path": "sonstige -> Alexander Gauland -> Menschenwürde / Minderheitenfeindlichkeit",
+      "value": 1
+    },
+    {
+      "path": "sonstige -> Jan Nolte -> Potentialitaet",
+      "value": 1
+    },
+    {
+      "path": "sonstige -> Jörg Urban -> Ethnischer Volksbegriff / Remigration",
+      "value": 1
+    },
+    {
+      "path": "sonstige -> Martin Reichardt -> Rechtsstaatsprinzip",
+      "value": 1
+    },
+    {
+      "path": "sonstige -> Der Bundesvorstand -> aktiv-kaempferisches Vorgehen",
+      "value": 1
+    },
+    {
+      "path": "sonstige -> Der Bundesvorstand -> Menschenwürde / Minderheitenfeindlichkeit",
+      "value": 1
+    },
+    {
+      "path": "sonstige -> Akteur im Belegpfad -> Rechtsstaatsprinzip",
+      "value": 1
+    },
+    {
+      "path": "sonstige -> Akteur im Belegpfad -> Menschenwürde / Minderheitenfeindlichkeit",
+      "value": 1
+    },
+    {
+      "path": "sonstige -> Christoph Berndt -> Rechtsstaatsprinzip",
+      "value": 1
+    },
+    {
+      "path": "amtlich/gerichtlich -> Benjamin Nolte -> Rechtsstaatsprinzip",
+      "value": 1
+    },
+    {
+      "path": "sonstige -> Jan Wenzel Schmidt -> Menschenwürde",
+      "value": 1
+    },
+    {
+      "path": "social/video -> Carolin Bachmann -> Verfassungsfeindliche Zielrichtung",
+      "value": 1
+    },
+    {
+      "path": "sonstige -> Lena Kotré -> Verfassungsfeindliche Zielrichtung",
+      "value": 1
+    },
+    {
+      "path": "sonstige -> Daniela Oeynhausen -> Verfassungsfeindliche Zielrichtung",
+      "value": 1
+    },
+    {
+      "path": "social/video -> Markus Wagner -> Verfassungsfeindliche Zielrichtung",
+      "value": 1
+    },
+    {
+      "path": "sonstige -> Der Bundesvorstand -> Menschenwürde",
+      "value": 1
+    },
+    {
+      "path": "sonstige -> Hessen Landesvorstand -> Potentialitaet",
+      "value": 1
+    },
+    {
+      "path": "sonstige -> Hessen Landesvorstand -> Rechtsstaatsprinzip",
+      "value": 1
+    },
+    {
+      "path": "sonstige -> Hamburg Landesvorstand -> Rechtsstaatsprinzip",
+      "value": 1
+    },
+    {
+      "path": "sonstige -> Saarland Landesvorstand -> Rechtsstaatsprinzip",
+      "value": 1
+    },
+    {
+      "path": "sonstige -> Rheinland-Pfalz Landesvorstand -> Menschenwürde",
+      "value": 1
+    },
+    {
+      "path": "amtlich/gerichtlich -> Thüringen Landesvorstand -> Rechtsstaatsprinzip",
+      "value": 1
+    },
+    {
+      "path": "sonstige -> Brandenburg Landesvorstand -> Rechtsstaatsprinzip",
+      "value": 1
+    },
+    {
+      "path": "social/video -> Udo Hemmelgarn -> Potentialitaet",
+      "value": 1
+    },
+    {
+      "path": "social/video -> Jörg Urban -> Menschenwürde",
+      "value": 1
+    },
+    {
+      "path": "social/video -> Jürgen Braun -> Potentialitaet",
+      "value": 1
+    },
+    {
+      "path": "social/video -> Karsten Hilse -> Verfassungsfeindliche Zielrichtung",
+      "value": 1
+    },
+    {
+      "path": "social/video -> Kay Gottschalk -> Potentialitaet",
+      "value": 1
+    },
+    {
+      "path": "social/video -> Martin Sichert -> Verfassungsfeindliche Zielrichtung",
+      "value": 1
+    },
+    {
+      "path": "social/video -> Sebastian Münzenmaier -> Potentialitaet",
+      "value": 1
+    },
+    {
+      "path": "social/video -> Stephan Brandner -> Verfassungsfeindliche Zielrichtung",
+      "value": 1
+    },
+    {
+      "path": "social/video -> Thomas Seitz -> Potentialitaet",
+      "value": 1
+    },
+    {
+      "path": "social/video -> Dirk Brandes -> Verfassungsfeindliche Zielrichtung",
+      "value": 1
+    },
+    {
+      "path": "social/video -> Alice Weidel -> Verfassungsfeindliche Zielrichtung",
+      "value": 1
+    }
+  ],
+  "heatmap_target_legal": [
+    {
+      "target_group": "Muslimische Menschen / religiöse Minderheiten",
+      "legal_good": "Potentialitaet",
+      "value": 50
+    },
+    {
+      "target_group": "Menschen mit Migrationsgeschichte / Staatsbürgerstatus",
+      "legal_good": "Rechtsstaatsprinzip",
+      "value": 29
+    },
+    {
+      "target_group": "Zielgruppe aus Kontext gegenzulesen",
+      "legal_good": "Potentialitaet",
+      "value": 27
+    },
+    {
+      "target_group": "Menschen mit Migrationsgeschichte / Staatsbürgerstatus",
+      "legal_good": "Menschenwürde",
+      "value": 24
+    },
+    {
+      "target_group": "Menschen mit Migrationsgeschichte / Staatsbürgerstatus",
+      "legal_good": "Potentialitaet",
+      "value": 23
+    },
+    {
+      "target_group": "Justiz / Sicherheits- und Verfassungsorgane",
+      "legal_good": "Potentialitaet",
+      "value": 19
+    },
+    {
+      "target_group": "Muslimische Menschen / religiöse Minderheiten",
+      "legal_good": "Rechtsstaatsprinzip",
+      "value": 15
+    },
+    {
+      "target_group": "Zielgruppe aus Kontext gegenzulesen",
+      "legal_good": "Rechtsstaatsprinzip",
+      "value": 15
+    },
+    {
+      "target_group": "Menschen mit Migrationsgeschichte / Staatsbürgerstatus",
+      "legal_good": "Verfassungsfeindliche Zielrichtung",
+      "value": 15
+    },
+    {
+      "target_group": "Zielgruppe aus Kontext gegenzulesen",
+      "legal_good": "Verfassungsfeindliche Zielrichtung",
+      "value": 15
+    },
+    {
+      "target_group": "Justiz / Sicherheits- und Verfassungsorgane",
+      "legal_good": "Rechtsstaatsprinzip",
+      "value": 14
+    },
+    {
+      "target_group": "Muslimische Menschen / religiöse Minderheiten",
+      "legal_good": "Verfassungsfeindliche Zielrichtung",
+      "value": 11
+    },
+    {
+      "target_group": "Zielgruppe aus Kontext gegenzulesen",
+      "legal_good": "Menschenwürde",
+      "value": 10
+    },
+    {
+      "target_group": "Justiz / Sicherheits- und Verfassungsorgane",
+      "legal_good": "Verfassungsfeindliche Zielrichtung",
+      "value": 7
+    },
+    {
+      "target_group": "Queere Menschen / geschlechtliche Selbstbestimmung",
+      "legal_good": "Potentialitaet",
+      "value": 5
+    },
+    {
+      "target_group": "Justiz / Sicherheits- und Verfassungsorgane",
+      "legal_good": "Menschenwürde",
+      "value": 5
+    },
+    {
+      "target_group": "Muslimische Menschen / religiöse Minderheiten",
+      "legal_good": "Menschenwürde",
+      "value": 4
+    },
+    {
+      "target_group": "Queere Menschen / geschlechtliche Selbstbestimmung",
+      "legal_good": "Rechtsstaatsprinzip",
+      "value": 2
+    },
+    {
+      "target_group": "Zielgruppe aus Kontext gegenzulesen",
+      "legal_good": "Menschenwürde / Minderheitenfeindlichkeit",
+      "value": 1
+    },
+    {
+      "target_group": "Justiz / Sicherheits- und Verfassungsorgane",
+      "legal_good": "Ethnischer Volksbegriff / Remigration",
+      "value": 1
+    },
+    {
+      "target_group": "Menschen mit Migrationsgeschichte / Staatsbürgerstatus",
+      "legal_good": "aktiv-kaempferisches Vorgehen",
+      "value": 1
+    },
+    {
+      "target_group": "Menschen mit Migrationsgeschichte / Staatsbürgerstatus",
+      "legal_good": "Menschenwürde / Minderheitenfeindlichkeit",
+      "value": 1
+    },
+    {
+      "target_group": "Muslimische Menschen / religiöse Minderheiten",
+      "legal_good": "Menschenwürde / Minderheitenfeindlichkeit",
+      "value": 1
+    },
+    {
+      "target_group": "Queere Menschen / geschlechtliche Selbstbestimmung",
+      "legal_good": "Menschenwürde",
+      "value": 1
+    },
+    {
+      "target_group": "Presse / freie Öffentlichkeit",
+      "legal_good": "Potentialitaet",
+      "value": 1
+    },
+    {
+      "target_group": "Queere Menschen / geschlechtliche Selbstbestimmung",
+      "legal_good": "Verfassungsfeindliche Zielrichtung",
+      "value": 1
+    },
+    {
+      "target_group": "Zielgruppe aus Kontext gegenzulesen",
+      "legal_good": "aktiv-kaempferisches Vorgehen",
+      "value": 1
+    },
+    {
+      "target_group": "Muslimische Menschen / religiöse Minderheiten",
+      "legal_good": "aktiv-kaempferisches Vorgehen",
+      "value": 1
+    }
+  ],
+  "status_timeline_rows": [
+    {
+      "id": "STATUS-B8E2BE72A0BA",
+      "level": "Bund",
+      "object": "AfD Bundespartei",
+      "status": "Verdachtsfall rechtskraeftig bestaetigt; gesichert-rechtsextremistische Hochstufung 2025/2026 als gesonderte Eil-/Hauptsacheachse fuehren, nicht als rechtskraeftige Hauptsachefeststellung",
+      "source": "daten/statistik_statusmatrix_afd_2026.json"
+    },
+    {
+      "id": "STATUS-F24628DCCC73",
+      "level": "Bund",
+      "object": "Junge Alternative Bund / Nachfolgekontext",
+      "status": "BfV gesichert extremistische Bestrebung; VG Koeln Eilverfahren 05.02.2024 bestaetigt, Hauptsache anhängig; Status getrennt geführt / Beschwerdekontext gesondert markieren",
+      "source": "daten/statistik_statusmatrix_afd_2026.json"
+    },
+    {
+      "id": "STATUS-92D152152F2B",
+      "level": "Länder gesichert / erwiesen",
+      "object": "AfD Thüringen",
+      "status": "erwiesen/gesichert rechtsextremistische Bestrebung",
+      "source": "daten/statistik_statusmatrix_afd_2026.json"
+    },
+    {
+      "id": "STATUS-2EB76B5FA9C0",
+      "level": "Länder gesichert / erwiesen",
+      "object": "AfD Sachsen",
+      "status": "erwiesene extremistische Bestrebung; Einstufung als gesichert rechtsextremistisch im gerichtlichen Eilkontext bestaetigt",
+      "source": "daten/statistik_statusmatrix_afd_2026.json"
+    },
+    {
+      "id": "STATUS-FB81AF756339",
+      "level": "Länder gesichert / erwiesen",
+      "object": "AfD Sachsen-Anhalt",
+      "status": "gesichert rechtsextremistische Bestrebung mitsamt Teil-, Neben- und Unterorganisationen",
+      "source": "daten/statistik_statusmatrix_afd_2026.json"
+    },
+    {
+      "id": "STATUS-BABEF527EDE0",
+      "level": "Länder Verdachtsfall / Verdachtsobjekt",
+      "object": "AfD Brandenburg",
+      "status": "Verdachtsfall 2024; spaetere Hochstufungs-/Klagekontexte getrennt pruefen",
+      "source": "daten/statistik_statusmatrix_afd_2026.json"
+    },
+    {
+      "id": "STATUS-855A7218F22D",
+      "level": "Länder Verdachtsfall / Verdachtsobjekt",
+      "object": "AfD Baden-Wuerttemberg",
+      "status": "Verdachtsfall; VG Stuttgart 18.03.2025 Klage abgewiesen, nicht rechtskraeftig; VGH-Eilbeschluss 11.11.2024 unanfechtbar",
+      "source": "daten/statistik_statusmatrix_afd_2026.json"
+    },
+    {
+      "id": "STATUS-8372955A963C",
+      "level": "Länder Verdachtsfall / Verdachtsobjekt",
+      "object": "AfD Niedersachsen",
+      "status": "Verdachtsobjekt seit Mai 2022",
+      "source": "daten/statistik_statusmatrix_afd_2026.json"
+    },
+    {
+      "id": "STATUS-026B1AA1FDB4",
+      "level": "Länder Verdachtsfall / Verdachtsobjekt",
+      "object": "AfD Saarland",
+      "status": "rechtsextremistischer Verdachtsfall im Berichtskontext",
+      "source": "daten/statistik_statusmatrix_afd_2026.json"
+    },
+    {
+      "id": "STATUS-9283834CA513",
+      "level": "Jugend / Vorfeld / Kontext",
+      "object": "JA Brandenburg",
+      "status": "erwiesen rechtsextremistische Bestrebung seit Juli 2023",
+      "source": "daten/statistik_statusmatrix_afd_2026.json"
+    },
+    {
+      "id": "STATUS-D8E84D4F0746",
+      "level": "Jugend / Vorfeld / Kontext",
+      "object": "JA Thüringen",
+      "status": "gesichert rechtsextremistisch seit 28.03.2024",
+      "source": "daten/statistik_statusmatrix_afd_2026.json"
+    },
+    {
+      "id": "STATUS-97B4C3C45330",
+      "level": "Jugend / Vorfeld / Kontext",
+      "object": "JA Mecklenburg-Vorpommern",
+      "status": "im Rechtsextremismuspotenzial erfasst; Bundes-/Landes-JA-Bezug gesondert pruefen",
+      "source": "daten/statistik_statusmatrix_afd_2026.json"
+    },
+    {
+      "id": "STATUS-641CB844B662",
+      "level": "Jugend / Vorfeld / Kontext",
+      "object": "Neue Rechte / IB / IfS / Ein Prozent / Compact / Antaios",
+      "status": "Vorfeld, teils gesichert rechtsextremistisch bzw. Beobachtungsobjekte; Zurechnung zur AfD nur ueber konkrete Personen-, Organisations-, Kampagnen-, Medien- oder Zugangskanten",
+      "source": "daten/statistik_statusmatrix_afd_2026.json"
+    },
+    {
+      "id": "LANDSTATUS-D133351E1DE6",
+      "level": "Land",
+      "object": "Baden-Wuerttemberg",
+      "status": "AfD-Landesverband Verdachtsfall; gerichtliche Eilverfahren/verwaltungsgerichtliche Bestaetigungen lokal zu fuehren, Hauptsachestand getrennt.",
+      "source": "daten/statistik_laender_beweismatrix_afd_2026.json"
+    },
+    {
+      "id": "LANDSTATUS-6DE66759A579",
+      "level": "Land",
+      "object": "Bayern",
+      "status": "AfD-Beobachtung/Verdachtsfall gerichtlich im Eilkontext bestaetigt; kein gesicherter Landesverbandsstatus als rechtskraeftige Hauptsachebehauptung fuehren.",
+      "source": "daten/statistik_laender_beweismatrix_afd_2026.json"
+    },
+    {
+      "id": "LANDSTATUS-062B06BA8E75",
+      "level": "Land",
+      "object": "Berlin",
+      "status": "Register-/Medienstatus gesondert; lokaler 2024er Bericht als Themen-, Lagebild- und Methodikanker, AfD-Zurechnung nur ueber lokale Zusatzquelle",
+      "source": "daten/statistik_laender_beweismatrix_afd_2026.json"
+    },
+    {
+      "id": "LANDSTATUS-A1D94CE0A4E1",
+      "level": "Land",
+      "object": "Brandenburg",
+      "status": "AfD Brandenburg seit 14.04.2025 als gesichert/extremistische Bestrebung eingestuft; Eilantrag 24.07.2025 zurueckgenommen, Hauptsache bleibt zu trennen. 2024er Bericht fuehrte noch Verdachtsfall; JA Brandenburg seit Juli 2023 erwiesen rechtsextremistisch.",
+      "source": "daten/statistik_laender_beweismatrix_afd_2026.json"
+    },
+    {
+      "id": "LANDSTATUS-20B942DA0BDD",
+      "level": "Land",
+      "object": "Bremen",
+      "status": "Register-/Medienstatus gesondert; kein amtlicher harter AfD-Landesverbandsstatus aus dem 2024er Bericht; Bericht als Themen-/Lagebildanker",
+      "source": "daten/statistik_laender_beweismatrix_afd_2026.json"
+    },
+    {
+      "id": "LANDSTATUS-15527766EF41",
+      "level": "Land",
+      "object": "Hamburg",
+      "status": "Nichtbeobachtung nur dieser Landesebene - keine Entlastung anderer Ebenen",
+      "source": "daten/statistik_laender_beweismatrix_afd_2026.json"
+    },
+    {
+      "id": "LANDSTATUS-21A117B31AE5",
+      "level": "Land",
+      "object": "Hessen",
+      "status": "AfD Hessen als Verdachtsfall/Beobachtungsobjekt gerichtlich bestaetigt; JA Hessen als rechtsextremistische parteigebundene Struktur.",
+      "source": "daten/statistik_laender_beweismatrix_afd_2026.json"
+    },
+    {
+      "id": "LANDSTATUS-D975E6814703",
+      "level": "Land",
+      "object": "Mecklenburg-Vorpommern",
+      "status": "Bericht weist JA/AfD-Bezuege und Rechtsextremismuspotenzial aus; JA-Status nur mit weiterer Primaerquelle als gesichert behaupten.",
+      "source": "daten/statistik_laender_beweismatrix_afd_2026.json"
+    },
+    {
+      "id": "LANDSTATUS-D7608F5A2CAE",
+      "level": "Land",
+      "object": "Niedersachsen",
+      "status": "AfD Niedersachsen seit Mai 2022 Verdachtsobjekt; 17.02.2026 Hochstufung als Beobachtungsobjekt von erheblicher Bedeutung/extremistische Bestrebung; VG Hannover lehnte Eilantrag am 01.06.2026 lokal dokumentiert ab, nicht als rechtskraeftige Hauptsache fuehren.",
+      "source": "daten/statistik_laender_beweismatrix_afd_2026.json"
+    },
+    {
+      "id": "LANDSTATUS-E8F6D132108C",
+      "level": "Land",
+      "object": "Nordrhein-Westfalen",
+      "status": "AfD-Landesverband im 2024er Bericht nicht als eigener harter Statusblock; JA NRW/rechtsextremistische Personenzusammenschluesse fuer/in AfD und 2026 Generation Deutschland NRW als Verdachtsfall gerichtsfest zuordnen.",
+      "source": "daten/statistik_laender_beweismatrix_afd_2026.json"
+    },
+    {
+      "id": "LANDSTATUS-4ED90BC5AC9B",
+      "level": "Land",
+      "object": "Rheinland-Pfalz",
+      "status": "AfD im Fokus des LfV; Volksverstaendnis als mit FDGO unvereinbar beschrieben, Status nicht als gesichert rechtskraeftig ueberzeichnen.",
+      "source": "daten/statistik_laender_beweismatrix_afd_2026.json"
+    },
+    {
+      "id": "LANDSTATUS-AF09D5920879",
+      "level": "Land",
+      "object": "Saarland",
+      "status": "Nichtbeobachtung nur dieser Landesebene - keine Entlastung anderer Ebenen; BfV-/Bundes- und JA/GD-Achsen bleiben unberuehrt",
+      "source": "daten/statistik_laender_beweismatrix_afd_2026.json"
+    },
+    {
+      "id": "LANDSTATUS-8C9F73565FEF",
+      "level": "Land",
+      "object": "Sachsen",
+      "status": "AfD Sachsen und JA Sachsen als erwiesene/gesichert extremistische Bestrebungen im Landesbericht; Eilrechtsschutz gegen Einstufung vor VG/OVG erfolglos, Hauptsache gesondert.",
+      "source": "daten/statistik_laender_beweismatrix_afd_2026.json"
+    },
+    {
+      "id": "LANDSTATUS-E81BFBA6012E",
+      "level": "Land",
+      "object": "Sachsen-Anhalt",
+      "status": "AfD Sachsen-Anhalt samt Teil-/Neben-/Unterorganisationen als gesichert rechtsextremistische Bestrebung.",
+      "source": "daten/statistik_laender_beweismatrix_afd_2026.json"
+    },
+    {
+      "id": "LANDSTATUS-76916E3BBB10",
+      "level": "Land",
+      "object": "Schleswig-Holstein",
+      "status": "Nichtbeobachtung nur dieser Landesebene - keine Entlastung anderer Ebenen",
+      "source": "daten/statistik_laender_beweismatrix_afd_2026.json"
+    },
+    {
+      "id": "LANDSTATUS-4F03AC616F5E",
+      "level": "Land",
+      "object": "Thueringen",
+      "status": "AfD Thueringen erwiesen/gesichert rechtsextremistische Bestrebung; JA Thueringen seit 28.03.2024 erwiesen extremistische Bestrebung.",
+      "source": "daten/statistik_laender_beweismatrix_afd_2026.json"
+    },
+    {
+      "id": "SECSTATUS-D20D1D883235",
+      "level": "Sicherheitsverfahren",
+      "object": "SEC-REICH-001",
+      "status": "GBA-Festnahme 2022, GBA-Anklage 2023, OLG-Frankfurt-Hauptverfahren 2024, laufendes Staatsschutzverfahren; keine rechtskraeftige Verurteilung.",
+      "source": "daten/terror_umsturz_paramilitaer_matrix_2026.jsonl"
+    },
+    {
+      "id": "SECSTATUS-CC6D40AA4004",
+      "level": "Sicherheitsverfahren",
+      "object": "SEC-REICH-002",
+      "status": "Staatsschutzverfahren/GBA-BGH-Kontext",
+      "source": "daten/terror_umsturz_paramilitaer_matrix_2026.jsonl"
+    },
+    {
+      "id": "SECSTATUS-24F8F3BF214A",
+      "level": "Sicherheitsverfahren",
+      "object": "SEC-SS-001",
+      "status": "GBA-Festnahme 2024, GBA-Anklage 2025, U-Haft/Staatsschutzverfahren laufend; keine rechtskräftige Verurteilung.",
+      "source": "daten/terror_umsturz_paramilitaer_matrix_2026.jsonl"
+    },
+    {
+      "id": "SECSTATUS-ABEF08F6315D",
+      "level": "Sicherheitsverfahren",
+      "object": "SEC-BT-001",
+      "status": "Recherchebeleg; kein neuer Gerichtsfall",
+      "source": "daten/terror_umsturz_paramilitaer_matrix_2026.jsonl"
+    },
+    {
+      "id": "SECSTATUS-13B76D6F6AD4",
+      "level": "Sicherheitsverfahren",
+      "object": "SEC-BT-002",
+      "status": "BfV-Folgegutachten / Verdachtsfall-Arbeitsgrundlage",
+      "source": "daten/terror_umsturz_paramilitaer_matrix_2026.jsonl"
+    },
+    {
+      "id": "SECSTATUS-DEB6C87D343B",
+      "level": "Sicherheitsverfahren",
+      "object": "SEC-C18-001",
+      "status": "amtlicher BfV/BMI-Bericht, Anklage-/Verbotskontext",
+      "source": "daten/terror_umsturz_paramilitaer_matrix_2026.jsonl"
+    },
+    {
+      "id": "SECSTATUS-20269D3DC6FE",
+      "level": "Sicherheitsverfahren",
+      "object": "SEC-BH-001",
+      "status": "amtlicher LfV-Bericht 2024",
+      "source": "daten/terror_umsturz_paramilitaer_matrix_2026.jsonl"
+    },
+    {
+      "id": "SECSTATUS-E794A8A4B824",
+      "level": "Sicherheitsverfahren",
+      "object": "SEC-BH-002",
+      "status": "BfV-Folgegutachten / Verdachtsfall-Arbeitsgrundlage",
+      "source": "daten/terror_umsturz_paramilitaer_matrix_2026.jsonl"
+    },
+    {
+      "id": "SECSTATUS-FE9E58606E2B",
+      "level": "Sicherheitsverfahren",
+      "object": "SEC-RUS-001",
+      "status": "Recherchebeleg; kein Gerichtsfall; tatsächlicher Kampfeinsatz statusoffen; Primaervideos und Parteistatus als Quelle-Ebene-Fall-ID zuordnen.",
+      "source": "daten/terror_umsturz_paramilitaer_matrix_2026.jsonl"
+    },
+    {
+      "id": "SECSTATUS-F19F5C4BD69D",
+      "level": "Sicherheitsverfahren",
+      "object": "SEC-SPIONAGE-001",
+      "status": "STATUS_BEZOGEN_GETRENNT",
+      "source": "daten/terror_umsturz_paramilitaer_matrix_2026.jsonl"
+    }
+  ],
+  "network_edges": [
+    {
+      "edge_id": "EDGE-JA-GD-REMIGRATION-001-S001",
+      "from": "JA/GD-Funktionsträger und Landesstrukturen",
+      "to": "Junge Alternative / Generation Deutschland",
+      "type": "kampagnen_oder_veranstaltungskante",
+      "source": "dokumente/vfs_berichte_bundeslaender/LfV_Hessen_Verfassungsschutzbericht_2024.pdf"
+    },
+    {
+      "edge_id": "EDGE-JA-GD-REMIGRATION-001-S002",
+      "from": "JA/GD-Funktionsträger und Landesstrukturen",
+      "to": "Junge Alternative / Generation Deutschland",
+      "type": "kampagnen_oder_veranstaltungskante",
+      "source": "dokumente/vfs_berichte_bundeslaender/LfV_Brandenburg_Verfassungsschutzbericht_2024.pdf"
+    },
+    {
+      "edge_id": "EDGE-JA-GD-REMIGRATION-001-S003",
+      "from": "JA/GD-Funktionsträger und Landesstrukturen",
+      "to": "Junge Alternative / Generation Deutschland",
+      "type": "kampagnen_oder_veranstaltungskante",
+      "source": "dokumente/vfs_berichte_bundeslaender/LfV_Mecklenburg_Vorpommern_Verfassungsschutzbericht_2024_full.pdf"
+    },
+    {
+      "edge_id": "EDGE-JA-GD-REMIGRATION-001-S004",
+      "from": "JA/GD-Funktionsträger und Landesstrukturen",
+      "to": "Junge Alternative / Generation Deutschland",
+      "type": "kampagnen_oder_veranstaltungskante",
+      "source": "statistikquellen.md"
+    },
+    {
+      "edge_id": "EDGE-IB-IFS-EINPROZENT-COMPACT-001-S001",
+      "from": "AfD-/JA-/Vorfeldakteure",
+      "to": "IB / IfS / Ein Prozent / Compact",
+      "type": "medienkante",
+      "source": "dokumente/hauptquellen/AfD und Identitäre Bewegung_ An einem Strang - Ausgabe 756.pdf"
+    },
+    {
+      "edge_id": "EDGE-IB-IFS-EINPROZENT-COMPACT-001-S002",
+      "from": "AfD-/JA-/Vorfeldakteure",
+      "to": "IB / IfS / Ein Prozent / Compact",
+      "type": "medienkante",
+      "source": "dokumente/hauptquellen/AfD_ Schwurblerin und Identitärer kriegen keinen Hausausweis.pdf"
+    },
+    {
+      "edge_id": "EDGE-IB-IFS-EINPROZENT-COMPACT-001-S003",
+      "from": "AfD-/JA-/Vorfeldakteure",
+      "to": "IB / IfS / Ein Prozent / Compact",
+      "type": "medienkante",
+      "source": "geheimgutachten/BfV-AfD-Folgegutachten_2021_10_G_Verbindungen.md"
+    },
+    {
+      "edge_id": "EDGE-SICHERHEIT-UMSTURZ-001-S001",
+      "from": "AfD-Mandats-, Mitarbeiter- oder Umfeldpersonen",
+      "to": "Reichsbürger-/Umsturz-/Sicherheitskomplexe",
+      "type": "mitarbeiter_zugangskante",
+      "source": "dokumente/hauptquellen/urteilsbelege/36_Birgit_Malsack_Winkemann_Reichsbuerger_BGH.md"
+    },
+    {
+      "edge_id": "EDGE-SICHERHEIT-UMSTURZ-001-S002",
+      "from": "AfD-Mandats-, Mitarbeiter- oder Umfeldpersonen",
+      "to": "Reichsbürger-/Umsturz-/Sicherheitskomplexe",
+      "type": "mitarbeiter_zugangskante",
+      "source": "dokumente/hauptquellen/urteilsbelege/75_Uwe_L_Reichsbuerger_Terror_GBA.md"
+    },
+    {
+      "edge_id": "EDGE-SICHERHEIT-UMSTURZ-001-S003",
+      "from": "AfD-Mandats-, Mitarbeiter- oder Umfeldpersonen",
+      "to": "Reichsbürger-/Umsturz-/Sicherheitskomplexe",
+      "type": "mitarbeiter_zugangskante",
+      "source": "dokumente/hauptquellen/urteilsbelege/49_Kurt_H_Saechsische_Separatisten_Terror_GBA.md"
+    },
+    {
+      "edge_id": "EDGE-SICHERHEIT-UMSTURZ-001-S004",
+      "from": "AfD-Mandats-, Mitarbeiter- oder Umfeldpersonen",
+      "to": "Reichsbürger-/Umsturz-/Sicherheitskomplexe",
+      "type": "mitarbeiter_zugangskante",
+      "source": "dokumente/hauptquellen/Endstation_Rechts_Reichstagsstuermerin_AfD_Brandenburg_2026.md"
+    },
+    {
+      "edge_id": "EDGE-SICHERHEIT-UMSTURZ-001-S005",
+      "from": "AfD-Mandats-, Mitarbeiter- oder Umfeldpersonen",
+      "to": "Reichsbürger-/Umsturz-/Sicherheitskomplexe",
+      "type": "mitarbeiter_zugangskante",
+      "source": "dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_07_F_II_Demokratieprinzip__pages_51_to_86.md"
+    },
+    {
+      "edge_id": "EDGE-SICHERHEIT-UMSTURZ-001-S006",
+      "from": "AfD-Mandats-, Mitarbeiter- oder Umfeldpersonen",
+      "to": "Reichsbürger-/Umsturz-/Sicherheitskomplexe",
+      "type": "mitarbeiter_zugangskante",
+      "source": "dokumente/ki_markdown/dokumente/hauptquellen/BMI_Verfassungsschutzbericht_2024__pages_51_to_100.md"
+    },
+    {
+      "edge_id": "EDGE-SICHERHEIT-UMSTURZ-001-S007",
+      "from": "AfD-Mandats-, Mitarbeiter- oder Umfeldpersonen",
+      "to": "Reichsbürger-/Umsturz-/Sicherheitskomplexe",
+      "type": "mitarbeiter_zugangskante",
+      "source": "dokumente/vfs_berichte_bundeslaender/LfV_Nordrhein_Westfalen_Verfassungsschutzbericht_2024_full.txt"
+    },
+    {
+      "edge_id": "EDGE-SICHERHEIT-UMSTURZ-001-S008",
+      "from": "AfD-Mandats-, Mitarbeiter- oder Umfeldpersonen",
+      "to": "Reichsbürger-/Umsturz-/Sicherheitskomplexe",
+      "type": "mitarbeiter_zugangskante",
+      "source": "geheimgutachten/BfV-AfD-Folgegutachten_2021_10_G_Verbindungen.md"
+    },
+    {
+      "edge_id": "EDGE-SICHERHEIT-UMSTURZ-001-S009",
+      "from": "AfD-Mandats-, Mitarbeiter- oder Umfeldpersonen",
+      "to": "Reichsbürger-/Umsturz-/Sicherheitskomplexe",
+      "type": "mitarbeiter_zugangskante",
+      "source": "dokumente/hauptquellen/urteilsbelege/36_Birgit_Malsack_Winkemann_Reichsbuerger_BGH.md"
+    },
+    {
+      "edge_id": "EDGE-KULTUR-SCHULE-001-S001",
+      "from": "Beatrix von Storch / AfD-Kommunikation / Landesprogrammstellen",
+      "to": "AfD-Kampagnen- und Bildungs-/Kulturpolitik",
+      "type": "kampagnen_oder_veranstaltungskante",
+      "source": "geheimgutachten/BfV-AfD-Folgegutachten_2021_07_F_II_Demokratieprinzip.md"
+    },
+    {
+      "edge_id": "EDGE-KULTUR-SCHULE-001-S002",
+      "from": "Beatrix von Storch / AfD-Kommunikation / Landesprogrammstellen",
+      "to": "AfD-Kampagnen- und Bildungs-/Kulturpolitik",
+      "type": "kampagnen_oder_veranstaltungskante",
+      "source": "dokumente/hauptquellen/urteilsbelege/257_Schuelerpraktikum_AfD_OVG_Berlin_Brandenburg_2026.md"
+    },
+    {
+      "edge_id": "EDGE-KULTUR-SCHULE-001-S003",
+      "from": "Beatrix von Storch / AfD-Kommunikation / Landesprogrammstellen",
+      "to": "AfD-Kampagnen- und Bildungs-/Kulturpolitik",
+      "type": "kampagnen_oder_veranstaltungskante",
+      "source": "dokumente/hauptquellen/Beatrix von Storch_ So will die AfD mit Kulturkampf Wahlen gewinnen.pdf"
+    },
+    {
+      "edge_id": "EDGE-KULTUR-SCHULE-001-S004",
+      "from": "Beatrix von Storch / AfD-Kommunikation / Landesprogrammstellen",
+      "to": "AfD-Kampagnen- und Bildungs-/Kulturpolitik",
+      "type": "kampagnen_oder_veranstaltungskante",
+      "source": "dokumente/hauptquellen/landeswahlprogramme/06_Hamburg_Wahlprogramm.md"
+    },
+    {
+      "edge_id": "EDGE-KULTUR-SCHULE-001-S005",
+      "from": "Beatrix von Storch / AfD-Kommunikation / Landesprogrammstellen",
+      "to": "AfD-Kampagnen- und Bildungs-/Kulturpolitik",
+      "type": "kampagnen_oder_veranstaltungskante",
+      "source": "geheimgutachten/BfV-AfD-Folgegutachten_2021_07_F_II_Demokratieprinzip.md"
+    },
+    {
+      "edge_id": "EDGE-SPIONAGE-KRAH-JIAN-G-001-S001",
+      "from": "Jian G. / Maximilian Krah-Umfeld",
+      "to": "AfD-Europaabgeordnetenbüro / Europäisches Parlament / mutmaßlicher chinesischer Nachrichtendienst",
+      "type": "mitarbeiter_zugangskante",
+      "source": "sources/web/gba/gba_2024-04-23_jian_g_festnahme.html"
+    },
+    {
+      "edge_id": "EDGE-SPIONAGE-KRAH-JIAN-G-001-S002",
+      "from": "Jian G. / Maximilian Krah-Umfeld",
+      "to": "AfD-Europaabgeordnetenbüro / Europäisches Parlament / mutmaßlicher chinesischer Nachrichtendienst",
+      "type": "mitarbeiter_zugangskante",
+      "source": "sources/web/gba/gba_2024-05-07_jian_g_krah_durchsuchung.html"
+    },
+    {
+      "edge_id": "EDGE-SPIONAGE-KRAH-JIAN-G-001-S003",
+      "from": "Jian G. / Maximilian Krah-Umfeld",
+      "to": "AfD-Europaabgeordnetenbüro / Europäisches Parlament / mutmaßlicher chinesischer Nachrichtendienst",
+      "type": "mitarbeiter_zugangskante",
+      "source": "sources/web/gba/gba_2025-04-29_jian_g_anklage.html"
+    },
+    {
+      "edge_id": "EDGE-NIUS-AFD-MEDIENKANTE-001-S001",
+      "from": "AfD-Funktionäre/Gliederungen mit dokumentiertem NIUS-/Reichelt-Aufgriff",
+      "to": "NIUS / Reichelt / VIUS als Medien- und Kampagnenknoten",
+      "type": "medienkante",
+      "source": "geheimgutachten/Geheimgutachten_Teil B_pages_401_to_500.md"
+    },
+    {
+      "edge_id": "EDGE-NIUS-AFD-MEDIENKANTE-001-S002",
+      "from": "AfD-Funktionäre/Gliederungen mit dokumentiertem NIUS-/Reichelt-Aufgriff",
+      "to": "NIUS / Reichelt / VIUS als Medien- und Kampagnenknoten",
+      "type": "medienkante",
+      "source": "dokumente/ki_markdown/dokumente/splits/GFF_AfD-Gutachten_Teil_09_Anhang_B_Belege_Menschenwuerde.md"
+    },
+    {
+      "edge_id": "EDGE-NIUS-AFD-MEDIENKANTE-001-S003",
+      "from": "AfD-Funktionäre/Gliederungen mit dokumentiertem NIUS-/Reichelt-Aufgriff",
+      "to": "NIUS / Reichelt / VIUS als Medien- und Kampagnenknoten",
+      "type": "medienkante",
+      "source": "dokumente/hauptquellen/BT_Plenarprotokoll_20_133_Hetze_Debatte.pdf"
+    },
+    {
+      "edge_id": "EDGE-NIUS-AFD-MEDIENKANTE-001-S004",
+      "from": "AfD-Funktionäre/Gliederungen mit dokumentiertem NIUS-/Reichelt-Aufgriff",
+      "to": "NIUS / Reichelt / VIUS als Medien- und Kampagnenknoten",
+      "type": "medienkante",
+      "source": "dokumente/ki_markdown/dokumente/hauptquellen/BT_Plenarprotokoll_20_133_Hetze_Debatte.md"
+    },
+    {
+      "edge_id": "EDGE-NIUS-AFD-MEDIENKANTE-001-S005",
+      "from": "AfD-Funktionäre/Gliederungen mit dokumentiertem NIUS-/Reichelt-Aufgriff",
+      "to": "NIUS / Reichelt / VIUS als Medien- und Kampagnenknoten",
+      "type": "medienkante",
+      "source": "dokumente/hauptquellen/untersuchung-bfv-gutachten-und-afd-parteiverbot.pdf"
+    },
+    {
+      "edge_id": "EDGE-NIUS-AFD-MEDIENKANTE-001-S006",
+      "from": "AfD-Funktionäre/Gliederungen mit dokumentiertem NIUS-/Reichelt-Aufgriff",
+      "to": "NIUS / Reichelt / VIUS als Medien- und Kampagnenknoten",
+      "type": "medienkante",
+      "source": "dokumente/ki_markdown/dokumente/hauptquellen/untersuchung-bfv-gutachten-und-afd-parteiverbot__pages_1_to_50.md"
+    },
+    {
+      "edge_id": "EDGE-NIUS-AFD-MEDIENKANTE-001-S007",
+      "from": "AfD-Funktionäre/Gliederungen mit dokumentiertem NIUS-/Reichelt-Aufgriff",
+      "to": "NIUS / Reichelt / VIUS als Medien- und Kampagnenknoten",
+      "type": "medienkante",
+      "source": "dokumente/hauptquellen/Frank_Gotthardt__CDU-Spitze_erwog_Kooperation_mit_Firma_von_Nius-Finanzier___DIE_ZEIT.pdf"
+    },
+    {
+      "edge_id": "EDGE-NIUS-AFD-MEDIENKANTE-001-S008",
+      "from": "AfD-Funktionäre/Gliederungen mit dokumentiertem NIUS-/Reichelt-Aufgriff",
+      "to": "NIUS / Reichelt / VIUS als Medien- und Kampagnenknoten",
+      "type": "medienkante",
+      "source": "geheimgutachten/Geheimgutachten_Teil B_pages_401_to_500.md"
+    },
+    {
+      "edge_id": "SEC-REICH-001",
+      "from": "SEC-REICH-001",
+      "type": "security_status",
+      "source": "daten/terror_umsturz_paramilitaer_matrix_2026.jsonl"
+    },
+    {
+      "edge_id": "SEC-REICH-002",
+      "from": "SEC-REICH-002",
+      "type": "security_status",
+      "source": "daten/terror_umsturz_paramilitaer_matrix_2026.jsonl"
+    },
+    {
+      "edge_id": "SEC-SS-001",
+      "from": "SEC-SS-001",
+      "type": "security_status",
+      "source": "daten/terror_umsturz_paramilitaer_matrix_2026.jsonl"
+    },
+    {
+      "edge_id": "SEC-BT-001",
+      "from": "SEC-BT-001",
+      "type": "security_status",
+      "source": "daten/terror_umsturz_paramilitaer_matrix_2026.jsonl"
+    },
+    {
+      "edge_id": "SEC-BT-002",
+      "from": "SEC-BT-002",
+      "type": "security_status",
+      "source": "daten/terror_umsturz_paramilitaer_matrix_2026.jsonl"
+    },
+    {
+      "edge_id": "SEC-C18-001",
+      "from": "SEC-C18-001",
+      "type": "security_status",
+      "source": "daten/terror_umsturz_paramilitaer_matrix_2026.jsonl"
+    },
+    {
+      "edge_id": "SEC-BH-001",
+      "from": "SEC-BH-001",
+      "type": "security_status",
+      "source": "daten/terror_umsturz_paramilitaer_matrix_2026.jsonl"
+    },
+    {
+      "edge_id": "SEC-BH-002",
+      "from": "SEC-BH-002",
+      "type": "security_status",
+      "source": "daten/terror_umsturz_paramilitaer_matrix_2026.jsonl"
+    },
+    {
+      "edge_id": "SEC-RUS-001",
+      "from": "SEC-RUS-001",
+      "type": "security_status",
+      "source": "daten/terror_umsturz_paramilitaer_matrix_2026.jsonl"
+    },
+    {
+      "edge_id": "SEC-SPIONAGE-001",
+      "from": "SEC-SPIONAGE-001",
+      "to": "STATUS_BEZOGEN_GETRENNT",
+      "type": "security_status",
+      "source": "daten/terror_umsturz_paramilitaer_matrix_2026.jsonl"
+    }
+  ]
+}

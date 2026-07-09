@@ -31,7 +31,7 @@ Diese Zahl ist als Schaetzung/Behoerdenbewertung zu fuehren, nicht als strafrech
 
 Der SPIEGEL-Artikel vom 26.05.2025 ist als Auswertung/Datendarstellung zum internen BfV-Gutachten zu fuehren. Der Artikel selbst ist nur eingeschraenkt bzw. als SPIEGEL+ sichtbar; im Repo wird daher nicht der Volltext uebernommen, sondern nur bibliografisch und als Kontextquelle gefuehrt.
 
-Relevante Belegfelder laut offen sichtbarer Artikelstruktur und verwandten oeffentlichen Quellen:
+Relevante Belegfelder laut anhängig; statusgetrennt sichtbarer Artikelstruktur und verwandten oeffentlichen Quellen:
 
 - BfV-Gutachten als Grundlage der Hochstufung.
 - Belege zu ethnisch-abstammungsmaessigem Volksverstaendnis.
@@ -52,7 +52,7 @@ Fuer das Repo bedeutet das:
 
 - NDR 2016 ist eine fruehe journalistische Chronikquelle.
 - Wikipedia ist als Coverage-/Lueckenabgleich geeignet, aber nicht als alleiniger Primaerbeleg.
-- Die im vorherigen Abgleich identifizierten 13 fehlenden Vorfallscluster bleiben Deepresearch-Aufgabe.
+- Die im vorherigen Abgleich identifizierten 13 präzisierten Vorfallscluster bleiben Deepresearch-Aufgabe.
 
 ## 6. Tagesspiegel/BR: mehr als 100 rechtsextreme Mitarbeiter im Bundestagsumfeld
 

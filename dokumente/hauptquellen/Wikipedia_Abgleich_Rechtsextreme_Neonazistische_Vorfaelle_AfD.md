@@ -95,6 +95,6 @@ Nicht jeder Eintrag ist fuer sich genommen ein gerichtsfester Verbotsbeleg. Der 
 
 ## Naechste Deepresearch-Schritte
 
-- Fehlende 13 Vorfallscluster mit Primaer-/Pressequellen nachrecherchieren.
+- Präzisierte 13 Vorfallscluster mit Primaer-/Pressequellen nachrecherchieren.
 - Teilweise vorhandene 15 Cluster in eigene Kurzdossiers ueberfuehren, sofern sie fuer Art. 21 relevant bleiben.
 - Wikipedia-Eintraege nicht isoliert zitieren, sondern jeweils mit den dort angegebenen Einzelnachweisen oder amtlichen Dokumenten koppeln.

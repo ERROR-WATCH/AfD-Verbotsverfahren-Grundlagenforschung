@@ -7,7 +7,7 @@ SACHVERHALT:
 Die Bundestagsverwaltung verhängte gegen die AfD Strafzahlungen von über 1,08 Millionen Euro wegen der Annahme illegaler Parteispenden aus dem Ausland. Betroffen waren unter anderem verdeckte Wahlkampfunterstützungen für Alice Weidel im Bodenseekreis (Schweizer Pharma-Spenden), Gold-Deals in Liechtenstein und illegale Werbekampagnen über die Schweizer „Vereinigung zur Erhaltung der Rechtsstaatlichkeit und der bürgerlichen Freiheiten“. Die Gerichte wiesen die Klagen der AfD vollumfänglich ab und bestätigten die Strafen wegen massiver Verstöße gegen das Parteiengesetz.
 
 BEWEISBEDEUTUNG FÜR DAS PARTEIVERBOTSVERFAHREN:
-Systematischer Bruch des Parteiengesetzes und der verfassungsrechtlichen Pflicht zur Offenlegung der Herkunft von Parteimitteln (Art. 21 Abs. 1 Satz 4 GG).
+Systematischer Bruch des Parteiengesetzes und der verfassungsrechtlichen Pflicht zur Statusgetrenntlegung der Herkunft von Parteimitteln (Art. 21 Abs. 1 Satz 4 GG).
 
 OFFIZIELLER DIREKT-QUELLENLINK (GERICHTS- & PRESSEPROVENIENZ):
 https://www.lto.de/recht/nachrichten/n/bverwg-6c421-afd-strafzahlung-bundestag-illegale-parteispende/
