@@ -3,7 +3,7 @@
 > 🌐 **Interaktives Web-Portal (Forschungs-Dashboard) live online:**  
 > Erkunde dieses gesamte Belegarchiv unzensiert, schnell und interaktiv direkt im Browser:  
 > 👉 **[https://ERROR-WATCH.github.io/AfD-Verbotsverfahren-Grundlagenforschung/](https://ERROR-WATCH.github.io/AfD-Verbotsverfahren-Grundlagenforschung/)**  
-> *Das Portal bietet eine hochintelligente, umlautsensitive Volltextsuche über alle 262 Gerichtsfälle, 18 Verbotsgründe, alle unzensierten Gutachten/PDF-Splits und alle 3.611 Belegzitate mit Live-Textvorschau!*
+> *Das Portal bietet eine hochintelligente, umlautsensitive Volltextsuche über alle 262 Gerichtsfälle, 18 Verbotsgründe, alle unzensierten Gutachten/PDF-Splits und alle 3.722 Belegzitate mit Live-Textvorschau!*
 
 ---
 
@@ -92,7 +92,7 @@ Es ist **kein** fertiges Dossier und **ersetzt nicht** die professionelle Beweis
 ├── dataset/                               # Maschinenlesbare JSONL‑Datensätze für RAG‑Pipelines (index.json, jsonl)
 ├── skripte/                               # Scraper, OCR‑Skripte und Linklisten
 ├── assets/                                # Bilder, Diagramme und Videos (Christian Lüth, Beweisfotos)
-└── zitate/                                # Zitate‑Sammlung von afd‑verbot.de als Markdown‑Dateien (00001–03611)
+└── zitate/                                # Zitate‑Sammlung von afd‑verbot.de als Markdown‑Dateien (00001–03722)
 ```
 
 ## Verfassungsschutzberichte des Bundes & aller 16 Bundesländer (VfS) sowie BKA-Statistiken
@@ -495,7 +495,7 @@ Ich habe mal das Leak für eine KI aufbereitet. Der Verfassungsschutzbericht ist
   - [`BfV-AfD-Folgegutachten_2021_11_H_Gesamtwuerdigung.md`](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_11_H_Gesamtwuerdigung.md) | [TXT-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_11_H_Gesamtwuerdigung.txt) | [PDF-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_11_H_Gesamtwuerdigung.pdf)
   - [`BfV-AfD-Folgegutachten_2021_12_I_Fazit.md`](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_12_I_Fazit.md) | [TXT-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_12_I_Fazit.txt) | [PDF-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_12_I_Fazit.pdf)
   - [`BfV-AfD-Folgegutachten_2021_13_Anhang_Glossar_Fussnoten.md`](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_13_Anhang_Glossar_Fussnoten.md) | [TXT-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_13_Anhang_Glossar_Fussnoten.txt) | [PDF-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_13_Anhang_Glossar_Fussnoten.pdf)
-### E) Zitate & Belege (afd‑verbot.de / Proof‑Sammlung) (3 614)
+### E) Zitate & Belege (afd‑verbot.de / Proof‑Sammlung) (3.722)
 - Ordner: `zitate/`
 - Struktur: `afd-verbot.de-<YYYY-MM-DD>-proof-xxxxx.md`  
 - **Beispiele**:  
@@ -503,12 +503,14 @@ Ich habe mal das Leak für eine KI aufbereitet. Der Verfassungsschutzbericht ist
   - `zitate/afd-verbot.de-28.07.2025-proof-00002.md`  
   - `zitate/afd-verbot.de-28.07.2025-proof-00003.md`  
   - `…`  
-  - `zitate/afd-verbot.de-28.07.2025-proof-03609.md`  
-  - `zitate/afd-verbot.de-28.07.2025-proof-03610.md`  
-  - `zitate/afd-verbot.de-28.07.2025-proof-03611.md`
+  - `zitate/afd-verbot.de-2025-07-28-proof-03609.md`  
+  - `zitate/afd-verbot.de-2025-07-28-proof-03610.md`  
+  - `zitate/afd-verbot.de-2025-07-28-proof-03611.md`  
+  - `zitate/afd-verbot.de-2026-07-09-proof-03612.md`  
+  - `zitate/afd-verbot.de-2026-07-09-proof-03722.md`
 
 > **README‑Hinweis**: In der Datei [`afd-verbot.de-scrape-link-liste.txt`](./skripte/afd-verbot.de-scrape-link-liste.txt) liegt die maschinenlesbare Linkliste.  
-> Die Proof‑Dateien sind vollständig nummeriert (00001–03611) und chronologisch datiert.
+> Die Proof-Dateien sind lokal vollständig als 3.722 Markdown-Belege geführt: Altbestand 00001-03611 plus Live-Nachtrag 03612-03722 vom 2026-07-09.
 
 ---
 
@@ -895,7 +897,7 @@ Ein Satz Scripte und Hilfsdateien, um die **gesamte Beweise‑Übersicht** von [
 │   ├── afd-verbot.de-scrape-dependencies.sh   # Installations‑ und Setup‑Script
 │   ├── afd-verbot.de-scrape-beweise-zitate.py # Haupt‑Script: langsames Scrollen + Link‑Export + PDF‑Erzeugung
 │   └── afd-verbot.de-scrape-link-liste.txt    # Automatisch generierte Liste aller Beweis‑URLs
-├── afd-verbot.de-<DATUM>-proof-00001.pdf      # Beispiel‑PDF; tatsächlich: proof-00001.pdf … proof-03611.pdf
+├── afd-verbot.de-<DATUM>-proof-00001.pdf      # Beispiel‑PDF; tatsächlich: proof-00001.pdf … proof-03722.pdf
 └── README.md                                  # Diese Anleitung
 ```
 
@@ -936,8 +938,8 @@ Ein Satz Scripte und Hilfsdateien, um die **gesamte Beweise‑Übersicht** von [
 ---
 2. **Ergebnis prüfen**
 
-   * **Linkliste**: `skripte/afd-verbot.de-scrape-link-liste.txt` enthält alle \~3 611 URLs.
-   * **PDF‑Ordner**: Enthält 3.611 datierte PDFs, durchnummeriert von `proof-00001.pdf` bis `proof-03611.pdf`.
+   * **Linkliste**: `skripte/afd-verbot.de-scrape-link-liste.txt` enthält alle \~3.722 URLs.
+   * **PDF‑Ordner**: Enthält 3.722 datierte PDFs, durchnummeriert von `proof-00001.pdf` bis `proof-03722.pdf`.
 
 ---
 
@@ -1351,7 +1353,7 @@ Der vollstaendige Index liegt hier: [VOLLSTAENDIGER_REPOSITORY_PAGES_INDEX_2026_
 | Pinpoint-Endarbeit | Viele Quellen sind vorhanden; die finale Antragsschrift muss die Top-Anlagen mit Seite, Randnummer, Aktenzeichen, Datum, Hash/Archiv und Gegenlese zitieren. |
 | Vorfeld-Granularitaet | Sammelkanten sind im Statistiksystem sichtbar, muessen fuer den Schriftsatz weiter in Person/Ereignis/Kampagne/Datum/Quelle zerlegt werden. |
 | Chronikcluster | Wikipedia-/Pressechroniken bleiben Indexrouten. Fuer Antragstauglichkeit zaehlen nur fallweise Primaeranker, Parteirolle, Verfahren und Zurechnung. |
-| Zitatkorpus | 3.611 Proofs sind pinntauglich, aber nur 37 liegen in enger Dossierklasse mit Originaltext/Auszug + starkem Quellenanker. Fuer eine Anlage muessen weitere Topzitate priorisiert werden. |
+| Zitatkorpus | 3.722 Proofs sind pinntauglich, aber nur 38 liegen in enger Dossierklasse mit Originaltext/Auszug + starkem Quellenanker. Fuer eine Anlage muessen weitere Topzitate priorisiert werden. |
 | Pages-Navigation | Der Statistik-Tab zeigt die Beweislogik und fuehrt jetzt eine eigene sichtbare Vollindex-/Antragsreife-Karte mit Links auf Markdown-Index, JSON-Index, Perfektionsaudit, Antragsspitze, Schriftsatzexport, Statistikmanifest und Quelleninventar. |
 | Build-Qualitaet | `npm run build` sollte nicht nur Syntax pruefen, sondern Statistik-Build und Validierung ausfuehren. Diese Aenderung wird mit diesem Index vorgenommen. |
 
@@ -1384,3 +1386,7 @@ Ergänzender Index für die antragsrelevante Gutachtenabdeckung: [Gutachten-Cove
 ### Release-Zeitstempel
 
 Cleaned-Release-Stand: 2026-07-09T23:28:41+02:00
+
+### Release-Deep-Research-Report
+
+Fuer den Release-Tab ist ausschliesslich [deep-research-report.cleaned.md](./deep-research-report.cleaned.md) zu verlinken. Die Rohfassung deep-research-report.md ist veraltet und nicht release-clean.

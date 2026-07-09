@@ -38,7 +38,7 @@
   {
     "id": "STAT-FINDINGS-TOTAL-001",
     "title": "Findings im Art.-21-Datensatz",
-    "value": 3757,
+    "value": 3868,
     "unit": "Findings",
     "theme": "Finding-Korpus",
     "subtheme": "Gesamtbestand",
@@ -56,7 +56,7 @@
   {
     "id": "STAT-QUOTES-TOTAL-001",
     "title": "Belegzitate im lokalen Korpus",
-    "value": 3611,
+    "value": 3722,
     "unit": "Zitate",
     "theme": "Zitatkorpus",
     "subtheme": "Quote findings",
@@ -92,7 +92,7 @@
   {
     "id": "STAT-SOURCES-TOTAL-001",
     "title": "Quelleninventar: erfasste Quellen",
-    "value": 10427,
+    "value": 10741,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "Gesamtbestand",
@@ -110,7 +110,7 @@
   {
     "id": "STAT-SOURCES-USABLE-001",
     "title": "Quelleninventar: statistiknutzbare Quellen",
-    "value": 10359,
+    "value": 10662,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "Statistiknutzbar",
@@ -128,7 +128,7 @@
   {
     "id": "STAT-SOURCES-PRIMARY-001",
     "title": "Quelleninventar: Primärquellen",
-    "value": 5450,
+    "value": 5586,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "Primärquellen",
@@ -146,7 +146,7 @@
   {
     "id": "STAT-FINDINGS-OFFICIAL-001",
     "title": "Findings aus amtlichen, gerichtlichen oder VFS/BfV-Kontexten",
-    "value": 1234,
+    "value": 1239,
     "unit": "Findings",
     "theme": "Finding-Korpus",
     "subtheme": "Amtliche / gerichtliche Kontexte",
@@ -164,7 +164,7 @@
   {
     "id": "STAT-FINDINGS-DIRECT-001",
     "title": "Findings mit direkter AfD- oder Akteurszurechnung",
-    "value": 985,
+    "value": 1014,
     "unit": "Findings",
     "theme": "Zurechnung",
     "subtheme": "Direkte Zurechnung",
@@ -740,7 +740,7 @@
   {
     "id": "STAT-FINDING-EVIDENCE-A-001",
     "title": "Findings mit Beweisstufe A",
-    "value": 1243,
+    "value": 1248,
     "unit": "Findings",
     "theme": "Beweisstärke",
     "subtheme": "Finding-Stufe A",
@@ -812,7 +812,7 @@
   {
     "id": "STAT-FINDING-EVIDENCE-E-001",
     "title": "Findings mit Beweisstufe E",
-    "value": 2452,
+    "value": 2558,
     "unit": "Findings",
     "theme": "Beweisstärke",
     "subtheme": "Finding-Stufe E",
@@ -848,7 +848,7 @@
   {
     "id": "STAT-SOURCE-EVIDENCE-A-001",
     "title": "Quellen mit Beweisstufe A",
-    "value": 1553,
+    "value": 1557,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "Quellen-Stufe A",
@@ -866,7 +866,7 @@
   {
     "id": "STAT-SOURCE-EVIDENCE-B-001",
     "title": "Quellen mit Beweisstufe B",
-    "value": 4025,
+    "value": 4212,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "Quellen-Stufe B",
@@ -884,7 +884,7 @@
   {
     "id": "STAT-SOURCE-EVIDENCE-C-001",
     "title": "Quellen mit Beweisstufe C",
-    "value": 4788,
+    "value": 4900,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "Quellen-Stufe C",
@@ -938,7 +938,7 @@
   {
     "id": "STAT-SOURCE-EVIDENCE-F-001",
     "title": "Quellen mit Beweisstufe F",
-    "value": 56,
+    "value": 71,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "Quellen-Stufe F",
@@ -956,7 +956,7 @@
   {
     "id": "STAT-THEME-001-VERFASSUNGSFEINDLICHE-ZIELRICHTUNG",
     "title": "Top-Thema: Verfassungsfeindliche Zielrichtung",
-    "value": 2130,
+    "value": 2174,
     "unit": "Findings",
     "theme": "Themencluster",
     "subtheme": "Verfassungsfeindliche Zielrichtung",
@@ -974,7 +974,7 @@
   {
     "id": "STAT-THEME-002-RECHTSSTAATSPRINZIP",
     "title": "Top-Thema: Rechtsstaatsprinzip",
-    "value": 714,
+    "value": 719,
     "unit": "Findings",
     "theme": "Themencluster",
     "subtheme": "Rechtsstaatsprinzip",
@@ -992,7 +992,7 @@
   {
     "id": "STAT-THEME-003-MENSCHENWURDE",
     "title": "Top-Thema: Menschenwürde",
-    "value": 354,
+    "value": 416,
     "unit": "Findings",
     "theme": "Themencluster",
     "subtheme": "Menschenwürde",
@@ -1172,7 +1172,7 @@
   {
     "id": "STAT-BVERFG-FIELD-001-VERFASSUNGSFEINDLICHE-ZIELRICHTUNG",
     "title": "BVerfG-Prueffeld: Verfassungsfeindliche Zielrichtung",
-    "value": 2130,
+    "value": 2174,
     "unit": "Findings",
     "theme": "Art.-21-Prueffelder",
     "subtheme": "Verfassungsfeindliche Zielrichtung",
@@ -1190,7 +1190,7 @@
   {
     "id": "STAT-BVERFG-FIELD-002-RECHTSSTAATSPRINZIP",
     "title": "BVerfG-Prueffeld: Rechtsstaatsprinzip",
-    "value": 716,
+    "value": 721,
     "unit": "Findings",
     "theme": "Art.-21-Prueffelder",
     "subtheme": "Rechtsstaatsprinzip",
@@ -1208,7 +1208,7 @@
   {
     "id": "STAT-BVERFG-FIELD-003-MENSCHENWURDE",
     "title": "BVerfG-Prueffeld: Menschenwürde",
-    "value": 354,
+    "value": 416,
     "unit": "Findings",
     "theme": "Art.-21-Prueffelder",
     "subtheme": "Menschenwürde",
@@ -1388,7 +1388,7 @@
   {
     "id": "STAT-ART21-ELEMENT-001-VERFASSUNGSFEINDLICHE-ZIELRICHTUNG",
     "title": "Art.-21-Element: Verfassungsfeindliche Zielrichtung",
-    "value": 2130,
+    "value": 2174,
     "unit": "Findings",
     "theme": "Art.-21-Elemente",
     "subtheme": "Verfassungsfeindliche Zielrichtung",
@@ -1406,7 +1406,7 @@
   {
     "id": "STAT-ART21-ELEMENT-002-RECHTSSTAATSPRINZIP",
     "title": "Art.-21-Element: Rechtsstaatsprinzip",
-    "value": 716,
+    "value": 721,
     "unit": "Findings",
     "theme": "Art.-21-Elemente",
     "subtheme": "Rechtsstaatsprinzip",
@@ -1424,7 +1424,7 @@
   {
     "id": "STAT-ART21-ELEMENT-003-MENSCHENWURDE",
     "title": "Art.-21-Element: Menschenwürde",
-    "value": 354,
+    "value": 416,
     "unit": "Findings",
     "theme": "Art.-21-Elemente",
     "subtheme": "Menschenwürde",
@@ -1604,7 +1604,7 @@
   {
     "id": "STAT-QUELLENART-001-SONSTIG",
     "title": "Quellenart: sonstig",
-    "value": 1231,
+    "value": 1315,
     "unit": "Findings",
     "theme": "Quellenarten",
     "subtheme": "sonstig",
@@ -1622,7 +1622,7 @@
   {
     "id": "STAT-QUELLENART-002-SOCIAL-MEDIA",
     "title": "Quellenart: Social-Media",
-    "value": 1219,
+    "value": 1241,
     "unit": "Findings",
     "theme": "Quellenarten",
     "subtheme": "Social-Media",
@@ -1640,7 +1640,7 @@
   {
     "id": "STAT-QUELLENART-003-AMTLICH-GERICHTLICH",
     "title": "Quellenart: amtlich / gerichtlich",
-    "value": 1163,
+    "value": 1168,
     "unit": "Findings",
     "theme": "Quellenarten",
     "subtheme": "amtlich / gerichtlich",
@@ -1820,7 +1820,7 @@
   {
     "id": "STAT-AKTEUR-001-BJORN-HOCKE",
     "title": "Top-Akteur: Björn Höcke",
-    "value": 286,
+    "value": 287,
     "unit": "Findings",
     "theme": "Akteure",
     "subtheme": "Björn Höcke",
@@ -1838,7 +1838,7 @@
   {
     "id": "STAT-AKTEUR-002-DER-BUNDESVORSTAND",
     "title": "Top-Akteur: Der Bundesvorstand",
-    "value": 143,
+    "value": 145,
     "unit": "Findings",
     "theme": "Akteure",
     "subtheme": "Der Bundesvorstand",
@@ -1926,7 +1926,25 @@
     "limitations": "Namensvarianten und gleichnamige Personen koennen Aggregationen beeinflussen; Einzelfundstellen pruefen."
   },
   {
-    "id": "STAT-AKTEUR-007-ALEXANDER-GAULAND",
+    "id": "STAT-AKTEUR-007-RENE-SPRINGER",
+    "title": "Top-Akteur: René Springer",
+    "value": 63,
+    "unit": "Findings",
+    "theme": "Akteure",
+    "subtheme": "René Springer",
+    "source": "daten/findings_art21.jsonl",
+    "source_type": "Abgeleiteter Kennwert aus Findings",
+    "source_path": "daten/findings_art21.jsonl",
+    "finding_location": "Top-Auswertung Feld akteur",
+    "method": "Zählung validierter Findings pro Akteur.",
+    "legal_relevance": "Zurechnung, Wiederholungsmuster, Funktions- und Anhaengerverhalten",
+    "article_21_field": "Zurechnung / Verhalten von Anhaengern / Planmaessigkeit",
+    "evidence_grade": "B",
+    "status": "geprueft",
+    "limitations": "Namensvarianten und gleichnamige Personen koennen Aggregationen beeinflussen; Einzelfundstellen pruefen."
+  },
+  {
+    "id": "STAT-AKTEUR-008-ALEXANDER-GAULAND",
     "title": "Top-Akteur: Alexander Gauland",
     "value": 62,
     "unit": "Findings",
@@ -1944,7 +1962,7 @@
     "limitations": "Namensvarianten und gleichnamige Personen koennen Aggregationen beeinflussen; Einzelfundstellen pruefen."
   },
   {
-    "id": "STAT-AKTEUR-008-ALICE-WEIDEL",
+    "id": "STAT-AKTEUR-009-ALICE-WEIDEL",
     "title": "Top-Akteur: Alice Weidel",
     "value": 58,
     "unit": "Findings",
@@ -1962,30 +1980,12 @@
     "limitations": "Namensvarianten und gleichnamige Personen koennen Aggregationen beeinflussen; Einzelfundstellen pruefen."
   },
   {
-    "id": "STAT-AKTEUR-009-HANS-THOMAS-TILLSCHNEIDER",
+    "id": "STAT-AKTEUR-010-HANS-THOMAS-TILLSCHNEIDER",
     "title": "Top-Akteur: Hans-Thomas Tillschneider",
     "value": 53,
     "unit": "Findings",
     "theme": "Akteure",
     "subtheme": "Hans-Thomas Tillschneider",
-    "source": "daten/findings_art21.jsonl",
-    "source_type": "Abgeleiteter Kennwert aus Findings",
-    "source_path": "daten/findings_art21.jsonl",
-    "finding_location": "Top-Auswertung Feld akteur",
-    "method": "Zählung validierter Findings pro Akteur.",
-    "legal_relevance": "Zurechnung, Wiederholungsmuster, Funktions- und Anhaengerverhalten",
-    "article_21_field": "Zurechnung / Verhalten von Anhaengern / Planmaessigkeit",
-    "evidence_grade": "B",
-    "status": "geprueft",
-    "limitations": "Namensvarianten und gleichnamige Personen koennen Aggregationen beeinflussen; Einzelfundstellen pruefen."
-  },
-  {
-    "id": "STAT-AKTEUR-010-RENE-SPRINGER",
-    "title": "Top-Akteur: René Springer",
-    "value": 51,
-    "unit": "Findings",
-    "theme": "Akteure",
-    "subtheme": "René Springer",
     "source": "daten/findings_art21.jsonl",
     "source_type": "Abgeleiteter Kennwert aus Findings",
     "source_path": "daten/findings_art21.jsonl",
@@ -2016,9 +2016,27 @@
     "limitations": "Namensvarianten und gleichnamige Personen koennen Aggregationen beeinflussen; Einzelfundstellen pruefen."
   },
   {
-    "id": "STAT-AKTEUR-012-MATTHIAS-HELFERICH",
+    "id": "STAT-AKTEUR-012-CHRISTOPH-BERNDT",
+    "title": "Top-Akteur: Christoph Berndt",
+    "value": 50,
+    "unit": "Findings",
+    "theme": "Akteure",
+    "subtheme": "Christoph Berndt",
+    "source": "daten/findings_art21.jsonl",
+    "source_type": "Abgeleiteter Kennwert aus Findings",
+    "source_path": "daten/findings_art21.jsonl",
+    "finding_location": "Top-Auswertung Feld akteur",
+    "method": "Zählung validierter Findings pro Akteur.",
+    "legal_relevance": "Zurechnung, Wiederholungsmuster, Funktions- und Anhaengerverhalten",
+    "article_21_field": "Zurechnung / Verhalten von Anhaengern / Planmaessigkeit",
+    "evidence_grade": "B",
+    "status": "geprueft",
+    "limitations": "Namensvarianten und gleichnamige Personen koennen Aggregationen beeinflussen; Einzelfundstellen pruefen."
+  },
+  {
+    "id": "STAT-AKTEUR-013-MATTHIAS-HELFERICH",
     "title": "Top-Akteur: Matthias Helferich",
-    "value": 47,
+    "value": 50,
     "unit": "Findings",
     "theme": "Akteure",
     "subtheme": "Matthias Helferich",
@@ -2034,9 +2052,9 @@
     "limitations": "Namensvarianten und gleichnamige Personen koennen Aggregationen beeinflussen; Einzelfundstellen pruefen."
   },
   {
-    "id": "STAT-AKTEUR-013-MARVIN-WEBER",
+    "id": "STAT-AKTEUR-014-MARVIN-WEBER",
     "title": "Top-Akteur: Marvin Weber",
-    "value": 45,
+    "value": 46,
     "unit": "Findings",
     "theme": "Akteure",
     "subtheme": "Marvin Weber",
@@ -2052,30 +2070,12 @@
     "limitations": "Namensvarianten und gleichnamige Personen koennen Aggregationen beeinflussen; Einzelfundstellen pruefen."
   },
   {
-    "id": "STAT-AKTEUR-014-NICOLE-HOCHST",
+    "id": "STAT-AKTEUR-015-NICOLE-HOCHST",
     "title": "Top-Akteur: Nicole Höchst",
     "value": 43,
     "unit": "Findings",
     "theme": "Akteure",
     "subtheme": "Nicole Höchst",
-    "source": "daten/findings_art21.jsonl",
-    "source_type": "Abgeleiteter Kennwert aus Findings",
-    "source_path": "daten/findings_art21.jsonl",
-    "finding_location": "Top-Auswertung Feld akteur",
-    "method": "Zählung validierter Findings pro Akteur.",
-    "legal_relevance": "Zurechnung, Wiederholungsmuster, Funktions- und Anhaengerverhalten",
-    "article_21_field": "Zurechnung / Verhalten von Anhaengern / Planmaessigkeit",
-    "evidence_grade": "B",
-    "status": "geprueft",
-    "limitations": "Namensvarianten und gleichnamige Personen koennen Aggregationen beeinflussen; Einzelfundstellen pruefen."
-  },
-  {
-    "id": "STAT-AKTEUR-015-CHRISTOPH-BERNDT",
-    "title": "Top-Akteur: Christoph Berndt",
-    "value": 40,
-    "unit": "Findings",
-    "theme": "Akteure",
-    "subtheme": "Christoph Berndt",
     "source": "daten/findings_art21.jsonl",
     "source_type": "Abgeleiteter Kennwert aus Findings",
     "source_path": "daten/findings_art21.jsonl",
@@ -2108,7 +2108,7 @@
   {
     "id": "STAT-AFD-ZURECHNUNG-002-DIREKT",
     "title": "AfD-Zurechnung: direkt",
-    "value": 985,
+    "value": 1014,
     "unit": "Findings",
     "theme": "Zurechnung",
     "subtheme": "direkt",
@@ -2124,7 +2124,25 @@
     "limitations": "Zurechnungskategorien sind Arbeitsklassifikationen und muessen mit Kontext belegt werden."
   },
   {
-    "id": "STAT-AFD-ZURECHNUNG-003-INDIREKT",
+    "id": "STAT-AFD-ZURECHNUNG-003-UNKLAR",
+    "title": "AfD-Zurechnung: unklar",
+    "value": 82,
+    "unit": "Findings",
+    "theme": "Zurechnung",
+    "subtheme": "unklar",
+    "source": "daten/findings_art21.jsonl",
+    "source_type": "Abgeleiteter Kennwert aus Findings",
+    "source_path": "daten/findings_art21.jsonl",
+    "finding_location": "Auswertung Feld afd_zurechnung",
+    "method": "Zählung validierter Findings nach Zurechnungskategorie.",
+    "legal_relevance": "Parteizurechnung und Verhalten von Anhaengern",
+    "article_21_field": "Zurechnung / Verhalten von Anhaengern",
+    "evidence_grade": "B",
+    "status": "geprueft",
+    "limitations": "Zurechnungskategorien sind Arbeitsklassifikationen und muessen mit Kontext belegt werden."
+  },
+  {
+    "id": "STAT-AFD-ZURECHNUNG-004-INDIREKT",
     "title": "AfD-Zurechnung: indirekt",
     "value": 23,
     "unit": "Findings",
@@ -2142,7 +2160,7 @@
     "limitations": "Zurechnungskategorien sind Arbeitsklassifikationen und muessen mit Kontext belegt werden."
   },
   {
-    "id": "STAT-AFD-ZURECHNUNG-004-KONTEXTZAHL-KEINE-AFD-TAT",
+    "id": "STAT-AFD-ZURECHNUNG-005-KONTEXTZAHL-KEINE-AFD-TAT",
     "title": "AfD-Zurechnung: kontextzahl_keine_afd_tat",
     "value": 19,
     "unit": "Findings",
@@ -2160,7 +2178,7 @@
     "limitations": "Zurechnungskategorien sind Arbeitsklassifikationen und muessen mit Kontext belegt werden."
   },
   {
-    "id": "STAT-AFD-ZURECHNUNG-005-DIREKT-PERSONELL",
+    "id": "STAT-AFD-ZURECHNUNG-006-DIREKT-PERSONELL",
     "title": "AfD-Zurechnung: direkt_personell",
     "value": 3,
     "unit": "Findings",
@@ -2178,7 +2196,7 @@
     "limitations": "Zurechnungskategorien sind Arbeitsklassifikationen und muessen mit Kontext belegt werden."
   },
   {
-    "id": "STAT-AFD-ZURECHNUNG-006-DIREKT-PERSONENBEZUG",
+    "id": "STAT-AFD-ZURECHNUNG-007-DIREKT-PERSONENBEZUG",
     "title": "AfD-Zurechnung: direkt_personenbezug",
     "value": 3,
     "unit": "Findings",
@@ -2196,30 +2214,12 @@
     "limitations": "Zurechnungskategorien sind Arbeitsklassifikationen und muessen mit Kontext belegt werden."
   },
   {
-    "id": "STAT-AFD-ZURECHNUNG-007-KONTEXT-MIT-SCHNITTSTELLEN-PRUEFEN",
+    "id": "STAT-AFD-ZURECHNUNG-008-KONTEXT-MIT-SCHNITTSTELLEN-PRUEFEN",
     "title": "AfD-Zurechnung: kontext_mit_schnittstellen_pruefen",
     "value": 2,
     "unit": "Findings",
     "theme": "Zurechnung",
     "subtheme": "kontext_mit_schnittstellen_pruefen",
-    "source": "daten/findings_art21.jsonl",
-    "source_type": "Abgeleiteter Kennwert aus Findings",
-    "source_path": "daten/findings_art21.jsonl",
-    "finding_location": "Auswertung Feld afd_zurechnung",
-    "method": "Zählung validierter Findings nach Zurechnungskategorie.",
-    "legal_relevance": "Parteizurechnung und Verhalten von Anhaengern",
-    "article_21_field": "Zurechnung / Verhalten von Anhaengern",
-    "evidence_grade": "B",
-    "status": "geprueft",
-    "limitations": "Zurechnungskategorien sind Arbeitsklassifikationen und muessen mit Kontext belegt werden."
-  },
-  {
-    "id": "STAT-AFD-ZURECHNUNG-008-DIREKT-FUNKTIONAERIN-RECHERCHEBELEG",
-    "title": "AfD-Zurechnung: direkt_funktionaerin_recherchebeleg",
-    "value": 1,
-    "unit": "Findings",
-    "theme": "Zurechnung",
-    "subtheme": "direkt_funktionaerin_recherchebeleg",
     "source": "daten/findings_art21.jsonl",
     "source_type": "Abgeleiteter Kennwert aus Findings",
     "source_path": "daten/findings_art21.jsonl",
@@ -2252,7 +2252,7 @@
   {
     "id": "STAT-AKTEURSEBENE-002-DIREKT",
     "title": "Akteursebene: direkt",
-    "value": 899,
+    "value": 928,
     "unit": "Findings",
     "theme": "Zurechnung",
     "subtheme": "direkt",
@@ -2268,7 +2268,25 @@
     "limitations": "Akteursebene ist eine Strukturklassifikation; die Originalquelle entscheidet ueber Belastbarkeit."
   },
   {
-    "id": "STAT-AKTEURSEBENE-003-BUND",
+    "id": "STAT-AKTEURSEBENE-003-UNKLAR",
+    "title": "Akteursebene: unklar",
+    "value": 82,
+    "unit": "Findings",
+    "theme": "Zurechnung",
+    "subtheme": "unklar",
+    "source": "daten/findings_art21.jsonl",
+    "source_type": "Abgeleiteter Kennwert aus Findings",
+    "source_path": "daten/findings_art21.jsonl",
+    "finding_location": "Auswertung Feld akteursebene",
+    "method": "Zählung validierter Findings nach Akteursebene.",
+    "legal_relevance": "Funktionstraeger-, Mitglieder- und Umfeldzurechnung",
+    "article_21_field": "Zurechnung / Planmaessigkeit",
+    "evidence_grade": "B",
+    "status": "geprueft",
+    "limitations": "Akteursebene ist eine Strukturklassifikation; die Originalquelle entscheidet ueber Belastbarkeit."
+  },
+  {
+    "id": "STAT-AKTEURSEBENE-004-BUND",
     "title": "Akteursebene: Bund",
     "value": 26,
     "unit": "Findings",
@@ -2286,7 +2304,7 @@
     "limitations": "Akteursebene ist eine Strukturklassifikation; die Originalquelle entscheidet ueber Belastbarkeit."
   },
   {
-    "id": "STAT-AKTEURSEBENE-004-INDIREKT",
+    "id": "STAT-AKTEURSEBENE-005-INDIREKT",
     "title": "Akteursebene: indirekt",
     "value": 20,
     "unit": "Findings",
@@ -2304,7 +2322,7 @@
     "limitations": "Akteursebene ist eine Strukturklassifikation; die Originalquelle entscheidet ueber Belastbarkeit."
   },
   {
-    "id": "STAT-AKTEURSEBENE-005-LAGEBILD-KONTEXT",
+    "id": "STAT-AKTEURSEBENE-006-LAGEBILD-KONTEXT",
     "title": "Akteursebene: lagebild_kontext",
     "value": 18,
     "unit": "Findings",
@@ -2322,7 +2340,7 @@
     "limitations": "Akteursebene ist eine Strukturklassifikation; die Originalquelle entscheidet ueber Belastbarkeit."
   },
   {
-    "id": "STAT-AKTEURSEBENE-006-AFD-POTENZIAL",
+    "id": "STAT-AKTEURSEBENE-007-AFD-POTENZIAL",
     "title": "Akteursebene: AfD-Potenzial",
     "value": 9,
     "unit": "Findings",
@@ -2340,30 +2358,12 @@
     "limitations": "Akteursebene ist eine Strukturklassifikation; die Originalquelle entscheidet ueber Belastbarkeit."
   },
   {
-    "id": "STAT-AKTEURSEBENE-007-FUNKTIONSTRAGER",
+    "id": "STAT-AKTEURSEBENE-008-FUNKTIONSTRAGER",
     "title": "Akteursebene: Funktionsträger",
     "value": 8,
     "unit": "Findings",
     "theme": "Zurechnung",
     "subtheme": "Funktionsträger",
-    "source": "daten/findings_art21.jsonl",
-    "source_type": "Abgeleiteter Kennwert aus Findings",
-    "source_path": "daten/findings_art21.jsonl",
-    "finding_location": "Auswertung Feld akteursebene",
-    "method": "Zählung validierter Findings nach Akteursebene.",
-    "legal_relevance": "Funktionstraeger-, Mitglieder- und Umfeldzurechnung",
-    "article_21_field": "Zurechnung / Planmaessigkeit",
-    "evidence_grade": "B",
-    "status": "geprueft",
-    "limitations": "Akteursebene ist eine Strukturklassifikation; die Originalquelle entscheidet ueber Belastbarkeit."
-  },
-  {
-    "id": "STAT-AKTEURSEBENE-008-BUNDESPARTEI",
-    "title": "Akteursebene: bundespartei",
-    "value": 3,
-    "unit": "Findings",
-    "theme": "Zurechnung",
-    "subtheme": "bundespartei",
     "source": "daten/findings_art21.jsonl",
     "source_type": "Abgeleiteter Kennwert aus Findings",
     "source_path": "daten/findings_art21.jsonl",
@@ -2396,7 +2396,7 @@
   {
     "id": "STAT-GRANULARITY-001-QUOTE",
     "title": "Granularitaet: quote",
-    "value": 3611,
+    "value": 3722,
     "unit": "Findings",
     "theme": "Datenstruktur",
     "subtheme": "quote",
@@ -2540,7 +2540,7 @@
   {
     "id": "STAT-UNSICHERHEIT-001-NIEDRIG",
     "title": "Unsicherheit: niedrig",
-    "value": 3693,
+    "value": 3804,
     "unit": "Findings",
     "theme": "Datenqualitaet",
     "subtheme": "niedrig",
@@ -2594,7 +2594,7 @@
   {
     "id": "STAT-SOURCE-TYPE-001-AUTOMATISCH-ERZEUGTE-MARKDOWN-KOPIE",
     "title": "Quellentyp: Automatisch erzeugte Markdown-Kopie",
-    "value": 4613,
+    "value": 4724,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "Automatisch erzeugte Markdown-Kopie",
@@ -2612,7 +2612,7 @@
   {
     "id": "STAT-SOURCE-TYPE-002-ZITATKORPUS-BELEGSAMMLUNG",
     "title": "Quellentyp: Zitatkorpus / Belegsammlung",
-    "value": 3611,
+    "value": 3722,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "Zitatkorpus / Belegsammlung",
@@ -2630,7 +2630,7 @@
   {
     "id": "STAT-SOURCE-TYPE-003-GERICHTSREGISTER-URTEILSBELEG",
     "title": "Quellentyp: Gerichtsregister / Urteilsbeleg",
-    "value": 810,
+    "value": 813,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "Gerichtsregister / Urteilsbeleg",
@@ -2646,7 +2646,25 @@
     "limitations": "Quellentypen sind Inventarkategorien; Beweiswert folgt aus Originalquelle und Kontext."
   },
   {
-    "id": "STAT-SOURCE-TYPE-004-AMTLICHER-VERFASSUNGSSCHUTZBERICHT-O",
+    "id": "STAT-SOURCE-TYPE-004-ARCHIVIERTE-HAUPTQUELLE",
+    "title": "Quellentyp: Archivierte Hauptquelle",
+    "value": 307,
+    "unit": "Quellen",
+    "theme": "Quelleninventar",
+    "subtheme": "Archivierte Hauptquelle",
+    "source": "daten/source_inventory.jsonl",
+    "source_type": "Abgeleiteter Kennwert aus Quelleninventar",
+    "source_path": "daten/source_inventory.jsonl",
+    "finding_location": "Auswertung Feld quellentyp",
+    "method": "Zählung aller Quelleninventar-Eintraege nach Quellentyp.",
+    "legal_relevance": "Quellenstruktur und Belegnaehe",
+    "article_21_field": "Belegdichte / Nachweisbarkeit",
+    "evidence_grade": "B",
+    "status": "geprueft",
+    "limitations": "Quellentypen sind Inventarkategorien; Beweiswert folgt aus Originalquelle und Kontext."
+  },
+  {
+    "id": "STAT-SOURCE-TYPE-005-AMTLICHER-VERFASSUNGSSCHUTZBERICHT-O",
     "title": "Quellentyp: Amtlicher Verfassungsschutzbericht oder BfV-Gutachten / Markdown-Kopie",
     "value": 294,
     "unit": "Quellen",
@@ -2664,27 +2682,9 @@
     "limitations": "Quellentypen sind Inventarkategorien; Beweiswert folgt aus Originalquelle und Kontext."
   },
   {
-    "id": "STAT-SOURCE-TYPE-005-ARCHIVIERTE-HAUPTQUELLE",
-    "title": "Quellentyp: Archivierte Hauptquelle",
-    "value": 286,
-    "unit": "Quellen",
-    "theme": "Quelleninventar",
-    "subtheme": "Archivierte Hauptquelle",
-    "source": "daten/source_inventory.jsonl",
-    "source_type": "Abgeleiteter Kennwert aus Quelleninventar",
-    "source_path": "daten/source_inventory.jsonl",
-    "finding_location": "Auswertung Feld quellentyp",
-    "method": "Zählung aller Quelleninventar-Eintraege nach Quellentyp.",
-    "legal_relevance": "Quellenstruktur und Belegnaehe",
-    "article_21_field": "Belegdichte / Nachweisbarkeit",
-    "evidence_grade": "B",
-    "status": "geprueft",
-    "limitations": "Quellentypen sind Inventarkategorien; Beweiswert folgt aus Originalquelle und Kontext."
-  },
-  {
     "id": "STAT-SOURCE-TYPE-006-PRESSE-ODER-RECHERCHEQUELLE",
     "title": "Quellentyp: Presse- oder Recherchequelle",
-    "value": 166,
+    "value": 167,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "Presse- oder Recherchequelle",
@@ -2702,7 +2702,7 @@
   {
     "id": "STAT-SOURCE-TYPE-007-AMTLICHE-QUELLE-GERICHTS-ODER-BEHOER",
     "title": "Quellentyp: Amtliche Quelle / Gerichts- oder Behoerdendokument",
-    "value": 159,
+    "value": 160,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "Amtliche Quelle / Gerichts- oder Behoerdendokument",
@@ -2738,7 +2738,7 @@
   {
     "id": "STAT-SOURCE-TYPE-009-ZITATKORPUS-WEB-HANDAKTE",
     "title": "Quellentyp: Zitatkorpus / Web-Handakte",
-    "value": 84,
+    "value": 83,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "Zitatkorpus / Web-Handakte",
@@ -2756,7 +2756,7 @@
   {
     "id": "STAT-SOURCE-TYPE-010-INTERNE-DOKUMENTATION",
     "title": "Quellentyp: Interne Dokumentation",
-    "value": 56,
+    "value": 71,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "Interne Dokumentation",
@@ -2790,7 +2790,25 @@
     "limitations": "Quellentypen sind Inventarkategorien; Beweiswert folgt aus Originalquelle und Kontext."
   },
   {
-    "id": "STAT-SOURCE-TYPE-012-VERFASSUNGSSCHUTZBERICHT",
+    "id": "STAT-SOURCE-TYPE-012-EXTRAKTIONS-ODER-SHARD-DATEI",
+    "title": "Quellentyp: Extraktions- oder Shard-Datei",
+    "value": 49,
+    "unit": "Quellen",
+    "theme": "Quelleninventar",
+    "subtheme": "Extraktions- oder Shard-Datei",
+    "source": "daten/source_inventory.jsonl",
+    "source_type": "Abgeleiteter Kennwert aus Quelleninventar",
+    "source_path": "daten/source_inventory.jsonl",
+    "finding_location": "Auswertung Feld quellentyp",
+    "method": "Zählung aller Quelleninventar-Eintraege nach Quellentyp.",
+    "legal_relevance": "Quellenstruktur und Belegnaehe",
+    "article_21_field": "Belegdichte / Nachweisbarkeit",
+    "evidence_grade": "B",
+    "status": "geprueft",
+    "limitations": "Quellentypen sind Inventarkategorien; Beweiswert folgt aus Originalquelle und Kontext."
+  },
+  {
+    "id": "STAT-SOURCE-TYPE-013-VERFASSUNGSSCHUTZBERICHT",
     "title": "Quellentyp: Verfassungsschutzbericht",
     "value": 42,
     "unit": "Quellen",
@@ -2808,9 +2826,9 @@
     "limitations": "Quellentypen sind Inventarkategorien; Beweiswert folgt aus Originalquelle und Kontext."
   },
   {
-    "id": "STAT-SOURCE-TYPE-013-METHODIK-ODER-ANALYSEDOKUMENT",
+    "id": "STAT-SOURCE-TYPE-014-METHODIK-ODER-ANALYSEDOKUMENT",
     "title": "Quellentyp: Methodik- oder Analysedokument",
-    "value": 28,
+    "value": 40,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "Methodik- oder Analysedokument",
@@ -2826,27 +2844,9 @@
     "limitations": "Quellentypen sind Inventarkategorien; Beweiswert folgt aus Originalquelle und Kontext."
   },
   {
-    "id": "STAT-SOURCE-TYPE-014-GEPRUEFTES-GUTACHTEN-FACHANALYSE",
-    "title": "Quellentyp: Geprueftes Gutachten / Fachanalyse",
-    "value": 21,
-    "unit": "Quellen",
-    "theme": "Quelleninventar",
-    "subtheme": "Geprueftes Gutachten / Fachanalyse",
-    "source": "daten/source_inventory.jsonl",
-    "source_type": "Abgeleiteter Kennwert aus Quelleninventar",
-    "source_path": "daten/source_inventory.jsonl",
-    "finding_location": "Auswertung Feld quellentyp",
-    "method": "Zählung aller Quelleninventar-Eintraege nach Quellentyp.",
-    "legal_relevance": "Quellenstruktur und Belegnaehe",
-    "article_21_field": "Belegdichte / Nachweisbarkeit",
-    "evidence_grade": "B",
-    "status": "geprueft",
-    "limitations": "Quellentypen sind Inventarkategorien; Beweiswert folgt aus Originalquelle und Kontext."
-  },
-  {
     "id": "STAT-SOURCE-PUBLISHER-001-REPOSITORY",
     "title": "Herausgeber: Repository",
-    "value": 4711,
+    "value": 4893,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "Repository",
@@ -2864,7 +2864,7 @@
   {
     "id": "STAT-SOURCE-PUBLISHER-002-AFD-VERBOT-DE-LOKALE-ARCHIVKOPIEN",
     "title": "Herausgeber: afd-verbot.de / lokale Archivkopien",
-    "value": 3611,
+    "value": 3722,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "afd-verbot.de / lokale Archivkopien",
@@ -2882,7 +2882,7 @@
   {
     "id": "STAT-SOURCE-PUBLISHER-003-GERICHT-LOKALE-ARCHIVKOPIE",
     "title": "Herausgeber: Gericht / lokale Archivkopie",
-    "value": 810,
+    "value": 813,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "Gericht / lokale Archivkopie",
@@ -2918,7 +2918,7 @@
   {
     "id": "STAT-SOURCE-PUBLISHER-005-LOKALE-ARCHIVQUELLE",
     "title": "Herausgeber: Lokale Archivquelle",
-    "value": 289,
+    "value": 307,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "Lokale Archivquelle",
@@ -2936,7 +2936,7 @@
   {
     "id": "STAT-SOURCE-PUBLISHER-006-PRESSE-RECHERCHEMEDIUM",
     "title": "Herausgeber: Presse / Recherchemedium",
-    "value": 165,
+    "value": 169,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "Presse / Recherchemedium",
@@ -2972,7 +2972,7 @@
   {
     "id": "STAT-SOURCE-PUBLISHER-008-AMTLICHE-STELLE-GERICHT-BEHOERDE",
     "title": "Herausgeber: Amtliche Stelle / Gericht / Behoerde",
-    "value": 159,
+    "value": 160,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "Amtliche Stelle / Gericht / Behoerde",
@@ -2990,7 +2990,7 @@
   {
     "id": "STAT-SOURCE-PUBLISHER-009-AFD-VERBOT-DE-WEBARCHIV-LOKAL",
     "title": "Herausgeber: afd-verbot.de / Webarchiv lokal",
-    "value": 84,
+    "value": 83,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "afd-verbot.de / Webarchiv lokal",
@@ -3098,7 +3098,7 @@
   {
     "id": "STAT-SOURCE-FORMAT-001-MD",
     "title": "Quellenformat: MD",
-    "value": 8930,
+    "value": 9177,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "MD",
@@ -3134,7 +3134,7 @@
   {
     "id": "STAT-SOURCE-FORMAT-003-TXT",
     "title": "Quellenformat: TXT",
-    "value": 366,
+    "value": 378,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "TXT",
@@ -3152,7 +3152,7 @@
   {
     "id": "STAT-SOURCE-FORMAT-004-HTML",
     "title": "Quellenformat: HTML",
-    "value": 104,
+    "value": 103,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "HTML",
@@ -3168,12 +3168,12 @@
     "limitations": "Formatzahlen sagen nichts ueber materiellen Beweiswert aus."
   },
   {
-    "id": "STAT-SOURCE-FORMAT-005-CSV",
-    "title": "Quellenformat: CSV",
-    "value": 6,
+    "id": "STAT-SOURCE-FORMAT-005-JSONL",
+    "title": "Quellenformat: JSONL",
+    "value": 49,
     "unit": "Quellen",
     "theme": "Quelleninventar",
-    "subtheme": "CSV",
+    "subtheme": "JSONL",
     "source": "daten/source_inventory.jsonl",
     "source_type": "Abgeleiteter Kennwert aus Quelleninventar",
     "source_path": "daten/source_inventory.jsonl",
@@ -3188,7 +3188,7 @@
   {
     "id": "STAT-SOURCE-FORMAT-006-JSON",
     "title": "Quellenformat: JSON",
-    "value": 5,
+    "value": 21,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "JSON",
@@ -3204,12 +3204,12 @@
     "limitations": "Formatzahlen sagen nichts ueber materiellen Beweiswert aus."
   },
   {
-    "id": "STAT-SOURCE-FORMAT-007-JSONL",
-    "title": "Quellenformat: JSONL",
-    "value": 5,
+    "id": "STAT-SOURCE-FORMAT-007-CSV",
+    "title": "Quellenformat: CSV",
+    "value": 6,
     "unit": "Quellen",
     "theme": "Quelleninventar",
-    "subtheme": "JSONL",
+    "subtheme": "CSV",
     "source": "daten/source_inventory.jsonl",
     "source_type": "Abgeleiteter Kennwert aus Quelleninventar",
     "source_path": "daten/source_inventory.jsonl",
@@ -3278,7 +3278,7 @@
   {
     "id": "STAT-SOURCE-THEME-001-GENERIERTE-KOPIE",
     "title": "Quellenthemenbereich: Generierte Kopie",
-    "value": 4616,
+    "value": 4727,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "Generierte Kopie",
@@ -3296,7 +3296,7 @@
   {
     "id": "STAT-SOURCE-THEME-002-ZITATE-UND-BELEGE",
     "title": "Quellenthemenbereich: Zitate und Belege",
-    "value": 3695,
+    "value": 3805,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "Zitate und Belege",
@@ -3314,7 +3314,7 @@
   {
     "id": "STAT-SOURCE-THEME-003-GERICHTE-UND-RECHTSPRECHUNG",
     "title": "Quellenthemenbereich: Gerichte und Rechtsprechung",
-    "value": 810,
+    "value": 813,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "Gerichte und Rechtsprechung",
@@ -3330,7 +3330,25 @@
     "limitations": "Themenbereiche sind Inventarkategorien und koennen breite Sammelklassen enthalten."
   },
   {
-    "id": "STAT-SOURCE-THEME-004-VERFASSUNGSSCHUTZ-AMTLICHE-BERICHTE",
+    "id": "STAT-SOURCE-THEME-004-ARCHIVIERTE-HAUPTQUELLE",
+    "title": "Quellenthemenbereich: Archivierte Hauptquelle",
+    "value": 307,
+    "unit": "Quellen",
+    "theme": "Quelleninventar",
+    "subtheme": "Archivierte Hauptquelle",
+    "source": "daten/source_inventory.jsonl",
+    "source_type": "Abgeleiteter Kennwert aus Quelleninventar",
+    "source_path": "daten/source_inventory.jsonl",
+    "finding_location": "Auswertung Feld themenbereich",
+    "method": "Zählung aller Quelleninventar-Eintraege nach Themenbereich.",
+    "legal_relevance": "Beleglandkarte und thematische Quellenabdeckung",
+    "article_21_field": "Belegdichte / Nachweisbarkeit / Prueffeldbreite",
+    "evidence_grade": "B",
+    "status": "geprueft",
+    "limitations": "Themenbereiche sind Inventarkategorien und koennen breite Sammelklassen enthalten."
+  },
+  {
+    "id": "STAT-SOURCE-THEME-005-VERFASSUNGSSCHUTZ-AMTLICHE-BERICHTE",
     "title": "Quellenthemenbereich: Verfassungsschutz / amtliche Berichte und Gutachten",
     "value": 294,
     "unit": "Quellen",
@@ -3348,27 +3366,9 @@
     "limitations": "Themenbereiche sind Inventarkategorien und koennen breite Sammelklassen enthalten."
   },
   {
-    "id": "STAT-SOURCE-THEME-005-ARCHIVIERTE-HAUPTQUELLE",
-    "title": "Quellenthemenbereich: Archivierte Hauptquelle",
-    "value": 289,
-    "unit": "Quellen",
-    "theme": "Quelleninventar",
-    "subtheme": "Archivierte Hauptquelle",
-    "source": "daten/source_inventory.jsonl",
-    "source_type": "Abgeleiteter Kennwert aus Quelleninventar",
-    "source_path": "daten/source_inventory.jsonl",
-    "finding_location": "Auswertung Feld themenbereich",
-    "method": "Zählung aller Quelleninventar-Eintraege nach Themenbereich.",
-    "legal_relevance": "Beleglandkarte und thematische Quellenabdeckung",
-    "article_21_field": "Belegdichte / Nachweisbarkeit / Prueffeldbreite",
-    "evidence_grade": "B",
-    "status": "geprueft",
-    "limitations": "Themenbereiche sind Inventarkategorien und koennen breite Sammelklassen enthalten."
-  },
-  {
     "id": "STAT-SOURCE-THEME-006-PRESSE-UND-RECHERCHEQUELLEN",
     "title": "Quellenthemenbereich: Presse- und Recherchequellen",
-    "value": 168,
+    "value": 172,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "Presse- und Recherchequellen",
@@ -3386,7 +3386,7 @@
   {
     "id": "STAT-SOURCE-THEME-007-AMTLICHE-QUELLEN-UND-RECHTSPRECHUNG",
     "title": "Quellenthemenbereich: Amtliche Quellen und Rechtsprechung",
-    "value": 159,
+    "value": 160,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "Amtliche Quellen und Rechtsprechung",
@@ -3422,7 +3422,7 @@
   {
     "id": "STAT-SOURCE-THEME-009-INTERN",
     "title": "Quellenthemenbereich: Intern",
-    "value": 56,
+    "value": 71,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "Intern",
@@ -3456,7 +3456,25 @@
     "limitations": "Themenbereiche sind Inventarkategorien und koennen breite Sammelklassen enthalten."
   },
   {
-    "id": "STAT-SOURCE-THEME-011-VERFASSUNGSSCHUTZ-LANDES-UND-BUNDESB",
+    "id": "STAT-SOURCE-THEME-011-INTERNE-EXTRAKTION",
+    "title": "Quellenthemenbereich: Interne Extraktion",
+    "value": 49,
+    "unit": "Quellen",
+    "theme": "Quelleninventar",
+    "subtheme": "Interne Extraktion",
+    "source": "daten/source_inventory.jsonl",
+    "source_type": "Abgeleiteter Kennwert aus Quelleninventar",
+    "source_path": "daten/source_inventory.jsonl",
+    "finding_location": "Auswertung Feld themenbereich",
+    "method": "Zählung aller Quelleninventar-Eintraege nach Themenbereich.",
+    "legal_relevance": "Beleglandkarte und thematische Quellenabdeckung",
+    "article_21_field": "Belegdichte / Nachweisbarkeit / Prueffeldbreite",
+    "evidence_grade": "B",
+    "status": "geprueft",
+    "limitations": "Themenbereiche sind Inventarkategorien und koennen breite Sammelklassen enthalten."
+  },
+  {
+    "id": "STAT-SOURCE-THEME-012-VERFASSUNGSSCHUTZ-LANDES-UND-BUNDESB",
     "title": "Quellenthemenbereich: Verfassungsschutz / Landes- und Bundesberichte",
     "value": 42,
     "unit": "Quellen",
@@ -3474,9 +3492,9 @@
     "limitations": "Themenbereiche sind Inventarkategorien und koennen breite Sammelklassen enthalten."
   },
   {
-    "id": "STAT-SOURCE-THEME-012-DOKUMENTATION-ANALYSE",
+    "id": "STAT-SOURCE-THEME-013-DOKUMENTATION-ANALYSE",
     "title": "Quellenthemenbereich: Dokumentation / Analyse",
-    "value": 28,
+    "value": 40,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "Dokumentation / Analyse",
@@ -3492,30 +3510,12 @@
     "limitations": "Themenbereiche sind Inventarkategorien und koennen breite Sammelklassen enthalten."
   },
   {
-    "id": "STAT-SOURCE-THEME-013-GEPRUEFTE-GUTACHTEN-UND-FACHANALYSEN",
+    "id": "STAT-SOURCE-THEME-014-GEPRUEFTE-GUTACHTEN-UND-FACHANALYSEN",
     "title": "Quellenthemenbereich: Gepruefte Gutachten und Fachanalysen",
     "value": 21,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "Gepruefte Gutachten und Fachanalysen",
-    "source": "daten/source_inventory.jsonl",
-    "source_type": "Abgeleiteter Kennwert aus Quelleninventar",
-    "source_path": "daten/source_inventory.jsonl",
-    "finding_location": "Auswertung Feld themenbereich",
-    "method": "Zählung aller Quelleninventar-Eintraege nach Themenbereich.",
-    "legal_relevance": "Beleglandkarte und thematische Quellenabdeckung",
-    "article_21_field": "Belegdichte / Nachweisbarkeit / Prueffeldbreite",
-    "evidence_grade": "B",
-    "status": "geprueft",
-    "limitations": "Themenbereiche sind Inventarkategorien und koennen breite Sammelklassen enthalten."
-  },
-  {
-    "id": "STAT-SOURCE-THEME-014-INTERNE-STATISTIK",
-    "title": "Quellenthemenbereich: Interne Statistik",
-    "value": 6,
-    "unit": "Quellen",
-    "theme": "Quelleninventar",
-    "subtheme": "Interne Statistik",
     "source": "daten/source_inventory.jsonl",
     "source_type": "Abgeleiteter Kennwert aus Quelleninventar",
     "source_path": "daten/source_inventory.jsonl",
@@ -3584,7 +3584,7 @@
   {
     "id": "STAT-QUOTE-AUDIT-TOTAL-001",
     "title": "Zitatkorpus: Quote-/Proof-Findings gesamt",
-    "value": 3611,
+    "value": 3722,
     "unit": "Findings",
     "theme": "Zitatkorpus Art. 21",
     "subtheme": "Gesamtbestand",
@@ -3602,7 +3602,7 @@
   {
     "id": "STAT-QUOTE-AUDIT-DIRECT-001",
     "title": "Zitatkorpus: direkt zurechenbare Findings",
-    "value": 899,
+    "value": 928,
     "unit": "Findings",
     "theme": "Zitatkorpus Art. 21",
     "subtheme": "Direkte Zurechnung",
@@ -3638,7 +3638,7 @@
   {
     "id": "STAT-QUOTE-AUDIT-OFFICIAL-001",
     "title": "Zitatkorpus: amtlich, gerichtlich, parlamentarisch oder gutachtlich verankert",
-    "value": 1178,
+    "value": 1209,
     "unit": "Findings",
     "theme": "Zitatkorpus Art. 21",
     "subtheme": "Quellenhärte",
@@ -3656,7 +3656,7 @@
   {
     "id": "STAT-QUOTE-AUDIT-PINPOINT-001",
     "title": "Zitatkorpus: Pinpoint oder Proof-ID vorhanden",
-    "value": 3611,
+    "value": 3722,
     "unit": "Findings",
     "theme": "Zitatkorpus Art. 21",
     "subtheme": "Pinpoint",
@@ -3674,7 +3674,7 @@
   {
     "id": "STAT-QUOTE-AUDIT-COURTREADY-001",
     "title": "Zitatkorpus: eng gerichtsfest zitierfähige Findings",
-    "value": 37,
+    "value": 38,
     "unit": "Findings",
     "theme": "Zitatkorpus Art. 21",
     "subtheme": "Gerichtsfeste Zitierfaehigkeit",
@@ -3692,7 +3692,7 @@
   {
     "id": "STAT-QUOTE-ART21-001-VERFASSUNGSFEINDLICHE-ZIELRICHTUNG",
     "title": "Zitatkorpus Art.-21-Prueffeld: Verfassungsfeindliche Zielrichtung",
-    "value": 2130,
+    "value": 2174,
     "unit": "Findings",
     "theme": "Zitatkorpus Art. 21",
     "subtheme": "Verfassungsfeindliche Zielrichtung",
@@ -3710,7 +3710,7 @@
   {
     "id": "STAT-QUOTE-ART21-002-RECHTSSTAATSPRINZIP",
     "title": "Zitatkorpus Art.-21-Prueffeld: Rechtsstaatsprinzip",
-    "value": 714,
+    "value": 719,
     "unit": "Findings",
     "theme": "Zitatkorpus Art. 21",
     "subtheme": "Rechtsstaatsprinzip",
@@ -3728,7 +3728,7 @@
   {
     "id": "STAT-QUOTE-ART21-003-MENSCHENWURDE",
     "title": "Zitatkorpus Art.-21-Prueffeld: Menschenwürde",
-    "value": 354,
+    "value": 416,
     "unit": "Findings",
     "theme": "Zitatkorpus Art. 21",
     "subtheme": "Menschenwürde",
@@ -3854,7 +3854,7 @@
   {
     "id": "STAT-QUOTE-ATTR-002-DIREKTE-AFD-FUNKTIONARSZURECHNUNG",
     "title": "Zitatkorpus Zurechnungstyp: Direkte AfD-/Funktionärszurechnung",
-    "value": 899,
+    "value": 928,
     "unit": "Findings",
     "theme": "Zitatkorpus Art. 21",
     "subtheme": "Direkte AfD-/Funktionärszurechnung",
@@ -3870,7 +3870,25 @@
     "limitations": "Zitatstatistik ersetzt keine isolierte Subsumtion; verwertet werden Quelle, Pinpoint, Akteur, Zurechnung, Kontext und Beweisstufe gemeinsam."
   },
   {
-    "id": "STAT-QUOTE-ATTR-003-INDIREKTE-ORGANISATIONS-VORFELDZURECHNUNG",
+    "id": "STAT-QUOTE-ATTR-003-LAGEBILD-OHNE-AUTOMATISCHE-PARTEIZURECHNUN",
+    "title": "Zitatkorpus Zurechnungstyp: Lagebild ohne automatische Parteizurechnung",
+    "value": 82,
+    "unit": "Findings",
+    "theme": "Zitatkorpus Art. 21",
+    "subtheme": "Lagebild ohne automatische Parteizurechnung",
+    "source": "daten/findings_art21.jsonl / daten/zitat_statistik_2026.json / zitate/*.md",
+    "source_type": "Abgeleiteter Kennwert aus Zitat-/Proof-Korpus",
+    "source_path": "daten/zitat_statistik_2026.json",
+    "finding_location": "Quote-Findings granularity=quote; Auswertung durch scripts/evaluate-quote-corpus.mjs",
+    "method": "Zaehlung der Quote-Findings nach Zurechnung.",
+    "legal_relevance": "Muster-, Wiederholungs-, Akteurs- und Zurechnungsbeleg im Zitatkorpus.",
+    "article_21_field": "Zurechnung",
+    "evidence_grade": "B",
+    "status": "BELEGT_UND_VERDRAHTET",
+    "limitations": "Zitatstatistik ersetzt keine isolierte Subsumtion; verwertet werden Quelle, Pinpoint, Akteur, Zurechnung, Kontext und Beweisstufe gemeinsam."
+  },
+  {
+    "id": "STAT-QUOTE-ATTR-004-INDIREKTE-ORGANISATIONS-VORFELDZURECHNUNG",
     "title": "Zitatkorpus Zurechnungstyp: Indirekte Organisations-/Vorfeldzurechnung",
     "value": 20,
     "unit": "Findings",
@@ -3890,7 +3908,7 @@
   {
     "id": "STAT-QUOTE-ACTOR-001-BJORN-HOCKE",
     "title": "Zitatkorpus Akteur: Björn Höcke",
-    "value": 285,
+    "value": 286,
     "unit": "Findings",
     "theme": "Zitatkorpus Art. 21",
     "subtheme": "Björn Höcke",
@@ -3908,7 +3926,7 @@
   {
     "id": "STAT-QUOTE-ACTOR-002-AKTEUR-IM-BELEGPFAD-ZU-NORMALISIEREN",
     "title": "Zitatkorpus Akteur: Akteur im Belegpfad zu normalisieren",
-    "value": 192,
+    "value": 198,
     "unit": "Findings",
     "theme": "Zitatkorpus Art. 21",
     "subtheme": "Akteur im Belegpfad zu normalisieren",
@@ -3926,7 +3944,7 @@
   {
     "id": "STAT-QUOTE-ACTOR-003-DER-BUNDESVORSTAND",
     "title": "Zitatkorpus Akteur: Der Bundesvorstand",
-    "value": 143,
+    "value": 145,
     "unit": "Findings",
     "theme": "Zitatkorpus Art. 21",
     "subtheme": "Der Bundesvorstand",
@@ -4014,7 +4032,25 @@
     "limitations": "Zitatstatistik ersetzt keine isolierte Subsumtion; verwertet werden Quelle, Pinpoint, Akteur, Zurechnung, Kontext und Beweisstufe gemeinsam."
   },
   {
-    "id": "STAT-QUOTE-ACTOR-008-ALEXANDER-GAULAND",
+    "id": "STAT-QUOTE-ACTOR-008-RENE-SPRINGER",
+    "title": "Zitatkorpus Akteur: René Springer",
+    "value": 62,
+    "unit": "Findings",
+    "theme": "Zitatkorpus Art. 21",
+    "subtheme": "René Springer",
+    "source": "daten/findings_art21.jsonl / daten/zitat_statistik_2026.json / zitate/*.md",
+    "source_type": "Abgeleiteter Kennwert aus Zitat-/Proof-Korpus",
+    "source_path": "daten/zitat_statistik_2026.json",
+    "finding_location": "Quote-Findings granularity=quote; Auswertung durch scripts/evaluate-quote-corpus.mjs",
+    "method": "Zaehlung der Quote-Findings nach Akteur.",
+    "legal_relevance": "Muster-, Wiederholungs-, Akteurs- und Zurechnungsbeleg im Zitatkorpus.",
+    "article_21_field": "Akteur",
+    "evidence_grade": "B",
+    "status": "BELEGT_UND_VERDRAHTET",
+    "limitations": "Zitatstatistik ersetzt keine isolierte Subsumtion; verwertet werden Quelle, Pinpoint, Akteur, Zurechnung, Kontext und Beweisstufe gemeinsam."
+  },
+  {
+    "id": "STAT-QUOTE-ACTOR-009-ALEXANDER-GAULAND",
     "title": "Zitatkorpus Akteur: Alexander Gauland",
     "value": 61,
     "unit": "Findings",
@@ -4032,7 +4068,7 @@
     "limitations": "Zitatstatistik ersetzt keine isolierte Subsumtion; verwertet werden Quelle, Pinpoint, Akteur, Zurechnung, Kontext und Beweisstufe gemeinsam."
   },
   {
-    "id": "STAT-QUOTE-ACTOR-009-ALICE-WEIDEL",
+    "id": "STAT-QUOTE-ACTOR-010-ALICE-WEIDEL",
     "title": "Zitatkorpus Akteur: Alice Weidel",
     "value": 57,
     "unit": "Findings",
@@ -4050,7 +4086,7 @@
     "limitations": "Zitatstatistik ersetzt keine isolierte Subsumtion; verwertet werden Quelle, Pinpoint, Akteur, Zurechnung, Kontext und Beweisstufe gemeinsam."
   },
   {
-    "id": "STAT-QUOTE-ACTOR-010-HANS-THOMAS-TILLSCHNEIDER",
+    "id": "STAT-QUOTE-ACTOR-011-HANS-THOMAS-TILLSCHNEIDER",
     "title": "Zitatkorpus Akteur: Hans-Thomas Tillschneider",
     "value": 52,
     "unit": "Findings",
@@ -4068,30 +4104,12 @@
     "limitations": "Zitatstatistik ersetzt keine isolierte Subsumtion; verwertet werden Quelle, Pinpoint, Akteur, Zurechnung, Kontext und Beweisstufe gemeinsam."
   },
   {
-    "id": "STAT-QUOTE-ACTOR-011-RENE-SPRINGER",
-    "title": "Zitatkorpus Akteur: René Springer",
+    "id": "STAT-QUOTE-ACTOR-012-CHRISTOPH-BERNDT",
+    "title": "Zitatkorpus Akteur: Christoph Berndt",
     "value": 50,
     "unit": "Findings",
     "theme": "Zitatkorpus Art. 21",
-    "subtheme": "René Springer",
-    "source": "daten/findings_art21.jsonl / daten/zitat_statistik_2026.json / zitate/*.md",
-    "source_type": "Abgeleiteter Kennwert aus Zitat-/Proof-Korpus",
-    "source_path": "daten/zitat_statistik_2026.json",
-    "finding_location": "Quote-Findings granularity=quote; Auswertung durch scripts/evaluate-quote-corpus.mjs",
-    "method": "Zaehlung der Quote-Findings nach Akteur.",
-    "legal_relevance": "Muster-, Wiederholungs-, Akteurs- und Zurechnungsbeleg im Zitatkorpus.",
-    "article_21_field": "Akteur",
-    "evidence_grade": "B",
-    "status": "BELEGT_UND_VERDRAHTET",
-    "limitations": "Zitatstatistik ersetzt keine isolierte Subsumtion; verwertet werden Quelle, Pinpoint, Akteur, Zurechnung, Kontext und Beweisstufe gemeinsam."
-  },
-  {
-    "id": "STAT-QUOTE-ACTOR-012-BEATRIX-VON-STORCH",
-    "title": "Zitatkorpus Akteur: Beatrix von Storch",
-    "value": 49,
-    "unit": "Findings",
-    "theme": "Zitatkorpus Art. 21",
-    "subtheme": "Beatrix von Storch",
+    "subtheme": "Christoph Berndt",
     "source": "daten/findings_art21.jsonl / daten/zitat_statistik_2026.json / zitate/*.md",
     "source_type": "Abgeleiteter Kennwert aus Zitat-/Proof-Korpus",
     "source_path": "daten/zitat_statistik_2026.json",
@@ -4106,7 +4124,7 @@
   {
     "id": "STAT-QUOTE-SOURCECLASS-001-SOCIAL-MEDIA-VIDEO",
     "title": "Zitatkorpus Quellenklasse: Social Media / Video",
-    "value": 1641,
+    "value": 1681,
     "unit": "Findings",
     "theme": "Zitatkorpus Art. 21",
     "subtheme": "Social Media / Video",
@@ -4124,7 +4142,7 @@
   {
     "id": "STAT-QUOTE-SOURCECLASS-002-AMTLICH-GUTACHTLICH",
     "title": "Zitatkorpus Quellenklasse: amtlich/gutachtlich",
-    "value": 626,
+    "value": 656,
     "unit": "Findings",
     "theme": "Zitatkorpus Art. 21",
     "subtheme": "amtlich/gutachtlich",
@@ -4142,7 +4160,7 @@
   {
     "id": "STAT-QUOTE-SOURCECLASS-003-GERICHTLICH",
     "title": "Zitatkorpus Quellenklasse: gerichtlich",
-    "value": 538,
+    "value": 539,
     "unit": "Findings",
     "theme": "Zitatkorpus Art. 21",
     "subtheme": "gerichtlich",
@@ -4160,7 +4178,7 @@
   {
     "id": "STAT-QUOTE-SOURCECLASS-004-LOKALER-BELEGPFAD-SONSTIGE-QUELLE",
     "title": "Zitatkorpus Quellenklasse: lokaler Belegpfad / sonstige Quelle",
-    "value": 497,
+    "value": 537,
     "unit": "Findings",
     "theme": "Zitatkorpus Art. 21",
     "subtheme": "lokaler Belegpfad / sonstige Quelle",
@@ -4232,7 +4250,7 @@
   {
     "id": "STAT-QUOTE-TARGET-001-ZIELGRUPPE-IM-EINZELFINDING-ZU-PRUFEN",
     "title": "Zitatkorpus Zielgruppe: Zielgruppe im Einzelfinding zu prüfen",
-    "value": 1679,
+    "value": 1745,
     "unit": "Findings",
     "theme": "Zitatkorpus Art. 21",
     "subtheme": "Zielgruppe im Einzelfinding zu prüfen",
@@ -4250,7 +4268,7 @@
   {
     "id": "STAT-QUOTE-TARGET-002-JUSTIZ-SICHERHEITS-UND-VERFASSUNGSORGANE",
     "title": "Zitatkorpus Zielgruppe: Justiz / Sicherheits- und Verfassungsorgane",
-    "value": 947,
+    "value": 951,
     "unit": "Findings",
     "theme": "Zitatkorpus Art. 21",
     "subtheme": "Justiz / Sicherheits- und Verfassungsorgane",
@@ -4268,7 +4286,7 @@
   {
     "id": "STAT-QUOTE-TARGET-003-MUSLIMISCHE-MENSCHEN-RELIGIOSE-MINDERHEITE",
     "title": "Zitatkorpus Zielgruppe: Muslimische Menschen / religiöse Minderheiten",
-    "value": 561,
+    "value": 566,
     "unit": "Findings",
     "theme": "Zitatkorpus Art. 21",
     "subtheme": "Muslimische Menschen / religiöse Minderheiten",
@@ -4284,12 +4302,12 @@
     "limitations": "Zitatstatistik ersetzt keine isolierte Subsumtion; verwertet werden Quelle, Pinpoint, Akteur, Zurechnung, Kontext und Beweisstufe gemeinsam."
   },
   {
-    "id": "STAT-QUOTE-TARGET-004-QUEERE-MENSCHEN-GESCHLECHTLICHE-SELBSTBEST",
-    "title": "Zitatkorpus Zielgruppe: Queere Menschen / geschlechtliche Selbstbestimmung",
-    "value": 157,
+    "id": "STAT-QUOTE-TARGET-004-MENSCHEN-MIT-MIGRATIONSGESCHICHTE-STAATSBU",
+    "title": "Zitatkorpus Zielgruppe: Menschen mit Migrationsgeschichte / Staatsbürgerstatus",
+    "value": 180,
     "unit": "Findings",
     "theme": "Zitatkorpus Art. 21",
-    "subtheme": "Queere Menschen / geschlechtliche Selbstbestimmung",
+    "subtheme": "Menschen mit Migrationsgeschichte / Staatsbürgerstatus",
     "source": "daten/findings_art21.jsonl / daten/zitat_statistik_2026.json / zitate/*.md",
     "source_type": "Abgeleiteter Kennwert aus Zitat-/Proof-Korpus",
     "source_path": "daten/zitat_statistik_2026.json",
@@ -4302,12 +4320,12 @@
     "limitations": "Zitatstatistik ersetzt keine isolierte Subsumtion; verwertet werden Quelle, Pinpoint, Akteur, Zurechnung, Kontext und Beweisstufe gemeinsam."
   },
   {
-    "id": "STAT-QUOTE-TARGET-005-MENSCHEN-MIT-MIGRATIONSGESCHICHTE-STAATSBU",
-    "title": "Zitatkorpus Zielgruppe: Menschen mit Migrationsgeschichte / Staatsbürgerstatus",
-    "value": 153,
+    "id": "STAT-QUOTE-TARGET-005-QUEERE-MENSCHEN-GESCHLECHTLICHE-SELBSTBEST",
+    "title": "Zitatkorpus Zielgruppe: Queere Menschen / geschlechtliche Selbstbestimmung",
+    "value": 165,
     "unit": "Findings",
     "theme": "Zitatkorpus Art. 21",
-    "subtheme": "Menschen mit Migrationsgeschichte / Staatsbürgerstatus",
+    "subtheme": "Queere Menschen / geschlechtliche Selbstbestimmung",
     "source": "daten/findings_art21.jsonl / daten/zitat_statistik_2026.json / zitate/*.md",
     "source_type": "Abgeleiteter Kennwert aus Zitat-/Proof-Korpus",
     "source_path": "daten/zitat_statistik_2026.json",
@@ -4340,7 +4358,7 @@
   {
     "id": "STAT-QUOTE-TARGET-007-POLITISCHE-GEGNER-ZIVILGESELLSCHAFT",
     "title": "Zitatkorpus Zielgruppe: Politische Gegner / Zivilgesellschaft",
-    "value": 26,
+    "value": 27,
     "unit": "Findings",
     "theme": "Zitatkorpus Art. 21",
     "subtheme": "Politische Gegner / Zivilgesellschaft",
@@ -4394,7 +4412,7 @@
   {
     "id": "STAT-QUOTE-CLUSTER-001-MENSCHENWURDE-VOLKSBEGRIFF-REMIGRATION",
     "title": "Zitatkorpus Beweisachse: Menschenwürde / Volksbegriff / Remigration",
-    "value": 1818,
+    "value": 1896,
     "unit": "Findings",
     "theme": "Zitatkorpus Art. 21",
     "subtheme": "Menschenwürde / Volksbegriff / Remigration",
@@ -4412,7 +4430,7 @@
   {
     "id": "STAT-QUOTE-CLUSTER-002-DEMOKRATIEPRINZIP-INSTITUTIONENANGRIFF",
     "title": "Zitatkorpus Beweisachse: Demokratieprinzip / Institutionenangriff",
-    "value": 645,
+    "value": 659,
     "unit": "Findings",
     "theme": "Zitatkorpus Art. 21",
     "subtheme": "Demokratieprinzip / Institutionenangriff",
@@ -4430,7 +4448,7 @@
   {
     "id": "STAT-QUOTE-CLUSTER-003-SONSTIGE-ART-21-BELEGACHSE",
     "title": "Zitatkorpus Beweisachse: Sonstige Art.-21-Belegachse",
-    "value": 560,
+    "value": 569,
     "unit": "Findings",
     "theme": "Zitatkorpus Art. 21",
     "subtheme": "Sonstige Art.-21-Belegachse",
@@ -4448,7 +4466,7 @@
   {
     "id": "STAT-QUOTE-CLUSTER-004-RECHTSSTAATSPRINZIP-JUSTIZ-VERWALTUNG",
     "title": "Zitatkorpus Beweisachse: Rechtsstaatsprinzip / Justiz / Verwaltung",
-    "value": 377,
+    "value": 379,
     "unit": "Findings",
     "theme": "Zitatkorpus Art. 21",
     "subtheme": "Rechtsstaatsprinzip / Justiz / Verwaltung",
@@ -4466,7 +4484,7 @@
   {
     "id": "STAT-QUOTE-CLUSTER-005-ANTISEMITISMUS-NS-RELATIVIERUNG-CODES",
     "title": "Zitatkorpus Beweisachse: Antisemitismus / NS-Relativierung / Codes",
-    "value": 134,
+    "value": 141,
     "unit": "Findings",
     "theme": "Zitatkorpus Art. 21",
     "subtheme": "Antisemitismus / NS-Relativierung / Codes",
@@ -4502,7 +4520,7 @@
   {
     "id": "STAT-QUOTE-CLUSTER-007-QUEER-GENDER-SCHUL-UND-KULTURKAMPF",
     "title": "Zitatkorpus Beweisachse: Queer-/Gender-/Schul- und Kulturkampf",
-    "value": 25,
+    "value": 26,
     "unit": "Findings",
     "theme": "Zitatkorpus Art. 21",
     "subtheme": "Queer-/Gender-/Schul- und Kulturkampf",

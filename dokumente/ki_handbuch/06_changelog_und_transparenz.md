@@ -5,10 +5,10 @@
 Dieses Kapitel dient der lückenlosen, wissenschaftlichen Dokumentation aller Datenaktualisierungen, Systemerweiterungen und Quellenbereinigungen.
 
 ### Version 3.0.0 (Letzte Aktualisierung: 29.06.2026) – *Aktueller Stand*
-*   **Erweiterung des Gerichtsregisters (frueherer Zwischenstand ➔ 239):** Die Belegdatenbank wurde von 80 auf 239 verifizierte Gerichtsurteile, Beschlüsse und behördliche Entscheidungen erweitert. Alle 239 Fälle wurden formatsymmetrisch als `.md` und `.txt` abgelegt.
+*   **Erweiterung des Gerichtsregisters (frueherer Zwischenstand ➔ 239):** Die Belegdatenbank wurde von 80 auf 239 verifizierte Gerichtsurteile, Beschlüsse und behördliche Entscheidungen erweitert. Alle 262 Fälle wurden formatsymmetrisch als `.md` und `.txt` abgelegt.
 *   **100%iges Landes-PDF-Archiv (16/16):** Alle 16 Landeswahlprogramme der AfD sowie die beiden Bundesbelege (Bundestagswahlprogramm 2025 und Grundsatzprogramm) liegen nun als originale, unmanipulierte Primärbeleg-PDFs physisch im Verzeichnis `/landeswahlprogramme/` vor.
 *   **Der neue Tab „Parteiprogramme AfD“:** Integration eines dedizierten 10. Navigations-Tabs mit einem visuellen, farblich codierten Card-Grid für alle 16 Bundesländer zur sofortigen, ausfallfreien Einsicht der Landesprogrammatiken.
-*   **In-Memory-Zitate-Suchindex:** Einbindung einer volltextdurchsuchbaren Quotes-Datenbank (`zitate_search_index.json` direkt in `index.html` eingebettet), die eine CORS-freie, rasend schnelle Echtzeitsuche nach Namen, Zitaten und Quellen für alle 3.611 Belegzitate ermöglicht.
+*   **In-Memory-Zitate-Suchindex:** Einbindung einer volltextdurchsuchbaren Quotes-Datenbank (`zitate_search_index.json` direkt in `index.html` eingebettet), die eine CORS-freie, rasend schnelle Echtzeitsuche nach Namen, Zitaten und Quellen für alle 3.722 Belegzitate ermöglicht.
 *   **Sichtbare Aktenzeichen-Badges & Suchverstärker:** Monospace-Darstellung von Aktenzeichen auf allen 239 Kacheln sowie programmgesteuerte Begriffskombination bei Google für eine präzise Online-Quellenfindung.
 *   **Wissenschaftliche Begleitdokumente:** Veröffentlichung des Beleg-Audits (`PDF_AUDIT_REPORT.md`) sowie der tagesaktuellen Presseschau vom 29. Juni 2026 (`PRESSESCHAU_AKTUELL.md`).
 
@@ -61,7 +61,7 @@ $$\text{Zitierformat: } \mathbf{[Autor/Herausgeber, Gericht, Entscheidungsdatum,
 
 ## 4. Methodische Zuordnung von Zitaten zu Verbotsgründen
 
-Die Zuordnung der 3.611 Belegzitate zu den 18 wehrhaften Verbotsgründen des Portals erfolgt über einen dreistufigen semantischen Zuordnungsalgorithmus:
+Die Zuordnung der 3.722 Belegzitate zu den 18 wehrhaften Verbotsgründen des Portals erfolgt über einen dreistufigen semantischen Zuordnungsalgorithmus:
 1.  **Lexikalische Filterung:** Zuordnung über Schlüsselbegriffe (z. B. Zitate mit Begriffen wie „Umvolkung“, „Säuberung“ oder „Heimat erhalten“ werden automatisch dem Verbotsgrund *„Völkisch-ethnische Staatsvolkdefinition“* vorgeschlagen).
 2.  **Kontextuelle Validierung:** Manuelle Prüfung der Zitate durch verfassungsrechtliche Gutachter, um sicherzustellen, dass die Zitate nicht im satirischen oder rein referenzierenden Kontext geäußert wurden.
 3.  **RAG-Indexierung:** Einbettung der Zitate im Vektorraum zur Gewährleistung, dass bei Suchen nach übergeordneten Begriffen wie *„Gewalttoleranz“* die semantisch passenden Primärzitate augenblicklich als Beweisantritte vorgeschlagen werden.

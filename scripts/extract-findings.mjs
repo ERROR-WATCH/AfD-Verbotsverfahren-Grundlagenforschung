@@ -163,8 +163,10 @@ async function main() {
   const invText = await fs.readFile(inventoryPath, 'utf8');
   const inventoryRows = readJsonl(invText);
   for (const row of inventoryRows) {
-    sourceInventory.set(normalizeKey(row.repo_path), row.source_id);
-    sourceInventory.set(normalizeKey(path.basename(row.repo_path)), row.source_id);
+    if (row.repo_path) {
+      sourceInventory.set(normalizeKey(row.repo_path), row.source_id);
+      sourceInventory.set(normalizeKey(path.basename(row.repo_path)), row.source_id);
+    }
     if (row.original_url) sourceInventory.set(normalizeKey(row.original_url), row.source_id);
     if (row.archive_url) sourceInventory.set(normalizeKey(row.archive_url), row.source_id);
   }

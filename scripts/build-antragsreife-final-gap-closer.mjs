@@ -153,7 +153,7 @@ const finalRows = [
       'Je Zitat: person_id, Funktion am Datum, Parteiebene, Kanal, Zielgruppe, Rechtsgut, Kontextabsatz und Gegenlese-Feld erzwingen.',
       'Originalpost oder amtlichen Rede-/Parlamentsanker mit Archivdatum und Screenshot-Hash daneben fuehren.',
     ],
-    visualisierung: 'Funnel: 3.611 Quote-Findings -> direkt zurechenbar -> amtlich/gerichtlich -> Top-100/300; Heatmap Akteur x Rechtsgut; Zielgruppenmatrix.',
+    visualisierung: 'Funnel: 3.722 Quote-Findings -> direkt zurechenbar -> amtlich/gerichtlich -> Top-100/300; Heatmap Akteur x Rechtsgut; Zielgruppenmatrix.',
     verfahrensregel: 'Haeufigkeit ist Verdichtungsindikator. Antragstauglich wird das Einzelzitat erst mit Quelle, Pinpoint, Akteur, Ebene, Kontext, Beweisstufe und Gegenlese.',
     outputs: [
       'daten/topzitat_dossierklasse_2026.jsonl',

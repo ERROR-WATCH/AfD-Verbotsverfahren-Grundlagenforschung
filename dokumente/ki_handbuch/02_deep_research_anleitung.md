@@ -53,7 +53,7 @@ In einem Parteiverbotsverfahren besitzen Beweismittel unterschiedliche Hierarchi
 ## 4. Erkennung und Eliminierung von Fehlinformationen
 
 Bei der Durchführung von Deep-Research-Läufen besteht die Gefahr, auf gefälschte Berichte, irreführende Zitate (Fakes) oder überspitzte Aktivisten-Meldungen zu stoßen.
-*   **Der Fact-Checking-Check:** Jedes Zitat muss im Kontext geprüft werden. Das Repository enthält 3.611 verifizierte Zitate – jedes Zitat wurde programmgesteuert auf seine Originalquelle (z. B. Videoaufnahme der Plenarsitzung oder schriftliche Landtagsanfrage) zurückgeführt.
+*   **Der Fact-Checking-Check:** Jedes Zitat muss im Kontext geprüft werden. Das Repository enthält 3.722 verifizierte Zitate – jedes Zitat wurde programmgesteuert auf seine Originalquelle (z. B. Videoaufnahme der Plenarsitzung oder schriftliche Landtagsanfrage) zurückgeführt.
 *   **Das Gegenbeleg-Prinzip:** Bevor eine Anschuldigung als Fakt erhoben wird, sucht die KI aktiv nach Entlastungsbeweisen oder Stellungnahmen der Betroffenen. Nur wenn diese entkräftet sind, fließen sie in das Belegregister ein.
 
 ---

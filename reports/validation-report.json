@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-09T21:11:35.779Z",
+  "generated_at": "2026-07-09T22:36:19.954Z",
   "counts": {
-    "manifest": 260,
-    "source_inventory": 10427,
-    "findings": 3757,
+    "manifest": 261,
+    "source_inventory": 10741,
+    "findings": 3868,
     "verbotsgruende": 18,
     "open_tasks": 18
   },

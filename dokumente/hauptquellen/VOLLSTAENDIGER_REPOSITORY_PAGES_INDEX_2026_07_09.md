@@ -11,7 +11,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | Pinpoint-Endarbeit | Viele Quellen sind vorhanden; die finale Antragsschrift muss die Top-Anlagen mit Seite, Randnummer, Aktenzeichen, Datum, Hash/Archiv und Gegenlese zitieren. |
 | Vorfeld-Granularitaet | Sammelkanten sind im Statistiksystem sichtbar, muessen fuer den Schriftsatz weiter in Person/Ereignis/Kampagne/Datum/Quelle zerlegt werden. |
 | Chronikcluster | Wikipedia-/Pressechroniken bleiben Indexrouten. Fuer Antragstauglichkeit zaehlen nur fallweise Primaeranker, Parteirolle, Verfahren und Zurechnung. |
-| Zitatkorpus | 3.611 Proofs sind pinntauglich, aber nur 37 liegen in enger Dossierklasse mit Originaltext/Auszug + starkem Quellenanker. Fuer eine Anlage muessen weitere Topzitate priorisiert werden. |
+| Zitatkorpus | 3.722 Proofs sind pinntauglich, aber 38 liegen in enger Dossierklasse mit Originaltext/Auszug + starkem Quellenanker. Fuer eine Anlage muessen weitere Topzitate priorisiert werden. |
 | Pages-Navigation | Der Statistik-Tab zeigt die Beweislogik und fuehrt jetzt eine eigene sichtbare Vollindex-/Antragsreife-Karte mit Links auf Markdown-Index, JSON-Index, Perfektionsaudit, Antragsspitze, Schriftsatzexport, Statistikmanifest und Quelleninventar. |
 | Build-Qualitaet | `npm run build` sollte nicht nur Syntax pruefen, sondern Statistik-Build und Validierung ausfuehren. Diese Aenderung wird mit diesem Index vorgenommen. |
 
@@ -20,7 +20,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 - Dateien im Index: 10.463
 - Top-Level-Bereiche: 16
 - Dateitypen: 15
-- Pages-ID-Anker aus index.html: 137
+- Pages-ID-Anker aus index.html: 138
 - Markdown-Linkcheck README/Vollindex: 0 fehlende relative Links
 
 ## Kritische Startpunkte
@@ -32,8 +32,8 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | Statistikmanifest | [daten/statistik_manifest.json](../../daten/statistik_manifest.json) | 258 gepruefte Statistikobjekte; sichtbare Statistikbasis. |
 | Court-grade Manifest | [daten/statistik_manifest_court_grade_2026.json](../../daten/statistik_manifest_court_grade_2026.json) | Statusschema und gerichtsfeste Statistikstruktur. |
 | Source Inventory | [daten/source_inventory.jsonl](../../daten/source_inventory.jsonl) | 10.342 Quellenanker nach Build; Provenienz-/Quellenbasis. |
-| Findings | [daten/findings_art21.jsonl](../../daten/findings_art21.jsonl) | 3.757 Art.-21-Findings. |
-| Zitatstatistik | [daten/zitat_statistik_2026.json](../../daten/zitat_statistik_2026.json) | 3.611 Quote-/Proof-Findings, Zurechnung und Quellenklassen. |
+| Findings | [daten/findings_art21.jsonl](../../daten/findings_art21.jsonl) | 3.868 Art.-21-Findings. |
+| Zitatstatistik | [daten/zitat_statistik_2026.json](../../daten/zitat_statistik_2026.json) | 3.722 Quote-/Proof-Findings, Zurechnung und Quellenklassen. |
 | Zitat-Akteursregister | [daten/quote_actor_registry_2026.jsonl](../../daten/quote_actor_registry_2026.jsonl) | Akteur, Kanal, Zielgruppe und Zurechnung fuer Quote-Findings. |
 | 18er Matrix | [daten/verbotsgruende_18_beweismatrix.jsonl](../../daten/verbotsgruende_18_beweismatrix.jsonl) | 18 Verbotsgruende mit Quellen, Findings, Risiken und zulässiger Formulierung. |
 | Antragsspitze | [daten/antragsspitze_top40_beweise_2026.jsonl](../../daten/antragsspitze_top40_beweise_2026.jsonl) | Top-40 Beweisbloecke fuer Antragsspitze. |
@@ -53,7 +53,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | --- | --- | --- |
 | Antragsspitze | Top-40 exportiert und verlinkt | In Schriftsatz-Anlagenreihenfolge bringen. |
 | 18 Verbotsgruende | 18/18 als Beweismatrix vorhanden | Je Verbotsgrund die Top-10 mit Rn./Seite finalisieren. |
-| Zitatkorpus | 3.611 Proofs, 899 direkt zurechenbar | Dossierklasse von 37 auf die wichtigsten 100-150 Zitate erweitern. |
+| Zitatkorpus | 3.722 Proofs, 899 direkt zurechenbar | Dossierklasse von 38 auf die wichtigsten 100-150 Zitate erweitern. |
 | Statusmatrix | Bund/Land/JA/GD/Vorfeld getrennt | Bundes-Hochstufung weiter als eigene Eil-/Hauptsacheachse fuehren. |
 | Sicherheitsachsen | GBA-/OLG-/Bundestagsanker vorhanden | Laufend/Berufung/Rechtskraft pro Fall als Anlagefeld fuehren. |
 | Vorfeldkanten | Sammelkanten vorhanden | In Einzelkanten nach Person, Ereignis, Organisation, Datum und Quelle zerlegen. |
@@ -65,7 +65,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | Bereich | Dateien |
 | --- | ---: |
 | dokumente | 6.533 |
-| zitate | 3.611 |
+| zitate | 3.722 |
 | geheimgutachten | 118 |
 | daten | 50 |
 | geheimgutachten_netzpolitik | 39 |
@@ -86,7 +86,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | Rolle | Dateien |
 | --- | ---: |
 | OCR-/Markdown-Kopie fuer Suche/RAG | 4.918 |
-| Zitat-/Proof-Datei | 3.611 |
+| Zitat-/Proof-Datei | 3.722 |
 | Hauptquelle / Dossier / Urteilsbeleg | 1.513 |
 | BfV-Gutachten/OCR | 157 |
 | Dokument/Quelle | 74 |
@@ -321,7 +321,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [daten/schule_kultur_meldeportale_matrix_2026.jsonl](../../daten/schule_kultur_meldeportale_matrix_2026.jsonl) | Maschinenlesbare Datenmatrix | .jsonl | 4.4 KB |
 | [daten/source_inventory_beweissicherung_2026.jsonl](../../daten/source_inventory_beweissicherung_2026.jsonl) | Maschinenlesbare Datenmatrix | .jsonl | 3.6 KB |
 | [daten/source_inventory.jsonl](../../daten/source_inventory.jsonl) | Maschinenlesbare Datenmatrix | .jsonl | 8.0 MB |
-| [daten/source_to_stat_crosswalk.jsonl](../../daten/source_to_stat_crosswalk.jsonl) | Maschinenlesbare Datenmatrix | .jsonl | 37.6 KB |
+| [daten/source_to_stat_crosswalk.jsonl](../../daten/source_to_stat_crosswalk.jsonl) | Maschinenlesbare Datenmatrix | .jsonl | 38.6 KB |
 | [daten/statistik_18_verbotsgruende_matrix_2026.json](../../daten/statistik_18_verbotsgruende_matrix_2026.json) | Maschinenlesbare Datenmatrix | .json | 11.6 KB |
 | [daten/statistik_akteure.csv](../../daten/statistik_akteure.csv) | Maschinenlesbare Datenmatrix | .csv | 3.5 KB |
 | [daten/statistik_belege.csv](../../daten/statistik_belege.csv) | Maschinenlesbare Datenmatrix | .csv | 5.3 KB |
@@ -354,8 +354,8 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/hauptquellen/„Es_könnte_bald_soweit_sein“__Thüringer_AfD-Chef_Höcke_zählt_die_Justiz_an_-_und_einen_Staatsanwalt_in_Halle_persönlich.pdf](../../dokumente/hauptquellen/%E2%80%9EEs_k%C3%B6nnte_bald_soweit_sein%E2%80%9C__Th%C3%BCringer_AfD-Chef_H%C3%B6cke_z%C3%A4hlt_die_Justiz_an_-_und_einen_Staatsanwalt_in_Halle_pers%C3%B6nlich.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 3.9 MB |
 | [dokumente/hauptquellen/„Ist vom Teufel geschickt“_ Die AfD legt sich mit dem Limburger Bischof an und entlarvt sich dabei selbst.pdf](../../dokumente/hauptquellen/%E2%80%9EIst%20vom%20Teufel%20geschickt%E2%80%9C_%20Die%20AfD%20legt%20sich%20mit%20dem%20Limburger%20Bischof%20an%20und%20entlarvt%20sich%20dabei%20selbst.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 257.8 KB |
 | [dokumente/hauptquellen/„Ist_vom_Teufel_geschickt“__Die_AfD_legt_sich_mit_dem_Limburger_Bischof_an_und_entlarvt_sich_dabei_selbst.pdf](../../dokumente/hauptquellen/%E2%80%9EIst_vom_Teufel_geschickt%E2%80%9C__Die_AfD_legt_sich_mit_dem_Limburger_Bischof_an_und_entlarvt_sich_dabei_selbst.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 257.8 KB |
-| [dokumente/hauptquellen/„Niemand kommt rein und Millionen fliegen raus“_ AfD-Politiker besuchen internationalen Gipfel zu Remigration.pdf](../../dokumente/hauptquellen/%E2%80%9ENiemand%20kommt%20rein%20und%20Millionen%20fliegen%20raus%E2%80%9C_%20AfD-Politiker%20besuchen%20internationalen%20Gipfel%20zu%20Remigration.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 237.8 KB |
-| [dokumente/hauptquellen/„Niemand_kommt_rein_und_Millionen_fliegen_raus“__AfD-Politiker_besuchen_internationalen_Gipfel_zu_Remigration.pdf](../../dokumente/hauptquellen/%E2%80%9ENiemand_kommt_rein_und_Millionen_fliegen_raus%E2%80%9C__AfD-Politiker_besuchen_internationalen_Gipfel_zu_Remigration.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 237.8 KB |
+| [dokumente/hauptquellen/„Niemand kommt rein und Millionen fliegen raus“_ AfD-Politiker besuchen internationalen Gipfel zu Remigration.pdf](../../dokumente/hauptquellen/%E2%80%9ENiemand%20kommt%20rein%20und%20Millionen%20fliegen%20raus%E2%80%9C_%20AfD-Politiker%20besuchen%20internationalen%20Gipfel%20zu%20Remigration.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 238.8 KB |
+| [dokumente/hauptquellen/„Niemand_kommt_rein_und_Millionen_fliegen_raus“__AfD-Politiker_besuchen_internationalen_Gipfel_zu_Remigration.pdf](../../dokumente/hauptquellen/%E2%80%9ENiemand_kommt_rein_und_Millionen_fliegen_raus%E2%80%9C__AfD-Politiker_besuchen_internationalen_Gipfel_zu_Remigration.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 238.8 KB |
 | [dokumente/hauptquellen/„Ohne Russland geht nichts“_ Wie sich AfD-Politiker für Moskaus Interessen stark machen.pdf](../../dokumente/hauptquellen/%E2%80%9EOhne%20Russland%20geht%20nichts%E2%80%9C_%20Wie%20sich%20AfD-Politiker%20f%C3%BCr%20Moskaus%20Interessen%20stark%20machen.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 1.1 MB |
 | [dokumente/hauptquellen/„Ohne_Russland_geht_nichts“__Wie_sich_AfD-Politiker_für_Moskaus_Interessen_stark_machen.pdf](../../dokumente/hauptquellen/%E2%80%9EOhne_Russland_geht_nichts%E2%80%9C__Wie_sich_AfD-Politiker_f%C3%BCr_Moskaus_Interessen_stark_machen.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 1.1 MB |
 | [dokumente/hauptquellen/„Remigration“_ AfD sucht Nähe zu Sellner und US-Hardliner Bovino.pdf](../../dokumente/hauptquellen/%E2%80%9ERemigration%E2%80%9C_%20AfD%20sucht%20N%C3%A4he%20zu%20Sellner%20und%20US-Hardliner%20Bovino.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 2.2 MB |
@@ -526,7 +526,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/hauptquellen/Bundestag_ Missbraucht die AfD die Kleinen Anfragen_ Eine Datenanalyse - SZ.de.pdf](../../dokumente/hauptquellen/Bundestag_%20Missbraucht%20die%20AfD%20die%20Kleinen%20Anfragen_%20Eine%20Datenanalyse%20-%20SZ.de.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 5.2 MB |
 | [dokumente/hauptquellen/Bundestag__Missbraucht_die_AfD_die_Kleinen_Anfragen__Eine_Datenanalyse_-_SZ.de.pdf](../../dokumente/hauptquellen/Bundestag__Missbraucht_die_AfD_die_Kleinen_Anfragen__Eine_Datenanalyse_-_SZ.de.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 5.2 MB |
 | [dokumente/hauptquellen/Bundestag_hebt_Immunität_von_AfD-Politiker_Krah_auf___tagesschau.de.pdf](../../dokumente/hauptquellen/Bundestag_hebt_Immunit%C3%A4t_von_AfD-Politiker_Krah_auf___tagesschau.de.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 250.4 KB |
-| [dokumente/hauptquellen/bundestag.de_abgeordnete_biografien_B_brandner_stephan-1043798.pdf](../../dokumente/hauptquellen/bundestag.de_abgeordnete_biografien_B_brandner_stephan-1043798.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 294.4 KB |
+| dokumente/hauptquellen/bundestag.de_abgeordnete_biografien_B_brandner_stephan-1043898.pdf (nicht lokal vorhanden: `../../dokumente/hauptquellen/bundestag.de_abgeordnete_biografien_B_brandner_stephan-1043898.pdf`) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 294.4 KB |
 | [dokumente/hauptquellen/bundestag.de_abgeordnete_biografien_M_muenzenmaier_sebastian-1046268.pdf](../../dokumente/hauptquellen/bundestag.de_abgeordnete_biografien_M_muenzenmaier_sebastian-1046268.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 293.3 KB |
 | [dokumente/hauptquellen/bundestag.de_abgeordnete_biografien_Z_ziegler_kay-1049402.pdf](../../dokumente/hauptquellen/bundestag.de_abgeordnete_biografien_Z_ziegler_kay-1049402.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 280.8 KB |
 | [dokumente/hauptquellen/bundestag.de_dokumente_textarchiv_2024_kw51-de-aktuelle-stunde-praesidenten-verfassungsschutzaemter-1034944.pdf](../../dokumente/hauptquellen/bundestag.de_dokumente_textarchiv_2024_kw51-de-aktuelle-stunde-praesidenten-verfassungsschutzaemter-1034944.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 109.0 KB |
@@ -675,7 +675,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/hauptquellen/facebook.com_profile_php.pdf](../../dokumente/hauptquellen/facebook.com_profile_php.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 503.8 KB |
 | [dokumente/hauptquellen/fallrecht.de_bv005085_html.pdf](../../dokumente/hauptquellen/fallrecht.de_bv005085_html.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 8.7 MB |
 | [dokumente/hauptquellen/faz.net_aktuell_politik_thema_andre-poggenburg.pdf](../../dokumente/hauptquellen/faz.net_aktuell_politik_thema_andre-poggenburg.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 1.2 MB |
-| [dokumente/hauptquellen/federalregister.gov_documents_2020_10_26_2020-23780_creating-schedule-f-in-the-excepted-service.pdf](../../dokumente/hauptquellen/federalregister.gov_documents_2020_10_26_2020-23780_creating-schedule-f-in-the-excepted-service.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 206.3 KB |
+| dokumente/hauptquellen/federalregister.gov_documents_2020_10_26_2020-23880_creating-schedule-f-in-the-excepted-service.pdf (nicht lokal vorhanden: `../../dokumente/hauptquellen/federalregister.gov_documents_2020_10_26_2020-23880_creating-schedule-f-in-the-excepted-service.pdf`) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 206.3 KB |
 | [dokumente/hauptquellen/focus.de_politik_deutschland_augsburg-mitarbeiter-von-afd-mann-jurca-wegen-vergewaltigung-verurteilt_id_25958.pdf](../../dokumente/hauptquellen/focus.de_politik_deutschland_augsburg-mitarbeiter-von-afd-mann-jurca-wegen-vergewaltigung-verurteilt_id_25958.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 1.1 MB |
 | [dokumente/hauptquellen/Foitzik.pdf](../../dokumente/hauptquellen/Foitzik.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 19.0 KB |
 | [dokumente/hauptquellen/Fotografen der Identitären Bewegung_ Ins rechte Licht gerückt _ taz.de.pdf](../../dokumente/hauptquellen/Fotografen%20der%20Identit%C3%A4ren%20Bewegung_%20Ins%20rechte%20Licht%20ger%C3%BCckt%20_%20taz.de.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 284.2 KB |
@@ -695,8 +695,8 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/hauptquellen/gesetze-im-internet.de_gg_art_21_html.pdf](../../dokumente/hauptquellen/gesetze-im-internet.de_gg_art_21_html.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 75.4 KB |
 | [dokumente/hauptquellen/Gewalt als Alternative_ 14 verurteilte AfD-Mandatsträger im Amt.pdf](../../dokumente/hauptquellen/Gewalt%20als%20Alternative_%2014%20verurteilte%20AfD-Mandatstr%C3%A4ger%20im%20Amt.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 425.2 KB |
 | [dokumente/hauptquellen/Gewalt_als_Alternative__14_verurteilte_AfD-Mandatsträger_im_Amt.pdf](../../dokumente/hauptquellen/Gewalt_als_Alternative__14_verurteilte_AfD-Mandatstr%C3%A4ger_im_Amt.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 425.2 KB |
-| [dokumente/hauptquellen/GPA_Erblehre_1937.md](../../dokumente/hauptquellen/GPA_Erblehre_1937.md) | Hauptquelle / Dossier / Urteilsbeleg | .md | 1.7 KB |
-| [dokumente/hauptquellen/GPA_Erblehre_1937.pdf](../../dokumente/hauptquellen/GPA_Erblehre_1937.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 78.8 KB |
+| dokumente/hauptquellen/GPA_Erblehre_1938.md (nicht lokal vorhanden: `../../dokumente/hauptquellen/GPA_Erblehre_1938.md`) | Hauptquelle / Dossier / Urteilsbeleg | .md | 1.7 KB |
+| dokumente/hauptquellen/GPA_Erblehre_1938.pdf (nicht lokal vorhanden: `../../dokumente/hauptquellen/GPA_Erblehre_1938.pdf`) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 78.8 KB |
 | [dokumente/hauptquellen/grokipedia.com_page_Socialist_Reich_Party.pdf](../../dokumente/hauptquellen/grokipedia.com_page_Socialist_Reich_Party.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 617.1 KB |
 | [dokumente/hauptquellen/gruende für ein afd verbotsverfahren.pdf](../../dokumente/hauptquellen/gruende%20f%C3%BCr%20ein%20afd%20verbotsverfahren.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 32.2 KB |
 | [dokumente/hauptquellen/gruende_für_ein_afd_verbotsverfahren.pdf](../../dokumente/hauptquellen/gruende_f%C3%BCr_ein_afd_verbotsverfahren.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 32.2 KB |
@@ -739,7 +739,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/hauptquellen/juris.de_jportal.pdf](../../dokumente/hauptquellen/juris.de_jportal.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 430.9 KB |
 | [dokumente/hauptquellen/Justiz_ Einstufung der hessischen AfD - Hauptsacheverfahren im Mai _ DIE ZEIT.pdf](../../dokumente/hauptquellen/Justiz_%20Einstufung%20der%20hessischen%20AfD%20-%20Hauptsacheverfahren%20im%20Mai%20_%20DIE%20ZEIT.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 369.7 KB |
 | [dokumente/hauptquellen/Justiz__Einstufung_der_hessischen_AfD_-_Hauptsacheverfahren_im_Mai___DIE_ZEIT.pdf](../../dokumente/hauptquellen/Justiz__Einstufung_der_hessischen_AfD_-_Hauptsacheverfahren_im_Mai___DIE_ZEIT.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 369.7 KB |
-| [dokumente/hauptquellen/kas.de_de_politische-beteiligung-und-parteien-in-deutschland.pdf](../../dokumente/hauptquellen/kas.de_de_politische-beteiligung-und-parteien-in-deutschland.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 379.5 KB |
+| [dokumente/hauptquellen/kas.de_de_politische-beteiligung-und-parteien-in-deutschland.pdf](../../dokumente/hauptquellen/kas.de_de_politische-beteiligung-und-parteien-in-deutschland.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 389.5 KB |
 | [dokumente/hauptquellen/Katholische Kirche angezündet – AfD stellt in Wickede_Ruhr verurteilten Brandstifter für die Ratswahl auf.pdf](../../dokumente/hauptquellen/Katholische%20Kirche%20angez%C3%BCndet%20%E2%80%93%20AfD%20stellt%20in%20Wickede_Ruhr%20verurteilten%20Brandstifter%20f%C3%BCr%20die%20Ratswahl%20auf.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 723.2 KB |
 | [dokumente/hauptquellen/Katholische_Kirche_angezündet_–_AfD_stellt_in_Wickede_Ruhr_verurteilten_Brandstifter_für_die_Ratswahl_auf.pdf](../../dokumente/hauptquellen/Katholische_Kirche_angez%C3%BCndet_%E2%80%93_AfD_stellt_in_Wickede_Ruhr_verurteilten_Brandstifter_f%C3%BCr_die_Ratswahl_auf.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 723.2 KB |
 | [dokumente/hauptquellen/Kette-des-Versagens-17-02-2021.pdf](../../dokumente/hauptquellen/Kette-des-Versagens-17-02-2021.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 272.1 KB |
@@ -808,8 +808,8 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/hauptquellen/Leipzig__AfD-Sticker_mit_Rasierklingen_präpariert.pdf](../../dokumente/hauptquellen/Leipzig__AfD-Sticker_mit_Rasierklingen_pr%C3%A4pariert.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 2.1 MB |
 | [dokumente/hauptquellen/Leipziger Sicherheitsbehörde entzieht zwei AfD-Politikern die Waffenscheine.pdf](../../dokumente/hauptquellen/Leipziger%20Sicherheitsbeh%C3%B6rde%20entzieht%20zwei%20AfD-Politikern%20die%20Waffenscheine.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 1.7 MB |
 | [dokumente/hauptquellen/Leipziger_Sicherheitsbehörde_entzieht_zwei_AfD-Politikern_die_Waffenscheine.pdf](../../dokumente/hauptquellen/Leipziger_Sicherheitsbeh%C3%B6rde_entzieht_zwei_AfD-Politikern_die_Waffenscheine.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 1.7 MB |
-| [dokumente/hauptquellen/Linnemann (CDU) nennt falsche Zahl zur Beschäftigung Geflüchteter _ WEB.DE.pdf](../../dokumente/hauptquellen/Linnemann%20%28CDU%29%20nennt%20falsche%20Zahl%20zur%20Besch%C3%A4ftigung%20Gefl%C3%BCchteter%20_%20WEB.DE.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 376.5 KB |
-| [dokumente/hauptquellen/Linnemann_(CDU)_nennt_falsche_Zahl_zur_Beschäftigung_Geflüchteter___WEB.DE.pdf](../../dokumente/hauptquellen/Linnemann_%28CDU%29_nennt_falsche_Zahl_zur_Besch%C3%A4ftigung_Gefl%C3%BCchteter___WEB.DE.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 376.5 KB |
+| [dokumente/hauptquellen/Linnemann (CDU) nennt falsche Zahl zur Beschäftigung Geflüchteter _ WEB.DE.pdf](../../dokumente/hauptquellen/Linnemann%20%28CDU%29%20nennt%20falsche%20Zahl%20zur%20Besch%C3%A4ftigung%20Gefl%C3%BCchteter%20_%20WEB.DE.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 386.5 KB |
+| [dokumente/hauptquellen/Linnemann_(CDU)_nennt_falsche_Zahl_zur_Beschäftigung_Geflüchteter___WEB.DE.pdf](../../dokumente/hauptquellen/Linnemann_%28CDU%29_nennt_falsche_Zahl_zur_Besch%C3%A4ftigung_Gefl%C3%BCchteter___WEB.DE.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 386.5 KB |
 | [dokumente/hauptquellen/lto.de_recht_hintergruende_h_afd-verbot-parteiverbot-bverfg-npd-gutachten.pdf](../../dokumente/hauptquellen/lto.de_recht_hintergruende_h_afd-verbot-parteiverbot-bverfg-npd-gutachten.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 4.0 MB |
 | [dokumente/hauptquellen/lto.de_recht_hintergruende_h_interview-felor-badenberg-afd-verbot-landesverband-thueringen-hoecke-verfassun.pdf](../../dokumente/hauptquellen/lto.de_recht_hintergruende_h_interview-felor-badenberg-afd-verbot-landesverband-thueringen-hoecke-verfassun.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 4.6 MB |
 | [dokumente/hauptquellen/lto.de_recht_hintergruende_h_sven-marla-svenja-liebich-strafvollzug-rechtsextremismus-haft-trans.pdf](../../dokumente/hauptquellen/lto.de_recht_hintergruende_h_sven-marla-svenja-liebich-strafvollzug-rechtsextremismus-haft-trans.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 6.3 MB |
@@ -856,8 +856,8 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/hauptquellen/PIXA.pdf](../../dokumente/hauptquellen/PIXA.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 18.7 MB |
 | [dokumente/hauptquellen/Plädoyer für ein AfD-Verbot aus antifaschistischer Perspektive.pdf](../../dokumente/hauptquellen/Pl%C3%A4doyer%20f%C3%BCr%20ein%20AfD-Verbot%20aus%20antifaschistischer%20Perspektive.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 109.6 KB |
 | [dokumente/hauptquellen/Plädoyer_für_ein_AfD-Verbot_aus_antifaschistischer_Perspektive.pdf](../../dokumente/hauptquellen/Pl%C3%A4doyer_f%C3%BCr_ein_AfD-Verbot_aus_antifaschistischer_Perspektive.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 109.6 KB |
-| [dokumente/hauptquellen/Polizei stoppt Neonazi mit scharf geladener Schusswaffe und Ersatzmunition auf A8 - Allgäu ⇏ rechtsaußen.pdf](../../dokumente/hauptquellen/Polizei%20stoppt%20Neonazi%20mit%20scharf%20geladener%20Schusswaffe%20und%20Ersatzmunition%20auf%20A8%20-%20Allg%C3%A4u%20%E2%87%8F%20rechtsau%C3%9Fen.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 437.5 KB |
-| [dokumente/hauptquellen/Polizei_stoppt_Neonazi_mit_scharf_geladener_Schusswaffe_und_Ersatzmunition_auf_A8_-_Allgäu_⇏_rechtsaußen.pdf](../../dokumente/hauptquellen/Polizei_stoppt_Neonazi_mit_scharf_geladener_Schusswaffe_und_Ersatzmunition_auf_A8_-_Allg%C3%A4u_%E2%87%8F_rechtsau%C3%9Fen.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 437.5 KB |
+| [dokumente/hauptquellen/Polizei stoppt Neonazi mit scharf geladener Schusswaffe und Ersatzmunition auf A8 - Allgäu ⇏ rechtsaußen.pdf](../../dokumente/hauptquellen/Polizei%20stoppt%20Neonazi%20mit%20scharf%20geladener%20Schusswaffe%20und%20Ersatzmunition%20auf%20A8%20-%20Allg%C3%A4u%20%E2%87%8F%20rechtsau%C3%9Fen.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 438.5 KB |
+| [dokumente/hauptquellen/Polizei_stoppt_Neonazi_mit_scharf_geladener_Schusswaffe_und_Ersatzmunition_auf_A8_-_Allgäu_⇏_rechtsaußen.pdf](../../dokumente/hauptquellen/Polizei_stoppt_Neonazi_mit_scharf_geladener_Schusswaffe_und_Ersatzmunition_auf_A8_-_Allg%C3%A4u_%E2%87%8F_rechtsau%C3%9Fen.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 438.5 KB |
 | [dokumente/hauptquellen/PRESSESCHAU_AKTUELL.md](../../dokumente/hauptquellen/PRESSESCHAU_AKTUELL.md) | Hauptquelle / Dossier / Urteilsbeleg | .md | 4.6 KB |
 | [dokumente/hauptquellen/PRESSESCHAU_AKTUELL.txt](../../dokumente/hauptquellen/PRESSESCHAU_AKTUELL.txt) | Hauptquelle / Dossier / Urteilsbeleg | .txt | 3.9 KB |
 | [dokumente/hauptquellen/Professor der Bundespolizei_ „Ausgewiesener Extremist an zentraler Stelle“.pdf](../../dokumente/hauptquellen/Professor%20der%20Bundespolizei_%20%E2%80%9EAusgewiesener%20Extremist%20an%20zentraler%20Stelle%E2%80%9C.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 2.6 MB |
@@ -898,11 +898,11 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/hauptquellen/schlimmsten zitate der afd.pdf](../../dokumente/hauptquellen/schlimmsten%20zitate%20der%20afd.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 147.6 KB |
 | [dokumente/hauptquellen/schlimmsten_zitate_der_afd.pdf](../../dokumente/hauptquellen/schlimmsten_zitate_der_afd.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 147.6 KB |
 | [dokumente/hauptquellen/SCHRIFTSATZ_EXPORT_TOP_BEWEISE_2026.md](../../dokumente/hauptquellen/SCHRIFTSATZ_EXPORT_TOP_BEWEISE_2026.md) | Hauptquelle / Dossier / Urteilsbeleg | .md | 69.8 KB |
-| [dokumente/hauptquellen/Schuldig und weiter im Amt_ Mindestens elf AfD-Mandatsträger wegen Gewalttaten verurteilt.pdf](../../dokumente/hauptquellen/Schuldig%20und%20weiter%20im%20Amt_%20Mindestens%20elf%20AfD-Mandatstr%C3%A4ger%20wegen%20Gewalttaten%20verurteilt.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 370.4 KB |
-| [dokumente/hauptquellen/Schuldig_und_weiter_im_Amt__Mindestens_elf_AfD-Mandatsträger_wegen_Gewalttaten_verurteilt.pdf](../../dokumente/hauptquellen/Schuldig_und_weiter_im_Amt__Mindestens_elf_AfD-Mandatstr%C3%A4ger_wegen_Gewalttaten_verurteilt.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 370.4 KB |
+| [dokumente/hauptquellen/Schuldig und weiter im Amt_ Mindestens elf AfD-Mandatsträger wegen Gewalttaten verurteilt.pdf](../../dokumente/hauptquellen/Schuldig%20und%20weiter%20im%20Amt_%20Mindestens%20elf%20AfD-Mandatstr%C3%A4ger%20wegen%20Gewalttaten%20verurteilt.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 380.4 KB |
+| [dokumente/hauptquellen/Schuldig_und_weiter_im_Amt__Mindestens_elf_AfD-Mandatsträger_wegen_Gewalttaten_verurteilt.pdf](../../dokumente/hauptquellen/Schuldig_und_weiter_im_Amt__Mindestens_elf_AfD-Mandatstr%C3%A4ger_wegen_Gewalttaten_verurteilt.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 380.4 KB |
 | [dokumente/hauptquellen/sfg.media_en_a_german-court-orders-removal-afd-confirmed-extremism-status.pdf](../../dokumente/hauptquellen/sfg.media_en_a_german-court-orders-removal-afd-confirmed-extremism-status.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 30.3 MB |
-| [dokumente/hauptquellen/Skandal in Flensburg_ Schild in Schaufenster verbietet Juden Zutritt.pdf](../../dokumente/hauptquellen/Skandal%20in%20Flensburg_%20Schild%20in%20Schaufenster%20verbietet%20Juden%20Zutritt.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 737.8 KB |
-| [dokumente/hauptquellen/Skandal_in_Flensburg__Schild_in_Schaufenster_verbietet_Juden_Zutritt.pdf](../../dokumente/hauptquellen/Skandal_in_Flensburg__Schild_in_Schaufenster_verbietet_Juden_Zutritt.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 737.8 KB |
+| [dokumente/hauptquellen/Skandal in Flensburg_ Schild in Schaufenster verbietet Juden Zutritt.pdf](../../dokumente/hauptquellen/Skandal%20in%20Flensburg_%20Schild%20in%20Schaufenster%20verbietet%20Juden%20Zutritt.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 738.8 KB |
+| [dokumente/hauptquellen/Skandal_in_Flensburg__Schild_in_Schaufenster_verbietet_Juden_Zutritt.pdf](../../dokumente/hauptquellen/Skandal_in_Flensburg__Schild_in_Schaufenster_verbietet_Juden_Zutritt.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 738.8 KB |
 | [dokumente/hauptquellen/Spiegel_Politik_Roedder_Warnt_vor_Buergerkrieg.md](../../dokumente/hauptquellen/Spiegel_Politik_Roedder_Warnt_vor_Buergerkrieg.md) | Hauptquelle / Dossier / Urteilsbeleg | .md | 623 B |
 | [dokumente/hauptquellen/Spiegel_Politik_Roedder_Warnt_vor_Buergerkrieg.txt](../../dokumente/hauptquellen/Spiegel_Politik_Roedder_Warnt_vor_Buergerkrieg.txt) | Hauptquelle / Dossier / Urteilsbeleg | .txt | 623 B |
 | [dokumente/hauptquellen/spiegel.de_kultur_tv_alice-weidel-extra-3-darf-afd-politikerin-nazischlampe-nennen-a-1148135_html.pdf](../../dokumente/hauptquellen/spiegel.de_kultur_tv_alice-weidel-extra-3-darf-afd-politikerin-nazischlampe-nennen-a-1148135_html.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 1016.0 KB |
@@ -928,8 +928,8 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/hauptquellen/spiegel.de_politik_deutschland_roedder-afd-verbot-buergerkrieg-a-1234567_html.pdf](../../dokumente/hauptquellen/spiegel.de_politik_deutschland_roedder-afd-verbot-buergerkrieg-a-1234567_html.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 544.5 KB |
 | [dokumente/hauptquellen/spiegel.de_politik_deutschland_thomas-kemmerich-schliesst-sich-nach-fdp-austritt-frauke-petry-und-ihrem-verein-.pdf](../../dokumente/hauptquellen/spiegel.de_politik_deutschland_thomas-kemmerich-schliesst-sich-nach-fdp-austritt-frauke-petry-und-ihrem-verein-.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 790.6 KB |
 | [dokumente/hauptquellen/spiegel.de_politik_deutschland_thueringen-verfassungsgericht-entscheidung-zur-konstituierung-des-landtags-a-f12.pdf](../../dokumente/hauptquellen/spiegel.de_politik_deutschland_thueringen-verfassungsgericht-entscheidung-zur-konstituierung-des-landtags-a-f12.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 1.5 MB |
-| [dokumente/hauptquellen/spiegel.de_politik_deutschland_wiebke-muhsal-afd-abgeordnete-wegen-betrugs-rechtskraeftig-verurteilt-a-1244837_.pdf](../../dokumente/hauptquellen/spiegel.de_politik_deutschland_wiebke-muhsal-afd-abgeordnete-wegen-betrugs-rechtskraeftig-verurteilt-a-1244837_.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 456.9 KB |
-| [dokumente/hauptquellen/spiegel.de_spiegel_doris-von-sayn-wittgenstein-wie-kam-die-afd-frau-zu-ihrem-namen-a-1182372_html.pdf](../../dokumente/hauptquellen/spiegel.de_spiegel_doris-von-sayn-wittgenstein-wie-kam-die-afd-frau-zu-ihrem-namen-a-1182372_html.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 542.2 KB |
+| dokumente/hauptquellen/spiegel.de_politik_deutschland_wiebke-muhsal-afd-abgeordnete-wegen-betrugs-rechtskraeftig-verurteilt-a-1244838_.pdf (nicht lokal vorhanden: `../../dokumente/hauptquellen/spiegel.de_politik_deutschland_wiebke-muhsal-afd-abgeordnete-wegen-betrugs-rechtskraeftig-verurteilt-a-1244838_.pdf`) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 456.9 KB |
+| dokumente/hauptquellen/spiegel.de_spiegel_doris-von-sayn-wittgenstein-wie-kam-die-afd-frau-zu-ihrem-namen-a-1182382_html.pdf (nicht lokal vorhanden: `../../dokumente/hauptquellen/spiegel.de_spiegel_doris-von-sayn-wittgenstein-wie-kam-die-afd-frau-zu-ihrem-namen-a-1182382_html.pdf`) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 542.2 KB |
 | [dokumente/hauptquellen/spiegel.de_thema_andreas-kalbitz.pdf](../../dokumente/hauptquellen/spiegel.de_thema_andreas-kalbitz.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 556.2 KB |
 | [dokumente/hauptquellen/spiegel.de_thema_frauke_petry.pdf](../../dokumente/hauptquellen/spiegel.de_thema_frauke_petry.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 436.5 KB |
 | [dokumente/hauptquellen/Sportschützen und die AfD_ Schüsse von rechts _ taz.de.pdf](../../dokumente/hauptquellen/Sportsch%C3%BCtzen%20und%20die%20AfD_%20Sch%C3%BCsse%20von%20rechts%20_%20taz.de.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 178.0 KB |
@@ -939,9 +939,9 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/hauptquellen/STATISTIK_TAB_BEWEISSICHERUNG_2026.md](../../dokumente/hauptquellen/STATISTIK_TAB_BEWEISSICHERUNG_2026.md) | Hauptquelle / Dossier / Urteilsbeleg | .md | 10.3 KB |
 | [dokumente/hauptquellen/STATISTIK_TAB_NACHRECHERCHE_BELEGE_2026.md](../../dokumente/hauptquellen/STATISTIK_TAB_NACHRECHERCHE_BELEGE_2026.md) | Hauptquelle / Dossier / Urteilsbeleg | .md | 7.7 KB |
 | [dokumente/hauptquellen/STATUSACHSEN_DEEPRESEARCH_WEB_2026.md](../../dokumente/hauptquellen/STATUSACHSEN_DEEPRESEARCH_WEB_2026.md) | Hauptquelle / Dossier / Urteilsbeleg | .md | 2.6 KB |
-| [dokumente/hauptquellen/stern.de_politik_deutschland_afd-verbot--gutachten-von-experten-sieht-gute-chancen-37601426_html.md](../../dokumente/hauptquellen/stern.de_politik_deutschland_afd-verbot--gutachten-von-experten-sieht-gute-chancen-37601426_html.md) | Hauptquelle / Dossier / Urteilsbeleg | .md | 2.1 KB |
-| [dokumente/hauptquellen/stern.de_politik_deutschland_afd-verbot--gutachten-von-experten-sieht-gute-chancen-37601426_html.pdf](../../dokumente/hauptquellen/stern.de_politik_deutschland_afd-verbot--gutachten-von-experten-sieht-gute-chancen-37601426_html.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 26.7 KB |
-| [dokumente/hauptquellen/stern.de_politik_deutschland_afd-verbot--gutachten-von-experten-sieht-gute-chancen-37601426_html.txt](../../dokumente/hauptquellen/stern.de_politik_deutschland_afd-verbot--gutachten-von-experten-sieht-gute-chancen-37601426_html.txt) | Hauptquelle / Dossier / Urteilsbeleg | .txt | 2.1 KB |
+| dokumente/hauptquellen/stern.de_politik_deutschland_afd-verbot--gutachten-von-experten-sieht-gute-chancen-38601426_html.md (nicht lokal vorhanden: `../../dokumente/hauptquellen/stern.de_politik_deutschland_afd-verbot--gutachten-von-experten-sieht-gute-chancen-38601426_html.md`) | Hauptquelle / Dossier / Urteilsbeleg | .md | 2.1 KB |
+| dokumente/hauptquellen/stern.de_politik_deutschland_afd-verbot--gutachten-von-experten-sieht-gute-chancen-38601426_html.pdf (nicht lokal vorhanden: `../../dokumente/hauptquellen/stern.de_politik_deutschland_afd-verbot--gutachten-von-experten-sieht-gute-chancen-38601426_html.pdf`) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 26.7 KB |
+| dokumente/hauptquellen/stern.de_politik_deutschland_afd-verbot--gutachten-von-experten-sieht-gute-chancen-38601426_html.txt (nicht lokal vorhanden: `../../dokumente/hauptquellen/stern.de_politik_deutschland_afd-verbot--gutachten-von-experten-sieht-gute-chancen-38601426_html.txt`) | Hauptquelle / Dossier / Urteilsbeleg | .txt | 2.1 KB |
 | [dokumente/hauptquellen/stern.de_politik_deutschland_wegen--hitler-wein--fotos--afd-schliesst-abgeordnete-biessmann-aus--8436260_html.pdf](../../dokumente/hauptquellen/stern.de_politik_deutschland_wegen--hitler-wein--fotos--afd-schliesst-abgeordnete-biessmann-aus--8436260_html.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 274.9 KB |
 | [dokumente/hauptquellen/Streit in der AfD_ Wie völkisch darf's denn sein_.pdf](../../dokumente/hauptquellen/Streit%20in%20der%20AfD_%20Wie%20v%C3%B6lkisch%20darf's%20denn%20sein_.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 257.3 KB |
 | [dokumente/hauptquellen/Streit um AfD-Parteizentrale in Berlin_ Vermieter kündigt, AfD will einfach bleiben - SZ.de.pdf](../../dokumente/hauptquellen/Streit%20um%20AfD-Parteizentrale%20in%20Berlin_%20Vermieter%20k%C3%BCndigt,%20AfD%20will%20einfach%20bleiben%20-%20SZ.de.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 11.4 MB |
@@ -950,7 +950,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/hauptquellen/stuttgarter-nachrichten.de_inhalt_strafprozess-gegen-ex-landtagsabgeordneten-geldstrafe-fuer-heinrich-fiechtner_df83e2c3-4d43-4.pdf](../../dokumente/hauptquellen/stuttgarter-nachrichten.de_inhalt_strafprozess-gegen-ex-landtagsabgeordneten-geldstrafe-fuer-heinrich-fiechtner_df83e2c3-4d43-4.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 1.9 MB |
 | [dokumente/hauptquellen/stuttgarter-zeitung.de_inhalt_afd-in-baden-wuerttemberg-partei-schliesst-abgeordneten-stefan-raepple-aus_89031315-9b3e-45fd.pdf](../../dokumente/hauptquellen/stuttgarter-zeitung.de_inhalt_afd-in-baden-wuerttemberg-partei-schliesst-abgeordneten-stefan-raepple-aus_89031315-9b3e-45fd.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 33.1 KB |
 | [dokumente/hauptquellen/stuttgarter-zeitung.de_inhalt_strafprozess-gegen-ex-landtagsabgeordneten-geldstrafe-fuer-heinrich-fiechtner_df83e2c3-4d43-4.pdf](../../dokumente/hauptquellen/stuttgarter-zeitung.de_inhalt_strafprozess-gegen-ex-landtagsabgeordneten-geldstrafe-fuer-heinrich-fiechtner_df83e2c3-4d43-4.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 1.3 MB |
-| [dokumente/hauptquellen/sueddeutsche.de_bayern_halemba-urteil-afd-gericht-prozess-geldwaesche-urteil-richterin-li_3376279.pdf](../../dokumente/hauptquellen/sueddeutsche.de_bayern_halemba-urteil-afd-gericht-prozess-geldwaesche-urteil-richterin-li_3376279.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 524.1 KB |
+| dokumente/hauptquellen/sueddeutsche.de_bayern_halemba-urteil-afd-gericht-prozess-geldwaesche-urteil-richterin-li_3386279.pdf (nicht lokal vorhanden: `../../dokumente/hauptquellen/sueddeutsche.de_bayern_halemba-urteil-afd-gericht-prozess-geldwaesche-urteil-richterin-li_3386279.pdf`) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 524.1 KB |
 | [dokumente/hauptquellen/sueddeutsche.de_muenchen_ebersberg_ebersberg-afd-kreisrat-thomas-suchka-volksverhetzung-geldstrafe-1_5542198.pdf](../../dokumente/hauptquellen/sueddeutsche.de_muenchen_ebersberg_ebersberg-afd-kreisrat-thomas-suchka-volksverhetzung-geldstrafe-1_5542198.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 191.3 KB |
 | [dokumente/hauptquellen/sueddeutsche.de_panorama_marla-svenja-liebich-rechtsextremismus-flucht-fahndung-li_3341139.pdf](../../dokumente/hauptquellen/sueddeutsche.de_panorama_marla-svenja-liebich-rechtsextremismus-flucht-fahndung-li_3341139.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 641.3 KB |
 | [dokumente/hauptquellen/sueddeutsche.de_politik_beamtenstatus-rechtsextremismus-deutschland-afd-dienst-li_3287514.pdf](../../dokumente/hauptquellen/sueddeutsche.de_politik_beamtenstatus-rechtsextremismus-deutschland-afd-dienst-li_3287514.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 886.3 KB |
@@ -1006,7 +1006,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/hauptquellen/taz.de_Rechte-Hetze-gegen-Journalisten_5966298.pdf](../../dokumente/hauptquellen/taz.de_Rechte-Hetze-gegen-Journalisten_5966298.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 1.4 MB |
 | [dokumente/hauptquellen/taz.de_Rechtsextreme-Saechsische-Separatisten_6045443.pdf](../../dokumente/hauptquellen/taz.de_Rechtsextreme-Saechsische-Separatisten_6045443.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 1.7 MB |
 | [dokumente/hauptquellen/taz.de_Richterin-Frauke-Brosius-Gersdorf_216100622.pdf](../../dokumente/hauptquellen/taz.de_Richterin-Frauke-Brosius-Gersdorf_216100622.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 878.7 KB |
-| [dokumente/hauptquellen/taz.de_SPD-Politiker-gesteht-Schmiererei_6103730.pdf](../../dokumente/hauptquellen/taz.de_SPD-Politiker-gesteht-Schmiererei_6103730.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 775.1 KB |
+| dokumente/hauptquellen/taz.de_SPD-Politiker-gesteht-Schmiererei_6103830.pdf (nicht lokal vorhanden: `../../dokumente/hauptquellen/taz.de_SPD-Politiker-gesteht-Schmiererei_6103830.pdf`) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 775.1 KB |
 | [dokumente/hauptquellen/terror-seit-nsu.de_index.pdf](../../dokumente/hauptquellen/terror-seit-nsu.de_index.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 2.2 MB |
 | [dokumente/hauptquellen/The_Guardian_Germany_Security_Labels_AfD_Extremist.md](../../dokumente/hauptquellen/The_Guardian_Germany_Security_Labels_AfD_Extremist.md) | Hauptquelle / Dossier / Urteilsbeleg | .md | 559 B |
 | [dokumente/hauptquellen/The_Guardian_Germany_Security_Labels_AfD_Extremist.txt](../../dokumente/hauptquellen/The_Guardian_Germany_Security_Labels_AfD_Extremist.txt) | Hauptquelle / Dossier / Urteilsbeleg | .txt | 559 B |
@@ -1056,8 +1056,8 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/hauptquellen/urteilsbelege/09_Raepple_Gewaltdelikt_LG_Karlsruhe.md](../../dokumente/hauptquellen/urteilsbelege/09_Raepple_Gewaltdelikt_LG_Karlsruhe.md) | Hauptquelle / Dossier / Urteilsbeleg | .md | 646 B |
 | [dokumente/hauptquellen/urteilsbelege/09_Raepple_Gewaltdelikt_LG_Karlsruhe.txt](../../dokumente/hauptquellen/urteilsbelege/09_Raepple_Gewaltdelikt_LG_Karlsruhe.txt) | Hauptquelle / Dossier / Urteilsbeleg | .txt | 646 B |
 | [dokumente/hauptquellen/urteilsbelege/10_Beatrix_von_Storch_Volksverhetzung_Ermittlung.pdf](../../dokumente/hauptquellen/urteilsbelege/10_Beatrix_von_Storch_Volksverhetzung_Ermittlung.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 48.0 KB |
-| [dokumente/hauptquellen/urteilsbelege/10_Muenzenmeier_Hooligan_Gewalt_LG_Mainz.md](../../dokumente/hauptquellen/urteilsbelege/10_Muenzenmeier_Hooligan_Gewalt_LG_Mainz.md) | Hauptquelle / Dossier / Urteilsbeleg | .md | 637 B |
-| [dokumente/hauptquellen/urteilsbelege/10_Muenzenmeier_Hooligan_Gewalt_LG_Mainz.txt](../../dokumente/hauptquellen/urteilsbelege/10_Muenzenmeier_Hooligan_Gewalt_LG_Mainz.txt) | Hauptquelle / Dossier / Urteilsbeleg | .txt | 637 B |
+| [dokumente/hauptquellen/urteilsbelege/10_Muenzenmeier_Hooligan_Gewalt_LG_Mainz.md](../../dokumente/hauptquellen/urteilsbelege/10_Muenzenmeier_Hooligan_Gewalt_LG_Mainz.md) | Hauptquelle / Dossier / Urteilsbeleg | .md | 638 B |
+| [dokumente/hauptquellen/urteilsbelege/10_Muenzenmeier_Hooligan_Gewalt_LG_Mainz.txt](../../dokumente/hauptquellen/urteilsbelege/10_Muenzenmeier_Hooligan_Gewalt_LG_Mainz.txt) | Hauptquelle / Dossier / Urteilsbeleg | .txt | 638 B |
 | [dokumente/hauptquellen/urteilsbelege/100_11_L_87_00.md](../../dokumente/hauptquellen/urteilsbelege/100_11_L_87_00.md) | Hauptquelle / Dossier / Urteilsbeleg | .md | 1.4 KB |
 | [dokumente/hauptquellen/urteilsbelege/100_11_L_87_00.pdf](../../dokumente/hauptquellen/urteilsbelege/100_11_L_87_00.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 11.6 KB |
 | [dokumente/hauptquellen/urteilsbelege/100_11_L_87_00.txt](../../dokumente/hauptquellen/urteilsbelege/100_11_L_87_00.txt) | Hauptquelle / Dossier / Urteilsbeleg | .txt | 1.4 KB |
@@ -1178,15 +1178,15 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/hauptquellen/urteilsbelege/136_5_A_1217_22.md](../../dokumente/hauptquellen/urteilsbelege/136_5_A_1217_22.md) | Hauptquelle / Dossier / Urteilsbeleg | .md | 1.4 KB |
 | [dokumente/hauptquellen/urteilsbelege/136_5_A_1217_22.pdf](../../dokumente/hauptquellen/urteilsbelege/136_5_A_1217_22.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 11.2 KB |
 | [dokumente/hauptquellen/urteilsbelege/136_5_A_1217_22.txt](../../dokumente/hauptquellen/urteilsbelege/136_5_A_1217_22.txt) | Hauptquelle / Dossier / Urteilsbeleg | .txt | 1.4 KB |
-| [dokumente/hauptquellen/urteilsbelege/137_5_A_130_05.md](../../dokumente/hauptquellen/urteilsbelege/137_5_A_130_05.md) | Hauptquelle / Dossier / Urteilsbeleg | .md | 1.4 KB |
-| [dokumente/hauptquellen/urteilsbelege/137_5_A_130_05.pdf](../../dokumente/hauptquellen/urteilsbelege/137_5_A_130_05.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 11.5 KB |
-| [dokumente/hauptquellen/urteilsbelege/137_5_A_130_05.txt](../../dokumente/hauptquellen/urteilsbelege/137_5_A_130_05.txt) | Hauptquelle / Dossier / Urteilsbeleg | .txt | 1.4 KB |
+| dokumente/hauptquellen/urteilsbelege/138_5_A_130_05.md (nicht lokal vorhanden: `../../dokumente/hauptquellen/urteilsbelege/138_5_A_130_05.md`) | Hauptquelle / Dossier / Urteilsbeleg | .md | 1.4 KB |
+| dokumente/hauptquellen/urteilsbelege/138_5_A_130_05.pdf (nicht lokal vorhanden: `../../dokumente/hauptquellen/urteilsbelege/138_5_A_130_05.pdf`) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 11.5 KB |
+| dokumente/hauptquellen/urteilsbelege/138_5_A_130_05.txt (nicht lokal vorhanden: `../../dokumente/hauptquellen/urteilsbelege/138_5_A_130_05.txt`) | Hauptquelle / Dossier / Urteilsbeleg | .txt | 1.4 KB |
 | [dokumente/hauptquellen/urteilsbelege/138_5_A_203_08.md](../../dokumente/hauptquellen/urteilsbelege/138_5_A_203_08.md) | Hauptquelle / Dossier / Urteilsbeleg | .md | 1.4 KB |
 | [dokumente/hauptquellen/urteilsbelege/138_5_A_203_08.pdf](../../dokumente/hauptquellen/urteilsbelege/138_5_A_203_08.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 11.5 KB |
 | [dokumente/hauptquellen/urteilsbelege/138_5_A_203_08.txt](../../dokumente/hauptquellen/urteilsbelege/138_5_A_203_08.txt) | Hauptquelle / Dossier / Urteilsbeleg | .txt | 1.4 KB |
-| [dokumente/hauptquellen/urteilsbelege/139_5_A_837_11.md](../../dokumente/hauptquellen/urteilsbelege/139_5_A_837_11.md) | Hauptquelle / Dossier / Urteilsbeleg | .md | 1.4 KB |
-| [dokumente/hauptquellen/urteilsbelege/139_5_A_837_11.pdf](../../dokumente/hauptquellen/urteilsbelege/139_5_A_837_11.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 11.3 KB |
-| [dokumente/hauptquellen/urteilsbelege/139_5_A_837_11.txt](../../dokumente/hauptquellen/urteilsbelege/139_5_A_837_11.txt) | Hauptquelle / Dossier / Urteilsbeleg | .txt | 1.4 KB |
+| dokumente/hauptquellen/urteilsbelege/139_5_A_838_11.md (nicht lokal vorhanden: `../../dokumente/hauptquellen/urteilsbelege/139_5_A_838_11.md`) | Hauptquelle / Dossier / Urteilsbeleg | .md | 1.4 KB |
+| dokumente/hauptquellen/urteilsbelege/139_5_A_838_11.pdf (nicht lokal vorhanden: `../../dokumente/hauptquellen/urteilsbelege/139_5_A_838_11.pdf`) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 11.3 KB |
+| dokumente/hauptquellen/urteilsbelege/139_5_A_838_11.txt (nicht lokal vorhanden: `../../dokumente/hauptquellen/urteilsbelege/139_5_A_838_11.txt`) | Hauptquelle / Dossier / Urteilsbeleg | .txt | 1.4 KB |
 | [dokumente/hauptquellen/urteilsbelege/14_Petry_Betrug_LG_Leipzig.md](../../dokumente/hauptquellen/urteilsbelege/14_Petry_Betrug_LG_Leipzig.md) | Hauptquelle / Dossier / Urteilsbeleg | .md | 617 B |
 | [dokumente/hauptquellen/urteilsbelege/14_Petry_Betrug_LG_Leipzig.txt](../../dokumente/hauptquellen/urteilsbelege/14_Petry_Betrug_LG_Leipzig.txt) | Hauptquelle / Dossier / Urteilsbeleg | .txt | 617 B |
 | [dokumente/hauptquellen/urteilsbelege/14_Thomas_Suchka_Volksverhetzung_AG_Ebersberg.pdf](../../dokumente/hauptquellen/urteilsbelege/14_Thomas_Suchka_Volksverhetzung_AG_Ebersberg.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 191.3 KB |
@@ -1202,9 +1202,9 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/hauptquellen/urteilsbelege/143_6_C_22_09.md](../../dokumente/hauptquellen/urteilsbelege/143_6_C_22_09.md) | Hauptquelle / Dossier / Urteilsbeleg | .md | 1.4 KB |
 | [dokumente/hauptquellen/urteilsbelege/143_6_C_22_09.pdf](../../dokumente/hauptquellen/urteilsbelege/143_6_C_22_09.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 11.5 KB |
 | [dokumente/hauptquellen/urteilsbelege/143_6_C_22_09.txt](../../dokumente/hauptquellen/urteilsbelege/143_6_C_22_09.txt) | Hauptquelle / Dossier / Urteilsbeleg | .txt | 1.4 KB |
-| [dokumente/hauptquellen/urteilsbelege/144_6_L_1337_20.md](../../dokumente/hauptquellen/urteilsbelege/144_6_L_1337_20.md) | Hauptquelle / Dossier / Urteilsbeleg | .md | 1.4 KB |
-| [dokumente/hauptquellen/urteilsbelege/144_6_L_1337_20.pdf](../../dokumente/hauptquellen/urteilsbelege/144_6_L_1337_20.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 11.3 KB |
-| [dokumente/hauptquellen/urteilsbelege/144_6_L_1337_20.txt](../../dokumente/hauptquellen/urteilsbelege/144_6_L_1337_20.txt) | Hauptquelle / Dossier / Urteilsbeleg | .txt | 1.4 KB |
+| dokumente/hauptquellen/urteilsbelege/144_6_L_1338_20.md (nicht lokal vorhanden: `../../dokumente/hauptquellen/urteilsbelege/144_6_L_1338_20.md`) | Hauptquelle / Dossier / Urteilsbeleg | .md | 1.4 KB |
+| dokumente/hauptquellen/urteilsbelege/144_6_L_1338_20.pdf (nicht lokal vorhanden: `../../dokumente/hauptquellen/urteilsbelege/144_6_L_1338_20.pdf`) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 11.3 KB |
+| dokumente/hauptquellen/urteilsbelege/144_6_L_1338_20.txt (nicht lokal vorhanden: `../../dokumente/hauptquellen/urteilsbelege/144_6_L_1338_20.txt`) | Hauptquelle / Dossier / Urteilsbeleg | .txt | 1.4 KB |
 | [dokumente/hauptquellen/urteilsbelege/145_6_L_20_24.md](../../dokumente/hauptquellen/urteilsbelege/145_6_L_20_24.md) | Hauptquelle / Dossier / Urteilsbeleg | .md | 1.4 KB |
 | [dokumente/hauptquellen/urteilsbelege/145_6_L_20_24.pdf](../../dokumente/hauptquellen/urteilsbelege/145_6_L_20_24.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 11.8 KB |
 | [dokumente/hauptquellen/urteilsbelege/145_6_L_20_24.txt](../../dokumente/hauptquellen/urteilsbelege/145_6_L_20_24.txt) | Hauptquelle / Dossier / Urteilsbeleg | .txt | 1.4 KB |
@@ -1508,9 +1508,9 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/hauptquellen/urteilsbelege/236_ZUERST_Ausgabe_06_2022.md](../../dokumente/hauptquellen/urteilsbelege/236_ZUERST_Ausgabe_06_2022.md) | Hauptquelle / Dossier / Urteilsbeleg | .md | 1.4 KB |
 | [dokumente/hauptquellen/urteilsbelege/236_ZUERST_Ausgabe_06_2022.pdf](../../dokumente/hauptquellen/urteilsbelege/236_ZUERST_Ausgabe_06_2022.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 11.6 KB |
 | [dokumente/hauptquellen/urteilsbelege/236_ZUERST_Ausgabe_06_2022.txt](../../dokumente/hauptquellen/urteilsbelege/236_ZUERST_Ausgabe_06_2022.txt) | Hauptquelle / Dossier / Urteilsbeleg | .txt | 1.4 KB |
-| [dokumente/hauptquellen/urteilsbelege/237_ZUERST_Ausgabe_11_2022.md](../../dokumente/hauptquellen/urteilsbelege/237_ZUERST_Ausgabe_11_2022.md) | Hauptquelle / Dossier / Urteilsbeleg | .md | 1.4 KB |
-| [dokumente/hauptquellen/urteilsbelege/237_ZUERST_Ausgabe_11_2022.pdf](../../dokumente/hauptquellen/urteilsbelege/237_ZUERST_Ausgabe_11_2022.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 11.4 KB |
-| [dokumente/hauptquellen/urteilsbelege/237_ZUERST_Ausgabe_11_2022.txt](../../dokumente/hauptquellen/urteilsbelege/237_ZUERST_Ausgabe_11_2022.txt) | Hauptquelle / Dossier / Urteilsbeleg | .txt | 1.4 KB |
+| dokumente/hauptquellen/urteilsbelege/238_ZUERST_Ausgabe_11_2022.md (nicht lokal vorhanden: `../../dokumente/hauptquellen/urteilsbelege/238_ZUERST_Ausgabe_11_2022.md`) | Hauptquelle / Dossier / Urteilsbeleg | .md | 1.4 KB |
+| dokumente/hauptquellen/urteilsbelege/238_ZUERST_Ausgabe_11_2022.pdf (nicht lokal vorhanden: `../../dokumente/hauptquellen/urteilsbelege/238_ZUERST_Ausgabe_11_2022.pdf`) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 11.4 KB |
+| dokumente/hauptquellen/urteilsbelege/238_ZUERST_Ausgabe_11_2022.txt (nicht lokal vorhanden: `../../dokumente/hauptquellen/urteilsbelege/238_ZUERST_Ausgabe_11_2022.txt`) | Hauptquelle / Dossier / Urteilsbeleg | .txt | 1.4 KB |
 | [dokumente/hauptquellen/urteilsbelege/238_ZUERSTI_Ausgabe_04_2023.md](../../dokumente/hauptquellen/urteilsbelege/238_ZUERSTI_Ausgabe_04_2023.md) | Hauptquelle / Dossier / Urteilsbeleg | .md | 1.4 KB |
 | [dokumente/hauptquellen/urteilsbelege/238_ZUERSTI_Ausgabe_04_2023.pdf](../../dokumente/hauptquellen/urteilsbelege/238_ZUERSTI_Ausgabe_04_2023.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 11.2 KB |
 | [dokumente/hauptquellen/urteilsbelege/238_ZUERSTI_Ausgabe_04_2023.txt](../../dokumente/hauptquellen/urteilsbelege/238_ZUERSTI_Ausgabe_04_2023.txt) | Hauptquelle / Dossier / Urteilsbeleg | .txt | 1.4 KB |
@@ -1584,9 +1584,9 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/hauptquellen/urteilsbelege/36_Birgit_Malsack_Winkemann_Reichsbuerger_BGH.md](../../dokumente/hauptquellen/urteilsbelege/36_Birgit_Malsack_Winkemann_Reichsbuerger_BGH.md) | Hauptquelle / Dossier / Urteilsbeleg | .md | 1.6 KB |
 | [dokumente/hauptquellen/urteilsbelege/36_Birgit_Malsack_Winkemann_Reichsbuerger_BGH.txt](../../dokumente/hauptquellen/urteilsbelege/36_Birgit_Malsack_Winkemann_Reichsbuerger_BGH.txt) | Hauptquelle / Dossier / Urteilsbeleg | .txt | 1.6 KB |
 | [dokumente/hauptquellen/urteilsbelege/36_Ziegler_Betrug_AG_Dessau.pdf](../../dokumente/hauptquellen/urteilsbelege/36_Ziegler_Betrug_AG_Dessau.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 48.0 KB |
-| [dokumente/hauptquellen/urteilsbelege/37_Jessica_Biessmann_Hitlerwein_AG_Tiergarten.md](../../dokumente/hauptquellen/urteilsbelege/37_Jessica_Biessmann_Hitlerwein_AG_Tiergarten.md) | Hauptquelle / Dossier / Urteilsbeleg | .md | 1016 B |
-| [dokumente/hauptquellen/urteilsbelege/37_Jessica_Biessmann_Hitlerwein_AG_Tiergarten.txt](../../dokumente/hauptquellen/urteilsbelege/37_Jessica_Biessmann_Hitlerwein_AG_Tiergarten.txt) | Hauptquelle / Dossier / Urteilsbeleg | .txt | 1016 B |
-| [dokumente/hauptquellen/urteilsbelege/37_Petry_Betrug_LG_Leipzig.pdf](../../dokumente/hauptquellen/urteilsbelege/37_Petry_Betrug_LG_Leipzig.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 544.4 KB |
+| dokumente/hauptquellen/urteilsbelege/38_Jessica_Biessmann_Hitlerwein_AG_Tiergarten.md (nicht lokal vorhanden: `../../dokumente/hauptquellen/urteilsbelege/38_Jessica_Biessmann_Hitlerwein_AG_Tiergarten.md`) | Hauptquelle / Dossier / Urteilsbeleg | .md | 1016 B |
+| dokumente/hauptquellen/urteilsbelege/38_Jessica_Biessmann_Hitlerwein_AG_Tiergarten.txt (nicht lokal vorhanden: `../../dokumente/hauptquellen/urteilsbelege/38_Jessica_Biessmann_Hitlerwein_AG_Tiergarten.txt`) | Hauptquelle / Dossier / Urteilsbeleg | .txt | 1016 B |
+| dokumente/hauptquellen/urteilsbelege/38_Petry_Betrug_LG_Leipzig.pdf (nicht lokal vorhanden: `../../dokumente/hauptquellen/urteilsbelege/38_Petry_Betrug_LG_Leipzig.pdf`) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 544.4 KB |
 | [dokumente/hauptquellen/urteilsbelege/38_Carsten_Haerle_Volksverhetzung_AG_Offenbach.md](../../dokumente/hauptquellen/urteilsbelege/38_Carsten_Haerle_Volksverhetzung_AG_Offenbach.md) | Hauptquelle / Dossier / Urteilsbeleg | .md | 835 B |
 | [dokumente/hauptquellen/urteilsbelege/38_Carsten_Haerle_Volksverhetzung_AG_Offenbach.txt](../../dokumente/hauptquellen/urteilsbelege/38_Carsten_Haerle_Volksverhetzung_AG_Offenbach.txt) | Hauptquelle / Dossier / Urteilsbeleg | .txt | 835 B |
 | [dokumente/hauptquellen/urteilsbelege/38_Halemba_Geldwaesche_LG_Wuerzburg.pdf](../../dokumente/hauptquellen/urteilsbelege/38_Halemba_Geldwaesche_LG_Wuerzburg.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 560.9 KB |
@@ -1821,7 +1821,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/hauptquellen/welt.de_politik_deutschland_article256418386_AfD-Verbot-Das-waere-der-sichere-Weg-in-den-Buergerkrieg-warnt-.pdf](../../dokumente/hauptquellen/welt.de_politik_deutschland_article256418386_AfD-Verbot-Das-waere-der-sichere-Weg-in-den-Buergerkrieg-warnt-.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 59.8 KB |
 | [dokumente/hauptquellen/welt.de_politik_deutschland_article687b441e3e67c8722e9b505c_allensbach-umfrage-mehrheit-der-bundesbuerger-le.pdf](../../dokumente/hauptquellen/welt.de_politik_deutschland_article687b441e3e67c8722e9b505c_allensbach-umfrage-mehrheit-der-bundesbuerger-le.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 50.8 KB |
 | [dokumente/hauptquellen/welt.de_politik_deutschland_article68b1aba9adc6ba5d53cb0e73_parteiengesetz-afd-musste-mehr-als-eine-million-.pdf](../../dokumente/hauptquellen/welt.de_politik_deutschland_article68b1aba9adc6ba5d53cb0e73_parteiengesetz-afd-musste-mehr-als-eine-million-.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 561.5 KB |
-| [dokumente/hauptquellen/welt.de_politik_deutschland_video687a3b6c554a3718a6c1e96a_debatte-um-afd-verbot-das-waere-der-sichere-weg-in.pdf](../../dokumente/hauptquellen/welt.de_politik_deutschland_video687a3b6c554a3718a6c1e96a_debatte-um-afd-verbot-das-waere-der-sichere-weg-in.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 51.9 KB |
+| dokumente/hauptquellen/welt.de_politik_deutschland_video687a3b6c554a3818a6c1e96a_debatte-um-afd-verbot-das-waere-der-sichere-weg-in.pdf (nicht lokal vorhanden: `../../dokumente/hauptquellen/welt.de_politik_deutschland_video687a3b6c554a3818a6c1e96a_debatte-um-afd-verbot-das-waere-der-sichere-weg-in.pdf`) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 51.9 KB |
 | [dokumente/hauptquellen/welt.de_regionales_bayern_article242365821_Dienstgeheimnisse-verraten-Geldstrafe-fuer-Abgeordneten_html.pdf](../../dokumente/hauptquellen/welt.de_regionales_bayern_article242365821_Dienstgeheimnisse-verraten-Geldstrafe-fuer-Abgeordneten_html.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 59.8 KB |
 | [dokumente/hauptquellen/welt.de_regionales_bayern_article246976734_AfD-Politiker-Jaeger-wegen-Volksverhetzung-verurteilt_html.pdf](../../dokumente/hauptquellen/welt.de_regionales_bayern_article246976734_AfD-Politiker-Jaeger-wegen-Volksverhetzung-verurteilt_html.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 60.5 KB |
 | [dokumente/hauptquellen/welt.de_regionales_berlin_article187116936_AfD-Andreas-Kalbitz-sieht-Verfassungsschutz-politisch-motiviert_h.pdf](../../dokumente/hauptquellen/welt.de_regionales_berlin_article187116936_AfD-Andreas-Kalbitz-sieht-Verfassungsschutz-politisch-motiviert_h.pdf) | Hauptquelle / Dossier / Urteilsbeleg | .pdf | 84.1 KB |
@@ -2012,9 +2012,9 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/ki_markdown/dokumente/hauptquellen/BT_Plenarprotokoll_20_203_Verfassungsschutz_Anhoerung__pages_51_to_100.md](../../dokumente/ki_markdown/dokumente/hauptquellen/BT_Plenarprotokoll_20_203_Verfassungsschutz_Anhoerung__pages_51_to_100.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 362.5 KB |
 | [dokumente/ki_markdown/dokumente/hauptquellen/BT_Plenarprotokoll_20_203_Verfassungsschutz_Anhoerung.md](../../dokumente/ki_markdown/dokumente/hauptquellen/BT_Plenarprotokoll_20_203_Verfassungsschutz_Anhoerung.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 1.8 MB |
 | [dokumente/ki_markdown/dokumente/hauptquellen/bundesgerichtshof.de_index.md](../../dokumente/ki_markdown/dokumente/hauptquellen/bundesgerichtshof.de_index.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.1 KB |
-| [dokumente/ki_markdown/dokumente/hauptquellen/Bundestag__Missbraucht_die_AfD_die_Kleinen_Anfragen__Eine_Datenanalyse_-_SZ.de.md](../../dokumente/ki_markdown/dokumente/hauptquellen/Bundestag__Missbraucht_die_AfD_die_Kleinen_Anfragen__Eine_Datenanalyse_-_SZ.de.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 37.0 KB |
+| [dokumente/ki_markdown/dokumente/hauptquellen/Bundestag__Missbraucht_die_AfD_die_Kleinen_Anfragen__Eine_Datenanalyse_-_SZ.de.md](../../dokumente/ki_markdown/dokumente/hauptquellen/Bundestag__Missbraucht_die_AfD_die_Kleinen_Anfragen__Eine_Datenanalyse_-_SZ.de.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 38.0 KB |
 | [dokumente/ki_markdown/dokumente/hauptquellen/Bundestag_hebt_Immunität_von_AfD-Politiker_Krah_auf___tagesschau.de.md](../../dokumente/ki_markdown/dokumente/hauptquellen/Bundestag_hebt_Immunit%C3%A4t_von_AfD-Politiker_Krah_auf___tagesschau.de.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 958 B |
-| [dokumente/ki_markdown/dokumente/hauptquellen/bundestag.de_abgeordnete_biografien_B_brandner_stephan-1043798.md](../../dokumente/ki_markdown/dokumente/hauptquellen/bundestag.de_abgeordnete_biografien_B_brandner_stephan-1043798.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 1.1 KB |
+| dokumente/ki_markdown/dokumente/hauptquellen/bundestag.de_abgeordnete_biografien_B_brandner_stephan-1043898.md (nicht lokal vorhanden: `../../dokumente/ki_markdown/dokumente/hauptquellen/bundestag.de_abgeordnete_biografien_B_brandner_stephan-1043898.md`) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 1.1 KB |
 | [dokumente/ki_markdown/dokumente/hauptquellen/bundestag.de_abgeordnete_biografien_M_muenzenmaier_sebastian-1046268.md](../../dokumente/ki_markdown/dokumente/hauptquellen/bundestag.de_abgeordnete_biografien_M_muenzenmaier_sebastian-1046268.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 1.0 KB |
 | [dokumente/ki_markdown/dokumente/hauptquellen/bundestag.de_abgeordnete_biografien_Z_ziegler_kay-1049402.md](../../dokumente/ki_markdown/dokumente/hauptquellen/bundestag.de_abgeordnete_biografien_Z_ziegler_kay-1049402.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 910 B |
 | [dokumente/ki_markdown/dokumente/hauptquellen/bundestag.de_dokumente_textarchiv_2024_kw51-de-aktuelle-stunde-praesidenten-verfassungsschutzaemter-1034944.md](../../dokumente/ki_markdown/dokumente/hauptquellen/bundestag.de_dokumente_textarchiv_2024_kw51-de-aktuelle-stunde-praesidenten-verfassungsschutzaemter-1034944.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 6.2 KB |
@@ -2120,7 +2120,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/ki_markdown/dokumente/hauptquellen/fallrecht.de_bv005085_html__pages_51_to_100.md](../../dokumente/ki_markdown/dokumente/hauptquellen/fallrecht.de_bv005085_html__pages_51_to_100.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 313.1 KB |
 | [dokumente/ki_markdown/dokumente/hauptquellen/fallrecht.de_bv005085_html.md](../../dokumente/ki_markdown/dokumente/hauptquellen/fallrecht.de_bv005085_html.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 724.7 KB |
 | [dokumente/ki_markdown/dokumente/hauptquellen/faz.net_aktuell_politik_thema_andre-poggenburg.md](../../dokumente/ki_markdown/dokumente/hauptquellen/faz.net_aktuell_politik_thema_andre-poggenburg.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.4 KB |
-| [dokumente/ki_markdown/dokumente/hauptquellen/federalregister.gov_documents_2020_10_26_2020-23780_creating-schedule-f-in-the-excepted-service.md](../../dokumente/ki_markdown/dokumente/hauptquellen/federalregister.gov_documents_2020_10_26_2020-23780_creating-schedule-f-in-the-excepted-service.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 18.4 KB |
+| dokumente/ki_markdown/dokumente/hauptquellen/federalregister.gov_documents_2020_10_26_2020-23880_creating-schedule-f-in-the-excepted-service.md (nicht lokal vorhanden: `../../dokumente/ki_markdown/dokumente/hauptquellen/federalregister.gov_documents_2020_10_26_2020-23880_creating-schedule-f-in-the-excepted-service.md`) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 18.4 KB |
 | [dokumente/ki_markdown/dokumente/hauptquellen/focus.de_politik_deutschland_augsburg-mitarbeiter-von-afd-mann-jurca-wegen-vergewaltigung-verurteilt_id_25958.md](../../dokumente/ki_markdown/dokumente/hauptquellen/focus.de_politik_deutschland_augsburg-mitarbeiter-von-afd-mann-jurca-wegen-vergewaltigung-verurteilt_id_25958.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.3 KB |
 | [dokumente/ki_markdown/dokumente/hauptquellen/Foitzik.md](../../dokumente/ki_markdown/dokumente/hauptquellen/Foitzik.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 16 B |
 | [dokumente/ki_markdown/dokumente/hauptquellen/Fotografen der Identitären Bewegung_ Ins rechte Licht gerückt _ taz.de.md](../../dokumente/ki_markdown/dokumente/hauptquellen/Fotografen%20der%20Identit%C3%A4ren%20Bewegung_%20Ins%20rechte%20Licht%20ger%C3%BCckt%20_%20taz.de.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 12.0 KB |
@@ -2133,7 +2133,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/ki_markdown/dokumente/hauptquellen/gesetze-im-internet.de_bverfgg_43_html.md](../../dokumente/ki_markdown/dokumente/hauptquellen/gesetze-im-internet.de_bverfgg_43_html.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 1.1 KB |
 | [dokumente/ki_markdown/dokumente/hauptquellen/gesetze-im-internet.de_gg_art_21_html.md](../../dokumente/ki_markdown/dokumente/hauptquellen/gesetze-im-internet.de_gg_art_21_html.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 1.6 KB |
 | [dokumente/ki_markdown/dokumente/hauptquellen/Gewalt als Alternative_ 14 verurteilte AfD-Mandatsträger im Amt.md](../../dokumente/ki_markdown/dokumente/hauptquellen/Gewalt%20als%20Alternative_%2014%20verurteilte%20AfD-Mandatstr%C3%A4ger%20im%20Amt.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 31.2 KB |
-| [dokumente/ki_markdown/dokumente/hauptquellen/GPA_Erblehre_1937.md](../../dokumente/ki_markdown/dokumente/hauptquellen/GPA_Erblehre_1937.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 1.9 KB |
+| dokumente/ki_markdown/dokumente/hauptquellen/GPA_Erblehre_1938.md (nicht lokal vorhanden: `../../dokumente/ki_markdown/dokumente/hauptquellen/GPA_Erblehre_1938.md`) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 1.9 KB |
 | [dokumente/ki_markdown/dokumente/hauptquellen/grokipedia.com_page_Socialist_Reich_Party.md](../../dokumente/ki_markdown/dokumente/hauptquellen/grokipedia.com_page_Socialist_Reich_Party.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 41.9 KB |
 | [dokumente/ki_markdown/dokumente/hauptquellen/gruende für ein afd verbotsverfahren.md](../../dokumente/ki_markdown/dokumente/hauptquellen/gruende%20f%C3%BCr%20ein%20afd%20verbotsverfahren.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 3.4 KB |
 | [dokumente/ki_markdown/dokumente/hauptquellen/gruene-bundestag.de_unsere-politik_fachtexte_einstufung-der-afd-und-moegliches-verbotsverfahren.md](../../dokumente/ki_markdown/dokumente/hauptquellen/gruene-bundestag.de_unsere-politik_fachtexte_einstufung-der-afd-und-moegliches-verbotsverfahren.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 8.7 KB |
@@ -2181,7 +2181,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/ki_markdown/dokumente/hauptquellen/landeswahlprogramme/07_Hessen_Wahlprogramm.md](../../dokumente/ki_markdown/dokumente/hauptquellen/landeswahlprogramme/07_Hessen_Wahlprogramm.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 545 B |
 | [dokumente/ki_markdown/dokumente/hauptquellen/landeswahlprogramme/08_Mecklenburg_Vorpommern_Wahlprogramm.md](../../dokumente/ki_markdown/dokumente/hauptquellen/landeswahlprogramme/08_Mecklenburg_Vorpommern_Wahlprogramm.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 531 B |
 | [dokumente/ki_markdown/dokumente/hauptquellen/landeswahlprogramme/09_Niedersachsen_Wahlprogramm.md](../../dokumente/ki_markdown/dokumente/hauptquellen/landeswahlprogramme/09_Niedersachsen_Wahlprogramm.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 520 B |
-| [dokumente/ki_markdown/dokumente/hauptquellen/landeswahlprogramme/10_Nordrhein_Westfalen_Wahlprogramm.md](../../dokumente/ki_markdown/dokumente/hauptquellen/landeswahlprogramme/10_Nordrhein_Westfalen_Wahlprogramm.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 537 B |
+| [dokumente/ki_markdown/dokumente/hauptquellen/landeswahlprogramme/10_Nordrhein_Westfalen_Wahlprogramm.md](../../dokumente/ki_markdown/dokumente/hauptquellen/landeswahlprogramme/10_Nordrhein_Westfalen_Wahlprogramm.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 538 B |
 | [dokumente/ki_markdown/dokumente/hauptquellen/landeswahlprogramme/11_Rheinland_Pfalz_Wahlprogramm__pages_1_to_50.md](../../dokumente/ki_markdown/dokumente/hauptquellen/landeswahlprogramme/11_Rheinland_Pfalz_Wahlprogramm__pages_1_to_50.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 52.2 KB |
 | [dokumente/ki_markdown/dokumente/hauptquellen/landeswahlprogramme/11_Rheinland_Pfalz_Wahlprogramm__pages_101_to_150.md](../../dokumente/ki_markdown/dokumente/hauptquellen/landeswahlprogramme/11_Rheinland_Pfalz_Wahlprogramm__pages_101_to_150.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 53.1 KB |
 | [dokumente/ki_markdown/dokumente/hauptquellen/landeswahlprogramme/11_Rheinland_Pfalz_Wahlprogramm__pages_151_to_200.md](../../dokumente/ki_markdown/dokumente/hauptquellen/landeswahlprogramme/11_Rheinland_Pfalz_Wahlprogramm__pages_151_to_200.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 42.7 KB |
@@ -2288,19 +2288,19 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/ki_markdown/dokumente/hauptquellen/spiegel.de_politik_deutschland_roedder-afd-verbot-buergerkrieg-a-1234567_html.md](../../dokumente/ki_markdown/dokumente/hauptquellen/spiegel.de_politik_deutschland_roedder-afd-verbot-buergerkrieg-a-1234567_html.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.0 KB |
 | [dokumente/ki_markdown/dokumente/hauptquellen/spiegel.de_politik_deutschland_thomas-kemmerich-schliesst-sich-nach-fdp-austritt-frauke-petry-und-ihrem-verein-.md](../../dokumente/ki_markdown/dokumente/hauptquellen/spiegel.de_politik_deutschland_thomas-kemmerich-schliesst-sich-nach-fdp-austritt-frauke-petry-und-ihrem-verein-.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.1 KB |
 | [dokumente/ki_markdown/dokumente/hauptquellen/spiegel.de_politik_deutschland_thueringen-verfassungsgericht-entscheidung-zur-konstituierung-des-landtags-a-f12.md](../../dokumente/ki_markdown/dokumente/hauptquellen/spiegel.de_politik_deutschland_thueringen-verfassungsgericht-entscheidung-zur-konstituierung-des-landtags-a-f12.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.0 KB |
-| [dokumente/ki_markdown/dokumente/hauptquellen/spiegel.de_politik_deutschland_wiebke-muhsal-afd-abgeordnete-wegen-betrugs-rechtskraeftig-verurteilt-a-1244837_.md](../../dokumente/ki_markdown/dokumente/hauptquellen/spiegel.de_politik_deutschland_wiebke-muhsal-afd-abgeordnete-wegen-betrugs-rechtskraeftig-verurteilt-a-1244837_.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.0 KB |
-| [dokumente/ki_markdown/dokumente/hauptquellen/spiegel.de_spiegel_doris-von-sayn-wittgenstein-wie-kam-die-afd-frau-zu-ihrem-namen-a-1182372_html.md](../../dokumente/ki_markdown/dokumente/hauptquellen/spiegel.de_spiegel_doris-von-sayn-wittgenstein-wie-kam-die-afd-frau-zu-ihrem-namen-a-1182372_html.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 3.9 KB |
+| dokumente/ki_markdown/dokumente/hauptquellen/spiegel.de_politik_deutschland_wiebke-muhsal-afd-abgeordnete-wegen-betrugs-rechtskraeftig-verurteilt-a-1244838_.md (nicht lokal vorhanden: `../../dokumente/ki_markdown/dokumente/hauptquellen/spiegel.de_politik_deutschland_wiebke-muhsal-afd-abgeordnete-wegen-betrugs-rechtskraeftig-verurteilt-a-1244838_.md`) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.0 KB |
+| dokumente/ki_markdown/dokumente/hauptquellen/spiegel.de_spiegel_doris-von-sayn-wittgenstein-wie-kam-die-afd-frau-zu-ihrem-namen-a-1182382_html.md (nicht lokal vorhanden: `../../dokumente/ki_markdown/dokumente/hauptquellen/spiegel.de_spiegel_doris-von-sayn-wittgenstein-wie-kam-die-afd-frau-zu-ihrem-namen-a-1182382_html.md`) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 3.9 KB |
 | [dokumente/ki_markdown/dokumente/hauptquellen/spiegel.de_thema_andreas-kalbitz.md](../../dokumente/ki_markdown/dokumente/hauptquellen/spiegel.de_thema_andreas-kalbitz.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.5 KB |
 | [dokumente/ki_markdown/dokumente/hauptquellen/spiegel.de_thema_frauke_petry.md](../../dokumente/ki_markdown/dokumente/hauptquellen/spiegel.de_thema_frauke_petry.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.8 KB |
 | [dokumente/ki_markdown/dokumente/hauptquellen/Sportschützen und die AfD_ Schüsse von rechts _ taz.de.md](../../dokumente/ki_markdown/dokumente/hauptquellen/Sportsch%C3%BCtzen%20und%20die%20AfD_%20Sch%C3%BCsse%20von%20rechts%20_%20taz.de.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 9.7 KB |
-| [dokumente/ki_markdown/dokumente/hauptquellen/stern.de_politik_deutschland_afd-verbot--gutachten-von-experten-sieht-gute-chancen-37601426_html.md](../../dokumente/ki_markdown/dokumente/hauptquellen/stern.de_politik_deutschland_afd-verbot--gutachten-von-experten-sieht-gute-chancen-37601426_html.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 2.1 KB |
+| dokumente/ki_markdown/dokumente/hauptquellen/stern.de_politik_deutschland_afd-verbot--gutachten-von-experten-sieht-gute-chancen-38601426_html.md (nicht lokal vorhanden: `../../dokumente/ki_markdown/dokumente/hauptquellen/stern.de_politik_deutschland_afd-verbot--gutachten-von-experten-sieht-gute-chancen-38601426_html.md`) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 2.1 KB |
 | [dokumente/ki_markdown/dokumente/hauptquellen/stern.de_politik_deutschland_wegen--hitler-wein--fotos--afd-schliesst-abgeordnete-biessmann-aus--8436260_html.md](../../dokumente/ki_markdown/dokumente/hauptquellen/stern.de_politik_deutschland_wegen--hitler-wein--fotos--afd-schliesst-abgeordnete-biessmann-aus--8436260_html.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.1 KB |
 | [dokumente/ki_markdown/dokumente/hauptquellen/Streit in der AfD_ Wie völkisch darf's denn sein_.md](../../dokumente/ki_markdown/dokumente/hauptquellen/Streit%20in%20der%20AfD_%20Wie%20v%C3%B6lkisch%20darf's%20denn%20sein_.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 28.8 KB |
 | [dokumente/ki_markdown/dokumente/hauptquellen/Streit um AfD-Parteizentrale in Berlin_ Vermieter kündigt, AfD will einfach bleiben - SZ.de.md](../../dokumente/ki_markdown/dokumente/hauptquellen/Streit%20um%20AfD-Parteizentrale%20in%20Berlin_%20Vermieter%20k%C3%BCndigt,%20AfD%20will%20einfach%20bleiben%20-%20SZ.de.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 48.9 KB |
 | [dokumente/ki_markdown/dokumente/hauptquellen/stuttgarter-nachrichten.de_inhalt_strafprozess-gegen-ex-landtagsabgeordneten-geldstrafe-fuer-heinrich-fiechtner_df83e2c3-4d43-4.md](../../dokumente/ki_markdown/dokumente/hauptquellen/stuttgarter-nachrichten.de_inhalt_strafprozess-gegen-ex-landtagsabgeordneten-geldstrafe-fuer-heinrich-fiechtner_df83e2c3-4d43-4.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 617 B |
 | [dokumente/ki_markdown/dokumente/hauptquellen/stuttgarter-zeitung.de_inhalt_afd-in-baden-wuerttemberg-partei-schliesst-abgeordneten-stefan-raepple-aus_89031315-9b3e-45fd.md](../../dokumente/ki_markdown/dokumente/hauptquellen/stuttgarter-zeitung.de_inhalt_afd-in-baden-wuerttemberg-partei-schliesst-abgeordneten-stefan-raepple-aus_89031315-9b3e-45fd.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 1.2 KB |
 | [dokumente/ki_markdown/dokumente/hauptquellen/stuttgarter-zeitung.de_inhalt_strafprozess-gegen-ex-landtagsabgeordneten-geldstrafe-fuer-heinrich-fiechtner_df83e2c3-4d43-4.md](../../dokumente/ki_markdown/dokumente/hauptquellen/stuttgarter-zeitung.de_inhalt_strafprozess-gegen-ex-landtagsabgeordneten-geldstrafe-fuer-heinrich-fiechtner_df83e2c3-4d43-4.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 1003 B |
-| [dokumente/ki_markdown/dokumente/hauptquellen/sueddeutsche.de_bayern_halemba-urteil-afd-gericht-prozess-geldwaesche-urteil-richterin-li_3376279.md](../../dokumente/ki_markdown/dokumente/hauptquellen/sueddeutsche.de_bayern_halemba-urteil-afd-gericht-prozess-geldwaesche-urteil-richterin-li_3376279.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 3.3 KB |
+| dokumente/ki_markdown/dokumente/hauptquellen/sueddeutsche.de_bayern_halemba-urteil-afd-gericht-prozess-geldwaesche-urteil-richterin-li_3386279.md (nicht lokal vorhanden: `../../dokumente/ki_markdown/dokumente/hauptquellen/sueddeutsche.de_bayern_halemba-urteil-afd-gericht-prozess-geldwaesche-urteil-richterin-li_3386279.md`) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 3.3 KB |
 | [dokumente/ki_markdown/dokumente/hauptquellen/sueddeutsche.de_muenchen_ebersberg_ebersberg-afd-kreisrat-thomas-suchka-volksverhetzung-geldstrafe-1_5542198.md](../../dokumente/ki_markdown/dokumente/hauptquellen/sueddeutsche.de_muenchen_ebersberg_ebersberg-afd-kreisrat-thomas-suchka-volksverhetzung-geldstrafe-1_5542198.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.2 KB |
 | [dokumente/ki_markdown/dokumente/hauptquellen/sueddeutsche.de_panorama_marla-svenja-liebich-rechtsextremismus-flucht-fahndung-li_3341139.md](../../dokumente/ki_markdown/dokumente/hauptquellen/sueddeutsche.de_panorama_marla-svenja-liebich-rechtsextremismus-flucht-fahndung-li_3341139.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.1 KB |
 | [dokumente/ki_markdown/dokumente/hauptquellen/sueddeutsche.de_politik_beamtenstatus-rechtsextremismus-deutschland-afd-dienst-li_3287514.md](../../dokumente/ki_markdown/dokumente/hauptquellen/sueddeutsche.de_politik_beamtenstatus-rechtsextremismus-deutschland-afd-dienst-li_3287514.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 3.4 KB |
@@ -2353,7 +2353,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/ki_markdown/dokumente/hauptquellen/taz.de_Rechte-Hetze-gegen-Journalisten_5966298.md](../../dokumente/ki_markdown/dokumente/hauptquellen/taz.de_Rechte-Hetze-gegen-Journalisten_5966298.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 20.8 KB |
 | [dokumente/ki_markdown/dokumente/hauptquellen/taz.de_Rechtsextreme-Saechsische-Separatisten_6045443.md](../../dokumente/ki_markdown/dokumente/hauptquellen/taz.de_Rechtsextreme-Saechsische-Separatisten_6045443.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 23.3 KB |
 | [dokumente/ki_markdown/dokumente/hauptquellen/taz.de_Richterin-Frauke-Brosius-Gersdorf_216100622.md](../../dokumente/ki_markdown/dokumente/hauptquellen/taz.de_Richterin-Frauke-Brosius-Gersdorf_216100622.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 6.6 KB |
-| [dokumente/ki_markdown/dokumente/hauptquellen/taz.de_SPD-Politiker-gesteht-Schmiererei_6103730.md](../../dokumente/ki_markdown/dokumente/hauptquellen/taz.de_SPD-Politiker-gesteht-Schmiererei_6103730.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 3.3 KB |
+| dokumente/ki_markdown/dokumente/hauptquellen/taz.de_SPD-Politiker-gesteht-Schmiererei_6103830.md (nicht lokal vorhanden: `../../dokumente/ki_markdown/dokumente/hauptquellen/taz.de_SPD-Politiker-gesteht-Schmiererei_6103830.md`) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 3.3 KB |
 | [dokumente/ki_markdown/dokumente/hauptquellen/terror-seit-nsu.de_index.md](../../dokumente/ki_markdown/dokumente/hauptquellen/terror-seit-nsu.de_index.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.2 KB |
 | [dokumente/ki_markdown/dokumente/hauptquellen/The_Guardian_Germany_Security_Labels_AfD_Extremist.md](../../dokumente/ki_markdown/dokumente/hauptquellen/The_Guardian_Germany_Security_Labels_AfD_Extremist.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 559 B |
 | [dokumente/ki_markdown/dokumente/hauptquellen/theguardian.com_us-news_2024_sep_25_project-2025-trump-plan-fire-civil-service-employees.md](../../dokumente/ki_markdown/dokumente/hauptquellen/theguardian.com_us-news_2024_sep_25_project-2025-trump-plan-fire-civil-service-employees.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 3.6 KB |
@@ -2383,7 +2383,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/09_Carsten_Haerle_Volksverhetzung_AG_Offenbach.md](../../dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/09_Carsten_Haerle_Volksverhetzung_AG_Offenbach.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 518 B |
 | [dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/09_Raepple_Gewaltdelikt_LG_Karlsruhe.md](../../dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/09_Raepple_Gewaltdelikt_LG_Karlsruhe.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 646 B |
 | [dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/10_Beatrix_von_Storch_Volksverhetzung_Ermittlung.md](../../dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/10_Beatrix_von_Storch_Volksverhetzung_Ermittlung.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 716 B |
-| [dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/10_Muenzenmeier_Hooligan_Gewalt_LG_Mainz.md](../../dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/10_Muenzenmeier_Hooligan_Gewalt_LG_Mainz.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 637 B |
+| [dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/10_Muenzenmeier_Hooligan_Gewalt_LG_Mainz.md](../../dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/10_Muenzenmeier_Hooligan_Gewalt_LG_Mainz.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 638 B |
 | [dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/100_11_L_87_00.md](../../dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/100_11_L_87_00.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 1.5 KB |
 | [dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/101_13_K_207_20.md](../../dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/101_13_K_207_20.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 1.5 KB |
 | [dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/102_13_K_208_20.md](../../dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/102_13_K_208_20.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 1.5 KB |
@@ -2427,16 +2427,16 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/134_4_U_1419_16.md](../../dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/134_4_U_1419_16.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 1.5 KB |
 | [dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/135_5_A_1216_22.md](../../dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/135_5_A_1216_22.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 1.5 KB |
 | [dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/136_5_A_1217_22.md](../../dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/136_5_A_1217_22.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 1.5 KB |
-| [dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/137_5_A_130_05.md](../../dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/137_5_A_130_05.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 1.5 KB |
+| dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/138_5_A_130_05.md (nicht lokal vorhanden: `../../dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/138_5_A_130_05.md`) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 1.5 KB |
 | [dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/138_5_A_203_08.md](../../dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/138_5_A_203_08.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 1.5 KB |
-| [dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/139_5_A_837_11.md](../../dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/139_5_A_837_11.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 1.5 KB |
+| dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/139_5_A_838_11.md (nicht lokal vorhanden: `../../dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/139_5_A_838_11.md`) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 1.5 KB |
 | [dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/14_Petry_Betrug_LG_Leipzig.md](../../dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/14_Petry_Betrug_LG_Leipzig.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 617 B |
 | [dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/14_Thomas_Suchka_Volksverhetzung_AG_Ebersberg.md](../../dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/14_Thomas_Suchka_Volksverhetzung_AG_Ebersberg.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.1 KB |
 | [dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/140_5_B_131_24.md](../../dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/140_5_B_131_24.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 1.5 KB |
 | [dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/141_6_A_3_08.md](../../dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/141_6_A_3_08.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 1.5 KB |
 | [dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/142_6_A_4_09.md](../../dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/142_6_A_4_09.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 1.5 KB |
 | [dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/143_6_C_22_09.md](../../dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/143_6_C_22_09.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 1.5 KB |
-| [dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/144_6_L_1337_20.md](../../dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/144_6_L_1337_20.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 1.5 KB |
+| dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/144_6_L_1338_20.md (nicht lokal vorhanden: `../../dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/144_6_L_1338_20.md`) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 1.5 KB |
 | [dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/145_6_L_20_24.md](../../dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/145_6_L_20_24.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 1.5 KB |
 | [dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/146_6_U_190_20.md](../../dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/146_6_U_190_20.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 1.5 KB |
 | [dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/147_7_O_1618_18.md](../../dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/147_7_O_1618_18.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 1.5 KB |
@@ -2546,7 +2546,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/234_ZUERST_Ausgabe_05_2018.md](../../dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/234_ZUERST_Ausgabe_05_2018.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 1.5 KB |
 | [dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/235_ZUERST_Ausgabe_05_2022.md](../../dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/235_ZUERST_Ausgabe_05_2022.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 1.5 KB |
 | [dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/236_ZUERST_Ausgabe_06_2022.md](../../dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/236_ZUERST_Ausgabe_06_2022.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 1.5 KB |
-| [dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/237_ZUERST_Ausgabe_11_2022.md](../../dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/237_ZUERST_Ausgabe_11_2022.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 1.5 KB |
+| dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/238_ZUERST_Ausgabe_11_2022.md (nicht lokal vorhanden: `../../dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/238_ZUERST_Ausgabe_11_2022.md`) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 1.5 KB |
 | [dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/238_ZUERSTI_Ausgabe_04_2023.md](../../dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/238_ZUERSTI_Ausgabe_04_2023.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 1.5 KB |
 | [dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/239_Zeitgeschichte_31_2007.md](../../dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/239_Zeitgeschichte_31_2007.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 1.5 KB |
 | [dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/24_Beamtenstatus_Ausschluss_OVG_Weimar.md](../../dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/24_Beamtenstatus_Ausschluss_OVG_Weimar.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 943 B |
@@ -2579,8 +2579,8 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/35_Richard_Graupner_Dienstgeheimnis_LG_Bamberg.md](../../dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/35_Richard_Graupner_Dienstgeheimnis_LG_Bamberg.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 535 B |
 | [dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/36_Birgit_Malsack_Winkemann_Reichsbuerger_BGH.md](../../dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/36_Birgit_Malsack_Winkemann_Reichsbuerger_BGH.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 1.6 KB |
 | [dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/36_Ziegler_Betrug_AG_Dessau.md](../../dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/36_Ziegler_Betrug_AG_Dessau.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 695 B |
-| [dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/37_Jessica_Biessmann_Hitlerwein_AG_Tiergarten.md](../../dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/37_Jessica_Biessmann_Hitlerwein_AG_Tiergarten.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 1016 B |
-| [dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/37_Petry_Betrug_LG_Leipzig.md](../../dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/37_Petry_Betrug_LG_Leipzig.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 3.9 KB |
+| dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/38_Jessica_Biessmann_Hitlerwein_AG_Tiergarten.md (nicht lokal vorhanden: `../../dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/38_Jessica_Biessmann_Hitlerwein_AG_Tiergarten.md`) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 1016 B |
+| dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/38_Petry_Betrug_LG_Leipzig.md (nicht lokal vorhanden: `../../dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/38_Petry_Betrug_LG_Leipzig.md`) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 3.9 KB |
 | [dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/38_Carsten_Haerle_Volksverhetzung_AG_Offenbach.md](../../dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/38_Carsten_Haerle_Volksverhetzung_AG_Offenbach.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 835 B |
 | [dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/38_Halemba_Geldwaesche_LG_Wuerzburg.md](../../dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/38_Halemba_Geldwaesche_LG_Wuerzburg.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 1.2 KB |
 | [dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/39_Stefan_Hrdy_Koerperverletzung_AG_Wiesbaden.md](../../dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/39_Stefan_Hrdy_Koerperverletzung_AG_Wiesbaden.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 957 B |
@@ -2720,7 +2720,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/ki_markdown/dokumente/hauptquellen/welt.de_politik_deutschland_article256418386_AfD-Verbot-Das-waere-der-sichere-Weg-in-den-Buergerkrieg-warnt-.md](../../dokumente/ki_markdown/dokumente/hauptquellen/welt.de_politik_deutschland_article256418386_AfD-Verbot-Das-waere-der-sichere-Weg-in-den-Buergerkrieg-warnt-.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 2.3 KB |
 | [dokumente/ki_markdown/dokumente/hauptquellen/welt.de_politik_deutschland_article687b441e3e67c8722e9b505c_allensbach-umfrage-mehrheit-der-bundesbuerger-le.md](../../dokumente/ki_markdown/dokumente/hauptquellen/welt.de_politik_deutschland_article687b441e3e67c8722e9b505c_allensbach-umfrage-mehrheit-der-bundesbuerger-le.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 2.2 KB |
 | [dokumente/ki_markdown/dokumente/hauptquellen/welt.de_politik_deutschland_article68b1aba9adc6ba5d53cb0e73_parteiengesetz-afd-musste-mehr-als-eine-million-.md](../../dokumente/ki_markdown/dokumente/hauptquellen/welt.de_politik_deutschland_article68b1aba9adc6ba5d53cb0e73_parteiengesetz-afd-musste-mehr-als-eine-million-.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 1.8 KB |
-| [dokumente/ki_markdown/dokumente/hauptquellen/welt.de_politik_deutschland_video687a3b6c554a3718a6c1e96a_debatte-um-afd-verbot-das-waere-der-sichere-weg-in.md](../../dokumente/ki_markdown/dokumente/hauptquellen/welt.de_politik_deutschland_video687a3b6c554a3718a6c1e96a_debatte-um-afd-verbot-das-waere-der-sichere-weg-in.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 978 B |
+| dokumente/ki_markdown/dokumente/hauptquellen/welt.de_politik_deutschland_video687a3b6c554a3818a6c1e96a_debatte-um-afd-verbot-das-waere-der-sichere-weg-in.md (nicht lokal vorhanden: `../../dokumente/ki_markdown/dokumente/hauptquellen/welt.de_politik_deutschland_video687a3b6c554a3818a6c1e96a_debatte-um-afd-verbot-das-waere-der-sichere-weg-in.md`) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 978 B |
 | [dokumente/ki_markdown/dokumente/hauptquellen/welt.de_regionales_bayern_article242365821_Dienstgeheimnisse-verraten-Geldstrafe-fuer-Abgeordneten_html.md](../../dokumente/ki_markdown/dokumente/hauptquellen/welt.de_regionales_bayern_article242365821_Dienstgeheimnisse-verraten-Geldstrafe-fuer-Abgeordneten_html.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 2.9 KB |
 | [dokumente/ki_markdown/dokumente/hauptquellen/welt.de_regionales_bayern_article246976734_AfD-Politiker-Jaeger-wegen-Volksverhetzung-verurteilt_html.md](../../dokumente/ki_markdown/dokumente/hauptquellen/welt.de_regionales_bayern_article246976734_AfD-Politiker-Jaeger-wegen-Volksverhetzung-verurteilt_html.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 2.6 KB |
 | [dokumente/ki_markdown/dokumente/hauptquellen/welt.de_regionales_berlin_article187116936_AfD-Andreas-Kalbitz-sieht-Verfassungsschutz-politisch-motiviert_h.md](../../dokumente/ki_markdown/dokumente/hauptquellen/welt.de_regionales_berlin_article187116936_AfD-Andreas-Kalbitz-sieht-Verfassungsschutz-politisch-motiviert_h.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 2.2 KB |
@@ -2883,7 +2883,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/ki_markdown/dokumente/splits/untersuchung_bfv_gutachten_split_1_sachverhalt_und_vfs.md](../../dokumente/ki_markdown/dokumente/splits/untersuchung_bfv_gutachten_split_1_sachverhalt_und_vfs.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 39.5 KB |
 | [dokumente/ki_markdown/dokumente/splits/untersuchung_bfv_gutachten_split_2_wehrhafte_demokratie_parteiverbot.md](../../dokumente/ki_markdown/dokumente/splits/untersuchung_bfv_gutachten_split_2_wehrhafte_demokratie_parteiverbot.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 38.6 KB |
 | [dokumente/ki_markdown/dokumente/splits/untersuchung_bfv_gutachten_split_3_menschenwuerde_npd_urteil.md](../../dokumente/ki_markdown/dokumente/splits/untersuchung_bfv_gutachten_split_3_menschenwuerde_npd_urteil.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 55.8 KB |
-| [dokumente/ki_markdown/dokumente/splits/untersuchung_bfv_gutachten_split_4_begriffsverstaendnis_afd_gutachten.md](../../dokumente/ki_markdown/dokumente/splits/untersuchung_bfv_gutachten_split_4_begriffsverstaendnis_afd_gutachten.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 37.0 KB |
+| [dokumente/ki_markdown/dokumente/splits/untersuchung_bfv_gutachten_split_4_begriffsverstaendnis_afd_gutachten.md](../../dokumente/ki_markdown/dokumente/splits/untersuchung_bfv_gutachten_split_4_begriffsverstaendnis_afd_gutachten.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 38.0 KB |
 | [dokumente/ki_markdown/dokumente/splits/untersuchung_bfv_gutachten_split_5_belege_ethnisches_volksverstaendnis.md](../../dokumente/ki_markdown/dokumente/splits/untersuchung_bfv_gutachten_split_5_belege_ethnisches_volksverstaendnis.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 34.7 KB |
 | [dokumente/ki_markdown/dokumente/splits/untersuchung_bfv_gutachten_split_6_belege_islamfeindlichkeit_bewertung.md](../../dokumente/ki_markdown/dokumente/splits/untersuchung_bfv_gutachten_split_6_belege_islamfeindlichkeit_bewertung.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 40.0 KB |
 | [dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/2026-06-30-verfassungsschutzbericht-2025__pages_1_to_50.md](../../dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/2026-06-30-verfassungsschutzbericht-2025__pages_1_to_50.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 78.6 KB |
@@ -2932,7 +2932,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Brandenburg_Verfassungsschutzbericht_2024.md](../../dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Brandenburg_Verfassungsschutzbericht_2024.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 629.9 KB |
 | [dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Bremen_Verfassungsschutzbericht_2024__pages_1_to_50.md](../../dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Bremen_Verfassungsschutzbericht_2024__pages_1_to_50.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 297.7 KB |
 | [dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Bremen_Verfassungsschutzbericht_2024__pages_101_to_104.md](../../dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Bremen_Verfassungsschutzbericht_2024__pages_101_to_104.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.7 KB |
-| [dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Bremen_Verfassungsschutzbericht_2024__pages_51_to_100.md](../../dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Bremen_Verfassungsschutzbericht_2024__pages_51_to_100.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 437.9 KB |
+| [dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Bremen_Verfassungsschutzbericht_2024__pages_51_to_100.md](../../dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Bremen_Verfassungsschutzbericht_2024__pages_51_to_100.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 438.9 KB |
 | [dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Bremen_Verfassungsschutzbericht_2024_full.md](../../dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Bremen_Verfassungsschutzbericht_2024_full.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 458.2 KB |
 | [dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Bremen_Verfassungsschutzbericht_2024.md](../../dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Bremen_Verfassungsschutzbericht_2024.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 740.2 KB |
 | [dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Hamburg_Verfassungsschutzbericht_2024__pages_1_to_50.md](../../dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Hamburg_Verfassungsschutzbericht_2024__pages_1_to_50.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 178.1 KB |
@@ -2950,7 +2950,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Mecklenburg_Vorpommern_Verfassungsschutzbericht_2024_full__pages_1_to_50.md](../../dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Mecklenburg_Vorpommern_Verfassungsschutzbericht_2024_full__pages_1_to_50.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 140.6 KB |
 | [dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Mecklenburg_Vorpommern_Verfassungsschutzbericht_2024_full__pages_101_to_150.md](../../dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Mecklenburg_Vorpommern_Verfassungsschutzbericht_2024_full__pages_101_to_150.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 138.4 KB |
 | [dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Mecklenburg_Vorpommern_Verfassungsschutzbericht_2024_full__pages_151_to_188.md](../../dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Mecklenburg_Vorpommern_Verfassungsschutzbericht_2024_full__pages_151_to_188.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 119.7 KB |
-| [dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Mecklenburg_Vorpommern_Verfassungsschutzbericht_2024_full__pages_51_to_100.md](../../dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Mecklenburg_Vorpommern_Verfassungsschutzbericht_2024_full__pages_51_to_100.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 137.6 KB |
+| [dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Mecklenburg_Vorpommern_Verfassungsschutzbericht_2024_full__pages_51_to_100.md](../../dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Mecklenburg_Vorpommern_Verfassungsschutzbericht_2024_full__pages_51_to_100.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 138.6 KB |
 | [dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Mecklenburg_Vorpommern_Verfassungsschutzbericht_2024_full.md](../../dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Mecklenburg_Vorpommern_Verfassungsschutzbericht_2024_full.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 431.2 KB |
 | [dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Mecklenburg_Vorpommern_Verfassungsschutzbericht_2024.md](../../dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Mecklenburg_Vorpommern_Verfassungsschutzbericht_2024.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 675 B |
 | [dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Niedersachsen_Verfassungsschutzbericht_2023__pages_1_to_50.md](../../dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Niedersachsen_Verfassungsschutzbericht_2023__pages_1_to_50.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 144.2 KB |
@@ -2968,7 +2968,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Niedersachsen_Verfassungsschutzbericht_2024_full__pages_451_to_479.md](../../dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Niedersachsen_Verfassungsschutzbericht_2024_full__pages_451_to_479.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 38.6 KB |
 | [dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Niedersachsen_Verfassungsschutzbericht_2024_full__pages_51_to_100.md](../../dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Niedersachsen_Verfassungsschutzbericht_2024_full__pages_51_to_100.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 122.6 KB |
 | [dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Niedersachsen_Verfassungsschutzbericht_2024_full.md](../../dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Niedersachsen_Verfassungsschutzbericht_2024_full.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 880.8 KB |
-| [dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Nordrhein_Westfalen_Verfassungsschutzbericht_2024__pages_1_to_50.md](../../dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Nordrhein_Westfalen_Verfassungsschutzbericht_2024__pages_1_to_50.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 237.8 KB |
+| [dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Nordrhein_Westfalen_Verfassungsschutzbericht_2024__pages_1_to_50.md](../../dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Nordrhein_Westfalen_Verfassungsschutzbericht_2024__pages_1_to_50.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 238.8 KB |
 | [dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Nordrhein_Westfalen_Verfassungsschutzbericht_2024__pages_101_to_150.md](../../dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Nordrhein_Westfalen_Verfassungsschutzbericht_2024__pages_101_to_150.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 271.9 KB |
 | [dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Nordrhein_Westfalen_Verfassungsschutzbericht_2024__pages_151_to_189.md](../../dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Nordrhein_Westfalen_Verfassungsschutzbericht_2024__pages_151_to_189.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 208.9 KB |
 | [dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Nordrhein_Westfalen_Verfassungsschutzbericht_2024__pages_51_to_100.md](../../dokumente/ki_markdown/dokumente/vfs_berichte_bundeslaender/LfV_Nordrhein_Westfalen_Verfassungsschutzbericht_2024__pages_51_to_100.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 250.6 KB |
@@ -3030,7 +3030,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/ki_markdown/dokumente/vfs_rechtsextremismus/BfV_Sonderbericht_Symbole_Zeichen_und_verbotene_Organisationen_2022__pages_1_to_50.md](../../dokumente/ki_markdown/dokumente/vfs_rechtsextremismus/BfV_Sonderbericht_Symbole_Zeichen_und_verbotene_Organisationen_2022__pages_1_to_50.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 132.6 KB |
 | [dokumente/ki_markdown/dokumente/vfs_rechtsextremismus/BfV_Sonderbericht_Symbole_Zeichen_und_verbotene_Organisationen_2022__pages_51_to_86.md](../../dokumente/ki_markdown/dokumente/vfs_rechtsextremismus/BfV_Sonderbericht_Symbole_Zeichen_und_verbotene_Organisationen_2022__pages_51_to_86.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 91.0 KB |
 | [dokumente/ki_markdown/dokumente/vfs_rechtsextremismus/BfV_Sonderbericht_Symbole_Zeichen_und_verbotene_Organisationen_2022.md](../../dokumente/ki_markdown/dokumente/vfs_rechtsextremismus/BfV_Sonderbericht_Symbole_Zeichen_und_verbotene_Organisationen_2022.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 223.5 KB |
-| [dokumente/ki_markdown/dokumente/weitere_belege/2013750.md](../../dokumente/ki_markdown/dokumente/weitere_belege/2013750.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 34.2 KB |
+| dokumente/ki_markdown/dokumente/weitere_belege/2013850.md (nicht lokal vorhanden: `../../dokumente/ki_markdown/dokumente/weitere_belege/2013850.md`) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 34.2 KB |
 | [dokumente/ki_markdown/dokumente/weitere_belege/2024-06-18-verfassungsschutzbericht-2023.md](../../dokumente/ki_markdown/dokumente/weitere_belege/2024-06-18-verfassungsschutzbericht-2023.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 130 B |
 | [dokumente/ki_markdown/dokumente/weitere_belege/2025-06-10-verfassungsschutzbericht-2024.md](../../dokumente/ki_markdown/dokumente/weitere_belege/2025-06-10-verfassungsschutzbericht-2024.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 130 B |
 | [dokumente/ki_markdown/full-sources.md](../../dokumente/ki_markdown/full-sources.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 1.0 MB |
@@ -3210,7 +3210,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00034.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00034.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.5 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00035.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00035.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.9 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00036.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00036.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.5 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00037.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00037.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.6 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00038.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00038.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.6 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00038.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00038.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.5 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00039.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00039.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.9 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00040.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00040.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.8 KB |
@@ -3310,7 +3310,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00134.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00134.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.8 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00135.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00135.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.8 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00136.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00136.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.3 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00137.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00137.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.7 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00138.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00138.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.7 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00138.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00138.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 6.1 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00139.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00139.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.6 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00140.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00140.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.4 KB |
@@ -3410,7 +3410,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00234.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00234.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.9 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00235.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00235.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.6 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00236.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00236.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.2 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00237.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00237.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.0 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00238.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00238.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.0 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00238.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00238.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.3 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00239.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00239.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.3 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00240.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00240.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.6 KB |
@@ -3510,7 +3510,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00334.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00334.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.8 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00335.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00335.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.8 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00336.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00336.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.0 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00337.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00337.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.0 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00338.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00338.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.0 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00338.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00338.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.0 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00339.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00339.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.7 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00340.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00340.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.6 KB |
@@ -3543,16 +3543,16 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00367.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00367.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.7 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00368.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00368.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.7 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00369.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00369.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.0 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00370.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00370.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.5 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00371.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00371.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.8 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00372.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00372.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.7 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00373.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00373.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.7 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00374.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00374.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.0 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00375.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00375.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.1 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00376.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00376.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.4 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00377.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00377.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.8 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00378.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00378.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.4 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00379.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00379.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.6 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00380.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00380.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.5 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00381.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00381.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.8 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00382.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00382.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.7 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00383.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00383.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.7 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00384.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00384.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.0 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00385.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00385.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.1 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00386.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00386.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.4 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00387.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00387.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.8 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00388.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00388.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.4 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00389.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00389.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.6 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00380.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00380.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.1 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00381.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00381.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.4 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00382.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00382.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 6.1 KB |
@@ -3610,7 +3610,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00434.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00434.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.0 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00435.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00435.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.9 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00436.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00436.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.8 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00437.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00437.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.2 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00438.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00438.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.2 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00438.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00438.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.1 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00439.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00439.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.9 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00440.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00440.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.4 KB |
@@ -3710,7 +3710,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00534.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00534.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 6.0 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00535.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00535.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.7 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00536.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00536.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.3 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00537.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00537.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.1 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00538.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00538.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.1 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00538.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00538.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.6 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00539.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00539.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.0 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00540.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00540.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.3 KB |
@@ -3810,7 +3810,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00634.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00634.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.4 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00635.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00635.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.3 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00636.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00636.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.7 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00637.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00637.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.4 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00638.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00638.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.4 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00638.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00638.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.1 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00639.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00639.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.8 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00640.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00640.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.5 KB |
@@ -3910,7 +3910,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00734.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00734.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.3 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00735.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00735.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.1 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00736.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00736.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.8 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00737.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00737.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.6 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00738.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00738.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.6 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00738.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00738.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.7 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00739.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00739.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.8 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00740.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00740.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.4 KB |
@@ -4010,7 +4010,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00834.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00834.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.5 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00835.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00835.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.9 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00836.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00836.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.5 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00837.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00837.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.1 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00838.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00838.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.1 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00838.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00838.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.8 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00839.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00839.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.0 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00840.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00840.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.6 KB |
@@ -4110,7 +4110,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00934.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00934.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.3 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00935.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00935.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.2 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00936.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00936.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.7 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00937.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00937.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.4 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00938.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00938.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.4 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00938.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00938.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.9 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00939.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00939.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.4 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00940.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-00940.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.0 KB |
@@ -4210,7 +4210,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01034.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01034.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.1 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01035.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01035.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.8 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01036.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01036.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.8 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01037.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01037.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.7 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01038.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01038.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.7 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01038.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01038.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.3 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01039.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01039.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.7 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01040.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01040.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.7 KB |
@@ -4310,7 +4310,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01134.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01134.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.0 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01135.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01135.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.3 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01136.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01136.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.6 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01137.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01137.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.5 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01138.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01138.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.5 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01138.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01138.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.5 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01139.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01139.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.3 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01140.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01140.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.7 KB |
@@ -4410,7 +4410,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01234.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01234.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.2 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01235.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01235.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.5 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01236.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01236.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.1 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01237.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01237.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.7 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01238.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01238.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.7 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01238.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01238.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.1 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01239.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01239.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.4 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01240.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01240.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.1 KB |
@@ -4510,7 +4510,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01334.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01334.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.8 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01335.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01335.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.8 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01336.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01336.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.6 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01337.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01337.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.0 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01338.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01338.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.0 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01338.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01338.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.2 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01339.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01339.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.6 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01340.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01340.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.7 KB |
@@ -4543,16 +4543,16 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01367.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01367.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.0 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01368.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01368.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.0 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01369.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01369.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.8 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01370.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01370.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.1 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01371.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01371.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.2 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01372.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01372.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.7 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01373.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01373.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.8 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01374.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01374.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.3 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01375.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01375.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.5 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01376.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01376.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.7 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01377.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01377.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.9 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01378.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01378.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.2 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01379.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01379.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.8 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01380.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01380.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.1 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01381.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01381.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.2 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01382.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01382.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.7 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01383.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01383.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.8 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01384.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01384.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.3 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01385.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01385.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.5 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01386.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01386.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.7 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01387.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01387.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.9 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01388.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01388.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.2 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01389.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01389.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.8 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01380.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01380.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.2 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01381.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01381.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.9 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01382.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01382.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.1 KB |
@@ -4610,7 +4610,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01434.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01434.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 6.1 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01435.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01435.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.3 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01436.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01436.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.0 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01437.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01437.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.7 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01438.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01438.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.7 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01438.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01438.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.8 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01439.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01439.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.7 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01440.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01440.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.7 KB |
@@ -4710,7 +4710,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01534.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01534.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.9 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01535.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01535.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.6 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01536.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01536.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.5 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01537.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01537.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.9 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01538.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01538.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.9 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01538.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01538.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.5 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01539.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01539.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.5 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01540.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01540.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.8 KB |
@@ -4810,7 +4810,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01634.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01634.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.3 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01635.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01635.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.3 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01636.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01636.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.3 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01637.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01637.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.3 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01638.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01638.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.3 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01638.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01638.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.1 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01639.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01639.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.8 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01640.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01640.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.5 KB |
@@ -4910,7 +4910,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01734.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01734.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 6.2 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01735.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01735.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.6 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01736.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01736.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 6.0 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01737.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01737.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.4 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01738.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01738.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.4 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01738.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01738.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.7 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01739.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01739.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.4 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01740.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01740.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.3 KB |
@@ -5010,7 +5010,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01834.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01834.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 6.1 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01835.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01835.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.7 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01836.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01836.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.8 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01837.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01837.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.1 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01838.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01838.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.1 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01838.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01838.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.5 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01839.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01839.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.6 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01840.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01840.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.0 KB |
@@ -5110,7 +5110,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01934.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01934.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.2 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01935.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01935.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.6 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01936.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01936.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.2 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01937.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01937.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.2 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01938.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01938.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.2 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01938.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01938.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.4 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01939.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01939.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.6 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01940.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-01940.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.8 KB |
@@ -5210,7 +5210,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02034.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02034.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.6 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02035.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02035.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.9 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02036.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02036.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.8 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02037.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02037.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 6.0 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02038.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02038.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 6.0 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02038.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02038.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.5 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02039.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02039.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 6.0 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02040.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02040.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.7 KB |
@@ -5310,7 +5310,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02134.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02134.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.9 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02135.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02135.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.1 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02136.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02136.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.7 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02137.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02137.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.7 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02138.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02138.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.7 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02138.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02138.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.2 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02139.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02139.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.3 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02140.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02140.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.3 KB |
@@ -5410,7 +5410,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02234.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02234.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.5 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02235.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02235.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.3 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02236.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02236.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.9 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02237.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02237.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 6.0 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02238.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02238.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 6.0 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02238.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02238.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.2 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02239.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02239.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 6.0 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02240.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02240.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 6.0 KB |
@@ -5510,7 +5510,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02334.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02334.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.3 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02335.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02335.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.0 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02336.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02336.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.0 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02337.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02337.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.1 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02338.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02338.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.1 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02338.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02338.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.7 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02339.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02339.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.9 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02340.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02340.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.0 KB |
@@ -5543,16 +5543,16 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02367.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02367.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.6 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02368.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02368.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.8 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02369.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02369.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.7 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02370.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02370.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.1 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02371.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02371.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.1 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02372.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02372.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.7 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02373.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02373.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.7 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02374.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02374.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.7 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02375.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02375.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.5 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02376.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02376.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.8 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02377.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02377.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.4 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02378.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02378.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.1 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02379.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02379.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.6 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02380.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02380.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.1 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02381.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02381.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.1 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02382.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02382.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.7 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02383.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02383.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.7 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02384.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02384.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.7 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02385.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02385.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.5 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02386.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02386.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.8 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02387.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02387.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.4 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02388.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02388.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.1 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02389.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02389.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.6 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02380.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02380.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.7 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02381.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02381.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.5 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02382.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02382.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.4 KB |
@@ -5610,7 +5610,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02434.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02434.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.7 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02435.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02435.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.6 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02436.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02436.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.0 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02437.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02437.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.6 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02438.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02438.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.6 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02438.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02438.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.8 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02439.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02439.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.6 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02440.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02440.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.9 KB |
@@ -5710,7 +5710,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02534.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02534.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.4 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02535.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02535.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.4 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02536.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02536.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.9 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02537.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02537.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.0 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02538.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02538.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.0 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02538.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02538.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.8 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02539.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02539.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.2 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02540.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02540.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.5 KB |
@@ -5810,7 +5810,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02634.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02634.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.7 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02635.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02635.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.6 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02636.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02636.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.7 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02637.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02637.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.8 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02638.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02638.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.8 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02638.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02638.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.9 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02639.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02639.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.2 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02640.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02640.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.0 KB |
@@ -5910,7 +5910,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02734.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02734.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.5 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02735.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02735.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.7 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02736.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02736.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.1 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02737.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02737.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.4 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02738.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02738.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.4 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02738.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02738.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.9 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02739.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02739.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.0 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02740.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02740.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.8 KB |
@@ -6010,7 +6010,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02834.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02834.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.7 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02835.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02835.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.6 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02836.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02836.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.6 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02837.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02837.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.6 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02838.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02838.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.6 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02838.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02838.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.5 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02839.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02839.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.9 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02840.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02840.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.8 KB |
@@ -6110,7 +6110,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02934.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02934.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.8 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02935.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02935.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 6.0 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02936.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02936.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 6.0 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02937.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02937.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 6.0 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02938.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02938.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 6.0 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02938.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02938.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 6.0 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02939.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02939.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 6.0 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02940.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-02940.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 6.0 KB |
@@ -6210,7 +6210,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03034.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03034.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.1 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03035.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03035.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.6 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03036.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03036.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.9 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03037.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03037.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.0 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03038.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03038.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.0 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03038.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03038.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.0 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03039.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03039.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.9 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03040.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03040.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.5 KB |
@@ -6310,7 +6310,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03134.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03134.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.7 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03135.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03135.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.9 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03136.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03136.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.0 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03137.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03137.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.5 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03138.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03138.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.5 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03138.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03138.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.6 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03139.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03139.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.6 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03140.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03140.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.8 KB |
@@ -6410,7 +6410,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03234.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03234.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.1 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03235.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03235.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.0 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03236.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03236.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.2 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03237.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03237.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.2 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03238.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03238.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.2 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03238.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03238.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.9 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03239.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03239.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.9 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03240.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03240.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.7 KB |
@@ -6510,7 +6510,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03334.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03334.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.0 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03335.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03335.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.8 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03336.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03336.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.8 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03337.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03337.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.2 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03338.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03338.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.2 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03338.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03338.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.8 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03339.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03339.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.8 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03340.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03340.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.7 KB |
@@ -6543,16 +6543,16 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03367.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03367.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.1 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03368.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03368.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.5 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03369.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03369.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.7 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03370.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03370.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.9 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03371.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03371.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.5 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03372.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03372.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.8 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03373.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03373.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.2 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03374.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03374.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.6 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03375.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03375.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.6 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03376.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03376.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.8 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03377.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03377.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.5 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03378.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03378.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.9 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03379.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03379.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.7 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03380.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03380.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.9 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03381.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03381.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.5 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03382.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03382.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.8 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03383.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03383.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 5.2 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03384.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03384.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.6 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03385.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03385.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.6 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03386.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03386.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.8 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03387.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03387.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.5 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03388.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03388.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.9 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03389.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03389.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.7 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03380.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03380.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.4 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03381.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03381.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.9 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03382.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03382.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.9 KB |
@@ -6610,7 +6610,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03434.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03434.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.5 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03435.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03435.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.4 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03436.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03436.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.8 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03437.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03437.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.9 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03438.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03438.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.9 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03438.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03438.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.4 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03439.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03439.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.4 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03440.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03440.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.5 KB |
@@ -6710,7 +6710,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03534.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03534.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.8 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03535.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03535.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.5 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03536.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03536.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.9 KB |
-| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03537.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03537.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.7 KB |
+| [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03538.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03538.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.7 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03538.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03538.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.8 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03539.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03539.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.6 KB |
 | [dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03540.md](../../dokumente/ki_markdown/zitate/afd-verbot.de-2025-07-28-proof-03540.md) | OCR-/Markdown-Kopie fuer Suche/RAG | .md | 4.5 KB |
@@ -6793,10 +6793,10 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/splits/BfV-Verfassungsschutzbericht_2023_Teil_6_Seiten_261-312.pdf](../../dokumente/splits/BfV-Verfassungsschutzbericht_2023_Teil_6_Seiten_261-312.pdf) | Dokument/Quelle | .pdf | 1.3 MB |
 | [dokumente/splits/BfV-Verfassungsschutzbericht_2023_Teil_7_Seiten_313-364.pdf](../../dokumente/splits/BfV-Verfassungsschutzbericht_2023_Teil_7_Seiten_313-364.pdf) | Dokument/Quelle | .pdf | 1002.1 KB |
 | [dokumente/splits/BfV-Verfassungsschutzbericht_2023_Teil_8_Seiten_365-412.pdf](../../dokumente/splits/BfV-Verfassungsschutzbericht_2023_Teil_8_Seiten_365-412.pdf) | Dokument/Quelle | .pdf | 1.2 MB |
-| [dokumente/splits/BfV-Verfassungsschutzbericht_2024_Teil_1_Seiten_1-52.pdf](../../dokumente/splits/BfV-Verfassungsschutzbericht_2024_Teil_1_Seiten_1-52.pdf) | Dokument/Quelle | .pdf | 370.9 KB |
+| [dokumente/splits/BfV-Verfassungsschutzbericht_2024_Teil_1_Seiten_1-52.pdf](../../dokumente/splits/BfV-Verfassungsschutzbericht_2024_Teil_1_Seiten_1-52.pdf) | Dokument/Quelle | .pdf | 380.9 KB |
 | [dokumente/splits/BfV-Verfassungsschutzbericht_2024_Teil_2_Seiten_53-104.pdf](../../dokumente/splits/BfV-Verfassungsschutzbericht_2024_Teil_2_Seiten_53-104.pdf) | Dokument/Quelle | .pdf | 314.7 KB |
 | [dokumente/splits/BfV-Verfassungsschutzbericht_2024_Teil_3_Seiten_105-156.pdf](../../dokumente/splits/BfV-Verfassungsschutzbericht_2024_Teil_3_Seiten_105-156.pdf) | Dokument/Quelle | .pdf | 388.4 KB |
-| [dokumente/splits/BfV-Verfassungsschutzbericht_2024_Teil_4_Seiten_157-208.pdf](../../dokumente/splits/BfV-Verfassungsschutzbericht_2024_Teil_4_Seiten_157-208.pdf) | Dokument/Quelle | .pdf | 377.5 KB |
+| [dokumente/splits/BfV-Verfassungsschutzbericht_2024_Teil_4_Seiten_157-208.pdf](../../dokumente/splits/BfV-Verfassungsschutzbericht_2024_Teil_4_Seiten_157-208.pdf) | Dokument/Quelle | .pdf | 387.5 KB |
 | [dokumente/splits/BfV-Verfassungsschutzbericht_2024_Teil_5_Seiten_209-260.pdf](../../dokumente/splits/BfV-Verfassungsschutzbericht_2024_Teil_5_Seiten_209-260.pdf) | Dokument/Quelle | .pdf | 403.6 KB |
 | [dokumente/splits/BfV-Verfassungsschutzbericht_2024_Teil_6_Seiten_261-312.pdf](../../dokumente/splits/BfV-Verfassungsschutzbericht_2024_Teil_6_Seiten_261-312.pdf) | Dokument/Quelle | .pdf | 611.3 KB |
 | [dokumente/splits/BfV-Verfassungsschutzbericht_2024_Teil_7_Seiten_313-364.pdf](../../dokumente/splits/BfV-Verfassungsschutzbericht_2024_Teil_7_Seiten_313-364.pdf) | Dokument/Quelle | .pdf | 303.3 KB |
@@ -6821,7 +6821,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/splits/lfv_jahresbericht_2024_part7_151-175.pdf](../../dokumente/splits/lfv_jahresbericht_2024_part7_151-175.pdf) | Dokument/Quelle | .pdf | 3.8 MB |
 | [dokumente/splits/lfv_jahresbericht_2024_part8_176-199.pdf](../../dokumente/splits/lfv_jahresbericht_2024_part8_176-199.pdf) | Dokument/Quelle | .pdf | 1.2 MB |
 | [dokumente/splits/untersuchung_bfv_gutachten_split_1_sachverhalt_und_vfs.pdf](../../dokumente/splits/untersuchung_bfv_gutachten_split_1_sachverhalt_und_vfs.pdf) | Dokument/Quelle | .pdf | 865.4 KB |
-| [dokumente/splits/untersuchung_bfv_gutachten_split_2_wehrhafte_demokratie_parteiverbot.pdf](../../dokumente/splits/untersuchung_bfv_gutachten_split_2_wehrhafte_demokratie_parteiverbot.pdf) | Dokument/Quelle | .pdf | 376.4 KB |
+| [dokumente/splits/untersuchung_bfv_gutachten_split_2_wehrhafte_demokratie_parteiverbot.pdf](../../dokumente/splits/untersuchung_bfv_gutachten_split_2_wehrhafte_demokratie_parteiverbot.pdf) | Dokument/Quelle | .pdf | 386.4 KB |
 | [dokumente/splits/untersuchung_bfv_gutachten_split_3_menschenwuerde_npd_urteil.pdf](../../dokumente/splits/untersuchung_bfv_gutachten_split_3_menschenwuerde_npd_urteil.pdf) | Dokument/Quelle | .pdf | 418.6 KB |
 | [dokumente/splits/untersuchung_bfv_gutachten_split_4_begriffsverstaendnis_afd_gutachten.pdf](../../dokumente/splits/untersuchung_bfv_gutachten_split_4_begriffsverstaendnis_afd_gutachten.pdf) | Dokument/Quelle | .pdf | 360.6 KB |
 | [dokumente/splits/untersuchung_bfv_gutachten_split_5_belege_ethnisches_volksverstaendnis.pdf](../../dokumente/splits/untersuchung_bfv_gutachten_split_5_belege_ethnisches_volksverstaendnis.pdf) | Dokument/Quelle | .pdf | 339.2 KB |
@@ -6875,7 +6875,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [dokumente/vfs_rechtsextremismus/BfV_Sonderbericht_Rechtsextremistische_Musik_2025.pdf](../../dokumente/vfs_rechtsextremismus/BfV_Sonderbericht_Rechtsextremistische_Musik_2025.pdf) | Verfassungsschutz-/BKA-/Lagebericht | .pdf | 1.6 MB |
 | [dokumente/vfs_rechtsextremismus/BfV_Sonderbericht_Symbole_Zeichen_und_verbotene_Organisationen_2022.pdf](../../dokumente/vfs_rechtsextremismus/BfV_Sonderbericht_Symbole_Zeichen_und_verbotene_Organisationen_2022.pdf) | Verfassungsschutz-/BKA-/Lagebericht | .pdf | 3.8 MB |
 | [dokumente/weitere_belege/2013317.pdf](../../dokumente/weitere_belege/2013317.pdf) | Dokument/Quelle | .pdf | 2.2 MB |
-| [dokumente/weitere_belege/2013750.pdf](../../dokumente/weitere_belege/2013750.pdf) | Dokument/Quelle | .pdf | 240.7 KB |
+| dokumente/weitere_belege/2013850.pdf (nicht lokal vorhanden: `../../dokumente/weitere_belege/2013850.pdf`) | Dokument/Quelle | .pdf | 240.7 KB |
 | [dokumente/weitere_belege/20203.pdf](../../dokumente/weitere_belege/20203.pdf) | Dokument/Quelle | .pdf | 2.6 MB |
 | [dokumente/weitere_belege/2024-06-18-verfassungsschutzbericht-2023.pdf](../../dokumente/weitere_belege/2024-06-18-verfassungsschutzbericht-2023.pdf) | Dokument/Quelle | .pdf | 98.1 KB |
 | [dokumente/weitere_belege/2025-06-10-verfassungsschutzbericht-2024.pdf](../../dokumente/weitere_belege/2025-06-10-verfassungsschutzbericht-2024.pdf) | Dokument/Quelle | .pdf | 97.4 KB |
@@ -7104,7 +7104,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [sources/RECHTSTERROR_PARAMILITAER_AFD_BEWEISACHSE.md](../../sources/RECHTSTERROR_PARAMILITAER_AFD_BEWEISACHSE.md) | Web-/Originalanker-Archiv | .md | 3.1 KB |
 | [sources/SCHULE_KULTUR_MELDEPORTALE_BEWEISACHSE.md](../../sources/SCHULE_KULTUR_MELDEPORTALE_BEWEISACHSE.md) | Web-/Originalanker-Archiv | .md | 1.3 KB |
 | [sources/web/bundestag/bundestag_2023-09-07_bystron_immunitaet.html](../../sources/web/bundestag/bundestag_2023-09-07_bystron_immunitaet.html) | Web-/Originalanker-Archiv | .html | 256.0 KB |
-| [sources/web/gba/gba_2022-12-07_reuss_festnahmen.html](../../sources/web/gba/gba_2022-12-07_reuss_festnahmen.html) | Web-/Originalanker-Archiv | .html | 37.4 KB |
+| [sources/web/gba/gba_2022-12-07_reuss_festnahmen.html](../../sources/web/gba/gba_2022-12-07_reuss_festnahmen.html) | Web-/Originalanker-Archiv | .html | 38.4 KB |
 | [sources/web/gba/gba_2023-12-12_reuss_frankfurt_anklage.html](../../sources/web/gba/gba_2023-12-12_reuss_frankfurt_anklage.html) | Web-/Originalanker-Archiv | .html | 43.7 KB |
 | [sources/web/gba/gba_2024-04-23_jian_g_festnahme.html](../../sources/web/gba/gba_2024-04-23_jian_g_festnahme.html) | Web-/Originalanker-Archiv | .html | 27.6 KB |
 | [sources/web/gba/gba_2024-05-07_jian_g_krah_durchsuchung.html](../../sources/web/gba/gba_2024-05-07_jian_g_krah_durchsuchung.html) | Web-/Originalanker-Archiv | .html | 27.1 KB |
@@ -7156,7 +7156,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [zitate/afd-verbot.de-2025-07-28-proof-00034.md](../../zitate/afd-verbot.de-2025-07-28-proof-00034.md) | Zitat-/Proof-Datei | .md | 4.5 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-00035.md](../../zitate/afd-verbot.de-2025-07-28-proof-00035.md) | Zitat-/Proof-Datei | .md | 4.9 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-00036.md](../../zitate/afd-verbot.de-2025-07-28-proof-00036.md) | Zitat-/Proof-Datei | .md | 5.5 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-00037.md](../../zitate/afd-verbot.de-2025-07-28-proof-00037.md) | Zitat-/Proof-Datei | .md | 4.6 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-00038.md](../../zitate/afd-verbot.de-2025-07-28-proof-00038.md) | Zitat-/Proof-Datei | .md | 4.6 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-00038.md](../../zitate/afd-verbot.de-2025-07-28-proof-00038.md) | Zitat-/Proof-Datei | .md | 5.5 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-00039.md](../../zitate/afd-verbot.de-2025-07-28-proof-00039.md) | Zitat-/Proof-Datei | .md | 4.9 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-00040.md](../../zitate/afd-verbot.de-2025-07-28-proof-00040.md) | Zitat-/Proof-Datei | .md | 4.8 KB |
@@ -7256,7 +7256,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [zitate/afd-verbot.de-2025-07-28-proof-00134.md](../../zitate/afd-verbot.de-2025-07-28-proof-00134.md) | Zitat-/Proof-Datei | .md | 4.8 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-00135.md](../../zitate/afd-verbot.de-2025-07-28-proof-00135.md) | Zitat-/Proof-Datei | .md | 4.8 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-00136.md](../../zitate/afd-verbot.de-2025-07-28-proof-00136.md) | Zitat-/Proof-Datei | .md | 5.3 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-00137.md](../../zitate/afd-verbot.de-2025-07-28-proof-00137.md) | Zitat-/Proof-Datei | .md | 5.7 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-00138.md](../../zitate/afd-verbot.de-2025-07-28-proof-00138.md) | Zitat-/Proof-Datei | .md | 5.7 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-00138.md](../../zitate/afd-verbot.de-2025-07-28-proof-00138.md) | Zitat-/Proof-Datei | .md | 6.1 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-00139.md](../../zitate/afd-verbot.de-2025-07-28-proof-00139.md) | Zitat-/Proof-Datei | .md | 4.6 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-00140.md](../../zitate/afd-verbot.de-2025-07-28-proof-00140.md) | Zitat-/Proof-Datei | .md | 4.4 KB |
@@ -7356,7 +7356,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [zitate/afd-verbot.de-2025-07-28-proof-00234.md](../../zitate/afd-verbot.de-2025-07-28-proof-00234.md) | Zitat-/Proof-Datei | .md | 5.9 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-00235.md](../../zitate/afd-verbot.de-2025-07-28-proof-00235.md) | Zitat-/Proof-Datei | .md | 4.6 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-00236.md](../../zitate/afd-verbot.de-2025-07-28-proof-00236.md) | Zitat-/Proof-Datei | .md | 5.2 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-00237.md](../../zitate/afd-verbot.de-2025-07-28-proof-00237.md) | Zitat-/Proof-Datei | .md | 5.0 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-00238.md](../../zitate/afd-verbot.de-2025-07-28-proof-00238.md) | Zitat-/Proof-Datei | .md | 5.0 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-00238.md](../../zitate/afd-verbot.de-2025-07-28-proof-00238.md) | Zitat-/Proof-Datei | .md | 5.3 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-00239.md](../../zitate/afd-verbot.de-2025-07-28-proof-00239.md) | Zitat-/Proof-Datei | .md | 5.3 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-00240.md](../../zitate/afd-verbot.de-2025-07-28-proof-00240.md) | Zitat-/Proof-Datei | .md | 5.6 KB |
@@ -7456,7 +7456,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [zitate/afd-verbot.de-2025-07-28-proof-00334.md](../../zitate/afd-verbot.de-2025-07-28-proof-00334.md) | Zitat-/Proof-Datei | .md | 4.8 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-00335.md](../../zitate/afd-verbot.de-2025-07-28-proof-00335.md) | Zitat-/Proof-Datei | .md | 4.8 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-00336.md](../../zitate/afd-verbot.de-2025-07-28-proof-00336.md) | Zitat-/Proof-Datei | .md | 5.0 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-00337.md](../../zitate/afd-verbot.de-2025-07-28-proof-00337.md) | Zitat-/Proof-Datei | .md | 5.0 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-00338.md](../../zitate/afd-verbot.de-2025-07-28-proof-00338.md) | Zitat-/Proof-Datei | .md | 5.0 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-00338.md](../../zitate/afd-verbot.de-2025-07-28-proof-00338.md) | Zitat-/Proof-Datei | .md | 5.0 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-00339.md](../../zitate/afd-verbot.de-2025-07-28-proof-00339.md) | Zitat-/Proof-Datei | .md | 4.7 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-00340.md](../../zitate/afd-verbot.de-2025-07-28-proof-00340.md) | Zitat-/Proof-Datei | .md | 4.6 KB |
@@ -7489,16 +7489,16 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [zitate/afd-verbot.de-2025-07-28-proof-00367.md](../../zitate/afd-verbot.de-2025-07-28-proof-00367.md) | Zitat-/Proof-Datei | .md | 4.7 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-00368.md](../../zitate/afd-verbot.de-2025-07-28-proof-00368.md) | Zitat-/Proof-Datei | .md | 4.7 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-00369.md](../../zitate/afd-verbot.de-2025-07-28-proof-00369.md) | Zitat-/Proof-Datei | .md | 5.0 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-00370.md](../../zitate/afd-verbot.de-2025-07-28-proof-00370.md) | Zitat-/Proof-Datei | .md | 4.5 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-00371.md](../../zitate/afd-verbot.de-2025-07-28-proof-00371.md) | Zitat-/Proof-Datei | .md | 4.8 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-00372.md](../../zitate/afd-verbot.de-2025-07-28-proof-00372.md) | Zitat-/Proof-Datei | .md | 4.7 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-00373.md](../../zitate/afd-verbot.de-2025-07-28-proof-00373.md) | Zitat-/Proof-Datei | .md | 4.7 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-00374.md](../../zitate/afd-verbot.de-2025-07-28-proof-00374.md) | Zitat-/Proof-Datei | .md | 5.0 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-00375.md](../../zitate/afd-verbot.de-2025-07-28-proof-00375.md) | Zitat-/Proof-Datei | .md | 5.1 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-00376.md](../../zitate/afd-verbot.de-2025-07-28-proof-00376.md) | Zitat-/Proof-Datei | .md | 5.4 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-00377.md](../../zitate/afd-verbot.de-2025-07-28-proof-00377.md) | Zitat-/Proof-Datei | .md | 4.8 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-00378.md](../../zitate/afd-verbot.de-2025-07-28-proof-00378.md) | Zitat-/Proof-Datei | .md | 5.4 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-00379.md](../../zitate/afd-verbot.de-2025-07-28-proof-00379.md) | Zitat-/Proof-Datei | .md | 4.6 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-00380.md](../../zitate/afd-verbot.de-2025-07-28-proof-00380.md) | Zitat-/Proof-Datei | .md | 4.5 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-00381.md](../../zitate/afd-verbot.de-2025-07-28-proof-00381.md) | Zitat-/Proof-Datei | .md | 4.8 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-00382.md](../../zitate/afd-verbot.de-2025-07-28-proof-00382.md) | Zitat-/Proof-Datei | .md | 4.7 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-00383.md](../../zitate/afd-verbot.de-2025-07-28-proof-00383.md) | Zitat-/Proof-Datei | .md | 4.7 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-00384.md](../../zitate/afd-verbot.de-2025-07-28-proof-00384.md) | Zitat-/Proof-Datei | .md | 5.0 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-00385.md](../../zitate/afd-verbot.de-2025-07-28-proof-00385.md) | Zitat-/Proof-Datei | .md | 5.1 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-00386.md](../../zitate/afd-verbot.de-2025-07-28-proof-00386.md) | Zitat-/Proof-Datei | .md | 5.4 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-00387.md](../../zitate/afd-verbot.de-2025-07-28-proof-00387.md) | Zitat-/Proof-Datei | .md | 4.8 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-00388.md](../../zitate/afd-verbot.de-2025-07-28-proof-00388.md) | Zitat-/Proof-Datei | .md | 5.4 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-00389.md](../../zitate/afd-verbot.de-2025-07-28-proof-00389.md) | Zitat-/Proof-Datei | .md | 4.6 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-00380.md](../../zitate/afd-verbot.de-2025-07-28-proof-00380.md) | Zitat-/Proof-Datei | .md | 5.1 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-00381.md](../../zitate/afd-verbot.de-2025-07-28-proof-00381.md) | Zitat-/Proof-Datei | .md | 5.4 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-00382.md](../../zitate/afd-verbot.de-2025-07-28-proof-00382.md) | Zitat-/Proof-Datei | .md | 6.1 KB |
@@ -7556,7 +7556,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [zitate/afd-verbot.de-2025-07-28-proof-00434.md](../../zitate/afd-verbot.de-2025-07-28-proof-00434.md) | Zitat-/Proof-Datei | .md | 5.0 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-00435.md](../../zitate/afd-verbot.de-2025-07-28-proof-00435.md) | Zitat-/Proof-Datei | .md | 4.9 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-00436.md](../../zitate/afd-verbot.de-2025-07-28-proof-00436.md) | Zitat-/Proof-Datei | .md | 4.8 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-00437.md](../../zitate/afd-verbot.de-2025-07-28-proof-00437.md) | Zitat-/Proof-Datei | .md | 5.2 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-00438.md](../../zitate/afd-verbot.de-2025-07-28-proof-00438.md) | Zitat-/Proof-Datei | .md | 5.2 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-00438.md](../../zitate/afd-verbot.de-2025-07-28-proof-00438.md) | Zitat-/Proof-Datei | .md | 5.1 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-00439.md](../../zitate/afd-verbot.de-2025-07-28-proof-00439.md) | Zitat-/Proof-Datei | .md | 4.9 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-00440.md](../../zitate/afd-verbot.de-2025-07-28-proof-00440.md) | Zitat-/Proof-Datei | .md | 5.4 KB |
@@ -7656,7 +7656,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [zitate/afd-verbot.de-2025-07-28-proof-00534.md](../../zitate/afd-verbot.de-2025-07-28-proof-00534.md) | Zitat-/Proof-Datei | .md | 6.0 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-00535.md](../../zitate/afd-verbot.de-2025-07-28-proof-00535.md) | Zitat-/Proof-Datei | .md | 5.7 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-00536.md](../../zitate/afd-verbot.de-2025-07-28-proof-00536.md) | Zitat-/Proof-Datei | .md | 5.3 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-00537.md](../../zitate/afd-verbot.de-2025-07-28-proof-00537.md) | Zitat-/Proof-Datei | .md | 5.1 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-00538.md](../../zitate/afd-verbot.de-2025-07-28-proof-00538.md) | Zitat-/Proof-Datei | .md | 5.1 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-00538.md](../../zitate/afd-verbot.de-2025-07-28-proof-00538.md) | Zitat-/Proof-Datei | .md | 4.6 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-00539.md](../../zitate/afd-verbot.de-2025-07-28-proof-00539.md) | Zitat-/Proof-Datei | .md | 5.0 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-00540.md](../../zitate/afd-verbot.de-2025-07-28-proof-00540.md) | Zitat-/Proof-Datei | .md | 5.3 KB |
@@ -7756,7 +7756,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [zitate/afd-verbot.de-2025-07-28-proof-00634.md](../../zitate/afd-verbot.de-2025-07-28-proof-00634.md) | Zitat-/Proof-Datei | .md | 5.4 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-00635.md](../../zitate/afd-verbot.de-2025-07-28-proof-00635.md) | Zitat-/Proof-Datei | .md | 4.3 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-00636.md](../../zitate/afd-verbot.de-2025-07-28-proof-00636.md) | Zitat-/Proof-Datei | .md | 4.7 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-00637.md](../../zitate/afd-verbot.de-2025-07-28-proof-00637.md) | Zitat-/Proof-Datei | .md | 4.4 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-00638.md](../../zitate/afd-verbot.de-2025-07-28-proof-00638.md) | Zitat-/Proof-Datei | .md | 4.4 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-00638.md](../../zitate/afd-verbot.de-2025-07-28-proof-00638.md) | Zitat-/Proof-Datei | .md | 5.1 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-00639.md](../../zitate/afd-verbot.de-2025-07-28-proof-00639.md) | Zitat-/Proof-Datei | .md | 4.8 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-00640.md](../../zitate/afd-verbot.de-2025-07-28-proof-00640.md) | Zitat-/Proof-Datei | .md | 5.5 KB |
@@ -7856,7 +7856,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [zitate/afd-verbot.de-2025-07-28-proof-00734.md](../../zitate/afd-verbot.de-2025-07-28-proof-00734.md) | Zitat-/Proof-Datei | .md | 5.3 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-00735.md](../../zitate/afd-verbot.de-2025-07-28-proof-00735.md) | Zitat-/Proof-Datei | .md | 5.1 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-00736.md](../../zitate/afd-verbot.de-2025-07-28-proof-00736.md) | Zitat-/Proof-Datei | .md | 4.8 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-00737.md](../../zitate/afd-verbot.de-2025-07-28-proof-00737.md) | Zitat-/Proof-Datei | .md | 4.6 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-00738.md](../../zitate/afd-verbot.de-2025-07-28-proof-00738.md) | Zitat-/Proof-Datei | .md | 4.6 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-00738.md](../../zitate/afd-verbot.de-2025-07-28-proof-00738.md) | Zitat-/Proof-Datei | .md | 4.7 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-00739.md](../../zitate/afd-verbot.de-2025-07-28-proof-00739.md) | Zitat-/Proof-Datei | .md | 4.8 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-00740.md](../../zitate/afd-verbot.de-2025-07-28-proof-00740.md) | Zitat-/Proof-Datei | .md | 4.4 KB |
@@ -7956,7 +7956,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [zitate/afd-verbot.de-2025-07-28-proof-00834.md](../../zitate/afd-verbot.de-2025-07-28-proof-00834.md) | Zitat-/Proof-Datei | .md | 5.5 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-00835.md](../../zitate/afd-verbot.de-2025-07-28-proof-00835.md) | Zitat-/Proof-Datei | .md | 4.9 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-00836.md](../../zitate/afd-verbot.de-2025-07-28-proof-00836.md) | Zitat-/Proof-Datei | .md | 4.5 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-00837.md](../../zitate/afd-verbot.de-2025-07-28-proof-00837.md) | Zitat-/Proof-Datei | .md | 5.1 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-00838.md](../../zitate/afd-verbot.de-2025-07-28-proof-00838.md) | Zitat-/Proof-Datei | .md | 5.1 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-00838.md](../../zitate/afd-verbot.de-2025-07-28-proof-00838.md) | Zitat-/Proof-Datei | .md | 4.8 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-00839.md](../../zitate/afd-verbot.de-2025-07-28-proof-00839.md) | Zitat-/Proof-Datei | .md | 5.0 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-00840.md](../../zitate/afd-verbot.de-2025-07-28-proof-00840.md) | Zitat-/Proof-Datei | .md | 5.6 KB |
@@ -8056,7 +8056,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [zitate/afd-verbot.de-2025-07-28-proof-00934.md](../../zitate/afd-verbot.de-2025-07-28-proof-00934.md) | Zitat-/Proof-Datei | .md | 5.3 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-00935.md](../../zitate/afd-verbot.de-2025-07-28-proof-00935.md) | Zitat-/Proof-Datei | .md | 5.2 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-00936.md](../../zitate/afd-verbot.de-2025-07-28-proof-00936.md) | Zitat-/Proof-Datei | .md | 4.7 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-00937.md](../../zitate/afd-verbot.de-2025-07-28-proof-00937.md) | Zitat-/Proof-Datei | .md | 5.4 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-00938.md](../../zitate/afd-verbot.de-2025-07-28-proof-00938.md) | Zitat-/Proof-Datei | .md | 5.4 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-00938.md](../../zitate/afd-verbot.de-2025-07-28-proof-00938.md) | Zitat-/Proof-Datei | .md | 4.9 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-00939.md](../../zitate/afd-verbot.de-2025-07-28-proof-00939.md) | Zitat-/Proof-Datei | .md | 5.4 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-00940.md](../../zitate/afd-verbot.de-2025-07-28-proof-00940.md) | Zitat-/Proof-Datei | .md | 5.0 KB |
@@ -8156,7 +8156,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [zitate/afd-verbot.de-2025-07-28-proof-01034.md](../../zitate/afd-verbot.de-2025-07-28-proof-01034.md) | Zitat-/Proof-Datei | .md | 5.1 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-01035.md](../../zitate/afd-verbot.de-2025-07-28-proof-01035.md) | Zitat-/Proof-Datei | .md | 4.8 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-01036.md](../../zitate/afd-verbot.de-2025-07-28-proof-01036.md) | Zitat-/Proof-Datei | .md | 4.8 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-01037.md](../../zitate/afd-verbot.de-2025-07-28-proof-01037.md) | Zitat-/Proof-Datei | .md | 4.7 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-01038.md](../../zitate/afd-verbot.de-2025-07-28-proof-01038.md) | Zitat-/Proof-Datei | .md | 4.7 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-01038.md](../../zitate/afd-verbot.de-2025-07-28-proof-01038.md) | Zitat-/Proof-Datei | .md | 5.3 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-01039.md](../../zitate/afd-verbot.de-2025-07-28-proof-01039.md) | Zitat-/Proof-Datei | .md | 4.7 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-01040.md](../../zitate/afd-verbot.de-2025-07-28-proof-01040.md) | Zitat-/Proof-Datei | .md | 4.7 KB |
@@ -8256,7 +8256,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [zitate/afd-verbot.de-2025-07-28-proof-01134.md](../../zitate/afd-verbot.de-2025-07-28-proof-01134.md) | Zitat-/Proof-Datei | .md | 5.0 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-01135.md](../../zitate/afd-verbot.de-2025-07-28-proof-01135.md) | Zitat-/Proof-Datei | .md | 5.3 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-01136.md](../../zitate/afd-verbot.de-2025-07-28-proof-01136.md) | Zitat-/Proof-Datei | .md | 4.6 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-01137.md](../../zitate/afd-verbot.de-2025-07-28-proof-01137.md) | Zitat-/Proof-Datei | .md | 4.5 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-01138.md](../../zitate/afd-verbot.de-2025-07-28-proof-01138.md) | Zitat-/Proof-Datei | .md | 4.5 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-01138.md](../../zitate/afd-verbot.de-2025-07-28-proof-01138.md) | Zitat-/Proof-Datei | .md | 5.5 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-01139.md](../../zitate/afd-verbot.de-2025-07-28-proof-01139.md) | Zitat-/Proof-Datei | .md | 5.3 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-01140.md](../../zitate/afd-verbot.de-2025-07-28-proof-01140.md) | Zitat-/Proof-Datei | .md | 4.7 KB |
@@ -8356,7 +8356,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [zitate/afd-verbot.de-2025-07-28-proof-01234.md](../../zitate/afd-verbot.de-2025-07-28-proof-01234.md) | Zitat-/Proof-Datei | .md | 5.2 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-01235.md](../../zitate/afd-verbot.de-2025-07-28-proof-01235.md) | Zitat-/Proof-Datei | .md | 4.5 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-01236.md](../../zitate/afd-verbot.de-2025-07-28-proof-01236.md) | Zitat-/Proof-Datei | .md | 5.1 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-01237.md](../../zitate/afd-verbot.de-2025-07-28-proof-01237.md) | Zitat-/Proof-Datei | .md | 4.7 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-01238.md](../../zitate/afd-verbot.de-2025-07-28-proof-01238.md) | Zitat-/Proof-Datei | .md | 4.7 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-01238.md](../../zitate/afd-verbot.de-2025-07-28-proof-01238.md) | Zitat-/Proof-Datei | .md | 5.1 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-01239.md](../../zitate/afd-verbot.de-2025-07-28-proof-01239.md) | Zitat-/Proof-Datei | .md | 5.4 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-01240.md](../../zitate/afd-verbot.de-2025-07-28-proof-01240.md) | Zitat-/Proof-Datei | .md | 5.1 KB |
@@ -8456,7 +8456,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [zitate/afd-verbot.de-2025-07-28-proof-01334.md](../../zitate/afd-verbot.de-2025-07-28-proof-01334.md) | Zitat-/Proof-Datei | .md | 4.8 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-01335.md](../../zitate/afd-verbot.de-2025-07-28-proof-01335.md) | Zitat-/Proof-Datei | .md | 4.8 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-01336.md](../../zitate/afd-verbot.de-2025-07-28-proof-01336.md) | Zitat-/Proof-Datei | .md | 4.6 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-01337.md](../../zitate/afd-verbot.de-2025-07-28-proof-01337.md) | Zitat-/Proof-Datei | .md | 5.0 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-01338.md](../../zitate/afd-verbot.de-2025-07-28-proof-01338.md) | Zitat-/Proof-Datei | .md | 5.0 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-01338.md](../../zitate/afd-verbot.de-2025-07-28-proof-01338.md) | Zitat-/Proof-Datei | .md | 5.2 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-01339.md](../../zitate/afd-verbot.de-2025-07-28-proof-01339.md) | Zitat-/Proof-Datei | .md | 4.6 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-01340.md](../../zitate/afd-verbot.de-2025-07-28-proof-01340.md) | Zitat-/Proof-Datei | .md | 4.7 KB |
@@ -8489,16 +8489,16 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [zitate/afd-verbot.de-2025-07-28-proof-01367.md](../../zitate/afd-verbot.de-2025-07-28-proof-01367.md) | Zitat-/Proof-Datei | .md | 5.0 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-01368.md](../../zitate/afd-verbot.de-2025-07-28-proof-01368.md) | Zitat-/Proof-Datei | .md | 5.0 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-01369.md](../../zitate/afd-verbot.de-2025-07-28-proof-01369.md) | Zitat-/Proof-Datei | .md | 4.8 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-01370.md](../../zitate/afd-verbot.de-2025-07-28-proof-01370.md) | Zitat-/Proof-Datei | .md | 5.1 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-01371.md](../../zitate/afd-verbot.de-2025-07-28-proof-01371.md) | Zitat-/Proof-Datei | .md | 5.2 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-01372.md](../../zitate/afd-verbot.de-2025-07-28-proof-01372.md) | Zitat-/Proof-Datei | .md | 4.7 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-01373.md](../../zitate/afd-verbot.de-2025-07-28-proof-01373.md) | Zitat-/Proof-Datei | .md | 4.8 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-01374.md](../../zitate/afd-verbot.de-2025-07-28-proof-01374.md) | Zitat-/Proof-Datei | .md | 5.3 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-01375.md](../../zitate/afd-verbot.de-2025-07-28-proof-01375.md) | Zitat-/Proof-Datei | .md | 5.5 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-01376.md](../../zitate/afd-verbot.de-2025-07-28-proof-01376.md) | Zitat-/Proof-Datei | .md | 5.7 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-01377.md](../../zitate/afd-verbot.de-2025-07-28-proof-01377.md) | Zitat-/Proof-Datei | .md | 4.9 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-01378.md](../../zitate/afd-verbot.de-2025-07-28-proof-01378.md) | Zitat-/Proof-Datei | .md | 5.2 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-01379.md](../../zitate/afd-verbot.de-2025-07-28-proof-01379.md) | Zitat-/Proof-Datei | .md | 4.8 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-01380.md](../../zitate/afd-verbot.de-2025-07-28-proof-01380.md) | Zitat-/Proof-Datei | .md | 5.1 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-01381.md](../../zitate/afd-verbot.de-2025-07-28-proof-01381.md) | Zitat-/Proof-Datei | .md | 5.2 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-01382.md](../../zitate/afd-verbot.de-2025-07-28-proof-01382.md) | Zitat-/Proof-Datei | .md | 4.7 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-01383.md](../../zitate/afd-verbot.de-2025-07-28-proof-01383.md) | Zitat-/Proof-Datei | .md | 4.8 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-01384.md](../../zitate/afd-verbot.de-2025-07-28-proof-01384.md) | Zitat-/Proof-Datei | .md | 5.3 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-01385.md](../../zitate/afd-verbot.de-2025-07-28-proof-01385.md) | Zitat-/Proof-Datei | .md | 5.5 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-01386.md](../../zitate/afd-verbot.de-2025-07-28-proof-01386.md) | Zitat-/Proof-Datei | .md | 5.7 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-01387.md](../../zitate/afd-verbot.de-2025-07-28-proof-01387.md) | Zitat-/Proof-Datei | .md | 4.9 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-01388.md](../../zitate/afd-verbot.de-2025-07-28-proof-01388.md) | Zitat-/Proof-Datei | .md | 5.2 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-01389.md](../../zitate/afd-verbot.de-2025-07-28-proof-01389.md) | Zitat-/Proof-Datei | .md | 4.8 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-01380.md](../../zitate/afd-verbot.de-2025-07-28-proof-01380.md) | Zitat-/Proof-Datei | .md | 5.2 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-01381.md](../../zitate/afd-verbot.de-2025-07-28-proof-01381.md) | Zitat-/Proof-Datei | .md | 4.9 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-01382.md](../../zitate/afd-verbot.de-2025-07-28-proof-01382.md) | Zitat-/Proof-Datei | .md | 5.1 KB |
@@ -8556,7 +8556,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [zitate/afd-verbot.de-2025-07-28-proof-01434.md](../../zitate/afd-verbot.de-2025-07-28-proof-01434.md) | Zitat-/Proof-Datei | .md | 6.1 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-01435.md](../../zitate/afd-verbot.de-2025-07-28-proof-01435.md) | Zitat-/Proof-Datei | .md | 5.3 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-01436.md](../../zitate/afd-verbot.de-2025-07-28-proof-01436.md) | Zitat-/Proof-Datei | .md | 5.0 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-01437.md](../../zitate/afd-verbot.de-2025-07-28-proof-01437.md) | Zitat-/Proof-Datei | .md | 4.7 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-01438.md](../../zitate/afd-verbot.de-2025-07-28-proof-01438.md) | Zitat-/Proof-Datei | .md | 4.7 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-01438.md](../../zitate/afd-verbot.de-2025-07-28-proof-01438.md) | Zitat-/Proof-Datei | .md | 4.8 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-01439.md](../../zitate/afd-verbot.de-2025-07-28-proof-01439.md) | Zitat-/Proof-Datei | .md | 4.7 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-01440.md](../../zitate/afd-verbot.de-2025-07-28-proof-01440.md) | Zitat-/Proof-Datei | .md | 4.7 KB |
@@ -8656,7 +8656,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [zitate/afd-verbot.de-2025-07-28-proof-01534.md](../../zitate/afd-verbot.de-2025-07-28-proof-01534.md) | Zitat-/Proof-Datei | .md | 4.9 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-01535.md](../../zitate/afd-verbot.de-2025-07-28-proof-01535.md) | Zitat-/Proof-Datei | .md | 4.6 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-01536.md](../../zitate/afd-verbot.de-2025-07-28-proof-01536.md) | Zitat-/Proof-Datei | .md | 5.5 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-01537.md](../../zitate/afd-verbot.de-2025-07-28-proof-01537.md) | Zitat-/Proof-Datei | .md | 4.9 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-01538.md](../../zitate/afd-verbot.de-2025-07-28-proof-01538.md) | Zitat-/Proof-Datei | .md | 4.9 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-01538.md](../../zitate/afd-verbot.de-2025-07-28-proof-01538.md) | Zitat-/Proof-Datei | .md | 4.5 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-01539.md](../../zitate/afd-verbot.de-2025-07-28-proof-01539.md) | Zitat-/Proof-Datei | .md | 5.5 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-01540.md](../../zitate/afd-verbot.de-2025-07-28-proof-01540.md) | Zitat-/Proof-Datei | .md | 4.8 KB |
@@ -8756,7 +8756,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [zitate/afd-verbot.de-2025-07-28-proof-01634.md](../../zitate/afd-verbot.de-2025-07-28-proof-01634.md) | Zitat-/Proof-Datei | .md | 5.3 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-01635.md](../../zitate/afd-verbot.de-2025-07-28-proof-01635.md) | Zitat-/Proof-Datei | .md | 5.3 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-01636.md](../../zitate/afd-verbot.de-2025-07-28-proof-01636.md) | Zitat-/Proof-Datei | .md | 5.3 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-01637.md](../../zitate/afd-verbot.de-2025-07-28-proof-01637.md) | Zitat-/Proof-Datei | .md | 5.3 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-01638.md](../../zitate/afd-verbot.de-2025-07-28-proof-01638.md) | Zitat-/Proof-Datei | .md | 5.3 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-01638.md](../../zitate/afd-verbot.de-2025-07-28-proof-01638.md) | Zitat-/Proof-Datei | .md | 5.1 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-01639.md](../../zitate/afd-verbot.de-2025-07-28-proof-01639.md) | Zitat-/Proof-Datei | .md | 4.8 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-01640.md](../../zitate/afd-verbot.de-2025-07-28-proof-01640.md) | Zitat-/Proof-Datei | .md | 5.5 KB |
@@ -8856,7 +8856,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [zitate/afd-verbot.de-2025-07-28-proof-01734.md](../../zitate/afd-verbot.de-2025-07-28-proof-01734.md) | Zitat-/Proof-Datei | .md | 6.2 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-01735.md](../../zitate/afd-verbot.de-2025-07-28-proof-01735.md) | Zitat-/Proof-Datei | .md | 5.6 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-01736.md](../../zitate/afd-verbot.de-2025-07-28-proof-01736.md) | Zitat-/Proof-Datei | .md | 6.0 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-01737.md](../../zitate/afd-verbot.de-2025-07-28-proof-01737.md) | Zitat-/Proof-Datei | .md | 5.4 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-01738.md](../../zitate/afd-verbot.de-2025-07-28-proof-01738.md) | Zitat-/Proof-Datei | .md | 5.4 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-01738.md](../../zitate/afd-verbot.de-2025-07-28-proof-01738.md) | Zitat-/Proof-Datei | .md | 5.7 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-01739.md](../../zitate/afd-verbot.de-2025-07-28-proof-01739.md) | Zitat-/Proof-Datei | .md | 5.4 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-01740.md](../../zitate/afd-verbot.de-2025-07-28-proof-01740.md) | Zitat-/Proof-Datei | .md | 5.3 KB |
@@ -8956,7 +8956,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [zitate/afd-verbot.de-2025-07-28-proof-01834.md](../../zitate/afd-verbot.de-2025-07-28-proof-01834.md) | Zitat-/Proof-Datei | .md | 6.1 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-01835.md](../../zitate/afd-verbot.de-2025-07-28-proof-01835.md) | Zitat-/Proof-Datei | .md | 4.7 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-01836.md](../../zitate/afd-verbot.de-2025-07-28-proof-01836.md) | Zitat-/Proof-Datei | .md | 4.8 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-01837.md](../../zitate/afd-verbot.de-2025-07-28-proof-01837.md) | Zitat-/Proof-Datei | .md | 5.1 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-01838.md](../../zitate/afd-verbot.de-2025-07-28-proof-01838.md) | Zitat-/Proof-Datei | .md | 5.1 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-01838.md](../../zitate/afd-verbot.de-2025-07-28-proof-01838.md) | Zitat-/Proof-Datei | .md | 4.5 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-01839.md](../../zitate/afd-verbot.de-2025-07-28-proof-01839.md) | Zitat-/Proof-Datei | .md | 4.6 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-01840.md](../../zitate/afd-verbot.de-2025-07-28-proof-01840.md) | Zitat-/Proof-Datei | .md | 5.0 KB |
@@ -9056,7 +9056,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [zitate/afd-verbot.de-2025-07-28-proof-01934.md](../../zitate/afd-verbot.de-2025-07-28-proof-01934.md) | Zitat-/Proof-Datei | .md | 5.2 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-01935.md](../../zitate/afd-verbot.de-2025-07-28-proof-01935.md) | Zitat-/Proof-Datei | .md | 5.6 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-01936.md](../../zitate/afd-verbot.de-2025-07-28-proof-01936.md) | Zitat-/Proof-Datei | .md | 5.2 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-01937.md](../../zitate/afd-verbot.de-2025-07-28-proof-01937.md) | Zitat-/Proof-Datei | .md | 5.2 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-01938.md](../../zitate/afd-verbot.de-2025-07-28-proof-01938.md) | Zitat-/Proof-Datei | .md | 5.2 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-01938.md](../../zitate/afd-verbot.de-2025-07-28-proof-01938.md) | Zitat-/Proof-Datei | .md | 5.4 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-01939.md](../../zitate/afd-verbot.de-2025-07-28-proof-01939.md) | Zitat-/Proof-Datei | .md | 4.6 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-01940.md](../../zitate/afd-verbot.de-2025-07-28-proof-01940.md) | Zitat-/Proof-Datei | .md | 4.8 KB |
@@ -9156,7 +9156,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [zitate/afd-verbot.de-2025-07-28-proof-02034.md](../../zitate/afd-verbot.de-2025-07-28-proof-02034.md) | Zitat-/Proof-Datei | .md | 5.6 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-02035.md](../../zitate/afd-verbot.de-2025-07-28-proof-02035.md) | Zitat-/Proof-Datei | .md | 4.9 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-02036.md](../../zitate/afd-verbot.de-2025-07-28-proof-02036.md) | Zitat-/Proof-Datei | .md | 4.8 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-02037.md](../../zitate/afd-verbot.de-2025-07-28-proof-02037.md) | Zitat-/Proof-Datei | .md | 6.0 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-02038.md](../../zitate/afd-verbot.de-2025-07-28-proof-02038.md) | Zitat-/Proof-Datei | .md | 6.0 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-02038.md](../../zitate/afd-verbot.de-2025-07-28-proof-02038.md) | Zitat-/Proof-Datei | .md | 4.5 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-02039.md](../../zitate/afd-verbot.de-2025-07-28-proof-02039.md) | Zitat-/Proof-Datei | .md | 6.0 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-02040.md](../../zitate/afd-verbot.de-2025-07-28-proof-02040.md) | Zitat-/Proof-Datei | .md | 4.7 KB |
@@ -9256,7 +9256,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [zitate/afd-verbot.de-2025-07-28-proof-02134.md](../../zitate/afd-verbot.de-2025-07-28-proof-02134.md) | Zitat-/Proof-Datei | .md | 4.9 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-02135.md](../../zitate/afd-verbot.de-2025-07-28-proof-02135.md) | Zitat-/Proof-Datei | .md | 5.1 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-02136.md](../../zitate/afd-verbot.de-2025-07-28-proof-02136.md) | Zitat-/Proof-Datei | .md | 4.7 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-02137.md](../../zitate/afd-verbot.de-2025-07-28-proof-02137.md) | Zitat-/Proof-Datei | .md | 5.7 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-02138.md](../../zitate/afd-verbot.de-2025-07-28-proof-02138.md) | Zitat-/Proof-Datei | .md | 5.7 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-02138.md](../../zitate/afd-verbot.de-2025-07-28-proof-02138.md) | Zitat-/Proof-Datei | .md | 5.2 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-02139.md](../../zitate/afd-verbot.de-2025-07-28-proof-02139.md) | Zitat-/Proof-Datei | .md | 5.3 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-02140.md](../../zitate/afd-verbot.de-2025-07-28-proof-02140.md) | Zitat-/Proof-Datei | .md | 5.3 KB |
@@ -9356,7 +9356,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [zitate/afd-verbot.de-2025-07-28-proof-02234.md](../../zitate/afd-verbot.de-2025-07-28-proof-02234.md) | Zitat-/Proof-Datei | .md | 4.5 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-02235.md](../../zitate/afd-verbot.de-2025-07-28-proof-02235.md) | Zitat-/Proof-Datei | .md | 5.3 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-02236.md](../../zitate/afd-verbot.de-2025-07-28-proof-02236.md) | Zitat-/Proof-Datei | .md | 4.9 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-02237.md](../../zitate/afd-verbot.de-2025-07-28-proof-02237.md) | Zitat-/Proof-Datei | .md | 6.0 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-02238.md](../../zitate/afd-verbot.de-2025-07-28-proof-02238.md) | Zitat-/Proof-Datei | .md | 6.0 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-02238.md](../../zitate/afd-verbot.de-2025-07-28-proof-02238.md) | Zitat-/Proof-Datei | .md | 5.2 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-02239.md](../../zitate/afd-verbot.de-2025-07-28-proof-02239.md) | Zitat-/Proof-Datei | .md | 6.0 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-02240.md](../../zitate/afd-verbot.de-2025-07-28-proof-02240.md) | Zitat-/Proof-Datei | .md | 6.0 KB |
@@ -9456,7 +9456,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [zitate/afd-verbot.de-2025-07-28-proof-02334.md](../../zitate/afd-verbot.de-2025-07-28-proof-02334.md) | Zitat-/Proof-Datei | .md | 5.3 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-02335.md](../../zitate/afd-verbot.de-2025-07-28-proof-02335.md) | Zitat-/Proof-Datei | .md | 5.0 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-02336.md](../../zitate/afd-verbot.de-2025-07-28-proof-02336.md) | Zitat-/Proof-Datei | .md | 5.0 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-02337.md](../../zitate/afd-verbot.de-2025-07-28-proof-02337.md) | Zitat-/Proof-Datei | .md | 5.1 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-02338.md](../../zitate/afd-verbot.de-2025-07-28-proof-02338.md) | Zitat-/Proof-Datei | .md | 5.1 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-02338.md](../../zitate/afd-verbot.de-2025-07-28-proof-02338.md) | Zitat-/Proof-Datei | .md | 4.7 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-02339.md](../../zitate/afd-verbot.de-2025-07-28-proof-02339.md) | Zitat-/Proof-Datei | .md | 4.9 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-02340.md](../../zitate/afd-verbot.de-2025-07-28-proof-02340.md) | Zitat-/Proof-Datei | .md | 5.0 KB |
@@ -9489,16 +9489,16 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [zitate/afd-verbot.de-2025-07-28-proof-02367.md](../../zitate/afd-verbot.de-2025-07-28-proof-02367.md) | Zitat-/Proof-Datei | .md | 5.6 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-02368.md](../../zitate/afd-verbot.de-2025-07-28-proof-02368.md) | Zitat-/Proof-Datei | .md | 4.8 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-02369.md](../../zitate/afd-verbot.de-2025-07-28-proof-02369.md) | Zitat-/Proof-Datei | .md | 4.7 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-02370.md](../../zitate/afd-verbot.de-2025-07-28-proof-02370.md) | Zitat-/Proof-Datei | .md | 5.1 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-02371.md](../../zitate/afd-verbot.de-2025-07-28-proof-02371.md) | Zitat-/Proof-Datei | .md | 5.1 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-02372.md](../../zitate/afd-verbot.de-2025-07-28-proof-02372.md) | Zitat-/Proof-Datei | .md | 4.7 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-02373.md](../../zitate/afd-verbot.de-2025-07-28-proof-02373.md) | Zitat-/Proof-Datei | .md | 4.7 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-02374.md](../../zitate/afd-verbot.de-2025-07-28-proof-02374.md) | Zitat-/Proof-Datei | .md | 4.7 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-02375.md](../../zitate/afd-verbot.de-2025-07-28-proof-02375.md) | Zitat-/Proof-Datei | .md | 4.5 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-02376.md](../../zitate/afd-verbot.de-2025-07-28-proof-02376.md) | Zitat-/Proof-Datei | .md | 4.8 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-02377.md](../../zitate/afd-verbot.de-2025-07-28-proof-02377.md) | Zitat-/Proof-Datei | .md | 4.4 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-02378.md](../../zitate/afd-verbot.de-2025-07-28-proof-02378.md) | Zitat-/Proof-Datei | .md | 5.1 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-02379.md](../../zitate/afd-verbot.de-2025-07-28-proof-02379.md) | Zitat-/Proof-Datei | .md | 4.6 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-02380.md](../../zitate/afd-verbot.de-2025-07-28-proof-02380.md) | Zitat-/Proof-Datei | .md | 5.1 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-02381.md](../../zitate/afd-verbot.de-2025-07-28-proof-02381.md) | Zitat-/Proof-Datei | .md | 5.1 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-02382.md](../../zitate/afd-verbot.de-2025-07-28-proof-02382.md) | Zitat-/Proof-Datei | .md | 4.7 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-02383.md](../../zitate/afd-verbot.de-2025-07-28-proof-02383.md) | Zitat-/Proof-Datei | .md | 4.7 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-02384.md](../../zitate/afd-verbot.de-2025-07-28-proof-02384.md) | Zitat-/Proof-Datei | .md | 4.7 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-02385.md](../../zitate/afd-verbot.de-2025-07-28-proof-02385.md) | Zitat-/Proof-Datei | .md | 4.5 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-02386.md](../../zitate/afd-verbot.de-2025-07-28-proof-02386.md) | Zitat-/Proof-Datei | .md | 4.8 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-02387.md](../../zitate/afd-verbot.de-2025-07-28-proof-02387.md) | Zitat-/Proof-Datei | .md | 4.4 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-02388.md](../../zitate/afd-verbot.de-2025-07-28-proof-02388.md) | Zitat-/Proof-Datei | .md | 5.1 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-02389.md](../../zitate/afd-verbot.de-2025-07-28-proof-02389.md) | Zitat-/Proof-Datei | .md | 4.6 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-02380.md](../../zitate/afd-verbot.de-2025-07-28-proof-02380.md) | Zitat-/Proof-Datei | .md | 4.7 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-02381.md](../../zitate/afd-verbot.de-2025-07-28-proof-02381.md) | Zitat-/Proof-Datei | .md | 4.5 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-02382.md](../../zitate/afd-verbot.de-2025-07-28-proof-02382.md) | Zitat-/Proof-Datei | .md | 4.4 KB |
@@ -9556,7 +9556,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [zitate/afd-verbot.de-2025-07-28-proof-02434.md](../../zitate/afd-verbot.de-2025-07-28-proof-02434.md) | Zitat-/Proof-Datei | .md | 4.7 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-02435.md](../../zitate/afd-verbot.de-2025-07-28-proof-02435.md) | Zitat-/Proof-Datei | .md | 4.6 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-02436.md](../../zitate/afd-verbot.de-2025-07-28-proof-02436.md) | Zitat-/Proof-Datei | .md | 5.0 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-02437.md](../../zitate/afd-verbot.de-2025-07-28-proof-02437.md) | Zitat-/Proof-Datei | .md | 4.6 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-02438.md](../../zitate/afd-verbot.de-2025-07-28-proof-02438.md) | Zitat-/Proof-Datei | .md | 4.6 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-02438.md](../../zitate/afd-verbot.de-2025-07-28-proof-02438.md) | Zitat-/Proof-Datei | .md | 4.8 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-02439.md](../../zitate/afd-verbot.de-2025-07-28-proof-02439.md) | Zitat-/Proof-Datei | .md | 4.6 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-02440.md](../../zitate/afd-verbot.de-2025-07-28-proof-02440.md) | Zitat-/Proof-Datei | .md | 4.9 KB |
@@ -9656,7 +9656,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [zitate/afd-verbot.de-2025-07-28-proof-02534.md](../../zitate/afd-verbot.de-2025-07-28-proof-02534.md) | Zitat-/Proof-Datei | .md | 5.4 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-02535.md](../../zitate/afd-verbot.de-2025-07-28-proof-02535.md) | Zitat-/Proof-Datei | .md | 5.4 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-02536.md](../../zitate/afd-verbot.de-2025-07-28-proof-02536.md) | Zitat-/Proof-Datei | .md | 4.9 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-02537.md](../../zitate/afd-verbot.de-2025-07-28-proof-02537.md) | Zitat-/Proof-Datei | .md | 5.0 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-02538.md](../../zitate/afd-verbot.de-2025-07-28-proof-02538.md) | Zitat-/Proof-Datei | .md | 5.0 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-02538.md](../../zitate/afd-verbot.de-2025-07-28-proof-02538.md) | Zitat-/Proof-Datei | .md | 4.8 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-02539.md](../../zitate/afd-verbot.de-2025-07-28-proof-02539.md) | Zitat-/Proof-Datei | .md | 5.2 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-02540.md](../../zitate/afd-verbot.de-2025-07-28-proof-02540.md) | Zitat-/Proof-Datei | .md | 5.5 KB |
@@ -9756,7 +9756,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [zitate/afd-verbot.de-2025-07-28-proof-02634.md](../../zitate/afd-verbot.de-2025-07-28-proof-02634.md) | Zitat-/Proof-Datei | .md | 4.7 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-02635.md](../../zitate/afd-verbot.de-2025-07-28-proof-02635.md) | Zitat-/Proof-Datei | .md | 4.6 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-02636.md](../../zitate/afd-verbot.de-2025-07-28-proof-02636.md) | Zitat-/Proof-Datei | .md | 4.7 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-02637.md](../../zitate/afd-verbot.de-2025-07-28-proof-02637.md) | Zitat-/Proof-Datei | .md | 4.8 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-02638.md](../../zitate/afd-verbot.de-2025-07-28-proof-02638.md) | Zitat-/Proof-Datei | .md | 4.8 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-02638.md](../../zitate/afd-verbot.de-2025-07-28-proof-02638.md) | Zitat-/Proof-Datei | .md | 4.9 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-02639.md](../../zitate/afd-verbot.de-2025-07-28-proof-02639.md) | Zitat-/Proof-Datei | .md | 5.2 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-02640.md](../../zitate/afd-verbot.de-2025-07-28-proof-02640.md) | Zitat-/Proof-Datei | .md | 5.0 KB |
@@ -9856,7 +9856,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [zitate/afd-verbot.de-2025-07-28-proof-02734.md](../../zitate/afd-verbot.de-2025-07-28-proof-02734.md) | Zitat-/Proof-Datei | .md | 4.5 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-02735.md](../../zitate/afd-verbot.de-2025-07-28-proof-02735.md) | Zitat-/Proof-Datei | .md | 4.7 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-02736.md](../../zitate/afd-verbot.de-2025-07-28-proof-02736.md) | Zitat-/Proof-Datei | .md | 5.1 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-02737.md](../../zitate/afd-verbot.de-2025-07-28-proof-02737.md) | Zitat-/Proof-Datei | .md | 5.4 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-02738.md](../../zitate/afd-verbot.de-2025-07-28-proof-02738.md) | Zitat-/Proof-Datei | .md | 5.4 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-02738.md](../../zitate/afd-verbot.de-2025-07-28-proof-02738.md) | Zitat-/Proof-Datei | .md | 4.9 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-02739.md](../../zitate/afd-verbot.de-2025-07-28-proof-02739.md) | Zitat-/Proof-Datei | .md | 5.0 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-02740.md](../../zitate/afd-verbot.de-2025-07-28-proof-02740.md) | Zitat-/Proof-Datei | .md | 4.8 KB |
@@ -9956,7 +9956,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [zitate/afd-verbot.de-2025-07-28-proof-02834.md](../../zitate/afd-verbot.de-2025-07-28-proof-02834.md) | Zitat-/Proof-Datei | .md | 4.7 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-02835.md](../../zitate/afd-verbot.de-2025-07-28-proof-02835.md) | Zitat-/Proof-Datei | .md | 4.6 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-02836.md](../../zitate/afd-verbot.de-2025-07-28-proof-02836.md) | Zitat-/Proof-Datei | .md | 4.6 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-02837.md](../../zitate/afd-verbot.de-2025-07-28-proof-02837.md) | Zitat-/Proof-Datei | .md | 4.6 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-02838.md](../../zitate/afd-verbot.de-2025-07-28-proof-02838.md) | Zitat-/Proof-Datei | .md | 4.6 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-02838.md](../../zitate/afd-verbot.de-2025-07-28-proof-02838.md) | Zitat-/Proof-Datei | .md | 4.5 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-02839.md](../../zitate/afd-verbot.de-2025-07-28-proof-02839.md) | Zitat-/Proof-Datei | .md | 4.9 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-02840.md](../../zitate/afd-verbot.de-2025-07-28-proof-02840.md) | Zitat-/Proof-Datei | .md | 4.8 KB |
@@ -10056,7 +10056,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [zitate/afd-verbot.de-2025-07-28-proof-02934.md](../../zitate/afd-verbot.de-2025-07-28-proof-02934.md) | Zitat-/Proof-Datei | .md | 4.8 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-02935.md](../../zitate/afd-verbot.de-2025-07-28-proof-02935.md) | Zitat-/Proof-Datei | .md | 6.0 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-02936.md](../../zitate/afd-verbot.de-2025-07-28-proof-02936.md) | Zitat-/Proof-Datei | .md | 6.0 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-02937.md](../../zitate/afd-verbot.de-2025-07-28-proof-02937.md) | Zitat-/Proof-Datei | .md | 6.0 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-02938.md](../../zitate/afd-verbot.de-2025-07-28-proof-02938.md) | Zitat-/Proof-Datei | .md | 6.0 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-02938.md](../../zitate/afd-verbot.de-2025-07-28-proof-02938.md) | Zitat-/Proof-Datei | .md | 6.0 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-02939.md](../../zitate/afd-verbot.de-2025-07-28-proof-02939.md) | Zitat-/Proof-Datei | .md | 6.0 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-02940.md](../../zitate/afd-verbot.de-2025-07-28-proof-02940.md) | Zitat-/Proof-Datei | .md | 6.0 KB |
@@ -10156,7 +10156,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [zitate/afd-verbot.de-2025-07-28-proof-03034.md](../../zitate/afd-verbot.de-2025-07-28-proof-03034.md) | Zitat-/Proof-Datei | .md | 5.1 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-03035.md](../../zitate/afd-verbot.de-2025-07-28-proof-03035.md) | Zitat-/Proof-Datei | .md | 5.6 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-03036.md](../../zitate/afd-verbot.de-2025-07-28-proof-03036.md) | Zitat-/Proof-Datei | .md | 4.9 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-03037.md](../../zitate/afd-verbot.de-2025-07-28-proof-03037.md) | Zitat-/Proof-Datei | .md | 5.0 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-03038.md](../../zitate/afd-verbot.de-2025-07-28-proof-03038.md) | Zitat-/Proof-Datei | .md | 5.0 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-03038.md](../../zitate/afd-verbot.de-2025-07-28-proof-03038.md) | Zitat-/Proof-Datei | .md | 5.0 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-03039.md](../../zitate/afd-verbot.de-2025-07-28-proof-03039.md) | Zitat-/Proof-Datei | .md | 5.9 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-03040.md](../../zitate/afd-verbot.de-2025-07-28-proof-03040.md) | Zitat-/Proof-Datei | .md | 5.5 KB |
@@ -10256,7 +10256,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [zitate/afd-verbot.de-2025-07-28-proof-03134.md](../../zitate/afd-verbot.de-2025-07-28-proof-03134.md) | Zitat-/Proof-Datei | .md | 4.7 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-03135.md](../../zitate/afd-verbot.de-2025-07-28-proof-03135.md) | Zitat-/Proof-Datei | .md | 4.9 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-03136.md](../../zitate/afd-verbot.de-2025-07-28-proof-03136.md) | Zitat-/Proof-Datei | .md | 5.0 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-03137.md](../../zitate/afd-verbot.de-2025-07-28-proof-03137.md) | Zitat-/Proof-Datei | .md | 4.5 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-03138.md](../../zitate/afd-verbot.de-2025-07-28-proof-03138.md) | Zitat-/Proof-Datei | .md | 4.5 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-03138.md](../../zitate/afd-verbot.de-2025-07-28-proof-03138.md) | Zitat-/Proof-Datei | .md | 4.6 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-03139.md](../../zitate/afd-verbot.de-2025-07-28-proof-03139.md) | Zitat-/Proof-Datei | .md | 4.6 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-03140.md](../../zitate/afd-verbot.de-2025-07-28-proof-03140.md) | Zitat-/Proof-Datei | .md | 4.8 KB |
@@ -10356,7 +10356,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [zitate/afd-verbot.de-2025-07-28-proof-03234.md](../../zitate/afd-verbot.de-2025-07-28-proof-03234.md) | Zitat-/Proof-Datei | .md | 5.1 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-03235.md](../../zitate/afd-verbot.de-2025-07-28-proof-03235.md) | Zitat-/Proof-Datei | .md | 5.0 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-03236.md](../../zitate/afd-verbot.de-2025-07-28-proof-03236.md) | Zitat-/Proof-Datei | .md | 5.2 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-03237.md](../../zitate/afd-verbot.de-2025-07-28-proof-03237.md) | Zitat-/Proof-Datei | .md | 5.2 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-03238.md](../../zitate/afd-verbot.de-2025-07-28-proof-03238.md) | Zitat-/Proof-Datei | .md | 5.2 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-03238.md](../../zitate/afd-verbot.de-2025-07-28-proof-03238.md) | Zitat-/Proof-Datei | .md | 4.9 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-03239.md](../../zitate/afd-verbot.de-2025-07-28-proof-03239.md) | Zitat-/Proof-Datei | .md | 4.9 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-03240.md](../../zitate/afd-verbot.de-2025-07-28-proof-03240.md) | Zitat-/Proof-Datei | .md | 4.7 KB |
@@ -10456,7 +10456,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [zitate/afd-verbot.de-2025-07-28-proof-03334.md](../../zitate/afd-verbot.de-2025-07-28-proof-03334.md) | Zitat-/Proof-Datei | .md | 5.0 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-03335.md](../../zitate/afd-verbot.de-2025-07-28-proof-03335.md) | Zitat-/Proof-Datei | .md | 4.8 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-03336.md](../../zitate/afd-verbot.de-2025-07-28-proof-03336.md) | Zitat-/Proof-Datei | .md | 4.8 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-03337.md](../../zitate/afd-verbot.de-2025-07-28-proof-03337.md) | Zitat-/Proof-Datei | .md | 5.2 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-03338.md](../../zitate/afd-verbot.de-2025-07-28-proof-03338.md) | Zitat-/Proof-Datei | .md | 5.2 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-03338.md](../../zitate/afd-verbot.de-2025-07-28-proof-03338.md) | Zitat-/Proof-Datei | .md | 4.8 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-03339.md](../../zitate/afd-verbot.de-2025-07-28-proof-03339.md) | Zitat-/Proof-Datei | .md | 4.8 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-03340.md](../../zitate/afd-verbot.de-2025-07-28-proof-03340.md) | Zitat-/Proof-Datei | .md | 4.7 KB |
@@ -10489,16 +10489,16 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [zitate/afd-verbot.de-2025-07-28-proof-03367.md](../../zitate/afd-verbot.de-2025-07-28-proof-03367.md) | Zitat-/Proof-Datei | .md | 5.1 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-03368.md](../../zitate/afd-verbot.de-2025-07-28-proof-03368.md) | Zitat-/Proof-Datei | .md | 4.5 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-03369.md](../../zitate/afd-verbot.de-2025-07-28-proof-03369.md) | Zitat-/Proof-Datei | .md | 4.7 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-03370.md](../../zitate/afd-verbot.de-2025-07-28-proof-03370.md) | Zitat-/Proof-Datei | .md | 4.9 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-03371.md](../../zitate/afd-verbot.de-2025-07-28-proof-03371.md) | Zitat-/Proof-Datei | .md | 4.5 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-03372.md](../../zitate/afd-verbot.de-2025-07-28-proof-03372.md) | Zitat-/Proof-Datei | .md | 4.8 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-03373.md](../../zitate/afd-verbot.de-2025-07-28-proof-03373.md) | Zitat-/Proof-Datei | .md | 5.2 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-03374.md](../../zitate/afd-verbot.de-2025-07-28-proof-03374.md) | Zitat-/Proof-Datei | .md | 4.6 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-03375.md](../../zitate/afd-verbot.de-2025-07-28-proof-03375.md) | Zitat-/Proof-Datei | .md | 4.6 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-03376.md](../../zitate/afd-verbot.de-2025-07-28-proof-03376.md) | Zitat-/Proof-Datei | .md | 4.8 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-03377.md](../../zitate/afd-verbot.de-2025-07-28-proof-03377.md) | Zitat-/Proof-Datei | .md | 4.5 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-03378.md](../../zitate/afd-verbot.de-2025-07-28-proof-03378.md) | Zitat-/Proof-Datei | .md | 4.9 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-03379.md](../../zitate/afd-verbot.de-2025-07-28-proof-03379.md) | Zitat-/Proof-Datei | .md | 4.7 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-03380.md](../../zitate/afd-verbot.de-2025-07-28-proof-03380.md) | Zitat-/Proof-Datei | .md | 4.9 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-03381.md](../../zitate/afd-verbot.de-2025-07-28-proof-03381.md) | Zitat-/Proof-Datei | .md | 4.5 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-03382.md](../../zitate/afd-verbot.de-2025-07-28-proof-03382.md) | Zitat-/Proof-Datei | .md | 4.8 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-03383.md](../../zitate/afd-verbot.de-2025-07-28-proof-03383.md) | Zitat-/Proof-Datei | .md | 5.2 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-03384.md](../../zitate/afd-verbot.de-2025-07-28-proof-03384.md) | Zitat-/Proof-Datei | .md | 4.6 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-03385.md](../../zitate/afd-verbot.de-2025-07-28-proof-03385.md) | Zitat-/Proof-Datei | .md | 4.6 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-03386.md](../../zitate/afd-verbot.de-2025-07-28-proof-03386.md) | Zitat-/Proof-Datei | .md | 4.8 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-03387.md](../../zitate/afd-verbot.de-2025-07-28-proof-03387.md) | Zitat-/Proof-Datei | .md | 4.5 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-03388.md](../../zitate/afd-verbot.de-2025-07-28-proof-03388.md) | Zitat-/Proof-Datei | .md | 4.9 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-03389.md](../../zitate/afd-verbot.de-2025-07-28-proof-03389.md) | Zitat-/Proof-Datei | .md | 4.7 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-03380.md](../../zitate/afd-verbot.de-2025-07-28-proof-03380.md) | Zitat-/Proof-Datei | .md | 4.4 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-03381.md](../../zitate/afd-verbot.de-2025-07-28-proof-03381.md) | Zitat-/Proof-Datei | .md | 4.9 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-03382.md](../../zitate/afd-verbot.de-2025-07-28-proof-03382.md) | Zitat-/Proof-Datei | .md | 4.9 KB |
@@ -10556,7 +10556,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [zitate/afd-verbot.de-2025-07-28-proof-03434.md](../../zitate/afd-verbot.de-2025-07-28-proof-03434.md) | Zitat-/Proof-Datei | .md | 4.5 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-03435.md](../../zitate/afd-verbot.de-2025-07-28-proof-03435.md) | Zitat-/Proof-Datei | .md | 4.4 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-03436.md](../../zitate/afd-verbot.de-2025-07-28-proof-03436.md) | Zitat-/Proof-Datei | .md | 4.8 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-03437.md](../../zitate/afd-verbot.de-2025-07-28-proof-03437.md) | Zitat-/Proof-Datei | .md | 4.9 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-03438.md](../../zitate/afd-verbot.de-2025-07-28-proof-03438.md) | Zitat-/Proof-Datei | .md | 4.9 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-03438.md](../../zitate/afd-verbot.de-2025-07-28-proof-03438.md) | Zitat-/Proof-Datei | .md | 4.4 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-03439.md](../../zitate/afd-verbot.de-2025-07-28-proof-03439.md) | Zitat-/Proof-Datei | .md | 4.4 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-03440.md](../../zitate/afd-verbot.de-2025-07-28-proof-03440.md) | Zitat-/Proof-Datei | .md | 4.5 KB |
@@ -10656,7 +10656,7 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [zitate/afd-verbot.de-2025-07-28-proof-03534.md](../../zitate/afd-verbot.de-2025-07-28-proof-03534.md) | Zitat-/Proof-Datei | .md | 4.8 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-03535.md](../../zitate/afd-verbot.de-2025-07-28-proof-03535.md) | Zitat-/Proof-Datei | .md | 4.5 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-03536.md](../../zitate/afd-verbot.de-2025-07-28-proof-03536.md) | Zitat-/Proof-Datei | .md | 4.9 KB |
-| [zitate/afd-verbot.de-2025-07-28-proof-03537.md](../../zitate/afd-verbot.de-2025-07-28-proof-03537.md) | Zitat-/Proof-Datei | .md | 4.7 KB |
+| [zitate/afd-verbot.de-2025-07-28-proof-03538.md](../../zitate/afd-verbot.de-2025-07-28-proof-03538.md) | Zitat-/Proof-Datei | .md | 4.7 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-03538.md](../../zitate/afd-verbot.de-2025-07-28-proof-03538.md) | Zitat-/Proof-Datei | .md | 4.8 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-03539.md](../../zitate/afd-verbot.de-2025-07-28-proof-03539.md) | Zitat-/Proof-Datei | .md | 4.6 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-03540.md](../../zitate/afd-verbot.de-2025-07-28-proof-03540.md) | Zitat-/Proof-Datei | .md | 4.5 KB |

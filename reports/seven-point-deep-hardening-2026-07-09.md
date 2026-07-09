@@ -1,8 +1,8 @@
 # Seven-Point Deep Hardening 2026-07-09
 
 - Top-300-Zitate mit lokalem Proof-Auszug: 300/300
-- Originalkanal-Ziele mit externer Original-URL: 10/266
-- Originalkanal-Ziele mit lokaler Archivroute: 256/266
+- Originalkanal-Ziele mit externer Original-URL: 9/266
+- Originalkanal-Ziele mit lokaler Archivroute: 257/266
 - Originalkanal-Ziele ohne URL/Archivroute: 0/266
 - Chronikcluster aus echter Abgleichsdatei: 13
 - Gutachten-Provenienz mit lokalen Kandidaten: 11/11

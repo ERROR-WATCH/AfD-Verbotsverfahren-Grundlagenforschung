@@ -147,7 +147,7 @@ Der Zitatkorpus ist nicht nur eine Sammlung "schlimmer Zitate". Er ist das Binde
 Vorhandene harte Struktur:
 
 - 3.703 Findings.
-- 3.611 Zitate/Belege.
+- 3.722 Zitate/Belege.
 - Direkte Zurechnung: 989.
 - Indirekte Zurechnung: 22.
 - Belegte Akteurs-/Quellen-Findings zur Zurechnungsnormalisierung: 2.692.

@@ -717,7 +717,7 @@ Ende der öffentlich zugänglichen Quellen.
 
 ---
 
-## TEIL II: URTEILE & GERICHTSENTSCHEIDUNGEN (239 FÄLLE)
+## TEIL II: URTEILE & GERICHTSENTSCHEIDUNGEN (historischer Registerstand: 239 Fälle; aktueller Release-Stand: 262)
 
 ### URTEILE & VERURTEILUNGEN: AfD-Mandatsträger und die Partei (Volltext-Register)
 
@@ -2605,13 +2605,13 @@ Dieses Kapitel führt sämtliche Quellennachweise, Online-Referenzen, Literaturv
 
 ### Quellenverzeichnis und Provenienzregister der Urteilsdatenbank
 
-Dieses Dokument enthält die verifizierten Online-Quellen, höchstrichterlichen Gerichtsentscheidungen, Pressemeldungen und behördlichen Nachweise für sämtliche 259 im Repository dokumentierten Fälle.
+Dieses Dokument enthält die verifizierten Online-Quellen, höchstrichterlichen Gerichtsentscheidungen, Pressemeldungen und behördlichen Nachweise für den historischen Registerstand bis Fall 259; aktueller Portal-/Release-Stand: 262 Fälle.
 
 Sämtliche Belege liegen physisch im Repository unter [`./urteilsbelege/`](./dokumente/hauptquellen/urteilsbelege/) im unzensierten Volltext vor.
 
 ---
 
-### 8.1. Gerichtsentscheidungen & Strafurteile (Fälle 1 bis 259)
+### 8.1. Gerichtsentscheidungen & Strafurteile (historischer Registerstand: Fälle 1 bis 259; aktueller Release-Stand: 262)
 
 
 1. **Björn Höcke (Geldstrafe (SA-Parole „Alles für Deutschland“).):**
@@ -4685,13 +4685,13 @@ Ersatz- und Beschaffungs­strategien für zwölf präzisierte Schlüssel­quelle
 
 ---
 
-#### ERGÄNZTES MASTER-QUELLENREGISTER (239 GERICHTSFÄLLE, LITERATUR & DOSSIERS)
+#### ERGÄNZTES MASTER-QUELLENREGISTER (historischer Registerstand: 239 Gerichtsfälle; aktueller Release-Stand: 262; Literatur & Dossiers)
 
 Dieses Kapitel erweitert den juristischen Deep-Research-Ausgangspunkt um die vollständigen, unzensierten Belege und Quellennachweise des Portals (Stand: Juni 2026).
 
 ---
 
-### A) Systematisches Strafrechts- und Gerichtsregister (Alle 239 Fälle mit Quellen)
+### A) Systematisches Strafrechts- und Gerichtsregister (historischer Registerstand: 239 Fälle; aktueller Release-Stand: 262)
 
 - 1. **Björn Höcke (SA-Parole „Alles für Deutschland“):**
    [LTO-Bericht zur Verurteilung und BGH-Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/lg-halle-5kls623-hoecke-urteil/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/Urteile gegen Höcke wegen NS-Parole rechtskräftig.pdf)`
@@ -6005,9 +6005,9 @@ In diesem Abschnitt werden die straf- und verfassungsrechtlichen Verfahren 46 bi
 
 
 
-## ABSCHNITT 5: STRAFPROZESSE, SONDERKATEGORIEN & STAATSSCHUTZVERFAHREN (FÄLLE 61 BIS 239)
+## ABSCHNITT 5: STRAFPROZESSE, SONDERKATEGORIEN & STAATSSCHUTZVERFAHREN (historischer Ausschnitt: Fälle 61 bis 239; aktueller Release-Stand: 262)
 
-In diesem Abschnitt werden die restlichen Urteile 61 bis 239 detailliert dargelegt und juristisch bewertet.
+In diesem historischen Abschnitt werden die Urteile 61 bis 239 detailliert dargelegt und juristisch bewertet; die späteren Nachträge führen den aktuellen Release-Stand bis 262.
 
 ---
 

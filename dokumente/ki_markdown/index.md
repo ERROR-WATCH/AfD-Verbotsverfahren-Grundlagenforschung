@@ -8,7 +8,7 @@ Offizielles Belegarchiv & Grundlagenforschung
 
 # Das Gerichtsregister & Beweismittel-Archiv zum AfD-Verbotsverfahren
 
-Eine systematische, wissenschaftlich fundierte Faktensammlung aus 239 Gerichtsentscheidungen, 3.611 Netzbelegen und unzensierten Verfassungsschutzgutachten für eine wehrhafte Demokratie.
+Eine systematische, wissenschaftlich fundierte Faktensammlung aus 262 Gerichtsentscheidungen, 3.722 Netzbelegen und unzensierten Verfassungsschutzgutachten für eine wehrhafte Demokratie.
 
 [Zum Portal-Dashboard](#portal)
  [PDF-Urteilsregister herunterladen](../hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)
@@ -22,7 +22,7 @@ Alle hier verzeichneten Daten basieren auf hoheitlichen Quellen (Bundeskriminala
 239
 Urteilsbelege
 
-3.611
+3.722
 Zitate & Belege
 
 18
@@ -42,11 +42,11 @@ Bundesländer
 
 Nutze die Tabs, um die Grundlagenforschung zu durchsuchen und die Korpusstruktur statistisch auszuwerten.
 
-🏛️ Gerichtsregister (239 Fälle)
+🏛️ Gerichtsregister (262 Fälle)
 
 🛑 18 Verbotsgründe
 
-💬 3.611 Zitate & Belege
+💬 3.722 Zitate & Belege
 
 📜 Gutachten & Leaks
 
@@ -519,7 +519,7 @@ Lade KI-Handbuch...
 
 Forschungsportal: AfD-Verbotsverfahren
 Lizenzierte Software/Scraper unter ACSL 1.4
-Letzte Aktualisierung: 04.07.2026 (239 Fälle, 60 VS-Dokumente, 3.611 Zitate)
+Letzte Aktualisierung: 04.07.2026 (262 Fälle, 60 VS-Dokumente, 3.722 Zitate)
 
 [GitHub Repo](https://github.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung)
 [Über](#about)
