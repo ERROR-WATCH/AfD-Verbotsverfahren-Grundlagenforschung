@@ -1379,3 +1379,8 @@ Ergänzender Index für die antragsrelevante Gutachtenabdeckung: [Gutachten-Cove
 - Maschinenlesbare Fassung: `daten/anlagenregister_art21_2026.jsonl`
 - Auditbericht: `reports/anlagenregister-audit-2026-07-09.md`
 - Zweck: Topbeweise, Gutachtenfamilien, hashgesicherte Webanker, Pinpointstatus, Zurechnung, Gegenlese und formale naechste Anlagehandlung in einer Schriftsatzroute zusammenfuehren.
+
+
+### Release-Zeitstempel
+
+Cleaned-Release-Stand: 2026-07-09T23:28:41+02:00
