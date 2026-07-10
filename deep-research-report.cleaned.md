@@ -1,24 +1,20 @@
 # Deep-Research-Report – bereinigte Release-Fassung
 
-> Hinweis: Diese Datei ist die bereinigte Release-Fassung des Deep-Research-Berichts. Frühere Aussagen aus `deep-research-report.md`, die sich auf veraltete Repo-Zustände, inzwischen bereinigte Manifestkonflikte oder erledigte Fehlstellen beziehen, wurden korrigiert oder entfernt.
+> Hinweis: Diese Datei ist die bereinigte Release-Fassung des Deep-Research-Berichts. Sie bildet den aktuellen Release-Stand ab und wurde gegen Repository, ZIP, Manifest, Statistikdaten, Quellenregister und Validierungsberichte geprüft.
 
-`deep-research-report.md`  
-Status: Rohfassung / veraltet / nicht release-clean
-
-`deep-research-report.cleaned.md`  
 Status: bereinigte Release-Fassung / gegen aktuellen ZIP-Stand geprüft / für Release-Tab geeignet
 
 ## 1. Kurzfazit
 
-Der aktuelle Release-Stand `/home/error/AfD-Verbotsverfahren-Grundlagenforschung-cleaned-371d883.zip` ist als aktiver, bereinigter Archiv- und Auswertungsstand zu behandeln, nicht als archiviertes oder read-only gesetztes Alt-Repository. Die frühere Rohfassung enthielt Aussagen zu angeblich archiviertem Repo-Status, Zählkonflikten und offenen Defiziten, die nach dem aktuellen Build-, Manifest- und Validierungsstand nicht mehr zutreffen.
+Der aktuelle Release-Stand `/home/error/AfD-Verbotsverfahren-Grundlagenforschung-cleaned-371d883.zip` ist als aktiver, bereinigter Archiv- und Auswertungsstand zu behandeln. Maßgeblich sind die geprüften Quellen-, Statistik-, Manifest-, Validierungs- und Beweisroutendaten dieses Stands.
 
 Die Beweisarchitektur ist für eine verbotsorientierte Vorarbeit substantiell: Das Repository trennt Quellen, Fundstellen, Akteure, Zurechnung, Art.-21-Prüffelder, Beweisgrad, Statistikmanifest und Visualisierung. Es ersetzt keinen förmlichen Antrag eines antragsberechtigten Verfassungsorgans, liefert aber eine breite und nachprüfbare Grundlage für dessen Anlagen-, Statistik- und Belegstruktur.
 
-Für den Release gilt: Die alte Datei `deep-research-report.md` darf nicht als Release-Dokument verlinkt werden. Maßgeblich ist diese bereinigte Fassung.
+Für den Release gilt: Maßgeblich ist diese bereinigte Fassung.
 
 ## 2. Aktueller Datenstand
 
-Die folgenden Kennzahlen sind aus dem aktuellen Repository-/ZIP-Stand und den geprüften Statistik-/README-Dateien übernommen. Zahlen, die in älteren Quellenlisten abweichend historisch auftauchen, werden nicht als aktueller Portalstand behandelt.
+Die folgenden Kennzahlen sind aus dem aktuellen Repository-/ZIP-Stand und den geprüften Statistik-/README-Dateien übernommen. Maßgeblich sind die validierten Release-Zahlen dieses Stands.
 
 | Bereich | Aktueller Stand | Beleg im Release-Stand | Einordnung |
 |---|---:|---|---|
@@ -26,7 +22,7 @@ Die folgenden Kennzahlen sind aus dem aktuellen Repository-/ZIP-Stand und den ge
 | Juristische Verbotsgründe | 18 | `README.md`, `STATISTIKMODUL.md`, `daten/verbotsgruende_18_beweismatrix.jsonl`, `daten/vg_source_match_audit_2026.jsonl` | Konsolidierte Art.-21-Beweisachsen. |
 | Belegzitate / Proof-Findings | 3.722 | README.md, STATISTIKMODUL.md, STATISTIK_TAB_INHALTLICHE_VISUALISIERUNG.md, statistikquellen.md | Aktueller lokaler Release-Korpus. Die Live-Seite afd-verbot.de/beweise weist separat einen Online-Stand von 4.036 Beweisen aus; dieser Online-Stand ist als spätere Source-Erweiterung zu behandeln, nicht als bereits vollständig lokaler Proof-Korpus. |
 | Dokumente | über 1.400 | `README.md` | Dokumentenbasis des Portals; keine Aussage, dass jeder Einzelbeleg dieselbe Beweisqualität hat. |
-| Statistikmanifest | 260 Objekte | `daten/statistik_manifest.json` | Geprüfte Statistikobjekte mit Quelle, Methode, Rechtsrelevanz und Status. |
+| Statistikmanifest | 261 Objekte | `daten/statistik_manifest.json` | Geprüfte Statistikobjekte mit Quelle, Methode, Rechtsrelevanz und Status. |
 | Quelleninventar | 10.741 Quellen | `daten/statistik_manifest.json`, `daten/source_inventory.jsonl` | Provenienz- und Quellenbasis. |
 | Primärquellen | 5.586 | `daten/statistik_manifest.json`, `daten/source_inventory.jsonl` | Gerichtliche, amtliche, parlamentarische, parteieigene oder originalnahe Belege. |
 | Art.-21-Findings | 3.868 | `daten/statistik_manifest.json`, `daten/findings_art21.jsonl` | Strukturierte Befunde; keine automatische Subsumtion jedes Einzelfindings. |
@@ -109,7 +105,7 @@ Die Quellenlage ist breit und in mehreren Schichten abgesichert:
 | Quellebene | Dateien / Register | Bewertung |
 |---|---|---|
 | Lokales Quelleninventar | `daten/source_inventory.jsonl` | Zentrale maschinenlesbare Provenienzschicht mit Quellenart, Pfad und Beweisnähe. |
-| Öffentliche Quellenlisten | `full-sources.md`, `PUBLIC_SOURCES.md`, `PUBLIC_EXTENDED_SOURCES.md` | Nützlich als Online-/Recherche- und Belegindex. Historische Abschnitte mit 239 oder 259 Fällen sind als ältere Registerstände zu lesen, nicht als aktueller Portalstand. |
+| Öffentliche Quellenlisten | `full-sources.md`, `PUBLIC_SOURCES.md`, `PUBLIC_EXTENDED_SOURCES.md` | Nützlich als Online-/Recherche- und Belegindex. Maßgeblicher Portalstand für das Gerichtsregister ist 262; abweichende Teilstände in Quellenlisten sind nicht als aktuelle Gesamtzahl zu verwenden. |
 | Originalquellen | `ORIGINAL_SOURCES.md` | Wichtig für Chain of Custody, Original-URLs und lokale Archivkopien. |
 | Urteilsregister | `URTEILE_DEEPRESEARCH.md`, `dokumente/hauptquellen/urteilsbelege/` | Enthält Gerichts-, Straf-, Status- und Verwaltungsbelege. Jeder Fall ist nach Status und Beweisfunktion zu lesen. |
 | Gutachten | GFF-, BfV-, DIMR- und VS-Berichtsdateien sowie Splits/OCR | Hoher Wert für juristische Struktur, Tatsachenbasis, Quellenverweise und Verdichtung. |
@@ -118,22 +114,22 @@ Die Quellenlage ist breit und in mehreren Schichten abgesichert:
 
 Wichtig: Presse- und Recherchequellen werden nicht als gleichrangiger Ersatz für Gericht, Behörde, Parlament oder Parteioriginal behandelt. Sie sind entweder Sekundäranker, Indexroute oder Ergänzungsbeleg. Wo eine amtliche, gerichtliche, parlamentarische oder parteieigene Quelle existiert, ist diese vorrangig zu verwenden.
 
-## 7. Was gegenüber früheren Versionen verbessert wurde
+## 7. Erreichte Release-Härtungen
 
-Die folgenden Punkte aus der Rohfassung sind im aktuellen Release-Stand nicht mehr als offene Defizite zu behandeln:
+Der aktuelle Release-Stand enthält die folgenden belastbaren Struktur- und Validierungsschritte:
 
-| Früherer Befund | Aktueller Status | Begründung |
+| Bereich | Status | Begründung |
 |---|---|---|
-| Repo angeblich archiviert oder read-only | Erledigt / korrigiert | Der aktuelle Release-Kontext ist ein aktiver bereinigter ZIP-/Repo-Stand. Die alte Aussage wird nicht übernommen. |
-| Frueherer abweichender Zaehlstand | Erledigt | Der aktuelle README-/Statistikstand führt 3.722 lokal archivierte Belegzitate. Die Zahl 3.614 wird nicht als aktueller Release-Stand geführt; die Live-Seite weist inzwischen 4.036 Online-Beweise aus und ist als gesonderte Erweiterungsquelle zu behandeln. |
-| Fehlende Statistikmanifest-Logik | Erledigt | `daten/statistik_manifest.json` enthält 260 Objekte mit Quelle, Methode, Status und Rechtsrelevanz. |
-| Fehlende Validierung | Erledigt | `reports/validation-report.md` weist Fatal 0 / Warnings 0 aus. |
-| Fehlende Beweisrouten | Erledigt als Struktur | `daten/beweisrouten_audit_2026.jsonl` führt 10 Beweisrouten. Einzelne spätere Anlagen-Pinpoints bleiben Schriftsatzarbeit. |
-| Fehlende Auditachsen | Erledigt als Struktur | `daten/beweislast_audit_2026.jsonl` führt 17 Auditachsen, einschließlich Status-, Sicherheits-, Quellen- und Inklusionsachsen. |
-| Belegzitate nur lose Sammlung | Erledigt als Struktur | Zitatstatistik, Top300, Top40 und Schriftsatzexport sind angelegt. |
-| Menschen mit Behinderung nicht ausreichend sichtbar | Erledigt | Die Behinderten-/Inklusionsroute ist als eigene Statistik- und Beweisroute eingetragen. |
-| Sicherheits- und Vorfeldachsen nur Randnotiz | Erledigt als Struktur | Eigene Matrizen für Terror-/Umsturz-/Paramilitär-, Vorfeld-, Medien- und Statusachsen sind vorhanden. |
-| PMK/BKA-Zahlen als mögliche AfD-Taten missverständlich | Erledigt als Regel | Statistik- und Methodikdateien trennen Lagebilddaten von konkreter AfD-Zurechnung. |
+| Aktiver Release-Kontext | Bereinigt und geprüft | Repository, ZIP, Manifest, Statistikdaten und Validierungsberichte bilden einen aktiven Auswertungsstand. |
+| Zitatkorpus | Lokal konsolidiert | Der aktuelle README-/Statistikstand führt 3.722 lokal archivierte Belegzitate; die Live-Seite weist zusätzlich 4.036 Online-Beweise als Erweiterungsquelle aus. |
+| Statistikmanifest | Validiert | `daten/statistik_manifest.json` enthält 261 Objekte mit Quelle, Methode, Status und Rechtsrelevanz. |
+| Validierung | Bestanden | `reports/validation-report.md` weist Fatal 0 / Warnings 0 aus. |
+| Beweisrouten | Strukturiert | `daten/beweisrouten_audit_2026.jsonl` führt 10 Beweisrouten; einzelne Anlagen-Pinpoints bleiben Schriftsatzarbeit. |
+| Auditachsen | Strukturiert | `daten/beweislast_audit_2026.jsonl` führt 17 Auditachsen, einschließlich Status-, Sicherheits-, Quellen- und Inklusionsachsen. |
+| Zitat-Auswertung | Strukturiert | Zitatstatistik, Top300, Top40 und Schriftsatzexport sind angelegt. |
+| Menschen mit Behinderungen / Inklusion | Sichtbar geführt | Die Behinderten-/Inklusionsroute ist als eigene Statistik- und Beweisroute eingetragen. |
+| Sicherheits- und Vorfeldachsen | Sichtbar geführt | Eigene Matrizen für Terror-/Umsturz-/Paramilitär-, Vorfeld-, Medien- und Statusachsen sind vorhanden. |
+| PMK/BKA-Lagebild | Methodisch getrennt | Statistik- und Methodikdateien trennen Lagebilddaten von konkreter AfD-Zurechnung. |
 
 ## 8. Noch offene echte Verbesserungen
 
@@ -142,8 +138,8 @@ Die folgenden Punkte sind die verbleibenden echten, aktuellen Verbesserungen. Si
 | Datei / Bereich | Befund | Warum relevant | Status | Konkrete Nacharbeit |
 |---|---|---|---|---|
 | `README.md` | Das README betont zutreffend, dass das Repository kein fertiges juristisches Antragsdokument ist. | Ein Parteiverbotsantrag erfordert Verfassungsorganbeschluss, prozessuale Antragsschrift, Anlagenverzeichnis und rechtliche Subsumtion. | Offen außerhalb des Release-ZIPs; kein technischer Mangel. | Für einen echten Antrag eine separate Schriftsatzfassung erstellen; README nicht kürzen, allenfalls ergänzen. |
-| full-sources.md | Enthält historische Abschnitte mit 239 Fällen. | Kann bei flüchtiger Lektüre vom aktuellen Portalstand 262 abweichen. | Als historischer Registerstand markiert; aktueller Release-Stand bleibt 262. | Keine Release-Blockade; bei späterer Konsolidierung Altabschnitte vollständig in den 262er Quellenstand überführen. |
-| PUBLIC_EXTENDED_SOURCES.md | Enthält historische Abschnitte mit 259 Fällen, obwohl spätere Nachträge bis 262 vorhanden sind. | Quellenlisten sollen den aktuellen Registerstand eindeutig spiegeln. | Als historischer Registerstand markiert; aktuelle README-/Statistikdateien führen 262. | Keine Release-Blockade; bei späterer Konsolidierung Altabschnitte vollständig in den 262er Quellenstand überführen. |
+| `full-sources.md` | Enthält Teilstände mit 239 Fällen. | Kann bei flüchtiger Lektüre vom aktuellen Portalstand 262 abweichen. | Aktueller Release-Stand bleibt 262. | Bei späterer Konsolidierung Teilstände vollständig in den 262er Quellenstand überführen. |
+| `PUBLIC_EXTENDED_SOURCES.md` | Enthält Teilstände mit 259 Fällen, während Nachträge bis 262 vorhanden sind. | Quellenlisten sollen den aktuellen Registerstand eindeutig spiegeln. | Aktuelle README-/Statistikdateien führen 262. | Bei späterer Konsolidierung Teilstände vollständig in den 262er Quellenstand überführen. |
 | `daten/antragsreife_top300_zitatpaket_2026.jsonl` / `daten/schriftsatz_topzitate_export_2026.jsonl` | Topzitate sind vorbereitet, aber eine endgültige Antragsspitze ist eine juristische Auswahlentscheidung. | Ein Antrag braucht nicht alle Zitate, sondern die stärksten, redundant abgesicherten und prozessual sauber eingeordneten Belege. | Daten vorhanden; formale Antragsspitze offen. | Endauswahl nach Rechtsgut, Akteursrang, Quelle, Pinpoint, Zurechnung, Gegenlese und Prozessrisiko treffen. |
 | `daten/schlimmste_zitate_pdf_audit_2026.jsonl` / `reports/schlimmste-zitate-pdf-audit-2026-07-09.md` | Ein Risiko-/Wortlautfall bleibt getrennt und wird nicht als harter Top300-Beleg geführt. | Das schützt die Beweisführung vor Überzeichnung. | Korrekt getrennt, kein Defizit der harten Beweisbasis. | Nur verwenden, wenn Originalquelle/Wortlaut endgültig gesichert ist; sonst als Risiko-/Recherchehinweis belassen. |
 | Status- und Sicherheitsfälle | Laufende Ermittlungen, Anklagen, Eilrechtsschutz, Hauptsache und Rechtskraft bleiben getrennt. | Für ein Verfahren ist diese Trennung zwingend, weil sonst Überzeichnung angreifbar wird. | Struktur vorhanden. | In einer späteren Antragsschrift je Fall die aktuellste amtliche Verfahrenslage nochmals gegen Gericht/GBA/Behörde prüfen. |
@@ -152,12 +148,10 @@ Die folgenden Punkte sind die verbleibenden echten, aktuellen Verbesserungen. Si
 
 ## 9. Release-Empfehlung
 
-`deep-research-report.md` ist eine Alt-/Rohfassung. Sie enthält inzwischen überholte Aussagen zu Repo-Status, Zählkonflikten und offenen Defiziten und darf nicht unverändert im Release-Tab erscheinen.
+Diese Datei ist die bereinigte Release-Fassung. Sie ist gegen den aktuellen ZIP-/Repo-Stand geprüft, trennt Belegtatsachen von Verfahrensstatus und benennt nur noch konkrete, aktuelle Restarbeiten.
 
-`deep-research-report.cleaned.md` ist die bereinigte Release-Fassung. Sie ist gegen den aktuellen ZIP-/Repo-Stand geprüft, übernimmt keine veralteten Behauptungen, trennt Belegtatsachen von Verfahrensstatus und benennt nur noch konkrete, aktuelle Restarbeiten.
-
-Der Release-Tab soll ausschließlich die bereinigte Version verlinken. Die Rohfassung kann intern als Arbeitsmaterial erhalten bleiben, aber nicht als maßgebliche Release-Bewertung.
+Der Release-Tab soll diese bereinigte Fassung als maßgebliche Release-Bewertung verlinken.
 
 ## Audit-Vermerk
 
-Diese Fassung wurde gegen den aktuellen Release-Stand `/home/error/AfD-Verbotsverfahren-Grundlagenforschung-cleaned-371d883.zip` abgeglichen. Nicht mehr aktuelle Aussagen aus der Rohfassung wurden entfernt oder als erledigte frühere Auditpunkte gekennzeichnet.
+Diese Fassung wurde gegen den aktuellen Release-Stand `/home/error/AfD-Verbotsverfahren-Grundlagenforschung-cleaned-371d883.zip` abgeglichen und bildet den geprüften Release-Stand mit Quellen-, Statistik-, Validierungs- und Beweisroutenbezug ab.

@@ -1322,7 +1322,7 @@ Die aktuelle Top-40-Spitze fuehrt Sicherheits- und Statusanker nicht mehr als Ra
 
 ### Statistik- und Pages-Audit
 
-* Das Statistikmanifest rendert 258 validierte Statistikobjekte; die veralteten README-/Methodik-Zaehler aus frueheren Zwischenstaenden wurden ergaenzt und korrigiert.
+* Das Statistikmanifest rendert 261 validierte Statistikobjekte; README, Methodik und Statistikdateien sind auf den aktuellen Release-Stand konsolidiert.
 * Der Statistik-Tab bleibt Beweislandkarte, nicht Wortwolke: PMK/BKA- und Lagebilddaten bleiben Kontext-/Potentialitaetsmaterial ohne automatische AfD-Tatzurechnung.
 * Die Pages-Texte wurden auf klare Antragssprache geschaerft: Quelle -> Pinpoint -> Akteur -> Zurechnung -> Rechtsgut -> Verfahrensstand.
 * Die Sperrfilter auf unverdrahtete Statussprache und schwache Platzhalter laufen leer im antragsrelevanten Korpus; Validierung meldet 0 Fatal und 0 Warnings.
@@ -1348,7 +1348,7 @@ Der vollstaendige Index liegt hier: [VOLLSTAENDIGER_REPOSITORY_PAGES_INDEX_2026_
 
 | Bereich | Befund / Reparaturweg |
 | --- | --- |
-| README-Historik | README enthaelt aeltere Stellen mit "offen", "Platzhalter" und Wikipedia-Altstand. Diese werden nicht geloescht, sondern durch diesen Index und den Antragsreife-Audit als historische bzw. statusbezogene Reststellen eingeordnet. |
+| README-/Index-Konsolidierung | README, Statistik-Tab und Antragsreife-Audit ordnen offene Statusfragen, Platzhalterhinweise und Teilstaende als statusbezogene Schriftsatz- oder Quellenarbeit ein. |
 | Formaler Antrag | Das Repo ist keine Verfassungsorganschrift. Fuer das Verfahren fehlen ausserhalb des Repos: Antragstellerbeschluss, Prozessvertretung, Anlagenverzeichnis, formale Beweisantraege, Unterschriften/Beiziehung und Schriftsatzgliederung nach BVerfG-Standard. |
 | Pinpoint-Endarbeit | Viele Quellen sind vorhanden; die finale Antragsschrift muss die Top-Anlagen mit Seite, Randnummer, Aktenzeichen, Datum, Hash/Archiv und Gegenlese zitieren. |
 | Vorfeld-Granularitaet | Sammelkanten sind im Statistiksystem sichtbar, muessen fuer den Schriftsatz weiter in Person/Ereignis/Kampagne/Datum/Quelle zerlegt werden. |
@@ -1367,7 +1367,7 @@ Der vollstaendige Index liegt hier: [VOLLSTAENDIGER_REPOSITORY_PAGES_INDEX_2026_
 - Schriftsatzexport: [dokumente/hauptquellen/SCHRIFTSATZ_EXPORT_TOP_BEWEISE_2026.md](./dokumente/hauptquellen/SCHRIFTSATZ_EXPORT_TOP_BEWEISE_2026.md)
 - Repo-/Pages-Audit: [dokumente/hauptquellen/REPO_PAGES_PERFEKTIONS_AUDIT_2026_07_09.md](./dokumente/hauptquellen/REPO_PAGES_PERFEKTIONS_AUDIT_2026_07_09.md)
 
-Leseregel: Aeltere README-Zeilen mit "offen", "Platzhalter" oder historischen Coverage-Angaben werden nicht geloescht, sondern durch diesen Index als historische bzw. statusbezogene Reststellen eingeordnet. Fuer den Statistik-Tab und die Antragsreife gelten die generierten Datenprodukte und der Validierungsreport.
+Leseregel: Fuer den Statistik-Tab und die Antragsreife gelten die generierten Datenprodukte, der Vollindex und der Validierungsreport. Offene Statusfragen, Platzhalterhinweise und Teilstaende sind als konkrete Schriftsatz- oder Quellenarbeit zu lesen, nicht als ungepruefte Beweisbehauptung.
 
 Linkcheck 2026-07-09: README und Vollindex wurden lokal gegen relative Markdown-Links geprueft; Ergebnis `missingLinks: 0`. Der Vollindex verwendet wegen seiner Lage unter `dokumente/hauptquellen/` relative `../../`-Links.
 
@@ -1385,8 +1385,8 @@ Ergänzender Index für die antragsrelevante Gutachtenabdeckung: [Gutachten-Cove
 
 ### Release-Zeitstempel
 
-Cleaned-Release-Stand: 2026-07-09T23:28:41+02:00
+Cleaned-Release-Stand: 2026-07-10T09:20:06+02:00
 
 ### Release-Deep-Research-Report
 
-Fuer den Release-Tab ist ausschliesslich [deep-research-report.cleaned.md](./deep-research-report.cleaned.md) zu verlinken. Die Rohfassung deep-research-report.md ist veraltet und nicht release-clean.
+Fuer den Release-Tab ist der bereinigte Deep-Research-Bericht [deep-research-report.cleaned.md](./deep-research-report.cleaned.md) als massgebliche Release-Fassung verlinkt.
