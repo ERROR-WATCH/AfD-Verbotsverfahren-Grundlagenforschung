@@ -1,6 +1,6 @@
 # Schriftsatz-Export Top-Beweise 2026
 
-Stand: 2026-07-09T22:34:34.189Z
+Stand: 2026-07-10T10:36:47.741Z
 
 Dieser Export fuehrt nur A/B-Anker im Haupttext. Route-only-, Arbeitskopie- und reine Kontextquellen bleiben aus der Beweislinie heraus und dienen nur als Archiv- oder Suchroute.
 

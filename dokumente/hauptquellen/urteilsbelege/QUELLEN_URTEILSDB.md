@@ -103,7 +103,7 @@ Sämtliche Belege liegen physisch im Repository unter [`./urteilsbelege/`](./) i
 47. **Christina Baum (Beleidigung Tauberbischofsheim):**
    [Frankfurter Rundschau - Geldstrafe wegen systematischer Netzbeleidigung](https://www.fr.de/rhein-main/offenbach/afd-politiker-carsten-haerle-wegen-volksverhetzung-verurteilt-91238902.html)
 48. **Kurt H. (Rechtsextreme Terrorgruppe - Sächsische Separatisten):**
-   [Tagesschau - GSG-9-Festnahme und Terrorismus-Ermittlungen](https://www.tagesschau.de/regional/sachsen/saechsische-separatisten-rechtsextremismus-festnahmen-sachsen-100.html)
+   [Generalbundesanwalt – Festnahme von acht mutmaßlichen Mitgliedern einer rechtsextremistischen terroristischen Vereinigung](https://www.generalbundesanwalt.de/SharedDocs/Pressemitteilungen/DE/2024/Pressemitteilung-vom-05-11-2024.html) · [lokaler Archiv-Snapshot](../../../sources/web/gba/gba_2024-11-05_saechsische_separatisten_festnahmen.html)
 49. **André Poggenburg (Völkische Beleidigung - „Kümmelhändler“):**
    [Die Welt - Aschermittwochs-Rassismus und Verurteilung](https://www.welt.de/politik/deutschland/article173595166/AfD-Aschermittwoch-Andre-Poggenburg-schmaeht-Tuerken-als-Kuemmelhaendler.html)
 50. **Uwe Junge (Homophobe Beleidigung - „Schwuchtelbinde“):**

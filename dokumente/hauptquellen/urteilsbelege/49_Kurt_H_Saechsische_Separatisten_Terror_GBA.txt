@@ -11,4 +11,7 @@ BEWEISBEDEUTUNG FÜR DAS PARTEIVERBOTSVERFAHREN:
 Der extremste Beleg für die militante und terroristische Unterwanderung von AfD-Kommunalmandaten durch rechtsextreme Terroristen, die den gewaltsamen Sturz des demokratischen Staates und bewaffnete ethnische Säuberungen vorbereiten.
 
 OFFIZIELLER DIREKT-QUELLENLINK (GERICHTS- & PRESSEPROVENIENZ):
-https://www.tagesschau.de/regional/sachsen/saechsische-separatisten-rechtsextremismus-festnahmen-sachsen-100.html
+https://www.generalbundesanwalt.de/SharedDocs/Pressemitteilungen/DE/2024/Pressemitteilung-vom-05-11-2024.html
+
+LOKALER ARCHIV-SNAPSHOT:
+../../../sources/web/gba/gba_2024-11-05_saechsische_separatisten_festnahmen.html
