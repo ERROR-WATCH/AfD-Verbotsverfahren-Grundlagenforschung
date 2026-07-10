@@ -1,12 +1,12 @@
 # Deep-Research-Report – bereinigte Release-Fassung
 
-> Hinweis: Diese Datei ist die bereinigte Release-Fassung des Deep-Research-Berichts. Sie bildet den aktuellen Release-Stand ab und wurde gegen Repository, ZIP, Manifest, Statistikdaten, Quellenregister und Validierungsberichte geprüft.
+> Hinweis: Diese Release-Fassung bezieht sich auf den geprüften lokalen ZIP-/Portalstand. Das öffentliche GitHub-Repository kann weiterhin als archiviert/read-only angezeigt werden; massgeblich fuer diese Release-Fassung ist der geprüfte lokale ZIP-/Portalstand.
 
 Status: bereinigte Release-Fassung / gegen aktuellen ZIP-Stand geprüft / für Release-Tab geeignet
 
 ## 1. Kurzfazit
 
-Der aktuelle Release-Stand `/home/error/AfD-Verbotsverfahren-Grundlagenforschung-cleaned-371d883.zip` ist als aktiver, bereinigter Archiv- und Auswertungsstand zu behandeln. Maßgeblich sind die geprüften Quellen-, Statistik-, Manifest-, Validierungs- und Beweisroutendaten dieses Stands.
+Der lokale Release-/ZIP-Stand `/home/error/AfD-Verbotsverfahren-Grundlagenforschung-cleaned-371d883.zip` ist als aktiver, bereinigter Archiv- und Auswertungsstand zu behandeln. Das öffentliche GitHub-Repository kann weiterhin als archiviert/read-only angezeigt werden; massgeblich fuer diese Release-Fassung ist der geprüfte lokale ZIP-/Portalstand.
 
 Die Beweisarchitektur ist für eine verbotsorientierte Vorarbeit substantiell: Das Repository trennt Quellen, Fundstellen, Akteure, Zurechnung, Art.-21-Prüffelder, Beweisgrad, Statistikmanifest und Visualisierung. Es ersetzt keinen förmlichen Antrag eines antragsberechtigten Verfassungsorgans, liefert aber eine breite und nachprüfbare Grundlage für dessen Anlagen-, Statistik- und Belegstruktur.
 

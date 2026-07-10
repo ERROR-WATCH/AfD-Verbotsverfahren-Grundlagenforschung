@@ -1385,8 +1385,8 @@ Ergänzender Index für die antragsrelevante Gutachtenabdeckung: [Gutachten-Cove
 
 ### Release-Zeitstempel
 
-Cleaned-Release-Stand: 2026-07-10T09:20:06+02:00
+Cleaned-Release-Stand: 2026-07-10T09:49:38+02:00
 
 ### Release-Deep-Research-Report
 
-Fuer den Release-Tab ist der bereinigte Deep-Research-Bericht [deep-research-report.cleaned.md](./deep-research-report.cleaned.md) als massgebliche Release-Fassung verlinkt.
+Deep-Research-Report – bereinigte Release-Fassung: Diese Fassung bildet den aktuellen geprüften Release-/Portalstand ab. Historische GitHub-/Quellenlistenstaende sind nicht massgeblich.
