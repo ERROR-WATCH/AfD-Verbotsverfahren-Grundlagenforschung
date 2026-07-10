@@ -5,7 +5,7 @@
 - Zitatfragmente aus der zweitseitigen PDF: 19
 - Mit lokalem Proof-/Gutachten-/Parlaments-/Gerichtsanker gematcht: 18
 - Proof vorhanden, aber Wortlaut/Quelle ausdruecklich risikobehaftet: 1
-- Amtlicher Kontextbezug, Originalanker für den Schriftsatz-Pinpoint geführt: 0
+- Amtlicher Kontextbezug, Originalanker nachzuziehen: 0
 - Nur Sekundaerroute im Bestand: 0
 - Lokale Route vorhanden, Originalanker im Schriftsatz zu pruefen: 0
 - Ohne lokalen Treffer aus dem Fragment: 0
