@@ -61,7 +61,7 @@ Die Findings und Statistikdateien führen die verfassungsfeindliche Zielrichtung
 
 ### Menschenwürde und ethnischer Volksbegriff
 
-Der tragende Beweiskern liegt in der Verbindung von ethnisch-kulturellem Volksverständnis, Remigrationslogik, migrationsbezogener Ausschlussrhetorik, gruppenbezogener Entwertung und Zurechnung zu Partei-, Funktions-, Jugend- und Vorfeldstrukturen. Das Repository enthält hierzu Zitat-, Gutachten-, Programm- und Verfassungsschutzanker. Menschen mit Behinderung sind im aktuellen Stand nicht als Randnotiz behandelt: Die Inklusions-/Behindertenachse ist durch `STAT-DISABILITY-INCLUSION-ROUTE-001`, `STAT-DISABILITY-INCLUSION-ANCHORS-001` und `ROUTE-AUDIT-010-BEHINDERUNG` als eigene belegte Beweisroute geführt.
+Der tragende Beweiskern liegt in der Verbindung von ethnisch-kulturellem Volksverständnis, Remigrationslogik, migrationsbezogener Ausschlussrhetorik, gruppenbezogener Entwertung und Zurechnung zu Partei-, Funktions-, Jugend- und Vorfeldstrukturen. Das Repository enthält hierzu Zitat-, Gutachten-, Programm- und Verfassungsschutzanker. Die Inklusions-/Behindertenachse für Menschen mit Behinderung ist durch `STAT-DISABILITY-INCLUSION-ROUTE-001`, `STAT-DISABILITY-INCLUSION-ANCHORS-001` und `ROUTE-AUDIT-010-BEHINDERUNG` als eigene belegte Beweisroute geführt.
 
 ### Demokratieprinzip
 
