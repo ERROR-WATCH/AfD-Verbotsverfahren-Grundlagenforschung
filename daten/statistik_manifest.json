@@ -92,7 +92,7 @@
   {
     "id": "STAT-SOURCES-TOTAL-001",
     "title": "Quelleninventar: erfasste Quellen",
-    "value": 10741,
+    "value": 10746,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "Gesamtbestand",
@@ -110,7 +110,7 @@
   {
     "id": "STAT-SOURCES-USABLE-001",
     "title": "Quelleninventar: statistiknutzbare Quellen",
-    "value": 10662,
+    "value": 10665,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "Statistiknutzbar",
@@ -128,7 +128,7 @@
   {
     "id": "STAT-SOURCES-PRIMARY-001",
     "title": "Quelleninventar: Primärquellen",
-    "value": 5586,
+    "value": 5589,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "Primärquellen",
@@ -848,7 +848,7 @@
   {
     "id": "STAT-SOURCE-EVIDENCE-A-001",
     "title": "Quellen mit Beweisstufe A",
-    "value": 1557,
+    "value": 1560,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "Quellen-Stufe A",
@@ -884,7 +884,7 @@
   {
     "id": "STAT-SOURCE-EVIDENCE-C-001",
     "title": "Quellen mit Beweisstufe C",
-    "value": 4900,
+    "value": 4902,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "Quellen-Stufe C",
@@ -3152,7 +3152,7 @@
   {
     "id": "STAT-SOURCE-FORMAT-004-HTML",
     "title": "Quellenformat: HTML",
-    "value": 103,
+    "value": 108,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "HTML",

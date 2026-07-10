@@ -193,7 +193,7 @@ const securityRows = readJsonl(securityPath).map((row) => {
     instanz,
     aktenzeichen: row.aktenzeichen || row.case_number || '',
     status_date: row.status_date || row.datum || row.event_date || '',
-    rechtskraft: row.rechtskraft || (/rechtskraeftig|rechtskräftig/i.test(status) ? 'rechtskraeftig markiert' : 'nicht als rechtskraeftig behaupten, sofern nicht statusbezogen belegt'),
+    rechtskraft: row.rechtskraft || (/keine\s+rechtskr[aä]ftige|nicht\s+rechtskr[aä]ftig|laufend|ermittlungsverfahren/i.test(status) ? 'nicht als rechtskraeftig behaupten, sofern nicht statusbezogen belegt' : (/rechtskraeftig|rechtskräftig/i.test(status) ? 'rechtskraeftig markiert' : 'nicht als rechtskraeftig behaupten, sofern nicht statusbezogen belegt')),
     parteistatus: row.parteistatus || row.zurechnung || row.attribution || '',
     zugangskante: row.zugangskante || row.access_edge || (/Bundestag|Hausausweis|Mitarbeiter|MdB|Stadtrat|Fraktion/i.test(text) ? 'Mandats-, Mitarbeiter-, Hausausweis- oder Funktionskante statusbezogen getrennt fuehren' : ''),
     beschuldigtenstatus: row.beschuldigtenstatus || row.defendant_status || status,

@@ -89,9 +89,13 @@ for (const row of terrorRows) {
     row.source_ids = uniq([
       ...(row.source_ids || []),
       'SRC-GBA-2024-11-05-SAECHSISCHE-SEPARATISTEN-FESTNAHMEN',
-      'SRC-GBA-2025-09-10-SAECHSISCHE-SEPARATISTEN-ANKLAGE'
+      'SRC-GBA-2025-09-10-SAECHSISCHE-SEPARATISTEN-ANKLAGE',
+      'SRC-OLG-DRESDEN-2025-12-15-SAECHSISCHE-SEPARATISTEN-EROEFFNUNG'
     ]);
-    row.legal_status = 'GBA-Festnahme 2024, GBA-Anklage 2025, U-Haft/Staatsschutzverfahren laufend; keine rechtskräftige Verurteilung.';
+    row.legal_status = 'GBA-Festnahme 2024, GBA-Anklage 2025, OLG Dresden Eröffnungsbeschluss 02.12.2025 (5 St 4/25), Hauptverfahren laufend; keine rechtskräftige Verurteilung.';
+    row.rechtskraft = 'nicht rechtskräftig; laufendes Hauptverfahren';
+    row.aktenzeichen = 'OLG Dresden 5 St 4/25';
+    row.status_date = '2026-03-31';
     row.prozessrisiko = 'Laufend und daher STATUS_BEZOGEN_GETRENNT; AfD-/JA-Zurechnung nur über Kurt H., Parteifunktion, Stadtratsmandat, Mitarbeiter-/JA-Belege und weitere Einzelkanten.';
     row.dashboard_label = 'Amtlich belegter Sächsische-Separatisten-Komplex mit AfD-/JA-Kommunal- und Funktionskanten';
   }

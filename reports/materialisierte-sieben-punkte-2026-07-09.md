@@ -3,11 +3,11 @@
 Stand: 2026-07-09
 
 - Top-300-Zitatpaket: 300
-- Originalkanal-/Primaeranker-Ziele: 266
+- Originalkanal-/Primaeranker-Ziele: 268
 - Chronik-Falldossiers: 13
 - Gutachten-Provenienzzeilen: 11
 - Visualisierungsspezifikationen: 5
-- Status-/Rechtskraft-Monitorzeilen: 39
+- Status-/Rechtskraft-Monitorzeilen: 41
 - Antragsspitzenlogik-Zeilen: 18
 
 ## Dateien

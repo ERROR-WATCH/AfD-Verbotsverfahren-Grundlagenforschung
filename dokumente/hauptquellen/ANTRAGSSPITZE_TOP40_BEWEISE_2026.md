@@ -1,6 +1,6 @@
 # Antragsspitze Top 40 Beweise 2026
 
-Stand: 2026-07-10T10:36:48.048Z
+Stand: 2026-07-10T10:51:59.858Z
 
 Diese Datei verdichtet die Schriftsatz-Topbeweise auf vierzig antragsnahe Beweisbloecke. Jede Zeile ist als Quelle -> Pinpoint -> Akteur/Ebene -> Zurechnung -> Art.-21-Feld -> Red-Team-Grenze lesbar.
 
@@ -373,7 +373,7 @@ Exportierte Beweisbloecke: 40
 - Zurechnung: Direkte kommunale AfD-/JA-Fallkante; Verfahrensstand und Personenkreis als Fallfelder.
 - Red-Team-Antwort: Nicht behaupten: Keine Terror-Pauschalformel gegen die Gesamtpartei; verwertbar ist die konkrete Funktionaers- und Zugangskante. Tragfaehig ist: Kurt H.: AfD-Stadtrat/JA-Umfeld in rechtsextremistischem terroristischem Sächsische-Separatisten-Komplex.
 - Hashanker: Generalbundesanwalt, SHA-256 900b0f54f89e113afe045fd17cf3011066a4a09b8783ef175bc91bbd2ed7d1dd
-- Sicherheitsfall: SEC-SS-001 (Kurt H.; GBA-Festnahme 2024, GBA-Anklage 2025, U-Haft/Staatsschutzverfahren laufend; keine rechtskräftige Verurteilung.)
+- Sicherheitsfall: SEC-SS-001 (Kurt H.; GBA-Festnahme 2024, GBA-Anklage 2025, OLG Dresden Eröffnungsbeschluss 02.12.2025 (5 St 4/25), Hauptverfahren laufend; keine rechtskräftige Verurteilung.)
 
 ### 4. VG-09 - Spionage-, Einflussnahme- und Fremdfinanzierungsrisiken im AfD-Umfeld
 

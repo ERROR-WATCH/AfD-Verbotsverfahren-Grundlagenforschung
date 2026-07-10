@@ -12,7 +12,7 @@ Dieses Register benennt die letzten sieben Verfahrenshaertungen vor der eigentli
 - auszugebende Artefakte: 21
 - Quote-Findings: 3722
 - Actor-Registry-Zeilen: 3722
-- Quelleninventar: 10741
+- Quelleninventar: 10746
 - final gefuehrte Anlagen-Pinpoints: 127
 
 ## Sieben Verfahrenshaertungen
@@ -39,7 +39,7 @@ Umsetzung:
 - Ziel: Presse- und Screenshot-Routen auf amtliche, gerichtliche, parteieigene oder archivierte Originale stellen.
 - Lokale Belege: daten/source_inventory.jsonl; daten/presseanker_primaerrouten_2026.jsonl; daten/anlagenregister_art21_2026.jsonl; sources/web/
 - Online-/Originalroute: Phoenix-/YouTube-Original oder Transkript fuer Chrupalla/VS; X/Facebook/Youtube-Originale; AfD-Programm-/Beschluss-/Pressemitteilungsseiten; Gerichts-/GBA-/Bundestagsseiten.
-- Bestand: quelleninventar=10741; social_media_route_sources=22; presse_recherche_routes=176; official_or_primary_sources=5737; hashgesicherte_amtsanker=19
+- Bestand: quelleninventar=10746; social_media_route_sources=22; presse_recherche_routes=178; official_or_primary_sources=5740; hashgesicherte_amtsanker=19
 - Visualisierung: Quellenhierarchie-Leiter: Gericht/amtlich/Parteiquelle > Gutachten > parlamentarisch > Presse/Recherche > lokaler Proof; Ampel pro Route.
 - Verfahrensregel: Presse ist Rechercheweg, nicht Endpunkt fuer A-Beweis. Zurechnung entsteht durch dokumentierten AfD-Akteur, Organ, Funktion oder Fall-ID.
 - Outputs: daten/presseanker_primaerrouten_2026.jsonl; daten/official_web_anchor_integrity_2026.jsonl; daten/antrag_quellenhierarchie_2026.jsonl
@@ -87,7 +87,7 @@ Umsetzung:
 - Ziel: Der Statistik-Tab soll die Beweislogik nicht nur tabellarisch zeigen, sondern als Beweisketten: Quelle -> Akteur -> Zurechnung -> Rechtsgut -> Status.
 - Lokale Belege: daten/verbotsgruende_18_beweismatrix.jsonl; daten/statistik_statusmatrix_afd_2026.json; daten/statistik_laender_beweismatrix_afd_2026.json; daten/vorfeld_network_edges_2026.jsonl; daten/terror_umsturz_paramilitaer_matrix_2026.jsonl; daten/anlagenregister_art21_2026.jsonl
 - Online-/Originalroute: Keine eigene Tatsachenroute; die Visualisierung nutzt nur lokal validierte Source-/Finding-/Case-IDs.
-- Bestand: verbotsgruende=18; statusachsen=13; laenderachsen=20; vorfeld_kanten=6; vorfeld_einzelkanten=32; sicherheitsachsen=10
+- Bestand: verbotsgruende=18; statusachsen=13; laenderachsen=20; vorfeld_kanten=6; vorfeld_einzelkanten=32; sicherheitsachsen=12
 - Visualisierung: Sankey, Timeline, Netzwerkgraph, Heatmap, Statusmatrix, Ressourcen-/Potentialitaetslinie.
 - Verfahrensregel: Charts duerfen keine neue Zurechnung erzeugen. Sie zeigen nur bereits codierte Quellen-, Akteurs- und Statuskanten.
 - Outputs: index.html#statistik; daten/vorfeld_einzelkanten_2026.jsonl; daten/anlagenregister_art21_2026.jsonl
@@ -104,7 +104,7 @@ Umsetzung:
 - Ziel: 2026-Verfahren, Eilentscheidungen, Hauptsachen, Berufungen, Freisprueche und Rechtskraft staendig getrennt halten.
 - Lokale Belege: daten/statistik_statusmatrix_afd_2026.json; daten/statistik_laender_beweismatrix_afd_2026.json; daten/terror_umsturz_paramilitaer_matrix_2026.jsonl; dokumente/hauptquellen/urteilsbelege/; QUELLEN_URTEILSDB.md
 - Online-/Originalroute: BVerwG, OVG/VGH, VG, GBA, OLG, Landtags-/Bundestagsdokumente, Ministerien und Verfassungsschutzbehoerden.
-- Bestand: statusachsen=13; laenderachsen=20; sicherheitsfaelle=10; status_getrennt_markierte_anlagen=158
+- Bestand: statusachsen=13; laenderachsen=20; sicherheitsfaelle=12; status_getrennt_markierte_anlagen=158
 - Visualisierung: Deutschlandmatrix plus Rechtskrafttimeline; Fallstatus-Donut: rechtskraeftig, Eil, Hauptsache, Berufung, laufend, Freispruch.
 - Verfahrensregel: Statuspraezision ist Belastbarkeitsgewinn: keine Ueberzeichnung laufender Verfahren, keine Entlastung durch fremde Ebene.
 - Outputs: daten/statistik_statusmatrix_afd_2026.json; daten/statistik_laender_beweismatrix_afd_2026.json; daten/terror_umsturz_paramilitaer_matrix_2026.jsonl
@@ -137,10 +137,10 @@ Validitaet vor Rhetorik: Keine neue Tatsachenbehauptung ohne Quelle, Pinpoint, A
 ## Materialisierte Register
 
 - daten/antragsreife_top300_zitatpaket_2026.jsonl: 300 priorisierte Zitatzeilen.
-- daten/originalkanal_beschaffung_2026.jsonl: 266 Originalkanal-/Primaerankerziele.
+- daten/originalkanal_beschaffung_2026.jsonl: 268 Originalkanal-/Primaerankerziele.
 - daten/chronikcluster_falldossiers_2026.jsonl: 13 Chronikcluster als Fallzeilen.
 - daten/gutachten_provenienz_register_2026.jsonl: 11 Gutachten-Provenienzzeilen.
 - daten/beweisvisualisierung_specs_2026.json: 5 konkrete Chart-Spezifikationen.
-- daten/status_rechtskraft_monitor_2026.jsonl: 39 Status-/Rechtskraftzeilen.
+- daten/status_rechtskraft_monitor_2026.jsonl: 41 Status-/Rechtskraftzeilen.
 - daten/antragsspitze_schriftsatzlogik_2026.jsonl: 18 Schriftsatzlogik-Zeilen.
 

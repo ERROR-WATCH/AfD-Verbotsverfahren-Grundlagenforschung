@@ -737,6 +737,20 @@
       "object": "SEC-SPIONAGE-001",
       "status": "STATUS_BEZOGEN_GETRENNT",
       "source": "daten/terror_umsturz_paramilitaer_matrix_2026.jsonl"
+    },
+    {
+      "id": "SECSTATUS-13D824C1B392",
+      "level": "Sicherheitsverfahren",
+      "object": "SEC-BELARUS-001",
+      "status": "Urteil; Klage gegen Ordnungsgeld abgewiesen; Berufungszulassung möglich.",
+      "source": "daten/terror_umsturz_paramilitaer_matrix_2026.jsonl"
+    },
+    {
+      "id": "SECSTATUS-FF6CCA977FE5",
+      "level": "Sicherheitsverfahren",
+      "object": "SEC-BELARUS-002",
+      "status": "Laufendes Ermittlungsverfahren nach § 18 AWG; keine Anklage oder Verurteilung.",
+      "source": "daten/terror_umsturz_paramilitaer_matrix_2026.jsonl"
     }
   ],
   "network_edges": [
@@ -1022,6 +1036,18 @@
       "edge_id": "SEC-SPIONAGE-001",
       "from": "SEC-SPIONAGE-001",
       "to": "STATUS_BEZOGEN_GETRENNT",
+      "type": "security_status",
+      "source": "daten/terror_umsturz_paramilitaer_matrix_2026.jsonl"
+    },
+    {
+      "edge_id": "SEC-BELARUS-001",
+      "from": "SEC-BELARUS-001",
+      "type": "security_status",
+      "source": "daten/terror_umsturz_paramilitaer_matrix_2026.jsonl"
+    },
+    {
+      "edge_id": "SEC-BELARUS-002",
+      "from": "SEC-BELARUS-002",
       "type": "security_status",
       "source": "daten/terror_umsturz_paramilitaer_matrix_2026.jsonl"
     }
