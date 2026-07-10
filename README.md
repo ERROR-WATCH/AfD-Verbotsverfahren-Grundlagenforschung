@@ -246,10 +246,10 @@ Sämtliche Belege liegen physisch im Repository vor und sind im vollumfängliche
 > * 📄 [**Gesamt-Urteilsregister als gesetztes PDF-Dossier**](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf) *(Perfekt formatiert für RAG und Druck)*
 > * 📝 [**Gesamt-Urteilsregister als TXT-Dokument**](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.md)
 
-> 📚 **Verifiziertes Quellen- & Provenienzregister:** Wir haben eine dedizierte Quellenliste angelegt, die für alle 262 Fälle die originalen, höchstrichterlichen Gerichtsdatenbank-Einträge und Pressebelege (LTO, Spiegel, Tagesschau) enthält:
+> 📚 **Verifiziertes Quellen- & Provenienzregister:** Wir haben eine dedizierte Quellenliste angelegt, die für alle 263 Fälle die originalen, höchstrichterlichen Gerichtsdatenbank-Einträge und Pressebelege (LTO, Spiegel, Tagesschau) enthält:
 > * 🔗 [**Offizielles Quellen- & Provenienzregister (QUELLEN_URTEILSDB.md)**](./dokumente/hauptquellen/urteilsbelege/QUELLEN_URTEILSDB.md)
 
-#### 🏛️ Systematisches & fortlaufend erweitertes Strafrechts- und Gerichtsregister (262 exemplarische Fälle direkt im Repository):
+#### 🏛️ Systematisches & fortlaufend erweitertes Strafrechts- und Gerichtsregister (263 exemplarische Fälle direkt im Repository):
 
 ##### A) Volksverhetzung & Verfassungswidrige Kennzeichen (20 Fälle)
 * ⚖️ **1. Björn Höcke (SA-Parole „Alles für Deutschland“):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/01_Hoecke_SA_Parole_LG_Halle.md) | [Online-Quelle](https://www.lto.de/recht/nachrichten/n/bgh-verwirft-revision-bjoern-hoecke-sa-parole-alles-fuer-deutschland/) – *[**DIREKT AfD - Landessprecher**] LG Halle verurteilte Höcke wegen des Verwendens verbotener SA-Kennzeichen.*
@@ -328,7 +328,7 @@ Sämtliche Belege liegen physisch im Repository vor und sind im vollumfängliche
 * ⚖️ **64. Birgit Malsack-Winkemann (Hochverrat & Reichsbürger-Terror):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/36_Birgit_Malsack_Winkemann_Reichsbuerger_BGH.md) | [Online-Quelle](https://www.tagesschau.de/inland/innenpolitik/malsack-winkemann-anklage-reichsbuerger-100.html) – *[**DIREKT AfD - Ex-MdB**] Ehemalige Abgeordnete und Richterin in Untersuchungshaft wegen Mittäterschaft beim geplanten bewaffneten Staatsstreich.*
 * ⚖️ **65. Maximilian T. (Terror-Mittäterschaft im Franco-A.-Netzwerk):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/48_Maximilian_T_Terrorverdacht_Franco_A.md) | [Online-Quelle](https://www.welt.de/politik/deutschland/article164582194/GBA-haftbefehl-gegen-Maximilian-T-wegen-terrorverdacht-franco-a.html) – *[**INDIREKT AfD - Abgeordnetenmitarbeiter**] Anschlagsplanung gegen Bundespolitiker über Büros im Bundestag. Begründung des AfD-Bezugs: Er war direkter Angestellter des AfD-MdB Jan Nolte im Bundestag und nutzte seinen Parlamentsausweis zum Auskundschaften von Zielen.*
 * ⚖️ **66. Kurt H. (Rechtsextreme Terrorgruppe – Sächsische Separatisten):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/49_Kurt_H_Saechsische_Separatisten_Terror_GBA.md) | [GBA-Primärquelle](https://www.generalbundesanwalt.de/SharedDocs/Pressemitteilungen/DE/2024/Pressemitteilung-vom-05-11-2024.html) | [Archiv-Snapshot](./sources/web/gba/gba_2024-11-05_saechsische_separatisten_festnahmen.html) – *Festnahme und dringender Verdacht nach § 129a StGB; laufendes Verfahren, keine rechtskräftige Verurteilung. AfD-Funktion und weitere Festnahmeumstände bedürfen gesonderter Belege.*
-  * [OLG Dresden – Eröffnungsbeschluss 5 St 4/25](./dokumente/hauptquellen/urteilsbelege/264_Saechsische_Separatisten_OLG_Dresden_5_St_4_25.md) – Hauptverfahren laufend; kein Sachurteil.
+  * [OLG Dresden – Eröffnungsbeschluss 5 St 4/25](./dokumente/hauptquellen/urteilsbelege/49b_Saechsische_Separatisten_OLG_Dresden_5_St_4_25.md) – Hauptverfahren laufend; kein Sachurteil.
   * [LVZ – Einstellung der Ermittlungen zum Polizeischuss](https://www.lvz.de/mitteldeutschland/leipzig-ermittlungen-nach-schuss-auf-kurt-haettasch-eingestellt-PWH7AXEFIRCDTBKWOZEVBDNVN4.html) – Gegenstatus, kein Urteil.
 * ⚖️ **Jörg Dornau (Belarus / parlamentarische Transparenz und AWG):** [VG Leipzig 1 K 2748/24](./dokumente/hauptquellen/urteilsbelege/263_Joerg_Dornau_VG_Leipzig_Ordnungsgeld_Belarus_2025.md) | [amtliche AWG-Ermittlung](https://www.medienservice.sachsen.de/medien/news/1094719) – *Ordnungsgeldurteil bei Veröffentlichung nicht rechtskräftig; AWG-Verfahren ohne Anklage oder Schuldfeststellung.*
 * ⚖️ **67. Tobias Laue (Bandidos-Rocker & Hausausweis-Sperrung):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/61_Tobias_Laue_Bandidos_Bundestag.md) | [Online-Quelle](https://www.spiegel.de/politik/deutschland/bundestag-verweigert-afd-mitarbeiter-hausausweis-wegen-bandidos-vergangenheit-a-123456) – *[**INDIREKT AfD - Abgeordnetenmitarbeiter**] Verweigerung des Bundestag-Hausausweises aus Sicherheitsbedenken (Bandidos-Rocker-Vergangenheit). Begründung des AfD-Bezugs: Direkt angestellt als persönlicher Mitarbeiter des AfD-Bundestagsabgeordneten Peter Bohnhof.*
@@ -1388,8 +1388,12 @@ Ergänzender Index für die antragsrelevante Gutachtenabdeckung: [Gutachten-Cove
 
 ### Release-Zeitstempel
 
-Cleaned-Release-Stand: 2026-07-10T13:00:53+02:00
+Cleaned-Release-Stand: 2026-07-10T13:06:41+02:00
 
 ### Release-Deep-Research-Report
 
 Deep-Research-Report – bereinigte Release-Fassung: Diese Fassung bildet den aktuellen geprüften Release-/Portalstand ab. Historische GitHub-/Quellenlistenstaende sind nicht massgeblich.
+
+### Deepresearch-Zahlaudit Gerichtsregister
+
+Die Herleitung des konsistenten Stands von **263 Registerfällen** ist im [Deepresearch-Zahlaudit Gerichtsregister](./reports/deepresearch-zahlaudit-gerichtsregister-2026-07-10.md) dokumentiert.

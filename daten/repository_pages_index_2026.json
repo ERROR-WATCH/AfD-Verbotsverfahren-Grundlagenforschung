@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-07-09",
-  "total_files": 10463,
+  "generated_at": "2026-07-10",
+  "total_files": 10471,
   "by_top": {
     ".": 21,
     "assets": 16,
     "dashboard": 1,
     "dataset": 6,
     "daten": 50,
-    "dokumente": 6533,
+    "dokumente": 6535,
     "geheimgutachten_netzpolitik": 39,
     "geheimgutachten": 118,
     "methodik": 8,
-    "reports": 2,
+    "reports": 3,
     "schema": 4,
     "scripts": 25,
     "skripte": 8,
-    "sources": 20,
+    "sources": 25,
     "visualisierungen": 1,
     "zitate": 3611
   },
@@ -73586,6 +73586,62 @@
       "size": 5059,
       "top": "zitate",
       "role": "Zitat-/Proof-Datei"
+    },
+    {
+      "path": "dokumente/hauptquellen/urteilsbelege/263_Joerg_Dornau_VG_Leipzig_Ordnungsgeld_Belarus_2025.md",
+      "ext": ".md",
+      "size": 1117,
+      "top": "dokumente",
+      "role": "Hauptquelle / Dossier / Urteilsbeleg"
+    },
+    {
+      "path": "dokumente/hauptquellen/urteilsbelege/49b_Saechsische_Separatisten_OLG_Dresden_5_St_4_25.md",
+      "ext": ".md",
+      "size": 1169,
+      "top": "dokumente",
+      "role": "Hauptquelle / Dossier / Urteilsbeleg"
+    },
+    {
+      "path": "sources/web/sachsen/vg_leipzig_2025-12-10_dornau_ordnungsgeld.html",
+      "ext": ".html",
+      "size": 65759,
+      "top": "sources",
+      "role": "Lokaler Webarchiv-Beleg"
+    },
+    {
+      "path": "sources/web/sachsen/sta_leipzig_2026-02-04_dornau_awg.html",
+      "ext": ".html",
+      "size": 65371,
+      "top": "sources",
+      "role": "Lokaler Webarchiv-Beleg"
+    },
+    {
+      "path": "sources/web/sachsen/olg_dresden_2025-12-15_saechsische_separatisten_eroeffnung.html",
+      "ext": ".html",
+      "size": 64342,
+      "top": "sources",
+      "role": "Lokaler Webarchiv-Beleg"
+    },
+    {
+      "path": "sources/web/taz/taz_2026-02-04_dornau_belarus_embargo.html",
+      "ext": ".html",
+      "size": 163232,
+      "top": "sources",
+      "role": "Lokaler Webarchiv-Beleg"
+    },
+    {
+      "path": "sources/web/lvz/lvz_haettasch_polizeischuss_einstellung.html",
+      "ext": ".html",
+      "size": 766,
+      "top": "sources",
+      "role": "Lokaler Webarchiv-Beleg"
+    },
+    {
+      "path": "reports/deepresearch-zahlaudit-gerichtsregister-2026-07-10.md",
+      "ext": ".md",
+      "size": 1119,
+      "top": "reports",
+      "role": "Deepresearch-/Auditbericht"
     }
   ]
 }

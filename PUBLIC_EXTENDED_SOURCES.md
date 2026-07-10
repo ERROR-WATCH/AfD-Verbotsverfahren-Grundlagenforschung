@@ -460,7 +460,7 @@ Dieses Kapitel führt sämtliche Quellennachweise, Online-Referenzen, Literaturv
 
 # Quellenverzeichnis und Provenienzregister der Urteilsdatenbank
 
-Dieses Dokument enthält die verifizierten Online-Quellen, höchstrichterlichen Gerichtsentscheidungen, Pressemeldungen und behördlichen Nachweise für den historischen Registerstand bis Fall 259; aktueller Portal-/Release-Stand: 262 Fälle.
+Dieses Dokument enthält die verifizierten Online-Quellen, höchstrichterlichen Gerichtsentscheidungen, Pressemeldungen und behördlichen Nachweise für den historischen Registerstand bis Fall 259; aktueller Portal-/Release-Stand: 263 Fälle.
 
 Sämtliche Belege liegen physisch im Repository unter [`./urteilsbelege/`](./dokumente/hauptquellen/urteilsbelege/) im unzensierten Volltext vor.
 

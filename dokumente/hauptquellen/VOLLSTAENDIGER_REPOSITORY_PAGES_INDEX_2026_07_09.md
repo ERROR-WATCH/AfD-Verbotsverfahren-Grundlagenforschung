@@ -10731,3 +10731,11 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [zitate/afd-verbot.de-2025-07-28-proof-03609.md](../../zitate/afd-verbot.de-2025-07-28-proof-03609.md) | Zitat-/Proof-Datei | .md | 4.4 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-03610.md](../../zitate/afd-verbot.de-2025-07-28-proof-03610.md) | Zitat-/Proof-Datei | .md | 4.5 KB |
 | [zitate/afd-verbot.de-2025-07-28-proof-03611.md](../../zitate/afd-verbot.de-2025-07-28-proof-03611.md) | Zitat-/Proof-Datei | .md | 4.9 KB |
+| [dokumente/hauptquellen/urteilsbelege/263_Joerg_Dornau_VG_Leipzig_Ordnungsgeld_Belarus_2025.md](../../dokumente/hauptquellen/urteilsbelege/263_Joerg_Dornau_VG_Leipzig_Ordnungsgeld_Belarus_2025.md) | Hauptquelle / Dossier / Urteilsbeleg | .md | 1.1 KB |
+| [dokumente/hauptquellen/urteilsbelege/49b_Saechsische_Separatisten_OLG_Dresden_5_St_4_25.md](../../dokumente/hauptquellen/urteilsbelege/49b_Saechsische_Separatisten_OLG_Dresden_5_St_4_25.md) | Hauptquelle / Dossier / Urteilsbeleg | .md | 1.1 KB |
+| [sources/web/sachsen/vg_leipzig_2025-12-10_dornau_ordnungsgeld.html](../../sources/web/sachsen/vg_leipzig_2025-12-10_dornau_ordnungsgeld.html) | Lokaler Webarchiv-Beleg | .html | 64.2 KB |
+| [sources/web/sachsen/sta_leipzig_2026-02-04_dornau_awg.html](../../sources/web/sachsen/sta_leipzig_2026-02-04_dornau_awg.html) | Lokaler Webarchiv-Beleg | .html | 63.8 KB |
+| [sources/web/sachsen/olg_dresden_2025-12-15_saechsische_separatisten_eroeffnung.html](../../sources/web/sachsen/olg_dresden_2025-12-15_saechsische_separatisten_eroeffnung.html) | Lokaler Webarchiv-Beleg | .html | 62.8 KB |
+| [sources/web/taz/taz_2026-02-04_dornau_belarus_embargo.html](../../sources/web/taz/taz_2026-02-04_dornau_belarus_embargo.html) | Lokaler Webarchiv-Beleg | .html | 159.4 KB |
+| [sources/web/lvz/lvz_haettasch_polizeischuss_einstellung.html](../../sources/web/lvz/lvz_haettasch_polizeischuss_einstellung.html) | Lokaler Webarchiv-Beleg | .html | 0.7 KB |
+| [reports/deepresearch-zahlaudit-gerichtsregister-2026-07-10.md](../../reports/deepresearch-zahlaudit-gerichtsregister-2026-07-10.md) | Deepresearch-/Auditbericht | .md | 1.1 KB |
