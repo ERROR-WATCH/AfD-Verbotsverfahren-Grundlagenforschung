@@ -1,31 +1,31 @@
 {
-  "total": 3611,
-  "with_originaltext": 295,
-  "with_pinpoint": 3611,
-  "with_actor": 3419,
-  "local_source_path": 3611,
-  "direct_attribution": 899,
+  "total": 3722,
+  "with_originaltext": 327,
+  "with_pinpoint": 3722,
+  "with_actor": 3524,
+  "local_source_path": 3722,
+  "direct_attribution": 928,
   "indirect_attribution": 20,
   "belegpfad_normalisierung": 2692,
   "to_normalize": 2692,
-  "official_or_court": 1178,
-  "strong_evidence_grade_abc": 1159,
-  "court_ready_quote_findings": 37,
+  "official_or_court": 1209,
+  "strong_evidence_grade_abc": 1164,
+  "court_ready_quote_findings": 38,
   "pinpoint_route_task": 0,
-  "originaltext_route_task": 3316,
+  "originaltext_route_task": 3395,
   "legal_note": "Zitat-Findings werden nicht als lose Wortzählung gewertet, sondern als Quelle -> Pinpoint -> Akteur -> Zurechnung -> Art.-21-Prüffeld -> Beweisstufe. Belegpfad-Normalisierung ist als Quellen- und Akteursroute zu prüfen.",
   "by_art21": [
     {
       "label": "Verfassungsfeindliche Zielrichtung",
-      "value": 2130
+      "value": 2174
     },
     {
       "label": "Rechtsstaatsprinzip",
-      "value": 714
+      "value": 719
     },
     {
       "label": "Menschenwürde",
-      "value": 354
+      "value": 416
     },
     {
       "label": "Potentialitaet",
@@ -51,29 +51,29 @@
   "by_evidence_grade": [
     {
       "label": "E",
-      "value": 2452
+      "value": 2558
     },
     {
       "label": "A",
-      "value": 1159
+      "value": 1164
     }
   ],
   "by_source_type": [
     {
       "label": "Social Media / Video",
-      "value": 1641
+      "value": 1681
     },
     {
       "label": "amtlich/gutachtlich",
-      "value": 626
+      "value": 656
     },
     {
       "label": "gerichtlich",
-      "value": 538
+      "value": 539
     },
     {
       "label": "lokaler Belegpfad / sonstige Quelle",
-      "value": 497
+      "value": 537
     },
     {
       "label": "parteieigene Quelle",
@@ -95,7 +95,11 @@
     },
     {
       "label": "Direkte AfD-/Funktionärszurechnung",
-      "value": 899
+      "value": 928
+    },
+    {
+      "label": "Lagebild ohne automatische Parteizurechnung",
+      "value": 82
     },
     {
       "label": "Indirekte Organisations-/Vorfeldzurechnung",
@@ -105,15 +109,15 @@
   "by_actor": [
     {
       "label": "Björn Höcke",
-      "value": 285
+      "value": 286
     },
     {
       "label": "Akteur im Belegpfad zu normalisieren",
-      "value": 192
+      "value": 198
     },
     {
       "label": "Der Bundesvorstand",
-      "value": 143
+      "value": 145
     },
     {
       "label": "Maximilian Krah",
@@ -132,6 +136,10 @@
       "value": 86
     },
     {
+      "label": "René Springer",
+      "value": 62
+    },
+    {
       "label": "Alexander Gauland",
       "value": 61
     },
@@ -144,7 +152,11 @@
       "value": 52
     },
     {
-      "label": "René Springer",
+      "label": "Christoph Berndt",
+      "value": 50
+    },
+    {
+      "label": "Matthias Helferich",
       "value": 50
     },
     {
@@ -152,24 +164,16 @@
       "value": 49
     },
     {
-      "label": "Matthias Helferich",
-      "value": 47
-    },
-    {
       "label": "Marvin Weber",
-      "value": 45
+      "value": 46
     },
     {
       "label": "Nicole Höchst",
       "value": 43
     },
     {
-      "label": "Christoph Berndt",
-      "value": 40
-    },
-    {
       "label": "Sebastian Münzenmaier",
-      "value": 40
+      "value": 41
     },
     {
       "label": "Thüringen Landesvorstand",
@@ -195,7 +199,7 @@
     },
     {
       "label": "Bundestagsrede",
-      "value": 104
+      "value": 105
     },
     {
       "label": "Resolution: Kein Ruf des Muezins in unseren Städten, Facebook",
@@ -242,34 +246,34 @@
       "value": 17
     },
     {
-      "label": "X/Twitter",
-      "value": 15
+      "label": "Videomitschnitt auf YouTube",
+      "value": 17
     },
     {
-      "label": "Bundestagswahlprogramm der AfD 2025",
-      "value": 14
+      "label": "X/Twitter",
+      "value": 15
     }
   ],
   "by_topic": [
     {
       "label": "Menschenwürde / Volksbegriff / Remigration",
-      "value": 1818
+      "value": 1896
     },
     {
       "label": "Demokratieprinzip / Institutionenangriff",
-      "value": 645
+      "value": 659
     },
     {
       "label": "Sonstige Art.-21-Belegachse",
-      "value": 560
+      "value": 569
     },
     {
       "label": "Rechtsstaatsprinzip / Justiz / Verwaltung",
-      "value": 377
+      "value": 379
     },
     {
       "label": "Antisemitismus / NS-Relativierung / Codes",
-      "value": 134
+      "value": 141
     },
     {
       "label": "Vorfeld / JA / Neue Rechte / Netzwerke",
@@ -277,7 +281,7 @@
     },
     {
       "label": "Queer-/Gender-/Schul- und Kulturkampf",
-      "value": 25
+      "value": 26
     },
     {
       "label": "Potentialität / Organisationsmacht",
@@ -291,23 +295,23 @@
   "by_target_group": [
     {
       "label": "Zielgruppe im Einzelfinding zu prüfen",
-      "value": 1679
+      "value": 1745
     },
     {
       "label": "Justiz / Sicherheits- und Verfassungsorgane",
-      "value": 947
+      "value": 951
     },
     {
       "label": "Muslimische Menschen / religiöse Minderheiten",
-      "value": 561
-    },
-    {
-      "label": "Queere Menschen / geschlechtliche Selbstbestimmung",
-      "value": 157
+      "value": 566
     },
     {
       "label": "Menschen mit Migrationsgeschichte / Staatsbürgerstatus",
-      "value": 153
+      "value": 180
+    },
+    {
+      "label": "Queere Menschen / geschlechtliche Selbstbestimmung",
+      "value": 165
     },
     {
       "label": "Jüdinnen/Juden / antisemitisch codierte Zielbilder",
@@ -315,7 +319,7 @@
     },
     {
       "label": "Politische Gegner / Zivilgesellschaft",
-      "value": 26
+      "value": 27
     },
     {
       "label": "Presse / freie Öffentlichkeit",
@@ -329,23 +333,23 @@
   "by_legal_cluster": [
     {
       "label": "Menschenwürde / Volksbegriff / Remigration",
-      "value": 1818
+      "value": 1896
     },
     {
       "label": "Demokratieprinzip / Institutionenangriff",
-      "value": 645
+      "value": 659
     },
     {
       "label": "Sonstige Art.-21-Belegachse",
-      "value": 560
+      "value": 569
     },
     {
       "label": "Rechtsstaatsprinzip / Justiz / Verwaltung",
-      "value": 377
+      "value": 379
     },
     {
       "label": "Antisemitismus / NS-Relativierung / Codes",
-      "value": 134
+      "value": 141
     },
     {
       "label": "Vorfeld / JA / Neue Rechte / Netzwerke",
@@ -353,7 +357,7 @@
     },
     {
       "label": "Queer-/Gender-/Schul- und Kulturkampf",
-      "value": 25
+      "value": 26
     },
     {
       "label": "Potentialität / Organisationsmacht",

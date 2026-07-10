@@ -122,7 +122,7 @@ for (const task of tasks) {
 }
 
 if (version?.canonical_counts?.gerichtsfälle_current !== 262) push('fatal', 'version_manifest.json muss gerichtsfälle_current=262 fuehren.');
-if (version?.canonical_counts?.proof_quotes_current !== 3611) push('fatal', 'version_manifest.json muss proof_quotes_current=3611 fuehren.');
+if (version?.canonical_counts?.proof_quotes_current !== 3722) push('fatal', 'version_manifest.json muss proof_quotes_current=3722 fuehren.');
 if (version?.canonical_counts?.verbotsgruende_current !== 18) push('fatal', 'version_manifest.json muss verbotsgruende_current=18 fuehren.');
 if (!courtManifest?.status_schema?.length) push('fatal', 'Court-grade Manifest braucht status_schema.');
 
@@ -150,7 +150,7 @@ const hardcoded = [
 for (const item of hardcoded) if (item.pattern.test(indexHtml)) push('warn', `index.html enthaelt ${item.label}; nur mit explizitem Legacy-/Audit-Kontext zulassen.`);
 
 const directNumbers = [
-  /\{\s*label:\s*["']Zitatkorpus["']\s*,\s*value:\s*3611/i,
+  /\{\s*label:\s*["']Zitatkorpus["']\s*,\s*value:\s*3722/i,
   /\{\s*label:\s*["']Registerfaelle["']\s*,\s*value:\s*262/i,
   /numbers:\s*["'][^"']*262\s+Registerfaelle/i,
 ];

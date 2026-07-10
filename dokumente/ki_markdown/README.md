@@ -3,7 +3,7 @@
 > 🌐 **Interaktives Web-Portal (Forschungs-Dashboard) live online:**  
 > Erkunde dieses gesamte Belegarchiv unzensiert, schnell und interaktiv direkt im Browser:  
 > 👉 **[https://ERROR-WATCH.github.io/AfD-Verbotsverfahren-Grundlagenforschung/](https://ERROR-WATCH.github.io/AfD-Verbotsverfahren-Grundlagenforschung/)**  
-> *Das Portal bietet eine hochintelligente, umlautsensitive Volltextsuche über alle 239 Gerichtsfälle, 18 Verbotsgründe, alle unzensierten Gutachten/PDF-Splits und alle 3.611 Belegzitate mit Live-Textvorschau!*
+> *Das Portal bietet eine hochintelligente, umlautsensitive Volltextsuche über alle 262 Gerichtsfälle, 18 Verbotsgründe, alle unzensierten Gutachten/PDF-Splits und alle 3.722 Belegzitate mit Live-Textvorschau!*
 
 ---
 
@@ -27,7 +27,7 @@ Dieses Repository sammelt die zentralen Dokumente, Textfragmente und Forschungse
 Dieses Repository stellt eine **solid fundierte Arbeitsbasis** dar, die nach bestem Wissen und Gewissen und mit erheblicher **KI-Unterstützung** erstellt und strukturiert wurde. Es ist jedoch von zentraler Bedeutung, die folgenden Aspekte für jede weitere wissenschaftliche, journalistische oder juristische Verwendung zu berücksichtigen:
 
 1. **Kein Anspruch auf Vollständigkeit (Die Oberfläche des Komplexes):**  
-   Trotz der sorgfältigen Aufbereitung von 239 Gerichtsfällen und über 1.400 Dokumenten legt diese Datenbank **bei weitem keinen Anspruch auf Vollständigkeit** nahe. In Anbetracht der enormen Tiefe und Verästelung der verfassungsfeindlichen Strukturen der Partei stellt dieses Archiv in unseren Augen lediglich die **Oberfläche des gesamten rechtlichen und tatsächlichen Komplexes** dar. Viele verdeckte Netzwerke, Finanzströme und behördliche Erkenntnisse liegen im Verborgenen oder unterliegen dem Geheimschutz.
+   Trotz der sorgfältigen Aufbereitung von 262 Gerichtsfällen und über 1.400 Dokumenten legt diese Datenbank **bei weitem keinen Anspruch auf Vollständigkeit** nahe. In Anbetracht der enormen Tiefe und Verästelung der verfassungsfeindlichen Strukturen der Partei stellt dieses Archiv in unseren Augen lediglich die **Oberfläche des gesamten rechtlichen und tatsächlichen Komplexes** dar. Viele verdeckte Netzwerke, Finanzströme und behördliche Erkenntnisse liegen im Verborgenen oder unterliegen dem Geheimschutz.
    
 2. **Notwendigkeit händischer und professioneller Auswertung:**  
    Die in diesem Repository bereitgestellten Daten und KI-generierten Strukturierungshilfen (z. B. RAG-Dumps und Zusammenfassungen) sind **Arbeitswerkzeuge, keine gerichtsfertigen Beweise**. Für ein tatsächliches gerichtliches Verbotsverfahren vor dem Bundesverfassungsgericht bedarf es zwingend einer **vollständig händischen Auswertung, detaillierten Verifizierung und juristisch präzisen Aufbereitung aller Belege durch geschultes Fachpersonal** (wie habilitierte Verfassungsrechtler, erfahrene Prozessbevollmächtigte und staatliche Gutachter).
@@ -92,7 +92,7 @@ Es ist **kein** fertiges Dossier und **ersetzt nicht** die professionelle Beweis
 ├── dataset/                               # Maschinenlesbare JSONL‑Datensätze für RAG‑Pipelines (index.json, jsonl)
 ├── skripte/                               # Scraper, OCR‑Skripte und Linklisten
 ├── assets/                                # Bilder, Diagramme und Videos (Christian Lüth, Beweisfotos)
-└── zitate/                                # Zitate‑Sammlung von afd‑verbot.de als Markdown‑Dateien (00001–03611)
+└── zitate/                                # Zitate‑Sammlung von afd‑verbot.de als Markdown‑Dateien (00001–03722)
 ```
 
 ## Verfassungsschutzberichte des Bundes & aller 16 Bundesländer (VfS) sowie BKA-Statistiken
@@ -218,14 +218,14 @@ Dieses Register ist eine umfassende, wissenschaftlich gepflegte Zusammenstellung
 
 Sämtliche Belege liegen physisch im Repository vor und sind im vollumfänglichen Register [**`URTEILE_DEEPRESEARCH.md`**](./URTEILE_DEEPRESEARCH.md) systematisch verzeichnet.
 
-> 📥 **Gesamtregister zum Download:** Wir haben alle 239 straf- und verfassungsrechtlichen Urteile in einem einzigen, offline-fähigen Gesamtregister kompiliert:
+> 📥 **Gesamtregister zum Download:** Der historische PDF-/TXT-Export kompiliert 239 straf- und verfassungsrechtliche Urteile; aktueller Portal-/Release-Stand: 262 Fälle:
 > * 📄 [**Gesamt-Urteilsregister als gesetztes PDF-Dossier**](../hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf) *(Perfekt formatiert für RAG und Druck)*
 > * 📝 [**Gesamt-Urteilsregister als TXT-Dokument**](../hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.md)
 
-> 📚 **Verifiziertes Quellen- & Provenienzregister:** Wir haben eine dedizierte Quellenliste angelegt, die für alle 239 Fälle die originalen, höchstrichterlichen Gerichtsdatenbank-Einträge und Pressebelege (LTO, Spiegel, Tagesschau) enthält:
+> 📚 **Verifiziertes Quellen- & Provenienzregister:** Wir haben eine dedizierte Quellenliste angelegt, die den historischen Registerstand bis Fall 239 dokumentiert; aktueller Portal-/Release-Stand: 262 Fälle. Sie enthält die originalen, höchstrichterlichen Gerichtsdatenbank-Einträge und Pressebelege (LTO, Spiegel, Tagesschau):
 > * 🔗 [**Offizielles Quellen- & Provenienzregister (QUELLEN_URTEILSDB.md)**](../hauptquellen/urteilsbelege/QUELLEN_URTEILSDB.md)
 
-#### 🏛️ Systematisches & fortlaufend erweitertes Strafrechts- und Gerichtsregister (239 exemplarische Fälle direkt im Repository):
+#### 🏛️ Systematisches & fortlaufend erweitertes Strafrechts- und Gerichtsregister (historischer Ausschnitt: 239 exemplarische Fälle; aktueller Release-Stand: 262):
 
 ##### A) Volksverhetzung & Verfassungswidrige Kennzeichen (20 Fälle)
 * ⚖️ **1. Björn Höcke (SA-Parole „Alles für Deutschland“):** [Lokaler Beleg](../hauptquellen/urteilsbelege/01_Hoecke_SA_Parole_LG_Halle.md) | [Online-Quelle](https://www.lto.de/recht/nachrichten/n/bgh-verwirft-revision-bjoern-hoecke-sa-parole-alles-fuer-deutschland/) – *[**DIREKT AfD - Landessprecher**] LG Halle verurteilte Höcke wegen des Verwendens verbotener SA-Kennzeichen.*
@@ -448,7 +448,7 @@ Ich habe mal das Leak für eine KI aufbereitet. Der Verfassungsschutzbericht ist
   - [`BfV-AfD-Folgegutachten_2021_11_H_Gesamtwuerdigung.md`](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_11_H_Gesamtwuerdigung.md) | [TXT-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_11_H_Gesamtwuerdigung.txt) | [PDF-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_11_H_Gesamtwuerdigung.pdf)
   - [`BfV-AfD-Folgegutachten_2021_12_I_Fazit.md`](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_12_I_Fazit.md) | [TXT-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_12_I_Fazit.txt) | [PDF-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_12_I_Fazit.pdf)
   - [`BfV-AfD-Folgegutachten_2021_13_Anhang_Glossar_Fussnoten.md`](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_13_Anhang_Glossar_Fussnoten.md) | [TXT-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_13_Anhang_Glossar_Fussnoten.txt) | [PDF-Version](./geheimgutachten_netzpolitik/BfV-AfD-Folgegutachten_2021_13_Anhang_Glossar_Fussnoten.pdf)
-### E) Zitate & Belege (afd‑verbot.de / Proof‑Sammlung) (3 614)
+### E) Zitate & Belege (afd‑verbot.de / Proof‑Sammlung) (3.722)
 - Ordner: `zitate/`
 - Struktur: `afd-verbot.de-<YYYY-MM-DD>-proof-xxxxx.md`  
 - **Beispiele**:  
@@ -456,12 +456,14 @@ Ich habe mal das Leak für eine KI aufbereitet. Der Verfassungsschutzbericht ist
   - `zitate/afd-verbot.de-28.07.2025-proof-00002.md`  
   - `zitate/afd-verbot.de-28.07.2025-proof-00003.md`  
   - `…`  
-  - `zitate/afd-verbot.de-28.07.2025-proof-03609.md`  
-  - `zitate/afd-verbot.de-28.07.2025-proof-03610.md`  
-  - `zitate/afd-verbot.de-28.07.2025-proof-03611.md`
+  - `zitate/afd-verbot.de-2025-07-28-proof-03609.md`  
+  - `zitate/afd-verbot.de-2025-07-28-proof-03610.md`  
+  - `zitate/afd-verbot.de-2025-07-28-proof-03611.md`  
+  - `zitate/afd-verbot.de-2026-07-09-proof-03612.md`  
+  - `zitate/afd-verbot.de-2026-07-09-proof-03722.md`
 
 > **README‑Hinweis**: In der Datei [`afd-verbot.de-scrape-link-liste.txt`](./skripte/afd-verbot.de-scrape-link-liste.txt) liegt die maschinenlesbare Linkliste.  
-> Die Proof‑Dateien sind vollständig nummeriert (00001–03611) und chronologisch datiert.
+> Die Proof-Dateien sind lokal vollständig als 3.722 Markdown-Belege geführt: Altbestand 00001-03611 plus Live-Nachtrag 03612-03722 vom 2026-07-09.
 
 ---
 
@@ -848,7 +850,7 @@ Ein Satz Scripte und Hilfsdateien, um die **gesamte Beweise‑Übersicht** von [
 │   ├── afd-verbot.de-scrape-dependencies.sh   # Installations‑ und Setup‑Script
 │   ├── afd-verbot.de-scrape-beweise-zitate.py # Haupt‑Script: langsames Scrollen + Link‑Export + PDF‑Erzeugung
 │   └── afd-verbot.de-scrape-link-liste.txt    # Automatisch generierte Liste aller Beweis‑URLs
-├── afd-verbot.de-<DATUM>-proof-00001.pdf      # Beispiel‑PDF; tatsächlich: proof-00001.pdf … proof-03611.pdf
+├── afd-verbot.de-<DATUM>-proof-00001.pdf      # Beispiel‑PDF; tatsächlich: proof-00001.pdf … proof-03722.pdf
 └── README.md                                  # Diese Anleitung
 ```
 
@@ -889,8 +891,8 @@ Ein Satz Scripte und Hilfsdateien, um die **gesamte Beweise‑Übersicht** von [
 ---
 2. **Ergebnis prüfen**
 
-   * **Linkliste**: `skripte/afd-verbot.de-scrape-link-liste.txt` enthält alle \~3 611 URLs.
-   * **PDF‑Ordner**: Enthält 3.611 datierte PDFs, durchnummeriert von `proof-00001.pdf` bis `proof-03611.pdf`.
+   * **Linkliste**: `skripte/afd-verbot.de-scrape-link-liste.txt` enthält alle \~3.722 URLs.
+   * **PDF‑Ordner**: Enthält 3.722 datierte PDFs, durchnummeriert von `proof-00001.pdf` bis `proof-03722.pdf`.
 
 ---
 

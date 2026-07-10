@@ -624,7 +624,7 @@ Die statistische Staerke des Repositories liegt nicht in einzelnen Keywordtreffe
 - 5.442 Primärquellen,
 - 262 Registerfaellen,
 - 3.703 geprüften Findings,
-- 3.611 Zitatbefunden,
+- 3.722 Zitatbefunden,
 - 1.234 Findings der Beweisstufe A,
 - 989 direkt zurechenbaren Findings,
 - BfV-Methodikzahlen von 4.600 geprüften Belegen, über 650 Personen und knapp 400 Organisationseinheiten,

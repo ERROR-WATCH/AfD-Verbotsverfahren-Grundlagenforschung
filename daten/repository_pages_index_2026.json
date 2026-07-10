@@ -229,13 +229,13 @@
     {
       "area": "Findings",
       "file": "daten/findings_art21.jsonl",
-      "purpose": "3.757 Art.-21-Findings.",
+      "purpose": "3.868 Art.-21-Findings.",
       "exists": true
     },
     {
       "area": "Zitatstatistik",
       "file": "daten/zitat_statistik_2026.json",
-      "purpose": "3.611 Quote-/Proof-Findings, Zurechnung und Quellenklassen.",
+      "purpose": "3.722 Quote-/Proof-Findings, Zurechnung und Quellenklassen.",
       "exists": true
     },
     {
@@ -334,7 +334,7 @@
     },
     {
       "area": "Zitatkorpus",
-      "finding": "3.611 Proofs sind pinntauglich, aber nur 37 liegen in enger Dossierklasse mit Originaltext/Auszug + starkem Quellenanker. Fuer eine Anlage muessen weitere Topzitate priorisiert werden."
+      "finding": "3.722 Proofs sind pinntauglich, aber 38 liegen in enger Dossierklasse mit Originaltext/Auszug + starkem Quellenanker. Fuer eine Anlage muessen weitere Topzitate priorisiert werden."
     },
     {
       "area": "Pages-Navigation",

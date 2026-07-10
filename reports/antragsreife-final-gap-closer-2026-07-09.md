@@ -10,9 +10,9 @@ Dieses Register benennt die letzten sieben Verfahrenshaertungen vor der eigentli
 - Prioritaet A: 7
 - lokale Ankersets: 33
 - auszugebende Artefakte: 21
-- Quote-Findings: 3611
-- Actor-Registry-Zeilen: 3611
-- Quelleninventar: 10427
+- Quote-Findings: 3722
+- Actor-Registry-Zeilen: 3722
+- Quelleninventar: 10741
 - final gefuehrte Anlagen-Pinpoints: 127
 
 ## Sieben Verfahrenshaertungen
@@ -23,8 +23,8 @@ Dieses Register benennt die letzten sieben Verfahrenshaertungen vor der eigentli
 - Ziel: Top-100/Top-300-Zitate nicht als Masse, sondern als gerichtsfeste Einzelbeweise mit Akteur, Funktion, Datum, Kanal, Zielgruppe, Rechtsgut, Kontext und Gegenargument ausspielen.
 - Lokale Belege: daten/findings_art21.jsonl; daten/topzitat_dossierklasse_2026.jsonl; daten/quote_actor_registry_2026.jsonl; dokumente/ki_markdown/zitate/; zitate/
 - Online-/Originalroute: Original-X/Facebook/YouTube/Bundestags-/AfD-Kanal-URLs aus Proof-Dateien, GFF-/BfV-Fussnoten und Webarchiven als Screenshot-/Archivanker sichern.
-- Bestand: quote_findings=3611; direkt_zurechenbar_indikativ=963; top_dossier_rows=150; actor_registry_rows=3611
-- Visualisierung: Funnel: 3.611 Quote-Findings -> direkt zurechenbar -> amtlich/gerichtlich -> Top-100/300; Heatmap Akteur x Rechtsgut; Zielgruppenmatrix.
+- Bestand: quote_findings=3722; direkt_zurechenbar_indikativ=992; top_dossier_rows=150; actor_registry_rows=3722
+- Visualisierung: Funnel: 3.722 Quote-Findings -> direkt zurechenbar -> amtlich/gerichtlich -> Top-100/300; Heatmap Akteur x Rechtsgut; Zielgruppenmatrix.
 - Verfahrensregel: Haeufigkeit ist Verdichtungsindikator. Antragstauglich wird das Einzelzitat erst mit Quelle, Pinpoint, Akteur, Ebene, Kontext, Beweisstufe und Gegenlese.
 - Outputs: daten/topzitat_dossierklasse_2026.jsonl; daten/quote_actor_registry_2026.jsonl; dokumente/hauptquellen/TOPZITAT_DOSSIERKLASSE_2026.md
 
@@ -39,7 +39,7 @@ Umsetzung:
 - Ziel: Presse- und Screenshot-Routen auf amtliche, gerichtliche, parteieigene oder archivierte Originale stellen.
 - Lokale Belege: daten/source_inventory.jsonl; daten/presseanker_primaerrouten_2026.jsonl; daten/anlagenregister_art21_2026.jsonl; sources/web/
 - Online-/Originalroute: Phoenix-/YouTube-Original oder Transkript fuer Chrupalla/VS; X/Facebook/Youtube-Originale; AfD-Programm-/Beschluss-/Pressemitteilungsseiten; Gerichts-/GBA-/Bundestagsseiten.
-- Bestand: quelleninventar=10427; social_media_route_sources=22; presse_recherche_routes=175; official_or_primary_sources=5591; hashgesicherte_amtsanker=19
+- Bestand: quelleninventar=10741; social_media_route_sources=22; presse_recherche_routes=176; official_or_primary_sources=5737; hashgesicherte_amtsanker=19
 - Visualisierung: Quellenhierarchie-Leiter: Gericht/amtlich/Parteiquelle > Gutachten > parlamentarisch > Presse/Recherche > lokaler Proof; Ampel pro Route.
 - Verfahrensregel: Presse ist Rechercheweg, nicht Endpunkt fuer A-Beweis. Zurechnung entsteht durch dokumentierten AfD-Akteur, Organ, Funktion oder Fall-ID.
 - Outputs: daten/presseanker_primaerrouten_2026.jsonl; daten/official_web_anchor_integrity_2026.jsonl; daten/antrag_quellenhierarchie_2026.jsonl
@@ -55,7 +55,7 @@ Umsetzung:
 - Ziel: Sekundaere Chronik-/Wikipedia-Routen in Fallzeilen mit Akteur, Parteistatus, Ereignisdatum, Primaeranker, Verfahrensstatus und Art.-21-Funktion zerlegen.
 - Lokale Belege: dokumente/hauptquellen/Wikipedia_Abgleich_Rechtsextreme_Neonazistische_Vorfälle_AfD.md; dokumente/hauptquellen/urteilsbelege/; daten/cases.json; daten/findings_art21.jsonl
 - Online-/Originalroute: Gerichtsdatenbanken, Pressearchive nur als Suchroute, Parlaments-/Parteiquellen, Staatsanwaltschafts- oder Gerichtsmitteilungen je Cluster.
-- Bestand: chronik_cluster_zu_dossierieren=13; gerichtsregister_anker_indikativ=262; findings_total=3757
+- Bestand: chronik_cluster_zu_dossierieren=13; gerichtsregister_anker_indikativ=262; findings_total=3868
 - Visualisierung: Fallmatrix: Cluster -> Akteur -> Parteistatus -> Primaeranker -> Verfahren -> Art.-21-Funktion.
 - Verfahrensregel: Eine Chronik ist kein Beweisersatz. Gerichtsfest wird der Fall erst durch konkreten Primaeranker und Zurechnung.
 - Outputs: daten/cases.json; dokumente/hauptquellen/urteilsbelege/; daten/antragsreife_final_gap_closer_2026.jsonl
@@ -71,7 +71,7 @@ Umsetzung:
 - Ziel: Alle verwendeten Gutachtenfamilien mit lokaler Datei, Herausgeber/Autor, Version, Seitenanker, Hash, Web-/Archivroute und Gewichtung fuehren.
 - Lokale Belege: daten/gutachten_coverage_audit_2026.jsonl; dokumente/hauptquellen/ANTRAGSREIFE_NACHVERDRAHTUNG_2026.md; reports/gutachten-coverage-audit-2026-07-09.md; geheimgutachten/; dokumente/ki_markdown/dokumente/splits/
 - Online-/Originalroute: BfV/BMI/BVerwG/VG/OVG fuer amtliche Verfahren; GFF/DIMR/Uni-/Autoren-/Verlagsseiten fuer Gutachten; Webarchive fuer stabile Fassung.
-- Bestand: gutachten_audit_rows=11; gutachten_related_inventory_rows=785; anlagen_gutachtenfamilien=11
+- Bestand: gutachten_audit_rows=11; gutachten_related_inventory_rows=786; anlagen_gutachtenfamilien=11
 - Visualisierung: Gutachten-Coverage-Matrix: Quelle x Art.-21-Feld x Seitenanker x Zurechnung x Beweisgewicht.
 - Verfahrensregel: Gutachten tragen nur soweit, wie Tatsachenbasis, Methodik, Quelle und Gegenlese sichtbar sind; Verdachtsfallstandard und Verbotsstandard getrennt halten.
 - Outputs: daten/gutachten_coverage_audit_2026.jsonl; dokumente/hauptquellen/ANTRAGSREIFE_NACHVERDRAHTUNG_2026.md; reports/gutachten-coverage-audit-2026-07-09.md

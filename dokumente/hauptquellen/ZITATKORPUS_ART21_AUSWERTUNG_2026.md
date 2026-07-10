@@ -4,17 +4,17 @@ Dieser Vermerk wertet den lokalen Zitat-/Proof-Korpus nicht als Wortzählung, so
 
 ## Kernergebnis
 
-- Quote-Findings: 3611
-- Mit Originaltext oder Originalauszug im Finding: 295
-- Mit konkreter Fundstelle, Proof-ID, Seite, Randnummer, Aktenzeichen oder vergleichbarem Pinpoint: 3611
-- Mit Akteur: 3419
-- Mit lokalem Belegpfad: 3611
-- Direkt zurechenbar: 899
+- Quote-Findings: 3722
+- Mit Originaltext oder Originalauszug im Finding: 327
+- Mit konkreter Fundstelle, Proof-ID, Seite, Randnummer, Aktenzeichen oder vergleichbarem Pinpoint: 3722
+- Mit Akteur: 3524
+- Mit lokalem Belegpfad: 3722
+- Direkt zurechenbar: 928
 - Indirekt oder vorfeldbezogen zurechenbar: 20
 - Belegpfadbasierte Zurechnungsnormalisierung: 2692
-- Amtlich, gerichtlich, parlamentarisch oder gutachtlich verankert: 1178
-- Beweisstufe A/B/C: 1159
-- Gerichtsfest zitierfähige Quote-Findings im engen Sinn: 37
+- Amtlich, gerichtlich, parlamentarisch oder gutachtlich verankert: 1209
+- Beweisstufe A/B/C: 1164
+- Gerichtsfest zitierfähige Quote-Findings im engen Sinn: 38
 
 ## Prozessfeste Einordnung
 
@@ -24,7 +24,7 @@ Die Quote-Findings sind vorhandene Belege. Wo Originaltext, Akteur oder Pinpoint
 
 ### Menschenwürde / Volksbegriff / Remigration
 
-- Quote-Findings: 1818
+- Quote-Findings: 1896
 - Art.-21-Funktion: Menschenwürde / Gleichheit / Ausschlusslogik
 - Status: BELEGT_UND_VERDRAHTET
 - Visualisierung: Quelle -> Akteur -> Zielgruppe -> Ausschlusslogik Sankey
@@ -32,7 +32,7 @@ Die Quote-Findings sind vorhandene Belege. Wo Originaltext, Akteur oder Pinpoint
 
 ### Demokratieprinzip / Institutionenangriff
 
-- Quote-Findings: 645
+- Quote-Findings: 659
 - Art.-21-Funktion: Demokratieprinzip / freie Willensbildung
 - Status: BELEGT_UND_VERDRAHTET
 - Visualisierung: Angriffsziel-Heatmap + Timeline
@@ -40,7 +40,7 @@ Die Quote-Findings sind vorhandene Belege. Wo Originaltext, Akteur oder Pinpoint
 
 ### Sonstige Art.-21-Belegachse
 
-- Quote-Findings: 560
+- Quote-Findings: 569
 - Art.-21-Funktion: Art.-21-Gesamtwürdigung
 - Status: BELEGT_UND_VERDRAHTET
 - Visualisierung: Beweisstufenbalken + Zeit-/Akteursmatrix
@@ -48,7 +48,7 @@ Die Quote-Findings sind vorhandene Belege. Wo Originaltext, Akteur oder Pinpoint
 
 ### Rechtsstaatsprinzip / Justiz / Verwaltung
 
-- Quote-Findings: 377
+- Quote-Findings: 379
 - Art.-21-Funktion: Rechtsstaatsprinzip
 - Status: BELEGT_UND_VERDRAHTET
 - Visualisierung: Angriffsziel-Heatmap + Timeline
@@ -56,7 +56,7 @@ Die Quote-Findings sind vorhandene Belege. Wo Originaltext, Akteur oder Pinpoint
 
 ### Antisemitismus / NS-Relativierung / Codes
 
-- Quote-Findings: 134
+- Quote-Findings: 141
 - Art.-21-Funktion: Menschenwürde / Gleichheit / Ausschlusslogik
 - Status: BELEGT_UND_VERDRAHTET
 - Visualisierung: Beweisstufenbalken + Zeit-/Akteursmatrix
@@ -72,7 +72,7 @@ Die Quote-Findings sind vorhandene Belege. Wo Originaltext, Akteur oder Pinpoint
 
 ### Queer-/Gender-/Schul- und Kulturkampf
 
-- Quote-Findings: 25
+- Quote-Findings: 26
 - Art.-21-Funktion: Menschenwürde / Gleichheit / Ausschlusslogik
 - Status: BELEGT_UND_VERDRAHTET
 - Visualisierung: Beweisstufenbalken + Zeit-/Akteursmatrix

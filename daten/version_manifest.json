@@ -1,15 +1,17 @@
 {
   "canonical_counts": {
     "files_indexed": 10373,
-    "findings_art21_entries": 3732,
+    "findings_art21_entries": 3868,
     "gerichtsfälle_current": 262,
     "gerichtsfälle_legacy_239": "full-sources.md Altregister vor Nachtraegen",
     "gerichtsfälle_legacy_244": "statistikquellen/STATISTIKMODUL Altstand",
-    "proof_quotes_current": 3611,
-    "source_inventory_entries": 10323,
-    "verbotsgruende_current": 18
+    "proof_quotes_current": 3722,
+    "source_inventory_entries": 10741,
+    "verbotsgruende_current": 18,
+    "primary_sources_current": 5586,
+    "statistik_manifest_objects": 261
   },
-  "generated_at": "2026-07-09T00:00:00+02:00",
+  "generated_at": "2026-07-10T00:00:00+02:00",
   "hashes": {
     "README.md": "496c9ade6579634619eae38f9e7ed18147b87de15415291dd3571db2d59a7bde",
     "daten/findings_art21.jsonl": "737dc7a0d8f4f5fffeab4a231b04eee3b53fd61430e79c06a08e2dcd2be88610",
