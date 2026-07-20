@@ -54,6 +54,10 @@ https://github.com/user-attachments/assets/b4a11939-14a1-4859-9d9c-382a56af29de
 
 [![Soso über Rassismus](https://img.youtube.com/vi/en99n4pWuzw/0.jpg)](https://www.youtube.com/shorts/en99n4pWuzw)
 
+[![Zur "Brandmauer"](https://img.youtube.com/vi/l7bWsE_fMxI/maxresdefault.jpg)](https://www.youtube.com/watch?v=l7bWsE_fMxI)
+
+[![Rückblick Geschichte Steigbügelhalter](https://img.youtube.com/vi/sx-9xB_CS9w/maxresdefault.jpg)](https://www.youtube.com/watch?v=sx-9xB_CS9w&t=1605s&pp=ygUmcGFwZW4gemVudHJ1bXNwYXJ0ZWkgc3RlaWdiw7xnZWxoYWx0ZXI%3D)
+
 Dieses Repository sammelt die zentralen Dokumente, Textfragmente und Forschungsergebnisse zur Vorbereitung einer Klageschrift gegen die Partei „Alternative für Deutschland“ (AfD) beim Bundesverfassungsgericht.
 
 ## ⚠️ Wichtiger Hinweis zur Methodik, KI-Unterstützung und rechtlichen Einordnung
@@ -1421,7 +1425,7 @@ Ergänzender Index für die antragsrelevante Gutachtenabdeckung: [Gutachten-Cove
 
 ### Release-Zeitstempel
 
-Cleaned-Release-Stand: 2026-07-20T15:38:55+02:00
+Cleaned-Release-Stand: 2026-07-20T15:52:26+02:00
 
 ### Release-Deep-Research-Report
 
