@@ -1,5 +1,7 @@
 # AfD-Verbotsverfahren-Grundlagenforschung
 
+<img width="660" height="439" alt="AfD Verbotsverfahren" src="assets/images/afd-verbot.jpg" />
+
 > 🌐 **Interaktives Web-Portal (Forschungs-Dashboard) live online:**  
 > Erkunde dieses gesamte Belegarchiv unzensiert, schnell und interaktiv direkt im Browser:  
 > 👉 **[https://ERROR-WATCH.github.io/AfD-Verbotsverfahren-Grundlagenforschung/](https://ERROR-WATCH.github.io/AfD-Verbotsverfahren-Grundlagenforschung/)**  
@@ -1425,7 +1427,7 @@ Ergänzender Index für die antragsrelevante Gutachtenabdeckung: [Gutachten-Cove
 
 ### Release-Zeitstempel
 
-Cleaned-Release-Stand: 2026-07-20T16:16:10+02:00
+Cleaned-Release-Stand: 2026-07-20T16:24:09+02:00
 
 ### Release-Deep-Research-Report
 
