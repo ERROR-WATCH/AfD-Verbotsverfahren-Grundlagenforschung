@@ -16,10 +16,11 @@
 [![Watch on YouTube](https://img.youtube.com/vi/nguiGvWcovA/maxresdefault.jpg)](https://www.youtube.com/watch?v=nguiGvWcovA "Auf YouTube ansehen")
 
 
-https://github.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/blob/main/assets/videos/AfD-Hocke-zu-Parteien-und-Demokratie.mp4
+### Lokale Videobelege
 
-https://github.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/blob/main/assets/videos/AfD-Hocke-zum-Deutschtum.mp4
+[![AfD-Hoecke zu Parteien und Demokratie](https://raw.githubusercontent.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/main/assets/videos/thumbnails/AfD-Hocke-zu-Parteien-und-Demokratie.jpg)](https://github.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/blob/main/assets/videos/AfD-Hocke-zu-Parteien-und-Demokratie.mp4)
 
+[![AfD-Hoecke zum Deutschtum](https://raw.githubusercontent.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/main/assets/videos/thumbnails/AfD-Hocke-zum-Deutschtum.jpg)](https://github.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/blob/main/assets/videos/AfD-Hocke-zum-Deutschtum.mp4)
 
 Dieses Repository sammelt die zentralen Dokumente, Textfragmente und Forschungsergebnisse zur Vorbereitung einer Klageschrift gegen die Partei „Alternative für Deutschland“ (AfD) beim Bundesverfassungsgericht.
 
@@ -1242,7 +1243,7 @@ Alle Quellenangaben sind in den Dateien enthalten.
 
 ## Dringlichkeitsantrag
 
-https://github.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/blob/main/assets/videos/Dringlichkeitsantrag.mp4
+[![Dringlichkeitsantrag](https://raw.githubusercontent.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/main/assets/videos/thumbnails/Dringlichkeitsantrag.jpg)](https://github.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/blob/main/assets/videos/Dringlichkeitsantrag.mp4)
 
 ## Ende des Repos
 
@@ -1388,7 +1389,7 @@ Ergänzender Index für die antragsrelevante Gutachtenabdeckung: [Gutachten-Cove
 
 ### Release-Zeitstempel
 
-Cleaned-Release-Stand: 2026-07-20T13:22:12+02:00
+Cleaned-Release-Stand: 2026-07-20T13:37:00+02:00
 
 ### Release-Deep-Research-Report
 
