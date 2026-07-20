@@ -16,15 +16,11 @@
 [![Watch on YouTube](https://img.youtube.com/vi/nguiGvWcovA/maxresdefault.jpg)](https://www.youtube.com/watch?v=nguiGvWcovA "Auf YouTube ansehen")
 
 
-<video controls preload="metadata" width="960">
-  <source src="../../assets/videos/AfD-Hocke-zu-Parteien-und-Demokratie.mp4" type="video/mp4" />
-  Dein Browser unterstützt die Video-Wiedergabe nicht.
-</video>
+### Lokale Videobelege
 
-<video controls preload="metadata" width="960">
-  <source src="../../assets/videos/AfD-Hocke-zum-Deutschtum.mp4" type="video/mp4" />
-  Dein Browser unterstützt die Video-Wiedergabe nicht.
-</video>
+[![AfD-Hoecke zu Parteien und Demokratie](https://raw.githubusercontent.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/main/assets/videos/thumbnails/AfD-Hocke-zu-Parteien-und-Demokratie.jpg)](https://github.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/blob/main/assets/videos/AfD-Hocke-zu-Parteien-und-Demokratie.mp4)
+
+[![AfD-Hoecke zum Deutschtum](https://raw.githubusercontent.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/main/assets/videos/thumbnails/AfD-Hocke-zum-Deutschtum.jpg)](https://github.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/blob/main/assets/videos/AfD-Hocke-zum-Deutschtum.mp4)
 
 Dieses Repository sammelt die zentralen Dokumente, Textfragmente und Forschungsergebnisse zur Vorbereitung einer Klageschrift gegen die Partei „Alternative für Deutschland“ (AfD) beim Bundesverfassungsgericht.
 
@@ -1197,10 +1193,7 @@ Alle Quellenangaben sind in den Dateien enthalten.
 
 ## Dringlichkeitsantrag
 
-<video controls preload="metadata" width="960">
-  <source src="../../assets/videos/Dringlichkeitsantrag.mp4" type="video/mp4" />
-  Dein Browser unterstützt die Video-Wiedergabe nicht.
-</video>
+[![Dringlichkeitsantrag](https://raw.githubusercontent.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/main/assets/videos/thumbnails/Dringlichkeitsantrag.jpg)](https://github.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/blob/main/assets/videos/Dringlichkeitsantrag.mp4)
 
 
 ## Ende des Repos
