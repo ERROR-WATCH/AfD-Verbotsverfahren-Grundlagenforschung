@@ -22,19 +22,19 @@
 
 #### Christian Lüth
 
-[Christian Lüth – Video abspielen](assets/videos/christian-lueth.mp4)
+https://github.com/user-attachments/assets/cf80433f-6cc3-49c8-9a2d-9b8adff6c2e1
 
 #### AfD Höcke – Parteien und Demokratie
 
-[AfD Höcke – Parteien und Demokratie – Video abspielen](assets/videos/AfD-Hocke-zu-Parteien-und-Demokratie.mp4)
+https://github.com/user-attachments/assets/bcd9f636-3246-4d39-870b-f733dfe0945e
 
 #### AfD Höcke – Deutschtum
 
-[AfD Höcke – Deutschtum – Video abspielen](assets/videos/AfD-Hocke-zum-Deutschtum.mp4)
+https://github.com/user-attachments/assets/f8bce688-fd95-4e6a-80c6-190332181a97
 
 #### Dringlichkeitsantrag
 
-[Dringlichkeitsantrag – Video abspielen](assets/videos/Dringlichkeitsantrag.mp4)
+https://github.com/user-attachments/assets/b4a11939-14a1-4859-9d9c-382a56af29de
 
 ### YouTube-Videobelege
 
@@ -55,10 +55,6 @@
 [![YouTube: Was AfD-Aussteiger erzählen](https://img.youtube.com/vi/RoyfB-3NpsQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=RoyfB-3NpsQ)
 
 [![Soso über Rassismus](https://img.youtube.com/vi/en99n4pWuzw/0.jpg)](https://www.youtube.com/shorts/en99n4pWuzw)
-
-[![Zur "Brandmauer"](https://img.youtube.com/vi/l7bWsE_fMxI/maxresdefault.jpg)](https://www.youtube.com/watch?v=l7bWsE_fMxI)
-
-[![Rückblick Geschichte Steigbügelhalter](https://img.youtube.com/vi/sx-9xB_CS9w/maxresdefault.jpg)](https://www.youtube.com/watch?v=sx-9xB_CS9w&t=1605s&pp=ygUmcGFwZW4gemVudHJ1bXNwYXJ0ZWkgc3RlaWdiw7xnZWxoYWx0ZXI%3D)
 
 Dieses Repository sammelt die zentralen Dokumente, Textfragmente und Forschungsergebnisse zur Vorbereitung einer Klageschrift gegen die Partei „Alternative für Deutschland“ (AfD) beim Bundesverfassungsgericht.
 
@@ -1433,7 +1429,7 @@ Ergänzender Index für die antragsrelevante Gutachtenabdeckung: [Gutachten-Cove
 
 ### Release-Zeitstempel
 
-Cleaned-Release-Stand: 2026-07-20T18:48:01+02:00
+Cleaned-Release-Stand: 2026-07-20T19:15:49+02:00
 
 ### Release-Deep-Research-Report
 
