@@ -1415,7 +1415,7 @@ Ergänzender Index für die antragsrelevante Gutachtenabdeckung: [Gutachten-Cove
 
 ### Release-Zeitstempel
 
-Cleaned-Release-Stand: 2026-07-20T19:34:31+02:00
+Cleaned-Release-Stand: 2026-07-20T19:45:32+02:00
 
 ### Release-Deep-Research-Report
 
