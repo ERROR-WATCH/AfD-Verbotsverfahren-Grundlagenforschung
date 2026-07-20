@@ -13,11 +13,6 @@
 
 <img width="1254" height="1254" alt="afd verdachtsfall" src="assets/afd%20verdachtsfall.jpg" />
 
-[![Watch on YouTube](https://img.youtube.com/vi/eSgFEpI9ZDQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=eSgFEpI9ZDQ "Auf YouTube ansehen")
-
-[![Watch on YouTube](https://img.youtube.com/vi/nguiGvWcovA/maxresdefault.jpg)](https://www.youtube.com/watch?v=nguiGvWcovA&pp=ygUdZGllIGFuc3RhbHQgcmVjaHRzZXh0cmVtaXNtdXM%3D "Auf YouTube ansehen")
-
-
 ### Lokale Videobelege
 
 #### Christian Lüth
@@ -1192,9 +1187,6 @@ Das Gutachten liefert damit eine fundierte juristische Grundlage, um ein Verbots
 
 Alle Quellenangaben sind in den Dateien enthalten.
 
-[![Nie wieder ist jetzt!](https://img.youtube.com/vi/Pb21x8gALRg/maxresdefault.jpg)](https://www.youtube.com/watch?v=Pb21x8gALRg)
-
----
 ## Neustes Gutachten
 
 [https://afd-gutachten.de](https://afd-gutachten.de)
@@ -1202,14 +1194,6 @@ Alle Quellenangaben sind in den Dateien enthalten.
 ## Afd-Zitate
 
 [https://afd-verbot.de](https://afd-verbot.de)
-
-## Politische Schönheit
-
-[![YouTube Playlist](https://img.youtube.com/vi/1dHYrVZbhX0/maxresdefault.jpg)](https://www.youtube.com/watch?v=1dHYrVZbhX0&list=PLndxauj5Nk-o1p1LVTVDgzANSFMGvhe6F)
-
-## Was AfD-Aussteiger erzählen
-
-[![YouTube](https://img.youtube.com/vi/RoyfB-3NpsQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=RoyfB-3NpsQ)
 
 ## Dringlichkeitsantrag
 
