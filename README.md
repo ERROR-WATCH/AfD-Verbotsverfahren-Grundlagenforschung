@@ -22,31 +22,19 @@
 
 #### Christian Lüth
 
-<video controls preload="metadata" width="100%">
-  <source src="assets/videos/christian-lueth.mp4" type="video/mp4">
-  Dein Browser unterstützt die Video-Wiedergabe nicht.
-</video>
+[Christian Lüth – Video abspielen](assets/videos/christian-lueth.mp4)
 
 #### AfD Höcke – Parteien und Demokratie
 
-<video controls preload="metadata" width="100%">
-  <source src="assets/videos/AfD-Hocke-zu-Parteien-und-Demokratie.mp4" type="video/mp4">
-  Dein Browser unterstützt die Video-Wiedergabe nicht.
-</video>
+[AfD Höcke – Parteien und Demokratie – Video abspielen](assets/videos/AfD-Hocke-zu-Parteien-und-Demokratie.mp4)
 
 #### AfD Höcke – Deutschtum
 
-<video controls preload="metadata" width="100%">
-  <source src="assets/videos/AfD-Hocke-zum-Deutschtum.mp4" type="video/mp4">
-  Dein Browser unterstützt die Video-Wiedergabe nicht.
-</video>
+[AfD Höcke – Deutschtum – Video abspielen](assets/videos/AfD-Hocke-zum-Deutschtum.mp4)
 
 #### Dringlichkeitsantrag
 
-<video controls preload="metadata" width="100%">
-  <source src="assets/videos/Dringlichkeitsantrag.mp4" type="video/mp4">
-  Dein Browser unterstützt die Video-Wiedergabe nicht.
-</video>
+[Dringlichkeitsantrag – Video abspielen](assets/videos/Dringlichkeitsantrag.mp4)
 
 ### YouTube-Videobelege
 
@@ -1445,7 +1433,7 @@ Ergänzender Index für die antragsrelevante Gutachtenabdeckung: [Gutachten-Cove
 
 ### Release-Zeitstempel
 
-Cleaned-Release-Stand: 2026-07-20T17:46:45+02:00
+Cleaned-Release-Stand: 2026-07-20T18:48:01+02:00
 
 ### Release-Deep-Research-Report
 
