@@ -18,9 +18,9 @@
 
 ### Lokale Videobelege
 
-[![AfD-Hoecke zu Parteien und Demokratie](https://raw.githubusercontent.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/main/assets/videos/thumbnails/AfD-Hocke-zu-Parteien-und-Demokratie.jpg)](https://github.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/blob/main/assets/videos/AfD-Hocke-zu-Parteien-und-Demokratie.mp4)
+https://github.com/user-attachments/assets/bcd9f636-3246-4d39-870b-f733dfe0945e
 
-[![AfD-Hoecke zum Deutschtum](https://raw.githubusercontent.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/main/assets/videos/thumbnails/AfD-Hocke-zum-Deutschtum.jpg)](https://github.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/blob/main/assets/videos/AfD-Hocke-zum-Deutschtum.mp4)
+https://github.com/user-attachments/assets/f8bce688-fd95-4e6a-80c6-190332181a97
 
 Dieses Repository sammelt die zentralen Dokumente, Textfragmente und Forschungsergebnisse zur Vorbereitung einer Klageschrift gegen die Partei „Alternative für Deutschland“ (AfD) beim Bundesverfassungsgericht.
 
@@ -1193,7 +1193,7 @@ Alle Quellenangaben sind in den Dateien enthalten.
 
 ## Dringlichkeitsantrag
 
-[![Dringlichkeitsantrag](https://raw.githubusercontent.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/main/assets/videos/thumbnails/Dringlichkeitsantrag.jpg)](https://github.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/blob/main/assets/videos/Dringlichkeitsantrag.mp4)
+https://github.com/user-attachments/assets/b4a11939-14a1-4859-9d9c-382a56af29de
 
 
 ## Ende des Repos
