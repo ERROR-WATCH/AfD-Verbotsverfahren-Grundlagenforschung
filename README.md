@@ -18,9 +18,39 @@
 
 ### Lokale Videobelege
 
+#### Christian Lüth
+
+[![Christian Lüth](assets/images/christian-lueth.jpg)](assets/videos/christian-lueth.mp4)
+
+#### AfD Höcke – Parteien und Demokratie
+
 https://github.com/user-attachments/assets/bcd9f636-3246-4d39-870b-f733dfe0945e
 
+#### AfD Höcke – Deutschtum
+
 https://github.com/user-attachments/assets/f8bce688-fd95-4e6a-80c6-190332181a97
+
+#### Dringlichkeitsantrag
+
+https://github.com/user-attachments/assets/b4a11939-14a1-4859-9d9c-382a56af29de
+
+### YouTube-Videobelege
+
+[![YouTube: AfD-Beleg 1](https://img.youtube.com/vi/eSgFEpI9ZDQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=eSgFEpI9ZDQ "Auf YouTube ansehen")
+
+[![YouTube: AfD-Beleg 2](https://img.youtube.com/vi/nguiGvWcovA/maxresdefault.jpg)](https://www.youtube.com/watch?v=nguiGvWcovA "Auf YouTube ansehen")
+
+[![Dringlichkeitsantrag auf YouTube](https://img.youtube.com/vi/VPKaWjqpL10/maxresdefault.jpg)](https://www.youtube.com/watch?v=VPKaWjqpL10)
+
+[![YouTube: Todesstatistiken](https://img.youtube.com/vi/bH8QCgEg680/maxresdefault.jpg)](https://www.youtube.com/watch?v=bH8QCgEg680 "Auf YouTube ansehen")
+
+[![YouTube Video: Einführung](https://img.youtube.com/vi/Pb21x8gALRg/maxresdefault.jpg)](https://www.youtube.com/watch?v=Pb21x8gALRg)
+
+[![YouTube Playlist](https://img.youtube.com/vi/1dHYrVZbhX0/maxresdefault.jpg)](https://www.youtube.com/watch?v=1dHYrVZbhX0&list=PLndxauj5Nk-o1p1LVTVDgzANSFMGvhe6F)
+
+[![YouTube: Was AfD-Aussteiger erzählen](https://img.youtube.com/vi/RoyfB-3NpsQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=RoyfB-3NpsQ)
+
+[![Soso über Rassismus](https://img.youtube.com/vi/en99n4pWuzw/0.jpg)](https://www.youtube.com/shorts/en99n4pWuzw)
 
 Dieses Repository sammelt die zentralen Dokumente, Textfragmente und Forschungsergebnisse zur Vorbereitung einer Klageschrift gegen die Partei „Alternative für Deutschland“ (AfD) beim Bundesverfassungsgericht.
 
@@ -1389,7 +1419,7 @@ Ergänzender Index für die antragsrelevante Gutachtenabdeckung: [Gutachten-Cove
 
 ### Release-Zeitstempel
 
-Cleaned-Release-Stand: 2026-07-20T14:11:49+02:00
+Cleaned-Release-Stand: 2026-07-20T14:50:14+02:00
 
 ### Release-Deep-Research-Report
 
