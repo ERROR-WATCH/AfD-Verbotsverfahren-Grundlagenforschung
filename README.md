@@ -39,12 +39,6 @@ https://github.com/user-attachments/assets/f8bce688-fd95-4e6a-80c6-190332181a97
 
 [![zu Statistiken](https://img.youtube.com/vi/bH8QCgEg680/maxresdefault.jpg)](https://www.youtube.com/watch?v=bH8QCgEg680 "Auf YouTube ansehen")
 
-[![Nie wieder ist jetzt!](https://img.youtube.com/vi/Pb21x8gALRg/maxresdefault.jpg)](https://www.youtube.com/watch?v=Pb21x8gALRg)
-
-[![YouTube Playlist](https://img.youtube.com/vi/1dHYrVZbhX0/maxresdefault.jpg)](https://www.youtube.com/watch?v=1dHYrVZbhX0&list=PLndxauj5Nk-o1p1LVTVDgzANSFMGvhe6F)
-
-[![YouTube: Was AfD-Aussteiger erzählen](https://img.youtube.com/vi/RoyfB-3NpsQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=RoyfB-3NpsQ)
-
 Dieses Repository sammelt die zentralen Dokumente, Textfragmente und Forschungsergebnisse zur Vorbereitung einer Klageschrift gegen die Partei „Alternative für Deutschland“ (AfD) beim Bundesverfassungsgericht.
 
 ## ⚠️ Wichtiger Hinweis zur Methodik, KI-Unterstützung und rechtlichen Einordnung
@@ -1237,6 +1231,10 @@ Das Gutachten liefert damit eine fundierte juristische Grundlage, um ein Verbots
 
 Alle Quellenangaben sind in den Dateien enthalten.
 
+[![Nie wieder ist jetzt!](https://img.youtube.com/vi/Pb21x8gALRg/maxresdefault.jpg)](https://www.youtube.com/watch?v=Pb21x8gALRg)
+
+---
+
 ## Neustes Gutachten
 
 [https://afd-gutachten.de](https://afd-gutachten.de)
@@ -1244,6 +1242,14 @@ Alle Quellenangaben sind in den Dateien enthalten.
 ## Afd-Zitate
 
 [https://afd-verbot.de](https://afd-verbot.de)
+
+## Politische Schönheit
+
+[![YouTube Playlist](https://img.youtube.com/vi/1dHYrVZbhX0/maxresdefault.jpg)](https://www.youtube.com/watch?v=1dHYrVZbhX0&list=PLndxauj5Nk-o1p1LVTVDgzANSFMGvhe6F)
+
+## Was AfD-Aussteiger erzählen
+
+[![YouTube](https://img.youtube.com/vi/RoyfB-3NpsQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=RoyfB-3NpsQ)
 
 ## Dringlichkeitsantrag
 
@@ -1307,9 +1313,6 @@ Vielen Dank – und in ewigem Gedenken an Bruno.
 Abschließend möchte ich Soso über Rassismus ein paar Worte sagen lassen:
 
 [![Soso über Rassismus](https://img.youtube.com/vi/en99n4pWuzw/0.jpg)](https://www.youtube.com/shorts/en99n4pWuzw)
-
-# Habe fertig !!!
-
 
 ---
 
@@ -1399,7 +1402,7 @@ Ergänzender Index für die antragsrelevante Gutachtenabdeckung: [Gutachten-Cove
 
 ### Release-Zeitstempel
 
-Cleaned-Release-Stand: 2026-07-20T19:53:55+02:00
+Cleaned-Release-Stand: 2026-07-20T19:56:59+02:00
 
 ### Release-Deep-Research-Report
 
