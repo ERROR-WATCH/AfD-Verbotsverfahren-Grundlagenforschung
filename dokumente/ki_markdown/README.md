@@ -1,5 +1,7 @@
 # AfD-Verbotsverfahren-Grundlagenforschung
 
+<img width="660" height="439" alt="AfD Verbotsverfahren" src="assets/images/afd-verbot.jpg" />
+
 > 🌐 **Interaktives Web-Portal (Forschungs-Dashboard) live online:**  
 > Erkunde dieses gesamte Belegarchiv unzensiert, schnell und interaktiv direkt im Browser:  
 > 👉 **[https://ERROR-WATCH.github.io/AfD-Verbotsverfahren-Grundlagenforschung/](https://ERROR-WATCH.github.io/AfD-Verbotsverfahren-Grundlagenforschung/)**  
