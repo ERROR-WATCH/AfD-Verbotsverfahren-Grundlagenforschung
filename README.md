@@ -22,19 +22,31 @@
 
 #### Christian Lüth
 
-assets/videos/christian-lueth.mp4
+<video controls preload="metadata" width="100%">
+  <source src="assets/videos/christian-lueth.mp4" type="video/mp4">
+  Dein Browser unterstützt die Video-Wiedergabe nicht.
+</video>
 
 #### AfD Höcke – Parteien und Demokratie
 
-https://github.com/user-attachments/assets/bcd9f636-3246-4d39-870b-f733dfe0945e
+<video controls preload="metadata" width="100%">
+  <source src="assets/videos/AfD-Hocke-zu-Parteien-und-Demokratie.mp4" type="video/mp4">
+  Dein Browser unterstützt die Video-Wiedergabe nicht.
+</video>
 
 #### AfD Höcke – Deutschtum
 
-https://github.com/user-attachments/assets/f8bce688-fd95-4e6a-80c6-190332181a97
+<video controls preload="metadata" width="100%">
+  <source src="assets/videos/AfD-Hocke-zum-Deutschtum.mp4" type="video/mp4">
+  Dein Browser unterstützt die Video-Wiedergabe nicht.
+</video>
 
 #### Dringlichkeitsantrag
 
-https://github.com/user-attachments/assets/b4a11939-14a1-4859-9d9c-382a56af29de
+<video controls preload="metadata" width="100%">
+  <source src="assets/videos/Dringlichkeitsantrag.mp4" type="video/mp4">
+  Dein Browser unterstützt die Video-Wiedergabe nicht.
+</video>
 
 ### YouTube-Videobelege
 
@@ -1281,7 +1293,10 @@ Alle Quellenangaben sind in den Dateien enthalten.
 
 ## Dringlichkeitsantrag
 
-https://github.com/user-attachments/assets/b4a11939-14a1-4859-9d9c-382a56af29de
+<video controls preload="metadata" width="100%">
+  <source src="assets/videos/Dringlichkeitsantrag.mp4" type="video/mp4">
+  Dein Browser unterstützt die Video-Wiedergabe nicht.
+</video>
 
 ## Ende des Repos
 
@@ -1307,6 +1322,12 @@ zusätzlich empfehle ich:
 [https://github.com/ERROR-WATCH/TODESSTATISTIKEN](https://github.com/ERROR-WATCH/TODESSTATISTIKEN)
 
 ---
+
+## Ergänzende Videobelege: Brandmauer und historische Steigbügelhalter
+
+[![Zur "Brandmauer"](https://img.youtube.com/vi/l7bWsE_fMxI/maxresdefault.jpg)](https://www.youtube.com/watch?v=l7bWsE_fMxI)
+
+[![Rückblick Geschichte Steigbügelhalter](https://img.youtube.com/vi/sx-9xB_CS9w/maxresdefault.jpg)](https://www.youtube.com/watch?v=sx-9xB_CS9w&t=1605s&pp=ygUmcGFwZW4gemVudHJ1bXNwYXJ0ZWkgc3RlaWdiw7xnZWxoYWx0ZXI%3D)
 
 ## 🏛️ Persönliche Widmung & Ursprung dieses Repositories
 
@@ -1427,7 +1448,7 @@ Ergänzender Index für die antragsrelevante Gutachtenabdeckung: [Gutachten-Cove
 
 ### Release-Zeitstempel
 
-Cleaned-Release-Stand: 2026-07-20T16:34:31+02:00
+Cleaned-Release-Stand: 2026-07-20T16:47:08+02:00
 
 ### Release-Deep-Research-Report
 
