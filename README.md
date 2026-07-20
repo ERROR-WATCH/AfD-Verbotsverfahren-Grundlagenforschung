@@ -40,6 +40,8 @@ https://github.com/user-attachments/assets/b4a11939-14a1-4859-9d9c-382a56af29de
 
 [![die Anstalt](https://img.youtube.com/vi/nguiGvWcovA/maxresdefault.jpg)](https://www.youtube.com/watch?v=nguiGvWcovA "Auf YouTube ansehen")
 
+[die Anstalt 2](https://ngp.zdf.de/miniplayer/embed/?mediaID=die-anstalt-vom-21-juli-2026-100)
+
 [![Goldschatz](https://img.youtube.com/vi/VPKaWjqpL10/maxresdefault.jpg)](https://www.youtube.com/watch?v=VPKaWjqpL10)
 
 [![zu Statistiken](https://img.youtube.com/vi/bH8QCgEg680/maxresdefault.jpg)](https://www.youtube.com/watch?v=bH8QCgEg680 "Auf YouTube ansehen")
@@ -1419,7 +1421,7 @@ Ergänzender Index für die antragsrelevante Gutachtenabdeckung: [Gutachten-Cove
 
 ### Release-Zeitstempel
 
-Cleaned-Release-Stand: 2026-07-20T15:06:12+02:00
+Cleaned-Release-Stand: 2026-07-20T15:18:04+02:00
 
 ### Release-Deep-Research-Report
 
