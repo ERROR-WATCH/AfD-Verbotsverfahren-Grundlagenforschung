@@ -50,8 +50,6 @@ https://github.com/user-attachments/assets/f8bce688-fd95-4e6a-80c6-190332181a97
 
 [![YouTube: Was AfD-Aussteiger erzählen](https://img.youtube.com/vi/RoyfB-3NpsQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=RoyfB-3NpsQ)
 
-[![Soso über Rassismus](https://img.youtube.com/vi/en99n4pWuzw/0.jpg)](https://www.youtube.com/shorts/en99n4pWuzw)
-
 Dieses Repository sammelt die zentralen Dokumente, Textfragmente und Forschungsergebnisse zur Vorbereitung einer Klageschrift gegen die Partei „Alternative für Deutschland“ (AfD) beim Bundesverfassungsgericht.
 
 ## ⚠️ Wichtiger Hinweis zur Methodik, KI-Unterstützung und rechtlichen Einordnung
@@ -1193,14 +1191,6 @@ Das Gutachten liefert damit eine fundierte juristische Grundlage, um ein Verbots
 <br>---
 
 Alle Quellenangaben sind in den Dateien enthalten.
-
-## Afd und Gold
-
-[![Goldschatz](https://img.youtube.com/vi/VPKaWjqpL10/maxresdefault.jpg)](https://www.youtube.com/watch?v=VPKaWjqpL10)
-
-[![zu Statistiken](https://img.youtube.com/vi/bH8QCgEg680/maxresdefault.jpg)](https://www.youtube.com/watch?v=bH8QCgEg680 "Auf YouTube ansehen")
-
----
 
 [![Nie wieder ist jetzt!](https://img.youtube.com/vi/Pb21x8gALRg/maxresdefault.jpg)](https://www.youtube.com/watch?v=Pb21x8gALRg)
 
