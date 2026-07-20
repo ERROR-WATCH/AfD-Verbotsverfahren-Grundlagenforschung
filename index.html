@@ -4485,6 +4485,33 @@ Die Zuordnung der 3.722 Belegzitate zu den 18 wehrhaften Verbotsgründen des Por
                     if (!response.ok) throw new Error("Konnte README.md nicht laden");
                     const markdown = await response.text();
                     let html = marked.parse(markdown);
+
+                    // Render the local evidence block deterministically as actual players.
+                    // This avoids regressions where Markdown/HTML handling shows only headings or links.
+                    const localEvidenceVideos = [
+                        ['Christian Lüth', './assets/videos/christian-lueth.mp4'],
+                        ['AfD Höcke – Parteien und Demokratie', './assets/videos/AfD-Hocke-zu-Parteien-und-Demokratie.mp4'],
+                        ['AfD Höcke – Deutschtum', './assets/videos/AfD-Hocke-zum-Deutschtum.mp4'],
+                        ['Dringlichkeitsantrag', './assets/videos/Dringlichkeitsantrag.mp4'],
+                    ];
+                    const localEvidenceHtml = `
+                        <h3>Lokale Videobelege</h3>
+                        <div class="not-prose my-6 grid grid-cols-1 lg:grid-cols-2 gap-6">
+                            ${localEvidenceVideos.map(([title, src]) => `
+                                <article class="rounded-xl border border-slate-200 bg-white p-4 shadow">
+                                    <h4 class="mb-3 text-lg font-bold text-brand-blue">${title}</h4>
+                                    <video controls preload="metadata" class="w-full rounded-lg border border-slate-200 bg-black">
+                                        <source src="${src}" type="video/mp4">
+                                        Dein Browser unterstützt die Video-Wiedergabe nicht.
+                                    </video>
+                                </article>
+                            `).join('')}
+                        </div>
+                    `;
+                    html = html.replace(
+                        /<h3[^>]*>\s*Lokale Videobelege\s*<\/h3>[\s\S]*?(?=<h3[^>]*>\s*YouTube-Videobelege\s*<\/h3>)/,
+                        localEvidenceHtml
+                    );
                     
                     // Convert raw user-attachment video links to actual styled video players!
                     const videoRegex = /<a href="(https:\/\/github\.com\/user-attachments\/assets\/[^"]+)"[^>]*>.*?<\/a>/g;
