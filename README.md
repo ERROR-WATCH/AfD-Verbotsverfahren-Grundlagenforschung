@@ -376,8 +376,8 @@ Sämtliche Belege liegen physisch im Repository vor und sind im vollumfängliche
 * ⚖️ **79. Ausschluss von Bundestagsrechten (BVerfG):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/25_Bundestag_Ausschussvorsitz_BVerfG.md) | [Online-Quelle](https://www.lto.de/recht/nachrichten/n/bverfg-2bve121-ausschussvorsitz-bundestag-afd-kein-anspruch-wahl/) – *Ausschussvorsitze können der AfD rechtmäßig vorenthalten werden.*
 * ⚖️ **80. Parteistrafen wegen illegaler Auslandsspenden (BVerwG):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/21_AfD_Strafzahlungen_Spendenaffaere_BVerwG.md) | [Online-Quelle](https://www.lto.de/recht/nachrichten/n/bverwg-6c421-afd-strafzahlung-bundestag-illegale-parteispende/) – *Bestätigung von 1,08 Mio. Euro Bußgeldern wegen illegaler Schweizer Spenden für Weidels Wahlkampf.*
 * ⚖️ **240. AfD Niedersachsen gegen Verfassungsschutz Niedersachsen:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/240_AfD_Niedersachsen_Verfassungsschutz_VG_Hannover.md) | [Online-Quelle](https://volksverpetzer.de/serie/urteile-juni-26-afd-gegen-verfassungsschutz/) – *VG Hannover: Eilantrag gegen Hochstufung zum Beobachtungsobjekt von erheblicher Bedeutung abgelehnt.*
-* ⚖️ **241. AfD Bayern gegen Bayerisches Landesamt fuer Verfassungsschutz:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/241_AfD_Bayern_Verfassungsschutz_VGH_Bayern.md) | [Online-Quelle](https://volksverpetzer.de/serie/urteile-juni-26-afd-gegen-verfassungsschutz/) – *Bayerischer VGH: Antrag auf Zulassung der Berufung gegen Beobachtung als Verdachtsfall abgelehnt.*
-* ⚖️ **242. AfD Hessen gegen Landesamt fuer Verfassungsschutz Hessen:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/242_AfD_Hessen_Verfassungsschutz_VG_Wiesbaden.md) | [Online-Quelle](https://volksverpetzer.de/serie/urteile-juni-26-afd-gegen-verfassungsschutz/) – *VG Wiesbaden: Einstufung und Beobachtung als Verdachtsfall im Hauptsacheverfahren bestaetigt.*
+* ⚖️ **241. AfD Bayern gegen Bayerisches Landesamt für Verfassungsschutz:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/241_AfD_Bayern_Verfassungsschutz_VGH_Bayern.md) | [Online-Quelle](https://volksverpetzer.de/serie/urteile-juni-26-afd-gegen-verfassungsschutz/) – *Bayerischer VGH: Antrag auf Zulassung der Berufung gegen Beobachtung als Verdachtsfall abgelehnt.*
+* ⚖️ **242. AfD Hessen gegen Landesamt für Verfassungsschutz Hessen:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/242_AfD_Hessen_Verfassungsschutz_VG_Wiesbaden.md) | [Online-Quelle](https://volksverpetzer.de/serie/urteile-juni-26-afd-gegen-verfassungsschutz/) – *VG Wiesbaden: Einstufung und Beobachtung als Verdachtsfall im Hauptsacheverfahren bestätigt.*
 * ⚖️ **243. AfD-Kommunalpolitiker gegen Land Berlin:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/243_AfD_Kommunalpolitiker_Verbeamtung_Kriminalpolizei_VG_Berlin.md) | [Online-Quelle](https://volksverpetzer.de/serie/urteile-juni-26-afd-gegen-verfassungsschutz/) – *VG Berlin: keine Einstellung in den gehobenen Dienst der Kriminalpolizei wegen Eignungszweifeln.*
 * ⚖️ **244. Antisemitisches Hausverbot-Plakat Flensburg:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/244_Antisemitisches_Plakat_Flensburg_AG_Flensburg.md) | [Online-Quelle](https://volksverpetzer.de/serie/urteile-juni-26-afd-gegen-verfassungsschutz/) – *AG Flensburg: Volksverhetzung, sechs Monate Freiheitsstrafe auf Bewaehrung und Zahlung an die KZ-Gedenkstaette Ladelund.*
 * ⚖️ **245. Ralf Stadler (Strafbefehl AG München 2020):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/245_Ralf_Stadler_Strafbefehl_AG_Muenchen_2020.md) | [Online-Quelle](https://www.regensburg-digital.de/kein-waffenbesitz-fuer-afd-stadler/24052022/) – *[**DIREKT AfD - MdL Bayern**] Rechtskräftiger Strafbefehl über 60 Tagessätze wegen Urheberrechts-/KunstUrhG-Verstoßes und Verleumdung gegen eine Person des politischen Lebens.*
@@ -569,7 +569,7 @@ Dieses Verzeichnis enthält weitere im Archiv erfasste Belege, Zeitungsberichte,
 | [`AfD_und_Identitäre_Bewegung__An_einem_Strang_-_Ausgabe_756.pdf`](./dokumente/hauptquellen/AfD_und_Identit%C3%A4re_Bewegung__An_einem_Strang_-_Ausgabe_756.pdf) | AfD und Identitäre Bewegung An einem Strang - Ausgabe 756 |
 | [`AfD‑Jugend.pdf`](./dokumente/hauptquellen/AfD%E2%80%91Jugend.pdf) | AfD‑Jugend |
 | [`Alice_Weidel__Hass_gegen_Syrer_unter_Instagram-Post_hat_Folgen_-_SWR_Aktuell.pdf`](./dokumente/hauptquellen/Alice_Weidel__Hass_gegen_Syrer_unter_Instagram-Post_hat_Folgen_-_SWR_Aktuell.pdf) | Alice Weidel Hass gegen Syrer unter Instagram-Post hat Folgen - SWR Aktuell |
-| [`Analyse_Die_AfD_eine_Gefahr_fuer_Menschen_mit_Behinderungen.pdf`](./dokumente/hauptquellen/Analyse_Die_AfD_eine_Gefahr_fuer_Menschen_mit_Behinderungen.pdf) | Analyse Die AfD eine Gefahr fuer Menschen mit Behinderungen |
+| [`Analyse_Die_AfD_eine_Gefahr_fuer_Menschen_mit_Behinderungen.pdf`](./dokumente/hauptquellen/Analyse_Die_AfD_eine_Gefahr_fuer_Menschen_mit_Behinderungen.pdf) | Analyse: Die AfD eine Gefahr für Menschen mit Behinderungen |
 | [`Analyse_in_den_Bundesländern__Mehr_rechte_Gewalt_als_bekannt___taz.de.pdf`](./dokumente/hauptquellen/Analyse_in_den_Bundesl%C3%A4ndern__Mehr_rechte_Gewalt_als_bekannt___taz.de.pdf) | Analyse in den Bundesländern Mehr rechte Gewalt als bekannt taz.de |
 | [`Attacken_auf_Parteibüros_in_Flensburg__Tatverdächiger_in_U-Haft.pdf`](./dokumente/hauptquellen/Attacken_auf_Parteib%C3%BCros_in_Flensburg__Tatverd%C3%A4chiger_in_U-Haft.pdf) | Attacken auf Parteibüros in Flensburg Tatverdächiger in U-Haft |
 | [`Beatrix_von_Storch__So_will_die_AfD_mit_Kulturkampf_Wahlen_gewinnen.pdf`](./dokumente/hauptquellen/Beatrix_von_Storch__So_will_die_AfD_mit_Kulturkampf_Wahlen_gewinnen.pdf) | Beatrix von Storch So will die AfD mit Kulturkampf Wahlen gewinnen |
@@ -1316,37 +1316,37 @@ Abschließend möchte ich Soso über Rassismus ein paar Worte sagen lassen:
 
 ---
 
-## Antragsreife-Audit 2026-07-09: Was fuer ein Verfahren jetzt hart verdrahtet ist
+## Antragsreife-Audit 2026-07-09: Was für ein Verfahren jetzt hart verdrahtet ist
 
-Diese Erweiterung kuerzt keine bisherigen README-Inhalte. Sie ordnet den aktuellen Stand nach dem Repo- und Pages-Audit ein und verweist auf die maschinenlesbaren Beweisprodukte, die fuer eine Antragsschrift am naechsten an der gerichtlichen Beweislogik liegen.
+Diese Erweiterung kürzt keine bisherigen README-Inhalte. Sie ordnet den aktuellen Stand nach dem Repo- und Pages-Audit ein und verweist auf die maschinenlesbaren Beweisprodukte, die für eine Antragsschrift am nächsten an der gerichtlichen Beweislogik liegen.
 
 ### Antragsspitze und Schriftsatzexport
 
-* **Antragsspitze Top 40:** [Markdown-Vermerk](./dokumente/hauptquellen/ANTRAGSSPITZE_TOP40_BEWEISE_2026.md) | [JSONL](./daten/antragsspitze_top40_beweise_2026.jsonl) - verdichtet die 144 Schriftsatzbeweisbloecke auf 40 priorisierte Beweisbloecke mit Quelle, Pinpoint, Akteur/Ebene, Zurechnung, Art.-21-Feld, Beweisangebot und Red-Team-Grenze.
-* **Schriftsatzexport Top-Beweise:** [Markdown-Vermerk](./dokumente/hauptquellen/SCHRIFTSATZ_EXPORT_TOP_BEWEISE_2026.md) | [JSONL](./daten/schriftsatz_export_top_beweise_2026.jsonl) - fuehrt 144 tragende Beweisbloecke aus der 18-Verbotsgruende-Matrix.
-* **Amtliche Webanker mit Hash:** [JSONL](./daten/official_web_anchor_integrity_2026.jsonl) - sichert neun amtliche oder gerichtliche Webanker mit lokalem Pfad, SHA-256, Bytes, Behoerde/Gericht und Pruefzeitpunkt.
-* **Repo-/Pages-Perfektionsaudit:** [Auditvermerk](./dokumente/hauptquellen/REPO_PAGES_PERFEKTIONS_AUDIT_2026_07_09.md) - dokumentiert gefundene Restqualitaetsthemen, Korrekturen und verbleibende Schriftsatzarbeit.
+* **Antragsspitze Top 40:** [Markdown-Vermerk](./dokumente/hauptquellen/ANTRAGSSPITZE_TOP40_BEWEISE_2026.md) | [JSONL](./daten/antragsspitze_top40_beweise_2026.jsonl) - verdichtet die 144 Schriftsatzbeweisblöcke auf 40 priorisierte Beweisblöcke mit Quelle, Pinpoint, Akteur/Ebene, Zurechnung, Art.-21-Feld, Beweisangebot und Red-Team-Grenze.
+* **Schriftsatzexport Top-Beweise:** [Markdown-Vermerk](./dokumente/hauptquellen/SCHRIFTSATZ_EXPORT_TOP_BEWEISE_2026.md) | [JSONL](./daten/schriftsatz_export_top_beweise_2026.jsonl) - führt 144 tragende Beweisblöcke aus der 18-Verbotsgründe-Matrix.
+* **Amtliche Webanker mit Hash:** [JSONL](./daten/official_web_anchor_integrity_2026.jsonl) - sichert neun amtliche oder gerichtliche Webanker mit lokalem Pfad, SHA-256, Bytes, Behörde/Gericht und Prüfzeitpunkt.
+* **Repo-/Pages-Perfektionsaudit:** [Auditvermerk](./dokumente/hauptquellen/REPO_PAGES_PERFEKTIONS_AUDIT_2026_07_09.md) - dokumentiert gefundene Restqualitätsthemen, Korrekturen und verbleibende Schriftsatzarbeit.
 
 ### Harte Pflichtanker in der Antragsspitze
 
-Die aktuelle Top-40-Spitze fuehrt Sicherheits- und Statusanker nicht mehr als Randnotiz, sondern als streng begrenzte Beweisachsen:
+Die aktuelle Top-40-Spitze führt Sicherheits- und Statusanker nicht mehr als Randnotiz, sondern als streng begrenzte Beweisachsen:
 
-* Reuss/Malsack-Winkemann: GBA-/OLG-Anker, fruehere AfD-MdB-/Richterinnen- und Zugangsebene, keine Gesamtparteizurechnung.
-* Uwe L.: Reichsbuerger-/Tag-X-Komplex mit AfD-Lokalbezug, Parteifunktion und Zeitraum als Fallfelder.
-* Saechsische Separatisten/Kurt H.: GBA-Anklage, AfD-Stadtrat-/JA-Umfeld, keine Terror-Pauschalformel gegen die Gesamtpartei.
+* Reuss/Malsack-Winkemann: GBA-/OLG-Anker, frühere AfD-MdB-/Richterinnen- und Zugangsebene, keine Gesamtparteizurechnung.
+* Uwe L.: Reichsbürger-/Tag-X-Komplex mit AfD-Lokalbezug, Parteifunktion und Zeitraum als Fallfelder.
+* Sächsische Separatisten/Kurt H.: GBA-Anklage, AfD-Stadtrat-/JA-Umfeld, keine Terror-Pauschalformel gegen die Gesamtpartei.
 * Jian G./Krah-Umfeld: GBA-Anklage, Mitarbeiter-/Zugangskante zum AfD-MdEP, kein Beschuldigtenstatus Krah aus der Zugangskante.
-* Bystron: Bundestagsanker zur Immunitaetsaufhebung, keine strafrechtliche Schuldbehauptung aus dem parlamentarischen Statusakt.
+* Bystron: Bundestagsanker zur Immunitätsaufhebung, keine strafrechtliche Schuldbehauptung aus dem parlamentarischen Statusakt.
 
 ### Statistik- und Pages-Audit
 
 * Das Statistikmanifest rendert 261 validierte Statistikobjekte; README, Methodik und Statistikdateien sind auf den aktuellen Release-Stand konsolidiert.
-* Der Statistik-Tab bleibt Beweislandkarte, nicht Wortwolke: PMK/BKA- und Lagebilddaten bleiben Kontext-/Potentialitaetsmaterial ohne automatische AfD-Tatzurechnung.
-* Die Pages-Texte wurden auf klare Antragssprache geschaerft: Quelle -> Pinpoint -> Akteur -> Zurechnung -> Rechtsgut -> Verfahrensstand.
+* Der Statistik-Tab bleibt Beweislandkarte, nicht Wortwolke: PMK/BKA- und Lagebilddaten bleiben Kontext-/Potentialitätsmaterial ohne automatische AfD-Tatzurechnung.
+* Die Pages-Texte wurden auf klare Antragssprache geschärft: Quelle -> Pinpoint -> Akteur -> Zurechnung -> Rechtsgut -> Verfahrensstand.
 * Die Sperrfilter auf unverdrahtete Statussprache und schwache Platzhalter laufen leer im antragsrelevanten Korpus; Validierung meldet 0 Fatal und 0 Warnings.
 
-### Was fuer eine echte Antragsschrift weiterhin juristisch zu leisten ist
+### Was für eine echte Antragsschrift weiterhin juristisch zu leisten ist
 
-Das Repository ersetzt keinen Antrag eines Verfassungsorgans. Gerichtliche Schriftsatzarbeit bleibt: aus den Top-40- und Top-144-Exports die konkreten Anlagen, Seiten-/Randnummern, Aktenzeichen, Zeugen-/Urkundsbeweise und Gegenargumente in eine prozessuale Antragsschrift zu uebernehmen. Inhaltlich sind diese Felder jetzt im Repo als Beweisrouten und Schriftsatzfelder angelegt, nicht als lose Recherchehinweise.
+Das Repository ersetzt keinen Antrag eines Verfassungsorgans. Gerichtliche Schriftsatzarbeit bleibt: aus den Top-40- und Top-144-Exports die konkreten Anlagen, Seiten-/Randnummern, Aktenzeichen, Zeugen-/Urkundsbeweise und Gegenargumente in eine prozessuale Antragsschrift zu übernehmen. Inhaltlich sind diese Felder jetzt im Repo als Beweisrouten und Schriftsatzfelder angelegt, nicht als lose Recherchehinweise.
 
 ## Statistikmodul
 - [STATISTIKMODUL.md](./STATISTIKMODUL.md)
@@ -1357,22 +1357,22 @@ Das Repository ersetzt keinen Antrag eines Verfassungsorgans. Gerichtliche Schri
 - [n-tv / Forsa 2019: Gesinnung vieler AfD-Wähler](./dokumente/hauptquellen/ntv_AfD_Waehler_Gesinnung_2019.md) | https://www.n-tv.de/politik/Umfrage-zeigt-Gesinnung-vieler-AfD-Waehler-article21426963.html
 
 
-## Vollstaendiger Repository- und Pages-Index 2026-07-09
+## Vollständiger Repository- und Pages-Index 2026-07-09
 
-Der vollstaendige Index liegt hier: [VOLLSTAENDIGER_REPOSITORY_PAGES_INDEX_2026_07_09.md](./dokumente/hauptquellen/VOLLSTAENDIGER_REPOSITORY_PAGES_INDEX_2026_07_09.md). Die maschinenlesbare Fassung liegt in [daten/repository_pages_index_2026.json](./daten/repository_pages_index_2026.json).
+Der vollständige Index liegt hier: [VOLLSTAENDIGER_REPOSITORY_PAGES_INDEX_2026_07_09.md](./dokumente/hauptquellen/VOLLSTAENDIGER_REPOSITORY_PAGES_INDEX_2026_07_09.md). Die maschinenlesbare Fassung liegt in [daten/repository_pages_index_2026.json](./daten/repository_pages_index_2026.json).
 
 ### Was nach dem Vollscan nicht perfekt ist
 
 | Bereich | Befund / Reparaturweg |
 | --- | --- |
-| README-/Index-Konsolidierung | README, Statistik-Tab und Antragsreife-Audit ordnen offene Statusfragen, Platzhalterhinweise und Teilstaende als statusbezogene Schriftsatz- oder Quellenarbeit ein. |
-| Formaler Antrag | Das Repo ist keine Verfassungsorganschrift. Fuer das Verfahren fehlen ausserhalb des Repos: Antragstellerbeschluss, Prozessvertretung, Anlagenverzeichnis, formale Beweisantraege, Unterschriften/Beiziehung und Schriftsatzgliederung nach BVerfG-Standard. |
+| README-/Index-Konsolidierung | README, Statistik-Tab und Antragsreife-Audit ordnen offene Statusfragen, Platzhalterhinweise und Teilstände als statusbezogene Schriftsatz- oder Quellenarbeit ein. |
+| Formaler Antrag | Das Repo ist keine Verfassungsorganschrift. Für das Verfahren fehlen außerhalb des Repos: Antragstellerbeschluss, Prozessvertretung, Anlagenverzeichnis, formale Beweisanträge, Unterschriften/Beiziehung und Schriftsatzgliederung nach BVerfG-Standard. |
 | Pinpoint-Endarbeit | Viele Quellen sind vorhanden; die finale Antragsschrift muss die Top-Anlagen mit Seite, Randnummer, Aktenzeichen, Datum, Hash/Archiv und Gegenlese zitieren. |
-| Vorfeld-Granularitaet | Sammelkanten sind im Statistiksystem sichtbar, muessen fuer den Schriftsatz weiter in Person/Ereignis/Kampagne/Datum/Quelle zerlegt werden. |
-| Chronikcluster | Wikipedia-/Pressechroniken bleiben Indexrouten. Fuer Antragstauglichkeit zaehlen nur fallweise Primaeranker, Parteirolle, Verfahren und Zurechnung. |
-| Zitatkorpus | 3.722 Proofs sind pinntauglich, aber nur 38 liegen in enger Dossierklasse mit Originaltext/Auszug + starkem Quellenanker. Fuer eine Anlage muessen weitere Topzitate priorisiert werden. |
-| Pages-Navigation | Der Statistik-Tab zeigt die Beweislogik und fuehrt jetzt eine eigene sichtbare Vollindex-/Antragsreife-Karte mit Links auf Markdown-Index, JSON-Index, Perfektionsaudit, Antragsspitze, Schriftsatzexport, Statistikmanifest und Quelleninventar. |
-| Build-Qualitaet | `npm run build` sollte nicht nur Syntax pruefen, sondern Statistik-Build und Validierung ausfuehren. Diese Aenderung wird mit diesem Index vorgenommen. |
+| Vorfeld-Granularität | Sammelkanten sind im Statistiksystem sichtbar, müssen für den Schriftsatz weiter in Person/Ereignis/Kampagne/Datum/Quelle zerlegt werden. |
+| Chronikcluster | Wikipedia-/Pressechroniken bleiben Indexrouten. Für Antragstauglichkeit zählen nur fallweise Primäranker, Parteirolle, Verfahren und Zurechnung. |
+| Zitatkorpus | 3.722 Proofs sind pinntauglich, aber nur 38 liegen in enger Dossierklasse mit Originaltext/Auszug + starkem Quellenanker. Für eine Anlage müssen weitere Topzitate priorisiert werden. |
+| Pages-Navigation | Der Statistik-Tab zeigt die Beweislogik und führt jetzt eine eigene sichtbare Vollindex-/Antragsreife-Karte mit Links auf Markdown-Index, JSON-Index, Perfektionsaudit, Antragsspitze, Schriftsatzexport, Statistikmanifest und Quelleninventar. |
+| Build-Qualität | `npm run build` sollte nicht nur Syntax prüfen, sondern Statistik-Build und Validierung ausführen. Diese Änderung wird mit diesem Index vorgenommen. |
 
 ### Index-Pflichtanker
 
@@ -1384,9 +1384,9 @@ Der vollstaendige Index liegt hier: [VOLLSTAENDIGER_REPOSITORY_PAGES_INDEX_2026_
 - Schriftsatzexport: [dokumente/hauptquellen/SCHRIFTSATZ_EXPORT_TOP_BEWEISE_2026.md](./dokumente/hauptquellen/SCHRIFTSATZ_EXPORT_TOP_BEWEISE_2026.md)
 - Repo-/Pages-Audit: [dokumente/hauptquellen/REPO_PAGES_PERFEKTIONS_AUDIT_2026_07_09.md](./dokumente/hauptquellen/REPO_PAGES_PERFEKTIONS_AUDIT_2026_07_09.md)
 
-Leseregel: Fuer den Statistik-Tab und die Antragsreife gelten die generierten Datenprodukte, der Vollindex und der Validierungsreport. Offene Statusfragen, Platzhalterhinweise und Teilstaende sind als konkrete Schriftsatz- oder Quellenarbeit zu lesen, nicht als ungepruefte Beweisbehauptung.
+Leseregel: Für den Statistik-Tab und die Antragsreife gelten die generierten Datenprodukte, der Vollindex und der Validierungsreport. Offene Statusfragen, Platzhalterhinweise und Teilstände sind als konkrete Schriftsatz- oder Quellenarbeit zu lesen, nicht als ungeprüfte Beweisbehauptung.
 
-Linkcheck 2026-07-09: README und Vollindex wurden lokal gegen relative Markdown-Links geprueft; Ergebnis `missingLinks: 0`. Der Vollindex verwendet wegen seiner Lage unter `dokumente/hauptquellen/` relative `../../`-Links.
+Linkcheck 2026-07-09: README und Vollindex wurden lokal gegen relative Markdown-Links geprüft; Ergebnis `missingLinks: 0`. Der Vollindex verwendet wegen seiner Lage unter `dokumente/hauptquellen/` relative `../../`-Links.
 
 ### Gutachten-Coverage-Audit 2026-07-09
 
@@ -1397,16 +1397,16 @@ Ergänzender Index für die antragsrelevante Gutachtenabdeckung: [Gutachten-Cove
 - Anlagenregister: `dokumente/hauptquellen/ANLAGENREGISTER_ART21_2026.md`
 - Maschinenlesbare Fassung: `daten/anlagenregister_art21_2026.jsonl`
 - Auditbericht: `reports/anlagenregister-audit-2026-07-09.md`
-- Zweck: Topbeweise, Gutachtenfamilien, hashgesicherte Webanker, Pinpointstatus, Zurechnung, Gegenlese und formale naechste Anlagehandlung in einer Schriftsatzroute zusammenfuehren.
+- Zweck: Topbeweise, Gutachtenfamilien, hashgesicherte Webanker, Pinpointstatus, Zurechnung, Gegenlese und formale nächste Anlagehandlung in einer Schriftsatzroute zusammenführen.
 
 
 ### Release-Zeitstempel
 
-Cleaned-Release-Stand: 2026-07-20T19:56:59+02:00
+Cleaned-Release-Stand: 2026-07-20T20:02:47+02:00
 
 ### Release-Deep-Research-Report
 
-Deep-Research-Report – bereinigte Release-Fassung: Diese Fassung bildet den aktuellen geprüften Release-/Portalstand ab. Historische GitHub-/Quellenlistenstaende sind nicht massgeblich.
+Deep-Research-Report – bereinigte Release-Fassung: Diese Fassung bildet den aktuellen geprüften Release-/Portalstand ab. Historische GitHub-/Quellenlistenstände sind nicht maßgeblich.
 
 ### Deepresearch-Zahlaudit Gerichtsregister
 
