@@ -16,9 +16,9 @@
 [![Watch on YouTube](https://img.youtube.com/vi/nguiGvWcovA/maxresdefault.jpg)](https://www.youtube.com/watch?v=nguiGvWcovA "Auf YouTube ansehen")
 
 
-[https://github.com/user-attachments/assets/92cd544f-f32d-4a2d-bb7d-24ba703612df](https://github.com/user-attachments/assets/92cd544f-f32d-4a2d-bb7d-24ba703612df)
+[Video: Björn Höcke zu Parteien und Demokratie](AfD-Hocke-zu-Parteien-und-Demokratie.mp4)
 
-[https://github.com/user-attachments/assets/cfd3127a-4806-4d61-b523-940bd1b3873c](https://github.com/user-attachments/assets/cfd3127a-4806-4d61-b523-940bd1b3873c)
+[Video: Björn Höcke zum Deutschtum](AfD-Hocke-zum-Deutschtum.mp4)
 
 Dieses Repository sammelt die zentralen Dokumente, Textfragmente und Forschungsergebnisse zur Vorbereitung einer Klageschrift gegen die Partei „Alternative für Deutschland“ (AfD) beim Bundesverfassungsgericht.
 
@@ -1241,12 +1241,12 @@ Alle Quellenangaben sind in den Dateien enthalten.
 
 ## Dringlichkeitsantrag
 
-https://github.com/user-attachments/assets/cd1d9830-66fe-422b-a432-2fb35d34d31e
+[Video: Dringlichkeitsantrag](Dringlichkeitsantrag.mp4)
 
 
 ## Ende des Repos
 
-<img width="916" height="988" alt="Claus von Wagner" src="https://github.com/user-attachments/assets/21df85d6-0331-424e-b268-c5939d7d702f" />
+<img width="916" height="988" alt="Claus von Wagner" src="assets/claus-von-wagner.png" />
 
 ---
 ## Mitwirkung
@@ -1388,7 +1388,7 @@ Ergänzender Index für die antragsrelevante Gutachtenabdeckung: [Gutachten-Cove
 
 ### Release-Zeitstempel
 
-Cleaned-Release-Stand: 2026-07-20T12:29:39+02:00
+Cleaned-Release-Stand: 2026-07-20T13:09:21+02:00
 
 ### Release-Deep-Research-Report
 
