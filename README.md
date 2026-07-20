@@ -1291,13 +1291,6 @@ Alle Quellenangaben sind in den Dateien enthalten.
 
 [![YouTube](https://img.youtube.com/vi/RoyfB-3NpsQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=RoyfB-3NpsQ)
 
-## Dringlichkeitsantrag
-
-<video controls preload="metadata" width="100%">
-  <source src="assets/videos/Dringlichkeitsantrag.mp4" type="video/mp4">
-  Dein Browser unterstützt die Video-Wiedergabe nicht.
-</video>
-
 ## Ende des Repos
 
 <img width="916" height="988" alt="Claus von Wagner" src="assets/claus-von-wagner.png" />
@@ -1448,7 +1441,7 @@ Ergänzender Index für die antragsrelevante Gutachtenabdeckung: [Gutachten-Cove
 
 ### Release-Zeitstempel
 
-Cleaned-Release-Stand: 2026-07-20T16:47:08+02:00
+Cleaned-Release-Stand: 2026-07-20T17:45:22+02:00
 
 ### Release-Deep-Research-Report
 
