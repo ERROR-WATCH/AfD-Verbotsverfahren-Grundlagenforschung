@@ -16,9 +16,15 @@
 [![Watch on YouTube](https://img.youtube.com/vi/nguiGvWcovA/maxresdefault.jpg)](https://www.youtube.com/watch?v=nguiGvWcovA "Auf YouTube ansehen")
 
 
-[Video: Björn Höcke zu Parteien und Demokratie](../../assets/videos/AfD-Hocke-zu-Parteien-und-Demokratie.mp4)
+<video controls preload="metadata" width="960">
+  <source src="../../assets/videos/AfD-Hocke-zu-Parteien-und-Demokratie.mp4" type="video/mp4" />
+  Dein Browser unterstützt die Video-Wiedergabe nicht.
+</video>
 
-[Video: Björn Höcke zum Deutschtum](../../assets/videos/AfD-Hocke-zum-Deutschtum.mp4)
+<video controls preload="metadata" width="960">
+  <source src="../../assets/videos/AfD-Hocke-zum-Deutschtum.mp4" type="video/mp4" />
+  Dein Browser unterstützt die Video-Wiedergabe nicht.
+</video>
 
 Dieses Repository sammelt die zentralen Dokumente, Textfragmente und Forschungsergebnisse zur Vorbereitung einer Klageschrift gegen die Partei „Alternative für Deutschland“ (AfD) beim Bundesverfassungsgericht.
 
@@ -1191,7 +1197,10 @@ Alle Quellenangaben sind in den Dateien enthalten.
 
 ## Dringlichkeitsantrag
 
-[Video: Dringlichkeitsantrag](../../assets/videos/Dringlichkeitsantrag.mp4)
+<video controls preload="metadata" width="960">
+  <source src="../../assets/videos/Dringlichkeitsantrag.mp4" type="video/mp4" />
+  Dein Browser unterstützt die Video-Wiedergabe nicht.
+</video>
 
 
 ## Ende des Repos
