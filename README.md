@@ -20,7 +20,7 @@
 
 #### Christian Lüth
 
-[![Christian Lüth](assets/images/christian-lueth.jpg)](assets/videos/christian-lueth.mp4)
+https://github.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/raw/main/assets/videos/christian-lueth.mp4
 
 #### AfD Höcke – Parteien und Demokratie
 
@@ -1421,7 +1421,7 @@ Ergänzender Index für die antragsrelevante Gutachtenabdeckung: [Gutachten-Cove
 
 ### Release-Zeitstempel
 
-Cleaned-Release-Stand: 2026-07-20T15:26:01+02:00
+Cleaned-Release-Stand: 2026-07-20T15:35:51+02:00
 
 ### Release-Deep-Research-Report
 

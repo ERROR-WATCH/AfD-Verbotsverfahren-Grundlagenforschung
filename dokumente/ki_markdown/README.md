@@ -20,7 +20,7 @@
 
 #### Christian Lüth
 
-[![Christian Lüth](assets/images/christian-lueth.jpg)](assets/videos/christian-lueth.mp4)
+https://github.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/raw/main/assets/videos/christian-lueth.mp4
 
 #### AfD Höcke – Parteien und Demokratie
 
