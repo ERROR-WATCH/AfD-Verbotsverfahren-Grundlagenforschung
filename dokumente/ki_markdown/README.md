@@ -36,13 +36,13 @@ https://github.com/user-attachments/assets/b4a11939-14a1-4859-9d9c-382a56af29de
 
 ### YouTube-Videobelege
 
-[![YouTube: AfD-Beleg 1](https://img.youtube.com/vi/eSgFEpI9ZDQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=eSgFEpI9ZDQ "Auf YouTube ansehen")
+[![Prüf](https://img.youtube.com/vi/eSgFEpI9ZDQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=eSgFEpI9ZDQ "Auf YouTube ansehen")
 
-[![YouTube: AfD-Beleg 2](https://img.youtube.com/vi/nguiGvWcovA/maxresdefault.jpg)](https://www.youtube.com/watch?v=nguiGvWcovA "Auf YouTube ansehen")
+[![die Anstalt](https://img.youtube.com/vi/nguiGvWcovA/maxresdefault.jpg)](https://www.youtube.com/watch?v=nguiGvWcovA "Auf YouTube ansehen")
 
-[![Dringlichkeitsantrag auf YouTube](https://img.youtube.com/vi/VPKaWjqpL10/maxresdefault.jpg)](https://www.youtube.com/watch?v=VPKaWjqpL10)
+[![Goldschatz](https://img.youtube.com/vi/VPKaWjqpL10/maxresdefault.jpg)](https://www.youtube.com/watch?v=VPKaWjqpL10)
 
-[![YouTube: Todesstatistiken](https://img.youtube.com/vi/bH8QCgEg680/maxresdefault.jpg)](https://www.youtube.com/watch?v=bH8QCgEg680 "Auf YouTube ansehen")
+[![zu Statistiken](https://img.youtube.com/vi/bH8QCgEg680/maxresdefault.jpg)](https://www.youtube.com/watch?v=bH8QCgEg680 "Auf YouTube ansehen")
 
 [![YouTube Video: Einführung](https://img.youtube.com/vi/Pb21x8gALRg/maxresdefault.jpg)](https://www.youtube.com/watch?v=Pb21x8gALRg)
 
@@ -1196,9 +1196,9 @@ Alle Quellenangaben sind in den Dateien enthalten.
 
 ## Afd und Gold
 
-[![Dringlichkeitsantrag auf YouTube](https://img.youtube.com/vi/VPKaWjqpL10/maxresdefault.jpg)](https://www.youtube.com/watch?v=VPKaWjqpL10)
+[![Goldschatz](https://img.youtube.com/vi/VPKaWjqpL10/maxresdefault.jpg)](https://www.youtube.com/watch?v=VPKaWjqpL10)
 
-[![YouTube: Todesstatistiken](https://img.youtube.com/vi/bH8QCgEg680/maxresdefault.jpg)](https://www.youtube.com/watch?v=bH8QCgEg680 "Auf YouTube ansehen")
+[![zu Statistiken](https://img.youtube.com/vi/bH8QCgEg680/maxresdefault.jpg)](https://www.youtube.com/watch?v=bH8QCgEg680 "Auf YouTube ansehen")
 
 ---
 
