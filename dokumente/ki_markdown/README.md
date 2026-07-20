@@ -32,10 +32,6 @@ https://github.com/user-attachments/assets/bcd9f636-3246-4d39-870b-f733dfe0945e
 
 https://github.com/user-attachments/assets/f8bce688-fd95-4e6a-80c6-190332181a97
 
-#### Dringlichkeitsantrag
-
-https://github.com/user-attachments/assets/b4a11939-14a1-4859-9d9c-382a56af29de
-
 ### YouTube-Videobelege
 
 [![Prüf](https://img.youtube.com/vi/eSgFEpI9ZDQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=eSgFEpI9ZDQ "Auf YouTube ansehen")
@@ -1227,7 +1223,7 @@ Alle Quellenangaben sind in den Dateien enthalten.
 
 ## Dringlichkeitsantrag
 
-Der Videobeleg ist oben im Abschnitt [Lokale Videobelege](#lokale-videobelege) einmalig direkt eingebettet.
+https://github.com/user-attachments/assets/b4a11939-14a1-4859-9d9c-382a56af29de
 
 ## Ende des Repos
 
