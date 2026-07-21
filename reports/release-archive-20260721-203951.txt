@@ -1,0 +1,2 @@
+ee58d86d54d17503281811418c118231510cd761ae1722968d0fb2fe3301ba04  releases/afd-verbotsverfahren-grundlagenforschung-20260721-203951-release.zip
+ee58d86d54d17503281811418c118231510cd761ae1722968d0fb2fe3301ba04  archives/afd-verbotsverfahren-grundlagenforschung-20260721-203951-release.zip
