@@ -1,12 +1,12 @@
 # Quellenverzeichnis und Provenienzregister der Urteilsdatenbank
 
-Dieses Dokument enthält die verifizierten Online-Quellen, höchstrichterlichen Gerichtsentscheidungen, Pressemeldungen und behördlichen Nachweise für sämtliche 262 im Repository dokumentierten Fälle.
+Dieses Dokument enthält die verifizierten Online-Quellen, höchstrichterlichen Gerichtsentscheidungen, Pressemeldungen und behördlichen Nachweise für sämtliche 265 im Repository dokumentierten Fälle.
 
 Sämtliche Belege liegen physisch im Repository unter [`./urteilsbelege/`](./) im unzensierten Volltext vor.
 
 ---
 
-## 🏛️ Verifiziertes Quellen- und Provenienzregister (Fälle 1 bis 262)
+## 🏛️ Verifiziertes Quellen- und Provenienzregister (Fälle 1 bis 265)
 
 1. **Björn Höcke (SA-Parole „Alles für Deutschland“):**
    [LTO-Bericht zur Verurteilung und BGH-Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/bgh-verwirft-revision-bjoern-hoecke-sa-parole-alles-fuer-deutschland/)
@@ -536,3 +536,12 @@ Sämtliche Belege liegen physisch im Repository unter [`./urteilsbelege/`](./) i
 
 262. **AfD Sachsen: Eilanträge gegen Einstufung als gesichert rechtsextrem gescheitert (VG Dresden/OVG Bautzen):**
     [Online-Quelle](https://www.welt.de/regionales/sachsen/article69d7a515c72227da0df14398/afd-klagt-gegen-einstufung-als-gesichert-rechtsextremistisch.html) | [Lokaler Beleg](./262_AfD_Sachsen_Gesichert_Rechtsextrem_VG_Dresden_OVG_Bautzen.md)
+
+263. **Jörg Dornau / VG Leipzig / parlamentarisches Ordnungsgeld Belarus:**
+    [Lokaler Beleg](./263_Joerg_Dornau_VG_Leipzig_Ordnungsgeld_Belarus_2025.md) | [Amtliche Primärquelle VG Leipzig](https://www.medienservice.sachsen.de/medien/news/1093254) | Pinpoint: parlamentarisches Transparenzurteil; kein Straf- oder Extremismusurteil.
+
+264. **Neukölln-Komplex / Tilo P. / AfD-Kreisvorstand:**
+    [Lokaler Beleg](./264_Neukoelln_Komplex_Tilo_P_AfD_Kreisvorstand_LG_Berlin_2024.md) | [Amtliche Gerichts-PM](https://www.berlin.de/gerichte/presse/pressemitteilungen-der-ordentlichen-gerichtsbarkeit/2024/pressemitteilung.1513108.php) | [taz AfD-Kontext](https://taz.de/Untersuchungsausschuss-Neukoelln-Komplex/!5826103/) | [Ferat-Koçak-Zeugenstrang](https://taz.de/Rechte-Anschlagserie-in-Berlin-Neukoelln/!5881943/) | [PUA Neukölln II](https://www.parlament-berlin.de/Ausschuesse/19-1-untersuchungsausschuss-neukolln-ii) | Pinpoint: Tilo P. verurteilt; AfD-Bezug über Pressebeleg zum AfD-Neukölln-Vorstand/Beisitzer; Koçak ist Betroffener/Zeuge, nicht Zurechnungsträger. Lokaler Web-Fetch: ../../../../sources/web/neukoelln-luebcke-knockout51-20260721-015209/
+
+265. **Mord an Walter Lübcke / Stephan Ernst / AfD-Spenden- und Unterstützerkontext:**
+    [Lokaler Beleg](./265_Luebcke_Mord_Stephan_Ernst_AfD_Spende_Kontext_OLG_Frankfurt_2021.md) | [GBA-Anklage](https://www.generalbundesanwalt.de/SharedDocs/Pressemitteilungen/DE/2020/Pressemitteilung-vom-29-04-2020.html) | [BGH PM 127/2022](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Datum=2022-8&Gericht=bgh&anz=13&pos=3) | [BGH Urteil 3 StR 359/21](https://juris.bundesgerichtshof.de/cgi-bin/bgh_notp/document.py?Art=en&Datum=2022-8&Gericht=bgh&Seite=1&anz=197&nr=82174&pos=49) | [taz Spendenhinweis](https://taz.de/Toedlicher-Schuss-auf-Walter-Luebcke/!5604292/) | Pinpoint: rechtskräftiges Mordurteil; AfD-Bezug nur indirekter Spenden-/Unterstützerkontext.

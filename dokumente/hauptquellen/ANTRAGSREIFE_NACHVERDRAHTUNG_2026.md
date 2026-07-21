@@ -1,10 +1,10 @@
 # Antragsreife Nachverdrahtung 2026
 
-Stand: 2026-07-10T10:59:07.214Z
+Stand: 2026-07-21T00:22:57.354Z
 
 ## Erzeugte Beweisregister
 
-- official_web_anchor_integrity_2026.jsonl: 213 lokale Webanker mit SHA-256, Bytes und Archivzeit.
+- official_web_anchor_integrity_2026.jsonl: 230 lokale Webanker mit SHA-256, Bytes und Archivzeit.
 - schriftsatz_top10_verbotsgruende_2026.jsonl: 180 Topquellen-Zeilen fuer 18 Verbotsgruende.
 - quote_actor_registry_2026.jsonl: 3722 Quote-/Proof-Findings mit Akteurs-, Kanal-, Zielgruppen- und Rechtsgutfeldern.
 - terror_umsturz_paramilitaer_matrix_2026.jsonl: 12 Sicherheitszeilen mit Verfahrensstatus- und no_overclaim-Feldern.

@@ -275,8 +275,8 @@ Dieser Index ist die harte Orientierungsschicht fuer Repository, Pages-Portal un
 | [assets/AfD Bildung.jpg](../../assets/AfD%20Bildung.jpg) | Medienasset | .jpg | 64.2 KB |
 | [assets/afd verdachtsfall.jpg](../../assets/afd%20verdachtsfall.jpg) | Medienasset | .jpg | 175.4 KB |
 | [assets/afd-politiker-krah-mit-waffe.jpg](../../assets/afd-politiker-krah-mit-waffe.jpg) | Medienasset | .jpg | 130.1 KB |
-| [assets/christian lüth.jpg](../../assets/christian%20l%C3%BCth.jpg) | Medienasset | .jpg | 71.8 KB |
-| [assets/Christian Lüth.mp4](../../assets/Christian%20L%C3%BCth.mp4) | Medienasset | .mp4 | 3.3 MB |
+| [assets/christian lüth.jpg](../../assets/images/christian-lueth.jpg) | Medienasset | .jpg | 71.8 KB |
+| [assets/Christian Lüth.mp4](../../assets/videos/christian-lueth.mp4) | Medienasset | .mp4 | 3.3 MB |
 | [assets/deutschlandkurier.jpg](../../assets/deutschlandkurier.jpg) | Medienasset | .jpg | 63.1 KB |
 | [assets/Fabian Keubel - AfD.png](../../assets/Fabian%20Keubel%20-%20AfD.png) | Medienasset | .png | 191.7 KB |
 | [assets/Greg Bovino AFD.jpg](../../assets/Greg%20Bovino%20AFD.jpg) | Medienasset | .jpg | 47.0 KB |

@@ -1,0 +1,15 @@
+01 OK 01_www.berlin.de_gerichte_presse_pressemitteilungen-der-ordentlichen-gerichtsbarkeit_2024_pressemitteilung.1513108.php.html https://www.berlin.de/gerichte/presse/pressemitteilungen-der-ordentlichen-gerichtsbarkeit/2024/pressemitteilung.1513108.php
+02 OK 02_www.parlament-berlin.de_Ausschuesse_19-1-untersuchungsausschuss-neukolln-ii.html https://www.parlament-berlin.de/Ausschuesse/19-1-untersuchungsausschuss-neukolln-ii
+03 OK 03_www.rbb24.de_panorama_beitrag_2025_08_berlin-neukoelln-rechtsextreme-anschlagsserie-urteil-rechtskraeftig.html.html https://www.rbb24.de/panorama/beitrag/2025/08/berlin-neukoelln-rechtsextreme-anschlagsserie-urteil-rechtskraeftig.html
+04 OK 04_www.rbb24.de_politik_beitrag_2026_06_berlin-neukoelln-rechtsextremistisch-anschlagsserie-abschlussbericht.html.html https://www.rbb24.de/politik/beitrag/2026/06/berlin-neukoelln-rechtsextremistisch-anschlagsserie-abschlussbericht.html
+05 OK 05_taz.de_Untersuchungsausschuss-Neukoelln-Komplex__5826103_.html https://taz.de/Untersuchungsausschuss-Neukoelln-Komplex/!5826103/
+06 OK 06_taz.de_Rechte-Anschlagserie-in-Berlin-Neukoelln__5881943_.html https://taz.de/Rechte-Anschlagserie-in-Berlin-Neukoelln/!5881943/
+07 FAIL 07_www.generalbundesanwalt.de_SharedDocs_Pressemitteilungen_DE_2020_Pressemitteilung-vom-29-04-2020.html.html https://www.generalbundesanwalt.de/SharedDocs/Pressemitteilungen/DE/2020/Pressemitteilung-vom-29-04-2020.html
+08 OK 08_juris.bundesgerichtshof.de_cgi-bin_rechtsprechung_document.py_Art_pm_Datum_2022-8_Gericht_bgh_anz_13_pos_3.html https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Datum=2022-8&Gericht=bgh&anz=13&pos=3
+09 OK 09_juris.bundesgerichtshof.de_cgi-bin_bgh_notp_document.py_Art_en_Datum_2022-8_Gericht_bgh_Seite_1_anz_197_nr_82174_pos_49.html https://juris.bundesgerichtshof.de/cgi-bin/bgh_notp/document.py?Art=en&Datum=2022-8&Gericht=bgh&Seite=1&anz=197&nr=82174&pos=49
+10 OK 10_taz.de_Toedlicher-Schuss-auf-Walter-Luebcke__5604292_.html https://taz.de/Toedlicher-Schuss-auf-Walter-Luebcke/!5604292/
+11 OK 11_taz.de_Urteil-gegen-Knockout51__6021205_.html https://taz.de/Urteil-gegen-Knockout51/!6021205/
+12 OK 12_www.presseportal.de_blaulicht_pm_14981_5509399.html https://www.presseportal.de/blaulicht/pm/14981/5509399
+13 OK 13_www.tagesschau.de_inland_bgh-urteil-knockout-51-100.html.html https://www.tagesschau.de/inland/bgh-urteil-knockout-51-100.html
+14 OK 14_www.medienservice.sachsen.de_medien_news_1093254.html https://www.medienservice.sachsen.de/medien/news/1093254
+07 RETRY_FAIL 2026-07-21: Origin-URL und kanonische Variante mit ?nn=848266 lieferten per curl HTTP 404; Presseportal-Mirror 4584193 lieferte HTTP 410. Inhalt ist über Such-/Browserindex weiter auffindbar, wurde aber nicht als unveränderte HTML-Datei lokal gefetcht. Für den lokalen Primär-/Gerichtsanker werden BGH-PM 127/2022 und BGH-Urteil 3 StR 359/21 verwendet; GBA-Link bleibt als Online-Primärhinweis registriert.

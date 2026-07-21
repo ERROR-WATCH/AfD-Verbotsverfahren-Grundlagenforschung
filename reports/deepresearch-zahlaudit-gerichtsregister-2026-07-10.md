@@ -1,10 +1,12 @@
 # Deepresearch-Zahlaudit Gerichtsregister 2026-07-10
 
+**Aktualisierung 2026-07-21:** Dieses Audit belegt den damaligen Zwischenstand vor den Nachtraegen Neukölln und Luebcke. Der aktuelle Portal-/Repo-Stand beträgt mindestens 265 Fälle: Fall 264 Neukölln-Komplex / Tilo P. und Fall 265 Mord an Walter Lübcke wurden nachträglich aufgenommen; Knockout51 wurde geprüft, aber mangels belastbarem AfD-Bezug nicht gezählt.
+
 ## Ergebnis
 
-Der konsistente Portalstand beträgt **263 Registerfälle**.
+Dieses historische Audit ist durch die Nachtraege ueberholt. Aktueller Portal-/Repo-Stand: **mindestens 265 Registerfälle**.
 
-- Ausgangsbestand: 262 Fälle im maschinenlesbaren Pages-Fallarray.
+- Ausgangsbestand dieses historischen Audits war ein älterer Pages-Fallarray-Zwischenstand; aktueller Registerstand seit Nachtrag 2026-07-21: mindestens 265 Fälle.
 - Neuer Fall 263: Jörg Dornau, VG Leipzig, Urteil vom 10.12.2025, Az. 1 K 2748/24.
 - Kein Fall 264: Der Eröffnungsbeschluss des OLG Dresden, Az. 5 St 4/25, ergänzt den bereits vorhandenen Kurt-H.-/Sächsische-Separatisten-Fall.
 - Das AWG-Ermittlungsverfahren gegen Dornau ist eine getrennte Statusachse innerhalb Fall 263, keine weitere Verurteilung.
@@ -16,4 +18,4 @@ Eine neue Fallnummer wird nur vergeben, wenn ein eigenständiger Akteur-/Verfahr
 
 ## Technische Kontrolle
 
-Das Pages-Array enthält 263 Objekte, die höchste Fallnummer ist 263. Fallzahlen in README, Portalnavigation und Aktualisierungsbadge wurden entsprechend angeglichen.
+Die damalige technische Kontrolle ergab 263 Objekte mit höchster Fallnummer 263. Nach der Aktualisierung vom 21.07.2026 sind Fall 264 und Fall 265 im Portal-/Repo-Stand zusätzlich dokumentiert.

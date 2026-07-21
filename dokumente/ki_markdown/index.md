@@ -8,10 +8,12 @@ Offizielles Belegarchiv & Grundlagenforschung
 
 # Das Gerichtsregister & Beweismittel-Archiv zum AfD-Verbotsverfahren
 
-Eine systematische, wissenschaftlich fundierte Faktensammlung aus 262 Gerichtsentscheidungen, 3.722 Netzbelegen und unzensierten Verfassungsschutzgutachten für eine wehrhafte Demokratie.
+Eine systematische, wissenschaftlich fundierte Faktensammlung aus mindestens 265 Gerichtsentscheidungen, 3.722 Netzbelegen und unzensierten Verfassungsschutzgutachten für eine wehrhafte Demokratie.
+
+Das Repository ist kein Ersatz für eine juristische Prüfung, sondern eine systematische Forschungs- und Dokumentationsgrundlage, die Recherche, Strukturierung und Belegführung erheblich erleichtern kann. Die maßgeblichen Beweise müssen für ein gerichtliches Verfahren weiterhin an den Originalquellen überprüft werden.
 
 [Zum Portal-Dashboard](#portal)
- [PDF-Urteilsregister herunterladen](../hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)
+ [Historischen PDF-Export herunterladen](../hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)
 
 ## Über dieses Forschungsportal
 
@@ -19,7 +21,7 @@ Dieses Portal ist das visuelle Frontend des umfangreichen Grundlagenforschungs-R
 
 Alle hier verzeichneten Daten basieren auf hoheitlichen Quellen (Bundeskriminalamt, Bundesamt für Verfassungsschutz, Landesgerichte, Bundesgerichtshof) und wurden durch aufwändige Scraper, OCR-Bereinigungen und relative Verlinkungen nach bestem Wissen und Gewissen aufbereitet, strukturiert und verifiziert.
 
-239
+265
 Urteilsbelege
 
 3.722
@@ -33,8 +35,8 @@ Bundesländer
 
 ### Core Downloads
 
-* [Master-PDF: Alle 239 Urteile](../hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)
-* [Master-TXT: Alle 239 Urteile](../hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.txt)
+* [Master-PDF: historischer Export](../hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf)
+* [Master-TXT: historischer Export](../hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.txt)
 * [Zentrales Master-Quellenverzeichnis](./PUBLIC_EXTENDED_SOURCES.md)
 * [Sonder-Dossier: Bannon & Epstein](../hauptquellen/Bannon_Epstein_DeepResearch.md)
 
@@ -42,7 +44,7 @@ Bundesländer
 
 Nutze die Tabs, um die Grundlagenforschung zu durchsuchen und die Korpusstruktur statistisch auszuwerten.
 
-🏛️ Gerichtsregister (262 Fälle)
+🏛️ Gerichtsregister (265 Fälle)
 
 🛑 18 Verbotsgründe
 
@@ -519,7 +521,7 @@ Lade KI-Handbuch...
 
 Forschungsportal: AfD-Verbotsverfahren
 Lizenzierte Software/Scraper unter ACSL 1.4
-Letzte Aktualisierung: 04.07.2026 (262 Fälle, 60 VS-Dokumente, 3.722 Zitate)
+Letzte Aktualisierung: 21.07.2026 (265 Fälle, 60 VS-Dokumente, 3.722 Zitate)
 
 [GitHub Repo](https://github.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung)
 [Über](#about)
