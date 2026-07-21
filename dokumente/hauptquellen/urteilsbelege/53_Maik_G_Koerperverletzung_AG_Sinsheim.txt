@@ -10,4 +10,4 @@ BEWEISBEDEUTUNG:
 Empirischer Nachweis der physischen Gewaltbereitschaft und Tätlichkeit lokaler AfD-Funktionäre zur Einschüchterung des politischen Gegners.
 
 OFFIZIELLER DIREKT-QUELLENLINK (GERICHTS- & PRESSEPROVENIENZ):
-https://www.rnz.de/region/rhein-neckar-kreis_artikel,-Sinsheim-AfD-Funktionaer-Maik-G-wegen-Koerperverletzung-rechtskraeftig-verurteilt-_arid,1134252.html
+https://www.tagesschau.de/inland/correctiv-recherche-afd-gewalttaten-100.html

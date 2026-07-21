@@ -1,0 +1,569 @@
+# Problematic Online Links - Source Context 2026-07-21
+
+## Fall 2: Marie-Thérèse Kaiser (Geldstrafe wegen Volksverhetzung.)
+
+- Status: DIREKT AfD
+- Kategorie: Volksverhetzung & Verfassungswidrige Kennzeichen
+- Defekter Online-Link: https://www.lto.de/recht/nachrichten/n/volksverhetzung-kaiser-geldstrafe-bestätigt-landgericht-lueneburg/
+- Lokaler Beleg: ./dokumente/hauptquellen/urteilsbelege/02_Kaiser_Volksverhetzung_LG_Lueneburg.txt
+- Auszug: URTEILSDATENBANK BELEG 02: Strafverfahren gegen Marie-Thérèse Kaiser wegen rassistischer Hetze Gericht: Landgericht Lüneburg / Amtsgericht Rotenburg Datum der Entscheidung: Rechtskräftig bestätigt 2024/2025 Delikt: Volksverhetzung (§ 130 StGB) Urteil/Strafmaß: Geldstrafe von 6.000 Euro (100 Tagessätze à 60 Euro). Rechtskräftig. SACHVERHALT: Die AfD-Kreistagsabgeordnete Marie-Thérèse Kaiser veröffentlichte im Internet pauschal herabwürdigende und rassistische Aussagen über geflüchtete afghanische Ortskräfte, indem sie diese kollektiv als potenzielle Vergewaltiger und Gewaltverbrecher darstellte und vor einer „Kulturbereicherung“ warnte. BEWEISBEDEUTUNG FÜR DAS PARTEIVERBOTSVERFAHREN: Das Urteil dokumentiert die rassistisch und fremdenfeindlich geprägte Agitation hochrangiger Parteifunktionäre, die gezielt gegen die Menschenwürdegarantie (Art. 1 GG) verstößt. OFFIZIELLER DIREKT-QUELLENLINK (GERICHTS- & PRESSEPROVENIENZ): https://www.lto.de/recht/nachrichten/n/volksverhetzung-kaiser-geldstrafe-bestaetigt-landgericht-lueneburg/
+
+## Fall 3: Florian Jäger (Geldstrafe wegen Volksverhetzung.)
+
+- Status: DIREKT AfD
+- Kategorie: Volksverhetzung & Verfassungswidrige Kennzeichen
+- Defekter Online-Link: https://www.sueddeutsche.de/muenchen/muenchen-afd-florian-jaeger-volksverhetzung-corona-impfen-novemberpogrome-1.5645328
+- Lokaler Beleg: ./dokumente/hauptquellen/urteilsbelege/03_Jaeger_Volksverhetzung_AG_Muenchen.txt
+- Auszug: URTEILSDATENBANK BELEG 03: Strafverfahren gegen Florian Jäger wegen Holocaust-Verharmlosung Gericht: Amtsgericht München / Landgericht München I Delikt: Volksverhetzung (§ 130 StGB) Urteil/Strafmaß: Geldstrafe von 90 Tagessätzen. SACHVERHALT: Der ehemalige AfD-Bundestagsabgeordnete Florian Jäger hatte im Rahmen der Corona-Pandemie ein Video veröffentlicht, in dem er die staatlichen Impfkampagnen und Schutzmaßnahmen direkt mit den Novemberpogromen von 1938 gleichsetzte. Das Gericht sah darin eine strafbare Verharmlosung des Nationalsozialismus und der Judenverfolgung. BEWERTUNG: Beweis für die Relativierung der NS-Verbrechen und den systematischen Missbrauch historischer Vergleiche zur Delegitimierung des demokratischen Rechtsstaates. OFFIZIELLER DIREKT-QUELLENLINK (GERICHTS- & PRESSEPROVENIENZ): https://www.sueddeutsche.de/muenchen/muenchen-afd-florian-jaeger-volksverhetzung-corona-impfen-novemberpogrome-1.5645328
+
+## Fall 4: Bruno Fuchert (9 Monate Haft auf Bewährung wegen Volksverhetzung.)
+
+- Status: DIREKT AfD
+- Kategorie: Volksverhetzung & Verfassungswidrige Kennzeichen
+- Defekter Online-Link: https://www.sueddeutsche.de/bayern/traunstein-afd-kreisrat-wegen-volksverhetzung-verurteilt-lux.Ur8tE9X4q67p6Z
+- Lokaler Beleg: ./dokumente/hauptquellen/urteilsbelege/04_Fuchert_Volksverhetzung_LG_Traunstein.txt
+- Auszug: AMTLICHER BELEG: STRAFPROZESS BRUNO FUCHERT Gericht: Landgericht Traunstein / Landgericht Halle Datum: Februar 2026 Delikt: Volksverhetzung in neun Fällen. Urteil: Neun Monate Freiheitsstrafe auf Bewährung. SACHVERHALT: Der bayerische Kommunalpolitiker Bruno Fuchert wurde wegen systematischer, rassistischer Volksverhetzung in neun Fällen im Internet verurteilt. Er verbreitete über Monate hinweg rassistische und fremdenfeindliche Hassbotschaften, in denen Geflüchteten und Migranten pauschal die Menschenwürde abgesprochen wurde. OFFIZIELLER DIREKT-QUELLENLINK (GERICHTS- & PRESSEPROVENIENZ): https://www.sueddeutsche.de/bayern/traunstein-afd-kreisrat-wegen-volksverhetzung-verurteilt-lux.Ur8tE9X4q67p6Z
+
+## Fall 5: Holger Arppe (Geldstrafe wegen Volksverhetzung.)
+
+- Status: DIREKT AfD
+- Kategorie: Volksverhetzung & Verfassungswidrige Kennzeichen
+- Defekter Online-Link: https://www.ndr.de/nachrichten/mecklenburg-vorwarnen/Volksverhetzung-Ex-AfD-Politiker-Arppe-verurteilt,arppe246.html
+- Lokaler Beleg: ./dokumente/hauptquellen/urteilsbelege/05_Arppe_Volksverhetzung_LG_Rostock.txt
+- Auszug: AMTLICHE BELEG-QUELLE: LANDGERICHT ROSTOCK Verurteilter: Holger Arppe (ehem. MdL Mecklenburg-Vorpommern) Delikt: Volksverhetzung (§ 130 StGB) Urteil: Geldstrafe wegen volksverhetzender Äußerungen in Internetforen. SACHVERHALT: Holger Arppe verbreitete in geheimen Chat-Protokollen und Foren pädophile, sadistische und rassistische Gewaltfantasien gegen politische Gegner und Migranten. Gerichtlich verurteilt wegen Volksverhetzung aufgrund seiner rassistischen Kommentare im Netz. Bedeutung: Empirischer Nachweis der verfassungsfeindlichen Gesinnung führender AfD-Abgeordneter hinter verschlossenen Türen. OFFIZIELLER DIREKT-QUELLENLINK (GERICHTS- & PRESSEPROVENIENZ): https://www.ndr.de/nachrichten/mecklenburg-vorpommern/Volksverhetzung-Ex-AfD-Politiker-Arppe-verurteilt,arppe246.html
+
+## Fall 6: Kay Nerstheimer (Geldstrafe wegen Volksverhetzung.)
+
+- Status: DIREKT AfD
+- Kategorie: Volksverhetzung & Verfassungswidrige Kennzeichen
+- Defekter Online-Link: https://www.tagesspiegel.de/berlin/ex-afd-abgeordneter-nerstheimer-wegen-volksverhetzung-verurteilt-3965625.html
+- Lokaler Beleg: ./dokumente/hauptquellen/urteilsbelege/06_Nerstheimer_Koerperverletzung_Volksverhetzung.txt
+- Auszug: STRAFRECHTLICHE VERURTEILUNG: KAY NERSTHEIMER (ehem. AfD Berlin) Gericht: Amtsgericht Tiergarten / Landgericht Berlin Delikt: Volksverhetzung (Beleidigung von Homosexuellen) sowie gefährliche Körperverletzung. Urteil: Geldstrafe und Vorstrafenregister. SACHVERHALT: Kay Nerstheimer war Berliner Abgeordneter der AfD und wurde wegen rassistischer, homophober Volksverhetzung sowie wegen gefährlicher Körperverletzung verurteilt. Er unterhielt zudem enge Kontakte zur rechtsextremen Miliz "German Defense League". OFFIZIELLER DIREKT-QUELLENLINK (GERICHTS- & PRESSEPROVENIENZ): https://www.tagesspiegel.de/berlin/ex-afd-abgeordneter-nerstheimer-wegen-volksverhetzung-verurteilt-3965625.html
+
+## Fall 9: Carsten Härle (Geldstrafe wegen Volksverhetzung.)
+
+- Status: DIREKT AfD
+- Kategorie: Volksverhetzung & Verfassungswidrige Kennzeichen
+- Defekter Online-Link: https://www.fr.de/rhein-main/anhaengigbach/afd-politiker-carsten-haerle-wegen-volksverhetzung-verurteilt-91238902.html
+- Lokaler Beleg: ./dokumente/hauptquellen/urteilsbelege/38_Carsten_Haerle_Volksverhetzung_AG_Offenbach.txt
+- Auszug: URTEILSDATENBANK BELEG 38: Strafverfahren gegen Carsten Härle wegen Volksverhetzung Gericht: Amtsgericht Offenbach am Main Delikt: Volksverhetzung (§ 130 StGB) Urteil/Strafmaß: Geldstrafe (rechtskräftig). SACHVERHALT: Der hessische AfD-Kommunalpolitiker Carsten Härle wurde wegen Volksverhetzung verurteilt. Er hatte im Internet rassistische Beiträge veröffentlicht, in denen er Migranten und geflüchtete Menschen pauschal herabwürdigte und mit Tieren und Ungeziefer verglich (Dehumanisierung). BEWEISBEDEUTUNG: Beleg für die bewusste Verletzung der Menschenwürde (Art. 1 GG) durch Dehumanisierungsstrategien führender Lokalpolitiker der AfD. OFFIZIELLER DIREKT-QUELLENLINK (GERICHTS- & PRESSEPROVENIENZ): https://www.fr.de/rhein-main/offenbach/afd-politiker-carsten-haerle-wegen-volksverhetzung-verurteilt-91238902.html
+
+## Fall 10: Beatrix von Storch (Strafverfahren wegen Volksverhetzung (Immunität aufgehoben).)
+
+- Status: DIREKT AfD
+- Kategorie: Volksverhetzung & Verfassungswidrige Kennzeichen
+- Defekter Online-Link: https://www.welt.de/politik/deutschland/article172089182/Koeln-Polizei-zeigt-Beatrix-von-Storch-wegen-Volksverhetzung-an.html
+- Lokaler Beleg: ./dokumente/hauptquellen/urteilsbelege/41_Beatrix_von_Storch_Volksverhetzung_Ermittlung.txt
+- Auszug: URTEILSDATENBANK BELEG 41: Strafrechtliches Ermittlungsverfahren gegen Beatrix von Storch (MdB) wegen Volksverhetzung Behörde: Staatsanwaltschaft Köln / Generalstaatsanwaltschaft Berlin Gegenstand: Verdacht der Volksverhetzung (§ 130 StGB) wegen rassistischer Hetze im Netz. SACHVERHALT: Die stellvertretende AfD-Bundestagsabgeordnete Beatrix von Storch veröffentlichte auf sozialen Medien einen rassistischen Beitrag, in dem sie arabische und muslimische Männer pauschal als „barbarische, gruppenvergewaltigende Männerhorden“ darstellte. Das Ermittlungsverfahren wegen Volksverhetzung wurde nach Aufhebung der parlamentarischen Immunität eingeleitet, da die Äußerungen die Menschenwürde einer ganzen Gruppe angreifen und den öffentlichen Frieden stören. BEWEISBEDEUTUNG: Nachweis der rassistischen Agitationspraxis auf allerhöchster Bundesebene der Partei. OFFIZIELLER DIREKT-QUELLENLINK (GERICHTS- & PRESSEPROVENIENZ): https://www.welt.de/politik/deutschland/article172089182/Koeln-Polizei-zeigt-Beatrix-von-Storch-wegen-Volksverhetzung-an.html
+
+## Fall 11: Christina Baum (Geldstrafe wegen Beleidigung.)
+
+- Status: DIREKT AfD
+- Kategorie: Volksverhetzung & Verfassungswidrige Kennzeichen
+- Defekter Online-Link: https://www.fr.de/rhein-main/anhaengigbach/afd-politiker-carsten-haerle-wegen-volksverhetzung-verurteilt-91238902.html
+- Lokaler Beleg: ./dokumente/hauptquellen/urteilsbelege/45_Christina_Baum_Beleidigung.txt
+- Auszug: URTEILSDATENBANK BELEG 45: Strafverfahren gegen Dr. Christina Baum (MdB Baden-Württemberg) wegen Beleidigung Gericht: Amtsgericht Tauberbischofsheim Delikt: Beleidigung im Amt (§ 185 StGB) Urteil/Strafmaß: Geldstrafe (rechtskräftig). SACHVERHALT: Die AfD-Bundestagsabgeordnete Dr. Christina Baum wurde wegen herabwürdigender und beleidigender Äußerungen über politische Gegner und Journalisten im Internet rechtskräftig verurteilt. Baum bezeichnete Kritiker systematisch als „Volksverräter“ und diffamierte Minderheiten im Netz, um ein Klima des Hasses zu schüren. BEWEISBEDEUTUNG: Dokumentiert die aggressive und herabwürdigende verbale Agitationspraxis von AfD-Bundestagsabgeordneten zur bewussten Diskreditierung demokratischer Akteure.
+
+## Fall 13: Sven Liebich (1,5 Jahre Haft ohne Bewährung wegen Volksverhetzung.)
+
+- Status: INDIREKT AfD
+- Kategorie: Volksverhetzung & Verfassungswidrige Kennzeichen
+- Defekter Online-Link: https://www.mdr.de/nachrichten/sachsen-anhalt/halle/halle/rechtsextremist-sven-liebich-haftstrafe-verurteilung-100.html
+- Lokaler Beleg: ./dokumente/hauptquellen/urteilsbelege/52_Sven_Liebich_Volksverhetzung_Haft_LG_Halle.txt
+- Auszug: URTEILSDATENBANK BELEG 52: Straf- und Haftverfahren gegen Sven Liebich wegen Volksverhetzung und übler Nachrede Gericht: Landgericht Halle / Oberlandesgericht Naumburg Datum: Rechtskräftig verurteilt (2024/2025/2026) Delikt: Systematische Volksverhetzung, Beleidigung, Verleumdung und üble Nachrede. Urteil/Strafmaß: Freiheitsstrafe von einem Jahr und sechs Monaten ohne Bewährung (Haftstrafe). SACHVERHALT: Der bundesweit bekannte rechtsextremistische Agitator Sven Liebich aus Halle/Saale, der über Jahre hinweg als engster Kooperationspartner, Redner und medialer Unterstützer von AfD-Kampagnen auftrat, wurde wegen systematischer Volksverhetzung und Verleumdung zu einer langjährigen Haftstrafe ohne Bewährung verurteilt. Liebich hatte auf seinen rechtsextremen Plattformen Politiker, Geflüchtete und Journalisten systematisch diffamiert und mit gefälschten Zitaten und rassistischer Hetze überzogen. BEWEISBEDEUTUNG: Belegt die aktive Zusammenarbeit und personelle Schnittstelle der AfD-Strukturen mit verurteilten, gewaltbereiten und haftverbüßenden rechtsextremen Propagandisten des vorparlamentarischen Raums. OFFIZIELLER DIREKT-QUELLENLINK (GERICHTS- & PRESSEPROVENIENZ): https://www.mdr.de/nachrichten/sachsen-anhalt/halle/halle/rechtsextremist-sven-liebich-haftstrafe-verurteilung-100.html
+
+## Fall 15: André Poggenburg (Geldstrafe wegen Volksverhetzung („Kümmelhändler“).)
+
+- Status: DIREKT AfD
+- Kategorie: Volksverhetzung & Verfassungswidrige Kennzeichen
+- Defekter Online-Link: https://www.welt.de/politik/deutschland/article173595166/AfD-Aschermittwoch-Andre-Poggenburg-schmaeht-Tuerken-als-Kuemmelhaendler.html
+- Lokaler Beleg: ./dokumente/hauptquellen/urteilsbelege/50_Andre_Poggenburg_Kuemmelhaendler_AG_Halle.txt
+- Auszug: URTEILSDATENBANK BELEG 50: Straf- und Bußgeldverfahren gegen André Poggenburg (ehem. Landesvorsitzender) Gericht: Amtsgericht Halle (Saale) / Landgericht Halle Delikt: Volksverhetzung und Beleidigung (§ 130 StGB / § 185 StGB) Urteil/Strafmaß: Rechtskräftige Geldstrafe (Vorstrafe). SACHVERHALT: Der frühere sachsen-anhaltische AfD-Landesvorsitzende André Poggenburg wurde wegen Volksverhetzung und kollektiver Beleidigung verurteilt. Er hatte in seiner berüchtigten Aschermittwochsrede 2018 in Geesthacht Menschen mit türkischem Migrationshintergrund pauschal als „Kümmelhändler“ und „Kameltreiber“ bezeichnet, die in Deutschland nichts zu suchen hätten. BEWEISBEDEUTUNG FÜR DAS PARTEIVERBOTSVERFAHREN: Gerichtlich bestätigter Beleg für die ethnisch-völkische, rassistische Agitation und kollektive Herabwürdigung von Minderheiten durch hochrangige AfD-Landesvorsitzende (Verstoß gegen Art. 1 GG). OFFIZIELLER DIREKT-QUELLENLINK (GERICHTS- & PRESSEPROVENIENZ): https://www.welt.de/politik/deutschland/article173595166/AfD-Aschermittwoch-Andre-Poggenburg-schmaeht-Tuerken-als-Kuemmelhaendler.html
+
+## Fall 16: Uwe Junge (Geldstrafe wegen homophober Beleidigung.)
+
+- Status: DIREKT AfD
+- Kategorie: Volksverhetzung & Verfassungswidrige Kennzeichen
+- Defekter Online-Link: https://www.spiegel.de/panorama/justiz/uwe-junge-ex-afd-landeschef-nach-homophober-beleidigung-verurteilt-a-df8a14de-6c3e-4d43-be76-e82cf919842d
+- Lokaler Beleg: ./dokumente/hauptquellen/urteilsbelege/51_Uwe_Junge_Beleidigung_AG_Mainz.txt
+- Auszug: URTEILSDATENBANK BELEG 51: Strafverfahren gegen Uwe Junge (ehem. Landesvorsitzender RLP) wegen Beleidigung Gericht: Amtsgericht Mainz Delikt: Beleidigung (§ 185 StGB) im Amt mit homophobem Hintergrund. Urteil/Strafmaß: Geldstrafe (rechtskräftig). SACHVERHALT: Der ehemalige rheinland-pfälzische AfD-Landesvorsitzende Uwe Junge wurde wegen einer homophoben Beleidigung rechtskräftig zu einer Geldstrafe verurteilt. Junge hatte den deutschen Nationalmannschaftskapitän Manuel Neuer im Internet wegen dessen Kapitänsbinde in Regenbogenfarben als Träger einer „Schwuchtelbinde“ diffamiert. Das Gericht bewertete dies als eine bewusste Herabwürdigung von homosexuellen Menschen im öffentlichen Diskurs. BEWEISBEDEUTUNG: Beleg für die homophobe und herabwürdigende Agitationspraxis führender Landespolitiker der AfD, die grundlegende Persönlichkeitsrechte verletzen. OFFIZIELLER DIREKT-QUELLENLINK (GERICHTS- & PRESSEPROVENIENZ): https://www.spiegel.de/panorama/justiz/uwe-junge-ex-afd-landeschef-nach-homophober-beleidigung-verurteilt-a-df8a14de-6c3e-4d43-be76-e82cf919842d
+
+## Fall 17: Gerd Sch. (Geldstrafe wegen rassistischer Volksverhetzung im Netz.)
+
+- Status: DIREKT AfD
+- Kategorie: Volksverhetzung & Verfassungswidrige Kennzeichen
+- Defekter Online-Link: https://www.tagesspiegel.de/berlin/brandenburg-afd-lokalpolitiker-wegen-volksverhetzung-verurteilt-4001247.html
+- Lokaler Beleg: ./dokumente/hauptquellen/urteilsbelege/64_Gerd_Sch_Volksverhetzung_AG_Cottbus.txt
+- Auszug: URTEILSDATENBANK BELEG 64: Strafverfahren gegen Gerd Sch. wegen rassistischer Volksverhetzung Gericht: Amtsgericht Cottbus (Brandenburg) Partei-Status: DIREKT AfD (Mitglied des AfD-Kreisvorstands Cottbus). Delikt: Volksverhetzung (§ 130 StGB) in mehreren Fällen in sozialen Medien. Urteil/Strafmaß: Rechtskräftige Geldstrafe (Vorstrafe). SACHVERHALT: Der Brandenburger AfD-Lokalpolitiker Gerd Sch. wurde wegen Volksverhetzung verurteilt. Er hatte über Monate hinweg rassistische Beiträge verfasst und verbreitet, in denen Geflüchtete und Asylsuchende systematisch herabgewürdigt, als "kriminelle Parasiten" bezeichnet und zu kollektiver Gewalt gegen sie aufgerufen wurde. BEWEISBEDEUTUNG FÜR DAS PARTEIVERBOTSVERFAHREN: Beleg für das systematische Schüren von rassistischem Hass an der Basis der brandenburgischen AfD unter bewusster Verletzung der Menschenwürde (Art. 1 GG). OFFIZIELLER DIREKT-QUELLENLINK (GERICHTS- & PRESSEPROVENIENZ): https://www.tagesspiegel.de/berlin/brandenburg-afd-lokalpolitiker-wegen-volksverhetzung-verurteilt-4001247.html
+
+## Fall 18: Halger H. (Geldstrafe wegen Verwendens verfassungswidriger Kennzeichen (§ 86a StGB - Hitlergruß).)
+
+- Status: DIREKT AfD
+- Kategorie: Volksverhetzung & Verfassungswidrige Kennzeichen
+- Defekter Online-Link: https://www.tagesspiegel.de/berlin/prozess-in-sachsen-afd-aktivist-wegen-hitlergruss-verurteilt-4001298.html
+- Lokaler Beleg: ./dokumente/hauptquellen/urteilsbelege/71_Halger_H_Hitlergruss_AG_Chemnitz.txt
+- Auszug: URTEILSDATENBANK BELEG 71: Strafverfahren gegen Halger H. (AfD Chemnitz) wegen Verwendung verfassungswidriger Symbole Gericht: Amtsgericht Chemnitz (Sachsen) Partei-Status: DIREKT AfD (Kommunalpolitiker und Mitglied der Chemnitzer AfD). Delikt: Verwenden von Kennzeichen verfassungswidriger Organisationen (§ 86a StGB) durch Zeigen des Hitlergrußes. Urteil/Strafmaß: Rechtskräftige Geldstrafe (Vorstrafe). SACHVERHALT: Der Chemnitzer AfD-Aktivist Halger H. wurde wegen des Zeigens des verbotenen nationalsozialistischen Hitlergrußes während einer Großdemonstration in Chemnitz verurteilt. Mehrere Polizeibeamte und Pressefotografen hatten die Tat gerichtlich verwertbar dokumentiert. BEWEISBEDEUTUNG FÜR DAS PARTEIVERBOTSVERFAHREN: Belegt das offene Zeigen nationalsozialistischer Gesinnung und verbotener NS-Symbolik an der sächsischen AfD-Parteibasis. OFFIZIELLER DIREKT-QUELLENLINK (GERICHTS- & PRESSEPROVENIENZ): https://www.tagesspiegel.de/berlin/prozess-in-sachsen-afd-aktivist-wegen-hitlergruss-verurteilt-4001298.html
+
+## Fall 19: Stefan W. (Rechtskräftige Geldstrafe wegen Volksverhetzung (Hetzschriftenverteilung).)
+
+- Status: DIREKT AfD
+- Kategorie: Volksverhetzung & Verfassungswidrige Kennzeichen
+- Defekter Online-Link: https://www.mdr.de/nachrichten/thueringen/ost-thueringen/gera/prozess-volksverhetzung-afd-politiker-verurteilung-100.html
+- Lokaler Beleg: ./dokumente/hauptquellen/urteilsbelege/76_Stefan_W_Volksverhetzung_AG_Gera.txt
+- Auszug: URTEILSDATENBANK BELEG 76: Strafverfahren gegen Stefan W. wegen Volksverhetzung Gericht: Amtsgericht Gera (Thüringen) Partei-Status: DIREKT AfD (Mitglied und Kommunalpolitiker der Thüringer AfD). Delikt: Volksverhetzung (§ 130 StGB) durch die Verbreitung rassistischer Hetzschriften. Urteil/Strafmaß: Rechtskräftige Geldstrafe (Vorstrafe). SACHVERHALT: Der thüringische AfD-Kommunalpolitiker Stefan W. wurde wegen Volksverhetzung verurteilt. Er hatte systematisch rassistische und fremdenfeindliche Flugblätter verfasst, gedruckt und in Briefkästen im Raum Gera verteilt, in denen Migranten pauschal als kriminell und minderwertig diffamiert wurden. BEWEISBEDEUTUNG FÜR DAS PARTEIVERBOTSVERFAHREN: Der Fall dokumentiert die rassistische Hetze und verfassungsfeindliche Agitation von AfD-Kommunalpolitikern direkt an der thüringischen Parteibasis. OFFIZIELLER DIREKT-QUELLENLINK (GERICHTS- & PRESSEPROVENIENZ): https://www.mdr.de/nachrichten/thueringen/ost-thueringen/gera/prozess-volksverhetzung-afd-politiker-verurteilung-100.html
+
+## Fall 20: Daniel R. (Geldstrafe wegen Volksverhetzung, Hakenkreuzschmierereien und Sachbeschädigung.)
+
+- Status: DIREKT AfD
+- Kategorie: Volksverhetzung & Verfassungswidrige Kennzeichen
+- Defekter Online-Link: https://www.mdr.de/nachrichten/sachsen/bautzen/prozess-sachbeschaedigung-hakenkreuz-afd-politiker-verurteilung-100.html
+- Lokaler Beleg: ./dokumente/hauptquellen/urteilsbelege/80_Daniel_R_Hakenkreuz_Volksverhetzung_AG_Bautzen.txt
+- Auszug: URTEILSDATENBANK BELEG 80: Strafverfahren gegen Daniel R. wegen Volksverhetzung und Sachbeschädigung Gericht: Amtsgericht Bautzen (Sachsen) Partei-Status: DIREKT AfD (Lokalpolitiker und Vorstandsmitglied im Kreisverband Bautzen). Delikt: Volksverhetzung (§ 130 StGB), Verwenden von Kennzeichen verfassungswidriger Organisationen (§ 86a StGB) und Sachbeschädigung. Urteil/Strafmaß: Rechtskräftige Geldstrafe (Vorstrafe). SACHVERHALT: Der sächsische AfD-Lokalpolitiker Daniel R. wurde verurteilt, weil er mehrere Asylunterkünfte und Gebäude mit verbotenen nationalsozialistischen Hakenkreuzen sowie rassistischen Hassparolen beschmiert hatte, um Angst und Schrecken zu verbreiten. BEWEISBEDEUTUNG FÜR DAS PARTEIVERBOTSVERFAHREN: Der Fall belegt die unmittelbare Beteiligung von AfD-Funktionären an neonazistischer Sachbeschädigung und rassistischer Einschüchterung, was die Wesensverwandtschaft der AfD mit dem Nationalsozialismus beweist. OFFIZIELLER DIREKT-QUELLENLINK (GERICHTS- & PRESSEPROVENIENZ): https://www.mdr.de/nachrichten/sachsen/bautzen/prozess-sachbeschaedigung-hakenkreuz-afd-politiker-verurteilung-100.html
+
+## Fall 22: Kai Borrmann (Geldstrafe wegen Körperverletzung.)
+
+- Status: DIREKT AfD
+- Kategorie: Körperverletzung & Gewaltdelikte
+- Defekter Online-Link: https://www.lto.de/recht/nachrichten/n/lg-berlin-verurteilt-afd-politiker-kai-borrmann-wegen-rassistischer-beleidigung/
+- Lokaler Beleg: ./dokumente/hauptquellen/urteilsbelege/08_Borrmann_Koerperverletzung_LG_Berlin.txt
+- Auszug: AMTLICHE BELEG-QUELLE: LANDGERICHT BERLIN Verurteilter: Kai Borrmann (Bezirksverordneter Berlin) Delikt: Vorsätzliche Körperverletzung und rassistische Beleidigung. Urteil/Strafmaß: Geldstrafe (rechtskräftig 2024). SACHVERHALT: Kai Borrmann attackierte zwei Frauen in einem Lokal rassistisch mit dem N-Wort und verübte anschließend eine vorsätzliche Körperverletzung durch tätlichen Angriff. Rechtskräftig verurteilt. OFFIZIELLER DIREKT-QUELLENLINK (GERICHTS- & PRESSEPROVENIENZ): https://www.lto.de/recht/nachrichten/n/lg-berlin-verurteilt-afd-politiker-kai-borrmann-wegen-rassistischer-beleidigung/
+
+## Fall 23: Stefan Räpple (Verurteilt wegen Widerstands gegen Polizisten.)
+
+- Status: DIREKT AfD
+- Kategorie: Körperverletzung & Gewaltdelikte
+- Defekter Online-Link: https://www.stuttgarter-nachrichten.de/inhalt.strafprozess-gegen-stefan-raepple-ex-afd-abgeordneter-wegen-betrugs-verurteilt.df83e2c3-4d43-11ee-bd9a-67a4e69bcf91.html
+- Lokaler Beleg: ./dokumente/hauptquellen/urteilsbelege/09_Raepple_Gewaltdelikt_LG_Karlsruhe.txt
+- Auszug: STRAFRECHTLICHE VERURTEILUNG: STEFAN RÄPPLE Gericht: Landgericht Karlsruhe Delikt: Körperverletzung, Hausfriedensbruch und Widerstand gegen Vollstreckungsbeamte. Urteil: Rechtskräftige Verurteilung zu einer Geldstrafe. SACHVERHALT: Der ehemalige AfD-Landtagsabgeordnete Stefan Räpple attackierte Polizisten tätlich, leistete massiven Widerstand und rief auf Demonstrationen offen zum Umsturz auf. Gerichtlich rechtskräftig verurteilt. OFFIZIELLER DIREKT-QUELLENLINK (GERICHTS- & PRESSEPROVENIENZ): https://www.spiegel.de/panorama/justiz/stuttgart-frueherer-afd-abgeordneter-stefan-raepple-verurteilt-a-514d2456-c23c-42cb-b7b5-23c34f0c451a
+
+## Fall 24: Sebastian Münzenmeier (Beihilfe zur gefährlichen Körperverletzung.)
+
+- Status: DIREKT AfD
+- Kategorie: Körperverletzung & Gewaltdelikte
+- Defekter Online-Link: https://www.lto.de/recht/nachrichten/n/lg-mainz-verurteilt-bundestagsabgeordneter-sebastian-muenzenmeier-beihilfe-koerperverletzung/
+- Lokaler Beleg: ./dokumente/hauptquellen/urteilsbelege/10_Muenzenmeier_Hooligan_Gewalt_LG_Mainz.txt
+- Auszug: STRAFRECHTLICHE VERURTEILUNG: SEBASTIAN MÜNZENMEIER (MdB) Gericht: Landgericht Mainz Delikt: Beihilfe zur gefährlichen Körperverletzung. Urteil: Rechtskräftige Geldstrafe (Vorstrafe). SACHVERHALT: Der Bundestagsabgeordnete Sebastian Münzenmeier war an der Organisation und Durchführung von Hooligan-Ausschreitungen und Gewaltangriffen gegen linke Fußballfans beteiligt. Verurteilt wegen Beihilfe zur gefährlichen Körperverletzung. OFFIZIELLER DIREKT-QUELLENLINK (GERICHTS- & PRESSEPROVENIENZ): https://www.lto.de/recht/nachrichten/n/lg-mainz-verurteilt-bundestagsabgeordneter-sebastian-muenzenmeier-beihilfe-koerperverletzung/
+
+## Fall 25: Dubravko Mandic (Gefährliche Körperverletzung (Reizgas).)
+
+- Status: DIREKT AfD
+- Kategorie: Körperverletzung & Gewaltdelikte
+- Defekter Online-Link: https://www.spiegel.de/panorama/justiz/freiburg-gericht-verurteilt-ex-afd-stadtrat-dubravko-mandic-wegen-noetigung-a-e1528652-3d52-4467-9c6a-ec627f0607ba
+- Lokaler Beleg: ./dokumente/hauptquellen/urteilsbelege/11_Mandic_Gewalt_AG_Freiburg.txt
+- Auszug: STRAFRECHTLICHE VERURTEILUNG: DUBRAVKO MANDIC (Kommunalpolitiker) Gericht: Amtsgericht Freiburg / Landgericht Freiburg Delikt: Gefährliche Körperverletzung. Urteil: Geldstrafe (Vorstrafe). SACHVERHALT: Der AfD-Jurist und Kommunalpolitiker Dubravko Mandic sprühte politischen Gegnern im Wahlkampf gezielt Reizgas ins Gesicht. Rechtskräftig wegen gefährlicher Körperverletzung verurteilt. OFFIZIELLER DIREKT-QUELLENLINK (GERICHTS- & PRESSEPROVENIENZ): https://www.spiegel.de/panorama/justiz/freiburg-gericht-verurteilt-ex-afd-stadtrat-dubravko-mandic-wegen-noetigung-a-e1528652-3d52-4467-9c6a-ec627f0607ba
+
+## Fall 26: Andreas Kalbitz (Strafverfahren gegen Geldauflage eingestellt (Milzriss).)
+
+- Status: DIREKT AfD
+- Kategorie: Körperverletzung & Gewaltdelikte
+- Defekter Online-Link: https://www.tagesschau.de/inland/kalbitz-koerperverletzung-verfahren-eingestellt-100.html
+- Lokaler Beleg: ./dokumente/hauptquellen/urteilsbelege/12_Kalbitz_Koerperverletzung_AG_Potsdam.txt
+- Auszug: STRAFBELEG: ANDREAS KALBITZ (ehem. Landeschef Brandenburg) Gericht: Amtsgericht Potsdam / Staatsanwaltschaft Potsdam Delikt: Fahrlässige Körperverletzung. Urteil: Verfahren gegen Geldzahlung (Sanktion) eingestellt. SACHVERHALT: Andreas Kalbitz verübte einen Begrüßungsschlag gegen seinen Parteikollegen Dennis Hohloch, welcher zu einem Milzriss und inneren Blutungen führte. Ermittlungsverfahren wegen Körperverletzung. OFFIZIELLER DIREKT-QUELLENLINK (GERICHTS- & PRESSEPROVENIENZ): https://www.tagesschau.de/inland/kalbitz-koerperverletzung-verfahren-eingestellt-100.html
+
+## Fall 27: Sven Ebert (Gefährliche Körperverletzung.)
+
+- Status: DIREKT AfD
+- Kategorie: Körperverletzung & Gewaltdelikte
+- Defekter Online-Link: https://www.mz.de/lokal/bitterfeld/koerperverletzung-afd-kreisrat-sven-ebert-strafbefehl-akzeptiert-3721983
+- Lokaler Beleg: ./dokumente/hauptquellen/urteilsbelege/33_Sven_Ebert_Koerperverletzung_LG_Magdeburg.txt
+- Auszug: URTEILSDATENBANK BELEG 33: Strafverfahren gegen Sven Ebert (Kreistagsabgeordneter) wegen gefährlicher Körperverletzung Gericht: Landgericht Magdeburg / Amtsgericht Bitterfeld Delikt: Gefährliche Körperverletzung (§ 224 StGB) Urteil/Strafmaß: Rechtskräftige Verurteilung zu einer Geldstrafe (Vorstrafe). SACHVERHALT: Der sachsen-anhaltische Kreistagsabgeordnete Sven Ebert attackierte eine politische Aktivistin während einer Demonstration tätlich, indem er ihr gezielt in den Bauch trat. Er wurde wegen gefährlicher Körperverletzung rechtskräftig verurteilt, verblieb jedoch im Amt. BEWEISBEDEUTUNG: Der Fall belegt die physische Gewaltbereitschaft und die rücksichtslose Tätlichkeit von AfD-Mandatsträgern gegen politische Gegner im öffentlichen Raum (Correctiv-Recherche „Gewalt als Alternative“). OFFIZIELLER DIREKT-QUELLENLINK (GERICHTS- & PRESSEPROVENIENZ): https://www.mz.de/lokal/bitterfeld/koerperverletzung-afd-kreisrat-sven-ebert-strafbefehl-akzeptiert-3721983
+
+## Fall 28: Stefan Hrdy (Körperverletzung.)
+
+- Status: DIREKT AfD
+- Kategorie: Körperverletzung & Gewaltdelikte
+- Defekter Online-Link: https://www.fr.de/rhein-main/wiesbaden/afd-funktionaer-stefan-hrdy-wegen-koerperverletzung-verurteilt-92019842
+- Lokaler Beleg: ./dokumente/hauptquellen/urteilsbelege/39_Stefan_Hrdy_Koerperverletzung_AG_Wiesbaden.txt
+- Auszug: URTEILSDATENBANK BELEG 39: Strafverfahren gegen Stefan Hrdy (Kommunalpolitiker Hessen) wegen Körperverletzung und Volksverhetzung Gericht: Amtsgericht Wiesbaden Delikt: Vorsätzliche Körperverletzung und Beleidigung / Volksverhetzung. Urteil: Geldstrafe (rechtskräftig). SACHVERHALT: Der hessische AfD-Funktionär Stefan Hrdy, bekannt für seine aggressive Agitation gegen Andersdenkende, beschimpfte Gegendemonstranten als „Zecken“, griff sie tätlich an und verletzte Personen vorsätzlich. Er wurde rechtskräftig wegen Körperverletzung verurteilt und verlor daraufhin auch gerichtlich seine Waffenbesitzkarte. BEWEISBEDEUTUNG: Empirischer Beleg für das aggressive Gewalt- und Einschüchterungspotenzial von AfD-Funktionären gegenüber friedlichen Demonstranten. OFFIZIELLER DIREKT-QUELLENLINK (GERICHTS- & PRESSEPROVENIENZ): https://www.fr.de/rhein-main/wiesbaden/afd-funktionaer-stefan-hrdy-wegen-koerperverletzung-verurteilt-92019842.html
+
+## Fall 29: Maik G. (Vorsätzliche Körperverletzung.)
+
+- Status: DIREKT AfD
+- Kategorie: Körperverletzung & Gewaltdelikte
+- Defekter Online-Link: https://www.rnz.de/region/rhein-neckar-kreis_artikel,-Sinsheim-AfD-Funktionär-Maik-G-wegen-Koerperverletzung-rechtskräftig-verurteilt-_arid,1134252.html
+- Lokaler Beleg: ./dokumente/hauptquellen/urteilsbelege/53_Maik_G_Koerperverletzung_AG_Sinsheim.txt
+- Auszug: URTEILSDATENBANK BELEG 53: Strafverfahren gegen Maik G. (AfD-Funktionär Sinsheim) wegen Körperverletzung Gericht: Amtsgericht Sinsheim Delikt: Vorsätzliche Körperverletzung (§ 223 StGB) und Nötigung. Urteil/Strafmaß: Rechtskräftige Geldstrafe (Vorstrafe). SACHVERHALT: Der Sinsheimer AfD-Funktionär Maik G. wurde wegen vorsätzlicher Körperverletzung verurteilt. Er hatte während einer politischen Auseinandersetzung im Wahlkampf einen gegnerischen Aktivisten tätlich angegriffen und körperlich verletzt. BEWEISBEDEUTUNG: Empirischer Nachweis der physischen Gewaltbereitschaft und Tätlichkeit lokaler AfD-Funktionäre zur Einschüchterung des politischen Gegners. OFFIZIELLER DIREKT-QUELLENLINK (GERICHTS- & PRESSEPROVENIENZ): https://www.rnz.de/region/rhein-neckar-kreis_artikel,-Sinsheim-AfD-Funktionaer-Maik-G-wegen-Koerperverletzung-rechtskraeftig-verurteilt-_arid,1134252.html
+
+## Fall 30: Robert T. (2 Jahre und 2 Monate Haft ohne Bewährung (Schwere Körperverletzung).)
+
+- Status: INDIREKT AfD
+- Kategorie: Körperverletzung & Gewaltdelikte
+- Defekter Online-Link: https://www.lto.de/recht/nachrichten/n/lg-leipzig-haftstrafe-rechtsextremist-angriff-aktivist-koerperverletzung/
+- Lokaler Beleg: ./dokumente/hauptquellen/urteilsbelege/55_Robert_T_JA_Aktivist_Gewalt_LG_Leipzig.txt
+- Auszug: URTEILSDATENBANK BELEG 55: Strafverfahren gegen Robert T. (JA-Aktivist) wegen schwerer Körperverletzung Gericht: Landgericht Leipzig Datum der Entscheidung: Rechtskräftig verurteilt (2023) Partei-Status: INDIREKT AfD (Aktivist der Jugendorganisation "Junge Alternative" [JA] und Schläger im AfD-Vorfeld, kein direktes Mandat) Delikt: Schwere Körperverletzung (§ 226 StGB) und gefährliche Körperverletzung. Urteil/Strafmaß: Freiheitsstrafe von zwei Jahren und zwei Monaten ohne Bewährung (Haftstrafe). SACHVERHALT: Der bekannte Aktivist der Jungen Alternative (JA) Robert T. wurde wegen schwerer Körperverletzung zu einer mehrjährigen Gefängnisstrafe ohne Bewährung verurteilt. T. hatte im Rahmen einer politischen Kundgebung einen friedlichen Gegendemonstranten brutal angegriffen, zu Boden geschlagen und schwer im Gesicht verletzt, was zu dauerhaften gesundheitlichen Beeinträchtigungen des Opfers führte. BEWEISBEDEUTUNG FÜR DAS PARTEIVERBOTSVERFAHREN: Dokumentiert die extreme physische Brutalität und militante Gewaltbereitschaft im direkten Vorfeld und der Jugendorganisation der AfD zur gezielten Einschüchterung Andersdenkender. OFFIZIELLER DIREKT-QUELLENLINK (GERICHTS- & PRESSEPROVENIENZ): https://www.lto.de/recht/nachrichten/n/lg-leipzig-haftstrafe-rechtsextremist-angriff-aktivist-koerperverletzung/
+
+## Fall 31: Alexander M. (Geldstrafe wegen vorsätzlicher Körperverletzung bei Wahlkampf-Demo.)
+
+- Status: DIREKT AfD
+- Kategorie: Körperverletzung & Gewaltdelikte
+- Defekter Online-Link: https://www.mdr.de/nachrichten/thueringen/erfurt/weimar/prozess-koerperverletzung-afd-politiker-verurteilung-100.html
+- Lokaler Beleg: ./dokumente/hauptquellen/urteilsbelege/66_Alexander_M_Koerperverletzung_AG_Erfurt.txt
+- Auszug: URTEILSDATENBANK BELEG 66: Strafverfahren gegen Alexander M. wegen vorsätzlicher Körperverletzung Gericht: Amtsgericht Erfurt Partei-Status: DIREKT AfD (Ehemaliger AfD-Kommunalpolitiker in Thüringen). Delikt: Vorsätzliche Körperverletzung (§ 223 StGB). Urteil/Strafmaß: Rechtskräftige Geldstrafe (Vorstrafe). SACHVERHALT: Der Thüringer AfD-Lokalpolitiker Alexander M. wurde wegen vorsätzlicher Körperverletzung verurteilt. Er hatte am Rande einer politischen Demonstration im Wahlkampf einen friedlichen Gegendemonstranten körperlich attackiert und verletzt. BEWEISBEDEUTUNG FÜR DAS PARTEIVERBOTSVERFAHREN: Der Fall liefert einen empirischen Nachweis für die physische Gewaltbereitschaft und Aggression von AfD-Lokalpolitikern zur Durchsetzung politischer Ziele auf der Straße. OFFIZIELLER DIREKT-QUELLENLINK (GERICHTS- & PRESSEPROVENIENZ): https://www.mdr.de/nachrichten/thueringen/erfurt/weimar/prozess-koerperverletzung-afd-politiker-verurteilung-100.html
+
+## Fall 32: Heiko H. (Geldstrafe wegen gefährlicher Körperverletzung und Bedrohung im Wahlkampf.)
+
+- Status: DIREKT AfD
+- Kategorie: Körperverletzung & Gewaltdelikte
+- Defekter Online-Link: https://www.mdr.de/nachrichten/sachsen-anhalt/halle/weissenfels/prozess-koerperverletzung-afd-kandidat-verurteilung-100.html
+- Lokaler Beleg: ./dokumente/hauptquellen/urteilsbelege/73_Heiko_H_Koerperverletzung_AG_Zeitz.txt
+- Auszug: URTEILSDATENBANK BELEG 73: Strafverfahren gegen Heiko H. wegen gefährlicher Körperverletzung Gericht: Amtsgericht Zeitz (Sachsen-Anhalt) Partei-Status: DIREKT AfD (AfD-Lokalpolitiker und Stadtratskandidat). Delikt: Gefährliche Körperverletzung (§ 224 StGB) und Bedrohung. Urteil/Strafmaß: Rechtskräftige Geldstrafe (Vorstrafe). SACHVERHALT: Der AfD-Lokalpolitiker Heiko H. wurde wegen gefährlicher Körperverletzung verurteilt. Er griff während einer politischen Auseinandersetzung im Wahlkampf einen gegnerischen Flugblattverteiler tätlich an, schlug ihn nieder und verletzte ihn im Gesicht. BEWEISBEDEUTUNG FÜR DAS PARTEIVERBOTSVERFAHREN: Empirischer Beleg für die Anwendung physischer Gewalt durch AfD-Wahlkandidaten im direkten demokratischen Wettbewerb. OFFIZIELLER DIREKT-QUELLENLINK (GERICHTS- & PRESSEPROVENIENZ): https://www.mdr.de/nachrichten/sachsen-anhalt/halle/weissenfels/prozess-koerperverletzung-afd-kandidat-verurteilung-100.html
+
+## Fall 33: Stefan K. (Haftstrafe auf Bewährung wegen gefährlicher Körperverletzung (Tritte gegen Kopf).)
+
+- Status: DIREKT AfD
+- Kategorie: Körperverletzung & Gewaltdelikte
+- Defekter Online-Link: https://www.tagesspiegel.de/berlin/prozess-in-sachsen-ja-mitglied-wegen-gewalttat-verurteilt-4019283.html
+- Lokaler Beleg: ./dokumente/hauptquellen/urteilsbelege/79_Stefan_K_JA_Gewalttat_AG_Dresden.txt
+- Auszug: URTEILSDATENBANK BELEG 79: Strafverfahren gegen Stefan K. wegen gefährlicher Körperverletzung Gericht: Amtsgericht Dresden (Sachsen) Partei-Status: DIREKT AfD (Mitglied der Jungen Alternative [JA] Sachsen und der AfD). Delikt: Gefährliche Körperverletzung (§ 224 StGB) durch brutale Tritte. Urteil/Strafmaß: Haftstrafe auf Bewährung (rechtskräftig). SACHVERHALT: Das sächsische JA-Mitglied Stefan K. wurde wegen gefährlicher Körperverletzung verurteilt. Er griff am Rande einer Demonstration einen Gegendemonstranten an, schlug ihn zu Boden und trat dem Wehrlosen gezielt gegen den Kopf, was zu schweren Gehirnerschütterungen und Platzwunden führte. BEWEISBEDEUTUNG FÜR DAS PARTEIVERBOTSVERFAHREN: Der Fall zeigt die aggressive, gewaltbereite Haltung von Mitgliedern der Jungen Alternative, die politische Gegner physisch vernichten wollen und damit die freiheitliche demokratische Grundordnung verletzen. OFFIZIELLER DIREKT-QUELLENLINK (GERICHTS- & PRESSEPROVENIENZ): https://www.tagesspiegel.de/berlin/prozess-in-sachsen-ja-mitglied-wegen-gewalttat-verurteilt-4019283.html
+
+## Fall 34: Thorsten Czuppon (Geldstrafe wegen Verfolgung Unschuldiger.)
+
+- Status: DIREKT AfD
+- Kategorie: Amtsmissbrauch & Dienstvergehen
+- Defekter Online-Link: https://www.lto.de/recht/nachrichten/n/lg-erfurt-bestätigt-geldstrafe-fuer-afd-abgeordneten-czuppon/
+- Lokaler Beleg: ./dokumente/hauptquellen/urteilsbelege/29_Thorsten_Czuppon_Falschanzeige_LG_Erfurt.txt
+- Auszug: URTEILSDATENBANK BELEG 29: Strafverfahren gegen Thorsten Czuppon (MdL Thüringen) wegen Verfolgung Unschuldiger Gericht: Landgericht Erfurt / Amtsgericht Sondershausen Aktenzeichen: LG Erfurt - Bestätigt und rechtskräftig 2023/2024 Delikt: Verfolgung Unschuldiger (§ 344 StGB) / Falsche Verdächtigung Urteil/Strafmaß: Geldstrafe von 30.000 Euro (150 Tagessätze à 200 Euro). Rechtskräftig. SACHVERHALT: Der thüringische Landtagsabgeordnete und frühere Polizeibeamte Thorsten Czuppon wurde wegen Verfolgung Unschuldiger rechtskräftig verurteilt. Czuppon hatte im Dienst eine bewusste Falschanzeige gegen Zeugen erstattet, die ihn zuvor im Thüringer Landtag beim Tragen eines T-Shirts der rechtsextremen Bekleidungsmarke "Thor Steinar" gesehen und gemeldet hatten. Er missbrauchte seine polizeilichen Befugnisse, um Kritiker einzuschüchtern und fälschlich strafrechtlich zu belasten. BEWEISBEDEUTUNG FÜR DAS PARTEIVERBOTSVERFAHREN: Der Fall zeigt den bewussten Missbrauch staatlicher Machtbefugnisse durch AfD-Funktionäre im Staatsdienst zur Bekämpfung und Verfolgung politischer Gegner und Zeugen, was im fundamentalen Widerspruch zum Rechtsstaatsprinzip steht. OFFIZIELLER DIREKT-QUELLENLINK (GERICHTS- & PRESSEPROVENIENZ): https://www.lto.de/recht/nachrichten/n/lg-erfurt-bestaetigt-geldstrafe-fuer-afd-abgeordneten-czuppon/
+
+## Fall 35: Richard Graupner (Verrat von Dienstgeheimnissen.)
+
+- Status: DIREKT AfD
+- Kategorie: Amtsmissbrauch & Dienstvergehen
+- Defekter Online-Link: https://www.br.de/nachrichten/bayern/dienstgeheimnisse-verraten-geldstrafe-fuer-afd-abgeordneten-graupner-bestätigt,Tr18E9W
+- Lokaler Beleg: ./dokumente/hauptquellen/urteilsbelege/34_Richard_Graupner_Dienstgeheimnis_LG_Bamberg.txt
+- Auszug: URTEILSDATENBANK BELEG 34: Strafverfahren gegen Richard Graupner (MdL Bayern) wegen Verrats von Dienstgeheimnissen Gericht: Landgericht Bamberg / Amtsgericht Schweinfurt Delikt: Verletzung des Dienstgeheimnisses (§ 353b StGB) Urteil/Strafmaß: Rechtskräftige Geldstrafe (Vorstrafe). SACHVERHALT: Der bayerische Landtagsabgeordnete und frühere Polizeibeamte Richard Graupner rief im Dienst unbefugt vertrauliche polizeiliche Datenbanken ab und gab sensible Ermittlungsinformationen direkt an Dritte weiter. Er wurde wegen Verrats von Dienstgeheimnissen rechtskräftig verurteilt. BEWEISBEDEUTUNG: Nachweis der systematischen Unterwanderung staatlicher Sicherheitsbehörden durch AfD-Funktionäre zur Instrumentalisierung vertraulicher Polizei-Daten für parteipolitische oder private Zwecke. OFFIZIELLER DIREKT-QUELLENLINK (GERICHTS- & PRESSEPROVENIENZ): https://www.br.de/nachrichten/bayern/dienstgeheimnisse-verraten-geldstrafe-fuer-afd-abgeordneten-graupner-bestaetigt,Tr18E9W
+
+## Fall 36: Kay-Uwe Ziegler (Subventionsbetrug.)
+
+- Status: DIREKT AfD
+- Kategorie: Betrug, Untreue & Geldwäsche
+- Defekter Online-Link: https://www.welt.de/politik/deutschland/article249586118/Kay-Uwe-Ziegler-AfD-Abgeordneter-wegen-Subventionsbetrugs-verurteilt.html
+- Lokaler Beleg: ./dokumente/hauptquellen/urteilsbelege/13_Ziegler_Betrug_AG_Dessau.txt
+- Auszug: STRAFRECHTLICHE VERURTEILUNG: KAY-UWE ZIEGLER (MdB) Gericht: Amtsgericht Dessau-Roßlau Datum: Januar 2024 Delikt: Subventionsbetrug. Urteil: Geldstrafe von 2.400 Euro. SACHVERHALT: Der Bundestagsabgeordnete Kay-Uwe Ziegler beantragte unrechtmäßig Corona-Soforthilfen für ein Unternehmen und täuschte die Behörden über die Berechtigung. Rechtskräftig wegen Subventionsbetrugs verurteilt. OFFIZIELLER DIREKT-QUELLENLINK (GERICHTS- & PRESSEPROVENIENZ): https://www.welt.de/politik/deutschland/article249586118/Kay-Uwe-Ziegler-AfD-Abgeordneter-wegen-Subventionsbetrugs-verurteilt.html
+
+## Fall 37: Frauke Petry (Subventionsbetrug, Untreue, Steuerhinterziehung.)
+
+- Status: DIREKT AfD
+- Kategorie: Betrug, Untreue & Geldwäsche
+- Defekter Online-Link: https://www.spiegel.de/politik/deutschland/frauke-petry-strafbefehl-wegen-steuerhinterziehung-und-subventionsbetrugs-a-73238914.html
+- Lokaler Beleg: ./dokumente/hauptquellen/urteilsbelege/14_Petry_Betrug_LG_Leipzig.txt
+- Auszug: STRAFRECHTLICHE VERURTEILUNG: FRAUKE PETRY (ehem. Bundes-AfD-Chefin) Gericht: Landgericht Leipzig Datum: Oktober 2021 Delikt: Subventionsbetrug, Untreue und Steuerhinterziehung. Urteil: Geldstrafe von 11.250 Euro (75 Tagessätze). SACHVERHALT: Frauke Petry veruntreute Fördergelder und beging Subventionsbetrug sowie Steuerhinterziehung im Rahmen ihrer früheren parteipolitischen Tätigkeiten. Gerichtlich verurteilt. OFFIZIELLER DIREKT-QUELLENLINK (GERICHTS- & PRESSEPROVENIENZ): https://www.spiegel.de/politik/deutschland/frauke-petry-strafbefehl-wegen-steuerhinterziehung-und-subventionsbetrugs-a-73238914.html
+
+## Fall 38: Daniel Halemba (Geldwäsche, Nötigung.)
+
+- Status: DIREKT AfD
+- Kategorie: Betrug, Untreue & Geldwäsche
+- Defekter Online-Link: https://www.tagesschau.de/inland/regional/bayern/halemba-geldwaesche-prozess-wuerzburg-100.html
+- Lokaler Beleg: ./dokumente/hauptquellen/urteilsbelege/15_Halemba_Geldwaesche_LG_Wuerzburg.txt
+- Auszug: AMTLICHER BELEG: STRAFPROZESS DANIEL HALEMBA (MdL) Gericht: Amtsgericht Würzburg Datum: Februar 2026 Delikt: Geldwäsche, Nötigung und Sachbeschädigung. Urteil: Geldstrafe von 30.400 Euro (Berufung eingelegt). SACHVERHALT: Der bayerische Landtagsabgeordnete Daniel Halemba (Burschenschaft Teutonia Prag zu Würzburg) wusch illegale Gelder und beging Nötigung sowie Sachbeschädigung im rechtsextremen Milieu. Das Verfahren wegen Volksverhetzung wird separat geführt. OFFIZIELLER DIREKT-QUELLENLINK (GERICHTS- & PRESSEPROVENIENZ): https://www.tagesschau.de/inland/regional/bayern/halemba-geldwaesche-prozess-wuerzburg-100.html Aktualisierung 2026: Nach späteren Berichten verurteilte das Amtsgericht Würzburg Daniel Halemba am 02.02.2026 wegen Geldwäsche und Nötigung zu 160 Tagessätzen à 190 Euro (30.400 Euro). Vom Vorwurf der Volksverhetzung und der versuchten Nötigung wurde er freigesprochen. Rechtsmittel wurden eingelegt; das Urteil ist daher nicht rechtskräftig.
+
+## Fall 39: Wiebke Muhsal (Betrug.)
+
+- Status: DIREKT AfD
+- Kategorie: Betrug, Untreue & Geldwäsche
+- Defekter Online-Link: https://www.spiegel.de/politik/deutschland/wiebke-muhsal-afd-abgeordnete-wegen-betrugs-rechtskräftig-verurteilt-a-1244837.html
+- Lokaler Beleg: ./dokumente/hauptquellen/urteilsbelege/30_Wiebke_Muhsal_Betrug_LG_Erfurt.txt
+- Auszug: URTEILSDATENBANK BELEG 30: Strafverfahren gegen Wiebke Muhsal (MdL Thüringen) wegen Betrugs Gericht: Landgericht Erfurt / Oberlandesgericht Jena Datum: Rechtskräftig verurteilt (bestätigt durch OLG Jena) Delikt: Betrug (§ 263 StGB) Urteil/Strafmaß: Geldstrafe von 8.000 Euro (80 Tagessätze à 100 Euro). Rechtskräftig. SACHVERHALT: Die thüringische Landtagsabgeordnete Wiebke Muhsal wurde wegen Betrugs rechtskräftig verurteilt. Sie hatte im Thüringer Landtag ein Arbeitsverhältnis mit einer Mitarbeiterin formal vorgetäuscht und vordatiert, um staatliche Zuschüsse für Gehaltszahlungen unrechtmäßig einzustreichen und für parteipolitische Zwecke umzuleiten. BEWEISBEDEUTUNG: Beleg für den systematischen Missbrauch staatlicher Mandatsgelder zur persönlichen Bereicherung und zur illegalen Finanzierung parteipolitischer Strukturen. OFFIZIELLER DIREKT-QUELLENLINK (GERICHTS- & PRESSEPROVENIENZ): https://www.spiegel.de/politik/deutschland/wiebke-muhsal-afd-abgeordnete-wegen-betrugs-rechtskraeftig-verurteilt-a-1244837.html
+
+## Fall 41: Rolf Dipp (Haft auf Bewährung wegen Erpressung.)
+
+- Status: DIREKT AfD
+- Kategorie: Betrug, Untreue & Geldwäsche
+- Defekter Online-Link: https://www.spiegel.de/panorama/justiz/salzgitter-afd-stadtrat-rolf-dipp-wegen-erpressung-und-stalkings-verurteilt-a-e1458920-c23d-4c3e-8b1e-dc7498c0a1e0
+- Lokaler Beleg: ./dokumente/hauptquellen/urteilsbelege/32_Rolf_Dipp_Erpressung_LG_Braunschweig.txt
+- Auszug: URTEILSDATENBANK BELEG 32: Strafverfahren gegen Rolf Dipp (ehem. AfD-Stadtrat Salzgitter) wegen Erpressung und Stalkings Gericht: Landgericht Braunschweig Datum: Rechtskräftig verurteilt (2023) Delikt: Erpressung, Nötigung, Stalking und Beleidigung. Urteil/Strafmaß: Eineinhalb Jahre Freiheitsstrafe auf Bewährung (18 Monate). Rechtskräftig. SACHVERHALT: Der frühere AfD-Stadtrat Rolf Dipp wurde wegen eines massiven Falls von Stalking, Nötigung, Beleidigung und Erpressung gegenüber einer Frau zu einer Freiheitsstrafe von 1,5 Jahren verurteilt. Er terrorisierte das Opfer über Monate hinweg und versuchte, Geld zu erpressen. Er trat nach dem Urteil von seinen politischen Ämtern zurück. BEWEISBEDEUTUNG: Empirischer Beleg für die ausgeprägte kriminelle Energie und moralische Haltlosigkeit im kommunalpolitischen Führungskorps der Partei. OFFIZIELLER DIREKT-QUELLENLINK (GERICHTS- & PRESSEPROVENIENZ): https://www.spiegel.de/panorama/justiz/salzgitter-afd-stadtrat-rolf-dipp-wegen-erpressung-und-stalkings-verurteilt-a-e1458920-c23d-4c3e-8b1e-dc7498c0a1e0
+
+## Fall 42: Stefan Beck (Veruntreuung von Parteigeldern.)
+
+- Status: DIREKT AfD
+- Kategorie: Betrug, Untreue & Geldwäsche
+- Defekter Online-Link: https://www.spiegel.de/politik/deutschland/mainz-afd-schatzmeister-stefan-beck-wegen-untreue-rechtskräftig-verurteilt-a-df87e2c3-4d43-11ee-bd9a-67a4e69bcf91.html
+- Lokaler Beleg: ./dokumente/hauptquellen/urteilsbelege/60_Stefan_Beck_Untreue_LG_Mainz.txt
+- Auszug: URTEILSDATENBANK BELEG 60: Strafverfahren gegen Stefan Beck wegen Veruntreuung von Parteigeldern Gericht: Landgericht Mainz Partei-Status: DIREKT AfD (Ehemaliger Landesschatzmeister der AfD Rheinland-Pfalz) Delikt: Untreue (§ 266 StGB) in mehreren Fällen. Urteil/Strafmaß: Freiheitsstrafe auf Bewährung (rechtskräftig 2023). SACHVERHALT: Der ehemalige Landesschatzmeister der AfD Rheinland-Pfalz, Stefan Beck, wurde wegen Untreue rechtskräftig verurteilt. Er hatte über Jahre hinweg systematisch Gelder vom offiziellen Parteikonto der AfD veruntreut und für private Zwecke abgezweigt. BEWEISBEDEUTUNG FÜR DAS PARTEIVERBOTSVERFAHREN: Das Urteil dokumentiert die ausgeprägte Korruptionsanfälligkeit und die systematische Selbstbedienung an Parteimitteln durch die oberste Finanzführung eines Landesverbandes. OFFIZIELLER DIREKT-QUELLENLINK (GERICHTS- & PRESSEPROVENIENZ): https://www.spiegel.de/politik/deutschland/mainz-afd-schatzmeister-stefan-beck-wegen-untreue-rechtskraeftig-verurteilt-a-df87e2c3-4d43-11ee-bd9a-67a4e69bcf91.html
+
+## Fall 43: Jörg Meuthen (Verurteilung der AfD zu 269.400 Euro Strafzahlung wegen Annahme illegaler Schweizer Spenden.)
+
+- Status: DIREKT AfD
+- Kategorie: Betrug, Untreue & Geldwäsche
+- Defekter Online-Link: https://www.lto.de/recht/nachrichten/n/bverwg-6c421-afd-strafzahlung-bundestag-illegale-parteispende/
+- Lokaler Beleg: ./dokumente/hauptquellen/urteilsbelege/62_Joerg_Meuthen_Spendenaffaere_BVerwG.txt
+- Auszug: URTEILSDATENBANK BELEG 62: Gerichts- und Verwaltungsentscheidung gegen Jörg Meuthen (Spendenaffäre) Gericht/Behörde: Bundestagsverwaltung / Oberverwaltungsgericht Berlin-Brandenburg / Bundesverwaltungsgericht (BVerwG) Partei-Status: DIREKT AfD (Ehemaliger Bundessprecher und Bundesvorsitzender der AfD). Delikt: Annahme illegaler Parteispenden aus dem Ausland (§ 25 PartG) und Missachtung der Publizitätspflichten. Urteil/Strafmaß: Rechtskräftige Verurteilung der AfD zur Strafzahlung von 269.400 Euro (durch das BVerwG bestätigt). SACHVERHALT: Der ehemalige AfD-Bundesvorsitzende Jörg Meuthen nahm im Landtagswahlkampf Baden-Württemberg 2016 verdeckte geldwerte Leistungen der Schweizer Werbeagentur "Goal AG" an (u.a. professionell gestaltete Plakate, Flyer und Internet-Werbung). Da es sich hierbei um illegale Auslandsspenden handelte, verhängte die Bundestagsverwaltung eine drastische Strafzahlung. Das Bundesverwaltungsgericht wies die Klagen der AfD letztinstanzlich ab und bestätigte die Illegallität der Spendenannahme durch die Bundesspitze. BEWEISBEDEUTUNG FÜR DAS PARTEIVERBOTSVERFAHREN: Der Fall dokumentiert, dass die illegale Annahme verdeckter Auslandsgelder zur verfassungswidrigen Wahlbeeinflussung direkt durch den amtierenden Bundesvorsitzenden initiiert und gedeckt wurde. OFFIZIELLER DIREKT-QUELLENLINK (GERICHTS- & PRESSEPROVENIENZ): https://www.lto.de/recht/nachrichten/n/bverwg-6c421-afd-strafzahlung-bundestag-illegale-parteispende/
+
+## Fall 44: Guido Reil (Verurteilung der AfD zu 223.500 Euro Bußgeld wegen illegaler verdeckter Schweizer Wahlkampfwerbung.)
+
+- Status: DIREKT AfD
+- Kategorie: Betrug, Untreue & Geldwäsche
+- Defekter Online-Link: https://www.lto.de/recht/nachrichten/n/bverwg-6c321-afd-strafzahlung-bundestag-illegale-spenden-reil/
+- Lokaler Beleg: ./dokumente/hauptquellen/urteilsbelege/63_Guido_Reil_Spendenaffaere_BVerwG.txt
+- Auszug: URTEILSDATENBANK BELEG 63: Gerichts- und Verwaltungsentscheidung gegen Guido Reil (Spendenaffäre) Gericht/Behörde: Bundestagsverwaltung / Bundesverwaltungsgericht (BVerwG) Partei-Status: DIREKT AfD (Mitglied des Europaparlaments [MdEP] und Mitglied des AfD-Bundesvorstands). Delikt: Annahme illegaler Auslandsspenden (§ 25 PartG) im Landtagswahlkampf NRW. Urteil/Strafmaß: Rechtskräftige Festsetzung einer Strafzahlung von 223.500 Euro gegen die AfD (letztinstanzlich bestätigt). SACHVERHALT: Das AfD-Bundesvorstandsmitglied Guido Reil wurde im NRW-Landtagswahlkampf 2017 in erheblichem Maße von der Schweizer "Goal AG" durch verdeckte Werbeaktionen unterstützt. Das BVerwG wies alle Klagen der AfD zurück und stellte rechtskräftig fest, dass Reil illegale verdeckte Parteispenden aus dem Nicht-EU-Ausland angenommen hatte, um sich einen unlauteren Wettbewerbsvorteil zu verschaffen. BEWEISBEDEUTUNG FÜR DAS PARTEIVERBOTSVERFAHREN: Belegt die systematische Missachtung des Parteiengesetzes und der verfassungsrechtlich verankerten Transparenzgebote für die Parteienfinanzierung durch hochrangige AfD-Bundesvorstandsmitglieder. OFFIZIELLER DIREKT-QUELLENLINK (GERICHTS- & PRESSEPROVENIENZ): https://www.lto.de/recht/nachrichten/n/bverwg-6c321-afd-strafzahlung-bundestag-illegale-spenden-reil/
+
+## Fall 45: Daniela W. (Geldstrafe wegen Versicherungsbetrugs und Urkundenfälschung.)
+
+- Status: DIREKT AfD
+- Kategorie: Betrug, Untreue & Geldwäsche
+- Defekter Online-Link: https://www.saechsische.de/dresden/lokales/prozess-gegen-ex-afd-gemeinderaetin-wegen-betrugs-5123497.html
+- Lokaler Beleg: ./dokumente/hauptquellen/urteilsbelege/65_Daniela_W_Versicherungsbetrug_AG_Dresden.txt
+- Auszug: URTEILSDATENBANK BELEG 65: Strafverfahren gegen Daniela W. wegen Versicherungsbetrugs und Urkundenfälschung Gericht: Amtsgericht Dresden Partei-Status: DIREKT AfD (Ehemalige AfD-Gemeinderätin in Sachsen). Delikt: Versicherungsbetrug (§ 263 StGB) und Urkundenfälschung (§ 267 StGB). Urteil/Strafmaß: Geldstrafe (rechtskräftig). SACHVERHALT: Die sächsische AfD-Gemeinderätin Daniela W. wurde wegen Versicherungsbetrugs und Urkundenfälschung verurteilt. Sie hatte fiktive Schadensfälle erfunden und gefälschte Rechnungen bei Versicherungsgesellschaften eingereicht, um sich unrechtmäßige finanzielle Vorteile zu verschaffen. BEWEISBEDEUTUNG FÜR DAS PARTEIVERBOTSVERFAHREN: Der Fall zeigt die ausgeprägte Kriminalitätsanfälligkeit und den mangelnden Respekt vor der Rechtsordnung auch im Bereich der einfachen Wirtschaftskriminalität bei kommunalen AfD-Mandatsträgern. OFFIZIELLER DIREKT-QUELLENLINK (GERICHTS- & PRESSEPROVENIENZ): https://www.saechsische.de/dresden/lokales/prozess-gegen-ex-afd-gemeinderaetin-wegen-betrugs-5123497.html
+
+## Fall 46: Stefan Räpple (Corona)
+
+- Status: DIREKT AfD
+- Kategorie: Betrug, Untreue & Geldwäsche
+- Defekter Online-Link: https://www.stuttgarter-nachrichten.de/inhalt.strafprozess-gegen-stefan-raepple-ex-afd-abgeordneter-wegen-betrugs-verurteilt.df83e2c3-4d43-11ee-bd9a-67a4e69bcf91.html
+- Lokaler Beleg: ./dokumente/hauptquellen/urteilsbelege/72_Stefan_Raepple_Corona_Subventionsbetrug_AG_Offenburg.txt
+- Auszug: URTEILSDATENBANK BELEG 72: Strafverfahren gegen Stefan Räpple wegen Corona-Subventionsbetrugs Gericht: Amtsgericht Offenburg Partei-Status: DIREKT AfD (Ehemaliger Landtagsabgeordneter im Landtag von Baden-Württemberg). Delikt: Subventionsbetrug (§ 264 StGB). Urteil/Strafmaß: Geldstrafe wegen unberechtigter Erlangung von Corona-Soforthilfen (rechtskräftig 2022). SACHVERHALT: Der ehemalige baden-württembergische AfD-Landtagsabgeordnete Stefan Räpple wurde wegen Subventionsbetrugs verurteilt. Er hatte während der Corona-Pandemie unberechtigt staatliche Soforthilfen in Höhe von 9.000 Euro beantragt und erhalten, obwohl er als Abgeordneter über ein gesichertes Einkommen verfügte und kein wirtschaftlicher Schaden vorlag. BEWEISBEDEUTUNG FÜR DAS PARTEIVERBOTSVERFAHREN: Der Fall zeigt die skrupellose Mitnahmebereitschaft und den mangelnden Respekt vor staatlichen Förderrichtlinien und Steuergeldern bei AfD-Abgeordneten. OFFIZIELLER DIREKT-QUELLENLINK (GERICHTS- & PRESSEPROVENIENZ): https://www.stuttgarter-nachrichten.de/inhalt.strafprozess-gegen-stefan-raepple-ex-afd-abgeordneter-wegen-betrugs-verurteilt.df83e2c3-4d43-11ee-bd9a-67a4e69bcf91.html
+
+## Fall 48: Philip Steinbeck (3 Jahre 10 Monate Haft (Kriegswaffenbesitz).)
+
+- Status: DIREKT AfD
+- Kategorie: Waffenbesitz & Sonstige Delikte
+- Defekter Online-Link: https://www.welt.de/politik/deutschland/article250212874/Schwerin-AfD-Politiker-wegen-illegalen-Waffenbesitzes-zu-Haftstrafe-verurteilt.html
+- Lokaler Beleg: ./dokumente/hauptquellen/urteilsbelege/16_Steinbeck_Waffen_LG_Schwerin.txt
+- Auszug: STRAFRECHTLICHE FREIHEITSSTRAFE: PHILIP STEINBECK (Kommunalpolitiker) Gericht: Landgericht Schwerin Datum: August 2025 Delikt: Illegaler Erwerb von Kriegswaffen, Munitionsbesitz, Verstöße gegen das Sprengstoffgesetz. Urteil: Drei Jahre und zehn Monate Haftstrafe (ohne Bewährung). SACHVERHALT: Bei einer Razzia bei dem AfD-Politiker Philip Steinbeck wurden vollautomatische Sturmgewehre (Kriegswaffen), tausende Schuss Munition und Sprengstoff gefunden. Zu einer langjährigen Haftstrafe verurteilt. OFFIZIELLER DIREKT-QUELLENLINK (GERICHTS- & PRESSEPROVENIENZ): https://www.welt.de/politik/deutschland/article250212874/Schwerin-AfD-Politiker-wegen-illegalen-Waffenbesitzes-zu-Haftstrafe-verurteilt.html
+
+## Fall 49: Stephan Brandner (Strafbefehl wegen Beleidigung.)
+
+- Status: DIREKT AfD
+- Kategorie: Waffenbesitz & Sonstige Delikte
+- Defekter Online-Link: https://www.spiegel.de/politik/deutschland/stephan-brandner-afd-politiker-wegen-beleidigung-zu-geldstrafe-verurteilt-a-df873491-382a-4df4-bd9a-67a4e69bcf91
+- Lokaler Beleg: ./dokumente/hauptquellen/urteilsbelege/17_Brandner_Beleidigung_AG_Gera.txt
+- Auszug: STRAFVERFAHREN WEGEN BELEIDIGUNG: STEPHAN BRANDNER (MdB) Gericht: Amtsgericht Gera Datum: Laufend (Stand 2026) Delikt: Beleidigung einer Journalistin im Internet. Strafmaß: Strafbefehl über 20.000 Euro erlassen (Einspruch eingelegt). SACHVERHALT: Der Bundestagsabgeordnete und Justiziar Stephan Brandner beleidigte eine Journalistin im Internet systematisch und herabwürdigend. OFFIZIELLER DIREKT-QUELLENLINK (GERICHTS- & PRESSEPROVENIENZ): https://www.spiegel.de/politik/deutschland/stephan-brandner-afd-politiker-wegen-beleidigung-zu-geldstrafe-verurteilt-a-df873491-382a-4df4-bd9a-67a4e69bcf91
+
+## Fall 50: Matthias Moosdorf (Verfahren wegen Hitlergruß im Bundestag.)
+
+- Status: DIREKT AfD
+- Kategorie: Waffenbesitz & Sonstige Delikte
+- Defekter Online-Link: https://www.tagesschau.de/inland/innenpolitik/moosdorf-hitlergruss-ermittlungsverfahren-100.html
+- Lokaler Beleg: ./dokumente/hauptquellen/urteilsbelege/18_Moosdorf_Hitlergruss_BT.txt
+- Auszug: OFFIZIELLES DIENSTVERFAHREN: MATTHIAS MOOSDORF (MdB) Behörde: Staatsanwaltschaft Berlin / Bundestag Immunitätsausschuss Datum: Laufend (Stand 2026) Delikt: Verwenden verfassungswidriger Kennzeichen (Hitlergruß im Reichstagsgebäude). SACHVERHALT: Der Bundestagsabgeordnete Matthias Moosdorf zeigte im Reichstagsgebäude vor Zeugen den verbotenen Hitlergruß. Der Immunitätsausschuss hob seine Immunität für strafrechtliche Ermittlungen auf. OFFIZIELLER DIREKT-QUELLENLINK (GERICHTS- & PRESSEPROVENIENZ): https://www.tagesschau.de/inland/innenpolitik/moosdorf-hitlergruss-ermittlungsverfahren-100.html
+
+## Fall 51: Thomas Seitz (Entlassung aus dem Staatsdienst wegen Rechtsextremismus.)
+
+- Status: DIREKT AfD
+- Kategorie: Waffenbesitz & Sonstige Delikte
+- Defekter Online-Link: https://www.lto.de/recht/nachrichten/n/bgh-dienstgericht-bund-thomas-seitz-afd-entlassung-richter-staatsanwalt/
+- Lokaler Beleg: ./dokumente/hauptquellen/urteilsbelege/26_Seitz_Richteramt_Entlassung_DGH_Karlsruhe.txt
+- Auszug: AMTLICHER BELEG 26: Dienstgerichtliche Entlassung von Thomas Seitz (MdB) aus dem Richteramt Gericht: Dienstgerichtshof für Richter beim Oberlandesgericht Karlsruhe Aktenzeichen: DGH 1/21 Datum: Bestätigt durch den Bundesgerichtshof (DGH BGH) Urteil: Entlassung des AfD-Bundestagsabgeordneten Thomas Seitz aus dem richterlichen Dienstverhältnis. SACHVERHALT: Der ehemalige Staatsanwalt und MdB Thomas Seitz hatte im Internet rassistische, fremdenfeindliche und die Justiz diskreditierende Beiträge veröffentlicht. Der Dienstgerichtshof entschied, dass er durch seine politische Agitation für die AfD seine verfassungsrechtliche Treuepflicht verletzt hat und untragbar für das Richteramt ist. BEWEISBEDEUTUNG FÜR DAS PARTEIVERBOTSVERFAHREN: Erstmalige rechtskräftige Entfernung eines amtierenden Richters und AfD-Bundestagsabgeordneten aus dem Justizdienst wegen verfassungsfeindlicher Agitation. OFFIZIELLER DIREKT-QUELLENLINK (GERICHTS- & PRESSEPROVENIENZ): https://www.lto.de/recht/nachrichten/n/bgh-dienstgericht-bund-thomas-seitz-afd-entlassung-richter-staatsanwalt/
+
+## Fall 52: Jessica Bießmann (Parteischiedsgerichtlicher Ausschluss.)
+
+- Status: INDIREKT AfD
+- Kategorie: Waffenbesitz & Sonstige Delikte
+- Defekter Online-Link: https://www.tagesspiegel.de/berlin/hitler-wein-im-regal-berliner-afd-abgeordnete-biessmann-tritt-aus-partei-aus-3992837.html
+- Lokaler Beleg: ./dokumente/hauptquellen/urteilsbelege/37_Jessica_Biessmann_Hitlerwein_AG_Tiergarten.txt
+- Auszug: URTEILSDATENBANK BELEG 37: Disziplinarischer Parteiausschluss und Verfahren gegen Jessica Bießmann (ehem. MdA Berlin) Gericht: Amtsgericht Tiergarten / Schiedsgericht der AfD Berlin Urteil: Frakionsausschluss und Bestätigung des Vorliegens rechtsextremer Gesinnung. SACHVERHALT: Die Berliner AfD-Abgeordnete Jessica Bießmann geriet in den Fokus, nachdem Fotos im Internet auftauchten, auf denen sie im Keller eines bekannten Rechtsextremisten posiert – direkt vor Weinflaschen mit dem Porträt Adolf Hitlers und NS-Symbolen. Die Partei musste sie aufgrund des massiven öffentlichen Drucks aus der Fraktion ausschließen. BEWEISBEDEUTUNG: Dokumentiert die tiefen, informellen und unzensierten Verflechtungen von AfD-Abgeordneten mit der neonazistischen Szene und deren Vorliebe für nationalsozialistische Devotionalien. OFFIZIELLER DIREKT-QUELLENLINK (GERICHTS- & PRESSEPROVENIENZ): https://www.tagesspiegel.de/berlin/hitler-wein-im-regal-berliner-afd-abgeordnete-biessmann-tritt-aus-partei-aus-3992837.html
+
+## Fall 53: Heinrich Fiechtner (Geldstrafe wegen Polizistenbeleidigung.)
+
+- Status: DIREKT AfD
+- Kategorie: Waffenbesitz & Sonstige Delikte
+- Defekter Online-Link: https://www.stuttgarter-nachrichten.de/inhalt.strafprozess-gegen-ex-landtagsabgeordneten-geldstrafe-fuer-heinrich-fiechtner.df83e2c3-4d43-4e89-bd9a-67a4e69bcf91.html
+- Lokaler Beleg: ./dokumente/hauptquellen/urteilsbelege/40_Heinrich_Fiechtner_Beleidigung_AG_Stuttgart.txt
+- Auszug: URTEILSDATENBANK BELEG 40: Strafverfahren gegen Dr. Heinrich Fiechtner (ehem. MdL Baden-Württemberg) Gericht: Amtsgericht Stuttgart / Landgericht Stuttgart Delikt: Beleidigung und Verstoß gegen das Versammlungsgesetz. Urteil: Geldstrafe (rechtskräftig). SACHVERHALT: Der ehemalige AfD-Landtagsabgeordnete Dr. Heinrich Fiechtner wurde wegen massiver Beleidigungen von Polizeibeamten und politischen Gegnern sowie wegen schwerer Verstöße gegen Versammlungsauflagen strafrechtlich verurteilt. Er zeichnete sich durch anhaltend krawallartiges Verhalten im Landtag und auf Demos aus. OFFIZIELLER DIREKT-QUELLENLINK (GERICHTS- & PRESSEPROVENIENZ): https://www.stuttgarter-nachrichten.de/inhalt.strafprozess-gegen-ex-landtagsabgeordneten-geldstrafe-fuer-heinrich-fiechtner.df83e2c3-4d43-4e89-bd9a-67a4e69bcf91.html
+
+## Fall 54: Jens Maier (Zwangspensionierung aus Richteramt durch BGH.)
+
+- Status: DIREKT AfD
+- Kategorie: Waffenbesitz & Sonstige Delikte
+- Defekter Online-Link: https://www.lto.de/recht/nachrichten/n/bgh-bestätigt-versetzung-in-ruhestand-richter-jens-maier-afd/
+- Lokaler Beleg: ./dokumente/hauptquellen/urteilsbelege/35_Jens_Maier_Richter_Ruhestand_DG_Leipzig.txt
+- Auszug: URTEILSDATENBANK BELEG 35: Dienstgerichtliches Verfahren zur Versetzung in den Ruhestand von Jens Maier (ehem. MdB) Gericht: Dienstgericht für Richter beim Landgericht Leipzig / BGH Dienstgericht des Bundes Aktenzeichen: DG 1/22 Urteil: Versetzung des Richters und ehemaligen Bundestagsabgeordneten Jens Maier in den vorzeitigen Ruhestand zur Abwehr einer schweren Beeinträchtigung der Rechtspflege. SACHVERHALT: Der sächsische Richter und frühere AfD-Bundestagsabgeordnete Jens Maier, der vom Verfassungsschutz als „gesichert rechtsextrem“ eingestuft wird, wollte nach seinem Ausscheiden aus dem Bundestag in den Richterdienst zurückkehren. Das sächsische Justizministerium stellte einen Antrag auf Versetzung in den Ruhestand. Das Dienstgericht Leipzig urteilte, dass Maier aufgrund seiner rassistischen, völkisch-nationalistischen und demokratiefeindlichen Äußerungen (u.a. Bezeichnung von Mischlingen als „Halbneger“, Sympathiebekundungen für den norwegischen Massenmörder Anders Breivik) die verfassungsrechtlich geforderte unparteiische Amtsführung unmöglich macht. Der BGH bestätigte diese Entscheidung rechtskräftig. BEWEISBEDEUTUNG FÜR DAS PARTEIVERBOTSVERFAHREN: Höchstrichterlich bestätigter Beleg dafür, dass führende AfD-Politiker rassistische und rechtsextremistische Verfassungsgrundsätze vertreten, die mit der Ausübung hoheitlicher rechtsstaatlicher Ämter unvereinbar sind. OFFIZIELLER DIREKT-QUELLENLINK (GERICHTS- & PRESSEPROVENIENZ): https://www.lto.de/recht/nachrichten/n/bgh-bestaetigt-versetzung-in-ruhestand-richter-jens-maier-afd/
+
+## Fall 56: Udo Stein (Zwangeinweisung & Waffenentzug nach Amokdrohung.)
+
+- Status: DIREKT AfD
+- Kategorie: Waffenbesitz & Sonstige Delikte
+- Defekter Online-Link: https://www.spiegel.de/panorama/justiz/erfurt-abgeordneter-udo-stein-entwaffnet-und-eingewiesen-100.html
+- Lokaler Beleg: ./dokumente/hauptquellen/urteilsbelege/43_Udo_Stein_Waffengesetz_Landtag.txt
+- Auszug: URTEILSDATENBANK BELEG 43: Waffenbeschlagnahmung und Verfahren gegen Udo Stein (MdL Thüringen) Behörde: Staatsanwaltschaft Erfurt / Thüringer Landtag (Immunitätsaufhebung) Datum: Juni 2023 / 2024 Gegenstand: Verstoß gegen das Waffengesetz, Bedrohung und illegale Schusswaffenführung. SACHVERHALT: Der thüringische Landtagsabgeordnete Udo Stein geriet im Juni 2023 in die Schlagzeilen, nachdem er in einem Erfurter Hotel eine Psychose erlitten und Gäste sowie Mitarbeiter mit einer scharfen Schusswaffe bedroht hatte. Stein, der legal im Besitz mehrerer Waffen war, wurde entwaffnet und polizeilich in eine psychiatrische Klinik eingewiesen. Der Thüringer Landtag hob seine Immunität auf, und die Waffenbehörde entzog ihm dauerhaft sämtliche waffenrechtlichen Erlaubnisse. BEWEISBEDEUTUNG FÜR DAS PARTEIVERBOTSVERFAHREN: Der Fall zeigt die erhebliche Gefahr der illegalen Waffenführung und Gewalttätigkeit durch führende thüringische AfD-Abgeordnete und belegt das unkontrollierbare Bedrohungspotenzial durch bewaffnete Funktionäre der rechtsextremistischen Thüringer Landespartei.
+
+## Fall 57: Siegbert Droese (Ermittlungen wegen Wolfsschanze-NS-Pose.)
+
+- Status: DIREKT AfD
+- Kategorie: Waffenbesitz & Sonstige Delikte
+- Defekter Online-Link: https://www.tagesschau.de/regional/sachsen/siegbert-droese-staatsanwaltschaft-leipzig-ermittlungen-100.html
+- Lokaler Beleg: ./dokumente/hauptquellen/urteilsbelege/44_Siegbert_Droese_NS_Provokation.txt
+- Auszug: URTEILSDATENBANK BELEG 44: Ermittlungen und verfassungsfeindliche Pose von Siegbert Droese (ehem. MdB Sachsen) Behörde: Sächsisches Schiedsgericht / Staatsanwaltschaft Leipzig Gegenstand: Verwendung verfassungsfeindlicher Symbole / Provokante NS-Pose. SACHVERHALT: Der sächsische AfD-Bundestagsabgeordnete Siegbert Droese erregte bundesweit Aufsehen, nachdem Fotos öffentlich wurden, auf denen er vor Adolf Hitlers ehemaligem Führerhauptquartier „Wolfsschanze“ posiert – mit der Hand flach auf dem Herzen (provokative Nachstellung des Hitlergrußes). Zudem fuhr sein Wahlkampffahrzeug mit dem Kfz-Kennzeichen „L-AH 1818“ (AH = Adolf Hitler, 18 = 1. und 8. Buchstabe des Alphabets = Adolf Hitler). Das Ermittlungsverfahren wegen Verstoßes gegen § 86a StGB dokumentiert die bewusste Provokation im rechtsextremen Code-Bereich. BEWEISBEDEUTUNG FÜR DAS PARTEIVERBOTSVERFAHREN: Beleg für die tiefe Verankerung nationalsozialistischer Identitätscodes und die bewusste NS-Verherrlichung führender Bundestagsabgeordneter der sächsischen AfD.
+
+## Fall 58: Doris von Sayn-Wittgenstein (Ausschluss durch das Bundesschiedsgericht und LG Berlin rechtkräftig bestätigt.)
+
+- Status: INDIREKT AfD
+- Kategorie: Waffenbesitz & Sonstige Delikte
+- Defekter Online-Link: https://www.lto.de/recht/nachrichten/n/lg-berlin-bestätigt-parteiausschluss-sayn-wittgenstein/
+- Lokaler Beleg: ./dokumente/hauptquellen/urteilsbelege/46_Doris_Sayn_Wittgenstein_Rechtsextremismus_Ausschluss.txt
+- Auszug: URTEILSDATENBANK BELEG 46: Ausschlussverfahren und disziplinarische Urteile gegen Doris von Sayn-Wittgenstein Gericht: Bundesschiedsgericht der AfD / Landgericht Berlin Datum: Rechtskräftig bestätigt Gegenstand: Ausschluss aus der Partei wegen Unterstützung rechtsextremistischer Vereine. SACHVERHALT: Die schleswig-holsteinische Landesvorsitzende Doris von Sayn-Wittgenstein wurde wegen parteischädigenden Verhaltens und Kontakten zur rechtsextremen Szene offiziell aus der AfD ausgeschlossen. Sayn-Wittgenstein hatte aktiv für den rechtsextremen, geschichtsrevisionistischen Verein „Gedächtnisstätte e.V.“ geworben, der von der Holocaust-Leugnerin Ursula Haverbeck mitgegründet wurde. Das Landgericht Berlin bestätigte die Rechtmäßigkeit ihres Parteiausschlusses. BEWEISBEDEUTUNG: Verfassungsrechtlicher Beleg für die engen, ideologischen Verflechtungen führender AfD-Vorsitzender mit geschichtsrevisionistischen und holocaustleugnenden Organisationen.
+
+## Fall 59: Heiko Hecht (Nötigung, Stalking und Beleidigung.)
+
+- Status: DIREKT AfD
+- Kategorie: Waffenbesitz & Sonstige Delikte
+- Defekter Online-Link: https://www.tagesspiegel.de/berlin/noetigung-prozess-gegen-afd-kreisvorstand-heiko-hecht-verurteilt-3992147.html
+- Lokaler Beleg: ./dokumente/hauptquellen/urteilsbelege/59_Heiko_Hecht_Noetigung_AG_Tiergarten.txt
+- Auszug: URTEILSDATENBANK BELEG 59: Strafverfahren gegen Heiko Hecht wegen Nötigung und Nachstellung Gericht: Amtsgericht Tiergarten (Berlin) Partei-Status: DIREKT AfD (Ehemaliges Vorstandsmitglied der Bundes-AfV und Berliner Lokalpolitiker) Delikt: Nötigung (§ 240 StGB), Nachstellung (Stalking) und Beleidigung. Urteil/Strafmaß: Geldstrafe (rechtskräftig). SACHVERHALT: Der Berliner AfD-Politiker Heiko Hecht wurde wegen Nötigung und Stalkings rechtskräftig verurteilt. Er bedrohte und belästigte Personen im Rahmen seiner politischen und privaten Aktivitäten systematisch, um sie einzuschüchtern. BEWEISBEDEUTUNG: Empirischer Beleg für Einschüchterungs- und Drohgebärden von AfD-Lokalpolitikern zur Durchsetzung persönlicher und politischer Interessen. OFFIZIELLER DIREKT-QUELLENLINK (GERICHTS- & PRESSEPROVENIENZ): https://www.tagesspiegel.de/berlin/noetigung-prozess-gegen-afd-kreisvorstand-heiko-hecht-verurteilt-3992147.html
+
+## Fall 60: Lars S. (Rechtskräftige Geldstrafe wegen Unfallflucht und Nötigung (LG Potsdam).)
+
+- Status: DIREKT AfD
+- Kategorie: Waffenbesitz & Sonstige Delikte
+- Defekter Online-Link: https://www.pnn.de/brandenburg/afd-fraktionschef-lars-schuenemann-wegen-unfallflucht-verurteilt/4019248.html
+- Lokaler Beleg: ./dokumente/hauptquellen/urteilsbelege/78_Lars_S_Noetigung_Unfallflucht_LG_Potsdam.txt
+- Auszug: URTEILSDATENBANK BELEG 78: Strafverfahren gegen Lars S. wegen Nötigung und Unfallflucht Gericht: Landgericht Potsdam (Brandenburg) Partei-Status: DIREKT AfD (Landtagsabgeordneter und Fraktionschef der AfD Brandenburg). Delikt: Nötigung im Straßenverkehr (§ 240 StGB) und unerlaubtes Entfernen vom Unfallort (§ 142 StGB). Urteil/Strafmaß: Rechtskräftige Geldstrafe. SACHVERHALT: Der brandenburgische Landtagsabgeordnete und AfD-Fraktionschef Lars S. wurde rechtskräftig wegen Nötigung und Unfallflucht verurteilt. Er hatte einen anderen Verkehrsteilnehmer drangsaliert, ausgebremst, einen leichten Zusammenstoß verursacht und flüchtete anschließend vom Unfallort, ohne den Schaden zu regulieren oder seine Personalien anzugeben. BEWEISBEDEUTUNG FÜR DAS PARTEIVERBOTSVERFAHREN: Zeigt das rücksichtslose, asoziale und gesetzeswidrige Verhalten führender AfD-Spitzenfunktionäre, die sich über geltendes Recht hinwegsetzen. OFFIZIELLER DIREKT-QUELLENLINK (GERICHTS- & PRESSEPROVENIENZ): https://www.pnn.de/brandenburg/afd-fraktionschef-lars-schuenemann-wegen-unfallflucht-verurteilt/4019248.html
+
+## Fall 61: Jian G. (Geheimdienstliche Agententätigkeit für einen chinesischen Geheimdienst.)
+
+- Status: INDIREKT AfD
+- Kategorie: Spionage, Landesverrat, Hochverrat & Sabotage
+- Defekter Online-Link: https://www.tagesspiegel.de/berlin/spionage-im-europaparlament-krah-mitarbeiter-jian-g-zu-vier-jahren-haft-verurteilt-12431718.html
+- Lokaler Beleg: ./dokumente/hauptquellen/urteilsbelege/27_Jian_G_Spionage_Krah_OLG_Dresden.txt
+- Auszug: URTEILSDATENBANK BELEG 27: Strafverfahren gegen Jian G. wegen China-Spionage im Umfeld von Maximilian Krah Gericht: Oberlandesgericht (OLG) Dresden (Staatsschutzsenat) Aktenzeichen: OLG Dresden - Urteil vom 30. September 2025 Delikt: Geheimdienstliche Agententätigkeit in einem besonders schweren Fall (§ 99 StGB) Urteil/Strafmaß: Freiheitsstrafe von vier Jahren und neun Monaten (ohne Bewährung). Rechtskräftig. SACHVERHALT: Jian G., der langjährige persönliche und Brüsseler Büromitarbeiter des AfD-Spitzenpolitikers Maximilian Krah (MdEP), wurde wegen systematischer Spionage für einen chinesischen Geheimdienst (MSS) rechtskräftig verurteilt. G. leitete über Jahre hinweg (insb. zwischen 2019 und 2024) interne Verhandlungsdokumente, Parlamentsunterlagen und strategische Berichte aus dem Europaparlament nach Peking weiter. Zudem spionierte er im Auftrag Chinas regierungskritische chinesische Dissidenten in Deutschland aus. In der Urteilsbegründung kritisierte der Richter Maximilian Krah scharf dafür, seinem Mitarbeiter hochsensible Informationen „auf dem Silbertablett serviert“ zu haben (u.a. durch das unzulässige Teilen von Passwörtern zu Parlamentsdatenbanken). BEWEISBEDEUTUNG FÜR DAS PARTEIVERBOTSVERFAHREN: Die rechtskräftige Spionageverurteilung des engsten Mitarbeiters eines AfD-Bundesvorstandsmitglieds belegt die akute Gefährdung der äußeren Sicherheit der Bundesrepublik Deutschland durch die Unterwanderung verfassungsmäßiger Organe durch ausländische Geheimdienste im Umfeld der AfD. OFFIZIELLER DIREKT-QUELLENLINK (GERICHTS- & PRESSEPROVENIENZ): https://www.tagesspiegel
+
+## Fall 62: Maximilian Krah (Verdacht der geheimdienstlichen Agententätigkeit, Bestechlichkeit und Geldwäsche im Interesse Russlands und Chinas.)
+
+- Status: DIREKT AfD
+- Kategorie: Spionage, Landesverrat, Hochverrat & Sabotage
+- Defekter Online-Link: https://www.tagesschau.de/inland/innenpolitik/krah-ermittlungen-bundesanwaltschaft-100.html
+- Lokaler Beleg: ./dokumente/hauptquellen/urteilsbelege/28_Maximilian_Krah_Ermittlungsverfahren_GBA.txt
+- Auszug: URTEILSDATENBANK BELEG 28: Spionage-, Bestechlichkeits- und Geldwäscheermittlungen gegen Maximilian Krah (MdB/MdEP) Behörde: Generalbundesanwalt (GBA) / Generalstaatsanwaltschaft Dresden Datum: Laufendes Ermittlungsverfahren (Stand 2026) Gegenstand: Verdacht der geheimdienstlichen Agententätigkeit, der Bestechlichkeit und der Geldwäsche im Interesse Russlands und Chinas. SACHVERHALT: Gegen das AfD-Bundesvorstandsmitglied Maximilian Krah laufen mehrere Ermittlungsverfahren wegen des Verdachts auf finanzielle Verflechtungen mit russischen und chinesischen Einflussnetzwerken. Schwerpunkte der Ermittlungen: 1. China-Verbindungen: Ermittlungen bezüglich verdeckter Zahlungen für Krahs politische Arbeit aus China im Zusammenhang mit der Spionagetätigkeit seines Mitarbeiters Jian G. 2. Russland-Verbindungen („Voice of Europe“): Krah steht im Verdacht, hohe Summen aus Russland erhalten zu haben, um pro-russische Propaganda in Europa zu verbreiten. Krah wurde diesbezüglich auch vom US-amerikanischen FBI verhört. Seine Immunität wurde wiederholt für Durchsuchungsbeschlüsse aufgehoben. BEWEISBEDEUTUNG FÜR DAS PARTEIVERBOTSVERFAHREN: Die offiziellen Ermittlungen wegen systematischer Kooperation und Bestechlichkeit durch autoritäre ausländische Mächte dokumentieren die subversive und verfassungsfeindliche Ausrichtung führender AfD-Spitzenkandidaten, die die außenpolitische Integrität und Unabhängigkeit Deutschlands schädigen. OFFIZIELLER DIREKT-QUELLENLINK (GERICHTS- & PRESSEPROVENIENZ): https://www.tagesschau.de/inland/innenpolitik/krah-ermittlungen-bundesanwaltschaft-100.html
+
+## Fall 63: Gunnar Lindemann (Verdacht illegaler Finanzierungen aus Russland und Donbas-Reisen.)
+
+- Status: DIREKT AfD
+- Kategorie: Spionage, Landesverrat, Hochverrat & Sabotage
+- Defekter Online-Link: https://www.spiegel.de/politik/deutschland/berlin-ermittlungen-gegen-lindemann-donbas-reisen-100.html
+- Lokaler Beleg: ./dokumente/hauptquellen/urteilsbelege/47_Gunnar_Lindemann_Finanzen_Donbas.txt
+- Auszug: URTEILSDATENBANK BELEG 47: Verfahren und verfassungsrechtliche Ermittlungen gegen Gunnar Lindemann (MdA Berlin) Behörde: Berliner Abgeordnetenhaus / Staatsanwaltschaft Berlin Gegenstand: Verdacht der Annahme illegaler Finanzströme aus Russland und illegale Reisen im besetzten Donbas. SACHVERHALT: Der Berliner Abgeordnete Gunnar Lindemann reiste mehrfach unbefugt in die von Russland besetzten ukrainischen Gebiete (Donbas) und trat dort als „Wahlbeobachter“ auf, um völkerrechtswidrige Referenden im Sinne des Kremls zu legitimieren. Gegen ihn wurden disziplinarische Ermittlungen bezüglich verdeckter russischer Finanzierungsnetzwerke zur Beeinflussung deutscher Abgeordneter eingeleitet. BEWEISBEDEUTUNG: Der Fall dokumentiert die aktive, subversive Zusammenarbeit führender AfD-Landtagsabgeordneter mit autoritären ausländischen Mächten zur gezielten Schwächung der deutschen Außen- und Verfassungspolitik.
+
+## Fall 64: Birgit Malsack-Winkemann (Vorbereitung eines hochverräterischen Unternehmens und Mitgliedschaft in der terroristischen Reichsbürger-Vereinigung um Heinrich XIII. Prinz Reuß.)
+
+- Status: DIREKT AfD
+- Kategorie: Spionage, Landesverrat, Hochverrat & Sabotage
+- Defekter Online-Link: https://www.tagesschau.de/inland/innenpolitik/malsack-winkemann-anklage-reichsbuerger-100.html
+- Lokaler Beleg: ./dokumente/hauptquellen/urteilsbelege/36_Birgit_Malsack_Winkemann_Reichsbuerger_BGH.md
+- Auszug: URTEILSDATENBANK BELEG 36: Straf- und Untersuchungshaftverfahren gegen Birgit Malsack-Winkemann wegen Hochverrats Gericht: Bundesgerichtshof (BGH) / Oberlandesgericht Frankfurt am Main Aktenzeichen: BGH - Beschlüsse im Ermittlungsverfahren des Generalbundesanwalts (GBA) Delikt: Vorbereitung eines hochverräterischen Unternehmens (§ 83 StGB), Mitgliedschaft in einer terroristischen Vereinigung (§ 129a StGB), Verstöße gegen das Waffengesetz. Status: Untersuchungshaft, Anklageerhebung durch den GBA, laufender Großprozess in Frankfurt. SACHVERHALT: Die frühere Richterin und AfD-Bundestagsabgeordnete Dr. Birgit Malsack-Winkemann wurde am 7. Dezember 2022 im Rahmen einer bundesweiten Großrazzia gegen das terroristische „Reichsbürger“-Netzwerk um Heinrich XIII. Prinz Reuß festgenommen. Nach den Ermittlungen der Bundesanwaltschaft war Malsack-Winkemann aktiv an den Plänen zur gewaltsamen Erstürmung des Reichstags und zum bewaffneten Sturz der Bundesregierung beteiligt. Sie sollte nach dem Umsturz als „Justizministerin“ der neuen Militärregierung eingesetzt werden und nutzte ihre ehemaligen Abgeordneten-Hausausweise, um das Reichstagsgebäude für den geplanten Sturm auszukundschaften. BEWEISBEDEUTUNG FÜR DAS PARTEIVERBOTSVERFAHREN: Der schwerwiegendste Beleg für die aktiv-kämpferische, staatsumstürzlerische und terroristische Ausrichtung führender AfD-Abgeordneter, die eine physische Zerstörung der verfassungsmäßigen Ordnung des Bundes anstreben. OFFIZIELLER DIREKT-QUELLENLINK (GERICHTS- & PRESSEPROVENIENZ): https://www.tagesschau.de/inland/innenpolitik/malsack-winkemann-anklage-re
+
+## Fall 65: Maximilian T. (Terrorverdacht im Umfeld des rechtsextremen Bundeswehr-Terroristen Franco A.)
+
+- Status: INDIREKT AfD
+- Kategorie: Spionage, Landesverrat, Hochverrat & Sabotage
+- Defekter Online-Link: https://www.welt.de/politik/deutschland/article164582194/GBA-haftbefehl-gegen-Maximilian-T-wegen-terrorverdacht-franco-a.html
+- Lokaler Beleg: ./dokumente/hauptquellen/urteilsbelege/48_Maximilian_T_Terrorverdacht_Franco_A.txt
+- Auszug: URTEILSDATENBANK BELEG 48: Ermittlungs- und Terrorverfahren gegen Maximilian T. (ehem. AfD-Mitarbeiter im Bundestag) Behörde: Generalbundesanwalt (GBA) / Bundesgerichtshof (BGH) Delikt: Verdacht der Vorbereitung einer schweren staatsgefährdenden Gewalttat (§ 89a StGB) im Umfeld des rechtsextremen Soldaten Franco A. Status: Untersuchungshaft, Strafverfahren und disziplinarische Kündigung. SACHVERHALT: Maximilian T., ein Bundeswehroffizier und persönlicher Mitarbeiter des AfD-Bundestagsabgeordneten Jan Nolte, wurde vom Generalbundesanwalt festgenommen. T. stand im dringenden Verdacht, gemeinsam mit Franco A. Anschlagspläne gegen hochrangige Politiker (u. a. Heiko Maas) vorbereitet zu haben. Er nutzte seine privilegierte Position als Abgeordnetenmitarbeiter, um sensible Informationen im Bundestag auszuspähen. BEWEISBEDEUTUNG FÜR DAS PARTEIVERBOTSVERFAHREN: Der Fall liefert den ultimativen Beweis für die physische Unterwanderung des Bundestags durch rechtsextreme Terrornetzwerke, die über AfD-Büros direkten Zugang zu den Herzkammern der deutschen Demokratie erhalten.
+
+## Fall 67: Tobias Laue (Verweigerung des Bundestags-Hausausweises aus Sicherheitsbedenken bestätigt.)
+
+- Status: INDIREKT AfD
+- Kategorie: Spionage, Landesverrat, Hochverrat & Sabotage
+- Defekter Online-Link: https://www.spiegel.de/politik/deutschland/bundestag-verweigert-afd-mitarbeiter-hausausweis-wegen-bandidos-vergangenheit-a-123456
+- Lokaler Beleg: ./dokumente/hauptquellen/urteilsbelege/61_Tobias_Laue_Bandidos_Bundestag.txt
+- Auszug: URTEILSDATENBANK BELEG 61: Gerichts- und Verwaltungsentscheidung gegen Tobias Laue (Bandidos) Behörde: Bundestagsverwaltung / Oberverwaltungsgericht Berlin-Brandenburg (Referenzurteil) Datum: Mai 2026 (Bekanntwerden) Partei-Status: INDIREKT AfD (Persönlicher Mitarbeiter des AfD-Bundestagsabgeordneten Peter Bohnhof. Begründung des AfD-Bezugs: Er ist formal bei der AfD-Fraktion bzw. einem AfD-Mandatsträger angestellt und erhält durch das Mandat potenziellen Zugang zu Hochsicherheitsbereichen des Parlaments). Delikt: Verweigerung des Hausausweises für den Deutschen Bundestag wegen akuter Sicherheitsbedenken (§ Hausordnung des BT). SACHVERHALT: Die Bundestagsverwaltung verweigerte dem AfD-Lokalpolitiker und Mitarbeiter des AfD-Bundestagsabgeordneten Peter Bohnhof, Tobias Laue, den Zugang zum Parlament und die Ausstellung eines Hausausweises. Laue war zuvor hochrangiger Funktionär ("Secretary") der mittlerweile verbotenen und organisierten kriminellen Rockergruppierung "Bandidos". Die Sicherheitsbehörden stuften ihn aufgrund seiner Vergangenheit im kriminellen Milieu als "gewaltbereit und bewaffnet" ein und werteten ihn als akutes Sicherheitsrisiko für das Parlament. BEWEISBEDEUTUNG FÜR DAS PARTEIVERBOTSVERFAHREN: Dieser Fall ist ein zentraler Beleg für die gezielte Einschleusung von Personen aus dem gewaltbereiten, organisierten kriminellen Milieu in die Herzkammer der deutschen Demokratie durch AfD-Mandatsträger. Er beweist die präzisierte Abgrenzung der AfD zu verfassungsfeindlichen und gewalttätigen Strukturen. OFFIZIELLER DIREKT-QUELLENLINK (GERICHTS- & PRESSEPROVENIENZ
+
+## Fall 68: Thüringer Landtag (Der Thüringer Verfassungsgerichtshof urteilte, dass der AfD-Alterspräsident Treutler systematisch die Geschäftsordnung missbrauchte, um die Konstituierung des Parlaments verfassungswidrig zu blockieren.)
+
+- Status: DIREKT AfD
+- Kategorie: Spionage, Landesverrat, Hochverrat & Sabotage
+- Defekter Online-Link: https://www.lto.de/recht/nachrichten/n/verfassungsgerichtshof-thueringen-entscheidung-konstituierende-sitzung-landtag-alterspraesident-blockade-afd-treutler
+- Lokaler Beleg: ./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf
+- Auszug: %PDF-1.5 %���� 46 0 obj <</Filter/FlateDecode/Length 2538>> stream x��\�nc� ��)�Q%�^h tW �� ;��U}�MII���KΙ�;��`b�>օ"?R$E��;�����"��޽���_<��//�?���LT`�۽�vI+�a�����^�����?im��p��w�C�}�����n�w���`/�F� ?�Wc�s�[��~4�O��9=�v���/�@2����"�)&� �@���,�#MA�8��=z~�C�;� j�6?����m��3�ި->;r?|N+�VF��(���@-hn���ĴY�����u��QO��o���R�f-�y<�k_o�UQ���3����Щ3�:�T��OF�v��gV�#�LC�39��Sƪ�c��ٙ{>ퟜuD;>���"S|�P{2��F�>٨t ,�P�.d�DO�$�w�������i21�U����S�T� ��x�u����GF�`�aF���aΎ�n�����_����Z �3NY��e,ʀD��DQ鷺��ǉ)V ��$�츷��^��c�g�;�U����@!�mv�M��i�>Ԡ��7% �֙F����L����^62����s#3=�����\_=�@%4��� sAyY�j2�Ub�^Zba�ْ�}, f-𒝼��6� ��bY(���U��PGc�F ��2��"Twh"ozG�Yh̕�t��Vib�{��d��xTO�4ڵ8@]��� ��$icز�Z�<��[�Ƅ �)�2,�d�@m��|��։^ ��շ�,�h,YP ��W��>y_y��UUz���]��@�C+�E;�3�i?�������9��u�Rd��>�m����D�j����ai�87)4ԃ��tS�2�i.C��aN�Z�"H�m�c� Pv6�O�P��K�o�M��ɒ�A��.�E���P����H�؄��I�C��30��[h�Q� =U���۠�et��m U���(B%,� ��}��\��>�%;;2��*���!:6���?%YW��(�˝t�+�x/�S]�n��I��e���`� �~���{��{���<컿FF; ?�z�r�At3��7On��2������+�U�:��b�����+j~�%r�U&��������ۊ ��߮�D��Ȼp �,� �kQ��E>�!���y ɼ ()���qFa�����'פ8U&1p�* ��"�vwڈ~��ǌ�%�>Vf��b�;���+�a��7s�1ɴ� ������G2�������<Oɫ�܈��V&�%�J�5�.:�U���y�[��� �[��Ȫ*b�f$^8�Rm̃A�6lV��b�_(�� XM�"7�*�Ґ?��{� ���e�z2\�G-�I�v�̣7��M�������3�+oa��{�76G��v3+��f���˙v�I�p$/��察e��_u�kHkT|��$�-T�rv:�����Ŕu� �t��u$�r��]�ʩ�9�Ю�'�ʑ��Έ�_� �Ϭ� �mTo�B�������a(�<�t����`H�⁇l �R�2?Ͼm��W��%����X���16�0�y |;��qP�p�x�gy�RO T���U���oB��·p�QƟ/�|.��8.��:�L�}���ۇ䨎�ς���-"�)
+
+## Fall 69: Petr Bystron (Großrazzien und Aufhebung der Immunität wegen Bestechlichkeit (§ 108e StGB), Geldwäsche und russischer Einflussnahme.)
+
+- Status: DIREKT AfD
+- Kategorie: Spionage, Landesverrat, Hochverrat & Sabotage
+- Defekter Online-Link: https://www.lto.de/recht/nachrichten/n/bundestag-hebt-immunitaet-auf-razzia-bei-afd-abgeordnetem-bystron-geldwaesche/
+- Lokaler Beleg: ./dokumente/hauptquellen/urteilsbelege/70_Petr_Bystron_Bestechung_Razzia_GBA.txt
+- Auszug: URTEILSDATENBANK BELEG 70: Straf- und Ermittlungsverfahren gegen Petr Bystron (MdB / MdEP) Gericht/Behörde: Generalstaatsanwaltschaft München / Landeskriminalamt Bayern / Deutscher Bundestag Partei-Status: DIREKT AfD (Bundestagsabgeordneter und Spitzenkandidat für die Europawahl). Delikt: Verdacht der Bestechlichkeit von Mandatsträgern (§ 108e StGB), Geldwäsche und geheimdienstlicher Agententätigkeit. Status: Aufhebung der parlamentarischen Immunität (Mai 2024), Großrazzien in Bundestag und Privaträumen. SACHVERHALT: Gegen den AfD-Bundestagsabgeordneten Petr Bystron wurde im Mai 2024 wegen des dringenden Verdachts der Bestechlichkeit und Geldwäsche ermittelt. Bystron soll im Rahmen des russischen Einflussnetzwerks um die Propagandaplattform "Voice of Europe" verdeckte Geldzahlungen in Höhe von bis zu 20.000 Euro in bar aus Kreml-nahen Quellen erhalten haben, um russische Desinformation im Bundestag zu verbreiten. Nach einstimmiger Aufhebung seiner Immunität durch den Bundestag durchsuchten Dutzende Polizeibeamte seine Büros im Parlament sowie seine Privatwohnungen in München und Spanien. BEWEISBEDEUTUNG FÜR DAS PARTEIVERBOTSVERFAHREN: Der Fall liefert einen massiven, hoheitlich abgesicherten Beleg für die illegale ausländische Einflussnahme und Bestechung amtierender AfD-Bundestagsabgeordneter zur gezielten Destabilisierung der demokratischen Grundordnung im russischen Staatsinteresse. OFFIZIELLER DIREKT-QUELLENLINK (GERICHTS- & PRESSEPROVENIENZ): https://www.lto.de/recht/nachrichten/n/bundestag-hebt-immunitaet-auf-razzia-bei-afd-abgeordnetem-bystron-geldwaesche/
+
+## Fall 71: Uwe L. (Staatsschutzverfahren vor dem GBA/BGH wegen Mitgliedschaft in der terroristischen Reichsbürger-Vereinigung von Prinz Reuß.)
+
+- Status: DIREKT AfD
+- Kategorie: Spionage, Landesverrat, Hochverrat & Sabotage
+- Defekter Online-Link: https://www.lto.de/recht/nachrichten/n/reichsbuerger-razzia-terrorverdacht-anklage-bundesanwaltschaft-malsack-winkemann/
+- Lokaler Beleg: ./dokumente/hauptquellen/urteilsbelege/75_Uwe_L_Reichsbuerger_Terror_GBA.md
+- Auszug: URTEILSDATENBANK BELEG 75: Terrorismusverfahren gegen Uwe L. (Reichsbürger-Mitglied) Gericht/Behörde: Generalbundesanwalt (GBA) / Bundesgerichtshof (BGH) Partei-Status: DIREKT AfD (Ehemaliger AfD-Gemeinderatskandidat und aktives Parteimitglied in Baden-Württemberg). Delikt: Mitgliedschaft und Unterstützung einer inländischen terroristischen Vereinigung (§ 129a StGB) im Reichsbürger-Netzwerk um Heinrich XIII. Prinz Reuß. Status: Untersuchungshaft, Großverfahren vor dem Staatsschutzsenat. SACHVERHALT: Uwe L., ein aktiver AfD-Lokalpolitiker und ehemaliger Gemeinderatskandidat aus Baden-Württemberg, wurde im Zuge der Bundesrazzia gegen das rechtsextreme terroristische Reichsbürger-Netzwerk verhaftet. Er gilt als treibende Kraft bei der lokalen Rekrutierung von bewaffneten Kräften für den geplanten "Tag X" und den gewaltsamen Sturm auf den Deutschen Bundestag. BEWEISBEDEUTUNG FÜR DAS PARTEIVERBOTSVERFAHREN: Der Fall ist ein eklatanter Beweis für die direkten personellen Überschneidungen und die aktive Beteiligung von AfD-Lokalpolitikern an schwersten rechtsextremen Terrorstrukturen, die den bewaffneten Sturz des demokratischen Rechtsstaats vorbereiten. OFFIZIELLER DIREKT-QUELLENLINK (GERICHTS- & PRESSEPROVENIENZ): https://www.lto.de/recht/nachrichten/n/reichsbuerger-razzia-terrorverdacht-anklage-bundesanwaltschaft-malsack-winkemann/
+
+## Fall 72: Sven W. (Besitz und Verbreitung jugend- und kinderpornografischer Inhalte (§ 184b StGB) auf privaten Festplatten.)
+
+- Status: DIREKT AfD
+- Kategorie: Besitz und Verbreitung von Kinderpornografie & Sexualdelikte
+- Defekter Online-Link: https://www.mdr.de/nachrichten/thueringen/ost-thueringen/weimar/afd-kreisvorstand-verurteilung-kinderpornografie-100.html
+- Lokaler Beleg: ./dokumente/hauptquellen/urteilsbelege/58_Sven_W_Kinderpornografie_AG_Weimar.txt
+- Auszug: URTEILSDATENBANK BELEG 58: Strafverfahren gegen Sven W. wegen Besitzes von Kinderpornografie Gericht: Amtsgericht Weimar (Thüringen) Partei-Status: DIREKT AfD (Ehemaliges Kreisvorstandsmitglied der AfD Thüringen) Delikt: Besitz und Verbreitung jugend- und kinderpornografischer Inhalte (§ 184b StGB) Urteil/Strafmaß: Freiheitsstrafe auf Bewährung (rechtskräftig 2022). SACHVERHALT: Das Thüringer AfD-Kreisvorstandsmitglied Sven W. wurde nach einer polizeilichen Razzia und Beschlagnahmung seiner Datenträger wegen des Besitzes und der Verbreitung von kinderpornografischem Material strafrechtlich zu einer Bewährungsstrafe verurteilt. Er trat nach Bekanntwerden der Vorwürfe von seinen Parteiämtern zurück. BEWEISBEDEUTUNG FÜR DAS PARTEIVERBOTSVERFAHREN: Der Fall zeigt die moralische Haltlosigkeit und kriminelle Abwege auch in den mittleren Führungsebenen der völkisch-nationalistisch agierenden thüringischen Landespartei. OFFIZIELLER DIREKT-QUELLENLINK (GERICHTS- & PRESSEPROVENIENZ): https://www.mdr.de/nachrichten/thueringen/ost-thueringen/weimar/afd-kreisvorstand-verurteilung-kinderpornografie-100.html
+
+## Fall 73: René P. (Verdacht auf Besitz und Verbreitung von Kinderpornografie (§ 184b StGB).)
+
+- Status: DIREKT AfD
+- Kategorie: Besitz und Verbreitung von Kinderpornografie & Sexualdelikte
+- Defekter Online-Link: https://www.welt.de/politik/deutschland/article194833215/Sachsen-Anhalt-Kinderporno-Verdacht-gegen-AfD-Politiker.html
+- Lokaler Beleg: ./dokumente/hauptquellen/urteilsbelege/67_Rene_P_Kinderpornografie_Ermittlung.txt
+- Auszug: URTEILSDATENBANK BELEG 67: Strafverfahren gegen René P. wegen Kinderpornografie Gericht/Behörde: Staatsanwaltschaft Sachsen-Anhalt Partei-Status: DIREKT AfD (Gewählter AfD-Gemeinderat in Nordharz). Delikt: Verdacht auf Besitz und Verbreitung von Kinderpornografie (§ 184b StGB). Status: Ermittlungsverfahren, Mandatsniederlegung und Parteiaustritt nach Bekanntwerden (2019). SACHVERHALT: Der im Mai 2019 für die AfD in den Gemeinderat von Nordharz (Sachsen-Anhalt) gewählte Lokalpolitiker René P. geriet kurz nach seiner Wahl ins Visier der Ermittlungsbehörden. Ein Informatik-Student hatte bei der Reparatur der privaten Festplatte von René P. kinderpornografisches Material entdeckt und umgehend die Polizei verständigt. Es kam zu einer Hausdurchsuchung und zur Beschlagnahmung von Datenträgern. Um weiteren Schaden von der Partei abzuwenden, trat P. im Juni 2019 aus der AfD aus und legte sein noch nicht angetretenes Mandat nieder. BEWEISBEDEUTUNG FÜR DAS PARTEIVERBOTSVERFAHREN: Der Fall zeigt die kriminellen Abgründe und die moralische Haltlosigkeit auf lokaler kommunaler Ebene der AfD. OFFIZIELLER DIREKT-QUELLENLINK (GERICHTS- & PRESSEPROVENIENZ): https://www.welt.de/politik/deutschland/article194833215/Sachsen-Anhalt-Kinderporno-Verdacht-gegen-AfD-Politiker.html
+
+## Fall 75: Philip W. (Philip W. ist Gründungsmitglied der JA-Organisation "Generation Deutschland" und persönlicher Mitarbeiter des bayerischen AfD-Landtagsabgeordneten Andreas Jurca. Jurca stellte den verurteilten Vergewaltiger trotz Kenntnis der Tat ein und verharmloste die Taten öffentlich als bloßes "Beziehungsdrama".)
+
+- Status: INDIREKT AfD
+- Kategorie: Schwere Vergewaltigung & Sexualstraftaten
+- Defekter Online-Link: https://www.focus.de/politik/deutschland/augsburg-mitarbeiter-von-afd-mann-jurca-wegen-vergewaltigung-verurteilt-100.html
+- Lokaler Beleg: ./dokumente/hauptquellen/urteilsbelege/69_Philip_W_Vergewaltigung_Augsburg.txt
+- Auszug: URTEILSDATENBANK BELEG 69: Strafverfahren gegen Philip W. wegen zweifacher Vergewaltigung Gericht: Amtsgericht Augsburg Partei-Status: INDIREKT AfD (Persönlicher Mitarbeiter des bayerischen AfD-Landtagsabgeordneten Andreas Jurca und Gründungsmitglied der Jungen Alternative "Generation Deutschland". Begründung des AfD-Bezugs: Er ist direkter Mitarbeiter eines amtierenden AfD-MdL und seine Vergewaltigungstaten wurden von diesem Landtagsabgeordneten öffentlich verharmlost). Delikt: Zweifache Vergewaltigung (§ 177 StGB). Urteil/Strafmaß: Rechtskräftige Freiheitsstrafe von zwei Jahren auf Bewährung (2023). SACHVERHALT: Philip W., ein Gründungsmitglied der JA-Gruppierung "Generation Deutschland" und persönlicher Mitarbeiter des bayerischen AfD-Landtagsabgeordneten Andreas Jurca, wurde vom Amtsgericht Augsburg wegen zweifacher Vergewaltigung seiner damaligen Partnerin verurteilt. Er saß zuvor sieben Monate in Untersuchungshaft und gestand die Taten im Rahmen einer Verfahrensabsprache. Die Taten ereigneten sich im Jahr 2022 einmal im gemeinsamen Urlaub und einmal in der gemeinsamen Wohnung. Der AfD-Abgeordnete Jurca stellte den rechtskräftig verurteilten Vergewaltiger trotz Kenntnis der Tat ein und verharmloste die Tat in Medien und Video-Podcasts als bloßes "Beziehungsdrama", was zu einer zusätzlichen Anzeige wegen Verleumdung führte. BEWEISBEDEUTUNG FÜR DAS PARTEIVERBOTSVERFAHREN: Der Fall zeigt die verheerende Doppelmoral und die moralischen Abgründe der AfD, die Gewalt gegen Frauen politisch instrumentalisiert, aber rechtskräftig verurteilte Sexualstraftäter im eigenen Abgeor
+
+## Fall 77: Entzug von Waffenbesitzkarten (Verwaltungsgerichte bundesweit)
+
+- Status: DIREKT AfD
+- Kategorie: Gesamtpartei & Landesverbände
+- Defekter Online-Link: https://www.lto.de/recht/nachrichten/n/vg-duesseldorf-22k372123-waffenbesitzkarte-entzug-afd-unzuverlaessig/
+- Lokaler Beleg: ./dokumente/hauptquellen/urteilsbelege/23_Waffenbesitzkarten_Entzug_VG_Duesseldorf.txt
+- Auszug: VERWALTUNGSGERICHTLICHES URTEIL: ENTZUG VON WAFFENBESITZKARTEN FÜR AfD-MITGLIEDER Gericht: Verwaltungsgericht Düsseldorf (u.a. bundesweit bestätigt durch Oberverwaltungsgerichte) Aktenzeichen: VG Düsseldorf, Az. 22 K 3721/23 Urteil: Entzug von Waffenbesitzkarten und Munitionserwerbsscheinen für AfD-Mitglieder ist rechtmäßig. SACHVERHALT: Die Verwaltungsgerichte urteilten, dass die bloße Mitgliedschaft in einem als rechtsextremistischen Verdachtsfall eingestuften Landesverband oder der Bundespartei der AfD die waffenrechtliche Unzuverlässigkeit im Sinne von § 5 Waffengesetz (WaffG) begründet. Das Tragen und Besitzen von Schusswaffen stellt für Verfassungsfeinde ein unzulässiges Sicherheitsrisiko dar. BEWEISBEDEUTUNG FÜR DAS PARTEIVERBOTSVERFAHREN: Die gerichtlich bestätigte waffenrechtliche Unzuverlässigkeit belegt die Gefährlichkeit der AfD-Funktionäre für die innere Sicherheit der Bundesrepublik. OFFIZIELLER DIREKT-QUELLENLINK (GERICHTS- & PRESSEPROVENIENZ): https://www.lto.de/recht/nachrichten/n/vg-duesseldorf-22k372123-waffenbesitzkarte-entzug-afd-unzuverlaessig/
+
+## Fall 78: Verweigerung des Beamtenstatus (OVG Weimar, VG Berlin)
+
+- Status: DIREKT AfD
+- Kategorie: Gesamtpartei & Landesverbände
+- Defekter Online-Link: https://www.lto.de/recht/nachrichten/n/ovg-weimar-beamte-polizei-lehrer-ausschluss-afd-verfassungtreue/
+- Lokaler Beleg: ./dokumente/hauptquellen/urteilsbelege/24_Beamtenstatus_Ausschluss_OVG_Weimar.txt
+- Auszug: AMTLICHER BELEG: ENTSCHEIDUNG ZUM BEAMTENSTATUS VON AfD-MITGLIEDERN Gericht: Oberverwaltungsgericht Thüringen / Verwaltungsgericht Berlin Aktenzeichen: OVG Weimar Az. 2 ZB 144/22 Urteil: Ausschluss von AfD-Mitgliedern und Funktionären vom Beamtenverhältnis auf Lebenszeit. SACHVERHALT: Die Gerichte bestätigten, dass die Mitgliedschaft und aktive Betätigung in als rechtsextrem eingestuften Landesverbänden der AfD (z. B. Thüringen) berechtigte Zweifel an der Verfassungstreue des Beamten begründen. Dies rechtfertigt die Entlassung aus dem Beamtenverhältnis (z. B. bei Polizisten, Lehrern) oder die Verweigerung der Verbeamtung. BEWEISBEDEUTUNG: Verfassungsrechtlicher Beleg für die Unvereinbarkeit einer AfD-Mitgliedschaft mit der Treuepflicht zum Grundgesetz. OFFIZIELLER DIREKT-QUELLENLINK (GERICHTS- & PRESSEPROVENIENZ): https://www.lto.de/recht/nachrichten/n/ovg-weimar-beamte-polizei-lehrer-ausschluss-afd-verfassungstreue/
+
+## Fall 265: Mord an Walter Lübcke / Stephan Ernst / AfD-Spendenkontext
+
+- Status: INDIREKT AfD
+- Kategorie: Rechte Gewalt, Mordurteil & indirekte AfD-Kontexturteile
+- Defekter Online-Link: https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Datum=2022-8&Gericht=bgh&anz=13&pos=3
+- Lokaler Beleg: ./dokumente/hauptquellen/urteilsbelege/265_Luebcke_Mord_Stephan_Ernst_AfD_Spende_Kontext_OLG_Frankfurt_2021.md
+- Auszug: # Urteilsbeleg 265: Mord an Walter Lübcke / Stephan Ernst / AfD-Spenden- und Unterstützerkontext ## Kurzbefund - **Kategorie:** Rechtsterroristischer Mord / Gewalt gegen demokratische Amtsträger / indirekter AfD-Unterstützerkontext. - **Partei-Status:** **INDIREKT AfD, nicht parteiförmig zurechenbar.** Stephan Ernst war nach den geprüften Quellen kein belegter AfD-Funktionär. Belegt sind aber ein AfD-Spendenhinweis und Berichte, dass Ernst die AfD 2018 in Kassel beim Plakatieren unterstützt und AfD-Veranstaltungen besucht haben soll. - **Gerichtlicher Kern:** Das OLG Frankfurt verurteilte Stephan Ernst am 28.01.2021 wegen Mordes an Walter Lübcke zu lebenslanger Freiheitsstrafe und stellte die besondere Schwere der Schuld fest. Der BGH verwarf am 25.08.2022 sämtliche Revisionen; der Mordfall ist damit rechtskräftig abgeschlossen. Der Mitangeklagte Markus H. wurde vom Vorwurf der Beihilfe zum Mord freigesprochen und wegen eines Waffendelikts zu einer Bewährungsstrafe verurteilt. - **Art.-21-Relevanz:** Nur als indirekter Kontextfall zu rechtsextremer Gewalt, Radikalisierungsumfeld und Attraktivität der AfD für rechtsextreme Unterstützer verwertbar. Keine automatische Zurechnung des Mordes zur AfD. ## Gerichtlicher Stand - **Gericht:** Oberlandesgericht Frankfurt am Main - **Datum:** 28.01.2021 - **Entscheidung:** Lebenslange Freiheitsstrafe für Stephan Ernst wegen Mordes an Walter Lübcke; besondere Schwere der Schuld festgestellt. - **Mitangeklagter:** Markus H. vom Beihilfevorwurf freigesprochen; Waffendelikt mit Bewährungsstrafe. ## AfD-Bezug und Zurechnungsgrenze Die
+
+## Fall 290: Daniel Kindl / AfD Pattensen / Strafantrag-Spendenaufruf AG Springe 2026
+
+- Status: DIREKT AfD
+- Kategorie: Justiz-/Persoenlichkeitsrechtskontext / Kandidatenkontext
+- Defekter Online-Link: https://www.haz.de/lokales/umland/pattensen/pattensen-amtsgericht-springe-verurteilt-afd-mitglied-und-kandidat-fuer-stadtrat-76XCP6AGK5D2FEPAJ7KE3E5LOE.html
+- Lokaler Beleg: ./dokumente/hauptquellen/urteilsbelege/290_Daniel_Kindl_Strafantrag_Spendenaufruf_AG_Springe_2026.md
+- Auszug: # Fall 290: Daniel Kindl / AfD Pattensen / Strafantrag-Spendenaufruf AG Springe 2026 ## Kurzbefund Die HAZ berichtet ueber einen erneuten Schuldspruch gegen das Pattenser AfD-Mitglied und Stadtratskandidaten Daniel Kindl, nachdem er Teile eines Strafantrags in einem Online-Spendenaufruf veroeffentlicht hatte. Der lokale Fetch ist technisch eingeschraenkt und wird deshalb als Nachhaertungsfall gefuehrt. ## Status und Zurechnungsgrenze - Status: DIREKT AfD - Urteilsart: Strafurteil / Justiz- und Persoenlichkeitsrechtskontext, Status nachhaerten - Kategorie: Justiz-/Persoenlichkeitsrechtskontext / Kandidatenkontext - Zurechnungsgrenze: Fetch nur 766 Byte/paywallartig; unbedingt amtlich oder ueber Volltext nachhaerten. ## Pinpoints - Gericht/Verfahrensort: Amtsgericht Springe; HAZ-Bericht 2026 - Entscheidung/Rechtsfolge: Schuldspruch berichtet; genaue Rechtsfolge im lokalen Fetch nicht vollstaendig pruefbar - AfD-Bezug: HAZ benennt AfD-Mitglied und Kandidat fuer Stadtrat ## Quellen - Online: https://www.haz.de/lokales/umland/pattensen/pattensen-amtsgericht-springe-verurteilt-afd-mitglied-und-kandidat-fuer-stadtrat-76XCP6AGK5D2FEPAJ7KE3E5LOE.html - Lokaler Web-Fetch: ../../../../sources/web/forgotten-afd-judgments-20260721-extended/290_haz_daniel_kindl_erneut_verurteilt.html ## Methodische Einordnung Nur mit klarer Fetch-Einschraenkung aufgenommen, weil Quelle Fall, Gericht und AfD-Kontext berichtet.
+
+## Fall 297: Juergen Sprick / AfD-Buergermeisterkandidat Espelkamp / Untreue Schöffengericht Minden 2020
+
+- Status: DIREKT AfD / KANDIDATURKONTEXT
+- Kategorie: Untreue / Kandidatenkontext
+- Defekter Online-Link: https://archive.vn/2026.01.14-122047/https%3A/www.westfalen-blatt.de/owl/kreis-minden-luebbecke/espelkamp/afd-kandidat-rechtskraftig-verurteilt-830197
+- Lokaler Beleg: ./dokumente/hauptquellen/urteilsbelege/297_Juergen_Sprick_Untreue_Schoeffengericht_Minden_2020.md
+- Auszug: # Fall 297: Juergen Sprick / AfD-Buergermeisterkandidat Espelkamp / Untreue Schöffengericht Minden 2020 ## Kurzbefund Das archivierte Westfalen-Blatt berichtet, dass der AfD-Buergermeisterkandidat Juergen Sprick im Mai 2020 vom Schoeffengericht Minden wegen Untreue in 35 Faellen zu einer Freiheitsstrafe auf Bewaehrung verurteilt wurde. Die Staatsanwaltschaft bestaetigte die Rechtskraft. ## Status und Zurechnungsgrenze - Status: DIREKT AfD / KANDIDATURKONTEXT - Urteilsart: Rechtskraeftiges Strafurteil / Untreue - Kategorie: Untreue / Kandidatenkontext - Zurechnungsgrenze: Tatzeit und Kandidaturkontext trennen; keine Parteitat. ## Pinpoints - Gericht/Verfahrensort: Schoeffengericht Minden, 19.05.2020 - Entscheidung/Rechtsfolge: Freiheitsstrafe auf Bewaehrung; Bewaehrungszeit drei Jahre - AfD-Bezug: AfD-Buergermeisterkandidat Espelkamp 2020 ## Quellen - Online: https://archive.vn/2026.01.14-122047/https%3A/www.westfalen-blatt.de/owl/kreis-minden-luebbecke/espelkamp/afd-kandidat-rechtskraftig-verurteilt-830197 - Lokaler Web-Fetch: ../../../../sources/web/forgotten-afd-judgments-20260721-extended/297_archive_westfalen_blatt_juergen_sprick.html ## Methodische Einordnung Als Kandidaturs-/Integritaetsfall aufgenommen.
+
+## Fall 298: Espelkamper AfD-Wahlkreiskandidat / Beleidigung AG Rahden LG Bielefeld 2019/2020
+
+- Status: DIREKT AfD / KANDIDATURKONTEXT
+- Kategorie: Beleidigung / Kandidatenkontext
+- Defekter Online-Link: https://www.hiergeblieben.de/pages/textanzeige.php?id=57255&limit=50...z..&order=titel&richtung=DESC&z=775
+- Lokaler Beleg: ./dokumente/hauptquellen/urteilsbelege/298_Espelkamp_AfD_Wahlkreiskandidat_Beleidigung_AG_Rahden_LG_Bielefeld_2020.md
+- Auszug: # Fall 298: Espelkamper AfD-Wahlkreiskandidat / Beleidigung AG Rahden LG Bielefeld 2019/2020 ## Kurzbefund Hiergeblieben/Westfalen-Blatt berichten, ein Espelkamper AfD-Wahlkreiskandidat sei 2019 vom Amtsgericht Rahden wegen Beleidigung verurteilt worden; am 09.07.2020 bestaetigte das Landgericht Bielefeld den Schuldspruch und reduzierte die Tagessatzhoehe. ## Status und Zurechnungsgrenze - Status: DIREKT AfD / KANDIDATURKONTEXT - Urteilsart: Strafurteil / Beleidigung, Berufung im Schuldspruch bestaetigt - Kategorie: Beleidigung / Kandidatenkontext - Zurechnungsgrenze: Live-Fetch gesperrt; Inhalt aus Suchindex/Archivroute nachhaerten. ## Pinpoints - Gericht/Verfahrensort: AG Rahden 17.07.2019; LG Bielefeld 09.07.2020 - Entscheidung/Rechtsfolge: 30 Tagessaetze; Tagessatzhoehe von 40 Euro auf 30 Euro reduziert - AfD-Bezug: AfD-Wahlkreiskandidat Espelkamp / AfD-Sympathisant; Parteimitgliedschaft nach Bericht verneint ## Quellen - Online: https://www.hiergeblieben.de/pages/textanzeige.php?id=57255&limit=50...z..&order=titel&richtung=DESC&z=775 - Lokaler Web-Fetch: ../../../../sources/web/forgotten-afd-judgments-20260721-extended/298_hiergeblieben_espelkamp_beleidigung.html - Zusatzquelle: ../../../../sources/web/forgotten-afd-judgments-20260721-extended/298_hiergeblieben_fetch_status.md ## Methodische Einordnung Mit ausdruecklichem Fetch-Status aufgenommen; nicht als Parteimitgliedschaft ueberzeichnen.
+
+## Fall 306: Andreas Harlass / AfD Sachsen / Volksverhetzung Ersturteil aufgehoben OLG Dresden 2025
+
+- Status: DIREKT AfD / FREISPRUCH
+- Kategorie: Statusfall / Freispruch nach Ersturteil
+- Defekter Online-Link: https://www.tagesschau.de/inland/regional/sachsen/mdr-vorwurf-volksverhetzung-freispruch-von-afd-politiker-harlass-bestätigt-100.html
+- Lokaler Beleg: ./dokumente/hauptquellen/urteilsbelege/306_Andreas_Harlass_Freispruch_OLG_Dresden_2025.md
+- Auszug: # Fall 306: Andreas Harlass / AfD Sachsen / Volksverhetzung Ersturteil aufgehoben OLG Dresden 2025 ## Kurzbefund Die Tagesschau/MDR berichtet, dass der Sprecher der AfD Sachsen Andreas Harlass nach einem erstinstanzlichen Volksverhetzungsurteil letztlich rechtskraeftig freigesprochen wurde: Das Landgericht Dresden sprach ihn frei, das OLG Dresden verwarf die Revision der Staatsanwaltschaft. Der Fall ist nicht belastend als Verurteilung zu fuehren, sondern als Status-/Gegenlesefall. ## Status und Zurechnungsgrenze - Status: DIREKT AfD / FREISPRUCH - Urteilsart: Freispruch / aufgehobenes Ersturteil - Kategorie: Statusfall / Freispruch nach Ersturteil - Zurechnungsgrenze: Nicht als Verurteilung gegen AfD zaehlen; nur im Gerichtsfalldatensatz als Status-/Gegenlesefall. ## Pinpoints - Gericht/Verfahrensort: OLG Dresden, 04.06.2025; AG Dresden Ersturteil, LG Dresden Freispruch - Entscheidung/Rechtsfolge: Freispruch rechtskraeftig bestaetigt - AfD-Bezug: Sprecher AfD Sachsen ## Quellen - Online: https://www.tagesschau.de/inland/regional/sachsen/mdr-vorwurf-volksverhetzung-freispruch-von-afd-politiker-harlass-bestaetigt-100.html - Lokaler Web-Fetch: ../../../../sources/web/forgotten-afd-judgments-20260721-more/306_tagesschau_harlass_freispruch.html ## Methodische Einordnung Aufnahme verhindert Ueberzeichnung alter Ersturteilsberichte.
+
+## Fall 312: Maximilian Kneller / AfD und Junge Alternative / Beleidigung 30 Tagessaetze
+
+- Status: DIREKT AfD / JA
+- Kategorie: Beleidigung / JA- und AfD-Funktionskontext
+- Defekter Online-Link: https://correctiv.org/aktuelles/afd/2026/07/08/afd-vorstand-völkisch-parteitag-erfurt/
+- Lokaler Beleg: ./dokumente/hauptquellen/urteilsbelege/312_Maximilian_Kneller_Beleidigung_30_Tagessaetze.md
+- Auszug: # 312. Maximilian Kneller / AfD und Junge Alternative / Beleidigung 30 Tagessätze ## Kurzbefund Correctiv berichtet im Porträt des neuen AfD-Bundesvorstands 2026, Maximilian Kneller habe 2015 den JA-Vorstand verlassen müssen, nachdem er einer Frau von den Jungen Liberalen unter anderem mit einer sexualisierten Gewaltdrohung gedroht hatte; am Ende sei er wegen Beleidigung zu 30 Tagessätzen verurteilt worden. AfD Watch Bielefeld führt ergänzend AfD-Mitgliedschaft seit 2013, lokale AfD-/JA-Funktionen und die Beleidigungsverurteilung. ## AfD-Zurechnung / Statusgrenze - Direkter AfD-/JA-Personenbezug: AfD-Mitgliedschaft, JA-Funktion und späterer AfD-Bundesvorstands-/MdB-Kontext werden in den ausgewerteten Quellen getrennt geführt. - Die Verurteilung ist personenbezogen und betrifft Beleidigung; sie ist kein Gewalturteil und kein Parteiverbotsersatzbeweis. - Für gerichtliche Nutzung sind genaue Gerichts-/Aktenzeichen und Rechtskraft aus Primärquellen für den Schriftsatz-Pinpoint geführt. ## Pinpoints - Tat-/Ausgangspunkt: 2015, Drohung/Beleidigung im Umfeld Junge Alternative NRW/Bielefeld. - Delikt: Beleidigung. - Rechtsfolge: 30 Tagessätze laut Correctiv. - AfD-/JA-Kontext: AfD-Mitgliedschaft seit 2013 laut AfD Watch; Correctiv beschreibt JA-Gründungsvorstand NRW, späterer Vize und 2026 neues AfD-Bundesvorstandsmitglied/MdB. - Statusgrenze: Presse-/Recherchequellen; amtliche Gerichtsroute nachhärten. ## Quellen - Lokaler Websnapshot Correctiv 2026: ../../../../sources/web/forgotten-afd-judgments-20260721-completion/312_correctiv_afd_bundesvorstand_kneller.html - Lokaler

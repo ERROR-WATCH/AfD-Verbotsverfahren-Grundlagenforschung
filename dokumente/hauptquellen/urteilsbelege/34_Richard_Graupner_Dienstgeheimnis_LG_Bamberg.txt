@@ -10,4 +10,4 @@ BEWEISBEDEUTUNG:
 Nachweis der systematischen Unterwanderung staatlicher Sicherheitsbehörden durch AfD-Funktionäre zur Instrumentalisierung vertraulicher Polizei-Daten für parteipolitische oder private Zwecke.
 
 OFFIZIELLER DIREKT-QUELLENLINK (GERICHTS- & PRESSEPROVENIENZ):
-https://www.br.de/nachrichten/bayern/dienstgeheimnisse-verraten-geldstrafe-fuer-afd-abgeordneten-graupner-bestaetigt,Tr18E9W
+https://www.sueddeutsche.de/bayern/schweinfurt-landgericht-afd-richard-graupner-1.5704742

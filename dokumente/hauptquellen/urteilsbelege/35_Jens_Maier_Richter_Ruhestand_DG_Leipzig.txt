@@ -10,4 +10,4 @@ BEWEISBEDEUTUNG FÜR DAS PARTEIVERBOTSVERFAHREN:
 Höchstrichterlich bestätigter Beleg dafür, dass führende AfD-Politiker rassistische und rechtsextremistische Verfassungsgrundsätze vertreten, die mit der Ausübung hoheitlicher rechtsstaatlicher Ämter unvereinbar sind.
 
 OFFIZIELLER DIREKT-QUELLENLINK (GERICHTS- & PRESSEPROVENIENZ):
-https://www.lto.de/recht/nachrichten/n/bgh-bestaetigt-versetzung-in-ruhestand-richter-jens-maier-afd/
+https://juris.bundesgerichtshof.de/cgi-bin/bgh_notp/document.py?Art=en&Blank=1&Datum=2023-10-5&Gericht=bgh&anz=9&nr=84970&pos=8

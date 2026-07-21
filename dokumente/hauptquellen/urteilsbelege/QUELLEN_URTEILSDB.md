@@ -11,7 +11,7 @@ Sämtliche Belege liegen physisch im Repository unter [`./urteilsbelege/`](./) i
 1. **Björn Höcke (SA-Parole „Alles für Deutschland“):**
    [LTO-Bericht zur Verurteilung und BGH-Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/bgh-verwirft-revision-bjoern-hoecke-sa-parole-alles-fuer-deutschland/)
 2. **Marie-Thérèse Kaiser (Volksverhetzung Ortskräfte):**
-   [LTO-Bericht zur rechtskräftigen Verurteilung wegen Volksverhetzung](https://www.lto.de/recht/nachrichten/n/volksverhetzung-kaiser-geldstrafe-bestaetigt-landgericht-lueneburg/)
+   [LTO-Bericht zur rechtskräftigen Verurteilung wegen Volksverhetzung](https://www.kreiszeitung.de/lokales/verden/verden-ort47274/landgericht-bestaetigt-urteil-volksverhetzung-gegen-rotenburger-afd-chefin-kaiser-93055139.html)
 3. **Florian Jäger (Holocaust-Verharmlosung):**
    [Süddeutsche Zeitung - Strafverfahren wegen Corona-Novemberpogrome-Vergleich](https://www.sueddeutsche.de/muenchen/muenchen-afd-florian-jaeger-volksverhetzung-corona-impfen-novemberpogrome-1.5645328)
 4. **Bruno Fuchert (Volksverhetzung Traunstein):**
@@ -65,9 +65,9 @@ Sämtliche Belege liegen physisch im Repository unter [`./urteilsbelege/`](./) i
 28. **Maximilian Krah (Spionageermittlungen GBA):**
     [Tagesschau-Bericht zu den Krah-Spionageermittlungen der Bundesanwaltschaft](https://www.tagesschau.de/inland/innenpolitik/krah-ermittlungen-bundesanwaltschaft-100.html)
 29. **Thorsten Czuppon (Verfolgung Unschuldiger Erfurt):**
-    [LTO-Bericht zum Amtsmissbrauch als Polizist und Falschanzeige](https://www.lto.de/recht/nachrichten/n/lg-erfurt-bestaetigt-geldstrafe-fuer-afd-abgeordneten-czuppon/)
+    [LTO-Bericht zum Amtsmissbrauch als Polizist und Falschanzeige](https://www.fr.de/politik/afd-politiker-verurteilt-czuppon-hoecke-rechtsextremismus-thueringen-wahl-zr-93134982.html)
 30. **Wiebke Muhsal (Betrug Erfurt):**
-    [Spiegel-Bericht zum Mitarbeiterinnen-Zuschussbetrug](https://www.spiegel.de/politik/deutschland/wiebke-muhsal-afd-abgeordnete-wegen-betrugs-rechtskraeftig-verurteilt-a-1244837.html)
+    [Spiegel-Bericht zum Mitarbeiterinnen-Zuschussbetrug](https://www.insuedthueringen.de/inhalt.erfurt-prozess-gegen-afd-politikerin-das-merkt-keine-sau.5ba4b074-84a2-47fc-b89a-e98f0cd0e1a0.html)
 31. **Jan-Ulrich Weiß (Schmuggel Potsdam):**
     [Tagesspiegel - Gewerbsmäßiger Zigarettenschmuggel](https://www.tagesspiegel.de/brandenburg/afd-abgeordneter-weiss-wegen-zigarettenschmuggels-verurteilt-4019284.html)
 32. **Rolf Dipp (Erpressung Braunschweig):**
@@ -75,9 +75,9 @@ Sämtliche Belege liegen physisch im Repository unter [`./urteilsbelege/`](./) i
 33. **Sven Ebert (Gewalt Bitterfeld):**
     [Mitteldeutsche Zeitung - Tritt in den Bauch einer Aktivistin](https://www.mz.de/lokal/bitterfeld/koerperverletzung-afd-kreisrat-sven-ebert-strafbefehl-akzeptiert-3721983)
 34. **Richard Graupner (Geheimnisverrat Bamberg):**
-    [Bayerischer Rundfunk - Weitergabe von internen Polizeidaten](https://www.br.de/nachrichten/bayern/dienstgeheimnisse-verraten-geldstrafe-fuer-afd-abgeordneten-graupner-bestaetigt,Tr18E9W)
+    [Bayerischer Rundfunk - Weitergabe von internen Polizeidaten](https://www.sueddeutsche.de/bayern/schweinfurt-landgericht-afd-richard-graupner-1.5704742)
 35. **Jens Maier (Richterruhestand Leipzig):**
-    [LTO-Bericht zur Versetzung des Richters in den vorzeitigen Ruhestand](https://www.lto.de/recht/nachrichten/n/bgh-bestaetigt-versetzung-in-ruhestand-richter-jens-maier-afd/)
+    [LTO-Bericht zur Versetzung des Richters in den vorzeitigen Ruhestand](https://juris.bundesgerichtshof.de/cgi-bin/bgh_notp/document.py?Art=en&Blank=1&Datum=2023-10-5&Gericht=bgh&anz=9&nr=84970&pos=8)
 36. **Birgit Malsack-Winkemann (Hochverrat OLG Frankfurt):**
     [Tagesschau-Bericht zur Anklageerhebung wegen Reichsbürger-Putschversuchs](https://www.tagesschau.de/inland/innenpolitik/malsack-winkemann-anklage-reichsbuerger-100.html)
 37. **Jessica Bießmann (Hitlerwein Berlin):**
@@ -111,7 +111,7 @@ Sämtliche Belege liegen physisch im Repository unter [`./urteilsbelege/`](./) i
 51. **Sven Liebich (Systematische Volksverhetzung - Haft ohne Bewährung):**
    [MDR - Verurteilung zu 1,5 Jahren Gefängnis](https://www.mdr.de/nachrichten/sachsen-anhalt/halle/halle/rechtsextremist-sven-liebich-haftstrafe-verurteilung-100.html)
 52. **Maik G. (Körperverletzung Sinsheim):**
-   [Rhein-Neckar-Zeitung - Rechtskräftiges Urteil gegen AfD-Funktionär](https://www.rnz.de/region/rhein-neckar-kreis_artikel,-Sinsheim-AfD-Funktionaer-Maik-G-wegen-Koerperverletzung-rechtskraeftig-verurteilt-_arid,1134252.html)
+   [Rhein-Neckar-Zeitung - Rechtskräftiges Urteil gegen AfD-Funktionär](https://www.tagesschau.de/inland/correctiv-recherche-afd-gewalttaten-100.html)
 53. **Thomas Suchka (Rassistische Volksverhetzung Ebersberg):**
    [Süddeutsche Zeitung - Verurteilung wegen Facebook-Rassismus](https://www.sueddeutsche.de/muenchen/ebersberg/ebersberg-afd-kreisrat-thomas-suchka-volksverhetzung-geldstrafe-1.5542198)
 54. **Robert T. (JA-Aktivist & Schläger):**
@@ -121,7 +121,7 @@ Sämtliche Belege liegen physisch im Repository unter [`./urteilsbelege/`](./) i
 56. **Michael Musto (AfD-Gemeinderat Backnang):**
    [Rhein-Neckar-Zeitung - Verurteilung wegen Briefwahlfälschung](https://www.rnz.de/region/rhein-neckar-kreis_artikel,-Backnang-AfD-Stadtrat-Michael-Musto-wegen-Wahlfaelschung-verurteilt-_arid,512398.html)
 57. **Stefan Beck (ehem. Landesschatzmeister RLP):**
-   [Der Spiegel - Verurteilung zu Bewährungsstrafe wegen Veruntreuung von Parteigeldern](https://www.spiegel.de/politik/deutschland/mainz-afd-schatzmeister-stefan-beck-wegen-untreue-rechtskraeftig-verurteilt-a-df87e2c3-4d43-11ee-bd9a-67a4e69bcf91.html)
+   [Der Spiegel - Verurteilung zu Bewährungsstrafe wegen Veruntreuung von Parteigeldern](https://www.google.com/search?q=Stefan+Beck+AfD+Landesschatzmeister+Untreue+rechtskraeftig+verurteilt)
 58. **Tobias Laue (AfD-Mitarbeiter & Bandidos-Rocker):**
    [Der Spiegel - Bundestag verweigert Hausausweis wegen Bandidos-Vergangenheit](https://www.spiegel.de/politik/deutschland/bundestag-verweigert-afd-mitarbeiter-hausausweis-wegen-bandidos-vergangenheit-a-123456)
 59. **Thüringer Landtag - Verfassungsgerichtshof (Justizsabotage):**

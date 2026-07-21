@@ -11,4 +11,4 @@ BEWEISBEDEUTUNG FÜR DAS PARTEIVERBOTSVERFAHREN:
 Das Urteil dokumentiert die rassistisch und fremdenfeindlich geprägte Agitation hochrangiger Parteifunktionäre, die gezielt gegen die Menschenwürdegarantie (Art. 1 GG) verstößt.
 
 OFFIZIELLER DIREKT-QUELLENLINK (GERICHTS- & PRESSEPROVENIENZ):
-https://www.lto.de/recht/nachrichten/n/volksverhetzung-kaiser-geldstrafe-bestaetigt-landgericht-lueneburg/
+https://www.kreiszeitung.de/lokales/verden/verden-ort47274/landgericht-bestaetigt-urteil-volksverhetzung-gegen-rotenburger-afd-chefin-kaiser-93055139.html

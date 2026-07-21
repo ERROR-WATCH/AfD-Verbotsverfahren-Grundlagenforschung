@@ -11,4 +11,4 @@ BEWEISBEDEUTUNG:
 Beleg für den systematischen Missbrauch staatlicher Mandatsgelder zur persönlichen Bereicherung und zur illegalen Finanzierung parteipolitischer Strukturen.
 
 OFFIZIELLER DIREKT-QUELLENLINK (GERICHTS- & PRESSEPROVENIENZ):
-https://www.spiegel.de/politik/deutschland/wiebke-muhsal-afd-abgeordnete-wegen-betrugs-rechtskraeftig-verurteilt-a-1244837.html
+https://www.insuedthueringen.de/inhalt.erfurt-prozess-gegen-afd-politikerin-das-merkt-keine-sau.5ba4b074-84a2-47fc-b89a-e98f0cd0e1a0.html

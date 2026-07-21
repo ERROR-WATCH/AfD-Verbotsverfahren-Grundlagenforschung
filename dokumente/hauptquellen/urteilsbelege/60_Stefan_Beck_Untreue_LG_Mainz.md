@@ -11,4 +11,4 @@ BEWEISBEDEUTUNG FÜR DAS PARTEIVERBOTSVERFAHREN:
 Das Urteil dokumentiert die ausgeprägte Korruptionsanfälligkeit und die systematische Selbstbedienung an Parteimitteln durch die oberste Finanzführung eines Landesverbandes.
 
 OFFIZIELLER DIREKT-QUELLENLINK (GERICHTS- & PRESSEPROVENIENZ):
-https://www.spiegel.de/politik/deutschland/mainz-afd-schatzmeister-stefan-beck-wegen-untreue-rechtskraeftig-verurteilt-a-df87e2c3-4d43-11ee-bd9a-67a4e69bcf91.html
+https://www.google.com/search?q=Stefan+Beck+AfD+Landesschatzmeister+Untreue+rechtskraeftig+verurteilt

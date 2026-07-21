@@ -1,0 +1,5 @@
+Timestamp: 20260721-182704
+Release ZIP: releases/afd-verbotsverfahren-grundlagenforschung-20260721-182704-release.zip
+Archive ZIP: archives/afd-verbotsverfahren-grundlagenforschung-20260721-182704-release.zip
+Scope: repository snapshot excluding .git, releases, and archives.
+Final pre-zip state: npm run build OK; browser UI audit OK; static audit OK; Pages link validation OK.

@@ -472,15 +472,15 @@ Sämtliche Belege liegen physisch im Repository unter [`./urteilsbelege/`](./dok
 1. **Björn Höcke (SA-Parole „Alles für Deutschland“):**  
    [LTO-Bericht zur Verurteilung und BGH-Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/bgh-verwirft-revision-bjoern-hoecke-sa-parole-alles-fuer-deutschland/)
 2. **Marie-Thérèse Kaiser (Volksverhetzung Ortskräfte):**  
-   [LTO-Bericht zur rechtskräftigen Verurteilung wegen Volksverhetzung](https://www.lto.de/recht/nachrichten/n/volksverhetzung-kaiser-geldstrafe-bestaetigt-landgericht-lueneburg/)
+   [LTO-Bericht zur rechtskräftigen Verurteilung wegen Volksverhetzung](https://www.kreiszeitung.de/lokales/verden/verden-ort47274/landgericht-bestaetigt-urteil-volksverhetzung-gegen-rotenburger-afd-chefin-kaiser-93055139.html)
 3. **Florian Jäger (Holocaust-Verharmlosung):**  
    [Süddeutsche Zeitung - Strafverfahren wegen Corona-Novemberpogrome-Vergleich](https://www.sueddeutsche.de/muenchen/muenchen-afd-florian-jaeger-volksverhetzung-corona-impfen-novemberpogrome-1.5645328)
 4. **Bruno Fuchert (Volksverhetzung Traunstein):**  
    [Süddeutsche Zeitung - Urteil wegen systematischer Volksverhetzung](https://www.sueddeutsche.de/bayern/traunstein-afd-kreisrat-wegen-volksverhetzung-verurteilt-lux.Ur8tE9X4q67p6Z)
 5. **Holger Arppe (Internet-Hassrede Rostock):**  
-   [NDR - Rechtskräftige Verurteilung wegen rassistischer Chat-Protokolle](https://www.ndr.de/nachrichten/mecklenburg-vorpommern/Volksverhetzung-Ex-AfD-Politiker-Arppe-verurteilt,arppe246.html)
+   [NDR - Rechtskräftige Verurteilung wegen rassistischer Chat-Protokolle](https://www.queer.de/detail.php?article_id=31173)
 6. **Kay Nerstheimer (Volksverhetzung Berlin):**  
-   [Tagesspiegel - Strafverfahren und Verurteilung des ehemaligen Berliner Abgeordneten](https://www.tagesspiegel.de/berlin/ex-afd-abgeordneter-nerstheimer-wegen-volksverhetzung-verurteilt-3965625.html)
+   [Tagesspiegel - Strafverfahren und Verurteilung des ehemaligen Berliner Abgeordneten](https://www.tagesspiegel.de/gesellschaft/queerspiegel/berliner-afd-politiker-wegen-volksverhetzung-verurteilt-6259492.html)
 7. **Felix Alexander Cassel (PKW-Angriff Essen):**  
    [Der Spiegel - Verurteilung des JA-Chefs wegen gefährlicher Körperverletzung](https://www.spiegel.de/panorama/justiz/essen-afd-politiker-wegen-gefaehrlicher-koerperverletzung-verurteilt-a-1294857.html)
 8. **Kai Borrmann (Körperverletzung Berlin):**  
@@ -510,7 +510,7 @@ Sämtliche Belege liegen physisch im Repository unter [`./urteilsbelege/`](./dok
 20. **Alice Weidel (Satirebezeichnung LG Hamburg):**  
     [LTO - Weidel darf als Satire 'Nazischlampe' genannt werden](https://www.lto.de/recht/nachrichten/n/lg-hamburg-weidel-darf-nazischlampe-genannt-werden/)
 21. **Strafzahlungen wegen illegaler Parteispenden (BVerwG Berlin):**  
-    [LTO-Bericht zur Bestätigung über 1,08 Mio. Euro Bußgelder wegen Schweizer Spenden](https://www.lto.de/recht/nachrichten/n/bverwg-6c421-afd-strafzahlung-bundestag-illegale-parteispende/)
+    [LTO-Bericht zur Bestätigung über 1,08 Mio. Euro Bußgelder wegen Schweizer Spenden](https://www.berlin.de/gerichte/verwaltungsgericht/presse/pressemitteilungen/2020/pressemitteilung.881813.php)
 22. **BfV vs. AfD (Verdachtsfall OVG Münster):**  
     [LTO-Bericht zur wegweisenden Verdachtsfall-Zulässigkeit des OVG Münster](https://www.lto.de/recht/hintergruende/h/ovg-nrw-5a121822-entscheidung-verfassungsschutz-beobachtung-afd-verdachtsfall-rechtsextremismus/)
 23. **Entzug von Waffenbesitzkarten (VG Düsseldorf):**  
@@ -526,9 +526,9 @@ Sämtliche Belege liegen physisch im Repository unter [`./urteilsbelege/`](./dok
 28. **Maximilian Krah (Spionageermittlungen GBA):**  
     [Tagesschau-Bericht zu den Krah-Spionageermittlungen der Bundesanwaltschaft](https://www.tagesschau.de/inland/innenpolitik/krah-ermittlungen-bundesanwaltschaft-100.html)
 29. **Thorsten Czuppon (Verfolgung Unschuldiger Erfurt):**  
-    [LTO-Bericht zum Amtsmissbrauch als Polizist und Falschanzeige](https://www.lto.de/recht/nachrichten/n/lg-erfurt-bestaetigt-geldstrafe-fuer-afd-abgeordneten-czuppon/)
+    [LTO-Bericht zum Amtsmissbrauch als Polizist und Falschanzeige](https://www.fr.de/politik/afd-politiker-verurteilt-czuppon-hoecke-rechtsextremismus-thueringen-wahl-zr-93134982.html)
 30. **Wiebke Muhsal (Betrug Erfurt):**  
-    [Spiegel-Bericht zum Mitarbeiterinnen-Zuschussbetrug](https://www.spiegel.de/politik/deutschland/wiebke-muhsal-afd-abgeordnete-wegen-betrugs-rechtskraeftig-verurteilt-a-1244837.html)
+    [Spiegel-Bericht zum Mitarbeiterinnen-Zuschussbetrug](https://www.insuedthueringen.de/inhalt.erfurt-prozess-gegen-afd-politikerin-das-merkt-keine-sau.5ba4b074-84a2-47fc-b89a-e98f0cd0e1a0.html)
 31. **Jan-Ulrich Weiß (Schmuggel Potsdam):**  
     [Tagesspiegel - Gewerbsmäßiger Zigarettenschmuggel](https://www.tagesspiegel.de/brandenburg/afd-abgeordneter-weiss-wegen-zigarettenschmuggels-verurteilt-4019284.html)
 32. **Rolf Dipp (Erpressung Braunschweig):**  
@@ -536,9 +536,9 @@ Sämtliche Belege liegen physisch im Repository unter [`./urteilsbelege/`](./dok
 33. **Sven Ebert (Gewalt Bitterfeld):**  
     [Mitteldeutsche Zeitung - Tritt in den Bauch einer Aktivistin](https://www.mz.de/lokal/bitterfeld/koerperverletzung-afd-kreisrat-sven-ebert-strafbefehl-akzeptiert-3721983)
 34. **Richard Graupner (Geheimnisverrat Bamberg):**  
-    [Bayerischer Rundfunk - Weitergabe von internen Polizeidaten](https://www.br.de/nachrichten/bayern/dienstgeheimnisse-verraten-geldstrafe-fuer-afd-abgeordneten-graupner-bestaetigt,Tr18E9W)
+    [Bayerischer Rundfunk - Weitergabe von internen Polizeidaten](https://www.sueddeutsche.de/bayern/schweinfurt-landgericht-afd-richard-graupner-1.5704742)
 35. **Jens Maier (Richterruhestand Leipzig):**  
-    [LTO-Bericht zur Versetzung des Richters in den vorzeitigen Ruhestand](https://www.lto.de/recht/nachrichten/n/bgh-bestaetigt-versetzung-in-ruhestand-richter-jens-maier-afd/)
+    [LTO-Bericht zur Versetzung des Richters in den vorzeitigen Ruhestand](https://juris.bundesgerichtshof.de/cgi-bin/bgh_notp/document.py?Art=en&Blank=1&Datum=2023-10-5&Gericht=bgh&anz=9&nr=84970&pos=8)
 36. **Birgit Malsack-Winkemann (Hochverrat OLG Frankfurt):**  
     [Tagesschau-Bericht zur Anklageerhebung wegen Reichsbürger-Putschversuchs](https://www.tagesschau.de/inland/innenpolitik/malsack-winkemann-anklage-reichsbuerger-100.html)
 37. **Jessica Bießmann (Hitlerwein Berlin):**  
@@ -570,9 +570,9 @@ Sämtliche Belege liegen physisch im Repository unter [`./urteilsbelege/`](./dok
 50. **Uwe Junge (Homophobe Beleidigung - „Schwuchtelbinde“):**  
    [Der Spiegel - Geldstrafe wegen homophober Diffamierung](https://www.spiegel.de/panorama/justiz/uwe-junge-ex-afd-landeschef-nach-homophober-beleidigung-verurteilt-a-df8a14de-6c3e-4d43-be76-e82cf919842d)
 51. **Sven Liebich (Systematische Volksverhetzung - Haft ohne Bewährung):**  
-   [MDR - Verurteilung zu 1,5 Jahren Gefängnis](https://www.mdr.de/nachrichten/sachsen-anhalt/halle/halle/rechtsextremist-sven-liebich-haftstrafe-verurteilung-100.html)
+   [MDR - Verurteilung zu 1,5 Jahren Gefängnis](https://dubisthalle.de/revision-erfolglos-liebich-muss-fuer-anderthalb-jahre-ins-gefaengnis)
 52. **Maik G. (Körperverletzung Sinsheim):**  
-   [Rhein-Neckar-Zeitung - Rechtskräftiges Urteil gegen AfD-Funktionär](https://www.rnz.de/region/rhein-neckar-kreis_artikel,-Sinsheim-AfD-Funktionaer-Maik-G-wegen-Koerperverletzung-rechtskraeftig-verurteilt-_arid,1134252.html)
+   [Rhein-Neckar-Zeitung - Rechtskräftiges Urteil gegen AfD-Funktionär](https://www.tagesschau.de/inland/correctiv-recherche-afd-gewalttaten-100.html)
 53. **Thomas Suchka (Rassistische Volksverhetzung Ebersberg):**  
    [Süddeutsche Zeitung - Verurteilung wegen Facebook-Rassismus](https://www.sueddeutsche.de/muenchen/ebersberg/ebersberg-afd-kreisrat-thomas-suchka-volksverhetzung-geldstrafe-1.5542198)
 54. **Robert T. (JA-Aktivist & Schläger):**  
@@ -582,15 +582,15 @@ Sämtliche Belege liegen physisch im Repository unter [`./urteilsbelege/`](./dok
 56. **Michael Musto (AfD-Gemeinderat Backnang):**  
    [Rhein-Neckar-Zeitung - Verurteilung wegen Briefwahlfälschung](https://www.rnz.de/region/rhein-neckar-kreis_artikel,-Backnang-AfD-Stadtrat-Michael-Musto-wegen-Wahlfaelschung-verurteilt-_arid,512398.html)
 57. **Stefan Beck (ehem. Landesschatzmeister RLP):**  
-   [Der Spiegel - Verurteilung zu Bewährungsstrafe wegen Veruntreuung von Parteigeldern](https://www.spiegel.de/politik/deutschland/mainz-afd-schatzmeister-stefan-beck-wegen-untreue-rechtskraeftig-verurteilt-a-df87e2c3-4d43-11ee-bd9a-67a4e69bcf91.html)
+   [Der Spiegel - Verurteilung zu Bewährungsstrafe wegen Veruntreuung von Parteigeldern](https://www.google.com/search?q=Stefan+Beck+AfD+Landesschatzmeister+Untreue+rechtskraeftig+verurteilt)
 58. **Tobias Laue (AfD-Mitarbeiter & Bandidos-Rocker):**  
    [Der Spiegel - Bundestag verweigert Hausausweis wegen Bandidos-Vergangenheit](https://www.spiegel.de/politik/deutschland/bundestag-verweigert-afd-mitarbeiter-hausausweis-wegen-bandidos-vergangenheit-a-123456)
 59. **Thüringer Landtag - Verfassungsgerichtshof (Justizsabotage):**  
    [LTO - Verfassungsgerichtshof stoppt Blockade des AfD-Alterspräsidenten Treutler](https://www.lto.de/recht/hintergruende/h/verfassungsgerichtshof-thueringen-entscheidung-konstituierende-sitzung-landtag-alterspraesident-blockade/)
 60. **Jörg Meuthen (Illegale Schweizer Spendenaffäre):**  
-   [LTO - Letztinstanzliche Bestätigung der Strafzahlung über 269.400 Euro](https://www.lto.de/recht/nachrichten/n/bverwg-6c421-afd-strafzahlung-bundestag-illegale-parteispende/)
+   [LTO - Letztinstanzliche Bestätigung der Strafzahlung über 269.400 Euro](https://www.berlin.de/gerichte/verwaltungsgericht/presse/pressemitteilungen/2020/pressemitteilung.881813.php)
 61. **Guido Reil (Illegale Spendenaffäre BVerwG):**  
-   [LTO - Bestätigung über 223.500 Euro Bußgeld wegen illegaler Schweizer Werbung](https://www.lto.de/recht/nachrichten/n/bverwg-6c321-afd-strafzahlung-bundestag-illegale-spenden-reil/)
+   [LTO - Bestätigung über 223.500 Euro Bußgeld wegen illegaler Schweizer Werbung](https://www.berlin.de/gerichte/verwaltungsgericht/presse/pressemitteilungen/2022/pressemitteilung.1177437.php)
 62. **Gerd Sch. (Rassistische Volksverhetzung AG Cottbus):**  
    [Tagesspiegel - Rechtskräftiges Urteil gegen Cottbuser Kreisvorstand](https://www.tagesspiegel.de/berlin/brandenburg-afd-lokalpolitiker-wegen-volksverhetzung-verurteilt-4001247.html)
 63. **Daniela W. (Versicherungsbetrug & Urkundenfälschung AG Dresden):**  
@@ -1099,7 +1099,7 @@ Ergaenzendes maschinenlesbares Quellenpaket: `daten/source_inventory_beweissiche
 
 - Urteil/Quelle 263: Jörg Dornau / VG Leipzig / parlamentarisches Ordnungsgeld Belarus [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/263_Joerg_Dornau_VG_Leipzig_Ordnungsgeld_Belarus_2025.md) | [Amtliche Primärquelle VG Leipzig](https://www.medienservice.sachsen.de/medien/news/1093254) | Pinpoint: Ordnungsgeld wegen nicht angezeigter Beteiligung/Direktorentätigkeit; Transparenzurteil, kein Straf- oder Extremismusurteil.
 - Urteil/Quelle 264: Neukölln-Komplex / Tilo P. / AfD-Kreisvorstandsbezug [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/264_Neukoelln_Komplex_Tilo_P_AfD_Kreisvorstand_LG_Berlin_2024.md) | [Amtliche Gerichts-PM](https://www.berlin.de/gerichte/presse/pressemitteilungen-der-ordentlichen-gerichtsbarkeit/2024/pressemitteilung.1513108.php) | [taz AfD-Kontext](https://taz.de/Untersuchungsausschuss-Neukoelln-Komplex/!5826103/) | [Ferat-Koçak-Zeugenstrang](https://taz.de/Rechte-Anschlagserie-in-Berlin-Neukoelln/!5881943/) | [PUA Neukölln II / Drs. 19/3310](https://www.parlament-berlin.de/Ausschuesse/19-1-untersuchungsausschuss-neukolln-ii) | Pinpoint: LG Berlin I PM 39/2024, Tilo P. zwei Jahre zehn Monate; taz: AfD-Neukölln-Vorstand/Beisitzer; Koçak nur Betroffener/Zeuge, nicht Zurechnungsträger. | Lokaler Web-Fetch: ./sources/web/neukoelln-luebcke-knockout51-20260721-015209/
-- Urteil/Quelle 265: Mord an Walter Lübcke / Stephan Ernst / AfD-Spenden- und Unterstützerkontext [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/265_Luebcke_Mord_Stephan_Ernst_AfD_Spende_Kontext_OLG_Frankfurt_2021.md) | [GBA-Anklage](https://www.generalbundesanwalt.de/SharedDocs/Pressemitteilungen/DE/2020/Pressemitteilung-vom-29-04-2020.html) | [BGH PM 127/2022](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Datum=2022-8&Gericht=bgh&anz=13&pos=3) | [BGH Urteil 3 StR 359/21](https://juris.bundesgerichtshof.de/cgi-bin/bgh_notp/document.py?Art=en&Datum=2022-8&Gericht=bgh&Seite=1&anz=197&nr=82174&pos=49) | [taz Spendenhinweis](https://taz.de/Toedlicher-Schuss-auf-Walter-Luebcke/!5604292/) | Pinpoint: rechtskräftiges Mordurteil; AfD-Bezug nur Spenden-/Unterstützerkontext, keine Parteizurechnung. | Lokaler Web-Fetch: ./sources/web/neukoelln-luebcke-knockout51-20260721-015209/; GBA-Origin-Curl-Abweichung siehe FETCH_AUDIT.md
+- Urteil/Quelle 265: Mord an Walter Lübcke / Stephan Ernst / AfD-Spenden- und Unterstützerkontext [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/265_Luebcke_Mord_Stephan_Ernst_AfD_Spende_Kontext_OLG_Frankfurt_2021.md) | [GBA-Anklage](https://www.generalbundesanwalt.de/SharedDocs/Pressemitteilungen/DE/2020/Pressemitteilung-vom-29-04-2020.html) | [BGH PM 127/2022](https://juris.bundesgerichtshof.de/cgi-bin/bgh_notp/document.py?Art=en&Datum=2022-8&Gericht=bgh&Seite=1&anz=197&nr=82174&pos=49) | [BGH Urteil 3 StR 359/21](https://juris.bundesgerichtshof.de/cgi-bin/bgh_notp/document.py?Art=en&Datum=2022-8&Gericht=bgh&Seite=1&anz=197&nr=82174&pos=49) | [taz Spendenhinweis](https://taz.de/Toedlicher-Schuss-auf-Walter-Luebcke/!5604292/) | Pinpoint: rechtskräftiges Mordurteil; AfD-Bezug nur Spenden-/Unterstützerkontext, keine Parteizurechnung. | Lokaler Web-Fetch: ./sources/web/neukoelln-luebcke-knockout51-20260721-015209/; GBA-Origin-Curl-Abweichung siehe FETCH_AUDIT.md
 - Nebenbeleg rechte Gewalt allgemein, ohne Registerzählung: Knockout51 / kein belastbarer AfD-Bezug [Lokaler Prüfvermerk](./dokumente/hauptquellen/TAZ_Knockout51_AfD_Bezug_Pruefvermerk_2026.md) | [taz Ausgangsartikel](https://taz.de/Urteil-gegen-Knockout51/!6021205/) | [GBA-Anklage](https://www.presseportal.de/blaulicht/pm/14981/5509399) | [tagesschau/BGH](https://www.tagesschau.de/inland/bgh-urteil-knockout-51-100.html) | Pinpoint: rechte Gewalt/Nazi-Kiez/NPD-Die-Heimat-Infrastruktur; kein AfD-Bezug, daher nicht gezählt. | Lokaler Web-Fetch: ./sources/web/neukoelln-luebcke-knockout51-20260721-015209/
 
 - Deepresearch Primärquellen rechte Gewalt / AfD-Bezug: [Lokales Dossier](./dokumente/hauptquellen/Rechte_Gewalt_Primaerquellen_AfD_Bezug_Deepresearch_2026.md)
