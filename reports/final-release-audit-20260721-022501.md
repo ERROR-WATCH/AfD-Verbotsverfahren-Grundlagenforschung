@@ -2,7 +2,7 @@
 
 ## Kurzstatus
 
-- Aktueller sichtbarer Portal-/Repo-Stand: mindestens 288 Gerichtsfälle / Registerfälle.
+- Aktueller sichtbarer Portal-/Repo-Stand: mindestens 313 Gerichtsfälle / Registerfälle.
 - Sichtbare alte 263-Zählwerte für Gerichtsfälle, Registerfälle oder Urteilsbelege wurden entfernt oder auf historische, nicht aktuelle Einordnung umformuliert.
 - Fall 263 bleibt als Fallnummer Jörg Dornau erhalten und ist kein Zählwert.
 - Headerbild `afd-verbot.jpg` ist im Pages-Hero als echte Viewport-Breite gesetzt (`w-screen max-w-none`).

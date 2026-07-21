@@ -7,7 +7,7 @@ Das Repository ist in der Beweislogik deutlich antragsnaeher als vor dem Audit: 
 ## Gefundene Restqualitaetsthemen
 
 1. README enthielt alte Zwischenstandsformulierungen zu Screenshot-/Chronik- und Build-Audit-Punkten. Diese wurden nicht entfernt, sondern durch einen aktuellen Antragsreife-Abschnitt eingeordnet.
-2. `STATISTIKMODUL.md` und `statistikquellen.md` enthielten veraltete Manifestzahlen. Historisch aktualisiert auf 258 validierte Statistikobjekte und 262 Registerfaelle; aktueller Portal-/Repo-Stand mindestens 265 Registerfaelle.
+2. `STATISTIKMODUL.md` und `statistikquellen.md` enthielten veraltete Manifestzahlen. Historisch aktualisiert auf 258 validierte Statistikobjekte und 262 Registerfaelle; aktueller Portal-/Repo-Stand mindestens 313 Registerfaelle.
 3. Der sichtbare Statistik-Tab enthielt einzelne schwache Formulierungen wie kaputte Zielgruppenphrase, alte Restmatrix-Sprache und unklare Pinpoint-Saetze. Diese wurden in gerichtsfeste Schriftsatzfeld-Sprache ueberfuehrt.
 4. Alte Hilfsskripte enthielten Legacy-Ausgabetexte, die spaeter wieder schwache Statussprache in Pages schreiben konnten. Diese Generator-Texte wurden normalisiert.
 5. Sicherheits- und Spionageachsen waren im Top-40-Export zwar vorhanden, aber nicht zwingend prominent. Sie stehen jetzt als Pflichtanker auf den Raengen 1 bis 5.

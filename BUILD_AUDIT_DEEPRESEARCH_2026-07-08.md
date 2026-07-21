@@ -4,7 +4,7 @@
 
 - Neue Kontextdossiers ergänzt: AIB 150 Neonazi-Kontinuitäten, Endstation Rechts Reichstagsstürmerin/Femke Grops, FR/dpa-WELT Brandmauer-Debatte, Zentrumspartei/Ermächtigungsgesetz, Chrupalla-Phoenix-Prüfvermerk inklusive Screenshot.
 - Neue Urteilsregisterfälle ergänzt: 261 VG Berlin/BfV-Verfassungsschutzbericht 2022; 262 AfD Sachsen VG Dresden/OVG Bautzen Eilverfahren gegen gesichert-rechtsextrem-Einstufung.
-- Historisch: Urteilsregister in einem frueheren Build erweitert. Aktuell: mindestens 265 Fälle.
+- Historisch: Urteilsregister in einem frueheren Build erweitert. Aktuell: mindestens 313 Fälle.
 - Neue Statistikachsen ergänzt: Kontextdossiers, Brandmauer/Normalisierung, Neonazi-Kontinuitäten, Chrupalla-Screenshot als offener Prüfbeleg.
 
 ## Noch offen / bewusst nicht als bestätigt gezählt
