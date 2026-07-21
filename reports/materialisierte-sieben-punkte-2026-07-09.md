@@ -3,7 +3,7 @@
 Stand: 2026-07-09
 
 - Top-300-Zitatpaket: 300
-- Originalkanal-/Primaeranker-Ziele: 268
+- Originalkanal-/Primaeranker-Ziele: 301
 - Chronik-Falldossiers: 13
 - Gutachten-Provenienzzeilen: 11
 - Visualisierungsspezifikationen: 5

@@ -6,10 +6,10 @@ Timestamp: 2026-07-21T02:10:14+02:00
 
 - Pages-/Statistik-Build: ausgeführt mit `npm run build`.
 - Finale Pages-Validierung: `npm run validate:pages` -> OK, 4 Dateien, 0 fehlende Links.
-- Finale Statistikvalidierung: `npm run validate:statistics` -> OK, 10.746 Quellen, 3.868 Findings, 18 Verbotsgründe, 261 Statistikobjekte, Fatal 0, Warnings 0.
-- Sichtbare Registerzahl: 265 Gerichtsfälle/Registerfälle.
-- Statistik-Tab: 265 Registerfälle und 3.722 Belegzitate sichtbar.
-- README-Portalclaim: 265 Gerichtsfälle, 18 Verbotsgründe, 3.722 Belegzitate.
+- Finale Statistikvalidierung: `npm run validate:statistics` -> OK, 10.789 Quellen, 3.868 Findings, 18 Verbotsgründe, 261 Statistikobjekte, Fatal 0, Warnings 0.
+- Sichtbare Registerzahl: 288 Gerichtsfälle/Registerfälle.
+- Statistik-Tab: 288 Registerfälle und 3.722 Belegzitate sichtbar.
+- README-Portalclaim: 288 Gerichtsfälle, 18 Verbotsgründe, 3.722 Belegzitate.
 - Juristischer Prüfhinweis: direkt unter dem Portalclaim in `README.md` und `dokumente/ki_markdown/README.md` eingetragen.
 
 ## Bild- und Thumbnail-Audit

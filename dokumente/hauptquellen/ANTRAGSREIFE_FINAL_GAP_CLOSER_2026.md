@@ -12,7 +12,7 @@ Dieses Register benennt die letzten sieben Verfahrenshaertungen vor der eigentli
 - auszugebende Artefakte: 21
 - Quote-Findings: 3722
 - Actor-Registry-Zeilen: 3722
-- Quelleninventar: 10746
+- Quelleninventar: 10855
 - final gefuehrte Anlagen-Pinpoints: 127
 
 ## Sieben Verfahrenshaertungen
@@ -39,7 +39,7 @@ Umsetzung:
 - Ziel: Presse- und Screenshot-Routen auf amtliche, gerichtliche, parteieigene oder archivierte Originale stellen.
 - Lokale Belege: daten/source_inventory.jsonl; daten/presseanker_primaerrouten_2026.jsonl; daten/anlagenregister_art21_2026.jsonl; sources/web/
 - Online-/Originalroute: Phoenix-/YouTube-Original oder Transkript fuer Chrupalla/VS; X/Facebook/Youtube-Originale; AfD-Programm-/Beschluss-/Pressemitteilungsseiten; Gerichts-/GBA-/Bundestagsseiten.
-- Bestand: quelleninventar=10746; social_media_route_sources=22; presse_recherche_routes=178; official_or_primary_sources=5740; hashgesicherte_amtsanker=19
+- Bestand: quelleninventar=10855; social_media_route_sources=22; presse_recherche_routes=230; official_or_primary_sources=5790; hashgesicherte_amtsanker=19
 - Visualisierung: Quellenhierarchie-Leiter: Gericht/amtlich/Parteiquelle > Gutachten > parlamentarisch > Presse/Recherche > lokaler Proof; Ampel pro Route.
 - Verfahrensregel: Presse ist Rechercheweg, nicht Endpunkt fuer A-Beweis. Zurechnung entsteht durch dokumentierten AfD-Akteur, Organ, Funktion oder Fall-ID.
 - Outputs: daten/presseanker_primaerrouten_2026.jsonl; daten/official_web_anchor_integrity_2026.jsonl; daten/antrag_quellenhierarchie_2026.jsonl
@@ -137,7 +137,7 @@ Validitaet vor Rhetorik: Keine neue Tatsachenbehauptung ohne Quelle, Pinpoint, A
 ## Materialisierte Register
 
 - daten/antragsreife_top300_zitatpaket_2026.jsonl: 300 priorisierte Zitatzeilen.
-- daten/originalkanal_beschaffung_2026.jsonl: 268 Originalkanal-/Primaerankerziele.
+- daten/originalkanal_beschaffung_2026.jsonl: 301 Originalkanal-/Primaerankerziele.
 - daten/chronikcluster_falldossiers_2026.jsonl: 13 Chronikcluster als Fallzeilen.
 - daten/gutachten_provenienz_register_2026.jsonl: 11 Gutachten-Provenienzzeilen.
 - daten/beweisvisualisierung_specs_2026.json: 5 konkrete Chart-Spezifikationen.

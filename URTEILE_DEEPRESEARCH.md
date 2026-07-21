@@ -642,3 +642,216 @@ Dieses Dokument ist eine umfassende Zusammenstellung gerichtlicher Urteile, rech
     - **Zurechnungsgrenze:** Kein Beleg, dass die AfD den Mord verursachte, beauftragte oder organisatorisch trug; verwertbar nur als Kontextfall zu rechtsextremer Gewalt und AfD-Anziehung/Unterstützung aus dem rechtsextremen Milieu.
 
 **Nicht gezählt:** Knockout51 wurde geprüft, aber mangels belastbarem AfD-Bezug nicht in die Registerzählung aufgenommen. Der Fall wird nur als Nebenbeleg für rechte Gewalt allgemein geführt: [Prüfvermerk Knockout51](./dokumente/hauptquellen/TAZ_Knockout51_AfD_Bezug_Pruefvermerk_2026.md).
+
+**Nicht gezählt:** Der Flensburger Komplex zu Brandanschlägen/versuchter schwerer Brandstiftung gegen Parteibüros von u.a. Die Linke wurde geprüft. NDR/Polizei belegen Tat, Öffentlichkeitsfahndung, Tatverdächtigen und U-Haft; der behauptete AfD-Mitgliedschaftsbezug ist bislang aber nicht amtlich oder gerichtlich bestätigt. Der Fall wird deshalb nur als Nebenbeleg für rechte Gewalt gegen demokratische Infrastruktur geführt: [Prüfvermerk Flensburg](./dokumente/hauptquellen/Flensburg_Parteibueros_Brandanschlaege_AfD_Mitgliedschaft_Pruefvermerk_2026.md).
+
+
+## Nachtrag 2026-07-21: Weitere vergessene AfD-Mitglieder-Urteile
+
+266. **Gerald Christ / AfD Bonn / Beleidigung AG Bonn 2026:**
+    - **Partei-Status:** 🔴 **DIREKT AfD**
+    - **Gericht/Instanz:** Amtsgericht Bonn
+    - **Entscheidung:** Geldstrafe 4.000 Euro wegen Beleidigung; nach WDR nicht rechtskräftig.
+    - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/266_Gerald_Christ_Beleidigung_AG_Bonn_2026.md) | [Online-Quelle](https://www1.wdr.de/nrw/rheinland/bonn/bonn-afd-strafbefehl-beleidigung-100.html)
+    - **Zurechnungsgrenze:** Personenbezogener AfD-Fall; keine automatische Parteizurechnung ohne gesonderte Art.-21-Analyse.
+
+267. **Steffen Balz / Volksverhetzung AG Backnang 2025:**
+    - **Partei-Status:** 🔴 **DIREKT AfD**
+    - **Gericht/Instanz:** Amtsgericht Backnang
+    - **Entscheidung:** Geldstrafe 13.500 Euro wegen Volksverhetzung; nach ZVW/BKZ nicht rechtskräftig.
+    - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/267_Steffen_Balz_Volksverhetzung_AG_Backnang_2025.md) | [Online-Quelle](https://www.zvw.de/rems-murr-kreis/verurteilt-afd-kreisrat-balz-rief-laut-gericht-zu-bewaffnetem-widerstand-auf_arid-980147)
+    - **Zurechnungsgrenze:** Personenbezogener AfD-Fall; keine automatische Parteizurechnung ohne gesonderte Art.-21-Analyse.
+
+268. **Hansjörg Schrade / Holocaust-Corona-Vergleich / Geldstrafe:**
+    - **Partei-Status:** 🔴 **DIREKT AfD**
+    - **Gericht/Instanz:** nicht im Kontext-Artikel einzeln benannt
+    - **Entscheidung:** Rechtskräftige Geldstrafe laut Kontext-Recherche.
+    - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/268_Hansjoerg_Schrade_Corona_Holocaust_Vergleich_Geldstrafe.md) | [Online-Quelle](https://www.kontextwochenzeitung.de/gesellschaft/779/die-scheinheiligen-10764.html)
+    - **Zurechnungsgrenze:** Personenbezogener AfD-Fall; keine automatische Parteizurechnung ohne gesonderte Art.-21-Analyse.
+
+269. **Thomas Schmidt / Holocaust-Corona-Vergleich / Geldstrafe:**
+    - **Partei-Status:** 🔴 **DIREKT AfD**
+    - **Gericht/Instanz:** nicht im Kontext-Artikel einzeln benannt
+    - **Entscheidung:** Rechtskräftige Geldstrafe laut Kontext-Recherche.
+    - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/269_Thomas_Schmidt_Corona_Holocaust_Vergleich_Geldstrafe.md) | [Online-Quelle](https://www.kontextwochenzeitung.de/gesellschaft/779/die-scheinheiligen-10764.html)
+    - **Zurechnungsgrenze:** Personenbezogener AfD-Fall; keine automatische Parteizurechnung ohne gesonderte Art.-21-Analyse.
+
+270. **Nicol Hänle / rassistische Beleidigung eines Journalisten:**
+    - **Partei-Status:** 🔴 **DIREKT AfD**
+    - **Gericht/Instanz:** nicht im Kontext-Artikel einzeln benannt
+    - **Entscheidung:** Rechtskräftige Geldstrafe laut Kontext-Recherche.
+    - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/270_Nicol_Haenle_Rassistische_Beleidigung_Geldstrafe.md) | [Online-Quelle](https://www.kontextwochenzeitung.de/gesellschaft/779/die-scheinheiligen-10764.html)
+    - **Zurechnungsgrenze:** Personenbezogener AfD-Fall; keine automatische Parteizurechnung ohne gesonderte Art.-21-Analyse.
+
+271. **Hansjörg Wöhrle / Beleidigung und Volksverhetzung AG Lörrach 2025:**
+    - **Partei-Status:** 🔴 **DIREKT AfD**
+    - **Gericht/Instanz:** Amtsgericht Lörrach
+    - **Entscheidung:** Geldstrafe 5.600 Euro wegen Beleidigung und Volksverhetzung; Kontext führt rechtskräftig.
+    - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/271_Hansjoerg_Woehrle_Beleidigung_Volksverhetzung_AG_Loerrach_2025.md) | [Online-Quelle](https://www.badische-zeitung.de/der-weiler-afd-stadtrat-hansjoerg-woehrle-wurde-wegen-beleidigung-und-volksverhetzung-verurteilt)
+    - **Zurechnungsgrenze:** Personenbezogener AfD-Fall; keine automatische Parteizurechnung ohne gesonderte Art.-21-Analyse.
+
+272. **Thomas Rosspacher / Insolvenzverschleppung AG Waiblingen 2020:**
+    - **Partei-Status:** 🔴 **DIREKT AfD**
+    - **Gericht/Instanz:** Amtsgericht Waiblingen / Landgericht Stuttgart
+    - **Entscheidung:** Geldstrafe 3.000 Euro wegen Insolvenzverschleppung; rechtskräftig nach Berufungsrücknahme.
+    - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/272_Thomas_Rosspacher_Insolvenzverschleppung_AG_Waiblingen_2020.md) | [Online-Quelle](https://www.kontextwochenzeitung.de/gesellschaft/779/die-scheinheiligen-10764.html)
+    - **Zurechnungsgrenze:** Personenbezogener AfD-Fall; keine automatische Parteizurechnung ohne gesonderte Art.-21-Analyse.
+
+273. **Bernd Gögel / Vorenthalten von Arbeitsentgelt AG Pforzheim 2023:**
+    - **Partei-Status:** 🔴 **DIREKT AfD**
+    - **Gericht/Instanz:** Amtsgericht Pforzheim
+    - **Entscheidung:** Geldstrafe 8.000 Euro; rechtskräftig laut Kontext.
+    - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/273_Bernd_Goegel_Arbeitsentgelt_AG_Pforzheim_2023.md) | [Online-Quelle](https://www.kontextwochenzeitung.de/gesellschaft/779/die-scheinheiligen-10764.html)
+    - **Zurechnungsgrenze:** Personenbezogener AfD-Fall; keine automatische Parteizurechnung ohne gesonderte Art.-21-Analyse.
+
+274. **Philipp R. / Bedrohung, Trunkenheit, unerlaubter Waffenbesitz:**
+    - **Partei-Status:** 🔴 **DIREKT AfD**
+    - **Gericht/Instanz:** Amtsgericht Tettnang / Landgericht Ravensburg
+    - **Entscheidung:** Geldstrafe 8.750 Euro; rechtskräftig laut Kontext.
+    - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/274_Philipp_R_Bedrohung_Waffenbesitz_AG_Tettnang_LG_Ravensburg_2022.md) | [Online-Quelle](https://www.kontextwochenzeitung.de/gesellschaft/779/die-scheinheiligen-10764.html)
+    - **Zurechnungsgrenze:** Personenbezogener AfD-Fall; keine automatische Parteizurechnung ohne gesonderte Art.-21-Analyse.
+
+275. **André Rehm / gefährliche Körperverletzung, Nötigung, Bedrohung:**
+    - **Partei-Status:** 🔴 **DIREKT AfD**
+    - **Gericht/Instanz:** Amtsgericht Singen / Landgericht Konstanz / OLG Karlsruhe
+    - **Entscheidung:** 11 Monate Freiheitsstrafe ohne Bewährung; Revision verworfen, rechtskräftig laut Kontext/Südkurier.
+    - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/275_Andre_Rehm_Gefaehrliche_Koerperverletzung_LG_Konstanz_OLG_Karlsruhe_2025.md) | [Online-Quelle](https://www.suedkurier.de/kreis-konstanz/skandal-um-ex-afd-mitglied-urteil-zwingt-andre-rehm-in-haft-113927265)
+    - **Zurechnungsgrenze:** Personenbezogener AfD-Fall; keine automatische Parteizurechnung ohne gesonderte Art.-21-Analyse.
+
+276. **Marcus Ottersberg / fahrlässige Trunkenheit im Verkehr:**
+    - **Partei-Status:** 🔴 **DIREKT AfD**
+    - **Gericht/Instanz:** Amtsgericht Göppingen
+    - **Entscheidung:** Strafbefehl 4.500 Euro akzeptiert; rechtskräftig/praktisch abgeschlossen laut Kontext.
+    - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/276_Marcus_Ottersberg_Trunkenheit_AG_Goeppingen_2024.md) | [Online-Quelle](https://www.kontextwochenzeitung.de/gesellschaft/779/die-scheinheiligen-10764.html)
+    - **Zurechnungsgrenze:** Personenbezogener AfD-Fall; keine automatische Parteizurechnung ohne gesonderte Art.-21-Analyse.
+
+277. **Martin Kühne / Hakenkreuzschmierereien AG Baden-Baden 2023:**
+    - **Partei-Status:** 🔴 **DIREKT AfD**
+    - **Gericht/Instanz:** Amtsgericht Baden-Baden
+    - **Entscheidung:** Strafbefehl 3.000 Euro wegen Beleidigung und Verwenden von Kennzeichen verfassungswidriger Organisationen; rechtskräftig laut Kontext.
+    - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/277_Martin_Kuehne_Hakenkreuz_AG_Baden_Baden_2023.md) | [Online-Quelle](https://www.kontextwochenzeitung.de/gesellschaft/779/die-scheinheiligen-10764.html)
+    - **Zurechnungsgrenze:** Personenbezogener AfD-Fall; keine automatische Parteizurechnung ohne gesonderte Art.-21-Analyse.
+
+278. **Andrea Zürcher / Freiheitsberaubung und versuchte Nötigung AG Waldshut-Tiengen 2025:**
+    - **Partei-Status:** 🔴 **DIREKT AfD**
+    - **Gericht/Instanz:** Amtsgericht Waldshut-Tiengen
+    - **Entscheidung:** Geldstrafe 3.000 Euro; Berufung eingelegt, nicht rechtskräftig.
+    - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/278_Andrea_Zuercher_Freiheitsberaubung_Noetigung_AG_Waldshut_2025.md) | [Online-Quelle](https://www.kontextwochenzeitung.de/gesellschaft/779/die-scheinheiligen-10764.html)
+    - **Zurechnungsgrenze:** Personenbezogener AfD-Fall; keine automatische Parteizurechnung ohne gesonderte Art.-21-Analyse.
+
+279. **Christian Eggs / Verwenden verfassungswidriger Kennzeichen AG/LG Offenburg:**
+    - **Partei-Status:** 🔴 **DIREKT AfD**
+    - **Gericht/Instanz:** Amtsgericht Offenburg / Landgericht Offenburg
+    - **Entscheidung:** LG-Geldstrafe 2.400 Euro; nicht rechtskräftig laut Kontext.
+    - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/279_Christian_Eggs_Kennzeichen_AG_LG_Offenburg_2025_2026.md) | [Online-Quelle](https://www.kontextwochenzeitung.de/gesellschaft/779/die-scheinheiligen-10764.html)
+    - **Zurechnungsgrenze:** Personenbezogener AfD-Fall; keine automatische Parteizurechnung ohne gesonderte Art.-21-Analyse.
+
+280. **Taras Maygutiak / Verwenden verfassungswidriger Kennzeichen LG Offenburg 2026:**
+    - **Partei-Status:** 🔴 **DIREKT AfD**
+    - **Gericht/Instanz:** Amtsgericht Offenburg / Landgericht Offenburg
+    - **Entscheidung:** LG-Geldstrafe 4.680 Euro; Revision eingelegt, nicht rechtskräftig.
+    - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/280_Taras_Maygutiak_Kennzeichen_LG_Offenburg_2026.md) | [Online-Quelle](https://www.kontextwochenzeitung.de/gesellschaft/779/die-scheinheiligen-10764.html)
+    - **Zurechnungsgrenze:** Personenbezogener AfD-Fall; keine automatische Parteizurechnung ohne gesonderte Art.-21-Analyse.
+
+281. **Johannes Simon / AfD-Stadtrat Hechingen / Beleidigung AG Hechingen 2025:**
+    - **Partei-Status:** 🔴 **DIREKT AfD**
+    - **Gericht/Instanz:** Amtsgericht Hechingen
+    - **Entscheidung:** Geldstrafe 50 Tagessaetze zu je 25 Euro, insgesamt 1.250 Euro, wegen Beleidigung von Politikern; nach SWR nicht rechtskraeftig.
+    - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/281_Johannes_Simon_Beleidigung_AG_Hechingen_2025.md) | [Online-Quelle](https://www.swr.de/swraktuell/baden-wuerttemberg/tuebingen/afd-stadtrat-hechingen-johannes-simon-wegen-beleidigung-verurteilt-100.html)
+    - **Zurechnungsgrenze:** Personenbezogener AfD-Fall; keine automatische Parteizurechnung ohne gesonderte Art.-21-Analyse.
+
+282. **Jeanette Ihme / AfD Saarland / Volksverhetzung AG Ottweiler 2017:**
+    - **Partei-Status:** 🔴 **DIREKT AfD**
+    - **Gericht/Instanz:** Amtsgericht Ottweiler
+    - **Entscheidung:** Geldstrafe 90 Tagessaetze zu je 25 Euro, insgesamt 2.250 Euro, wegen Volksverhetzung; Berufung angekuendigt.
+    - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/282_Jeanette_Ihme_Volksverhetzung_AG_Ottweiler_2017.md) | [Online-Quelle](https://rsw.beck.de/aktuell/daily/meldung/detail/ag-ottweiler-verurteilt-afd-politikerin-wegen-volksverhetzung-zu-geldstrafe)
+    - **Zurechnungsgrenze:** Personenbezogener AfD-Fall; keine automatische Parteizurechnung ohne gesonderte Art.-21-Analyse.
+
+283. **Martin Renner / AfD-MdB / Beleidigung AG Mettmann 2022:**
+    - **Partei-Status:** 🔴 **DIREKT AfD**
+    - **Gericht/Instanz:** Amtsgericht Mettmann
+    - **Entscheidung:** Strafbefehl ueber 30 Tagessaetze zu je 300 Euro, insgesamt 9.000 Euro, wegen Beleidigung; Rechtskraftstatus gesondert nachhaerten.
+    - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/283_Martin_Renner_Beleidigung_AG_Mettmann_2022.md) | [Online-Quelle](https://www.welt.de/politik/deutschland/article242932341/Martin-Renner-Geldstrafe-gegen-AfD-Politiker-wegen-Streit-um-Maske.html)
+    - **Zurechnungsgrenze:** Personenbezogener AfD-Fall; keine automatische Parteizurechnung ohne gesonderte Art.-21-Analyse.
+
+284. **Karsten Hilse / AfD-MdB / Widerstand AG Tiergarten 2022:**
+    - **Partei-Status:** 🔴 **DIREKT AfD**
+    - **Gericht/Instanz:** Amtsgericht Tiergarten
+    - **Entscheidung:** Rechtskraeftiger Strafbefehl ueber 20 Tagessaetze zu je 150 Euro, insgesamt 3.000 Euro, wegen Widerstands gegen Vollstreckungsbeamte.
+    - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/284_Karsten_Hilse_Widerstand_AG_Tiergarten_2022.md) | [Online-Quelle](https://www.tagesspiegel.de/berlin/afd-maskenverweigerer-hilse-muss-3000-euro-geldstrafe-zahlen-8018704.html)
+    - **Zurechnungsgrenze:** Personenbezogener AfD-Fall; keine automatische Parteizurechnung ohne gesonderte Art.-21-Analyse.
+
+285. **Thomas Bayer / AfD-Stadtrat Wuerzburg / Sieg-Heil AG Wuerzburg 2026:**
+    - **Partei-Status:** 🔴 **DIREKT AfD**
+    - **Gericht/Instanz:** Amtsgericht Wuerzburg
+    - **Entscheidung:** Rechtskraeftiger Strafbefehl ueber 60 Tagessaetze zu je 70 Euro, insgesamt 4.200 Euro, wegen Verwendens von Kennzeichen verfassungswidriger Organisationen.
+    - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/285_Thomas_Bayer_Sieg_Heil_AG_Wuerzburg_2026.md) | [Online-Quelle](https://www.br.de/nachrichten/bayern/sieg-heil-rufe-strafbefehl-fuer-afd-stadtrat-rechtskraeftig%2CVPR4qK4)
+    - **Zurechnungsgrenze:** Personenbezogener AfD-Fall; keine automatische Parteizurechnung ohne gesonderte Art.-21-Analyse.
+
+286. **Alexander Escher / AfD-Stadtrat Sonneberg / Sieg-Heil AG Sonneberg 2026:**
+    - **Partei-Status:** 🔴 **DIREKT AfD**
+    - **Gericht/Instanz:** Amtsgericht Sonneberg
+    - **Entscheidung:** Erstinstanzliche Geldstrafe 60 Tagessaetze zu je 70 Euro, insgesamt 4.200 Euro, wegen Verwendens verfassungswidriger Kennzeichen; Berufung angekuendigt/eingelegt, nicht rechtskraeftig.
+    - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/286_Alexander_Escher_Sieg_Heil_AG_Sonneberg_2026.md) | [Online-Quelle](https://www.mdr.de/nachrichten/thueringen/sued-thueringen/sonneberg/urteil-afd-stadtrat-sieg-heil-100.html)
+    - **Zurechnungsgrenze:** Personenbezogener AfD-Fall; keine automatische Parteizurechnung ohne gesonderte Art.-21-Analyse.
+
+287. **Ronny Hermann Poppner / AfD-Fraktionschef Muehlhausen / Beleidigung AG Muehlhausen 2026:**
+    - **Partei-Status:** 🔴 **DIREKT AfD**
+    - **Gericht/Instanz:** Amtsgericht Muehlhausen
+    - **Entscheidung:** Geldstrafe 2.400 Euro wegen Beleidigung nach queerfeindlichem Facebook-Kommentar; nach MDR nicht rechtskraeftig.
+    - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/287_Ronny_Poppner_Beleidigung_AG_Muehlhausen_2026.md) | [Online-Quelle](https://www.mdr.de/nachrichten/thueringen/nord-thueringen/unstrut-hainich/muehlhausen-afd-politiker-strafe-beleidigung-100.html) | [Namenskontext](https://www.queer.de/detail.php?article_id=52531)
+    - **Zurechnungsgrenze:** Personenbezogener AfD-Fall; keine automatische Parteizurechnung ohne gesonderte Art.-21-Analyse.
+
+288. **Tim Krause / AfD Potsdam / Verletzung der Unterhaltspflicht AG Potsdam 2026:**
+    - **Partei-Status:** 🔴 **DIREKT AfD**
+    - **Gericht/Instanz:** Amtsgericht Potsdam
+    - **Entscheidung:** Rechtskraeftig akzeptierter Strafbefehl ueber 60 Tagessaetze zu je 40 Euro, insgesamt 2.400 Euro, wegen Verletzung der Unterhaltspflicht.
+    - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/288_Tim_Krause_Unterhaltspflicht_AG_Potsdam_2026.md) | [Online-Quelle](https://www.tagesspiegel.de/potsdam/keinen-unterhalt-fur-seine-kinder-bezahlt-afd-politiker-krause-akzeptiert-geldstrafe-in-potsdam-15273961.html) | [AfD-/Kandidaturkontext](https://www.tvo.de/amp/update-hof-afd-oberbuergermeisterkandidat-tim-krause-verurteilt-801184/)
+    - **Zurechnungsgrenze:** Personenbezogener AfD-Fall; keine automatische Parteizurechnung ohne gesonderte Art.-21-Analyse.
+
+**Watchlist / nicht gezählt:** Christine Amann-Vogt bleibt als offenes Verfahren ohne belastbar dokumentiertes Urteil auf der Watchlist. Markus P. bleibt gesondert zu prüfen, weil Status, AfD-Beiratstaetigkeit und fruehere rechtskraeftige Vorverurteilung getrennt werden muessen. Martin Renner wird als Strafbefehlsfall mit Rechtskraft-Vorbehalt gefuehrt und muss mit amtlichem Pinpoint nachgehaertet werden.
+
+
+## Nachtrag 2026-07-21: Erweiterte Fallwelle 289-303
+
+Die weitere Deepresearch-Runde ergaenzt das Register von 288 auf 309 Faelle. Die neue Welle trennt direkte AfD-Faelle, indirekte Mitarbeiterkontexte, Kandidatur-/Wahlrechtskontexte, zivilgerichtliche Entscheidungen und nicht rechtskraeftige Erstinstanzen.
+
+- **Fall 289: Daniel Kindl / AfD Pattensen / Beleidigung Janosch Dahmen AG Springe 2025** - 30 Tagessaetze zu je 60 Euro, insgesamt 1.800 Euro; nicht rechtskraeftig berichtet; Nicht rechtskraeftig; Gericht/Status amtlich nachhaerten. [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/289_Daniel_Kindl_Beleidigung_AG_Springe_2025.md)
+- **Fall 290: Daniel Kindl / AfD Pattensen / Strafantrag-Spendenaufruf AG Springe 2026** - Schuldspruch berichtet; genaue Rechtsfolge im lokalen Fetch nicht vollstaendig pruefbar; Fetch nur 766 Byte/paywallartig; unbedingt amtlich oder ueber Volltext nachhaerten. [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/290_Daniel_Kindl_Strafantrag_Spendenaufruf_AG_Springe_2026.md)
+- **Fall 291: Julian Adrat / Berliner AfD-Politiker / Bill Kaulitz LG Hamburg 2026** - Unterlassung zugunsten Bill Kaulitz berichtet; Nicht als Strafurteil zaehlen; zivilrechtliche Beweisfunktion getrennt halten. [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/291_Julian_Adrat_Bill_Kaulitz_Unterlassung_LG_Hamburg_2026.md)
+- **Fall 292: Rainer W. / AfD Muenchen / Mordvorstrafe und Wahlrechtsausschluss 2026** - Kandidatur wegen fehlender passiver Wahlberechtigung gestrichen; Keine AfD-Tatzurechnung; nur Kandidaturs- und Wahlrechtskontext. [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/292_Rainer_W_AfD_Muenchen_Mordvorstrafe_Wahlrecht_2026.md)
+- **Fall 293: Luis T. / AfD-Mitglied / Angriff auf BR-Journalisten LG Muenchen I 2023** - Gesamtfreiheitsstrafen im Bericht mit insgesamt 2 Jahren 6 Monaten beschrieben; Einzelstrafen/Gesamtstrafen genau aus Urteil/OLG-Auskunft nachhaerten. [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/293_Luis_T_Angriff_BR_Journalist_LG_Muenchen_2023.md)
+- **Fall 294: Luis T. / AfD-Aktivist / Hitlergruss und weitere Straftaten AG Muenchen 2023** - 1 Jahr 11 Monate ohne Bewaehrung berichtet; spaeter Gesamtstrafenkontext; Sekundaerquellen; amtliche Aktenzeichen/Entscheidungsdaten nachziehen. [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/294_Luis_T_Hitlergruss_Volksverhetzung_AG_Muenchen_2023.md)
+- **Fall 295: Andy Schoengarth / AfD Cottbus / Beleidigung AG Cottbus 2023** - 20 Tagessaetze zu je 30 Euro laut Tagesspiegel-Kontext; Rassistische/sexualisierte Sprache nur kurz paraphrasieren; Originalzitat nur bei Bedarf in Quelle pruefen. [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/295_Andy_Schoengarth_Beleidigung_AG_Cottbus_2023.md)
+- **Fall 296: Maximilian H. / Mitarbeiter AfD-MdL NRW / antisemitischer Angriff AG Heidelberg 2022** - 8 Monate Haft auf Bewaehrung berichtet; Berufung/Rechtskraft gesondert pruefen; Indirekter AfD-Bezug ueber Beschaeftigung; Tat nicht automatisch Parteitat. [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/296_Maximilian_H_AfD_Mitarbeiter_Antisemitischer_Angriff_AG_Heidelberg_2022.md)
+- **Fall 297: Juergen Sprick / AfD-Buergermeisterkandidat Espelkamp / Untreue Schöffengericht Minden 2020** - Freiheitsstrafe auf Bewaehrung; Bewaehrungszeit drei Jahre; Tatzeit und Kandidaturkontext trennen; keine Parteitat. [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/297_Juergen_Sprick_Untreue_Schoeffengericht_Minden_2020.md)
+- **Fall 298: Espelkamper AfD-Wahlkreiskandidat / Beleidigung AG Rahden LG Bielefeld 2019/2020** - 30 Tagessaetze; Tagessatzhoehe von 40 Euro auf 30 Euro reduziert; Live-Fetch gesperrt; Inhalt aus Suchindex/Archivroute nachhaerten. [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/298_Espelkamp_AfD_Wahlkreiskandidat_Beleidigung_AG_Rahden_LG_Bielefeld_2020.md)
+- **Fall 299: Melvin Schwede / damaliges AfD-Mitglied / Autoattacke Henstedt-Ulzburg LG Kiel 2023 BGH 2025** - 3 Jahre Jugendhaft; BGH-Rechtskraft aus amtlicher BGH-PM/Beschlussdatenbank nachziehen; Tat nicht als Parteibeschluss darstellen. [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/299_Melvin_Schwede_Autoattacke_Henstedt_Ulzburg_LG_Kiel_BGH_2025.md)
+- **Fall 300: Rene Dierkes / AfD-MdL Bayern / Pfefferspray Versammlung LG Muenchen II 2025** - Geldstrafe bestaetigt; genaue Tagessatzhoehe aus Vorinstanz/Revision nachhaerten; Nicht rechtskraeftig bei angekuendigter Revision; Waffen-/Versammlungskontext getrennt von Gewalttat. [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/300_Rene_Dierkes_Pfefferspray_LG_Muenchen_II_2025.md)
+- **Fall 301: Peter Junker / AfD-Bundestagskandidat Erding-Ebersberg / Volksverhetzung Strafbefehl 2023** - 100 Tagessaetze; Hoehe nicht berichtet; Sekundaerquelle; Strafbefehlsdaten/Amtsgericht amtlich nachhaerten. [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/301_Peter_Junker_Volksverhetzung_Strafbefehl_2023.md)
+- **Fall 302: Axel Nussbaum / ehemaliger AfD-Kreisvorsitzender Guetersloh / gefaelschter Impfpass AG Guetersloh 2022** - 2.100 Euro Geldstrafe berichtet; Ex-AfD-Status und Rechtsmittelstand sauber trennen. [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/302_Axel_Nussbaum_Gefaelschter_Impfpass_AG_Guetersloh_2022.md)
+- **Fall 303: Bernd Pachal / frueherer Berliner AfD-Funktionaer / Beleidigung AG 2023** - 60 Tagessaetze zu je 15 Euro, insgesamt 900 Euro; Berufung berichtet; Nicht rechtskraeftig; Ex-AfD-Kontext getrennt markieren. [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/303_Bernd_Pachal_Beleidigung_AG_2023.md)
+
+
+## Nachtrag 2026-07-21: Weitere Fallwelle 304-313
+
+- **Fall 304: Daniel Zabel / Ex-AfD-Landesvorstand Sachsen / gefaehrliche Koerperverletzung im Amt LG Dresden 2023** - 1 Jahr 4 Monate Freiheitsstrafe auf Bewaehrung berichtet; Ex-AfD-/Tatzeit-/Amtshandlungskontext trennen; Rechtskraft amtlich nachhaerten. [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/304_Daniel_Zabel_Gefaehrliche_Koerperverletzung_LG_Dresden_2023.md)
+- **Fall 305: Ehemaliger Mitarbeiter der AfD-Fraktion Koelner Stadtrat / Kundgebungsstoerung AG Koeln 2023** - 40 Tagessaetze zu je 15 Euro, insgesamt 600 Euro; Indirekter Mitarbeiterkontext; keine automatische Parteizurechnung. [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/305_Ex_AfD_Mitarbeiter_Koeln_Kundgebungsstoerung_AG_Koeln_2023.md)
+- **Fall 306: Andreas Harlass / AfD Sachsen / Volksverhetzung Ersturteil aufgehoben OLG Dresden 2025** - Freispruch rechtskraeftig bestaetigt; Nicht als Verurteilung gegen AfD zaehlen; nur im Gerichtsfalldatensatz als Status-/Gegenlesefall. [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/306_Andreas_Harlass_Freispruch_OLG_Dresden_2025.md)
+- **Fall 307: Eva Maria Schneider-Gaertner / Ex-AfD-MdL MV / antisemitische Telegram-Posts Strafbefehl 2024** - 70 Tagessaetze, insgesamt 14.000 Euro; Tatvorwurf laut Bericht nicht angegriffen; Ex-AfD-Status und Einspruchsumfang sauber trennen. [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/307_Eva_Maria_Schneider_Gaertner_Volksverhetzung_Strafbefehl_2024.md)
+- **Fall 308: Mirko Fischer / Ex-AfD Soest / Koerperverletzung AG Paderborn 2022** - 40 Tagessaetze zu je 15 Euro, insgesamt 600 Euro; spaetere Rechtskraft berichtet; Ex-AfD-Status und Tatzeit sauber pruefen. [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/308_Mirko_Fischer_Koerperverletzung_AG_Paderborn_2022.md)
+- **Fall 309: Marcel Donsch / Ex-AfD Barnim / Freiheitsberaubung und gefaehrliche Koerperverletzung AG Bernau 2022** - 2 Jahre Freiheitsstrafe auf Bewaehrung; Berufung berichtet; Ex-AfD-Status und Berufungsstand getrennt fuehren. [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/309_Marcel_Donsch_Freiheitsberaubung_Gefaehrliche_Koerperverletzung_AG_Bernau_2022.md)
+
+- **Fall 310: Roman Mrugalla / AfD-Fraktion Velbert / taetlicher Angriff und Strassenverkehr Strafbefehl 2023** - Strafbefehl/Geldstrafe 90 Tagessaetze bzw. 2.700 Euro berichtet; Correctiv fuehrt rechtskraeftigen Strafbefehl; AfD-Fraktions-/Mitgliedschaftsstatus getrennt fuehren. [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/310_Roman_Mrugalla_Taetlicher_Angriff_Strafbefehl_Dortmund_2023.md)
+
+
+### Nachtrag 2026-07-21: Completion-Fälle 311-312
+
+311. **Iven Görbig / AfD-Fraktionsvorsitz Unstrut-Hainich / tätlicher Angriff AG Mühlhausen 2023:**
+    [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/311_Iven_Goerbig_Taetlicher_Angriff_AG_Muehlhausen_2023.md) | [BRG](https://verband-brg.de/analyse-gewaltbereitschaft-bei-afd-funktionaer-innen/) | [Correctiv-Datenquelle](https://download.correctiv.org/flourish/gewalt-als-alternative/) | Pinpoint: AG Mühlhausen; tätlicher Angriff auf Vollstreckungsbeamte, Körperverletzung, Beleidigung; sieben Monate und eine Woche auf Bewährung; rechtskräftig berichtet; AfD-Fraktionsvorsitz durch SessionNet belegt.
+
+312. **Maximilian Kneller / AfD und Junge Alternative / Beleidigung 30 Tagessätze:**
+    [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/312_Maximilian_Kneller_Beleidigung_30_Tagessaetze.md) | [Correctiv](https://correctiv.org/aktuelles/afd/2026/07/08/afd-vorstand-voelkisch-parteitag-erfurt/) | [AfD Watch Bielefeld](https://afdwatchbielefeld.noblogs.org/personal/maximilian-kneller/) | Pinpoint: Beleidigungsverurteilung zu 30 Tagessätzen; AfD-/JA-/späterer Bundesvorstandsbezug; amtliche Gerichtsroute nachhärten.
+
+313. **Robert H. / AfD-Gemeinderatskandidat Freiburg / Pfefferspray-Angriff LG Freiburg 2024:**
+    [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/313_Robert_H_AfD_Gemeinderatskandidat_Pfefferspray_LG_Freiburg_2024.md) | [taz](https://taz.de/Gewaltbereite-AfD-Politikerinnen/!6089080/) | Pinpoint: LG Freiburg / zweitinstanzliches Urteil laut taz; 120 Tagessätze zu je 10 Euro; Pfefferspray-Komplex; Messerangriff laut Bericht als Notwehr gewertet und deshalb nicht als belastender Urteilskern führen.
