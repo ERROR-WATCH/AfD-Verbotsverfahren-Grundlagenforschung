@@ -622,7 +622,7 @@ Die statistische Staerke des Repositories liegt nicht in einzelnen Keywordtreffe
 
 - 10.323 erfassten Quellen,
 - 5.442 Primärquellen,
-- 262 Registerfaellen,
+- mindestens 265 Registerfaellen,
 - 3.703 geprüften Findings,
 - 3.722 Zitatbefunden,
 - 1.234 Findings der Beweisstufe A,

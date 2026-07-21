@@ -7,3 +7,6 @@ __pycache__/
 *.pem
 private.pem
 gittoken.env
+releases/
+archives/
+*.before-*

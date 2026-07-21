@@ -1242,19 +1242,12 @@ nummer
                                                                                                                                              Deutscher Bundestag – 20. Wahlperiode
 
 
-
-
  Tschechien                     4,8        4,0         4,5        4,4         1,8        1,6         2,8        1,9          3,3     0,9
  Summe                         17,4       13,0        17,0       19,1        24,0       33,7        39,1       35,4         54,1    30,8
 
 Tabelle: Synthetisch kalkulierte Ausgaben für Stromimporte im Zeitraum 1. Januar 2015 bis 30. Juni 2024 in Millionen Euro
                                2015       2016       2017        2018       2019        2020       2021        2022         2023    l. HJ
-                                                                                                                                    2024
-                                                                                                                                             – 21 –
-
-
-
-
+                                                                                                                                    2024     – 21 –
                                                                             in Millionen Euro
  Belgien                                                                                    5        176        569           275     175
  Dänemark                      184          87        221        263         179          291      1.266      3.051         1.384     511
@@ -1267,6 +1260,10 @@ Tabelle: Synthetisch kalkulierte Ausgaben für Stromimporte im Zeitraum 1. Janua
  Schweiz                        77          32         38        144         229          209        385        370           720     357
  Tschechien                    162         117        171        195           73          61        350        637           382      79
  Summe                         607         393        674        912         989        1.114      4.132      9.513         5.748   2.375
+
+
+
+
                                                                                                                                             Drucksache 20/13317
 Drucksache 20/13317                           – 22 –              Deutscher Bundestag – 20. Wahlperiode
 
@@ -6706,9 +6703,6 @@ Gesamt                                                 319.837                  
             Post-Covid-Syndrom und ME/CFS                                bis
                                                                                                                                  Drucksache 20/13317
 
-
-
-
             1 Einzelvorhaben                                         31.12.2024
  BMBF       IMMME – Aufklärung der immunologischen                   01.08.2022    2.187     188        752     576      337
             Pathomechanismen des postinfektiösen Chronischen             bis
@@ -6720,12 +6714,7 @@ Gesamt                                                 319.837                  
             systeme zur Unterstützung der Diagnose von gesund-           bis
             heitlichen Spätfolgen einer COVID-19-Erkrankung          31.08.2025
             5 Verbünde
-                                                                                                                                  – 124 –
-
-
-
-
-            (Änderungsbekanntmachung zur Förderrichtlinie:
+            (Änderungsbekanntmachung zur Förderrichtlinie:                                                                        – 124 –
             Förderung von Forschung und Entwicklung auf
             dem Gebiet „Hybride Interaktionssysteme zur
             Aufrechterhaltung der Gesundheit auch in Ausnahme-
@@ -6762,20 +6751,13 @@ BMG       "Recherche, Darstellung und Bewertung des aktuellen     01.03.2022    
                                                                                                                               Deutscher Bundestag – 20. Wahlperiode
 
 
-
-
           (Myalgische Enzephalomyelitis/Chronisches Fatigue
           Syndrom)"
 BMG       Aufbau eines multizentrischen klinischen ME-CFS-        01.01.2022     900     292       303       306
           Registers sowie einer multizentrischen ME-CFS-Bio-          bis
           bank mit Auswertung epidemiologischer, klinischer und   31.12.2024
           Versorgungsdaten von Kindern, Jugendlichen und Er-
-          wachsenen mit ME/CFS, einschließlich post-Covid19-
-                                                                                                                              – 125 –
-
-
-
-
+          wachsenen mit ME/CFS, einschließlich post-Covid19-                                                                  – 125 –
           MECFS
 BMG       Effiktivität der COVID-19-Impfungen gegen Long-         01.09.2023     542               76        408     408
           COVID: Epidemiologie, Mechanismen und Evidenz-              bis
@@ -6789,6 +6771,9 @@ BMG       5. Call ERA PerMed: UriCoV – „Urinary pep tidomic       01.04.2023
 BMG       Postakute gesundheitliche Folgen von COVID-19 –         01.09.2024     549                          54      54
           Folgeprojekt (Post-COVID-19-II)                             bis
                                                                   31.08.2026
+
+
+
                                                                                                                              Drucksache 20/13317
 Drucksache 20/13317                          – 126 –            Deutscher Bundestag – 20. Wahlperiode
 

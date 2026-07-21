@@ -468,3 +468,21 @@ Dieses Dokument ist eine umfassende Zusammenstellung gerichtlicher Urteile, rech
 80. **Strafzahlungen wegen illegaler Parteispenden (BVerwG):**
     - **Urteil:** Klagen der AfD gegen die Festsetzung von Strafen von über **1,08 Millionen Euro** durch die Bundestagsverwaltung wegen Annahme illegaler Auslandsspenden abgewiesen.
     - **Quelle/Beleg:** [Lokaler Beleg](../hauptquellen/urteilsbelege/21_AfD_Strafzahlungen_Spendenaffaere_BVerwG.md)
+
+---
+
+## Nachtrag 2026-07-21: Rechtsterroristische Kontexturteile mit AfD-Bezug
+
+264. **Neukölln-Komplex / Tilo P. / AfD-Kreisvorstand:**
+    - **Partei-Status:** 🔵 **INDIREKT AfD mit starkem personenbezogenem Bezug**. Tilo P. wurde in der taz-Berichterstattung als damaliger bzw. früherer Beisitzer/Vorstand der AfD Neukölln beschrieben; die gerichtliche Pressemitteilung nennt aus Persönlichkeitsschutzgründen nur die abgekürzte Person.
+    - **Urteil:** Landgericht Berlin I, 13.12.2024, Berufungsurteil zu den sogenannten Neuköllner Brandanschlägen; Tilo P. wurde wegen Brandstiftung in zwei Fällen und Sachbeschädigung in zehn Fällen zu zwei Jahren und zehn Monaten Gesamtfreiheitsstrafe verurteilt. Laut Pressemitteilung bei Veröffentlichung nicht rechtskräftig.
+    - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/264_Neukoelln_Komplex_Tilo_P_AfD_Kreisvorstand_LG_Berlin_2024.md)
+    - **Zurechnungsgrenze:** Kein Beleg, dass die AfD als Partei die Anschläge beauftragte oder billigte; verwertbar als indirekter AfD-Kontextfall mit personenbezogenem Vorstandsbezug und Sicherheitsbehörden-/Untersuchungsausschusskontext.
+
+265. **Mord an Walter Lübcke / Stephan Ernst / AfD-Spenden- und Unterstützerkontext:**
+    - **Partei-Status:** 🔵 **INDIREKT AfD, nicht parteiförmig zurechenbar**. Belegt sind Spenden-/Unterstützerhinweise und Berichte über AfD-Plakatieren bzw. AfD-Veranstaltungsbesuche, aber keine AfD-Funktion oder Mitgliedschaft als gerichtlicher Kern.
+    - **Urteil:** OLG Frankfurt, 28.01.2021; lebenslange Freiheitsstrafe gegen Stephan Ernst wegen Mordes an Walter Lübcke, besondere Schwere der Schuld. Markus H. wurde vom Beihilfevorwurf freigesprochen und wegen eines Waffendelikts zu Bewährungsstrafe verurteilt.
+    - **Quelle:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/265_Luebcke_Mord_Stephan_Ernst_AfD_Spende_Kontext_OLG_Frankfurt_2021.md)
+    - **Zurechnungsgrenze:** Kein Beleg, dass die AfD den Mord verursachte, beauftragte oder organisatorisch trug; verwertbar nur als Kontextfall zu rechtsextremer Gewalt und AfD-Anziehung/Unterstützung aus dem rechtsextremen Milieu.
+
+**Nicht gezählt:** Knockout51 wurde geprüft, aber mangels belastbarem AfD-Bezug nicht in die Registerzählung aufgenommen. Der Fall wird nur als Nebenbeleg für rechte Gewalt allgemein geführt: [Prüfvermerk Knockout51](./dokumente/hauptquellen/TAZ_Knockout51_AfD_Bezug_Pruefvermerk_2026.md).

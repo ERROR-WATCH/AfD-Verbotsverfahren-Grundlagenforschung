@@ -214,7 +214,7 @@ Die Urteile sind eine eigene Wahrheitsebene. Sie zeigen:
 
 ### Vorhandene Zahlen
 
-- 262 Registerfälle.
+- mindestens 265 Registerfälle.
 - Deliktcluster in `daten/statistik_gerichtsfälle.csv`: Volksverhetzung, verfassungswidrige Kennzeichen, Körperverletzung/Gewalt, Beleidigung/Verleumdung.
 - Nachträge zu VS-Verfahren Bayern, Niedersachsen, Hessen, Brandenburg und Bundesebene.
 

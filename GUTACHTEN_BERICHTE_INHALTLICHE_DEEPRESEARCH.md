@@ -2,6 +2,8 @@
 
 Stand: 2026-07-09
 
+**Aktualisierung 2026-07-21:** Die in diesem Papier genannten früheren Fallzahlen waren damalige Zwischenstände. Der aktuelle Portal-/Repo-Stand beträgt mindestens 265 Fälle; die zusätzlichen Fälle 264/265 betreffen den Neukölln-Komplex und den Mord an Walter Lübcke. Knockout51 bleibt Nebenbeleg ohne AfD-Zählung.
+
 Ziel dieses Papiers: Die vorhandenen VFS-Gutachten, Verfassungsschutzberichte, rechtswissenschaftlichen Gutachten, GFF-Auswertung, DIMR-Analyse, Ogorek-Untersuchung, Stellungnahmen, BKA/PMK-Daten und Rechtsprechungsquellen werden daraufhin ausgewertet, was sie inhaltlich zur AfD aussagen und was daraus im Statistik-Tab analytisch darstellbar ist.
 
 Es geht nicht um Wortzählungen. Nutzbar sind vor allem belastbare Aussagenachsen: Wer sagt was, mit welchem Rechtsmaßstab, auf welcher Quellenbasis, mit welchen Zahlen, mit welchem Zurechnungsgrad und mit welcher Beweisstärke.
@@ -24,7 +26,7 @@ Der Statistik-Tab sollte daher nicht nur "Themenhäufigkeiten" zeigen, sondern e
 
 Bereits lokal strukturiert vorhanden:
 
-- Gerichtsregister: 262 Fälle.
+- Gerichtsregister: historischer Arbeitsstand überholt; aktueller Portal-/Repo-Stand mindestens 265 Fälle.
 - Verbotsgründe: 18.
 - Finding-Korpus: 3.703 geprüfte Findings.
 - Zitatkorpus/Belegsammlung: 3.611 Zitate.
@@ -273,7 +275,7 @@ Wichtig sind:
 
 ### Vorhandene Zahlen
 
-- 262 Fälle im Gerichtsregister.
+- Historischer Arbeitsstand im Gerichtsregister überholt; aktueller Portal-/Repo-Stand mindestens 265 Fälle.
 
 ### Statistisch darstellbar
 
@@ -417,7 +419,7 @@ Priorität 1:
 - Offizielle AfD-Beschlüsse, Programme, Leitanträge, Wahlprogramme, Positionspapiere.
 - Bundestags-/Landtagsdrucksachen und parlamentarische Anträge der AfD.
 - Originalreden/Videos, sofern im Gutachten nur sekundär referenziert.
-- Gerichtliche Volltexte zu den 262 Registerfällen, soweit noch nicht vollständig lokal.
+- Gerichtliche Volltexte zu den mindestens 265 Registerfällen, soweit noch nicht vollständig lokal.
 
 Priorität 2:
 

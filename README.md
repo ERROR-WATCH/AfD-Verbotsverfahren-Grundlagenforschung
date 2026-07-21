@@ -1,17 +1,19 @@
 # AfD-Verbotsverfahren-Grundlagenforschung
 
-<img width="660" height="439" alt="AfD Verbotsverfahren" src="assets/images/afd-verbot.jpg" />
+<img alt="AfD Verbotsverfahren" src="https://github.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/raw/main/assets/images/afd-verbot.jpg" width="100%" style="max-width: 100%; height: auto;" />
 
 > 🌐 **Interaktives Web-Portal (Forschungs-Dashboard) live online:**  
 > Erkunde dieses gesamte Belegarchiv unzensiert, schnell und interaktiv direkt im Browser:  
 > 👉 **[https://ERROR-WATCH.github.io/AfD-Verbotsverfahren-Grundlagenforschung/](https://ERROR-WATCH.github.io/AfD-Verbotsverfahren-Grundlagenforschung/)**  
-> *Das Portal bietet eine hochintelligente, umlautsensitive Volltextsuche über alle 262 Gerichtsfälle, 18 Verbotsgründe, alle unzensierten Gutachten/PDF-Splits und alle 3.722 Belegzitate mit Live-Textvorschau!*
+> *Das Portal bietet eine hochintelligente, umlautsensitive Volltextsuche über alle 265 Gerichtsfälle, 18 Verbotsgründe, alle unzensierten Gutachten/PDF-Splits und alle 3.722 Belegzitate mit Live-Textvorschau!*
+>
+> Das Repository ist kein Ersatz für eine juristische Prüfung, sondern eine systematische Forschungs- und Dokumentationsgrundlage, die Recherche, Strukturierung und Belegführung erheblich erleichtern kann. Die maßgeblichen Beweise müssen für ein gerichtliches Verfahren weiterhin an den Originalquellen überprüft werden.
 
 ---
 
 > 📢 **Dank und Anerkennung:** Ein herzlicher Dank geht an **netzpolitik.org** für ihre großartige Arbeit bei der Erstveröffentlichung und Aufbereitung des 1.000-seitigen Verfassungsschutz-Folgegutachtens zur AfD (`2021-02-22_BfV_AfD_Folgegutachten`). Durch deren hochwertige Digitalisierung konnten wir die Transkriptionen in diesem Repository umfassend aktualisieren und auf ein fehlerfreies Niveau heben.
 
-<img width="1254" height="1254" alt="afd verdachtsfall" src="assets/afd%20verdachtsfall.jpg" />
+<img alt="afd verdachtsfall" src="assets/afd%20verdachtsfall.jpg" width="100%" style="max-width: 100%; height: auto;" />
 
 ### Lokale Videobelege
 
@@ -29,15 +31,15 @@ https://github.com/user-attachments/assets/f8bce688-fd95-4e6a-80c6-190332181a97
 
 ### YouTube-Videobelege
 
-[![Prüf](https://img.youtube.com/vi/eSgFEpI9ZDQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=eSgFEpI9ZDQ "Auf YouTube ansehen")
+<a href="https://www.youtube.com/watch?v=eSgFEpI9ZDQ" title="Auf YouTube ansehen"><img src="https://img.youtube.com/vi/eSgFEpI9ZDQ/maxresdefault.jpg" alt="Prüf" width="100%" style="max-width: 100%; height: auto;" /></a>
 
-[![die Anstalt](https://img.youtube.com/vi/nguiGvWcovA/maxresdefault.jpg)](https://www.youtube.com/watch?v=nguiGvWcovA&pp=ygUdZGllIGFuc3RhbHQgcmVjaHRzZXh0cmVtaXNtdXM%3D "Auf YouTube ansehen")
+<a href="https://www.youtube.com/watch?v=nguiGvWcovA&pp=ygUdZGllIGFuc3RhbHQgcmVjaHRzZXh0cmVtaXNtdXM%3D" title="Auf YouTube ansehen"><img src="https://img.youtube.com/vi/nguiGvWcovA/maxresdefault.jpg" alt="die Anstalt" width="100%" style="max-width: 100%; height: auto;" /></a>
 
-[![die Anstalt 2](https://www.zdf.de/assets/die-anstalt-folge-100-100~1920x1080?cb=1784542044224)](https://www.zdf.de/play/shows/die-anstalt-104/die-anstalt-vom-21-juli-2026-100)
+<a href="https://www.zdf.de/play/shows/die-anstalt-104/die-anstalt-vom-21-juli-2026-100"><img src="https://www.zdf.de/assets/die-anstalt-folge-100-100~1920x1080?cb=1784542044224" alt="Die Anstalt Folge 100" width="100%" style="max-width: 100%; height: auto;" /></a>
 
-[![Goldschatz](https://img.youtube.com/vi/VPKaWjqpL10/maxresdefault.jpg)](https://www.youtube.com/watch?v=VPKaWjqpL10)
+<a href="https://www.youtube.com/watch?v=VPKaWjqpL10"><img src="https://img.youtube.com/vi/VPKaWjqpL10/maxresdefault.jpg" alt="Goldschatz" width="100%" style="max-width: 100%; height: auto;" /></a>
 
-[![zu Statistiken](https://img.youtube.com/vi/bH8QCgEg680/maxresdefault.jpg)](https://www.youtube.com/watch?v=bH8QCgEg680 "Auf YouTube ansehen")
+<a href="https://www.youtube.com/watch?v=bH8QCgEg680" title="Auf YouTube ansehen"><img src="https://img.youtube.com/vi/bH8QCgEg680/maxresdefault.jpg" alt="zu Statistiken" width="100%" style="max-width: 100%; height: auto;" /></a>
 
 Dieses Repository sammelt die zentralen Dokumente, Textfragmente und Forschungsergebnisse zur Vorbereitung einer Klageschrift gegen die Partei „Alternative für Deutschland“ (AfD) beim Bundesverfassungsgericht.
 
@@ -46,7 +48,7 @@ Dieses Repository sammelt die zentralen Dokumente, Textfragmente und Forschungse
 Dieses Repository stellt eine **solid fundierte Arbeitsbasis** dar, die nach bestem Wissen und Gewissen und mit erheblicher **KI-Unterstützung** erstellt und strukturiert wurde. Es ist jedoch von zentraler Bedeutung, die folgenden Aspekte für jede weitere wissenschaftliche, journalistische oder juristische Verwendung zu berücksichtigen:
 
 1. **Kein Anspruch auf Vollständigkeit (Die Oberfläche des Komplexes):**  
-   Trotz der sorgfältigen Aufbereitung von 262 Gerichtsfällen und über 1.400 Dokumenten legt diese Datenbank **bei weitem keinen Anspruch auf Vollständigkeit** nahe. In Anbetracht der enormen Tiefe und Verästelung der verfassungsfeindlichen Strukturen der Partei stellt dieses Archiv in unseren Augen lediglich die **Oberfläche des gesamten rechtlichen und tatsächlichen Komplexes** dar. Viele verdeckte Netzwerke, Finanzströme und behördliche Erkenntnisse liegen im Verborgenen oder unterliegen dem Geheimschutz.
+   Trotz der sorgfältigen Aufbereitung von 265 Gerichtsfällen und über 1.400 Dokumenten legt diese Datenbank **bei weitem keinen Anspruch auf Vollständigkeit** nahe. In Anbetracht der enormen Tiefe und Verästelung der verfassungsfeindlichen Strukturen der Partei stellt dieses Archiv in unseren Augen lediglich die **Oberfläche des gesamten rechtlichen und tatsächlichen Komplexes** dar. Viele verdeckte Netzwerke, Finanzströme und behördliche Erkenntnisse liegen im Verborgenen oder unterliegen dem Geheimschutz.
    
 2. **Notwendigkeit händischer und professioneller Auswertung:**  
    Die in diesem Repository bereitgestellten Daten und KI-generierten Strukturierungshilfen (z. B. RAG-Dumps und Zusammenfassungen) sind **Arbeitswerkzeuge, keine gerichtsfertigen Beweise**. Für ein tatsächliches gerichtliches Verbotsverfahren vor dem Bundesverfassungsgericht bedarf es zwingend einer **vollständig händischen Auswertung, detaillierten Verifizierung und juristisch präzisen Aufbereitung aller Belege durch geschultes Fachpersonal** (wie habilitierte Verfassungsrechtler, erfahrene Prozessbevollmächtigte und staatliche Gutachter).
@@ -261,14 +263,22 @@ Dieses Register ist eine umfassende, wissenschaftlich gepflegte Zusammenstellung
 
 Sämtliche Belege liegen physisch im Repository vor und sind im vollumfänglichen Register [**`URTEILE_DEEPRESEARCH.md`**](./URTEILE_DEEPRESEARCH.md) systematisch verzeichnet.
 
-> 📥 **Gesamtregister zum Download:** Wir haben alle 262 straf- und verfassungsrechtlichen Urteile in einem einzigen, offline-fähigen Gesamtregister kompiliert:
+> 📥 **Gesamtregister zum Download:** Der PDF-/TXT-Export ist ein historischer Offline-Export des Urteilsregisters; aktueller Portal-/Repo-Stand: mindestens 265 Fälle:
 > * 📄 [**Gesamt-Urteilsregister als gesetztes PDF-Dossier**](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf) *(Perfekt formatiert für RAG und Druck)*
 > * 📝 [**Gesamt-Urteilsregister als TXT-Dokument**](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.md)
 
-> 📚 **Verifiziertes Quellen- & Provenienzregister:** Wir haben eine dedizierte Quellenliste angelegt, die für alle 263 Fälle die originalen, höchstrichterlichen Gerichtsdatenbank-Einträge und Pressebelege (LTO, Spiegel, Tagesschau) enthält:
+> 📚 **Verifiziertes Quellen- & Provenienzregister:** Wir haben eine dedizierte Quellenliste angelegt, die den historischen Kernbestand und die fortlaufenden Nachträge mit Gerichts-, Behörden- und Pressebelegen dokumentiert; aktueller Portal-/Repo-Stand: mindestens 265 Fälle:
 > * 🔗 [**Offizielles Quellen- & Provenienzregister (QUELLEN_URTEILSDB.md)**](./dokumente/hauptquellen/urteilsbelege/QUELLEN_URTEILSDB.md)
 
-#### 🏛️ Systematisches & fortlaufend erweitertes Strafrechts- und Gerichtsregister (263 exemplarische Fälle direkt im Repository):
+#### 🏛️ Systematisches & fortlaufend erweitertes Strafrechts- und Gerichtsregister (mindestens 265 exemplarische Fälle direkt im Repository):
+
+### Nachtrag 2026-07-21: Knockout51, Neukölln-Komplex und Lübcke-Mord
+
+* 🧭 **Deepresearch Primärquellen rechte Gewalt / AfD-Bezug:** [Dossier](./dokumente/hauptquellen/Rechte_Gewalt_Primaerquellen_AfD_Bezug_Deepresearch_2026.md) – *ordnet Lübcke, Neukölln, Knockout51, Reuß/Malsack-Winkemann und Sächsische Separatisten nach Primärquellen, Urteil/Laufend-Status und Zurechnungsgrenzen.*
+
+* ⚖️ **264. Neukölln-Komplex / Tilo P. / früherer AfD-Kreisvorstandsbezug:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/264_Neukoelln_Komplex_Tilo_P_AfD_Kreisvorstand_LG_Berlin_2024.md) | [amtliche Gerichts-PM](https://www.berlin.de/gerichte/presse/pressemitteilungen-der-ordentlichen-gerichtsbarkeit/2024/pressemitteilung.1513108.php) – *[INDIREKT AfD] LG Berlin I: Verurteilung wegen Brandstiftung/Sachbeschädigung; AfD-Bezug über taz-Recherche zum früheren bzw. damaligen AfD-Kreisvorstand, keine automatische Parteizurechnung.*
+* ⚖️ **265. Mord an Walter Lübcke / Stephan Ernst / AfD-Spenden- und Unterstützerkontext:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/265_Luebcke_Mord_Stephan_Ernst_AfD_Spende_Kontext_OLG_Frankfurt_2021.md) | [hessenschau zum OLG-Urteil](https://www.hessenschau.de/panorama/urteil-im-luebcke-prozess-lebenslange-haftstrafe-fuer-stephan-ernst%2Curteil-stephan-ernst-100.html) – *[INDIREKT AfD] Rechtsterroristisches Urteil mit Spenden-/Unterstützerhinweisen; keine automatische Parteizurechnung.*
+* 🧾 **Knockout51-Prüfvermerk:** [Lokaler Prüfvermerk](./dokumente/hauptquellen/TAZ_Knockout51_AfD_Bezug_Pruefvermerk_2026.md) | [taz-Ausgangsartikel](https://taz.de/Urteil-gegen-Knockout51/!6021205/) – *kein belastbarer direkter AfD-Bezug gefunden; deshalb nicht als AfD-Urteilsfall gezählt, aber als Nebenbeleg für rechte Gewalt allgemein geführt.*
 
 ##### A) Volksverhetzung & Verfassungswidrige Kennzeichen (20 Fälle)
 * ⚖️ **1. Björn Höcke (SA-Parole „Alles für Deutschland“):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/01_Hoecke_SA_Parole_LG_Halle.md) | [Online-Quelle](https://www.lto.de/recht/nachrichten/n/bgh-verwirft-revision-bjoern-hoecke-sa-parole-alles-fuer-deutschland/) – *[**DIREKT AfD - Landessprecher**] LG Halle verurteilte Höcke wegen des Verwendens verbotener SA-Kennzeichen.*
@@ -1231,7 +1241,7 @@ Das Gutachten liefert damit eine fundierte juristische Grundlage, um ein Verbots
 
 Alle Quellenangaben sind in den Dateien enthalten.
 
-[![Nie wieder ist jetzt!](https://img.youtube.com/vi/Pb21x8gALRg/maxresdefault.jpg)](https://www.youtube.com/watch?v=Pb21x8gALRg)
+<a href="https://www.youtube.com/watch?v=Pb21x8gALRg"><img src="https://img.youtube.com/vi/Pb21x8gALRg/maxresdefault.jpg" alt="Nie wieder ist jetzt!" width="100%" style="max-width: 100%; height: auto;" /></a>
 
 ---
 
@@ -1245,11 +1255,11 @@ Alle Quellenangaben sind in den Dateien enthalten.
 
 ## Politische Schönheit
 
-[![YouTube Playlist](https://img.youtube.com/vi/1dHYrVZbhX0/maxresdefault.jpg)](https://www.youtube.com/watch?v=1dHYrVZbhX0&list=PLndxauj5Nk-o1p1LVTVDgzANSFMGvhe6F)
+<a href="https://www.youtube.com/watch?v=1dHYrVZbhX0&list=PLndxauj5Nk-o1p1LVTVDgzANSFMGvhe6F"><img src="https://img.youtube.com/vi/1dHYrVZbhX0/maxresdefault.jpg" alt="YouTube Playlist" width="100%" style="max-width: 100%; height: auto;" /></a>
 
 ## Was AfD-Aussteiger erzählen
 
-[![YouTube](https://img.youtube.com/vi/RoyfB-3NpsQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=RoyfB-3NpsQ)
+<a href="https://www.youtube.com/watch?v=RoyfB-3NpsQ"><img src="https://img.youtube.com/vi/RoyfB-3NpsQ/maxresdefault.jpg" alt="YouTube" width="100%" style="max-width: 100%; height: auto;" /></a>
 
 ## Dringlichkeitsantrag
 
@@ -1257,7 +1267,7 @@ https://github.com/user-attachments/assets/b4a11939-14a1-4859-9d9c-382a56af29de
 
 ## Ende des Repos
 
-<img width="916" height="988" alt="Claus von Wagner" src="assets/claus-von-wagner.png" />
+<img alt="Claus von Wagner" src="assets/claus-von-wagner.png" width="100%" style="max-width: 100%; height: auto;" />
 
 ---
 ## Mitwirkung
@@ -1282,9 +1292,9 @@ zusätzlich empfehle ich:
 
 ## Ergänzende Videobelege: Brandmauer und historische Steigbügelhalter
 
-[![Zur "Brandmauer"](https://img.youtube.com/vi/l7bWsE_fMxI/maxresdefault.jpg)](https://www.youtube.com/watch?v=l7bWsE_fMxI)
+<a href="https://www.youtube.com/watch?v=l7bWsE_fMxI"><img src="https://img.youtube.com/vi/l7bWsE_fMxI/maxresdefault.jpg" alt="Zur &quot;Brandmauer&quot;" width="100%" style="max-width: 100%; height: auto;" /></a>
 
-[![Rückblick Geschichte Steigbügelhalter](https://img.youtube.com/vi/sx-9xB_CS9w/maxresdefault.jpg)](https://www.youtube.com/watch?v=sx-9xB_CS9w&t=1605s&pp=ygUmcGFwZW4gemVudHJ1bXNwYXJ0ZWkgc3RlaWdiw7xnZWxoYWx0ZXI%3D)
+<a href="https://www.youtube.com/watch?v=sx-9xB_CS9w&t=1605s&pp=ygUmcGFwZW4gemVudHJ1bXNwYXJ0ZWkgc3RlaWdiw7xnZWxoYWx0ZXI%3D"><img src="https://img.youtube.com/vi/sx-9xB_CS9w/maxresdefault.jpg" alt="Rückblick Geschichte Steigbügelhalter" width="100%" style="max-width: 100%; height: auto;" /></a>
 
 ## 🏛️ Persönliche Widmung & Ursprung dieses Repositories
 
@@ -1312,7 +1322,7 @@ Vielen Dank – und in ewigem Gedenken an Bruno.
 
 Abschließend möchte ich Soso über Rassismus ein paar Worte sagen lassen:
 
-[![Soso über Rassismus](https://img.youtube.com/vi/en99n4pWuzw/0.jpg)](https://www.youtube.com/shorts/en99n4pWuzw)
+<a href="https://www.youtube.com/shorts/en99n4pWuzw"><img src="https://img.youtube.com/vi/en99n4pWuzw/maxresdefault.jpg" alt="Soso über Rassismus" width="100%" style="max-width: 100%; height: auto;" /></a>
 
 ---
 
@@ -1402,7 +1412,7 @@ Ergänzender Index für die antragsrelevante Gutachtenabdeckung: [Gutachten-Cove
 
 ### Release-Zeitstempel
 
-Cleaned-Release-Stand: 2026-07-20T20:02:47+02:00
+Cleaned-Release-Stand: 2026-07-21T02:25:01+02:00
 
 ### Release-Deep-Research-Report
 
@@ -1410,4 +1420,4 @@ Deep-Research-Report – bereinigte Release-Fassung: Diese Fassung bildet den ak
 
 ### Deepresearch-Zahlaudit Gerichtsregister
 
-Die Herleitung des konsistenten Stands von **263 Registerfällen** ist im [Deepresearch-Zahlaudit Gerichtsregister](./reports/deepresearch-zahlaudit-gerichtsregister-2026-07-10.md) dokumentiert.
+Das [Deepresearch-Zahlaudit Gerichtsregister](./reports/deepresearch-zahlaudit-gerichtsregister-2026-07-10.md) dokumentiert den historischen Zwischenstand 263; der aktuelle Portal-/Repo-Stand beträgt nach den Nachträgen Neukölln/Lübcke mindestens **265 Registerfälle**.

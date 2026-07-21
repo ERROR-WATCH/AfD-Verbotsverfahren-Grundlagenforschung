@@ -81,7 +81,7 @@ replaceMany('STATISTIK_METHODIK.md', [
 
 replaceMany('statistikquellen.md', [
   [/Das Manifest enthaelt derzeit 258 validierte Statistikobjekte./g, 'Das Manifest enthält derzeit 258 validierte Statistikobjekte.'],
-  [/262 dokumentierte Gerichtsfaelle/g, '262 dokumentierte Gerichtsfälle'],
+  [/265 dokumentierte Gerichtsfaelle/g, '265 dokumentierte Gerichtsfälle'],
   [/offenen Primärquellen/g, 'Primäranker- und Pinpoint-Aufträgen'],
 ]);
 
