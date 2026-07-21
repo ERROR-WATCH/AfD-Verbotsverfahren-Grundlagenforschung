@@ -1009,6 +1009,24 @@
                     <p class="text-[11px] text-slate-400 leading-relaxed border-t border-slate-100 pt-3">PMK-Daten sind Lagebilddaten und keine automatische AfD-Zurechnung. Geprüfte Werte erscheinen nur mit Quelle und Methodik.</p>
                 </div>
 
+                <div class="bg-white rounded-xl shadow p-6 border border-blue-200 space-y-5">
+                    <div class="flex flex-col lg:flex-row lg:items-start justify-between gap-4">
+                        <div>
+                            <p class="text-xs font-bold uppercase tracking-wider text-brand-blue">Qualitaets- und Ausbaukompass</p>
+                            <h3 class="text-xl font-extrabold text-brand-dark">Was ist bereits stark und was kann ohne Kuerzung weiter gehaertet werden?</h3>
+                            <p class="text-sm text-slate-500 max-w-5xl mt-1">Dieser Block ist bewusst additiv: Er bewertet keine Inhalte ab, sondern trennt belastbare Bestaende, Statusachsen, Fallbacks und naechste Verbesserungen. Ziel ist bessere Belegfuehrung ohne neue Pauschalbehauptungen.</p>
+                        </div>
+                        <div class="flex flex-wrap gap-2 shrink-0">
+                            <a href="./reports/post-build-static-audit-20260721.json" target="_blank" class="bg-blue-50 hover:bg-blue-100 text-brand-blue font-bold px-4 py-2 rounded-lg text-xs transition inline-flex items-center gap-2"><i class="fa-solid fa-list-check"></i><span>Static Audit</span></a>
+                            <a href="./reports/browser-ui-audit-20260721.json" target="_blank" class="bg-green-50 hover:bg-green-100 text-green-700 font-bold px-4 py-2 rounded-lg text-xs transition inline-flex items-center gap-2"><i class="fa-solid fa-display"></i><span>UI Audit</span></a>
+                        </div>
+                    </div>
+                    <div id="statsQualityCompassKpis" class="grid grid-cols-2 md:grid-cols-4 xl:grid-cols-6 gap-3"></div>
+                    <div id="statsQualityCompass" class="grid grid-cols-1 lg:grid-cols-2 gap-4"></div>
+                    <p class="text-[11px] text-slate-400 leading-relaxed border-t border-slate-100 pt-3">Leseregel: Verbesserungsfaehig bedeutet hier nicht fehlerhaft. Es bedeutet: fuer eine spaetere Schriftsatzfassung koennen Originalanker, Pinpoints, Akteurskanten, Rechtskraftstatus und Archiv-Snapshots noch enger zusammengefuehrt werden.</p>
+                </div>
+
+
                 <div class="bg-white rounded-xl shadow p-6 border border-slate-100 space-y-5">
                     <div class="flex flex-col lg:flex-row lg:items-start justify-between gap-4">
                         <div>
@@ -7337,6 +7355,42 @@ Die Zuordnung der 3.722 Belegzitate zu den 18 wehrhaften Verbotsgründen des Por
             host.innerHTML = evidenceBurdenAuditRows.map(row => '<article class="rounded-lg border border-amber-200 bg-amber-50/50 p-4"><div class="flex items-start justify-between gap-3"><div><p class="text-[10px] font-bold uppercase tracking-wider text-brand-gold">' + escapeHtml(row.audit_id) + '</p><h4 class="text-sm font-extrabold text-brand-dark mt-1">' + escapeHtml(row.axis) + '</h4></div><span class="rounded-full bg-white border border-amber-200 px-2 py-1 text-[10px] font-bold text-amber-700">' + escapeHtml(row.status) + '</span></div><p class="mt-2 text-xs text-slate-700"><strong>Schaltstelle:</strong> ' + escapeHtml(row.schaltstelle || row.risk || '') + '</p><p class="mt-1 text-xs text-slate-700"><strong>Verdrahtet:</strong> ' + escapeHtml(row.verdrahtung || row.fix || '') + '</p><p class="mt-1 text-[11px] text-slate-600"><strong>Beleganker:</strong> ' + escapeHtml(row.evidence || row.beleganker || '') + '</p><p class="mt-1 text-[11px] text-amber-800"><strong>Nächste Beweishandlung:</strong> ' + escapeHtml(row.court_ready_action || row.remaining || '') + '</p><p class="mt-1 text-[11px] text-red-700"><strong>Prozessregel:</strong> ' + escapeHtml(row.process_rule || row.beweisregel || 'Keine Entlastungs- oder Pauschalzurechnung ohne Akteur, Quelle und Statusachse.') + '</p></article>').join('');
         }
 
+        function renderQualityCompass(statById = () => 0, entries = [], allCases = []) {
+            const sourceTotal = statValue(statById, 'STAT-SOURCES-TOTAL-001');
+            const sourcePrimary = statValue(statById, 'STAT-SOURCES-PRIMARY-001');
+            const quoteTotal = statValue(statById, 'STAT-QUOTE-AUDIT-TOTAL-001', quoteDeepStats?.total || 0);
+            const quoteCourtReady = statValue(statById, 'STAT-QUOTE-AUDIT-COURTREADY-001', quoteDeepStats?.court_ready_quote_findings || 0);
+            const officialFindings = statValue(statById, 'STAT-FINDINGS-OFFICIAL-001');
+            const vgMatches = statValue(statById, 'STAT-SOURCE-MATCH-TOTAL-001', 1080);
+            const vgPrimary = statValue(statById, 'STAT-SOURCE-MATCH-PRIMARY-001', 341);
+            const caseTotal = Array.isArray(allCases) ? allCases.length : 0;
+            const directCases = allCases.filter(c => String(c.status || '').startsWith('DIREKT AfD')).length;
+            const contextCases = allCases.filter(c => /INDIREKT|Kontext|Nebenbeleg/i.test(`${c.status || ''} ${c.category || ''} ${c.urteilsart || ''}`)).length;
+            const fallbackCases = allCases.filter(c => /google\.com\/search|Suchfallback|Fallback/i.test(Object.values(c || {}).join(' '))).length;
+            const manifestThemes = new Set(entries.map(entry => entry.theme)).size;
+            const gradeA = entries.filter(entry => entry.evidence_grade === 'A').length;
+            renderKpiCards('statsQualityCompassKpis', [
+                { value: caseTotal, label: 'Gerichtsregister' },
+                { value: sourcePrimary, label: 'Primärquellen' },
+                { value: officialFindings, label: 'amtlich/gerichtliche Findings' },
+                { value: quoteCourtReady, label: 'enge Zitat-Dossiers' },
+                { value: vgPrimary, label: 'VG-Primäranker' },
+                { value: fallbackCases, label: 'Fall-Fallbackrouten' }
+            ], ['fa-gavel', 'fa-landmark', 'fa-scale-balanced', 'fa-quote-left', 'fa-thumbtack', 'fa-magnifying-glass']);
+            const rows = [
+                { axis: 'Bestandsschutz ohne Kuerzung', status: 'STABIL', count: fmtStat(caseTotal) + ' Registerfälle; ' + fmtStat(quoteTotal) + ' Zitat-/Proof-Findings', text: 'Bestehende Register-, Quellen- und Zitatbloecke bleiben erhalten. Optimierung erfolgt additiv durch bessere Routen, nicht durch Entfernen.', next: 'README, Datenmodule und Pages weiter als Navigations- und Belegschicht ausbauen.' },
+                { axis: 'Primaerquellen- und Provenienzachse', status: 'AUSBAUBAR', count: fmtStat(sourcePrimary) + ' von ' + fmtStat(sourceTotal) + ' Quellen als Primärquellen markiert', text: 'Amtliche, gerichtliche, parlamentarische und parteieigene Originale sind die staerkste Schicht; Presse bleibt wertvoll, aber niedriger zu gewichten.', next: 'Bei Suchfallbacks bevorzugt amtliche Gerichts-/Behörden-/Parlaments- oder Archivanker nachziehen.' },
+                { axis: 'Pinpoint-Reife', status: 'SCHRIFTSATZARBEIT', count: fmtStat(vgMatches) + ' VG-Quellenmatches; ' + fmtStat(vgPrimary) + ' Primäranker', text: 'Viele Belege sind bereits verdrahtet; fuer Gerichtsfassung muessen Seiten, Randnummern, Aktenzeichen, Absätze, Zeitmarken und lokale Zeilenanker maximal praezise werden.', next: 'Top-Quellen je Verbotsgrund in eine Schriftsatz-Topliste mit Pinpoint und Gegenlese ueberfuehren.' },
+                { axis: 'Status- und Zurechnungstrennung', status: 'GESCHUETZT', count: fmtStat(directCases) + ' direkte AfD-Kanten; ' + fmtStat(contextCases) + ' indirekte/Kontextachsen', text: 'Direkt, indirekt, Nebenbeleg, Freispruch, laufend und rechtskräftig bleiben getrennt. Das schuetzt gegen Überzeichnung und gegen Scheinentlastung.', next: 'Rechtskraft/Instanz/Parteifunktion je Fall als eigene maschinenlesbare Felder fortschreiben.' },
+                { axis: 'Fallback- und Linkrobustheit', status: fallbackCases ? 'UEBERWACHT' : 'ROBUST', count: fmtStat(fallbackCases) + ' Fall-Fallbackrouten im Pages-Datensatz', text: 'Google- und Archivfallbacks sind Ausfallsicherungen fuer tote, verschobene oder blockierte Quellen. Sie sind keine Hoeherstufung der Quelle.', next: 'Fallback-Monitor regelmaessig gegen Direktquelle, Archiv, lokales PDF und Quelleninventar abgleichen.' },
+                { axis: 'Statistik-Erweiterbarkeit', status: 'OHNE KUERZUNG', count: fmtStat(entries.length) + ' Manifestobjekte; ' + fmtStat(manifestThemes) + ' Themencluster; ' + fmtStat(gradeA) + ' A-Belege', text: 'Neue Statistikachsen sollen nur dann hinzugefuegt werden, wenn Quelle, Methode, Statusgrenze und juristische Relevanz sichtbar sind.', next: 'Quellenqualitaet, Pinpoint-Reife, Akteurskanten, Fallback-Monitor und Visualisierungsstatus als eigene additive Module fuehren.' }
+            ];
+            const host = document.getElementById('statsQualityCompass');
+            if (!host) return;
+            host.innerHTML = rows.map(row => '<article class="rounded-lg border border-blue-100 bg-blue-50/30 p-4"><div class="flex items-start justify-between gap-3"><div><p class="text-[10px] font-bold uppercase tracking-wider text-brand-blue">' + escapeHtml(row.status) + '</p><h4 class="text-sm font-extrabold text-brand-dark mt-1">' + escapeHtml(row.axis) + '</h4></div><span class="rounded-full bg-white border border-blue-100 px-2 py-1 text-[10px] font-bold text-brand-blue">' + escapeHtml(row.count) + '</span></div><p class="mt-2 text-xs text-slate-700">' + escapeHtml(row.text) + '</p><p class="mt-2 text-[11px] text-amber-800"><strong>Naechste additive Haertung:</strong> ' + escapeHtml(row.next) + '</p></article>').join('');
+        }
+
+
         function renderTotalDataMatrix(statById = () => 0) {
             const rows = getTotalDataMatrixRows(statById);
             renderKpiCards('statsTotalDataMatrixKpis', [
@@ -7390,6 +7444,7 @@ Die Zuordnung der 3.722 Belegzitate zu den 18 wehrhaften Verbotsgründen des Por
             renderLinkPriorityMatrix(statById);
             renderEvidenceBurdenAudit();
             renderTotalDataMatrix(statById);
+            renderQualityCompass(statById, entries, allCases);
             renderKpiCards('statsAfdMemberKpis', [
                 { value: statById('STAT-AFD-MEMBERS-2025-001'), label: 'AfD-Mitglieder' },
                 { value: statById('STAT-AFD-EXTREMIST-POTENTIAL-2025-001'), label: 'BfV-Tabelle Verdachtsfall AfD 2025' },

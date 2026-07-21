@@ -11,6 +11,32 @@
 
 ---
 
+## Aktueller Stand, Zaehlregeln und Erweiterungsreserve
+
+Dieser Release-Stand fuehrt **313 Gerichtsfälle**, **18 Verbotsgründe**, **3.722 Zitat- und Belegfunde** sowie Quellen zu **allen 16 Bundesländern**. Diese Zahlen sind als Navigations- und Forschungszahlen zu lesen: Sie zeigen, welche Belegbloecke im Repository strukturiert, durchsuchbar und mit lokalen oder externen Quellen verbunden sind. Sie ersetzen nicht die juristische Einzelfallwertung.
+
+### Zaehlregeln fuer Gerichtsfälle
+
+- **Direkte AfD-Fälle** zaehlen nur dann als direkte Registerkante, wenn Partei-, Mandats-, Mitarbeiter-, Kandidatur- oder Funktionärsbezug dokumentiert ist.
+- **Indirekte Kontexturteile** wie der Neukölln-Komplex oder der Mord an Walter Lübcke werden nur mit strenger Zurechnungsgrenze gefuehrt.
+- **Nebenbelege rechter Gewalt** wie Knockout51 werden nicht als AfD-Gerichtsfall gezaehlt, sondern als Kontextmaterial zur rechten Gewalt- und Sicherheitslage.
+- **Freispruch, Berufung, Revision, Ermittlungsverfahren, Eilrechtsschutz und rechtskräftige Entscheidung** bleiben getrennte Statusachsen.
+- **PMK-/BfV-Lagebildzahlen** werden nicht als AfD-Taten gezaehlt, sondern nur als Potentialitäts-, Eskalations- und Sicherheitskontext, sofern eine konkrete Akteurs- oder Organisationskante gesondert belegt ist.
+
+### Statistikachsen, die ohne Kuerzung weiter ausgebaut werden koennen
+
+- **Primärquellenquote:** Anteil amtlicher, gerichtlicher, parlamentarischer und parteieigener Originalanker gegenueber Presse-, Recherche- und Suchfallbacks.
+- **Pinpoint-Reife:** Anteil der Belege mit Seite, Randnummer, Aktenzeichen, Absatz, Zeitmarke, Screenshot-Hash oder lokaler Zeilenfundstelle.
+- **Statusnormalisierung:** maschinenlesbare Trennung von rechtskräftig, nicht rechtskräftig, laufend, Freispruch, Eilentscheidung, Hauptsache und Kontextstatus.
+- **Akteursregister:** Person, Funktion, Zeitraum, Parteiebene, Organisation, Ereignis und Quelle je Beleg enger zusammenfuehren.
+- **Vorfeldkanten:** JA/GD, Identitäre Bewegung, Ein Prozent, Compact, NIUS, Sicherheitskomplexe, Schul-/Kulturkampf und lokale Milieus weiter in Einzelkanten zerlegen.
+- **Google-/Archiv-Fallbacks:** Suchfallbacks bleiben hilfreich fuer tote oder bot-blockierte Quellen, sollen aber langfristig durch stabile Primär-, Gerichts-, Archiv- oder Verlagspfade ersetzt werden.
+- **Visualisierungen:** Zeitreihen, Donuts, Heatmaps, Sankeys und Netzwerke sollen weiterhin die Datenstruktur erklaeren, aber keine eigenen Tatsachenbehauptungen erzeugen.
+
+### Arbeitsregel fuer weitere Optimierung
+
+Der bestehende Stand soll **nicht gekuerzt** werden. Weitere Arbeit soll additiv erfolgen: bessere Quellen, sauberere Pinpoints, zusaetzliche Statusfelder, robustere Fallbacks, verstaendlichere Methodik und bessere Navigation. Bestehende gute Belegpfade bleiben erhalten, solange sie nicht durch eindeutig bessere Quellen ersetzt oder ergaenzt werden.
+
 > 📢 **Dank und Anerkennung:** Ein herzlicher Dank geht an **netzpolitik.org** für ihre großartige Arbeit bei der Erstveröffentlichung und Aufbereitung des 1.000-seitigen Verfassungsschutz-Folgegutachtens zur AfD (`2021-02-22_BfV_AfD_Folgegutachten`). Durch deren hochwertige Digitalisierung konnten wir die Transkriptionen in diesem Repository umfassend aktualisieren und auf ein fehlerfreies Niveau heben.
 
 <img alt="afd verdachtsfall" src="assets/afd%20verdachtsfall.jpg" width="100%" style="max-width: 100%; height: auto;" />
