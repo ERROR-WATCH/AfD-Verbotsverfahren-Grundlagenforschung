@@ -1,0 +1,34 @@
+Release-/Archivprotokoll 20260722-000611
+
+Zeitstempel:
+20260722-000611
+2026-07-22T00:06:11+02:00
+
+Quellstand:
+Commit: c40990a129bdc26a8554577c9eb5a6cbc6736cc4
+Branch: main
+
+Release-Artefakt:
+releases/afd-verbotsverfahren-grundlagenforschung-20260722-000611-release.zip
+
+Archivkopie:
+archives/afd-verbotsverfahren-grundlagenforschung-20260722-000611-release.zip
+
+SHA256:
+2762787ceb023a1482b4fe786bd8824caa0f19e3a7f172f8ffdfca56e3adcdda
+
+Validierungen vor Release:
+- npm run build: bestanden
+- scripts/validate-pages-links.mjs: bestanden, 0 fehlende relative Links
+- scripts/validate-statistics.mjs: bestanden, 0 Fatal, 0 Warnings
+- git diff --check: keine Whitespace-Fehler
+- Static-Check Dringlichkeitsantrag: README bleibt unverändert beim Rohlink; Pages mappt den defekten Attachment-Link auf ./assets/videos/Dringlichkeitsantrag.mp4; statischer Videotab nutzt dieselbe lokale MP4.
+
+Zahlenstand:
+- Gerichtsfälle / Urteilsbelege im Portal: 313
+- Zitate und Belege: 3.722
+- Verbotsgründe: 18
+- Bundesländer: 16
+
+Hinweis:
+Die ZIP-Datei und die Archivkopie werden nicht im Git-Baum versioniert. Dieser Bericht hält Pfade, Hash und geprüften Quellstand fest.
