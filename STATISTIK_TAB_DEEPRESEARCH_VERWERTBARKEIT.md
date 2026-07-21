@@ -270,7 +270,7 @@ Lokale Gruppe:
 
 Inhaltlich verwertbar:
 
-- 262 dokumentierte Registerfaelle im Manifest.
+- 313 dokumentierte Registerfaelle im Portal.
 - Deliktarten.
 - Rechtsstatus.
 - direkte/indirekte AfD-Zurechnung.
@@ -622,7 +622,7 @@ Die statistische Staerke des Repositories liegt nicht in einzelnen Keywordtreffe
 
 - 10.323 erfassten Quellen,
 - 5.442 Primärquellen,
-- mindestens 265 Registerfaellen,
+- mindestens 313 Registerfaellen,
 - 3.703 geprüften Findings,
 - 3.722 Zitatbefunden,
 - 1.234 Findings der Beweisstufe A,

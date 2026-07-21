@@ -231,7 +231,7 @@ Dieses Verzeichnis enthält weitere im Archiv erfasste Belege, Zeitungsberichte,
 | [`AfD-Verbot_ Alle Anträge, Abstimmungen und Gutachten.pdf`](./dokumente/hauptquellen/AfD-Verbot_%20Alle%20Antr%C3%A4ge%2C%20Abstimmungen%20und%20Gutachten.pdf) | AfD-Verbot  Alle Anträge, Abstimmungen und Gutachten |
 | [`AfD-Verbot__Alle_Anträge,_Abstimmungen_und_Gutachten.pdf`](./dokumente/hauptquellen/AfD-Verbot__Alle_Antr%C3%A4ge%2C_Abstimmungen_und_Gutachten.pdf) | AfD-Verbot Alle Anträge, Abstimmungen und Gutachten |
 | [`AfD-Verbot_hätte_laut_neuem_Gutachten_„wahrscheinlich_Erfolg“.pdf`](./dokumente/hauptquellen/AfD-Verbot_h%C3%A4tte_laut_neuem_Gutachten_%E2%80%9Ewahrscheinlich_Erfolg%E2%80%9C.pdf) | AfD-Verbot hätte laut neuem Gutachten „wahrscheinlich Erfolg“ |
-| [`AfD_ Gold aus Erbschaft wohl nach Liechtenstein gebracht – Fragen bleiben offen - DER SPIEGEL.pdf`](./dokumente/hauptquellen/AfD_%20Gold%20aus%20Erbschaft%20wohl%20nach%20Liechtenstein%20gebracht%20%E2%80%93%20Fragen%20bleiben%20anhängig/statusgetrennt%20-%20DER%20SPIEGEL.pdf) | AfD  Gold aus Erbschaft wohl nach Liechtenstein gebracht – Fragen bleiben offen - DER SPIEGEL |
+| [`AfD_ Gold aus Erbschaft wohl nach Liechtenstein gebracht – Fragen bleiben offen - DER SPIEGEL.pdf`](./dokumente/hauptquellen/AfD_%20Gold%20aus%20Erbschaft%20wohl%20nach%20Liechtenstein%20gebracht%20%E2%80%93%20Fragen%20bleiben%20offen%20-%20DER%20SPIEGEL.pdf) | AfD  Gold aus Erbschaft wohl nach Liechtenstein gebracht – Fragen bleiben offen - DER SPIEGEL |
 | [`AfD_ Schwurblerin und Identitärer kriegen keinen Hausausweis.pdf`](./dokumente/hauptquellen/AfD_%20Schwurblerin%20und%20Identit%C3%A4rer%20kriegen%20keinen%20Hausausweis.pdf) | AfD  Schwurblerin und Identitärer kriegen keinen Hausausweis |
 | [`AfD_ Verdacht auf Informationsweitergabe an Russland - DER SPIEGEL.pdf`](./dokumente/hauptquellen/AfD_%20Verdacht%20auf%20Informationsweitergabe%20an%20Russland%20-%20DER%20SPIEGEL.pdf) | AfD  Verdacht auf Informationsweitergabe an Russland - DER SPIEGEL |
 | [`AfD_ Wie Demokraten mit Verfassungsfeinden umgehen können.pdf`](./dokumente/hauptquellen/AfD_%20Wie%20Demokraten%20mit%20Verfassungsfeinden%20umgehen%20k%C3%B6nnen.pdf) | AfD  Wie Demokraten mit Verfassungsfeinden umgehen können |
@@ -717,7 +717,7 @@ Ende der öffentlich zugänglichen Quellen.
 
 ---
 
-## TEIL II: URTEILE & GERICHTSENTSCHEIDUNGEN (historischer Registerstand: 239 Fälle; aktueller Release-Stand: 262)
+## TEIL II: URTEILE & GERICHTSENTSCHEIDUNGEN (historischer Registerstand: 239 Fälle; aktueller Release-Stand: 313)
 
 ### URTEILE & VERURTEILUNGEN: AfD-Mandatsträger und die Partei (Volltext-Register)
 
@@ -2605,13 +2605,13 @@ Dieses Kapitel führt sämtliche Quellennachweise, Online-Referenzen, Literaturv
 
 ### Quellenverzeichnis und Provenienzregister der Urteilsdatenbank
 
-Dieses Dokument enthält die verifizierten Online-Quellen, höchstrichterlichen Gerichtsentscheidungen, Pressemeldungen und behördlichen Nachweise für den historischen Registerstand bis Fall 259; aktueller Portal-/Release-Stand: mindestens 265 Fälle.
+Dieses Dokument enthält die verifizierten Online-Quellen, höchstrichterlichen Gerichtsentscheidungen, Pressemeldungen und behördlichen Nachweise für den historischen Registerstand bis Fall 259; aktueller Portal-/Release-Stand: mindestens 313 Fälle.
 
 Sämtliche Belege liegen physisch im Repository unter [`./urteilsbelege/`](./dokumente/hauptquellen/urteilsbelege/) im unzensierten Volltext vor.
 
 ---
 
-### 8.1. Gerichtsentscheidungen & Strafurteile (historischer Registerstand: Fälle 1 bis 259; aktueller Release-Stand: 262)
+### 8.1. Gerichtsentscheidungen & Strafurteile (historischer Registerstand: Fälle 1 bis 259; aktueller Release-Stand: 313)
 
 
 1. **Björn Höcke (Geldstrafe (SA-Parole „Alles für Deutschland“).):**
@@ -4685,13 +4685,13 @@ Ersatz- und Beschaffungs­strategien für zwölf präzisierte Schlüssel­quelle
 
 ---
 
-#### ERGÄNZTES MASTER-QUELLENREGISTER (historischer Registerstand: 239 Gerichtsfälle; aktueller Release-Stand: 262; Literatur & Dossiers)
+#### ERGÄNZTES MASTER-QUELLENREGISTER (historischer Registerstand: 239 Gerichtsfälle; aktueller Release-Stand: 313; Literatur & Dossiers)
 
 Dieses Kapitel erweitert den juristischen Deep-Research-Ausgangspunkt um die vollständigen, unzensierten Belege und Quellennachweise des Portals (Stand: Juni 2026).
 
 ---
 
-### A) Systematisches Strafrechts- und Gerichtsregister (historischer Registerstand: 239 Fälle; aktueller Release-Stand: 262)
+### A) Systematisches Strafrechts- und Gerichtsregister (historischer Registerstand: 239 Fälle; aktueller Release-Stand: 313)
 
 - 1. **Björn Höcke (SA-Parole „Alles für Deutschland“):**
    [LTO-Bericht zur Verurteilung und BGH-Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/lg-halle-5kls623-hoecke-urteil/) [✅ 200 OK] `[📄 Lokaler PDF-Download](./dokumente/hauptquellen/Urteile gegen Höcke wegen NS-Parole rechtskräftig.pdf)`
@@ -6005,9 +6005,9 @@ In diesem Abschnitt werden die straf- und verfassungsrechtlichen Verfahren 46 bi
 
 
 
-## ABSCHNITT 5: STRAFPROZESSE, SONDERKATEGORIEN & STAATSSCHUTZVERFAHREN (historischer Ausschnitt: Fälle 61 bis 239; aktueller Release-Stand: 262)
+## ABSCHNITT 5: STRAFPROZESSE, SONDERKATEGORIEN & STAATSSCHUTZVERFAHREN (historischer Ausschnitt: Fälle 61 bis 239; aktueller Release-Stand: 313)
 
-In diesem historischen Abschnitt werden die Urteile 61 bis 239 detailliert dargelegt und juristisch bewertet; die späteren Nachträge führen den aktuellen Release-Stand bis 262.
+In diesem historischen Abschnitt werden die Urteile 61 bis 239 detailliert dargelegt und juristisch bewertet; die späteren Nachträge führen den aktuellen Release-Stand bis 313.
 
 ---
 

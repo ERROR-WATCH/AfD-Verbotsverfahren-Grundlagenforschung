@@ -110,7 +110,7 @@ Der Tab soll wie eine staatsanwaltschaftliche Beweisuebersicht vor dem Bundesver
 - Diagramm: Urteilsarten-Donut + Rechtsstatus-Matrix + Sicherheitsampel
 - Verfahrens- und Pinpoint-/Statusfeld: Amtliche GBA-/OLG-/VG-Volltexte fuer Jian G., Krah, Bystron, Malsack-Winkemann, Kurt H.; Rechtskraft pruefen.
 - Zahlenanker:
-  - Gerichtsregisterfaelle: 262
+  - Gerichtsregisterfaelle: 313
   - Nachtragsfaelle zweite Lueckenpruefung: 13
 - Lokale Belege:
   - `dokumente/hauptquellen/urteilsbelege/01_Hoecke_SA_Parole_LG_Halle.md`

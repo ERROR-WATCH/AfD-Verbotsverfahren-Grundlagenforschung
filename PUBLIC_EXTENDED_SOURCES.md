@@ -460,13 +460,13 @@ Dieses Kapitel führt sämtliche Quellennachweise, Online-Referenzen, Literaturv
 
 # Quellenverzeichnis und Provenienzregister der Urteilsdatenbank
 
-Dieses Dokument enthält die verifizierten Online-Quellen, höchstrichterlichen Gerichtsentscheidungen, Pressemeldungen und behördlichen Nachweise für den historischen Registerstand bis Fall 259; aktueller Portal-/Release-Stand: 265 Fälle.
+Dieses Dokument enthält die verifizierten Online-Quellen, höchstrichterlichen Gerichtsentscheidungen, Pressemeldungen und behördlichen Nachweise für den historischen Registerstand bis Fall 259; aktueller Portal-/Release-Stand: 313 Fälle.
 
 Sämtliche Belege liegen physisch im Repository unter [`./urteilsbelege/`](./dokumente/hauptquellen/urteilsbelege/) im unzensierten Volltext vor.
 
 ---
 
-### 8.1. Gerichtsentscheidungen & Strafurteile (historischer Registerstand: Fälle 1 bis 259; aktueller Release-Stand: 265)
+### 8.1. Gerichtsentscheidungen & Strafurteile (historischer Registerstand: Fälle 1 bis 259; aktueller Release-Stand: 313)
 
 
 1. **Björn Höcke (SA-Parole „Alles für Deutschland“):**  

@@ -39,7 +39,7 @@ Dieses Repository ist ein offenes wissenschaftliches Hilfsprojekt, das unter kla
 Dieses Portal wurde geschaffen, um Juristen und Gutachtern einen blitzschnellen Einstieg in das Belegmaterial zu ermöglichen. 
 
 ### Empfohlener Arbeitsablauf:
-1.  **Sichtung im Dashboard:** Nutzen Sie die Suchschlitze und Kategorie-Dropdowns im interaktiven Web-Portal, um relevante Urteile (mindestens 265 Fälle) oder Gutachten zu filtern.
+1.  **Sichtung im Dashboard:** Nutzen Sie die Suchschlitze und Kategorie-Dropdowns im interaktiven Web-Portal, um relevante Urteile (mindestens 313 Fälle) oder Gutachten zu filtern.
 2.  **Verifizierung vor Ort:** Nutzen Sie den Button *„Urteil online suchen“*, um das Aktenzeichen direkt in den offiziellen Justizdatenbanken des Bundes und der Länder im Volltext abzurufen.
 3.  **Beweissicherung:** Sichern Sie die gefundene Online-Quelle per Wayback-Maschine (Internet Archive) oder erstellen Sie einen notariell beglaubigten Screenshot, um eine Löschung der Belege im Netz prozessual abzufangen.
 

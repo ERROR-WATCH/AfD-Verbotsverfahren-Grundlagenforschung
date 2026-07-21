@@ -21,7 +21,7 @@ Die Beweislage wird nicht weichgezeichnet. Wenn ein Thema im Repository belegt i
 - Verbotsgründe in der Beweismatrix: 18.
 - Art.-21-Findings im Datensatz: 3733.
 - Quelleninventar-Einträge: 10324.
-- Kanonischer Gerichtsregisterstand: 262.
+- Kanonischer Gerichtsregisterstand: 313.
 - Kanonischer Zitat-/Proof-Stand: 3611.
 - Statusachsen: Bund, Länder, JA/GD, Flügel/Vorfeld, Teilstrukturen, Nichtbeobachtung einzelner Ebenen, Eilentscheidung, Hauptsache, Rechtskraft.
 

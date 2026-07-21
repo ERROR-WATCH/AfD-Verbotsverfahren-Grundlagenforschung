@@ -18,7 +18,7 @@ Die folgenden Kennzahlen sind aus dem aktuellen Repository-/ZIP-Stand und den ge
 
 | Bereich | Aktueller Stand | Beleg im Release-Stand | Einordnung |
 |---|---:|---|---|
-| Gerichtsregister / Gerichtsentscheidungen / Urteilsbelege | 262 | `README.md`, `STATISTIKMODUL.md`, `statistikquellen.md`, `PUBLIC_SOURCES.md` bis Quelle 262 | Registerzahl; nicht gleichzusetzen mit 262 rechtskräftigen Verurteilungen. |
+| Gerichtsregister / Gerichtsentscheidungen / Urteilsbelege | 313 | `README.md`, `STATISTIKMODUL.md`, `statistikquellen.md`, `PUBLIC_SOURCES.md` bis Quelle 262 | Registerzahl; nicht gleichzusetzen mit 262 rechtskräftigen Verurteilungen. |
 | Juristische Verbotsgründe | 18 | `README.md`, `STATISTIKMODUL.md`, `daten/verbotsgruende_18_beweismatrix.jsonl`, `daten/vg_source_match_audit_2026.jsonl` | Konsolidierte Art.-21-Beweisachsen. |
 | Belegzitate / Proof-Findings | 3.722 | README.md, STATISTIKMODUL.md, STATISTIK_TAB_INHALTLICHE_VISUALISIERUNG.md, statistikquellen.md | Aktueller lokaler Release-Korpus. Die Live-Seite afd-verbot.de/beweise weist separat einen Online-Stand von 4.036 Beweisen aus; dieser Online-Stand ist als spätere Source-Erweiterung zu behandeln, nicht als bereits vollständig lokaler Proof-Korpus. |
 | Dokumente | über 1.400 | `README.md` | Dokumentenbasis des Portals; keine Aussage, dass jeder Einzelbeleg dieselbe Beweisqualität hat. |
@@ -85,7 +85,7 @@ Die aktuellen Statistikdateien leisten mehr als eine Mengenanzeige. Sie bilden e
 
 | Modul | Aktuelle Leistung | Gerichtsfeste Nutzbarkeit |
 |---|---|---|
-| `STATISTIKMODUL.md` | Dokumentiert Kernwerte 262 / 18 / 3.722 und Methodik des Statistik-Tabs. | Geeignet als technische Übersicht, nicht als alleinige Rechtsquelle. |
+| `STATISTIKMODUL.md` | Dokumentiert Kernwerte 313 / 18 / 3.722 und Methodik des Statistik-Tabs. | Geeignet als technische Übersicht, nicht als alleinige Rechtsquelle. |
 | `STATISTIK_METHODIK.md` | Beschreibt Erhebungs-, Normalisierungs- und Abgrenzungsregeln. | Wichtig für Nachvollziehbarkeit und Angriffsfestigkeit statistischer Verdichtung. |
 | `STATISTIK_TAB_DEEPRESEARCH_VERWERTBARKEIT.md` | Bewertet, welche Statistikachsen beweisrechtlich verwertbar sind. | Dient als Red-Team- und Nutzbarkeitsvermerk. |
 | `STATISTIK_TAB_INHALTLICHE_VISUALISIERUNG.md` | Ordnet Visualisierungen den Art.-21-Prüffeldern zu. | Geeignet für gerichtliche Anlagenlogik: Sankey, Heatmap, Timeline, Statusmatrix, Donut, Registertabellen. |
@@ -105,7 +105,7 @@ Die Quellenlage ist breit und in mehreren Schichten abgesichert:
 | Quellebene | Dateien / Register | Bewertung |
 |---|---|---|
 | Lokales Quelleninventar | `daten/source_inventory.jsonl` | Zentrale maschinenlesbare Provenienzschicht mit Quellenart, Pfad und Beweisnähe. |
-| Öffentliche Quellenlisten | `full-sources.md`, `PUBLIC_SOURCES.md`, `PUBLIC_EXTENDED_SOURCES.md` | Nützlich als Online-/Recherche- und Belegindex. Maßgeblicher Portalstand für das Gerichtsregister ist 262; abweichende Teilstände in Quellenlisten sind nicht als aktuelle Gesamtzahl zu verwenden. |
+| Öffentliche Quellenlisten | `full-sources.md`, `PUBLIC_SOURCES.md`, `PUBLIC_EXTENDED_SOURCES.md` | Nützlich als Online-/Recherche- und Belegindex. Maßgeblicher Portalstand für das Gerichtsregister ist 313; abweichende Teilstände in Quellenlisten sind nicht als aktuelle Gesamtzahl zu verwenden. |
 | Originalquellen | `ORIGINAL_SOURCES.md` | Wichtig für Chain of Custody, Original-URLs und lokale Archivkopien. |
 | Urteilsregister | `URTEILE_DEEPRESEARCH.md`, `dokumente/hauptquellen/urteilsbelege/` | Enthält Gerichts-, Straf-, Status- und Verwaltungsbelege. Jeder Fall ist nach Status und Beweisfunktion zu lesen. |
 | Gutachten | GFF-, BfV-, DIMR- und VS-Berichtsdateien sowie Splits/OCR | Hoher Wert für juristische Struktur, Tatsachenbasis, Quellenverweise und Verdichtung. |
@@ -138,8 +138,8 @@ Die folgenden Punkte sind die verbleibenden echten, aktuellen Verbesserungen. Si
 | Datei / Bereich | Befund | Warum relevant | Status | Konkrete Nacharbeit |
 |---|---|---|---|---|
 | `README.md` | Das README betont zutreffend, dass das Repository kein fertiges juristisches Antragsdokument ist. | Ein Parteiverbotsantrag erfordert Verfassungsorganbeschluss, prozessuale Antragsschrift, Anlagenverzeichnis und rechtliche Subsumtion. | Offen außerhalb des Release-ZIPs; kein technischer Mangel. | Für einen echten Antrag eine separate Schriftsatzfassung erstellen; README nicht kürzen, allenfalls ergänzen. |
-| `full-sources.md` | Enthält Teilstände mit 239 Fällen. | Kann bei flüchtiger Lektüre vom aktuellen Portalstand mindestens 265 abweichen. | Aktueller Release-Stand beträgt mindestens 265. | Bei späterer Konsolidierung Teilstände vollständig in den mindestens 265er Quellenstand überführen. |
-| `PUBLIC_EXTENDED_SOURCES.md` | Enthält Teilstände mit 259 Fällen, während Nachträge bis 262 vorhanden sind. | Quellenlisten sollen den aktuellen Registerstand eindeutig spiegeln. | Aktuelle README-/Statistikdateien führen mindestens 265. | Bei späterer Konsolidierung Teilstände vollständig in den mindestens 265er Quellenstand überführen. |
+| `full-sources.md` | Enthält Teilstände mit 239 Fällen. | Kann bei flüchtiger Lektüre vom aktuellen Portalstand mindestens 313 abweichen. | Aktueller Release-Stand beträgt mindestens 313. | Bei späterer Konsolidierung Teilstände vollständig in den mindestens 313er Quellenstand überführen. |
+| `PUBLIC_EXTENDED_SOURCES.md` | Enthält Teilstände mit 259 Fällen, während Nachträge bis 313 vorhanden sind. | Quellenlisten sollen den aktuellen Registerstand eindeutig spiegeln. | Aktuelle README-/Statistikdateien führen mindestens 313. | Bei späterer Konsolidierung Teilstände vollständig in den mindestens 313er Quellenstand überführen. |
 | `daten/antragsreife_top300_zitatpaket_2026.jsonl` / `daten/schriftsatz_topzitate_export_2026.jsonl` | Topzitate sind vorbereitet, aber eine endgültige Antragsspitze ist eine juristische Auswahlentscheidung. | Ein Antrag braucht nicht alle Zitate, sondern die stärksten, redundant abgesicherten und prozessual sauber eingeordneten Belege. | Daten vorhanden; formale Antragsspitze offen. | Endauswahl nach Rechtsgut, Akteursrang, Quelle, Pinpoint, Zurechnung, Gegenlese und Prozessrisiko treffen. |
 | `daten/schlimmste_zitate_pdf_audit_2026.jsonl` / `reports/schlimmste-zitate-pdf-audit-2026-07-09.md` | Ein Risiko-/Wortlautfall bleibt getrennt und wird nicht als harter Top300-Beleg geführt. | Das schützt die Beweisführung vor Überzeichnung. | Korrekt getrennt, kein Defizit der harten Beweisbasis. | Nur verwenden, wenn Originalquelle/Wortlaut endgültig gesichert ist; sonst als Risiko-/Recherchehinweis belassen. |
 | Status- und Sicherheitsfälle | Laufende Ermittlungen, Anklagen, Eilrechtsschutz, Hauptsache und Rechtskraft bleiben getrennt. | Für ein Verfahren ist diese Trennung zwingend, weil sonst Überzeichnung angreifbar wird. | Struktur vorhanden. | In einer späteren Antragsschrift je Fall die aktuellste amtliche Verfahrenslage nochmals gegen Gericht/GBA/Behörde prüfen. |
