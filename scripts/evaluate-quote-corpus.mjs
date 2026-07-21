@@ -252,7 +252,7 @@ ${axesRows.map(row => `### ${row.title}
   index = index.replace(/\{ value: s\.to_normalize \|\| 0, label: 'belegpfad normalisieren' \}/, "{ value: s.belegpfad_normalisierung || s.to_normalize || 0, label: 'Belegpfad-Normalisierung' }");
   index = index.replace(/\{ value: s\.with_pinpoint \|\| 0, label: 'mit konkreter Fundstelle' \}/, "{ value: s.with_pinpoint || 0, label: 'Pinpoint/Proof-ID vorhanden' }");
   index = index.replace(/\{ value: s\.with_originaltext \|\| 0, label: 'mit Originaltext\/Auszug' \}/, "{ value: s.with_originaltext || 0, label: 'Originaltext/Auszug im Finding' }");
-  index = index.replace(/renderRichStatBars\('statsQuoteDeepSources', \(s\.by_source_type \|\| \[\]\)\.concat\(s\.by_evidence_grade \|\| \[\]\)\.slice\(0, 14\)\);/, "renderRichStatBars('statsQuoteDeepSources', (s.by_source_type || []).concat(s.by_evidence_grade || []).slice(0, 14));\n            renderRichStatBars('statsQuoteDeepTargets', (s.by_target_group || []).slice(0, 12));");
+  index = index.replace(/renderRichStatBars\('statsQuoteDeepSources', \(s\.by_source_type \|\| \[\]\)\.concat\(s\.by_evidence_grade \|\| \[\]\)\.slice\(0, 14\)\);(?:\n\s*renderRichStatBars\('statsQuoteDeepTargets', \(s\.by_target_group \|\| \[\]\)\.slice\(0, 12\)\);)*/, "renderRichStatBars('statsQuoteDeepSources', (s.by_source_type || []).concat(s.by_evidence_grade || []).slice(0, 14));\n            renderRichStatBars('statsQuoteDeepTargets', (s.by_target_group || []).slice(0, 12));");
   index = index.replace(/Quote-Findings/g, 'Zitat-/Proof-Findings');
   await fs.writeFile(indexPath, index);
 
