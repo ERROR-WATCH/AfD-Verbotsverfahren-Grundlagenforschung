@@ -1,0 +1,97 @@
+{
+  "generated_at": "2026-07-21",
+  "scope": "new-cases-304-313",
+  "note": "Statuswerte wurden nach lokaler/HTTP-Gegenpruefung dokumentiert; alte taz-URL !5997422 ist ersetzt durch die funktionierende taz-Route !6089080.",
+  "checks": [
+    {
+      "case": 304,
+      "label": "TAG24 Daniel Zabel",
+      "url": "https://www.tag24.de/dresden/crime/dresdner-afd-stadtrat-zabel-nach-koerperverletzung-verurteilt-2794441",
+      "status": 200
+    },
+    {
+      "case": 305,
+      "label": "KStA Koeln Ex-AfD-Mitarbeiter",
+      "url": "https://www.ksta.de/koeln/prozess-um-stoerung-einer-kundgebung-ex-afd-mitarbeiter-verurteilt-556824",
+      "status": 200
+    },
+    {
+      "case": 306,
+      "label": "MDR/Tagesschau Andreas Harlass",
+      "url": "https://www.mdr.de/nachrichten/sachsen/dresden/dresden-radebeul/freispruch-andreas-harlass-afd-olg-dresden-100.html",
+      "status": 200
+    },
+    {
+      "case": 307,
+      "label": "n-tv Schneider-Gaertner",
+      "url": "https://www.n-tv.de/politik/AfD-Politikerin-wegen-Volksverhetzung-verurteilt-article25364104.html",
+      "status": 200
+    },
+    {
+      "case": 308,
+      "label": "Soester Anzeiger Mirko Fischer",
+      "url": "https://www.soester-anzeiger.de/lokales/warstein/afd-ratsherr-mirko-fischer-wegen-koerperverletzung-verurteilt-91624356.html",
+      "status": 200
+    },
+    {
+      "case": 309,
+      "label": "MOZ Marcel Donsch",
+      "url": "https://www.moz.de/lokales/bernau/koerperverletzung-und-freiheitsberaubung-afd-politiker-marcel-donsch-verurteilt-57005621.html",
+      "status": 200
+    },
+    {
+      "case": 309,
+      "label": "taz Gewaltbereite AfD-Politikerinnen",
+      "url": "https://taz.de/Gewaltbereite-AfD-Politikerinnen/!6089080/",
+      "status": 200
+    },
+    {
+      "case": 310,
+      "label": "t-online Roman Mrugalla",
+      "url": "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_100305470/dortmund-afd-politiker-roman-mrugalla-wegen-angriffs-auf-polizei-verurteilt.html",
+      "status": 200
+    },
+    {
+      "case": 310,
+      "label": "Correctiv Gewalt als Alternative Daten",
+      "url": "https://download.correctiv.org/flourish/gewalt-als-alternative/",
+      "status": 200
+    },
+    {
+      "case": 310,
+      "label": "Correctiv Gewalt als Alternative Artikel",
+      "url": "https://correctiv.org/aktuelles/afd/2025/07/10/gewalt-als-alternative-afd-politikerinnen-und-mitarbeiterinnen/",
+      "status": 200
+    },
+    {
+      "case": 311,
+      "label": "BRG Gewaltbereitschaft AfD-Funktionaerinnen",
+      "url": "https://verband-brg.de/analyse-gewaltbereitschaft-bei-afd-funktionaer-innen/",
+      "status": 200
+    },
+    {
+      "case": 311,
+      "label": "SessionNet AfD-Fraktion Unstrut-Hainich",
+      "url": "https://sessionnet.krz.de/unstrut_hainich_kreis/bi/fr020.asp?FRLFDNR=6",
+      "status": 200
+    },
+    {
+      "case": 312,
+      "label": "Correctiv AfD-Bundesvorstand Kneller",
+      "url": "https://correctiv.org/aktuelles/afd/2026/07/08/afd-vorstand-voelkisch-parteitag-erfurt/",
+      "status": 200
+    },
+    {
+      "case": 312,
+      "label": "AfD Watch Bielefeld Kneller",
+      "url": "https://afdwatchbielefeld.com/2025/05/15/maximilian-kneller/",
+      "status": 200
+    },
+    {
+      "case": 313,
+      "label": "taz Robert H. Gewaltbereite AfD-Politikerinnen",
+      "url": "https://taz.de/Gewaltbereite-AfD-Politikerinnen/!6089080/",
+      "status": 200
+    }
+  ]
+}

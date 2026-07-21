@@ -73,6 +73,21 @@ Quellen:
 - BGH 3 StR 33/25 (Entscheidungsdatenbank/Spiegelung): https://www.hrr-strafrecht.de/hrr/3/25/3-33-25.php
 - tagesschau zum BGH-Urteil: https://www.tagesschau.de/inland/bgh-urteil-knockout-51-100.html
 
+### Flensburg / Brandanschläge auf Parteibüros
+
+- **Registerstatus:** nicht gezählt.
+- **Grund:** Kein Urteil und kein belastbar bestätigter direkter AfD-Mitgliedschafts-/Funktionsbezug in amtlichen oder gerichtlichen Quellen.
+- **Belegfunktion:** Nebenbeleg für rechte Gewalt gegen demokratische Infrastruktur und Parteibüros; betroffen waren unter anderem Büros von Die Linke, SPD, Grünen, CDU und SSW.
+- **Gesicherter Kern:** NDR/Polizei berichten über Deutschlandflaggen, rechtsextreme Sticker, sogenannte Molotow-Cocktails bzw. mutmaßlichen Brandbeschleuniger, Öffentlichkeitsfahndung, Tatverdächtigen und Untersuchungshaft.
+- **AfD-Bezug:** Ein AfD-Mitgliedschaftsbezug wird in antifaschistischen/Indymedia-Recherchen behauptet, ist aber nach aktuellem Prüfstand nicht amtlich, gerichtlich oder durch belastbare journalistische Zweitquelle bestätigt.
+- **Zurechnungsgrenze:** Keine AfD-Zurechnung; kein Fall 266.
+
+Quellen:
+- NDR Ereigniskern 08.04.2026: https://www.ndr.de/nachrichten/schleswig-holstein/flensburg_nordfriesland_schleswig-flensburg/flensburg-mehrere-anschlaege-auf-parteibueros-veruebt%2Canschlaege-108.html
+- NDR Öffentlichkeitsfahndung 29.05.2026: https://www.ndr.de/nachrichten/schleswig-holstein/flensburg_nordfriesland_schleswig-flensburg/oeffentlichkeitsfahndung-nach-angriffen-auf-flensburger-parteibueros%2Cregionflensburgnews-2624.html
+- NDR Festnahme/U-Haft 01.06.2026: https://www.ndr.de/nachrichten/schleswig-holstein/flensburg_nordfriesland_schleswig-flensburg/nach-angriffen-auf-flensburger-parteibueros-tatverdaechtiger-ermittelt%2Cattacken-parteibueros-100.html
+- Indymedia-Behauptung AfD-Mitgliedschaft 30.05.2026: https://de.indymedia.org/node/739328
+
 ## 3. Weitere ähnliche Komplexe, nicht als Urteil gezählt
 
 ### Reuß-/Reichsbürger-Komplex / Birgit Malsack-Winkemann
