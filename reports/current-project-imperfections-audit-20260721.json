@@ -1,0 +1,105 @@
+{
+  "time": "2026-07-21T14:09:19.202Z",
+  "count": 313,
+  "max": 313,
+  "gaps": [],
+  "dups": [],
+  "missingLocalBelegs": [],
+  "noLocalCount": 0,
+  "noOnlineCount": 0,
+  "googleOnlineFields": [],
+  "statusCounts": {
+    "DIREKT AfD": 187,
+    "INDIREKT AfD": 110,
+    "INDIREKT AfD / KONTEXT": 1,
+    "DIREKT AfD / KANDIDATURKONTEXT": 3,
+    "DIREKT AfD / TATZEIT": 1,
+    "DIREKT AfD / EX-AFD": 6,
+    "INDIREKT AfD / MITARBEITERKONTEXT": 1,
+    "DIREKT AfD / FREISPRUCH": 1,
+    "DIREKT AfD / KOMMUNALFRAKTION": 2,
+    "DIREKT AfD / JA": 1
+  },
+  "topUrteilsarten": [
+    [
+      "(runtime/default)",
+      257
+    ],
+    [
+      "Strafurteil / Beleidigung, nicht rechtskräftig",
+      3
+    ],
+    [
+      "Strafurteil / NS-Kennzeichen, nicht rechtskräftig",
+      2
+    ],
+    [
+      "Strafgerichtliche Geldstrafe / NS-Relativierung",
+      2
+    ],
+    [
+      "Strafurteil / Volksverhetzung oder NS-Kennzeichen",
+      1
+    ],
+    [
+      "Strafurteil / Geldwaesche und Noetigung",
+      1
+    ],
+    [
+      "Strafurteil / Volksverhetzung und Gewaltdarstellung",
+      1
+    ],
+    [
+      "Aufgehobenes Strafurteil / Freispruch",
+      1
+    ],
+    [
+      "Strafgerichtlicher Freispruch",
+      1
+    ],
+    [
+      "Kontexturteil / rechte Gewalt",
+      1
+    ],
+    [
+      "Mordurteil / Rechtsterrorismus-Kontext",
+      1
+    ],
+    [
+      "Strafurteil / Volksverhetzung, nicht rechtskräftig",
+      1
+    ],
+    [
+      "Strafgerichtliche Geldstrafe / rassistische Beleidigung",
+      1
+    ],
+    [
+      "Strafurteil / Beleidigung und Volksverhetzung",
+      1
+    ],
+    [
+      "Strafurteil / Wirtschaftsdelikt",
+      1
+    ],
+    [
+      "Strafurteil / Sozialversicherungsdelikt",
+      1
+    ],
+    [
+      "Strafurteil / Bedrohung, Waffen und Sicherheit",
+      1
+    ],
+    [
+      "Strafurteil / Freiheitsstrafe Gewalt",
+      1
+    ],
+    [
+      "Strafbefehl / Verkehrsstrafrecht",
+      1
+    ],
+    [
+      "Strafbefehl / NS-Kennzeichen und Beleidigung",
+      1
+    ]
+  ]
+}

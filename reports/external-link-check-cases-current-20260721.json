@@ -1,0 +1,2657 @@
+{
+  "checked_at": "2026-07-21T14:57:46.102Z",
+  "unique_urls": 292,
+  "ok": 225,
+  "problematic": 67,
+  "results": [
+    {
+      "url": "https://www.lto.de/recht/nachrichten/n/lg-halle-5kls623-hoecke-urteil/",
+      "cases": [
+        1,
+        7
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.lto.de/recht/nachrichten/n/lg-halle-5kls623-hoecke-urteil"
+    },
+    {
+      "url": "https://www.lto.de/recht/nachrichten/n/volksverhetzung-kaiser-geldstrafe-bestaetigt-landgericht-lueneburg/",
+      "cases": [
+        2
+      ],
+      "ok": false,
+      "status": 404,
+      "finalUrl": "https://www.lto.de/recht/nachrichten/n/volksverhetzung-kaiser-geldstrafe-bestaetigt-landgericht-lueneburg"
+    },
+    {
+      "url": "https://www.sueddeutsche.de/muenchen/muenchen-afd-florian-jaeger-volksverhetzung-corona-impfen-novemberpogrome-1.5645328",
+      "cases": [
+        3
+      ],
+      "ok": false,
+      "status": 404,
+      "finalUrl": "https://www.sueddeutsche.de/muenchen/muenchen-afd-florian-jaeger-volksverhetzung-corona-impfen-novemberpogrome-1.5645328"
+    },
+    {
+      "url": "https://www.sueddeutsche.de/bayern/traunstein-afd-kreisrat-wegen-volksverhetzung-verurteilt-lux.Ur8tE9X4q67p6Z",
+      "cases": [
+        4
+      ],
+      "ok": false,
+      "status": 404,
+      "finalUrl": "https://www.sueddeutsche.de/bayern/traunstein-afd-kreisrat-wegen-volksverhetzung-verurteilt-lux.Ur8tE9X4q67p6Z"
+    },
+    {
+      "url": "https://www.queer.de/detail.php?article_id=31173",
+      "cases": [
+        5
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.queer.de/detail.php?article_id=31173"
+    },
+    {
+      "url": "https://www.tagesspiegel.de/gesellschaft/queerspiegel/berliner-afd-politiker-wegen-volksverhetzung-verurteilt-6259492.html",
+      "cases": [
+        6
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.tagesspiegel.de/gesellschaft/queerspiegel/berliner-afd-politiker-wegen-volksverhetzung-verurteilt-6259492.html"
+    },
+    {
+      "url": "https://www.spiegel.de/politik/deutschland/alice-weidel-afd-spitzenkandidatin-reagiert-auf-e-mail-affaere-a-1167092.html",
+      "cases": [
+        8,
+        55
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.spiegel.de/netzwelt/web/social-bots-auf-twitter-csu-entfernt-meinungsroboter-unter-followern-a-1167092.html"
+    },
+    {
+      "url": "https://www.fr.de/rhein-main/offenbach/afd-politiker-carsten-haerle-wegen-volksverhetzung-verurteilt-91238902.html",
+      "cases": [
+        9
+      ],
+      "ok": false,
+      "status": 404,
+      "finalUrl": "https://www.fr.de/rhein-main/offenbach/afd-politiker-carsten-haerle-wegen-volksverhetzung-verurteilt-91238902.html"
+    },
+    {
+      "url": "https://www.welt.de/politik/deutschland/article172089182/Koeln-Polizei-zeigt-Beatrix-von-Storch-wegen-Volksverhetzung-an.html",
+      "cases": [
+        10
+      ],
+      "ok": false,
+      "status": 404,
+      "finalUrl": "https://www.welt.de/politik/deutschland/article172089182/Koeln-Polizei-zeigt-Beatrix-von-Storch-wegen-Volksverhetzung-an.html"
+    },
+    {
+      "url": "https://www.fr.de/rhein-main/anhaengigbach/afd-politiker-carsten-haerle-wegen-volksverhetzung-verurteilt-91238902.html",
+      "cases": [
+        11
+      ],
+      "ok": false,
+      "status": 404,
+      "finalUrl": "https://www.fr.de/rhein-main/anhaengigbach/afd-politiker-carsten-haerle-wegen-volksverhetzung-verurteilt-91238902.html"
+    },
+    {
+      "url": "https://www.tagesspiegel.de/berlin/hitlergruss-prozess-gegen-ja-funktionaer-geldstrafe-bestätigt-3982834.html",
+      "cases": [
+        12
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.tagesspiegel.de/politik/ausmass-der-bamf-affare-weniger-dramatisch-als-angenommen-3982834.html"
+    },
+    {
+      "url": "https://dubisthalle.de/revision-erfolglos-liebich-muss-fuer-anderthalb-jahre-ins-gefaengnis",
+      "cases": [
+        13
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://dubisthalle.de/revision-erfolglos-liebich-muss-fuer-anderthalb-jahre-ins-gefaengnis/"
+    },
+    {
+      "url": "https://www.sueddeutsche.de/muenchen/ebersberg/ebersberg-afd-kreisrat-thomas-suchka-volksverhetzung-geldstrafe-1.5542198",
+      "cases": [
+        14
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.sueddeutsche.de/muenchen/freising/unfall-hohenkammer-b-13-1.5542198"
+    },
+    {
+      "url": "https://www.welt.de/politik/deutschland/article173595166/AfD-Aschermittwoch-Andre-Poggenburg-schmaeht-Tuerken-als-Kuemmelhaendler.html",
+      "cases": [
+        15
+      ],
+      "ok": false,
+      "status": 404,
+      "finalUrl": "https://www.welt.de/politik/deutschland/article173595166/AfD-Aschermittwoch-Andre-Poggenburg-schmaeht-Tuerken-als-Kuemmelhaendler.html"
+    },
+    {
+      "url": "https://www.spiegel.de/panorama/justiz/uwe-junge-ex-afd-landeschef-nach-homophober-beleidigung-verurteilt-a-df8a14de-6c3e-4d43-be76-e82cf919842d",
+      "cases": [
+        16
+      ],
+      "ok": false,
+      "status": 404,
+      "finalUrl": "https://www.spiegel.de/panorama/justiz/uwe-junge-ex-afd-landeschef-nach-homophober-beleidigung-verurteilt-a-df8a14de-6c3e-4d43-be76-e82cf919842d"
+    },
+    {
+      "url": "https://www.tagesspiegel.de/berlin/brandenburg-afd-lokalpolitiker-wegen-volksverhetzung-verurteilt-4001247.html",
+      "cases": [
+        17
+      ],
+      "ok": false,
+      "status": 404,
+      "finalUrl": "https://www.tagesspiegel.de/berlin/brandenburg-afd-lokalpolitiker-wegen-volksverhetzung-verurteilt-4001247.html"
+    },
+    {
+      "url": "https://www.tagesspiegel.de/berlin/prozess-in-sachsen-afd-aktivist-wegen-hitlergruss-verurteilt-4001298.html",
+      "cases": [
+        18
+      ],
+      "ok": false,
+      "status": 404,
+      "finalUrl": "https://www.tagesspiegel.de/berlin/prozess-in-sachsen-afd-aktivist-wegen-hitlergruss-verurteilt-4001298.html"
+    },
+    {
+      "url": "https://www.mdr.de/nachrichten/thueringen/ost-thueringen/gera/prozess-volksverhetzung-afd-politiker-verurteilung-100.html",
+      "cases": [
+        19
+      ],
+      "ok": false,
+      "status": 404,
+      "finalUrl": "https://www.mdr.de/nachrichten/thueringen/ost-thueringen/gera/prozess-volksverhetzung-afd-politiker-verurteilung-100.html"
+    },
+    {
+      "url": "https://www.mdr.de/nachrichten/sachsen/bautzen/prozess-sachbeschaedigung-hakenkreuz-afd-politiker-verurteilung-100.html",
+      "cases": [
+        20
+      ],
+      "ok": false,
+      "status": 404,
+      "finalUrl": "https://www.mdr.de/nachrichten/sachsen/bautzen/prozess-sachbeschaedigung-hakenkreuz-afd-politiker-verurteilung-100.html"
+    },
+    {
+      "url": "https://www.spiegel.de/panorama/justiz/essen-afd-politiker-wegen-gefaehrlicher-koerperverletzung-verurteilt-a-1294857.html",
+      "cases": [
+        21
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.spiegel.de/lebenundlernen/schule/giessen-anzeige-gegen-schueler-nach-antisemitischen-liedern-a-1294857.html"
+    },
+    {
+      "url": "https://www.lto.de/recht/nachrichten/n/lg-berlin-verurteilt-afd-politiker-kai-borrmann-wegen-rassistischer-beleidigung/",
+      "cases": [
+        22
+      ],
+      "ok": false,
+      "status": 404,
+      "finalUrl": "https://www.lto.de/recht/nachrichten/n/lg-berlin-verurteilt-afd-politiker-kai-borrmann-wegen-rassistischer-beleidigung"
+    },
+    {
+      "url": "https://www.spiegel.de/panorama/justiz/stuttgart-frueherer-afd-abgeordneter-stefan-raepple-verurteilt-a-514d2456-c23c-42cb-b7b5-23c34f0c451a",
+      "cases": [
+        23
+      ],
+      "ok": false,
+      "status": 404,
+      "finalUrl": "https://www.spiegel.de/panorama/justiz/stuttgart-frueherer-afd-abgeordneter-stefan-raepple-verurteilt-a-514d2456-c23c-42cb-b7b5-23c34f0c451a"
+    },
+    {
+      "url": "https://www.lto.de/recht/nachrichten/n/lg-mainz-verurteilt-bundestagsabgeordneter-sebastian-muenzenmeier-beihilfe-koerperverletzung/",
+      "cases": [
+        24
+      ],
+      "ok": false,
+      "status": 404,
+      "finalUrl": "https://www.lto.de/recht/nachrichten/n/lg-mainz-verurteilt-bundestagsabgeordneter-sebastian-muenzenmeier-beihilfe-koerperverletzung"
+    },
+    {
+      "url": "https://www.spiegel.de/panorama/justiz/freiburg-gericht-verurteilt-ex-afd-stadtrat-dubravko-mandic-wegen-noetigung-a-e1528652-3d52-4467-9c6a-ec627f0607ba",
+      "cases": [
+        25
+      ],
+      "ok": false,
+      "status": 404,
+      "finalUrl": "https://www.spiegel.de/panorama/justiz/freiburg-gericht-verurteilt-ex-afd-stadtrat-dubravko-mandic-wegen-noetigung-a-e1528652-3d52-4467-9c6a-ec627f0607ba"
+    },
+    {
+      "url": "https://www.tagesschau.de/inland/kalbitz-koerperverletzung-verfahren-eingestellt-100.html",
+      "cases": [
+        26
+      ],
+      "ok": false,
+      "status": 404,
+      "finalUrl": "https://www.tagesschau.de/inland/kalbitz-koerperverletzung-verfahren-eingestellt-100.html"
+    },
+    {
+      "url": "https://www.mz.de/lokal/bitterfeld/koerperverletzung-afd-kreisrat-sven-ebert-strafbefehl-akzeptiert-3721983",
+      "cases": [
+        27
+      ],
+      "ok": false,
+      "status": 404,
+      "finalUrl": "https://www.mz.de/ex-chiefs-spieler-der-dolphins-will-sie-fertig-machen-3721983"
+    },
+    {
+      "url": "https://www.fr.de/rhein-main/wiesbaden/afd-funktionaer-stefan-hrdy-wegen-koerperverletzung-verurteilt-92019842.html",
+      "cases": [
+        28
+      ],
+      "ok": false,
+      "status": 404,
+      "finalUrl": "https://www.fr.de/rhein-main/wiesbaden/afd-funktionaer-stefan-hrdy-wegen-koerperverletzung-verurteilt-92019842.html"
+    },
+    {
+      "url": "https://www.rnz.de/region/rhein-neckar-kreis_artikel,-Sinsheim-AfD-Funktionaer-Maik-G-wegen-Koerperverletzung-rechtskraeftig-verurteilt-_arid,1134252.html",
+      "cases": [
+        29
+      ],
+      "ok": false,
+      "status": 410,
+      "finalUrl": "https://www.rnz.de/region/rhein-neckar-kreis_artikel,-Sinsheim-AfD-Funktionaer-Maik-G-wegen-Koerperverletzung-rechtskraeftig-verurteilt-_arid,1134252.html"
+    },
+    {
+      "url": "https://www.lto.de/recht/nachrichten/n/lg-leipzig-haftstrafe-rechtsextremist-angriff-aktivist-koerperverletzung/",
+      "cases": [
+        30
+      ],
+      "ok": false,
+      "status": 404,
+      "finalUrl": "https://www.lto.de/recht/nachrichten/n/lg-leipzig-haftstrafe-rechtsextremist-angriff-aktivist-koerperverletzung"
+    },
+    {
+      "url": "https://www.mdr.de/nachrichten/thueringen/erfurt/weimar/prozess-koerperverletzung-afd-politiker-verurteilung-100.html",
+      "cases": [
+        31
+      ],
+      "ok": false,
+      "status": 404,
+      "finalUrl": "https://www.mdr.de/nachrichten/thueringen/erfurt/weimar/prozess-koerperverletzung-afd-politiker-verurteilung-100.html"
+    },
+    {
+      "url": "https://www.mdr.de/nachrichten/sachsen-anhalt/halle/weissenfels/prozess-koerperverletzung-afd-kandidat-verurteilung-100.html",
+      "cases": [
+        32
+      ],
+      "ok": false,
+      "status": 404,
+      "finalUrl": "https://www.mdr.de/nachrichten/sachsen-anhalt/halle/weissenfels/prozess-koerperverletzung-afd-kandidat-verurteilung-100.html"
+    },
+    {
+      "url": "https://www.tagesspiegel.de/berlin/prozess-in-sachsen-ja-mitglied-wegen-gewalttat-verurteilt-4019283.html",
+      "cases": [
+        33
+      ],
+      "ok": false,
+      "status": 404,
+      "finalUrl": "https://www.tagesspiegel.de/berlin/prozess-in-sachsen-ja-mitglied-wegen-gewalttat-verurteilt-4019283.html"
+    },
+    {
+      "url": "https://www.lto.de/recht/nachrichten/n/lg-erfurt-bestaetigt-geldstrafe-fuer-afd-abgeordneten-czuppon/",
+      "cases": [
+        34
+      ],
+      "ok": false,
+      "status": 404,
+      "finalUrl": "https://www.lto.de/recht/nachrichten/n/lg-erfurt-bestaetigt-geldstrafe-fuer-afd-abgeordneten-czuppon"
+    },
+    {
+      "url": "https://www.br.de/nachrichten/bayern/dienstgeheimnisse-verraten-geldstrafe-fuer-afd-abgeordneten-graupner-bestaetigt,Tr18E9W",
+      "cases": [
+        35
+      ],
+      "ok": false,
+      "status": 404,
+      "finalUrl": "https://www.br.de/nachrichten/bayern/dienstgeheimnisse-verraten-geldstrafe-fuer-afd-abgeordneten-graupner-bestaetigt,Tr18E9W"
+    },
+    {
+      "url": "https://www.welt.de/politik/deutschland/article249586118/Kay-Uwe-Ziegler-AfD-Abgeordneter-wegen-Subventionsbetrugs-verurteilt.html",
+      "cases": [
+        36
+      ],
+      "ok": false,
+      "status": 404,
+      "finalUrl": "https://www.welt.de/politik/deutschland/article249586118/Kay-Uwe-Ziegler-AfD-Abgeordneter-wegen-Subventionsbetrugs-verurteilt.html"
+    },
+    {
+      "url": "https://www.spiegel.de/politik/deutschland/frauke-petry-strafbefehl-wegen-steuerhinterziehung-und-subventionsbetrugs-a-73238914.html",
+      "cases": [
+        37
+      ],
+      "ok": false,
+      "status": 404,
+      "finalUrl": "https://www.spiegel.de/politik/deutschland/frauke-petry-strafbefehl-wegen-steuerhinterziehung-und-subventionsbetrugs-a-73238914.html"
+    },
+    {
+      "url": "https://www.tagesschau.de/inland/regional/bayern/halemba-geldwaesche-prozess-wuerzburg-100.html",
+      "cases": [
+        38
+      ],
+      "ok": false,
+      "status": 404,
+      "finalUrl": "https://www.tagesschau.de/inland/regional/bayern/halemba-geldwaesche-prozess-wuerzburg-100.html"
+    },
+    {
+      "url": "https://www.spiegel.de/politik/deutschland/wiebke-muhsal-afd-abgeordnete-wegen-betrugs-rechtskraeftig-verurteilt-a-1244837.html",
+      "cases": [
+        39
+      ],
+      "ok": false,
+      "status": 404,
+      "finalUrl": "https://www.spiegel.de/politik/deutschland/wiebke-muhsal-afd-abgeordnete-wegen-betrugs-rechtskraeftig-verurteilt-a-1244837.html"
+    },
+    {
+      "url": "https://www.tagesspiegel.de/brandenburg/afd-abgeordneter-weiss-wegen-zigarettenschmuggels-verurteilt-4019284.html",
+      "cases": [
+        40
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.tagesspiegel.de/kultur/heute-kein-konig-4019284.html"
+    },
+    {
+      "url": "https://www.spiegel.de/panorama/justiz/salzgitter-afd-stadtrat-rolf-dipp-wegen-erpressung-und-stalkings-verurteilt-a-e1458920-c23d-4c3e-8b1e-dc7498c0a1e0",
+      "cases": [
+        41
+      ],
+      "ok": false,
+      "status": 404,
+      "finalUrl": "https://www.spiegel.de/panorama/justiz/salzgitter-afd-stadtrat-rolf-dipp-wegen-erpressung-und-stalkings-verurteilt-a-e1458920-c23d-4c3e-8b1e-dc7498c0a1e0"
+    },
+    {
+      "url": "https://www.spiegel.de/politik/deutschland/mainz-afd-schatzmeister-stefan-beck-wegen-untreue-rechtskraeftig-verurteilt-a-df87e2c3-4d43-11ee-bd9a-67a4e69bcf91.html",
+      "cases": [
+        42
+      ],
+      "ok": false,
+      "status": 404,
+      "finalUrl": "https://www.spiegel.de/politik/deutschland/mainz-afd-schatzmeister-stefan-beck-wegen-untreue-rechtskraeftig-verurteilt-a-df87e2c3-4d43-11ee-bd9a-67a4e69bcf91.html"
+    },
+    {
+      "url": "https://www.berlin.de/gerichte/verwaltungsgericht/presse/pressemitteilungen/2020/pressemitteilung.881813.php",
+      "cases": [
+        43
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.berlin.de/gerichte/verwaltungsgericht/presse/pressemitteilungen/2020/pressemitteilung.881813.php"
+    },
+    {
+      "url": "https://www.berlin.de/gerichte/verwaltungsgericht/presse/pressemitteilungen/2022/pressemitteilung.1177437.php",
+      "cases": [
+        44
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.berlin.de/gerichte/verwaltungsgericht/presse/pressemitteilungen/2022/pressemitteilung.1177437.php"
+    },
+    {
+      "url": "https://www.saechsische.de/dresden/lokales/prozess-gegen-ex-afd-gemeinderaetin-wegen-betrugs-5123497.html",
+      "cases": [
+        45
+      ],
+      "ok": false,
+      "status": 403,
+      "finalUrl": "https://www.saechsische.de/dresden/lokales/prozess-gegen-ex-afd-gemeinderaetin-wegen-betrugs-5123497.html"
+    },
+    {
+      "url": "https://www.stuttgarter-nachrichten.de/inhalt.strafprozess-gegen-stefan-raepple-ex-afd-abgeordneter-wegen-betrugs-verurteilt.df83e2c3-4d43-11ee-bd9a-67a4e69bcf91.html",
+      "cases": [
+        46
+      ],
+      "ok": false,
+      "status": 404,
+      "finalUrl": "https://www.stuttgarter-nachrichten.de/inhalt.strafprozess-gegen-stefan-raepple-ex-afd-abgeordneter-wegen-betrugs-verurteilt.df83e2c3-4d43-11ee-bd9a-67a4e69bcf91.html"
+    },
+    {
+      "url": "https://www.rnz.de/region/rhein-neckar-kreis_artikel,-Backnang-AfD-Stadtrat-Michael-Musto-wegen-Wahlfaelschung-verurteilt-_arid,512398.html",
+      "cases": [
+        47
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.rnz.de/region/neckartal-odenwald_artikel,-Bei-Familie-Zang-Teil-7-Wohnzimmer-wurde-zum-Kinosaal-_arid,512398.html"
+    },
+    {
+      "url": "https://www.welt.de/politik/deutschland/article250212874/Schwerin-AfD-Politiker-wegen-illegalen-Waffenbesitzes-zu-Haftstrafe-verurteilt.html",
+      "cases": [
+        48
+      ],
+      "ok": false,
+      "status": 404,
+      "finalUrl": "https://www.welt.de/politik/deutschland/article250212874/Schwerin-AfD-Politiker-wegen-illegalen-Waffenbesitzes-zu-Haftstrafe-verurteilt.html"
+    },
+    {
+      "url": "https://www.spiegel.de/politik/deutschland/stephan-brandner-afd-politiker-wegen-beleidigung-zu-geldstrafe-verurteilt-a-df873491-382a-4df4-bd9a-67a4e69bcf91",
+      "cases": [
+        49
+      ],
+      "ok": false,
+      "status": 404,
+      "finalUrl": "https://www.spiegel.de/politik/deutschland/stephan-brandner-afd-politiker-wegen-beleidigung-zu-geldstrafe-verurteilt-a-df873491-382a-4df4-bd9a-67a4e69bcf91"
+    },
+    {
+      "url": "https://www.tagesschau.de/inland/innenpolitik/moosdorf-hitlergruss-ermittlungsverfahren-100.html",
+      "cases": [
+        50
+      ],
+      "ok": false,
+      "status": 404,
+      "finalUrl": "https://www.tagesschau.de/inland/innenpolitik/moosdorf-hitlergruss-ermittlungsverfahren-100.html"
+    },
+    {
+      "url": "https://www.lto.de/recht/nachrichten/n/bgh-dienstgericht-bund-thomas-seitz-afd-entlassung-richter-staatsanwalt/",
+      "cases": [
+        51
+      ],
+      "ok": false,
+      "status": 404,
+      "finalUrl": "https://www.lto.de/recht/nachrichten/n/bgh-dienstgericht-bund-thomas-seitz-afd-entlassung-richter-staatsanwalt"
+    },
+    {
+      "url": "https://www.tagesspiegel.de/berlin/hitler-wein-im-regal-berliner-afd-abgeordnete-biessmann-tritt-aus-partei-aus-3992837.html",
+      "cases": [
+        52
+      ],
+      "ok": false,
+      "status": 404,
+      "finalUrl": "https://www.tagesspiegel.de/berlin/hitler-wein-im-regal-berliner-afd-abgeordnete-biessmann-tritt-aus-partei-aus-3992837.html"
+    },
+    {
+      "url": "https://www.stuttgarter-nachrichten.de/inhalt.strafprozess-gegen-ex-landtagsabgeordneten-geldstrafe-fuer-heinrich-fiechtner.df83e2c3-4d43-4e89-bd9a-67a4e69bcf91.html",
+      "cases": [
+        53
+      ],
+      "ok": false,
+      "status": 404,
+      "finalUrl": "https://www.stuttgarter-nachrichten.de/inhalt.strafprozess-gegen-ex-landtagsabgeordneten-geldstrafe-fuer-heinrich-fiechtner.df83e2c3-4d43-4e89-bd9a-67a4e69bcf91.html"
+    },
+    {
+      "url": "https://www.lto.de/recht/nachrichten/n/bgh-bestaetigt-versetzung-in-ruhestand-richter-jens-maier-afd/",
+      "cases": [
+        54
+      ],
+      "ok": false,
+      "status": 404,
+      "finalUrl": "https://www.lto.de/recht/nachrichten/n/bgh-bestaetigt-versetzung-in-ruhestand-richter-jens-maier-afd"
+    },
+    {
+      "url": "https://www.spiegel.de/panorama/justiz/erfurt-abgeordneter-udo-stein-entwaffnet-und-eingewiesen-100.html",
+      "cases": [
+        56
+      ],
+      "ok": false,
+      "status": 404,
+      "finalUrl": "https://www.spiegel.de/panorama/justiz/erfurt-abgeordneter-udo-stein-entwaffnet-und-eingewiesen-100.html"
+    },
+    {
+      "url": "https://www.tagesschau.de/regional/sachsen/siegbert-droese-staatsanwaltschaft-leipzig-ermittlungen-100.html",
+      "cases": [
+        57
+      ],
+      "ok": false,
+      "status": 404,
+      "finalUrl": "https://www.tagesschau.de/regional/sachsen/siegbert-droese-staatsanwaltschaft-leipzig-ermittlungen-100.html"
+    },
+    {
+      "url": "https://www.lto.de/recht/nachrichten/n/lg-berlin-bestätigt-parteiausschluss-sayn-wittgenstein/",
+      "cases": [
+        58
+      ],
+      "ok": false,
+      "status": 404,
+      "finalUrl": "https://www.lto.de/recht/nachrichten/n/lg-berlin-best%C3%A4tigt-parteiausschluss-sayn-wittgenstein"
+    },
+    {
+      "url": "https://www.tagesspiegel.de/berlin/noetigung-prozess-gegen-afd-kreisvorstand-heiko-hecht-verurteilt-3992147.html",
+      "cases": [
+        59
+      ],
+      "ok": false,
+      "status": 404,
+      "finalUrl": "https://www.tagesspiegel.de/berlin/noetigung-prozess-gegen-afd-kreisvorstand-heiko-hecht-verurteilt-3992147.html"
+    },
+    {
+      "url": "https://www.pnn.de/brandenburg/afd-fraktionschef-lars-schuenemann-wegen-unfallflucht-verurteilt/4019248.html",
+      "cases": [
+        60
+      ],
+      "ok": false,
+      "status": 404,
+      "finalUrl": "https://www.tagesspiegel.de/brandenburg/afd-fraktionschef-lars-schuenemann-wegen-unfallflucht-verurteilt/4019248.html/"
+    },
+    {
+      "url": "https://www.tagesspiegel.de/berlin/spionage-im-europaparlament-krah-mitarbeiter-jian-g-zu-vier-jahren-haft-verurteilt-12431718.html",
+      "cases": [
+        61
+      ],
+      "ok": false,
+      "status": 404,
+      "finalUrl": "https://www.tagesspiegel.de/berlin/spionage-im-europaparlament-krah-mitarbeiter-jian-g-zu-vier-jahren-haft-verurteilt-12431718.html"
+    },
+    {
+      "url": "https://www.tagesschau.de/inland/innenpolitik/krah-ermittlungen-bundesanwaltschaft-100.html",
+      "cases": [
+        62
+      ],
+      "ok": false,
+      "status": 404,
+      "finalUrl": "https://www.tagesschau.de/inland/innenpolitik/krah-ermittlungen-bundesanwaltschaft-100.html"
+    },
+    {
+      "url": "https://www.spiegel.de/politik/deutschland/berlin-ermittlungen-gegen-lindemann-donbas-reisen-100.html",
+      "cases": [
+        63
+      ],
+      "ok": false,
+      "status": 404,
+      "finalUrl": "https://www.spiegel.de/politik/deutschland/berlin-ermittlungen-gegen-lindemann-donbas-reisen-100.html"
+    },
+    {
+      "url": "https://www.tagesschau.de/inland/innenpolitik/malsack-winkemann-anklage-reichsbuerger-100.html",
+      "cases": [
+        64
+      ],
+      "ok": false,
+      "status": 404,
+      "finalUrl": "https://www.tagesschau.de/inland/innenpolitik/malsack-winkemann-anklage-reichsbuerger-100.html"
+    },
+    {
+      "url": "https://www.welt.de/politik/deutschland/article164582194/GBA-haftbefehl-gegen-Maximilian-T-wegen-terrorverdacht-franco-a.html",
+      "cases": [
+        65
+      ],
+      "ok": false,
+      "status": 404,
+      "finalUrl": "https://www.welt.de/politik/deutschland/article164582194/GBA-haftbefehl-gegen-Maximilian-T-wegen-terrorverdacht-franco-a.html"
+    },
+    {
+      "url": "https://www.generalbundesanwalt.de/SharedDocs/Pressemitteilungen/DE/2024/Pressemitteilung-vom-05-11-2024.html",
+      "cases": [
+        66
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.generalbundesanwalt.de/SharedDocs/Pressemitteilungen/DE/2024/Pressemitteilung-vom-05-11-2024.html"
+    },
+    {
+      "url": "https://www.spiegel.de/politik/deutschland/bundestag-verweigert-afd-mitarbeiter-hausausweis-wegen-bandidos-vergangenheit-a-123456",
+      "cases": [
+        67
+      ],
+      "ok": false,
+      "status": 404,
+      "finalUrl": "https://www.spiegel.de/politik/deutschland/bundestag-verweigert-afd-mitarbeiter-hausausweis-wegen-bandidos-vergangenheit-a-123456"
+    },
+    {
+      "url": "https://www.lto.de/recht/nachrichten/n/verfassungsgerichtshof-thueringen-entscheidung-konstituierende-sitzung-landtag-alterspraesident-blockade-afd-treutler",
+      "cases": [
+        68
+      ],
+      "ok": false,
+      "status": 404,
+      "finalUrl": "https://www.lto.de/recht/nachrichten/n/verfassungsgerichtshof-thueringen-entscheidung-konstituierende-sitzung-landtag-alterspraesident-blockade-afd-treutler"
+    },
+    {
+      "url": "https://www.lto.de/recht/nachrichten/n/bundestag-hebt-immunitaet-auf-razzia-bei-afd-abgeordnetem-bystron-geldwaesche/",
+      "cases": [
+        69
+      ],
+      "ok": false,
+      "status": 404,
+      "finalUrl": "https://www.lto.de/recht/nachrichten/n/bundestag-hebt-immunitaet-auf-razzia-bei-afd-abgeordnetem-bystron-geldwaesche"
+    },
+    {
+      "url": "https://www.tagesspiegel.de/berlin/widerstand-prozess-gegen-mitarbeiter-von-afd-mdb-karsten-hilse-verurteilt-3981247.html",
+      "cases": [
+        70
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.tagesspiegel.de/wirtschaft/storung-bei-o2-kunden-berichten-von-netzausfall-3981247.html"
+    },
+    {
+      "url": "https://www.lto.de/recht/nachrichten/n/reichsbuerger-razzia-terrorverdacht-anklage-bundesanwaltschaft-malsack-winkemann/",
+      "cases": [
+        71
+      ],
+      "ok": false,
+      "status": 404,
+      "finalUrl": "https://www.lto.de/recht/nachrichten/n/reichsbuerger-razzia-terrorverdacht-anklage-bundesanwaltschaft-malsack-winkemann"
+    },
+    {
+      "url": "https://www.mdr.de/nachrichten/thueringen/ost-thueringen/weimar/afd-kreisvorstand-verurteilung-kinderpornografie-100.html",
+      "cases": [
+        72
+      ],
+      "ok": false,
+      "status": 404,
+      "finalUrl": "https://www.mdr.de/nachrichten/thueringen/ost-thueringen/weimar/afd-kreisvorstand-verurteilung-kinderpornografie-100.html"
+    },
+    {
+      "url": "https://www.welt.de/politik/deutschland/article194833215/Sachsen-Anhalt-Kinderporno-Verdacht-gegen-AfD-Politiker.html",
+      "cases": [
+        73
+      ],
+      "ok": false,
+      "status": 404,
+      "finalUrl": "https://www.welt.de/politik/deutschland/article194833215/Sachsen-Anhalt-Kinderporno-Verdacht-gegen-AfD-Politiker.html"
+    },
+    {
+      "url": "https://www.lto.de/",
+      "cases": [
+        74,
+        76,
+        79,
+        80
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.lto.de/"
+    },
+    {
+      "url": "https://www.focus.de/politik/deutschland/augsburg-mitarbeiter-von-afd-mann-jurca-wegen-vergewaltigung-verurteilt_id_259834241.html",
+      "cases": [
+        75
+      ],
+      "ok": false,
+      "status": 404,
+      "finalUrl": "https://www.focus.de/politik/deutschland/augsburg-mitarbeiter-von-afd-mann-jurca-wegen-vergewaltigung-verurteilt_id_259834241.html"
+    },
+    {
+      "url": "https://www.lto.de/recht/nachrichten/n/vg-duesseldorf-22k372123-waffenbesitzkarte-entzug-afd-unzuverlaessig/",
+      "cases": [
+        77
+      ],
+      "ok": false,
+      "status": 404,
+      "finalUrl": "https://www.lto.de/recht/nachrichten/n/vg-duesseldorf-22k372123-waffenbesitzkarte-entzug-afd-unzuverlaessig"
+    },
+    {
+      "url": "https://www.lto.de/recht/nachrichten/n/ovg-weimar-beamte-polizei-lehrer-ausschluss-afd-verfassungstreue/",
+      "cases": [
+        78
+      ],
+      "ok": false,
+      "status": 404,
+      "finalUrl": "https://www.lto.de/recht/nachrichten/n/ovg-weimar-beamte-polizei-lehrer-ausschluss-afd-verfassungstreue"
+    },
+    {
+      "url": "https://openjur.de/suche/1%20A%203/94/",
+      "cases": [
+        81
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/1%20A%203/94/"
+    },
+    {
+      "url": "https://openjur.de/suche/1%20BvE%201/75/",
+      "cases": [
+        82
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/1%20BvE%201/75/"
+    },
+    {
+      "url": "https://openjur.de/suche/1%20BvR%201072/01/",
+      "cases": [
+        83
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/1%20BvR%201072/01/"
+    },
+    {
+      "url": "https://openjur.de/suche/1%20BvR%201181/10/",
+      "cases": [
+        84
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/1%20BvR%201181/10/"
+    },
+    {
+      "url": "https://openjur.de/suche/1%20BvR%201215/07/",
+      "cases": [
+        85
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/1%20BvR%201215/07/"
+    },
+    {
+      "url": "https://openjur.de/suche/1%20BvR%20175/03/",
+      "cases": [
+        86
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/1%20BvR%20175/03/"
+    },
+    {
+      "url": "https://openjur.de/suche/1%20BvR%202150/08/",
+      "cases": [
+        87
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/1%20BvR%202150/08/"
+    },
+    {
+      "url": "https://openjur.de/suche/1%20BvR%20471/10/",
+      "cases": [
+        88
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/1%20BvR%20471/10/"
+    },
+    {
+      "url": "https://openjur.de/suche/1%20BvR%20564/19/",
+      "cases": [
+        89
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/1%20BvR%20564/19/"
+    },
+    {
+      "url": "https://openjur.de/suche/1%20BvR%2098/21/",
+      "cases": [
+        90
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/1%20BvR%2098/21/"
+    },
+    {
+      "url": "https://openjur.de/suche/1%20C%2030/97/",
+      "cases": [
+        91
+      ],
+      "ok": false,
+      "status": 403,
+      "finalUrl": "https://openjur.de/suche/1%20C%2030/97/"
+    },
+    {
+      "url": "https://openjur.de/suche/1%20D%20103/84/",
+      "cases": [
+        92
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/1%20D%20103/84/"
+    },
+    {
+      "url": "https://openjur.de/suche/1%20E%201194/12/",
+      "cases": [
+        93
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/1%20E%201194/12/"
+    },
+    {
+      "url": "https://openjur.de/suche/1%20Im%20Heft%2011/2023/",
+      "cases": [
+        94
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/1%20Im%20Heft%2011/2023/"
+    },
+    {
+      "url": "https://openjur.de/suche/1%20K%20167/23/",
+      "cases": [
+        95
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/1%20K%20167/23/"
+    },
+    {
+      "url": "https://openjur.de/suche/1%20K%20606/17/",
+      "cases": [
+        96
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/1%20K%20606/17/"
+    },
+    {
+      "url": "https://openjur.de/suche/1%20L%2097/20/",
+      "cases": [
+        97
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/1%20L%2097/20/"
+    },
+    {
+      "url": "https://openjur.de/suche/1%20S%2055/20/",
+      "cases": [
+        98
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/1%20S%2055/20/"
+    },
+    {
+      "url": "https://openjur.de/suche/1%20S%2056/20/",
+      "cases": [
+        99
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/1%20S%2056/20/"
+    },
+    {
+      "url": "https://openjur.de/suche/11%20L%2087/00/",
+      "cases": [
+        100
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/11%20L%2087/00/"
+    },
+    {
+      "url": "https://openjur.de/suche/13%20K%20207/20/",
+      "cases": [
+        101
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/13%20K%20207/20/"
+    },
+    {
+      "url": "https://openjur.de/suche/13%20K%20208/20/",
+      "cases": [
+        102
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/13%20K%20208/20/"
+    },
+    {
+      "url": "https://openjur.de/suche/13%20K%20208/200/",
+      "cases": [
+        103
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/13%20K%20208/200/"
+    },
+    {
+      "url": "https://openjur.de/suche/13%20K%20326/21/",
+      "cases": [
+        104
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/13%20K%20326/21/"
+    },
+    {
+      "url": "https://openjur.de/suche/13%20K%203261/21/",
+      "cases": [
+        105
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/13%20K%203261/21/"
+    },
+    {
+      "url": "https://openjur.de/suche/13%20K%204222/18/",
+      "cases": [
+        106
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/13%20K%204222/18/"
+    },
+    {
+      "url": "https://openjur.de/suche/13%20L%20105/21/",
+      "cases": [
+        107
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/13%20L%20105/21/"
+    },
+    {
+      "url": "https://openjur.de/suche/13%20L%201124/23/",
+      "cases": [
+        108
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/13%20L%201124/23/"
+    },
+    {
+      "url": "https://openjur.de/suche/13%20L%201124/24/",
+      "cases": [
+        109
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/13%20L%201124/24/"
+    },
+    {
+      "url": "https://openjur.de/suche/16%20A%20845/03/",
+      "cases": [
+        110
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/16%20A%20845/03/"
+    },
+    {
+      "url": "https://openjur.de/suche/16%20A%20845/08/",
+      "cases": [
+        111
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/16%20A%20845/08/"
+    },
+    {
+      "url": "https://openjur.de/suche/2%20B%2010639/19/",
+      "cases": [
+        112
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/2%20B%2010639/19/"
+    },
+    {
+      "url": "https://openjur.de/suche/2%20BJs%20274/22/",
+      "cases": [
+        113
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/2%20BJs%20274/22/"
+    },
+    {
+      "url": "https://openjur.de/suche/2%20BrB%202/01/",
+      "cases": [
+        114
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/2%20BrB%202/01/"
+    },
+    {
+      "url": "https://openjur.de/suche/2%20BvB%201/01/",
+      "cases": [
+        115
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/2%20BvB%201/01/"
+    },
+    {
+      "url": "https://openjur.de/suche/2%20BvB%202/01/",
+      "cases": [
+        116
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/2%20BvB%202/01/"
+    },
+    {
+      "url": "https://openjur.de/suche/2%20BvB%203/01/",
+      "cases": [
+        117
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/2%20BvB%203/01/"
+    },
+    {
+      "url": "https://openjur.de/suche/2%20BvE%2011/12/",
+      "cases": [
+        118
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/2%20BvE%2011/12/"
+    },
+    {
+      "url": "https://openjur.de/suche/2%20BvE%204/13/",
+      "cases": [
+        119
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/2%20BvE%204/13/"
+    },
+    {
+      "url": "https://openjur.de/suche/2%20BvL%2013/73/",
+      "cases": [
+        120
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/2%20BvL%2013/73/"
+    },
+    {
+      "url": "https://openjur.de/suche/2%20BvR%201299/05/",
+      "cases": [
+        121
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/2%20BvR%201299/05/"
+    },
+    {
+      "url": "https://openjur.de/suche/2%20BvR%201436/02/",
+      "cases": [
+        122
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/2%20BvR%201436/02/"
+    },
+    {
+      "url": "https://openjur.de/suche/2%20BvR%202436/10/",
+      "cases": [
+        123
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/2%20BvR%202436/10/"
+    },
+    {
+      "url": "https://openjur.de/suche/2%20WD%2042/00/",
+      "cases": [
+        124
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/2%20WD%2042/00/"
+    },
+    {
+      "url": "https://openjur.de/suche/2%20WD%2043/00/",
+      "cases": [
+        125
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/2%20WD%2043/00/"
+    },
+    {
+      "url": "https://openjur.de/suche/2%20Ws%20131/16/",
+      "cases": [
+        126
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/2%20Ws%20131/16/"
+    },
+    {
+      "url": "https://openjur.de/suche/2%20Ws%20131/18/",
+      "cases": [
+        127
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/2%20Ws%20131/18/"
+    },
+    {
+      "url": "https://openjur.de/suche/20%20K%201882/03/",
+      "cases": [
+        128
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/20%20K%201882/03/"
+    },
+    {
+      "url": "https://openjur.de/suche/22%20K%201266/06/",
+      "cases": [
+        129
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/22%20K%201266/06/"
+    },
+    {
+      "url": "https://openjur.de/suche/22%20K%202532/11/",
+      "cases": [
+        130
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/22%20K%202532/11/"
+    },
+    {
+      "url": "https://openjur.de/suche/22%20K%20404/09/",
+      "cases": [
+        131
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/22%20K%20404/09/"
+    },
+    {
+      "url": "https://openjur.de/suche/29%20U%206/20/",
+      "cases": [
+        132
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/29%20U%206/20/"
+    },
+    {
+      "url": "https://openjur.de/suche/4%20L%20441/15/",
+      "cases": [
+        133
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/4%20L%20441/15/"
+    },
+    {
+      "url": "https://openjur.de/suche/4%20U%201419/16/",
+      "cases": [
+        134
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/4%20U%201419/16/"
+    },
+    {
+      "url": "https://openjur.de/suche/5%20A%201216/22/",
+      "cases": [
+        135
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/5%20A%201216/22/"
+    },
+    {
+      "url": "https://openjur.de/suche/5%20A%201217/22/",
+      "cases": [
+        136
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/5%20A%201217/22/"
+    },
+    {
+      "url": "https://openjur.de/suche/5%20A%20130/05/",
+      "cases": [
+        137
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/5%20A%20130/05/"
+    },
+    {
+      "url": "https://openjur.de/suche/5%20A%20203/08/",
+      "cases": [
+        138
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/5%20A%20203/08/"
+    },
+    {
+      "url": "https://openjur.de/suche/5%20A%20837/11/",
+      "cases": [
+        139
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/5%20A%20837/11/"
+    },
+    {
+      "url": "https://openjur.de/suche/5%20B%20131/24/",
+      "cases": [
+        140
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/5%20B%20131/24/"
+    },
+    {
+      "url": "https://openjur.de/suche/6%20A%203/08/",
+      "cases": [
+        141
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/6%20A%203/08/"
+    },
+    {
+      "url": "https://openjur.de/suche/6%20A%204/09/",
+      "cases": [
+        142
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/6%20A%204/09/"
+    },
+    {
+      "url": "https://openjur.de/suche/6%20C%2022/09/",
+      "cases": [
+        143
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/6%20C%2022/09/"
+    },
+    {
+      "url": "https://openjur.de/suche/6%20L%201337/20/",
+      "cases": [
+        144
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/6%20L%201337/20/"
+    },
+    {
+      "url": "https://openjur.de/suche/6%20L%2020/24/",
+      "cases": [
+        145
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/6%20L%2020/24/"
+    },
+    {
+      "url": "https://openjur.de/suche/6%20U%20190/20/",
+      "cases": [
+        146
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/6%20U%20190/20/"
+    },
+    {
+      "url": "https://openjur.de/suche/7%20O%201618/18/",
+      "cases": [
+        147
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/7%20O%201618/18/"
+    },
+    {
+      "url": "https://openjur.de/suche/8%20K%203483/06/",
+      "cases": [
+        148
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/8%20K%203483/06/"
+    },
+    {
+      "url": "https://openjur.de/suche/9%20B%20273/21/",
+      "cases": [
+        149
+      ],
+      "ok": false,
+      "status": 403,
+      "finalUrl": "https://openjur.de/suche/9%20B%20273/21/"
+    },
+    {
+      "url": "https://openjur.de/suche/A%201218/22/",
+      "cases": [
+        150
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/A%201218/22/"
+    },
+    {
+      "url": "https://openjur.de/suche/AD%20Ausgabe%2031/2023/",
+      "cases": [
+        151
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/AD%20Ausgabe%2031/2023/"
+    },
+    {
+      "url": "https://openjur.de/suche/AfD%2012/2019/",
+      "cases": [
+        152
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/AfD%2012/2019/"
+    },
+    {
+      "url": "https://openjur.de/suche/Aktenzeichen%2020%20K%203925/19/",
+      "cases": [
+        153
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/Aktenzeichen%2020%20K%203925/19/"
+    },
+    {
+      "url": "https://openjur.de/suche/Ausgabe%2001/2024/",
+      "cases": [
+        154
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/Ausgabe%2001/2024/"
+    },
+    {
+      "url": "https://openjur.de/suche/Ausgabe%2002/2024/",
+      "cases": [
+        155
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/Ausgabe%2002/2024/"
+    },
+    {
+      "url": "https://openjur.de/suche/Ausgabe%2003/2023/",
+      "cases": [
+        156
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/Ausgabe%2003/2023/"
+    },
+    {
+      "url": "https://openjur.de/suche/Ausgabe%2004/2023/",
+      "cases": [
+        157
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/Ausgabe%2004/2023/"
+    },
+    {
+      "url": "https://openjur.de/suche/Ausgabe%2005/2023/",
+      "cases": [
+        158
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/Ausgabe%2005/2023/"
+    },
+    {
+      "url": "https://openjur.de/suche/Ausgabe%2006/2023/",
+      "cases": [
+        159
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/Ausgabe%2006/2023/"
+    },
+    {
+      "url": "https://openjur.de/suche/Ausgabe%2006/2024/",
+      "cases": [
+        160
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/Ausgabe%2006/2024/"
+    },
+    {
+      "url": "https://openjur.de/suche/Ausgabe%2008/2023/",
+      "cases": [
+        161
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/Ausgabe%2008/2023/"
+    },
+    {
+      "url": "https://openjur.de/suche/Ausgabe%2009/2023/",
+      "cases": [
+        162
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/Ausgabe%2009/2023/"
+    },
+    {
+      "url": "https://openjur.de/suche/Ausgabe%2010/2009/",
+      "cases": [
+        163
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/Ausgabe%2010/2009/"
+    },
+    {
+      "url": "https://openjur.de/suche/Ausgabe%2010/2022/",
+      "cases": [
+        164
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/Ausgabe%2010/2022/"
+    },
+    {
+      "url": "https://openjur.de/suche/Ausgabe%2010/2023/",
+      "cases": [
+        165
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/Ausgabe%2010/2023/"
+    },
+    {
+      "url": "https://openjur.de/suche/Ausgabe%2010/2024/",
+      "cases": [
+        166
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/Ausgabe%2010/2024/"
+    },
+    {
+      "url": "https://openjur.de/suche/Ausgabe%2011/2022/",
+      "cases": [
+        167
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/Ausgabe%2011/2022/"
+    },
+    {
+      "url": "https://openjur.de/suche/Ausgabe%2011/2023/",
+      "cases": [
+        168
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/Ausgabe%2011/2023/"
+    },
+    {
+      "url": "https://openjur.de/suche/Ausgabe%2011/2024/",
+      "cases": [
+        169
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/Ausgabe%2011/2024/"
+    },
+    {
+      "url": "https://openjur.de/suche/Ausgabe%2012/2023/",
+      "cases": [
+        170
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/Ausgabe%2012/2023/"
+    },
+    {
+      "url": "https://openjur.de/suche/Ausgabe%2012/2024/",
+      "cases": [
+        171
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/Ausgabe%2012/2024/"
+    },
+    {
+      "url": "https://openjur.de/suche/Ausgabe%2015/10/",
+      "cases": [
+        172
+      ],
+      "ok": false,
+      "status": 403,
+      "finalUrl": "https://openjur.de/suche/Ausgabe%2015/10/"
+    },
+    {
+      "url": "https://openjur.de/suche/Ausgabe%2017/11/",
+      "cases": [
+        173
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/Ausgabe%2017/11/"
+    },
+    {
+      "url": "https://openjur.de/suche/Ausgabe%2023/2016/",
+      "cases": [
+        174
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/Ausgabe%2023/2016/"
+    },
+    {
+      "url": "https://openjur.de/suche/Ausgabe%203/2025/",
+      "cases": [
+        175
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/Ausgabe%203/2025/"
+    },
+    {
+      "url": "https://openjur.de/suche/Ausgabe%207/2020/",
+      "cases": [
+        176
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/Ausgabe%207/2020/"
+    },
+    {
+      "url": "https://openjur.de/suche/Ausgabe%209/2019/",
+      "cases": [
+        177
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/Ausgabe%209/2019/"
+    },
+    {
+      "url": "https://openjur.de/suche/Ausgebe%209/2019/",
+      "cases": [
+        178
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/Ausgebe%209/2019/"
+    },
+    {
+      "url": "https://openjur.de/suche/Austritt%205/2020/",
+      "cases": [
+        179
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/Austritt%205/2020/"
+    },
+    {
+      "url": "https://openjur.de/suche/BvB%201/19/",
+      "cases": [
+        180
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/BvB%201/19/"
+    },
+    {
+      "url": "https://openjur.de/suche/BvB%201/51/",
+      "cases": [
+        181
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/BvB%201/51/"
+    },
+    {
+      "url": "https://openjur.de/suche/COMPACT%201/2025/",
+      "cases": [
+        182
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/COMPACT%201/2025/"
+    },
+    {
+      "url": "https://openjur.de/suche/COMPACT%2011/2024/",
+      "cases": [
+        183
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/COMPACT%2011/2024/"
+    },
+    {
+      "url": "https://openjur.de/suche/COMPACT%202/2025/",
+      "cases": [
+        184
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/COMPACT%202/2025/"
+    },
+    {
+      "url": "https://openjur.de/suche/DER%20SPIEGEL%2040/1995/",
+      "cases": [
+        185
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/DER%20SPIEGEL%2040/1995/"
+    },
+    {
+      "url": "https://openjur.de/suche/Heft%2002/2024/",
+      "cases": [
+        186
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/Heft%2002/2024/"
+    },
+    {
+      "url": "https://openjur.de/suche/Heft%201/2024/",
+      "cases": [
+        187
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/Heft%201/2024/"
+    },
+    {
+      "url": "https://openjur.de/suche/Heft%2011/2023/",
+      "cases": [
+        188
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/Heft%2011/2023/"
+    },
+    {
+      "url": "https://openjur.de/suche/Heft%208/2023/",
+      "cases": [
+        189
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/Heft%208/2023/"
+    },
+    {
+      "url": "https://openjur.de/suche/Heften%2010/2023/",
+      "cases": [
+        190
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/Heften%2010/2023/"
+    },
+    {
+      "url": "https://openjur.de/suche/Hungerwinter%2046/47/",
+      "cases": [
+        191
+      ],
+      "ok": false,
+      "status": 403,
+      "finalUrl": "https://openjur.de/suche/Hungerwinter%2046/47/"
+    },
+    {
+      "url": "https://openjur.de/suche/Im%20Heft%2010/2022/",
+      "cases": [
+        192
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/Im%20Heft%2010/2022/"
+    },
+    {
+      "url": "https://openjur.de/suche/In%20Ausgabe%2010/2022/",
+      "cases": [
+        193
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/In%20Ausgabe%2010/2022/"
+    },
+    {
+      "url": "https://openjur.de/suche/In%20Ausgabe%2010/2024/",
+      "cases": [
+        194
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/In%20Ausgabe%2010/2024/"
+    },
+    {
+      "url": "https://openjur.de/suche/JA%205%20A%201218/22/",
+      "cases": [
+        195
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/JA%205%20A%201218/22/"
+    },
+    {
+      "url": "https://openjur.de/suche/Jahren%201932/33/",
+      "cases": [
+        196
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/Jahren%201932/33/"
+    },
+    {
+      "url": "https://openjur.de/suche/K%201286/06/",
+      "cases": [
+        197
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/K%201286/06/"
+    },
+    {
+      "url": "https://openjur.de/suche/K%20208/20/",
+      "cases": [
+        198
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/K%20208/20/"
+    },
+    {
+      "url": "https://openjur.de/suche/Lagebild%20Antisemitismus%202022/23/",
+      "cases": [
+        199
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/Lagebild%20Antisemitismus%202022/23/"
+    },
+    {
+      "url": "https://openjur.de/suche/Magazin%201/2025/",
+      "cases": [
+        200
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/Magazin%201/2025/"
+    },
+    {
+      "url": "https://openjur.de/suche/Magazin%2011/2024/",
+      "cases": [
+        201
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/Magazin%2011/2024/"
+    },
+    {
+      "url": "https://openjur.de/suche/Magazin%202/2025/",
+      "cases": [
+        202
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/Magazin%202/2025/"
+    },
+    {
+      "url": "https://openjur.de/suche/Magazin%203/2025/",
+      "cases": [
+        203
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/Magazin%203/2025/"
+    },
+    {
+      "url": "https://openjur.de/suche/Magazin%204/2025/",
+      "cases": [
+        204
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/Magazin%204/2025/"
+    },
+    {
+      "url": "https://openjur.de/suche/Magazin%206/2024/",
+      "cases": [
+        205
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/Magazin%206/2024/"
+    },
+    {
+      "url": "https://openjur.de/suche/Migrationskrise%202015/2016/",
+      "cases": [
+        206
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/Migrationskrise%202015/2016/"
+    },
+    {
+      "url": "https://openjur.de/suche/Migrationsphase%202015/16/",
+      "cases": [
+        207
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/Migrationsphase%202015/16/"
+    },
+    {
+      "url": "https://openjur.de/suche/Netzwerke%20Richtlinie%201/76/",
+      "cases": [
+        208
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/Netzwerke%20Richtlinie%201/76/"
+    },
+    {
+      "url": "https://openjur.de/suche/Neujahr%202015/2015/",
+      "cases": [
+        209
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/Neujahr%202015/2015/"
+    },
+    {
+      "url": "https://openjur.de/suche/Neujahr%202015/2016/",
+      "cases": [
+        210
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/Neujahr%202015/2016/"
+    },
+    {
+      "url": "https://openjur.de/suche/OVG%201%20N%2096/20/",
+      "cases": [
+        211
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/OVG%201%20N%2096/20/"
+    },
+    {
+      "url": "https://openjur.de/suche/OVG%201%20S%2055/20/",
+      "cases": [
+        212
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/OVG%201%20S%2055/20/"
+    },
+    {
+      "url": "https://openjur.de/suche/OVG%201%20S%2056/20/",
+      "cases": [
+        213
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/OVG%201%20S%2056/20/"
+    },
+    {
+      "url": "https://openjur.de/suche/Partei%2010/2020/",
+      "cases": [
+        214
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/Partei%2010/2020/"
+    },
+    {
+      "url": "https://openjur.de/suche/Partei%2012/2020/",
+      "cases": [
+        215
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/Partei%2012/2020/"
+    },
+    {
+      "url": "https://openjur.de/suche/Parteiausschluss%2003/2020/",
+      "cases": [
+        216
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/Parteiausschluss%2003/2020/"
+    },
+    {
+      "url": "https://openjur.de/suche/Parteiaustritt%2010/2020/",
+      "cases": [
+        217
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/Parteiaustritt%2010/2020/"
+    },
+    {
+      "url": "https://openjur.de/suche/Pressemitteilung%2002/2019/",
+      "cases": [
+        218
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/Pressemitteilung%2002/2019/"
+    },
+    {
+      "url": "https://openjur.de/suche/Sicherheit%202014/2015/",
+      "cases": [
+        219
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/Sicherheit%202014/2015/"
+    },
+    {
+      "url": "https://openjur.de/suche/Silvesternacht%202015/16/",
+      "cases": [
+        220
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/Silvesternacht%202015/16/"
+    },
+    {
+      "url": "https://openjur.de/suche/Silvesternacht%202015/2016/",
+      "cases": [
+        221
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/Silvesternacht%202015/2016/"
+    },
+    {
+      "url": "https://openjur.de/suche/Silvesternacht%202022/23/",
+      "cases": [
+        222
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/Silvesternacht%202022/23/"
+    },
+    {
+      "url": "https://openjur.de/suche/Sommer%2022/23/",
+      "cases": [
+        223
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/Sommer%2022/23/"
+    },
+    {
+      "url": "https://openjur.de/suche/Spiegel%2023/2016/",
+      "cases": [
+        224
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/Spiegel%2023/2016/"
+    },
+    {
+      "url": "https://openjur.de/suche/VG%201%20L%20340/23/",
+      "cases": [
+        225
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/VG%201%20L%20340/23/"
+    },
+    {
+      "url": "https://openjur.de/suche/VG%201%20L%2095/20/",
+      "cases": [
+        226
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/VG%201%20L%2095/20/"
+    },
+    {
+      "url": "https://openjur.de/suche/VG%201%20L%2097/20/",
+      "cases": [
+        227
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/VG%201%20L%2097/20/"
+    },
+    {
+      "url": "https://openjur.de/suche/VGL%2097/20/",
+      "cases": [
+        228
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/VGL%2097/20/"
+    },
+    {
+      "url": "https://openjur.de/suche/Verfahren%2013%20K%20207/20/",
+      "cases": [
+        229
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/Verfahren%2013%20K%20207/20/"
+    },
+    {
+      "url": "https://openjur.de/suche/VfGBbg%2094/20/",
+      "cases": [
+        230
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/VfGBbg%2094/20/"
+    },
+    {
+      "url": "https://openjur.de/suche/ZUERST%20Ausgabe%2001/2023/",
+      "cases": [
+        231
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/ZUERST%20Ausgabe%2001/2023/"
+    },
+    {
+      "url": "https://openjur.de/suche/ZUERST%20Ausgabe%2003/2022/",
+      "cases": [
+        232
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/ZUERST%20Ausgabe%2003/2022/"
+    },
+    {
+      "url": "https://openjur.de/suche/ZUERST%20Ausgabe%2004/2022/",
+      "cases": [
+        233
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/ZUERST%20Ausgabe%2004/2022/"
+    },
+    {
+      "url": "https://openjur.de/suche/ZUERST%20Ausgabe%2005/2018/",
+      "cases": [
+        234
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/ZUERST%20Ausgabe%2005/2018/"
+    },
+    {
+      "url": "https://openjur.de/suche/ZUERST%20Ausgabe%2005/2022/",
+      "cases": [
+        235
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/ZUERST%20Ausgabe%2005/2022/"
+    },
+    {
+      "url": "https://openjur.de/suche/ZUERST%20Ausgabe%2006/2022/",
+      "cases": [
+        236
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/ZUERST%20Ausgabe%2006/2022/"
+    },
+    {
+      "url": "https://openjur.de/suche/ZUERST%20Ausgabe%2011/2022/",
+      "cases": [
+        237
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/ZUERST%20Ausgabe%2011/2022/"
+    },
+    {
+      "url": "https://openjur.de/suche/ZUERSTI%20Ausgabe%2004/2023/",
+      "cases": [
+        238
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/ZUERSTI%20Ausgabe%2004/2023/"
+    },
+    {
+      "url": "https://openjur.de/suche/Zeitgeschichte%2031/2007/",
+      "cases": [
+        239
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://openjur.de/suche/Zeitgeschichte%2031/2007/"
+    },
+    {
+      "url": "https://volksverpetzer.de/serie/urteile-juni-26-afd-gegen-verfassungsschutz/",
+      "cases": [
+        240,
+        241,
+        242,
+        243,
+        244
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://volksverpetzer.de/serie/urteile-juni-26-afd-gegen-verfassungsschutz/"
+    },
+    {
+      "url": "https://www.regensburg-digital.de/kein-waffenbesitz-fuer-afd-stadler/24052022/",
+      "cases": [
+        245,
+        246
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.regensburg-digital.de/kein-waffenbesitz-fuer-afd-stadler/24052022/"
+    },
+    {
+      "url": "https://www.buergerblick.de/nachrichten/landtagspolitiker-stadler-zu-geldstrafe-von-26400-euro-verurteilt-a-0000069757.html",
+      "cases": [
+        247
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.buergerblick.de/nachrichten/landtagspolitiker-stadler-zu-geldstrafe-von-26400-euro-verurteilt-a-0000069757.html"
+    },
+    {
+      "url": "https://www.welt.de/regionales/bayern/article6900d3564876ac87d158cdba/afd-abgeordneter-hahn-zu-4-800-euro-geldstrafe-verurteilt.html",
+      "cases": [
+        248
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.welt.de/regionales/bayern/article6900d3564876ac87d158cdba/afd-abgeordneter-hahn-zu-4-800-euro-geldstrafe-verurteilt.html"
+    },
+    {
+      "url": "https://www.welt.de/239350569",
+      "cases": [
+        249
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.welt.de/vermischtes/prominente/article239350569/AfD-Politiker-Gunnar-Beck-wegen-Titelmissbrauchs-verurteilt.html"
+    },
+    {
+      "url": "https://www.welt.de/article6926ffd6bf07554e4577b9a9",
+      "cases": [
+        250
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.welt.de/regionales/nrw/article6926ffd6bf07554e4577b9a9/3-600-euro-geldstrafe-fuer-ex-afd-abgeordneten.html"
+    },
+    {
+      "url": "https://www.welt.de/regionales/sachsen/article6a4d16f2dfc0c82fa290942b/eu-parlament-hebt-immunitaet-von-afd-politiker-droese-auf.html",
+      "cases": [
+        251
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.welt.de/regionales/sachsen/article6a4d16f2dfc0c82fa290942b/eu-parlament-hebt-immunitaet-von-afd-politiker-droese-auf.html"
+    },
+    {
+      "url": "https://www.welt.de/regionales/berlin/article6994912275f52fc0c39fc484/hitlergruss-auf-wahlplakat-afd-politiker-muss-strafe-zahlen.html",
+      "cases": [
+        252
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.welt.de/regionales/berlin/article6994912275f52fc0c39fc484/hitlergruss-auf-wahlplakat-afd-politiker-muss-strafe-zahlen.html"
+    },
+    {
+      "url": "https://www.welt.de/regionales/bayern/article69fc81420696bba25ef31ce6/hitlergruss-collage-afd-mann-bystron-freigesprochen.html",
+      "cases": [
+        253
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.welt.de/regionales/bayern/article69fc81420696bba25ef31ce6/hitlergruss-collage-afd-mann-bystron-freigesprochen.html"
+    },
+    {
+      "url": "https://www.welt.de/regionales/berlin/article69fc95a6cd4a28c47001fc56/gericht-bundestag-muss-afd-spende-nicht-zurueckzahlen.html",
+      "cases": [
+        254
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.welt.de/regionales/berlin/article69fc95a6cd4a28c47001fc56/bundestag-muss-afd-spende-nicht-zurueckzahlen.html"
+    },
+    {
+      "url": "https://www.welt.de/regionales/thueringen/article6a44d302f027d323739633c8/gericht-afd-klage-zur-verfassungsschutzkontrolle-unzulaessig.html",
+      "cases": [
+        255
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.welt.de/regionales/thueringen/article6a44d302f027d323739633c8/gericht-afd-klage-zur-verfassungsschutzkontrolle-unzulaessig.html"
+    },
+    {
+      "url": "https://www.welt.de/article69aeb23228206c8e00ed41ee",
+      "cases": [
+        256
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.welt.de/regionales/berlin/article69aeb23228206c8e00ed41ee/afd-eilantrag-zu-sitz-im-u-ausschuss-vom-gericht-abgewiesen.html"
+    },
+    {
+      "url": "https://www.welt.de/article696a5b0af3f350a68710b258",
+      "cases": [
+        257
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.welt.de/regionales/berlin/article696a5b0af3f350a68710b258/gericht-bestaetigt-verbot-von-praktikum-bei-afd-durch-schule.html"
+    },
+    {
+      "url": "https://www.welt.de/regionales/mecklenburg-vorpommern/article69e786caff0951f41af8e88f/afd-mann-zorn-von-betrugsvorwurf-freigesprochen.html",
+      "cases": [
+        258
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.welt.de/regionales/mecklenburg-vorpommern/article69e786caff0951f41af8e88f/afd-mann-zorn-von-betrugsvorwurf-freigesprochen.html"
+    },
+    {
+      "url": "https://www.bild.de/politik/inland/gerichts-hammer-afd-darf-nicht-als-gesichert-rechtsextrem-eingestuft-werden-69a051952cfe24517f7c9f85",
+      "cases": [
+        259
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.bild.de/politik/inland/gerichts-hammer-afd-darf-nicht-als-gesichert-rechtsextrem-eingestuft-werden-69a051952cfe24517f7c9f85"
+    },
+    {
+      "url": "https://www.welt.de/regionales/berlin/article69b194f29276d101b4c85b9f/gericht-afd-muss-daten-zu-facebook-werbung-anhaengiglegen.html",
+      "cases": [
+        260
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.welt.de/regionales/berlin/article69b194f29276d101b4c85b9f/gericht-afd-muss-daten-zu-facebook-werbung-offenlegen.html"
+    },
+    {
+      "url": "https://www.welt.de/politik/deutschland/article249960238/Bundesinnenministerium-muss-Aussagen-zu-AfD-vorerst-nicht-aendern.html",
+      "cases": [
+        261
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.welt.de/politik/deutschland/article249960238/Bundesinnenministerium-muss-Aussagen-zu-AfD-vorerst-nicht-aendern.html"
+    },
+    {
+      "url": "https://www.welt.de/regionales/sachsen/article69d7a515c72227da0df14398/afd-klagt-gegen-einstufung-als-gesichert-rechtsextremistisch.html",
+      "cases": [
+        262
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.welt.de/regionales/sachsen/article69d7a515c72227da0df14398/afd-klagt-gegen-einstufung-als-gesichert-rechtsextremistisch.html"
+    },
+    {
+      "url": "https://www.medienservice.sachsen.de/medien/news/1093254",
+      "cases": [
+        263
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.medienservice.sachsen.de/medien/news/1093254"
+    },
+    {
+      "url": "https://www.berlin.de/gerichte/presse/pressemitteilungen-der-ordentlichen-gerichtsbarkeit/2024/pressemitteilung.1513108.php",
+      "cases": [
+        264
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.berlin.de/gerichte/presse/pressemitteilungen-der-ordentlichen-gerichtsbarkeit/2024/pressemitteilung.1513108.php"
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/bgh_notp/document.py?Art=en&Datum=2022-8&Gericht=bgh&Seite=1&anz=197&nr=82174&pos=49",
+      "cases": [
+        265
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.bundesgerichtshof.de/DE/Home/home_node.html"
+    },
+    {
+      "url": "https://www1.wdr.de/nrw/rheinland/bonn/bonn-afd-strafbefehl-beleidigung-100.html",
+      "cases": [
+        266
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www1.wdr.de/nrw/rheinland/bonn/bonn-afd-strafbefehl-beleidigung-100.html"
+    },
+    {
+      "url": "https://www.zvw.de/rems-murr-kreis/verurteilt-afd-kreisrat-balz-rief-laut-gericht-zu-bewaffnetem-widerstand-auf_arid-980147",
+      "cases": [
+        267
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.zvw.de/rems-murr-kreis/verurteilt-afd-kreisrat-balz-rief-laut-gericht-zu-bewaffnetem-widerstand-auf_arid-980147"
+    },
+    {
+      "url": "https://www.kontextwochenzeitung.de/gesellschaft/779/die-scheinheiligen-10764.html",
+      "cases": [
+        268,
+        269,
+        270,
+        272,
+        273,
+        274,
+        276,
+        277,
+        278,
+        279,
+        280
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.kontextwochenzeitung.de/gesellschaft/779/die-scheinheiligen-10764.html"
+    },
+    {
+      "url": "https://www.badische-zeitung.de/der-weiler-afd-stadtrat-hansjoerg-woehrle-wurde-wegen-beleidigung-und-volksverhetzung-verurteilt",
+      "cases": [
+        271
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.badische-zeitung.de/der-weiler-afd-stadtrat-hansjoerg-woehrle-wurde-wegen-beleidigung-und-volksverhetzung-verurteilt"
+    },
+    {
+      "url": "https://www.suedkurier.de/kreis-konstanz/skandal-um-ex-afd-mitglied-urteil-zwingt-andre-rehm-in-haft-113927265",
+      "cases": [
+        275
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.suedkurier.de/kreis-konstanz/skandal-um-ex-afd-mitglied-urteil-zwingt-andre-rehm-in-haft-113927265"
+    },
+    {
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/tuebingen/afd-stadtrat-hechingen-johannes-simon-wegen-beleidigung-verurteilt-100.html",
+      "cases": [
+        281
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.swr.de/swraktuell/baden-wuerttemberg/tuebingen/afd-stadtrat-hechingen-johannes-simon-wegen-beleidigung-verurteilt-100.html"
+    },
+    {
+      "url": "https://rsw.beck.de/aktuell/daily/meldung/detail/ag-ottweiler-verurteilt-afd-politikerin-wegen-volksverhetzung-zu-geldstrafe",
+      "cases": [
+        282
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.beck-aktuell.de/heute-im-recht/rechtsprechung/ag-ottweiler-verurteilt-afd-politikerin-wegen-volksverhetzung-zu-geldstrafe-2017-11-29"
+    },
+    {
+      "url": "https://www.welt.de/politik/deutschland/article242932341/Martin-Renner-Geldstrafe-gegen-AfD-Politiker-wegen-Streit-um-Maske.html",
+      "cases": [
+        283
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.welt.de/politik/deutschland/article242932341/Martin-Renner-Geldstrafe-gegen-AfD-Politiker-wegen-Streit-um-Maske.html"
+    },
+    {
+      "url": "https://www.tagesspiegel.de/berlin/afd-maskenverweigerer-hilse-muss-3000-euro-geldstrafe-zahlen-8018704.html",
+      "cases": [
+        284
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.tagesspiegel.de/berlin/afd-maskenverweigerer-hilse-muss-3000-euro-geldstrafe-zahlen-8018704.html"
+    },
+    {
+      "url": "https://www.br.de/nachrichten/bayern/sieg-heil-rufe-strafbefehl-fuer-afd-stadtrat-rechtskräftig%2CVPR4qK4",
+      "cases": [
+        285
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.br.de/nachrichten/bayern/sieg-heil-rufe-strafbefehl-fuer-afd-stadtrat-rechtskraeftig,VPR4qK4"
+    },
+    {
+      "url": "https://www.mdr.de/nachrichten/thueringen/sued-thueringen/sonneberg/urteil-afd-stadtrat-sieg-heil-100.html",
+      "cases": [
+        286
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.mdr.de/nachrichten/thueringen/sued-thueringen/sonneberg/urteil-afd-stadtrat-sieg-heil-100.html"
+    },
+    {
+      "url": "https://www.mdr.de/nachrichten/thueringen/nord-thueringen/unstrut-hainich/muehlhausen-afd-politiker-strafe-beleidigung-100.html",
+      "cases": [
+        287
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.mdr.de/nachrichten/thueringen/nord-thueringen/unstrut-hainich/muehlhausen-afd-politiker-strafe-beleidigung-100.html"
+    },
+    {
+      "url": "https://www.tagesspiegel.de/potsdam/keinen-unterhalt-fur-seine-kinder-bezahlt-afd-politiker-krause-akzeptiert-geldstrafe-in-potsdam-15273961.html",
+      "cases": [
+        288
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.tagesspiegel.de/potsdam/keinen-unterhalt-fur-seine-kinder-bezahlt-afd-politiker-krause-akzeptiert-geldstrafe-in-potsdam-15273961.html"
+    },
+    {
+      "url": "https://apollo-news.net/grnen-politiker-janosch-dahmen-als-lappen-bezeichnet-brger-zu-1800-euro-strafe-verurteilt/",
+      "cases": [
+        289
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://apollo-news.net/grnen-politiker-janosch-dahmen-als-lappen-bezeichnet-brger-zu-1800-euro-strafe-verurteilt/"
+    },
+    {
+      "url": "https://www.haz.de/lokales/umland/pattensen/pattensen-amtsgericht-springe-verurteilt-afd-mitglied-und-kandidat-fuer-stadtrat-76XCP6AGK5D2FEPAJ7KE3E5LOE.html",
+      "cases": [
+        290
+      ],
+      "ok": false,
+      "status": 403,
+      "finalUrl": "https://www.haz.de/lokales/umland/pattensen/pattensen-amtsgericht-springe-verurteilt-afd-mitglied-und-kandidat-fuer-stadtrat-76XCP6AGK5D2FEPAJ7KE3E5LOE.html"
+    },
+    {
+      "url": "https://www.tagesspiegel.de/berlin/wenn-ihr-sowas-postet-bill-kaulitz-gewinnt-gegen-berliner-afd-politiker-vor-gericht-15569561.html",
+      "cases": [
+        291
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.tagesspiegel.de/berlin/wenn-ihr-sowas-postet-bill-kaulitz-gewinnt-gegen-berliner-afd-politiker-vor-gericht-15569561.html"
+    },
+    {
+      "url": "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101118436/muenchen-afd-will-verurteilten-moerder-fuer-stadtrat-nominieren.html",
+      "cases": [
+        292
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101118436/muenchen-afd-will-verurteilten-moerder-fuer-stadtrat-nominieren.html"
+    },
+    {
+      "url": "https://www.tz.de/muenchen/stadt/muenchen-sechs-anklagen-und-strafbefehle-afd-mann-schlug-journalisten-am-marienplatz-jetzt-kassierte-er-seine-strafe-92353661.html",
+      "cases": [
+        293
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.tz.de/muenchen/stadt/muenchen-sechs-anklagen-und-strafbefehle-afd-mann-schlug-journalisten-am-marienplatz-jetzt-kassierte-er-seine-strafe-92353661.html"
+    },
+    {
+      "url": "https://volksverpetzer.de/serie/verurteilte-afd-mitglieder/",
+      "cases": [
+        294
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://volksverpetzer.de/serie/verurteilte-afd-mitglieder/"
+    },
+    {
+      "url": "https://correctiv.org/faktencheck/2023/08/31/collage-mit-neun-angeblichen-afd-politiker-zitaten-kursiert-die-meisten-sind-echt/",
+      "cases": [
+        295
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://correctiv.org/faktencheck/2023/08/31/collage-mit-neun-angeblichen-afd-politiker-zitaten-kursiert-die-meisten-sind-echt/"
+    },
+    {
+      "url": "https://www.ksta.de/politik/nrw-politik/afd-nrw-wegen-antisemitischem-angriff-verurteilter-mitarbeiter-darf-teile-des-landtags-nicht-betreten-817871",
+      "cases": [
+        296
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.ksta.de/politik/nrw-politik/afd-nrw-wegen-antisemitischem-angriff-verurteilter-mitarbeiter-darf-teile-des-landtags-nicht-betreten-817871"
+    },
+    {
+      "url": "https://archive.vn/2026.01.14-122047/https%3A/www.westfalen-blatt.de/owl/kreis-minden-luebbecke/espelkamp/afd-kandidat-rechtskraftig-verurteilt-830197",
+      "cases": [
+        297
+      ],
+      "ok": false,
+      "status": 429,
+      "finalUrl": "https://archive.vn/2026.01.14-122047/https%3A/www.westfalen-blatt.de/owl/kreis-minden-luebbecke/espelkamp/afd-kandidat-rechtskraftig-verurteilt-830197"
+    },
+    {
+      "url": "https://www.hiergeblieben.de/pages/textanzeige.php?id=57255&limit=50...z..&order=titel&richtung=DESC&z=775",
+      "cases": [
+        298
+      ],
+      "ok": false,
+      "error": "TypeError",
+      "message": "fetch failed"
+    },
+    {
+      "url": "https://www.zebraev.de/aktuelles-2/6/",
+      "cases": [
+        299
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.zebraev.de/aktuelles-2/6/"
+    },
+    {
+      "url": "https://www.n-tv.de/regionales/bayern/AfD-Politiker-will-Pfefferspray-Urteil-nicht-hinnehmen-article25476973.html",
+      "cases": [
+        300
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.n-tv.de/regionales/bayern/AfD-Politiker-will-Pfefferspray-Urteil-nicht-hinnehmen-article25476973.html"
+    },
+    {
+      "url": "https://volksverpetzer.de/serie/urteile-kw-49-pandemie-leugner-afd/",
+      "cases": [
+        301,
+        303
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://volksverpetzer.de/serie/urteile-kw-49-pandemie-leugner-afd/"
+    },
+    {
+      "url": "https://www.radioguetersloh.de/nachrichten/kreis-guetersloh/gefaelschter-impfpass-ehemaliger-afd-kreisvorsitzender-muss-2100-euro-zahlen.html",
+      "cases": [
+        302
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.radioguetersloh.de/nachrichten/kreis-guetersloh/gefaelschter-impfpass-ehemaliger-afd-kreisvorsitzender-muss-2100-euro-zahlen.html"
+    },
+    {
+      "url": "https://www.tag24.de/dresden/prozess-in-dresden-gefangene-geschlagen-und-drangsaliert-afd-politiker-daniel-zabel-verurteilt-2962206",
+      "cases": [
+        304
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.tag24.de/dresden/prozess-in-dresden-gefangene-geschlagen-und-drangsaliert-afd-politiker-daniel-zabel-verurteilt-2962206"
+    },
+    {
+      "url": "https://www.ksta.de/koeln/stoerung-einer-kundgebung-ehemaliger-afd-mitarbeiter-des-koelner-stadtrates-verurteilt-684297",
+      "cases": [
+        305
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.ksta.de/koeln/stoerung-einer-kundgebung-ehemaliger-afd-mitarbeiter-des-koelner-stadtrates-verurteilt-684297"
+    },
+    {
+      "url": "https://www.tagesschau.de/inland/regional/sachsen/mdr-vorwurf-volksverhetzung-freispruch-von-afd-politiker-harlass-bestaetigt-100.html",
+      "cases": [
+        306
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.mdr.de/nachrichten/sachsen/dresden/dresden-radebeul"
+    },
+    {
+      "url": "https://www.n-tv.de/regionales/mecklenburg-vorpommern/Strafbefehl-gegen-Ex-AfD-Landtagsabgeordnete-article24722556.html",
+      "cases": [
+        307
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.n-tv.de/regionales/mecklenburg-vorpommern/Strafbefehl-gegen-Ex-AfD-Landtagsabgeordnete-article24722556.html"
+    },
+    {
+      "url": "https://www.soester-anzeiger.de/lokales/soest/urteil-afd-demo-bjoern-hoecke-geldstrafe-soester-ex-afd-politiker-mirko-fischer-ratsherr-kreistag-linke-91946629.html",
+      "cases": [
+        308
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.soester-anzeiger.de/lokales/soest/urteil-afd-demo-bjoern-hoecke-geldstrafe-soester-ex-afd-politiker-mirko-fischer-ratsherr-kreistag-linke-91946629.html"
+    },
+    {
+      "url": "https://www.moz.de/lokales/bernau/prozess-am-amtsgericht-bernau-frueherer-afd-politiker-marcel-donsch-akzeptiert-urteil-nicht-_-haette-strafe-politische-folgen_-68436711.html",
+      "cases": [
+        309
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.moz.de/lokales/bernau/prozess-am-amtsgericht-bernau-frueherer-afd-politiker-marcel-donsch-akzeptiert-urteil-nicht-_-haette-strafe-politische-folgen_-68436711.html"
+    },
+    {
+      "url": "https://essen.t-online.de/region/essen/id_100302164/velbert-polizisten-nehmen-afd-politiker-bei-ratssitzung-fest.html",
+      "cases": [
+        310
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://essen.t-online.de/region/essen/id_100302164/velbert-polizisten-nehmen-afd-politiker-bei-ratssitzung-fest.html"
+    },
+    {
+      "url": "https://verband-brg.de/analyse-gewaltbereitschaft-bei-afd-funktionaer-innen/",
+      "cases": [
+        311
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://verband-brg.de/analyse-gewaltbereitschaft-bei-afd-funktionaer-innen/"
+    },
+    {
+      "url": "https://correctiv.org/aktuelles/afd/2026/07/08/afd-vorstand-voelkisch-parteitag-erfurt/",
+      "cases": [
+        312
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://correctiv.org/aktuelles/afd/2026/07/08/afd-vorstand-voelkisch-parteitag-erfurt/"
+    },
+    {
+      "url": "https://taz.de/Gewaltbereite-AfD-Politikerinnen/!6089080/",
+      "cases": [
+        313
+      ],
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://taz.de/Gewaltbereite-AfD-Politikerinnen/!6089080/"
+    }
+  ]
+}

@@ -11,4 +11,4 @@ BEWEISBEDEUTUNG FÜR DAS PARTEIVERBOTSVERFAHREN:
 Der Fall zeigt den bewussten Missbrauch staatlicher Machtbefugnisse durch AfD-Funktionäre im Staatsdienst zur Bekämpfung und Verfolgung politischer Gegner und Zeugen, was im fundamentalen Widerspruch zum Rechtsstaatsprinzip steht.
 
 OFFIZIELLER DIREKT-QUELLENLINK (GERICHTS- & PRESSEPROVENIENZ):
-https://www.lto.de/recht/nachrichten/n/lg-erfurt-bestaetigt-geldstrafe-fuer-afd-abgeordneten-czuppon/
+https://www.fr.de/politik/afd-politiker-verurteilt-czuppon-hoecke-rechtsextremismus-thueringen-wahl-zr-93134982.html

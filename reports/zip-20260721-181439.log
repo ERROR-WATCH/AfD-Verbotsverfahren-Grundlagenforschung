@@ -1,0 +1,6 @@
+Timestamp: 20260721-181439
+Release ZIP: releases/afd-verbotsverfahren-grundlagenforschung-20260721-181439-release.zip
+Archive ZIP: archives/afd-verbotsverfahren-grundlagenforschung-20260721-181439-release.zip
+Scope: repository snapshot excluding .git, releases, and archives.
+Post-build audits: static audit OK; browser UI audit OK; link validation OK.
+SHA256 is recorded in reports/release-archive-20260721-181439.txt after final zip update.
