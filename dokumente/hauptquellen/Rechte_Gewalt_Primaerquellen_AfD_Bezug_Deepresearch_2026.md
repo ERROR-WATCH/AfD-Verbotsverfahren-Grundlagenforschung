@@ -88,6 +88,22 @@ Quellen:
 - NDR Festnahme/U-Haft 01.06.2026: https://www.ndr.de/nachrichten/schleswig-holstein/flensburg_nordfriesland_schleswig-flensburg/nach-angriffen-auf-flensburger-parteibueros-tatverdaechtiger-ermittelt%2Cattacken-parteibueros-100.html
 - Indymedia-Behauptung AfD-Mitgliedschaft 30.05.2026: https://de.indymedia.org/node/739328
 
+### OEZ München 2016
+
+- **Registerstatus:** nicht gezählt.
+- **Grund:** Kein belastbarer direkter AfD-Bezug, kein belegter AfD-Wählerstatus, keine Mitgliedschaft, keine Funktionärsrolle, kein Parteiauftrag und keine Parteizurechnung.
+- **Belegfunktion:** Nebenbeleg für rassistische und rechtsterroristische Gewalt, Opferauswahl nach Herkunftszuschreibung und staatliche Spätanerkennung rechter Tatmotivation.
+- **Gesicherter Kern:** Der Täter erschoss am 22.07.2016 neun Menschen und anschließend sich selbst; die Tat wurde nach späterer Bewertung als politisch motivierte Gewaltkriminalität rechts beziehungsweise rassistischer/rechtsterroristischer Anschlag eingeordnet.
+- **AfD-Bezug:** Nur indirekter Sympathie-/Programmatikhinweis: SZ/BR berichten aus der Berichtslage, der Täter habe wohl mit Inhalten des AfD-Programms sympathisiert. Das belegt keine Wählerschaft, Mitgliedschaft, Unterstützungshandlung oder Parteizurechnung.
+- **Zurechnungsgrenze:** Keine AfD-Zurechnung; kein Registerfall und keine Erhöhung der AfD-Gerichtsfälle.
+
+Quellen:
+- Bayerisches Landesportal / Innenministerium: https://www.bayern.de/herrmann-zum-abschluss-der-ermittlungen-zum-oez-attentat/
+- bpb Hintergrund: https://www.bpb.de/kurz-knapp/hintergrund-aktuell/336826/2016-rechtsextremer-anschlag-in-muenchen/
+- Stadt München Gedenken: https://stadt.muenchen.de/events/gedenkveranstaltung-zum-attentat-am-oez.html
+- SZ AfD-Programmatikhinweis: https://www.sueddeutsche.de/muenchen/amoklauf-muenchen-attentat-oez-1.3678505
+- Lokale Webanker: `sources/web/oez-muenchen-nebenbeleg-20260722/`
+
 ## 3. Weitere ähnliche Komplexe, nicht als Urteil gezählt
 
 ### Reuß-/Reichsbürger-Komplex / Birgit Malsack-Winkemann

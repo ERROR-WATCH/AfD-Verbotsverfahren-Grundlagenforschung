@@ -87,7 +87,7 @@ Umsetzung:
 - Ziel: Der Statistik-Tab soll die Beweislogik nicht nur tabellarisch zeigen, sondern als Beweisketten: Quelle -> Akteur -> Zurechnung -> Rechtsgut -> Status.
 - Lokale Belege: daten/verbotsgruende_18_beweismatrix.jsonl; daten/statistik_statusmatrix_afd_2026.json; daten/statistik_laender_beweismatrix_afd_2026.json; daten/vorfeld_network_edges_2026.jsonl; daten/terror_umsturz_paramilitaer_matrix_2026.jsonl; daten/anlagenregister_art21_2026.jsonl
 - Online-/Originalroute: Keine eigene Tatsachenroute; die Visualisierung nutzt nur lokal validierte Source-/Finding-/Case-IDs.
-- Bestand: verbotsgruende=18; statusachsen=13; laenderachsen=20; vorfeld_kanten=6; vorfeld_einzelkanten=32; sicherheitsachsen=12
+- Bestand: verbotsgruende=18; statusachsen=13; laenderachsen=20; vorfeld_kanten=6; vorfeld_einzelkanten=32; sicherheitsachsen=13
 - Visualisierung: Sankey, Timeline, Netzwerkgraph, Heatmap, Statusmatrix, Ressourcen-/Potentialitaetslinie.
 - Verfahrensregel: Charts duerfen keine neue Zurechnung erzeugen. Sie zeigen nur bereits codierte Quellen-, Akteurs- und Statuskanten.
 - Outputs: index.html#statistik; daten/vorfeld_einzelkanten_2026.jsonl; daten/anlagenregister_art21_2026.jsonl
@@ -104,7 +104,7 @@ Umsetzung:
 - Ziel: 2026-Verfahren, Eilentscheidungen, Hauptsachen, Berufungen, Freisprueche und Rechtskraft staendig getrennt halten.
 - Lokale Belege: daten/statistik_statusmatrix_afd_2026.json; daten/statistik_laender_beweismatrix_afd_2026.json; daten/terror_umsturz_paramilitaer_matrix_2026.jsonl; dokumente/hauptquellen/urteilsbelege/; QUELLEN_URTEILSDB.md
 - Online-/Originalroute: BVerwG, OVG/VGH, VG, GBA, OLG, Landtags-/Bundestagsdokumente, Ministerien und Verfassungsschutzbehoerden.
-- Bestand: statusachsen=13; laenderachsen=20; sicherheitsfaelle=12; status_getrennt_markierte_anlagen=158
+- Bestand: statusachsen=13; laenderachsen=20; sicherheitsfaelle=13; status_getrennt_markierte_anlagen=158
 - Visualisierung: Deutschlandmatrix plus Rechtskrafttimeline; Fallstatus-Donut: rechtskraeftig, Eil, Hauptsache, Berufung, laufend, Freispruch.
 - Verfahrensregel: Statuspraezision ist Belastbarkeitsgewinn: keine Ueberzeichnung laufender Verfahren, keine Entlastung durch fremde Ebene.
 - Outputs: daten/statistik_statusmatrix_afd_2026.json; daten/statistik_laender_beweismatrix_afd_2026.json; daten/terror_umsturz_paramilitaer_matrix_2026.jsonl

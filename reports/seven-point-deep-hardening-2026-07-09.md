@@ -6,7 +6,7 @@
 - Originalkanal-Ziele ohne URL/Archivroute: 0/301
 - Chronikcluster aus echter Abgleichsdatei: 13
 - Gutachten-Provenienz mit lokalen Kandidaten: 11/11
-- Visualisierungsdaten: Sankey=80, Heatmap=28, Netzwerk=44, Status=41
+- Visualisierungsdaten: Sankey=80, Heatmap=28, Netzwerk=45, Status=42
 - Antragsspitzenlogik mit Top-Zitatquellen: 12/18
 
 ## Regel
