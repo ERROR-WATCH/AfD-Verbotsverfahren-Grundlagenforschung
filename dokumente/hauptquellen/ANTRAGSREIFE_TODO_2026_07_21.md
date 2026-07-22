@@ -10,14 +10,18 @@ Bis auf die formale Antragsschrift sollen alle technisch im Repository vorbereit
 
 | Bereich | Status | Nächster sauberer Schritt |
 | --- | --- | --- |
-| README-/Index-Konsolidierung | In der README nur noch knapp verlinkt; Detailstand liegt in dieser Todo-Datei. | Bei künftigen Erweiterungen keine großen Defizitlisten in die Haupt-README schreiben, sondern hier oder in Audit-Dateien führen. |
-| Formaler Antrag | Außerhalb des Repository-Auftrags: Das Repo kann Antragstellerbeschluss, Prozessvertretung, Unterschriften und formale Beweisanträge nicht selbst ersetzen. | Für eine spätere Verfassungsorganschrift aus Top-40, Top-144, Anlagenregister und Quelleninventar ein formales Anlagen- und Schriftsatzschema ableiten. |
-| Pinpoint-Endarbeit | Anlagenregister, Webhash-Anker, lokale Textanker und Statistikmanifest sind vorbereitet. | Für die finale Antragsschrift Top-Anlagen mit Seite, Randnummer, Aktenzeichen, Datum, Hash/Archiv und Gegenlese priorisieren. |
-| Vorfeld-Granularität | Sammelkanten sind im Statistiksystem sichtbar und als Beweisrouten codiert. | Weitere Einzelkanten nur additiv ergänzen: Person, Ereignis, Kampagne, Datum, Quelle, AfD-Bezug und Zurechnungsgrenze. |
-| Chronikcluster | Chroniken bleiben Navigations- und Indexrouten, nicht Endbeweise. | Fallweise Primäranker, Parteirolle, Verfahren und Zurechnung danebenstellen, bevor ein Cluster als Antragselement genutzt wird. |
-| Zitatkorpus | 3.722 Proofs sind im Korpus; Topzitat-Dossierklasse und Actor-Registry sind vorbereitet. | Für eine Anlage weitere Topzitate nach Beweiswert priorisieren und mit Originaltext/Auszug, starkem Quellenanker und Gegenlese verdichten. |
-| Pages-Navigation | Statistik-Tab, Vollindex, Antragsreife-Karte, Manifest, Quelleninventar und Audits sind verlinkt. | Nach jeder Datenänderung Browser-Audit und Pages-Linkcheck erneut laufen lassen. |
-| Build-Qualität | `npm run build` führt Statistik-Build, Statistikvalidierung, Pages-Linkcheck und Syntaxchecks aus. | Bei neuen Generatoren immer in `build`, `validate:statistics` oder `validate:pages` einhängen. |
+| README-/Index-Konsolidierung | Erledigt im Repository. | Künftige Erweiterungen weiter in Todo-, Audit- oder Indexdateien führen, nicht als plakative Haupt-README-Mängelliste. |
+| Formaler Antrag | Ausgenommen: Das Repo kann Antragstellerbeschluss, Prozessvertretung, Unterschriften und formale Beweisanträge nicht selbst ersetzen. | Erst außerhalb des Repository-Auftrags in eine echte Verfassungsorganschrift überführen. |
+| Pinpoint-Endarbeit | Erledigt im Repository bis auf spätere Schriftsatz-Gegenlese. | Bei Antragserstellung Top-Anlagen gegen Originale kontrollieren und dann Seite, Randnummer, Aktenzeichen, Datum, Hash/Archiv und Gegenlese in die förmliche Anlage übernehmen. |
+| Vorfeld-Granularität | Erledigt im Repository. | Weitere Einzelkanten nur additiv ergänzen, wenn neue Primäranker hinzukommen. |
+| Chronikcluster | Erledigt als Indexroute. | Chroniken nicht als Endbeweis zitieren; bei Antragserstellung die danebenstehenden Primäranker verwenden. |
+| Zitatkorpus | Erledigt im Repository bis auf spätere Schriftsatz-Auswahl. | Für die Antragsschrift aus Top-300, Dossierklasse und Akteursregister auswählen und gegen Originalkontext gegenlesen. |
+| Pages-Navigation | Erledigt im Repository. | Nach jeder Datenänderung Build, Browser-Audit und Pages-Linkcheck erneut laufen lassen. |
+| Build-Qualität | Erledigt im Repository. | Neue Generatoren weiterhin in `build`, `validate:statistics` oder `validate:pages` einhängen. |
+
+## Abschlussartefakt
+
+Der aktuelle Abschlussstand liegt in `dokumente/hauptquellen/ANTRAGSREIFE_TODO_ABSCHLUSS_2026_07_22.md` und `daten/antragsreife_todo_abschluss_2026.json`.
 
 ## Umsetzungspfad
 

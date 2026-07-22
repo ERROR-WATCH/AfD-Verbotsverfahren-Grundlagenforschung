@@ -1,0 +1,128 @@
+{
+  "generated_at": "2026-07-22T08:38:08+02:00",
+  "scope": "Alle technisch im Repository vorbereitbaren Antragsreife-Todos; formaler Antrag und Antragsschrift bleiben ausgenommen.",
+  "excluded": [
+    "Formaler Antrag",
+    "Antragsschrift"
+  ],
+  "todo_status": {
+    "readme_index_konsolidierung": {
+      "status": "ERLEDIGT_IM_REPOSITORY",
+      "artifacts": [
+        "README.md",
+        "daten/repository_pages_index_2026.json",
+        "dokumente/hauptquellen/ANTRAGSREIFE_TODO_2026_07_21.md",
+        "dokumente/hauptquellen/ANTRAGSREIFE_TODO_ABSCHLUSS_2026_07_22.md"
+      ]
+    },
+    "pinpoint_endarbeit": {
+      "status": "ERLEDIGT_IM_REPOSITORY_BIS_AUF_SCHRIFTSATZ_GEGENLESE",
+      "final_pinpoints": 127,
+      "anlagen_rows": 158,
+      "hash_anchor_rows": 0,
+      "artifacts": [
+        "daten/schriftsatz_pinpoint_finalisierung_2026.jsonl",
+        "daten/anlagenregister_art21_2026.jsonl",
+        "dokumente/hauptquellen/ANLAGENREGISTER_ART21_2026.md"
+      ]
+    },
+    "vorfeld_granularitaet": {
+      "status": "ERLEDIGT_IM_REPOSITORY",
+      "single_edges": 32,
+      "parent_edges": 6,
+      "edge_types": [
+        "kampagnen_oder_veranstaltungskante",
+        "medienkante",
+        "mitarbeiter_zugangskante"
+      ],
+      "artifacts": [
+        "daten/vorfeld_einzelkanten_2026.jsonl",
+        "daten/vorfeld_network_edges_2026.jsonl",
+        "daten/beweisverknuepfung_prioritaeten_2026.jsonl"
+      ]
+    },
+    "chronikcluster": {
+      "status": "ERLEDIGT_IM_REPOSITORY_ALS_INDEXROUTE",
+      "dossiers": 13,
+      "dossiers_with_primary_candidates": 13,
+      "artifacts": [
+        "daten/chronikcluster_falldossiers_2026.jsonl",
+        "dokumente/hauptquellen/Wikipedia_Abgleich_Rechtsextreme_Neonazistische_Vorfaelle_AfD.md"
+      ]
+    },
+    "zitatkorpus": {
+      "status": "ERLEDIGT_IM_REPOSITORY_BIS_AUF_SCHRIFTSATZ_AUSWAHL",
+      "top300_rows": 300,
+      "dossier_class_rows": 150,
+      "actor_registry_rows": 3722,
+      "artifacts": [
+        "daten/antragsreife_top300_zitatpaket_2026.jsonl",
+        "daten/topzitat_dossierklasse_2026.jsonl",
+        "daten/quote_actor_registry_2026.jsonl",
+        "daten/zitat_statistik_2026.json"
+      ]
+    },
+    "pages_navigation": {
+      "status": "ERLEDIGT_IM_REPOSITORY",
+      "pages_linkcheck_missing_links": 0,
+      "artifacts": [
+        "index.html",
+        "reports/pages-link-validation.json",
+        "daten/statistik_manifest.json"
+      ]
+    },
+    "build_qualitaet": {
+      "status": "ERLEDIGT_IM_REPOSITORY",
+      "validation_fatal": 0,
+      "validation_warnings": 0,
+      "build_script_contains_finalizer": true,
+      "artifacts": [
+        "package.json",
+        "scripts/finalize-antragsreife-todos.mjs",
+        "reports/validation-report.md"
+      ]
+    },
+    "formal_antrag": {
+      "status": "AUSGENOMMEN",
+      "reason": "Nicht technisch durch das Repository ersetzbar: Antragstellerbeschluss, Prozessvertretung, Beweisanträge, Unterschriften und Verfassungsorganschrift."
+    }
+  },
+  "residual_non_formal_open_tasks": 0,
+  "final_gap_summary": {
+    "generated_at": "2026-07-09T00:00:00+02:00",
+    "purpose": "Finale Verfahrenshaertung vor Antragsschrift: Beschaffen, Verlinken, Visualisieren und Schriftsatzlogik.",
+    "total_actions": 7,
+    "priority_a": 7,
+    "local_anchor_sets": 33,
+    "output_artifacts": 21,
+    "key_counts": {
+      "quote_findings": 3722,
+      "top_quote_rows": 150,
+      "actor_registry_rows": 3722,
+      "inventory_sources": 10855,
+      "official_or_primary_sources": 5790,
+      "route_only_sources": 230,
+      "social_media_routes": 22,
+      "anlagen_rows": 158,
+      "official_web_anchors": 19,
+      "final_pinpoints": 127,
+      "local_line_anchors": 127,
+      "chronik_clusters_to_dossier": 13,
+      "gutachten_audit_rows": 11,
+      "status_axes": 13,
+      "laender_axes": 20,
+      "security_rows": 12,
+      "vorfeld_edges": 6,
+      "vorfeld_single_edges": 32
+    }
+  },
+  "assertions": {
+    "pinpoints_present": true,
+    "vorfeld_single_edges_present": true,
+    "chronik_dossiers_present": true,
+    "top_quotes_present": true,
+    "pages_linkcheck_clean": true,
+    "validation_clean": true,
+    "normal_readme_not_a_deficit_wall": true
+  }
+}
