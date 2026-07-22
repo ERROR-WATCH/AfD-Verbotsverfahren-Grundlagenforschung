@@ -1,0 +1,41 @@
+Release-/Archivprotokoll 20260722-083808
+
+Zeitstempel:
+20260722-083808
+2026-07-22T08:38:08+02:00
+
+Quellstand:
+Commit: 00cfd8ba0ff731b48d783a67d33b8762abec2c9e
+Branch: main
+
+Release-Artefakt:
+releases/afd-verbotsverfahren-grundlagenforschung-20260722-083808-release.zip
+
+Archivkopie:
+archives/afd-verbotsverfahren-grundlagenforschung-20260722-083808-release.zip
+
+SHA256:
+0f5a049fa038d71db8ad69d7fdb368b95df1168a9f247c25ad387e1bffe98d3b
+
+Validierungen vor Release:
+- npm run build: bestanden
+- scripts/validate-pages-links.mjs: bestanden, 0 fehlende relative Links
+- scripts/validate-statistics.mjs: bestanden, 0 Fatal, 0 Warnings
+- git diff --check: keine Whitespace-Fehler
+- Antragsreife-Todos: alle nicht-formalen Todo-Punkte als Repository-Artefakte abgeschlossen; formaler Antrag und Antragsschrift bleiben ausdrücklich ausgenommen.
+
+Abgeschlossene Todo-Artefakte:
+- 127 geführte Pinpoints
+- 32 Vorfeld-Einzelkanten aus 6 Sammelkanten
+- 13 Chronik-Falldossiers mit Primäranker-Kandidaten
+- 300 Topzitat-Zeilen, 150 Dossierklassen-Zeilen, 3.722 Akteursregister-Zeilen
+- Abschlussdateien: dokumente/hauptquellen/ANTRAGSREIFE_TODO_ABSCHLUSS_2026_07_22.md und daten/antragsreife_todo_abschluss_2026.json
+
+Zahlenstand:
+- Gerichtsfälle / Urteilsbelege im Portal: 313
+- Zitate und Belege: 3.722
+- Verbotsgründe: 18
+- Bundesländer: 16
+
+Hinweis:
+Die ZIP-Datei und die Archivkopie werden nicht im Git-Baum versioniert. Dieser Bericht hält Pfade, Hash und geprüften Quellstand fest.
