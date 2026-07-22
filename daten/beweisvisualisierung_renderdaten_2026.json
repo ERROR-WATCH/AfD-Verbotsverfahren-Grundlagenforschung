@@ -751,6 +751,13 @@
       "object": "SEC-BELARUS-002",
       "status": "Laufendes Ermittlungsverfahren nach § 18 AWG; keine Anklage oder Verurteilung.",
       "source": "daten/terror_umsturz_paramilitaer_matrix_2026.jsonl"
+    },
+    {
+      "id": "SECSTATUS-9A77F1C32C97",
+      "level": "Sicherheitsverfahren",
+      "object": "SEC-OEZ-001",
+      "status": "Nebenbeleg rechter/rassistischer Gewalt; keine AfD-Zurechnung.",
+      "source": "daten/terror_umsturz_paramilitaer_matrix_2026.jsonl"
     }
   ],
   "network_edges": [
@@ -1048,6 +1055,12 @@
     {
       "edge_id": "SEC-BELARUS-002",
       "from": "SEC-BELARUS-002",
+      "type": "security_status",
+      "source": "daten/terror_umsturz_paramilitaer_matrix_2026.jsonl"
+    },
+    {
+      "edge_id": "SEC-OEZ-001",
+      "from": "SEC-OEZ-001",
       "type": "security_status",
       "source": "daten/terror_umsturz_paramilitaer_matrix_2026.jsonl"
     }
