@@ -243,7 +243,7 @@ for (const row of vgRows) {
       ...(row.strongest_sources || []).filter((source) => !/(GBA\/OLG soweit vorhanden|GBA Jian G\.\/Krah: Festnahme, Durchsuchung und Anklage lokal archiviert)/i.test(source.label || ""))
     ];
     row.zulässige_formulierung = 'Sicherheits- und Einflusskomplex im AfD-/AfD-Umfeld mit amtlichem GBA-Primäranker, Mitarbeiter-/Zugangskante und strikt getrenntem Einzelfallstatus.';
-    row.unzulässige_ueberzeichnung = 'Landesverrat der AfD als Gesamtpartei oder Beschuldigtenstatus Krah ohne gerichtsfeste Parteibrücke.';
+    row.unzulässige_ueberzeichnung = 'Landesverrat der AfD als Gesamtpartei oder Beschuldigtenstatus Krah ohne pruefbare Parteibruecke.';
   }
 }
 await writeJsonl(vgFile, vgRows);

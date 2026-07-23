@@ -133,7 +133,7 @@ const finalRows = [
     id: 'FGC-001',
     prioritaet: 'A',
     handlungsfeld: 'Zitatkorpus als Schriftsatzpaket',
-    ziel: 'Top-100/Top-300-Zitate nicht als Masse, sondern als gerichtsfeste Einzelbeweise mit Akteur, Funktion, Datum, Kanal, Zielgruppe, Rechtsgut, Kontext und Gegenargument ausspielen.',
+    ziel: 'Top-100/Top-300-Zitate nicht als Masse, sondern als pruefbare Einzelbelege mit Akteur, Funktion, Datum, Kanal, Zielgruppe, Rechtsgut, Kontext und Gegenargument ausspielen.',
     lokale_belege: [
       link(FILES.findings),
       link(FILES.topQuotes),
