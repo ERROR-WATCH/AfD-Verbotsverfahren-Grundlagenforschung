@@ -5,7 +5,7 @@
 > 🌐 **Interaktives Web-Portal (Forschungs-Dashboard) live online:**  
 > Erkunde dieses gesamte Belegarchiv unzensiert, schnell und interaktiv direkt im Browser:  
 > 👉 **[https://ERROR-WATCH.github.io/AfD-Verbotsverfahren-Grundlagenforschung/](https://ERROR-WATCH.github.io/AfD-Verbotsverfahren-Grundlagenforschung/)**  
-> *Das Portal bietet eine hochintelligente, umlautsensitive Volltextsuche über alle 313 Gerichtsfälle, 18 Verbotsgründe, alle unzensierten Gutachten/PDF-Splits und alle 3.722 Belegzitate mit Live-Textvorschau!*
+> *Das Portal bietet eine hochintelligente, umlautsensitive Volltextsuche über alle 314 Gerichtsfälle, 18 Verbotsgründe, alle unzensierten Gutachten/PDF-Splits und alle 3.722 Belegzitate mit Live-Textvorschau!*
 >
 > Das Repository ist kein Ersatz für eine juristische Prüfung, sondern eine systematische Forschungs- und Dokumentationsgrundlage, die Recherche, Strukturierung und Belegführung erheblich erleichtern kann. Die maßgeblichen Beweise müssen für ein gerichtliches Verfahren weiterhin an den Originalquellen überprüft werden.
 
@@ -13,7 +13,7 @@
 
 ## Aktueller Stand, Zählregeln und Erweiterungsreserve
 
-Dieser Release-Stand führt **313 Gerichtsfälle**, **18 Verbotsgründe**, **3.722 Zitat- und Belegfunde** sowie Quellen zu **allen 16 Bundesländern**. Diese Zahlen sind als Navigations- und Forschungszahlen zu lesen: Sie zeigen, welche Belegblöcke im Repository strukturiert, durchsuchbar und mit lokalen oder externen Quellen verbunden sind. Sie ersetzen nicht die juristische Einzelfallwertung.
+Dieser Release-Stand führt **314 Gerichtsfälle**, **18 Verbotsgründe**, **3.722 Zitat- und Belegfunde** sowie Quellen zu **allen 16 Bundesländern**. Diese Zahlen sind als Navigations- und Forschungszahlen zu lesen: Sie zeigen, welche Belegblöcke im Repository strukturiert, durchsuchbar und mit lokalen oder externen Quellen verbunden sind. Sie ersetzen nicht die juristische Einzelfallwertung.
 
 ### Zählregeln für Gerichtsfälle
 
@@ -74,7 +74,7 @@ Dieses Repository sammelt die zentralen Dokumente, Textfragmente und Forschungse
 Dieses Repository stellt eine **solid fundierte Arbeitsbasis** dar, die nach bestem Wissen und Gewissen und mit erheblicher **KI-Unterstützung** erstellt und strukturiert wurde. Es ist jedoch von zentraler Bedeutung, die folgenden Aspekte für jede weitere wissenschaftliche, journalistische oder juristische Verwendung zu berücksichtigen:
 
 1. **Kein Anspruch auf Vollständigkeit (Die Oberfläche des Komplexes):**  
-   Trotz der sorgfältigen Aufbereitung von 313 Gerichtsfällen und über 1.400 Dokumenten legt diese Datenbank **bei weitem keinen Anspruch auf Vollständigkeit** nahe. In Anbetracht der enormen Tiefe und Verästelung der verfassungsfeindlichen Strukturen der Partei stellt dieses Archiv in unseren Augen lediglich die **Oberfläche des gesamten rechtlichen und tatsächlichen Komplexes** dar. Viele verdeckte Netzwerke, Finanzströme und behördliche Erkenntnisse liegen im Verborgenen oder unterliegen dem Geheimschutz.
+   Trotz der sorgfältigen Aufbereitung von 314 Gerichtsfällen und über 1.400 Dokumenten legt diese Datenbank **bei weitem keinen Anspruch auf Vollständigkeit** nahe. In Anbetracht der enormen Tiefe und Verästelung der verfassungsfeindlichen Strukturen der Partei stellt dieses Archiv in unseren Augen lediglich die **Oberfläche des gesamten rechtlichen und tatsächlichen Komplexes** dar. Viele verdeckte Netzwerke, Finanzströme und behördliche Erkenntnisse liegen im Verborgenen oder unterliegen dem Geheimschutz.
    
 2. **Notwendigkeit händischer und professioneller Auswertung:**  
    Die in diesem Repository bereitgestellten Daten und KI-generierten Strukturierungshilfen (z. B. RAG-Dumps und Zusammenfassungen) sind **Arbeitswerkzeuge, keine gerichtsfertigen Beweise**. Für ein tatsächliches gerichtliches Verbotsverfahren vor dem Bundesverfassungsgericht bedarf es zwingend einer **vollständig händischen Auswertung, detaillierten Verifizierung und juristisch präzisen Aufbereitung aller Belege durch geschultes Fachpersonal** (wie habilitierte Verfassungsrechtler, erfahrene Prozessbevollmächtigte und staatliche Gutachter).
@@ -291,14 +291,14 @@ Dieses Register ist eine umfassende, wissenschaftlich gepflegte Zusammenstellung
 
 Sämtliche Belege liegen physisch im Repository vor und sind im vollumfänglichen Register [**`URTEILE_DEEPRESEARCH.md`**](./URTEILE_DEEPRESEARCH.md) systematisch verzeichnet.
 
-> 📥 **Gesamtregister zum Download:** Der PDF-/TXT-Export ist ein historischer Offline-Export des Urteilsregisters; aktueller Portal-/Repo-Stand: mindestens 313 Fälle:
+> 📥 **Gesamtregister zum Download:** Der PDF-/TXT-Export ist ein historischer Offline-Export des Urteilsregisters; aktueller Portal-/Repo-Stand: mindestens 314 Fälle:
 > * 📄 [**Gesamt-Urteilsregister als gesetztes PDF-Dossier**](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.pdf) *(Perfekt formatiert für RAG und Druck)*
 > * 📝 [**Gesamt-Urteilsregister als TXT-Dokument**](./dokumente/hauptquellen/AfD_Gerichtsentscheidungen_Urteilsregister_Volltext.md)
 
-> 📚 **Verifiziertes Quellen- & Provenienzregister:** Wir haben eine dedizierte Quellenliste angelegt, die den historischen Kernbestand und die fortlaufenden Nachträge mit Gerichts-, Behörden- und Pressebelegen dokumentiert; aktueller Portal-/Repo-Stand: mindestens 313 Fälle:
+> 📚 **Verifiziertes Quellen- & Provenienzregister:** Wir haben eine dedizierte Quellenliste angelegt, die den historischen Kernbestand und die fortlaufenden Nachträge mit Gerichts-, Behörden- und Pressebelegen dokumentiert; aktueller Portal-/Repo-Stand: mindestens 314 Fälle:
 > * 🔗 [**Offizielles Quellen- & Provenienzregister (QUELLEN_URTEILSDB.md)**](./dokumente/hauptquellen/urteilsbelege/QUELLEN_URTEILSDB.md)
 
-#### 🏛️ Systematisches & fortlaufend erweitertes Strafrechts- und Gerichtsregister (mindestens 313 exemplarische Fälle direkt im Repository):
+#### 🏛️ Systematisches & fortlaufend erweitertes Strafrechts- und Gerichtsregister (mindestens 314 exemplarische Fälle direkt im Repository):
 
 ### Nachtrag 2026-07-21: Knockout51, Neukölln-Komplex und Lübcke-Mord
 
@@ -364,6 +364,7 @@ Sämtliche Belege liegen physisch im Repository vor und sind im vollumfängliche
 * ⚖️ **311. Iven Görbig / AfD-Fraktionsvorsitz Unstrut-Hainich / tätlicher Angriff AG Mühlhausen 2023:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/311_Iven_Goerbig_Taetlicher_Angriff_AG_Muehlhausen_2023.md) | [BRG-Quelle](https://verband-brg.de/analyse-gewaltbereitschaft-bei-afd-funktionaer-innen/) | [Correctiv-Datenquelle](https://download.correctiv.org/flourish/gewalt-als-alternative/) – *[DIREKT AfD / KOMMUNALFRAKTION] Rechtskräftiges Urteil wegen tätlichen Angriffs auf Vollstreckungsbeamte, Körperverletzung und Beleidigung; sieben Monate und eine Woche auf Bewährung; AfD-Fraktionsvorsitz getrennt belegt.*
 * ⚖️ **312. Maximilian Kneller / AfD und Junge Alternative / Beleidigung 30 Tagessätze:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/312_Maximilian_Kneller_Beleidigung_30_Tagessaetze.md) | [Correctiv-Quelle](https://correctiv.org/aktuelles/afd/2026/07/08/afd-vorstand-voelkisch-parteitag-erfurt/) | [AfD-Watch-Kontext](https://afdwatchbielefeld.noblogs.org/personal/maximilian-kneller/) – *[DIREKT AfD / JA] Beleidigungsverurteilung mit AfD-/JA-/späterem Bundesvorstandsbezug; amtliche Gerichtsroute nachhärten.*
 * ⚖️ **313. Robert H. / AfD-Gemeinderatskandidat Freiburg / Pfefferspray-Angriff LG Freiburg 2024:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/313_Robert_H_AfD_Gemeinderatskandidat_Pfefferspray_LG_Freiburg_2024.md) | [taz-Quelle](https://taz.de/Gewaltbereite-AfD-Politikerinnen/!6089080/) – *[DIREKT AfD / KANDIDATURKONTEXT] Zweitinstanzliches Urteil mit 120 Tagessätzen zu je 10 Euro im Pfefferspray-Komplex; Messerangriff laut Bericht als Notwehr gewertet und deshalb strikt getrennt.*
+* ⚖️ **314. AfD-Bundestagsfraktion / Corona-Zugangsregeln Bundestag / BVerfG 2 BvE 1/22:** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/314_AfD_Bundestagsfraktion_Coronaregeln_BVerfG_2BvE1_22_2026.md) | [BVerfG-Beschluss](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/06/es20260609_2bve000122.html) | [Bundestag](https://www.bundestag.de/dokumente/textarchiv/2026/kw30-bundesverfassungsgericht-1198066) | [taz](https://taz.de/Verfassungsgericht-verwirft-AfD-Klage/!6198275/) – *[DIREKT AfD / VERFASSUNGSGERICHTLICHER ORGANSTREIT] AfD-Fraktion und AfD-Abgeordnete scheiterten in Karlsruhe mit Anträgen gegen 2G-plus-Zugangsregeln im Bundestag; kein Strafurteil und keine eigene Feststellung verfassungswidriger Ziele.*
 
 ##### A) Volksverhetzung & Verfassungswidrige Kennzeichen (20 Fälle)
 * ⚖️ **1. Björn Höcke (SA-Parole „Alles für Deutschland“):** [Lokaler Beleg](./dokumente/hauptquellen/urteilsbelege/01_Hoecke_SA_Parole_LG_Halle.md) | [Online-Quelle](https://www.lto.de/recht/nachrichten/n/bgh-verwirft-revision-bjoern-hoecke-sa-parole-alles-fuer-deutschland/) – *[**DIREKT AfD - Landessprecher**] LG Halle verurteilte Höcke wegen des Verwendens verbotener SA-Kennzeichen.*

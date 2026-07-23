@@ -1,14 +1,14 @@
 # Antragsreife Nachverdrahtung 2026
 
-Stand: 2026-07-23T00:04:09.405Z
+Stand: 2026-07-23T00:56:53.155Z
 
 ## Erzeugte Beweisregister
 
-- official_web_anchor_integrity_2026.jsonl: 376 lokale Webanker mit SHA-256, Bytes und Archivzeit.
+- official_web_anchor_integrity_2026.jsonl: 385 lokale Webanker mit SHA-256, Bytes und Archivzeit.
 - schriftsatz_top10_verbotsgruende_2026.jsonl: 180 Topquellen-Zeilen fuer 18 Verbotsgruende.
 - quote_actor_registry_2026.jsonl: 3722 Quote-/Proof-Findings mit Akteurs-, Kanal-, Zielgruppen- und Rechtsgutfeldern.
 - terror_umsturz_paramilitaer_matrix_2026.jsonl: 14 Sicherheitszeilen mit Verfahrensstatus- und no_overclaim-Feldern.
-- antrag_quellenhierarchie_2026.jsonl: 10855 Quellen nach tragend, stuetzend und route_only gewichtet.
+- antrag_quellenhierarchie_2026.jsonl: 10858 Quellen nach tragend, stuetzend und route_only gewichtet.
 
 ## Prozessregel
 
@@ -16,6 +16,12 @@ Antragsreif ist hier nicht maximale Rhetorik, sondern zitierfaehige Verdichtung:
 
 ## Offizielle Webanker
 
+- web: sources/web/afd-coronaregeln-bverfg-20260723/README.md | sha256=4a49999ceaa0dd3b... | 886 Bytes
+- web: sources/web/afd-coronaregeln-bverfg-20260723/SHA256SUMS.txt | sha256=e6ed064a5f0f9262... | 673 Bytes
+- web: sources/web/afd-coronaregeln-bverfg-20260723/bundestag-bverfg-afd-coronaregeln-2bve1-22-20260722.html | sha256=122c6e5c244aeaf2... | 260427 Bytes
+- web: sources/web/afd-coronaregeln-bverfg-20260723/bverfg-beschluss-20260609-2bve1-22-afd-coronaregeln.html | sha256=bc72cf0e69b95250... | 192358 Bytes
+- web: sources/web/afd-coronaregeln-bverfg-20260723/bverfg-pressemitteilung-44-2026-afd-coronaregeln-2bve1-22.html | sha256=f77f8b7bfe5f216a... | 115552 Bytes
+- web: sources/web/afd-coronaregeln-bverfg-20260723/taz-bverfg-afd-coronaregeln-bundestag-20260722.html | sha256=3f8dcee4ff13fe0e... | 171986 Bytes
 - web: sources/web/afd-verbot/afd_verbot_beweis_11058_live.html | sha256=4d8bd3707cddf3bb... | 116314 Bytes
 - web: sources/web/afd-verbot/afd_verbot_beweis_11258_marcel_grauf.html | sha256=ad1f30e8fda9079f... | 118061 Bytes
 - web: sources/web/afd-verbot/afd_verbot_beweis_11625_live.html | sha256=4f6d6a1b2db46d85... | 115631 Bytes
@@ -30,12 +36,6 @@ Antragsreif ist hier nicht maximale Rhetorik, sondern zitierfaehige Verdichtung:
 - web: sources/web/afd-verbot/afd_verbot_beweis_15444_mirko_welsch.html | sha256=7ec957682db58ad1... | 115529 Bytes
 - web: sources/web/afd-verbot/afd_verbot_beweis_15845_live.html | sha256=c98bbe830b32ed6d... | 115990 Bytes
 - web: sources/web/afd-verbot/afd_verbot_beweis_16430_dubravko_mandic.html | sha256=47a1c148d0e9d580... | 117372 Bytes
-- web: sources/web/afd-verbot/afd_verbot_beweis_16451_live.html | sha256=ab64069c3cb3df4d... | 115905 Bytes
-- web: sources/web/afd-verbot/afd_verbot_beweis_17060_beatrix_von_storch.html | sha256=619099219a3117aa... | 115958 Bytes
-- web: sources/web/afd-verbot/afd_verbot_beweis_17346_beatrix_von_storch.html | sha256=a93d1191a8884610... | 115619 Bytes
-- web: sources/web/afd-verbot/afd_verbot_beweis_17412_live.html | sha256=90bb49e5030bc52d... | 116007 Bytes
-- web: sources/web/afd-verbot/afd_verbot_beweis_18885_marcel_grauf.html | sha256=97631e1b4c309df5... | 117971 Bytes
-- web: sources/web/afd-verbot/afd_verbot_beweis_19467_heiko_hessenkemper.html | sha256=e3f90c807b60cea1... | 117796 Bytes
 
 ## Schriftsatz-Toplisten
 

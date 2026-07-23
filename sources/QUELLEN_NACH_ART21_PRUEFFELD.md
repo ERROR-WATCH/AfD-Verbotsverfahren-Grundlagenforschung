@@ -103,3 +103,8 @@ Zuordnung eines Befunds zur Partei, Gliederung, Teilorganisation, Funktionaeren,
 | VG-16 | Unwille oder Unfaehigkeit zur innerparteilichen Abgrenzung | `BELEGT_UND_VERDRAHTET` |
 | VG-17 | Gerichtlich bestaetigte Beobachtungs- und Einstufungsachsen | `BELEGT_UND_VERDRAHTET` |
 | VG-18 | Durchsetzungskraft: keine marginale Gruppierung | `BELEGT_UND_VERDRAHTET` |
+
+## Nachtrag 2026-07-23: BVerfG-Coronaregeln und rechte Gewalt Stuttgart
+
+- **Fall 314 / AfD-Bundestagsfraktion / BVerfG 2 BvE 1/22:** `dokumente/hauptquellen/urteilsbelege/314_AfD_Bundestagsfraktion_Coronaregeln_BVerfG_2BvE1_22_2026.md`; lokale Webanker: `sources/web/afd-coronaregeln-bverfg-20260723/README.md`. Zaehlregel: verfassungsgerichtlicher AfD-Gerichtsregisterfall, kein Strafurteil und keine eigene Feststellung verfassungswidriger Ziele.
+- **FAU Stuttgart / rechte Gewalt:** `dokumente/hauptquellen/FAU_Stuttgart_Rechte_Gewalt_Nebenbeleg_2026_07_23.md`; lokale Webanker: `sources/web/rechte-gewalt-stuttgart-fau-20260723/README.md`. Zaehlregel: Lagebild- und Gewaltkontext, nicht als AfD-Gerichtsfall gezaehlt und ohne automatische AfD-Zurechnung.

@@ -12,7 +12,7 @@ Dieses Register benennt die letzten sieben Verfahrenshaertungen vor der eigentli
 - auszugebende Artefakte: 21
 - Quote-Findings: 3722
 - Actor-Registry-Zeilen: 3722
-- Quelleninventar: 10855
+- Quelleninventar: 10858
 - final gefuehrte Anlagen-Pinpoints: 127
 
 ## Sieben Verfahrenshaertungen
@@ -39,7 +39,7 @@ Umsetzung:
 - Ziel: Presse- und Screenshot-Routen auf amtliche, gerichtliche, parteieigene oder archivierte Originale stellen.
 - Lokale Belege: daten/source_inventory.jsonl; daten/presseanker_primaerrouten_2026.jsonl; daten/anlagenregister_art21_2026.jsonl; sources/web/
 - Online-/Originalroute: Phoenix-/YouTube-Original oder Transkript fuer Chrupalla/VS; X/Facebook/Youtube-Originale; AfD-Programm-/Beschluss-/Pressemitteilungsseiten; Gerichts-/GBA-/Bundestagsseiten.
-- Bestand: quelleninventar=10855; social_media_route_sources=22; presse_recherche_routes=230; official_or_primary_sources=5790; hashgesicherte_amtsanker=19
+- Bestand: quelleninventar=10858; social_media_route_sources=22; presse_recherche_routes=231; official_or_primary_sources=5792; hashgesicherte_amtsanker=19
 - Visualisierung: Quellenhierarchie-Leiter: Gericht/amtlich/Parteiquelle > Gutachten > parlamentarisch > Presse/Recherche > lokaler Proof; Ampel pro Route.
 - Verfahrensregel: Presse ist Rechercheweg, nicht Endpunkt fuer A-Beweis. Zurechnung entsteht durch dokumentierten AfD-Akteur, Organ, Funktion oder Fall-ID.
 - Outputs: daten/presseanker_primaerrouten_2026.jsonl; daten/official_web_anchor_integrity_2026.jsonl; daten/antrag_quellenhierarchie_2026.jsonl
