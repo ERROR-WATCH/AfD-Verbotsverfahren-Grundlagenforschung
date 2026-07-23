@@ -13,6 +13,7 @@ Diese Achse trennt konkrete AfD-Personenbezüge von allgemeinem rechtsterroristi
 | Bundestagsstoerungen | durch AfD-Abgeordnete eingeladene Besucher | direkt-organisationsnah laut BfV-Folgegutachten | amtliche Verdachtsfallgrundlage | FIND-CG-000016 |
 | Combat 18 / B&H / Hammerskins | verbotene / rechtsterroristische Gewaltmilieus | Kontext; Kanten separat pruefen | amtliche VS-Berichte | FIND-CG-000017/18 |
 | Blood-&-Honour-Kante | AfD-Fraktion Thueringen-Mitarbeiter mit B&H/JN/Kameradschaftskontakten | indirekt-personell | BfV-Folgegutachten | FIND-CG-000019 |
+| Rechte Gewalt 2025 / VBRG-Jahresbilanz | 3.167 Angriffe, 4.298 Betroffene, 604 Minderjährige, 2 Todesopfer; Angriffe gegen politische Gegner und Zivilgesellschaft | Lagebild; taz/VBRG berichten AfD-Bezug in Tat-/Drohungsnarrativen und DeZIM-Kontext, keine automatische AfD-Tatzurechnung | VBRG 2025 / taz 22.07.2026 | - |
 
 ## Red-Team-Regel
 
@@ -28,3 +29,11 @@ Status: `BELEGT_UND_VERDRAHTET`. Für den Schriftsatz-Pinpoint geführt sind Ins
 
 Quelle: https://www.tagesspiegel.de/politik/videos-mit-schutzweste-und-sturmgewehr-kampft-afd-influencer-fur-russland-in-der-ukraine-15811023.html
 
+
+## Nachtrag 2026-07-23: VBRG/taz Jahresbilanz rechte Gewalt 2025
+
+Die VBRG-Jahresbilanz 2025 dokumentiert 3.167 rechte, rassistische und antisemitische Angriffe, 4.298 unmittelbar Betroffene, 604 betroffene Kinder und Jugendliche und zwei Todesopfer rechter Tötungsdelikte. Die taz ordnet die Jahresbilanz unter dem Gesichtspunkt des AfD-Einflusses ein und berichtet über von Betroffenen geschilderte AfD-bezogene Drohungsnarrative sowie die DeZIM-Einordnung zur Verschiebung dessen, was denkbar, sagbar und machbar erscheint.
+
+Status: `LAGEBILD_NICHT_GEZÄHLT`. Der Beleg bleibt Kontext-, Potentialitäts- und Normalisierungsanker. Er wird nicht als AfD-Gerichtsfall gezählt und darf nicht als automatische Parteizurechnung einzelner rechter Gewalttaten verwendet werden.
+
+Lokaler Webanker: `sources/web/rechte-gewalt-2025-vbrg-taz-20260723/README.md`

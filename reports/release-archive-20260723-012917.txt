@@ -1,0 +1,7 @@
+Release-Zeitstempel: 2026-07-23T01:29:17+02:00
+Release-ZIP: releases/afd-verbotsverfahren-grundlagenforschung-20260723-012917-release.zip
+Archiv-ZIP: archives/afd-verbotsverfahren-grundlagenforschung-20260723-012917-release.zip
+SHA256: releases/afd-verbotsverfahren-grundlagenforschung-20260723-012917-release.zip.sha256
+Build: npm run build OK; validate:statistics Fatal 0 Warnings 0; validate:pages missingLinks 0.
+Zählstand: 313 Gerichtsfälle, 18 Verbotsgründe, 3.722 Belegzitate, 50 CDU/Brandmauer/Potentialitäts-Webanker nicht gezählt.
+Archivmodus: nach Online-Push wieder zu setzen.
