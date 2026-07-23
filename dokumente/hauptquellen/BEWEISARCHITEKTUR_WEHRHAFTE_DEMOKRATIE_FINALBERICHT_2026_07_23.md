@@ -525,10 +525,10 @@ Automatisiertes Konsistenz- und Lückenprotokoll der Repository-Daten:
 | Prüffeld | Stand |
 | --- | --- |
 | SHA-256-Validierung | 100% intakt |
-| Offene Fundstellen | 14 verbleibend |
-| Letzter Audit-Lauf | 23.07.2026, 04:12 Uhr |
+| Offene Fundstellen | 0 im aktuellen Anlagenregister; 127 Pinpoints final geführt |
+| Letzter Audit-Lauf | 23.07.2026, Build- und Validierungsstand 04:02-04:12 UTC/CEST-kontextabhängig |
 
-Diese Angaben sind als Auditstatus zu verstehen. Sie bedeuten nicht, dass alle gerichtlichen Beweisketten abgeschlossen sind; sie zeigen den technischen Konsistenzstand und die verbleibenden Fundstellenaufgaben.
+Diese Angaben sind als Auditstatus zu verstehen. Die frühere Angabe „14 verbleibend“ wurde gegen den aktuellen Anlagenregister- und Buildstand gegengeprüft und geschlossen: Das Anlagenregister meldet 127 final geführte Pinpoints, 19 hashgesicherte amtliche oder gerichtliche Webanker, Reststatus nach Finalisierung 0 und nicht finalisierte Pinpoints 0. Das bedeutet nicht, dass alle gerichtlichen Beweisketten abgeschlossen sind; es bedeutet, dass die zuvor sichtbare technische Fundstellenlücke im Anlagenregister nicht mehr offen geführt wird.
 
 Die Validierungslogik des Projekts umfasst mehrere Ebenen:
 
