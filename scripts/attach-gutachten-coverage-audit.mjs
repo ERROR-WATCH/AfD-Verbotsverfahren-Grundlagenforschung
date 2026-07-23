@@ -122,7 +122,7 @@ const rows = [
     local_anchor: 'dokumente/hauptquellen/ChatGPT*.pdf; Claude*.pdf; interne KI-Analysen',
     online_route: 'Keine externe Beweisroute; interne Arbeitsprodukte.',
     status: 'NICHT_BEWEISMITTEL',
-    evidence_role: 'Arbeits- und Strukturierungshilfe, nicht Beweis, nicht Gutachten, nicht gerichtsfeste Quelle.',
+    evidence_role: 'Arbeits- und Strukturierungshilfe, nicht Beweis, nicht Gutachten, nicht gerichtsfertige Quelle.',
     art21_fields: ['methodik', 'nicht_beweismittel'],
     court_use: 'Aus Antragsbeweisfuehrung strikt ausblenden oder als internes Arbeitsprodukt kennzeichnen.',
     remaining: 'Im Dashboard als interne KI-Notiz klassifizieren; nie in Beweisstufe A/B und nie als Gutachten zaehlen.'

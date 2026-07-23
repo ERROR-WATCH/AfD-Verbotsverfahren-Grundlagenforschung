@@ -50,7 +50,7 @@ for (const row of auditRows) {
   row.schaltstelle = row.schaltstelle || row.risk || 'Konkrete Schaltstelle der Beweisverdrahtung.';
   row.verdrahtung = row.verdrahtung || row.fix || 'Vorhandene Quellen- und Statistikroute ist angelegt.';
   row.evidence = row.evidence || row.beleganker || 'Lokale Repo-Belege, Findings, Quelleninventar und Statistikmanifest.';
-  row.court_ready_action = row.court_ready_action || row.next_evidence_action || row.remaining || 'Pinpoint, Akteur, Zurechnungsebene oder Prozessstatus für die Schriftsatzfassung gerichtsfest zuordnen.';
+  row.court_ready_action = row.court_ready_action || row.next_evidence_action || row.remaining || 'Pinpoint, Akteur, Zurechnungsebene oder Prozessstatus für die Schriftsatzfassung pruefbar zuordnen.';
   delete row.next_evidence_action;
   row.process_rule = row.process_rule || row.beweisregel || 'Keine Entlastungs- oder Pauschalzurechnung ohne Akteur, Quelle, Pinpoint und Statusachse.';
   row.status = row.status || 'BELEGT_UND_VERDRAHTET';

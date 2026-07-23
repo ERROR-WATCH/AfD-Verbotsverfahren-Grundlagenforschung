@@ -1472,7 +1472,7 @@ Die Detailstände liegen in den spezialisierten Index-, Audit- und Todo-Dateien.
 
 ### Release-Zeitstempel
 
-Cleaned-Release-Stand: 2026-07-23T07:45:53+02:00
+Cleaned-Release-Stand: 2026-07-23T08:09:44+02:00
 
 ### Gutachten-Coverage-Audit 2026-07-09
 
@@ -1488,6 +1488,8 @@ Ergänzender Index für die antragsrelevante Gutachtenabdeckung: [Gutachten-Cove
 ---
 
 ## KI-Schnellindex, Methodik und Belegarchitektur
+
+**Über diesen Bereich:** Die hier aufgeführten Dokumente beschreiben die interne Methodik, Qualitätssicherung und maschinenlesbare Datenstruktur des Repositories. Sie dienen der Transparenz der Forschungsarchitektur und ersetzen weder die Prüfung der Originalquellen noch eine juristische Einzelfallprüfung oder gerichtliche Beweiswürdigung.
 
 Dieser Schnellindex bündelt die Dateien, die für KI-gestützte Recherche, juristische Vorprüfung, Gegenlese und externe Nachvollziehbarkeit besonders nützlich sind. Die Links sind Arbeits- und Navigationsanker; sie ersetzen keine Prüfung der Originalquellen.
 
@@ -1560,4 +1562,4 @@ Dieser Schnellindex bündelt die Dateien, die für KI-gestützte Recherche, juri
 
 ### Release-Zeitstempel
 
-Cleaned-Release-Stand: 2026-07-23T07:45:53+02:00
+Cleaned-Release-Stand: 2026-07-23T08:09:44+02:00
