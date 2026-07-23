@@ -37,6 +37,8 @@ https://github.com/user-attachments/assets/f8bce688-fd95-4e6a-80c6-190332181a97
 
 <a href="https://www.zdf.de/play/shows/die-anstalt-104/die-anstalt-vom-21-juli-2026-100"><img src="https://www.zdf.de/assets/die-anstalt-folge-100-100~1920x1080?cb=1784542044224" alt="Die Anstalt Folge 100" width="100%" style="max-width: 100%; height: auto;" /></a>
 
+<a href="https://www.youtube.com/watch?v=IpelQSw1Cww" title="Auf YouTube ansehen"><img src="https://img.youtube.com/vi/IpelQSw1Cww/maxresdefault.jpg" alt="keine Angst" width="100%" style="max-width: 100%; height: auto;" /></a>
+
 <a href="https://www.youtube.com/watch?v=VPKaWjqpL10"><img src="https://img.youtube.com/vi/VPKaWjqpL10/maxresdefault.jpg" alt="Goldschatz" width="100%" style="max-width: 100%; height: auto;" /></a>
 
 <a href="https://www.youtube.com/watch?v=bH8QCgEg680" title="Auf YouTube ansehen"><img src="https://img.youtube.com/vi/bH8QCgEg680/maxresdefault.jpg" alt="zu Statistiken" width="100%" style="max-width: 100%; height: auto;" /></a>
