@@ -1,0 +1,19 @@
+{
+  "schema": "intercoder_review_schema_2026",
+  "stand": "2026-07-23",
+  "purpose": "Dokumentiert unabhängige Zweitbewertungen von Belegen zur Reproduzierbarkeit der internen Beweisklassen.",
+  "required_fields": [
+    "review_id",
+    "bezugsbeleg_id",
+    "reviewer_a_class",
+    "reviewer_b_class",
+    "abweichung",
+    "konfliktfeld",
+    "entscheidung",
+    "begruendung",
+    "auswirkung"
+  ],
+  "allowed_abweichung": ["keine", "gering", "erheblich", "fundamental"],
+  "allowed_konfliktfeld": ["quelle", "pinpoint", "akteur", "zurechnung", "status", "gegenbeleg", "art21_feld", "red_team_grenze"],
+  "decision_rule": "Bei erheblicher Abweichung bleibt die niedrigere Beweisklasse maßgeblich, bis Quelle, Pinpoint, Status, Zurechnung und Gegenbeleglage geklärt sind."
+}

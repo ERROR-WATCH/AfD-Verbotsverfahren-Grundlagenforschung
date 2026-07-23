@@ -1,0 +1,24 @@
+{
+  "schema": "verdichtungslogik_organisationsweite_grundtendenz_2026",
+  "version": "2026-07-23",
+  "purpose": "Methodische Felder zur Verdichtung von Einzelbelegen zu pruefbaren Aussagen ueber Parteitendenzen nach Art. 21 Abs. 2 GG.",
+  "fields": [
+    "verdichtungsstufe",
+    "akteursrang",
+    "parteiebene",
+    "offizieller_kanal",
+    "wiederholung_cluster",
+    "programmnaehe",
+    "duldung_oder_sanktion",
+    "gegenbeleg_ids",
+    "zurechnungsgrenze",
+    "verbleibender_beweiswert"
+  ],
+  "levels": {
+    "V0": "Einzelbeleg ohne Strukturanschluss",
+    "V1": "wiederholter Beleg desselben Akteurs oder Kanals",
+    "V2": "mehrere Akteure derselben Parteiebene",
+    "V3": "mehrere Ebenen, offizielle Kanaele oder Duldung",
+    "V4": "Programmnaehe, Umsetzungspraxis und fehlende wirksame Gegensteuerung"
+  }
+}

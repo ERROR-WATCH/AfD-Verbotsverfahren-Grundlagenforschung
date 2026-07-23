@@ -501,6 +501,10 @@
 
 
 
+
+
+
+
                     <div id="statsFinalVisualPreview" class="rounded-lg border border-blue-100 bg-blue-50/40 p-4 space-y-3">
                         <div class="flex items-center justify-between gap-3">
                             <h4 class="text-sm font-extrabold text-brand-dark">Renderbare Beweisketten aus den sieben Punkten</h4>
@@ -520,6 +524,10 @@
                         <strong>Pinpointstand:</strong> Alle Anlagen-Pinpoints sind als hashgesicherter Amtsanker oder konkrete lokale Textfundstelle geführt. Für die spätere Antragsschrift bleiben nur formale Antragstellung, Anlagenreihenfolge, Zitatauswahl und Gegenlese bei wörtlicher Übernahme.
                     </div>
                 </div>
+
+
+
+
 
 
 
@@ -629,7 +637,7 @@
                                 <span class="text-[10px] font-bold rounded-full bg-red-50 text-red-700 px-2 py-1">Prioritaet A</span>
                             </div>
                             <h4 class="mt-1 font-extrabold text-brand-dark">Zitatkorpus als Schriftsatzpaket</h4>
-                            <p class="mt-1 text-xs text-slate-600">Top-100/Top-300-Zitate nicht als Masse, sondern als gerichtsfeste Einzelbeweise mit Akteur, Funktion, Datum, Kanal, Zielgruppe, Rechtsgut, Kontext und Gegenargument ausspielen.</p>
+                            <p class="mt-1 text-xs text-slate-600">Top-100/Top-300-Zitate nicht als Masse, sondern als pruefbare Einzelbelege mit Akteur, Funktion, Datum, Kanal, Zielgruppe, Rechtsgut, Kontext und Gegenargument ausspielen.</p>
                             <p class="mt-2 text-[11px] text-slate-500"><strong>Output:</strong> daten/topzitat_dossierklasse_2026.jsonl; daten/quote_actor_registry_2026.jsonl; dokumente/hauptquellen/TOPZITAT_DOSSIERKLASSE_2026.md</p>
                             <p class="mt-1 text-[11px] text-slate-500"><strong>Visualisierung:</strong> Funnel: 3.722 Quote-Findings -> direkt zurechenbar -> amtlich/gerichtlich -> Top-100/300; Heatmap Akteur x Rechtsgut; Zielgruppenmatrix.</p>
                         </div>
@@ -815,7 +823,7 @@
                         <div>
                             <p class="text-xs font-bold uppercase tracking-wider text-brand-red">18 Verbotsgründe als Beweismatrix</p>
                             <h3 class="text-xl font-extrabold text-brand-dark">Alle Prüffelder mit Beweisstärke, Risiko und Diagrammtyp</h3>
-                            <p class="text-sm text-slate-500 max-w-5xl mt-1">Jeder Punkt wird als gerichtsfeste Beweisachse geführt: Rechtsgut, Kernaussage, Quellenlage, vorhandene Zahlen, Zurechnungsebene, Prozessrisiko und sinnvolle Visualisierung. Die dazugehörige Local/Web-Belegkarte ordnet lokale Repo-Pfade und externe Primäranker pro Verbotsgrund.</p>
+                            <p class="text-sm text-slate-500 max-w-5xl mt-1">Jeder Punkt wird als pruefbare Beweisachse geführt: Rechtsgut, Kernaussage, Quellenlage, vorhandene Zahlen, Zurechnungsebene, Prozessrisiko und sinnvolle Visualisierung. Die dazugehörige Local/Web-Belegkarte ordnet lokale Repo-Pfade und externe Primäranker pro Verbotsgrund.</p>
                         </div>
                         <div class="flex flex-wrap gap-2 shrink-0">
                             <a href="./dokumente/hauptquellen/DEEPRESEARCH_18_VERBOTSGRUENDE_STATISTIK_2026.md" target="_blank" class="text-xs font-bold text-brand-blue hover:text-blue-900 flex items-center gap-1">
@@ -834,7 +842,7 @@
                     <div class="xl:col-span-2 bg-white rounded-xl shadow p-6 border border-slate-100 space-y-5">
                         <div>
                             <p class="text-xs font-bold uppercase tracking-wider text-brand-red">Bund, Länder, JA/GD, Vorfeld</p>
-                            <h3 class="text-xl font-extrabold text-brand-dark">Bund, Länder, JA/GD und Vorfeld: gerichtsfeste Statusmatrix</h3>
+                            <h3 class="text-xl font-extrabold text-brand-dark">Bund, Länder, JA/GD und Vorfeld: pruefbare Statusmatrix</h3>
                             <p class="text-sm text-slate-500 max-w-5xl mt-1">Diese Matrix trennt Bundespartei, Landesverbände, JA/GD, Flügel-/Vorfeldstrukturen, Verdachtsfall, gesichert/erwiesen, Sonderstatus, Teilstrukturstatus, Nichtbeobachtung, Eilentscheidung, Hauptsache und Rechtskraft. Sie verhindert, dass einzelne nicht beobachtete oder anders klassifizierte Landesverbände als Entlastung der Gesamtpartei oder der Vorfeld-/Jugendachse fehlgelesen werden.</p>
                         </div>
                         <div id="statsStateMatrixKpis" class="grid grid-cols-2 md:grid-cols-3 xl:grid-cols-6 gap-3"></div>
@@ -1163,7 +1171,7 @@
                     <div class="flex flex-col lg:flex-row lg:items-start justify-between gap-4">
                         <div>
                             <p class="text-xs font-bold uppercase tracking-wider text-emerald-700">Audit-Beweisrouten</p>
-                            <h3 class="text-xl font-extrabold text-brand-dark">Lokale und online gerichtsfest zugeordnete Beweisanker je Schaltstelle</h3>
+                            <h3 class="text-xl font-extrabold text-brand-dark">Lokale und online pruefbar zugeordnete Beweisanker je Schaltstelle</h3>
                             <p class="text-sm text-slate-500 max-w-5xl mt-1">Diese Matrix zeigt nicht Arbeitslücken, sondern konkrete Routen: lokaler Anker, Online-/Originalroute, Akteur, Pinpoint, Art.-21-Funktion und Überzeichnungsgrenze. Jede Zeile ist als Quelle -> Pinpoint -> Akteur -> Zurechnung -> Status lesbar.</p>
                         </div>
                         <a href="./daten/beweisrouten_audit_2026.jsonl" target="_blank" class="bg-emerald-50 hover:bg-emerald-100 text-emerald-700 font-bold px-4 py-2 rounded-lg text-xs transition inline-flex items-center gap-2 shrink-0"><i class="fa-solid fa-route"></i><span>Beweisrouten</span></a>
@@ -1203,7 +1211,7 @@
                         <div>
                             <p class="text-xs font-bold uppercase tracking-wider text-brand-red">Gesamte Datenmatrix</p>
                             <h3 class="text-xl font-extrabold text-brand-dark">Quelle, Pinpoint, Akteur, Zurechnung und Statistikanschluss in einer Matrix</h3>
-                            <p class="text-sm text-slate-500 max-w-5xl mt-1">Diese Abschlussmatrix zeigt nicht abstrakte Themen, sondern die vorhandenen Belegbestände im Repository: Manifestobjekte, Findings, Quelleninventar, 18-Verbotsgründe-Audit, Zitatkorpus, Vorfeldkanten, Gerichtsregister, Statusmatrix und Potentialitätszahlen. Die Spalte Schriftsatz-Pinpoint benennt Quelle, Pinpoint, Akteur und Zurechnung als gerichtsfeste Felder.</p>
+                            <p class="text-sm text-slate-500 max-w-5xl mt-1">Diese Abschlussmatrix zeigt nicht abstrakte Themen, sondern die vorhandenen Belegbestände im Repository: Manifestobjekte, Findings, Quelleninventar, 18-Verbotsgründe-Audit, Zitatkorpus, Vorfeldkanten, Gerichtsregister, Statusmatrix und Potentialitätszahlen. Die Spalte Schriftsatz-Pinpoint benennt Quelle, Pinpoint, Akteur und Zurechnung als pruefbare Schriftsatzfelder.</p>
                         </div>
                         <div class="flex flex-wrap gap-2 shrink-0">
                             <a href="./daten/statistik_manifest.json" target="_blank" class="bg-blue-50 hover:bg-blue-100 text-brand-blue font-bold px-4 py-2 rounded-lg text-xs transition inline-flex items-center gap-2"><i class="fa-solid fa-database"></i><span>Manifest</span></a>
@@ -1989,7 +1997,7 @@
                            </div>
                            <h5 class="text-lg font-bold text-brand-blue">Nordrhein-Westfalen</h5>
                            <p class="text-slate-600 text-xs leading-relaxed italic border-l-2 border-slate-200 pl-2">
-                               "Das Entstehen von Parallelgesellschaften ist das direkte Ergebnis einer verwird gerichtsfest eingetragenen Einwanderungspolitik."
+                               "Das Entstehen von Parallelgesellschaften ist das direkte Ergebnis einer ververwilderten Einwanderungspolitik."
                            </p>
                            <p class="text-slate-500 text-xs leading-relaxed">
                                **Relevanz:** Diffamierung des urbanen Raums und des 'politischen Islams'. Ablehnung aller Klimaschutzpolitik als Industrie-Sabotage.
@@ -2225,6 +2233,37 @@
 
             <!-- TAB 9: KI-HANDBUCH & METHODIK -->
             <div id="tab-ki" class="tab-content hidden space-y-6">
+                <div class="bg-white rounded-xl shadow p-6 border border-blue-100 space-y-4">
+                    <div>
+                        <p class="text-xs font-bold uppercase tracking-wider text-brand-blue">KI-Schnellindex</p>
+                        <h3 class="text-xl font-extrabold text-brand-dark">Methodik, Gegenlese und maschinenlesbare Kernregister</h3>
+                        <p class="text-sm text-slate-500 mt-1 max-w-5xl">Diese Links führen zu den Dateien, die für KI-gestützte Recherche, juristische Vorprüfung, Gegenbelege, Verdichtung und externe Nachvollziehbarkeit am wichtigsten sind. Sie sind Arbeitsanker und ersetzen keine Prüfung der Originalquellen.</p>
+                    </div>
+                    <div class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-3 text-xs">
+                        <a href="./dokumente/hauptquellen/BEWEISARCHITEKTUR_WEHRHAFTE_DEMOKRATIE_FINALBERICHT_2026_07_23.md" target="_blank" class="rounded-lg border border-blue-100 bg-blue-50/60 p-3 font-bold text-brand-blue hover:text-brand-gold">Finalbericht Beweisarchitektur</a>
+                        <a href="./dokumente/hauptquellen/BEWERTUNGSMATRIX_BEWEISKLASSEN_ART21_2026_07_23.md" target="_blank" class="rounded-lg border border-blue-100 bg-blue-50/60 p-3 font-bold text-brand-blue hover:text-brand-gold">Bewertungsmatrix Beweisklassen</a>
+                        <a href="./dokumente/hauptquellen/GEGENBELEGE_REGISTER_METHODIK_2026_07_23.md" target="_blank" class="rounded-lg border border-blue-100 bg-blue-50/60 p-3 font-bold text-brand-blue hover:text-brand-gold">Gegenbelege-Methodik</a>
+                        <a href="./dokumente/hauptquellen/VERDICHTUNGSLOGIK_ORGANISATIONSWEITE_GRUNDTENDENZ_2026_07_23.md" target="_blank" class="rounded-lg border border-blue-100 bg-blue-50/60 p-3 font-bold text-brand-blue hover:text-brand-gold">Verdichtungslogik</a>
+                        <a href="./dokumente/hauptquellen/MUSTERAKTE_TOP_BEWEISKOMPLEX_MIGRATION_BUNDESTAG_2025_01_29.md" target="_blank" class="rounded-lg border border-blue-100 bg-blue-50/60 p-3 font-bold text-brand-blue hover:text-brand-gold">Musterakte Migration 2025</a>
+                        <a href="./dokumente/hauptquellen/REPRODUZIERBARKEIT_INTERCODER_PROTOKOLL_2026_07_23.md" target="_blank" class="rounded-lg border border-blue-100 bg-blue-50/60 p-3 font-bold text-brand-blue hover:text-brand-gold">Intercoder-Protokoll</a>
+                        <a href="./dokumente/hauptquellen/METHODIK_VERSIONIERUNG_AENDERUNGSVERMERK_2026_07_23.md" target="_blank" class="rounded-lg border border-blue-100 bg-blue-50/60 p-3 font-bold text-brand-blue hover:text-brand-gold">Methodik-Versionierung</a>
+                        <a href="./daten/gegenbelege_register_2026.jsonl" target="_blank" class="rounded-lg border border-blue-100 bg-blue-50/60 p-3 font-bold text-brand-blue hover:text-brand-gold">Gegenbelege JSONL</a>
+                        <a href="./daten/verdichtungslogik_schema_2026.json" target="_blank" class="rounded-lg border border-blue-100 bg-blue-50/60 p-3 font-bold text-brand-blue hover:text-brand-gold">Verdichtungslogik Schema</a>
+                        <a href="./daten/intercoder_review_schema_2026.json" target="_blank" class="rounded-lg border border-blue-100 bg-blue-50/60 p-3 font-bold text-brand-blue hover:text-brand-gold">Intercoder Schema</a>
+                        <a href="./daten/methodik_changelog_2026.jsonl" target="_blank" class="rounded-lg border border-blue-100 bg-blue-50/60 p-3 font-bold text-brand-blue hover:text-brand-gold">Methodik-Changelog</a>
+                        <a href="./daten/findings_art21.jsonl" target="_blank" class="rounded-lg border border-blue-100 bg-blue-50/60 p-3 font-bold text-brand-blue hover:text-brand-gold">Findings Art. 21</a>
+                        <a href="./daten/source_inventory.jsonl" target="_blank" class="rounded-lg border border-blue-100 bg-blue-50/60 p-3 font-bold text-brand-blue hover:text-brand-gold">Quelleninventar</a>
+                        <a href="./daten/anlagenregister_art21_2026.jsonl" target="_blank" class="rounded-lg border border-blue-100 bg-blue-50/60 p-3 font-bold text-brand-blue hover:text-brand-gold">Anlagenregister JSONL</a>
+                        <a href="./daten/antragsspitze_top40_beweise_2026.jsonl" target="_blank" class="rounded-lg border border-blue-100 bg-blue-50/60 p-3 font-bold text-brand-blue hover:text-brand-gold">Antragsspitze Top 40</a>
+                        <a href="./daten/schriftsatz_export_top_beweise_2026.jsonl" target="_blank" class="rounded-lg border border-blue-100 bg-blue-50/60 p-3 font-bold text-brand-blue hover:text-brand-gold">Schriftsatzexport JSONL</a>
+                        <a href="./daten/status_rechtskraft_monitor_2026.jsonl" target="_blank" class="rounded-lg border border-blue-100 bg-blue-50/60 p-3 font-bold text-brand-blue hover:text-brand-gold">Status-/Rechtskraftmonitor</a>
+                        <a href="./daten/vorfeld_einzelkanten_2026.jsonl" target="_blank" class="rounded-lg border border-blue-100 bg-blue-50/60 p-3 font-bold text-brand-blue hover:text-brand-gold">Vorfeld-Einzelkanten</a>
+                        <a href="./daten/vorfeld_network_edges_2026.jsonl" target="_blank" class="rounded-lg border border-blue-100 bg-blue-50/60 p-3 font-bold text-brand-blue hover:text-brand-gold">Vorfeld-Netzwerkkanten</a>
+                        <a href="./daten/terror_umsturz_paramilitaer_matrix_2026.jsonl" target="_blank" class="rounded-lg border border-blue-100 bg-blue-50/60 p-3 font-bold text-brand-blue hover:text-brand-gold">Sicherheitsmatrix</a>
+                        <a href="./daten/statistik_manifest.json" target="_blank" class="rounded-lg border border-blue-100 bg-blue-50/60 p-3 font-bold text-brand-blue hover:text-brand-gold">Statistikmanifest</a>
+                        <a href="./reports/validation-report.md" target="_blank" class="rounded-lg border border-blue-100 bg-blue-50/60 p-3 font-bold text-brand-blue hover:text-brand-gold">Validation Report</a>
+                    </div>
+                </div>
                 <div class="bg-white rounded-xl shadow p-6 border border-slate-100">
                     <div class="flex flex-col md:flex-row gap-8">
                         <!-- Left Navigation Sidebar -->
@@ -2321,7 +2360,7 @@
 # 🤖 01 | KI-Methodik in der verfassungsrechtlichen Grundlagenforschung
 
 ## Die Rolle der Künstlichen Intelligenz (KI) im Verbotsverfahren
-Das Verbotsverfahren gegen die „Alternative für Deutschland“ (AfD) nach Art. 21 Abs. 2 GG stellt einen beispiellosen historischen Kraftakt dar. Die Beweislast liegt vollständig bei den antragstellenden Verfassungsorganen (Bundestag, Bundesrat, Bundesregierung). Sie müssen ein flächendeckendes, systematisches und aktiv-kämpferisches Verhalten der Gesamtpartei gegen die freiheitliche demokratische Grundordnung (fdGO) nachweisen.
+Ein moegliches Verbotsverfahren gegen die „Alternative für Deutschland“ (AfD) nach Art. 21 Abs. 2 GG waere ein umfangreiches verfassungsrechtliches Pruefvorhaben. Die antragstellenden Verfassungsorgane (Bundestag, Bundesrat, Bundesregierung) muessten einen Verbotsantrag substantiiert begruenden und Beweismittel benennen. Zugleich gilt vor dem Bundesverfassungsgericht der Amtsermittlungsgrundsatz nach § 26 Abs. 1 BVerfGG.
 
 Angesichts von **Zehntausenden Seiten** Verfassungsschutzberichten, Chat-Leaks, Plenardebatten, Kriminalstatistiken und Strafurteilen stoßen traditionelle, rein händische Analysemethoden an Kapazitätsgrenzen. Hier greift das **KI-gestützte Arbeiten** als strategischer Beschleuniger ein.
 
@@ -2332,14 +2371,14 @@ Künstliche Intelligenz dient in diesem Lagebild als:
 
 ---
 
-## Kernprinzip: Die unerschütterliche Quellenbindung (Source Anchoring)
+## Kernprinzip: Strikte Quellenbindung (Source Anchoring)
 Das größte Risiko beim Einsatz von Large Language Models (LLMs) in der Rechtswissenschaft sind **Halluzinationen** – die Erfindung von Fakten, Aktenzeichen oder Urteilsbegründungen. Im Rahmen eines verfassungsgerichtlichen Verfahrens wäre eine einzige halluzinierte Quelle ein fataler Angriffspunkt, der die Glaubwürdigkeit des gesamten Antrags beschädigt.
 
-Deshalb gilt das fundamentale **Kernprinzip der unerschütterlichen Quellenbindung**:
+Deshalb gilt das fundamentale **Kernprinzip der strikten Quellenbindung**:
 - **Semantische Suche:** LLM durchsucht den Belegkorpus mittels Vektor-Embedding.
 - **Quellen-Extraktion:** Ausschließlich verifizierte Texte werden geladen.
 - **Synthese & Pinpoint-Cites:** Das Modell entwirft die Argumentation, darf aber keine Beweisthese aufstellen, die nicht durch ein konkretes Aktenzeichen, eine Seitenzahl oder einen lokalen Belegpfad abgesichert ist.
-- **Manuelle Doppel-Verifizierung:** Menschliche Gutachter prüfen das Quellendokument im Original. Erst dann ist der Beleg gerichts- und prozessfest.
+- **Manuelle Doppel-Verifizierung:** Menschliche Gutachter prüfen das Quellendokument im Original. Erst dann kann der Beleg fuer eine fachliche oder prozessuale Pruefung belastbar genutzt werden.
 
 ---
 
@@ -2386,7 +2425,7 @@ Ein erfolgreicher Deep-Research-Lauf erfolgt stets in vier aufeinander aufbauend
 
 ## Identifikation und Klassifizierung von Primärquellen
 In einem Parteiverbotsverfahren besitzen Beweismittel unterschiedliche Hierarchiestufen. Ein KI-Agent muss lernen, diese strikt zu gewichten:
-- **Gold-Standard (Absolute Beweiskraft):** Rechtskräftige Strafurteile gegen Kadermitglieder sowie rechtskräftige verwaltungsgerichtliche Bestätigungen behördlicher Einstufungen (z. B. OVG Münster, Fall 22).
+- **Gold-Standard (hohe Belegqualitaet):** Rechtskräftige Strafurteile gegen Kadermitglieder sowie rechtskräftige verwaltungsgerichtliche Bestätigungen behördlicher Einstufungen (z. B. OVG Münster, Fall 22).
 - **Silber-Standard (Hohe Beweiskraft):** Berichte und offizielle Verfassungsschutzberichte des Bundes und der 16 Bundesländer, statistische BKA-Meldungen zur Hasskriminalität (Hass-PMK) sowie offizielle Bundestagsdrucksachen.
 - **Bronze-Standard (Indizien):** Investigative Journalismus-Recherchen (Correctiv-Remigrations-Leak, netzpolitik.org-Veröffentlichungen). Sie dienen als hervorragende Wegweiser zur Beschaffung der dahinterliegenden Primärdokumente.
 
@@ -2394,8 +2433,8 @@ In einem Parteiverbotsverfahren besitzen Beweismittel unterschiedliche Hierarchi
 
 ## Erkennung und Eliminierung von Fehlinformationen
 Bei der Durchführung von Deep-Research-Läufen besteht die Gefahr, auf gefälschte Berichte, irreführende Zitate (Fakes) oder überspitzte Aktivisten-Meldungen zu stoßen.
-- **Der Fact-Checking-Check:** Jedes Zitat muss im Lagebild geprüft werden. Das Repository enthält 3.722 verifizierte Zitate – jedes Zitat wurde programmgesteuert auf seine Originalquelle zurückgeführt.
-- **Das Gegenbeleg-Prinzip:** Bevor eine Anschuldigung als Fakt erhoben wird, sucht die KI aktiv nach Entlastungsbeweisen oder Stellungnahmen der Betranhaengigen. Nur wenn diese entkräftet sind, fließen sie in das Belegregister ein.
+- **Der Fact-Checking-Check:** Jedes Zitat muss im Lagebild geprüft werden. Das Repository enthält 3.722 Zitat- und Belegfunde – jedes Zitat wurde programmgesteuert auf seine Originalquelle zurückgeführt.
+- **Das Gegenbeleg-Prinzip:** Bevor eine Anschuldigung als Fakt erhoben wird, sucht die KI aktiv nach Entlastungsbeweisen oder Stellungnahmen der Betroffenen. Nur wenn diese entkräftet sind, fließen sie in das Belegregister ein.
 `,
             3: `
 # 📊 03 | Leitfaden zur Datenaufbereitung (Data Processing)
@@ -2461,7 +2500,7 @@ Juristische Dokumente sind hochgradig strukturiert (Paragraphen, Absätze, Randn
 ---
 
 ## Absicherung gegen Halluzinationen (Fact-Checking und Guardrails)
-Um die absolute juristische Belastbarkeit der KI-Analysen zu sichern, müssen folgende **Guardrails** in der Analyse-Pipeline implementiert werden:
+Um die pruefbare Nachvollziehbarkeit der KI-Analysen zu sichern, müssen folgende **Guardrails** in der Analyse-Pipeline implementiert werden:
 1. **Strict Context Enforcement:** Das Modell wird angewiesen: *„Wenn die Antwort nicht zweifelsfrei aus den bereitgestellten Dokumenten hervorgeht, antworte mit: 'Information nicht im Belegkorpus vorhanden.' Erfinde keine Fakten.“*
 2. **Attribution und Pinpoint-Citing:** Das System muss gezwungen werden, hinter jedem analysierten Faktum den genauen Dateipfad und das Aktenzeichen zu nennen (z. B. \`[Quelle: Fall 22, OVG Münster, Az. 5 A 1210/21]\`).
 3. **Human-in-the-Loop (Drei-Augen-Prinzip):** Kein KI-generiertes Teilergebnis darf ungeprüft in die eigentliche Klageschrift einfließen. Gutachter nutzen das Forschungsportal, um den gefundenen Beleg mit einem Klick auf *„Urteil online suchen“* manuell abzugleichen.
@@ -2486,15 +2525,15 @@ Beim praktischen Arbeiten mit KI-Modellen zur Verfassungsforschung können typis
 
 ## Der Schutz von Whistleblowern und Hinweisgebern (Sicherheit & Recht)
 Die Analyse interner Chatgruppen oder geleakter Dokumente ist politisch hochsensibel. Der Schutz der Quellen hat oberste Priorität:
-- **Das Hinweisgeberschutzgesetz (§ 3 HinSchG):** Whistleblower, die Informationen über verfassungswidrige Umtriebe in Parteien oder Behörden anhaengiglegen, stehen unter rechtlichem Schutz vor Kündigung, Disziplinarverfahren oder sonstigen Repressalien.
+- **Das Hinweisgeberschutzgesetz (§ 3 HinSchG):** Whistleblower, die Informationen über verfassungswidrige Umtriebe in Parteien oder Behörden weitergeben, stehen unter rechtlichem Schutz vor Kündigung, Disziplinarverfahren oder sonstigen Repressalien.
 - **Anonymisierung vor Analyse:** Bevor geleakte Chats in eine Cloud-basierte KI-API hochgeladen werden, müssen alle personenbezogenen Daten (Namen von Zeugen, Telefonnummern, IP-Adressen) mittels lokaler Skripte (z. B. Regular Expressions in Python) anonymisiert oder pseudonymisiert werden.
 
 ---
 
 ## Lizenzen und rechtlicher Rahmen des Repositories
-Dieses Repository ist ein anhaengiges wissenschaftliches Hilfsprojekt, das unter klaren rechtlichen Lizenzen steht:
+Dieses Repository ist ein wissenschaftliches Hilfsprojekt, das unter klaren rechtlichen Lizenzen steht:
 1. **Anti-Capitalist Software License 1.4 (ACSL):** Die im Repository enthaltenen Scraper-Skripte, Automatisierungs-Codes und Portal-Strukturen dürfen frei von Einzelpersonen, gemeinnützigen Organisationen und staatlichen Verfassungsorganen genutzt werden.
-2. **Zitatrecht und Gemeinfreiheit (§ 51 UrhG / § 5 UrhG):** Gerichtsentscheidungen, Bundestagsdrucksachen und behördliche Berichte sind amtliche Werke und damit gemeinfrei. Das Zitieren von Textpassagen aus Parteiprogrammen und Reden ist im Rahmen der wissenschaftlichen Auseinandersetzung nach dem deutschen Zitatrecht vollumfänglich gedeckt.
+2. **Zitatrecht und Gemeinfreiheit (§ 51 UrhG / § 5 UrhG):** Gerichtsentscheidungen, Bundestagsdrucksachen und behördliche Berichte sind amtliche Werke und damit gemeinfrei. Das Zitieren von Textpassagen aus Parteiprogrammen und Reden ist im Rahmen der wissenschaftlichen Auseinandersetzung nach dem deutschen Zitatrecht je nach Quelle und Kontext zu pruefen.
 `
             ,
             6: `
@@ -2507,7 +2546,7 @@ Dieses Repository ist ein anhaengiges wissenschaftliches Hilfsprojekt, das unter
 ---
 
 ## Methodik der Fall-Kategorisierung (Zugehörigkeit)
-Um eine differenzierte und gerichtlich belastbare Argumentation zu sichern, werden alle Gerichtsfälle des Registers streng nach ihrer parteiorganisatorischen Nähe kategorisiert:
+Um eine differenzierte und pruefbare Argumentation zu sichern, werden alle Gerichtsfälle des Registers streng nach ihrer parteiorganisatorischen Nähe kategorisiert:
 - **🔴 DIREKT AfD:** Umfasst Personen, die zum Tatzeitpunkt ein offizielles Parteamt innehatten, ein Mandat für die AfD ausübten, als offizielle Mitarbeiter in Fraktionen angestellt waren oder sich offiziell im Namen der Partei betätigten. Zurechnung nach dem organisationsrechtlichen Zurechnungsprinzip.
 - **🔵 INDIREKT AfD:** Umfasst Personen, die sich im rechtsextremen Vorfeld bewegen und nachweisbare, personelle oder finanzielle Verflechtungen zur AfD-Führung aufweisen, ohne selbst formelles Parteimitglied oder Träger eines Amtes zu sein (Identitäre, Compact, Ein Prozent).
 
@@ -2517,7 +2556,7 @@ Um eine differenzierte und gerichtlich belastbare Argumentation zu sichern, werd
 Zur Erhöhung der wissenschaftlichen Nachprüfbarkeit und zur Vorbereitung einer fehlerfreien Übernahme in gerichtliche Schriftsätze folgt das Register standardmäßig der **Juris-Zitiernorm**:
 - **Zitierformat:** \`[Autor/Herausgeber, Gericht, Entscheidungsdatum, Aktenzeichen]\`
 - **Beispiel:** \`Landgericht Halle, Urteil vom 14. Mai 2024, Az. 5 Ks 132/23\`
-- Jedes Urteil verlinkt direkt auf das lokal gesicherte \`.md\`, \`.txt\` sowie \`.pdf\` Dokument mitsamt Zugriffsdatum und Archiv-Signatur.
+- Jedes Urteil soll auf das lokal gesicherte \`.md\`, \`.txt\` sowie \`.pdf\` Dokument mitsamt Zugriffsdatum und Archiv-Signatur.
 
 ---
 
@@ -5182,7 +5221,7 @@ Die Zuordnung der 3.722 Belegzitate zu den 18 wehrhaften Verbotsgründen des Por
                     "title": "AfD/Facebook-Werbung: Auskunftspflicht gegenüber Datenschutzbeauftragter (VG Berlin 2026)",
                     "category": "Parteienrecht, Datenschutz & Verwaltungsgerichte",
                     "beleg": "./dokumente/hauptquellen/urteilsbelege/260_AfD_Facebook_Werbung_Datenschutz_VG_Berlin_2026.md",
-                    "online": "https://www.welt.de/regionales/berlin/article69b194f29276d101b4c85b9f/gericht-afd-muss-daten-zu-facebook-werbung-anhaengiglegen.html",
+                    "online": "https://www.welt.de/regionales/berlin/article69b194f29276d101b4c85b9f/gericht-afd-muss-daten-zu-facebook-werbung-weitergeben.html",
                     "status": "DIREKT AfD",
                     "description": "[DIREKT AfD - Bundespartei] VG Berlin weist AfD-Klage gegen Auskunftsverlangen zu Facebook-/Social-Media-Werbung im Bundestagswahlkampf 2021 ab; nicht rechtskräftig.",
                     "text": "Verwaltungsgericht Berlin 2026: Die AfD muss der Berliner Datenschutzbeauftragten Auskunft über Werbeauftritte in sozialen Medien im Bundestagswahlkampf 2021 geben. Streitgegenstand waren Angaben zu Facebook-Werbung, Political Targeting, Auswertungen und Abrechnungen. Das Gericht wies die Klage der AfD ab und sah die Auskunftspflicht nach DSGVO als gerechtfertigt an."
