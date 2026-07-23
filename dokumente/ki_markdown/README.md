@@ -1282,6 +1282,72 @@ Abschließend möchte ich Soso über Rassismus ein paar Worte sagen lassen:
 
 ---
 
-## Finalbericht Beweisarchitektur
+## KI-Schnellindex, Methodik und Belegarchitektur
+
+Dieser Schnellindex bündelt die Dateien, die für KI-gestützte Recherche, juristische Vorprüfung, Gegenlese und externe Nachvollziehbarkeit besonders nützlich sind. Die Links sind Arbeits- und Navigationsanker; sie ersetzen keine Prüfung der Originalquellen.
+
+### Finalbericht und Methodik
 
 - [Beweisarchitektur der wehrhaften Demokratie](../hauptquellen/BEWEISARCHITEKTUR_WEHRHAFTE_DEMOKRATIE_FINALBERICHT_2026_07_23.md)
+- [Bewertungsmatrix für Beweisklassen nach Art. 21 GG](../hauptquellen/BEWERTUNGSMATRIX_BEWEISKLASSEN_ART21_2026_07_23.md)
+- [Gegenbelege-Register: Methodik und Datenklasse](../hauptquellen/GEGENBELEGE_REGISTER_METHODIK_2026_07_23.md)
+- [Verdichtungslogik: organisationsweite Grundtendenz](../hauptquellen/VERDICHTUNGSLOGIK_ORGANISATIONSWEITE_GRUNDTENDENZ_2026_07_23.md)
+- [Musterakte: Bundestagsabstimmung Migration 2025-01-29](../hauptquellen/MUSTERAKTE_TOP_BEWEISKOMPLEX_MIGRATION_BUNDESTAG_2025_01_29.md)
+- [Reproduzierbarkeit und Intercoder-Kontrolle](../hauptquellen/REPRODUZIERBARKEIT_INTERCODER_PROTOKOLL_2026_07_23.md)
+- [Methodik-Versionierung und Änderungsvermerk](../hauptquellen/METHODIK_VERSIONIERUNG_AENDERUNGSVERMERK_2026_07_23.md)
+- [Antragsreife-Todo](../hauptquellen/ANTRAGSREIFE_TODO_2026_07_21.md)
+- [Repo-/Pages-Perfektionsaudit](../hauptquellen/REPO_PAGES_PERFEKTIONS_AUDIT_2026_07_09.md)
+
+### Kernregister und Schriftsatzlogik
+
+- [Anlagenregister Art. 21](../hauptquellen/ANLAGENREGISTER_ART21_2026.md) | [JSONL](../../daten/anlagenregister_art21_2026.jsonl)
+- [Antragsspitze Top 40](../hauptquellen/ANTRAGSSPITZE_TOP40_BEWEISE_2026.md) | [JSONL](../../daten/antragsspitze_top40_beweise_2026.jsonl)
+- [Schriftsatzexport Top-Beweise](../hauptquellen/SCHRIFTSATZ_EXPORT_TOP_BEWEISE_2026.md) | [JSONL](../../daten/schriftsatz_export_top_beweise_2026.jsonl)
+- [Top-300-Zitatpaket](../../daten/antragsreife_top300_zitatpaket_2026.jsonl)
+- [Schriftsatz-Pinpoint-Finalisierung](../../daten/schriftsatz_pinpoint_finalisierung_2026.jsonl)
+- [Antragsspitzen-Schriftsatzlogik](../../daten/antragsspitze_schriftsatzlogik_2026.jsonl)
+- [18-Verbotsgründe-Beweismatrix](../../daten/verbotsgruende_18_beweismatrix.jsonl)
+
+### Daten, Status und Gegenlese
+
+- [Findings Art. 21](../../daten/findings_art21.jsonl)
+- [Quelleninventar](../../daten/source_inventory.jsonl)
+- [Source-to-Stat-Crosswalk](../../daten/source_to_stat_crosswalk.jsonl)
+- [Gegenbelege-Register JSONL](../../daten/gegenbelege_register_2026.jsonl)
+- [Verdichtungslogik-Schema JSON](../../daten/verdichtungslogik_schema_2026.json)
+- [Intercoder-Review-Schema JSON](../../daten/intercoder_review_schema_2026.json)
+- [Methodik-Changelog JSONL](../../daten/methodik_changelog_2026.jsonl)
+- [Status-/Rechtskraftmonitor](../../daten/status_rechtskraft_monitor_2026.jsonl)
+- [Legal-Status-Registry](../../daten/legal_status_registry.jsonl)
+- [Proof-Strength-Registry](../../daten/proof_strength_registry.jsonl)
+- [Attribution-Registry](../../daten/attribution_registry.jsonl)
+
+### Vorfeld, Potentialität und Statistik
+
+- [Vorfeld-Einzelkanten](../../daten/vorfeld_einzelkanten_2026.jsonl)
+- [Vorfeld-Netzwerkkanten](../../daten/vorfeld_network_edges_2026.jsonl)
+- [Terror-/Umsturz-/Sicherheitsmatrix](../../daten/terror_umsturz_paramilitaer_matrix_2026.jsonl)
+- [Schule-/Kultur-/Meldeportal-Matrix](../../daten/schule_kultur_meldeportale_matrix_2026.jsonl)
+- [CDU-Brandmauer-/Potentialitaets-Dossier](../../daten/cdu_brandmauer_potentialitaet_deepresearch_2026_07_23.jsonl)
+- [Demokratie-Gefaehrdung-Risikodossier](../../daten/demokratie_gefaehrdung_risikodossier_2026_07_23.jsonl)
+- [Statistikmanifest](../../daten/statistik_manifest.json)
+- [Court-Grade-Statistikmanifest](../../daten/statistik_manifest_court_grade_2026.json)
+
+### Audits und Repository-Indizes
+
+- [Gutachten-Coverage-Audit](../../reports/gutachten-coverage-audit-2026-07-09.md) | [JSONL](../../daten/gutachten_coverage_audit_2026.jsonl)
+- [Anlagenregister-Audit](../../reports/anlagenregister-audit-2026-07-09.md)
+- [Antragsreife-Gap-Closer](../../reports/antragsreife-final-gap-closer-2026-07-09.md) | [JSONL](../../daten/antragsreife_final_gap_closer_2026.jsonl)
+- [Validation Report](../../reports/validation-report.md) | [JSON](../../reports/validation-report.json)
+- [Pages-Link-Validation](../../reports/pages-link-validation.json)
+- [Vollstaendiger Repository-/Pages-Index](../hauptquellen/VOLLSTAENDIGER_REPOSITORY_PAGES_INDEX_2026_07_09.md) | [JSON](../../daten/repository_pages_index_2026.json)
+- [Repo-Dateiindex](../../daten/repo_file_index_2026.jsonl) | [Summary](../../daten/repo_file_index_2026_summary.json)
+
+### KI-Korpus
+
+- [KI-Markdown-Index](./INDEX.md)
+- [KI-Zitatkorpus](./zitate/)
+- [KI-Dokumentensplits](./dokumente/splits/)
+- [Quellenliste](../../PUBLIC_SOURCES.md)
+- [Erweiterte Quellenliste](../../PUBLIC_EXTENDED_SOURCES.md)
+- [Originalquellen](../../ORIGINAL_SOURCES.md)

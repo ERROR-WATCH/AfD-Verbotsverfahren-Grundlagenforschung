@@ -650,7 +650,82 @@ Die Gefahr liegt nicht nur in formellen Gesetzesänderungen. Sie liegt auch in s
 
 ---
 
-# Teil VIII: Schlussfolgerung
+# Teil VIII: Methodische Härtungsstufen und externe Prüfbarkeit
+
+Der Bericht beschreibt eine fortgeschrittene Forschungs- und Belegarchitektur. Daraus folgt nicht, dass alle methodischen Ausbaupunkte flächendeckend für jeden Datensatz abgeschlossen sind. Mehrere zuvor benannte Härtungsstufen sind nun als eigenständige Arbeitsartefakte angelegt. Sie schaffen transparente Regeln und Muster, ersetzen aber weiterhin keine anwaltliche Prüfung, keine Antragsschrift und keine gerichtliche Beweisaufnahme.
+
+Eine unabhängige externe Validierung der Beweisarchitektur kann nur durch außenstehende Fachpersonen oder Institutionen erfolgen und liegt außerhalb der Möglichkeiten eines zivilgesellschaftlichen Open-Source-Projekts. Ziel dieses Repositories ist daher nicht, eine solche Prüfung zu ersetzen, sondern ihre Durchführung durch transparente Dokumentation, nachvollziehbare Methodik und reproduzierbare Belegketten zu ermöglichen.
+
+## 31. Öffentliche Bewertungsmatrix
+
+Die im Repository verwendeten Kategorien wie „Kernbeweis“, „antragsnah“, „anlagenreif“ oder „Kontextbeleg“ werden in einer eigenen Bewertungsmatrix erläutert:
+
+- [Bewertungsmatrix für Beweisklassen nach Art. 21 GG](./BEWERTUNGSMATRIX_BEWEISKLASSEN_ART21_2026_07_23.md)
+
+Die Matrix legt Mindestanforderungen an Primärquelle, Pinpoint, Akteursfunktion, Zurechnung, Kontext, Gegenlese und Verfahrensstatus offen. Dadurch wird nachvollziehbar, warum ein Beleg priorisiert wird und welche Aussage aus dieser Priorisierung gerade nicht folgt. Eine Einstufung bleibt ein interner Arbeits- und Prüfstatus; sie ist keine externe juristische Validierung.
+
+## 32. Gegenbelege als eigene Datenklasse
+
+Zur Vermeidung selektiver Beweisführung werden entlastende oder begrenzende Informationen als eigene Datenklasse geführt:
+
+- [Gegenbelege-Register: Methodik und Datenklasse](./GEGENBELEGE_REGISTER_METHODIK_2026_07_23.md)
+- [Maschinenlesbares Startregister](../../daten/gegenbelege_register_2026.jsonl)
+
+Erfasst werden können Distanzierungen, Parteiausschlüsse, Freisprüche, eingestellte Verfahren, innerparteiliche Gegenpositionen, verlorene Abstimmungen, Korrekturen und sonstige Gegenindikatoren. Das Startregister ist noch kein vollständiger Gegenbelegkatalog des gesamten Repositories. Es definiert die Datenklasse und macht sichtbar, dass belastende Aussagen durch begrenzende Informationen kontrolliert werden müssen.
+
+## 33. Explizite Verdichtungslogik
+
+Für Art. 21 Abs. 2 GG ist nicht allein die Menge einzelner problematischer Aussagen entscheidend. Zentrale Frage ist, ob sie eine der Partei zurechenbare Grundtendenz prägen. Diese Verdichtung wird nun in einer eigenen Methodik beschrieben:
+
+- [Verdichtungslogik: Von Einzelbelegen zur organisationsweiten Grundtendenz](./VERDICHTUNGSLOGIK_ORGANISATIONSWEITE_GRUNDTENDENZ_2026_07_23.md)
+- [Verdichtungslogik-Schema](../../daten/verdichtungslogik_schema_2026.json)
+
+Die Methodik unterscheidet unter anderem Akteursrang, Parteiebene, Wiederholung, offizielle Kanäle, Programmnähe, Duldung, Sanktionierung, regionale Streuung und Anschluss an parlamentarische Praxis. Sie verhindert, dass aus bloßer Menge automatisch eine organisationsweite Prägung abgeleitet wird.
+
+## 34. Exemplarische Musterakten
+
+Für die externe Nachprüfbarkeit wurde eine erste Musterakte angelegt:
+
+- [Musterakte: Bundestagsabstimmung Migration vom 29. Januar 2025](./MUSTERAKTE_TOP_BEWEISKOMPLEX_MIGRATION_BUNDESTAG_2025_01_29.md)
+
+Die Musterakte demonstriert die Trennung von Originalquelle, Pinpoint, Kontext, Akteur, Zurechnung, Gegenbelegen, Art.-21-Zuordnung und Red-Team-Grenze. Der dort behandelte Bundestagsvorgang wird ausdrücklich nicht als eigenständiger Verbotsbeweis geführt, sondern als Potentialitäts- und Normalisierungskontext.
+
+## 35. Reproduzierbarkeit und Intercoder-Kontrolle
+
+Die Bewertungsmatrix schafft die Grundlage dafür, dass zwei unabhängige Bearbeiter denselben Beleg entlang derselben Kriterien prüfen können. Vollständige Reproduzierbarkeit ist damit noch nicht behauptet. Sie muss praktisch durch Gegenlese, dokumentierte Abweichungen und konsistente Nachcodierung hergestellt werden.
+
+- [Reproduzierbarkeit und Intercoder-Kontrolle](./REPRODUZIERBARKEIT_INTERCODER_PROTOKOLL_2026_07_23.md)
+- [Intercoder-Review-Schema](../../daten/intercoder_review_schema_2026.json)
+
+Für künftige Audits sollte daher ein Intercoder-Protokoll geführt werden:
+
+- Erstbewertung durch Bearbeiter A,
+- unabhängige Zweitbewertung durch Bearbeiter B,
+- dokumentierte Abweichung,
+- begründete Entscheidung,
+- aktualisierte Beweisklasse,
+- dokumentierte Auswirkung auf betroffene Registerzeilen.
+
+Diese Kontrollform ist besonders wichtig bei Belegen, deren Zurechnung nicht unmittelbar aus einer Parteifunktion, einem offiziellen Kanal oder einer rechtskräftigen Entscheidung folgt.
+
+## 36. Versionierung methodischer Änderungen
+
+Methodische Änderungen sollen nachvollziehbar versioniert werden. Wenn Bewertungsmaßstäbe, Beweisklassen, Verdichtungsstufen oder Gegenbelegtypen geändert werden, muss erkennbar bleiben:
+
+- [Methodik-Versionierung und Änderungsvermerk](./METHODIK_VERSIONIERUNG_AENDERUNGSVERMERK_2026_07_23.md)
+- [Methodik-Changelog](../../daten/methodik_changelog_2026.jsonl)
+
+- wann die Änderung erfolgt ist,
+- welche Regel geändert wurde,
+- warum die Änderung erforderlich war,
+- welche Datensätze betroffen sein können,
+- und ob bestehende Einstufungen erneut geprüft werden müssen.
+
+Damit wird verhindert, dass spätere methodische Verschärfungen oder Abschwächungen unsichtbar auf ältere Einträge zurückwirken. Die Git-Historie dokumentiert technische Änderungen; für wissenschaftliche Nachvollziehbarkeit sollte zusätzlich ein methodischer Änderungsvermerk gepflegt werden.
+
+Diese Härtungsstufen verbessern die Prüfbarkeit der Belegarchitektur. Sie begründen aber keine Behauptung, dass sämtliche Repository-Datensätze bereits nach diesen Standards vollständig durchgearbeitet sind. Die konsistente Anwendung auf alle Kernbeweise, Stützbeweise, Kontextbelege und Gegenbelege bleibt Teil der weiteren fachlichen Prüfung.
+
+# Teil IX: Schlussfolgerung
 
 Das Repository „AfD-Verbotsverfahren-Grundlagenforschung“ ist eine zivilgesellschaftliche und wissenschaftliche Infrastruktur. Seine Bedeutung liegt nicht darin, ein fertiges Urteil zu sprechen. Sie liegt darin, Belege so zu ordnen, dass weder politischer Aktionismus noch verharmlosende Untätigkeit ohne Prüfung bleiben.
 
