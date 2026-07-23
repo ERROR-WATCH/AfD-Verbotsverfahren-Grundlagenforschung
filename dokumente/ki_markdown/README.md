@@ -1279,3 +1279,9 @@ Abschließend möchte ich Soso über Rassismus ein paar Worte sagen lassen:
 - [STATISTIK_METHODIK.md](./STATISTIK_METHODIK.md)
 - [daten/README.md](./daten/README.md)
 - [dashboard/statistik.html](./dashboard/statistik.html)
+
+---
+
+## Finalbericht Beweisarchitektur
+
+- [Beweisarchitektur der wehrhaften Demokratie](../hauptquellen/BEWEISARCHITEKTUR_WEHRHAFTE_DEMOKRATIE_FINALBERICHT_2026_07_23.md)

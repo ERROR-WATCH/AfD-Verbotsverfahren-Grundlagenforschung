@@ -1484,3 +1484,9 @@ Ergänzender Index für die antragsrelevante Gutachtenabdeckung: [Gutachten-Cove
 - Maschinenlesbare Fassung: `daten/anlagenregister_art21_2026.jsonl`
 - Auditbericht: `reports/anlagenregister-audit-2026-07-09.md`
 - Zweck: Topbeweise, Gutachtenfamilien, hashgesicherte Webanker, Pinpointstatus, Zurechnung, Gegenlese und formale naechste Anlagehandlung in einer Schriftsatzroute zusammenfuehren.
+
+---
+
+## Finalbericht Beweisarchitektur
+
+- [Beweisarchitektur der wehrhaften Demokratie](./dokumente/hauptquellen/BEWEISARCHITEKTUR_WEHRHAFTE_DEMOKRATIE_FINALBERICHT_2026_07_23.md)

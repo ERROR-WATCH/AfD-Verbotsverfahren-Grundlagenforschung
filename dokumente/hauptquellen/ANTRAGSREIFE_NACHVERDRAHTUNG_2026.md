@@ -1,6 +1,6 @@
 # Antragsreife Nachverdrahtung 2026
 
-Stand: 2026-07-23T00:56:53.155Z
+Stand: 2026-07-23T04:01:49.095Z
 
 ## Erzeugte Beweisregister
 
@@ -17,11 +17,11 @@ Antragsreif ist hier nicht maximale Rhetorik, sondern zitierfaehige Verdichtung:
 ## Offizielle Webanker
 
 - web: sources/web/afd-coronaregeln-bverfg-20260723/README.md | sha256=4a49999ceaa0dd3b... | 886 Bytes
-- web: sources/web/afd-coronaregeln-bverfg-20260723/SHA256SUMS.txt | sha256=e6ed064a5f0f9262... | 673 Bytes
+- web: sources/web/afd-coronaregeln-bverfg-20260723/SHA256SUMS.txt | sha256=f78767c232378a01... | 493 Bytes
 - web: sources/web/afd-coronaregeln-bverfg-20260723/bundestag-bverfg-afd-coronaregeln-2bve1-22-20260722.html | sha256=122c6e5c244aeaf2... | 260427 Bytes
-- web: sources/web/afd-coronaregeln-bverfg-20260723/bverfg-beschluss-20260609-2bve1-22-afd-coronaregeln.html | sha256=bc72cf0e69b95250... | 192358 Bytes
-- web: sources/web/afd-coronaregeln-bverfg-20260723/bverfg-pressemitteilung-44-2026-afd-coronaregeln-2bve1-22.html | sha256=f77f8b7bfe5f216a... | 115552 Bytes
-- web: sources/web/afd-coronaregeln-bverfg-20260723/taz-bverfg-afd-coronaregeln-bundestag-20260722.html | sha256=3f8dcee4ff13fe0e... | 171986 Bytes
+- web: sources/web/afd-coronaregeln-bverfg-20260723/bverfg-beschluss-20260609-2bve1-22-afd-coronaregeln.html | sha256=d060b0fa0fe2c9a5... | 192126 Bytes
+- web: sources/web/afd-coronaregeln-bverfg-20260723/bverfg-pressemitteilung-44-2026-afd-coronaregeln-2bve1-22.html | sha256=1ab825de2db24b82... | 115308 Bytes
+- web: sources/web/afd-coronaregeln-bverfg-20260723/taz-bverfg-afd-coronaregeln-bundestag-20260722.html | sha256=80c357a00a613744... | 171879 Bytes
 - web: sources/web/afd-verbot/afd_verbot_beweis_11058_live.html | sha256=4d8bd3707cddf3bb... | 116314 Bytes
 - web: sources/web/afd-verbot/afd_verbot_beweis_11258_marcel_grauf.html | sha256=ad1f30e8fda9079f... | 118061 Bytes
 - web: sources/web/afd-verbot/afd_verbot_beweis_11625_live.html | sha256=4f6d6a1b2db46d85... | 115631 Bytes
