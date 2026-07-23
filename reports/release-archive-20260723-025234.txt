@@ -1,0 +1,5 @@
+Release timestamp: 2026-07-23T02:52:34+02:00
+Release ZIP: releases/afd-verbotsverfahren-grundlagenforschung-20260723-025234-release.zip
+Archive ZIP: archives/afd-verbotsverfahren-grundlagenforschung-20260723-025234-release.zip
+Build: npm run build OK; validate:pages OK; validation Fatal=0 Warnings=0.
+Registerstand: 314 Gerichtsfälle, 18 Verbotsgründe, 3.722 Belegzitate.

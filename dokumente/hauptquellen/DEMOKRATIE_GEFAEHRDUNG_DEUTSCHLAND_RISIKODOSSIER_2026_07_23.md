@@ -26,7 +26,7 @@ Das ist für Art. 21 GG zentral: Im NPD-Urteil 2017 scheiterte ein Verbot nicht 
 
 ## 2. Dokumentierte Verfassungsgefährdung
 
-Das Portal führt 313 Gerichtsfälle, 18 Verbotsgründe und 3.722 Zitat- und Belegfunde. Diese Zahlen beschreiben den Forschungs- und Navigationsbestand; sie ersetzen keine Antragsschrift und keine Gegenprüfung der Originalquellen.
+Das Portal führt 314 Gerichtsfälle, 18 Verbotsgründe und 3.722 Zitat- und Belegfunde. Diese Zahlen beschreiben den Forschungs- und Navigationsbestand; sie ersetzen keine Antragsschrift und keine Gegenprüfung der Originalquellen.
 
 Der Verfassungsschutzbericht 2025 beschreibt Rechtsextremismus laut Tagesschau/Bundesregierung als weiterhin größte Bedrohung für die freiheitliche demokratische Grundordnung. Die lokalen Anker führen für 2025 ein rechtsextremistisches Personenpotential von rund 58.700 Personen und 15.600 gewaltorientierte Rechtsextremisten. Für 2024 sind 50.250 und 15.300 belegt. Lokale Anker:
 

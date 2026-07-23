@@ -8,7 +8,7 @@ Offizielles Belegarchiv & Grundlagenforschung
 
 # Das Gerichtsregister & Beweismittel-Archiv zum AfD-Verbotsverfahren
 
-Eine systematische, wissenschaftlich fundierte Faktensammlung aus mindestens 313 Gerichtsentscheidungen, 3.722 Netzbelegen und unzensierten Verfassungsschutzgutachten für eine wehrhafte Demokratie.
+Eine systematische, wissenschaftlich fundierte Faktensammlung aus mindestens 314 Gerichtsentscheidungen, 3.722 Netzbelegen und unzensierten Verfassungsschutzgutachten für eine wehrhafte Demokratie.
 
 Das Repository ist kein Ersatz für eine juristische Prüfung, sondern eine systematische Forschungs- und Dokumentationsgrundlage, die Recherche, Strukturierung und Belegführung erheblich erleichtern kann. Die maßgeblichen Beweise müssen für ein gerichtliches Verfahren weiterhin an den Originalquellen überprüft werden.
 
@@ -21,7 +21,7 @@ Dieses Portal ist das visuelle Frontend des umfangreichen Grundlagenforschungs-R
 
 Alle hier verzeichneten Daten basieren auf hoheitlichen Quellen (Bundeskriminalamt, Bundesamt für Verfassungsschutz, Landesgerichte, Bundesgerichtshof) und wurden durch aufwändige Scraper, OCR-Bereinigungen und relative Verlinkungen nach bestem Wissen und Gewissen aufbereitet, strukturiert und verifiziert.
 
-313
+314
 Gerichtsfälle
 
 3.722
@@ -44,7 +44,7 @@ Bundesländer
 
 Nutze die Tabs, um die Grundlagenforschung zu durchsuchen und die Korpusstruktur statistisch auszuwerten.
 
-🏛️ Gerichtsregister (313 Fälle)
+🏛️ Gerichtsregister (314 Fälle)
 
 🛑 18 Verbotsgründe
 
@@ -521,7 +521,7 @@ Lade KI-Handbuch...
 
 Forschungsportal: AfD-Verbotsverfahren
 Lizenzierte Software/Scraper unter ACSL 1.4
-Letzte Aktualisierung: 21.07.2026 (313 Fälle, 60 VS-Dokumente, 3.722 Zitate)
+Letzte Aktualisierung: 23.07.2026 (314 Fälle, 60 VS-Dokumente, 3.722 Zitate)
 
 [GitHub Repo](https://github.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung)
 [Über](#about)

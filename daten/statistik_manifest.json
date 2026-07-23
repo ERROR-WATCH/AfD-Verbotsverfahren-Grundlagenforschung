@@ -2,7 +2,7 @@
   {
     "id": "STAT-CASE-TOTAL-001",
     "title": "Gerichtsregister: dokumentierte Faelle",
-    "value": 313,
+    "value": 314,
     "unit": "Faelle",
     "theme": "Gerichtsregister",
     "subtheme": "Gesamtbestand",
@@ -92,7 +92,7 @@
   {
     "id": "STAT-SOURCES-TOTAL-001",
     "title": "Quelleninventar: erfasste Quellen",
-    "value": 10855,
+    "value": 10858,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "Gesamtbestand",
@@ -110,7 +110,7 @@
   {
     "id": "STAT-SOURCES-USABLE-001",
     "title": "Quelleninventar: statistiknutzbare Quellen",
-    "value": 10769,
+    "value": 10772,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "Statistiknutzbar",
@@ -128,7 +128,7 @@
   {
     "id": "STAT-SOURCES-PRIMARY-001",
     "title": "Quelleninventar: Primärquellen",
-    "value": 5637,
+    "value": 5639,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "Primärquellen",
@@ -848,7 +848,7 @@
   {
     "id": "STAT-SOURCE-EVIDENCE-A-001",
     "title": "Quellen mit Beweisstufe A",
-    "value": 1560,
+    "value": 1562,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "Quellen-Stufe A",
@@ -884,7 +884,7 @@
   {
     "id": "STAT-SOURCE-EVIDENCE-C-001",
     "title": "Quellen mit Beweisstufe C",
-    "value": 4941,
+    "value": 4942,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "Quellen-Stufe C",
@@ -3026,7 +3026,7 @@
   {
     "id": "STAT-SOURCE-PUBLISHER-011-REPOSITORY-LOKALE-FALLNOTIZ",
     "title": "Herausgeber: Repository / lokale Fallnotiz",
-    "value": 25,
+    "value": 26,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "Repository / lokale Fallnotiz",
@@ -3098,7 +3098,7 @@
   {
     "id": "STAT-SOURCE-FORMAT-001-MD",
     "title": "Quellenformat: MD",
-    "value": 9237,
+    "value": 9238,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "MD",
@@ -3206,7 +3206,7 @@
   {
     "id": "STAT-SOURCE-FORMAT-007-HTML-MD",
     "title": "Quellenformat: HTML/MD",
-    "value": 15,
+    "value": 17,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "HTML/MD",
@@ -3512,7 +3512,7 @@
   {
     "id": "STAT-SOURCE-THEME-014-GERICHTSREGISTER-WEBSNAPSHOTS",
     "title": "Quellenthemenbereich: Gerichtsregister / Websnapshots",
-    "value": 34,
+    "value": 35,
     "unit": "Quellen",
     "theme": "Quelleninventar",
     "subtheme": "Gerichtsregister / Websnapshots",

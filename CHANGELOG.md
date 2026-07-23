@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-07-23T02:52:34+02:00
+
+- Nachtrag Fall 314 ergänzt: BVerfG 2 BvE 1/22 zu AfD-Bundestagsfraktion/AfD-Abgeordneten und Corona-Zugangsregeln im Bundestag; als verfassungsgerichtlicher Organstreit gezählt, kein Strafurteil und keine eigene Feststellung verfassungswidriger Ziele.
+- FAU Stuttgart als rechter-Gewalt-Nebenbeleg lokal gesichert; ausdrücklich nicht als AfD-Gerichtsfall gezählt und ohne automatische AfD-Zurechnung.
+- Gerichtsfälle-Hauptzahl von 313 auf 314 angehoben; Belegzitate bleiben 3.722, Verbotsgründe 18.
+
 ## 2026-07-23T02:05:51+02:00
 
 - 20 Deepresearch-Module und ein Demokratie-Gefährdungsdossier zu CDU/CSU, Brandmauer, Kretschmer, Dobrindt, WerteUnion/Maaßen, CDU-/JU-Krefeld, Migration, AfD-Verbotsverfahren, taz-/Die-Linke-Gegenlese und Zentrum/BVP-1933-Strukturvergleich ergänzt.
@@ -7,7 +13,7 @@
 - Demokratie-Gefährdungsdossier als separates Risiko-/Potentialitätsdokument ergänzt; nicht als AfD-Gerichtsfall gezählt und nicht als Gleichsetzung von CDU/CSU mit AfD oder NSDAP geführt.
 - Separates Zentrum/BVP-1933-Parallelen-Dossier ergänzt; ausdrücklich als Strukturwarnung ohne Gleichsetzung geführt.
 - Wahlrecht-/Kippszenario zu Bundesumfragen, Sachsen-Anhalt 2026, Ministerpräsidentenwahlverfahren, indirekter Steigbügelhalter-Mechanik und Bundestagsabstimmung 940 ergänzt; als volatile Mehrheitsarithmetik, Ratschenmechanismus und politische Risikotypologie markiert, nicht als Koalitionsbehauptung.
-- Statistik-/Potentialitätskarte im Portal ergänzt; Gerichtsfälle bleiben 313, Belegzitate 3.722.
+- Statistik-/Potentialitätskarte im Portal ergänzt; Gerichtsfälle stehen nach Nachtrag bei 314, Belegzitate bleiben 3.722.
 
 ## 2026-07-23 00:32 +02:00
 

@@ -1,12 +1,12 @@
 # Quellenverzeichnis und Provenienzregister der Urteilsdatenbank
 
-Dieses Dokument enthält die verifizierten Online-Quellen, höchstrichterlichen Gerichtsentscheidungen, Pressemeldungen und behördlichen Nachweise für sämtliche 313 im Repository dokumentierten Fälle.
+Dieses Dokument enthält die verifizierten Online-Quellen, höchstrichterlichen Gerichtsentscheidungen, Pressemeldungen und behördlichen Nachweise für sämtliche 314 im Repository dokumentierten Fälle.
 
 Sämtliche Belege liegen physisch im Repository unter [`./urteilsbelege/`](./) im unzensierten Volltext vor.
 
 ---
 
-## 🏛️ Verifiziertes Quellen- und Provenienzregister (Fälle 1 bis 313)
+## 🏛️ Verifiziertes Quellen- und Provenienzregister (Fälle 1 bis 314)
 
 1. **Björn Höcke (SA-Parole „Alles für Deutschland“):**
    [LTO-Bericht zur Verurteilung und BGH-Revisionsentscheidung](https://www.lto.de/recht/nachrichten/n/bgh-verwirft-revision-bjoern-hoecke-sa-parole-alles-fuer-deutschland/)
@@ -715,3 +715,9 @@ Der Statistik-Tab enthaelt seit dem Nachtrag 2026-07-21 eine eigene Gewalt-/Terr
 
 313. **Robert H. / AfD-Gemeinderatskandidat Freiburg / Pfefferspray-Angriff LG Freiburg 2024:**
     [Lokaler Beleg](./313_Robert_H_AfD_Gemeinderatskandidat_Pfefferspray_LG_Freiburg_2024.md) | [taz](https://taz.de/Gewaltbereite-AfD-Politikerinnen/!6089080/) | Lokaler Web-Fetch: ../../../../sources/web/forgotten-afd-judgments-20260721-completion/313_taz_gewaltbereite_afd_politikerinnen.html | Pinpoint: LG Freiburg / zweitinstanzliches Urteil; 120 Tagessätze zu je 10 Euro; Statusgrenze: Messerangriff laut Bericht als Notwehr gewertet; genaue Gerichtsroute nachhärten.
+
+
+### Nachtrag 2026-07-23: BVerfG-Organstreit 314
+
+314. **AfD-Bundestagsfraktion / Corona-Zugangsregeln Bundestag / BVerfG 2 BvE 1/22:**
+    [Lokaler Beleg](./314_AfD_Bundestagsfraktion_Coronaregeln_BVerfG_2BvE1_22_2026.md) | [BVerfG-Beschluss](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/06/es20260609_2bve000122.html) | [Bundestag](https://www.bundestag.de/dokumente/textarchiv/2026/kw30-bundesverfassungsgericht-1198066) | [taz](https://taz.de/Verfassungsgericht-verwirft-AfD-Klage/!6198275/) | Lokaler Web-Fetch: ../../../../sources/web/afd-coronaregeln-bverfg-20260723/README.md | Pinpoint: Bundesverfassungsgericht, Zweiter Senat, Beschluss vom 09.06.2026, 2 BvE 1/22; AfD-Bundestagsfraktion und AfD-Abgeordnete als Antragsteller; Anträge gegen 2G-plus-Regeln im Bundestag verworfen; Statusgrenze: verfassungsgerichtlicher Organstreit, kein Strafurteil und keine eigene Feststellung verfassungswidriger Ziele.
