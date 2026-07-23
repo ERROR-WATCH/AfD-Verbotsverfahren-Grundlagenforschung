@@ -1124,7 +1124,7 @@ Das Gutachten liefert damit eine fundierte juristische Grundlage, um ein Verbots
 
 <div align="center">
   <h2>🚨 Die 18 juristischen Verbotsgründe (Aktualisiert durch die neuen Gutachten) 🚨</h2>
-  <p><em>Durch die neuesten Erkenntnisse der Sicherheitsbehörden und höchstrichterlichen Urteile im Zeitraum 2024–2026 (u.a. Spionagefälle, bewaffneter Terror und Justizsabotage) haben sich die Beweisgrundlagen für ein Verbotsverfahren massiv verschärft und auf 18 Kernargumente ausgeweitet.</em></p>
+  <p><em>Durch die neuesten Erkenntnisse der Sicherheitsbehörden und höchstrichterlichen Urteile im Zeitraum 2024–2026 (u.a. Spionagefälle, bewaffneter Terror und Justizsabotage) haben sich die Beweisgrundlagen für ein Verbotsverfahren verdichtet und auf 18 Kernargumente ausgeweitet.</em></p>
 </div>
 
 <br>
@@ -1185,7 +1185,7 @@ Das Gutachten liefert damit eine fundierte juristische Grundlage, um ein Verbots
 > Die durch das OVG Münster bestätigte Einstufung der Gesamtpartei als „rechtsextremistischer Verdachtsfall“ liefert den amtlichen Grundbeweis.
 > 
 > **18. Keine marginale Gruppierung (Erfüllung von Art. 21 GG)**  
-> Anders als beim NPD-Verbotsverfahren besitzt die AfD massive Mobilisierungskraft, Milliarden-Budgets und institutionelle Macht, um ihre verfassungsfeindlichen Ziele auch faktisch umzusetzen (Erfüllung der „Potenzialität“).
+> Anders als beim NPD-Verbotsverfahren besitzt die AfD erhebliche Mobilisierungskraft, erhebliche staatliche und private Ressourcen und institutionelle Macht, um ihre verfassungsfeindlichen Ziele auch faktisch umzusetzen (Erfüllung der „Potenzialität“).
 
 <br>---
 
@@ -1264,7 +1264,7 @@ Die Verteidigung unserer freiheitlich-demokratischen Grundordnung ist für mich 
 
 Ich hoffe zutiefst, dass dieses Repository einen Beitrag dazu leisten kann, dass wir den Faschismus stoppen, bevor es zu spät ist. Ich hoffe, dass dieses Projekt ebenso Spuren hinterlässt, wie Bruno sie damals bei mir hinterlassen hat – Spuren, die hoffentlich helfen, das Schlimmste zu verhindern. Die Ignoranz hat in der Menschheitsgeschichte immer die schwersten Verbrechen ermöglicht. Ich hoffe, dass wir durch Aufklärung und unzensierte Fakten dieser Ignoranz entgegentreten können.
 
-Für ein rechtsstaatliches Parteiverbot bleibt uns nicht viel Zeit. Die Mühlen der Justiz mahlen langsam, und die Einleitung eines solchen Verfahrens beim Bundesverfassungsgericht ist ein historischer Kraftakt, der Monate, wenn nicht Jahre intensiver Vorbereitung braucht. Realistisch sind für ein Verbotsverfahren mindestens 2,5 bis 3,5 Jahre zu veranschlagen. Die Zeit ist somit denkbar knapp. Stand 2026 habe ich mit der derzeitigen Regierung kaum noch Hoffnung auf ein rechtzeitiges Abwenden eines drohenden Faschismus. Aber ich bin es Bruno schuldig, vorher wenigstens alles versucht und meinen Beitrag für eine humanistische und demokratische Welt geleistet zu haben.
+Ein rechtsstaatliches Parteiverbotsverfahren erfordert eine sorgfältige, zeitaufwendige Vorbereitung durch die antragsberechtigten Verfassungsorgane. Gerade deshalb ist eine belastbare Dokumentation wichtig: Sie kann helfen, politische Entscheidungen nicht auf Vermutungen, sondern auf prüfbare Quellen, klare Statusangaben und nachvollziehbare Zurechnung zu stützen.
 
 Vielen Dank – und in ewigem Gedenken an Bruno.
 

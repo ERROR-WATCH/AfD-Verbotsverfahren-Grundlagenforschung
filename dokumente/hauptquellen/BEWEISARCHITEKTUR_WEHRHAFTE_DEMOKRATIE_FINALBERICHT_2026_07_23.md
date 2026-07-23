@@ -51,7 +51,7 @@ Die Gefahr beginnt daher nicht erst mit der offenen Abschaffung von Wahlen oder 
 
 **Der Eilbeschluss des VG Köln vom 26. Februar 2026 entscheidet kein Parteiverbotsverfahren.** Das Gericht untersagte dem Bundesamt für Verfassungsschutz vorläufig die Einstufung der Bundespartei als „gesichert rechtsextremistische Bestrebung“. Es stellte zugleich fest, dass innerhalb der Partei mit hinreichender Gewissheit verfassungsfeindliche Bestrebungen existieren, sah im Eilverfahren aber keine ausreichende Prägung der Gesamtpartei durch eine entsprechende Grundtendenz.
 
-**Das Repository ist keine fertige Klageschrift.** Seine Stärke liegt in der Sammlung, Strukturierung, Verknüpfung und Priorisierung eines außergewöhnlich umfangreichen Quellenbestands. Sein Wert besteht in der Herstellung von Auffindbarkeit, Nachvollziehbarkeit und Prüfbarkeit.
+**Das Repository ist keine fertige Klageschrift.** Seine Stärke liegt in der Sammlung, Strukturierung, Verknüpfung und Priorisierung eines umfangreichen Quellenbestands. Sein Wert besteht in der Herstellung von Auffindbarkeit, Nachvollziehbarkeit und Prüfbarkeit.
 
 **Die interne Beweisarchitektur ist fortgeschritten, aber nicht abgeschlossen.** Nach den eigenen Auditkennzahlen enthält das Anlagenregister 158 Einträge, darunter 127 final geführte Pinpoints und 19 hashgesicherte amtliche Webanker. Der sogenannte Gap-Closer benennt zugleich fehlende Originalquellen, noch zu präzisierende Akteurszuordnungen, offene Statusprüfungen und weitere notwendige Verfahrenshärtungen.
 
@@ -650,11 +650,11 @@ Die Gefahr liegt nicht nur in formellen Gesetzesänderungen. Sie liegt auch in s
 
 # Teil VIII: Schlussfolgerung
 
-Das Repository „AfD-Verbotsverfahren-Grundlagenforschung“ ist eine bemerkenswerte zivilgesellschaftliche und wissenschaftliche Infrastruktur. Seine Bedeutung liegt nicht darin, ein fertiges Urteil zu sprechen. Sie liegt darin, Belege so zu ordnen, dass weder politischer Aktionismus noch verharmlosende Untätigkeit ohne Prüfung bleiben.
+Das Repository „AfD-Verbotsverfahren-Grundlagenforschung“ ist eine zivilgesellschaftliche und wissenschaftliche Infrastruktur. Seine Bedeutung liegt nicht darin, ein fertiges Urteil zu sprechen. Sie liegt darin, Belege so zu ordnen, dass weder politischer Aktionismus noch verharmlosende Untätigkeit ohne Prüfung bleiben.
 
-Die Beweisarchitektur liefert Material, um die Realität der Gefahr nüchtern, präzise und unerschrocken zu untersuchen. Sie zwingt zugleich zur Selbstbegrenzung: Kein Registereintrag ersetzt ein Urteil, kein Audit ersetzt eine Beweisaufnahme, kein Zitatkorpus ersetzt die Zurechnung zur Partei, keine politische Risikoanalyse ersetzt die Subsumtion unter Art. 21 Abs. 2 GG.
+Die Beweisarchitektur liefert Material, um die dokumentierte Gefahrenlage nüchtern und präzise zu untersuchen. Sie zwingt zugleich zur Selbstbegrenzung: Kein Registereintrag ersetzt ein Urteil, kein Audit ersetzt eine Beweisaufnahme, kein Zitatkorpus ersetzt die Zurechnung zur Partei, keine politische Risikoanalyse ersetzt die Subsumtion unter Art. 21 Abs. 2 GG.
 
-Gerade diese Begrenzung macht das Projekt nützlich. Es versucht nicht, aus politischer Dringlichkeit eine gerichtliche Gewissheit zu behaupten. Es versucht, die Voraussetzungen dafür zu schaffen, dass gerichtliche und parlamentarische Entscheidungsträger eine außergewöhnlich große Materiallage strukturiert, überprüfbar und methodisch kontrolliert bearbeiten können.
+Gerade diese Begrenzung macht das Projekt nützlich. Es versucht nicht, aus politischer Dringlichkeit eine gerichtliche Gewissheit zu behaupten. Es versucht, die Voraussetzungen dafür zu schaffen, dass gerichtliche und parlamentarische Entscheidungsträger eine große Materiallage strukturiert, überprüfbar und methodisch kontrolliert bearbeiten können.
 
 Der politische Befund bleibt dennoch scharf: Seit 1949 gab es in Deutschland wohl keine Konstellation, in der eine extrem rechte Partei zugleich so stark, so institutionell verankert, so normalisiert und so realistisch machtfähig war. Diese Feststellung ist kein Ersatz für juristische Prüfung. Sie ist der Grund, warum Prüfung, Dokumentation und politische Gegenstrategien nicht länger aufgeschoben werden dürfen.
 
