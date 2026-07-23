@@ -524,11 +524,11 @@ Automatisiertes Konsistenz- und Lückenprotokoll der Repository-Daten:
 
 | Prüffeld | Stand |
 | --- | --- |
-| SHA-256-Validierung | 100% intakt |
-| Offene Fundstellen | 0 im aktuellen Anlagenregister; 127 Pinpoints final geführt |
+| Hashvalidierung | 19 im Anlagenregister geführte Hashanker im dokumentierten Audit konsistent |
+| Offene Pinpoint-Fundstellen | 0 im aktuellen Anlagenregister; keine Aussage über sämtliche externen Beweis- und Provenienzfragen |
 | Letzter Audit-Lauf | 23.07.2026, Build- und Validierungsstand 04:02-04:12 UTC/CEST-kontextabhängig |
 
-Diese Angaben sind als Auditstatus zu verstehen. Die frühere Angabe „14 verbleibend“ wurde gegen den aktuellen Anlagenregister- und Buildstand gegengeprüft und geschlossen: Das Anlagenregister meldet 127 final geführte Pinpoints, 19 hashgesicherte amtliche oder gerichtliche Webanker, Reststatus nach Finalisierung 0 und nicht finalisierte Pinpoints 0. Das bedeutet nicht, dass alle gerichtlichen Beweisketten abgeschlossen sind; es bedeutet, dass die zuvor sichtbare technische Fundstellenlücke im Anlagenregister nicht mehr offen geführt wird.
+Diese Angaben sind als begrenzter Auditstatus zu verstehen. Die 19 im Anlagenregister geführten Hashanker waren im dokumentierten Audit konsistent. Eine vollständige kryptografische Validierung sämtlicher Repository-Dateien wird damit nicht behauptet. Die frühere Angabe „14 verbleibend“ wurde gegen den aktuellen Anlagenregister- und Buildstand gegengeprüft und geschlossen: Das Anlagenregister meldet 127 final geführte Pinpoints, 19 hashgesicherte amtliche oder gerichtliche Webanker, Reststatus nach Finalisierung 0 und nicht finalisierte Pinpoints 0. Das bedeutet nicht, dass alle gerichtlichen Beweisketten, externen Beweisfragen oder Provenienzfragen des Gesamtrepositories abgeschlossen sind; es bedeutet, dass die zuvor sichtbare technische Pinpoint-Fundstellenlücke im aktuellen Anlagenregister nicht mehr offen geführt wird.
 
 Die Validierungslogik des Projekts umfasst mehrere Ebenen:
 
@@ -567,12 +567,14 @@ Diese Entscheidungen verdeutlichen das juristische Gefälle: Die behördliche Be
 
 Sollte ein Verbotsantrag gestellt werden, entscheidet darüber das Bundesverfassungsgericht nach dem Bundesverfassungsgerichtsgesetz. Antragsberechtigt sind ausschließlich der Bundestag, der Bundesrat oder die Bundesregierung. Ein Antragsrecht für Bürgerinnen, Bürger, Parteien oder zivilgesellschaftliche Organisationen besteht nicht.
 
-Das Verfahren läuft in zwei großen Schritten ab:
+Das Verfahren lässt sich in vier Abschnitte gliedern:
 
-1. **Zulässigkeitsprüfung:** Liegt ein ordnungsgemäßer Antrag eines berechtigten Organs vor? Ist die Partei parteifähig? Sind prozessuale Voraussetzungen gewahrt?
-2. **Begründetheitsprüfung:** Erfüllt die Partei die materiellen Voraussetzungen des Art. 21 Abs. 2 GG, also Ziele, zurechenbares Verhalten, planvolles Vorgehen, aktiv kämpferisch-aggressive Haltung und Potentialität?
+1. **Antragstellung:** Ein nach § 43 BVerfGG berechtigtes Verfassungsorgan stellt einen Antrag und begründet ihn anhand der Voraussetzungen des Art. 21 Abs. 2 GG.
+2. **Vorverfahren:** Nach § 45 BVerfGG gibt das Bundesverfassungsgericht der Partei Gelegenheit zur Äußerung und entscheidet anschließend, ob der Antrag unzulässig oder nicht hinreichend begründet ist oder ob die mündliche Verhandlung durchgeführt wird.
+3. **Hauptverfahren:** Wird das Verfahren eröffnet, prüft das Gericht die Voraussetzungen des Art. 21 Abs. 2 GG vollständig, einschließlich Zielen, zurechenbarem Verhalten, planvollem Vorgehen, aktiv kämpferisch-aggressiver Haltung und Potentialität.
+4. **Entscheidung:** Eine Feststellung der Verfassungswidrigkeit und die gesetzlichen Rechtsfolgen setzen die erforderliche qualifizierte Senatsmehrheit voraus.
 
-Die Beweislast liegt bei den Antragstellern. Sie müssen dem Gericht ein überzeugendes, rechtlich tragfähiges und lückenlos belegtes Material vorlegen. Ein Repository wie das vorliegende kann hierbei als strukturierter Fundus dienen, ersetzt jedoch nicht die juristische Aufbereitung und den streitigen Beweisaufnahme-Prozess vor dem Bundesverfassungsgericht.
+Die Antragsteller müssen den Antrag substantiiert begründen und die erforderlichen Beweismittel angeben. Zugleich gilt im Verfahren der Amtsermittlungsgrundsatz: Nach § 26 Abs. 1 BVerfGG erhebt das Bundesverfassungsgericht den zur Erforschung der Wahrheit erforderlichen Beweis und entscheidet nach dem Ergebnis der Beweisaufnahme. Ein Repository wie das vorliegende kann hierbei als strukturierter Fundus dienen, ersetzt jedoch nicht die juristische Aufbereitung, die prozessuale Beweisaufnahme und die Entscheidung des Bundesverfassungsgerichts.
 
 ## 26. Warum ein Antrag politisch und rechtlich getrennt werden muss
 
