@@ -758,6 +758,13 @@
       "object": "SEC-OEZ-001",
       "status": "Nebenbeleg rechter/rassistischer Gewalt; keine AfD-Zurechnung.",
       "source": "daten/terror_umsturz_paramilitaer_matrix_2026.jsonl"
+    },
+    {
+      "id": "SECSTATUS-8DE41D382EE1",
+      "level": "Sicherheitsverfahren",
+      "object": "SEC-VBRG-2025-001",
+      "status": "Lagebild rechter/rassistischer/antisemitischer Gewalt; keine AfD-Zurechnung.",
+      "source": "daten/terror_umsturz_paramilitaer_matrix_2026.jsonl"
     }
   ],
   "network_edges": [
@@ -1061,6 +1068,12 @@
     {
       "edge_id": "SEC-OEZ-001",
       "from": "SEC-OEZ-001",
+      "type": "security_status",
+      "source": "daten/terror_umsturz_paramilitaer_matrix_2026.jsonl"
+    },
+    {
+      "edge_id": "SEC-VBRG-2025-001",
+      "from": "SEC-VBRG-2025-001",
       "type": "security_status",
       "source": "daten/terror_umsturz_paramilitaer_matrix_2026.jsonl"
     }

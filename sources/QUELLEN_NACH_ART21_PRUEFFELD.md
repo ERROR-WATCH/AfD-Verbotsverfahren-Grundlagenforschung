@@ -31,6 +31,8 @@ Angriffe auf freie politische Willensbildung, parlamentarische Funktionsfaehigke
 ## rechtsstaatsprinzip
 
 Angriffe auf Gerichte, Verfahren, Gewaltenteilung, Verwaltung und bindende Rechtsregeln.
+Ergänzender Quellenanker 2026-07-23: `dokumente/hauptquellen/Verfassungstreue_Potentialitaet_Quellenanker_2026_07_23.md` dokumentiert Sichert/Friesland als Verfassungstreue- und Wahleignungskontext; nicht als Gerichtsfall gezählt.
+
 
 | Verbotsgrund | Titel | Status |
 |---|---|---|
@@ -62,6 +64,10 @@ Planmaessigkeit, Wiederholung, Organisationsbildung, aggressiv-kaempferische Ver
 | VG-18 | Durchsetzungskraft: keine marginale Gruppierung | `BELEGT_UND_VERDRAHTET` |
 
 ## potentialitaet
+
+Ergänzender Quellenanker 2026-07-23: `dokumente/hauptquellen/Verfassungstreue_Potentialitaet_Quellenanker_2026_07_23.md`, `dokumente/hauptquellen/VBRG_TAZ_Jahresbilanz_Rechte_Gewalt_2025_AfD_Einfluss_Lagebild_2026.md` und `dokumente/hauptquellen/DEMOKRATIE_GEFAEHRDUNG_DEUTSCHLAND_RISIKODOSSIER_2026_07_23.md` verdrahten Brandmauer-/Mehrheitslagen, Parteienbeobachtungsankündigung, Demokratiegefährdung und rechte Gewalt 2025 als Potentialitätskontext ohne automatische AfD-Tatzurechnung.
+
+Ergänzender Quellenanker 2026-07-23: `dokumente/hauptquellen/cdu_brandmauer_deepresearch_2026_07_23/README.md`, `dokumente/hauptquellen/CDU_AfD_Brandmauer_Rechtsverschiebung_Gesamtdossier_2026_07_23.md`, `dokumente/hauptquellen/DEMOKRATIE_GEFAEHRDUNG_DEUTSCHLAND_RISIKODOSSIER_2026_07_23.md` und `dokumente/hauptquellen/CDU_Zentrum_BVP_1933_Steigbuegelhalter_Parallelen_Dossier_2026_07_23.md` dokumentieren CDU/CSU-Brandmauer-, Kretschmer-, Migrations-, Wahlrecht-/Sachsen-Anhalt-Kippszenario-, indirekte-Steigbügelhalter-Mechanik-, WerteUnion/Maaßen-, CDU-/JU-Krefeld-, taz-/Die-Linke- und Zentrum/BVP-1933-Kontext als Potentialitäts- und Normalisierungsanalyse; nicht als AfD-Gerichtsfälle gezählt und nicht als Gleichsetzung.
 
 Reale Durchsetzungskraft: Mitglieder, Mandate, Ressourcen, Reichweite, Vorfeld, Fraktionen, staatliche Mittel.
 

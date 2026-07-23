@@ -1,0 +1,9 @@
+# Release-/Archivmarker 2026-07-23T01:52:05+02:00
+
+- Build: npm run build erfolgreich, Fatal 0, Warnings 0.
+- Pages-Linkvalidation: 0 fehlende Links.
+- Zählstand: 313 Gerichtsfälle, 18 Verbotsgründe, 3.722 Belegzitate.
+- CDU/CSU-Brandmauer-/Potentialitätsmodul: 20 Deepresearch-Module, 50 CDU-Webanker plus 16 Demokratie-Risikoanker; nicht als AfD-Gerichtsfall gezählt.
+- ZIP: releases/afd-verbotsverfahren-grundlagenforschung-20260723-015205-release.zip
+- Archivkopie: archives/afd-verbotsverfahren-grundlagenforschung-20260723-015205-release.zip
+- Archivmodus: nach Push/Release wieder zu setzen.

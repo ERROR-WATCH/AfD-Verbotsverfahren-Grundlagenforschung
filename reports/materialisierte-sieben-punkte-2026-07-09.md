@@ -7,7 +7,7 @@ Stand: 2026-07-09
 - Chronik-Falldossiers: 13
 - Gutachten-Provenienzzeilen: 11
 - Visualisierungsspezifikationen: 5
-- Status-/Rechtskraft-Monitorzeilen: 42
+- Status-/Rechtskraft-Monitorzeilen: 43
 - Antragsspitzenlogik-Zeilen: 18
 
 ## Dateien
