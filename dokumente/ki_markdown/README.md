@@ -1327,6 +1327,10 @@ Dieser Schnellindex bündelt die Dateien, die für KI-gestützte Recherche, juri
 - [Attribution-Registry](../../daten/attribution_registry.jsonl)
 
 ### Vorfeld, Potentialität und Statistik
+- [AfD-Landesverbände und Verfassungsschutzstatus: Grafikanker/Korrekturvermerk](../hauptquellen/AfD_Landesverbaende_Verfassungsschutz_Grafik_Korrektur_2026_07_24.md) | [JSONL](../../daten/verfassungsschutz_landesstatus_afd_2026_07_24.jsonl)
+- [DIW/AZ: AfD-Paradox, Wirtschaftsfolgen und Sachsen-Anhalt-Risiko](../hauptquellen/DIW_AfD_Paradox_Sachsen_Anhalt_Wirtschaftsfolgen_2026_07_24.md) | [JSONL](../../daten/diw_afd_paradox_sachsen_anhalt_2026_07_24.jsonl)
+- [Blätter/ZDF: Halbloyale Demokraten, Brandmauer und Normalisierung](../hauptquellen/Normalisierung_Halbloyale_Demokraten_AfD_Blaetter_2026_07_24.md) | [JSONL](../../daten/normalisierung_halbloyale_demokraten_blaetter_2026_07_24.jsonl)
+- [taz: Dobrindts Geheimdienstplaene und demokratische Resilienz](../hauptquellen/Dobrindt_Geheimdienstplaene_Sicherheitsstaat_Taz_2026_07_24.md) | [JSONL](../../daten/dobrindt_geheimdienst_sicherheitsstaat_2026_07_24.jsonl)
 
 - [Vorfeld-Einzelkanten](../../daten/vorfeld_einzelkanten_2026.jsonl)
 - [Vorfeld-Netzwerkkanten](../../daten/vorfeld_network_edges_2026.jsonl)
@@ -1334,6 +1338,9 @@ Dieser Schnellindex bündelt die Dateien, die für KI-gestützte Recherche, juri
 - [Schule-/Kultur-/Meldeportal-Matrix](../../daten/schule_kultur_meldeportale_matrix_2026.jsonl)
 - [CDU-Brandmauer-/Potentialitaets-Dossier](../../daten/cdu_brandmauer_potentialitaet_deepresearch_2026_07_23.jsonl)
 - [Demokratie-Gefaehrdung-Risikodossier](../../daten/demokratie_gefaehrdung_risikodossier_2026_07_23.jsonl)
+- [Sachsen-Anhalt Potentialität 2026](../../daten/sachsen_anhalt_potentialitaet_2026_07_24.jsonl) | [Quellenanker](../hauptquellen/Sachsen_Anhalt_Potentialitaet_Landtagswahl_Schule_2026_07_24.md)
+- [Rechtsstaat/Vorfeld/NSU/CSD 2026](../../daten/rechtsstaat_vorfeld_nsu_steimle_csd_2026_07_24.jsonl) | [Quellenanker](../hauptquellen/Rechtsstaat_Vorfeld_NSU_Steimle_CSD_Quellenanker_2026_07_24.md)
+- [Niedersachsen Verfassungstreue/Potentialität](../../daten/verfassungstreue_potentialitaet_niedersachsen_2026_07_24.jsonl) | [Quellenanker](../hauptquellen/Verfassungstreue_Potentialitaet_Quellenanker_2026_07_23.md)
 - [Statistikmanifest](../../daten/statistik_manifest.json)
 - [Court-Grade-Statistikmanifest](../../daten/statistik_manifest_court_grade_2026.json)
 
