@@ -31,6 +31,8 @@ https://github.com/user-attachments/assets/f8bce688-fd95-4e6a-80c6-190332181a97
 
 ### YouTube-Videobelege
 
+<a href="https://www.youtube.com/watch?v=l68KTPK-2Gs" title="Auf YouTube ansehen"><img src="https://img.youtube.com/vi/l68KTPK-2Gs/maxresdefault.jpg" alt="Ausschnitt schlimmste Zitate AfD" width="100%" style="max-width: 100%; height: auto;" /></a>
+
 <a href="https://www.youtube.com/watch?v=eSgFEpI9ZDQ" title="Auf YouTube ansehen"><img src="https://img.youtube.com/vi/eSgFEpI9ZDQ/maxresdefault.jpg" alt="Prüf" width="100%" style="max-width: 100%; height: auto;" /></a>
 
 <a href="https://www.youtube.com/watch?v=nguiGvWcovA&pp=ygUdZGllIGFuc3RhbHQgcmVjaHRzZXh0cmVtaXNtdXM%3D" title="Auf YouTube ansehen"><img src="https://img.youtube.com/vi/nguiGvWcovA/maxresdefault.jpg" alt="die Anstalt" width="100%" style="max-width: 100%; height: auto;" /></a>
