@@ -1,5 +1,12 @@
 # Changelog
 
+## 29.07.2026
+
+- Kommunale Nichtzulassungen wegen Zweifeln an der Verfassungstreue für Bothe, Moriße, Sichert, Vogel, Paul und Detert als eigenes Pinpoint-Dossier und JSONL-Strukturdatensatz ergänzt.
+- NDR-, VerfGH-Rheinland-Pfalz-, WDR- und StadtRadio-Quellen lokal archiviert und mit SHA-256-Integritätsliste versehen.
+- Goes-Zwischenstand korrigiert: nach kommunalaufsichtlicher Prüfung am 29.07.2026 einstimmig zugelassen; Maxhuni und weitere Zulassungen als Gegenbelege verdrahtet.
+- README und Pages-Dokumentenindex um das neue Kommunalwahl-/Verfassungstreuedossier ergänzt.
+
 ## 2026-07-23T02:52:34+02:00
 
 - Nachtrag Fall 314 ergänzt: BVerfG 2 BvE 1/22 zu AfD-Bundestagsfraktion/AfD-Abgeordneten und Corona-Zugangsregeln im Bundestag; als verfassungsgerichtlicher Organstreit gezählt, kein Strafurteil und keine eigene Feststellung verfassungswidriger Ziele.

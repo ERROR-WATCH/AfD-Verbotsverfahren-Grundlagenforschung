@@ -1,6 +1,6 @@
 # Verfassungstreue und Potentialität: Quellenanker 2026-07-23
 
-Status: Ergänzende Quellen- und Pinpointdatei. Kein zusätzlicher Gerichtsfall. Nachtrag Niedersachsen-Kommunalwahlrecht und Verfassungstreueprüfung eingepflegt am 24.07.2026.
+Status: Ergänzende Quellen- und Pinpointdatei. Kein zusätzlicher Gerichtsfall. Nachtrag Niedersachsen-Kommunalwahlrecht und Verfassungstreueprüfung eingepflegt am 24.07.2026; Entscheidungsstand vom 29.07.2026 im Dossier `Kommunale_Nichtzulassungen_Verfassungstreue_2025_2026.md` fortgeschrieben.
 
 ## 1. Verfassungstreue / Wahleignung
 
@@ -23,16 +23,25 @@ Status: Ergänzende Quellen- und Pinpointdatei. Kein zusätzlicher Gerichtsfall.
 - Beweisrolle: Verfassungstreue-/Wahleignungsprüfung bei einem kommunalen Spitzenamt und Potentialitätskontext für den Zugriff auf kommunale Exekutivämter. Nicht als eigenständiger Verbotsgrund, nicht als Straf- oder Gerichtsfall zählen.
 - Red-Team-Grenze: Die Quelle dokumentiert eine behördlich vorbereitete und durch Wahlausschuss beschlossene Nichtzulassung. Sie beweist nicht für sich genommen eine verfassungsrechtliche Gesamtprägung der Bundespartei und ersetzt keine gerichtliche Prüfung der einzelnen Vorwürfe.
 
-### Reinhild Goes / Bürgermeisterkandidatur Nörten-Hardenberg
+### Reinhild Goes / Bürgermeisterkandidatur Nörten-Hardenberg – am 29.07.2026 zugelassen
 
 - Quelle: tagesschau/NDR, `Nörten-Hardenberg: Kandidatin der AfD nicht zur Wahl zugelassen`, Erststand 22.07.2026, im lokalen Abruf mit Aktualisierungen zu weiteren Fällen.
 - Online: https://www.tagesschau.de/inland/regional/niedersachsen/noerten-hardenberg-kandidatin-der-afd-zur-wahl-nicht-zugelassen%2Ckommunalwahlen-128.html
 - Lokaler Webanker: `sources/web/verfassungstreue-potentialitaet-20260723/tagesschau-ndr-noerten-hardenberg-goes-2026-07-22.html`
 - SHA-256: `c08c526a687f11695abb913901e29f44a2f2d210735cd82910e7eaae4819dd81`
-- Kern: Der Wahlausschuss in Nörten-Hardenberg ließ Reinhild Goes laut Bericht zunächst nicht zur Bürgermeisterwahl zu. Der Bericht nennt ihre Rolle im Bundesvorstand der AfD-Jugendorganisation `Generation Deutschland` und verweist auf vom Verfassungsschutz beschriebene Nähe dieser Organisation zur Identitären Bewegung. Die Gemeindewahlleitung hatte die Zulassung empfohlen; der Landkreis Northeim sollte die Verfassungstreueprüfung bis spätestens 29.07.2026 klären.
-- Verfahrensstand: Kommunalwahlrechtliche Zulassungsentscheidung mit angekündigter/ausstehender kommunalaufsichtlicher Prüfung. Kein Gerichtsurteil.
-- Beweisrolle: Verfassungstreue-/Wahleignungsprüfung bei einem kommunalen Exekutivamt; Kantenmaterial zu Jugendorganisation/Vorfeldnähe nur statusbezogen und mit Primärankern weiter zu härten.
-- Red-Team-Grenze: Keine automatische Zurechnung jeder Äußerung oder jedes Vorfeldbezugs der Jugendorganisation zur Bundespartei. Der Fall ist als Prüf- und Verfahrenskontext zu führen, bis die zuständige Stelle beziehungsweise ein Gericht abschließend entscheidet.
+- Zwischenstand: Der Wahlausschuss in Nörten-Hardenberg ließ Reinhild Goes zunächst nicht zur Bürgermeisterwahl zu und bat den Landkreis Northeim als Kommunalaufsicht um Prüfung.
+- Endstand Zulassungsphase: Nach dem NDR-Sammelstand vom 29.07.2026 teilte der Landkreis mit, dass keine hinreichenden tatsächlichen Anhaltspunkte für eine fehlende Verfassungstreue vorlägen. Der Gemeindewahlausschuss ließ Goes daraufhin am 29.07.2026 einstimmig zu.
+- Neuer lokaler Webanker: `sources/web/kommunale-nichtzulassungen-verfassungstreue-20260729/ndr-niedersachsen-kommunalwahl-verfassungstreue-2026-07-29.html`
+- Beweisrolle: Gegenbeleg für die differenzierende Einzelfallprüfung; keine Belastungszählung.
+- Red-Team-Grenze: Der überholte Zwischenstand darf nicht als endgültige Nichtzulassung dargestellt werden.
+
+### Fortschreibung 29.07.2026: Bothe, Moriße und Vogel
+
+- Stephan Bothe, Landratswahl Landkreis Lüneburg: Nichtzulassung durch den Kreiswahlausschuss am 29.07.2026 mit 6:1 Stimmen.
+- Thorsten Moriße, Oberbürgermeisterwahl Wilhelmshaven: einstimmige Nichtzulassung am 28.07.2026.
+- Justin Vogel, Bürgermeisterwahl Herzberg am Harz: einstimmige Nichtzulassung am 27.07.2026.
+- Vollständige Pinpoints, Verfahrensketten, Gegenbelege und Rechtsschutzgrenzen: `dokumente/hauptquellen/Kommunale_Nichtzulassungen_Verfassungstreue_2025_2026.md`.
+- Strukturdatensatz: `daten/kommunale_nichtzulassungen_verfassungstreue_2025_2026.jsonl`.
 
 ### Weitere niedersächsische Prüffälle, Zulassungen und Gegenbelege
 

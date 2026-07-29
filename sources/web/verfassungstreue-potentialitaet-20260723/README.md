@@ -41,7 +41,7 @@ c08c526a687f11695abb913901e29f44a2f2d210735cd82910e7eaae4819dd81  tagesschau-ndr
 
 Die SPIEGEL- und tagesschau/NDR-Belege dokumentieren den Fall Martin Sichert: ein AfD-Bundestagsabgeordneter wurde laut Berichten nicht als Landratskandidat zugelassen. Die tagesschau/NDR-Quelle ergänzt Abstimmungsergebnis, Innenministeriumsprüfung und Vorwurfsfelder. Der Fall ist als Wahleignungs-/Verfassungstreuekontext zu führen, nicht als gerichtliche Entscheidung, solange keine gerichtliche Klärung dokumentiert ist.
 
-Die tagesschau/NDR-Quelle zu Reinhild Goes dokumentiert eine weitere Nichtzulassung bei einer Bürgermeisterwahl sowie die ausstehende Prüfung durch den Landkreis Northeim. Die gleiche Quelle enthält zugleich Zulassungen und weitere Prüffälle; diese sind als Gegenbeleg- und Methodikmaterial wichtig, weil sie eine differenzierende statt schematische Anwendung der Verfassungstreueprüfung zeigen.
+Die tagesschau/NDR-Quelle zu Reinhild Goes dokumentiert den Zwischenstand einer zunächst verweigerten Zulassung und die damals ausstehende Prüfung durch den Landkreis Northeim. Dieser Zwischenstand wurde am 29.07.2026 überholt: Nach positiver kommunalaufsichtlicher Prüfung ließ der Gemeindewahlausschuss Goes einstimmig zu. Der aktuelle Stand wird im Webanker `../kommunale-nichtzulassungen-verfassungstreue-20260729/README.md` und im Dossier `../../../dokumente/hauptquellen/Kommunale_Nichtzulassungen_Verfassungstreue_2025_2026.md` geführt.
 
 ### Verfahrensrahmen
 
