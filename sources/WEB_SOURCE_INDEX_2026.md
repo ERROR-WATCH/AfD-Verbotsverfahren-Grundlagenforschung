@@ -3,13 +3,14 @@
 Stand: 30.07.2026  
 Generiert mit `scripts/build-web-source-index.mjs`.
 
-Der maschinenlesbare Vollindex unter `daten/web_source_inventory_2026.jsonl` enthält für jede lokale Datei Pfad, Ordner, Dateiname, Byteumfang, SHA-256, README-Status und Manifestabdeckung. Erfasst sind **37 Quellenordner**, **474 Dateien** und **74.381.915 Bytes**.
+Der maschinenlesbare Vollindex unter `daten/web_source_inventory_2026.jsonl` enthält für jede lokale Datei Pfad, Ordner, Dateiname, Byteumfang, SHA-256, README-Status und Manifestabdeckung. Erfasst sind **38 Quellenordner**, **479 Dateien** und **75.233.409 Bytes**.
 
 | Quellenordner | Dateien | README | SHA-Manifest |
 |---|---:|:---:|:---:|
 | `afd-coronaregeln-bverfg-20260723` | 6 | ja | ja |
 | `afd-gerichtsentscheidungen-2026` | 5 | ja | ja |
 | `afd-landesverbaende-verfassungsschutz-20260724` | 6 | ja | ja |
+| `afd-organisationsmacht-20260730` | 5 | ja | nein |
 | `afd-veranstaltung-steimle-stauffenberg-20260716` | 5 | ja | ja |
 | `afd-verbot` | 199 | nein | ja |
 | `bundestag` | 2 | nein | ja |

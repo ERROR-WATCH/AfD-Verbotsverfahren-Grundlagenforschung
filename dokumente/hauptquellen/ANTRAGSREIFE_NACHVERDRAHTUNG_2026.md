@@ -1,10 +1,10 @@
 # Antragsreife Nachverdrahtung 2026
 
-Stand: 2026-07-30T10:58:52.603Z
+Stand: 2026-07-30T12:01:07.530Z
 
 ## Erzeugte Beweisregister
 
-- official_web_anchor_integrity_2026.jsonl: 469 lokale Webanker mit SHA-256, Bytes und Archivzeit.
+- official_web_anchor_integrity_2026.jsonl: 474 lokale Webanker mit SHA-256, Bytes und Archivzeit.
 - schriftsatz_top10_verbotsgruende_2026.jsonl: 180 Topquellen-Zeilen fuer 18 Verbotsgruende.
 - quote_actor_registry_2026.jsonl: 3722 Quote-/Proof-Findings mit Akteurs-, Kanal-, Zielgruppen- und Rechtsgutfeldern.
 - terror_umsturz_paramilitaer_matrix_2026.jsonl: 14 Sicherheitszeilen mit Verfahrensstatus- und no_overclaim-Feldern.
@@ -33,9 +33,9 @@ Antragsreif ist hier nicht maximale Rhetorik, sondern zitierfaehige Verdichtung:
 - web: sources/web/afd-landesverbaende-verfassungsschutz-20260724/didicologne-afd-nrw-friedensbrief-finte-2026-07-24.html | sha256=ba0028d49b41455b... | 130729 Bytes
 - web: sources/web/afd-landesverbaende-verfassungsschutz-20260724/tagesschau-brandenburg-afd-gesichert-rechtsextrem-2025-05-07.html | sha256=9aed4eaebc7c1d84... | 393499 Bytes
 - web: sources/web/afd-landesverbaende-verfassungsschutz-20260724/tagesschau-ndr-afd-niedersachsen-rechtsextrem-2026-06-03.html | sha256=8b05b5bbbe6a2c9d... | 122013 Bytes
-- web: sources/web/afd-veranstaltung-steimle-stauffenberg-20260716/README.md | sha256=d113af11d6702f15... | 866 Bytes
-- web: sources/web/afd-veranstaltung-steimle-stauffenberg-20260716/SHA256SUMS.txt | sha256=4c6b18f64c3c2639... | 369 Bytes
-- web: sources/web/afd-veranstaltung-steimle-stauffenberg-20260716/dlfkultur-steimle-androhung-straftaten-2026-07-16.html | sha256=20c2d833faeb8b3e... | 274968 Bytes
+- web: sources/web/afd-organisationsmacht-20260730/README.md | sha256=dc82a36d4d3dec02... | 1637 Bytes
+- web: sources/web/afd-organisationsmacht-20260730/bundestag-afd-fraktion-2026.html | sha256=b864ee6c5e651883... | 258601 Bytes
+- web: sources/web/afd-organisationsmacht-20260730/bundestag-afd-rechenschaftsbericht-2024.html | sha256=8b3fe7742c6d820d... | 259238 Bytes
 
 ## Schriftsatz-Toplisten
 

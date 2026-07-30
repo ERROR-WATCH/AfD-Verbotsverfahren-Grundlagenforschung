@@ -174,7 +174,11 @@ const table = `| Bereich | Status | Nächster sauberer Schritt |
 | Chronikcluster | Erledigt als Indexroute. | Chroniken nicht als Endbeweis zitieren; bei Antragserstellung die danebenstehenden Primäranker verwenden. |
 | Zitatkorpus | Erledigt im Repository bis auf spätere Schriftsatz-Auswahl. | Für die Antragsschrift aus Top-300, Dossierklasse und Akteursregister auswählen und gegen Originalkontext gegenlesen. |
 | Pages-Navigation | Erledigt im Repository. | Nach jeder Datenänderung Build, Browser-Audit und Pages-Linkcheck erneut laufen lassen. |
-| Build-Qualität | Erledigt im Repository. | Neue Generatoren weiterhin in \`build\`, \`validate:statistics\` oder \`validate:pages\` einhängen. |`;
+| Build-Qualität | Erledigt im Repository. | Neue Generatoren weiterhin in \`build\`, \`validate:statistics\` oder \`validate:pages\` einhängen. |
+| Parlamentsaktivität Bund/Länder | Grundstruktur und amtliche Portalroute angelegt; Vollingestion ist ein fortlaufender Datenprozess. | AfD-Anträge, Gesetzentwürfe, Große/Kleine Anfragen und belastbar zuordenbare Abstimmungen aus DIP und den Dokumentationssystemen aller 16 Landtage mit Abdeckungsstand erfassen. |
+| Schutzbedürftige Informationsbegehren | Methodik und erste Primäranker angelegt. | KRITIS, Militär, Sozialleistungen und Behinderung einzeln nach Detailgrad, Schutzinteresse, Regierungsantwort, Kritik, Gegenposition und Weiterverwendung codieren. |
+| Abstimmungsverhalten | Amtliche Bundesroute registriert; Länderquellen registriert. | Namentliche Daten übernehmen; nicht namentliche Fraktionsvoten nur bei eindeutigem Plenarprotokoll erfassen und fehlende Individualdaten nicht schätzen. |
+| Antrags- und Anfragevolumen | Vergleichsmethodik festgelegt. | Absolute Zahl, Anteil an allen Vorgängen, Vergleichsfraktionen, Zeitraum, Suchbegriffe und Dubletten offenlegen; „Antragsflut“ nicht ohne Bezugsgröße als Befund verwenden. |`;
 todo = todo.replace(/\| Bereich \| Status \| Nächster sauberer Schritt \|[\s\S]*?(?=\n\n## Umsetzungspfad)/, table);
 if (!todo.includes('ANTRAGSREIFE_TODO_ABSCHLUSS_2026_07_22.md')) {
   todo = todo.replace('## Umsetzungspfad', '## Abschlussartefakt\n\nDer aktuelle Abschlussstand liegt in `dokumente/hauptquellen/ANTRAGSREIFE_TODO_ABSCHLUSS_2026_07_22.md` und `daten/antragsreife_todo_abschluss_2026.json`.\n\n## Umsetzungspfad');

@@ -1,0 +1,15 @@
+{
+  "generated_at": "2026-07-30",
+  "court_cases": 317,
+  "court_exact_date": 104,
+  "court_year_only": 163,
+  "court_date_unknown": 50,
+  "court_with_case_number": 164,
+  "court_with_official_route": 10,
+  "status_events": 14,
+  "power_metrics": 15,
+  "source_master": 11180,
+  "source_with_hash": 11179,
+  "source_with_original_url": 204,
+  "source_with_publication_date": 7591
+}

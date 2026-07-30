@@ -18,6 +18,10 @@ Bis auf die formale Antragsschrift sollen alle technisch im Repository vorbereit
 | Zitatkorpus | Erledigt im Repository bis auf spätere Schriftsatz-Auswahl. | Für die Antragsschrift aus Top-300, Dossierklasse und Akteursregister auswählen und gegen Originalkontext gegenlesen. |
 | Pages-Navigation | Erledigt im Repository. | Nach jeder Datenänderung Build, Browser-Audit und Pages-Linkcheck erneut laufen lassen. |
 | Build-Qualität | Erledigt im Repository. | Neue Generatoren weiterhin in `build`, `validate:statistics` oder `validate:pages` einhängen. |
+| Parlamentsaktivität Bund/Länder | Grundstruktur und amtliche Portalroute angelegt; Vollingestion ist ein fortlaufender Datenprozess. | AfD-Anträge, Gesetzentwürfe, Große/Kleine Anfragen und belastbar zuordenbare Abstimmungen aus DIP und den Dokumentationssystemen aller 16 Landtage mit Abdeckungsstand erfassen. |
+| Schutzbedürftige Informationsbegehren | Methodik und erste Primäranker angelegt. | KRITIS, Militär, Sozialleistungen und Behinderung einzeln nach Detailgrad, Schutzinteresse, Regierungsantwort, Kritik, Gegenposition und Weiterverwendung codieren. |
+| Abstimmungsverhalten | Amtliche Bundesroute registriert; Länderquellen registriert. | Namentliche Daten übernehmen; nicht namentliche Fraktionsvoten nur bei eindeutigem Plenarprotokoll erfassen und fehlende Individualdaten nicht schätzen. |
+| Antrags- und Anfragevolumen | Vergleichsmethodik festgelegt. | Absolute Zahl, Anteil an allen Vorgängen, Vergleichsfraktionen, Zeitraum, Suchbegriffe und Dubletten offenlegen; „Antragsflut“ nicht ohne Bezugsgröße als Befund verwenden. |
 
 ## Abschlussartefakt
 
@@ -28,5 +32,8 @@ Der aktuelle Abschlussstand liegt in `dokumente/hauptquellen/ANTRAGSREIFE_TODO_A
 - README und Portal behalten nur knappe Verweise auf diese Todo-Liste.
 - Offene Punkte werden nicht als Beweislücken formuliert, wenn Quelle, Fall, Status oder Route bereits vorhanden sind.
 - Für jedes Todo soll ein Zielartefakt existieren: Datenzeile, Quellenanker, lokaler Snapshot, Pinpoint, Statistikobjekt, Validierungsregel oder Portal-Verweis.
+- Das Parlamentsregister trennt parlamentarisch legitime Kontrolle von einer möglichen Sicherheitsproblematik. Weder Anfragehäufigkeit noch ein sensibles Thema belegen für sich allein Informationsmissbrauch, Spionageabsicht oder Weitergabe.
+- Für sensible Informationsbegehren sind mindestens Originaldrucksache, Regierungsantwort, konkrete Fragen/Pinpoints, Schutzinteresse, Offenlegungsgrad und gegebenenfalls eine belastbare Kritik- und Gegenquelle zu dokumentieren.
+- „Alle Anträge/Anfragen“ bezeichnet nur den durch die jeweiligen Parlamentsportale reproduzierbar abgedeckten Zeitraum. Abdeckung, Datenlücken, Schnittstellenstand und letzter Abruf werden pro Parlament ausgewiesen.
 - `npm run build` bleibt der verbindliche Sammeltest für Statistik-Build, Pages-Linkcheck und Statistikvalidierung.
 - Die formale Antragsschrift selbst bleibt außerhalb des Repository-Auftrags und muss von antragsberechtigten Stellen beziehungsweise Prozessvertretung erstellt werden.

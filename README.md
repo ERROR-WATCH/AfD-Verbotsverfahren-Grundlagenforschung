@@ -11,6 +11,20 @@
 
 ---
 
+## Neue maschinenlesbare Masterregister
+
+- [`court_case_master.jsonl`](./daten/court_case_master.jsonl): 317 Registerfälle mit Datums-, Aktenzeichen-, Instanz-, Ausgangs- und Rechtskraftfeldern.
+- [`status_timeline.jsonl`](./daten/status_timeline.jsonl): getrennte Statusachse für Bund, Länder, Jugend-/Nachfolgestrukturen und Vorfeld.
+- [`organisation_power_timeseries.jsonl`](./daten/organisation_power_timeseries.jsonl): amtliche Wahl-, Mandats-, Mitglieder- und Finanzwerte mit Stichtag.
+- [`source_master.jsonl`](./daten/source_master.jsonl): konsolidiertes Quellenregister mit lokalen Hashes und Validierungsstatus.
+- [`parliament_sources_registry_2026.jsonl`](./daten/parliament_sources_registry_2026.jsonl): amtliche Rechercheportale von Bundestag und allen 16 Landtagen samt Abdeckungsstand.
+- [`parlamentsaktivitaet_seed_2026.jsonl`](./daten/parlamentsaktivitaet_seed_2026.jsonl) und [Methodik](./daten/PARLAMENTSAKTIVITAET_METHODIK_2026.md): Ausgangsregister zu AfD-Anfragen, Anträgen und Abstimmungen einschließlich Bürgergeld, Behinderung, Militär und kritischer Infrastruktur.
+
+Die Parlamentsauswertung behandelt Anfragen als reguläres Kontrollinstrument.
+Anfragehäufigkeit oder ein sensibles Thema belegen für sich weder Missbrauch
+noch Spionageabsicht. Kritik, Gegenposition, Originalfrage, Antwort,
+Schutzbelang und Pinpoint werden deshalb getrennt geführt.
+
 ## Aktueller Stand, Zählregeln und Erweiterungsreserve
 
 Dieser Release-Stand führt **317 Gerichtsfälle**, **18 Verbotsgründe**, **3.722 Zitat- und Belegfunde** sowie Quellen zu **allen 16 Bundesländern**. Diese Zahlen sind als Navigations- und Forschungszahlen zu lesen: Sie zeigen, welche Belegblöcke im Repository strukturiert, durchsuchbar und mit lokalen oder externen Quellen verbunden sind. Sie ersetzen nicht die juristische Einzelfallwertung.
