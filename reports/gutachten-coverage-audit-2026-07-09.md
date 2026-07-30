@@ -129,7 +129,7 @@ Presse und KI-Ausgaben ersetzen keine Primärquelle. Rechtswissenschaftliche Ana
 - Dateien: 21
 - Lokaler Anker: dokumente/hauptquellen/ChatGPT*.pdf; Claude*.pdf; interne KI-Analysen
 - Online-/Originalroute: Keine externe Beweisroute; interne Arbeitsprodukte.
-- Beweisrolle: Arbeits- und Strukturierungshilfe, nicht Beweis, nicht Gutachten, nicht gerichtsfeste Quelle.
+- Beweisrolle: Arbeits- und Strukturierungshilfe, nicht Beweis, nicht Gutachten, nicht gerichtsfertige Quelle.
 - Art.-21-Felder: methodik, nicht_beweismittel
 - Gerichtliche Nutzung: Aus Antragsbeweisfuehrung strikt ausblenden oder als internes Arbeitsprodukt kennzeichnen.
 - Schriftsatzregel: Im Dashboard als interne KI-Notiz klassifizieren; nie in Beweisstufe A/B und nie als Gutachten zaehlen.

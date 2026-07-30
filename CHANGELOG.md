@@ -1,5 +1,15 @@
 # Changelog
 
+## 30.07.2026 – Quellen-, Chronologie- und Pages-Härtung
+
+- Bothe-Chronologie um Gesetzgebung, Prüfverfahren, ministerielle Stellungnahme und zusätzliche Pressepinpoints ergänzt.
+- Kommunale Nichtzulassungen von sachfremden Listen- und Strafrechtsausschlüssen abgegrenzt.
+- FragDenStaat-Routen, Pankow-Nebenbeleg und vollständiger Asset-Katalog in Pages ergänzt.
+- Gerichtsregister auf 317 Fälle erweitert; neue amtliche BVerwG-/BVerfG-Anker lokal archiviert.
+- Chronologie-Audit und sichtbare Metadaten-KPIs für Entscheidungsdatum, Jahresangabe und Aktenzeichen ergänzt.
+- Statusverteilung im Statistik-Tab auf volle Inhaltsbreite gestellt.
+- taz-Nachtrag zum laufenden Frankfurter Reichsbürger-Verfahren mit amtlichem OLG-Anker, Aktenzeichen 8 St 2/23 und enger Zurechnungsgrenze ergänzt.
+
 ## 29.07.2026
 
 - Kommunale Nichtzulassungen wegen Zweifeln an der Verfassungstreue für Bothe, Moriße, Sichert, Vogel, Paul und Detert als eigenes Pinpoint-Dossier und JSONL-Strukturdatensatz ergänzt.
@@ -38,3 +48,9 @@
 - Quote-Deep-Dive-Generator idempotent gemacht, damit `statsQuoteDeepTargets` nicht mehrfach gerendert wird.
 - Release-Zeitstempel und Release-Marker auf `20260721-221342` aktualisiert.
 - Validierungen ausgeführt: Build, Statistikvalidierung, Pages-Linkcheck, statischer Audit und Browser-Audit.
+## 2026-07-30
+
+- taz-Fall zum berichteten Angriff bei einem AfD-Gegenprotest in Berlin-Pankow als nicht gezählten Nebenbeleg mit Pinpoints, JSONL und lokalem Quellenanker ergänzt.
+- Verletzungsfoto als zurückhaltenden Asset-Nebenbeleg gesichert; keine isolierte Aussage zu Ursache, Täter oder Parteizurechnung.
+- Statusregel ergänzt: Neubewertung erst bei späterer gerichtlicher Entscheidung anhand Aktenzeichen, Instanz, Rechtskraft und ausdrücklichen Feststellungen.
+- Bislang im Pages-Katalog `Sonstiges` fehlende Bild-Assets nachgetragen.

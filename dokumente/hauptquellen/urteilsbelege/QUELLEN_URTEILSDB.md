@@ -721,3 +721,11 @@ Der Statistik-Tab enthaelt seit dem Nachtrag 2026-07-21 eine eigene Gewalt-/Terr
 
 314. **AfD-Bundestagsfraktion / Corona-Zugangsregeln Bundestag / BVerfG 2 BvE 1/22:**
     [Lokaler Beleg](./314_AfD_Bundestagsfraktion_Coronaregeln_BVerfG_2BvE1_22_2026.md) | [BVerfG-Beschluss](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/06/es20260609_2bve000122.html) | [Bundestag](https://www.bundestag.de/dokumente/textarchiv/2026/kw30-bundesverfassungsgericht-1198066) | [taz](https://taz.de/Verfassungsgericht-verwirft-AfD-Klage/!6198275/) | Lokaler Web-Fetch: ../../../../sources/web/afd-coronaregeln-bverfg-20260723/README.md | Pinpoint: Bundesverfassungsgericht, Zweiter Senat, Beschluss vom 09.06.2026, 2 BvE 1/22; AfD-Bundestagsfraktion und AfD-Abgeordnete als Antragsteller; Anträge gegen 2G-plus-Regeln im Bundestag verworfen; Statusgrenze: verfassungsgerichtlicher Organstreit, kein Strafurteil und keine eigene Feststellung verfassungswidriger Ziele.
+
+### Nachtrag 2026-07-30: institutionelle AfD-Verfahren 315–317
+
+315. **AfD-Kreisverband Nürnberg / Allianz gegen Rechtsextremismus / BVerwG 8 C 3.25:** [Lokaler Beleg](./315_AfD_KV_Nuernberg_Allianz_Gegen_Rechtsextremismus_BVerwG_8C3_25_2026.md) | [BVerwG](https://www.bverwg.de/pm/2026/24) – Urteil vom 26.03.2026; Aufhebung und Zurückverweisung; kein Strafurteil.
+
+316. **AfD-Bundestagsfraktion / parlamentarisches Fragerecht / BVerfG 2 BvE 11/23:** [Lokaler Beleg](./316_AfD_Fragerecht_BVerfG_2BvE11_23_2026.md) | [BVerfG](https://www.bundesverfassungsgericht.de/SharedDocs/Pressemitteilungen/DE/2026/bvg26-014.html) – Beschluss vom 27.01.2026; unzulässig wegen mangelnder Substantiierung.
+
+317. **AfD-Bundestagsfraktion / Otto-Wels-Saal / BVerfG 2 BvE 14/25:** [Lokaler Beleg](./317_AfD_Otto_Wels_Saal_BVerfG_2BvE14_25_2026.md) | [BVerfG](https://www.bundesverfassungsgericht.de/SharedDocs/Pressemitteilungen/DE/2026/bvg26-009.html) – Beschluss vom 27.01.2026; soweit zulässig unbegründet.

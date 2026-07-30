@@ -1,10 +1,10 @@
 # Antragsreife Nachverdrahtung 2026
 
-Stand: 2026-07-23T06:08:21.955Z
+Stand: 2026-07-30T10:58:52.603Z
 
 ## Erzeugte Beweisregister
 
-- official_web_anchor_integrity_2026.jsonl: 385 lokale Webanker mit SHA-256, Bytes und Archivzeit.
+- official_web_anchor_integrity_2026.jsonl: 469 lokale Webanker mit SHA-256, Bytes und Archivzeit.
 - schriftsatz_top10_verbotsgruende_2026.jsonl: 180 Topquellen-Zeilen fuer 18 Verbotsgruende.
 - quote_actor_registry_2026.jsonl: 3722 Quote-/Proof-Findings mit Akteurs-, Kanal-, Zielgruppen- und Rechtsgutfeldern.
 - terror_umsturz_paramilitaer_matrix_2026.jsonl: 14 Sicherheitszeilen mit Verfahrensstatus- und no_overclaim-Feldern.
@@ -22,20 +22,20 @@ Antragsreif ist hier nicht maximale Rhetorik, sondern zitierfaehige Verdichtung:
 - web: sources/web/afd-coronaregeln-bverfg-20260723/bverfg-beschluss-20260609-2bve1-22-afd-coronaregeln.html | sha256=d060b0fa0fe2c9a5... | 192126 Bytes
 - web: sources/web/afd-coronaregeln-bverfg-20260723/bverfg-pressemitteilung-44-2026-afd-coronaregeln-2bve1-22.html | sha256=1ab825de2db24b82... | 115308 Bytes
 - web: sources/web/afd-coronaregeln-bverfg-20260723/taz-bverfg-afd-coronaregeln-bundestag-20260722.html | sha256=80c357a00a613744... | 171879 Bytes
-- web: sources/web/afd-verbot/afd_verbot_beweis_11058_live.html | sha256=4d8bd3707cddf3bb... | 116314 Bytes
-- web: sources/web/afd-verbot/afd_verbot_beweis_11258_marcel_grauf.html | sha256=ad1f30e8fda9079f... | 118061 Bytes
-- web: sources/web/afd-verbot/afd_verbot_beweis_11625_live.html | sha256=4f6d6a1b2db46d85... | 115631 Bytes
-- web: sources/web/afd-verbot/afd_verbot_beweis_12067_live.html | sha256=7d5b3e3788db3bd0... | 115490 Bytes
-- web: sources/web/afd-verbot/afd_verbot_beweis_12163_heiko_hessenkemper.html | sha256=8700bcc300194e3a... | 117981 Bytes
-- web: sources/web/afd-verbot/afd_verbot_beweis_12238_live.html | sha256=2258f2f0e86d1db1... | 116477 Bytes
-- web: sources/web/afd-verbot/afd_verbot_beweis_12248_live.html | sha256=93e886ac83b20cfe... | 116157 Bytes
-- web: sources/web/afd-verbot/afd_verbot_beweis_13700_live.html | sha256=01bab293f71b7fd2... | 115501 Bytes
-- web: sources/web/afd-verbot/afd_verbot_beweis_14985_live.html | sha256=d6dbfff0d53129b8... | 115593 Bytes
-- web: sources/web/afd-verbot/afd_verbot_beweis_15132_live.html | sha256=89fbe7865a08c5e5... | 115721 Bytes
-- web: sources/web/afd-verbot/afd_verbot_beweis_15176_egbert_ermer.html | sha256=d210e5af6e4e537e... | 116837 Bytes
-- web: sources/web/afd-verbot/afd_verbot_beweis_15444_mirko_welsch.html | sha256=7ec957682db58ad1... | 115529 Bytes
-- web: sources/web/afd-verbot/afd_verbot_beweis_15845_live.html | sha256=c98bbe830b32ed6d... | 115990 Bytes
-- web: sources/web/afd-verbot/afd_verbot_beweis_16430_dubravko_mandic.html | sha256=47a1c148d0e9d580... | 117372 Bytes
+- web: sources/web/afd-gerichtsentscheidungen-2026/README.md | sha256=6a1eb78b9871347e... | 1158 Bytes
+- web: sources/web/afd-gerichtsentscheidungen-2026/SHA256SUMS.txt | sha256=579b88338cf4cdd3... | 332 Bytes
+- web: sources/web/afd-gerichtsentscheidungen-2026/bverfg-pm09-2026-otto-wels-saal.html | sha256=03b325ad3bc81667... | 102512 Bytes
+- web: sources/web/afd-gerichtsentscheidungen-2026/bverfg-pm14-2026-2bve11-23-fragerecht.html | sha256=aebfbb2f4737fe40... | 101998 Bytes
+- web: sources/web/afd-gerichtsentscheidungen-2026/bverwg-pm24-2026-allianz-gegen-rechtsextremismus.html | sha256=ca3044fcab0900b5... | 30088 Bytes
+- web: sources/web/afd-landesverbaende-verfassungsschutz-20260724/README.md | sha256=fbe4647731264775... | 952 Bytes
+- web: sources/web/afd-landesverbaende-verfassungsschutz-20260724/SHA256SUMS.txt | sha256=351cb036f9df7be0... | 512 Bytes
+- web: sources/web/afd-landesverbaende-verfassungsschutz-20260724/correctiv-afd-landesverbaende-verfassungsschutz-2026-06-17.html | sha256=596f10fe07d33cb3... | 86123 Bytes
+- web: sources/web/afd-landesverbaende-verfassungsschutz-20260724/didicologne-afd-nrw-friedensbrief-finte-2026-07-24.html | sha256=ba0028d49b41455b... | 130729 Bytes
+- web: sources/web/afd-landesverbaende-verfassungsschutz-20260724/tagesschau-brandenburg-afd-gesichert-rechtsextrem-2025-05-07.html | sha256=9aed4eaebc7c1d84... | 393499 Bytes
+- web: sources/web/afd-landesverbaende-verfassungsschutz-20260724/tagesschau-ndr-afd-niedersachsen-rechtsextrem-2026-06-03.html | sha256=8b05b5bbbe6a2c9d... | 122013 Bytes
+- web: sources/web/afd-veranstaltung-steimle-stauffenberg-20260716/README.md | sha256=d113af11d6702f15... | 866 Bytes
+- web: sources/web/afd-veranstaltung-steimle-stauffenberg-20260716/SHA256SUMS.txt | sha256=4c6b18f64c3c2639... | 369 Bytes
+- web: sources/web/afd-veranstaltung-steimle-stauffenberg-20260716/dlfkultur-steimle-androhung-straftaten-2026-07-16.html | sha256=20c2d833faeb8b3e... | 274968 Bytes
 
 ## Schriftsatz-Toplisten
 

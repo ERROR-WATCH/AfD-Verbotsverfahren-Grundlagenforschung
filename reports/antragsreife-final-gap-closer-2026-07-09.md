@@ -20,7 +20,7 @@ Dieses Register benennt die letzten sieben Verfahrenshaertungen vor der eigentli
 ### FGC-001 - Zitatkorpus als Schriftsatzpaket
 
 - Prioritaet: A
-- Ziel: Top-100/Top-300-Zitate nicht als Masse, sondern als gerichtsfeste Einzelbeweise mit Akteur, Funktion, Datum, Kanal, Zielgruppe, Rechtsgut, Kontext und Gegenargument ausspielen.
+- Ziel: Top-100/Top-300-Zitate nicht als Masse, sondern als pruefbare Einzelbelege mit Akteur, Funktion, Datum, Kanal, Zielgruppe, Rechtsgut, Kontext und Gegenargument ausspielen.
 - Lokale Belege: daten/findings_art21.jsonl; daten/topzitat_dossierklasse_2026.jsonl; daten/quote_actor_registry_2026.jsonl; dokumente/ki_markdown/zitate/; zitate/
 - Online-/Originalroute: Original-X/Facebook/YouTube/Bundestags-/AfD-Kanal-URLs aus Proof-Dateien, GFF-/BfV-Fussnoten und Webarchiven als Screenshot-/Archivanker sichern.
 - Bestand: quote_findings=3722; direkt_zurechenbar_indikativ=992; top_dossier_rows=150; actor_registry_rows=3722

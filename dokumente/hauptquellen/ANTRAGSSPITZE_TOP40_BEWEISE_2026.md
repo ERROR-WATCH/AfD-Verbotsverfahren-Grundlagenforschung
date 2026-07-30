@@ -1,6 +1,6 @@
 # Antragsspitze Top 40 Beweise 2026
 
-Stand: 2026-07-23T06:08:23.524Z
+Stand: 2026-07-30T10:58:54.094Z
 
 Diese Datei verdichtet die Schriftsatz-Topbeweise auf vierzig antragsnahe Beweisbloecke. Jede Zeile ist als Quelle -> Pinpoint -> Akteur/Ebene -> Zurechnung -> Art.-21-Feld -> Red-Team-Grenze lesbar.
 
@@ -420,7 +420,7 @@ Exportierte Beweisbloecke: 40
 - Tatsachenvortrag: BfV AfD Folgegutachten 2021 05 E Einflussnahme Fluegel pages 1 to 50 traegt fuer Spionage-, Einflussnahme- und Fremdfinanzierungsrisiken im AfD-Umfeld den Tatsachenkern: Sicherheits- und Einflusskomplex im AfD-/AfD-Umfeld mit amtlichem GBA-Primäranker, Mitarbeiter-/Zugangskante und strikt getrenntem Einzelfallstatus.. Fundstelle: lokaler Split 1-50.
 - Beweisangebot: BfV AfD Folgegutachten 2021 05 E Einflussnahme Fluegel pages 1 to 50; dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_05_E_Einflussnahme_Fluegel__pages_1_to_50.md; lokaler Split 1-50
 - Zurechnung: Akteur/Ebene pro Finding und Source-ID getrennt; Bund, Land, JA/GD, Vorfeld nicht vermischen.
-- Red-Team-Antwort: Nicht behaupten: Landesverrat der AfD als Gesamtpartei oder Beschuldigtenstatus Krah ohne gerichtsfeste Parteibrücke. Tragfaehig ist: Sicherheits- und Einflusskomplex im AfD-/AfD-Umfeld mit amtlichem GBA-Primäranker, Mitarbeiter-/Zugangskante und strikt getrenntem Einzelfallstatus.
+- Red-Team-Antwort: Nicht behaupten: Landesverrat der AfD als Gesamtpartei oder Beschuldigtenstatus Krah ohne pruefbare Parteibruecke. Tragfaehig ist: Sicherheits- und Einflusskomplex im AfD-/AfD-Umfeld mit amtlichem GBA-Primäranker, Mitarbeiter-/Zugangskante und strikt getrenntem Einzelfallstatus.
 
 ### 25. VG-09 - Spionage-, Einflussnahme- und Fremdfinanzierungsrisiken im AfD-Umfeld
 
@@ -431,7 +431,7 @@ Exportierte Beweisbloecke: 40
 - Tatsachenvortrag: BfV AfD Folgegutachten 2021 08 F III Rechtsstaatsprinzip traegt fuer Spionage-, Einflussnahme- und Fremdfinanzierungsrisiken im AfD-Umfeld den Tatsachenkern: Sicherheits- und Einflusskomplex im AfD-/AfD-Umfeld mit amtlichem GBA-Primäranker, Mitarbeiter-/Zugangskante und strikt getrenntem Einzelfallstatus.. Fundstelle: Source-ID-Fundstelle im lokalen Volltext; lokaler Volltextanker in Topliste gefuehrt.
 - Beweisangebot: BfV AfD Folgegutachten 2021 08 F III Rechtsstaatsprinzip; dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_08_F_III_Rechtsstaatsprinzip.md; Source-ID-Fundstelle im lokalen Volltext; lokaler Volltextanker in Topliste gefuehrt
 - Zurechnung: Akteur/Ebene pro Finding und Source-ID getrennt; Bund, Land, JA/GD, Vorfeld nicht vermischen.
-- Red-Team-Antwort: Nicht behaupten: Landesverrat der AfD als Gesamtpartei oder Beschuldigtenstatus Krah ohne gerichtsfeste Parteibrücke. Tragfaehig ist: Sicherheits- und Einflusskomplex im AfD-/AfD-Umfeld mit amtlichem GBA-Primäranker, Mitarbeiter-/Zugangskante und strikt getrenntem Einzelfallstatus.
+- Red-Team-Antwort: Nicht behaupten: Landesverrat der AfD als Gesamtpartei oder Beschuldigtenstatus Krah ohne pruefbare Parteibruecke. Tragfaehig ist: Sicherheits- und Einflusskomplex im AfD-/AfD-Umfeld mit amtlichem GBA-Primäranker, Mitarbeiter-/Zugangskante und strikt getrenntem Einzelfallstatus.
 
 ### 30. VG-08 - Waffenrecht, Bewaffnung und Sicherheitsrisiko
 

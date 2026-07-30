@@ -1,6 +1,6 @@
 # Kommunale AfD-Kandidaturen und Verfassungstreue 2025–2026
 
-Stand: 29.07.2026, 18:40 Uhr.
+Stand: 30.07.2026.
 Status: Verfahrens-, Wahleignungs-, Rechtsschutz- und Potentialitätsdossier. Die kommunalen Nichtzulassungen werden nicht als zusätzliche Straf- oder Parteiverbotsfälle gezählt.
 
 ## 1. Erkenntnisziel und Zählregel
@@ -42,6 +42,16 @@ kommunales Spitzenamt
 - **Kern:** Der Wahlausschuss äußerte begründete Zweifel daran, dass Bothe die erforderliche Gewähr biete, jederzeit für die freiheitliche demokratische Grundordnung einzustehen. Der NDR verknüpft die Entscheidung mit der vorläufig zulässigen Einstufung der niedersächsischen AfD und einer verwaltungsgerichtlichen Entscheidung, in der Bothe häufig genannt werde.
 - **Verfahrensstand:** Kein rechtskräftiges Hauptsacheurteil zur Nichtzulassung. Bothe kündigte eine Anfechtung der Wahl an.
 
+**Chronologie und zusätzliche Pinpoints:**
+
+- 09.04.2026 und 16.04.2026: Beratungen im Innenausschuss des Niedersächsischen Landtags zur Verfassungstreueprüfung kommunaler Wahlbeamter; Bothe beteiligt sich als Abgeordneter an der Debatte.
+- 28.04.2026: Der Niedersächsische Landtag beschließt die Änderung des Kommunalwahlrechts.
+- 03.07.2026: tagesschau/NDR dokumentiert Bothe als frühen Prüffall und die Einschaltung der Kommunalaufsicht.
+- 23.07.2026: Lüneburg Aktuell gibt aus dem Schreiben an Bothe die fachliche Einschätzung des Ministeriums wieder, er biete nicht die erforderliche Gewähr, jederzeit für die freiheitliche demokratische Grundordnung einzutreten.
+- 29.07.2026: Der Kreiswahlausschuss lehnt die Zulassung mit 6:1 Stimmen ab.
+- Landeszeitung-Pinpoints: Empfehlung des Innenministeriums unter Einbeziehung von Verfassungsschutzerkenntnissen; individuelle Ausschussdebatte; Hinweise auf `Bevölkerungsaustausch`, die Bezeichnung `DDR 2.0` und die Verharmlosung des Reuß-Komplexes; angekündigte Wahlprüfung. Diese Angaben sind Pressewiedergaben, keine eigenständige gerichtliche Tatsachenfeststellung.
+- **Rechtsschutzstatus:** Nach der dokumentierten Auskunft der Wahlleiterin ist ein nachträgliches Wahlprüfungsverfahren die vorgesehene Rechtsmittelroute. Ein späteres Gerichtsergebnis muss als neue Statusstufe ergänzt werden.
+
 ### 3.2 Thorsten Moriße – Oberbürgermeisterwahl Wilhelmshaven 2026
 
 - **Entscheidung:** Gemeindewahlausschuss vom 28.07.2026; einstimmige Nichtzulassung.
@@ -69,7 +79,7 @@ kommunales Spitzenamt
 - **Lokaler Anker:** `sources/web/kommunale-nichtzulassungen-verfassungstreue-20260729/stadtradio-goettingen-justin-vogel-2026-07-28.html`
 - **SHA-256:** `6aa36677366a08b2e74ef2477047aebc20ec9a8977880cfc15a77508fb8eb04f`
 - **Kern:** Die Meldung nennt Vogels aktive Mitwirkung und Mitgestaltung als Kreisverbandsvorsitzender, Beisitzer im Landesvorstand von `Generation Deutschland` und Mitgliederwerber. Vogel kündigte Rechtsmittel an.
-- **Red-Team-Grenze:** Der Medienbericht gibt die Begründung wieder; eine amtliche schriftliche Entscheidung oder gerichtliche Prüfung ist noch nachzuziehen.
+- **Red-Team-Grenze:** Der Medienbericht gibt die Begründung wieder; eine amtliche schriftliche Entscheidung oder gerichtliche Prüfung ist noch für den Schriftsatz-Pinpoint geführt.
 
 ### 3.5 Joachim Paul – Oberbürgermeisterwahl Ludwigshafen 2025
 
@@ -155,3 +165,8 @@ Vor jeder Verwendung müssen folgende Felder zusammengeführt werden:
 - Florian Meyer nur nach dokumentierter Entscheidung als Zulassung oder Nichtzulassung erfassen.
 - Alle Statusänderungen datieren; keine zwischenzeitliche Nichtzulassung als endgültigen Ausschluss fortschreiben.
 
+## 8. Abgrenzung ähnlicher, aber anders gelagerter Ausschlüsse
+
+Nicht jede gestrichene AfD-Kandidatur gehört in diese Fallgruppe. Der im Februar 2026 berichtete Münchner Stadtratsfall eines wegen Mordes verurteilten Bewerbers betrifft wahlrechtliche Folgen einer strafrechtlichen Verurteilung, nicht die hier untersuchte Prognose fehlender Verfassungstreue für kommunale Wahlbeamte. Form-, Frist-, Unterstützungsunterschriften- oder innerparteiliche Aufstellungsfehler werden ebenfalls nicht als Vergleichsfälle gezählt.
+
+Diese Negativabgrenzung verhindert eine sachlich falsche Verkettung bloß gleicher Ergebnisse („nicht zugelassen“) bei unterschiedlichen gesetzlichen Tatbeständen.

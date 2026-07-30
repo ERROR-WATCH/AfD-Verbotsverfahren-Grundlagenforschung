@@ -315,7 +315,7 @@ PDF-Rohobjekte, Binärzeilen und OCR-Artefakte sind keine Pinpoints. Final gefue
 - Pinpoint: dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_05_E_Einflussnahme_Fluegel__pages_1_to_50.md:1; Originalseitenbereich 1-50 (# BfV-AfD-Folgegutachten_2021_05_E_Einflussnahme_Fluegel (1-50))
 - Beweisangebot: BfV AfD Folgegutachten 2021 05 E Einflussnahme Fluegel pages 1 to 50; dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_05_E_Einflussnahme_Fluegel__pages_1_to_50.md; lokaler Split 1-50
 - Zurechnung: Akteur/Ebene pro Finding und Source-ID getrennt; Bund, Land, JA/GD, Vorfeld nicht vermischen.
-- Grenze: Nicht behaupten: Landesverrat der AfD als Gesamtpartei oder Beschuldigtenstatus Krah ohne gerichtsfeste Parteibrücke. Tragfaehig ist: Sicherheits- und Einflusskomplex im AfD-/AfD-Umfeld mit amtlichem GBA-Primäranker, Mitarbeiter-/Zugangskante und strikt getrenntem Einzelfallstatus. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Grenze: Nicht behaupten: Landesverrat der AfD als Gesamtpartei oder Beschuldigtenstatus Krah ohne pruefbare Parteibruecke. Tragfaehig ist: Sicherheits- und Einflusskomplex im AfD-/AfD-Umfeld mit amtlichem GBA-Primäranker, Mitarbeiter-/Zugangskante und strikt getrenntem Einzelfallstatus. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
 - Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
 ### ANL-A-025 - BfV AfD Folgegutachten 2021 08 F III Rechtsstaatsprinzip
 - Status: ANLAGENREIF_CODIERT
@@ -327,7 +327,7 @@ PDF-Rohobjekte, Binärzeilen und OCR-Artefakte sind keine Pinpoints. Final gefue
 - Pinpoint: dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_08_F_III_Rechtsstaatsprinzip.md:1 (BfV-AfD-Folgegutachten 2021 (Netzpolitik-Transkription))
 - Beweisangebot: BfV AfD Folgegutachten 2021 08 F III Rechtsstaatsprinzip; dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_08_F_III_Rechtsstaatsprinzip.md; Source-ID-Fundstelle im lokalen Volltext; lokaler Volltextanker in Topliste gefuehrt
 - Zurechnung: Akteur/Ebene pro Finding und Source-ID getrennt; Bund, Land, JA/GD, Vorfeld nicht vermischen.
-- Grenze: Nicht behaupten: Landesverrat der AfD als Gesamtpartei oder Beschuldigtenstatus Krah ohne gerichtsfeste Parteibrücke. Tragfaehig ist: Sicherheits- und Einflusskomplex im AfD-/AfD-Umfeld mit amtlichem GBA-Primäranker, Mitarbeiter-/Zugangskante und strikt getrenntem Einzelfallstatus. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
+- Grenze: Nicht behaupten: Landesverrat der AfD als Gesamtpartei oder Beschuldigtenstatus Krah ohne pruefbare Parteibruecke. Tragfaehig ist: Sicherheits- und Einflusskomplex im AfD-/AfD-Umfeld mit amtlichem GBA-Primäranker, Mitarbeiter-/Zugangskante und strikt getrenntem Einzelfallstatus. Pinpoint ist Anlage-/Textfundstelle; Rechtskraft, Ebene und Zurechnung getrennt beweisen.
 - Naechste Handlung: Pinpoint als Anlage-/Textanker final gefuehrt; bei direktem Zitat Originalkontext gegenlesen.
 ### ANL-A-026 - BfV AfD Folgegutachten 2021 06 F I Menschenwuerde pages 101 to 150
 - Status: ANLAGENREIF_CODIERT
