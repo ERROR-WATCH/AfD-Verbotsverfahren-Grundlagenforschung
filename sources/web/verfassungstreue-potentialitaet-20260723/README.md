@@ -26,7 +26,7 @@ Status: Quellenanker für Verfassungstreue-/Wahleignungsprüfung, Landesverbands
 ## SHA-256
 
 ```text
-39057bc545c029a050a2f3fd11ed5a80c680f2d73e5287edcb9f50b3b0a93b71  br-chrupalla-parteienbeobachtung.html
+841fab8816df1ca3c3eb26ffa3a44c173d7775b85f3de863f89c5d59e5ffd82c  br-chrupalla-parteienbeobachtung.html
 3ee599334d295e20d661464c8e4d2e62908ac0ee849e92cf81029020e6664675  ndr-faq-kommunalwahl-verfassungstreue-2026-07-23.html
 9180a352508cd0f2dc1d0bc64e2fe63cb89c70adb73ac4d55f4e36a857a357b0  spiegel-martin-sichert-landrat-kandidatur.html
 4fac3aebfc5e795029f98eafafbadcddcdaad4cc7d5549b38b51b07554a18d0b  tagesschau-kretschmer-brandmauer.html

@@ -3,7 +3,7 @@
 Stand: 30.07.2026  
 Generiert mit `scripts/build-web-source-index.mjs`.
 
-Der maschinenlesbare Vollindex unter `daten/web_source_inventory_2026.jsonl` enthält für jede lokale Datei Pfad, Ordner, Dateiname, Byteumfang, SHA-256, README-Status und Manifestabdeckung. Erfasst sind **38 Quellenordner**, **479 Dateien** und **75.233.409 Bytes**.
+Der maschinenlesbare Vollindex unter `daten/web_source_inventory_2026.jsonl` enthält für jede lokale Datei Pfad, Ordner, Dateiname, Byteumfang, SHA-256, README-Status und Manifestabdeckung. Erfasst sind **38 Quellenordner**, **479 Dateien** und **75.233.353 Bytes**.
 
 | Quellenordner | Dateien | README | SHA-Manifest |
 |---|---:|:---:|:---:|

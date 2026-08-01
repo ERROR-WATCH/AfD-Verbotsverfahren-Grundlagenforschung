@@ -1,6 +1,6 @@
 # Antragsreife Nachverdrahtung 2026
 
-Stand: 2026-07-30T12:01:07.530Z
+Stand: 2026-08-01T19:53:51.438Z
 
 ## Erzeugte Beweisregister
 
