@@ -1,6 +1,6 @@
 # Antragsspitze Top 40 Beweise 2026
 
-Stand: 2026-08-01T19:53:52.823Z
+Stand: 2026-08-01T21:40:53.216Z
 
 Diese Datei verdichtet die Schriftsatz-Topbeweise auf vierzig antragsnahe Beweisbloecke. Jede Zeile ist als Quelle -> Pinpoint -> Akteur/Ebene -> Zurechnung -> Art.-21-Feld -> Red-Team-Grenze lesbar.
 
