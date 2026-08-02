@@ -532,7 +532,7 @@ Sämtliche Belege liegen physisch im Repository vor und sind im vollumfängliche
 ---
 
 ### B) Gutachten & Rechtsanalysen (32)
-- **GFF AfD-Gutachten (PDF-Splits) – *Logisch und kapitelgenau gesplittet für KI-Verarbeitung & GitHub-Limits (3.062 Seiten)*:**
+- **GFF-Rechtsgutachten „Ist die Alternative für Deutschland verfassungswidrig?“ vom 25. Juni 2026 (10 PDF-Splits) – *logisch und kapitelgenau gesplittet für KI-Verarbeitung & GitHub-Limits (3.062 Seiten)*:**
 - [`Antraege_AfD_Minderheiten_DeepResearch.md`](./dokumente/hauptquellen/Antraege_AfD_Minderheiten_DeepResearch.md) *(Deep Research: Antrags- und Abstimmungsverhalten der AfD gegenüber Minderheiten)*
   - [`GFF_AfD-Gutachten_Teil_01_Inhaltsueberblick_Zusammenfassung.pdf`](./dokumente/splits/GFF_AfD-Gutachten_Teil_01_Inhaltsueberblick_Zusammenfassung.pdf) *(Cover, Inhaltsüberblick & Zusammenfassung, S. 1–124)*
   - [`GFF_AfD-Gutachten_Teil_02_Einfuehrung.pdf`](./dokumente/splits/GFF_AfD-Gutachten_Teil_02_Einfuehrung.pdf) *(Einführung, S. 125–196)*

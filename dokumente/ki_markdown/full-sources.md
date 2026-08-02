@@ -2970,7 +2970,7 @@ Dieses Verzeichnis listet die **originalen, offiziellen Weblinks (Original-URLs)
 * **Hendrik Cremer (Deutsches Institut für Menschenrechte) - Studie (Juni 2023):**
   - Titel: *Warum die AfD verboten werden könnte. Empfehlungen an Staat und Politik*
   - Original-Webseite: [https://www.institut-fuer-menschenrechte.de/ [✅ 200 OK]publikationen/detail/warum-die-afd-verboten-werden-koennte [✅ 200 OK]](https://www.institut-fuer-menschenrechte.de/publikationen/detail/warum-die-afd-verboten-werden-koennte) [✅ 200 OK] `[📄 Lokaler PDF-Download](../hauptquellen/DIMR_Analyse_Warum_die_AfD_verboten_werden_koennte.pdf)`
-* **Gesellschaft für Freiheitsrechte (GFF) - Gutachten (2024/2025):**
+* **Gesellschaft für Freiheitsrechte (GFF) - Rechtsgutachten (25. Juni 2026):**
   - Titel: *Ist die Alternative für Deutschland verfassungswidrig?*
   - Original-Webseite: [https://freiheitsrechte.org/themen/demokratie/afd-gutachten [✅ 200 OK]](https://freiheitsrechte.org/themen/demokratie/afd-gutachten) [✅ 200 OK] `[📄 Lokaler PDF-Download](../hauptquellen/freiheitsrechte.org_themen_demokratie_afd-gutachten.pdf)`
 * **Zentrum für Politische Schönheit - Beweis- und Zitate-Sammlung:**
@@ -3022,7 +3022,7 @@ Dieses Verzeichnis listet die **originalen, offiziellen Weblinks (Original-URLs)
 * **Hendrik Cremer (Deutsches Institut für Menschenrechte) - Studie (Juni 2023):**
   - Titel: *Warum die AfD verboten werden könnte. Empfehlungen an Staat und Politik*
   - Original-Webseite: [https://www.institut-fuer-menschenrechte.de/ [✅ 200 OK]publikationen/detail/warum-die-afd-verboten-werden-koennte [✅ 200 OK]](https://www.institut-fuer-menschenrechte.de/publikationen/detail/warum-die-afd-verboten-werden-koennte) [✅ 200 OK] `[📄 Lokaler PDF-Download](../hauptquellen/DIMR_Analyse_Warum_die_AfD_verboten_werden_koennte.pdf)`
-* **Gesellschaft für Freiheitsrechte (GFF) - Gutachten (2024/2025):**
+* **Gesellschaft für Freiheitsrechte (GFF) - Rechtsgutachten (25. Juni 2026):**
   - Titel: *Ist die Alternative für Deutschland verfassungswidrig?*
   - Original-Webseite: [https://freiheitsrechte.org/themen/demokratie/afd-gutachten [✅ 200 OK]](https://freiheitsrechte.org/themen/demokratie/afd-gutachten) [✅ 200 OK] `[📄 Lokaler PDF-Download](../hauptquellen/freiheitsrechte.org_themen_demokratie_afd-gutachten.pdf)`
 * **Zentrum für Politische Schönheit - Beweis- und Zitate-Sammlung:**
@@ -7870,7 +7870,7 @@ In diesem Abschnitt werden die 16 zentralen wissenschaftlichen Studien, amtliche
 
 ### [QUELLE 9] GFF-Gutachten „Ist die AfD verfassungswidrig?“
 *   **URL:** [https://freiheitsrechte.org/themen/demokratie/afd-gutachten [✅ 200 OK]](https://freiheitsrechte.org/themen/demokratie/afd-gutachten) [✅ 200 OK] `[📄 Lokaler PDF-Download](../hauptquellen/freiheitsrechte.org_themen_demokratie_afd-gutachten.pdf)`
-*   **Herausgeber:** Gesellschaft für Freiheitsrechte e. V. (GFF) (Veröffentlichung: 2024/2025).
+*   **Herausgeber:** Gesellschaft für Freiheitsrechte e. V. (GFF) (Veröffentlichung: 25. Juni 2026).
 *   **Kernaussagen:** Ein über 3.000-seitiges, umfassendes Rechtsgutachten, das systematisch alle Beweise, Zitate, Programme und Gerichtsentscheidungen im Kontext der BVerfG-Kriterien (Potentialitätskriterium) analysiert. Es kommt zu dem Schluss, dass ein Verbotsantrag der Verfassungsorgane eine extrem hohe Erfolgschance hat.
 *   **Juristische Relevanz für Art. 21 Abs. 2 GG:** Das Gutachten dient als *definitive juristische Blaupause (Quellenfundus) für die Klageschrift* der Antragsgegner vor dem Bundesverfassungsgericht.
 

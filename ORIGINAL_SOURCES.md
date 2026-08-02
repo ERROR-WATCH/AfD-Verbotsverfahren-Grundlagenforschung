@@ -33,7 +33,7 @@ Dieses Verzeichnis listet die **originalen, offiziellen Weblinks (Original-URLs)
 * **Hendrik Cremer (Deutsches Institut für Menschenrechte) - Studie (Juni 2023):**
   - Titel: *Warum die AfD verboten werden könnte. Empfehlungen an Staat und Politik*
   - Original-Webseite: [https://www.institut-fuer-menschenrechte.de/publikationen/detail/warum-die-afd-verboten-werden-koennte](https://www.institut-fuer-menschenrechte.de/publikationen/detail/warum-die-afd-verboten-werden-koennte)
-* **Gesellschaft für Freiheitsrechte (GFF) - Gutachten (2024/2025):**
+* **Gesellschaft für Freiheitsrechte (GFF) - Rechtsgutachten (25. Juni 2026):**
   - Titel: *Ist die Alternative für Deutschland verfassungswidrig?*
   - Original-Webseite: [https://freiheitsrechte.org/themen/demokratie/afd-gutachten](https://freiheitsrechte.org/themen/demokratie/afd-gutachten)
 * **Zentrum für Politische Schönheit - Beweis- und Zitate-Sammlung:**
