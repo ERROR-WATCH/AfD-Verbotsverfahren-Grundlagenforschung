@@ -8,7 +8,7 @@ Dieser Ordner sichert lokale HTML-Snapshots zu Brandmauer, CDU/CSU-Migrationspol
 
 ## Lokale Dateien
 
-Aktueller lokaler HTML-Bestand: 50 Quellenanker.
+Aktueller Bestand: 50 lokale HTML-Quellenanker plus ein verifizierter Markdown-Quellenvermerk.
 
 - `bpb-ermaechtigungsgesetz-1933.html`
 - `bpb-kemmerich-thueringen-afd-stimmen-2020.html`
@@ -57,6 +57,7 @@ Aktueller lokaler HTML-Bestand: 50 Quellenanker.
 - `wahlrecht-bundestag-sonntagsfrage-20260723.html`
 - `wahlrecht-sachsen-anhalt-sonntagsfrage-20260723.html`
 - `wdr-cdu-krefeld-video-parteiausschluss-2026.html`
+- `welt-dpa-cdu-prange-afd-spende-20260820.md`
 - `zdf-kretschmer-brandmauer-zeichen-der-zeit-2026.html`
 - `zdf-maassen-weidel-afd-gespraeche-2024.html`
 - `zdf-wanderwitz-afd-verbotsverfahren-2024.html`

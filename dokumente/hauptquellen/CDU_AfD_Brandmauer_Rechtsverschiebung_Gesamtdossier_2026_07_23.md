@@ -60,6 +60,10 @@ WDR/tagesschau dokumentieren einen Verdachtsfall gegen ein junges CDU-/JU-Mitgli
 
 Die WZB-Direktdownloads scheiterten lokal, sind aber über tagesschau als Ersatzanker und Online-Route dokumentiert. Die WZB-Zahlen lauten nach tagesschau/WZB-Suchergebnis: 11.053 Sitzungen, 4.968 AfD-Anträge, 934 direkte Kooperationen, ca. 19 Prozent Zustimmung und ca. 81 Prozent Ablehnung. Damit hält die Brandmauer häufig, aber nicht durchgehend. CDU und FDP erscheinen in der berichteten Auswertung besonders häufig unter den etablierten Parteien als Zustimmende, wobei jede lokale Kooperation einzeln nach Ratsunterlagen zu pinnen bleibt.
 
+## Sachsen-Anhalt: CDU-Kommunalpolitiker spendet an die AfD
+
+WELT/dpa dokumentiert am 20.08.2026 einen weitergehenden kommunalen Überschreitungsfall: Der CDU-Kommunalpolitiker Bernd Prange bestätigte zwei Spenden von zusammen 10.000 Euro an die AfD Sachsen-Anhalt, kündigte seine Wahl der AfD an und hoffte auf Nachahmung sowie eine absolute AfD-Mehrheit. Damit liegt neben Abstimmungs- und Gesprächskonvergenzen ein materieller Unterstützungsakt eines CDU-Mandatsträgers zugunsten der AfD vor. Die CDU wies den Vorgang zurück und kündigte eine parteirechtliche Prüfung beziehungsweise ein mögliches Ausschlussverfahren an. Der Fall belegt deshalb eine konkrete Durchbrechung auf Personen- und Kommunalebene bei zugleich fortbestehender formaler Gegenreaktion; er beweist keinen CDU-Beschluss und kein vollständiges Fallen der Brandmauer auf Landes- oder Bundesebene.
+
 ## taz- und Die-Linke-Gegenlese
 
 Die taz liefert mehrere kommunale und bundespolitische Gegenlesen zu Merz, Kretschmer, WerteUnion/Maaßen und Brandmauer-Rissen. Die Linke liefert politische Kritik an Union/Merz, Migrationskurs und Verbotsverfahrensverzögerung. Beide Quellenklassen sind klar als Presse-/Parteiperspektiven zu markieren und durch amtliche, parlamentarische oder kommunale Primäranker zu härten.
@@ -101,8 +105,9 @@ Zurechnungsgrenze: Das Szenario darf nur als Potentialitäts-, Normalisierungs-,
 | 2025 | Kommunen | WZB/tagesschau: 19 Prozent AfD-Anträge mit Zustimmung anderer Parteien | Brandmauer hält oft, aber nicht vollständig |
 | 2026 | Sachsen/Bund | Kretschmer stellt Brandmauer-Rhetorik öffentlich in Frage | symbolische Aufweichung bei formaler Abgrenzung |
 | 2026 | NRW/Krefeld | Volksverhetzungsverdacht gegen CDU-/JU-Mitglied | kein AfD-Fall, aber Radikalisierungswarnung |
+| 20.08.2026 | Sachsen-Anhalt/Kommunalebene | CDU-Kommunalpolitiker bestätigt 10.000-Euro-Spende an AfD und Wahlempfehlung | materieller Brandmauer-Durchbruch auf Personenebene; CDU prüft Ausschluss |
 
-## 20 priorisierte Fallnotizen
+## 21 priorisierte Fallnotizen
 
 1. CDU-Unvereinbarkeitsbeschluss: formale Abgrenzungsnorm.
 2. Bundestags-Migrationsantrag 29.01.2025: Mehrheit mit AfD-Stimmen.
@@ -124,6 +129,7 @@ Zurechnungsgrenze: Das Szenario darf nur als Potentialitäts-, Normalisierungs-,
 18. Die Linke: politische Kritik an Union/Brandmauer/Migration/Verbotsverfahren.
 19. taz: Gegenlese zu Kretschmer, Merz, WerteUnion und Kommunen.
 20. Zentrum/BVP 1933: Strukturwarnung zur Machtöffnung.
+21. Bernd Prange 2026: CDU-Kommunalmandat, bestätigte AfD-Spende und Wahlempfehlung bei angekündigter CDU-Ausschlussprüfung.
 
 ## Gesamtergebnis
 

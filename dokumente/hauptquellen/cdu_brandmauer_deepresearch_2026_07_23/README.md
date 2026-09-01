@@ -1,4 +1,4 @@
-# CDU/CSU, Brandmauer, Potentialität und Steigbügelhalter-Risiko: 20 Deepresearch-Module
+# CDU/CSU, Brandmauer, Potentialität und Steigbügelhalter-Risiko: 21 Deepresearch-Module
 
 Status: Kontext- und Potentialitätsblock, nicht als AfD-Gerichtsfälle gezählt.
 
@@ -34,10 +34,11 @@ Diese Sammlung prüft die benannten Achsen: scheinbare Brandmauer, reale Aufweic
 - [Deepresearch 18: Die Linke: Kritik an CDU/Union, Migrationskurs und AfD-Verbotsverfahren](./DR18_die_linke__kritik_an_cdu_union__migrationskurs_und_afd_verbotsverfahren.md)
 - [Deepresearch 19: taz-Gegenlese: Brandmauer, WerteUnion, Kretschmer, Merz](./DR19_taz_gegenlese__brandmauer__werteunion__kretschmer__merz.md)
 - [Deepresearch 20: Historische Vergleichsfolie Zentrum/BVP 1933 und Steigbügelhalter-Risiko](./DR20_historische_vergleichsfolie_zentrum_bvp_1933_und_steigbügelhalter_risiko.md)
+- [Deepresearch 21: CDU-Kommunalpolitiker Prange – AfD-Spende und Wahlempfehlung 2026](./DR21_cdu_kommunalpolitiker_prange_afd_spende_2026.md)
 
 ## Gesamtbefund
 
-Der belegte Mindestbefund ist nicht eine gerichtsfest bewiesene CDU-AfD-Koalitionsabsicht, sondern ein Bündel aus vier riskanten Entwicklungen: erstens offizielle Abgrenzungsnormen, die zugleich durch einzelne Abstimmungs-, Kommunal- und Debattenlagen praktisch belastet werden; zweitens migrations- und sicherheitspolitische Rechtsverschiebungen, die AfD-Deutungsmuster teilweise normalisieren können; drittens Brückenmilieus wie WerteUnion/Maaßen, die aus dem CDU-nahen Raum nach rechts außen drifteten; viertens eine historische Warnfolie, nach der bürgerliche Parteien autoritäre Bewegungen nicht dadurch entschärfen, dass sie ihnen parlamentarische Durchbrüche, Deutungsräume oder Machtoptionen öffnen.
+Der belegte Mindestbefund ist nicht eine gerichtsfest bewiesene CDU-AfD-Koalitionsabsicht, sondern ein Bündel aus vier riskanten Entwicklungen: erstens offizielle Abgrenzungsnormen, die zugleich durch einzelne Abstimmungs-, Kommunal-, Spenden- und Debattenlagen praktisch belastet werden; zweitens migrations- und sicherheitspolitische Rechtsverschiebungen, die AfD-Deutungsmuster teilweise normalisieren können; drittens Brückenmilieus wie WerteUnion/Maaßen, die aus dem CDU-nahen Raum nach rechts außen drifteten; viertens eine historische Warnfolie, nach der bürgerliche Parteien autoritäre Bewegungen nicht dadurch entschärfen, dass sie ihnen parlamentarische Durchbrüche, Deutungsräume oder Machtoptionen öffnen.
 
 Ergänzend führt das Gesamtdossier einen Wahlrecht-/Kippszenario-Block zu Bundesumfragen, Sachsen-Anhalt 2026, Ministerpräsidentenwahlverfahren, indirekter CDU-Ermöglichung einer AfD-Regierung und Bundestagsabstimmung 940. Dieser Block ist als volatile Mehrheitsarithmetik und Risikoszenario zu lesen, nicht als Prognose oder Koalitionsbehauptung.
 
