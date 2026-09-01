@@ -105,6 +105,8 @@ Dieses Repository stellt eine **solid fundierte Arbeitsbasis** dar, die nach bes
    - **Bürgerinnen und Bürger:** Jede Person soll in die Lage versetzt werden, sich selbst ein umfassendes, faktenbasiertes und unzensiertes Bild von der realen Dichte rechtsextremer Bestrebungen und Verurteilungen zu machen.
    - **Anwälte, Gutachter und Richter:** Den prozessualen Akteuren, Gutachtern und juristischen Beraterstäben soll ein **erleichterter Einstieg** in das unübersichtliche Dickicht der Einzelverfahren, Aktenzeichen und behördlichen Berichte ermöglicht werden, um wertvolle Zeit bei der eigentlichen Schriftsatzvorbereitung zu sparen.
 
+<img alt="Zeitdruck beim AfD-Verbotsverfahren: Demokratie verteidigen und jetzt handeln" src="images/verbotsverfahren-2029.png" width="100%" style="max-width: 100%; height: auto;" />
+
 ## Zweck & Scope (KI-Quellenbündel)
 
 Dieses Repository ist **eine Bündelung öffentlich zugänglicher Quellen** als **Basiskorpus für KI-gestützte Analyse** (Suche, Retrieval, Clustering).  
@@ -1352,6 +1354,8 @@ Das Gutachten liefert damit eine fundierte juristische Grundlage, um ein Verbots
 
 Alle Quellenangaben sind in den Dateien enthalten.
 
+<img alt="Nie wieder: Erinnerung daran, wie Ausgrenzung, Hass und der Entzug von Grundrechten beginnen" src="images/nie-wieder-anfang.jpg" width="100%" style="max-width: 100%; height: auto;" />
+
 <a href="https://www.youtube.com/watch?v=Pb21x8gALRg"><img src="https://img.youtube.com/vi/Pb21x8gALRg/maxresdefault.jpg" alt="Nie wieder ist jetzt!" width="100%" style="max-width: 100%; height: auto;" /></a>
 
 ---
@@ -1406,6 +1410,10 @@ zusätzlich empfehle ich:
 <a href="https://www.youtube.com/watch?v=l7bWsE_fMxI"><img src="https://img.youtube.com/vi/l7bWsE_fMxI/maxresdefault.jpg" alt="Zur &quot;Brandmauer&quot;" width="100%" style="max-width: 100%; height: auto;" /></a>
 
 <a href="https://www.youtube.com/watch?v=sx-9xB_CS9w&t=1605s&pp=ygUmcGFwZW4gemVudHJ1bXNwYXJ0ZWkgc3RlaWdiw7xnZWxoYWx0ZXI%3D"><img src="https://img.youtube.com/vi/sx-9xB_CS9w/maxresdefault.jpg" alt="Rückblick Geschichte Steigbügelhalter" width="100%" style="max-width: 100%; height: auto;" /></a>
+
+### Weiterer Videobeleg ab 1:48:27
+
+<a href="https://youtu.be/q7etM9t6_4k?t=6507" title="Video ab 1:48:27 auf YouTube ansehen"><img src="https://img.youtube.com/vi/q7etM9t6_4k/maxresdefault.jpg" alt="Weiterer Videobeleg ab Zeitmarke 1:48:27" width="100%" style="max-width: 100%; height: auto;" /></a>
 
 ## 🏛️ Persönliche Widmung & Ursprung dieses Repositories
 
