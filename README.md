@@ -25,6 +25,13 @@ Anfragehäufigkeit oder ein sensibles Thema belegen für sich weder Missbrauch
 noch Spionageabsicht. Kritik, Gegenposition, Originalfrage, Antwort,
 Schutzbelang und Pinpoint werden deshalb getrennt geführt.
 
+## Grundgesetz
+
+- [Grundgesetz für die Bundesrepublik Deutschland – amtliches Original-PDF von BMJ/BfJ](./dokumente/verfassungsgrundlagen/Grundgesetz_aktuelle_Fassung_BMJ_BfJ.pdf)
+- [Grundgesetz – Philip Simon, Transkript/Lesefassung](./dokumente/verfassungsgrundlagen/Grundgesetz_Philip_Simon_Transkript_Lesefassung.md)
+
+Das PDF wurde unverändert von [Gesetze im Internet](https://www.gesetze-im-internet.de/gg/GG.pdf) übernommen. Die Philip-Simon-Datei ist eine getrennt gekennzeichnete Transkript-/Lesefassung und nicht der amtliche Gesetzestext.
+
 ## Aktueller Stand, Zählregeln und Erweiterungsreserve
 
 Dieser Release-Stand führt **317 Gerichtsfälle**, **18 Verbotsgründe**, **3.722 Zitat- und Belegfunde** sowie Quellen zu **allen 16 Bundesländern**. Diese Zahlen sind als Navigations- und Forschungszahlen zu lesen: Sie zeigen, welche Belegblöcke im Repository strukturiert, durchsuchbar und mit lokalen oder externen Quellen verbunden sind. Sie ersetzen nicht die juristische Einzelfallwertung.
@@ -105,7 +112,7 @@ Dieses Repository stellt eine **solid fundierte Arbeitsbasis** dar, die nach bes
    - **Bürgerinnen und Bürger:** Jede Person soll in die Lage versetzt werden, sich selbst ein umfassendes, faktenbasiertes und unzensiertes Bild von der realen Dichte rechtsextremer Bestrebungen und Verurteilungen zu machen.
    - **Anwälte, Gutachter und Richter:** Den prozessualen Akteuren, Gutachtern und juristischen Beraterstäben soll ein **erleichterter Einstieg** in das unübersichtliche Dickicht der Einzelverfahren, Aktenzeichen und behördlichen Berichte ermöglicht werden, um wertvolle Zeit bei der eigentlichen Schriftsatzvorbereitung zu sparen.
 
-<img alt="Zeitdruck beim AfD-Verbotsverfahren: Demokratie verteidigen und jetzt handeln" src="images/verbotsverfahren-2029.png" width="100%" style="max-width: 100%; height: auto;" />
+![Zeitdruck beim AfD-Verbotsverfahren: Demokratie verteidigen und jetzt handeln](https://raw.githubusercontent.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/main/images/verbotsverfahren-2029.png)
 
 ## Zweck & Scope (KI-Quellenbündel)
 
@@ -1354,7 +1361,7 @@ Das Gutachten liefert damit eine fundierte juristische Grundlage, um ein Verbots
 
 Alle Quellenangaben sind in den Dateien enthalten.
 
-<img alt="Nie wieder: Erinnerung daran, wie Ausgrenzung, Hass und der Entzug von Grundrechten beginnen" src="images/nie-wieder-anfang.jpg" width="100%" style="max-width: 100%; height: auto;" />
+![Nie wieder: Erinnerung daran, wie Ausgrenzung, Hass und der Entzug von Grundrechten beginnen](https://raw.githubusercontent.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/main/images/nie-wieder-anfang.jpg)
 
 <a href="https://www.youtube.com/watch?v=Pb21x8gALRg"><img src="https://img.youtube.com/vi/Pb21x8gALRg/maxresdefault.jpg" alt="Nie wieder ist jetzt!" width="100%" style="max-width: 100%; height: auto;" /></a>
 

@@ -90,6 +90,14 @@
             color: #b91c1c;
             background: rgba(217, 119, 6, 0.10);
         }
+        #readmeContent img {
+            display: block;
+            width: 100%;
+            max-width: 100%;
+            height: auto;
+            visibility: visible;
+            opacity: 1;
+        }
     </style>
 </head>
 <body class="bg-slate-50 text-slate-800 font-sans antialiased min-h-screen flex flex-col">
@@ -6324,6 +6332,8 @@ Die Zuordnung der 3.722 Belegzitate zu den 18 wehrhaften Verbotsgründen des Por
         {"name": "Asset: AfD-Verbotsverfahren Titelbild", "path": "./assets/images/afd-verbot.jpg", "type": "JPG", "category": "Assets / Sonstige Bildbelege", "tabGroup": "sonstige", "size": "Bild", "text": "Titelbild des Portals; zusätzlich im Sonstiges-Katalog auffindbar."},
         {"name": "Motiv: Nie wieder – historische Verantwortung", "path": "./images/nie-wieder-anfang.jpg", "type": "JPG", "category": "Assets / Politische Kontextmotive", "tabGroup": "sonstige", "size": "768 × 768", "text": "Historisches Erinnerungsmotiv zu Ausgrenzung, Hass, Grundrechten und gesellschaftlichem Wegsehen; auf README und Portal eingebunden."},
         {"name": "Motiv: Zeitdruck Verbotsverfahren 2029", "path": "./images/verbotsverfahren-2029.png", "type": "PNG", "category": "Assets / Politische Kontextmotive", "tabGroup": "sonstige", "size": "1122 × 1402", "text": "Politisches Motiv zum Zeitbedarf eines AfD-Verbotsverfahrens; auf README und Portal eingebunden. Keine eigene juristische Tatsachenfeststellung des Forschungsregisters."},
+        {"name": "Grundgesetz – amtliches Original-PDF BMJ/BfJ", "path": "./dokumente/verfassungsgrundlagen/Grundgesetz_aktuelle_Fassung_BMJ_BfJ.pdf", "type": "PDF", "category": "Verfassungsrechtliche Grundlagen", "tabGroup": "quellen", "size": "51 Seiten", "text": "Unverändert übernommene aktuelle PDF-Gesamtausgabe des Grundgesetzes aus dem amtlichen Dienst Gesetze im Internet von BMJ und BfJ."},
+        {"name": "Grundgesetz – Philip Simon, Transkript/Lesefassung", "path": "./dokumente/verfassungsgrundlagen/Grundgesetz_Philip_Simon_Transkript_Lesefassung.md", "type": "MD", "category": "Verfassungsrechtliche Grundlagen / Lesefassungen", "tabGroup": "quellen", "size": "Transkript", "text": "Gesondert gekennzeichnete Philip-Simon-Transkript-/Lesefassung; kein amtlicher Gesetzestext."},
         {"name": "Asset: Christian-Lüth Video-Poster", "path": "./assets/images/christian-lueth.jpg", "type": "JPG", "category": "Assets / Sonstige Bildbelege", "tabGroup": "sonstige", "size": "Bild", "text": "Posterbild des lokalen Christian-Lüth-Videos."},
         {"name": "Lokales Video: Christian Lüth", "path": "./assets/videos/christian-lueth.mp4", "type": "MP4", "category": "Assets / Sonstige Videobelege", "tabGroup": "sonstige", "size": "Video", "text": "Lokaler MP4-Beleg; im Videoabschnitt eingebettet und im Sonstiges-Katalog auffindbar."},
         {"name": "Lokales Video: AfD Höcke – Parteien und Demokratie", "path": "./assets/videos/AfD-Hocke-zu-Parteien-und-Demokratie.mp4", "type": "MP4", "category": "Assets / Sonstige Videobelege", "tabGroup": "sonstige", "size": "Video", "text": "Lokaler MP4-Beleg; im Videoabschnitt eingebettet und im Sonstiges-Katalog auffindbar."},
@@ -8128,6 +8138,14 @@ Die Zuordnung der 3.722 Belegzitate zu den 18 wehrhaften Verbotsgründen des Por
                     if (!response.ok) throw new Error("Konnte README.md nicht laden");
                     const markdown = await response.text();
                     let html = marked.parse(markdown);
+
+                    // Keep the two README context images reliable in every Pages URL/hash context.
+                    // GitHub's README uses absolute raw URLs; inside Pages we serve the local copies.
+                    const pagesRoot = new URL('./', window.location.href).href;
+                    html = html.replace(
+                        /https:\/\/raw\.githubusercontent\.com\/ERROR-WATCH\/AfD-Verbotsverfahren-Grundlagenforschung\/main\/images\/(nie-wieder-anfang\.jpg|verbotsverfahren-2029\.png)/g,
+                        `${pagesRoot}images/$1`
+                    );
 
                     // Render the local evidence block deterministically as actual players.
                     // This avoids regressions where Markdown/HTML handling shows only headings or links.

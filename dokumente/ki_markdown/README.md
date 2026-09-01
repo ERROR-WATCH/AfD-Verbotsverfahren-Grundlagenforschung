@@ -65,6 +65,15 @@ Dieses Repository stellt eine **solid fundierte Arbeitsbasis** dar, die nach bes
    - **Bürgerinnen und Bürger:** Jede Person soll in die Lage versetzt werden, sich selbst ein umfassendes, faktenbasiertes und unzensiertes Bild von der realen Dichte rechtsextremer Bestrebungen und Verurteilungen zu machen.
    - **Anwälte, Gutachter und Richter:** Den prozessualen Akteuren, Gutachtern und juristischen Beraterstäben soll ein **erleichterter Einstieg** in das unübersichtliche Dickicht der Einzelverfahren, Aktenzeichen und behördlichen Berichte ermöglicht werden, um wertvolle Zeit bei der eigentlichen Schriftsatzvorbereitung zu sparen.
 
+![Zeitdruck beim AfD-Verbotsverfahren: Demokratie verteidigen und jetzt handeln](https://raw.githubusercontent.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/main/images/verbotsverfahren-2029.png)
+
+## Grundgesetz
+
+- [Grundgesetz für die Bundesrepublik Deutschland – amtliches Original-PDF von BMJ/BfJ](../verfassungsgrundlagen/Grundgesetz_aktuelle_Fassung_BMJ_BfJ.pdf)
+- [Grundgesetz – Philip Simon, Transkript/Lesefassung](../verfassungsgrundlagen/Grundgesetz_Philip_Simon_Transkript_Lesefassung.md)
+
+Das PDF wurde unverändert von [Gesetze im Internet](https://www.gesetze-im-internet.de/gg/GG.pdf) übernommen. Die Philip-Simon-Datei ist eine getrennt gekennzeichnete Transkript-/Lesefassung und nicht der amtliche Gesetzestext.
+
 ## Zweck & Scope (KI-Quellenbündel)
 
 Dieses Repository ist **eine Bündelung öffentlich zugänglicher Quellen** als **Basiskorpus für KI-gestützte Analyse** (Suche, Retrieval, Clustering).  
@@ -1194,6 +1203,8 @@ Das Gutachten liefert damit eine fundierte juristische Grundlage, um ein Verbots
 <br>---
 
 Alle Quellenangaben sind in den Dateien enthalten.
+
+![Nie wieder: Erinnerung daran, wie Ausgrenzung, Hass und der Entzug von Grundrechten beginnen](https://raw.githubusercontent.com/ERROR-WATCH/AfD-Verbotsverfahren-Grundlagenforschung/main/images/nie-wieder-anfang.jpg)
 
 <a href="https://www.youtube.com/watch?v=Pb21x8gALRg"><img src="https://img.youtube.com/vi/Pb21x8gALRg/maxresdefault.jpg" alt="Nie wieder ist jetzt!" width="100%" style="max-width: 100%; height: auto;" /></a>
 
