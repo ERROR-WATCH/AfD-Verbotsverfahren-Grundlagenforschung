@@ -1411,10 +1411,6 @@ zusätzlich empfehle ich:
 
 <a href="https://www.youtube.com/watch?v=sx-9xB_CS9w&t=1605s&pp=ygUmcGFwZW4gemVudHJ1bXNwYXJ0ZWkgc3RlaWdiw7xnZWxoYWx0ZXI%3D"><img src="https://img.youtube.com/vi/sx-9xB_CS9w/maxresdefault.jpg" alt="Rückblick Geschichte Steigbügelhalter" width="100%" style="max-width: 100%; height: auto;" /></a>
 
-### Weiterer Videobeleg ab 1:48:27
-
-<a href="https://youtu.be/q7etM9t6_4k?t=6507" title="Video ab 1:48:27 auf YouTube ansehen"><img src="https://img.youtube.com/vi/q7etM9t6_4k/maxresdefault.jpg" alt="Weiterer Videobeleg ab Zeitmarke 1:48:27" width="100%" style="max-width: 100%; height: auto;" /></a>
-
 ## 🏛️ Persönliche Widmung & Ursprung dieses Repositories
 
 Dieses Projekt ist nicht nur eine juristische und dokumentarische Aufarbeitung – es ist das Ergebnis eines tiefen, lebenslangen Versprechens.
