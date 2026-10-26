@@ -1,3 +1,0 @@
-# AfD‑Jugend.pdf
-
-
