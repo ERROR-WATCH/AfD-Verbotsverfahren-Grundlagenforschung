@@ -2,7 +2,7 @@
 
 ## 26.10.2026 – AfD-E-Mail-Leak („goebbelmail") als Schaukasten und README-Abschnitt
 
-- Pages: Neuer Abschnitt „AfD-E-Mail-Leak („goebbelmail") – Oktober 2026" am Seitenanfang mit Chronologie, Täterschaft/„Hexane" (Zuschreibung „ukrainische Hacker" als unbelegt markiert), Echtheitslage (AfD-Bestätigung, journalistische Gegenprüfung), belegten Funden (Parteispenden-Widerspruch nach tagesschau/NDR/WDR; rechtes Gedankengut/Duldungsmuster nach taz), Verwertbarkeitsdebatte (LTO: Möllers/Jahn/Dietrich; Steuer-CD-Argumentation) und Juns Gamechanger-Einschätzung inkl. Video-Einbettung.
+- Pages: Neuer Abschnitt „AfD-E-Mail-Leak („goebbelmail") – Oktober 2026" am Seitenanfang mit Chronologie, Täterschaft (Gruppe „Hexane"; einer der beiden Hacker meldet sich als „Ver" im Zeit-Interview – nach Eigenaussage in der Ukraine geboren/aufgewachsen, heute in den USA lebend), Echtheitslage (AfD-Bestätigung, journalistische Gegenprüfung), belegten Funden (Parteispenden-Widerspruch nach tagesschau/NDR/WDR; rechtes Gedankengut/Duldungsmuster nach taz), Verwertbarkeitsdebatte (LTO: Möllers/Jahn/Dietrich; Steuer-CD-Argumentation) und Juns Gamechanger-Einschätzung inkl. Video-Einbettung.
 - README: Abschnitt „AfD-E-Mail-Leak („goebbelmail") – Oktober 2026: Quellenlage und rechtliche Einordnung" mit Quellenliste ergänzt.
 - Datumsstand des Abschnitts: 26.10.2026; alle Aussagen mit Quellenlinks belegt.
 

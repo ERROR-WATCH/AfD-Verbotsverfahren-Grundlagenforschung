@@ -1623,9 +1623,9 @@ Redaktioneller Stand dieses Abschnitts: **26.10.2026**. Dieser Abschnitt dokumen
 
 ### Wer steckt dahinter
 
-- Die Täter sind nicht öffentlich identifiziert. Die Gruppe nennt sich nach taz-Recherche „Hexane" (zwei Personen); sie erklärte gegenüber der Zeit, nicht staatlich finanziert zu sein, keiner Gruppe oder Partei anzugehören, kein Geld zu erhalten und aus Gerechtigkeitsemotiven zu handeln. ([taz-FAQ](https://taz.de/Fragen-und-Antworten-zum-AfD-Leak/!6223805/); [Zeit-Interview](https://www.zeit.de/digital/internet/2026-10/hackerangriff-afd-e-mail-konten-datenleak-hexane/komplettansicht))
+- Die Hacker treten anonym auf: Die Gruppe nennt sich nach taz-Recherche „Hexane" (zwei Personen); sie erklärte, nicht staatlich finanziert zu sein, keiner Gruppe oder Partei anzugehören, kein Geld zu erhalten und aus Gerechtigkeitsemotiven zu handeln. Einer der beiden hat sich unter dem Pseudonym „Ver" im Zeit-Interview zu Wort gemeldet: Nach eigener Angabe ist er in der Ukraine geboren und aufgewachsen und lebt heute in den USA. ([taz-FAQ](https://taz.de/Fragen-und-Antworten-zum-AfD-Leak/!6223805/); [Zeit-Interview](https://www.zeit.de/digital/internet/2026-10/hackerangriff-afd-e-mail-konten-datenleak-hexane/komplettansicht))
 - Nach eigener Aussage gelang der Einstieg über eine einzige ungepatchte AfD-Website; die mangelnde Absicherung wird damit von der Gruppe selbst als Zugangsfaktor benannt ([International Cyber Digest via Cybernews](https://cybernews.com/security/afd-email-datat-leak-germany/)).
-- **Zur Zuschreibung „ukrainische Hacker":** Keine der belastbaren Quellen (tagesschau, DW, ZDF, taz, Reuters, Euronews) nennt eine Nationalität; Euronews und DW berichten ausdrücklich, die Verantwortlichen seien unbekannt. Die Ukraine-Zuschreibung kursiert nur in Social-Media-Kommentaren und ist nicht belegt; dieses Repository übernimmt sie nicht.
+- **Herkunft:** Dass mindestens einer der beiden Hacker aus der Ukraine stammt, ist damit belegt – jedoch als Eigenaussage von „Ver" im Zeit-Interview (geboren und aufgewachsen in der Ukraine, heute Wohnsitz in den USA); eine unabhängige Verifizierung seiner Identität liegt nicht vor, über die zweite Person ist nichts bekannt.
 
 ### Echtheit
 
