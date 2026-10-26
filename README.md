@@ -1612,7 +1612,7 @@ Cleaned-Release-Stand: 2026-07-24T19:39:35+02:00
 
 ## AfD-E-Mail-Leak („goebbelmail") – Oktober 2026: Quellenlage und rechtliche Einordnung
 
-Redaktioneller Stand dieses Abschnitts: **26.10.2026**. **Dieser Abschnitt wird aus journalistischen Gründen festgehalten:** Er dokumentiert nachvollziehbar und mit Quellen belegt einen Vorgang von erheblicher öffentlicher Relevanz – den Hackerangriff auf AfD-Postfächer (September 2026), die Veröffentlichung von rund 421.000 E-Mails (20.10.2026), die bislang bestätigten Funde und die juristische Debatte über die Verwertbarkeit in einem möglichen Verbotsverfahren. Die Schaukasten-Version mit Einbettungen ist auf der [Pages-Seite](https://error-watch.github.io/AfD-Verbotsverfahren-Grundlagenforschung/) (Abschnitt „AfD-E-Mail-Leak") zu finden.
+Redaktioneller Stand dieses Abschnitts: **26.10.2026**. **Dieser Abschnitt wird aus journalistischen Gründen festgehalten:** Er dokumentiert nachvollziehbar und mit Quellen belegt einen Vorgang von erheblicher öffentlicher Relevanz – den Hackerangriff auf AfD-Postfächer (September 2026), die Veröffentlichung von rund 421.000 E-Mails (20.10.2026), die bislang bestätigten Funde und die juristische Debatte über die Verwertbarkeit in einem möglichen Verbotsverfahren. Nach Einschätzung dieses Projekts ist die übrige Beleglage des Repositories für ein Verbotsverfahren bereits für sich genommen ausreichend; dieser Leak-Abschnitt wird daher ergänzend und der Vollständigkeit halber festgehalten. Die Schaukasten-Version mit Einbettungen ist auf der [Pages-Seite](https://error-watch.github.io/AfD-Verbotsverfahren-Grundlagenforschung/) (Abschnitt „AfD-E-Mail-Leak") zu finden.
 
 ### Chronologie
 

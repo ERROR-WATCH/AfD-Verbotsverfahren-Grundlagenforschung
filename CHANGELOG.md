@@ -4,7 +4,7 @@
 
 - Pages: Neuer Abschnitt „AfD-E-Mail-Leak („goebbelmail") – Oktober 2026" am Seitenanfang mit Chronologie, Täterschaft (Gruppe „Hexane"; einer der beiden Hacker meldet sich als „Ver" im Zeit-Interview – nach Eigenaussage in der Ukraine geboren/aufgewachsen, heute in den USA lebend), Echtheitslage (AfD-Bestätigung, journalistische Gegenprüfung), belegten Funden (Parteispenden-Widerspruch nach tagesschau/NDR/WDR; rechtes Gedankengut/Duldungsmuster nach taz), Verwertbarkeitsdebatte (LTO: Möllers/Jahn/Dietrich; Steuer-CD-Argumentation) und Juns Gamechanger-Einschätzung inkl. Video-Einbettung.
 - README: Abschnitt „AfD-E-Mail-Leak („goebbelmail") – Oktober 2026: Quellenlage und rechtliche Einordnung" mit Quellenliste ergänzt.
-- Datumsstand des Abschnitts: 26.10.2026; alle Aussagen mit Quellenlinks belegt. Die Dokumentation wird aus journalistischen Gründen festgehalten (transparente Quellen-Dokumentation eines Vorgangs von erheblicher öffentlicher Relevanz).
+- Datumsstand des Abschnitts: 26.10.2026; alle Aussagen mit Quellenlinks belegt. Die Dokumentation wird aus journalistischen Gründen festgehalten (transparente Quellen-Dokumentation eines Vorgangs von erheblicher öffentlicher Relevanz); nach Einschätzung des Projekts ist die übrige Beleglage des Repositories für ein Verbotsverfahren bereits für sich genommen ausreichend, der Leak-Abschnitt ergänzt diese nur der Vollständigkeit halber.
 
 ## 30.07.2026 – Quellen-, Chronologie- und Pages-Härtung
 
