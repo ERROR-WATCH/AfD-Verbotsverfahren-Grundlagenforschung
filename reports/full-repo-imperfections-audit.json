@@ -1,0 +1,71 @@
+{
+  "generated_at": "2026-07-09T18:19:21.606Z",
+  "file_count": 10467,
+  "html_files": [
+    "dashboard/statistik.html",
+    "dokumente/hauptquellen/WELT_Hoecke_Einfluss_Bundes_AfD_Parteitag_Erfurt_2026.html",
+    "dokumente/hauptquellen/WELT_Hoecke_Siegmund_Parteitag_Erfurt_2026.html",
+    "dokumente/hauptquellen/tagesschau_BGH_Urteile_Hoecke_NS_Parole_rechtskraeftig_2025.html",
+    "dokumente/hauptquellen/urteilsbelege/index.html",
+    "dokumente/index.html",
+    "dokumente/splits/index.html",
+    "index.html",
+    "sources/web/bundestag/bundestag_2023-09-07_bystron_immunitaet.html",
+    "sources/web/gba/gba_2022-12-07_reuss_festnahmen.html",
+    "sources/web/gba/gba_2023-12-12_reuss_frankfurt_anklage.html",
+    "sources/web/gba/gba_2024-04-23_jian_g_festnahme.html",
+    "sources/web/gba/gba_2024-05-07_jian_g_krah_durchsuchung.html",
+    "sources/web/gba/gba_2024-11-05_saechsische_separatisten_festnahmen.html",
+    "sources/web/gba/gba_2025-04-29_jian_g_anklage.html",
+    "sources/web/gba/gba_2025-09-10_saechsische_separatisten_anklage.html",
+    "sources/web/hessen-olg/olg_frankfurt_2024-04-02_reuss_hauptverfahren.html"
+  ],
+  "broken_or_404_source_files_count": 20,
+  "broken_or_404_source_files": [
+    "daten/antrag_quellenhierarchie_2026.jsonl",
+    "daten/repo_file_index_2026.jsonl",
+    "daten/repository_pages_index_2026.json",
+    "daten/source_inventory.jsonl",
+    "dokumente/hauptquellen/VOLLSTAENDIGER_REPOSITORY_PAGES_INDEX_2026_07_09.md",
+    "dokumente/ki_markdown/INDEX.md",
+    "dokumente/ki_markdown/dokumente/hauptquellen/bundesverfassungsgericht.de_SharedDocs_Entscheidungen_DE_1956_08_bvs19560817_1bvb000251_html.md",
+    "dokumente/ki_markdown/dokumente/hauptquellen/bverfg.de_e_rs19520717_1bvr014751_html.md",
+    "dokumente/ki_markdown/dokumente/hauptquellen/bverfg.de_e_rs19560717_1bvr061054_html.md",
+    "dokumente/ki_markdown/dokumente/hauptquellen/bverfg.de_e_rs20170215_2bvr107715_html_Connection_reset_by_peer_BROKEN_.md",
+    "dokumente/ki_markdown/dokumente/hauptquellen/fragdenstaat.de_a_afd-verbotsverfahren.md",
+    "dokumente/ki_markdown/dokumente/hauptquellen/swr.de_swraktuell_baden-wuerttemberg_stuttgart_prozess-gegen-heinrich-fiechtner-stuttgart-100_html.md",
+    "dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/10_Beatrix_von_Storch_Volksverhetzung_Ermittlung.md",
+    "dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/15_Andre_Poggenburg_Kuemmelhaendler_AG_Halle.md",
+    "dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/36_Ziegler_Betrug_AG_Dessau.md",
+    "dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/48_Steinbeck_Waffen_LG_Schwerin.md",
+    "dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/65_Maximilian_T_Terrorverdacht_Franco_A.md",
+    "dokumente/ki_markdown/dokumente/hauptquellen/urteilsbelege/73_Rene_P_Kinderpornografie_Ermittlung.md",
+    "dokumente/ki_markdown/dokumente/hauptquellen/welt.de_politik_deutschland_article164582194_GBA-haftbefehl-gegen-Maximilian-T-wegen-terrorverdacht-franco-a.md",
+    "index.html"
+  ],
+  "core_bad_status_hits_count": 0,
+  "core_bad_status_hits": [],
+  "quote_actor_registry": {
+    "total": 3611,
+    "missing_date": 3611,
+    "missing_target_group": 3611,
+    "missing_quote_context": 3611,
+    "placeholder_actor": 192,
+    "missing_person_id": 192,
+    "direct": 899
+  },
+  "validation_report": "# Validation Report\n\nGenerated: 2026-07-09T18:16:26.339Z\n\nFatal: 0\nWarnings: 0\n\n## Fatal\n\n## Warnings\n\n",
+  "pages_link_validation": {
+    "checked_at": "2026-07-09T18:16:27.400Z",
+    "markdown_files": [
+      "README.md",
+      "dokumente/hauptquellen/VOLLSTAENDIGER_REPOSITORY_PAGES_INDEX_2026_07_09.md"
+    ],
+    "html_files": [
+      "index.html",
+      "dashboard/statistik.html"
+    ],
+    "missing_links": 0,
+    "missing": []
+  }
+}

@@ -1,0 +1,9 @@
+BfV-AfD-Folgegutachten 2021 (Netzpolitik-Transkription)
+
+## A. Einführung
+
+Das Bundesamt für Verfassungsschutz stufte im Januar 2019 die Partei Alternative für Deutschland (AfD) als Prüffall im Phänomenbereich Rechtsextremismus ein. Gleichzeitig wurden die Jugendorganisation der AfD, die Junge Alternative (JA) für Deutschland und der Personenzusammenschluss innerhalb der Partei „Der Flügel“ zu Verdachtsfällen erhoben. Letztgenannter wurde im März 2020 als erwiesen rechtsextremistische Bestrebung eingestuft.
+
+Im Rahmen der Prüffalleinstufung wurden hinsichtlich der Programmatik und Aussagen der AfD erste tatsächliche Anhaltspunkte festgestellt, die für eine extremistische Bestrebung sprechen. Im Zuge der Prüffallbearbeitung wurde diesen ersten verdächtigen Informationssplittern weiter nachgegangen.
+
+Das vorlegende Gutachten untersucht nun die im Rahmen der Prüffallbearbeitung seit Januar 2019 neu angefallenen Erkenntnisse zur AfD und bewertet diese im Hinblick auf deren weitere Bearbeitung. Dabei ist zu prüfen, ob für die AfD fortgesetzt tatsächliche Anhaltspunkte für eine gegen die freiheitliche demokratische Grundordnung gerichtete Bestrebung vorliegen. Sollte dies der Fall sein, ist weiterhin zu prüfen, wie diese Anhaltspunkte in aller Gesamtschau zu bewerten sind. Würden sich die gefundenen Anhaltspunkte nur als vereinzelt und nicht hinreichend gewichtig darstellen, so wäre die Prüffallphase durch Einstellung zu beenden. Sollten die Anhaltspunkte dagegen hinreichend gewichtig sein und eine Beobachtung nach § Abs. 1 Nr. 1 Fall 1, § 4 Abs. 1 Satz lit. c, § 4 Abs. 1 Satz 3 BVerfSchG einfordern, wäre eine Höherstufung zum Verdachtsfall notwendig. Möglich wäre außerdem, dass sich die Anhaltspunkte im Lauf der vergangenen zwei Jahre bereits zur Gewissheit verdichtet haben. In diesem Fall wäre eine direkte Einstufung als erwiesen extremistische Bestrebung erforderlich.

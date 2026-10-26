@@ -1,0 +1,28 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "required": [
+    "id",
+    "title",
+    "value",
+    "method"
+  ],
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "value": {},
+    "method": {
+      "type": "string"
+    },
+    "source_path": {
+      "type": [
+        "string",
+        "null"
+      ]
+    }
+  }
+}

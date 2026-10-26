@@ -1,0 +1,6 @@
+{"definition":"Gerichtlicher/amtlicher Volltext oder Parteiprimaerquelle mit Pinpoint.","grade":"A"}
+{"definition":"Amtliche PM, institutionelles Gutachten, lokaler Volltextbeleg oder Register mit belastbarer Provenienz.","grade":"B"}
+{"definition":"Presse-/Recherchebeleg mit Tatsachenkern, Dokumentenbezug oder laufendem Verfahren.","grade":"C"}
+{"definition":"Sekundaerquelle ohne offenliegenden Primaeranker, aber mit nachvollziehbarer Tatsachenbehauptung.","grade":"D"}
+{"definition":"Beleg vorhanden, aber Pinpoint/Zurechnung/Originalkontext dossierfähig verdrahtet.","grade":"E"}
+{"definition":"Tatsaechlich offen nach dokumentierter Suche oder nur nicht verwertbarer Kontext.","grade":"F"}

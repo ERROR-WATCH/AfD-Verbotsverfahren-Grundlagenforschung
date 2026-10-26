@@ -1,0 +1,17554 @@
+# LfV_Bayern_Verfassungsschutzbericht_2024.pdf
+
+Bayerisches Staatsministerium des
+  Innern, für Sport und Integration
+
+
+
+Verfassungsschutzbericht
+
+
+
+
+2024
+Die Würde des Menschen
+ist unantastbar. Sie zu
+achten und zu schützen
+ist Verpflichtung aller
+staatlichen Gewalt.
+Art. 1 Abs. 1 Grundgesetz
+Verfassungsschutzbericht
+Bayern 2024
+4
+Liebe Mitbürgerinnen und Mitbürger,
+
+im vergangenen Jahr wurde unsere freiheitliche und demokratische, auf friedvollen
+Konsens ausgerichtete Gesellschaft erneut durch eine Serie von tödlichen Anschlä­
+gen und Anschlagsversuchen erschüttert. In Mannheim, Solingen und Magdeburg
+wurden Menschen von unterschiedlicher Herkunft, Alter und Geschlecht Opfer von
+Hass verblendeter, extremistischer oder psychisch auffälliger Täter. In München fand
+im September ein Anschlag auf das israelische Generalkonsulat statt. Das schnelle
+polizeiliche Eingreifen verhinderte, dass der Täter Menschen verletzen oder gar t­öten
+konnte. Eine erschütternde Gewalttat ereignete sich Ende Januar dieses Jahres in
+Aschaffenburg, als ein Kleinkind und ein mutiger Mann, der sich dem Täter entgegen­
+stellte, grausam getötet wurden. Nur wenige Wochen später verübte ein islamistisch
+motivierter Täter mitten in München einen ­Anschlag auf friedliche Demonstranten, ein
+Kleinstkind und seine Mutter starben.
+
+Aus Sicht der Sicherheitsbehörden fällt zwar nur ein Teil der Angriffe in die Kategorie
+der terroristischen Taten im Sinn der gängigen Definition als Taten, die auf die gewalt­
+same Durchsetzung eines bestimmten Ziels gerichtet sind, wie die Morde in Mann­
+heim und Solingen und der Anschlag in München. Jenseits dieser sicherheitsbehörd­
+lichen Definition empfindet die Bevölkerung aber auch jene Angriffe als Terror, die
+– wie in Magdeburg oder Aschaffenburg – von irrational handelnden Tätern ausgehen
+und in Alltagssituationen über friedliche Menschen hereinbrechen.
+
+Unabhängig von der jeweiligen Zuordnung der Einzeltaten sind die Folgewirkungen
+dieselben: Das Vertrauen in die Sicherheits- und Schutzgarantie des Staates steht auf
+dem Prüfstand, Angst, Unsicherheit und Misstrauen greifen um sich. Verstärkt wird
+dieser Effekt u. a. durch eine erschreckende Anzahl anti­semitischer Übergriffe, eine
+gleichfalls zu beobachtende Steigerung bei den Gewalt- und Sexualdelikten oder
+öffentlichen Forderungen nach der Einführung eines Kalifats in Deutschland. Diese
+­Gemengelage fällt zudem in eine Zeit, in der sich Deutschland – neben einer anhalten­
+ den wirtschaftlichen Schwäche – auch zunehmenden Bedrohungen seiner äußeren
+ Sicher­heit sowie damit einhergehenden hybriden Bedrohungen für die Innere Sicherheit
+ ausgesetzt sieht, hier vor allem im Zusammenhang mit der russischen Aggression.
+
+
+
+
+                                                                                      5
+Die drohende Erosion des Grundvertrauens in den Staat ist der ideale Nährboden,
+auf dem die antidemokratische, gesellschaftsspaltende Agitation von Extremisten
+aller Art gedeiht. Die durch alle diese Entwicklungen ausgelöste, verständliche Verun­
+sicherung sollte dennoch nicht den Blick dafür verstellen, dass das Risiko für die Bür­
+gerinnen und Bürger in Bayern, selbst Opfer einer Straf- oder gar Gewalttat zu wer­
+den, nach wie vor gering ist. Es ist auch im deutschlandweiten Vergleich geringer als
+in den meisten anderen Ländern, bei gleichzeitig der höchsten Aufklärungsquote. Das
+verdanken wir der hervor­ragenden Arbeit unserer bayerischen Sicherheitsbehörden
+und einer konsequenten Politik, die ihnen den Rücken stärkt und für ihre bestmögliche
+Ausstattung mit Personal und Technik sorgt.
+
+Das Bayerische Landesamt für Verfassungsschutz ist wachsam. Es hat die Aktivi­
+täten der Extremisten im Blick und schafft mit seinen Berichten und Informationen
+Klarheit darüber, wer die Grenzen zwischen demokratischer Auseinandersetzung und
+demokratiefeindlicher Hetze überschreitet und die staatliche Ordnung – sei es offen
+oder verdeckt – bekämpft. Aber die Aufgabe, den Einfluss von Extremisten zurück­
+zudrängen, kann nicht ausschließlich auf die Verfassungsschutzbehörden delegiert
+werden.
+
+Es ist vielmehr Aufgabe aller demokratischen Akteure, den Menschen den Wert der
+Demokratie für ihr eigenes Leben und die Gesellschaft immer wieder zu verdeut­
+lichen – auch im pointierten, aber sachlichen Wettstreit der Meinungen um die beste
+Lösung für anstehende Probleme. Hier ist neben der Zivilgesellschaft vor allem die
+Politik ­gefordert: Sie darf über Fehlentwicklungen, die den Bürgerinnen und Bürgern
+zu Recht Sorge bereiten, nicht einfach hinwegreden. Sie muss sich solchen Problemen
+stellen und diese auf dem Boden des Rechtsstaats bestmöglich zu lösen versuchen.
+Gelingt dies zur Überzeugung weiter Teile der Bevölkerung, wird extremistischer Propa­
+ganda der Boden entzogen.
+
+
+
+
+Joachim Herrmann                               Sandro Kirchner
+Staatsminister                                 Staatssekretär
+
+
+
+
+6
+Liebe Bürgerinnen und Bürger,
+
+auch das Jahr 2024 war – wie die Jahre zuvor – von internationalen und grenzüber­
+schreitenden Krisen geprägt, die weitreichende Auswirkungen auch auf das Leben
+in Deutschland und Bayern haben sollten. Während zwar die Inflation absank, hielten
+sowohl der andauernde russische Angriffskrieg auf die Ukraine als auch der seit dem
+Terrorangriff der HAMAS auf israelisches Staatsgebiet neu eskalierte Nahostkonflikt
+die Welt weiter in Atem.
+
+Extremistische Akteure aller Phänomenbereiche nehmen diese besorgniserregende
+Gemengelage und die daraus resultierende Verunsicherung der Bevölkerung zum
+Anlass, proaktiv für die eigene extremistische Ideologie zu werben und dabei auch
+immer mehr den Schritt in die Öffentlichkeit zu wagen. Extremisten aller Ausrich­
+tungen versuchen, direkt an die Ängste der Bürgerinnen und Bürger anzudocken:
+Sie greifen dabei häufig auf Verschwörungserzählungen und Falschinformationen
+­zurück und bieten vermeintlich einfache Lösungsstrategien an. Mit dieser versuchten
+ Anschlussfähigkeit sollen nicht nur die eigene Anhängerschaft ideologisch gefestigt,
+ sondern auch im bürgerlichen Milieu neue Anhängerinnen und Anhänger gefunden
+ und extremistisch ideologisiert werden.
+
+Erschreckend ist, dass im Fokus dieser Radikalisierungsbestrebungen zunehmend
+eine immer jünger werdende Zielgruppe steht. Kinder und Jugendliche werden gezielt
+mit Angeboten und über Aktionsfelder angesprochen, die sich an der Lebenswelt
+der Heranwachsenden orientieren und eine identitätsstiftende Wirkung entfalten. Im
+Bereich des Rechtsextremismus erleben beispielsweise spezifische Jugendgruppen
+ein Revival: In sog. „Active Clubs“ oder anderen ähnlich klingenden Jugendgruppen
+werden Freizeit- und Sportaktivtäten, wie Kampftrainings oder Wanderungen, ange­
+boten. Damit soll ein Gemeinschafts- und Zugehörigkeitsgefühl geschaffen und gestärkt
+werden, um die jungen Menschen schleichend zu ideologisieren und in die rechtsex­
+tremistische Szene einzubinden. Im Islamismus werden immer mehr jugendaffine
+Online-Plattformen genutzt, die es Extremisten erlauben, mit wenig Aufwand eine
+hohe Reichweite zu erzielen und auch junge Menschen zu erreichen, die bisher nicht
+im Zielspektrum islamistischer Propaganda standen. Selbst im Linksextremismus,
+wo meist im Verborgenen agiert wird, ist eine Art Jugendarbeit in der Form festzu­
+stellen, dass immer mehr Antifa-Gruppierungen auch auf sozialen Netzwerken präsent
+und aktiv sind.
+
+
+                                                                                   7
+Die verstärkte Ideologisierung junger Menschen – egal ob realweltlich oder im virtuel­
+len Raum – führt häufig auch zu einer zunehmenden Gewaltaffinität. Im Ergebnis ist
+leider festzustellen, dass phänomenbereichsübergreifend auch potentielle Attentäter
+immer jünger werden und beispielsweise bereits im frühen Teenageralter Tötungs­
+fantasien kommunizieren. Konkrete Beispiele für diese Entwicklung finden Sie im
+­Kapitel „Radikalisierung von Minderjährigen und Jugendlichen“ im vorliegenden Bericht.
+
+Ebenso besorgniserregend sind die stetig zunehmenden sicherheitsgefährdenden
+Aktivitäten ausländischer Akteure, vorrangig der Russischen Föderation. Neben
+­
+­gezielten Spionage-, Sabotage- und auch Cyberattacken sind in diesem Bereich i­mmer
+ öfter – vor allem vor dem Hintergrund der diesjährigen Bundestagswahl – auch groß
+ angelegte Desinformationskampagnen festzustellen, mittels derer Zweifel am Funk­
+ tionieren der deutschen Demokratie und Rechtstaatlichkeit gesät werden sollen. Vor
+ allem Extremisten im Inland zeigen sich offen für derartige Desinformation, teilen die
+ Kampagneninhalte weiter und leisten so ihren Beitrag zum dahinterstehenden Ziel der
+ Destabilisierung und Schwächung Deutschlands.
+
+Die Entwicklungen zeigen, dass die Arbeit und Wachsamkeit des Bayerischen Landes­
+amtes für Verfassungsschutz auch nach 75-jährigem Bestehen – gegründet wurde
+es im Jahr 1950 mit weniger als 30 Mitarbeitern und Mitarbeiterinnen – weiterhin
+unerlässlich für die Sicherung unserer Demokratie ist. Antidemokratisches und
+extremis­tisches Gedankengut vergeht nicht. Mehr noch: In Zeiten zunehmender Ver­
+netzung im digitalen Raum bei stetig zunehmender Masse an Desinformation und
+Verschwörungs­  theorien drohen immer mehr Menschen, Extremisten und deren
+Ideologien auf den Leim zu gehen. In seiner Funktion als Frühwarnsystem begegnet
+der Verfassungsschutz genau diesen Entwicklungen und steht damit auch künftig für
+den Schutz der freiheitlichen demokratischen Grundordnung ein.
+
+München, im April 2025
+
+
+
+
+Manfred Hauser
+Präsident des Bayerischen Landesamts
+für Verfassungsschutz
+
+
+
+
+8
+9
+Verfassungsschutzbericht Bayern 2024
+
+
+
+
+Inhalt
+Informationen zum Verfassungsschutz                                18
+1.      Der Verfassungsschutz als Frühwarnsystem                   18
+2.      Gesetzlicher Auftrag                                       18
+3.      Informationsbeschaffung                                    23
+4.      Kontrolle des Verfassungsschutzes                          24
+5.      Zusammenarbeit mit der Polizei                             25
+6.      Information und Prävention                                 26
+6.1     Phänomenübergreifende Information und Prävention           26
+6.2     Phänomenspezifische Prävention                             30
+6.2.1   Prävention gegen Islamismus                                30
+6.2.2   Prävention gegen Rechtsextremismus                         32
+6.2.3   Prävention gegen Reichsbürger und Selbstverwalter          34
+6.2.4   Prävention gegen Linksextremismus                          35
+6.2.5   Prävention gegen die Scientology-Organisation              36
+6.2.6   Wirtschaftsschutz und Cyber-Allianz-Zentrum                37
+
+
+
+
+Radikalisierung von Minderjährigen
+und Jugendlichen                                                   38
+1.      Minderjährige als vulnerable ­Zielgruppe von Extremisten   39
+2.      Rolle der Sozialen Medien                                  42
+3.      Aktuelle Entwicklungen in ausgewählten Phänomenbereichen   43
+3.1     Islamismus                                                 43
+3.2     Rechtsextremismus                                          46
+3.3     Linksextremismus                                           49
+
+
+
+
+10
+                                                  Verfassungsschutzbericht Bayern 2024
+
+
+
+
+Islamismus                                                                       52
+1.      Personenpotenzial in Bayern                                               54
+2.      Allgemeines                                                               55
+2.1     Extremistische Straf- und Gewalttaten                                     55
+2.2     Strömungen im Islamismus                                                  56
+2.3     Antisemitismus im Islamismus                                              58
+3.    Strukturen                                                                  62
+3.1   Legalistischer Islamismus                                                   62
+3.1.1 Die Muslimbruderschaft (MB) und ihr Einfluss in Deutschland                 64
+3.1.2 Milli Görüs-Bewegung                                                        68
+3.1.3 Furkan Bewegung                                                             71
+3.1.4 Hizb ut-Tahrir (HuT)                                                        73
+3.1.5 Tablighi Jama’at (TJ)                                                       76
+3.1.6 Schiitischer Islamismus                                                     77
+3.2   Salafismus                                                                  79
+3.2.1 Ideologie                                                                   79
+3.2.2 Personenpotenzial                                                           82
+3.2.3 Reisebewegungen sowie Rückkehrerinnen und Rückkehrer                        84
+3.2.4 Missionierung, Rekrutierung und Propaganda                                  86
+3.2.5 Salafistische Personen im Justizvollzug                                     97
+3.2.6 Exekutivmaßnahmen                                                           98
+3.2.7 Islamischer Staat, al-Qaida und andere j­ihadistisch-
+      salafistische Strukturen                                                   100
+3.3   Sonstiger islamistischer Terrorismus                                       102
+3.3.1 HAMAS (Islamische Widerstandsbewegung)                                     102
+3.3.2 Hizb Allah (Partei Gottes)                                                 104
+3.4   Anschlagsgeschehen und Täterprofile                                        105
+3.4.1 Anschlagsgeschehen                                                         105
+3.4.2 Täterprofile                                                               109
+4.      Sonstige verbotene Organisationen                                        110
+
+
+
+
+                                                                                   11
+Verfassungsschutzbericht Bayern 2024
+
+
+
+Auslandsbezogener Extremismus                                            112
+1.      Personenpotenzial in Bayern                                      113
+2.      Allgemeines                                                      113
+2.1     Strömungen des auslandsbezogenen ­Extremismus                    114
+2.2     Straftaten- und Gewaltpotenzial                                  117
+2.3     Antisemitismus im auslandsbezogenen Extremismus                  120
+2.3.1   Antisemitismus und Antizionismus der PKK-Szene                   121
+2.3.2   Antisemitismus im türkischen Rechtsextremismus                   122
+2.3.3   Antisemitismus im türkischen Linksextremismus                    123
+3.      Strukturen                                                       123
+3.1     Arbeiterpartei Kurdistans (PKK)                                  123
+3.2     Türkischer Rechtsextremismus                                     129
+3.2.1   Organisierte Ülkücü-Szene                                        130
+3.2.2   Freie türkisch-rechtsextremistische Szene                        131
+3.3     Türkischer Linksextremismus                                      132
+3.3.1   DHKP-C (Revolutionäre Volksbefreiungspartei-Front)               132
+3.3.2   Türkische Kommunistische Partei/Marxisten-­Leninisten (TKP/ML)   134
+3.4     Säkularer pro-palästinensischer Extre­mismus                     137
+
+
+
+
+Rechtsextremismus                                                        142
+1.      Personenpotenzial in Bayern                                      144
+2.      Gewaltpotenzial                                                  146
+3.      Staatliche Maßnahmen                                             148
+3.1     Lagebild „Rechtsextremisten, ­‚Reichsbürger‘ und
+        ‚Selbstverwalter‘, ­Verfassungsschutzrelevante
+        Delegitimierung des Staates in Sicherheitsbehörden“              148
+3.2     Prävention                                                       149
+3.3     Bekämpfung von Hass-Postings                                     149
+3.4     Aktuelle Vereinsverbote                                          150
+4.      Rechtsextremistische Themen­felder und Aktionsformen             151
+4.1     Rechtsextremistische Themenfelder                                151
+4.2     Rechtsextremistische Aktionsformen                               163
+4.2.1   Kampfsportaktivitäten und Waffenaffinität                        163
+4.2.2   Internationale Kontakte bayerischer R
+                                            ­ echtsextrem­isten          165
+5.      Online-Aktivismus                                                167
+5.1     Nutzung unterschiedlicher Plattformen und Formate                167
+5.2     Einsatz von Künstlicher Intelligenz (KI)                         169
+5.3     Vernetzungsaktivitäten und Radikalisierung                       170
+
+
+
+12
+                                              Verfassungsschutzbericht Bayern 2024
+
+
+
+6.     Musik, Medien und Vertriebe                                           172
+6.1    Rechtsextremistische Musik                                            172
+6.2    Rechtsextremistische Medien                                           175
+6.3    Rechtsextremistische Vertriebe                                        176
+7.     Immobiliensuche und -erwerb                                           177
+8.     Rechtsextremistische Parteien und parteinahe Strukturen               179
+8.1    Die Heimat                                                            179
+8.2    Nationaldemokratische Partei Deutschlands (NPD (2023))                182
+8.3    Der Dritte Weg (III. Weg)                                             183
+8.4    Junge Alternative für Deutschland Bayern (JA Bayern)                  188
+9.     Beobachtung der AfD                                                   191
+10.    Parteiunabhängige und unstrukturierte rechtsextremistische
+       Bestrebungen                                                          201
+10.1   Identitäre Bewegung Deutschland (IBD)                                 201
+10.2   Neonazismus und Kameradschaften                                       204
+10.3   Subkulturell geprägte Rechtsextremisten                               206
+
+
+
+
+Reichsbürger und Selbstverwalter                                           212
+1.     Personenpotenzial                                                     213
+2.     Gewaltpotenzial und Straftaten                                        215
+3.     Ideologie                                                             218
+4.     Aktivitäten                                                           220
+4.1    Auftreten gegenüber Justiz und Verwaltung                             221
+4.2    Beantragung von Staatsangehörigkeitsausweisen und
+       Nutzung eigener Dokumente                                             222
+4.3    Seminare, Vorträge und Veranstaltungen                                223
+4.4    Onlineaktivitäten                                                     224
+4.5    Überregionale und internationale Kontakte                             225
+4.6    Aufbau von Parallelstrukturen                                         227
+5.     Reichsbürgergruppierungen in ­Bayern                                  228
+5.1    Königreich Deutschland (KRD)                                          228
+5.2    Vaterländischer Hilfsdienst (VHD)                                     230
+5.3    Indigenes Volk Germaniten (IVG)                                       231
+
+
+
+
+                                                                               13
+Verfassungsschutzbericht Bayern 2024
+
+
+
+Linksextremismus                                                  234
+1.      Personenpotenzial in Bayern                               236
+2.      Militanz- und Gewaltpotenzial                             236
+2.1     Ziele und Entgrenzung Iinksextremistischer Gewalt         240
+2.2     Straf- und Gewalttaten                                    244
+3.      Einflussnahme auf bürgerliche Kampagnen                   245
+4.      Linksextremistische Themenfelder                          249
+4.1     Antikapitalismus                                          249
+4.2     Antifaschismus und Antirassismus                          250
+4.3     Antiimperialismus                                         251
+4.4     Antimilitarismus                                          253
+4.5     Antirepression                                            253
+4.6     Intersektionaler Feminismus                               255
+4.7     Antigentrifizierung                                       256
+4.8     Antiglobalisierung                                        256
+4.9     Klimakrise                                                257
+5.      Internet und Medien                                       257
+6.      Linksextremistische Parteien und Vereinigungen            259
+6.1     Offen extremistische Strukturen in der Partei DIE LINKE   259
+6.2     Deutsche Kommunistische Partei (DKP) und Umfeld           260
+6.2.1   DKP                                                       260
+6.2.2   Sozialistische Deutsche Arbeiterjugend (SDAJ)             261
+6.3     Marxistisch-Leninistische Partei Deutschlands (MLPD)      263
+6.4     Arbeiterbund für den Wiederaufbau der KPD (AB)            264
+6.5     Freie Deutsche Jugend (FDJ)                               265
+6.6     Rote Hilfe e. V. (RH)                                     266
+7.      Autonome, Postautonome und Anarchisten                    268
+7.1     Beschreibung/Hintergrund                                  268
+7.2     Autonome Szene in Bayern                                  271
+7.2.1   Autonome Zentren und Szenetreffs                          272
+7.2.2   Vernetzungsbestrebungen                                   277
+
+
+
+
+14
+                                              Verfassungsschutzbericht Bayern 2024
+
+
+
+Scientology-Organisation (SO)                                              278
+1.    Personenpotenzial                                                      280
+2.    Aktionen und Aktivitäten                                               281
+2.1   Kampagne „Sag NEIN zu Drogen – Sag JA zum Leben“                       281
+2.2   Veranstaltungen der Tarnorganisation „Kommission für
+      Verstöße der Psychiatrie gegen Menschenrechte in
+      Deutschland e. V.“ (KVPM)                                              282
+2.3   Offensive Öffentlichkeitsarbeit der Tarnorganisation
+      „Der Weg zum Glücklichsein“                                            283
+2.4   Aktivitäten der „Ehrenamtlichen Geistlichen“                           286
+2.5   Nutzung eines Nachrichtenportals durch die
+      Scientology-Organisation                                               288
+3.    Organisationsstruktur                                                  289
+3.1   Finanzierung der Scientology-Organisation                              292
+3.2   Unterorganisationen der Scientology-­Organisation                      293
+3.3   Formen der Kontaktaufnahme                                             298
+4.    Aussteigerinnen und Aussteiger                                         299
+
+
+
+
+Spionageabwehr, Wirtschaftsschutz,
+Cyber-­Allianz-Zentrum (CAZ)                                               300
+1.    Hybride Bedrohungen                                                    302
+2.    Spionageaktivitäten und sonstige Aktivitäten ausländischer
+      Nachrichtendienste                                                     303
+2.1   Russische Föderation                                                   305
+2.2   Volksrepublik China                                                    309
+2.3   Sonstige nachrichtendienstliche Aktivitäten                            313
+3.    Wirtschaftsschutz                                                      315
+4.    Cyber-Allianz-Zentrum Bayern (CAZ)                                     318
+5.    Cyberabwehr Bayern (CAB)                                               321
+6.    Proliferation                                                          323
+
+
+
+
+                                                                               15
+Verfassungsschutzbericht Bayern 2024
+
+
+
+Organisierte Kriminalität (OK)                                     326
+1.      OMCGs und rockerähnliche ­Gruppierungen                    328
+1.1     Allgemeines                                                328
+1.2     OMCGs in Bayern                                            330
+1.3     Relevante Sachverhalte Bund/Bayern                         331
+1.4     Phänomenübergreifende Aspekte                              335
+2.      Russisch-Eurasische OK (REOK)                              335
+3.      Italienische OK                                            337
+4.      Nigerianische OK                                           340
+4.1     Allgemeines                                                340
+4.2     Bundesweite Festnahmen und Durch­suchungen bei
+        Angehörigen der nigeria­nischen Bruderschaft „Black Axe“
+        alias „Neo Black Movement of Africa“ (NBM)                 341
+
+
+
+
+Anhang                                                             344
+Personenpotenzial                                                  344
+Stichwortregister                                                  345
+Verzeichnis der genannten Organisationen und Gruppierungen         350
+Bildnachweis                                                       358
+Impressum                                                          363
+
+
+
+
+16
+Verfassungsschutzbericht Bayern 2024
+
+
+
+
+                                 17
+Verfassungsschutzbericht Bayern 2024                     Verfassungsschutz in Bayern
+
+
+
+Informationen zum
+Verfassungsschutz
+
+
+
+                       1. DER VERFASSUNGSSCHUTZ ALS
+                          FRÜHWARNSYSTEM
+                       Die Bundesrepublik Deutschland ist nach ihrer Verfassung eine
+                       wertgebundene, wachsame und wehrhafte Demokratie. Der
+                       Staat kann gegen Bestrebungen, die freiheitliche demokratische
+                       Grundordnung zu beseitigen, die in der Verfassung vorgesehe­
+                       nen Abwehrmittel einsetzen, z. B. ein Partei- oder Vereinsverbot.
+
+                       Das setzt aber voraus, dass er solche Bestrebungen oder Aktivitä­
+                       ten, die als extremistisch oder als verfassungsfeindlich bezeichnet
+                       werden, rechtzeitig erkennen kann. Hier setzt die Aufgabe des
+                       Verfassungsschutzes als Frühwarnsystem zum Schutz der frei­
+                       heitlichen demokratischen Grundordnung sowie zum Schutz des
+                       Bestandes und der Sicherheit von Bund und Ländern ein.
+
+
+                       2. GESETZLICHER AUFTRAG
+                       Die Aufgaben und Befugnisse des Verfassungsschutzes sind
+                       gesetzlich genau festgelegt. Ein Ermessensspielraum bei der
+                       Entscheidung, welche Bestrebungen zu beobachten sind, be­
+                       steht nicht. Das Bundesverfassungsschutzgesetz (BVerfSchG)
+                       regelt die von Bund und Ländern im Rahmen des Verfassungs­
+                       schutzes gemeinsam zu erfüllenden Aufgaben und ist zugleich
+                       Rechtsgrundlage für die Arbeit des Bundesamtes für Verfas­
+                       sungsschutz. Daneben gibt es in allen Ländern eigene Verfas­
+                       sungsschutzgesetze.
+
+Novellierung           In Bayern regelt das Bayerische Verfassungsschutzgesetz
+des Bayerischen        (BayVSG) die Aufgaben und Befugnisse des Bayerischen
+Verfassungs­           ­Landesamts für Verfassungsschutz, das seinen Sitz in München
+schutzgesetzes          hat und dem Bayerischen Staatsministerium des Innern, für
+                        Sport und Integration unmittelbar nachgeordnet ist. Das Gesetz
+
+18
+Verfassungsschutz in Bayern                                    Verfassungsschutzbericht Bayern 2024
+
+
+
+
+war im Jahr 2022 Gegenstand einer verfassungsgerichtlichen
+Überprüfung (Urteil vom 26.04.2022, Az. 1 BvR 1619/17), in
+­deren Folge mit Wirkung vom 1. August 2023 mehrere Vorschrif­
+ ten geändert wurden (GVBl. S. 374). Dies betrifft insbesondere
+ die Vorschriften zur Wohnraumüberwachung und zum Einsatz
+ verdeckter Mitarbeiter sowie von Vertrauensleuten, aber auch
+ die Vorschriften zur Datenübermittlung.
+
+
+
+
+Foto: Bayerisches Landesamt für Verfassungsschutz in München
+
+
+Für das Landesamt wurden im Haushaltsplan 2024 insgesamt
+rund 577 Stellen für Beamte und Tarifbeschäftigte im öffent­
+lichen Dienst ausgewiesen. Das Haushaltsvolumen 2024 betrug
+rund 44 Millionen Euro.
+
+Der Verfassungsschutz sammelt Informationen über sicherheits­                  Beobachtungs­
+gefährdende und verfassungsfeindliche Bestrebungen im Inland                   auftrag
+und wertet diese aus. Diesem originären Beobachtungsauftrag
+unterliegen im Wesentlichen
+
+– Bestrebungen, die gegen die freiheitliche demokratische
+  Grundordnung, den Bestand oder die Sicherheit des Bundes
+  oder eines Landes gerichtet sind,
+– sicherheitsgefährdende oder geheimdienstliche Tätigkeiten
+  für eine fremde Macht (Sabotage und Spionage),
+
+                                                                                                19
+Verfassungsschutzbericht Bayern 2024                     Verfassungsschutz in Bayern
+
+
+                       – Bestrebungen, die durch Anwendung von Gewalt oder darauf
+                         gerichtete Vorbereitungshandlungen auswärtige Belange der
+                         Bundesrepublik Deutschland gefährden,
+                       – Bestrebungen, die gegen den Gedanken der Völkerverstän­
+                         digung, insbesondere gegen das friedliche Zusammenleben
+                         der Völker, gerichtet sind sowie
+                       – Bestrebungen und Tätigkeiten der Organisierten Kriminalität.
+
+                       Als „Bestrebung“ ist eine politisch bestimmte, ziel- und zweck­
+                       gerichtete Verhaltensweise definiert, die darauf gerichtet ist,
+                       den Bestand oder die Sicherheit des Bundes oder eines Landes
+                       bzw. Verfassungsgrundsätze der freiheitlichen demokratischen
+                       Grundordnung zu beseitigen oder außer Geltung zu setzen.
+                       ­Solche Bestrebungen können von Gruppierungen oder Einzel­
+                        personen ausgehen.
+
+                       Arbeitsschwerpunkt des Verfassungsschutzes ist die Beob­
+                       achtung von extremistischen Personenzusammenschlüssen
+                       (Organisationen), d. h. in erster Linie die Analyse ihrer Ziele,
+                       Aktivitäten, ihrer Stärke, ihres Aufbaus und ihrer finanziellen
+                       Verhältnisse. Aber auch die Beobachtung von extremistischen
+                       Einzelpersonen ist zulässig. Extremistische oder sicherheitsge­
+                       fährdende Bestrebungen werden in Bayern derzeit in folgenden
+                       Phänomenbereichen beobachtet:
+
+                       –   Islamismus
+                       –   Auslandsbezogener Extremismus
+                       –   Rechtsextremismus
+                       –   Reichsbürger und Selbstverwalter
+                       –   Verfassungsschutzrelevante Delegitimierung des Staates
+                       –   Verfassungsschutzrelevante Islamfeindlichkeit
+                       –   Linksextremismus
+                       –   Scientology-Organisation
+
+                       Der Beobachtungsauftrag des Verfassungsschutzes umfasst
+                       auch extremistische Aktivitäten im Internet, z. B. in Blogs und
+                       Foren. Dabei ist aber eine „automatische“ Zurechnung von ano­
+                       nymen Beiträgen in Blogs oder Foren zulasten der Verantwortli­
+                       chen rechtlich nicht zulässig. Erst wenn eine politisch motivierte,
+                       gegen die freiheitliche demokratische Grundordnung gerichtete
+                       Zielrichtung zurechenbar festzustellen ist, ist der Beobachtungs­
+                       auftrag des Verfassungsschutzes eröffnet.
+
+
+
+
+20
+Verfassungsschutz in Bayern                                Verfassungsschutzbericht Bayern 2024
+
+
+
+Nach einer Grundsatzentscheidung des Bundesverfassungsge­                  Beobachtung von
+richtes aus dem Jahr 2013 zu den Voraussetzungen und Grenzen               Abgeordneten
+der Beobachtung von Abgeordneten durch den Verfassungs­
+schutz ist die Beobachtung von Parlamentsabgeordneten durch
+die Verfassungsschutzbehörden wegen des darin liegenden
+­Eingriffes in das freie Mandat der Abgeordneten (Art. 38 Abs. 1
+ Satz 2 GG) nur unter engen rechtlichen Voraussetzungen zu­
+ lässig. An die Prüfung der Verhältnismäßigkeit ist dabei mit Blick
+ auf die Bedeutung, die das Grundgesetz dem freien Mandat
+ ­zuerkennt, ein strenger Maßstab anzulegen. Ein die Beobach­
+  tung rechtfertigendes, überwiegendes Interesse am Schutz der
+  ­freiheitlichen demokratischen Grundordnung liegt nach Auffas­
+   sung des Bundesverfassungsgerichtes insbesondere dann vor,
+   wenn Abgeordnete ihr Mandat zum Kampf gegen die freiheit­
+   liche demokratische Grundordnung missbrauchen oder diese
+   aktiv und aggressiv bekämpfen. Im Jahr 2024 wurde diesem
+   strengen Maßstab entsprechend ein Mitglied des Bayerischen
+   Landtages vom Bayerischen Landesamt für Verfassungsschutz
+   beobachtet. Die betroffene Person hat gegen ihre Beobachtung
+   Klage beim Bayerischen Verwaltungsgericht München eingelegt,
+   über die im Berichtszeitraum noch nicht entschieden wurde.
+
+In Bayern ist die Bekämpfung der Organisierten Kriminalität (OK)           Organisierte
+seit 1994 nicht nur Aufgabe der Polizei, sondern – zum Schutz              Kriminalität
+der verfassungsmäßigen Ordnung – auch des Verfassungs­
+schutzes. Der Bayerische Verfassungsschutz klärt da auf, wo
+Polizei oder Staatsanwaltschaft rechtlich noch nicht tätig werden
+können, und liefert so einen wertvollen Beitrag zur Bekämpfung
+krimi­neller Strukturen. Die Strukturaufklärung ist dabei nicht auf die
+Bearbeitung einzelner Delikte ausgerichtet, sondern analysiert die
+kriminellen Strukturen in einem ganzheitlichen Zusammenhang.
+
+Personen, die der OK angehören bzw. sich in deren Umfeld
+­aufhalten, agieren sehr konspirativ. Die Aufklärung dieser Struk­
+ turen setzt eine systematische und vor allem langfristig angelegte
+ Beobachtung voraus, die auch den Einsatz nachrichtendienst­
+ licher Mittel erfordert. Liegen dem Verfassungsschutz kon­
+ krete Anhaltspunkte für kriminelle Strukturen und Straftaten vor,
+ ­werden im Rahmen der gesetzlichen Übermittlungsbefugnisse
+  diese zur weiteren Bearbeitung an Polizei und Staatsanwalt­
+  schaft abgegeben.
+
+
+
+
+                                                                                             21
+Verfassungsschutzbericht Bayern 2024                    Verfassungsschutz in Bayern
+
+
+Spionageabwehr         Eine weitere Aufgabe des Verfassungsschutzes ist die Spionage­
+                       abwehr, d. h. die Abwehr der Spionageaktivitäten von Nachrichten­
+                       diensten fremder Staaten gegen Deutschland. Wesentliche
+                       Angriffsziele sind die Bereiche Politik, Militär­technologie und
+                       Wirtschaft. Das Bayerische Landesamt für V    ­ erfassungsschutz
+                       beobachtet die Aktivitäten ausländischer Nachrichtendienste,
+                       sammelt Informationen und wertet sie aus, um z. B. deutsche
+                       Unternehmen zu schützen.
+
+                       Das seit Juli 2013 bestehende Cyber-Allianz-Zentrum ­     Bayern
+                       im Bayerischen Landesamt für Verfassungsschutz unterstützt
+                       ­Unternehmen, Betreiber kritischer Infrastrukturen sowie Wissen­
+                        schafts- bzw. Forschungseinrichtungen bei der Prävention und
+                        Abwehr gezielter Cyberangriffe. Elektronische Angriffe ­  gegen
+                        deutsche und bayerische Ziele sind Verursacher enormer ­betriebs-
+                       und volkswirtschaftlicher Schäden; ihre Häufigkeit und Qualität
+                       steigen seit Jahren stark an.
+
+Mitwirkungs­           Daneben hat das Bayerische Landesamt für Verfassungsschutz
+aufgaben und           eine Reihe von Mitwirkungsaufgaben, bei denen es als Fach­
+Geheimschutz           berater bei Sachentscheidungen einer anderen Behörde hinzu­
+                       gezogen wird. Dabei fließen die bereits vorhandenen oder aus
+                       Anlass des Mitwirkungsersuchens gewonnenen Erkenntnisse in
+                       den Entscheidungsprozess einer anderen Behörde mit ein. Zu den
+                       Mitwirkungsaufgaben gehören der Geheim- und Sabotageschutz.
+
+                       Der Geheimschutz umfasst die Maßnahmen, die verhindern
+                       sollen, dass Unbefugte von im öffentlichen Interesse geheim­
+                       haltungsbedürftigen Informationen und Unterlagen – sog.
+                       ­„Verschlusssachen“ – Kenntnis erhalten. Verschlusssachen gibt
+                        es in Behörden, aber auch in privatwirtschaftlichen Unternehmen,
+                        die im Auftrag des Staates tätig werden.
+
+                       Der materielle Geheimschutz befasst sich mit den organisato­
+                       rischen und technischen Voraussetzungen, die geschaffen
+                       ­werden müssen, um Verschlusssachen vor unbefugtem Z      ­ ugriff
+                        zu schützen. Der personelle Geheimschutz beinhaltet die
+                        ­Sicherheitsüberprüfung von Personen, die mit einer sicherheits­
+                         empfindlichen Tätigkeit betraut werden sollen. Die Sicherheits­
+                         überprüfung nach dem Bayerischen Sicherheitsüberprüfungs­
+                         gesetz (BaySÜG) soll gewährleisten, dass nur zuverlässige
+                         Personen eingesetzt werden, bei denen keine Umstände vor­
+                         liegen, die ein Sicherheitsrisiko darstellen.
+
+                       Das Bayerische Landesamt für Verfassungsschutz bringt außer­
+                       dem im Rahmen seiner Zuständigkeit seine Erkenntnisse im
+                       Rahmen weiterer Beteiligungsaufgaben ein, insbesondere bei
+
+22
+Verfassungsschutz in Bayern                              Verfassungsschutzbericht Bayern 2024
+
+
+
+einbürgerungs- und aufenthaltsrechtlichen Entscheidungen. Es
+ist an der behördenübergreifenden Arbeitsgruppe „BIRGiT“
+(Beschleunigte Identifizierung und Rückführung von Gefährdern
+aus dem Bereich des islamistischen Terrorismus/Extremismus)
+beteiligt.
+
+Zudem hat das Bayerische Landesamt für Verfassungsschutz
+die Aufgabe, im Einzelfall amtliche Auskünfte im Rahmen der
+Verfassungs­treueprüfung von Bewerbern für den öffentlichen
+Dienst zu erteilen. Ergänzend dazu erfolgen vor Neueinstellungen
+in den Polizeivollzugsdienst sowie bei der Berufung von Personen
+in ein Richterverhältnis jeweils Regelanfragen.
+
+Außerdem übermittelt das Bayerische Landesamt für Verfas­
+sungsschutz relevante Erkenntnisse im Rahmen von Zuverlässig­
+keitsüberprüfungen, z. B. nach dem Luftsicherheitsgesetz und
+dem Atomgesetz.
+
+Das Bayerische Landesamt für Verfassungsschutz ist auch
+Ansprechpartner für die Waffenbehörden: Nach dem zum
+­
+20. Februar 2020 in Kraft getretenen Dritten Waffenrechts­
+änderungsgesetz genügt bereits die bloße Mitgliedschaft in ­einer
+verfassungsfeindlichen Vereinigung, um die waffenrechtliche
+­Unzuverlässigkeit zu vermuten. Bislang waren hier ­konkrete Unter­
+ stützungsleistungen nachzuweisen. Zudem sind die Waffenbe­
+ hörden nun verpflichtet, auch im Rahmen der waffen­rechtlichen
+ Zuverlässigkeitsprüfung eine Auskunft des Verfassungs­schutzes
+ einzuholen (Regelanfrage). Die Verfassungs­         schutzbehörden
+ haben unaufgefordert nachzuberichten, wenn ihnen zu einem
+ späteren Zeitpunkt relevante Erkenntnisse vorliegen (Nachbe­
+ richtspflicht). Die Regelanfrage ist auch vor Erteilung eines Jagd­
+ scheins und im Rahmen sprengstoffrechtlicher Erlaubnisver­
+ fahren durchzuführen.
+
+
+3. INFORMATIONSBESCHAFFUNG
+Zur Erfüllung seines gesetzlichen Auftrages darf das Bayerische
+Landesamt für Verfassungsschutz Informationen sammeln und
+auswerten sowie die für die Fachaufgabenerfüllung erforder­
+lichen Speicherungen vornehmen. Diese Informationen werden
+zum weit überwiegenden Teil aus offenen Quellen ­gewonnen
+(z. B. aus dem Internet, aus Zeitungen, Zeitschriften, Flug­
+blättern, Programmen, Broschüren sowie bei öffentlichen
+Veranstaltungen extremistischer Organisationen). Einen Teil
+­
+der ­Informationen erhält der Verfassungsschutz durch Anwen­
+dung nachrichtendienstlicher Mittel, deren Einsatz das Vorliegen
+
+                                                                                         23
+Verfassungsschutzbericht Bayern 2024                      Verfassungsschutz in Bayern
+
+
+                       ­bestimmter gesetzlicher Voraussetzungen erfordert. Für nach­
+                        richtendienstliche Mittel, die mit einer erhöhten Eingriffsinten­
+                        sität für die Betroffenen verbunden sind, gelten dabei qualifizierte
+                        Anforderungen.
+
+                       Dazu gehören insbesondere:
+
+                       – der Einsatz von Vertrauensleuten (Personen, die der Verfas­
+                         sungsschutzbehörde selbst nicht angehören, aber aufgrund
+                         ihrer Zugehörigkeit zu dem jeweiligen Beobachtungsobjekt
+                         „Szeneerkenntnisse“ gegen Bezahlung liefern),
+                       – das Beobachten verdächtiger Personen (Observation) sowie
+                       – verdeckte Bild- und Tonaufzeichnungen.
+
+                        Eingriffe in das Brief-, Post- und Fernmeldegeheimnis (Überwa­
+                       chung des Post- und Telekommunikationsverkehrs) sind beson­
+                       ders strengen rechtsstaatlichen Anforderungen unterworfen.
+                       Die Voraussetzungen, unter denen vom Inhalt einer Telekom­
+                       munikation Kenntnis genommen werden darf, sind in einem
+                       ­eigenen Bundesgesetz geregelt, das nach dem Grundrecht des
+                        Brief-, Post- und Fernmeldegeheimnisses „Artikel 10-Gesetz“
+                        (G 10) genannt wird.
+
+                       Ein Verfahren mit mehreren voneinander unabhängigen Kontroll­
+                       instanzen stellt sicher, dass in dieses Grundrecht nur eingegrif­
+                       fen wird, wenn die im Gesetz genannten besonderen Gründe
+                       vorliegen. Ähnliches gilt für die Auskunftsverpflichtungen von
+                       Post- und Telekommunikationsdienstleistern sowie für die
+                       Verwendung technischer Mittel zur Identifizierung von bisher
+                       ­
+                       unbekannten Mobilfunkanschlüssen. Besonders strenge rechts­
+                       staatliche Sicherungen gelten auch für den Einsatz von tech­
+                       nischen Mitteln in Wohn- und Geschäftsräumen sowie für den
+                       verdeckten Zugriff auf informationstechnische Systeme. Solche
+                       Maßnahmen dürfen nur auf richterliche Anordnung vorgenom­
+                       men werden.
+
+
+                       4. KONTROLLE DES VERFASSUNGSSCHUTZES
+                       Die Tätigkeit des bayerischen Verfassungsschutzes unterliegt
+                       einer vielfältigen Kontrolle. Dazu gehört die allgemeine parla­
+                       mentarische Kontrolle, die durch die Berichtspflicht des verant­
+                       wortlichen Ministers gegenüber dem Landtag im Rahmen von
+                       Anfragen von Abgeordneten, Petitionen usw. ausgeübt wird.
+                       Eine besondere Kommission des Bayerischen Landtags, das
+                       Parlamentarische Kontrollgremium, überwacht die Arbeit des
+                       Verfassungsschutzes. Die G 10-Kommission überprüft u. a. die
+
+24
+Verfassungsschutz in Bayern                         Verfassungsschutzbericht Bayern 2024
+
+
+
+Maßnahmen zur Überwachung des Post- und Telekommunika­
+tionsverkehrs sowie die Zulässigkeit und Notwendigkeit der
+Auskunfts­verpflichtungen von Post- und Telekommunikations­
+dienstleistern, Luftfahrtunternehmen oder Kreditinstituten.
+
+Die Verwaltungskontrolle obliegt dem Innenminister im Rahmen
+der Dienst- und Fachaufsicht, ferner dem Bayerischen Landes­
+beauftragten für den Datenschutz und dem Bayerischen Obers­
+ten Rechnungshof. Diese Kontrollen werden ergänzt durch die
+­Möglichkeit, gegen belastende Maßnahmen die Verwaltungs­
+ gerichte anzurufen. Schließlich findet über die Medienbericht­
+ erstattung auch eine Kontrolle durch die Öffentlichkeit statt.
+
+
+5. ZUSAMMENARBEIT MIT DER POLIZEI
+Beim Schutz von Staat und Verfassung arbeiten Polizei und
+Verfassungsschutz eng zusammen. Dabei sind die Polizei- und
+Verfassungsschutzbehörden jedoch voneinander getrennt (orga­
+nisatorische Trennung). Aufgabe der Polizei sind die Abwehr von
+Gefahren sowie die Aufklärung von Straftaten. Sie verfügt über
+Eingriffsrechte und Zwangsbefugnisse (z. B. Festnahmen, Durch­
+suchungen, Beschlagnahmen) und muss eingreifen, ­sobald sie
+Hinweise auf Straftaten erhält.
+
+Der Verfassungsschutz ist dagegen für die Vorfeldaufklärung
+zuständig und hat keine Zwangsbefugnisse und kein Weisungs­
+recht gegenüber der Polizei (befugnisrechtliche Trennung). Hat
+der Verfassungsschutz ausreichend Erkenntnisse, die ein sicher­
+heitsrechtliches Eingreifen erforderlich machen, unterrichtet
+er die zuständige Sicherheitsbehörde. Diese entscheidet dann
+selbstständig, ob und welche Maßnahmen zu treffen sind.
+
+Begrenzt wird dieser Informationsaustausch jedoch durch das
+sog. „informationelle Trennungsprinzip“. Nach der Rechtspre­
+chung des Bundesverfassungsgerichtes dürfen aufgrund der
+verschiedenen Aufgaben von Polizei und Verfassungsschutz­
+behörden und deren unterschiedlichen Befugnissen Informationen
+durch den Verfassungsschutz an die Polizei nur in bedeut­samen
+Fällen übermittelt werden. Daher enthält das BayVSG sehr aus­
+differenzierte Regelungen für die Informationsüber­mittlung an
+die Polizei.
+
+Um frühzeitig Entwicklungen und Tendenzen in den Phänomen­          Politisch motivierte
+bereichen erkennen zu können, erfolgt die statistische Erfas­       Kriminalität
+sung der Politisch motivierten Kriminalität (PMK) mit der Auf­
+nahme polizeilicher Ermittlungen und damit bereits beim ersten
+
+                                                                                      25
+Verfassungsschutzbericht Bayern 2024                    Verfassungsschutz in Bayern
+
+
+                        Anfangs­verdacht (Eingangsstatistik) im bundesweit einheitlichen
+                        Kriminalpolizeilichen Meldedienst in Fällen Politisch Motivierter
+                        Kriminalität (KPMD-PMK). Die Einstufung einer Straftat als PMK
+                        und die damit einhergehende Zuordnung zu einem Phänomen­
+                        bereich der PMK obliegt der für die Ermittlungen zuständigen
+                        Polizeidienststelle auf Basis des bundesweit einheitlichen
+                        „Definitions­systems PMK“. Ein PMK-Sachverhalt kann immer
+                        nur einem Phänomenbereich der PMK zugeordnet werden.
+                        Ist der Sachverhalt nicht unter den Phänomenbereichen PMK
+                        -links-, PMK -rechts-, PMK -ausländische Ideologie- oder PMK
+                        -religiöse Ideologie- subsumierbar, wird der Phänomen­bereich
+                       PMK -sonstige Zuordnung- gewählt. Es handelt sich immer um
+                       eine Einzelfallbetrachtung nach sorgfältiger Prüfung, Bewer­
+                       tung und Abwägung und unter Berücksichtigung der Besonder­
+                       heiten einer jeden Tat. In die jährliche Statistik gehen nur Fälle
+                       ein, deren Tatzeitpunkt in dem betreffenden Kalenderjahr liegt
+                       und die bis zum bundesweit einheitlichen Meldeschluss (31.01.
+                       des Folgejahres) gemeldet wurden. Statistische Änderungen
+                       ­betreffend die Bewertung von Fällen der PMK im Nachgang
+                        zum Meldeschluss, beispielsweise aufgrund neuer Erkenntnisse
+                        aus E ­ rmittlungs- und/oder Gerichtsverfahren, erfolgen nur bei
+                        heraus­ragenden Delikten.
+
+                       Die Einstufung von PMK als „extremistisch“ orientiert sich
+                       am Bundesverfassungsschutzgesetz, dem Bayerischen Ver­
+                       fassungsschutzgesetz sowie vorhandener Rechtsprechung,
+                       beispiels­weise des Bundesverfassungsgerichts. Insofern findet
+                       durch die zuständige Kriminalpolizeidienststelle zunächst eine
+                       Erstbewertung des Sachverhaltes statt. Die letztgültige Bewer­
+                       tung und Entscheidungshoheit bezüglich der Einstufung einer
+                       Tat als „extremistisch“ obliegt dem Bayerischen Landesamt für
+                       Verfassungsschutz. Der „extremistischen PMK“ werden grund­
+                       sätzlich solche Straftaten zugeordnet, bei denen im Erfassungs­
+                       zeitraum tatsächliche Anhaltspunkte für Bestrebungen vorliegen,
+                       die sich gegen die freiheitliche demokratische Grundordnung
+                       richten.
+
+
+                       6. INFORMATION UND PRÄVENTION
+
+                       6.1 Phänomenübergreifende Information und
+                           Prävention
+                       Der Verfassungsschutz hat den gesetzlichen Auftrag, Regierung
+                       und Parlament sowie die Öffentlichkeit über Aktivitäten und
+                       Ziele verfassungsfeindlicher Organisationen zu informieren. Zu
+
+
+26
+Verfassungsschutz in Bayern                          Verfassungsschutzbericht Bayern 2024
+
+
+
+diesem Zweck veröffentlicht das Bayerische Staatsministerium
+des Innern, für Sport und Integration in Zusammenarbeit mit
+dem Bayerischen Landesamt für Verfassungsschutz die jähr­
+lich e
+     ­ rscheinenden Verfassungsschutzberichte. Eingang in den
+Verfassungsschutzbericht finden Bestrebungen, bei denen hin­
+reichend gewichtige Anhaltspunkte für Extremismus vorliegen.
+
+Seit 2023 erscheint in regelmäßigen Abständen das Audioformat
+„Abgehört – der kompakte Podcast des Bayerischen Landes­
+amts für Verfassungsschutz mit Einblicken in Arbeitsweisen und
+Themenfelder eines deutschen Inlandsnachrichten­      dienstes“.
+In jeweils ca. 20-minütigen Folgen geben Mitarbeiterinnen
+ und Mitarbeiter des Bayerischen Landesamts für Verfassungs­
+schutz Einblicke in ihr Fachwissen, ihre Fachbereiche und ihre
+Erfahrungen. Mehr Insiderwissen zum Verfassungsschutz                Neuer Podcast
+­bietet kein anderer Podcast. „Abgehört“ ist auf allen gängigen      „Abgehört“
+ Streaming-Plattformen verfügbar. Anregungen und Feedback
+ ­
+ können jederzeit an abgehoert@lfv.bayern.de gesandt werden.
+
+Im Rahmen seiner Öffentlichkeitsarbeit klärt das Bayerische          Fachvorträge für
+Landes­ amt für Verfassungsschutz zudem durch zielgruppen­           Multiplikatoren
+orientierte Fachvorträge über aktuelle extremistische Entwick­
+lungen auf. Diese Fachvorträge richten sich vor allem an Multi­
+plikatoren (Schulen, Universitäten, Bildungsakademien, Träger
+politischer Bildungs- und Jugendarbeit, Kommunen, demokra­
+tische Bürgerinitiativen, politische Parteien). Der Verfassungs­
+schutz leistet einen wichtigen Beitrag zur geistig-politischen
+Auseinandersetzung mit dem Extremismus und dient der Siche­
+rung der freiheitlichen demokratischen Grundordnung.
+
+Das Bayerische Landesamt für Verfassungsschutz intensiviert
+stetig seine Beteiligung an Ausbildungs- und Fortbildungs­
+maßnahmen anderer Behörden, z. B. der Bayerischen Polizei,
+Ausländer­behörden und Bildungseinrichtungen im Sinne der
+Extremis­musprävention im öffentlichen Dienst.
+
+Im Jahr 2009 wurde die organisatorisch beim Bayerischen              BIGE
+Landesamt für Verfassungsschutz angesiedelte „Bayerische
+­
+Informationsstelle gegen Extremismus“ (BIGE) als zen­
+­                                                        trale
+­
+Informations- und Beratungsstelle der Staatsregierung zur
+Bekämpfung des politischen Extremismus eingerichtet. Das
+­
+Aufgabenfeld der BIGE umfasst den Rechts- und Linksextre­
+mismus, die verfassungsschutzrelevante Islamfeindlichkeit, die
+verfassungs­schutzrelevante Delegitimierung des Staates sowie
+die Reichsbürger und Selbstverwalter. Die BIGE soll in diesen
+Phänomenbereichen nicht nur die Bekämpfung des Extre­
+mismus unterstützen, sondern auch die Zusammenarbeit von
+
+                                                                                        27
+Verfassungsschutzbericht Bayern 2024                   Verfassungsschutz in Bayern
+
+
+                       staatlichen Stellen, Kommunen, Schulen und gesellschaftlichen
+                       Einrichtungen stärken. Die BIGE betreibt im Rahmen ­einer breit
+                       angelegten Öffentlichkeitsarbeit zusammen mit dem Bayerischen
+                       Staatsministerium für Unterricht und Kultus das Internetportal
+                       „Gemeinsam gegen Extremismus“ (www.bige.bayern.de). Das
+                       Internetportal stellt detailliertes Fachwissen zu den ­genannten
+                       Phänomenbereichen zur Verfügung, informiert mit aktuellen
+                       Nachrichten und regionalen Lagebildern über die extremis­
+                       tischen Szenen und hält Beratungs- sowie Hilfsangebote für
+                       betroffene Bürgerinnen und Bürger, Kommunen, Unternehmen,
+                       Vereine und Schulen bereit.
+
+                       Insbesondere für Kommunen bietet die BIGE umfangreiche
+                       Beratungsleistungen an. Wesentliche Beratungsfelder sind
+                       die Unterbindung des Immobilienankaufes für rechtsextremis­
+                       tische Aktivitäten, die Verhinderung von rechtsextremistischen
+                       Veranstaltungen wie Konzerten sowie die lokale Agitation von
+                       Extremisten insbesondere auch im Zusammenhang mit Unter­
+                       künften für Asylbewerber. Fallbezogen arbeitet die BIGE auch
+                       mit zivil­
+                                gesellschaftlichen Initiativen wie der „Landeskoordi­
+                       nierungsstelle Demokratie leben! Bayern gegen Rechtsextre­
+                       mismus“ und mit der Projektstelle gegen Rechtsextremismus
+                       des ­„Bayerischen Bündnisses für Toleranz – Demokratie und
+                       Menschen­würde schützen“ zusammen.
+
+                       Bei Aktivitäten von extremistischen Organisationen im Umfeld
+                       von Schulen und bei Problemstellungen mit extremistischem
+                       ­Bezug im Schulalltag steht die BIGE in Zusammenarbeit mit den
+                        Regionalbeauftragten für Demokratie und Toleranz der Schul­
+                        familie mit einem umfassenden Maßnahmenkonzept zur Seite.
+                        Die BIGE beteiligt sich ferner an Aus- und Fortbildungsmaß­
+                        nahmen bayerischer Behörden, u. a. mit regelmäßigen
+                        ­Informationsveranstaltungen in der Ausbildung der 2., 3. und
+                         4. Qualifikationsebene der Bereiche Polizei, Justiz, Finanzen,
+                         ­Sozialverwaltung, Allgemeine Innere Verwaltung und weiterer.
+
+                       Das bereits seit 2001 beim Bayerischen Landesamt für Verfas­
+                       sungsschutz bestehende „Bayerische Aussteigerprogramm“
+                       wurde mit Gründung der BIGE dort integriert. Hier werden Einzel­
+                       personen durch speziell ausgebildete Beraterinnen und ­Berater
+                       in ihrem Ausstiegs- bzw. Deradikalisierungsprozess und damit
+                       ihrer Distanzierung von der extremistischen Szene begleitet.
+                       ­Dabei wird auch proaktiv auf Personen zugegangen, die erstmals
+                        oder wiederholt in extremistischen Zusammenhängen auffällig
+                        geworden sind. Die Zusammenarbeit mit der Bayerischen Polizei
+                        in diesem Bereich wurde weiter intensiviert, um den aktuellen
+                        Herausforderungen Rechnung zu tragen.
+
+28
+Verfassungsschutz in Bayern                           Verfassungsschutzbericht Bayern 2024
+
+
+
+Für das Aussteiger- und Deradikalisierungsprogramm im Bereich
+des Islamismus zeichnet das Bayerische Landeskriminalamt
+verantwortlich.
+
+Das Bayerische Landesamt für Verfassungsschutz und die BIGE
+sind wie folgt erreichbar:
+
+
+
+  Bayerisches Landesamt für Verfassungsschutz
+
+  Postfach 450145, 80901 München
+  Telefon: 089 31201-0 (rund um die Uhr)
+  Telefax: 089 31201-380
+
+  E-Mail: poststelle@lfv.bayern.de
+  www.verfassungsschutz.bayern.de
+
+
+
+  Bayerische Informationsstelle gegen Extremismus (BIGE)
+
+  Knorrstraße 139, 80937 München
+  Bürgertelefon: 089 2192-2192
+  Aussteigertelefon: 089 2192-2767
+
+  E-Mail: gegen-extremismus@stmi.bayern.de
+          aussteigerprogramm@stmi.bayern.de
+  www.bige.bayern.de
+
+
+
+Um den regulatorischen Druck auf die Betreiber von Plattformen        Netzwerkdurch­
+und Netzdiensten zu erhöhen und diese zu einem konsequen­             setzungsgesetz
+teren Vorgehen gegen strafbare und extremistische Inhalte auf         Digital-Services-Act
+ihren Seiten zu bewegen, verabschiedete der Bundestag am              Digitale-Dienste-­
+30. Juni 2017 das „Gesetz zur Verbesserung der Rechtsdurch­           Gesetz
+setzung in sozialen Netzwerken“ (Netzwerkdurchsetzungs­gesetz
+– NetzDG). Es verpflichtet die Betreiber sozialer Netzwerke unter
+Androhung von Bußgeldern zur Löschung derartiger Inhalte. Die
+Umsetzung des NetzDG hatte unmittelbare Auswirkung auf die
+Onlineaktivitäten extremistischer Gruppen in Bayern und führte
+u. a. zu Sperrungen von entsprechenden Profilen und Kanälen.
+Am 6. Mai 2021 verabschiedete der Deutsche Bundestag eine
+Novellierung des NetzDG. Ziel der Gesetzesänderung ist es, die
+Bekämpfung strafbarer Hassrede auf den Plattformen sozialer
+Netzwerke weiter zu verbessern und transparenter zu machen.
+
+
+                                                                                           29
+Verfassungsschutzbericht Bayern 2024                     Verfassungsschutz in Bayern
+
+
+                        Das NetzDG wurde im Jahr 2024 schließlich durch die Verord­
+                        nung (EU) 20222/2065 (sog. Digital-Services-Act, DSA) und
+                        das diese ergänzende Digitale-Dienste-Gesetz (DDG) weitge­
+                       hend abgelöst. Der DSA ist seit 17. Februar 2024 unmittelbar
+                       gelten­des Recht, das DDG ist am 14. Mai 2024 in Kraft getreten.
+                       Ziel beider Regelungswerke ist es, Onlinekonzernen Pflichten
+                       zum verantwortungsvollen Umgang mit von ihnen transpor­
+                       tierten ­Inhalten aufzugeben und diese effektiv zu überwachen
+                       und durchzusetzen. Darunter fällt beispielsweise das Vorgehen
+                       ­
+                       gegen illegale Dienste, Hass, Hetze und jugendgefährdende
+                       ­Inhalte im Netz. Die Einhaltung der neuen Regeln durch sehr
+                        große Plattformen und Suchmaschinen wird durch die EU-Kom­
+                        mission überwacht. Hiermit soll der regulatorische Druck weiter
+                        erhöht und ein ­ konsequentes Vorgehen gegen rechtswidrige
+                        und strafbare Inhalte erreicht werden.
+
+
+                       6.2 Phänomenspezifische Prävention
+                       6.2.1    Prävention gegen Islamismus
+
+Präventionsstelle      Im Rahmen der Präventions- und Öffentlichkeitsarbeit zum
+Salafismus/            Phänomen­bereich Islamismus wurde die im Jahr 2015 einge­
+Islamismus             richtete Präventionsstelle Salafismus 2021 in Präventionsstelle
+                       Islamismus umbenannt und um weitere Themenschwerpunkte
+                       erweitert. Sie bietet in Form von Präsenz- und Onlineinformations­
+                       veranstaltungen vielfältige Sensibilisierungs-, Beratungs- und
+                       Fortbildungsformate zu den Themen Salafismus, Antisemi­
+                       tismus im Islamismus, Legalistischer Islamismus, Schiitischer
+                       Islamismus sowie zum Phänomenbereich des auslandsbezo­
+                       ­
+                       genen Extremismus an. Die Präventionsstelle steht an den
+                       Standorten München und Nürnberg für Anfragen aus ganz
+                       ­Bayern zur Verfügung und betreibt u. a. ein Hinweistelefon für
+                        Verdachtsfälle und Islamismusprävention.
+
+                         Um Radikalisierungs- und Rekrutierungsmechanismen erken­
+                       nen zu können, qualifiziert die Präventionsstelle Beschäftigte
+                       in der Schul- und Jugendarbeit, der Verwaltung, der Polizei,
+                       des ­  Justiz- und Maßregelvollzuges und der Bewährungshilfe
+                       ­sowie der Hochschulen. Das Vortrags- und Schulungs-Angebot
+                        ­richtet sich auch an Haupt- und Ehrenamtliche in der Flüchtlings­
+                         arbeit, S­icherheitspersonal von größeren Unternehmen und
+                         Wirtschaftsverbänden sowie an Personen, die im sozialen und
+                         familiären Umfeld mit den betreffenden Themen in Berüh­
+                         rung kommen. Die Präventionsstelle Islamismus unterstützt
+
+
+
+30
+Verfassungsschutz in Bayern                           Verfassungsschutzbericht Bayern 2024
+
+
+
+und b ­ erät zudem Landratsämter, Gemeinden und kommunale
+­Einrichtungen, wenn diese vor Ort Anhaltspunkte für entsprech­
+ ende extremistische Bestrebungen feststellen.
+
+ In den Vorträgen und Workshops werden Hintergründe
+ sowie aktuelle Entwicklungen in den Bereichen Islamismus
+ ­
+ und a­uslandsbezogener Extremismus vermittelt sowie u. a.
+der U­ nterschied zwischen dem Islam als durch Artikel 4 GG
+geschützte Religion und dem Islamismus als extremistischer
+­
+Ideologie veranschaulicht. In Gesprächen vor Ort werden
+Handlungsoptionen aufgezeigt und gemeinsam ein mögliches
+­Vorgehen erörtert. Eine Übersicht über die angebotenen ­Vorträge
+ und Workshops ist im Internet unter www.verfassungsschutz.
+ bayern.de/praevention_islamismus abrufbar.
+
+Mit dem Flyer „Was tun gegen Islamismus?“ informiert die
+Präventionsstelle Islamismus über ihre vielfältigen Sensibilisie­
+rungs-, Beratungs- und Fortbildungsformate.
+
+Im Bereich der Islamismusprävention kooperiert das Bayerische         Netzwerk für
+Landesamt für Verfassungsschutz im Rahmen des 2015 unter              Prävention und
+Federführung des Staatsministeriums des Innern, für Sport und         Deradika­lisierung
+Integration und in Zusammenarbeit mit dem Staatsministerium           gegen Salafismus
+der Justiz, dem Staatsministerium für Unterricht und Kultus und
+dem Staatsministerium für Familie, Arbeit und Soziales gegrün­
+deten „Bayerischen Netzwerk für Prävention und Deradikali­
+sierung gegen Salafismus“ mit verschiedensten staatlichen
+­Stellen in den Bereichen der Bildungsarbeit, der Integrations-
+und Sozialpolitik sowie der Jugendarbeit und des Strafvollzuges.
+
+Der ganzheitliche Ansatz des Netzwerkes, an dem auch zivil­
+gesellschaftliche Träger beteiligt sind, deckt die beiden Säulen
+Prävention und Deradikalisierung systematisch ab. Die Maß­
+nahmen und Strukturen in beiden Bereichen werden stets an
+aktuelle Entwicklungen sowie neue Zielgruppen und Schwer­
+punkte angepasst.
+
+Das Netzwerk unterhält ein eigenes Internetportal mit Informa­
+tionen zur Salafismusprävention in Bayern. Interessierte und
+Betroffene finden unter www.antworten-auf-salafismus.de
+Antworten auf Fragen zum Thema Salafismus sowie vielfältige
+Beratungs-, Unterstützungs- und Förderangebote. Die Internet­
+plattform wird regelmäßig aktualisiert und durch neue teils
+jugend­affine und interaktive Inhalte erweitert.
+
+
+
+
+                                                                                           31
+Verfassungsschutzbericht Bayern 2024                                                 Verfassungsschutz in Bayern
+
+
+  Bayerisches Staatsministerium des
+    Innern, für Sport und Integration
+                                                    Die vom Bayerischen Staatsministerium des Innern, für Sport und
+                                                    Integration in Zusammenarbeit mit dem Bayerischen Landesamt
+ Salafismus                                         für Verfassungsschutz herausgegebene Broschüre „Salafismus
+ Prävention durch Information
+
+                                                    – Prävention durch Information“ enthält neben Informationen
+ Fragen und Antworten
+
+
+
+
+                               Taghut
+                                                    zum Salafismus auch Informationen über Beratungsstellen und
+    Schahid
+
+?Tauhid
+Salaf
+                   ?? ? ? Kuffar
+                                 Shirk
+                                                    Ansprechpartner im Bereich der Prävention und Deradikalisierung,
+                                                    an die sich Betroffene wenden können. Die Broschüre ist im Inter­
+                                                    net unter www.stmi.bayern.de abrufbar und kann auch über das
+                                                e
+                                          21 ag
+                                        20 ufl
+
+
+
+
+                                                    Broschürenportal Bayern unter www.bestellen.bayern.de kosten­
+                                           a
+                                         eu
+                                        N
+
+
+
+
+                                                    frei angefordert werden.
+
+                                                    Seit April 2018 steht eine weitere Informationsbroschüre mit dem
+                                                    Titel „Islamismus erkennen“ zur Verfügung. In der vom Baye­
+                                                    rischen Landesamt für Verfassungsschutz herausgegebenen Bro­
+                                                    schüre liegt der Schwerpunkt der Darstellung auf Logos, ­Bildern
+                                                    und Symbolfiguren, die eine hohe Wirkkraft auf Anhänger islamis­
+                                                    tischer Gruppierungen entfalten. Zweck der Broschüre ist es, eine
+                                                    wichtige Grundkompetenz zum möglichst frühzeitigen Erkennen
+                                                    von Radikalisierungsprozessen und extremistischen Gefahren zu
+                                                    vermitteln. Die Broschüre wurde in 2023 überarbeitet, sie ist im
+                                                    Internet abrufbar unter www.verfassungsschutz.bayern.de.
+
+
+
+                                                      Weiterführende Informationen zum Islamismus
+
+                                                      www.verfassungsschutz.bayern.de
+                                                      www.antworten-auf-salafismus.de
+                                                      Broschüren: „Islamismus erkennen“ und „Salafismus – ­	
+                                                                  Prävention durch Information“
+
+                                                      Hinweistelefon
+
+                                                      Telefon: 089 31201-480
+                                                      E-Mail: islamismuspraevention@lfv.bayern.de
+
+
+
+                                                    6.2.2 Prävention gegen Rechtsextremismus
+
+                                                    Das 2009 erstmals vorgelegte „Bayerische Handlungskonzept
+                                                    gegen Rechtsextremismus“ stellt die staatlichen Strukturen,
+                                                    Vorgehensweisen und Maßnahmen in Bayern, die konzep­tionell
+                                                    eingebettet sind in die 3 Säulen Vorbeugen – Unterstützen –
+                                                    Eingreifen, umfassend dar. Neben den verschiedenen Erschei­
+                                                    nungsformen des Rechtsextremismus werden die staatlichen
+
+
+
+32
+Verfassungsschutz in Bayern                             Verfassungsschutzbericht Bayern 2024
+
+
+
+Akteure und Anlaufstellen vorgestellt sowie die ressortüber­
+greifende Zusammenarbeit und Vernetzung mit zivilgesell­
+schaftlichen A­ kteuren aufgezeigt. Das Handlungskonzept wird
+im Rahmen der interministeriellen Zusammenarbeit zwischen
+dem federführenden Staatsministerium des Innern, für Sport
+und Integration, dem Staatsministerium der Justiz, dem Staats­
+ministerium für Unterricht und Kultus, dem Staatsministerium für
+Wissenschaft und Kunst und dem Staatsministerium für Familie,
+Arbeit und Soziales fortgeschrieben und wurde Ende 2022 neu
+aufgelegt. Dabei wurden auch neue Entwicklungen im Bereich
+des Rechtsextremismus (z. B. die Beteiligung von Rechtsex­
+tremisten an a­ktuellen Protestbewegungen, Verschwörungs­
+theorien im Rechtsextremismus), neue Präventionsangebote
+­sowie das Hinzutreten weiterer staatlicher Akteure im Rahmen
+ der Präventionsarbeit, wie etwa des Beauftragten der Baye­
+ rischen Justiz zur Bekämpfung von Hate Speech sowie des
+ zentralen Antisemitismus­
+ ­                          beauftragten der Bayerischen Justiz,
+ mit einbezogen. Für die breite Öffentlichkeit wurde begleitend
+ eine kurze Broschüre erstellt. Handlungskonzept und Begleit­
+ broschüre sind für alle Bürgerinnen und Bürger über die Internet­
+ präsenzen der beteiligten Ministerien und staatlichen Akteure
+ abrufbar und ­können auch in gedruckter Form über das Broschü­
+ renportal Bayern unter w  ­ ww.bestellen.bayern.de angefordert
+ werden.
+
+Die BIGE ist ein wichtiger Bestandteil des „Bayerischen Hand­
+lungskonzepts gegen Rechtsextremismus“. Ein Kernthema ihrer
+Präventionsarbeit gegen Rechtsextremismus ist die Beratung
+von Kommunen zur Eindämmung rechtsextremistischer Aktivi­
+täten vor Ort. Rechtsextremisten agitieren etwa gegen lokale
+Asylbewerberunterkünfte, versuchen Veranstaltungen abzuhalten
+oder Immobilien anzumieten. Mit dem „HandIungsIeitfaden für
+Städte und Gemeinden zum Umgang mit rechtsextremistischen
+(Musik-)Veranstaltungen“ und dem „Handlungsleitfaden für
+Städte und Gemeinden zum Umgang mit rechtsextremistisch
+genutzten Immobilien“ unterstützt die Staatsregierung u. a.
+­Gemeinden, die mit solchen Aktivitäten konfrontiert sind.
+
+Ergänzend zu den Leitfäden berät die BIGE Kommunen im kon­
+kreten Einzelfall – bayernweit und kostenfrei. Ziel ist es, bereits
+im Vorfeld rechtsextremistische Veranstaltungen möglichst zu
+verhindern und die Etablierung oder Verfestigung einer rechts­
+extremistischen Szene vor Ort zu unterbinden. Das strikte Vor­
+gehen der bayerischen Sicherheitsbehörden führte wiederholt
+dazu, dass geplante rechtsextremistische Musikveranstaltungen
+in Bayern nicht stattfanden.
+
+
+                                                                                        33
+Verfassungsschutzbericht Bayern 2024                    Verfassungsschutz in Bayern
+
+
+                       Seit Einrichtung der BIGE 2009 wurden zahlreiche Kommunen
+                       in Bayern im Hinblick auf Kauf, Pacht, Anmietung oder sonstige
+                       längerfristige Nutzung von Immobilien durch die rechtsextremis­
+                       tische Szene beraten. In mehreren Fällen konnte bereits ein Kauf
+                       von Gasthöfen durch Szeneangehörige mit Unterstützung der
+                       BIGE verhindert werden.
+
+                       Die zusammen mit dem Bayerischen Staatsministerium des
+                       ­Innern, für Sport und Integration am 1. Juli 2020 neu aufgelegte
+                        Broschüre „Nein zu Nazis und Co.“ informiert über rechtsex­
+                        tremistische Agitation unter Jugendlichen und Heranwachsenden
+                        und klärt über neue Erscheinungsformen sowie Ziele, Taktiken
+                        und Strategien von Rechtsextremisten auf.
+
+                       Neben der sicherheitsbehördlichen Beobachtung und Auswer­
+                       tung verfassungsfeindlicher Aktivitäten im Internet ist das Baye­
+                       rische Landesamt für Verfassungsschutz auch im Bereich der
+                       Aufklärung und Sensibilisierung bezüglich extremistischer Gefah­
+                       ren im Netz aktiv.
+
+
+
+                          Weiterführende Informationen zum Rechtsextremismus
+
+                          www.verfassungsschutz.bayern.de
+                          www.bige.bayern.de
+                          Broschüre: „Nein zu Nazis und Co.“
+
+                          Telefon: 089 2192-2192
+                          E-Mail: gegen-extremismus@stmi.bayern.de
+
+
+
+                       6.2.3 Prävention gegen Reichsbürger und Selbstverwalter
+
+                       Mit dem Flyer „Reichsbürger und Selbstverwalter: Harmlose
+                       Spinner oder gefährliche Extremisten?“ stellt das Bayerische
+                       Landesamt für Verfassungsschutz weitergehende Informati­
+                       onen über die Ziele und Agitationsformen von Reichsbürgern
+                       und Selbstverwaltern zur Verfügung. Der Flyer klärt darüber
+                       auf, welche Argumente Szeneangehörige nutzen und in welchen
+                       ­Bereichen sie aktiv sind. Zugleich wird aufgezeigt, wie man sich
+                        in unerwünschten Konfrontationssituationen souverän ­verhalten
+                        kann, um sich vor Vereinnahmungsversuchen, aber auch
+                        ­Einschüchterungs- und Bedrohungsszenarien, zu schützen.
+
+
+
+
+34
+Verfassungsschutz in Bayern                         Verfassungsschutzbericht Bayern 2024
+
+
+
+Die BIGE informiert auf ihrer Webseite www.bige.bayern.de
+zu Hintergründen und aktuellen Aktivitäten von Reichs­bürgern
+und Selbstverwaltern. Darüber hinaus ist sie mit Messe­
+ständen, ­Vorträgen, Workshops und Veranstaltungen zu diesem
+Phänomen­bereich aktiv. Sie bietet zudem Beratung und Unter­
+stützung im Umgang mit diesem Personenkreis an, etwa im
+Rahmen von Fortbildungsveranstaltungen für Mitarbeiterinnen
+und Mitarbeiter von Kommunen, bayerischen staatlichen Behör­
+den sowie Polizei und Justiz.
+
+
+
+  Weiterführende Informationen zur Szene der Reichsbürger
+  und Selbstverwalter
+
+  www.verfassungsschutz.bayern.de
+  www.bige.bayern.de
+  Flyer: „Reichsbürger und Selbstverwalter:
+  Harmlose Spinner oder gefährliche Extremisten?“
+
+  Telefon: 089 2192-2192
+  E-Mail: gegen-extremismus@stmi.bayern.de
+
+
+
+6.2.4 Prävention gegen Linksextremismus
+
+Das Bayerische Landesamt für Verfassungsschutz klärt mit
+­einem Flyer über die Ziele und Vorgehensweisen der autonomen
+ linksextremistischen Szene auf und sensibilisiert damit insbe­
+sondere junge Menschen für deren Anwerbestrategien.
+
+Mit dem Flyer „Autonome – Linksextremistische Gewalttäter
+oder selbsternannte Freiheitskämpfer?“ stellt das Bayerische
+Landesamt für Verfassungsschutz weitergehende Informatio­
+nen über die Gewaltbereitschaft der linksautonomen Szene zur
+Verfügung. Der Flyer klärt darüber auf, in welchen Bereichen
+Autonome aktiv sind, wie sie ihren Nachwuchs rekrutieren und
+welche Hinweise es für eine beginnende Radikalisierung gibt. Er
+ist über das Publikationsportal der Bayerischen Staatsregierung
+unter www.bestellen.bayern.de abruf- und bestellbar.
+
+Die BIGE informiert umfangreich zur linksextremistischen ­Szene
+in Bayern auf ihrer Webseite www.bige.bayern.de sowie im
+Rahmen von Vortragsveranstaltungen und bietet bei Bedarf indi­
+viduelle Beratungen an.
+
+
+
+                                                                                    35
+Verfassungsschutzbericht Bayern 2024                    Verfassungsschutz in Bayern
+
+
+
+                          Weiterführende Informationen zum Linksextremismus
+
+                          www.verfassungsschutz.bayern.de
+                          www.bige.bayern.de
+
+                          Telefon: 089 2192-2192
+                          E-Mail: gegen-extremismus@stmi.bayern.de
+
+
+
+                       6.2.5 Prävention gegen die Scientology-Organisation
+
+                       Mit der in 2020 neu aufgelegten Broschüre „Das System Scien­
+                       tology“ klärt das Bayerische Staatsministerium des I­nnern, für
+                       Sport und Integration über die Ideologie und die Ziele der „Scien­
+                       tology-Organisation“ (SO) sowie deren Strategien zur G­ ewinnung
+                       neuer Mitglieder auf. Die Broschüre bietet zudem Hilfestellung
+                       und nennt Anlaufstellen für Ausstiegswillige, ­   Betroffene und
+                       deren Angehörige. Seit mehr als 20 Jahren wird die Broschüre
+                       erfolgreich in der Präventionsarbeit eingesetzt und zählt zu den
+                       gefragtesten Publikationen des Bayerischen Landesamts für
+                       Verfassungsschutz.
+
+                       Weitergehende Informationen zur SO, ein Glossar zum sciento­
+                       logischen Sprachgebrauch sowie die Adressen von Beratungs­
+                       stellen finden sich auf den Internetseiten des Bayerischen
+                       Landesamtes für Verfassungsschutz sowie des Bayerischen
+                       Staatsministeriums des Innern, für Sport und Integration.
+
+                       Aussteiger der SO sowie Angehörige von SO-Mitgliedern ­können
+                       sich per E-Mail vertraulich an das Bayerische Landesamt für
+                       Verfassungs­schutz wenden.
+
+
+
+                          Weitere Informationen und Beratungsstelle
+
+                          www.stmi.bayern.de
+                          www.verfassungsschutz.bayern.de
+
+                          Broschüre: „Das System Scientology“
+                          E-Mail: poststelle@lfv.bayern.de
+
+
+
+
+36
+Verfassungsschutz in Bayern                           Verfassungsschutzbericht Bayern 2024
+
+
+
+6.2.6 Wirtschaftsschutz und Cyber-Allianz-Zentrum
+
+Im Rahmen seiner Wirtschaftsschutztätigkeit stellt das Baye­
+rische Landesamt für Verfassungsschutz Unternehmen und
+Forschungseinrichtungen zielgerichtete Präventionsangebote
+zur Spionageabwehr zur Verfügung. Einen Schwerpunkt bildet
+hier die Abwehr elektronischer Angriffe, die seit Juli 2013 vom
+Cyber-Allianz-Zentrum Bayern (CAZ) wahrgenommen wird.
+­Erkenntnisse des CAZ fließen regelmäßig in die Arbeit der Cyber­
+ abwehr Bayern (CAB) ein, eine behördeninterne Informations-
+und Kooperationsplattform für alle mit Cybersicherheitsauf­
+gaben betrauten bayerischen Behörden. Die CAB ist seit 2020
+im Bayerischen Landesamt für Verfassungsschutz beheimatet.
+
+
+
+  Wirtschaftsschutz und Cyber-Allianz-Zentrum Bayern
+
+  www.wirtschaftsschutz.info
+  Telefon: 089 31201-222
+  E-Mail:wirtschaftsschutz@lfv.bayern.de
+
+  www.verfassungsschutz.bayern.de
+  Telefon: 089 31201-222
+  E-Mail:caz@lfv.bayern.de
+
+
+
+
+                                                                                      37
+Verfassungsschutzbericht Bayern 2024                  Minderjährige und Jugendliche
+
+
+
+Radikalisierung von Minder-
+jährigen und Jugendlichen
+
+
+
+                       Extremistische Akteure zielen darauf ab, in die Gedanken- und
+                       Gefühlswelt junger Menschen einzudringen und sie in ihrem
+                       Sinne zu beeinflussen. Dabei machen sie sich insbesondere
+                       die Alltagsherausforderungen und Bedürfnisse junger Menschen
+                       ­zunutze, um diese emotional zu erreichen und für ihre verfassungs­
+                        feindlichen Ziele zu rekrutieren.
+
+                       Neben dem Ausbau zielgruppenspezifischer Angebote in der
+                       realen Welt, haben extremistische Akteure auch ihre medialen
+                       ­
+                       ­Ansprachestrategien in weiten Teilen optimiert. Schon lange ­haben
+                        sie erkannt, dass das Internet und soziale Medien als Kommuni­
+                        kations- und Experimentierfeld im Alltag junger Menschen von
+                        zentraler Bedeutung sind und setzen bei der Produktion medialer
+                        Inhalte zunehmend auf Professionalisierung.
+
+                       Soziale Netzwerke, Onlineforen aber auch Videoportale bieten
+                       beinahe unbegrenzte Möglichkeiten, extremistische Botschaften –
+                       auch auf subtile Weise – in Umlauf zu bringen. So können sich
+                       bereits hinter vermeintlich harmlosen Unterhaltungselementen,
+                       wie beispielsweise der beiläufigen Hintergrundmusik eines Erklär­
+                       videos auf TikTok, problematische Inhalte verbergen.
+
+                       Gleichsam üben extremistische Ideologien vor allem auf junge,
+                       emotional und sozial nicht gefestigte Menschen eine beträcht­
+                       liche Anziehungskraft aus.
+
+                       Mit Blick auf eine in sämtlichen Phänomenbereichen wahrnehm­
+                       bar zunehmende Konfliktorientierung und Gewaltbereitschaft,
+                       ­erweisen sich die von vielen Extremisten propagierten Bedrohungs­
+                        visionen dabei als besonders problematisch. Sie ­tragen dazu bei,
+                        dass junge Menschen dem demokratischen Staat oder auch der
+                        Politik im Allgemeinen die Lösungskompetenz absprechen und
+                        sich selbst als Teil eines vermeintlichen Wider­    standszenarios
+                        ­wähnen.
+
+
+38
+Minderjährige und Jugendliche                            Verfassungsschutzbericht Bayern 2024
+
+
+
+
+Es besteht die Gefahr, dass sich innerhalb digitaler P
+                                                     ­ arallelwelten
+eine antidemokratische Gegenkultur formiert, die bereit ist, ihren
+Protest auch durch Gewalt zum Ausdruck zu bringen. Dabei ist
+zu befürchten, dass die online kursierenden Szeneinhalte auf
+einzelne Jugendliche eine ideenstiftende sowie mittel- und lang­
+fristig auch handlungsleitende Wirkung ausüben und so Radikali­
+sierungsprozesse in Gang setzen oder beschleunigen. Dies gilt
+nicht zuletzt auch für Personen, die bereits psychopathologische
+Auffälligkeiten aufweisen. Dennoch finden reine Online-Radikali­
+sierungen eher selten statt. So kommt realweltlichen Kontakten
+in den meisten Fällen noch immer eine tragende Bedeutung zu.
+
+
+1. MINDERJÄHRIGE ALS VULNERABLE
+   ­ZIELGRUPPE VON EXTREMISTEN
+Den deutschen und europäischen Sicherheitsbehörden wurden
+in den letzten Monaten wiederholt Anschlagsvorhaben und Tat­
+vorbereitungen bekannt, bei denen junge, teils minderjährige
+Personen als Verdächtige in Erscheinung traten. Der Trend immer
+jünger werdender radikalisierter und gewaltbereiter Personen
+stellt angesichts der gesellschaftlichen Polarisierungstendenzen
+eine wachsende sicherheitsbehördliche Herausforderung dar.
+Insbesondere islamistische, rechts- und linksextremistische Ak­
+teure versuchen, auch im vorpolitischen Raum, durch die gezielte
+Ansprache von Jugendlichen an Einfluss zu gewinnen.
+
+Studien verdeutlichen, dass sich Radikalisierungs- und Hinwen­           Radikalisierungs­
+dungsprozesse nicht auf einzelne Ursachen zurückführen lassen.           faktoren
+Sie basieren auf einem komplexen Zusammenspiel unterschied­
+licher Einflussfaktoren und biographischer Begleitumstände, ver­
+laufen daher selten linear und müssen auch nicht zwingend rein
+
+
+
+
+                                                                                             39
+Verfassungsschutzbericht Bayern 2024                   Minderjährige und Jugendliche
+
+
+                        ideologisch motiviert sein. Gleichsam führt nicht jeder Radikali­
+                        sierungsprozess zu extremistischen Ansichten oder gar dem Ein­
+                        satz von Gewalt. Die Persönlichkeitsentwicklung im Jugendalter
+                        ist von vielfältigen, häufig auch konflikthaften Ablösungspro­zessen
+                        geprägt. Minderjährige sind daher besonders empfänglich für An­
+                        gebote, die ein Zugehörigkeitsgefühl und klare Identitätsvorgaben
+                        vermitteln.
+
+                        Dies erklärt, warum auch extremistische Ideologien mit ihren
+                        ­geschlossenen Weltbildern eine starke Anziehungskraft auf ­junge
+                         Menschen ausüben können: Der Unübersichtlichkeit e­ iner moder­
+                         nen, durch multiple Krisen gekennzeichneten Gegenwart ­stellen
+                         extremistische Ideologien ein konsequentes, scheinbar wider­
+                         spruchsfreies „Schwarz-Weiß-Denken“ gegenüber. Extre­misten
+                        bieten jungen Menschen neben der Verkürzung von Problem­
+                        lagen und vermeintlichen Lösungsansätzen auch regelbasierte
+                        Werte- und Handlungskonzepte in Bezug auf Fragen der jeweili­
+                        gen Lebensführung an. Diese gehen oftmals mit konkreten Ver­
+                        haltensvorschriften im Lebensalltag einher, z. B. zum Umgang
+                        mit dem eigenen Körper oder dem anderen Geschlecht. Eine
+                        solche Betrachtungsweise befreit junge Menschen im Umkehr­
+                        schluss von der Last, individuelle Entscheidungen treffen und
+                        persönlich Verantwortung übernehmen zu müssen.
+
+
+
+
+Höherwertigkeits­       Politisch bzw. religiös motivierte Höherwertigkeitserzählungen
+narrative und Vergel­   und der virtuelle oder auch realweltliche Anschluss an eine, dem
+tungsszenarien          Staat bzw. der Mehrheitsgesellschaft trotzende Gemeinschaft,
+                        können dazu beitragen, Sinndefizite zu überwinden und erscheinen
+                        deshalb nicht nur für vulnerable Jugendliche attraktiv. Extre­misten
+                        fordern in diesem Zusammenhang häufig die Solidari­sierung mit,
+                        aus ihrer Sicht, marginalisierten Gruppen und den Kampf für ein
+                        ideologisch begründetes Vergeltungs­szenario. Sie versuchen auf
+
+40
+Minderjährige und Jugendliche                         Verfassungsschutzbericht Bayern 2024
+
+
+
+diese Weise bei Jugendlichen eklatante ­     Bedrohungsgefühle
+zu schüren und einen akuten Handlungsdruck zu erzeugen. So
+wird auch der Einsatz von Gewalt zum Ausdruck einer postu­
+lierten Notwendigkeit. Nicht zuletzt eröffnen derartige Narra­
+tive die Möglichkeit, negative Gefühle und Ressen­timents mit
+gewalt­tätigen Aktionen zu kompensieren und diese im Sinne der
+jeweiligen Ideologie als (Selbst-)Verteidigung bzw. Befreiung zu
+legitimieren.
+
+Sämtlichen extremistischen Phänomenbereichen ist gemein,              Männliche Jugend­
+dass sie von männlichen Jugendlichen – mitunter deutlich – stär­      liche im Fokus
+keren Zulauf erfahren. Ausschlaggebend hierfür sind u. a. die
+Befürwortung von Gewalt und die individuelle Affinität für ideo­
+logische Abwertungsnarrative. Zugleich ist die Hinwendung zu
+extremistischen Ideologien der (scheinbar) ultimative Ausdruck
+von Protest, Provokation und Ablehnung des gesellschaftlich
+vorherrschenden Wertekonsens.
+
+Extremistische Ideologien propagieren
+häufig eine elitäre Gegenidentität, die sich
+sowohl in einem gruppenspezifischen
+Zusammengehörigkeitsgefühl als auch in
+einem Überlegenheitsdenken gegenüber
+angeblich minderwertigen Lebensent­
+würfen und Menschen niederschlagen
+kann. Derartige Formen der Selbstüber­
+höhung verfangen häufig vor allem bei
+Jugendlichen, die selbst unter Minder­
+wertigkeitsgefühlen und Selbstzweifeln
+leiden bzw. oftmals auch selbst von Mob­
+bing oder Diskriminierung betroffen sind.
+
+Extremistische Akteure greifen diese nega­
+tiven Gefühle auf und umwerben Jugend­
+liche auch im vorpolitischen Raum mit
+vorgeblicher Anerkennung und Verbun­
+denheit. Sie organisieren realweltliche
+Zusammenkünfte, welche vordergründig
+einen Event- und Freizeit-Charakter haben.
+So nutzen sie beispielsweise Grillfeste,
+Konzerte, Fußballturniere oder auch Bene­
+fizveranstaltungen, um ihre Botschaften dort mithin beiläufig und
+unterschwellig zu verbreiten. Augenscheinlich stehen dabei Zu­
+sammenhalt und Spaß im Vordergrund. Begleitend finden j­edoch
+häufig Vorträge statt, über die extremistisches Gedankengut
+vermittelt wird, oder es kommt zur Einladung zu extremistischen
+Folgeveranstaltungen.
+
+                                                                                       41
+Verfassungsschutzbericht Bayern 2024                  Minderjährige und Jugendliche
+
+
+Push-Faktoren für       Im Zuge der Corona-Pandemie haben sich allgemeine Push-Fak­
+Radikalisierung        toren für eine Radikalisierung wie Frustration, Identitätskrisen,
+                       fehlende Sozialkontakte sowie psychische Probleme nachhaltig
+                       verstärkt und teilweise verstetigt. Hinzu kam ein Digitalisierungs­
+                       schub in der Lebenswelt von Kindern und Jugendlichen. ­Schule,
+                       Freizeit und soziale Kontakte verlagerten sich schlagartig
+                       größten­teils in den digitalen Raum. Dies führte dazu, dass das
+                       soziale und politische Leben der Generationen Z (Geburtenjahr­
+                       gänge 1996 bis 2010) und Alpha (Geburtenjahrgänge ab 2010)
+                       seither in einem besonders hohen Ausmaß von den sozialen
+                       ­Medien beeinflusst wird.
+
+
+                       2. ROLLE DER SOZIALEN MEDIEN
+                       Soziale Medien haben sich in den letzten Jahren zum Dreh- und
+                       Angelpunkt für extremistische Rekrutierung und Selbstrekru­
+                       tierung entwickelt. Exklusive Kommunikations- und Informa­
+                       tionsforen können hierbei zu sogenannten „Echokammern“
+                       werden, in denen sich Gleichgesinnte de facto in Isolation von
+                       Andersdenkenden zunehmend zurückziehen: Sie bestärken sich
+                       dort gegenseitig in ihren Überzeugungen, entwickeln gemein­
+                       sam extremistische Narrative fort und kreieren einen eigenen
+                       Wortschatz bzw. Sprachcode. Überdies sorgt die weitreichende
+                       Anonymität des Internets für eine Enthemmung im Hinblick auf
+                       Äußerungen provozierender bis hin zu extremistischer und straf­
+                       rechtlich relevanter Art. Die dadurch entstehende Verschiebung
+                       des Sagbaren sowie immer aggressivere Rhetorik sorgen für
+                       eine zusätzliche Dynamik bei sich wechselseitig beeinflussenden
+                       Radikalisierungsprozessen.
+
+                       Für extremistische Akteure sind soziale Netzwerke ein hilfreiches
+                       Werkzeug und Mobilisierungsinstrument, da mit relativ geringem
+                       Aufwand eine große Außenwirkung erzielt werden kann. Algo­
+                       rithmen der sozialen Medien verstärken diese Reichweite oft
+                       noch, wobei unterschiedliche Plattformen und Dienste eingesetzt
+                       und untereinander verlinkt werden, um sich so deren jeweilige
+                       Eigenheiten zunutze zu machen.
+
+                       Junge Menschen, die sich täglich viele Stunden im Netz bewegen,
+                       kommen fast unausweichlich mit Positionen in Kontakt, die mög­
+                       licherweise nicht auf den ersten Blick als extremistisch ­erkennbar
+                       sind. Niedrigschwellige Angebote auf Plattformen wie dem Kurz­
+                       videodienst TikTok stellen für Jugendliche meist die ersten Be­
+                       rührungspunkte mit szenerelevanten Inhalten dar. Oftmals folgt
+                       im weiteren Verlauf ein Wechsel auf Plattformen wie Discord oder
+
+
+42
+Minderjährige und Jugendliche                            Verfassungsschutzbericht Bayern 2024
+
+
+
+Telegram, wo sie gezielt mit extremistischen und häufig individuell
+auf ihre Lebensrealität zugeschnittenen Inhalten versorgt werden.
+Innerhalb dieser Foren macht der dort geteilte (vermeintliche)
+Humor einen großen Teil der ideologischen Anziehungskraft
+aus. So werden häufig bereits bekannte Memes aus der Pop-
+und Internetjugendkultur aufgegriffen, verändert und mit einer
+dezidiert extremistischen Bedeutung aufgeladen. Dazu gehören
+auch halbironisches „Shitposting“ (Veröffentlichung von Inhalten
+aggressiver, ironischer, vorgeblich humoristischer Natur) sowie
+die Diskriminierung von „Fremdgruppen“ wie beispielsweise
+LGBTQIA+ oder politischen Gegnern, vermischt mit gewalt­
+verherrlichenden Botschaften und Bildmotiven. Thematik und
+Aufmachung des eingesetzten Materials können je nach ideolo­
+gischer Prägung stark variieren. Dennoch sind sie in der Regel
+auf die Sehgewohnheiten junger Menschen ausgerichtet.
+
+
+3. AKTUELLE ENTWICKLUNGEN IN AUSGE-
+   WÄHLTEN PHÄNOMENBEREICHEN
+
+3.1 Islamismus
+Islamismus zielt auf eine religiös begründete Ideologie ab, die
+im Widerspruch zur freiheitlich demokratischen Grundordnung
+die Errichtung eines „Kalifats“ oder eines islamischen „Gottesstaa­
+tes“ anstrebt. Dementsprechend stellen vor allem fundamentalis­
+tische Zugehörigkeitsnarrative sowie die pauschale Frontstellung
+gegen westliche Werte und damit verbundene Lebensweisen
+zentrale Anknüpfungspunkte für die Radikalisierung M ­ inderjähriger
+dar. Isla­
+         mistische Gruppen vermitteln Jugendlichen, dass sie
+durch konse­quenten religiösen Gehorsam Anerkennung erlangen
+können und nutzen dies als Antriebskraft für ihre verfassungs­
+feindlichen Ziele. Gewalt hat im Islamismus oftmals einen trans­
+nationalen Fokus und wird religiös legitimiert. Im gewalttätigen
+Jihad gegen „Ungläubige“ (arabisch: „kuffar“) werden so auch
+schwerwiegende Gewaltexzesse wie Terror­anschläge als gott­
+gewollte Helden­daten verklärt.
+
+Bei diesen Radikalisierungsprozessen spielt vor allem die Ver­           Nahostkonflikt
+breitung von martialischem und subversivem Szenematerial eine
+problematische Rolle. So trägt beispielsweise der Online-Kon­
+sum von aufpeitschenden Propagandavideos und Hass-Predigten
+maßgeblich dazu bei, dass Jugendliche in den Bann islamis­
+tischer Akteure geraten und ideologisch indoktriniert werden.
+Derzeit instrumentalisieren islamistische Akteure insbesondere
+
+
+
+                                                                                          43
+Verfassungsschutzbericht Bayern 2024                 Minderjährige und Jugendliche
+
+
+                       den Nahostkonflikt bzw. die Situation der palästinensischen Be­
+                       völkerung verstärkt für ihre Propaganda in den sozialen Netz­
+                       werken. Die digitale Bilderflut, oft gepaart mit Fake News und
+                       eingebettet in eine Freund-Feind-Darstellung mit psychisch belas­
+                       tenden Inhalten, trägt zur Emotionalisierung bei und kann mit­
+                       unter als starker Radikalisierungsfaktor wirken. Oftmals beginnt
+                       die Radikalisierung von Jugendlichen jedoch auch mit scheinbar
+                       harmlosen TikTok-Videos, in denen reichweitenstarke islamistische
+                       ­Influencer allgemeine Alltagsfragen religionskonform beantworten.
+
+
+
+
+                       Wie gut die Social-Media-Strategie der Szene funktioniert, lässt
+                       sich an einigen aktuellen Beispielen nachvollziehen, bei denen Ju­
+                       gendliche aus Bayern in die Fänge der islamistischen Online-Szene
+                       geraten waren.
+
+Anschlagsdrohungen     So postete ein 13-Jähriger auf Discord ein mit einem IS-Nashid
+von Minderjährigen     (deutsch: „Hymnen“, religiöse A-cappella-Gesänge) hinterlegtes
+                       Video. Das Video zeigt eine Pistole sowie ein handgeschriebenes
+                       Schriftstück in arabischer und deutscher Sprache. In der ­besagten
+                       Nachricht wird unter Androhung eines Anschlagszenarios die
+                       Freilassung einer inhaftierten 15-jährigen IS-Anhängerin aus
+                       Nordrhein-Westfalen gefordert. Im Zuge der Ermittlungen räumte
+                       der Minderjährige ein, das Video zwar nicht selbst produziert,
+                       aber veröffentlicht zu haben und darüber hinaus einen jihadis­
+                       tischen Goresee-Kanal zu betreiben. Bei Goresee handelt es sich
+                       um eine Internetplattform zur Verbreitung von Gewaltvideos.
+                       Der 13-Jährige gab an, sich als Muslim unterdrückt zu fühlen.
+                       Daher habe er auch Inhalte salafistischer Prediger wie Pierre
+                       Vogel, Abdelhamid oder Abul Baraa konsumiert und geteilt. Der
+                       Minderjährige und seine Eltern haben sich bereit erklärt, an einem
+                       Deradikalisierung-Programm teilzunehmen.
+
+
+
+
+44
+Minderjährige und Jugendliche                            Verfassungsschutzbericht Bayern 2024
+
+
+
+Bei einem 16-Jährigen wurden im Rahmen von polizeilichen
+Durchsuchungsmaßnahmen mehrere Softair-Waffen, Kampf­
+messer sowie islamistische Schriften mit salafistischen und z. T.
+jihadistischen Inhalten gefunden.
+
+Auf Tiktok veröffentlichte ein Jugendlicher 2 mit jihadistischen
+Nashids hinterlegte Videos, in denen er gemeinsam mit einem
+Freund über Ausreiseabsichten nach Syrien spricht. In den Videos
+äußert er sich auch abwertend über den Unterricht eines Lehrers,
+in dem der Salafismus thematisiert wurde und zeigt während­
+dessen Drohgesten. Als Motiv konnte neben einer beginnenden
+Radikalisierung insbesondere auch der Wunsch nach Provoka­
+tion festgestellt werden.
+
+Ein 16-Jähriger radikalisierte sich innerhalb einer Telegram-Chat­
+gruppe mit anderen Jugendlichen, welche allesamt ihre Sympathie
+zum IS bekundeten. In der Chatgruppe äußerte der Jugendliche
+sich stark abwertend gegenüber Aleviten, Schiiten, Juden und
+Homosexuellen. Darüber hinaus verschaffte er sich im Internet
+eine Bauanleitung für eine mit einem 3D-Drucker herstellbare
+Maschinenpistole und plante einen Anschlag auf einen Polizisten.
+Im Rahmen von Durchsuchungsmaßnahmen wurden bei ihm
+Datenträger mit verbotenen Inhalten aufgefunden sowie mehrere
+Gegenstände, deren Besitz gegen das Waffengesetz verstößt.
+
+In einem weiteren Fall radikalisierte sich ein Jugendlicher zunächst
+durch IS-Videos von Hinrichtungen und Selbstmordattentaten
+im Internet. Schließlich begann er damit, gewaltdarstellende
+Videos, jihadistische Memes und Propagandainhalte sowie An­
+leitungen zur Herstellung von unkonventionellen Spreng- oder
+Brandvorrichtungen auf diversen Social-Media-Plattformen zu
+verbreiten, u. a. auf einem der al-Qaida (AQ) nahestehenden
+Rocket.Chat-Server. Darüber hinaus suchte er aktiv Kontakt zu
+Mitgliedern diverser AQ-Regionalableger.
+
+In diversen Internetgruppen konnte zudem ein islamistisch radikali­
+sierter Minderjähriger festgestellt werden, der sich aktiv in diver­
+sen Internetgruppen über Möglichkeiten zur Beschaffung einer
+Waffe informierte. Der 13-Jährige suchte auch nach Propaganda­
+videos, Gewaltdarstellungen und einer Bombenbauanleitung. Als
+Anschlagsziel hatte er diverse Veranstaltungen in Deutschland im
+Visier und wollte dabei möglichst viele Ungläubige töten. Neben
+dem im Oktober 2023 wiederaufgeflammten Nahostkonflikt fun­
+gierten auch schulische Probleme, familiäre Spannungen sowie
+psy­chische Auffälligkeiten als Katalysator für die Radikalisierung
+des Jungen. Der Minderjährige ist derzeit in einer geschlossenen
+Wohngruppe untergebracht.
+
+                                                                                         45
+Verfassungsschutzbericht Bayern 2024                  Minderjährige und Jugendliche
+
+
+                       Über vorgeblich humoristische Memes landete ein 15-Jähriger in
+                       mehreren einschlägigen, teils internationalen Telegramgruppen,
+                       in denen u. a. IS-Propagandamaterial geteilt sowie Selbstmord­
+                       attentäter als Märtyrer verherrlicht wurden. Auf dem Datenträger
+                       des Jugendlichen konnten zahlreiche jihadistische Inhalte fest­
+                       gestellt werden. Dabei fiel auf, dass der Jugendliche nicht nur
+                       Inhalte des IS konsumierte, sondern auch Sympathien für die
+                       islamistische Gruppierung „Hai’at Tahrir al-Sham“ hegte. Dies
+                       ist insofern bemerkenswert, als dass sich die beiden Organisa­
+                       tionen ideologisch unterscheiden und in Syrien teilweise gegen­
+                       einander kämpften. Damit steht der Fall des 15-Jährigen exem­
+                       plarisch dafür, dass viele radikalisierte Minderjährige oftmals nur
+                       rudimentäre Kenntnisse über die ideologische Ausrichtung der
+                       von ihnen idealisierten Gruppierungen haben. Der Jugendliche radi­
+                       kalisierte sich soweit, dass er schlussendlich Anschlags­absichten
+                       auf „Ungläubige“ in den sozialen Medien kommunizierte.
+
+
+                       3.2 Rechtsextremismus
+                       Kennzeichnend für alle rechtsextremistischen Strömungen ist
+                       eine Ideologie der Ungleichwertigkeit der Menschen. Dies spiegelt
+                       sich in zentralen Ideologieelementen wie Fremdenfeindlichkeit,
+                       Rassismus, Antisemitismus, Geschichtsrevisionismus und Autori­
+                       tarismus in unterschiedlichen Ausprägungen wider.
+
+                       Die Beweggründe junger Menschen für die Zuwendung zum
+                       Rechtsextremismus reichen von einem subjektiv empfundenen
+                       ethnischen Konkurrenzdruck über das Interesse an erlebnisorien­
+                       tierten Szeneangeboten bis hin zu einem Umfeld, das rassis­
+                       tische Einstellungen akzeptiert oder gar als „normal“ betrachtet.
+                       Auch Ohnmachtsgefühle angesichts politischer bzw. gesell­
+                       schaftlicher Entwicklungen und ein darauf basierender Vertrau­
+                       ensverlust in demokratische Institutionen können diesbezügliche
+                       Risikofaktoren darstellen.
+
+Überlegenheits­        Rechtsextremistische Propaganda lebt von national bzw. ethnisch
+narrative              fundierten Überlegenheitsnarrativen und dem Kampf gegen ver­
+Kampf gegen            meintliche „Volksfeinde“. Neben migrantischen Bevölkerungs­
+­„Volksfeinde“         teilen nimmt sie – wie auch im Islamismus – vor allem Menschen
+                       jüdischen Glaubens und die LGBTQIA+-Community ins Visier, da
+                       diese aus Szenesicht in unterschiedlicher Weise den Fortbestand
+                       des Volkes bedrohen. Dementsprechend richtet sich rechtsex­
+                       tremistische Gewalt vorwiegend gegen diese Personen­gruppen
+                       und wird in letzter Konsequenz als Verteidigung des deutschen
+                       Volkes glorifiziert.
+
+
+46
+Minderjährige und Jugendliche                          Verfassungsschutzbericht Bayern 2024
+
+
+
+Auch im Phänomenbereich Rechtsextremismus war 2024 in
+Bayern eine Zunahme von Aktivitäten radikalisierter Jugendlicher
+und junger Erwachsener festzustellen.
+
+Lange Zeit galt Musik – zusammen mit den damit verbundenen             Rasch wechselnde
+sozialen Erlebnissen – als klassisches Einstiegsmedium in die          Online-Gruppen
+rechtsextremistische Szene. Gegenwärtig ist jedoch, neben einer
+vorwiegend im Internet stattfindenden Selbstradikalisierung
+von Einzelpersonen und der gezielten Ansprache durch ideo­
+logisch gefestigte Rechtsextremisten, vor allem die spontane
+Vernetzung von Jugendlichen über soziale Medien und eine auf
+diesem Wege stattfindende Neugründung häufig relativ kurz­
+lebiger rechtsextremistischer Gruppierungen festzustellen. Dabei
+werden insbesondere auf Plattformen wie Telegram, Discord
+oder in einschlägigen Foren rassistische Ideologien wie auch
+Gewaltfantasien formuliert und in Umlauf gebracht. So finden
+sich in rechtsextremistischen Chatgruppen bzw. in sozialen
+­Medien regelmäßig explizite Darstellungen, die die vermeintliche
+ Überlegenheit der eigenen Ethnie gegenüber migrantischen und
+ gesellschaftlichen Teilgruppen, wie der LGBTQIA+-Community,
+ propagieren.
+
+Kennzeichnend für die kurzlebigen Online-Gruppierungen mit
+vorwiegend jugendlichen Mitgliedern ist zum einen, dass die
+­
+beteiligten Personen oftmals noch keine kohärente rechtsex­
+tremistische Weltsicht besitzen. Sie verbreiten vielmehr Versatz­
+stücke rechtsextremistischer Propaganda, bspw. in Form von
+Memes, und stellen so eine gemeinsame ideologische Basis
+her. Dabei sind die festgestellten Äußerungen und Darstellun­
+gen häufig auch gewaltbefürwortend. Zum andern sind solche
+Zusammenschlüsse von einer hohen Dynamik und Volatilität
+gekenn­zeichnet. Dementsprechend können sich Mitgliedschaften,
+genutzte Plattformen und Chaträume sowie Eigenbezeichnungen
+jederzeit auch kurzfristig ändern oder sogar vervielfältigen. Der­
+artige Online-Gruppen bestehen in der Regel nur für kurze Zeit.
+Eine dauerhafte Etablierung tragender Strukturen, insbesondere
+solcher, die auch zu realweltlichen Gruppenaktivitäten führen
+könnten, stellt in diesem Bereich eine Ausnahme dar.
+
+Am Beispiel der bundesweit agierenden rechtsextremistischen
+Gruppierung „Jung & Stark“ mit Ableger in Bayern lässt sich
+exemplarisch nachvollziehen, wie sich Jugendliche im Internet
+austauschen und auf Grundlage oftmals noch diffuser rechtsex­
+tremistischer Einstellungen vernetzen. Bislang trat die zu einem
+erheblichen Anteil aus Minderjährigen bestehende und insbe­
+sondere im Internet aktive Gruppierung schwerpunktmäßig
+mit realweltlichen Aktionen gegen die LGBTQIA+-Community
+
+                                                                                        47
+Verfassungsschutzbericht Bayern 2024                 Minderjährige und Jugendliche
+
+
+                       in Erscheinung. So organisierte sie beispielsweise eine Gegen­
+                       demonstration zum Christopher Street Day am 28. September in
+                       Landshut. Überdies veröffentlichte die Gruppierung ein Online­
+                       video, in dem Mitglieder eine Regenbogenflagge anzünden.
+                       Zuletzt wurden im Zusammenhang mit rechtsextremistischer
+                       Agitation in den sozialen Medien auch verstärkt radikalisierte
+                       ­jugendliche Einzelpersonen festgestellt.
+
+                       Auch bereits etablierte rechtsextremistische Parteien und Grup­
+                       pierungen organisieren Demonstrationsveranstaltungen und Frei­
+                       zeitangebote, wie sportliche Aktivitäten, um Jugendliche für sich
+                       zu gewinnen. Dabei steht eine ideologische Indoktrination zu Be­
+                       ginn oftmals noch nicht zwingend im Fokus.
+
+                       So betreibt beispielsweise die neonazistische Kleinstpartei „Der
+                       Dritte Weg“ (III. Weg) mit ihrer Jugendorganisation „Nationalrevo­
+                       lutionäre Jugend“ (NRJ) eine stark erlebnisorientierte Nachwuchs-
+                       und Rekrutierungsarbeit. Mit Aktivitätsangeboten, die gezielt auf
+                       die Interessen junger Menschen zugeschnitten sind, versucht sie,
+                       Jugendliche möglichst früh in die Parteiarbeit einzubinden.
+
+                       Hierfür organisierte die Gruppierung im Jahr 2024 diverse Ak­
+                       tionen, an denen auch Minderjährige teilnahmen. So führte die
+                       NRJ Franken im Februar einen sogenannten „Jugendtag“ in
+                       Schweinfurt durch. Am 20. April, dem Geburtstag Adolf Hitlers,
+                       fand in Garmisch-Partenkirchen und Mittenwald ein Aktions­
+                       wochenende der NRJ statt. Im Juli organisierte die NRJ Mün­
+                       chen Ostbayern eine Wanderung zum Tegernsee.
+
+
+
+
+48
+Minderjährige und Jugendliche                        Verfassungsschutzbericht Bayern 2024
+
+
+
+In der Regel veröffentlicht die NRJ im Nachgang solcher Veran­
+staltungen auch entsprechendes Bildmaterial, insbesondere zu
+den Gruppenaktivitäten. Auf diese Weise soll der gruppeninterne
+Zusammenhalt gestärkt werden. Überdies trägt eine derartige
+Selbstinszenierung dazu bei, die eigene Attraktivität bei inter­
+essierten, erlebnisorientierten Jugendlichen zu steigern. Die
+jüngsten Aktionen der NRJ zeigen, dass der „III. Weg“ seiner
+Jugendarbeit eine zunehmende Bedeutung beimisst und sich
+verstärkt darum bemüht, Jugendliche und junge Erwachsene
+mit geeigneten Aktivitäten anzusprechen und an sich zu binden.
+
+Anhand einzelner Fälle zeigt sich, dass die bei Jugendlichen
+im Rechtsextremismus häufig vorhandene Gewaltorientierung
+auch in tatsächliche Gewaltanwendung münden kann. So haben
+im Januar 2024 2 minderjährige Jugendliche im Raum Südbayern
+einen Knallkörper in ein asiatisches Restaurant geworfen und
+den Hitlergruß gezeigt.
+
+
+3.3 Linksextremismus
+Linksextremisten lehnen die Staats- und Gesellschaftsordnung
+der Bundesrepublik Deutschland als Ausformung eines ihrer
+Ansicht nach von Rassismus und Faschismus geprägten kapi­
+talistischen Systems ab. Sie richten ihr politisches Handeln an
+revolutionär-marxistischen oder anarchistischen Vorstellungen
+aus und fordern die Errichtung einer sozialistischen bzw. kommu­
+nistischen oder „herrschaftsfreien“ Gesellschaft.
+
+Szeneangehörige engagieren sich in zahlreichen gesellschaftlich      Engagement zu
+relevanten Themenfeldern und versuchen, z. B. unter dem Deck­        ­zivilgesellschaftlichen
+mantel von Gerechtigkeitsanliegen, das Protestpotenzial junger       Themen
+Menschen für ihre Ziele zu kapern. Gewalt wird oftmals als not­
+wendiges Mittel zur Bekämpfung
+von Ungerechtigkeit und „Unter­
+drückung“ erachtet. Seit einigen
+Jahren ist vor allem im autonomen
+Szenespektrum eine wachsende
+Gewaltbereitschaft zu verzeich­
+nen. Die Szene betreibt eine inten­
+sive Jugendarbeit und arrangiert
+u. a. Konzerte, Solidaritätsaktionen
+oder Mitmachkampagnen. Seit Ok­
+tober 2023 werden auch propaläs­
+tinensische Demonstrationen für
+die Rekrutierung und Mobilisierung
+
+
+                                                                                         49
+Verfassungsschutzbericht Bayern 2024                  Minderjährige und Jugendliche
+
+
+                       von Jugendlichen instrumentalisiert. Überdies setzen auch
+                       linksextremistische Akteure auf soziale Netzwerke, Blogs und
+                       soziale Medien, um junge Menschen zu erreichen.
+
+                       Die linksextremistische Szene in Bayern ist bereits seit Jahrzehn­
+                       ten durch ein junges Klientel geprägt. So findet der Einstieg in die
+                       Szene häufig im jugendlichen Alter statt. Den aktivistischen und
+                       ideologisch gefestigten Kern der Szene stellen allerdings junge
+                       Erwachsene am Ende ihrer Schullaufbahn oder während ihrer
+                       Ausbildung bzw. ihres Studiums. Führende Szene-Kader sind indes
+                       in der Regel etwas lebensälter.
+
+Klimaschutz und        Um Nachwuchs zu rekrutieren, setzt die Szene gezielt auf ­Themen,
+Antifaschismus als     die bei Jugendlichen Interesse wecken. Aktuell ist zu beobachten,
+Türöffner              dass linksextremistische Gruppen verstärkt im Zusammenhang
+                       mit Klima- bzw. Umweltschutz und Antifaschismus in Erscheinung
+                       treten. Sie nutzen diese Themen als Türöffner, um idealistische Ju­
+                       gendliche zu radikalisieren und von der Notwendigkeit eines revo­
+                       lutionären Umsturzes zu überzeugen.
+
+                                                     So beteiligte sich die bayerische
+                                                     linksextremistische Szene zu Jah­
+                                                     resbeginn 2024 beispielsweise an
+                                                     den großen bürgerlichen Demons­
+                                                     trationen gegen Rechtsextremis­
+                                                     mus. Die Szene in Nürnberg ver­
+                                                     suchte dabei über das Motto
+                                                     „Get organized“ auch jenseits von
+                                                     Szene­ grenzen interessierte Per­
+                                                     sonen anzusprechen. Die Szene
+                                                     zeigt sich immer wieder offen ge­
+                                                     genüber ­  einer Zusammenarbeit
+                                                     mit nichtextremistischen Gruppie­
+                                                     rungen und Jugendorganisationen.
+                                                     Szeneakteure beteiligen sich bei­
+                                                     spielsweise an themenbezogenen
+                                                     Bündnissen, wie den Protesten
+                                                     gegen die Münchner Sicherheits­
+                                                     konferenz oder gegen die Interna­
+                                                     tionale Automobil-Ausstellung in
+                                                     München.
+
+
+
+
+50
+Minderjährige und Jugendliche                        Verfassungsschutzbericht Bayern 2024
+
+
+
+Grundsätzlich ist in der linksextremistischen Szene in Bayern        Langsame Heranfüh­
+eine latente Gewaltbereitschaft vorhanden. Diese richtet sich        rung an Gewaltak­
+vor allem gegen Personen, die als politische Gegner oder Reprä­      zeptanz
+sentanten des Staates, vorrangig die Polizei, wahrgenommen
+werden. Dabei kann die Gewalt sowohl situativ, etwa in Form
+von Straßenmilitanz bei Demonstrationen, als auch klandestin
+geplant sein, beispielsweise bei Brandanschlägen.
+
+Eine zügige Radikalisierung sehr junger Menschen unmittelbar
+in die gewaltbereite linksextremistische Szene ist bislang nicht
+regel­mäßig festzustellen. Dies ist auf die noch immer vorwie­
+gend „klassischen“ Beteiligungsstrukturen im Linksextremismus
+zurückzuführen. Die Einbindung in gewalttätigen Aktionismus
+erfolgt häufig erst nach erfolgter Vertrauensbildung innerhalb
+­
+einer Gruppe. So spielen szeneintern nach wie vor realweltliche
+Gruppenbezüge und persönliche Kennverhältnisse eine tragende
+Rolle. Auch rein virtuelle Radikalisierungsverläufe und Gruppen,
+die vor allem ein sehr junges Publikum ansprechen, sind – anders
+als im Rechtsextremismus oder Islamismus – in der linksextre­
+mistischen Szene gegenwärtig nicht üblich.
+
+
+
+
+                                                                                     51
+Verfassungsschutzbericht Bayern 2024                              Islamismus
+
+
+
+Islamismus
+
+
+
+
+                       Der Islam als Religion und seine Ausübung werden
+                       nicht vom Verfassungsschutz beobachtet. Dem ge­
+                       setzlichen Beobachtungsauftrag unterliegen einzig
+                       islamisch-extremistische (Kurzform: islamistische),
+                       d. h. religiös-politisch motivierte Organisationen und
+                       Einzelpersonen mit verfassungsfeindlichen Bestre­
+                       bungen. Islamismus ist ein Überbegriff für eine Viel­
+                       zahl von unterschiedlichen (Teil-)Strömungen, wie
+                       beispielsweise den Salafismus.
+
+                       Als Gemeinsamkeit dieser Strömungen lassen sich
+                       folgende Kernelemente herausstellen:
+
+                       – Der Islam ist nicht allein Glaube und Ethik, sondern
+                         begründet eine alles umfassende Lebensform,
+                         die auf Koran und Sunna (Überlieferung der Aus­
+                         sprüche und Taten des Propheten) basiert.
+                       – Die Muslime bilden eine religiöse und politische
+                         Einheit (panislamische Zielsetzung).
+                       – Die Scharia (hier als islamisches Gesetz definiert)
+                         stellt ein politisches und gesellschaftliches Ord­
+                         nungsprinzip dar.
+                       – Koran und Sunna haben „Verfassungsrang“ und
+                         verbindliche Vorbildfunktion für politisches Handeln
+                         und einen zukünftigen „islamischen Staat“.
+
+
+
+
+52
+Islamismus                                   Verfassungsschutzbericht Bayern 2024
+
+
+
+
+Diese Zielsetzungen widersprechen den im Grund­
+gesetz garantierten Freiheits- und Menschenrechten
+und sind daher extremistisch. Islamistische Bestre­
+bungen sind darüber hinaus verfassungs- und inte­
+grationsfeindlich. Dem terroristischen Spektrum
+zugehörige Personen stellen überdies unverändert
+eine große Gefahr für die Innere Sicherheit Deutsch­
+lands dar. Sie verfolgen das Ziel, weltweit eine
+totali­
+      täre islamistische Gesellschaftsordnung zu
+­errichten. Dabei berufen sie sich auf die vermeint­
+ liche Pflicht der muslimischen Weltgemeinschaft,
+ sich gegen westliche, d. h. „ungläubige“ Einflüsse zu
+ „verteidigen“, und rufen zur Teilnahme am gewalt­
+ tätigen Jihad auf.
+
+
+
+
+                                                                             53
+Verfassungsschutzbericht Bayern 2024                                                       Islamismus
+
+
+                       1. PERSONENPOTENZIAL IN BAYERN
+                       Dem Spektrum islamistischer Vereinigungen bzw. Bestrebungen
+                       waren 2024 rund 2.730 (2023: 4.200) zuzurechnen:
+
+                                                                      2022        2023            2024
+
+                       Milli Görüs-Bewegung                          2.900       2.900         1.400*
+
+                       Salafismus                                      690         720               780
+
+                       davon gewaltorientiert:                       18 %         15 %            13 %
+
+                       Sonstiger Islamismus                           k. A.        k. A.             550
+
+                       Gesamt                                        4.200       4.200          2.730
+
+
+                       Die Zahlenangaben sind geschätzt und gerundet.
+
+
+                       * Der Rückgang ist maßgeblich auf einen neu definierten Bewertungsmaßstab
+                         in Bezug auf die hierunter fallende „Islamische Gemeinschaft Milli Görüs“
+                         (IGMG) zurückzuführen. Fortan werden der Milli Görüs-Bewegung im Jahres­
+                         bericht ausschließlich Personen zugerechnet, welche die extremistische
+                         Ideologie aktiv durch Unterstützungshandlungen verbreiten oder aufgrund ihrer
+                         herausgehobenen Position innerhalb der Bewegung hierzu in der Lage wären.
+
+
+                       Zu den anhänger- und mitgliederstärksten islamistischen Gruppie­
+                       rungen bzw. Strömungen zählt nach wie vor, neben der „     ­ Milli
+                       Görüs-Bewegung“ (etwa 1.400 Personen), der Salafismus.
+                       Nach einem kontinuierlichen Anstieg ab 2013 auf 770 Personen
+                       zum Jahresende 2019 lag das salafistische Personenpotenzial in
+                       Bayern zuletzt bei 720 und stieg zum Jahresende ≤2024 auf 780.
+                       Von diesen 780 Personen waren 13 Prozent dem gewaltorien­
+                       tierten Spektrum zuzuordnen.
+
+
+
+
+54
+Islamismus                                                       Verfassungsschutzbericht Bayern 2024
+
+
+
+2. ALLGEMEINES
+
+2.1 Extremistische Straf- und Gewalttaten
+
+Straftaten mit extremistischem Hintergrund aus dem Be-
+reich „Politisch motivierte Kriminalität – religiöse Ideologie“
+
+                                                        2022   2023    2024
+
+Politisch motivierte Gewaltkriminalität
+
+Tötungsdelikte (auch Versuch)                              0      0       0
+
+Körperverletzung                                           6      4       2
+
+Raub                                                       0      0       0
+
+Erpressung                                                 0      0       0
+
+Widerstandsdelikte                                         0      1       0
+
+Gefährliche Eingriffe in den Bahn- Schiffs- Luft- und      0      0       0
+Straßenverkehr
+
+Gesamt                                                     6      5       2
+
+Kriminelle Vereinigung/Terrorismus                         3     11      10
+
+Sonstige Straftaten
+
+Sachbeschädigungen                                         1      8       0
+
+Propagandadelikte                                          2     25      37
+
+Nötigung/Bedrohung                                         6      3       9
+
+Volksverhetzung                                            6    34       12
+
+Sonstige Straftaten                                       16    64       54
+
+Gesamt                                                    31    134     112
+
+Straftaten insgesamt                                     40     150     124
+
+
+Gewalttaten
+Körperverletzungen stellten den Großteil der extremistischen
+Gewaltstraftaten dar. Diese sind im Vergleich zum Vorjahr von 4
+auf 2 Fälle gefallen.
+
+Kriminelle Vereinigung/Terrorismus
+Im Vergleich zum Vorjahr bewegen sich Delikte der Kriminellen
+Vereinigung/Terrorismus mit 10 Fällen (2023:11) auf nahezu
+gleichbleibend hohem Niveau.
+
+
+
+
+                                                                                                 55
+Verfassungsschutzbericht Bayern 2024                                         Islamismus
+
+
+                       Sonstige Straftaten
+                       In der Deliktsqualität Sonstige Straftaten wurde eine deutliche
+                       Zunahme bei Propagandadelikten sowie ein deutlicher Rückgang
+                       bei den Volksverhetzungsdelikten verzeichnet. 2024 wurden 37
+                       Fälle (Propa­gandadelikte; Vorjahr: 25) bzw. 12 Fälle (Volksverhet­
+                       zung; Vorjahr: 34) gezählt.
+
+
+                       2.2 Strömungen im Islamismus
+                       Bei islamistischen Bestrebungen in Deutschland gilt es, grund­
+                       sätzlich zwischen den verschiedenen Strömungen und deren
+                       Einstellung zur Gewalt zu unterscheiden:
+
+                       – Legalistischer Islamismus: Ihm zuzurechnende Organisa­tionen
+                          wie die „Muslimbruderschaft“ (MB) mit ihren verschiedenen
+                          Abspaltungen versuchen, innerhalb der bestehenden Rechts­
+                          ordnung ihre langfristigen Ziele und gesellschaftspolitischen
+                          Vorstellungen durch strategische Einflussnahme auf das poli­
+                          tische System, Verbände und Parteien sowie auf die musli­
+                          mische Gemeinschaft in Deutschland umzusetzen. Zudem
+                          können sich die Anhänger islamistischer Gruppierungen in
+                          Deutschland nach außen hin gewaltverzichtend positionieren,
+                          während sie den Einsatz von Gewalt gegen Gegner im Ausland
+                          billigen. Die aus Strukturen der MB in den paläs­tinensischen Ge­
+                         bieten hervorgegangene „Islamische Widerstandsbewegung“
+                         (HAMAS) ist explizit vom legalistischen Islamismus ausgenom­
+                         men und dem islamistischen Terrorismus zuzurechnen.
+                       – Salafismus: Diese aus dem Wahhabismus des 18. Jahrhun­
+                         derts hervorgegangene Strömung beruft sich als islamis­tische
+                         Ideologie und moderne extremistische Gegenkultur auf einen
+                         vermeintlich unverfälschten „Ur-Islam“ des 7. Jahrhunderts.
+                          In Deutschland lässt sich der Salaﬁsmus in eine politische und
+                          eine offen gewaltorientierte jihadistische Strömung, vertreten
+                          durch ausländische Terrorvereinigungen wie den „Islamischen
+                          Staat“ (IS) oder „al-Qaida“ (AQ), unterteilen.
+                       – Schiitischer Islamismus: Dieser ist eng mit der Iranischen
+                          Revo­lution von 1978/79 verknüpft und heute insbesondere
+                          in Iran, Libanon und Irak verbreitet. Ausländische schiitisch-
+                         islamis­tische Organisationen wie die libanesische „Hizb Allah“
+                         treten in ihren Heimatstaaten militant in Erscheinung und nutzen
+                         Deutschland als Rückzugsraum, für Spendensammlungen
+                         ­sowie für Propaganda- und Rekrutierungsaktivitäten.
+
+
+
+
+56
+Islamismus                                               Verfassungsschutzbericht Bayern 2024
+
+
+
+Alle Strömungen des Islamismus interpretieren die religiösen
+Normen des Islam politisch und legen sie so aus, dass ein
+konflikt­freies Zusammenleben mit Andersdenkenden unmöglich
+erscheint. Sie bestehen auf einer strengen Lesart des Korans,
+der unabhängig von Zeit und Ort für alle Menschen gültig sei und
+dessen Inhalte und Weisungen, die im islamischen Recht ihren
+Niederschlag gefunden haben, nicht relativiert werden könnten.
+
+Anhänger des legalistischen Islamismus verfolgen, unter Nutzung          Legalistischer
+der von der deutschen Rechtsordnung garantierten Freiräume,              Islamismus
+eine Strategie der nicht gewaltorientierten Einflussnahme auf
+Politik und Gesellschaft, um langfristig eine Umformung zu einem
+Staat nach islamischen Regeln zu erreichen.
+
+Sie stehen damit allerdings in offenem Widerspruch zur freiheit­
+lichen demokratischen Grundordnung, deren Werte sie in zentra­
+len Punkten zurückweisen. Angehörige des legalistisch-islamis­
+tischen Spektrums lehnen die Abdrängung des Religiösen ins
+Private strikt ab. Nach dem Bekenntnis „Der Islam ist Religion
+und Staat“ (arabisch: „din wa daula“) müssen die Normen der
+Scharia in allen Lebensbereichen und auf allen Ebenen durch­
+gesetzt werden. Der legalistische Islamismus bedient und reak­
+tiviert ein in den Ursprüngen des Islam begründetes Überlegen­
+heitsgefühl der muslimischen Gemeinschaft als Inhaber und
+Wahrer der „letzten und erhabensten Religion“.
+
+Im schiitischen Islamismus ist die Errichtung einer Theokratie           Schiitischer
+(deutsch: „Gottesherrschaft“) und die „Herrschaft der Rechts­            Islamismus
+gelehrten“ (arabisch: „wilayat al-faqih“/persisch: „velayat-e faqih“)
+von zentraler Bedeutung. Diese Zielsetzung geht wesentlich auf
+den Führer der Iranischen Revolution, Ajatollah Khomeini (1902-
+1989), zurück und ist seit 1979 Staatsdoktrin und Verfassungs­
+grundsatz der Islamischen Republik Iran. Seine Ideen verband
+Khomeini mit antikolonialistischen, antiimperialistischen und
+klassenkämpferischen Elementen und forderte so zur Revolution,
+zur Einheit des Islam und zur Durchsetzung von Körperstrafen
+auf. Alle wichtigen Fragen der Menschheit seien bereits in Koran
+und Sunna geregelt, so sein Fazit.
+
+Der Salafismus ist die in den letzten Jahren am schnellsten              Salafismus
+­gewachsene islamistische Strömung in Deutschland. Als funda­
+ mentalistische Form des islamistischen Extremismus lässt sich
+ der Salafismus in eine politische und in eine gewaltbereite jiha­
+ distische Strömung unterteilen, die sich lediglich hinsichtlich der
+ Methodik zur Umsetzung ihrer Ziele unterscheiden: Während
+ der politische Salafismus auf die Ausübung direkter Gewalt zum
+ Erreichen seiner Ziele verzichtet und sich auf Da’wa-Aktivitäten
+
+                                                                                          57
+Verfassungsschutzbericht Bayern 2024                                        Islamismus
+
+
+                       (deutsch: Missionierung) konzentriert, befürwortet und fördert
+                       der jihadistische Salafismus eine unmittelbare und sofortige
+                       Gewaltanwendung. Dem gewaltorientierten jihadistischen Sala­
+                       fismus sind internationale Terrororganisationen wie der „Isla­
+                       mische Staat“ (IS), einschließlich dessen Ableger „Islamischer
+                       Staat – Provinz Khorasan“ (ISPK), oder „al-Qaida“ (AQ) und
+                       „Hai’at Tahrir al-Sham“ (HTS) zuzuordnen.
+
+                       Durch die Vermittlung extremistischer Grundhaltungen und Kon­
+                       zepte bereitet insbesondere die salafistische Ideologie den Nähr­
+                       boden für Radikalisierungsprozesse, die zu terroristischen Hand­
+                       lungen führen können. Bundesweit ist eine weitverzweigte,
+                       heterogene Infrastruktur des Salafismus festzustellen. Zudem
+                       ist zu beobachten, dass die Grenzen zwischen legalistischem
+                       Islamismus und politischem Salafismus zunehmend verschwim­
+                       men. Dabei beeinflussen sich die beiden Strömungen gegen­
+                       seitig. Eine klare Zuordnung von Akteuren, Gruppierungen und
+                       Einrichtungen zu den einzelnen islamistischen Strömungen kann
+                       somit nicht immer eindeutig getroffen werden. Die Durchlässig­
+                       keit zwischen den beiden Teilströmungen wird durch die hierar­
+                       chiearmen Strukturen salafistischer Netzwerke begünstigt.
+
+Islamistischer         Vom internationalen islamistischen Terrorismus (IIT) geht weiter­
+Terrorismus            hin eine der größten Gefahren für die Staatengemeinschaft aus.
+                       Er stellt auch für die Innere Sicherheit Deutschlands – trotz zahl­
+                       reicher Fahndungserfolge – eine der größten Bedrohungen dar.
+                       Der internationale islamistische Terrorismus tritt inzwischen sehr
+                       vielfältig in Erscheinung: Netzwerke werden ebenso festgestellt
+                       wie autark operierende Kleinstgruppen oder einzelagierende
+                       Täter (EAT). Vor allem die jüngste Eskalation in Nahost und die
+                       daran anknüpfenden islamistischen Opfernarrative können auf
+                       Einzelpersonen emotionalisierend wirken und diese zu Anschlägen
+                       motivieren.
+
+                       Die Aktivitäten islamistischer Terrorstrukturen in Deutschland
+                       reichen von der Nutzung Deutschlands als Rückzugs- und Ruhe­
+                       raum über die Rekrutierung und Radikalisierung neuer Anhänger­
+                       innen und Anhänger bis hin zur Mobilisierung, Koordinierung und
+                       Durchführung terroristischer Anschläge.
+
+
+                       2.3 Antisemitismus im Islamismus
+                       Antisemitismus ist mit den zugehörigen Verschwörungstheo­rien
+                       ein zentrales Wesensmerkmal islamistischer Ideologien. Der
+                       islamistische Antisemitismus stützt sich dabei jedoch weniger
+                       auf klassisch islamische Literatur als vielmehr auf rassistische
+
+58
+Islamismus                                             Verfassungsschutzbericht Bayern 2024
+
+
+
+Schriften aus Europa und Nordamerika, die bruchstückhaft mit
+aus dem Kontext gerissenen, jüdische Gruppen auf der Ara­
+bischen Halbinsel des 7. Jahrhunderts betreffenden Koranversen
+und Überlieferungen (arabisch: „Hadithe“) angereichert werden.
+Eine zentrale Rolle kommt hierbei der erstmals 1903 in Russ­
+land erschienenen antisemitischen Propagandaschrift „Proto­
+kolle der Weisen von Zion“ zu, die 1926 ins Arabische übersetzt
+­wurde. Auch rassistische Literatur wie Hitlers „Mein Kampf“ ist
+ in islamis­tischen Kreisen weit verbreitet.
+
+Eine wesentliche Grundlage für den Antisemitismus im Isla­             Antisemitische
+mismus bildet die Schrift „Unser Kampf mit den Juden“ (1950)           Schriften
+des ägyptischen Islamisten Sayyid Qutb (1906-1966), der eine
+vermeint­liche „antagonistische jüdische Macht“ und eine dem
+Judentum seit der Zeit des Propheten Muhammads „immanente
+Feindschaft gegen den Islam“ am Werk sieht. Der einflussreiche
+Theoretiker der MB beschreibt Juden als bösartig und macht sie
+verantwortlich für den von ihm diagnostizierten Verfall von Reli­
+gion, Moral und Anstand in den mehrheitlich muslimischen Staa­
+ten. Qutbs Schriften sind dabei ein Versuch der Verknüpfung des
+europäischen Antisemitismus mit islamischen Quellen.
+
+Im Zuge des Nahostkonfliktes, der Staatsgründung Israels, des          Historischer Hinter­
+ersten arabisch-israelischen Krieges sowie der anschließenden          grund
+Flucht und Vertreibung eines großen Teils der arabisch-palästi­
+nensischen Bevölkerung (aus Sicht der Palästinenser die „Nakba“,
+deutsch: „Katastrophe“) entstand in der arabischen Welt ein
+auf Israel bezogener Antisemitismus, bei dem traditionell
+antisemi­tische und antizionistische, d. h. den israelischen Staat
+ablehnende Positionen, miteinander verschmelzen. Dies stellt
+im Isla­mismus einen wichtigen Teil der Propaganda dar und hat
+sich seit dem Wiederausbruch des Nahostkonfliktes infolge des
+­HAMAS-Angriffes auf israelische Ortschaften und Kibbuzim am
+ 7. Oktober 2023 weiter verschärft.
+
+Die Terrororganisation HAMAS beruft sich in ihrer Gründungs­
+charta aus dem Jahr 1988 auf die „Protokolle der Weisen von
+Zion“ zur Legitimation ihres Antisemitismus. Demnach stünden
+Juden hinter der Französischen Revolution und dem Kommunis­
+mus, hätten den 1. Weltkrieg herbeigeführt, um das osmanische
+Kalifat auszulöschen, und den 2. Weltkrieg ausgelöst, um dann
+den Staat Israel gründen zu können. All dies solle dem Zweck
+gedient haben, die Weltherrschaft an sich zu reißen. Die Akti­
+visten der HAMAS rekurrieren wiederholt auf den Mythos einer
+vermeintlichen jüdischen Verschwörung zur Errichtung eines
+„Groß-Israel“ vom Nil bis zum Euphrat und darüber hinaus.
+
+
+                                                                                         59
+Verfassungsschutzbericht Bayern 2024                                          Islamismus
+
+
+                       In den genannten Aspekten zeigt sich eine Kontinuität des durch
+                       die „Protokolle der Weisen von Zion“ geprägten europäischen
+                       Antisemitismus, der mit religiösen Versatzstücken versehen sowie
+                       mit Koranzitaten und Prophetenüberlieferungen legitimiert werden
+                       soll.
+
+Antisemitische         Innerhalb der salafistischen Strömung, die einen Exklusivitäts­
+Stereotype und Ver­    anspruch und eine Einteilung der Welt in „Gläubige“ und „Ungläu­
+schwörungstheorien     bige“ vertritt, bilden jüdische Menschen bzw. der Staat Israel ­eines
+                       der wichtigsten Feindbilder. Obwohl Prediger des politischen
+                       Salafismus in der Regel öffentliche antisemitische Äußerungen
+                       meiden, um keine strafrechtlichen Konsequenzen befürchten zu
+                       müssen, werden immer wieder Ausnahmen ­bekannt. In diesem
+                       Zusammenhang werden jüdische Menschen oft durch negative
+                       Eigenschaften und Handlungsmuster gekennzeichnet. Gerade
+                       auch im virtuellen Raum wird antisemitische und antizionistische
+                       Propaganda verbreitet.
+
+                       Insbesondere im jihadistischen Salafismus werden regelmä­
+                       ßig antisemitische Stereotype aufgegriffen. Sowohl in der von
+                       jihadistischen Gruppierungen 1998 veröffentlichten Deklara­tion
+                       „Internationale islamische Front für den Jihad gegen Juden und
+                       Kreuzfahrer“ als auch in Verlautbarungen Usama bin Ladins
+                       („Brief an Amerika“ oder „An die Völker Europas“) bis hin zu
+                       einer Videobotschaft von AQ zum 10. Jahrestag der Anschläge
+                       vom 11. September 2001 werden Politik, Wirtschaft und Medien­
+                       welt als jüdisch kontrolliert und die Menschheit und insbeson­
+                       dere die muslimische Weltgemeinschaft (arabisch: „umma“)
+                       als jüdisch unterdrückt bezeichnet. Gruppierungen wie AQ und
+                       IS dient die Kennzeichnung der USA bzw. „des Westens“ als
+                       „jüdisch-­kapitalistisch“ und „jüdisch dominiert“ als Handlungs­
+                       legitimation und Anknüpfungspunkt für die Rekrutierung neuer
+                       Mitglieder. Somit haben antisemitische Verschwörungstheorien
+                       im Islamismus inzwischen einen konstitutiven Charakter.
+
+                       Auch im schiitischen Islamismus des iranischen Regimes oder
+                       bei der libanesischen Terrororganisation „Hizb Allah“ lassen sich
+                       antisemitische Verschwörungstheorien finden. Als beispiels­
+                       weise ab März 2011 im Rahmen des sog. „Arabischen Früh­
+                       lings“ Teile der syrischen Bevölkerung gegen das Assad-Regime
+                       demonstrierten, wurde insbesondere auch von der libanesischen
+                       „Hizb Allah“ das Narrativ einer „amerikanisch-zionistisch-wahha­
+                       bitischen Verschwörung“ verbreitet. 2013 rechtfertigte die „Hizb
+                       Allah“ hiermit ihren Einmarsch in Syrien an der Seite des syri­
+                       schen Präsidenten Assad. Ebenso ist spezifisch im schiitischen
+                       Islamismus auch die Behauptung weit verbreitet, wonach hinter
+
+
+60
+Islamismus                                              Verfassungsschutzbericht Bayern 2024
+
+
+
+der Revolution in Syrien, AQ und dem IS eigentlich eine Ver­
+schwörung aus Israel, den USA und Saudi-Arabien stünde, um
+den Widerstand gegen Israel zu schwächen.
+
+In Deutschland und Bayern sind diverse islamistische Organisa­
+tionen aktiv, die ebenfalls ein antisemitisches Weltbild vertreten.
+Hierzu gehören die MB, die „Milli Görüs-Bewegung“, salafis­
+tische Zusammenschlüsse, aber auch nicht an Organisationen
+gebundene Personen mit entsprechender ideologischer Prä­
+gung. In Deutschland verbotene Fernsehsender, wie der der
+„Hizb Allah“ nahestehende Sender „al-Manar“, verbreiten anti­
+semitische Propaganda über das Internet via Livestream und
+können somit auch hierzulande konsumiert werden.
+
+In Reaktion auf den terroristischen Großangriff der HAMAS auf           Auswirkungen des
+israelisches Staatsgebiet am 7. Oktober 2023 traten auch die            Nahostkonfliktes
+Orga­nisationen „Realität Islam“ (RI), „Generation Islam“ (GI) und
+„Muslim Interaktiv“ (MI), die alle der verbotenen „Hizb ut-Tahrir“
+(HuT) nahestehen, in Erscheinung. Die 1953 in Jerusalem ge­
+gründete HuT vertritt eine im Kern antisemitische Ideologie, die
+sich u. a. in antisemitischen Verschwörungstheorien und dem
+ideologischen Ziel der Zerstörung Israels manifestiert. Anders
+als die offen antisemitisch agierende und in Deutschland seit
+2003 verbotene HuT versuchen RI, GI und MI nach außen hin
+gemäßigter und weniger gewaltoffen aufzutreten. So behaupten
+die 3 Gruppierungen regelmäßig, nur Kritik an Israel zu äußern
+und keine grundsätzlich antisemitischen Positionen zu vertreten.
+Tatsächlich sind jedoch antisemitische Elemente der HuT-Ideo­
+logie unterschwellig in den Aussagen von RI, GI und MI ent­
+halten. Zum einen negieren sie regelmäßig das Existenzrecht
+Israels, indem sie Israel beispielweise in Anführungszeichen
+setzen oder den Staat herabsetzend als „Gebilde“ bezeichnen,
+was fester Bestandteil des israelbezogenen Antisemitismus ist.
+Zum anderen bedienen sich die Gruppierungen klassisch-antise­
+mitischer Narrative und Motive, z. B. der Kennzeichnung Israels
+als angeblicher „Kindermörder“. Im Rahmen des Demonstra­
+tionsgeschehens seit dem Angriff der HAMAS kam es in Bay­
+ern wiederholt zu israelbezogenen antisemitischen Äußerungen,
+gewaltverharmlosenden Aussagen sowie teilweise extremis­
+tischen Einlassungen.
+
+Das Attentat am 5. September auf das Generalkonsulat des                Attentatsversuch auf
+Staates Israel in München durch einen 18-jährigen österreichi­          israelisches General­
+schen Staatsangehörigen demonstriert hierbei, wie (israelbezo­          konsulat
+gene) antisemitische Agitation in islamistischen Online-Kreisen
+u. a. Einfluss auf die Mobilisierung und Opferauswahl bei einem
+Tatvorhaben nehmen kann.
+
+                                                                                           61
+Verfassungsschutzbericht Bayern 2024                                         Islamismus
+
+
+                       3. STRUKTUREN
+
+                       3.1 Legalistischer Islamismus
+                       Nicht gewaltorientierte, sog. „legalistisch-islamistische“ Gruppie­
+                       rungen verfolgen ihre extremistischen Ziele mit politischen Mitteln
+                       innerhalb der bestehenden Rechtsordnung. Eine unmittel­         bare
+                       Gefähr­dung im Hinblick auf die Anwendung direkter Gewalt oder
+                       die Begehung terroristischer Anschläge in Deutschland geht von
+                       solchen Gruppierungen nicht aus. In Einzelfällen kommt es jedoch
+                       zu Übertritten von Anhängern legalistischer Organisa­tionen in
+                       das gewaltbereite Spektrum. Personen des legalistisch-islamis­
+                       tischen Spektrums bestehen auf einer strengen Lesart und
+                       extremistischen Interpretation von Koran und Sunna, die nach
+                       ihrer Auffassung unabhängig von Zeit und Ort für alle Menschen
+                       gültig seien. Eine nicht relativierbare Richtschnur sind für sie die
+                       Weisungen, die im islamischen Gesetz, der Scharia, enthalten
+                       sind und mit dem Anspruch eines politischen und gesellschaft­
+                       lichen Ordnungssystems verbunden werden. Durch Lobbyarbeit
+                       o. ä. versuchen sie, Einfluss auf Entscheidungsprozesse in Politik
+                       und Gesellschaft zu nehmen. Dabei verfolgen sie eine Doppel­
+                       strategie: Während sie sich nach außen offen, tolerant und
+                       dialog­bereit geben, bestehen innerhalb dieser Organisationen
+                       antidemokratische und totalitäre Tendenzen.
+
+Beeinflussungs­        Ziel des legalistischen Islamismus ist es, zunächst Teilbereiche
+strategie              der Gesellschaft insbesondere über Erziehungs- und Bildungs­
+                       konzepte zu manipulieren und im Sinne der eigenen Weltan­
+                       schauung zu ideologisieren. Langfristig wird die Umformung
+                       des demokratischen Rechtsstaates in einen islamistischen
+                       Staat angestrebt. Um ihre Ziele zu erreichen, betreiben legalis­
+                       tisch-islamistische Personen Kulturvereine, Sportgruppen und
+                       Moscheen, die einerseits der Werbung von Mitgliedern, ande­
+                       rerseits der Verbreitung der Ideologie dienen. Zum Teil über
+                       Dachverbände versuchen sie, sich gegenüber dem Staat, den
+                       Medien oder sonstigen, z. B. kommunalen Entscheidungs­trägern,
+                       als Ansprechpartner bei Fragen, die den Islam betreffen zu präsen­
+                       tieren und sich als vorgebliches Sprachrohr „der musli­mischen
+                       Gemeinschaft“ anzubieten. Ein Großteil der ideolo­gischen Grund­
+                       sätze legalistisch-islamistischer Organisationen ist unvereinbar
+                       mit den im Grundgesetz der Bundesrepublik Deutschland veran­
+                       kerten Prinzipien der Demokratie, des Rechtsstaates und einer
+                       auf der Menschen­würde basierenden politischen Ordnung.
+
+
+
+
+62
+Islamismus                                           Verfassungsschutzbericht Bayern 2024
+
+
+
+In den Bereichen des legalistischen Islamismus und des poli­         Entgrenzung zwi­
+tischen Salafismus zeichnet sich eine zunehmende Tendenz             schen Legalismus
+der Entgrenzung ab. Hierbei ist keine einseitige Beeinflussung       und Salafismus
+zu beobachten, vielmehr kann von einer wechselseitigen Diffu­
+sion gesprochen werden. Personen aus der legalistisch-islamis­
+tischen Szene haben teilweise erkannt, dass die Kooperation mit
+überregional bekannten Szeneakteuren des Salafismus oder die
+Übernahme der medien- und jugendaffinen Öffentlichkeitsarbeit
+salafistischer Prediger und Gruppierungen ein nützliches Mittel
+sowohl zur Erschließung eines erweiterten und generationen­
+übergreifenden Personenkreises als auch zur Erzielung von Ein­
+nahmen ist. Sie distanzieren sich damit jedoch nicht von ihrem
+klassischen Betätigungsfeld der Moschee, sondern setzen zu­
+sätzlich auf eine moderne Jugendarbeit und Nachwuchsförde­
+rung sowie die Etablierung vermeintlich unabhängiger Online-Ini­
+tiativen in den einschlägigen sozialen Netzwerken.
+
+Auch bei der Themenwahl orientieren sie sich verstärkt an einem
+islamistischen Opfernarrativ und einer angeblichen Islamfeind­
+lichkeit der deutschen Politik, Medien und Mehrheitsgesell­
+schaft. So werden etwa die Kopftuchdebatte sowie ganz allge­
+mein eine vorgebliche „Verschwörung des Westens“ gegen den
+Islam thematisiert.
+
+Im Zuge des seit Oktober 2023 verschärften Nahostkonfliktes
+wurden Onlinebeiträge von RI, GI und MI, in denen z. B. unbe­
+dingte Solidarität mit den palästinensischen Glaubensgeschwis­
+tern gefordert wurde, auch von Personen aus dem salafistischen
+Spektrum in den sozialen Medien weiterverbreitet. Präventions­
+projekte und Medienartikel, in denen eine kritische Auseinander­
+setzung bzw. Berichterstattung zum Themenfeld (legalistischer)
+Islamismus und Salafismus stattfindet, werden übereinstimmend
+als „Hetze“ diffamiert sowie der liberale Diskurs um das Selbst­
+bestimmungsrecht von Frauen und Personen aus der queeren
+Community offen abgelehnt. Anhängerinnen und Anhänger
+beider Strömungen teilen, verbreiten und kommentieren solche
+Beiträge in ihren Communities und tragen damit zur vermehrten
+Sichtbarkeit und medialen Reichweite islamistischer und salafis­
+tischer Deutungsweisen, Verschwörungserzählungen und Des­
+informationen bei. Dieser ideologische Schulterschluss zwischen
+legalistischem Islamismus und politischem Salafismus zeigt sich
+ebenso in überschneidenden antisemitischen und stark israel­
+feindlichen Haltungen.
+
+
+
+
+                                                                                        63
+Verfassungsschutzbericht Bayern 2024                                         Islamismus
+
+
+                       Organisationen im legalistischen Islamismus sind die in Deutsch­
+                       land existierenden Strukturen der MB, die türkisch geprägte
+                       „Milli Görüs-Bewegung“, die „Furkan Bewegung“, die „Hizb
+                       ut-Tahrir“ (HuT), die „Tablighi Jama’at“ (TJ) sowie schiitisch-isla­
+                       mistische Gruppierungen.
+
+                       3.1.1     Die Muslimbruderschaft (MB) und ihr Einfluss in
+                                 Deutschland
+
+                       Personenpotenzial       Deutschland:   ca. 1.4501
+                                               Bayern:          ca. 110
+                       Gründung                1928 in Ägypten
+
+                       1
+                           Quelle: Bundesverfassungsschutzbericht 2023
+
+
+                       Vertretung in Deutschland: Deutsche Muslimische Gemein­
+                       schaft e. V. (DMG), ehemals: Islamische Gemeinschaft in
+                       Deutschland e. V. (IGD)
+                       Gründung                1960
+
+                       Präsident               Khallad Swaid (seit 2017)
+                       Sitz                    Köln/Berlin
+
+
+                       Die 1928 von Hassan al-Banna in Ägypten gegründete MB ist
+                       die einflussreichste und älteste Bewegung des zeitgenössischen
+                       Islamismus, deren politischer Charakter sich seit ihrer Gründung
+                       aus dem Selbstverständnis als antikoloniale und nationalrevolu­
+                       tionäre Missionierungsbewegung ergibt.
+
+                       Die ägyptische Mutterorganisation der Muslimbruderschaft
+                       Auf der Basis der durch Hassan al-Banna formulierten Organisa­
+                       tions- und Missionierungskonzepte konnte sich die MB in der
+                       ersten Hälfte des 20. Jahrhunderts durch den Aufbau eines
+                       Netzwerkes von karitativen Einrichtungen und Bildungsinstitu­
+                       tionen zu einer populären Massenbewegung entwickeln.
+
+                       Wegen zunehmender Konkurrenz zu staatlichen Institutionen
+                       und wachsender Militanz wurde die MB in den 1950er und
+                       1960er Jahren unter dem ägyptischen Präsidenten Gamal Abdel
+                       Nasser zunächst verboten. Ab Mitte der 1980er Jahre wurde sie
+                       mit dem Ziel der Zurückdrängung sozialistischer Einflüsse neuer­
+                       lich gefördert und konnte sich durch die Teilnahme an Parla­ments­
+                       wahlen auch in der politischen Landschaft etablieren.
+
+
+
+
+64
+Islamismus                                           Verfassungsschutzbericht Bayern 2024
+
+
+
+Diese Entwicklung der MB im Bereich der politischen Partizipa­
+tion erreichte in Ägypten ihren Höhepunkt 2011 mit der Gründung
+der „Freedom and Justice Party“ (FJP, arabisch: „Hizb al-hurriya
+wa-l-’adala“) und der Regierung ihres Präsidentschaftskandi­
+daten Muhammad Mursi von 2012 bis 2013. Bestrebungen der
+MB, ihre Ideologie durchzusetzen, eine islamistische Klientelpo­
+litik sowie dadurch ausgelöste Proteste der ägyptischen Öffent­
+lichkeit führten 2013 zu einem Militärputsch, zur Zerschlagung
+des institutionellen Netzwerkes der MB und zu ihrer Einstufung
+als Terrororganisation. Seitdem ist die ägyptische Mutterorgani­
+sation durch konspirative Untergrundaktivitäten und durch Exil­
+strukturen, insbesondere eine „Istanbul-Front“ und eine „Lon­
+don-Front“, d. h. miteinander konkurrierende Gruppierungen in
+der Türkei und Großbritannien, geprägt.
+
+Vor dem Hintergrund der auf den Sturz Mursis im Jahr 2013
+folgenden Auseinandersetzungen zwischen MB-Sympathisan­
+tinnen und -Sympathisanten einerseits und dem ägyptischen
+Militär andererseits, etablierte sich das Symbol der schwarzen
+Hand mit 4 ausgestreckten Fingern und eingeklapptem Daumen,
+genannt „Rabia“ (deutsch: „Vierte“), als Sympathiebekundung
+für die MB.
+
+Ideologie
+Es existieren ideologische Konstanten der MB, die den Kern ihrer
+Unvereinbarkeit mit der freiheitlichen demokratischen Grundord­
+nung bilden. Zuvorderst steht die Vorstellung vom Islam als um­
+fassendes System, welches v. a. über Bildungsarbeit, vom Indi­
+viduum über die Familie bis zur Gesellschaft, etabliert werden
+soll. Der ursprünglich als Präsidentschaftskandidat der FJP vor­
+gesehene Khairat al-Shater verdeutlichte 2011 die gesellschafts­
+politischen Ziele der MB:
+
+        Die Mission ist klar: Erneuerung des Islam in
+        seiner allumfassenden Konzeption, Unterwer­
+        ­
+        fung der Menschen unter Gott, Institutionali­
+        sierung von Gottes Religion, Islamisierung des
+        Lebens, Ermächtigung von Gottes Religion und
+        Etablierung der Wiedergeburt der Umma auf der
+        Basis des Islam.
+
+
+Das Konzept beinhaltet die Untrennbarkeit von Politik und Reli­      Untrennbarkeit von
+gion sowie die Forderung nach der Anwendung der Scharia als          Politik und Religion
+oberstes gesellschaftliches und politisches Ordnungsprinzip.
+
+
+
+
+                                                                                       65
+Verfassungsschutzbericht Bayern 2024                                        Islamismus
+
+
+                        Fragen politischer Herrschaft werden von der MB in der Regel
+                        in Referenz auf die Scharia beantwortet. Der frühere Slogan
+                        „tatbiq al-shari’a“ (deutsch: „Anwendung der Scharia“) wurde,
+                        unter Beibehaltung der inhaltlichen Übereinstimmung, durch die
+                        Zielsetzung eines „zivilen Staates mit islamischem Referenz­
+                        rahmen“ ersetzt.
+
+Taktisches Verhältnis   Im Ergebnis ist ein taktisches Verhältnis der MB zu Begriffen wie
+zur Demokratie          Demokratie und Pluralismus feststellbar. Einerseits unterstützt
+                        die MB mit ihrem Verständnis vom zivilen Staat den Pluralismus
+                        sowie bürgerliche und politische Freiheiten, die vor allem vor
+                        dem Hintergrund autoritärer Regime durchaus im Interesse der
+                        MB sind. Andererseits zielt der Zusatz des islamischen Referenz­
+                        rahmens darauf ab, die Ausrichtung von Staat und Gesellschaft
+                        an den Bestimmungen der Scharia zu erzwingen, illiberale reli­
+                        giöse Konzepte durchzusetzen und Einschränkungen von bürger­
+                        lichen sowie politischen Freiheiten zu begründen.
+
+Islam der Mäßigung      Die MB nimmt für sich in Anspruch, einen „Islam der Mäßigung“
+und „Wasatiyya-         bzw. einen „Islam der Mitte“ zu vertreten. Wichtigste Referenz­
+Konzept“                quelle der MB ist das „Wasatiyya-Konzept“ des im September
+                        2022 verstorbenen Yusuf al-Qaradawi, der als einer der wichtigs­
+                        ten Ideologen der MB gilt. Die Rhetorik der MB suggeriert, mit
+                        dem Begriff der „wasatiyya“ (deutsch: „Mittelposition“ oder
+                        „Mäßigung“) eine Position zu vertreten, die Extremismus ablehnt.
+                        Al-Qaradawis Verständnis von „Mitte“ basiert allerdings auf
+                        einer extremistischen Islaminterpretation, die mit einem Wahr­
+                        heits- und Überlegenheitsanspruch sowie der Forderung nach
+                        uneingeschränkter Gültigkeit und Umsetzung in der Gegenwart
+                        einhergeht.
+
+                        Das Verhältnis der MB zu Fragen der Gewaltanwendung ist
+                        weiter­hin davon geprägt, dass sie sich bis heute nicht eindeutig
+                        von den militanten Konzepten des Muslimbruders und ideolo­
+                        gischen Vordenkers des Jihadismus, Sayyid Qutb, distanziert.
+                        Offiziell hat die MB, mit Ausnahme ihres Ablegers, der HAMAS,
+                        zwar seit einigen Jahrzehnten der Gewalt abgeschworen, die
+                        Haltung der Führungsebene der MB seit dem Sturz Muhammad
+                        Mursis zeigt sich in dieser Frage jedoch ambivalent bis hin zu
+                        al-Qaradawis Auffassung, wonach der militärische Jihad auch in
+                        aktuellen Konflikten legitim sei.
+
+                        Die MB bekämpft von ihrer islamistischen Auslegung abweich­
+                        ende, vor allem liberale Islaminterpretationen, macht ihr Staats­
+                        bürgerkonzept am islamischen Glauben fest und lässt in ihrer
+
+
+
+
+66
+Islamismus                                                Verfassungsschutzbericht Bayern 2024
+
+
+
+Vorstellung von politischer Herrschaft nur islamkonforme Par­
+teien zu. Zudem weicht sie nicht von der Scharia als Grundlage
+politischer Herrschaft ab und bekennt sich nicht zu persönlichen
+Freiheitsrechten und der Akzeptanz gleicher Rechte für alle
+Staatsbürger. Entsprechend sind die gesellschaftlichen und poli­
+tischen Zielsetzungen der MB als islamistisch zu werten.
+
+Strategischer Ansatz
+Nach außen gibt sich die MB offen, tolerant und dialogbereit und
+strebt eine Zusammenarbeit mit politischen Institutionen und
+Entscheidungsträgern an, um so Einfluss im öffentlichen Leben
+zu erlangen. Ihr Ziel bleibt aber die Errichtung einer auf der Scharia
+basierenden gesellschaftlichen und politischen Ordnung.
+
+Gemäß der legalistischen Strategie bewegt sich die MB inner­
+halb der hiesigen Rechtsordnung und nutzt deren Freiräume,
+insbesondere die Religionsfreiheit, um ihre extremistische Islam­
+interpretation als vorgeblichen „Islam der Mäßigung“ zu etablieren.
+Hierzu sucht sie gezielt den Kontakt zu öffentlichen Institutionen
+und Entscheidungsträgern, um sich als Interessen­vertretung „der
+muslimischen Gemeinschaft“ und Ansprechpartnerin in Sachen
+Islam anzubieten und politische Anerkennung zu erzielen. Lang­
+fristig soll über die erlangte Deutungshoheit die gesellschaftliche
+Grundlage für die Errichtung einer politischen Ordnung nach den
+Vorstellungen der MB geschaffen werden.
+
+Organisatorische Strukturen
+Die MB hat den Charakter einer Bewegung bzw. eines internatio­
+nalen Netzwerkes. In zahlreichen Staaten existieren Vereinigun­
+gen, die sich ideologisch an der MB-Mutterorganisation in Ägyp­
+ten orientieren, z. B. die „al-Nahda“ in Tunesien. Offiziell haben
+sich die meisten Zweige der MB von Gewalt abgewandt. Die
+HAMAS als palästinensische Repräsentanz der MB nutzt jedoch
+weiterhin militärische Mittel im Kampf gegen Israel.
+
+Die MB tritt in Deutschland zwar nicht offen in Erscheinung, wird
+jedoch durch die „Deutsche Muslimische Gemeinschaft e. V.“
+(DMG), ehemals „Islamische Gemeinschaft in Deutschland
+e. V.“ (IGD), vertreten.
+
+Deutsche Muslimische Gemeinschaft e. V. (DMG), ehemals:
+Islamische Gemeinschaft in Deutschland e. V. (IGD)
+Die DMG mit Sitz in Berlin wurde Anfang der 1960er Jahre
+­zunächst als „Islamische Gemeinschaft Süddeutschland“ gegrün­
+ det. Sie firmierte ab 1982 unter dem Namen „Islamische Ge­
+ meinschaft in Deutschland e. V.“ (IGD) und wurde 2018 in DMG
+
+
+                                                                                          67
+Verfassungsschutzbericht Bayern 2024                                                    Islamismus
+
+
+                       umbenannt. Seit 2017 wird die Organisation von Khallad Swaid
+                       geführt. Die DMG ist die wichtigste und zentrale Organisation
+                       von Anhängerinnen und Anhängern der MB in Deutschland.
+                       Verbindungen von DMG-Funktionären zu ausländischen Akteu­
+                       ren der MB belegen die Einbindung der DMG in ein weltweites
+                       MB-Netzwerk.
+
+DMG-nahe Struk­        Durch ihre an der MB-Ideologie ausgerichtete Strategie der
+turen in Bayern        Einflussnahme im gesellschaftlichen und politischen Bereich
+                       richten sich die Bestrebungen der DMG gegen die freiheitliche
+                       demokratische Grundordnung der Bundesrepublik Deutschland.
+                       Ihre Klage gegen die Nennung im Verfassungsschutzbericht des
+                       Bundes nahm die DMG im August 2021 zurück. In Bayern wird
+                       das „Islamische Zentrum München“ (IZM) der DMG zugerechnet.
+
+                       3.1.2     Milli Görüs-Bewegung
+
+                       Aktivisten und Funktionäre     Bayern: ca. 1.400*
+
+                       Gründer                        Necmettin Erbakan
+
+                       Entstehung                     ca. 1970 in der Türkei
+
+                       Ideologischer Bezug            Muslimbruderschaft
+                       Medien                         „Milli Gazete“ (Zeitung, deutsch: „Nationale
+                                                      Zeitung“), „TV5“ (türkischer Fernsehsender),
+                                                      „Perspektif“ (Zeitschrift, deutsch: „Pers­
+                                                      pektive“) und „Camia“ (Zeitschrift, deutsch:
+                                                      „Gemeinschaft“)
+
+
+                       * Der Rückgang ist maßgeblich auf einen neu definierten Bewertungsmaßstab
+                         in Bezug auf die hierunter fallende „Islamische Gemeinschaft Milli Görüs“
+                         (IGMG) zurückzuführen. Dieser impliziert fortan eine Fokussierung auf Perso­
+                         nen, welche die extremistische Ideologie durch Unterstützungshandlungen
+                         verbreiten oder aufgrund ihrer Position innerhalb der Bewegung hierzu in der
+                         Lage wären.
+
+
+„Adil Düzen/Batil      Die islamistische „Milli Görüs-Bewegung“ besteht aus selbst­
+Düzen“-Konzept         ständig und unabhängig voneinander agierenden Organisa­
+                       tionen, deren verbindendes Element die Ideologie des am
+                       27. Februar 2011 verstorbenen türkischen Politikers Necmettin
+                       Erbakan ist. Erbakan gründete die Bewegung Ende der 1960er
+                       Jahre. Zentrale Bedeutung in seinem politischen Denken haben
+                       die von ihm geprägten Schlüsselbegriffe „Milli Görüs“ (deutsch:
+                       „natio­nale Sicht“) und „Adil Düzen“ (deutsch: „gerechte Ord­
+                       nung“). Im Sinne Erbakans ist zwischen der auf dem Wort Gottes
+                       basie­renden religiös-islamischen „gerechten Ordnung“ und der
+                       „westlichen Ordnung“, geprägt von Morallosigkeit, Gewalt und
+
+
+68
+Islamismus                                            Verfassungsschutzbericht Bayern 2024
+
+
+
+Unterdrückung („Batil Düzen“, deutsch: „nichtige Ordnung“) zu
+unterscheiden. Es gelte, die gegenwärtig dominierende „west­
+liche Ordnung“ durch eine „gerechte Ordnung“ zu ersetzen,
+wofür die Ausrichtung an islamischen Grundsätzen statt an von
+Menschen geschaffenen und damit „willkürlichen“ Regeln erfor­
+derlich sei. Auch andere von Menschen erdachte Gesellschafts-,
+Staats- und Wirtschaftssysteme zählen zu Erbakans Feindbil­
+dern. Zudem negiert seine islamistische Ideologie das Existenz­
+recht Israels, dessen Regierung und Bevölkerung meist abwer­
+tend mit dem Wort „Zionisten“ umschrieben werden.
+
+Ziel der Bewegung ist es, zunächst die laizistische Staatsord­        Antisemitische
+nung in der Türkei, d. h. die Trennung von Religion und Staat,        Tendenzen
+durch eine islamistische Staats- und Gesellschaftsordnung mit
+dem Koran und der uneingeschränkten Gültigkeit der Scharia als
+Grundlagen des Staates und des gesellschaftlichen Zusammen­
+lebens abzulösen. Weiter wird die weltweite Einführung einer
+isla­mistischen Staats- und Gesellschaftsordnung nach dem his­
+torischen Vorbild des Osmanischen Reiches unter der Führung
+der heutigen Türkei angestrebt. In letzter Konsequenz würde dies
+den Grundsatz der Gewaltenteilung, das Rechtsstaats­prinzip und
+damit die demokratische Ordnung beseitigen. Zudem ist die anti­
+semitische oder zumindest stark antizionistische Ideologie der
+„Milli Görüs-Bewegung“ unvereinbar mit der Reli­gionsfreiheit,
+dem Gleichbehandlungsgrundsatz sowie den im Grund­gesetz
+verankerten Menschenrechten. Die Bestrebungen der „Milli
+Görüs-Bewegung“ richten sich insgesamt gegen die freiheit­
+liche demokratische Grundordnung und gegen den Gedanken
+der Völker­verständigung.
+
+Der „Milli Görüs-Bewegung“ sind insbesondere folgende Orga­
+nisationen zuzurechnen: die „Islamische Gemeinschaft Milli
+Görüs“ (IGMG), die „Saadet Partisi“ (SP, deutsch: „Partei der
+Glückseligkeit“) als politische Vertretung der Bewegung, die
+„Ismael Aga Cemaati“ (IAC, deutsch: „Ismail Aga Gemein­
+­
+schaft“) und die „Erbakan-Stiftung“.
+
+Islamische Gemeinschaft Milli Görüs e. V. (IGMG)
+In Deutschland wird die „Milli Görüs-Bewegung“ durch die
+IGMG als Dachverband repräsentiert. Die Zentrale der IGMG hat
+ihren Sitz in Köln (Nordrhein-Westfalen) und ist untergliedert in
+mehrere nachgeordnete „Gebiete“ (türkisch: „bölge“). Innerhalb
+der „Gebiete“ ist eine Vielzahl von „Ortsvereinen“ organisiert,
+die sich namentlich dem Dachverband zu- und unterordnen. In
+Bayern sind derzeit 44 solcher IGMG-Ortsvereine bekannt. Die
+Regionalverbände befinden sich in Nürnberg und München.
+
+
+                                                                                       69
+Verfassungsschutzbericht Bayern 2024                                        Islamismus
+
+
+                       Trotz bundesweit nachlassender Extremismusbezüge der IGMG
+                       konnten Anzeichen für einen Loslösungsprozess von der „Milli
+                       Görüs-Bewegung“ in Bayern nur in wenigen Einzelfällen festge­
+                       stellt werden. Eine Orientierung – insbesondere von Funktionären
+                       der IGMG – an der islamistischen „Milli Görüs“-Ideologie ist,
+                       bis auf wenige Ausnahmen, in Bayern grundsätzlich weiterhin
+                       feststellbar. So verdeutlichen z. B. Gedenkveranstaltungen und
+                       Grabbesuche in der Türkei, auch von Delegationen aus Bayern,
+                       weiterhin Erbakans Bedeutung für die IGMG.
+
+                       Saadet Partisi (SP)
+                       In der Türkei ist die Unterstützerszene der „Milli Görüs-Bewe­
+                       gung“ seit dem Jahr 2001 politisch in der SP organisiert, die
+                       seit 2016 von Temel Karamollaoglu geleitet wird. Ihre diversen
+                       Vorgängerparteien wurden allesamt verboten, nachdem ihnen
+                       vorgeworfen worden war, die Trennung von Staat und Religion
+                       in der Türkei beseitigen zu wollen. Mittels Wahlallianzen ist die
+                       SP seit Juni 2018 im türkischen Parlament vertreten und Teil der
+                       dortigen Opposition.
+
+                       Zentrale der in Deutschland und Europa bestehenden Regio­
+                       nalvertretungen der SP ist der 2017 als „Saadet Europa e. V.“
+                       gegründete Verein mit Sitz in Duisburg (Nordrhein-Westfalen).
+                       Auch in Bayern verfügt die SP über Strukturen, wobei hier die
+                       Regionalverbände Südbayern (Sitz in München) und Nordbayern
+                       (Sitz in Nürnberg) zu nennen sind. Ideologisch sind die Strukturen
+                       der SP in Deutschland und Europa fest in der „Milli Görüs-Bewe­
+                       gung“ verhaftet. So fand im Februar in Ingolstadt eine von der
+                       südbayerischen Regionalvertretung organisierte Veranstaltung
+                       zum Gedenken an Erbakan unter dem Motto „Eine neue Welt
+                       mit Milli Görüs“ statt.
+
+                       Ismael Aga Cemaati (IAC)
+                       Die IAC ist eine islamistische Glaubensgemeinschaft aus der
+                       Türkei und nach der namensgleichen Ismael-Aga-Moschee im
+                       Istanbuler Stadtbezirk Fatih benannt. Die Gemeinschaft ist Teil
+                       der weitverzweigten mystischen Bruderschaft der „Naqshban­
+                       diya“, der auch Necmettin Erbakan, der verstorbene Führer der
+                       „Milli Görüs-Bewegung“, angehörte. Die IAC gilt als einer der
+                       radikaleren Zweige der Bruderschaft.
+
+                       Gründer und spirituelles Oberhaupt der IAC war bis zu seinem
+                       Tod im Jahr 2022 Mahmut Ustaosmanoglu, der auch Mahmut
+                       Hoca oder Mahmut Efendi genannt wurde. Sein Nachfolger, Hasan
+                       Kilic, starb bereits 2 Jahre später im Alter von 93 Jahren. Das am
+                       23. April für ihn in Istanbul gehaltene Totengebet, an dem auch
+
+
+70
+Islamismus                                                         Verfassungsschutzbericht Bayern 2024
+
+
+
+Staatspräsident Erdogan, Politiker der SP und der im Juli getötete
+HAMAS-Führer Ismail Haniyya teilnahmen, wurde auf diversen
+Youtube-Kanälen live übertragen. Beileidsbekundungen kamen
+über Social-Media-Kanäle u. a. von Fatih Erbakan, dem Vorsitzen­
+den der Partei „Yeniden Refah Partisi“ (YRP, deutsch: „Die neue
+Wohlfahrtspartei“) und der „Erbakan-Stiftung“. Außerdem wurde
+Ahmet Fikri Dogan, pensionierter Imam der namensgebenden
+Ismael-Aga-Moschee, als neuer Anführer der IAC benannt.
+
+In Deutschland wird die IAC durch den Prediger und die Leitfigur
+Nusret Cayir geprägt, der die Einführung der Scharia in Deutsch­
+land fordert und die Gleichstellung von Frauen vehement ablehnt.
+Von der Türkei aus hält Cayir über regelmäßige Videobotschaften
+online den Kontakt zu seiner Gefolgschaft aufrecht und verbreitet
+über die Videos seine demokratiefeindliche, gegen den Rechts­
+staat, den Gleichbehandlungsgrundsatz und die Volkssouveräni­
+tät gerichtete Ideologie auch in Deutschland.
+
+3.1.3     Furkan Bewegung
+
+Personen­potenzial Deutschland:    5001
+                   Bayern: 15 Personen
+
+Vorsitzender          Alparslan Kuytul
+
+Gründung              1994 in der Türkei
+Medien                „Furkan Nesli Dergisi“ (Zeitschrift, deutsch: „Magazin
+                      der Generation Furkan“), „Furkan Haber“ (Nachrichten­
+                      portal, deutsch: „Furkan Neuigkeiten“), „TV Furkan“
+                      (Online-Fernsehsender)
+
+
+1
+    Quelle: Bundesverfassungsschutzbericht 2023
+
+
+Die islamistische Ideologie der „Furkan Bewegung“ zielt darauf
+ab, weltweit eine „Vorreitergeneration“ zu schaffen, die nach
+dem Vorbild des Propheten Muhammad und seiner Gefährten
+zu einer „islamischen Zivilisation“ zurückkehren will. Dabei wird
+Gott das alleinige Herrschaftsrecht zugesprochen. Die Forde­
+rungen der „Furkan Bewegung“ beinhalten die grundsätzliche
+Ersetzung der Demokratie durch eine islamische Gesetzgebung,
+auch die Teilnahme an Wahlen ist beispielsweise verboten. Dieses
+Islamverständnis ist unvereinbar mit der freiheitlichen demokra­
+tischen Grundordnung, insbesondere mit der Volkssouveränität
+und der Gewaltenteilung.
+
+
+
+
+                                                                                                   71
+Verfassungsschutzbericht Bayern 2024                                          Islamismus
+
+
+Ideologische Nähe      Die „Furkan Bewegung“ weist eine ideologische Nähe zum
+zur „Muslimbruder­     Gedankengut der MB auf. In einer Publikation bezeichnet die
+schaft“                Organisation Hassan al-Banna, den Gründer der MB, als „hoch­
+                       geehrten Lehrer“. Den institutionellen Grundstein bildet die „Fur­
+                       kan Stiftung für Bildung und Dienst“ (türkisch: „Furkan Egitim
+                       ve Hizmet Vakfi“), die 1994 in der türkischen Stadt Adana von
+                       Alparslan Kuytul gegründet wurde. Die Stiftung und ihre Orts­
+                       vereine engagieren sich vorrangig in der muslimischen Bildungs-
+                       und Missionierungsarbeit mittels Konferenzen, Kundgebungen
+                       und Jugendprogrammen, mit denen sie in der Türkei mehrere
+                       zehntausend Personen erreichen.
+
+                       Ergänzt werden diese Aktivitäten durch eine starke Präsenz in
+                       den sozialen Medien, beispielsweise mit dem Youtube-Kanal
+                       „Furkan Bewegung“. Über Veranstaltungen und die diversen
+                       Medienplattformen werden auch Predigten und Vorträge von
+                       Kuytul (teils mit deutschen Untertiteln) verbreitet, der als Anführer
+                       der Gemeinschaft bis heute eine starke Vorbild- und Autoritäts­
+                       funktion bei seiner Gefolgschaft genießt. In der Vergangenheit
+                       trat Kuytul vereinzelt auch in Deutschland auf.
+
+Inhaftierung des       In der Türkei bestehen seit mehreren Jahren politische Auseinan­
+Gründers               dersetzungen zwischen der türkischen Regierung und der „Furkan
+                       Stiftung für Bildung und Dienst“. In Konsequenz werden weiterhin
+                       Kundgebungen und Konferenzen verboten und gewaltsam von der
+                       Polizei aufgelöst. Ebenso werden die Organisation und die zugehö­
+                       rigen Ortsvereine immer wieder mit Betätigungsverboten belegt.
+                       Seit Januar 2018 befand sich Kuytul immer wieder in Haft, zuletzt
+                       von Mitte Mai 2022 bis Mitte Juni 2023. Die Vorwürfe reichten von
+                       Terrorunterstützung, -propaganda und -finanzierung bis hin zu Frei­
+                       heitsberaubung, Erpressung, Anstiftung zur Körperverletzung und
+                       Folter. Im Umfeld des Kuytul wurde hingegen seine wiederholte
+                       Kritik am türkischen Staatspräsidenten Erdogan als Grund für die
+                       jüngste Inhaftierung angesehen.
+
+Eigene Podcast-­       Die „Furkan Bewegung“ veröffentlicht seit März 2021 eine
+Serie                  ­Pod­cast-Reihe mit nunmehr 7 Folgen, die in Gänze nur noch
+                        auf ­
+                            ihrem Youtube-Kanal zu finden sind. Andere Plattformen
+                        sowie ihre Webseite sind dahingehend nicht mehr aktuell. Die
+                        jüngste Podcast-Folge #7 erschien im August und thematisiert
+                        verschiedenste Inhalte auf Grundlage von 15 anonymen Fragen.
+                        Sie werden von den 2 deutschen Hauptfunktionären, die den
+                        Vereinen in Hamburg und Dortmund angehören, in Gesprächsat­
+                        mosphäre beantwortet. Dabei werden die Fragen auch genutzt,
+
+
+
+
+72
+Islamismus                                                  Verfassungsschutzbericht Bayern 2024
+
+
+
+um zu politisch-gesell­schaftlichen Themen Stellung zu
+beziehen, die Bedeutung von Missionierungsarbeit zu
+betonen und für die eigene Organisation zu werben. Es
+werden zwar mehrfach Zitate islamistischer Vordenker
+eingestreut, insgesamt sind die Podcast-Sprecher jedoch
+sichtlich um wohlüberlegte und extremistische Anklänge
+vermeidende Antworten bemüht.
+
+Nach eigenen Angaben ist die „Furkan Bewegung“ in
+Deutschland auch durch eine Niederlassung in München
+vertreten. Von den Social-Media-Präsenzen der Münch­
+ner Gruppierung wies 2024 aber nur der Insta­      gram-
+Account Aktivitäten auf. So wurde dort im September
+zu Unterrichten eingeladen, die künftig in verschiedenen
+Stadtbezirken Münchens angeboten werden. Ander­
+weitige Veranstaltungen oder Aktivitäten der bekannten
+bayerischen Einzelpersonen der „Furkan Bewegung“
+waren nicht festzustellen.
+
+3.1.4     Hizb ut-Tahrir (HuT)
+
+Personenpotenzial Deutschland: ca. 8001
+                  Bayern: 15 Personen
+
+Gründung              1953 in Jerusalem
+Betätigungsverbot Verbotsverfügung des Bundesministers des Innern vom
+                  10. Januar 2003
+
+
+1
+    Quelle: Bundesverfassungsschutzbericht 2023
+
+
+Die „Hizb ut-Tahrir“ (HuT, deutsch: „Partei der Befreiung“) wurde
+1953 von Taqiaddin al-Nabhani (1909-1977) in Jerusalem gegrün­
+det. Sein im selben Jahr veröffentlichtes Hauptwerk „Die Lebens­
+ordnung des Islam“ (arabisch: „nizam al-Islam“) bildet bis heute
+die ideologische Grundlage der Organisation. Demnach ­regelt
+der Islam abschließend und unumstößlich alle gesell­schaftlichen,
+politischen und wirtschaftlichen Belange, ­einschließlich die des
+alltäglichen Lebens. Das Ziel der panislamisch ausgerichteten
+HuT ist die Vereinigung der muslimischen Gemeinschaft (ara­
+bisch: „umma“) in einem weltweiten Kalifat mit einer Rechts­
+ordnung auf Basis der Scharia. Islam und Demo­kratie sind für die
+HuT nicht miteinander vereinbar. Säkulare Staatsordnungen sind
+aus ihrer Sicht abzulehnen und zu bekämpfen, die Wiedererrich­
+tung des Kalifats ist unbedingtes Ziel. Zu diesem Zweck bemüht
+
+
+
+
+                                                                                            73
+Verfassungsschutzbericht Bayern 2024                                        Islamismus
+
+
+                       sich die Organisation insbesondere um die Rekrutierung ange­
+                       hender Akademikerinnen und Akademiker, die perspektivisch in
+                       gesellschaftlichen Schlüsselpositionen platziert werden sollen.
+                       Zu einem späteren Zeitpunkt soll es deren Aufgabe sein, poli­
+                       tische Macht zu übernehmen, um das Kalifat einzuführen. Die
+                       meist jungen Sympathisantinnen und Sympathisanten der HuT
+                       werden dazu regelmäßig durch Schulungen in die Lehren des
+                       Gründers al-Nabhani eingeführt. Für die HuT besteht in Deutsch­
+                       land seit 2003 ein Betätigungsverbot.
+
+„Realität Islam“       Seit einigen Jahren treten vor allem in den sozialen Netzwerken
+„Generation Islam“     Gruppierungen auf, die eine ideologische Nähe zur HuT aufwei­
+„Muslim Interaktiv“    sen. Dazu zählen vorrangig die Initiativen „Realität Islam“ (RI),
+                       „Generation Islam“ (GI) sowie „Muslim Interaktiv“ (MI). In den
+                       Veröffentlichungen der Gruppierungen, die häufig tagesaktuelle
+                       Themen aus Politik und Gesellschaft aufgreifen, wird die musli­
+                       mische Bevölkerung zum Opfer politischer und gesellschaftlicher
+                       Verhältnisse in Deutschland, aber auch weltweit, stilisiert. Die
+                       Bewahrung einer „wahren“ islamischen Identität sei nur durch
+                       Abgrenzung von der westlichen Gesellschaft möglich. Maßgeb­
+                       lich seien die Vorgaben der Scharia.
+
+
+
+
+Steigende Popu­        Seit dem Angriff der HAMAS auf Israel am 7. Oktober 2023 lässt
+larität infolge des    sich ein Anstieg in der Popularität HuT-naher Gruppierungen ver­
+Nahostkonflikts        zeichnen. Insbesondere Personen, die ihre Solidarität mit Palästina
+                       ausdrücken möchten, zeigen ein verstärktes Interesse, indem sie
+                       den Instagram-Profilen dieser Gruppen folgen. Die Gruppierungen
+                       verfolgen eine gezielte Social-Media-Strategie, die Elemente des
+                       digitalen Aktivismus nutzt. Regelmäßig werden visuell ansprech­
+                       ende Beiträge und interaktive Inhalte veröffentlicht. Ergänzt wird
+                       diese Strategie durch den Einsatz relevanter Hashtags und leicht
+                       teilbarer Inhalte, die stark emotionalisierend wirken und insbe­
+                       sondere durch Solidaritätsbekundungen die Aufmerksamkeit der
+                       Zielgruppe steigern.
+
+
+
+
+74
+Islamismus                                            Verfassungsschutzbericht Bayern 2024
+
+
+
+ Ein Beispiel hierfür ist das von RI am 22. Oktober auf Instagram
+ veröffentlichte „Gedankenexperiment“: KI-generierte Bilder zei­
+gen verschiedene deutsche Städte wie München, Berlin, Dres­
+den oder Hannover in einem Zustand vollständiger Zerstörung
+und sollen davor warnen, was passieren könnte, wenn Deutsch­
+land von einer anderen Macht okkupiert und dabei zerstört
+­werden würde. Mit der Aktion wollte RI auf provokante Weise
+ ihre Follower auf die Situation im Gazastreifen und im Libanon
+ aufmerksam machen. Der emotionale Charakter der Inhalte fördert
+ die Bereitschaft zur Weiterverbreitung und Interaktion, was die
+ Reichweite der Beiträge weiter erhöht.
+
+Der realweltliche Einfluss sowie das Mobilisierungspotenzial der
+genannten Online-Initiativen zeigte sich beispielhaft bei einer
+pro-palästinensischen Demonstration am 3. November 2023 in
+Essen (Nordrhein-Westfalen), die von GI organisiert wurde. Wäh­
+rend der Veranstaltung, an der rund 3.000 Personen teilnahmen,
+wurden anti-israelische Slogans skandiert und es kamen Flaggen
+zum Einsatz, die eine symbolische Nähe zur HuT vermuten lassen.
+Einer der Hauptredner, Ahmad Tamim, hielt eine emotional aufge­
+ladene Rede, in der er die Haltung der westlichen Staaten sowie
+eine als „einseitig“ bezeichnete Berichterstattung kritisierte.
+
+Ein weiterer Beleg für die Wirkungskraft dieser Gruppen ergibt
+sich aus den in Hamburg durch MI organisierten Demonstrationen
+im April und Mai. So wurde bei der Veranstaltung am 27. April von
+den Veranstaltern die Ablehnung westlicher Werte und die For­
+derung nach der Errichtung eines Kalifats formuliert. Am 11. Mai
+kritisierte die MI-Gruppe mit über 2.000 Teilnehmern die angeb­
+liche „Zensur islamischer Werte“ sowie die Einschränkung der
+Meinungsfreiheit für Muslime.
+
+Bei der ebenfalls von MI am 12. Oktober in Hamburg organisierten
+Demonstration „Stopp den Genozid“ riefen die Teilnehmer zur
+Absetzung der „verräterischen Herrscher der islamischen Welt“
+auf. Ziel der Veranstaltung sei nach MI-Angaben die Überwin­
+dung der nationalstaatlichen Ordnung in der islamischen Welt
+und deren Ersetzung durch ein Kalifat, das als gerechtes Sys­
+tem für ein friedliches Zusammenleben von Juden, Christen und
+Muslimen sorgen solle.
+
+
+
+
+                                                                                      75
+Verfassungsschutzbericht Bayern 2024                                         Islamismus
+
+
+                       3.1.5     Tablighi Jama’at (TJ)
+
+                       Personenpotenzial       Deutschland: ca. 5501
+                                               Bayern:      ca. 180
+                       Gründung                1926 bei Delhi (Indien)
+
+
+                       1
+                           Quelle: Bundesverfassungsschutzbericht 2023
+
+
+                       Die TJ (deutsch etwa: „Missionsgemeinschaft“) ist eine 1926 in
+                       Britisch-Indien gegründete Missionierungsbewegung, die heute
+                       weltweit aktiv ist. Seit ihren Ursprüngen ist sie eng mit der islam­
+                       ischen Hochschule von Deoband in Indien verbunden. Diese steht
+                       für eine streng konservative, von vermeintlich fremden Einflüssen
+                       befreite Islamauffassung und hat teilweise auch sunnitisch-islamis­
+                       tische Gruppen wie die Taleban beeinflusst. Die TJ verbreitet ein
+                       rigoroses Islamverständnis mit dem langfristigen Ziel, islamistische
+                       Gesellschaftssysteme zu etablieren.
+
+Aus- und Abgren­       Die TJ propagiert neben der Ablehnung säkularer Prinzipien auch
+zungstendenzen         die Abgrenzung gegenüber Nichtmuslimen. Dies birgt ein hohes
+                       Potenzial für die Bildung abgeschotteter Parallelgesellschaften
+                       und begünstigt eine islamistische Radikalisierung. Auch wenn
+                       die TJ selbst keine terroristische Organisation ist, weist sie eine
+                       gemeinsame ideologische Basis mit solchen Gruppierungen auf.
+                       Vor diesem Hintergrund besteht die Gefahr, dass die Strukturen
+                       der Bewegung von terroristischen Netzwerken genutzt werden
+                       und sich einzelne TJ-Angehörige terroristischen Organisationen
+                       anschließen.
+
+                       Die TJ ist sowohl in Deutschland als auch global als Netzwerk
+                       strukturiert, dessen Anhängerschaft über informelle Kontakte
+                       miteinander in Verbindung steht.
+
+                        Charakteristisch für die TJ sind mehrtägige bis mehrwöchige
+                        missionarische Reisetätigkeiten in Gruppen (arabisch: „jama’at“)
+                        im In- und Ausland mit dem Ziel, neue Anhängerinnen und An­
+                       hänger zu rekrutieren. Hierbei werden teilweise auch Moscheen
+                       aufgesucht, die keinen unmittelbaren Bezug zur TJ haben. Die
+                       Aktivitäten, z. B. in Form von Islamunterricht oder Predigten,
+                       richten sich in erster Linie an muslimische Bevölkerungsteile,
+                       die nach Auffassung der TJ-Anhängerschaft nicht islamkonform
+                       ­leben; die Bekehrung von Nichtmuslimen erfolgt nachrangig.
+
+
+
+
+76
+Islamismus                                                          Verfassungsschutzbericht Bayern 2024
+
+
+
+Die TJ ruft auch ihre Gefolgschaft in Deutschland dazu auf,                         TJ-Moscheen
+Missio­nierungsarbeit in der hiesigen muslimischen Community                        in Bayern
+zu leisten. Dabei können auch Reisebewegungen entsprechen­
+der Gruppen nach bzw. innerhalb Bayerns festgestellt werden.
+In Bayern werden der TJ die insgesamt 3 Moscheen des „Isla­
+mischen Gemeinde Hof e. V.“, des „Kulturvereins für deutschspra­
+chige Muslime e. V.“ und der „Salih Sanli-Stiftung“ zugerechnet.
+
+Neben ihren Missionierungsreisen veranstaltet die TJ auch grö­
+ßere Treffen ihrer Anhängerschaft auf regionaler und überregio­
+naler bzw. internationaler Ebene. Hierbei kann eine regelmäßige
+Reise­tätigkeit von Mitgliedern der TJ in Bayern und Deutschland
+sowie international festgestellt werden.
+
+ Die Online-Schule „Wissensquelle“ wird den TJ-Strukturen                           Online-Schule
+zuge­ordnet. Ein „Madrasa-Treffen“ der „Wissensquelle“ fand                         ­„Wissenquelle“
+im Mai 2023 in einem Moscheeverein in München statt, welches
+auch live im Internet übertragen wurde. Eine Vielzahl an Gelehr­
+ten der TJ nahm an dem Treffen teil. Im Rahmen der Vorträge
+wurden in Teilen islamistische Botschaften vermittelt, die u. a.
+gegen den Gleichheitsgrundsatz von Frau und Mann sowie
+­gegen das Prinzip der sexuellen Selbstbestimmung verstoßen.
+ Konträr zur Eigendarstellung der TJ, eine apolitische Missionie­
+ rungsbewegung zu sein, wurden ebenso Aussagen gegen das
+ demokratische Prinzip der Volkssouveränität getätigt, wonach
+ die göttlichen Gesetze über alle anderen zu stellen seien, d. h.
+ auch über weltliche Gesetze. In 2024 gab es weitere Veranstal­
+ tungen der „Wissensquelle“ in München sowie eine organisierte
+ Pilgerreise nach Mekka und Medina.
+
+3.1.6     Schiitischer Islamismus
+
+Personenpotenzial Bayern1 ca. 60
+Ideologischer Bezug           Iranisches Regime
+
+
+1
+    Bundesverfassungsschutzbericht 2023: keine gesicherten Zahlen
+
+
+Die Ursprünge des zeitgenössischen schiitischen Islamismus
+sind in der sog. „Islamischen Revolution“ 1978/79 in Iran zu
+finden. Das von Ajatollah Ruhollah Khomeini eingeführte Herr­
+schaftssystem „velayat-e faqih“ (deutsch: „Herrschaft“ bzw.
+„Statthalterschaft der Rechtsgelehrten“) sieht den Export der
+Islamischen Revolution und die Unterstützung schiitischer Bevöl­
+kerungsteile, vor allem im Nahen und Mittleren Osten, vor. Dies
+
+
+
+
+                                                                                                      77
+Verfassungsschutzbericht Bayern 2024                                          Islamismus
+
+
+                         wird als Befreiungskampf gedeutet und metaphorisch mit histo­
+                         rischen Stationen der Konfession der „Shi’a“ (deutsch: „Schiiten“)
+                         ideologisch überhöht.
+
+                         Im Zuge der Iranischen Revolution wurde mit den sog. „Revo­
+                         lutionsgarden“ (persisch: „Pasdaran“) eine Teilstreitkraft des
+                         iranischen Militärs gegründet, die direkt dem geistlichen Ober­
+                         haupt des Iran unterstellt ist und seitdem immer wieder maß­
+                         geblich am Aufbau Iran-naher Milizen beteiligt war. So bauten
+                         Revolutions­gardisten beispielsweise während der israelischen
+                         Besetzung des Libanon Anfang der 1980er Jahre die „Hizb Allah“
+                         (deutsch: „Partei Gottes“) auf, die neben ihren militärischen Akti­
+                         vitäten seit 1993 auch als politische Partei innerhalb Libanons
+                         großen Einfluss ausübt.
+
+                         Innerhalb der schiitischen Gemeinschaften in Deutschland diente
+                         das 1962 gegründete „Islamische Zentrum Hamburg“ (IZH) als
+                         Multiplikator schiitisch-islamistischen Gedankengutes im Sinne
+                         des Revolutionsexportes. Neben der iranischen Botschaft war
+                         das IZH die wichtigste offizielle Vertretung Irans in Deutschland
+                         und gleichzeitig eines seiner bedeutendsten Propagandazen­
+                         tren in Europa. Die enge Anbindung des IZH an die Führung
+IZH in Hamburg           Irans zeigte sich u. a. darin, dass der Leiter des IZH ein ausge­
+                         wiesener islamischer Rechtsgelehrter sein musste, der vom
+                         iranischen Außen­ministerium bestimmt wurde und als Vertreter
+                         des ira­nischen „Revolutionsführers“ in Zentraleuropa galt. Iran
+                         versuchte auf diesem Weg, Schiiten aller Nationalitäten an sich
+                         zu binden und die gesellschaftlichen, politischen und religiösen
+                         Grundwerte der Iranischen Revolution in Europa zu verbreiten.
+                         Ein wichtiges Element für die Steuerung der Interessen des IZH
+                         war der schiitische Dachverband „Islamische Gemeinschaft der
+                         schiitischen Gemeinden in Deutschland e. V.“ (IGS).
+
+                         In Bayern wurde die „Islamische Vereinigung in Bayern“ (IVB) mit
+                         Sitz in München dem IZH als Außenstelle zugerechnet. Zwischen
+                         IZH und IVB bestanden enge Verflechtungen. In den letzten Jahren
+                         konnten, u. a. zu bestimmten hohen religiösen Anlässen wie z. B.
+                         während des Fastenmonats Ramadan, vereinzelt Imame festge­
+                         stellt werden, die in unregelmäßigen Abständen vom IZH in die
+                         IVB entsandt wurden. In der Satzung der IVB war ebenso fest­
+                         gelegt, dass das Vereinsvermögen im Falle einer Auflösung des
+                         Vereins an das IZH fallen sollte.
+
+Verbot des IZH und       Im Rahmen eines vereinsrechtlichen Ermittlungsverfahrens des
+der Teilorganisationen   Bundesministeriums des Innern und für Heimat gegen das IZH
+                         und dessen Teilorganisationen erfolgten am 16. November 2023
+                         bundesweit Durchsuchungen. Das IZH stand im Verdacht, sich
+
+78
+Islamismus                                            Verfassungsschutzbericht Bayern 2024
+
+
+
+gegen die verfassungsmäßige Ordnung und gegen den Gedan­
+ken der Völkerverständigung zu richten und damit die Verbots­
+gründe nach Art. 9 Absatz 2 des Grundgesetzes und § 3 Abs. 1
+des Vereinsgesetzes zu erfüllen. Die Islamische Vereinigung in
+Bayern e. V. als mutmaßlich eine dieser Teilorganisationen wurde
+im Zuge der Maßnahme durchsucht. Die Auswertung der bei
+den Durchsuchungen sichergestellten Beweismittel haben die
+Verdachtsmomente erhärtet, so dass am 24. Juli das Verbot des
+IZH und seiner Teilorganisationen erfolgte. Es bleibt abzuwarten,
+ob sich Nachfolgestrukturen bilden.
+
+Im schiitischen Extremismus ist häufig eine antisemitische und        Durchsuchung in
+antiisraelische Grundeinstellung vorzufinden. So konnte auf           Augsburg
+dem Youtube-Kanal „Kuran ve Ehl-i Beyt Mektebi Augsburg“
+beispiels­weise ein Video im Zusammenhang mit einem Auto­
+korso anlässlich des „al-Quds-Tags“ 2021 mit antisemitischen
+und volksverhetzenden Inhalten festgestellt werden. Der Verein
+„Kuran ve Ehl-i Beyt Mektebi Augsburg“ ist Teil des „Kuran ve
+Ehl-i Beyt Mektebi“-Netzwerkes mit Repräsentanzen in Offen­
+bach, Bremen und Den Haag. Der Internetauftritt des „Kuran
+ve Ehl-i Beyt Mektebi Augsburg“ ist verknüpft mit dem Kanal
+„Welayet TV“, über den auch Propagandabeiträge iranischer Me­
+dien verbreitet werden. Am 13. September 2023 durchsuchten
+Polizeikräfte die Vereinsräumlichkeiten des „Kuran ve Ehl-i Beyt
+Mektebi Augsburg“ (vereinsrechtlich: „Islamisches Buch- und
+Kulturhaus e. V.“) sowie weitere Objekte im Zusammenhang mit
+dem Verein. Bei der Generalstaatsanwaltschaft München ist auf­
+grund des Verdachtes der Volksverhetzung gemäß § 130 StGB
+weiterhin ein Verfahren anhängig.
+
+
+3.2 Salafismus
+3.2.1   Ideologie
+
+Der Salafismus geht auf Muhammad Ibn Abdalwahhab zurück,              Ursprung
+der Ende des 18. Jahrhunderts auf der arabischen Halbinsel eine
+Reinigung des Islam von, aus seiner Sicht, unerlaubten Neue­
+rungen und vermeintlichem Irrglauben forderte. Vorbildfunktion
+in Bezug auf den „wahren Islam“ böten einzig die sog. „frommen
+Altvorderen“ (arabisch: „al-salaf al-salih“), d. h. die ersten 3
+Gener­ationen des frühen Islam im 7. Jahrhundert. Die sich aus
+dem Gedankengut von Ibn Abdalwahhab konstituierende Ideo­
+logie, der sog. „Wahhabismus“, gilt als maßgebliche Quelle
+des heutigen Salafismus. Heutige Angehörige des Salafismus
+richten ihren Glauben, ihre religiöse Praxis und ihre Lebensfüh­
+rung ausschließlich an den Prinzipien des Korans und dem vom
+
+                                                                                        79
+Verfassungsschutzbericht Bayern 2024                                        Islamismus
+
+
+                       Propheten Muhammad und den frommen Altvorderen gesetzten
+                       Vorbild aus. Jegliches Abweichen von dieser Norm, die in ihren
+                       Augen als ursprünglicher und reiner Islam gilt, lehnen sie als
+                       Verfälschung des Islam bzw. als unerlaubte Neuerung (arabisch:
+                       „bid’a“) ab.
+
+Ablehnung der          Zentraler salafistischer Glaubensinhalt ist die Ein(s)heit und
+Demokratie             Einzig­artigkeit Gottes (arabisch: „tauhid“). Dies beinhaltet auch,
+                       dass Gott der einzig legitime Souverän und Gesetzgeber ist. Die
+                       Scharia ist für Angehörige des Salafismus als „Gesetz Gottes“
+                       letztgültiger Maßstab. Der Salafismus lehnt weltliche Gesetze
+                       und die Werte westlicher Gesellschafts- und Herrschaftssys­
+                       teme daher kategorisch als unislamisch und unterlegen ab. Er
+                       orientiert sich kompromisslos an der islamischen Frühzeit vor ca.
+                       1.400 Jahren und befürwortet frühislamische Herrschafts- und
+                       Gesellschaftsformen. Dies führt zur Ablehnung der als wesens­
+                       fremd empfundenen demokratischen Mehrheitsgesellschaft
+                       und ihrer Werte. Vor allem die von salafistischen Akteuren in
+                       Deutschland propagierte Einheit von Religion und Staat und der
+                       ebenfalls erhobene absolute Geltungsanspruch der islamischen
+                       Rechtsordnung machen deutlich, dass salafistische Auffassungen
+                       Geltung für sämtliche Lebensbereiche beanspruchen.
+
+Höherwertigkeits­      Als Höherwertigkeitsideologie richtet sich der Salafismus zwar
+ideologie              auch gegen nicht-islamische, z. B. jüdische und christliche
+                       Glaubens­vorstellungen; besonders in der Kritik stehen jedoch
+                       andere islamische Glaubensauffassungen – insbesondere das
+                       schiitische und das mystische Islamverständnis. Salafisten diffa­
+                       mieren die Anhängerschaft dieser Glaubensformen als Ungläu­
+                       bige, „Verweigerer der wahren Lehre“ (arabisch: „rawafid“) oder
+                       werfen ihnen Götzendienst (arabisch: „shirk“) vor. Am Dialog mit
+                       Andersgläubigen sind sie nur insoweit interessiert, wie er ihrer
+                       Missionierungsarbeit (arabisch: „da’wa“) dienlich ist.
+
+                       Die ideologischen Grundsätze des Salafismus sind letztlich unver­
+                       einbar mit den im Grundgesetz der Bundesrepublik Deutschland
+                       verankerten Prinzipien, insbesondere denen der Demokratie, des
+                       Rechtsstaates und einer auf der Menschenwürde basierenden
+                       poli­tischen Ordnung.
+
+Politischer und        Die Ideologie des Salafismus lässt sich in eine politische und eine
+jihadistischer Sala­   die Gewaltanwendung befürwortende jihadistische Strömung
+fismus                 unterteilen, wobei die Übergänge fließend sind. Politische und
+                       jihadistische Salafisten stützen sich auf dieselben ideologischen
+                       Autoritäten und Vordenker und verfolgen die gleichen Ziele,
+                       unter­scheiden sich jedoch in der Wahl der Mittel, mit denen diese
+
+
+80
+Islamismus                                               Verfassungsschutzbericht Bayern 2024
+
+
+
+Ziele realisiert werden sollen. Der politische Salafismus verzich­
+tet hierbei zwar auf die Ausübung unmittelbarer und direkter Ge­
+walt, bietet aber immer wieder den ideologischen Nährboden für
+terroristische Aktionen und dient als Einstiegspunkt in die offen
+gewaltorientierte Szene.
+
+Derzeit ist in Bayern nur ein kleiner Prozentsatz des salafis­tischen
+Personenpotenzials dem jihadistischen Salafismus zuzurechnen,
+die überwiegende Mehrheit ist dem politischen Salafismus zuge­
+hörig.
+
+Der arabische Begriff „Jihad“ bedeutet übersetzt „Anstrengung“           Fernziel Gottesstaat
+und kommt in unterschiedlicher Bedeutung in den isla­mischen
+Überlieferungen vor. Dabei wird die Anstrengung im reli­giösen
+Sinn sowohl als Kampf gegen die innere Triebseele (der sog.
+„große Jihad“) als auch als militanter Kampfeinsatz (der sog.
+„kleine Jihad“) verstanden. Im Jihadismus wird der bewaffnete
+Jihad stark überhöht und zu einer Individualpflicht aller Muslime
+(arabisch: „fard al-ain“) und als Erweiterung der „fünf Säulen des
+Islam“ – namentlich: Glaubensbekenntnis, Gebet, Fasten, Pilger­
+fahrt und Almosengabe – zur vorgeblich 6. Säule umgedeutet.
+Das Kernziel dieses ideologisch geleiteten Jihad-Verständnisses
+bildet die Errichtung eines islamistischen „Gottesstaates“, der
+gegebenenfalls mithilfe von Gewalt errichtet werden muss. Aus
+dieser Überzeugung heraus lehnen Jihadisten sowohl die Regie­
+rungen in muslimisch geprägten Ländern als auch westlich-säku­
+lare Staaten sowie die freiheitlich-demokratische Grundordnung
+gänzlich ab.
+
+Ein Merkmal salafistischer Jihadisten in Deutschland und Europa          Nähe zu Terroror­
+ist ihre ideologische und strategisch-taktische Nähe zu internatio­      ganisationen
+nalen Terrorgruppierungen. Die bedeutendsten dieser jihadis­
+tisch-salafistischen Terrororganisationen bilden der „Islamische
+Staat“ (IS) und sein von Afghanistan aus operierender Ableger
+„Islamischer Staat – Provinz Khorasan“ (ISPK), das Terrornetz­
+werk „al-Qaida“ (AQ) und dessen zahlreiche weltweiten Regio­
+nalableger, darunter „al-Shabab“ in Somalia, „Boko Haram“ in
+Nigeria sowie die ehemals im AQ-Netzwerk zu verortende Orga­
+nisation „Hai’at Tahrir al-Sham“ (HTS).
+
+Initiiert durch seine militärischen Niederlagen und territorialen        Transformation
+Rückschläge in Syrien und Irak hat der IS in den vergangenen             des IS
+Jahren eine Transformation durchlaufen: Er formierte sich im
+Untergrund neu und fokussierte sich vermehrt auf seine selbst
+ausgerufenen IS-Verwaltungsprovinzen (arabisch: „wilayat“) jen­
+seits des einstigen Kerngebietes. Die über das Internet verbrei­
+tete IS-Propaganda strahlt aktuell, befördert durch das Erstarken
+
+                                                                                             81
+Verfassungsschutzbericht Bayern 2024                                                   Islamismus
+
+
+                       des afghanischen IS-Ablegers ISPK und Terroranschläge wie
+                       am 23. August in Solingen, insgesamt ein neues Selbst- und
+                       Sendungs­bewusstsein aus. Während sich junge Menschen vom
+                       Online-Image bzw. Selbstbild des IS sowie der Grausamkeit
+                       ­seiner Jihad-Vorstellung angezogen zeigen, konnte die Terror­
+                        organisation mit dem Anschlag am 22. März in Moskau, bei dem
+                        über 140 Menschen starben, den schwersten Anschlag seit
+                        2016 durchführen.
+
+Gefahr durch ISPK      Der ISPK ist mit Blick auf Deutschland und Europa der derzeit
+                       gefährlichste Ableger des IS und bestrebt, durch Anschlagsvor­
+                       haben im Westen und intensive Online-Propagandaaktivitäten
+                       u. a. IS-Anhänger auch in Bayern zu (re-)aktivieren. Durch seine
+                       verstärkte Fokussierung auf den globalen Jihad ist davon aus­
+                       zugehen, dass das Netzwerk des IS und des ISPK größere An­
+                       schlagsvorhaben mit Symbolkraft plant, was auch die durch die
+                       Sicherheitsbehörden vereitelten Anschlagsvorbereitungen auf
+                       den Kölner Dom im Dezember 2023 verdeutlicht haben.
+
+                       Weiterhin rufen auch andere jihadistisch-salafistische Gruppie­
+                       rungen wie AQ dazu auf, den gewaltsamen Jihad in westliche
+                       Staaten zu tragen. Auch zu Anschlägen in Deutschland und dessen
+                       Nachbarstaaten wurde in der Folge in den vergangenen Jahren
+                       wiederholt aufgerufen.
+
+                       Die von Usama bin Ladin und Abdullah Azzam etablierte Ideolo­
+                       gie des AQ-Netzwerkes ist u. a. geprägt von den Schriften des
+                       Muslimbruders Sayyid Qutb und dessen Rechtfertigung des
+                       bewaffneten Jihad und des „Für-ungläubig-Erklärens“ (arabisch:
+                       „takfir“). Im Unterschied zu regional-terroristischen Akteuren
+                       wie HTS verfolgt das AQ-Netzwerk die transnationale und lang­
+                       fristige Zielsetzung, durch die Bekämpfung und Beseitigung von
+                       Gegenkräften die Basis (arabisch: „al-qa’ida“) für die Etablierung
+                       eines globalen Kalifats herbeizuführen. Mit dieser Zielsetzung
+                       gelingt es ihr, auch in Bayern Anhänger zu gewinnen.
+
+                       3.2.2 Personenpotenzial
+
+                       Anhänger         Deutschland: ca. 10.5001
+                                        Bayern:         ca. 780
+                       Entstehung       erste Strukturen in Bayern Mitte der 1990er Jahre
+
+
+                       1
+                           Quelle: Bundesverfassungsschutzbericht 2023
+
+
+
+
+82
+Islamismus                                              Verfassungsschutzbericht Bayern 2024
+
+
+
+Bundesweit ist eine weitverzweigte, heterogene „Infrastruktur“
+des Salafismus festzustellen. Die salafistische Szene ist aller­
+dings meist nur lose organisiert und weist eine hohe Dynamik
+auf. Feste, überregionale Organisationsstrukturen sind nur selten
+vorhanden. Es gibt jedoch viele örtliche salafistische Vereine, die
+häufig gleichzeitig als Träger salafistisch geprägter Moscheen fun­
+gieren. Daneben gibt es lose Personennetzwerke oder auto­nom
+agierende Einzelpersonen, die salafistische Aktivitäten entfalten.
+
+Die Anhängerzahlen des salafistischen Spektrums bewegen                 Personenpotenzial
+sich auf hohem Niveau. In Bayern liegt das Potenzial bei 780            im Bund und in
+Personen (2023: 720). Davon waren 13 Prozent dem gewalt­                Bayern
+orientierten Spektrum zuzurechnen. Bei ca. 8 Prozent der 780
+Personen handelt es sich um Konvertitinnen und Konvertiten.
+Rund 7 Prozent des Personenpotenzials sind weiblich.
+
+Frauen, Familien und Minderjährige
+Obgleich die öffentliche Darstellung und
+Wahrnehmung im Salafismus häufig auf
+stereo­type Männerbilder reduziert wird, sind
+ebenso Frauen in diesem Phänomenbereich
+aktiv und gründen und führen sowohl in der
+realen als auch in der virtuellen Welt salafis­
+tische Frauennetzwerke.
+
+Neben dort diskutierten Alltagsthemen, wie
+z. B. Kindererziehung und Kleidung, spielen in
+diesen Netzwerken bzw. „Schwesterngrup­
+pen“ häufig auch salafistische Glaubensfra­
+gen, eine mögliche Heiratsvermittlung sowie
+Spendensammlungen und Gefangenen­hilfen
+eine große Rolle. In Einzelfällen wurde
+festge­ stellt, dass junge Frauen allein über
+Messengergruppen und -kanäle ideologisch
+indoktriniert wurden und Kontakte in die Szene
+erlangten.
+
+Frauen sind überdies auch in der jihadis­
+tisch-salafistischen Szene vertreten und spie­
+len hier, neben der ihnen zugesprochenen
+Funktion als Ehefrau und Mutter, mithin eine
+tragende Rolle bei Missionierungsarbeiten,
+Rekrutierungen,      Finanzmittelgenerierung,
+logistischer Unterstützung und bisweilen
+selbst bei Kampfhandlungen oder Anschlags­
+vorhaben.
+
+
+                                                                                         83
+Verfassungsschutzbericht Bayern 2024                                         Islamismus
+
+
+                       Die salafistische Ideologie kann sich auch innerhalb familiärer
+                       Strukturen verbreiten. Im besonderen Fokus steht hierbei die
+                       Mutter, da diese in salafistischen Kreisen vorrangig für die Erzie­
+                       hungsarbeit verantwortlich ist. Dabei besteht die Gefahr, dass die
+                       salafistische Ideologie der Eltern oder eines Elternteiles nega­tive
+                       Auswirkung auf die Persönlichkeitsentwicklung der Kinder hat.
+
+                       Auch für Minderjährige auf Identitätssuche erscheint der Sala­
+                       fismus attraktiv, da er ihnen eine vermeintlich klare Orien­
+                       tierung und Struktur (auch im Alltag) bietet. Der Komplexität
+                       und Unüber­sichtlichkeit der modernen Welt setzt er ein konse­
+                       quentes „Schwarz-Weiß-Denken“ gegenüber. Von individuellen
+                       Entscheidungen und persönlicher Verantwortung wird der junge
+                       Mensch durch eine Vielzahl von eindeutigen Geboten und Verbo­
+                       ten entbunden. Vielen orientierungslosen Kindern und Jugend­
+                       lichen stiftet der Salafismus eine neue und grenzüberschrei­
+                       tende Identität. Als Heranwachsende wähnen sie sich dadurch
+                       geachtet und als fester Bestandteil einer weltweiten Solidar­
+                       gemeinschaft wahrgenommen.
+
+                       Der Anteil der 15- bis 25-Jährigen in der salafistischen Szene
+                       liegt aktuell bei rund 17 Prozent. Vor allem bei Jugendlichen ist
+                       zuletzt eine Zunahme von Gefährdungssachverhalten verzeichnet
+                       worden, in denen sich diese offen gewaltbereit positionieren.
+
+                       3.2.3 Reisebewegungen sowie Rückkehrerinnen und
+                             Rückkehrer
+
+                       Seit der territorialen Zerschlagung des „IS-Kalifats“ in Syrien und
+                       Irak im Jahr 2019 ist deutschlandweit nahezu ein Stillstand der
+                       Ausreisezahlen in Richtung der Jihad-Kampfgebiete in Syrien
+                       und Irak feststellbar.
+
+                       Bis Ende 2023 lagen Erkenntnisse zu etwa 1.150 Personen aus
+                       Deutschland vor, die aus islamistischer Motivation in Richtung
+                       Syrien und Irak gereist sind. Davon stammen 69 Personen des
+                       islamistischen Spektrums aus Bayern, die seit 2012 in Richtung
+                       Krisengebiet Syrien bzw. Irak ausgereist sind. 25 Personen,
+                       die sich im Krisengebiet aufhielten, sind bereits wieder nach
+                       Deutschland zurückgekehrt, davon halten sich aktuell 16 in Bay­
+                       ern auf.
+
+                       Gefahr durch Rückkehrerinnen und Rückkehrer
+                       Rückkehrerinnen und Rückkehrer aus den ehemals vom IS kon­
+                       trollierten Gebieten und Personen, die ein terroristisches Aus­
+                       bildungslager absolviert bzw. aktiv an paramilitärischen Kampf­
+                       handlungen teilgenommen haben, können ein erhebliches
+
+84
+Islamismus                                             Verfassungsschutzbericht Bayern 2024
+
+
+
+Sicherheitsrisiko darstellen. Die islamistisch motivierten Terror­
+anschläge in Paris (2015) und in Brüssel (2016) wurden durch aus
+Syrien zurückgekehrte Personen verübt.
+
+Derzeit gehen die Sicherheitsbehörden davon aus, dass noch bei
+2 der insgesamt 16 Rückkehrerinnen und Rückkehrer nach Bay­
+ern weiterhin eine intensive jihadistisch-salafistische Bindung
+vorliegt. 5 der Rückkehrerinnen und Rückkehrer gehören nach
+wie vor dem salafistischen Spektrum, jedoch ohne aktuelle Ge­
+waltorientierung, an. Bei den verbleibenden 9 Rückkehrerinnen
+und Rückkehrern liegen keine Anhaltspunkte dafür vor, dass sie
+weiterhin über Kontakte in die salafistische Szene hierzulande
+verfügen.
+
+Aus bisher erhobenen Daten ergeben sich unterschiedliche Mo­
+tivlagen sowohl für die Aus- als auch Rückreise, weshalb sich
+keine Pauschalurteile über Rückkehrerinnen und Rückkehrer
+ableiten lassen. Welche Gefahr von diesen Personen ausgeht,
+muss daher jeweils im Einzelfall bewertet werden. Die Sicher­
+heitsbehörden legen deshalb ein besonderes Augenmerk auf
+diesen Personenkreis.
+
+Eine unkontrollierte Rückkehr von in Krisengebiete ausgereisten
+Personen nach Deutschland und Europa gilt es zu verhindern.
+Bei Personen, die nach Deutschland zurückkehren, greift das ge­
+samte sicherheitsbehördliche Instrumentarium. Rückkehrende
+Personen ohne deutsche Staatsangehörigkeit, die an der Außen­
+grenze festgestellt werden, werden – soweit rechtlich möglich
+– zurückgewiesen. Eine verstärkte Ankunft rückkehrender Per­
+sonen ist jedoch weiterhin nicht feststellbar.
+
+Es ist nicht auszuschließen, dass Personen mit jihadistisch-sala­
+fistischem Hintergrund aus Krisengebieten und „Jihadregionen“
+gezielt in westliche Staaten entsendet werden, um dort Anschläge
+zu begehen. Ebenso können junge Männer, in Einzelfällen auch
+Frauen, die bereits für den IS oder andere islamistisch-terroris­
+tische Gruppen gekämpft haben und in Eigeninitiative nach
+Europa gelangt sind, ein Sicherheitsrisiko darstellen, wenn sie
+aufgrund von Frustration und Perspektivlosigkeit erneut emp­
+fänglich für Propaganda und Mobilisierungsaufrufe werden.
+
+Schwerpunkt des seit 2009 bestehenden und zuletzt 2022                 Handlungskonzept
+aktualisierten gemeinsamen Handlungskonzeptes des Baye­                zur Verhinderung
+rischen Landeskriminalamtes, des Bayerischen Landesamtes               von Ausreisen und
+für Verfassungsschutz und des Operativen Staatsschutzes der            Wiedereinreisen
+Bayerischen Polizei zur Verhinderung jihadistisch-salafistisch
+motivierter Ausreisen ist ein möglichst frühzeitiger, umfassender
+
+                                                                                          85
+Verfassungsschutzbericht Bayern 2024                                      Islamismus
+
+
+                       und kontinuierlicher Informationsaustausch aller Sicherheits­
+                       behörden. Zudem werden bei ausländischen Staatsangehörigen
+                       aufenthaltsbeendende Maßnahmen durch die Arbeitsgruppe
+                       BIRGiT („Beschleunigte Identifizierung und Rückführung von
+                       Gefährdern aus dem Bereich des islamistischen Extremismus/
+                       Terrorismus“) geprüft, wenn z. B. der Anwerbung weiterer Per­
+                       sonen für salafistische Zielsetzungen hierdurch entgegengewirkt
+                       werden kann. Soweit Personen mit ausländischer Nationalität
+                       bereits aus Deutschland in Kampfgebiete ausgereist sind, werden
+                       alle aufenthaltsrechtlichen Möglichkeiten ausgeschöpft, um eine
+                       Wiedereinreise nach Deutschland zu verhindern.
+
+                       3.2.4 Missionierung, Rekrutierung und Propaganda
+
+                       Staatliche Maßnahmen wie Vereinsverbote, Ermittlungs- und
+                       Strafverfahren gegen Mitglieder und Anhänger von Terrororga­
+                       nisationen wie IS, AQ und HTS sowie konsequente Abschie­
+                       bungen, führten zu einer Verhaltensänderung der salafistischen
+                       Szene und zum teilweisen Rückzug aus der Öffentlichkeit ins
+                       Private. Angehörige der salafistischen Szene agieren seither
+                       vermehrt in geschlossenen Gruppen der sozialen Medien und
+                       vernetzen sich durch klandestine Treffen.
+
+
+
+
+Modernisierung         Um dem Fokus der Sicherheitsbehörden möglichst zu entgehen,
+der Inhalte und des    haben einige salafistische Organisationen ihre Außenwirkung
+Erscheinungsbildes     ­zudem angepasst: weg vom traditionellen szenetypischen Äuße­
+                        ren hin zu einem modernen Auftreten, welches eine Zuordnung
+                        zum salafistischen Spektrum nicht auf den ersten Blick möglich
+                        macht. Begleitend zu bisherigen Kampagnenformen wie kosten­
+                        losen Bücherverteilungen werden inzwischen ebenso neue For­
+                        mate propagiert, die berufliche und wirtschaftliche Kompetenzen
+                        oder auch Lebensberatungsprogramme mit ideolo­gischen Zielen
+
+
+86
+Islamismus                                             Verfassungsschutzbericht Bayern 2024
+
+
+
+verbinden. Als Beispiele können die österreichische Da’wa-­
+Organisation „IMAN“ und die in Bayern initiierte Lern- und Men­
+toringplattform „islamstudium.de“ genannt werden. Letztere
+bietet, neben kostenlosen digitalen Einstiegsinhalten, gegen
+Abo-Gebühr eine didaktische Lern- und virtuelle Alltagsbeglei­
+tung durch bundesweit bekannte salafistische Prediger wie Fabian
+Lawerenz, Amen Dali und Abu Alia an.
+
+                             Ergänzt werden die Aktivitäten um
+                             Kooperationen mit Personen und
+                             Organisationen des legalistisch-isla­
+                             mistischen sowie z. T. des nicht-ex­
+                             tremistisch muslimischen Milieus.
+                             Es ist davon auszugehen, dass damit
+                             salafistische Strukturen fest in der
+                             muslimischen Community und in
+                             der Zivilgesellschaft etabliert werden
+                             sollen.
+
+                             Salafistischen Akteuren gelingt es
+                             wieder vermehrt, sowohl neue
+virtuelle Aktionsformen als auch realweltliche Kontakt- und
+Teilnahme­angebote, z. B. Sport-Events und gemeinsame Pilger­
+reisen, in Deutschland zu etablieren. Diese digitale und ebenso
+real erlebbare Verbreitung der salafistischen Ideologie übt eine
+beträchtliche Anziehungs- und Bindungskraft nicht zuletzt auf
+junge, emotional und sozial noch nicht gefestigte Persönlichkeiten
+aus. Junge Menschen bilden grundsätzlich die Hauptzielgruppe
+salafistischer Missionierungs- und Rekrutierungsaktivitäten.
+
+In Bayern waren 2024 im öffentlichen Raum regelmäßige Missio­          Zunahme der
+nierungsaktivitäten einer sich in Netzwerken organisierenden An­       realweltlichen Veran­
+hängerschaft der salafistischen Ideologie zu beobachten. Dabei         staltungen
+hat sich die Zahl der klassischen Islam-Infostände in Bayern, die
+sich in den letzten Jahren auf einem niedrigen 1-stelligen Bereich
+eingependelt hatten, im Berichtszeitraum deutlich gesteigert.
+Neben dem Regierungsbezirk Mittelfranken wurden Islam-Info­
+stände mit salafistischer Literaturauslage ebenfalls in Oberbayern
+und Oberfranken festgestellt.
+
+Der 2015 in Passau gegründete salafistische Verein „Bayerische
+Islamische Gemeinschaft (BIG) e. V.“ betreibt in diesem Kontext
+verschiedene Literatur- und Spendenprojekte, bei denen weitrei­
+chende Bezüge in die islamistische Szene in Deutschland und
+das europäische Umland erkennbar sind.
+
+
+
+
+                                                                                        87
+Verfassungsschutzbericht Bayern 2024                                        Islamismus
+
+
+IMAN-Projekt           Die österreichische salafistische Organisation „IMAN“ führte
+„What's your Goal?“    vom 8. bis 12. Mai eine „Tour de Da’wah“ in Deutschland durch.
+                       Dabei betrieb „IMAN“ Islam-Infostände u. a. in den Innenstädten
+                       von Nürnberg und Erlangen. Die Organisation ist Teil des britischen
+                       Missionierungsnetzwerkes „The Islamic Education and Research
+                       Academy“ (iERA), das weltweit salafistische Missionierungs­
+                       arbeit betreibt und beispielhaft für die zunehmende Professionali­
+                       sierung und Modernisierung des öffentlichen Auftretens junger
+                       Salafistinnen und Salafisten steht. „IMAN“ setzt bei den Missio­
+                       nierungsaktivitäten auf niedrigschwellige Gesprächsangebote
+                       und spielerische Aktionen wie ein Wissensquiz oder den Einsatz
+                       von Virtual-Reality-Brillen, um mit Passanten ins Gespräch zu
+                       kommen. Zusätzlich zur Da’wa-Tour waren Akteure von „IMAN“
+                       dieses Jahr auch im Rahmen der Fußball-Europameisterschaft
+                       in mehreren deutschen Städten, darunter in Nürnberg, mit Info­
+                       ständen vertreten. Dass „IMAN“ mit einer deutschsprachigen
+                       Adaption des ursprünglichen iERA-Projekts „What‘s your Goal?“
+                       (deutsch: „Was ist dein Ziel?“) die Fußball-Europameisterschaft
+                       aufgreift und als Einstieg in Missionierungsgespräche nutzte,
+                       während die Mehrzahl der Anhänger der salafistischen Szene
+                       derartige Nationenturniere und deren Sponsorenumfeld als unis­
+                       lamisch ablehnt, kann als Sinnbild für die für „IMAN“-typische
+                       Abkehr von konventionellen Street-Da‘wa-Aktionen hin zu einem
+                       modernisierten Missionierungsstil gewertet werden. Dies soll
+                       zum einen die abschreckende Wirkung vermeiden, die klassi­
+                       sches salafistisches Auftreten auf viele potenzielle Gesprächs­
+                       partner hat, und zugleich insbesondere das Interesse junger
+                       Menschen wecken.
+
+
+
+
+88
+Islamismus                                               Verfassungsschutzbericht Bayern 2024
+
+
+
+Salafistische Prediger spielen in der Szene und im Kontext der           Salafistische
+Missionierung, Rekrutierung und Radikalisierung weiterhin eine           Prediger
+wichtige Rolle. Während in der Vergangenheit große, öffentlich­
+keits- und medienwirksame Veranstaltungen wie z. B. öffent­liche
+Kundgebungen in Nürnberg mehrere Hundert, zumeist junge
+Menschen anzogen, finden diese seit Ende 2016 nicht mehr statt.
+
+Demgegenüber dienen lokale Moscheevereine weiterhin als                  Rolle der Moschee­
+Plattformen für salafistische Vortragsveranstaltungen sowie als          vereine
+bedeutende Treff- und Kontaktpunkte für Teile des salafistischen
+Personenpotentials in Bayern. Weiterhin finden dabei in Teilen
+Bayerns Veranstaltungen mit sowohl überregionalen salafis­
+tischen Predigern aus dem Inland, hierunter Amen Dali, als auch
+mit ausländischen Akteuren statt. Der Schwerpunkt des Veran­
+staltungsgeschehens lag hierbei hauptsächlich in München.
+­Daneben wurden auch vereinzelte Aktivitäten in Neu-Ulm, Erlan­
+gen und Nürnberg festgestellt.
+
+Obwohl Vortragsinhalte oder Predigten in der Mehrheit der Fälle
+keine strafrechtliche Relevanz entfalten, werden dennoch subtil
+und suggestiv antidemokratische, desintegrative, antisemitische
+oder auch homophobe Botschaften verbreitet. In salafistisch
+geprägten Moscheen in Bayern können dadurch potentielle
+Radikali­sierungsprozesse und die Entstehung von Parallelgesell­
+schaften begünstigt werden.
+
+                              Entgegen der nur wenigen Auftritte         Zunehmende
+                              in der breiten Öffentlichkeit nimmt        ­Internetpräsenz
+                              die Internetpräsenz der salafis­
+                              tischen Prediger und die Zahl ihrer
+                              niedrigschwelligen Einstiegsinhalte
+                              weiterhin zu. Angepasst an die Be­
+                              dürfnisse und Interessen ihrer Ziel­
+                              gruppen sprechen Akteure wie die
+                              beiden in Bayern geborenen salaﬁs­
+                              tischen Prediger Ibrahim El Azzazi
+                              und Fabian Lawerenz oder auch Abul
+                              Baraa und Abdelhamid über Themen
+                              wie Freundschaft, Sexualität oder
+die Rolle der Frau. Sie verbinden dabei salafis­tische Ideologieele­
+mente mit Ratschlägen von alltagspraktischer Relevanz für junge
+Menschen.
+
+Bundesweit aktive salafistische Prediger betätigen sich überdies
+oft mehrmals im Jahr als Reiseleiter bei Pilgerreisen nach Mekka
+bzw. Medina. Die Prediger übernehmen dabei eine ideologische
+
+
+                                                                                            89
+Verfassungsschutzbericht Bayern 2024                                       Islamismus
+
+
+                        Betreuung und nutzen die Reisen zur Erweiterung ihres Rezipien­
+                        tenkreises, u. a. durch begleitende Vorträge und persönliche Ge­
+                        spräche mit den Mitreisenden. Neben den bekannten und ­bereits
+                        seit mehreren Jahren aktiven Unternehmen „Bakkah Reisen“ und
+                        „IME-Reisen“ traten im Berichtszeitraum diverse neue Anbieter
+                       für Pilgerreisen mit Bezug zur salafistischen Szene in Bayern in
+                       ­Erscheinung.
+
+                       Salafistische und salafistisch beeinflusste Moscheen in Bayern
+                       Obwohl sich die Missionierungsarbeit im salafistischen Spek­
+                       trum stark auf den nicht-öffentlichen Raum verlagert hat, dienen
+                       Moscheen nach wie vor als Plattformen für salafistische Vortrags­
+                       veranstaltungen sowie als integrale Treff- und Kontaktpunkte für
+                       Teile des salafistischen Personenpotenzials in Bayern.
+
+                       Die Inhalte der Freitagspredigten und Vorträge in salafistischen
+                       Moscheen sind strafrechtlich meist nicht relevant, auch weil die
+                       Prediger eine Beobachtung durch die Sicherheitsbehörden fürch­
+                       ten. Konsequenterweise formulieren sie ihre öffentlichen Äuße­
+                       rungen sehr vorsichtig, um z. B. Anzeigen oder Vereinsverbote
+                       zu vermeiden. Dennoch werden unter dem Deckmantel der Mei­
+                       nungs- und Religionsfreiheit subtil und suggestiv antidemokra­
+                       tische, antisemitische, antifeministische und homophobe Bot­
+                       schaften verbreitet und damit Radikalisierungsprozesse sowie
+                       die Entstehung von Parallelgesellschaften begünstigt. Vereinzelt
+                       wird die Grenze zur Strafbarkeit überschritten.
+
+                       Salafistisch geprägte Moscheen in Bayern sind die im Regie­
+                       rungsbezirk Schwaben verortete „Salahuddin Moschee“ des
+                       Vereins „Islamischer Verein Augsburg e. V.“ in Augsburg sowie
+                       die Moschee des Vereins „Islamisch albanisches Zentrum Ulm –
+                       Qendra islamike shqiptare Ulm e. V.“ mit Sitz in Neu-Ulm.
+
+                       In München sind die „El-Salam“-Moschee des Vereins „Isla­
+                       mische Federation München El-Salam Moschee e. V.“ und die
+                       „Taufiq“-Moschee des Vereins „Somalische Gemeinde Mün­
+                       chen e. V.“ zu nennen.
+
+                       Entsprechende Moscheen im Regierungsbezirk Oberpfalz sind
+                       die Moschee des Vereins „Islamisches Zentrum Weiden e. V.“,
+                       die „As-Salam“-Moschee des Vereins „Islamisches Zentrum
+                       Schwandorf e. V.“ und die „Al-Hikmah“-Moschee des Vereins
+                       „Internationaler Kulturverein e. V.“ in Regensburg.
+
+
+
+
+90
+Islamismus                                              Verfassungsschutzbericht Bayern 2024
+
+
+
+Im Regierungsbezirk Niederbayern sind die Moschee des Vereins
+„Vereinigung Passauer Muslime e. V.“ (ehemals „Islamisches
+Zentrum Passau e. V.“) mit Sitz in Passau und die „Al-Rahman“-Mo­
+schee des Vereins „Basma für Kultur, Religion und Barriere­freiheit
+Passau e. V.“ salafistisch geprägt.
+
+Im Regierungsbezirk Mittelfranken ist die wieder eröffnete Mo­
+schee des „Muslimischen Interaktionsverein e. V.“ in Nürnberg
+dem Salafismus zuzuordnen.
+
+Internet
+Angehörige der salafistischen Szene nutzen das Internet als
+Propa­ganda-, Kommunikations-, Mobilisierungs- und Steuerungs­
+medium. Onlinepropaganda und deren digitale Weiterverbreitung
+stellen zudem wichtige Faktoren für die Fremd- und Selbstradikali­
+sierung von Personen, die Rekrutierung neuer Anhängerinnen
+und Anhänger sowie die Vernetzung im jihadistisch-salafistischen
+Milieu dar.
+
+
+
+
+Zahlreiche Accounts, Gruppen, Kanäle, Server und Webseiten
+sowie eine Vielzahl von Einzelpersonen und Gruppierungen sorgen
+für eine dynamische, dezentrale und weltweite Verbreitung und
+Sichtbarkeit der salafistischen Ideologie im virtuellen Raum.
+
+Die Hauptzielgruppe ihrer Onlinepropaganda und Rekrutierungs­           Hauptzielgruppe
+aktivitäten bilden junge Menschen im Alter von 14 bis 29 Jahren,        Jugend
+wobei in Einzelfällen ebenso die Radikalisierung von Kindern
+unter 14 Lebensjahren beobachtet wird. Salafistische Akteure
+sprechen diese im Internet gezielt in sozialen Netzwerken und
+auf Messengerdiensten an. Sie adressieren dabei sowohl poli­
+tische Einzelereignisse und gesellschaftliche Entwicklungen als
+auch jugendpopuläre Themen, Alltagsfragen und Sorgen junger
+Musliminnen und Muslime.
+
+Neue Onlineplattformen, App-Funktionen und Trends im digi­
+talen Mediengebrauch werden von den Akteuren dabei konse­
+quent aufgegriffen und für propagandistische Zwecke sowie zur
+Indoktrination von Szeneeinsteigerinnen und -einsteigern instru­
+mentalisiert. Hierzu gehörte u. a. der Einsatz von generativer KI
+
+
+
+
+                                                                                          91
+Verfassungsschutzbericht Bayern 2024                                        Islamismus
+
+
+                       zur Erstellung und Verbreitung von emotionalisierenden Leidens­
+                       darstellungen im Zusammenhang mit dem Nahostkonflikt, von
+                       Szenecodes wie spezifischen Symbolen und Emojis zur verschlei­
+                       erten Kommunikation mit Gleichgesinnten oder von mehrminüti­
+                       gen Audio- und Videobeiträgen mit künstlicher Sprecherstimme.
+
+„TikTokisierung“       Eine verstärkte Einbindung in die Onlineaktivitäten salafistischer
+                       Einzelpersonen, Prediger und Gruppierungen erfuhren in den
+                       vergangenen Jahren der bei jüngeren Menschen populäre Kurz­
+                       videodienst TikTok und Influencer-ähnliche Kommunikations­
+                       praktiken. Die Ideologievermittlung erfolgt in diesen Videobei­
+                       trägen zielgruppengerecht in inhaltlich verkürzter und leicht
+                       verständlicher Form. Die von der Anhängerschaft eigeninitiativ
+                       und über zahlreiche inoffizielle Da’wa-Seiten weiterverbreiteten
+                       Kurzvideos mit einer Länge von teils nur einigen Sekunden sind
+                       so konzipiert, dass sie aufgrund der Themenwahl bei der jungen
+                       Zielgruppe Interesse wecken und einen niedrigschwelligen Ein­
+                       stieg in islamistische Denkweisen und Filterblasen bieten. In
+                       den Videos werden konkurrierende bzw. abweichende Sichtwei­
+                       sen verschwiegen und Feindbilder somit einfacher bzw. wider­
+                       spruchslos transportiert.
+
+                       Ebenso wird das soziale Netzwerk Instagram weiterhin umfas­
+                       send zur plattformübergreifenden Werbung von szenerelevanten
+                       Veran­staltungen, neuen Missionierungsprojekten, Pilgerreisen,
+                       aber auch für eine z. T. offene Verbreitung von Gewalt- und Terror­
+                       propaganda und die Vernetzung der Szene über Messenger­
+                       dienste wie u. a. WhatsApp, Telegram, Signal, Threema und
+                       Session genutzt.
+
+Gamingszene            Während die im Bereich der Gamingszene fest etablierte Chat­
+                       plattform Discord vermehrt als Anlaufstelle für salafistische
+                       Propaganda-Aktivitäten feststellbar ist, war vor allem im Zusam­
+                       menhang mit TikTok eine Zunahme der offenen und organisa­
+                       tionsindifferenten Verwendung von Symbolen und Kennzeichen
+                       islamistischer Terrororganisationen wie IS, AQ und HAMAS
+                       durch junge Nutzerinnen und Nutzer zu verzeichnen. Die in dem
+                       Kurzvideodienst und funktionsähnlichen Formaten bestehende
+                       Möglichkeit zur Einbindung von Musikstücken wird hierbei immer
+                       wieder für die Verbreitung von jihadistisch-salafistischen Nashids,
+                       d. h. A-cappella-Gesängen mit gewaltverherrlichenden Text­
+                       botschaften, oder Tonaufnahmen früherer IS-Schlüsselfiguren
+                       eingesetzt. In den oftmals nur wenige Sekunden dauernden
+                       „Audioclips“ des offiziellen IS-Musik­    verlages „Ajnad Media
+                       Foundation“ oder Predigtausschnitten werden beispielsweise die
+
+
+
+
+92
+Islamismus                                            Verfassungsschutzbericht Bayern 2024
+
+
+
+Errichtung des „IS-Kalifats“ beschworen, die Selbstaufopferung
+als Märtyrer im Kampf gegen die „Feinde des Islam“ glorifiziert
+oder die Tötung von Juden und Christen eingefordert.
+
+Vielfache Anwendung finden auch Memes (in Bildern oder Videos         „Memefizierung“
+eingebettete prägnante Texte). Anhängerinnen und Anhänger             der Propaganda
+der salafistischen Ideologie verwenden diese schnell und einfach
+erstellbaren Text-Bild-Collagen als Kommunikationsmittel, um
+extremistisches Gedankengut subtil, aber zielgruppengerecht
+in Umlauf zu bringen. Memes, gleich ob in öffentlichen sozialen
+Netzwerken oder privaten Messengergruppen geteilt, haben
+das Potenzial, politisch-religiöse Botschaften visuell eingängig
+zu vermitteln, plakativ zu überhöhen und viral in Umlauf zu brin­
+gen. Thematisch wird dabei auf lebensnahe Inhalte, wie z. B.
+Fragen zu muslimischer Identität oder Zugehörigkeit, auf Diskri­
+minierungserfahrungen, aber auch auf eine religiös begründete
+Höher­  wertigkeitserzählung der muslimischen Gemeinschaft
+bzw. der „wahren“ Muslime zurückgegriffen. Die Motive und
+Abbildungen verstärken häufig geschickt die inhärenten extre­
+mistischen Textbotschaften und transportieren Desinformationen
+und das Narrativ von vermeintlichen gesellschaftlichen Missstän­
+den und einer angeblich gezielt von Politik, Staat, Medien und
+Mehrheitsgesellschaft beförderten sozialen Benachteiligung
+von Menschen muslimischen Glaubens. Ein junges Phänomen
+stellt in diesem Zusammenhang der Rückgriff auf Memes aus
+der Online­subkultur der Image Boards wie z. B. 4chan dar. Unter
+anderem in solchen vorgeblich humoristischen Text-Bild-Colla­
+gen werden zentrale Feindbilder der salafistischen Szene wie
+andersdenkende und liberale Muslime, kurdische, jüdische und
+christliche sowie feministisch eingestellte Personen, Angehörige
+der LGBTQIA+-Community sowie die liberale westliche Gesell­
+schaft im Allgemeinen verhöhnt und verächtlich gemacht.
+
+
+
+
+                                                                                        93
+Verfassungsschutzbericht Bayern 2024                                      Islamismus
+
+
+                       Das zentrale Betätigungsfeld der jihadistisch-salafistischen
+                       Online­szene und die wichtigste Verbreitungsplattform für offi­
+                       zielle und inoffizielle Propagandamedien ist noch immer der
+                       Messenger­  dienst Telegram. Aufrufe zu Spenden und zur
+                       Gefangenen­  hilfe sowie gewaltbefürwortende Gelehrtenaus­
+                       sagen und Medien­dateien können via Telegram in verschlüsselter
+                       Einzelkommunikation, in privaten oder öffentlichen Gruppen­chats
+                       sowie über frei zugängliche eigene Telegram-­Kanäle weitgehend
+                       anonym verbreitet werden. In AQ- und IS-nahen Telegram-Kanälen
+                       werden neben verfassungsfeindlichen Ideologieelementen auch
+                       Anleitungen zur Verschleierung von Kommunikations­      spuren,
+                       Aufrufe zu Einzeltäteranschlägen und beispielsweise Baupläne
+                       zur Herstellung von Unkonventionellen Spreng- und Brandvor­
+                       richtungen (USBV) geteilt.
+
+
+
+
+                       Ergänzend setzte die internationale jihadistisch-salafistische
+                       Szene in den letzten Jahren wieder verstärkt auf Webseiten
+                       als Verbreitungsmethode. Eine zentrale Stellung nahmen hierin
+                       z. T. über das verschlüsselte TOR-Netzwerk abrufbare mehr­
+                       sprachige und multimediale News- und Archiv-Webseiten ein,
+
+94
+Islamismus                                            Verfassungsschutzbericht Bayern 2024
+
+
+
+die Bekanntmachungen der IS-Führung, Kampfmeldungen aus
+den Jihad-Gebieten in Afrika und Asien sowie Drohbotschaften
+zahlreicher inoffizieller pro-IS-Medienstellen zeitweise auch in
+deutscher Sprache bereitstellten. In Zusammenarbeit mit dem
+Bundeskriminalamt und der Staatsanwaltschaft Nürnberg-Fürth
+konnten die spanischen Sicherheitsbehörden im Mai mehrere
+Verant­wortliche festnehmen, wodurch der Betrieb und die Propa­
+gandaaktivitäten der pro-IS-News- und Archiv-Webseiten „I’lam
+Foundation“ und „AlRaud Media Archive“ im Berichtszeitraum
+maßgeblich reduziert werden konnte.
+
+                          Daneben finden dezentrale Kommu­            Inspire-Tweets
+                          nikationsplattformen wie Rocket.
+                          Chat oder der X-Klon ChirpWire Ein­
+                          satz bei der Verbreitung von AQ- und
+                          IS-nahen Propagandaveröffentlichun­
+                          gen, wie z. B. der neuartigen „Inspire
+                          Tweets“-Reihe der offiziellen Medien­
+                          stellen „Al-Malahem Media“ (AQAH),
+                          in der u. a. zur Nach­ahmung des töd­
+                          lichen Messerangriffs in Mannheim
+                          am 31. Mai aufgerufen wurde. Der
+                          durch die AQ-nahe „Globale isla­
+                          mische Medienfront“ (GIMF) betriebe­
+                          ne Rocket.Chat-Server „GeoNews“ ist
+                          dabei von tragender Funktion für offi­
+                          zielle Propagandastellen des AQ-Netz­
+werkes und für die Vernetzungs- und Rekru­tierungsaktivitäten der
+pro-AQ-Szene.
+
+                          Gezielt für diese digitalen Verbrei­        Onlinemagazine
+                          tungswege konzipiert sind Onlinema­
+                          gazine wie „Voice of Khurasan“ des
+                          von Afghanistan aus operierenden
+                          IS-Ablegers ISPK, das am 11. Sep­
+                          tember 2019 erstmalig und in eng­
+                          lischer Sprache erschienene „One
+                          Ummah“ (AQ) oder „Sada al-Mala­
+                          him“ („al-Qaida auf der arabischen
+                          Halbinsel“, AQAH). In ihnen werden,
+                          neben Koraninterpretationen jihadis­
+                          tisch-salafistischer Lesart und Aufru­
+                          fen zur „Hijra“ (deutsch: „Auswan­
+derung“, hier in islamisches Siedlungsgebiet), der gewaltsame
+Jihad propagiert und verschiedene Typen von Einzeltäteranschlä­
+gen und öffentlichkeitswirksame Anschlagsziele beworben. Bis
+
+
+                                                                                       95
+Verfassungsschutzbericht Bayern 2024                                        Islamismus
+
+
+                       Ende 2024 sind über die offizielle ISPK-Medienstelle „Al Azaim
+                       Foundation for Media Production“ 42 Ausgaben der englisch­
+                       sprachigen Fassung von „Voice of Khurasan“ erschienen. Dane­
+                       ben erscheint das Onlinemagazin mittlerweile in verschiedenen
+                       weiteren Sprachfassungen, darunter Tadschikisch, Paschto und
+                       Türkisch. Wiederholt sind in „Voice of Khurasan“ Drohbotschaften
+                       gegen Deutschland und Europa sowie Aufrufe zu Anschlägen
+                       auf jüdische Menschen, Moscheen und Kirchen, öffentliche
+                       Veran­staltungen, LGBTQIA+-Demonstrationen, Fußballspiele
+                       als auch auf Beschäftigte von Sicherheitsbehörden festzustellen.
+
+Märtyrerkult           Die im Internet verbreitete islamistische Gewalt- und Terrorpro­
+                       paganda, Märtyrerverehrung und Glorifizierung der „Mujahidin“
+                       (deutsch: „die sich Mühenden“ bzw. hier „islamische Wider­
+                       standskämpfer“) tragen entscheidend dazu bei, dass sich die
+                       Anhänger der jihadistisch-salafistischen Ideologie als Teil einer
+                       eingeschworenen, vermeintlich elitären und in Teilen zum Selbst­
+                       opfer bereiten Bewegung begreifen. In letzter Konsequenz können
+                       radikalisierte und vulnerable Personen, befördert durch emotiona­
+                       lisierende Ereignisse wie den Nahostkonflikt sowie inspiriert und
+                       mobilisiert durch die online verbreiteten Aufrufe zur „Verteidigung
+                       des Islam“, als Einzeltäter bzw. „Homegrown“-Terroristen, ohne
+                       unmittelbare oder notwendige Einbindung in eine terroristische
+                       Kleinstgruppe oder Organisationsstruktur, in Erscheinung treten.
+
+
+
+
+Drohungen gegen        Die Strategie des inspirierten Einzeltäteranschlages stellt dabei
+Großereignisse         unverändert einen festen Bestandteil der jihadistisch-salafis­
+                       ­
+                       tischen Onlinepropaganda dar, für die in den letzten Jahren wieder
+                       eine Zunahme an Qualität und Quantität zu verzeichnen war. Diese
+                       spiegelte sich beispielsweise in der Vielzahl an Drohbotschaften
+                       im Zusammenhang mit einem Champions­           league-Fußballspiel
+                       in der Allianz Arena in München im März, der Fußball-Europa­
+                       meisterschaft im Juli in Deutschland und den Olympischen
+                       Sommer­spielen im Juli/August in Frankreich wider.
+
+
+
+
+96
+Islamismus                                             Verfassungsschutzbericht Bayern 2024
+
+
+
+Bei allen seit 2016 in Bayern verübten Anschlägen kam dem Inter­
+net für Tatplanung, Durchführung oder Radikalisierung eine nicht
+unerhebliche Rolle zu. Die meisten Taten werden im Vorfeld aber
+auch von realweltlichen Aktivitäten begleitet.
+
+3.2.5 Salafistische Personen im Justizvollzug
+
+Beispiele islamistischer Attentäter der Vergangenheit zeigen, dass
+eine gewaltbereite oder kriminelle Vergangenheit eine zumindest
+begünstigende Voraussetzung für die Begehung terroris­tischer
+Anschläge darstellen kann. Vor diesem Hintergrund kommt Haft­
+anstalten als potenziellen Radikalisierungs- und Rekrutierungs­
+orten eine wichtige Bedeutung für die frühzeitige Erkennung und
+Beobachtung salafistischer Tendenzen zu.
+
+Ende 2024 befanden sich in bayerischen Justizvollzugsanstalten         Inhaftierte in Bayern
+37 Inhaftierte, bei denen Bezüge zur salafistischen Ideologie
+und teilweise auch zum islamistischen Terrorismus erkennbar
+waren. Bei einem Teil dieser Gefangenen handelt es sich um
+Personen, die den Sicherheitsbehörden schon vor ihrer Inhaftie­
+rung als dem salafistischen Spektrum zugehörig bekannt waren,
+bei anderen wurden Bezüge zum Salafismus erst während des
+Haftaufenthaltes ersichtlich. Darüber hinaus befinden sich etwa
+50 weitere Personen in Haft, bei denen der Verdacht besteht,
+dass sie vor ihrer Inhaftierung eine islamistische Ideologisierung
+durchlaufen haben.
+
+Die Justizvollzugsanstalten stehen vor der Herausforderung, mit
+Missionierungsaktivitäten und Radikalisierungsprozessen konfron­
+tiert zu werden, und unternehmen umfangreiche Anstrengun­
+gen, diesen wirksam zu begegnen. Es besteht insbesondere
+die Gefahr, dass bisher nicht ideologisierte Inhaftierte durch die
+Missionierungsarbeit salafistischer Mithäftlinge an die Ideologie
+herangeführt werden und sich bereits radikalisierte Häftlinge zu
+Gruppen zusammenschließen.
+
+In Bayern sind die Strategische Einheit Extremismusbekämpfung          Strategische Einheit
+(StEEx) im Bayerischen Staatsministerium der Justiz (BayStMJ)          Extremismus­
+sowie die in der Justizvollzugsanstalt (JVA) Nürnberg ansässige        bekämpfung
+Operative Einheit Extremismusbekämpfung (OpEEx) zuständig
+für Fragen der Extremismusbekämpfung innerhalb des Justiz­             Operative Einheit
+vollzuges. Durch eine enge Zusammenarbeit zwischen Polizei,            Extremismus­
+Justiz und Verfassungsschutz wird der Ausbreitung und Verfes­          bekämpfung
+tigung des Salafismus in Haftanstalten entgegengewirkt und das
+bayerische Justizvollzugspersonal dabei unterstützt, Fälle von
+salafistischer Ideologisierung und Radikalisierung frühzeitig zu
+erkennen und zu verhindern.
+
+                                                                                           97
+Verfassungsschutzbericht Bayern 2024                                         Islamismus
+
+
+                       Gefangenenhilfe
+                       Innerhalb der salafistischen Szene stellen Solidarisierungsbekun­
+                       dungen mit inhaftierten „Glaubensgeschwistern“ einen wichtigen
+                       Baustein dar, um das Gemeinschaftsgefühl zu festigen. Hierbei
+                       wird der Rechtsstaat als ungerechtes System dargestellt und
+                       so das westliche Staats- und Gesellschaftsprinzip diffamiert.
+                       Ziel der salafistischen Gefangenenhilfe ist es, Resozialisierungs-­
+                       prozesse zu verhindern, inhaftierte Szeneangehörige weiterhin
+                       an die salafistische Ideologie zu binden und sie dazu zu motivieren,
+                       Mithäftlinge an den Salafismus heranzuführen.
+
+                       Vor allem über das Internet wird zu vorwiegend finanziellen
+                       Hilfe­leistungen für inhaftierte Gleichgesinnte aufgerufen. Zudem
+                       ist bekannt, dass Initiativen und Akteure der salafistischen
+                       Gefangenen­hilfe in Einzelfällen Briefe an in Bayern Inhaftierte
+                       musli­mischen Glaubens verschickt haben.
+
+                       3.2.6 Exekutivmaßnahmen
+
+                       Vereinsrechtliche Verbots- und Ermittlungsverfahren
+                       Vereinsverbote sind ein wichtiges Instrument der wehrhaften
+                       Demokratie in Deutschland. Ein Verein ist nach Art. 9 Abs. 2 GG
+                       verboten, wenn der Zweck der Tätigkeit des Vereins den Straf­
+                       gesetzen zuwiderläuft, sich gegen die verfassungsmäßige Ord­
+                       nung oder den Gedanken der Völkerverständigung richtet.
+
+Verbot der DMG         Am 12. Juni wurde der salafistische Verein „Deutschsprachige
+Braunschweig           Muslimische Gemeinschaft e. V. Braunschweig“ (DMG Braun­
+                       schweig) und die ihm zuzuordnenden Da‘wa-Projekte, darunter
+                       die bundesweite Flyer-Verteilungskampagne „Was danach?“,
+                       durch das niedersächsische Innenministerium verboten, da
+                       sich der Verein gegen die verfassungsmäßige Ordnung sowie
+                       den Gedanken der Völkerverständigung richtete. So förderte
+                       der Verein mit der Verbreitung seiner Ideologie in kämpferisch-­
+                       aggressiver Weise u. a. die Bildung von Parallelgesellschaften,
+                       die Ungleichbehandlung von Frauen, die Intoleranz gegenüber
+                       anderen Religionen sowie Antisemitismus und Israelfeindlich­
+                       keit. Im Zuge des Verbotsverfahrens wurde die durch den Verein
+                       betriebene Moschee in Braunschweig geschlossen und die Mo­
+                       scheeräumlichkeiten selbst sowie 8 weitere Objekte in Braun­
+                       schweig und Berlin durchsucht. Des Weiteren wurde die Sper­
+                       rung sämtlicher Internetauftritte und Social-Media-Kanäle der
+                       DMG Braunschweig veranlasst. Der Verein galt als das zentrale
+                       Prediger­netzwerk der bundesweiten salafistischen Szene und
+                       Grundbaustein in der Radikalisierungsbiografie zahlreicher Ange­
+                       höriger der deutschsprachigen politisch-salafistischen und jihadis­
+                       tisch-salafistischen Szene.
+
+98
+Islamismus                                              Verfassungsschutzbericht Bayern 2024
+
+
+
+Ermittlungs- und Strafverfahren
+Am 18. Oktober wurde in Marktoberdorf im Landkreis Ostallgäu
+die Wohnung des Yaroub A. durchsucht. Gegen den Beschuldig­
+ten führt die Bayerische Zentralstelle zur Bekämpfung von Extre­
+mismus und Terrorismus (ZET) bei der Generalstaatsanwaltschaft
+München ein Ermittlungsverfahren gemäß § 129a und § 129b
+StGB wegen des Verdachtes der Mitgliedschaft in einer auslän­
+dischen terroristischen Vereinigung. Dem Beschuldigten wird
+vorgeworfen, mindestens im Zeitraum Juni/Juli 2014 in Syrien für
+den IS tätig gewesen zu sein, indem er sich als Ange­höriger der
+sog. „Hisba“ (deutsch: „Sittenpolizei“) an Durch­suchungs- und
+Festnahmeaktionen beteiligt hatte.
+
+Beamte des bayerischen Landeskriminalamts vollzogen am
+15. Mai in Kaufbeuren den Haftbefehl des Ermittlungsrichters
+des Bundesgerichtshofs gegen den irakischen Staatsangehö­
+rigen Najem A. M. Dieser ist der Mitgliedschaft in einer terroris­
+tischen Vereinigung im Ausland gemäß § 129a und § 129 b StGB
+dringend verdächtig. Dem Beschuldigten wird vorgeworfen, sich
+spätestens im Dezember 2016 im Irak der ausländischen terroris­
+tischen Vereinigung „Islamischer Staat“ (IS) angeschlossen und
+sich in der Folgezeit in der für Festnahmen zuständigen Polizei­
+einheit der Organisation betätigt zu haben. Auch nach seiner
+Einreise in die Bundesrepublik Deutschland Anfang 2023 soll er
+Kontakt zu Gleichgesinnten gepflegt und sich für Aufträge des
+IS bereitgehalten haben. Weiter liegen den Ermittlungsbehörden
+Erkenntnisse vor, denen zufolge er im Herbst 2023 eine Geld­
+zahlung in Höhe von 2.500 US-Dollar von der Terrororganisation
+erhalten habe.
+
+Das Oberlandesgericht München hat am 16. Mai den tadschi­               Verurteilung eines
+kischen Staatsangehörigen Bobodzhon K. nach Anklage durch               Tadschiken
+die ZET der Generalstaatsanwaltschaft München wegen der
+mitgliedschaftlichen Beteiligung in einer terroristischen Vereini­
+gung im Ausland in 2 Fällen zu einer Freiheitsstrafe von 2 Jahren
+und 8 Monaten verurteilt. Der Angeklagte sei im Jahr 2015 aus
+Moskau über die Türkei in das seinerzeit von der jihadistisch-
+sala­fistischen Terrororganisation IS kontrollierte Gebiet in Rakka
+(Syrien) gereist. Dort habe K. zunächst an einer umfangreichen
+Koranschulung und anschließend an einer militärischen Ausbil­
+dung teilgenommen, um schließlich Mitglied einer russischspra­
+chigen „Katiba“ (deutsch: Bataillon) zu werden. Letzthin habe
+sich K. freiwillig für einen Einsatz an der Front gemeldet, am
+Sturm auf einen Militärflughafen teilgenommen und dabei selbst
+auch mindestens 1 Schuss aus einem Maschinengewehr abge­
+geben. K., der am 28. Juni 2023 in Tschirn im Landkreis Kronach
+
+
+                                                                                         99
+Verfassungsschutzbericht Bayern 2024                                          Islamismus
+
+
+                       festgenommen worden war, hatte den Tatvorwurf zuvor in
+                       ­mehreren Interviews, u. a. bei der Deutschen Welle (DW), dem
+                        russischen Ableger der britischen BBC sowie bei Befragungen
+                        durch Polizei- und Ausländerbehörden weitgehend eingeräumt.
+                        Das Gericht überprüfte das umfassende und mehrfach abgege­
+                        bene Geständnis anhand objektiver Beweismittel und bewertete
+                        es als insgesamt weitgehend glaubhaft. K. wurde am 12. Juni
+                        in seinen Heimatstaat abgeschoben. Bis zum 12. Dezember
+                        2026 unterliegt er einem Einreise- und Aufenthaltsverbot für die
+                        Bundes­republik Deutschland.
+
+                       3.2.7 Islamischer Staat, al-Qaida und andere
+                             ­jihadistisch-salafistische Strukturen
+
+                       3.2.7.1    Der Islamische Staat (IS)
+
+                       Mit der territorialen Niederlage des IS in Irak und Syrien und dem
+                       Tod des „IS-Kalifen“ Abu Bakr al-Baghdadi im Jahr 2019 verän­
+                       derte sich die frühere Strategie der jihadistisch-salafistischen
+                       Terrororganisation von der Festigung und aggressiven Expansion
+                       des 2014 ausgerufenen territorialen „IS-Kalifats“ hin zu einer
+                       strategischen Symbiose aus Terrorismus und Guerillataktik auf
+                       lokaler Ebene, mittels derer der IS nun zunehmend aus dem
+                       Untergrund heraus agiert. Zugleich beschleunigte der IS seine
+                       Dezentralisierung durch die weltweite Etablierung neuer IS-Ver­
+                       waltungsprovinzen. Die Terrororganisation kann sich bis heute,
+                       trotz der Tötung von bis dato 4 Nachfolgern des al-Baghdadi, als
+                       vitale und global operierende Terrororganisation behaupten und
+                       fortlaufend neue Anhänger gewinnen.
+
+Provinzen des IS       IS-Splittergruppen sind u. a. in Afghanistan und im zentralasia­
+                       tisch-nordkaukasischen Raum aktiv und haben dort z. T. eigene
+                       IS-Verwaltungsprovinzen ausgerufen. Insgesamt hat sich der
+                       Schwerpunkt des IS bzw. seiner Verwaltungsprovinzen zuneh­
+                       mend auf den afrikanischen Kontinent verlegt, wo damit einher­
+                       gehend auch eine erhöhte terroristische Aktivität zu verzeich­
+                       nen ist. Die zahlreichen Ableger und Provinzen des IS in Afrika
+                       ermög­lichten letztlich, den territorialen Verlust in Irak und Syrien
+                       zu kompensieren und eine neue terroristische Infrastruktur zu
+                       schaffen. Von dieser Entwicklung profitiert der IS mittlerweile
+                       weltweit.
+
+
+
+
+100
+Islamismus                                                 Verfassungsschutzbericht Bayern 2024
+
+
+
+Islamischer Staat – Provinz Khorasan (ISPK)
+Bereits kurz nach der Machtergreifung der Taleban im August
+2021 in Afghanistan konnten zahlreiche inhaftierte Mitglieder
+des im Jahr 2015 gegründeten IS-Ablegers ISPK aus den zuvor
+ von der gestürzten Regierung betriebenen Gefängnissen ent­
+ kommen. Seither fordert der ISPK die Herrschaft der Taleban im
+ Land direkt heraus und rekrutiert überdies erfolgreich ehemalige
+ und neue IS-Kämpfer und -Anhänger in Kasachstan, Kirgisistan,
+Tadschikistan und Usbekistan, wobei er insbesondere unter
+­Tadschiken und Usbeken erfolgreich ist. Im Gegenzug gehen die
+ Taleban in Afghanisten mit Nachdruck gegen den ISPK vor, was
+ zu einer Verlagerung der operativen Aktivitäten des ISPK in Rich­
+ tung Europa und auch bis nach Deutschland geführt hat.
+
+3.2.7.2   Das al-Qaida-Netzwerk (AQ)
+
+ Die terroristische Organisation AQ ist für eine Vielzahl von terroris­
+ tischen Anschlägen weltweit verantwortlich. Nach den Anschlägen
+ in den USA vom 11. September 2001 formierte sich AQ unter
+ dem verstärkten Verfolgungsdruck neu, hin zu einem flexiblen
+ und globalen Netzwerk mit regionalen Ablegern wie „al-Qaida in
+ Irak“ (AQI), „al-Qaida im islamischen Maghreb“ (AQIM), „al-Qaida
+auf der arabischen Halbinsel“ (AQAH) und „al-Qaida im indischen
+Subkontinent“ (AQIS). Durch die Tötung mehrerer Führungsper­
+sonen der „Kern-AQ“, darunter Usama bin Ladin im Jahr 2011
+und dessen Nachfolger Aiman al-Zawahiri im Jahr 2022, wurde
+die Kernorganisation stark geschwächt. Der AQ können seither
+­keine Anschläge in vergleichbarer Dimension wie 2001 zuge­
+ rechnet werden.
+
+Nach der Machtübernahme der Taleban in Afghanistan im August               Kooperation mit den
+2021 gestanden diese der AQ weiterhin das Gastrecht im Sinne               „Taleban“
+einer geduldeten AQ-Präsenz zu. Im Gegenzug beglückwünschte
+AQ die Taleban anlässlich der erneuten Machtübernahme, was
+auf eine Interessenkonvergenz und mögliche Nutzung Afghanis­
+tans als AQ-Rückzugsraum hindeutet.
+
+AQ ist in den letzten Jahren zu einer richtungsweisenden Instanz
+für diejenigen jihadistische Salafisten geworden, die der exzessiv­-
+brutalen Vorgehensweise des IS ablehnend gegenüberstehen.
+
+Der Ägypter Saif al-Adel gilt nach bin Ladin und al-Zawahiri als           Aufrufe zu An­
+mutmaßlich dritter Emir (deutsch: „Befehlshaber“) der „Kern-               schlägen in Europa
+AQ“ und ruft seit 2023 im Westen lebende Muslime u. a. zu
+
+
+
+
+                                                                                            101
+Verfassungsschutzbericht Bayern 2024                                         Islamismus
+
+
+                       Sprengstoff- und Brandanschlägen auf. Begleitend beglückwün­
+                       schten mehrere AQ-Ableger die HAMAS für den Terroranschlag
+                       am 7. Oktober 2023 auf Israel und forderten die Anhänger des
+                       AQ-Netzwerkes auf, sich am Kampf gegen die israelischen
+                       Militär­kräfte zu beteiligen.
+
+                       3.2.7.3      Hai’at Tahrir al-Sham (HTS)
+
+                       Der AQ-Ableger „al-Qaida in Irak“ (AQI) trat im Januar 2012
+                       erstmals als „Jabhat al-Nusra li-Ahl al-Sham“ (JaN, kurz auch
+                       „Jabhat al-Nusra“) in Erscheinung und avancierte in der Folge­
+                       zeit zu einem einflussreichen Akteur aufseiten der syrischen Re­
+                       bellengruppen. Ein Teil der JaN schloss sich 2017, ohne die Zu­
+                       stimmung der „Kern-AQ“, in Syrien mit anderen islamistischen
+                       Gruppierungen zur jihadistisch-salafistischen Terrororganisation
+                       „Hai’at Tahrir al-Sham“ (HTS) zusammen. Unter der Führung von
+                       Abu Muhammad al-Jaulani gelang es HTS, zu einer der größten
+                       bewaffneten Gruppen in Syrien aufzusteigen und im Dezember
+                       2024 den Sturz des bisherigen syrischen Machthabers Baschar
+                       al-Assad anzuführen.
+
+                       HTS ist bestrebt, vor Ort IS und AQ als ihre Hauptkonkurrenten
+                       zu bekämpfen und kleinzuhalten, betont dabei jedoch, dass von
+                       ihr für den Westen keine Gefahr z. B. durch Anschläge ausgehe.
+
+                       Im Juni 2021 stellte HTS der jihadistisch-salafistischen Gruppie­
+                       rung „Junud al-Sham“ (JaS), für die bereits Personen mit Bezü­
+                       gen nach Bayern gekämpft hatten, ein Ultimatum, sich der HTS
+                       anzuschließen oder die syrische Region Idlib zu verlassen. JaS
+                       beugte sich und übergab HTS die bisher von ihr besetzten Ge­
+                       biete. Bis heute gelingt es HTS, in Bayern Sympathisanten zu
+                       gewinnen.
+
+
+                       3.3 Sonstiger islamistischer Terrorismus
+                       3.3.1 HAMAS (Islamische Widerstandsbewegung)
+
+                       Personenpotenzial          Deutschland:    ca. 4501
+                                                  Bayern: Einzelpersonen
+
+                       Gründung                   1988
+                       Ideologischer Bezug        Muslimbruderschaft
+
+
+                       1
+                           Quelle: Bundesverfassungsschutzbericht 2023
+
+
+
+
+102
+Islamismus                                              Verfassungsschutzbericht Bayern 2024
+
+
+
+Nach Beginn der sog. „Ersten Intifada“ („Aufstand der Palästi­
+nenser“) im Dezember 1987 schlossen sich Anfang 1988 die pa­
+lästinensischen Anhängerinnen und Anhänger der MB unter Füh­
+rung von Ahmad Yasin zur „Harakat al-Muqawama al-Islamiya“
+(HAMAS, deutsch: „Islamische Widerstandsbewegung“) zusam­
+men und nahmen den bewaffneten Kampf gegen Israel auf.
+
+Die HAMAS übt seit ihrer gewaltsamen Machtübernahme 2007
+die alleinige Kontrolle über den Gazastreifen aus. Sie verneint das
+Existenzrecht Israels und will auf dem gesamten Gebiet Palästinas
+einen „islamischen Staat“ errichten. Sie lehnt deshalb auch den
+israelisch-palästinensischen Friedensprozess ab.
+
+Die HAMAS ist für eine Vielzahl terroristischer Aktionen verant­        EU-Terrorliste
+wortlich, darunter zahlreiche Selbstmordattentate. Sie steht auf
+der EU-Liste terroristischer Organisationen.
+
+Mit dem als „Operation Al-Aqsa-Flut“ bezeichneten terroris­             „Operation
+tischen Angriff der HAMAS auf Israel vom 7. Oktober 2023                Al-Aqsa-Flut“
+erlebte die Gewalteskalation im Nahostkonflikt einen neuen
+Höhepunkt. Insgesamt wurden nach Angaben des israelischen
+Außenministeriums mehr als 240 Personen in den Gazastreifen
+verschleppt und über 1.200 Menschen getötet. Israel erklärte
+der HAMAS daraufhin den Krieg. Unter den Opfern befanden
+sich auch deutsche Staatsangehörige.
+
+In Zusammenhang mit dem Terrorangriff der HAMAS vom 7. Ok­
+tober 2023 wurde durch das Bundesministerium des Innern und
+für Heimat (BMI) am 2. November 2023 ein Betätigungsverbot für
+die HAMAS in Deutschland ausgesprochen. Hierdurch ist neben
+dem Verwenden von Kennzeichen der Organisation auch jegliche
+Unterstützungshandlung verboten und unter Strafe gestellt. Hierzu
+zählen auch Finanzierungsaktivitäten sowie das Aufrechterhalten
+oder die Gründung von Strukturen der Organisation.
+
+Von der in Deutschland lebenden HAMAS-Anhängerschaft gehen
+Bestrebungen aus, die auswärtige Belange der Bundesrepublik
+Deutschland gefährden und gegen das friedliche Zusammenleben
+der Völker gerichtet sind. Deutschland wird von der HAMAS zur
+Sammlung von Spenden und zur Verbreitung ihrer Propaganda
+genutzt.
+
+
+
+
+                                                                                         103
+Verfassungsschutzbericht Bayern 2024                                                    Islamismus
+
+
+                       3.3.2 Hizb Allah (Partei Gottes)
+
+                       Personenpotenzial          Deutschland: ca. 1.2501
+                                                  Bayern: Einzelpersonen
+
+                       Gründung                   1982 im Libanon
+
+                       Publikation                al-Intiqad („Die Kritik“)
+
+                       Fernsehsender              al-Manar („Der Leuchtturm“), Sitz in Beirut
+                       Ideologischer Bezug        Schiitischer Islamismus
+
+
+                       1
+                           Quelle: Bundesverfassungsschutzbericht 2023
+
+
+                       Die „Hizb Allah“ (auch „Hisbollah“ oder „Hizbollah“, deutsch:
+                       „Partei Gottes“) ist eine auf Initiative Irans gegründete schiitische
+                       Partei, die seit 1992 im libanesischen Parlament vertreten ist. Sie
+                       wird von Iran finanziell, materiell und ideologisch unterstützt. Ab­
+                       seits ihres politischen und sozialen Engagements, das vor allem
+                       in den ärmeren Bevölkerungsschichten positiv aufgenommen
+                       wird, verfügt sie ebenso über militärische Einheiten, die insbe­
+                       sondere im Süden Libanons unabhängig von der Staatsgewalt
+                       agieren. Der Aufforderung zur Entwaffnung dieser Miliz gemäß
+                       der UN-Sicherheitsratsresolution 1559 aus dem Jahr 2004 kam
+                       der politische Flügel der „Hizb Allah“ bislang nicht nach.
+
+                       Das langfristige Ziel der „Hizb Allah“ ist die Zerstörung des Staates
+                       Israel und die „Herrschaft des Islam“ über Jerusalem. Seit Jahren
+                       ist die „Hizb Allah“ für Terroranschläge in Israel verantwortlich. In
+                       Deutschland hat sie bislang keine gewaltsamen Aktionen durchge­
+                       führt, nutzt aber das Bundesgebiet als Ruhe- und Rückzugsraum.
+
+                       Im Mai 2008 hat das libanesische Kabinett der „Hizb Allah“ offi­
+                       ziell „das Recht zum Widerstand gegen Israel“ zugestanden. Die
+                       schiitische Miliz konnte daher ungehindert den Ausbau der Ver­
+                       teidigungsanlagen nördlich der UN-Pufferzone zur Grenze Israels
+                       vorantreiben. Seit Beendigung des Libanonkrieges im Sommer
+                       2006 wurde sowohl von israelischer Seite als auch von der „Hizb
+                       Allah“ selbst über eine erhebliche Aufrüstung der Miliz berichtet.
+
+                       Die „Hizb Allah“ verbreitet ihre antisemitische Propaganda u. a.
+                       über den libanesischen TV-Sender „al-Manar“, der seinen Sitz
+                       in Beirut hat und auch in Deutschland zu empfangen ist. Da die
+                       Tätig­keit des Senders gegen deutsche Strafgesetze verstößt und
+                       sich gegen den Gedanken der Völkerverständigung richtet, wurde
+                       der Sender im Oktober 2008 vom Bundesministerium des Innern
+                       als verfassungsfeindliche Organisation verboten. Ansprachen
+
+
+
+104
+Islamismus                                              Verfassungsschutzbericht Bayern 2024
+
+
+
+und Fernsehinterviews des am 27. September getö­teten „Hizb
+Allah“-Generalsekretärs Hassan Sayyed Nasrallah wurden in
+Deutschland hauptsächlich über die sozialen Medien verbreitet.
+
+Die Bestrebungen der „Hizb Allah“ gefährden auswärtige Belange          Betätigungsverbot
+der Bundesrepublik Deutschland und richten sich gegen den Ge­
+danken der Völkerverständigung. Aus diesem Grund wurde die
+„Hizb Allah“ mit Wirkung zum 30. April 2020 vom Bundesminis­
+terium des Innern mit einem Betätigungsverbot belegt.
+
+
+3.4 Anschlagsgeschehen und Täterprofile
+3.4.1 Anschlagsgeschehen
+
+Europa liegt weiterhin im Zielspektrum des internationalen isla­        Anschlag in Moskau
+mistischen Terrorismus. Verdeutlicht wird die anhaltend hohe            Drohungen gegen
+Bedrohungslage durch Attentate der vergangenen Jahre in                 Fußball-EM
+Deutschland, aber auch in Belgien, Frankreich, Großbritannien,
+Norwegen, Österreich, Spanien und Schweden. Am 22. März
+griffen Anhänger des ISPK eine Konzerthalle in der Nähe von
+Moskau an. Bei dem Angriff starben 144 Menschen, über 350
+Personen wurden verletzt. Während es in den letzten Jahren
+keiner jihadistisch-salafistischen Terrororganisation gelang, in
+­
+Westeuropa entsprechend komplexe Anschlagsszenarien durch­
+zuführen, nahm die Anzahl von versuchten Einzeltäteranschlä­
+gen im Nachgang des HAMAS-Angriffs auf Israel am 7. Oktober
+2023 deutlich zu.
+
+Jihadistische Terrororganisationen im Ausland riefen wiederholt
+zu Anschlägen auf Angehörige von Sicherheitsbehörden sowie
+öffentliche Veranstaltungen wie Fußballspiele und Konzerte,
+Para­den und Demonstrationsgeschehen auf. Jihadistisch-salafis­
+tischen Terrorgruppen wie AQ und IS gelingt es dabei wieder ver­
+mehrt, vor allem Jugendliche für sich zu gewinnen, indem sie die
+Eskalation in Nahost als Teil einer vermeintlich anti-musli­mischen
+westlichen Strategie darstellen. Nach derzeitiger Einschätzung
+geht insbesondere von emotionalisierten Einzelpersonen eine
+erhöhte Gefahr aus.
+
+Im Unterschied zu komplexen Anschlägen mit hohem logis­
+tischem und planerischem Aufwand, wie in Paris (2015) und
+Brüssel (2016), zeichnen sich die Anschläge der letzten Jahre
+durch einen einfachen und leicht umsetzbaren Modus Operandi
+aus. Häufig werden dabei leicht zu beschaffende Tatwaffen wie
+Messer verwendet. Die Anschlagsorte sind oftmals eher zufällig
+
+
+                                                                                       105
+Verfassungsschutzbericht Bayern 2024                                        Islamismus
+
+
+                       und weniger symbolträchtig, die Opfer dementsprechend unspe­
+                       zifisch bis zufällig der jeweiligen Situation geschuldet. Die Täter
+                       sind häufig Einzelpersonen ohne organisatorische Anbindung an
+                       eine Terrorgruppierung. Ziel ist es, ein gesellschaftliches Klima
+                       der Angst und Unsicherheit zu erzeugen. Viral verbreitete Handy­
+                       videos vom Anschlagsgeschehen und die Verehrung der Attentä­
+                       ter als „Märtyrer“ innerhalb der Szene leisten dazu ihren Beitrag.
+
+Festnahmen wegen       Anfang des Jahres wurde im Messengerdienst Telegram eine
+Anschlagsverdachts     bundesweit verteilte Chatgruppe von ca. 10 minderjährigen Per­
+                       sonen festgestellt, in der sich die Chatteilnehmer intensiv zum
+                       Thema Ausreisen aus Deutschland in ein islamisch geprägtes
+                       Land ausgetauscht sowie Propagandamaterial des IS und andere
+                       islamistische Inhalte geteilt hatten. Darüber hinaus wurde über
+                       Bau und Finanzierung von Sprengvorrichtungen diskutiert. In der
+                       Chatgruppe konnten 3 Personen aus Bayern verifiziert werden.
+                       Ende März wurden 4 Mitglieder der Gruppe – 3 Jugendliche aus
+                       Nordrhein-Westfalen und 1 Teenager aus Baden-Württemberg
+                       – verhaftet, da sie im Verdacht stehen, einen islamistisch moti­
+                       vierten Anschlag geplant zu haben. Dazu tauschten sie sich über
+                       den Messangerdienst Telegram zu möglichen Anschlagszielen
+                       aus und planten, sich anschließend nach Syrien abzusetzen.
+
+                       Am 19. März wurden in Gera (Thüringen) 2 Afghanen verhaftet,
+                       denen vorgeworfen wird, Spenden für den ISPK gesammelt und
+                       einen Anschlag auf das schwedische Parlament in Stockholm
+                       geplant zu haben. Die Wahl des geplanten Anschlagsziels kann
+                       dabei als Reaktion auf die Koranverbrennungen in Schweden im
+                       Jahr 2023 gesehen werden.
+
+Exekutivmaßnah­        Am 20. April wurde die Wohnung einer Familie aus Garching
+men in Garching,       bei München durchsucht, da der 13-jährige Sohn im Verdacht
+Marktoberdorf und      einer islamistisch motivierten Anschlagsplanung stand. Der Junge
+Kaufbeuren             beschäftigte sich im Internet mit Propaganda des IS, recher­
+                       chierte zu verschiedenen Modi Operandi einer Tatbegehung und
+                       informierte sich zu juristischen Konsequenzen eines Anschlags.
+                       Ange­dachte Ziele waren Sportstätten oder Großveranstaltungen
+                       im Raum München. Der Betroffene selbst gab als Motivation für
+                       sein Vorhaben „Rache für Palästina“ an.
+
+                       Im Mai wurden 1 Mann mit deutscher sowie 1 Mann mit deutscher
+                       und türkischer Staatsangehörigkeit festgenommen, denen vorge­
+                       worfen wurde, einen Anschlag auf eine Synagoge in Heidelberg
+                       (Baden-Württemberg) zu planen. Die beiden jungen Männer
+                       ­hatten vor, die Besucher der Synagoge mit Messern anzugreifen
+                        und sich anschließend von der Polizei erschießen zu lassen, um
+                        den Märtyrertod zu sterben.
+
+106
+Islamismus                                             Verfassungsschutzbericht Bayern 2024
+
+
+
+Am 31. Mai ereignete sich ein Messerangriff auf dem Marktplatz         Anschläge und
+in Mannheim (Baden-Württemberg). Bei dem Täter handelt es              Anschlagsversuche
+sich um einen afghanischen Staatsangehörigen, Ziel seines An­          in Deutschland und
+griffs war eine islamkritische Veranstaltung. Der Täter verletzte      Europa
+6 Personen mit einem Messer. Ein Polizist, dem der Angreifer
+mehrmals in den Kopf- und Halsbereich gestochen hatte, erlag
+seinen schweren Verletzungen. Der Angreifer konnte erst durch
+einen Schuss eines weiteren Polizeibeamten gestoppt werden
+und befindet sich derzeit in Untersuchungshaft.
+
+Am 7. August wurden in Österreich mehrere Personen festge­
+nommen, die im Verdacht standen, einen Anschlag auf Konzerte
+des US-Popstars Taylor Swift in Wien geplant zu haben. Es konn­
+ten konkrete Vorbereitungshandlungen wie die Beschaffung von
+Chemikalien zur Herstellung des Sprengstoffes TATP nachgewie­
+sen werden. Der 19-jährige Hauptbeschuldige hatte zuvor einen
+Treueschwur auf den IS geleistet. Der junge Mann aus Ternitz
+(Niederösterreich) befindet sich derzeit, ebenso wie ein 17-jähri­
+ger möglicher Komplize, in Untersuchungshaft.
+
+Am 23. August griff 1 Mann mit einem Messer mehrere Besu­
+cher auf einem Volksfest in Solingen (Nordrhein-Westfalen) an.
+Hierbei wurden 3 Personen getötet und 8 Personen, teils schwer,
+verletzt. Bei dem Täter handelt es sich um einen 26-jährigern
+abge­lehnten Asylbewerber mit syrischer Staatsangehörigkeit.
+Der IS veröffentlichte über seine Medienstelle „Amaq News
+Agency“ mehrere Bekennerschreiben sowie auch ein Bekenner­
+video, in dem der Täter dem Anführer des IS die Treue schwört.
+
+Im Rahmen der Olympischen Sommerspiele in Paris wurden
+nach eigenen Angaben durch die französischen Sicherheitsbe­
+hörden, mehrere mutmaßlich islamistisch motivierte Anschläge
+verhindert.
+
+Am 5. September gab ein 18-jähriger österreichischer Staatsan­
+gehöriger in München unmittelbar vor dem Generalkonsulat des
+Staates Israel sowie dem NS-Dokumentationszentrum mehrere
+Schüsse mit einer Langwaffe ab. Es kam in der Folge zu einem
+Schusswechsel mit polizeilichen Einsatzkräften, wobei der An­
+greifer mehrfach getroffen wurde und noch vor Ort seinen Verlet­
+zungen erlag. Weitere Personen wurden durch die Schüsse nicht
+verletzt. Als Tatmotiv lässt sich Israelfeindlichkeit im Zusammen­
+spiel mit einer emotional instabilen Persönlichkeit feststellen.
+Islamis­tische Motive spielten für die Tat nur eine untergeordnete
+Rolle.
+
+
+
+
+                                                                                       107
+Verfassungsschutzbericht Bayern 2024                                        Islamismus
+
+
+                       Am 6. September stürmte ein mit einer Machete bewaffneter
+                       Mann in eine Polizeiwache in Linz am Rhein (Rheinland-Pfalz).
+                       Der 29 Jahre alte albanische Staatsbürger konnte in der
+                       Eingangs­schleuse der Polizeiwache eingeschlossen und schließ­
+                       lich von Spezialkräften überwältigt und festgenommen werden.
+                       Bei anschließenden Durchsuchungsmaßnahmen in der Wohnung
+                       des Mannes wurde u. a. eine selbstgezeichnete Flagge des IS vor­
+                       gefunden.
+
+                       Am 19. September stach ein 22-Jähriger in Rotterdam (Nieder­
+                       lande) wahllos auf Passanten ein. Dabei tötete er einen deutschen
+                       Staatsangehörigen und verletzte eine weitere Person schwer.
+                       Der nach derzeitigem Stand mutmaßlich islamistisch motivierte
+                       Angreifer konnte schließlich von einem weiteren Passanten über­
+                       wältigt werden.
+
+                       Am 20. September wurde ein 15-Jähriger aus Wuppertal (Nord­
+                       rhein-Westfalen) verhaftet, der im Verdacht stand, einen Anschlag
+                       mit einem Messer geplant zu haben. Dazu stand er mit einem
+                       islamistischen Chatpartner im Ausland in Kontakt, der den
+                       Jugend­lichen anleitete. Als mögliche Anschlagsziele diskutierten
+                       die beiden Örtlichkeiten in Wuppertal, darunter auch jüdische
+                       Einrichtungen. In den sozialen Netzwerken postete der 15-Jährige
+                       Videos, in denen eine Flagge des IS erkennbar ist.
+
+                       Am 6. November wurde ein 17-Jähriger aus Schleswig-Holstein
+                       verhaftet, dem vorgeworfen wird, einen islamistisch motivierten
+                       Anschlag geplant zu haben. Der Jugendliche sitzt derzeit in Unter­
+                       suchungshaft.
+
+                       Am 4. Dezember nahmen Kräfte der Bayerischen Polizei in Augs­
+                       burg einen irakischen Staatsangehörigen fest, für den der Ver­
+                       dacht der Anschlagsplanung und Terrorismusfinanzierung besteht.
+                       Der 37-Jährige stand seit mehreren Wochen unter behörd­licher
+                       Beob­achtung, nachdem er zuvor in den sozialen Netzwerken u. a.
+                       Waffen­bilder und Propagandainhalte des IS verbreitet hatte.
+
+                       Am 8. Dezember wurden ein 15 und 20 Jahre altes Brüderpaar
+                       aus Mannheim sowie ein 22-jähriger Mann aus dem Hochtaunus­
+                       kreis in Hessen verhaftet. Den 3 Festgenommenen wird vorge­
+                       worfen, einen islamistisch motivierten Anschlag geplant zu haben
+                       und tiefgreifende Sympathie für den IS zu hegen. Bei den Durch­
+                       suchungen konnten bei dem 22-jährigen aus Hessen u. a. ein
+                       Sturmgewehr mit zugehöriger Munition sichergestellt werden.
+
+
+
+
+108
+Islamismus                                               Verfassungsschutzbericht Bayern 2024
+
+
+
+Auch weltweit ereigneten sich zahlreiche Attentate, die vor allem
+dem IS und seinen verschiedenen Ablegern, darunter dem ISPK
+in Afghanistan und den IS-Provinzen in Afrika und der somali­
+schen „al-Shabab“ (pro-AQ) zugerechnet werden können oder
+von diesen zu Propagandazwecken für sich reklamiert werden.
+Seitens des Bayerischen Landesamts für Verfassungsschutz
+erfolgt die Bearbeitung von Terrorismussachverhalten und
+entsprechenden Hinweisen im engen Austausch mit anderen
+Sicher­heitsbehörden bzw. bundesweit im Gemeinsamen Terro­
+rismusabwehrzentrum (GTAZ) sowie mit europäischen und inter­
+nationalen Partnern.
+
+3.4.2 Täterprofile
+
+Islamistische Radikalisierungsprozesse sind in hohem Maße von
+komplexen individuellen Faktoren abhängig, was die Erstellung
+eindeutiger Täter- und Prognoseraster erschwert. Es ist eine
+wichtige Aufgabe der Sicherheitsbehörden, Tätermerkmale zu
+analysieren und potenzielle Attentäter frühzeitig zu identifizieren.
+
+Jihadistisch-salafistische, einzeln agierende Täter, die spontan,
+unver­mittelt und ohne vorherige Einbindung in Netzwerke
+schwere Gewalttaten bzw. terroristische Anschläge begehen,
+stellen Sicherheits- und Ermittlungsbehörden vor große Heraus­
+forderungen. Teilweise handelt es sich dabei auch um psychisch
+instabile Persönlichkeiten, die sich fast ausschließlich über das
+Internet radikalisieren.
+
+Tatverdächtige mit psychischen Auffälligkeiten und unklarer
+Motivlage
+In den letzten Jahren ist eine Zunahme psychischer Probleme
+bei auffällig oder straffällig gewordenen Einzeltätern im islamis­
+tischen Phänomenbereich feststellbar. Im konkreten Fall einer
+schweren Gewalttat lässt sich oft nur nach umfassenden Ermitt­
+lungen und psychiatrisch-forensischen Untersuchungen einschät­
+zen, ob aus einer islamistischen Motivation heraus, aufgrund einer
+psychischen Erkrankung oder aus einer Kombination beider Fakto­
+ren gehandelt wurde.
+
+
+
+
+                                                                                        109
+Verfassungsschutzbericht Bayern 2024                                                Islamismus
+
+
+                       4. SONSTIGE VERBOTENE ORGANISATIONEN
+
+                       Hilafet Devleti (Kalifatsstaat)
+
+                       Personenpotenzial              Deutschland:       ca. 7001
+                                                      Bayern:             ca. 30
+
+                       früherer Vorsitzender          Metin Kaplan
+
+                       Gründung                       1984
+
+                       Sitz                           Köln
+
+                       Ideologischer Bezug            Milli Görüs-Bewegung
+                       Publizistisches Sprachrohr     Muhacirun („Auswanderer“)
+
+
+                       1
+                           Quelle: Bundesverfassungsschutzbericht 2023
+
+
+                       Die 1984 in Köln gegründete Organisation „Hilafet Devleti“
+                       (deutsch: „Kalifatsstaat“, ehemals „Verband der islamischen
+                       Vereine und Gemeinden e. V.“) wurde 2001 vom Bundesminister
+                       des Innern in Deutschland nach dem Vereinsgesetz verboten.
+                       Am 22. Oktober 2013 verbot das Bayerische Staatsministerium
+                       des Innern den 2009 gegründeten Verein „Kultur- und Bildungs­
+                       zentrum Ingolstadt e. V.“ als Ersatzorganisation des „Kalifats­
+                       staates“. Mit Urteil vom 27. Januar 2016 hat der Bayerische Ver­
+                       waltungsgerichtshof eine gegen das Verbot erhobene Klage des
+                       Vereins abgewiesen. Das Urteil ist rechtskräftig.
+
+                       Der „Kalifatsstaat“ war eine am Führerprinzip orientierte, streng
+                       hierarchisch gegliederte Organisation, deren Ziel die „Weltherr­
+                       schaft des Islam“ unter dem Kalifat ihres Anführers Cemaleddin
+                       Kaplan und später seines Sohnes Metin Kaplan war. Der „Kalifats­
+                       staat“ richtete sich gegen die verfassungsmäßige Ordnung ­sowie
+                       den Gedanken der Völkerverständigung und gefährdete die I­nnere
+                       Sicherheit Deutschlands. Das Verbotsverfahren und die staat­
+                       lichen Exekutivmaßnahmen haben die Organisa­             tionsstruktur
+                       geschwächt. Gleichwohl gibt es in Deutschland noch immer
+                       Anhänger­innen und Anhänger, die das Gedankengut des „Kalifats­
+                       staates“ weiterhin verbreiten. Zudem ist die offi­zielle Internetseite
+                       des „Kalifatsstaates“, die über einen Server in den Niederlanden
+                       betrieben wird, auch in Deutschland abrufbar.
+
+
+
+
+110
+Islamismus                                              Verfassungsschutzbericht Bayern 2024
+
+
+
+Der frühere Vorsitzende des „Kalifatsstaates“, Metin Kaplan, der
+wegen Mordaufrufes eine 4-jährige Gefängnisstrafe in Deutsch­
+land verbüßt hatte, wurde 2004 in die Türkei abgeschoben und
+dort ebenfalls zu einer Haftstrafe verurteilt. Seit seiner Haftent­
+lassung im November 2016 lebt Kaplan in Istanbul und hält den
+Kontakt zu seiner Gefolgschaft durch die Veröffentlichung von
+Predigten und Freitagsgebeten über Onlineplattformen aufrecht.
+
+In Bayern liegen Erkenntnisse über Strukturen im Sinne der
+„Kalifats­
+         staat“-Ideologie von Anhängerinnen und Anhängern
+Kaplans vor.
+
+Am 28. Juni 2022 fanden bundesweit staatliche Exekutivmaß­
+nahmen gegen Mitglieder und Unterstützer des „Kalifatsstaates“
+statt. Hiervon waren auch 2 verantwortliche Personen in Bayern
+betroffen, die beide 2024 aufgrund eines Verstoßes gegen das
+Vereinigungsverbot zu jeweils 9 Monaten Freiheitsstrafe verurteilt
+wurden.
+
+
+
+
+                                                                                        111
+Verfassungsschutzbericht Bayern 2024          Auslandsbezogener Extremismus
+
+
+
+Auslandsbezogener
+Extremismus
+
+
+
+                       Nichtislamistische extremistische Gruppierungen,
+                       die ihren Ursprung im Ausland haben, sind auch in
+                       Deutschland und Europa aktiv. Um die politischen
+                       Verhältnisse in ihren Heimatstaaten antidemokra­
+                       tisch zu verändern, sind sie bestrebt, in Deutschland
+                       lebende Personen, mit oder ohne Migrationshinter­
+                       grund, für ihre Ziele und Zwecke zu gewinnen und
+                       zu rekrutieren oder für ihre Ideologie zu werben.
+
+                       Sie wollen z. B. eigene Staaten gründen, verfolgen
+                       eine rechtsextremistische Agenda oder unterstützen
+                       die Errichtung kommunistischer Systeme. Die Um­
+                       setzung und ideologische, finanzielle oder logistische
+                       Unterstützung der Ziele der Akteure im auslandsbe­
+                       zogenen Extremismus werden hierbei teilweise von
+                       Deutschland und Bayern aus betrieben.
+
+                       Ihre Bestrebungen richten sich gegen den Gedanken
+                       der Völkerverständigung und gefährden die ­Innere
+                       Sicherheit, die öffentliche Ordnung sowie die aus­
+                       wärtigen Belange der Bundesrepublik Deutsch­
+                       land. Unter ihrer Gefolgschaft finden sich, neben
+                       Ausländer­innen und Ausländern, auch deutsche
+                       Staatsangehörige mit und ohne Migrationshinter­
+                       grund sowie deutsche Extremistinnen und Extre­
+                       misten aus anderen Phänomenbereichen.
+
+
+
+112
+Auslandsbezogener Extremismus                                         Verfassungsschutzbericht Bayern 2024
+
+
+
+
+1. PERSONENPOTENZIAL IN BAYERN
+Im Jahr 2024 waren dem Spektrum des auslandsbezogenen
+Extremismus (ohne Islamismus) etwa 3.090 Personen (2023:
+3.040) zuzurechnen:
+
+                                                      2022       2023       2024
+
+PKK                                                   1.700      1.700      1.700
+
+Rechtsextremistische Organisationen                   1.300      1.150      1.150
+
+Linksextremistische Organisationen                      190       190        190
+
+Übriger auslandsbezogener Extremismus         1
+                                                       k. A.      k. A.    ca. 50
+
+Gesamt                                                3.190     3.040      3.090
+
+
+Die Zahlenangaben sind geschätzt und gerundet.
+
+1
+    Hierunter fällt eine Vielzahl von Gruppierungen und Einzelpersonen der übrigen
+    Strömungen, die zuvor nicht zahlenmäßig erfasst („k. A.“) und für das Jahr
+    2024 zusammenfassend geschätzt wurden.
+
+
+
+2. ALLGEMEINES
+Organisationen, die dem auslandsbezogenen Extremismus zu­
+zurechnen sind, verfolgen grundsätzlich eine Doppelstrategie.
+Während sie in ihren Ursprungsstaaten ihre Gefolgschaft für
+den – in Teilen bewaffneten – Kampf mobilisieren bzw. bis hin
+zur Gewaltanwendung radikalisieren, nutzen sie Deutschland
+und Europa primär als Rückzugs-, Finanzierungs- und Rekrutie­
+rungsraum. Sie wollen hier Gefolgsleute werben, Spenden und
+Mitgliedsbeiträge generieren und nicht zuletzt Einfluss auf den
+
+
+
+                                                                                                     113
+Verfassungsschutzbericht Bayern 2024              Auslandsbezogener Extremismus
+
+
+                       politischen Diskurs gewinnen. Ihre Strategien und Aktivitäten in
+                       Deutschland zielen daher besonders darauf ab, Akzeptanz und
+                       Anschlussfähigkeit in der Mehrheitsgesellschaft zu erlangen.
+
+
+                       2.1 Strömungen des auslandsbezogenen
+                           ­Extremismus
+                       Beim auslandsbezogenen Extremismus handelt es sich um einen
+                       Sammelbegriff, der unterschiedliche und sich in Teilen ideolo­
+                       gisch oppositionell gegenüberstehende Organisationen und Strö­
+                       mungen umfasst, etwa:
+
+                       – Arbeiterpartei Kurdistans (PKK): Die marxistisch-leninistisch
+                         orientierte Organisation verfolgt das Ziel eines staatenüber­
+                         greifenden kurdischen Autonomiemodells. Hierfür führt die
+                         PKK innerhalb und außerhalb der Türkei u. a. terroristische
+                         Anschläge durch.
+                       – Türkischer Rechtsextremismus: Diese Strömung umfasst ein
+                         breites Spektrum ultra-nationalistischen, antisemitischen und
+                         rassistischen Gedankenguts. Eine herausragende Rolle nimmt
+                         hierbei die „Ülkücü“-Bewegung ein, die auf einer Überhöhung
+                         des Türkentums und der Abwertung u. a. von armenischen,
+                         kurdischen und jüdischen Menschen beruht.
+                       – Türkischer Linksextremismus: Der türkische Linksextremis­
+                         mus ist in sich in unterschiedliche ideologische Flügel frag­
+                         mentiert. Trotz dieser Diversität und interner Spaltungen
+                         teilen sie ideologische Prinzipien wie den Antiimperialismus
+                         und z. T. die Bereitschaft zum bewaffneten Kampf gegen das
+                         bestehende politische System in der Türkei.
+                       – Säkularer pro-palästinensischer Extremismus: Hierbei handelt
+                         es sich um eine Vielzahl von Gruppierungen ohne übergrei­
+                         fende organisatorische Strukturen. Verbindendes ideolo­
+                         gisches Element ist die Negierung des Existenzrechts Israels
+                         im Nahost­konflikt. Zum Teil werden Gewalt und Terror als
+                         Mittel zur Zielerreichung akzeptiert und sowohl in den So­
+                         zialen Medien als auch in der Realwelt propagiert. Darüber
+                         ­hinaus zeigen sich Vernetzungstendenzen zwischen säkula­
+                          ren pro-palästinensischen Extremisten und – auch deutschen
+                          – Linksextremisten.
+
+                       Arbeiterpartei Kurdistans (PKK)
+                       Die PKK setzt zur Durchsetzung ihrer Ziele auf ein zweige­
+                       teiltes Vorgehen: Während sie mit ihren bewaffneten Einheiten
+                       eine kulturelle Autonomie und lokale Selbstverwaltung in den
+
+
+
+114
+Auslandsbezogener Extremismus                          Verfassungsschutzbericht Bayern 2024
+
+
+
+kur­dischen Siedlungsgebieten anstrebt, stellen Deutschland
+­sowie weitere europäische Staaten für die Organisation und ihre
+ Anhänger­  schaft bedeutende Rückzugs-, Rekrutierungs- und
+ Finan­zierungsräume dar. Sogenannte „Kader“ der Partei treiben
+ bei hier lebenden Sympathisanten „Spendengelder“ ein, um den
+ umfangreichen Propagandaapparat in Europa und den Unter­halt
+ der Organisation zu finanzieren.
+
+Neben dem finanziellen Beitrag zur Unterstützung der Organisa­
+tion und ihrer Ziele erwartet die PKK von ihrer Anhängerschaft
+zudem, den politischen und militärischen Kampf der Bewegung
+für die „Freiheit Kurdistans“ mitzutragen.
+
+Zentrale Forderung der Propaganda in Deutschland ist die Auf­
+hebung des im November 1993 erlassenen Betätigungs­verbotes
+für die PKK: Im Juli 1993 verübten militante PKK-Angehörige
+­nahezu zeitgleich in verschiedenen Städten Deutschlands rund
+ 60 Überfälle und Brandanschläge auf türkische diplomatische
+ Vertretungen sowie Banken, Reisebüros, Gaststätten und Vereins­
+ lokale. Bei den Anschlägen wurden 1 türkischer Staatsbürger
+ ­getötet und mehrere Personen verletzt.
+
+Seit spätestens Ende der 1990er Jahre ist die PKK zunehmend
+darum bemüht, sich vom negativen Image einer Terrororganisa­
+tion zu befreien. Sie will in Deutschland und Europa nach außen
+hin jede Assoziation mit den Themen „Kampf“ und „Gewalt“
+vermeiden und ihren Bestrebungen ein demokratisches Antlitz
+verleihen.
+
+  Türkischer Rechtsextremismus
+  Die als „Graue Wölfe“ bekannte türkisch-rechtsextremistische
+  „Ülkücü“-Bewegung verfolgt in der Türkei und in Deutsch­
+land eine Doppelstrategie. So zielt ihre legalistische Agenda
+in der ­Türkei darauf ab, beispielsweise in Gestalt der „Partei
+der Nationalis­   tischen Bewegung“ (MHP, türkisch: „Milliyetci
+­Hareket Partisi“) Wählerstimmen und einen möglichst großen
+ Einfluss auf staatliche Strukturen zu gewinnen. Die MHP steht
+ hierzu in einem Wahlbündnis mit der Regierungspartei „Partei
+ für Gerechtigkeit und Aufschwung“ (AKP, türkisch: „Adalet ve
+ ­Kalkinma Partisi“). In Deutschland versuchen die Angehörigen
+  der türkisch-rechtsextremistischen Szene hingegen, sich vor
+  allem im Rahmen ihrer offiziellen Vereins- und Verbandsaktivi­
+  täten als rechts- und verfassungsloyale Kulturinitiatorinnen und
+  -initiatoren zu präsentieren, um hier – möglichst abseits einer
+  kritischen Öffentlichkeit – Indoktrinations- und Rekrutierungs­
+  arbeit innerhalb türkischsprachiger Gesellschaftsteile betreiben
+  zu können.
+
+                                                                                      115
+Verfassungsschutzbericht Bayern 2024                Auslandsbezogener Extremismus
+
+
+                       Die „Ülkücü“-Bewegung hat es in einem über Jahrzehnte währen­
+                       den Wandlungs- und Ausdifferenzierungsprozess g      ­ eschafft, ihre
+                       im Kern auf rassistischen Überlegenheitsvorstellungen fußende
+                       Ideologie immer breitenwirksamer zu propagieren. Heute um­
+                       fasst die ideelle und organisatorische Anschlussfähigkeit der ihr
+                       zugeschriebenen Organisationen und Gruppierungen ein breites
+                       Spektrum innerhalb der türkischen Gesellschaft bzw. innerhalb
+                       der türkischstämmigen Bevölkerung in Europa und Deutschland.
+                       Diese reicht von nationalistisch eingestellten Türkinnen und Türken
+                       über säkular orientierte Anhänger des Kemalismus bis hin zu
+                       islamis­tisch geprägten Milieus.
+
+Gewalt- und Waffen­    Gerade im Hinblick auf die innerhalb der „Ülkücü“-Bewegung
+affinität              vorherrschende Gewalt- und Waffenaffinität sind insbesondere
+                       die europäischen Ableger der Bewegung darum bemüht, ihre
+                       Anhängerschaft zu einem gemäßigten Auftreten in der Öffent­
+                       lichkeit anzuhalten. Gleichzeitig werden innerhalb der Organisa­
+                       tionen und im Rahmen entsprechender Veranstaltungen die
+                       gewaltinhärenten Aspekte der „Ülkücü“-Bewegung und ihrer Ge­
+                       schichte regelmäßig gewürdigt und zelebriert. Insbesondere in der
+                       unorganisierten türkisch-rechtsextremistischen Szene ist darüber
+                       hinaus eine hohe Affinität zu Schusswaffen zu beobachten.
+
+                       Türkischer Linksextremismus
+                       Die türkische linksextremistische Szene und ihr Unterstützerkreis
+                       in Deutschland stellen sich als in der Türkei zu Unrecht verfolgte
+                       „Regimegegner“ dar und versuchen, ihr Image in Deutschland
+                       aufzubessern. Wenngleich sie häufig – auch offen – die terroris­
+                       tischen Aktionen ihrer Heimatorganisationen in der Türkei befür­
+                       worten, versuchen sie, Einfluss auf den öffentlichen Diskurs in
+                       Deutschland auszuüben. Insbesondere durch die Zusammenarbeit
+                       mit der deutschen linksextremistischen Szene soll der politische
+                       Anschluss bis hinein ins bürgerliche Spektrum erreicht werden.
+
+                       Ein wichtiges Ziel der türkisch-linksextremistischen Szene und
+                       ihrer Propaganda ist es, einer strafrechtlichen Verfolgung und
+                       öffentlichen Stigmatisierung ihrer Anhängerschaft entgegenzu­
+                       wirken. Hierfür inszenieren sie sich mitunter als Opfer der deut­
+                       schen Justiz, die sie in öffentlichen Beiträgen wahlweise als
+                       „Handlangerin des türkischen Regimes“ oder Repräsentantin
+                       eines „kapitalistischen Unterdrückungsregimes“ diffamieren.
+
+
+
+
+116
+Auslandsbezogener Extremismus                        Verfassungsschutzbericht Bayern 2024
+
+
+
+ Säkularer pro-palästinensischer Extremismus
+ Im Fokus stehen dabei säkulare extremistische palästinen­           Verbot Samidoun
+ sische Bestrebungen bzw. Gruppierungen, wie z. B. die „Volks­
+front zur Befreiung Palästinas“ (PFLP, englisch: „Popular Front
+for the Liberation of Palestine“), deren Ziel die Gründung eines
+palästinensischen Staates in den Grenzen des historischen
+­Palästinas vor Gründung des modernen Staates Israel ist. Im
+ Zuge der Eskalation des Nahostkonflikts nach dem 7. Oktober
+ 2023 sind darüber hinaus weitere säkulare extremistische paläs­
+ tinensische Gruppierungen in Erscheinung getreten. Hierzu
+ zählt die mit der PFLP verbundene Organisation „Samidoun –
+ Palestinian Prisoner Solidarity Network“. Diese wurde 2011 mit
+ dem Ziel gegründet, für die Freilassung von PFLP-Gefangenen
+in israelischen Gefängnissen einzutreten. Somit ist „Samidoun“
+Teil des Auslandsnetzwerks der PFLP und unterstützt bei der
+Mittel­beschaffung und Rekrutierung von Aktivisten. Aufgrund
+des zunehmenden Engagements von „Samidoun“-Vertretern in
+Deutschland gegen den Gedanken der Völkerverständigung bei
+öffentlichen Versammlungen und in den Sozialen Medien wurde
+die Organisation durch das Bundesministerium des Innern und
+für Heimat mit Verfügung vom 2. November 2023 in Deutsch­
+land vereinsrechtlich verboten.
+
+Darüber hinaus treten weitere säkulare pro-palästinensische
+Gruppierungen in Erscheinung. Diese konzentrieren ihre Propa­
+gandaarbeit vor allem auf die Sozialen Medien und auf Versamm­
+lungen im öffentlichen Raum. Im Zuge der Analyse des Demons­
+trationsgeschehens nach dem 7. Oktober 2023 wurde festgestellt,
+dass mitunter auch extremistische Narrative Verbreitung gefunden
+haben.
+
+Sonstiger auslandsbezogener Extremismus
+Im Bereich des auslandsbezogenen Extremismus finden sich
+nicht nur Gruppierungen mit Bezug zur Türkei, sondern auch
+Orga­nisationen, die systemverändernde oder separatistische
+Bestrebungen in ihren Heimatstaaten in anderen Teilen der Welt
+verfolgen.
+
+
+2.2 Straftaten- und Gewaltpotenzial
+Die Aktivitäten auslandsbezogener extremistischer Organisa­
+tionen in Deutschland werden im Wesentlichen von politischen
+Ereignissen und Entwicklungen in den jeweiligen Herkunfts­
+staaten beeinflusst. So können aktuelle Konflikte im Ausland
+unmittel­bar zu gewaltsamen Aktivitäten in Deutschland führen.
+
+
+                                                                                    117
+Verfassungsschutzbericht Bayern 2024                    Auslandsbezogener Extremismus
+
+
+                       Straftaten mit extremistischem Hintergrund aus dem Bereich
+                       „Politisch motivierte Kriminalität“ – ausländische Ideologie
+
+                                                                      2022   2023   2024
+
+                       Politisch motivierte Gewaltkriminalität
+
+                       Tötungsdelikte (auch Versuch)                     0      1     0
+
+                       Körperverletzung                                  2      8      7
+
+                       Raub                                              0      1      0
+
+                       Erpressung                                        1      1      0
+
+                       Widerstandsdelikte                                0      1      0
+
+                       Gesamt                                            3     12      7
+
+                       Kriminelle Vereinigung/Terrorismus                1      4      1
+
+                       Sonstige Straftaten
+
+                       Sachbeschädigungen                                3     29     15
+
+                       Propagandadelikte                                 4     13     26
+
+                       Nötigung/Bedrohung                                4      4      7
+
+                       Volksverhetzung                                   7     24    29
+
+                       Sonstige Straftaten                              10     23     27
+
+                       Gesamt                                           28     93    104
+
+                       Straftaten insgesamt                             32    109    112
+
+
+
+                       Im Vergleich zum Vorjahr haben politisch motivierte Straftaten aus
+                       dem Bereich „Politisch motivierte Kriminalität“ – ausländische
+                       Ideologie insgesamt zugenommen. Ausschlaggebend hierfür war
+                       der Nahostkonflikt, der zu einer Vielzahl an Resonanzstraftaten
+                       führte.
+
+Kurdenkonflikt         Die Eskalation des Kurdenkonfliktes in der Türkei seit 2015 sowie
+                       die Ereignisse in der Folge des gescheiterten Militärputsches
+                       vom 15. Juli 2016 wirken sich nach wie vor erkennbar auf tür­
+                       kische und kurdische extremistische Organisationen in Deutsch­
+                       land aus. Vor allem zwischen Vertretern des PKK-Lagers und der
+                       türkisch-rechtsextremistischen Szene kam es in den vergan­genen
+                       Jahren immer wieder zu Übergriffen und teils gewalt­tätigen Kon­
+                       frontationen.
+
+
+
+
+118
+Auslandsbezogener Extremismus                           Verfassungsschutzbericht Bayern 2024
+
+
+
+
+Am 23. Oktober starben bei einem Anschlag auf einen türki­              PKK Anschlag in
+schen Rüstungshersteller in Ankara 5 Menschen sowie die bei­            Ankara
+den Attentäter, die sich in die Luft sprengten. Zwei Tage nach
+dem Anschlag bekannte sich die PKK in einer offiziellen Meldung
+zur Tat und veröffentlichte die Personalien der Attentäter. Noch in
+der Nacht des 23. Oktober und damit auch vor der Anschlags­
+bekennung der PKK führten die türkischen Streitkräfte bereits
+Militärangriffe gegen Stellungen der PKK im Irak und Syrien
+durch. Deutschlandweit war daraufhin ein erhöhtes Demonstra­
+tionsgeschehen festzustellen. In Bayern fanden Protestaktionen
+gegen den türkischen Vergeltungsangriff u. a. in München und
+Nürnberg statt, an denen neben bürgerlichen Initiativen ebenso
+PKK-Anhänger sowie deutsche Linksextremisten teilnahmen.
+
+Faktoren wie der Grad der Polarisierung der politischen Debatte in
+der Türkei sowie das militärische und außenpolitische Wirken der
+Türkei in internationalen Konfliktregionen sorgen, nicht nur unter
+der PKK-Anhängerschaft, für ein gesteigertes Gewalt­potenzial.
+Zum Anschlag der PKK selbst konnten seitens der Anhänger der
+„Ülkücü“-Bewegung in Bayern nur Beileids­      bekundungen und
+auf Seiten der PKK lediglich das Tatbekenntnis selbst festgestellt
+werden, darüber hinaus kam es zu keinen realweltlichen Aktionen.
+
+                                                                                          119
+Verfassungsschutzbericht Bayern 2024               Auslandsbezogener Extremismus
+
+
+                       2.3 Antisemitismus im auslandsbezogenen
+                           Extremismus
+                       Im Kontext des auslandsbezogenen Extremismus erscheint Anti­
+                       semitismus in unterschiedlicher Gestalt. Während er sich etwa
+                       im türkischen Rechtsextremismus teils unverhohlen rassistisch
+                       manifestiert, spielt er im Bereich der PKK und des türkischen
+                       Linksextremismus zwar ideologisch eine untergeordnete Rolle,
+                       ist jedoch immer wieder in Form antisemitisch konnotierter Kapi­
+                       talismus- und Israelkritik unterschwellig präsent.
+
+                       Grundsätzlich sind die meisten Akteure aller Strömungen des
+                       auslandsbezogenen Extremismus bestrebt, offen antisemi­tische
+                       Äußerungen zu vermeiden, um ihr vorrangiges Ziel nicht zu
+                       ­gefährden, sich in Deutschland als seriöse, gemäßigte Ansprech­
+                        partner für Politik, Behörden und Sozialverbände zu positionieren.
+                        Dennoch sind immer wieder antisemitische Ausführungen und
+                        Parolen festzustellen.
+
+Antizionismus und      Vor allem der durch den terroristischen Angriff der HAMAS
+Nahostkonflikt         auf israelisches Territorium im Oktober 2023 neu entflammte
+                       ­Israel-Palästina-Konflikt stellt eine zentrale Bezugsgröße für die
+                        antijüdische Agitation der verschiedenen Akteure des auslands­
+                        bezogenen Extremismus dar. Hier setzt insbesondere auch der
+                        antizionistische Antisemitismus an – eine Form des Antisemi­
+                        tismus, die über einzelne Szenegrenzen hinausreicht und vorgibt,
+                        „nur“ das Handeln des Staates Israel zu kritisieren, tatsächlich
+                        aber das Existenzrecht Israels ablehnt. Antizionisten diffamieren
+                        den jüdischen Staat und seine Siedlungspolitik, indem sie ihm
+                        einen „Vernichtungskrieg“ und eine Politik der „Ausrottung“
+                        vorwerfen. Die Feindschaft gegen den Staat Israel wird hierbei
+                        mit klassischen Stereotypen der Judenfeindlichkeit verbunden.
+                        Typische Aktionsformen sind z. B. israelkritische Boykottaufrufe.
+
+                                                           Auf Veranstaltungen im Zu­
+                                                           sammenhang mit der Eska­
+                                                           lation des Nahostkonflikts
+                                                           wurde der Slogan „From the
+                                                           river to the sea, Palestine will
+                                                           be free“ verwendet. Diese
+                                                           in extremistischen Kreisen
+                                                           weit verbreitete Chiffre kann,
+                                                           abhängig von Kontext und
+                                                           Verwendungsintention, als
+                                                           Negierung des Existenzrech­
+                                                           tes des Staates Israel ver­
+                                                           standen werden. Vor allem
+
+120
+Auslandsbezogener Extremismus                           Verfassungsschutzbericht Bayern 2024
+
+
+
+bei vergleichbaren Veranstaltungen im Bundesgebiet ging diese
+Parole mit dem Zeigen von Abbildungen „Palästinas“ einher, in
+denen der Staat Israel nicht mehr erscheint. Auch Akteure wie
+die „Palästinensische Befreiungsorganisation“ (PLO, englisch:
+„Palestine Liberation Organization“), die PFLP oder auch die isla­
+mistische HAMAS bzw. deren Unterstützerszenen, verwenden
+den Slogan im Sinne der Verneinung des Existenzrechtes Israels.
+
+Im Zentrum der Agitation steht die Forderung nach einer Staatlich­
+keit „Palästina“ ohne israelischen Bestandteil. Dabei wird immer
+wieder Bezug auf „den Widerstand“ genommen und teilweise
+offengelassen, ob hierbei auch terroristische Handlungen als legi­
+tim erachtet werden. Somit entsteht – beispielsweise auf einer
+Versammlung in München am Jahrestag des HAMAS-Angriffs –
+zumindest der Eindruck, dass ein Bestandteil der säkularen pro-­
+palästinensischen extremistischen Szene bewusst verschiedene
+Interpretationsmöglichkeiten bezüglich der Art und des Umfangs
+des als legitim erachteten Widerstandes nutzt.
+
+2.3.1   Antisemitismus und Antizionismus der PKK-Szene
+
+Auch die Ideologie und Propaganda der PKK weist antisemi­
+tische bzw. antizionistische Anknüpfungspunkte auf. Die PKK
+setzt ihren Kampf dabei regelmäßig mit der Situation des palästi­
+nensischen Volkes gleich und sieht sich selbst als dessen Verbün­
+dete im Kampf gegen den „Imperialismus“ Israels.
+
+Gleichwohl ist die PKK darauf bedacht, über ihre deutschspra­
+chigen Kanäle und Medien nicht offen antisemitisch zu agitieren.
+Klar antisemitische Positionen werden vornehmlich in organisa­
+tionsinternen Publikationen und Debatten verlautbart. In der
+­Februar-Ausgabe 2021 der Parteizeitung „Serxwebun“ (deutsch:
+ „Unabhängigkeit“) erschien z. B. ein Beitrag unter der Überschrift
+ „Der Sieg von Gare“, in dem ein „internationales Komplott“
+ ­beschworen wird, hinter dem die „geistige und finanzielle Kraft
+  Israels“ stecke. In der gleichen Ausgabe findet sich zudem ein
+  Auszug aus einem Buch des PKK-Führers Abdullah Öcalan, in
+  dem dieser u. a. ausführt, dass der Anteil des jüdischen Kapitals
+  und der jüdischen Ideologen am deutschen Faschismus nicht
+  vernachlässigt werden dürfe. In Deutschland bestünde zwischen
+  dem Judentum und dem Faschismus eine „dialektische Verbin­
+  dung“, so Öcalan in seinem Buch.
+
+
+
+
+                                                                                       121
+Verfassungsschutzbericht Bayern 2024                 Auslandsbezogener Extremismus
+
+
+                       Die jüngste April-Ausgabe der „Serxwebun“ zitiert einen Auszug
+                       aus einem Buch von Öcalan. Dort erläutert der PKK-Anführer
+                       anhand von antisemitischen Verschwörungstheorien den Tather­
+                       gang seiner Festnahme im Jahr 1999 in Kenia. Demnach seien
+                       Hillary Clinton und Monika Lewinsky „jüdische Agentinnen“
+                       gewesen, die im Auftrag des israelischen Auslandsgeheim­
+                       ­
+                       dienstes Mossad agierten und von langer Hand geplant an Bill
+                       Clinton herangespielt worden seien, um den damaligen US-Präsi­
+                       denten von der Idee zu überzeugen, Öcalan an die Türkei auszu­
+                       liefern. Ferner vergleicht Öcalan sich im Buchauszug mit dem
+                       gekreuzigten Jesus.
+
+                       2.3.2 Antisemitismus im türkischen Rechtsextremismus
+
+Überhöhung des         Antisemitismus ist ein elementares Ideologiefragment der tür­
+Türkentums             kisch-rechtsextremistischen „Ülkücü“-Bewegung. Die ultranatio­
+                       nalistische und rassistische Ideologie der Bewegung basiert auf
+                       einer Überhöhung der Türkei und des Türkentums bei gleichzei­
+                       tiger Abwertung von Menschen jüdischen Glaubens oder anderer
+                       Ethnien und Religionen wie z. B. Armeniern und Kurden.
+
+                       Nihal Atsiz, ein bis heute innerhalb der Szene verehrter
+                       ­„Ülkücü“-Vordenker und Autor rassistischer und antisemi­tischer
+                       Schriften, schrieb bereits 1934 in der von ihm herausgegebenen
+                       Zeitschrift „Orhun“, deren Titel auf eine alttürkische Runen-Schrift
+                       verweist:
+
+                                 Die als ‚Jude‘ bezeichnete Kreatur wird von nie­
+                                 mandem auf dieser Welt gemocht, außer von
+                                 den Juden selbst und von den Charakterlosen.
+                                 […] Das Türkentum ist ein Privileg, das nicht jedem
+                                 Menschen, schon gar nicht Menschen wie den
+                                 Juden, zuteil wird.
+
+
+                       Wenngleich der organisierte Teil der Bewegung in Deutschland
+                       einen derart offenen Antisemitismus zu vermeiden versucht,
+                       äußern sich vereinzelt Anhänger der Bewegung insbesondere
+                       in den sozialen Medien antisemitisch. Im türkischen Rechts­
+                       extremismus werden Menschen jüdischen Glaubens pauschal
+                       als Staat und Gesellschaft kontrollierende, obskure Machthaber
+                       im Hintergrund dargestellt, die sowohl Medien manipulieren als
+                       auch innermuslimische Konflikte sowie Krisen und Konflikte in
+                       der Türkei schüren.
+
+
+
+
+122
+Auslandsbezogener Extremismus                                        Verfassungsschutzbericht Bayern 2024
+
+
+
+2.3.3 Antisemitismus im türkischen Linksextremismus
+
+Wie im deutschen Linksextremismus existiert auch im tür­                             Antizionismus
+kischen Linksextremismus kein rassistisch motivierter Antisemi­                      Antiimperialismus
+tismus. Dennoch sind auch in Teilen des türkisch-linksextremis­                      Antikapitalismus
+tischen Spektrums unter den Stichworten „Antizionismus“,
+„Antiimperialismus“ sowie „Antikapitalismus“ im Kern antise­
+mitische Ressentiments vorhanden, die vorrangig in Stellung­
+nahmen zum ungelösten Nahostkonflikt in Erscheinung treten.
+Auch Angehörige der türkisch-linksextremistischen Szene sehen
+Israel als imperialistische Besatzungsmacht, die Krieg gegen das
+palästinensische Volk führe und ein Vorposten der USA sei. Die
+Übergänge zum Antisemitismus sind in der Argumentation teil­
+weise fließend.
+
+
+3. STRUKTUREN
+
+3.1 Arbeiterpartei Kurdistans (PKK)
+
+Anhänger                Deutschland: 15.0001
+                        Bayern:     ca. 1.700
+
+Leitung                 Abdullah Öcalan
+
+Gründung                1978 in der Türkei
+
+Publikation             Serxwebun (deutsch: „Unabhängigkeit“),
+                        Yeni Özgür Politika (deutsch: „Neue Freie Politik“)
+
+1
+    Quelle: Bundesverfassungsschutzbericht 2023
+
+
+Die „Arbeiterpartei Kurdistans“ (PKK, kurdisch: „Partiya Karkeren
+Kurdistane“) ist in Deutschland seit dem 26. November 1993
+verboten. Seit dem 2. Mai 2002 wird sie in der Liste terroris­
+tischer Organisationen der EU geführt.
+
+Das deutsche Verbot umfasst die späteren Umbenennungen
+in „Freiheits- und Demokratiekongress Kurdistans“ (KADEK,
+kurdisch: „Kongreya Azadi u Demokrasiya Kurdistane“), „Volks­
+kongress Kurdistans“ (KONGRA GEL, kurdisch: „Kongra Gele
+Kurdistan), „Gemeinschaft der Kommunen in Kurdistan“ (KKK,
+kurdisch: „Koma Komalen Kurdistane“) und „Vereinigte Gemein­
+schaften Kurdistans“ (KCK, kurdisch: „Koma Civaken Kurdistan“).
+
+
+
+
+                                                                                                     123
+Verfassungsschutzbericht Bayern 2024                Auslandsbezogener Extremismus
+
+
+Verbot der             Mit Schreiben vom 2. März 2019 verfügte das Bundesminis­terium
+Öcalan-Fahne           des Innern, für Bau und Heimat eine Ausweitung der Verbots­
+                       verfügung gegen die PKK und ihre Kennzeichen. Seitdem ist es in
+                       Deutschland auch verboten, die Fahne mit dem Abbild Abdullah
+                       Öcalans auf gelbem oder gelb-grünem Hintergrund zu zeigen.
+
+                       Die PKK wurde 1978 von Abdullah Öcalan in Ostanatolien als
+                       marxistisch-leninistisch orientierte Organisation gegründet. Sie
+                       sollte durch einen Guerillakrieg eine Revolution mit dem Ziel
+                       eines unabhängigen kurdischen Staates herbeiführen. Über 2
+                       Jahrzehnte lang führte die PKK innerhalb und außerhalb der Türkei
+                       terroris­tische Anschläge durch, darunter auch in Deutschland.
+
+Demokratischer         Nach der Festnahme des PKK-Führers Abdullah Öcalan im Jahr
+Konförderalismus       1999 kam es zu einem taktisch bedingten Kurswechsel. Zumin­
+                       dest im Ausland wurde auf die Durchführung planmäßiger
+                       Gewal­taktionen verzichtet. Das ursprüngliche Ziel der Errichtung
+                       eines unabhängigen kurdischen Staates wurde zugunsten eines
+                       staatenübergreifenden kurdischen Autonomiemodells, das die
+                       bestehenden staatlichen Grenzen der Türkei anerkennt, aufge­
+                       geben. Dabei soll unter der klaren Vorherrschaft der PKK in den
+                       traditionell kurdischen Siedlungsgebieten in Irak, Iran, Syrien und
+                       der Türkei eine unter dem Begriff „Demokratischer Konfördera­
+                       lismus“ propagierte Selbstverwaltung geschaffen werden.
+
+Regionale Strukturen   Bei der PKK und ihren deutschen Ablegern handelt es sich um
+in Bayern: „Eyalets“   eine Kaderorganisation mit einem weitverzweigten Funktionärs­
+                       wesen und strikten Befehlsstrukturen. Die PKK hat sich 2016
+                       in Deutschland regional umstrukturiert. Unter Beibehaltung der
+                       31 Gebiete wurden die ehemals 4 Sektoren nun in 9 Regionen
+                       ­(„Eyalets“) aufgeteilt. In Bayern existieren die Gebiete Süd­bayern
+                        und Nordbayern. An der Spitze dieser hierarchischen Struktur
+                        stehen Funktionäre, die in der Regel durch die europäische
+                        ­
+                        Leitungs­ebene der Organisation eingesetzt werden. Die Zuwei­
+                       sung auf die einzelnen Funktionen erfolgt zumeist nur für einen
+                       begrenzten Zeitraum. Die hauptamtlichen Kader der PKK sind
+                       ideologisch geschult und leben äußerst konspirativ und g     ­ emäß
+                       einem eta­   blierten Rotationsverfahren an häufig wechseln­
+                       den ­ Orten. Ziel ist es dabei vor allem, Beobachtungs- und
+                       Verfolgungs­maßnahmen durch staatliche Stellen zu erschweren.
+
+                       Die PKK-Anhängerschaft organisiert sich in Deutschland und
+                       Bayern auch unter dem Deckmantel legaler Vereins- und
+                       Verbands­strukturen. Die Organisationen, die diesen Strukturen
+                       zuzurechnen sind, stellen sich in der Regel nach außen als reine
+                       Kulturvereine dar. Ein Nachweis, dass ihre Betätigung unmittel­bar
+                       der PKK zuzurechnen ist, lässt sich meist nur im Einzelfall führen.
+
+124
+Auslandsbezogener Extremismus                         Verfassungsschutzbericht Bayern 2024
+
+
+
+Insgesamt kann jedoch angenommen werden, dass der illegal
+tätige Funktionärsapparat der PKK die Agenda dieser legalis­
+tischen Strukturen in Deutschland und Europa maßgeblich
+beein­flusst und steuert. Die jeweiligen Vereine und Verbände
+­haben vor diesem Hintergrund vor allem die Aufgabe, die Ziele
+ und die Politik der PKK zu verbreiten und zu fördern und dienen
+ als regionale Anlaufstellen für ihre Anhänger.
+
+Der Dachverband dieser PKK-nahen Strukturen in Deutsch­
+land erfuhr 2019 eine Umstrukturierung: Die zuvor unter der
+­Bezeichnung „Dachverband Demokratisches Kurdisches Gesell­
+ schaftszentrum Deutschlands e. V.“ (NAV-DEM, kurdisch:
+ ­„Navenda Civaka Demokratik ya Kurden li Almanyaye“) auftre­
+  tende Dachorganisation firmiert seither unter der Bezeichnung
+  „Konföderation der Gemeinschaften Kurdistans in Deutschland
+  e. V.“ (KON-MED, kurdisch „Konfederasyona Civaken Kurdis­
+  taniyen li Almanya“). Organisatorisch unterscheidet sich die
+  KON-MED vom Vorgänger NAV-DEM u. a. darin, dass sie über
+  regionale Untergruppierungen verfügt, die sog. „Föderationen“.
+  Zuständig für Bayern und Baden-Württemberg ist die „Föderation
+  der Völker Kurdistans“ (FED-GEL, kurdisch: „Federasyona Gelen
+  Kurdistani“).
+
+ In Bayern existieren zurzeit 2 Vereine, die der KON-MED angehö­      KON-MED in Bayern
+ ren: „Medya Volkshaus e. V.“ in Nürnberg und „Demokratisches
+ Kurdisches Gesellschaftszentrum Aschaffenburg e. V.“. Der ehe­
+ mals zu den Strukturen der KON-MED gehörende Verein „Kurdi­
+sches Gesellschaftszentrum München e. V.“ ist offiziell aufgelöst
+und aus dem Vereinsregister gelöscht worden. Dennoch können
+Nachfolgeaktivitäten unter dem neuen Namen „Kurdisches
+­Zentrum München“ festgestellt werden.
+
+Beide vorgenannten Vereine sowie das „Kurdische Zentrum
+München“ initiieren regelmäßig Versammlungen zur PKK-The­
+matik, beispielsweise Gedenken an gefallene PKK-Kämpfer.
+Auch Fahrten zu überregionalen Veranstaltungen mit PKK-Bezug
+werden organisiert.
+
+Am 22. Dezember 2022 wurde der PKK-Regionsleiter Bayern,              Festnahme und
+der zeitgleich PKK-Gebietsleiter für das Gebiet Nordbayern war,       Verurteilung eines
+festgenommen. Im anschließenden Prozess vor dem Ober­                 Gebietsleiters
+landesgericht München wurde der Angeklagte im März zu 2
+Jahren und 5 Monaten Haft verurteilt. Das Gericht sah es als
+erwiesen an, dass er sich seit Juli 2021 bis zu seiner Festnahme
+als Leiter eines PKK-Gebietes betätigt hatte und aktives Mitglied
+in einer terroristischen Vereinigung war.
+
+
+                                                                                       125
+Verfassungsschutzbericht Bayern 2024                Auslandsbezogener Extremismus
+
+
+Festnahme eines          Am 22. Mai ist ein mutmaßliches Mitglied der PKK durch e­ inen
+Spendensammlers          Haftbefehl des Oberlandesgerichtes München festgenommen
+                         worden. Der Festgenommene soll einer der führenden PKK-
+                         Spenden­ sammler im Raum München gewesen sein. ­       Neben
+                        dem Sammeln und Verwalten von Spendengeldern für die
+                        PKK habe er Veranstaltungen und Fahrten im Sinne der PKK
+                        ­organisiert und Propaganda betrieben. Seither befindet er sich
+                         in Untersuchungshaft.
+
+Jahresspenden­          Eine der zentralen Aktivitäten der PKK in Europa und Deutschland
+kampagnen               ist die Jahresspendenkampagne. Diese beginnt zumeist A   ­ nfang
+                        Herbst und stellt eine Haupteinnahmequelle der Organisa­tion
+                        dar. Die PKK erwartet, dass die geschätzt etwa 1,5 Millionen in
+                        Europa lebenden Kurdinnen und Kurden einen finanziellen Beitrag
+                        zur Unterstützung der Organisation bzw. zur „Befreiung Kurdis­
+                        tans“ leisten. Jährlich liegen die Spendeneinnahmen im Bundes­
+                        gebiet geschätzt zwischen 16 und 17 Millionen Euro. Die Höhe
+                        der Beiträge richtet sich nach dem Jahreseinkommen. Während
+                        von durchschnittlich verdienenden kurdischen Familien mehrere
+                        Hundert Euro verlangt werden, erwartet man von ­vermögenden
+                        Geschäftsleuten mehrere Tausend Euro. Die Spender sind dabei
+                        z. T. einem hohen psychischen Druck ausgesetzt. Zwar wird bei
+                        Zahlungsunwilligkeit keine Gewalt angewendet, doch ist mit
+                        ­sozialer Ausgrenzung zu rechnen.
+
+                        Die Spendengelder dienen der Finanzierung der PKK-Strukturen
+                        in Europa, der Türkei und in den übrigen kurdischen Siedlungs­
+                        gebieten im Nahen Osten. Ferner profitiert der PKK-Medien­
+                        apparat von den Einnahmen. Es ist davon auszugehen, dass ein
+                        Teil der Spendensumme auch zur finanziellen Unterstützung der
+                        Guerillaeinheiten der PKK weitergeleitet wird.
+
+Verhältnis zur Gewalt   Die PKK zeigt ein ambivalentes Verhältnis zur Gewalt. Einem
+                        militärischen Auftreten im türkisch-irakischen bzw. türkisch-­
+                        syrischen Grenzgebiet steht ein grundsätzlich friedliches Vorgehen
+                        in Deutschland und Europa gegenüber. Dieses Vorgehen wird
+                        auch aktuell von der Zielsetzung geleitet, sich europäische Staaten
+                        als Ruhe- und Rückzugsräume zu bewahren.
+
+                        Die PKK ist nach wie vor in der Lage und bereit, zumindest
+                        punktuell Gewalt auch in Deutschland einzusetzen bzw. Gewalt­
+                        taten ihrer jugendlichen Gefolgschaft zu dulden. Als wesent­
+                        liche Propagandaplattformen dienen in Deutschland, neben im
+                        Ausland ansässigen Fernsehsendern, regelmäßig erscheinende
+                        Zeitungen wie die Tageszeitung „Yeni Özgür Politika“ (deutsch:
+                        „Neue Freie Politik“), in denen fortlaufend Stellungnahmen von
+
+
+126
+Auslandsbezogener Extremismus                          Verfassungsschutzbericht Bayern 2024
+
+
+
+führenden PKK-Funktionären veröffentlicht werden. Auch soziale
+Netzwerke und mehrsprachige Webseiten werden intensiv zur
+Verbreitung von Propaganda und zur Mobilisierung für Veranstal­
+tungen und Kundgebungen genutzt.
+
+Für das Aktivitäts- und Aggressionsniveau der PKK in Deutsch­
+land ist die innenpolitische Lage in der Türkei ein entscheidender
+Faktor. Die PKK-nahe Szene reagiert mitunter äußerst rasch und
+unmittelbar auf Ereignisse und Konflikte in der Türkei und der
+umliegenden Region. Dadurch will die Szene in Deutschland
+Einfluss auf die türkische Innenpolitik und die auswärtigen Be­
+ziehungen der Türkei ausüben, den türkisch-kurdischen Konflikt
+zugleich aber auch auf die Tagesordnung deutscher und interna­
+tionaler Politik bringen.
+
+Zwar zählt Deutschland als Rückzugs- und Ruheraum der PKK,             Rekrutierung in
+dennoch stellen auch Rekrutierungsaktivitäten ein zentrales            Deutschland
+Aktions­feld der PKK in Deutschland dar. Seit Juni 2013 sind mehr
+als 300 Personen behördlich bekannt geworden, die sich aus
+Deutschland in die kurdischen Kampfgebiete im Nahen Osten
+begeben und sich dort verschiedenen regionalen Kampfeinheiten
+der PKK angeschlossen haben. Die Anwerbung und Indoktri­
+nierung erfolgt zumeist in den lokalen PKK-Vereinen, über den
+PKK-Medienapparat oder auf jährlich wiederkehrenden Großver­
+anstaltungen der PKK. Zudem werden regelmäßig Schulungen
+veranstaltet, bei denen die Ausreisewilligen auf ein Leben im
+Kampf für die PKK vorbereitet werden sollen. Für Rekrutierun­
+gen geeignete Personen werden nicht nur über die lokalen PKK-­
+Vereinsstrukturen oder durch PKK-Kader angeworben. Auch
+zahlreiche gemeinsame Aktionen und Veranstaltungen zwischen
+der deutschen linksextremistischen Szene und PKK-nahen Grup­
+pierungen werden zu Rekrutierungszwecken genutzt. Aus diesen
+Kontakten können auch personelle Verflechtungen entstehen.
+
+Zusammenarbeit mit der linksextremistischen Szene
+Zwischen der PKK und deutschen linksextremistischen Grup­
+pierungen kam es in den vergangenen Jahren immer wieder zu
+einer themenbezogenen Kooperation und gegenseitigen Unter­
+stützung. Eine Zusammenarbeit erfolgt vorwiegend dann, wenn
+sich die vom linksextremistischen Spektrum besetzten Aktions­
+felder, wie z. B. Antiimperialismus oder Antimilitarismus, und das
+von der PKK besetzte Themenpotenzial überschneiden. Die tür­
+kischen Militäroffensiven in Rojava seit 2016 intensivierten das
+Zusammenrücken beider Lager. Bei der hauptsächlich von Kur­
+dinnen und Kurden bevölkerten Region Rojava handelt es sich
+um ein Autonomiegebiet in Nord- und Ostsyrien.
+
+
+                                                                                         127
+Verfassungsschutzbericht Bayern 2024               Auslandsbezogener Extremismus
+
+
+Defend Kurdistan       Ein Beispiel für die Zusammenarbeit mit der deutschen linksex­
+                       tremistischen Szene stellt die Gruppierung „Defend Kurdistan“
+                       dar. Vor dem Hintergrund des anhaltenden militärischen Kon­
+                       fliktes zwischen der Türkei und der PKK wurde die Gruppierung
+                       im Juni 2021 gegründet und ruft seither regelmäßig in Deutsch­
+                       land zu Protest­aktionen auf. Getragen wird das Bündnis nicht nur
+                       durch Anhängerinnen und Anhänger der PKK, sondern auch von
+                       sog. „Internationalisten“ aus dem linksextremistischen Personen­
+                       spektrum. Seit dem Jahr 2022 ist die Gruppierung „Defend Kurdi­
+                       stan“ bundesweit vor allem mit mehreren Besetzungs- und Stör­
+                       aktionen von Büros politischer Parteien sowie der Organisation von
+                       Demonstrationen und Vortragsveranstaltungen aufgefallen.
+
+                       „Defend Kurdistan“ erreicht mit ihrer politischen Agenda ein
+                       breites gesellschaftliches Spektrum. Bei den Aktionen der Grup­
+                       pierung treten immer wieder Personen in Erscheinung, die als
+                       Sympathisanten oder Mitglieder deutscher sowie türkischer
+                       linksextremistischer Organisationen bekannt sind. Thematisch
+                       setzt sich die Gruppierung allerdings ausschließlich für die Inter­
+                       essen der PKK ein. Darunter fallen z. B. öffentlichkeitswirksame
+                       Gedenken an gefallene PKK-Kämpfer oder Veranstaltungen, die
+                       in Kooperation mit Vereinen, die dem KON-MED angehören,
+                       durchgeführt werden und dabei eindeutig der Zielsetzung der
+                       PKK entsprechen.
+
+Gedenkveranstal­       Im Juni bewarben der regionale Ableger „Defend Kurdistan
+tung für deutschen     Bayern“ sowie der Verein „Medya Volkshaus e. V.“ auf ihren
+PKK-Anhänger           Instagram-Seiten eine gemeinsam von PKK-Anhängern und
+                       ­
+                       der deutschen linksextremistischen Szene organisierte Gedenk­
+                       veranstaltung für einen im Jahr 2023 verstorbenen deutschen
+                       PKK-Kämpfer. Dieser war bis zu seiner Ausreise im Jahr 2016 in
+                       Bayern wohnhaft und dort in der linksextremistischen Szene aktiv.
+                       Er hatte sich im Alter von 20 Jahren der bewaffneten Kampfein­
+                       heit HPG („Hezen Parastina Gel“, deutsch: „Volksverteidigungs­
+                       kräfte“) der PKK im Irak angeschlossen und starb mit 27 Jahren
+                       bei Kampfhandlungen im Nordirak. Seit seinem Tod verehrt die
+                       PKK den ehemaligen Angehörigen der bayer­ischen linksextre­
+                       mistischen Szene als Märtyrer. Sein Tod wird instrumentalisiert,
+                       um für die Ideen der PKK und ihren bewaffneten Kampf im Aus­
+                       land zu werben. Problematisch erscheinen derartige Märtyrerge­
+                       denken nicht nur aufgrund der Bezüge zur PKK, sondern insbe­
+                       sondere auch vor dem Hintergrund des Präventionsgedankens.
+                       Die zumeist in Szenetreffs ausgerichteten Gedenkveranstaltun­
+                       gen sind dazu geeignet, insbesondere junge Menschen, die sich
+                       in einer Lebensphase der Selbstfindung befinden, für die Ideen
+                       der PKK und des bewaffneten Kampfes zu begeistern.
+
+
+128
+Auslandsbezogener Extremismus                        Verfassungsschutzbericht Bayern 2024
+
+
+
+3.2 Türkischer Rechtsextremismus
+
+Anhänger                Deutschland: 12.1001
+                        Bayern:     ca. 1.150
+
+1
+    Quelle: Bundesverfassungsschutzbericht 2023
+
+
+Der türkische Rechtsextremismus umfasst ein breites Spek­
+trum ultranationalistischen, antisemitischen und rassistischen
+Gedanken­guts. Eine herausragende Rolle nimmt hierbei die „Ül­
+kücü“-Bewegung („Idealisten“-Bewegung) ein, deren Ursprünge
+bereits auf die ersten Jahrzehnte des 20. Jahrhunderts zurück­
+gehen. Vordenker aus dieser Zeit sind u. a. Alparslan Türkes und
+Hüseyin Nihal Atsiz.
+
+Die rechtsextremistische Ideologie der „Grauen Wölfe“ basiert
+auf einer Überhöhung der Türkei und des Türkentums bei gleich­
+zeitiger Herabsetzung und rassistischer Abwertung von anderen
+Ethnien, beispielsweise der armenischen, kurdischen, jüdischen
+und alevitischen Bevölkerung.
+
+Des Weiteren ist diese Ideologie maßgeblich durch den Pantur­
+kismus bzw. Turanismus beeinflusst, der im Osmanischen Reich
+des 19. Jahrhunderts entstanden ist. Dieser hatte die Gründung
+eines Großtürkenreiches unter der Bezeichnung „Turan“ zum
+Ziel, welches – je nach Auslegung – ein Gebiet vom Pazifik bis
+nach Europa umfassen soll. Der Panturkismus basiert auf der
+Idee eines ethnisch homogenen Ursprunges aller Turkvölker,
+verbunden mit dem Bestreben, diese in einer gemeinsamen
+Heimat unter Führung der heutigen Türkei zu vereinen.
+
+Während der übersteigerte Nationalismus und die Vorstellung          Nationalistische
+eines ethnisch kohärenten, nur von Turkvölkern bewohnten tür­        Komponenten
+kischen Großreiches durchgängige Motive der „Ülkücü“-Ideo­
+logie darstellen, ist die türkisch-islamische Komponente inner­
+halb der diversen Strömungen der Bewegung unterschiedlich
+ausgeprägt. Im Laufe der Zeit haben islamische und teilweise
+auch islamistische Elemente innerhalb der „Ülkücü“-Bewegung
+an Bedeutung zugenommen. Vor allem das seit den 1970er
+Jahren propagierte Konzept der „Türk-Islam sentezi“ (deutsch:
+„Türkisch-Islamische Synthese“) ist heute fester Bestandteil des
+türkischen Nationalismus. Hiernach werden Islam und Türken­
+tum als unabdingbare Einheit dargestellt, religiöse und nationa­
+listische Motive in teils stark verklärender Weise miteinander
+verwoben und auf das historische Osmanische Reich als Ideal­
+vorstellung projiziert.
+
+
+                                                                                        129
+Verfassungsschutzbericht Bayern 2024                 Auslandsbezogener Extremismus
+
+
+                        Das bekannteste Symbol der „Ülkücü“-Bewegung ist der „Graue
+                        Wolf“, der gemäß unterschiedlichen Legenden als Schutztier
+                        ­aller Turkvölker gilt und symbolisch für Stärke und Durchhalte­
+                         vermögen steht.
+
+                        Laut neuzeitlicher Legendenerzählungen habe beispielsweise
+                        ein grauer Wolf die frühen Vorfahren der Türken aus dem sog.
+                        Ergenekon-Tal herausgeführt, sie damit vor dem Hungertod
+                        bewahrt und den Weg für das Osmanische Reich und die heu­
+                        tige Türkei geebnet. Ebenso gibt es Legenden von türkischen
+                        Waisenkindern, die von einem grauen Wolf zu starken Kriegern
+                        herangezogen worden seien. Vor diesem Hintergrund stellt der
+                        „Graue Wolf“ ein zentrales und identitätsstiftendes Symbol im
+                        türkischen Rechtsextremismus dar, das in der Folge szeneintern
+                        z. B. als Sticker auf Fahrzeugen oder als Tattoo-Motiv Verbreitung
+                        findet.
+
+                        Weitere häufig genutzte Symboliken von Anhängerinnen und
+                        Anhängern der „Ülkücü“-Ideologie sind der in Orchon-Runen
+                        gehaltene Schriftzug „Turk“ (deutsch: „Türke“ bzw. „türkisch“),
+                        die Zahlenfolge „1453“, dem Jahr der Eroberung von Konstanti­
+                        nopel durch das Osmanische Reich, und die „Üc Hilal“-Flagge
+                        (deutsch: „Drei Halbmonde“), die im Osmanischen Reich u. a.
+                        als Kriegsflagge genutzt wurde und heutzutage als Parteilogo
+                        der rechtsextremistischen MHP dient.
+
+                        3.2.1   Organisierte Ülkücü-Szene
+
+                        Der Großteil der „Ülkücü“-Bewegung in Deutschland und Bayern
+                        ist in großen Dachverbänden organisiert. Die „Föderation der
+                        Türkisch-Demokratischen Idealistenvereine in Deutschland e. V.“
+                        (ADÜTDF, türkisch: „Almanya Demokratik Ülkücü Türk Dernek­
+                        leri Federasyonu“) ist bundesweit der größte „Ülkücü“-Dachver­
+                        band und wurde 1978 in Frankfurt am Main durch den Zusammen­
+                        schluss von zahlreichen türkischen Vereinen gegründet. Sie gilt seit
+                        ihrer Gründung als Auslandsorganisation der MHP, dem politischen
+                        Arm der „Ülkücü“-Bewegung in der Türkei. Die MHP kann als
+                        Urorganisation der „Ülkücü“-Bewegung bezeichnet werden.
+
+Türkisches Kultur und   Die derzeit 23 „Ülkücü“-Vereine sind in Bayern vor allem mit kul­
+Bildungs Zentrum        turellen, religiösen und sportlichen Veranstaltungen aktiv. Häufig
+Aschaffenburg e. V      werden diese Veranstaltungen durch Szenesänger begleitet,
+                        ­wobei die dargebotenen Lieder stilistisch meist volkstümlicher
+Türkische Gemein­        türkischer Musik entsprechen. Inhaltlich sind die Liedbeiträge
+schaft in Nürnberg       durch pathetische, patriotische und auf Heimatgefühle rekurrie­
+e. V                     rende Motive geprägt. Ultranationalistische und rechtsextremis­
+                         tische Botschaften werden teils offen, teils aber auch in subtiler
+
+130
+Auslandsbezogener Extremismus                           Verfassungsschutzbericht Bayern 2024
+
+
+
+ Form über die Musik transportiert. Die Vereine erscheinen auf­         Türkisch-Islamischer
+ grund ihrer Namensgebung zunächst unverfänglich und lassen             Kultur Verein Augs­
+ keine Rückschlüsse auf Verbindungen zum „Ülkücü“-Dach­                 burg e.V
+verband sowie zur ideologischen Ausrichtung zu. Beispiele
+­hierfür sind die Vereine „Türkisches Kultur und Bildungs Zentrum       „Bizim Ocak“ e. V.
+ Aschaffen­burg e. V.“, „Türkische Gemeinschaft in Nürnberg e. V.“,
+ „Türkisch-Islamischer Kultur Verein Augsburg e. V.“ und „Münih
+ Türk Kültür Merkezi – Türkisches Kultur Zentrum München „Bizim
+ Ocak“ e. V.“.
+
+Ziel der „Ülkücü“-Vereine ist es, mit Veranstaltungen, die über­
+wiegend in einem dezidiert familienaffinen Umfeld stattfinden,
+das Zusammengehörigkeitsgefühl innerhalb der Szene zu stär­
+ken. Weiterhin sollen damit potenzielle Anhänger, insbesondere
+Kinder und Jugendliche, möglichst früh an die „Ülkücü“-Ideo­
+logie herangeführt und nicht zuletzt auch Einnahmen für die
+beteiligten Organisationen generiert werden. Die organisierte
+„Ülkücü“-Szene in Bayern, die nach wie vor den Großteil des
+türkisch-rechtsextremistischen Personenpotenzials in Bayern
+ausmacht, verfolgt weiterhin eine streng legalistische Agenda.
+
+Zum fraktionsübergreifenden Antrag des Deutschen Bundes­                Reaktionen der
+tages u. a. zur Prüfung des Verbots von Strukturen der „Grauen          Bewegung auf
+Wölfe“ in Deutschland aus dem Jahr 2020 steht eine Entschei­            Verbotsdebatten
+dung noch aus. Dies kann ein Grund für die andauernde Zurück­
+haltung der Verantwortlichen der organisierten „Ülkücü“-Szene
+in Deutschland und in Bayern hinsichtlich der Durchführung
+öffentlichkeitswirksamer Veranstaltungen und der Zurschau­
+stellung „Ülkücü“-relevanter Symbolik sein. Auch Gewalttaten,
+insbesondere solche, die direkt mit der „Ülkücü“-Bewegung in
+Verbindung gebracht werden können, würden die offizielle Agenda
+konterkarieren. Gleichzeitig werden im Rahmen von Veranstal­
+tungen häufig die ideologischen Aspekte der „Ülkücü“-Bewegung
+und ihrer Geschichte immer wieder gewürdigt und zelebriert.
+
+3.2.2 Freie türkisch-rechtsextremistische Szene
+
+Akteure, die der freien und unorganisierten türkisch-rechtsextre­
+mistischen Szene zugeordnet werden, sind nicht in den etablierten
+„Ülkücü“-Dachverbänden organisiert.
+
+Überwiegend agiert dieser Teil des „Ülkücü“-Personenpoten­zials
+primär in den sozialen Netzwerken. Dabei kommt es ­mitunter
+nur noch zu vagen Bezugnahmen auf konkrete Elemente der
+„Ül­
+­  kücü“-Ideologie. Dennoch beinhalten die Beiträge in den
+
+
+
+
+                                                                                         131
+Verfassungsschutzbericht Bayern 2024                     Auslandsbezogener Extremismus
+
+
+                       sozialen Medien erkennbar Elemente einer spezifisch tür­
+                       kisch-rechtsextremistischen Weltanschauung und lassen eine
+                       verfassungsschutzrelevante Agenda erkennen.
+
+                       Insbesondere innerhalb der unorganisierten türkisch-rechtsex­
+                       tremistischen Szene ist darüber hinaus eine hohe Affinität gegen­
+                       über Schusswaffen und szenetypischen Motiven zu erkennen.
+
+                       Es ist davon auszugehen, dass Anhänger der „Ülkücü“-Ideologie
+                       bereit sind, für die „Belange der Türkei“ oder gegen „Feinde der
+                       Türkei“ auch gewaltsam vorzugehen oder regierungskritische
+                       Personen gegenüber staatlichen türkischen Stellen zumindest
+                       zu denunzieren.
+
+
+                       3.3 Türkischer Linksextremismus
+                       3.3.1 DHKP-C (Revolutionäre Volksbefreiungspartei-Front)
+
+                       Anhänger                Deutschland:     6001
+                                               Bayern:        ca. 80
+
+                       Gründung                1994
+
+                       Publikation             Yürüyüs (deutsch: „Marsch“)
+
+                       1
+                           Quelle: Bundesverfassungsschutzbericht 2023
+
+
+                       Die „Revolutionäre Volksbefreiungspartei-Front“ (DHKP-C, tür­
+                       kisch: „Devrimci Halk Kurtulus Partisi-Cephesi“) ist in Deutsch­
+                       land seit 1998 verboten. Auslöser ihres Verbotes war eine Serie
+                       militanter Aktionen von DHKP-C-Aktivisten Mitte der 1990er
+                       Jahre u. a. gegen hiesige türkische Einrichtungen. Unter das Ver­
+                       bot fällt auch die Verbreitung der Publikation „Yürüyüs“ (deutsch:
+                       „Marsch“).
+
+                       Seit 2002 wird die DHKP-C zudem auf der EU-Terrorliste geführt.
+
+                       Die DHKP-C wurde 1994 als Abspaltung der 1983 aufgrund
+                       terroris­tischer Aktivitäten durch den Bundesminister des Innern
+                       verbotenen Gruppierung „Devrimci-Sol“ (deutsch: „Revolu­
+                       tionäre Linke“) gegründet. Die DHKP-C versteht sich, wie die
+                       Ursprungs­organisation, als eine an den Grundsätzen des Marxis­
+                       mus-Leninismus ausgerichtete revolutionäre Volksbewegung.
+                       Sie zählt zu den militantesten türkischen linksextremis­tischen
+
+
+
+
+132
+Auslandsbezogener Extremismus                         Verfassungsschutzbericht Bayern 2024
+
+
+
+Gruppierungen, die mithilfe einer bewaffneten Revolution
+auf die Zerschlagung des türkischen Staates zielen. Ziele ihrer
+Agitation sind die NATO, die USA sowie die Türkei und deren
+Gesell­ schaftsordnung. Die DHKP-C richtet sich damit gegen
+den Gedanken der Völkerverständigung und gefährdet die Innere
+­Sicherheit und die öffentliche Ordnung sowie sonstige erheb­
+ liche Belange der Bundesrepublik Deutschland.
+
+Nachdem der DHKP-C-Gründer Dursun Karatas im Jahr 1999                Anschläge in der
+in einem Strafverfahren gegen einen früheren Deutschlandver­          Türkei
+antwortlichen der DHKP-C eine „Gewaltverzichtserklärung“
+abgegeben hatte, wurden die Gewaltaktionen auf deutschem
+Boden nicht weiter fortgesetzt. Am bewaffneten Kampf in der
+Türkei wurde jedoch festgehalten. Ab Juni 2012 war in der T
+                                                          ­ ürkei
+eine neue Anschlagsoffensive der DHKP-C zu verzeichnen,
+im Zuge derer u. a. 2013 ein DHKP-C-Aktivist in Ankara einen
+Selbstmord­anschlag im Eingangsbereich des US-amerika­nischen
+Botschaftsgeländes durchführte. Der Attentäter hatte sich zuvor
+mehrere Jahre in Deutschland aufgehalten.
+
+An den Protesten gegen die Münchner Sicherheitskonferenz im
+Februar 2023 nahmen auch Mitglieder der türkischen Musik­
+gruppe „Grup Yorum“ auf dem Marienplatz in München teil. In
+diesem Zusammenhang wurden neben den musikalischen Bei­
+trägen der Gruppe auch politische Forderungen verlautbart.
+
+„Grup Yorum“, deren Lieder explizit verstorbenen Kämpferinnen         Märtyrerkult
+und Kämpfern bzw. „Märtyrern“ der DHKP-C gewidmet sind, ist
+auch außerhalb der Türkei bekannt und tourt regelmäßig durch
+Staaten mit einer großen türkischen und kurdischen Diaspora.
+In Erscheinung tritt „Grup Yorum“ vor allem bei lokalen Veran­
+staltungen der DHKP-C. Der Verkauf von Konzertkarten, zugehö­
+rigen Bustickets sowie Tonträgern von „Grup Yorum“ wird u. a.
+zur Finanzierung der DHKP-C genutzt. Immer wieder wird den
+Bandmitgliedern die Mitgliedschaft in der DHKP-C vorgeworfen,
+was in der Türkei wiederholt zu Verhaftungen führt. Im Jahr 2020
+verstarben 2 Bandmitglieder, Helin Bölek und Ibrahim Gökcek,
+an den Folgen eines Hungerstreiks (sog. „Todesfasten“).
+
+Während die meisten DHKP-C-Aktivitäten hauptsächlich in
+Metro­polregionen außerhalb Bayerns stattfinden, wurden 2024
+auch in Bayern vereinzelte Solidaritätsaktionen von DHKP-C-
+Unter­stützern festgestellt. Derartige Solidaritätskundgebungen
+führen auch zu Vernetzungen mit Sympathisanten des deut­
+schen Linksextremismus.
+
+
+
+
+                                                                                     133
+Verfassungsschutzbericht Bayern 2024                      Auslandsbezogener Extremismus
+
+
+                       Für die Durchsetzung ihrer politischen Ziele befanden sich mehrere
+                       Aktivisten der Organisation in Deutschland monatelang in einem
+                       unbefristeten Hungerstreik. Zudem campierten die Aktivisten vor
+                       dem Bundesministerium der Justiz in Berlin, wo sie zeitweilig auch
+                       übernachteten.
+
+                       Überdies suchten die Anhängerinnen und Anhänger immer wieder
+                       politische Mandatsträger und Medienhäuser auf, um ihren For­
+                       derungen öffentlichkeitswirksam – beispielsweise in den sozialen
+                       Medien – Ausdruck zu verleihen. In diesem Zusammenhang kam
+                       es auch mehrfach zu inszenierten Fotos mit Abgeordneten des
+                       Deutschen Bundestages.
+
+                       Der sog. „Lange Marsch“ der Organisation, bei dem für die Frei­
+                       lassung inhaftierter Mitglieder protestiert wird, zog im Februar
+                       u. a. auch durch Nürnberg, Augsburg und München.
+
+                       Am 6. Februar verübte die DHKP-C einen Anschlag auf ein
+                       Gerichts­gebäude in Istanbul. Dieser Angriff stieß bei Anhänger­
+                       innen und Anhängern aus Bayern z. T. auf Zustimmung.
+
+                       3.3.2 Türkische Kommunistische Partei/Marxisten-­
+                             Leninisten (TKP/ML)
+
+                       Anhänger                Deutschland:      8001
+                                               Bayern:         ca. 80
+
+                       Gründung                1994 in der Türkei
+                       Publikation             Partizan (deutsch: „Partisan“)
+
+
+                       1
+                           Quelle: Bundesverfassungsschutzbericht 2023
+
+
+                       Die „Türkische Kommunistische Partei/Marxisten-Leninisten“
+                       (TKP/ML, türkisch: „Türkiye Komünist Partisi/Marksist-Leninist“)
+                       vertritt die Ideologie des Marxismus-Leninismus, ergänzt um die
+                       Ideen Mao Tse-tungs. Sie befürwortet den bewaffneten Kampf
+                       und propagiert den Bürgerkrieg als Mittel zur Erreichung ihres
+                       Zieles, der Errichtung eines kommunistischen Regimes in der
+                       Türkei. Sie unterhält in der Türkei die bewaffneten Teilorganisa­
+                       tionen „Türkische Arbeiter- und Bauernbefreiungsarmee“
+                       (TIKKO, türkisch: „Türkiye Isci Köylü Kurtulus Ordusu“) sowie
+                       die „Volksbefreiungsarmee“ (HKO, türkisch: „Halk Kurtulus
+                       ­Ordusu“). Diese Gruppierungen verüben in der Türkei terroris­
+                        tische Anschläge, die sich in erster Linie gegen polizeiliche und
+                        militärische Einrichtungen wenden. Im Verlauf von bewaffneten
+                        Auseinandersetzungen ums Leben gekommene TKP/ML-Akti­
+                       visten werden als „Märtyrer“ verehrt.
+
+134
+Auslandsbezogener Extremismus                          Verfassungsschutzbericht Bayern 2024
+
+
+
+
+Die TKP/ML wurde in den 1970er Jahren von Ibrahim Kaypakkaya
+in der Türkei gegründet und durchlief seither zahlreiche Spal­
+tungen und Umbenennungen, jeweils unter Beibehaltung der
+marxis­ tisch-leninistischen und gewaltorientierten Ausrichtung.
+In Deutschland ist die Anhängerschaft der TKP/ML seit 1997 in
+den beiden Basisorganisationen „Föderation der Arbeiter aus der
+Türkei in Deutschland e. V.“ (ATIF, türkisch: „Almanya Türkiyeli
+Isciler Federasyonu“), gegründet 1976, und in der Ende 1986
+gebildeten „Konföderation der Arbeiter aus der Türkei in Euro­
+pa“ (ATIK, türkisch: „Avrupa Türkiyeli Isciler Konfederasyonu“)
+organisiert. Beide Vereinigungen präsentieren sich als Massen­
+organisationen und tarnen ihre Verbindungen zur TKP/ML. Sie
+beschränken sich in Deutschland auf Propagandaaktivitäten und
+auf die Beschaffung finanzieller Mittel.
+
+Interne Streitigkeiten führten in der Vergangenheit zu einer Spal­
+tung der TKP/ML, aus der in den Jahren 2019/2020 letztlich 2
+eigenständige Organisationen mit nahezu gleichen Bezeich­
+nungen hervorgingen: Die „Türkische Kommunistische Partei/
+Marxisten-Leninisten“ (TKP/ML) und die neue „Türkische
+Kommu­nistische Partei-Marxisten-Leninisten“ (TKP-ML). Beide
+Orga­nisationen sind unverändert fest im ideologischen Funda­
+ment Kaypakkayas verankert.
+
+
+
+
+Das Bayerische Landesamt für Verfassungsschutz rechnet den
+in Nürnberg ansässigen Verein „Dialog der Kulturen e. V.“ dem
+türkischen Linksextremismus zu. Vor diesem Hintergrund hat
+das Bayerische Landesamt für Verfassungsschutz bereits im
+Jahr 2023 bei den bayerischen Finanzbehörden angeregt, die
+
+                                                                                      135
+Verfassungsschutzbericht Bayern 2024              Auslandsbezogener Extremismus
+
+
+                       Gemeinnützigkeit des Vereins zu prüfen. Nach Bekanntwerden
+                       dieser Maßnahme kam es sowohl in den sozialen Medien als
+                       auch in der Realwelt zu Kritik und Gegenreaktion, beispielsweise
+                       im Rahmen einer Demonstration im März in Nürnberg.
+
+                       Neben der Beteiligung an den Protesten gegen die Münchener
+                       Sicherheitskonferenz war die TKP/ML auch an Demonstrationen
+                       zum 1. Mai in München und Nürnberg aktiv.
+
+
+
+
+                        In Bayern trat zudem die TKP-ML-Jugendorganisation „Neue De­
+                       mokratische Jugend“ (YDG, türkisch: „Yeni Demokrat Genclik“)
+                       öffentlichkeitswirksam auf und organisierte zahlreiche Veranstal­
+                       tungen. Die YDG und ATIF solidarisierten sich im Juli im Zuge
+                       ­eines Stellenabbaus mit den Mitarbeitern eines Unternehmens in
+                        Nürnberg. In diesem Zusammenhang wurden Banner im Bereich
+                        des Werksgeländes aufgestellt und Flugblätter verteilt.
+
+
+
+
+                       Des Weiteren rief die YDG im August dazu auf, sich an dem
+                       Protest­camp „Rheinmetall entwaffnen“ in Kiel zu beteiligen.
+
+
+
+
+136
+Auslandsbezogener Extremismus                              Verfassungsschutzbericht Bayern 2024
+
+
+
+3.4 Säkularer pro-palästinensischer Extre­
+    mismus
+
+Mehr als ein Jahr nach den Terroranschlägen der HAMAS auf
+den Staat Israel tritt der säkulare pro-palästinensische Extre­
+mismus in den Sozialen Medien und der Realwelt in deutlich
+differenzierteren Ausprägungen auf. Dabei sind die diesem
+Phäno­ menbereich zuzuordnenden Gruppierungen keinesfalls
+in Anhängerschaft und Propaganda homogen. Verbindendes
+Element dieser Organisationen, Netzwerke, Bewegungen und
+Einzel­personen ist die Feindschaft gegenüber dem Staat Israel.
+In diesem Zusammenhang wird Gewalt im Nahostkonflikt tole­
+riert und z. T. auch aktiv begrüßt, indem Narrative von terroris­
+tischen Gruppierungen übernommen oder deren „Märtyrer“
+verherrlicht werden.
+
+BDS-Bewegung
+Agitationsmuster mit Extremismusbezug konnten in Bayern
+u. a. im BDS-Spektrum festgestellt werden. BDS („Boycott,
+Divest­ment, Sanctions“; deutsch: „Boykott,
+Desinvestitionen und Sanktionen“) propagiert
+eine Kampagne, die einen umfassenden (wirt­
+schaftlichen, kulturellen, akademischen) Boy­
+kott, den Rückzug von Investitionskapital und
+gezielte Sanktionen gegen den Staat Israel zum
+Ziel hat. Nach eigenen Angaben besteht die
+BDS-Bewegung als Teil der palästinensischen
+Zivilgesellschaft aus einem Zusammenschluss
+von 171 teils sehr unterschied­lichen pro-paläs­
+tinensischen NGOs und zivilgesellschaftlichen
+Organisationen.
+
+Laut BDS wird dieser Zusammenschluss von den „Palestinian
+­National and Islamic Forces“ angeführt. Dieser Zusammenschluss
+ tritt gleichzeitig als Koordinationsorgan der wichtigsten poli­tischen
+ Parteien in den palästinensischen Autonomie­gebieten auf. Ver­
+ treten in diesem Bündnis sind mehrere auf der EU-­Terrorliste
+ geführte Organisationen, wie etwa HAMAS, „Islamischer Jihad
+ in Palästina“ (PIJ, englisch: „Palestinian Islamic Jihad“) und die
+ „Volksfront zur Befreiung Palästinas“ (PFLP, englisch: „Popular
+ Front for the Liberation of Palestine“).
+
+
+
+
+                                                                                          137
+Verfassungsschutzbericht Bayern 2024                  Auslandsbezogener Extremismus
+
+
+                       Palästina Spricht München (PS MUC)
+                       „Palästina Spricht München“ (PS MUC), der bayerische Able­
+                       ger der Mutterorganisation „Palästina Spricht“ (PS), steht der
+                       BDS-Bewegung nahe und propagiert eine Kampagne mit dem
+                       Ziel des wirtschaftlichen Boykotts, des Rückzugs von Investi­
+                       tionskapital und der Verhängung von Sanktionen zum Nachteil
+                       des Staats Israel.
+
+                                       Bereits vor dem 7. Oktober 2023 traten Aktivisten
+                                       von PS MUC, vor allem in den Sozialen Medien,
+                                       unter anderem mit extremistischen Äußerungen in
+                                       Erscheinung. Mit der Eskalation des Nahostkonflikts
+                                       seit Oktober 2023 ist ein Bedeutungszuwachs dieser
+                                       Gruppierung in Bayern zu verzeichnen, welcher sich
+                                       auch in der Durchführung von zahlreichen realwelt­
+                                       lichen Veranstaltungen niederschlägt.
+
+                                     Am 7. Oktober, zum Jahrestag des HAMAS-Über­
+                                     falls auf Israel, fanden in ganz Bayern Veranstal­
+                                     tungen statt, welche von verschiedenen pro-paläs­
+                                     tinensischen Akteuren durchgeführt wurden. In
+                                     deren Äußerungen in den Sozialen Medien und
+                                     auf Versammlungslagen finden sich immer wieder
+                                     bekannte Narrative und Legitimationsmuster der
+                                     BDS-Kampagne. Von verfassungsschutzrelevanter
+                                     Bedeutung war hier eine Versammlung von PS MUC
+                                     am Odeonsplatz in München. Im Rahmen der Veran­
+                                     staltung wurde durch verschiedene Redner­      innen
+                                     und Redner zum Ausdruck gebracht, dass „jede
+                       Form des Widerstands“ legitim sei. Im Übrigen skandierten die
+                       Versammlungsteilnehmer am Ende der Veranstaltung „We don’t
+                       want no two states, we take 48“. Die Parole kann im Einzelfall
+                       als extremistisch verstanden werden, da sie am Jahrestag des
+                       Terrorangriffs der HAMAS auf schwerwiegende völkerrechts­
+                       widrige Handlungen rekurriert. Die Demonstranten in München
+                       forderten mit der Parole eine Staatlichkeit innerhalb der Grenzen
+                       vor 1948 („48“), also vor der Staatsgründung Israels zur Zeit des
+                       britischen Mandats über „Palästina“. Aus dem Zusammenhang
+                       ergibt sich, dass mit dieser Forderung ein palästi­nensischer Staat
+                       gefordert wird, der de facto den Staat Israel ersetzt und ihm da­
+                       mit das Existenzrecht abspricht.
+
+
+
+
+138
+Auslandsbezogener Extremismus                            Verfassungsschutzbericht Bayern 2024
+
+
+
+PS MUC veröffentlichte darüber hinaus am 18. November                    Kampagne für
+über seinen Instagram-Kanal einen Aufruf zur Freilassung des             Freilassung eines
+„poli­tischen Gefangenen“ Georges Abdallah. Der libanesische             Terroristen
+Staatsbürger Abdallah ist seit dem Jahr 1984 wegen seiner Mit­
+täterschaft bei der Ermordung des damaligen Militärattachés
+der amerikanischen Botschaft und des israelischen Botschaf­
+ters in Paris sowie der Beteiligung an der versuchten Ermordung
+                                 des amerikanischen Konsuls in
+                                 Straßburg inhaftiert. Hiergegen
+                                 wendet sich eine internatio­  nale
+                                 Kampagne, die sich für die Frei­
+                                 lassung des seiner­  zeitigen Mit­
+                                 glieds der terroristischen Orga­
+                                 nisation PFLP einsetzt. Auch hier
+                                 zeigt sich die einseitige Sicht­
+                                 weise von PS MUC. A       ­ bdallah
+                                 wird zum „politischen Gefange­
+                                 nen“ stilisiert, ohne dass eine
+                                 kri­tische Auseinander­setzung
+                                 mit seinen terroristischen Taten
+                                 erfolgt. Diese werden vielmehr
+                                 in Gänze ausgeblendet. Dieses
+                                 Narrativ zieht sich durch die
+                                 Begrün­  dungsmuster von PS
+                                 MUC, bei denen regelmäßig
+                                 nur die paläs­tinensische Bevöl­
+kerung als Opfer dargestellt wird, während das Leid der israeli­
+schen Zivil­bevölkerung nicht thematisiert wird.
+
+Samidoun/Masar Badil
+Gegen das internationale palästinensische
+Gefangenensolidaritätsnetzwerk „Samidoun“
+besteht seit dem 2. November 2023 ein Betä­tigungsverbot des             Betätigungsverbot
+Bundesministeriums des Innern und für H  ­ eimat (BMI). Dennoch          für Samidoun/Masar
+steht diese Gruppierung unverändert im Fokus der medialen                Badil
+Öffent­lichkeit. So erstreckt sich das derzeitige Betätigungsfeld
+der vormaligen „Samidoun“-Aktivisten auf die 2020 in Madrid
+­
+gegründete Organisation „Masar Badil“. Beide Organisationen
+sind eng miteinander verbunden und bieten vor allem im Internet
+Terrororganisationen den Raum für weltweite Propaganda.
+
+
+
+
+                                                                                         139
+Verfassungsschutzbericht Bayern 2024                 Auslandsbezogener Extremismus
+
+
+                       Der Sinn und Zweck solcher Aktionsformate ergibt sich aus Masar
+                       Badils programmatischer Schrift, der „Brüsseler Erklärung“ aus
+                       dem Jahr 2022. Hier wird u. a. gefordert:
+
+                                 …unverzüglich mit dem Aufbau einer einheit­
+                                 lichen, konsolidierten palästinensischen breiten
+                                 nationalen Front zu beginnen. Wir rufen die
+                                 palästinensischen Widerstandskräfte, insbe­
+                                 sondere die Führungen der islamischen Wider­
+                                 standsbewegung – HAMAS und der islamischen
+                                 Dschihad-Bewegung in Palästina, die bewaffne­
+                                 ten palästinensischen Widerstandskräfte […]
+                                 und die Massen der revolutionären Intellektuel­
+                                 len dazu auf, eine nationale Strategie für die Be­
+                                 freiung und die Rückkehr anzunehmen […]
+
+
+                       Diese neue Verbindung zwischen islamistischen und säkularen
+                       (Terror-)Organisationen wirkt aufgrund der Geschwindigkeit
+                       ­medialer Verbreitung über staatliche Grenzen hinaus und ver­
+                        sucht vor allem in einem weltlichen und intellektuellem Milieu
+                        Terrorpropa­ganda zunehmend anschlussfähig zu machen.
+
+Extremistische         Der Ausfluss solcher neuen Allianzen und Propagandakanäle
+Äußerungen im aka­     wird bei der Auseinandersetzung mit dem pro-palästinensischen
+demischen Umfeld       Protestbewegungen im bayerischen akademischen Umfeld
+                       deutlich. Grundsätzlich war die Mehrzahl der bisherigen Äuße­
+                       rungen der handelnden Aktivisten durch Meinungs- und Presse­
+                       freiheit geschützt. Gleichwohl waren in den Sozialen Medien
+                       punktuell Postings festzustellen, welche darauf hindeuten, dass
+                       einige Anhänger dieser Protestbewegung durch extremistische
+                       Erzählstrategien beeinflusst sind bzw. diese im eigenen Narrativ
+                       tolerieren.
+
+
+
+
+140
+Auslandsbezogener Extremismus                        Verfassungsschutzbericht Bayern 2024
+
+
+
+So wurde beispielsweise durch einen Instagram-Kanal, welcher
+den pro-palästinensischen Protest im akademischen Umfeld
+in München thematisiert, für einen Workshop geworben, bei
+welchem die Witwe des Walid Daqqah für einen Austausch zur
+Verfügung stehen soll. Problematisch ist, dass dieser hier nur
+als „Revolutionär und Schriftsteller“ beschrieben wird, der in
+israelischer Haft aufgrund schlechter medizinischer Versorgung
+verstorben ist. Nicht erwähnt wird, dass Daqqah wegen seiner
+mutmaßlichen Beteiligung an der Ermordung eines israelischen
+Soldaten in Haft saß. Dass es sich hierbei um ein bekanntes
+Narra­tiv aus dem extremistischen pro-palästinensischen Spek­
+trum handelt, verdeutlicht eine ähnliche Kampagne eines franzö­
+sischen Regionalablegers der Gruppierung „Samidoun“.
+
+Prägend für die säkulare extremistische pro-palästinensische
+Protestbewegung in Bayern ist somit die zunehmende Berufung
+auf das (palästinensische) Widerstandsrecht in einem bewaff­
+neten innerstaatlichen Konflikt. Problematisch ist hierbei nicht
+nur die konsequente Ausblendung des Leids der israelischen
+Zivilbevölkerung, sondern auch das Ausblenden offensichtlich
+terroristischer Handlungen von Organisationen wie der HAMAS
+oder der PFLP. Im Ergebnis entsteht der Eindruck, dass Teile der
+pro-palästinensischen Protestbewegung in Bayern und Deutsch­
+land auch deren Handeln als legitimen Widerstand erachten.
+
+
+
+
+                                                                                    141
+Verfassungsschutzbericht Bayern 2024                        Rechtsextremismus
+
+
+
+
+Rechtsextremismus
+
+
+
+                       Rechtsextremismus hat viele verschiedene Aus­
+                       prägungen: Parteien kämpfen um Einfluss in Parla­
+                       menten, Publizisten versuchen rassistisches und
+                       nationalistisches Gedankengut intellektuell zu verpa­
+                       cken, rechtsextremistische Antisemiten diffamieren
+                       Menschen jüdischen Glaubens als Urheber aller
+                       Probleme oder Krisen und Neonazis bekennen sich
+                       offen zum Nationalsozialismus. Während die einen
+                       teilweise aggressiv und kämpferisch auftreten, ver­
+                       suchen andere durch die Gründung von Tarnorga­
+                       nisationen und die Verwendung von Chiffren und
+                       Codes ihre wahren Absichten zu verschleiern.
+
+                       Kennzeichnend für alle rechtsextremistischen Strö­
+                       mungen ist jedoch eine Ideologie der Ungleichwer­
+                       tigkeit der Menschen. Der Rechtsextremismus geht
+                       davon aus, dass die Zugehörigkeit zu einer „Ethnie“,
+                       „Nation“ oder „Rasse“ den Wert eines Menschen
+                       und auch seine Rechte bestimmt. Das rechtsextre­
+                       mistische Gesellschaftsideal ist eine ethnisch-kulturell
+                       oder ethnisch-biologistisch begründete homogene
+                       „Volksgemeinschaft“. Diese Konzeption steht im
+                       fundamentalen Widerspruch zur freiheitlichen de­
+                       mokratischen Grundordnung des Grundgesetzes.
+                       Die Gleichheit der Menschen vor dem Gesetz, das
+                       Demokratieprinzip, Meinungs- und Glaubensfreiheit
+                       und andere fundamentale Grundrechte werden von
+
+
+142
+Rechtsextremismus                          Verfassungsschutzbericht Bayern 2024
+
+
+
+
+Rechtsextremisten mal mehr, mal weniger offen ab­
+gelehnt. In der Folge prägen Rassismus, Antisemi­
+tismus, Geschichtsrevisionismus und Demokratie­
+feindlichkeit die rechtsextremistische Agitation.
+Rassistisch begründet ist auch der vor allem von der
+„Neuen Rechten“ propagierte „Ethnopluralismus“.
+Dieser gibt vor, die Identität des eigenen Volkes
+durch die räumliche und kulturelle Trennung unter­
+schiedlicher „Ethnien“ schützen zu wollen.
+
+
+
+
+                                                                          143
+Verfassungsschutzbericht Bayern 2024                                          Rechtsextremismus
+
+
+                       1. PERSONENPOTENZIAL IN BAYERN
+
+                       Parteien1                                                   2022    2023      2024
+
+                       JA   2
+                                                                                      70    350        350
+
+                       Die Heimat (bis zur Umbenennung 2023: NPD)                   450     430        360
+
+                       NPD (Gründung: 2023)                                                             30
+
+                       Der Dritte Weg                                               150     155        160
+
+                       Parteiunabhängige bzw. parteiungebundene                     555     570        560
+                       Strukturen3
+
+                       Weitgehend unstrukturiertes rechtsextremisti-               1.410   1.310   1.380
+                       sches Personenpotenzial4
+
+                       Summe                                                      2.650    2.815 2.840
+
+                       Mehrfachzählungen5                                            60      90        100
+
+                       Gesamtzahl                                                 2.590    2.725   2.740
+
+                       Neonazis von der Gesamtzahl                                  690     710      660
+
+                       Gewaltorientierte Personen von der Gesamtzahl6              1.070   1.030       985
+
+
+                       Die Zahlen sind geschätzt und gerundet.
+                       1
+                           Die Beobachtung der AfD erfolgt um zu klären, ob die AfD als Gesamtpartei
+                           aktuell von einer verfassungsfeindlichen Grundtendenz beherrscht wird. Der
+                           Beobachtungsauftrag umfasst dabei nicht sämtliche Funktionäre und Mitglieder.
+                       2
+                           Eigenangabe der JA.
+                       3
+                           Dazu zählen Personen in rechtsextremistischen Zusammenschlüssen und
+                           Vereinen, beispielsweise in subkulturell geprägten Gruppen oder in neonazis­
+                           tischen Kameradschaften; als Kategorie neu eingeführt im Jahr 2017.
+                       4
+                           Dazu zählen beispielsweise rechtsextremistische Internetaktivisten oder
+                           rechtsextremistische Straf- und Gewalttäter; als Kategorie neu eingeführt im
+                           Jahr 2017.
+                       5
+                           Mehrfachzählungen werden vom Gesamtpotenzial abgezogen.
+                       6
+                           Dazu zählen gewalttätig, gewaltbereit, Gewalt unterstützend und Gewalt befür­
+                           wortend.
+
+
+Personenpotenzial in   Das rechtsextremistische Personenpotenzial in Bayern belief
+Bayern                 sich Ende 2024 auf insgesamt 2.740 Personen (2023: 2.725). Da­
+                       runter waren rund 660 Neonazis (2023: 710).
+
+
+
+
+144
+Rechtsextremismus                                     Verfassungsschutzbericht Bayern 2024
+
+
+
+Das rechtsextremistische Personenpotenzial wird in den folgen­
+den 3 Kategorien erfasst:
+
+– Parteien
+– parteiunabhängige bzw. parteiungebundene Strukturen
+– weitgehend unstrukturiertes rechtsextremistisches Personen­
+  potenzial
+
+In 2024 wurden in Bayern insgesamt 900 Mitglieder und Unter­
+stützer rechtsextremistischer Parteien und parteinaher Gruppen
+erfasst.
+
+Die Kategorie der parteiunabhängigen bzw. parteiungebun­
+denen Strukturen umfasst Personen in rechtsextremistischen
+Zusammen­schlüssen und Vereinen, beispielsweise in subkulturell
+geprägten Gruppen oder in neonazistischen Kameradschaften. In
+2024 zählten hierzu insgesamt rund 560 Personen (2023: 570).
+
+Dem weitgehend unstrukturierten rechtsextremistischen Perso­          Leichter Anstieg bei
+nenpotenzial werden Szeneangehörige zugeordnet, die keiner            unstrukturiertem
+Partei oder Organisation (mehr) zugerechnet werden können.            Personenpotenzial
+Hierzu zählen beispielsweise Personen, die rechtsextremis­
+tische Straf- und Gewalttaten begangen haben oder rechtsex­
+tremistische Aktivitäten im Internet verfolgen sowie subkulturell
+geprägte Einzelpersonen. Diesem Personenpotenzial werden in
+Bayern etwa 1.380 Personen (2023: 1.310) zugerechnet. Dabei
+geht insbesondere das im Internet aktive unstrukturierte Per­
+sonenpotenzial weit über das bekannte partei- und organisa­
+tionsgebundene rechtsextremistische Spektrum hinaus und ist
+zahlen­mäßigen Schwankungen unterworfen.
+
+Das Internet wird von rechtsextremistischen Einzelpersonen
+dazu genutzt, extremistische Inhalte zu verbreiten, um ihre ver­
+fassungsfeindlichen Ziele zu verwirklichen. Sie wollen ein Klima
+von Misstrauen und Hass gegenüber Flüchtlingen und Anders­
+denkenden, aber auch gegenüber etablierten Medien, staat­lichen
+Einrichtungen und dem demokratischen Prozess schaffen. Soziale
+Medien bieten diesen Einzelpersonen niedrigschwellige Möglich­
+keiten, in virtuellen Räumen verfassungsfeindliche Propa­ganda
+zu betreiben, sich zu vernetzen und Aktionen zu planen, die im
+äußersten Fall zur Begehung von schweren Straftaten in der
+Real­welt, wie Angriffen gegen Repräsentanten des Staates und
+der Politik, führen können.
+
+
+
+
+                                                                                      145
+Verfassungsschutzbericht Bayern 2024                              Rechtsextremismus
+
+
+                       2. GEWALTPOTENZIAL
+Gewaltkult             Fremdenfeindlichkeit und Rassismus, verbunden mit Hass und
+                       Ablehnung von Demokratie und pluralistischer Gesellschaft,
+                       bilden den Nährboden für rechtsextremistische Gewalttaten.
+                       Die Abwertung und die Entmenschlichung von Menschen und
+                       Menschen­gruppen fördern ein Sinken der Hemmschwelle zur
+                       Gewaltanwendung. Der in Teilen der Szene gepflegte Gewaltkult,
+                       der mit der Verherrlichung von „kriegerisch-soldatischer ­Tugend“
+                       einhergeht, wirkt sich ebenfalls begünstigend auf Gewalt­befür­
+                       wortung und -anwendung aus.
+
+                       Häufig erfolgen rechtsextremistische Gewalttaten aus einer
+                       Situation heraus, in der Angehörige der rechtsextremistischen
+                       Szene – einzeln oder in kleinen Gruppen – auf Personen treffen,
+                       die den typischen rechtsextremistischen Feindbildern entspre­
+                       chen. Allerdings gibt es auch immer wieder Zusammenschlüsse
+                       von Personen, die auf eine geplante Begehung von Gewalttaten
+                       abzielen. Darüber hinaus sind auch rechtsextremistische Gewalt­
+                       taten von Personen bekannt, die zuvor nicht extremistisch in Er­
+                       scheinung getreten sind.
+
+                       Am 23. Juli stach ein 40-jähriger Mann aus München am Bahnhof
+                       in Pasing mehrmals mit einem Küchenmesser auf 2 Passan­ten
+                       ein und verletzte diese dabei teilweise schwer. Bei dem Angriff
+                       auf die beiden Personen soll auch deren südländisches Erschei­
+                       nungsbild eine Rolle gespielt haben. Der Täter wurde noch am
+                       Tatort festgenommen. Dort behauptete er, den Auftrag zu haben,
+                       „Deutschland von Muslimen zu reinigen“. Ein mutmaßlich von
+                       ihm verfasstes „Manifest“ lässt auf ein zutiefst rassis­tisches,
+                       islam­feindliches und auf antisemitischen Verschwörungstheorien
+                       beruhendes Weltbild schließen.
+
+
+
+
+146
+Rechtsextremismus                                    Verfassungsschutzbericht Bayern 2024
+
+
+
+ Rechtsextremistisch motivierte Straf- und
+­Gewalttaten
+Straftaten mit extremistischem Hintergrund aus dem
+­Bereich „Politisch motivierte Kriminalität – rechts“
+
+                                           2022   2023    2024
+
+Politisch motivierte Gewaltdelikte
+
+Tötungsdelikte (auch Versuch)                 1      1        2
+
+Körperverletzungen                           20     44       26
+
+Brand‑ und Sprengstoffdelikte                 1      3        5
+
+Raub                                          0      1        2
+
+Widerstandsdelikte                            1      2        3
+
+Sonstige Gewalttaten                          0      1        1
+
+Gesamt                                       23     52       39
+
+Kriminelle Vereinigung/Terrorismus            2      0        0
+
+Sonstige Straftaten
+
+Sachbeschädigungen                           17     25       12
+
+Propagandadelikte                           505    165      137
+
+Nötigung/Bedrohung                            9      19       7
+
+Volksverhetzung                             190     171     170
+
+Sonstige Straftaten                          41     44       42
+
+Gesamt                                      762    424     368
+
+Straftaten insgesamt                        787     476    407
+
+
+Gewalttaten
+2024 wurden in Bayern 39 rechtsextremistisch motivierte
+Gewalt­delikte verübt (2023: 52). Dabei handelt es sich über­
+wiegend um Körperverletzungsdelikte (26). Von den 39 Ge­
+walttaten waren 30 (2023: 47) fremdenfeindlich motiviert. Bei
+2 der Gewalt­delikte lag eine antisemitische Motivation zugrunde
+(2023: 3).
+
+Insgesamt konnten 31 Gewalttaten aufgeklärt werden, dabei
+wurden insgesamt 36 männliche Tatverdächtige ermittelt.
+
+
+
+
+                                                                                    147
+Verfassungsschutzbericht Bayern 2024                              Rechtsextremismus
+
+
+                       Sonstige Straftaten
+                       In Bayern wurden für 2024 insgesamt 368 (2023: 424) sonstige
+                       rechtsextremistische Straftaten (ohne Gewalttaten) gezählt. Davon
+                       waren 235 fremdenfeindlich (2023: 244) und 104 antisemi­tisch
+                       motiviert (2023: 118). In den meisten Fällen handelte es sich um
+                       Propagandadelikte (2024: 137, 2023: 165), aber auch um Volksver­
+                       hetzung (2024: 170, 2023: 171) und Sachbeschädigungen (2024:
+                       12, 2023: 25).
+
+                       Volksverhetzungsdelikte richteten sich insbesondere gegen
+                       Migranten, vermeintlich „ausländisch“ aussehende Bürger sowie
+                       gegen Menschen jüdischen Glaubens.
+
+
+                       3. STAATLICHE MASSNAHMEN
+
+                       3.1 Lagebild „Rechtsextremisten,
+                            ­‚Reichsbürger‘ und ‚Selbstverwalter‘,
+                           ­Verfassungsschutzrelevante Delegitimie-
+                             rung des Staates in Sicherheitsbehörden“
+                       Das Bundesamt für Verfassungsschutz hat am 1. Juli den dritten
+                       bundesweiten Lagebericht Rechtsextremisten in Sicherheits­
+                       behörden veröffentlicht. Dieser umfasst nun neben Rechtsex­
+                       tremisten, „Reichsbürgern“ und „Selbstverwaltern“ auch den
+                       Phänomenbereich der „Verfassungsschutzrelevanten Delegiti­
+                       mierung des Staates“.
+
+                       Besonders im Fokus stehen Verstöße gegen die Treuepflicht
+                       gegenüber der freiheitlichen demokratischen Grundordnung,
+                       gegen die Pflicht zur politischen Mäßigung und gegen die allge­
+                       meine Wohlverhaltenspflicht sowie vergleichbare Pflichtver­
+                       letzungen im Dienst- bzw. Arbeitsverhältnis.
+
+                       Für den Erhebungszeitraum vom 1. Juli 2021 bis zum 31. Dezem­
+                       ber 2022 wurden in Bayern 31 Verdachtsfälle (bei rund 45.000
+                       Beschäftigten in bayerischen Sicherheitsbehörden) erhoben, bei
+                       denen disziplinarrechtliche oder arbeitsrechtliche Maßnahmen
+                       bereits eingeleitet wurden und der Verdacht auf rechtsextremis­
+                       tische Verhaltensweisen besteht. Von den damit verbundenen
+                       Disziplinar- und arbeitsrechtlichen Verfahren wurden bis zum
+                       Stichtag 7 Verfahren eingestellt oder beendet. Dabei kam es zu
+                       folgenden disziplinarischen und arbeitsrechtlichen Maßnahmen:
+                       Verweis, Geldbuße und Abmahnung.
+
+
+
+148
+Rechtsextremismus                                     Verfassungsschutzbericht Bayern 2024
+
+
+
+3.2 Prävention
+Grundlage der Beschäftigung im öffentlichen Dienst ist ein klares
+Bekenntnis zur freiheitlichen demokratischen Grundordnung,
+­deren Werte auf allen Ebenen von der Einstellung bis zum Ruhe­
+ stand, u. a. im Rahmen von Fortbildungen, vermittelt werden
+ und im Dienstbetrieb gelebt werden müssen.
+
+Hinsichtlich der Bearbeitung von Verdachtsfällen im öffentlichen
+Dienst wurde in bayerischen Sicherheitsbehörden ein umfang­
+reiches Maßnahmenpaket geschnürt. Dies enthält zum einen
+die Präventionsarbeit mit Fokus auf Aufklärung und Vorbeugung,
+zum anderen umfasst es die Detektion über Informationsge­
+winnung und Früherkennung von Radikalisierungsverläufen.
+Das Bayerische Landesamt für Verfassungsschutz wirkt auf
+unterschiedlichen Ebenen an den Maßnahmen zur Erkennung
+extremis­tischer Verhaltensweisen mit und stimmt diese mit den
+beteiligten Behörden ab.
+
+Sowohl Angehörige der Bayerischen Informationsstelle gegen            Fortbildungsange­
+Extremismus (BIGE) als auch Expertinnen und Experten des              bote von BIGE und
+Bayerischen Landesamts für Verfassungsschutz sind in die              BayLfV
+Aus- und Fortbildung bayerischer Polizeikräfte eingebunden.
+Im Rahmen von Vorträgen informieren sie über extremistische
+Bestrebungen, über Aufgaben und Rechtsgrundlagen des
+­Verfassungsschutzes und über die Grundsätze der wehrhaften
+ Demokratie.
+
+Seit dem Frühjahr 2021 erfolgt bei sämtlichen Bewerberinnen           Regelanfrage
+und Bewerbern für die Fachlaufbahn Polizei und Verfassungs­
+schutz mit deren Einverständnis eine Regelanfrage beim Baye­
+rischen Landesamt für Verfassungsschutz. Bestehen aufgrund
+bekannt gewordener Tatsachen nicht auflösbare Zweifel daran,
+dass Bewerberinnen oder Bewerber jederzeit für die freiheitliche
+demokratische Grundordnung eintreten, dürfen die betreffenden
+Personen nicht in den Polizeidienst eingestellt werden.
+
+
+3.3 Bekämpfung von Hass-Postings
+Unter Hass-Postings versteht man verschiedene Formen men­
+schen­verachtender oder beleidigender Äußerungen im Inter­net,
+die sich mit großer Aggressivität gegen Einzelpersonen oder
+bestimmte Menschengruppen und deren Weltanschauungen,
+Werte oder Herkunft richten und z. T. Straftatbestände erfüllen.
+
+
+
+                                                                                     149
+Verfassungsschutzbericht Bayern 2024                              Rechtsextremismus
+
+
+                       Politisch motiviert sind solche Straftaten, wenn in Würdigung der
+                       Umstände der Tat oder der Einstellung der Täter Anhaltspunkte
+                       dafür gegeben sind, dass sich diese wegen tatsächlich vorhan­
+                       denen oder auch nur zugeschriebenen Merkmalen (wie z. B. Reli­
+                       gion, sexuelle Orientierung oder Nationalität) kausal gegen eine
+                       oder mehrere Personen, Gruppen oder Institutionen richten.
+
+Aktionstage gegen      Am 6. Juni fand zum 10. Mal erneut ein bundesweiter Aktions­
+Hasspostings           tag gegen Hasspostings statt. Am 12. November fand zudem
+                       ein weiterer, bundesweiter Aktionstag zur Bekämpfung von anti­
+                       semitischen Hasspostings im Internet statt. Im Zuge dieses
+                       Aktions­tages wurde auch in Bayern (19 Beschuldigte), eine
+                       Reihe von Exekutivmaßnahmen durch die Strafverfolgungs­
+                       behörden vollstreckt. Koordiniert wurde der Aktionstag durch
+                       das Bundeskriminalamt (BKA) als Zentralstelle der Polizei. In 15
+                       Bundesländern fanden Wohnungsdurchsuchungen und Verneh­
+                       mungen statt. Den Beschuldigten werden dem BKA zufolge
+                       Hasskommentare im Internet vorgeworfen, darunter antisemi­
+                       tische Beschimpfungen. Diese beinhalten u. a. die Straftat­
+                       bestände Volksverhetzung, gegen Personen des politischen
+                       Lebens gerichtete Beleidigungen sowie Verwendung von Kenn­
+                       zeichen verfassungswidriger und terroristischer Organisationen.
+
+
+                       3.4 Aktuelle Vereinsverbote
+
+                                   Mit einer Verbotsverfügung vom 16. Juli stellte
+                                   das ­
+                                       Bundesministerium des Innern und für Heimat
+                                   (BMI) fest, dass die „COMPACT-Magazin GmbH“
+                       ­(„COMPACT“) einschließlich ihrer Teilorganisationen als V­ erein
+                        verboten werden soll. „COMPACT“ richte sich gemäß BMI
+                        gegen die verfassungsmäßige Ordnung, zudem präge eine
+                        ­aggressiv-kämpferische Haltung den Charakter des Vereins. In
+                       ihren reichweitenstarken Publikationen und Produkten verbreite
+                       „COMPACT“ u. a. antisemitische, rassistische, minderheitenfeind­
+                       liche, geschichtsrevisionistische und verschwörungs­theoretische
+                       Inhalte. Nach einem Eilantrag beim Bundesverwaltungsgericht
+                       (BVerwG) wurde der Sofortvollzug des Verbotes mit Beschluss
+                       vom 14. August teilweise ausgesetzt. Bis zur Klageentscheidung
+                       des BVerwG im Hauptsacheverfahren kann „COMPACT“ vorerst
+                       weiter veröffentlichen.
+
+
+
+
+150
+Rechtsextremismus                                        Verfassungsschutzbericht Bayern 2024
+
+
+
+4. RECHTSEXTREMISTISCHE THEMEN­
+   FELDER UND AKTIONSFORMEN
+ Im Rechtsextremismus treten die nationalistischen, rassis­tischen,
+ fremdenfeindlichen, antisemitischen und geschichtsrevisionis­
+ tischen Ideologieelemente in unterschiedlichen Ausprägungen
+ auf. Dabei herrscht die Auffassung vor, die Zugehörigkeit zu ­einer
+ Ethnie, Nation oder Rasse entscheide über den Wert e  ­ ines Men­
+schen. Dieses rechtsextremistische Werteverständnis steht in
+­einem fundamentalen Widerspruch zum Grundgesetz, das die
+ Würde des Menschen in den Mittelpunkt stellt.
+
+Angehörige der rechtsextremistischen Szene versuchen, die
+nationalsozialistische Gewaltherrschaft unter Herausstellung
+­angeblich positiver Leistungen zu rechtfertigen, Widerstands­
+ kämpfer gegen das NS-Regime zu diffamieren und die Verbre­
+chen des Dritten Reiches zu verschweigen, zu verharmlosen
+oder sogar zu leugnen (Geschichtsrevisionismus). Zusätzlich
+verun­ glimpfen sie den demokratischen Verfassungsstaat und
+seine Repräsentanten, indem sie beispielsweise Deutschland
+als Marionettenstaat ausländischer, insbesondere US-amerika­
+nischer, Interessen darstellen. Deutsche Politikerinnen und Po­
+litiker diffamieren sie dabei regelmäßig als korrupte Handlanger
+ausländischer Interessen. Die eigene Organisation und ihre Ver­
+treter werden als die alleinigen Garanten für die Wahrung der
+Interessen des deutschen Volkes inszeniert. Demgegenüber dis­
+kreditieren sie ihre politischen Gegner als Verräter, die mit krimi­
+neller Energie systematisch den Interessen der Bevöl­       kerung
+schaden würden. Hinzu kommt die pauschale Überhöhung der
+Interessen der „Volksgemeinschaft“ zu Lasten der Interessen
+und Rechte des Individuums, die zu einer Aushöhlung der Grund­
+rechte führt (völkischer Kollektivismus).
+
+Diese Vorstellungen und Ziele stehen im Widerspruch zu den
+Wertvorstellungen des Grundgesetzes und den Kernelementen
+der freiheitlichen demokratischen Grundordnung.
+
+
+4.1 Rechtsextremistische Themenfelder
+Antisemitismus
+Basierend auf der Arbeitsdefinition der „International Holocaust
+Remembrance Alliance“ (IHRA) orientiert sich die bayerische
+Staatsregierung an folgender Begriffsbestimmung:
+
+
+
+
+                                                                                        151
+Verfassungsschutzbericht Bayern 2024                                 Rechtsextremismus
+
+
+                                 Antisemitismus ist eine bestimmte Wahrneh­
+                                 mung von Juden, die sich als Hass gegenüber
+                                 Juden ausdrücken kann. Der Antisemitismus
+                                 richtet sich in Wort oder Tat gegen jüdische oder
+                                 nicht-jüdische Einzelpersonen und/oder deren
+                                 Eigentum sowie gegen jüdische Gemeinde­
+                                 institutionen oder religiöse Einrichtungen. Darüber
+                                 hinaus kann auch der Staat Israel, der dabei als
+                                 jüdisches Kollektiv verstanden wird, Ziel solcher
+                                 Angriffe sein.
+
+
+Rassistischer          Antisemitismus spielt als Ideologieelement im Rechtsextre­
+Anti­semitismus        mismus eine zentrale Rolle. Dabei kann er in unterschiedlichen
+                       Formen zum Ausdruck kommen. Werden Menschen jüdischen
+                       Glaubens angeblich genetisch bedingte, „unabänderliche“ –
+                       meist negative – Eigenschaften zugeschrieben, wird von rassis­
+                       tischem Antisemitismus gesprochen. Dieser wird vor allem in
+                       neonazistischen Kreisen noch immer propagiert.
+
+Sozialer und           Der soziale und politische Antisemitismus kommt in verschwö­
+poli­tischer Anti­     rungstheoretischen Agitationsmustern zum Ausdruck, die Me­
+semitismus             dien und Politik in den Fängen konspirativer „jüdischer Banker“
+                                        wähnen oder von einer im Geheimen agierenden
+                                        „jüdischen Weltregierung“ ausgehen. Dabei
+                                        werden „die Juden“ als einflussreiche und im
+                                        Hintergrund agierende Gruppe dargestellt, die
+                                        Regierungen, Medien und die Finanzindustrie
+                                        kontrolliere. Menschen jüdischen Glaubens
+                                        werden pauschal für komplexe gesellschaft­
+                                        ­
+                                        liche und politische Probleme verantwortlich
+                                        gemacht, indem ihr angeblicher Einfluss auf
+                                        gesellschaftliche Entwicklungen künstlich über­
+                                        höht wird. So versuchen Angehörige der rechts­
+                                        extremistischen Szene mittels antisemitischer
+                                        Propaganda für breitere Gesellschaftsgruppen
+                                        anschlussfähig zu werden. Beispielhaft hierfür
+                       steht ein Telegram-Beitrag der rechtsextremistischen Gruppie­
+                       rung „Kollektiv Zukunft Schaffen – Heimat Schützen“. Dieser
+                       suggeriert in Bezug auf in Deutschland anstehende Bundes­
+                       tagswahlen, dass unabhängig vom jeweiligen Wahlausgang im
+                       Hinter­grund stets „die Juden“ entscheiden würden.
+
+
+
+
+152
+Rechtsextremismus                                      Verfassungsschutzbericht Bayern 2024
+
+
+
+Innerhalb des gewaltorientierten Rechtsextremismus ist Anti­           Gewaltaufrufe und
+semitismus, insbesondere antisemitische Verschwörungstheo­             Tötungsfantasien
+rien, ein prägendes Element. In entsprechenden Chatgruppen
+werden neben Vorstellungen über eine jüdische Weltverschwö­
+rung auch Gewaltaufrufe und Tötungsfantasien gegen Juden
+verbreitet.
+
+Auch für die neonazistische Kleinstpartei „Der Dritte Weg“             Antizionismus
+(„III. Weg“) bildet ein expliziter Antisemitismus ein prägendes
+Ideologiemerkmal, das sich in ihrer Agitation niederschlägt. Die
+Leugnung des Holocausts, wie auch die Behauptung, die Erinne­
+rung an den Massenmord an Menschen jüdischen Glaubens
+sei nur eine Strategie zur Schwächung der nationalen Identität,
+stellen eine weitere, als sekundärer Antisemitismus bezeichnete
+Form von Judenfeindlichkeit dar. Darüber hinaus kann Antisemi­
+tismus im Gewand des Antizionismus auftreten. Dabei nutzen
+Extremisten die im politischen und gesellschaftlichen Alltag ge­
+äußerte Kritik an der Politik Israels, um die Existenzberechtigung
+des Staates Israel infrage zu stellen.
+
+Antisemitismus kann demnach unterschiedliche Ausprägungen              Antijüdische
+annehmen und beschränkt sich nicht auf offenen Hass und Ge­            Metaphern und
+walt gegen Juden. Angehörige der rechtsextremistischen Szene           Bildsprache
+sprechen beispielsweise häufig zwar nicht direkt von „den Juden“,
+sondern nutzen Chiffren und Metaphern, um den antisemi­
+tischen Kern ihrer Propaganda zu verschleiern. Beispiele hierfür
+sind Verweise auf die „amerikanische Ostküste“, eine „zionis­
+tische Lobby“ oder eine „Hochfinanz“, die als Verantwortliche
+für geheime Machenschaften genannt werden. So wird dem
+US-amerikanisch-ungarischen Milliardär jüdischen Glaubens
+George Soros in antisemitischen Verschwörungstheorien unter­
+stellt, als Kopf einer „jüdischen Finanzelite“ u. a. gezielt die
+Massen­einwanderung nach Europa zu befördern. Auch werden
+negativ besetzte Bilder, die Juden als „Marionettenspieler“ oder
+„Spinnen“ zeigen, für antisemitische Agitation eingesetzt. Diese
+bereits im Nationalsozialismus verwendete Bildsprache soll die
+angebliche Verschwörung von Menschen jüdischen Glaubens
+zum Erreichen der Weltherrschaft verdeutlichen. Die alte Ver­
+schwörungstheorie einer „jüdischen Weltherrschaft“ wird dabei
+immer weitergesponnen, regelmäßig erneuert und um zeitge­
+nössische und regionale Elemente ergänzt.
+
+
+
+
+                                                                                       153
+Verfassungsschutzbericht Bayern 2024                              Rechtsextremismus
+
+
+Reaktion auf Nahost­   Der am 7. Oktober 2023 durch den Überfall der islamistischen
+konflikt               Terrororganisation HAMAS ausgelöste Einmarsch israelischer
+                       Streitkräfte in den Gazastreifen bietet dem Antisemitismus eine
+                       neue Projektionsfläche. Die rechtsextremistische Szene nimmt
+                       bei diesem Thema fast geschlossen eine israelfeindliche Position
+                       ein. Teilweise wird der aktuelle Nahostkonflikt mit der rechtsex­
+                       tremistischen Verschwörungstheorie des „Großen Austausches“
+                       verbunden. Im Kontext des israelischen Militäreinsatzes gegen die
+                       HAMAS wird dieses Narrativ antisemitisch aufgeladen und den
+                       „Juden“ sowohl die Schuld am Krieg, als auch an den angeblich
+                       hieraus resultierenden Migrationsbewegungen zugeschrieben.
+
+                       Agitation und Gewalt gegen Asylsuchende
+                       Das rassistische Weltbild der rechtsextremistischen Szene und
+                       ihr Nationalismus machen Asylsuchende zu einem klassischen
+                       Feindbild. Angesichts der weiterhin hohen Zahl von Asylanträgen
+                       nimmt der Themenkomplex „Asyl und Migration“ in der Agita­tion
+                       großen Raum ein. In diesem Zusammenhang kam es 2024 auch
+                       in Bayern zu rechtsextremistisch motivierten Straf­taten g
+                                                                                ­ egen
+                       Asylunterkünfte. Insgesamt waren 9 rechtsextremistische Über­
+                       griffe auf Liegenschaften zur Unterbringung von Flüchtlingen zu
+                       verzeichnen (2023: 17), darunter 1 Propagandadelikt, 2 Sachbe­
+                       schädigungen und 2 Volksverhetzungen.
+
+                       Am 23. Juni beging ein Rechtsextremist eine schwere Brandstif­
+                       tung in einer Asylbewerberunterkunft in Krumbach (Schwaben).
+                       Im Vorfeld der Brandstiftung hatte er sich bereits mehrfach über
+                       die Lärmbelästigung durch die Bewohner der Unterkunft be­
+                       schwert. Die Brandlegung hatte Sachschäden zur Folge, Perso­
+                       nen wurden nicht verletzt. Der mutmaßliche Täter veröffentlichte
+                       im Nachgang Videos, auf denen u. a. die Rauchentwicklung zu
+                       sehen ist.
+
+                       Überdies konnten weitere Angriffe auf Asylbewerberunterkünfte
+                       in Form von Sachbeschädigungsdelikten festgestellt werden, so
+                       beispielsweise das Einwerfen eines Fensters oder das Anbringen
+                       von extremistischen Parolen und Schmierereien an Unterkünften.
+
+                       Weiterhin wurden Drohschreiben bekannt, die an amtliche Stellen
+                       oder Personen adressiert waren, welche u. a. im direkten Bezug
+                       zum Bau von Asylunterkünften stehen. Derartige Schreiben,
+                       beispiels­
+                                weise an eine Mitarbeiterin im Münchner Rathaus,
+                       enthielten persönliche Anfeindungen und richteten sich konkret auf
+                       das Vorhaben der Stadt, Asylunterkünfte zu errichten. ­Weitere
+                       Schreiben wurden bekannt, in denen auch Kennzeichen ver­
+                       fassungswidriger und terroristischer Organisationen abgebildet
+                       waren. So erhielt der Leiter einer Flüchtlingshilfe in Deggendorf
+
+154
+Rechtsextremismus                                        Verfassungsschutzbericht Bayern 2024
+
+
+
+einen mit Hakenkreuz versehenen anonymen Brief, in dem ihm
+u. a. mit dem Niederbrennen der Einrichtung sowie dem eigenen
+Tod gedroht wurde.
+
+Rechtsextremisten versuchen systematisch, eine Ablehnung
+gegenüber Flüchtlingen sowie deren Unterbringung anzufachen.
+Dabei werden oftmals tatsächliche oder angebliche Straftaten
+von Flüchtlingen oder Personen mit Migrationshintergrund im
+Rahmen der Agitation aufgegriffen. Am 21. Oktober berichtete
+der „III. Weg“ auf seiner Internetseite über eine Flugblattvertei­
+lung gegen die Errichtung einer Flüchtlingsunterkunft im Münchner
+Stadtteil Allach. Auf einem dort veröffentlichten Bild zeigen Partei­
+aktivisten ein Transparent mit dem Logo des „III. Weg“ und der
+Aufschrift „Deutscher Sozialismus“.
+
+Zudem beteiligten sich Rechtsextremisten an nichtextremis­
+tischen Protesten gegen geplante Unterkünfte für Asylbewer­
+ber. Am 8. Juni, 20. Juli und 17. August mischten sich der baye­
+rische Landes­vorsitzende der rechtsextremistischen Partei „Die
+Heimat“ (vormals NPD) sowie Aktivisten von „Die Heimat“ bei
+Kundgebungen gegen die Unterbringung von Flüchtlingen in
+Stein bei Nürnberg unter die Teilnehmer. Auf Plakaten wurde
+zwar auf die Symbolik der Partei „Die Heimat“ verzichtet, aber
+der Slogan „Remigration jetzt!“ gezeigt.
+
+Im Rahmen von Aktionen und Kampagnen gegen Asylunter­                    „Volkstod“ und
+künfte und eine angebliche Überfremdung greift die rechtsex­             „Großer Austausch“
+tremistische Szene neben der „Volkstod“-These auch die Ver­
+schwörungstheorie des „Großen Austausches“ auf. Dieses dem
+„Volkstod“ nahestehende Konzept geht zurück auf den franzö­
+sischen Schriftsteller Renaud Camus, der den Begriff mit seinem
+Buch „Revolte gegen den Großen Austausch“ prägte. Auch die
+rechtsextremistische „Identitäre Bewegung Deutschland“ (IBD)
+benutzt ihn für ihre Kampagnen. Die „ethnokulturelle“ Identität
+der europäischen Völker sei demnach durch eine Massenein­
+wanderung kulturfremder Einwanderer bedroht. Diese Bedro­
+hung werde ferner durch die schwachen Geburtenjahrgänge der
+„ethnokulturellen“ Europäer verstärkt. Ein maßgeblicher Faktor
+dieses „Großen Austausches“ sei die angebliche „Islamisierung
+Europas“.
+
+Als Gegenmaßnahme wird häufig eine sog. „Remigration“ gefor­             Forderung nach
+dert. Zwar ist der Begriff „Remigration“ an sich deutungsoffen           „Remigration“
+und kann daher auch in einer verfassungsschutzrechtlich nicht
+relevanten Weise verwendet werden. Wenn unter dem Stich­
+wort „Remigration“ jedoch die Umsetzung eines in der S  ­ ache
+völkisch-abstammungsmäßigen Volkskonzepts angestrebt wird,
+
+                                                                                          155
+Verfassungsschutzbericht Bayern 2024                              Rechtsextremismus
+
+
+                       richtet sich die Forderung gegen die Menschenwürde derer, die
+                       nicht dem jeweils ethnisch definierten Volk angehören. Dies ist
+                       insbesondere dann verfassungsschutzrechtlich relevant, wenn
+                       damit die Ausweisung von deutschen Staatsbürgern gefordert
+                       wird, die bestimmten abstammungsmäßigen Kriterien nicht
+                       entsprechen. Ein solches Remigrationskonzept, das deutsche
+                       Staatsangehörige mit Migrationshintergrund in Teilen als Staats­
+                       bürger zweiter Klasse abwertet, wird insbesondere von der
+                       „Identitären Bewegung“ (IB) und ihrer Führungsfigur Martin
+                       Sellner vertreten.
+
+„Umvolkung“            Sowohl der „Volkstod“-Gedanke als auch die Verschwörungs­
+                       theorie des „Großen Austausches“ decken sich in weiten Tei­
+                       len mit der häufig artikulierten Losung der „Umvolkung“. Der
+                       Begriff „Umvolkung“ entstammt ursprünglich dem national­
+                       sozialistischen Sprachgebrauch und steht für das Programm, das
+                       auf „Germanisierungsmaßnahmen“ und die räumliche Trennung
+                       von ethnischen Gruppen bzw. deren Auslöschung abzielte. Er
+                       wird von Angehörigen der rechtsextremistischen Szene benutzt,
+                       um gegen die behauptete Verdrängung von „Deutschen“ durch
+                       „Nicht-Deutsche“ in Deutschland zu agitieren.
+
+                       In sozialen Netzwerken wird asylfeindliche und rassistische Hetze
+                       auch von Personen verbreitet, die nicht in rechtsextremistischen
+                       Strukturen organisiert sind. Thematischer Ausgangspunkt der
+                       meisten rechtsextremistischen Beiträge zum Thema Asyl sind
+                       dabei Straftaten, die tatsächlich oder mutmaßlich durch Asylbe­
+                       werber begangen wurden. Die Beiträge, Kommentare und Dis­
+                       kussionen, die sich hierbei entspinnen, werden häufig aggressiv
+                       geführt und sind geprägt durch sog. „Hass-Postings“, bewusst
+                       verbreitete Falschmeldungen sowie Protest- und Gewaltaufrufe.
+                       In diesem Zusammenhang werden auch der deutsche Staat und
+                       seine Exekutivorgane diffamiert. Dabei wird versucht, das Bild
+                       eines permanent versagenden Rechtsstaates zu vermitteln.
+
+                       Die den Sicherheitsbehörden der Bundesländer vorliegenden Er­
+                       kenntnisse ergaben bislang keine Anhaltspunkte für eine zentrale
+                       Steuerung von Gewalttaten oder eine regionale oder überregio­
+                       nale Koordinierung von Straftaten durch rechtsextremistische
+                       Gruppierungen oder Einzelpersonen. Es zeigt sich, dass Straftaten
+                       nicht allein von gewaltorientierten Szeneangehörigen ­begangen
+                       werden, sondern auch von Personen, die zuvor nicht in rechtsex­
+                       tremistischen Strukturen aktiv waren. Dies ist ein weiterer Beleg
+                       dafür, dass rechtsextremistische und fremdenfeindliche Agitation
+                       in nichtextremistische Milieus hineinwirken kann. Bei der Mehr­
+                       zahl der Straftaten gegen Flüchtlingsunterkünfte handelte es sich
+                       um Sachbeschädigungen.
+
+156
+Rechtsextremismus                                      Verfassungsschutzbericht Bayern 2024
+
+
+
+ Islamfeindlichkeit
+ Rechtsextremistische Islamfeindlichkeit ist eine moderne Form
+ der Fremdenfeindlichkeit. Angehörige der rechtsextremistischen
+ Szene verknüpfen dabei häufig auch die Agitation gegen Asyl­
+ suchende mit der Agitation gegen den Islam. Die Ablehnung von
+ Menschen muslimischen Glaubens basiert auf dem rassistischen
+ „Volksgemeinschafts“-Gedanken: Demzufolge gehören Muslime
+einer „raumfremden“ Religion an und werden als „    ­ undeutsch“
+abgelehnt. Angehörige der rechtsextremistischen Szene beteiligen
+sich beispielsweise an Diskussionen um den Bau von Moscheen,
+versuchen dort, das Wort zu ergreifen und die Veranstaltungen
+als Plattform für ihre Agitation zu nutzen. Muslime werden dabei
+pauschal als Bedrohung der Inneren Sicherheit dargestellt,
+­einzelne Attentate der gesamten muslimischen Community als
+ wesens­immanent zur Last gelegt und der Islam mit Islamismus
+ gleich­gesetzt.
+
+Die IB beschwört in ihrer politischen Agitation die Gefahr einer       „Reconquista“
+„Islamisierung Europas“, die die Folge von Migrationsbewegun­
+gen aus muslimisch geprägten Staaten sei und die „ethnokultu­
+relle Identität“ der europäischen Völker bedrohe. Hierzu verfolgt
+die IB als Leitstrategie die „Reconquista“. „Reconquista“ meint im
+historischen Kontext die Ausweitung des Herrschaftsbereichs
+des Christentums unter Zurückdrängung des musli­          mischen
+Machtbereiches auf der Iberischen Halbinsel ab dem frühen
+Mittel­alter. In der extremistischen Neuen Rechten wird der Be­
+griff umgedeutet und im Sinne der Zurückdrängung des Islam
+aus Europa verwendet. Das westliche Abendland soll gleichsam
+von Muslimen und anderen Gruppen, die nicht dem eigenen
+ethnokulturellen Volksverständnis entsprechen, „zurückerobert“
+werden. Das Festhalten an der Leitstrategie „Reconquista“,
+an deren Ende die Rückeroberung Europas, mit ethnisch und
+kulturell homogenen Staaten steht, zeigt sich abermals an der
+Namens­wahl der bayerischen IB-Gruppierung „Reconquista 21“.
+
+Auch Teile der Partei Alternative für Deutschland (AfD) verbrei­
+teten Äußerungen über Menschen muslimischen Glaubens, die
+sich gegen deren Menschenwürde richten. So veröffentlichte
+der AfD-Kreisverband Aichach-Friedberg am 13. Januar auf
+­Facebook ein Bild, das ein auf einer Bank sitzendes Mädchen mit
+ ängstlichem Gesichtsausdruck zeigt, hinter dem eine Gruppe von
+ lachenden vollbärtigen Männern mit Turban steht. Das Bild trägt
+ den Schriftzug „Unsere Enkel werden uns das nie verzeihen“. Die
+ Aufnahme stellt Migranten muslimischen Glaubens pauschal als
+ Bedrohung insbesondere für Mädchen und junge Frauen dar.
+
+
+
+
+                                                                                       157
+Verfassungsschutzbericht Bayern 2024                                Rechtsextremismus
+
+
+
+
+                       Antiziganismus
+                       Der Antiziganismus, also die Agitation bzw. Feindschaft gegen
+                       Sinti und Roma, ist ein fester Bestandteil rechtsextremistischer
+                       und rassistischer Ideologie. Diese Feindschaft äußert sich in der
+                       rechtsextremistischen Szene in Bayern in der Regel nur anlass­
+                       bezogen und führt dabei auch zu konkreten Aktionen. Sie spielt
+                       im Verhältnis zur sonstigen verfassungsfeindlichen Agitation je­
+                       doch nur eine untergeordnete Rolle.
+
+                       Orientierung am Nationalsozialismus
+10-Punkte-             Neonazistische Akteure versuchen an ihre historischen Vorbilder
+Programm des           aus der Zeit des Nationalsozialismus anzuknüpfen. Besonders
+„III. Weg“             deutlich ist dies bei der neonazistischen Partei „III. Weg“. Sie hat
+Konzept des „Deut­     ihre politischen Zielsetzungen in einem 10-Punkte-Programm
+schen Sozialismus“     niedergelegt, das eindeutige Parallelen zum 25-Punkte-Pro­
+                       gramm der NSDAP aufweist. Beide Programme propagieren eine
+                       auf gemeinsamer Abstammung basierende Volksgemeinschaft
+                       und enthalten u. a. gebietsrevisionistische Forderungen, die auf
+                       die Vereinigung aller „Volksdeutschen“ in einem Staat a­ bzielen.
+                       Noch auffälliger werden die Parallelen zum NSDAP-Programm
+                       am Thesenpapier des „III. Weg“ zum „Deutschen Sozialismus“.
+                       In diesem werden viele arbeits-, wirtschafts- und sozialpolitische
+                       Punkte des NSDAP-Programmes aufgegriffen und an die heu­
+                       tige Zeit angepasst. Der einzelne Mensch wird nur als Teil des
+                       Volkskörpers gesehen, in den er sich einzufügen hat. Das Kon­
+                       zept des „Deutschen Sozialismus“ spielt eine zentrale Rolle in
+                       der Agitation des „III. Weg“.
+
+
+
+
+158
+Rechtsextremismus                                        Verfassungsschutzbericht Bayern 2024
+
+
+
+Neonazistische Gruppen und z. T. auch Akteure aus dem sub­               Erinnerungskultur
+kulturellen Rechtsextremismus pflegen eine Erinnerungskultur,            und „Helden­
+die sich stark an Personen und Ereignissen aus der NS-Zeit               gedenken“
+orientiert. So werden Geburts-, Todes- bzw. Jahrestage von
+wichtigen Personen der NS-Zeit begangen, wie die von Adolf
+Hitler, Rudolf Heß oder Horst Wessel. Bei rechtsextremistischen
+„Heldengedenk“-Aktionen wird ausschließlich der gefallenen
+deutschen Soldaten in den beiden Weltkriegen gedacht, die als
+Helden für Volk und Vaterland dargestellt werden. Dabei werden
+die Angehörigen der Waffen-SS ausdrücklich mit einbezogen.
+So besuchten Aktivisten des „III. Weg“- Stützpunkts München/
+Oberbayern zu Ehren von getöteten Soldaten der Charlemagne-­
+Division der Waffen-SS, am 8. Mai 1945 einen Friedhof in Bad
+Reichenhall. Das „Heldengedenken“ selbst geht ebenfalls auf
+den Nationalsozialismus zurück. Die Nationalsozialisten interpre­
+tierten dabei den zuvor in der Weimarer Republik praktizierten
+Volkstrauertag um, der ursprünglich den Gefallenen des Ersten
+Weltkrieges gewidmet war, und stellten die Heldenverehrung
+anstelle des Totengedenkens in den Mittelpunkt.
+
+Im Mai 2023 hatte der „III. Weg“ ein Aktionswochenende zum
+Gedenken an den 100. Todestag von Albert Leo Schlageter veran­
+staltet, den die Partei als „Märtyrer für Deutschland“ bezeich­nete.
+Der „III. Weg“-Stützpunkt Ostbayern erinnerte an Schlageter als
+„eine[n] der ersten Blutzeugen der Bewegung“. Im August 2024
+ehrte der Stützpunkt Schlageter erneut bei ­einer Aktion in Passau
+mit einer selbst erstellten Gedenktafel. Die Partei schrieb dazu auf
+ihrer Internetseite:
+
+        Schlageter lebt in unseren Herzen fort, der
+        Kampf für die gerechte Sache unseres Volkes
+        wird weitergehen!
+
+
+Queer-Feindlichkeit
+In der rechtsextremistischen Szene lässt sich regelmäßig Homo­
+phobie und allgemein eine grundsätzliche Feindlichkeit gegenüber
+der LGBTQIA+-Community (LGBTQIA+: englisches Kürzel für
+„Lesbian“, „Gay“, „Bisexual“, „Transgender“, „Queer“, „Inter“-
+und „Asexuell“ sowie weitere Geschlechtsidentitäten und sexu­
+elle Orientierungen) feststellen. Meist liegt dieser strikten Ableh­
+nung die im Rechtsextremismus weit verbreitete Idealisierung
+eines tradi­tionellen Familien- und Paarbildes zugrunde.
+
+
+
+
+                                                                                        159
+Verfassungsschutzbericht Bayern 2024                                Rechtsextremismus
+
+
+                       Teilweise sind Homophobie und LGBTQIA+-Feindlichkeit ein
+                       Teilaspekt der „Volkstod-“ bzw. „Umvolkungs-These“. In seinem
+                       10-Punkte-Parteiprogramm fordert die neonazistische Kleinst­
+                       partei „Der Dritte Weg“ („III. Weg“) daher die „konsequente
+                       Förderung kinderreicher Familien zur Abwendung des Volksto­
+                       des“. Die Partei agiert in diesem Sinne auch gegen die gleichge­
+                       schlechtliche Ehe, weil diese laut „III. Weg“ die „volkliche Exis­
+                       tenz der Auflösung“ zuführe:
+
+                                 Innerhalb von Ehe und Familie wird das Staats­
+                                 volk und damit Basis und Zukunft des Staates
+                                 reproduziert, werden Sitte und Brauchtum ge­
+                                 pflegt und vererbt. […] Wer die heterosexuelle
+                                 Ehe ihrer besonderen Stellung beraubt, greift die
+                                 Familie an, greift die elementaren Grundlagen
+                                 von Volk und Staat an.
+
+
+                       Insgesamt ist die Diffamierung von LGBTQIA+-Personen auch
+                       ein propagandistisches Mittel, um gegen die moderne pluralis­
+                       tische Gesellschaft zu agitieren. Der implizierte Versuch,
+                       LGBTQIA+-­Personen pauschal mit Pädophilie und Sexualstraf­
+                       taten in Verbindung zu bringen, kann Übergriffe und Gewalttaten
+                       gegen LGBTQIA+­-Personen und Menschen, die sich öffentlich
+                       mit diesen solidarisieren, fördern.
+
+Kampagne               Erneut agitierten im Juni zahlreiche rechtsextremistische Szene­
+„Stolzmonat“           akteure in den sozialen Medien gegen den sog. „Pride Month“
+                       der LGBTQIA+-Community. Teilweise wurde dabei Bezug auf
+                       die sog. „Stolzmonat“-Kampagne genommen. Diese erstmals
+                       im Jahr 2023 durch ­verschiedene Rechtsextremisten initiierte
+                       Kampagne stellt eine Gegenbewegung zu dem weltweit im Juni
+                       gefeierten „Pride Month“ dar. Auch unabhängig vom „
+                       ­                                                         ­Pride
+                       Month“ war szeneseitige Agitation g      ­egen die LGBTQIA+-­
+                       Community festzustellen. Beispiels­weise veröffentlichten Ange­
+                       hörige der rechtsextremistischen Gruppierung „Jung & Stark
+                       Bayern“ (JS) ein Video auf Instagram, in dem 2 Personen eine
+                       Regenbogen­flagge anzünden.
+
+
+
+
+160
+Rechtsextremismus                                     Verfassungsschutzbericht Bayern 2024
+
+
+
+
+2024 sind bundesweit verstärkt auch rechtsextremistische Grup­
+pierungen aufgefallen, die sich an Störaktionen oder Kundgebun­
+gen gegen Veranstaltungen zum Christopher Street Day (CSD)
+beteiligt haben oder diese organisierten. In diesem Zusammen­
+hang organisierte am 28. September „Jung & Stark“ („JS“) eine
+Gegendemonstration zum CSD in Landshut. Die Veranstaltung
+zeigt, dass die LGBTQIA+-Community für die rechtsextremis­
+tische Szene weiterhin ein starkes Feindbild darstellt.
+
+Frauenhass in der Incel-Subkultur
+Rechtsextremistische Versatzstücke finden sich auch in der sub­
+kulturellen „Incel“-Szene. Der englische Begriff „InceI“ (Koffer­
+wort aus „involuntary“ und „celibacy“, deutsch: „unfreiwilliges
+Zölibat“) ist die Selbstbezeichnung einer überwiegend aus weißen
+heterosexuellen Männern bestehenden Internetsubkultur, die
+eigenen Angaben zufolge unter einer „vom System“ aufgezwun­
+genen sexuellen Enthaltsamkeit leiden. Bei „Incels“ handelt es
+sich u. a. um anonym auftretende Personen, die häufig realwelt­
+lich zurückgezogen leben.
+
+Die Szene ist geprägt durch Hass auf Frauen (die abwertend als        Mixtur aus Frauen­
+„Femoids“ bezeichnet werden), Gewaltfantasien gegenüber               hass, Sexismus,
+Frauen, Selbstmitleid sowie sexistische und rassistische Einstel­     Antisemitismus und
+lungen. Angehörige der „Incel“-Szene sind der Ansicht, Männer         Rassismus
+hätten ein „naturgegebenes Recht auf Sex“ mit Frauen, das es
+einzufordern gelte.
+
+
+
+                                                                                        161
+Verfassungsschutzbericht Bayern 2024                                Rechtsextremismus
+
+
+Minderwertigkeits­     Das Selbstbild der Mitglieder innerhalb dieser Subkultur ist ­primär
+komplexe               von starken Minderwertigkeitskomplexen geprägt. Diese resultie­
+                       ren insbesondere aus der Unfähigkeit dieser Männer, Beziehungen
+                       zu Frauen aufzubauen. Für ihre Situation machen „Incels“ vor
+                       allem Frauen, aber auch Politik und Gesellschaft verantwort­
+                       lich. Als Ursache für ihre unfreiwillige Enthaltsamkeit erachten
+                       die „InceI“-Anhänger vor allem den Feminismus, der Frauen
+                       eine freie Partnerwahl und selbstbestimmte Lebensgestaltung
+                       ­ermögliche. In diesem Zusammenhang beziehen sich „Incels“
+                        häufig auch auf antisemitische oder rassistische Ideo­logeme.
+                        So werfen sie Frauen u. a. vor, sich bei ihrer Partnerwahl über­
+                       wiegend auf die äußere Erscheinung und den sozialen Status
+                       eines Mannes zu fokussieren. Da sie sich durch diese angeb­
+                       liche „Selektion“ um ihre Rechte betrogen wähnen, sprechen
+                       „Incels“ Frauen das Recht ab, ihre Sexualpartner frei zu wählen.
+                       Stattdessen plädieren sie für eine staatlich geregelte Zuteilung
+                       von Frauen, die sie als biologisch gesteuerte Objekte betrachten.
+
+                        Auch der szeneinterne Umgang in „Incel“-Foren ist von Gewalt­
+                       darstellungen und Hassfantasien geprägt. So werden Frauen in
+                       herabwürdigender und entmenschlichender Weise dargestellt
+                       und verächtlich gemacht. Aber auch untereinander praktizieren
+                       „Incels“ eine wechselseitige Selbstabwertung, welche sich
+                       ­zumeist in zynischer Weise auf das Aussehen bzw. den jewei­
+                        ligen Phänotyp bezieht.
+
+Gewaltfantasien        All diese szeneinternen Abwertungsdynamiken machen „Incels“
+mit rechtsextremis­    auch empfänglich für rechtsextremistische Ideologien – insbe­
+tischen Bezügen        sondere solche, die Gewalt als Mittel zur Veränderung gesell­
+                       schaftlicher Verhältnisse propagieren. Für Teile der Subkultur
+                       hat die rechtsextremistische Verschwörungstheorie des „Bevöl­
+                       kerungsaustauschs“ eine gesteigerte Relevanz, denn aus ihrer
+                       Sicht liegt in der Migration gutaussehender Männer eine Ursache
+                       dafür, selbst keine Frau zu finden. Besonderes Feindbild sind
+                       daher attraktive interethnische Paare, vor allem dann, wenn die
+                       Frau der „eigenen“ Kategorie (in der Regel „weiß“) zugeordnet
+                       wird.
+
+                       Bei der „Incel“-Szene handelt es sich in ihrer Gesamtheit nicht
+                       um ein Beobachtungsobjekt des Bayerischen Landesamts für
+                       Verfassungsschutz. Beobachtet werden aber Einzelpersonen,
+                       die sich im Zusammenhang mit der „Incel“-Ideologie verfas­
+                       sungsschutzrelevant betätigen. Das ist dann der Fall, wenn die
+                       Frauenfeindlichkeit mit rechtsextremistischen Ideologieelemen­
+                       ten verknüpft wird, die Würde der Frau infrage gestellt wird oder
+
+
+
+
+162
+Rechtsextremismus                                       Verfassungsschutzbericht Bayern 2024
+
+
+
+Frauen entmenschlicht werden. Die „Incel“-Bewegung ist in
+Bayern bisher als virtuelles Phänomen durch Einzelpersonen in
+Erscheinung getreten. Daher ist es, wie bei den meisten virtuellen
+Aktivitäten, schwer nachvollziehbar, inwiefern die Aktivitäten tat­
+sächlich auch von Bayern ausgehen.
+
+Das Bayerische Landesamt für Verfassungsschutz geht davon               Radikalisierungs­
+aus, dass die „Incel“-Ideologie die Psyche von Personen destabi­        faktor
+lisieren, eine Radikalisierung verstärken und Gewaltbereitschaft
+begünstigen kann. Zudem stellt die „Incel“-Bewegung einen
+Angriff auf die Menschenwürde sowie den Gleichbehandlungs­
+grundsatz dar. Das Bayerische Landesamt für Verfassungsschutz
+misst der Zurechenbarkeit von Angehörigen der rechtsextremis­
+tischen Szene zur „Incel“-Bewegung oder auch nur Bezügen zu
+dieser eine hohe Bedeutung bei und berücksichtigt diese bei der
+Gesamtbewertung von Extremisten.
+
+Fußball- und Hooliganszene
+Aufgrund der allgemein hohen gesellschaftlichen Relevanz stellt
+auch der bayerische Fußball einen potenziellen Anknüpfungs­
+punkt für die rechtsextremistische Szene dar.
+
+Das Bayerische Landesamt für Verfassungsschutz verfolgt auf­
+merksam potenziell bestehende Verbindungen und Überschnei­
+dungen zwischen der rechtsextremistischen Szene und Fanszenen
+des Fußballs, die auch 2024 wieder festgestellt wurden. Dabei
+stehen Überschneidungen und Wechselbezüge zwischen der
+rechtsextremistischen Szene und dem gewaltbereiten Teil der
+Fußballfanszene besonders im Fokus. Berichte zu Gründungen
+von rechtsextremistischen Fan- bzw. Hooligan-Gruppierungen
+werden durch den Verfassungsschutz genau geprüft. Weder die
+Fußballfanszene, noch die Ultra- und Hooliganszene in Bayern
+als solche sind jedoch Beobachtungsobjekte des Bayerischen
+Landes­amts für Verfassungsschutz.
+
+
+4.2 Rechtsextremistische Aktionsformen
+4.2.1   Kampfsportaktivitäten und Waffenaffinität
+
+Gemeinsame Freizeitaktivitäten erfüllen innerhalb der rechtsextre­
+mistischen Szene mehrere Funktionen: Sie stärken die Gruppen­
+identität und sollen neue Aktivistinnen und Aktivisten anziehen.
+Neben dem Besuch von rechtsextremistischen Konzerten spielen
+dabei auch gemeinsame sportliche Aktivitäten wie Wanderungen
+und insbesondere Kampfsportangebote eine Rolle.
+
+
+                                                                                        163
+Verfassungsschutzbericht Bayern 2024                              Rechtsextremismus
+
+
+                       Kampfsport ist ein wichtiges Element der rechtsextremistischen
+                       Lebenswelt. Rechtsextremistische Kampfsportveranstaltungen
+                       verfügen ähnlich wie Konzerte über einen erheblichen Event­
+                       charakter. Dabei wird der Kampfsport instrumentalisiert, um
+                       über die „klassische“ rechtsextremistische Klientel hinaus auch
+                       Kontakte zu bislang nicht szenenahen, kampfsportbegeisterten
+                       Personen herzustellen und diese an die Ideologie heranzuführen.
+                       Das Thema Kampfsport hat in der rechtsextremistischen Szene
+                       in Bayern und bundesweit in den letzten Jahren merklich an Be­
+                       deutung gewonnen.
+
+                       Mit dem Kampfsport werden szene­typische Ideale wie Wehrhaf­
+                       tigkeit zur Schau gestellt. Darüber hinaus dienen Kampfsporttrai­
+                       nings dazu, sich entsprechende Fähigkeiten anzueignen, um
+                       diese im Ernstfall auch anwenden zu können. In der Regel folgt
+                       das Training zwar zumindest nach außen hin einer betont defen­
+                       siven Ausrichtung, die vorgeblich der Selbstverteidigung in einer
+                       allgemein als bedrohlich dargestellten gesellschaftlichen und po­
+                       litischen Lage dienen soll. Solche Trainings tragen jedoch auch
+                       dazu bei, Personen auf gewalttätige Auseinandersetzungen vor­
+                       zubereiten und eine Bereitschaft zur Anwendung von Gewalt zu
+                       signalisieren.
+
+„Kontrakultur-         Der bayerische Rechtsextremist Patrick Schröder hat einen Fahr­
+Projekt“               plan zu einem sog. „Kontrakultur-Projekt“ in der Szenezeitschrift
+Gründung von           „N.S. Heute“ veröffentlicht. Darin erläutert er die Ausrichtung,
+„Active Clubs“         Zielsetzung und Strategie von „Active Clubs“. Diese sollen vor
+                                  allem der engeren partei- und organisationsübergrei­
+                                 fenden Vernetzung der Szene dienen, weshalb eine
+                                 Mitgliedschaft in einem „Active Club“ mit Aktivitä­
+                                 ten in anderen rechtsextremistischen Bestrebungen
+                                 ­vereinbar sein soll. Die Zielgruppe sind junge Männer,
+                                  die über eine szene-spezifische Ästhetik aus körper­
+                                  licher Fitness, Selbstverbesserung und „weißer Über­
+                                  legenheit“ schleichend radikalisiert und in die Szene
+                                  integriert werden ­sollen. In Bayern haben sich mehrere
+                                  „Active Clubs“ gegründet, die insbesondere online
+                                  in Erscheinung treten. Dazu zählen der „Active Club
+                                  Mainfranken“, der „Active Club Nürnberg“ und der
+                                  „Active Club Nordgau“. Diese Gruppierungen greifen
+                                  bei ihren Online-Beiträgen mitunter auch auf KI-gene­
+                                  rierte Bilder zurück.
+
+
+
+
+164
+Rechtsextremismus                                     Verfassungsschutzbericht Bayern 2024
+
+
+
+Aktivitäten im Bereich Kampfsport sowie eine allgemeine Be­
+schäftigung mit der Thematik können auch im neonazistischen
+Teil der rechtsextremistischen Szene festgestellt werden. Ziel
+der „Nationalrevolutionäre Jugend“ (NRJ), der Jugendorganisa­
+tion der rechtsextremistischen Kleinstpartei „Der Dritte Weg“
+(„III. Weg“), ist es, Jugendliche emotional an sich zu binden.
+Gemeinsame Freizeitaktivitäten, sportliche Aktivitäten und gerade
+auch Kampfsport sollen interessierten Jugendlichen ein vermeint­
+liches Zusammengehörigkeitsgefühl vermitteln und stellen einen
+zentralen Baustein in der Anwerbestrategie der NRJ dar. Damit
+wird insbesondere das in den letzten Jahren gestiegene Interesse
+von Jugendlichen und jungen Erwachsenen an Sport und Fitness
+aufgegriffen.
+
+Auch bei Akteuren der „Neuen Rechten“ wird Kampfsport als
+Teil einer rechtsextremistischen Lebenswelt inszeniert. Die
+„Identitäre Bewegung“ (IB) stellt sich bei Aktivistentreffen
+­häufig als kampfsportaffin dar und veröffentlicht Aufnahmen von
+ Boxtrainings.
+
+Ein besonderes Augenmerk der bayerischen Sicherheitsbe­               Waffenaffinität
+hörden liegt auf der in Teilen der rechtsextremistischen Szene
+verbreiteten Waffenaffinität. Neben dem Erwerb von erlaubnis­
+freien Waffen wie z. B. Messern, Armbrüsten oder Pfeffersprays
+wurden in den vergangenen Jahren immer wieder Fälle bekannt, in
+denen Angehörige der bayerischen rechtsextremistischen Szene
+in die Tschechische Republik fuhren, um dort Schieß­stände, wie
+z. B. den Schießstand JIMI in der Region Cheb/Eger, Gotcha- oder
+Paintballveranstaltungen zu besuchen. Gerade an ausländischen
+Schießständen können rechtsextremistische Szeneangehörige
+oftmals zu geringen Kosten und trotz etwaig bestehender Waffen­
+besitzverbote Schießtrainings mit scharfen Waffen durchführen.
+Dort ist es mitunter auch möglich, in Deutschland verbotene
+kampfmäßige Trainings zu veranstalten und Waffen zu nutzen, die
+in Deutschland dem Kriegswaffen­kontrollgesetz unterliegen.
+
+4.2.2 Internationale Kontakte bayerischer
+      ­Rechtsextrem­isten
+
+Zwischen bayerischen und ausländischen Angehörigen der
+rechtsextremistischen Szene bestehen zahlreiche Kontakte. Ver­
+bindungsleute in den Gruppierungen garantieren die gegensei­
+tige Mobilisierung für internationale Szeneveranstaltungen wie
+Konzerte, Feiern und Großdemonstrationen. Dabei kommt es
+in der Regel zu einer vorübergehenden transnationalen Zusam­
+menarbeit, in Einzelfällen auch zu dauerhaften Kooperationen.
+
+
+                                                                                        165
+Verfassungsschutzbericht Bayern 2024                                Rechtsextremismus
+
+
+                       Die internationalen Kontakte bayerischer Szeneangehöriger ­wirken
+                       – angesichts der szeneintern betriebenen Überhöhung der eigenen
+                       Nation – auf den ersten Blick verwunderlich. Hiermit ist jedoch nicht
+                       automatisch die pauschale Ablehnung einer Zusammen­arbeit mit
+                       gleichgesinnten ausländischen Akteuren verbunden. Dort, wo es
+                       ideologische Anknüpfungspunkte gibt, findet Zusammenarbeit
+                       statt: Ideologisch verbindende Elemente sind beispielsweise der
+                       Kampf für einen sozialen Nationalismus nach dem Vorbild des
+                       NS-Regimes, der Hass auf Flüchtlinge und die Ablehnung der
+                       Europäischen Union.
+
+„Tag der Ehre“         Am 10. und 11. Februar fand im Raum Budapest (Ungarn) die
+in Ungarn              Veranstaltung „Ausbruch 60“ statt. Mit dieser Veranstaltung
+                       wollen ungarische Rechtsextremisten anlässlich des sog. „Ta­
+                       ges der Ehre“ gemeinsam mit zahlreichen internationalen Teil­
+                       nehmern der „Schlacht um Budapest“ im Zweiten Weltkrieg
+                       gedenken. Unter den Teilnehmern befinden sich regelmäßig
+                       auch deutsche Angehörige der neonazistischen und subkultu­
+                       rellen rechtsextremistischen Szene. Höhepunkt ist ein Marsch
+                       von bis zu 60 Kilometern, der an den Ausbruch von ungarischen
+                       und deutschen Soldaten aus dem von der Roten Armee bela­
+                       gerten Budapest e ­ rinnern soll. Aus Bayern nahmen am dies­
+                       jährigen „Ausbruch 60“ einzelne Aktivisten der neonazistischen
+                       Kleinstpartei „Der Dritte Weg“ („III. Weg“) teil. Zuvor hatte An­
+                                         fang Februar im ­Bürger- und Parteibüro des
+                                         „III. Weg“ in Schweinfurt eine interne Veran­
+                                         staltung stattgefunden, bei der auch über den
+                                         historischen Hintergrund des „Ausbruchs“ im
+                                         Februar 1945 informiert und Hinweise für die
+                                         Teilnahme gegeben wurden. Überdies unter­
+                                         hält der „III. Weg“ Verbindungen zur italie­
+                                         nischen neofaschistischen Bewegung „Casa
+                                         Pound“. Im Juli nahm ein Angehöriger von
+                                         „Casa Pound“ an einem Ausflug von Aktivis­
+                                         ten des „III. Weg“ in Oberbayern teil.
+
+                                          Bei einer rechtsextremistischen Demonstra­
+                                          tion des „Comitée du 9 mai“ am 11. Mai in
+                                          Paris nahmen auch Personen aus Bayern teil.
+                                          Hier kam es auch zu einem Treffen mehrerer
+                                          „Active Club“-Gruppierungen aus Europa (vgl.
+                                          4.2.1).
+
+                                          Am 20. Juli beteiligten sich bayerische Akti­
+                                          visten der Identitären Bewegung (IB) an einer
+                                          IB-Demonstration in Wien.
+
+
+166
+Rechtsextremismus                                     Verfassungsschutzbericht Bayern 2024
+
+
+
+5. ONLINE-AKTIVISMUS
+Rechtsextremistische Gruppierungen und Akteure nutzen in
+hohem Maße die Möglichkeiten der digitalen Kommunikation.
+Zu ihren Zielen gehört es dabei, Szeneangehörige und Sympa­
+thisanten aufzuwiegeln und mit ihren Inhalten möglichst hohe
+Reichweiten über das eigene Milieu hinaus zu erzielen, um
+Einfluss auf den öffentlichen Diskurs zu nehmen. Zudem sind
+Rechtsextremisten bestrebt, sich im Internet miteinander zu
+vernetzen. Dies trifft nicht nur auf Akteure zu, die auch in der
+Realwelt Szenekontakte pflegen. Während dabei in der Vergan­
+genheit der Einstieg in die rechtsextremistische Szene häufig
+über Musik, Konzertbesuche und kameradschaftliche Struktu­
+ren e
+    ­ rfolgte, sind mittlerweile vermehrt Personen festzustellen,
+deren Radikalisierung und Vernetzung mit anderen Rechtsextre­
+misten ausschließlich online stattfindet.
+
+
+5.1 Nutzung unterschiedlicher Plattformen und
+    Formate
+Rechtsextremisten nutzen im Internet neben klassischen Internet­
+seiten und Onlineblogs auch zahlreiche bekannte Messenger­
+dienste (z. B. WhatsApp und Threema), Videoplattformen (z. B.
+Youtube) und soziale Netzwerke (z. B. Facebook, X, Instagram
+und TikTok).
+
+Verschiedene staatliche und regulatorische Maßnahmen richten
+sich gegen das Wirken von Extremisten im Internet. Das am
+30. Juni 2017 erstmalig verabschiedete „Gesetz zur Verbesse­
+rung der Rechtsdurchsetzung in sozialen Netzwerken“ (Netz­
+werkdurchsetzungsgesetz – NetzDG) wurde 2024 durch die
+Verordnung (EU) 20222/2065 (sog. Digital-Services-Act, DSA)
+und das diese ergänzende Digitale-Dienste-Gesetz (DDG) weit­
+gehend abgelöst, vgl. S. 29.
+
+Vor diesem Hintergrund suchen Angehörige der rechtsextremis­          Abwanderung zu
+tischen Szene stets nach alternativen Plattformlösungen und           „Telegram“ und
+neuen Onlineformaten, um strafrechtlichen Konsequenzen und            „vk.com“
+der Löschung oder Sperrung eigener Auftritte durch die Platt­
+formbetreiber zu entgehen sowie ihre extremistischen Botschaf­
+ten effektiv zu streuen. Hierzu werden alternative Angebote wie
+vk.com, GETTR und Telegram, für Livestreams auch DLive und
+BitChute als Ersatz- oder Ausweichplattformen genutzt.
+
+
+
+
+                                                                                       167
+Verfassungsschutzbericht Bayern 2024                               Rechtsextremismus
+
+
+                       Vor allem der Messengerdienst Telegram gewann innerhalb der
+                       rechtsextremistischen Szene im Zuge der Corona-Pandemie
+                       an Bedeutung. Der Austausch auf Telegram wird seitens des
+                       Messengerdienstes weiterhin kaum kontrolliert, so dass ver­
+                       fassungsfeindliche Agitation i. d. R. nicht zu einer Sperrung oder
+                       Löschung von Accounts führt. Die geringe Regulierung auf Tele­
+                       gram hat entscheidend zur Etablierung des Messengerdienstes
+                       als zentrale Ausweichplattform der rechtsextremistischen Szene
+                       beigetragen.
+
+Nutzung von            Neben sozialen Netzwerken spielen auch „Imageboards“ (z. B.
+„Imageboards“          8kun) eine wichtige Rolle. Diese Plattformen sind grundsätzlich
+                       nicht als extremistisch zu bewerten, werden aber von einzelnen
+                       Nutzern bzw. Nutzergruppen für extremistische Zwecke heran­
+                       gezogen. So werden Botschaften u. a. in Form von Memes ver­
+                       breitet. Diese Darstellungsform eignet sich gut dazu, verfassungs­
+                       feindliche Inhalte in einen verharmlosenden und vermeint­      lich
+                       humoristischen Kontext zu stellen, um die Akzeptanz solcher Aus­
+                       sagen zu erhöhen und die Grenze des „Sagbaren“ zu erweitern.
+
+                                       Auch aus der Gamingszene bekannte Koopera­
+                                       tions- und Streamingplattformen wie Discord,
+                                       Steam oder Twitch spielen eine Rolle. Mittels
+                                       eigens entwickelter Szene-Spiele werden rechts­
+                                       extremistische Botschaften verbreitet. Bereits im
+                                       Jahr 2020 erschien das Computerspiel „Heimat
+                                       Defender: Rebellion“, das durch die Bundesprüf­
+                                       stelle für jugendgefährdende Medien (BPJIVI)
+                                       2021 indiziert wurde. Im Februar 2024 ist die Fort­
+                                       setzung „The Great Rebellion“ erschienen.
+
+Rechtsextremis­        Darüber hinaus bieten Rechtsextremisten auf eigenen Web­
+tische Streaming­      seiten auch Internetsendungen oder -radios an. Der stellvertre­
+angebote; „FSN -The    tende bayerische Landesvorsitzende der Partei „Die Heimat“
+Revolution“            und bekannte Rechtsextremist Patrick Schröder betreibt seit
+                       mehreren Jahren das Internet-TV-Format „FSN-The Revolution“
+                       (bis 2018 „FSN-TV“) sowie weitere, mitunter vergleichsweise
+                       reichweitenstarke Internetauftritte. Dort werden neben Inter­
+                       views mit Protagonisten aus der rechtsextremistischen Szene
+                       in moderierten Beiträgen auch Aktionshinweise, Konzert- und
+                       Demonstrationstermine sowie Informationen über aktuelle und
+                       politische Ereignisse innerhalb des rechtsextremistischen Spek­
+                       trums verbreitet. Zudem nutzt Schröder das Internet auch als
+                       Werbe- und Vertriebsplattform für Szeneprodukte wie Musik
+                       und Bekleidung.
+
+
+
+
+168
+Rechtsextremismus                                      Verfassungsschutzbericht Bayern 2024
+
+
+
+5.2 Einsatz von Künstlicher Intelligenz (KI)
+Das Internet bietet Nutzern neben diversen Kommunikations-
+und Vernetzungsmöglichkeiten auch vielfältige Potenziale im Be­
+reich der Künstlichen Intelligenz (KI). Die Anwendungsbereiche
+erstrecken sich dabei von der Bilderstellung über die Bildmanipu­
+lation bis hin zur Erstellung von sog. „Deepfakes“, die allgemein
+als Form der KI-basierten Bild- und Audiobearbeitung gelten und
+biometrische Merkmale von Personen wie Aussehen, Mimik
+oder Stimme täuschend echt imitieren. Im Phänomenbereich
+Rechtsextremismus war zuletzt vermehrt die Nutzung solcher
+Technologien festzustellen. Insbesondere authentisch wirkende
+Bilder und Videos werden von Rechtsextremisten zielgruppen­
+orientiert für Propagandazwecke genutzt.
+
+Ein Beispiel für den Einsatz von KI-generierten Bildern stellt die     Kampagne
+Kam­ pagne „No Way“ dar, welche die „Identitäre Bewegung               „No Way“
+Deutschland“ (IBD) über ihre Website und ihre Social-Media-­
+Kanäle lanciert hatte. Die Kampagne soll der IB zufolge Menschen
+aus afrika­nischen Herkunfts­ländern vor Migration und Flucht nach
+Europa warnen. Ein hierzu genutztes Bild zeigt eine stereotypisie­
+rende Darstellung von Migranten, die auf einem Boot das Meer
+überqueren. Bei genauer Betrachtung lassen sich an diesem Bei­
+spiel Hinweise für die Nutzung von KI, wie die fehlerhafte Darstel­
+lung von Körperteilen, feststellen.
+
+
+
+
+                                                                                      169
+Verfassungsschutzbericht Bayern 2024                             Rechtsextremismus
+
+
+                                          Auch der rechtsextremistische „Active Club
+                                          Mainfranken“ nutzt ein mutmaßlich durch
+                                          den Einsatz von KI generiertes Bild zur
+                                          Selbstdarstellung und zu Propagandazwe­
+                                          cken in den sozialen Medien. Auf diese Weise
+                                          versucht die Gruppierung, sich als personen­
+                                          stark und wehrhaft zu inszenieren.
+
+                                          Ob es sich bei derartigen Propagandamitteln
+                                          um Bild- und Videomanipula­   tionen mithilfe
+                                          von KI- Tools handelt oder ob der Inhalt gänz­
+                                          lich über den Einsatz von KI erstellt wurde,
+                                          lässt sich nicht immer zweifelsfrei klären.
+                                          Durch die sich fortlaufend verbessernde
+                                          Technik werden „Deepfakes“ häufig nicht
+                                          mehr als Fälschungen erkannt. Die mit KI ein­
+                                          hergehenden Möglichkeiten für Desinforma­
+                                          tion sind dementsprechend umfangreich und
+                                          stellen in Bezug auf mögliche Einflussnahme­
+                                          versuche durch rechtsex­tremistische Akteure
+                                          eine wachsende Herausforderung dar.
+
+
+                       5.3 Vernetzungsaktivitäten und Radikalisierung
+                       Der Einsatz digitaler Medienformate dient neben der Verbreitung
+                       rechtsextremistischer Propaganda auch der Vernetzung, dem
+                       szeneinternen Austausch sowie der Vorbereitung von Aktionen.
+                       Angehörige der rechtsextremistischen Szene versuchen durch
+                       den Einsatz von Messengerdiensten und Kommunikationska­
+                       nälen mit hohen Verschlüsselungs- und Anonymisierungsstan­
+                       dards sich der Beobachtung durch Öffentlichkeit und Sicher­
+                       heitsbehörden zu entziehen. In sozialen Netzwerken gründen
+                       sie nach dem in offenen Gruppen erfolgtem Erstkontakt oft ge­
+                       schlossene Foren und Chatrooms zur szeneinternen Kommuni­
+                       kation. Messengerdienste spielen zudem eine wichtige Rolle bei
+                       der Organisation von Aktionen, Veranstaltungen und Konzerten.
+                       Zum Teil wird dort auch eine realweltliche Vernetzung in Form
+                       gemeinsamer Treffen angestrebt.
+
+
+
+
+170
+Rechtsextremismus                                       Verfassungsschutzbericht Bayern 2024
+
+
+
+Rechtsextremistische Chatgruppen sind von Gewalt und Hass
+geprägt und schaffen so ein Klima, das den Abbau von Hemm­
+schwellen zur Gewaltanwendung begünstigt. Die Schnelligkeit
+der Radikalisierungsprozesse und Enthemmungsdynamiken im
+Internet stellt die Sicherheitsbehörden vor besondere Herausfor­
+derungen, hinsichtlich der Identifizierung der häufig nur anonym
+aktiven Personen sowie der Prognostizierung einer gewalttätigen
+Entwicklung.
+
+Attentäter-Fanszene
+Mit Blick auf das Radikalisierungspotenzial im Netz gilt Personen       Gewaltaffinität
+und Gruppierungen, die mit Amokläufern und Attentätern sympa­
+thisieren, seit Jahren ein besonderes Augenmerk. Anhänger der
+„Attentäter-Fanszene“ vernetzen sich virtuell, um ihre gewalttä­
+tigen Vorbilder zu ehren sowie teils rassistisch geprägte Gewalt­
+fantasien miteinander zu teilen. Dabei handelt es sich um eine
+digitale Subkultur, die Amoktäter sowie ideologisch unterschied­
+lich motivierte Attentäter als „Heilige“ („Saints“) verehrt. Die
+„Attentäter-Fanszene“ weist eine hohe Gewaltaffinität auf, eine
+kohärente Ideologie oder konkrete Organisationsstrukturen sind
+bislang jedoch nicht festzustellen. Eine Anbindung an realwelt­
+liche rechtsextremistische Strukturen existiert in der Regel nicht.
+
+Allerdings sind Überschneidungen zwischen Anhängern der
+„Atten­täter-Fanszene“ mit der „Incel“- Szene, der „Siege“-Sub­
+kultur (deutsch: Belagerung) und gewaltbereiten Neonazis fest­
+zustellen. Auffallend ist die in diesen Szenen häufig vorhandene,
+insbesondere von Jugendlichen gehegte, Faszination für die
+Ideen aus dem Buch „Siege“ und die daraus entstandene Sub­
+kultur. Dabei handelt es sich um Texte des US-amerikanischen
+Neonazis James Mason, die zum „Rassenkrieg“ anleiten wollen.
+
+Während sich rechtsextremistische Gruppierungen in der Regel
+um die Rekrutierung von Nachwuchs bemühen müssen, nähern
+sich potenzielle Interessenten der Attentäter-Fanszene vorwie­
+gend aus eigener Initiative. Dabei handelt es sich häufig um Per­
+sonen, die teilweise sozial isoliert und in der Regel technikaffin
+sind. Die Szene tritt überwiegend auf unkonventionellen und im
+
+
+
+
+                                                                                          171
+Verfassungsschutzbericht Bayern 2024                                Rechtsextremismus
+
+
+                       Ausland ansässigen Plattformen sowie verschlüsselten Kommu­
+                       nikationsdiensten in Erscheinung und ist daher nur schwer lokali­
+                       sierbar. Auffallend ist zudem das jugendliche Durchschnittsalter
+                       der Szeneangehörigen, die teilweise noch nicht einmal strafmün­
+                       dig sind.
+
+Psychische             Auffällig ist außerdem, dass bei mehreren bekanntgewordenen
+Vorerkrankungen        Attentätern psychische Erkrankungen schon vor ihren Taten be­
+                       standen. Inwiefern psychische Erkrankungen die Bereitschaft
+                       zur Begehung von extremistisch motivierten Gewalttaten durch
+                       allein agierende Täter beeinflussen, ist aber weiterhin nicht voll­
+                       ständig geklärt. Jedoch legen internationale Studien nahe, dass
+                       Einzeltäter zumindest häufiger psychische Erkrankungen aufwei­
+                       sen als in Gruppen agierende Täter.
+
+                       Das Bayerische Landesamt für Verfassungsschutz steht im
+                       ­Rahmen der zulässigen Übermittlungsregelungen im Austausch
+                        mit den Verfassungsschutzbehörden der Länder und des Bundes
+                        sowie mit den zuständigen Strafverfolgungsbehörden, um im
+                        Inter­net frühzeitig an der Aufklärung gewaltorientierter extremis­
+                       tischer Bestrebungen mitzuwirken, die in diesen Fällen meist von
+                       Einzeltätern ausgehen.
+
+
+                       6. MUSIK, MEDIEN UND VERTRIEBE
+
+                       6.1 Rechtsextremistische Musik
+                       Rechtsextremistische Musik ist ein wesentliches Eintrittstor in
+                       die rechtsextremistische Szene. So nutzen Szeneangehörige
+                       Musik, um Jugendliche mit rechtsextremistischem Gedanken­
+                       gut in Kontakt zu bringen. Oft wird verkürzt von „Rechtsrock“
+                       gesprochen, obwohl das Angebot an rechtsextremistischer Musik
+                       längst zahlreiche unterschiedliche Stile und Zielrichtungen um­
+                       fasst, die von Skinheadmusik und Balladen über Black Metal bis
+                       hin zu Hip Hop und Techno reichen. Die Texte enthalten meist
+                       nationalistisches, fremdenfeindliches, antisemitisches und anti­
+                       demokratisches Gedankengut.
+
+Extremistische         Adaptionen populärer Musiktitel durch Rechtsextremisten erfuhren
+Coverversionen         2024 besondere Aufmerksamkeit. Bei mehreren Veranstaltun­
+                       gen – auch in Bayern – wurde der bekannte Party-Hit „L’Amour
+
+
+
+
+172
+Rechtsextremismus                                      Verfassungsschutzbericht Bayern 2024
+
+
+
+Toujours“ gezielt verändert und mit der fremdenfeindlichen Pa­
+role „Deutschland den Deutschen, Ausländer raus“ gesungen.
+Problematisch ist diese Entwicklung zu Cover-Songs auch des­
+halb, weil unbedenkliche Lieder auf diese Weise ein „Doppel­
+leben“ entwickeln und, auch ganz ohne extremistischen Text,
+zum Erkennungszeichen oder Meme extremistischer Akteure
+aufgeladen werden können. Zudem können Rechtsextremisten
+über die Kaperung eines bereits bekannten Hits leichter provozie­
+ren und damit größere Aufmerksamkeit erlangen.
+
+Rechtsextremistische Musikveranstaltungen (Konzerte und Lie­
+derabende) im In- und Ausland ermöglichen es Szeneangehö­
+rigen zudem, neue Kontakte aufzubauen und sich szeneintern
+zu vernetzen. Daneben gibt es Auftritte rechtsextremistischer
+Musikerinnen und Musiker bei Veranstaltungen, bei denen der
+Versammlungscharakter gegenüber der Musikdarbietung über­
+wiegt. Teilweise werden Musikveranstaltungen auch konspira­
+tiv vorbereitet bzw. als private Veranstaltungen durchgeführt.
+Mit Vortrefforten, einer Mobilisierung über Messengerdienste
+bzw. Mund-zu-Mund-Propaganda oder der Deklarierung eines
+Konzertes als private Geburtstagsfeier soll ein Einschreiten der
+Sicherheitsbehörden verhindert werden. Die Veranstalter – es
+handelt sich dabei meistens um langjährige Szeneangehörige
+– erlangen bei der erfolgreichen Durchführung eines Konzertes
+innerhalb der Szene viel Anerkennung.
+
+Rechtsextremistische Konzert- und Musikveranstaltungen
+in Bayern
+Im Bundesgebiet fanden seit 2019 keine Musikgroßveranstal­
+tungen mehr statt. Als allgemeiner Trend lassen sich kleinere
+Veranstaltungen und Musikveranstaltungen im europäischen
+Ausland feststellen, zu denen auch Personen aus Bayern anrei­
+sen, beispiels­weise das „Ian Stuart Donaldson Memorial“ am
+28. September in Verona. Auch in Bayern überwiegt die Zahl der
+Musikveranstaltungen, die in kleinem Kreis und privaten Rahmen
+oft konspirativ durchgeführt werden. Darüber hinaus sind Auftritte
+rechtsextremistischer Bands und Liedermacher bei Musikveran­
+staltungen in anderen Bundesländern bekannt geworden.
+
+
+
+
+                                                                                      173
+Verfassungsschutzbericht Bayern 2024                                           Rechtsextremismus
+
+
+                       Rechtsextremistische Bands in Bayern
+
+                       Bandname Herkunft             Aktiv seit                Letzte Veröffentlichung
+
+                       Antikonform Raum Allgäu 2022                            „Eine Frage der Ehre“
+                                                                               (2022)
+
+                       Burning         Oberfranken 2005 – 2010 Gründung    „Your Time Is Running
+                       Hate                        mit ehemaligen Mitglie­ Out“ (2010), Beteiligung
+                                                   dern der Skinhead-Bands am Sampler „Punikoff
+                                                   „Aryan Rebels“ und      Vol.1“ (2017)
+                                                   „Division 28“, Neugrün­ „Warmachine“ (2019)
+                                                   dung 2017
+
+                       Eskalation      Oberfran­     2010                      „Kein Schritt zurück“
+                                       ken/ Unter­                             (2015), Beteiligung am
+                                       franken                                 Sampler „Hessen Skins“
+                                                                               (2017), „S.F.F.S“ (2019),
+                                                                               Album „M-E-K“ (2020)
+                                                                               zusammen mit MPU,
+                                                                               Beteiligung am Sampler
+                                                                               „A Tribute to Faust­
+                                                                               recht“ (2021)
+
+                       Kodex Frei      Raum          2010                      „Das Pack“ (2016),
+                                       Kempten                                 Beteiligung an der
+                                                                               Compilation „10. Tag
+                                                                               der deutschen Zukunft“
+                                                                               (2018)
+
+                       MPU             Raum Hof      2005                      „German Skinhead
+                                                                               Anthems“ (2017),
+                                                                               Beteiligung am Sampler
+                                                                               „Hessen Skins“ (2017),
+                                                                               Album „M-E-K“ (2020)
+                                                                               zusammen mit Eska­
+                                                                               lation
+
+                       Prolligans      Raum Allgäu 2004                        „Nahrung für den Geist“
+                                                                               (2017), Compilation
+                                                                               „Skinhead durch und
+                                                                               durch“ (2017), „Auf dem
+                                                                               Abstellgleis“ (2021)
+
+                       Spreege­        Raum          1994-2009; erneute        „Spreegeschwader
+                       schwader        Bayreuth      Aktivität im Jahr 2016,   – Akustik Rac’n’Roll“
+                                                     wieder aktiv seit 2021    (2021)
+
+                       Urweisse        Raum Mün­     2019                      „Urweisse Musik“
+                                       chen                                    (2019), Beteiligung am
+                                                                               Sampler „A Tribute to
+                                                                               Faustrecht“ (2021)
+
+                       White Rebel Raum Hof          2007                      „The Boys are back
+                       Boys/White                                              in Town“ (2012),
+                       Rebel Voice                                             Beteiligung am Sampler
+                                                                               „Back to the Basement“
+                                                                               (2016), „Ohne Strom ge­
+                                                                               gen den Strom“ (2019)
+
+
+
+
+174
+Rechtsextremismus                                        Verfassungsschutzbericht Bayern 2024
+
+
+
+Rechtsextremistische Bands nutzen Konzerte als Möglich­
+keit, ­ihren Bekanntheitsgrad zu steigern und für Tonträger und
+Merchandising-Artikel zu werben. Mit der Gage für einen Konzert­
+auftritt können die meisten Bands ihre Selbstkosten ­allerdings nur
+teilweise decken. Wesentlich einträglicher sind der Verkauf und
+Vertrieb von Tonträgern über Versandhandel, Verkaufs­       stände
+oder auf rechtsextremistischen Veranstaltungen. Darüber hinaus
+bieten einschlägige Internetseiten weitere Möglichkeiten, rechts­
+extremistische Musikclips und -alben v­ erfügbar und damit einem
+breiten Publikum zugänglich zu machen.
+
+
+6.2 Rechtsextremistische Medien
+Rechtsextremistische Medien streben die Etablierung einer
+rechtsextremistischen Gegenkultur an. Daher verbreiten sie
+­revisionistische, antisemitische, antidemokratische sowie fremden­
+ feindliche Vorstellungen und wollen so rechtsextremis­tische Über­
+ zeugungen in der Leserschaft initiieren oder festigen. Dabei soll
+ das Vertrauen in die demokratische Ordnung untergraben werden,
+ um letztendlich ein undemokratisches, autoritäres politisches Sys­
+ tem in Deutschland populär zu machen.
+
+Der Verfassungsschutz beobachtet den Kreis der regelmäßig                Beobachtung von
+publi­zierenden Personen des Internetblogs „Politically Incorrect/       „Politically Incorrect/
+PI-News“ („PI-News“). „PI-News“ ist ein seit November 2004               PI-News“
+bestehender reichweitenstarker Internetblog, auf dem auch islam­
+feindliche und rechtsextremistische Agitation verbreitet wird.
+
+Auf „PI-News“ wurden 2024 zahlreiche fremden- und islam­
+feindliche Beiträge festgestellt. Ideologisch prägend für den Inter­
+netblog ist die Erzählung von einer angeblichen „Umvolkung“
+und „Islamisierung“ Deutschlands.
+
+Auch die „COMPACT-Magazin GmbH“ („COMPACT“) wird                         „COMPACT-
+vom Verfassungsschutz beobachtet. Diese betreibt den                     Magazin“ und
+­Youtube-Kanal „COMPACT-TV“, gibt das „COMPACT-Magazin“                  „COMPACT-TV“
+ und ­verschiedene Sonderformate wie „COMPACT-Edition“ und
+ „COMPACT-Aktuell“ heraus und führte bis 2023 jährlich sog.
+ „COMPACT-Konferenzen“ durch. Über die im Jahr 2010 erst­
+ malig erschienene Monatszeitschrift „COMPACT-Magazin“
+ werden nicht nur verschwörungstheoretische Inhalte, sondern
+ regelmäßig auch islamfeindliche und fremdenfeindliche Motive
+ verbreitet, die gegen die Menschenwürdegarantie des Grundge­
+ setzes gerichtet sind. Diese Bestrebungen verfolgt „COMPACT“
+ während des laufen­den Verbotsverfahrens (siehe Kapitel 3.4) un­
+verändert weiter.
+
+                                                                                           175
+Verfassungsschutzbericht Bayern 2024                               Rechtsextremismus
+
+
+                       „COMPACT“ ist ein bedeutendes Sprachrohr im Rechtsextremis­
+                       mus, welches mit zahlreichen Beobachtungsobjekten der Verfas­
+                       sungsschutzbehörden eng vernetzt ist und diesen eine Plattform
+                       bietet. Beispielsweise veröffentlicht das „COMPACT-Magazin“
+                       regelmäßig Beiträge von Martin Sellner, dem führenden Aktivis­
+                       ten der „Identitären Bewegung“ im deutschsprachigen Raum.
+                       In der Juni-Ausgabe des Magazins bezeichnete er die Bundes­
+                       republik als „Versuchsanstalt für den Weltuntergang“ und warb
+                       weiterhin für die Gründung kleiner „Widerstandsnester“.
+
+Beobachtung des        Das in Schnellroda (Sachsen-Anhalt) ansässige „Institut für
+„Institutes für        Staatspolitik“ (IfS) verfolgt die Strategie der sog. „Metapolitik“.
+Staats­politik“        Dahinter verbirgt sich der Versuch, den öffentlichen Diskurs zu
+                       prägen und Deutungshoheit zu erlangen. Auf diese Weise ver­
+                       sucht das Institut auf den vorpolitischen Raum einzuwirken und
+                       seine ideologischen Ziele durchzusetzen. Damit trägt das IfS
+                       zu einer gesamtgesellschaftlichen Spaltung bei und begünstigt
+                       Radikalisierungstendenzen bis hin zur Legitimierung von Gewalt.
+                       Dazu unterhält es enge Kontakte zu rechtsextremistischen Grup­
+                       pierungen und zu Martin Sellner. Überdies veranstaltet das Insti­
+                       tut regelmäßig „Winter- und Sommerakademien“, um den Nach­
+                       wuchs der „Neuen Rechten“ ideologisch zu formen und die
+                       Vernetzung zu fördern. Im Frühjahr 2024 erfolgte die Auflösung
+                       des offiziellen Trägers des IfS, dem „Verein für Staatspolitik“.
+                       Seit der im April erschienenen 119. Ausgabe der ehemals vom
+                       IfS herausgegebenen Zeitschrift „Sezession“ tritt die „Metapolitik
+                       Verlags UG“ als Herausgeber auf. Als Grund für die Umstruk­
+                       turierung wurde u. a. die Aberkennung der Gemeinnützigkeit
+                       aufgeführt. Zudem ist davon auszugehen, dass dadurch einem
+                       möglichen Verbot vorgebeugt werden soll.
+
+Beobachtung des        Auch der „Verlag Antaios“ wird vom Verfassungsschutz beob­
+„Antaois“-Verlages     achtet. In vom „Verlag Antaios“ verbreiteten Publikationen wird
+                       u. a. das Ideologiekonzept des „Ethnopluralismus“ propagiert,
+                       dessen Idealvorstellung einer staatlichen bzw. gesellschaftlichen
+                       Ordnung in einem ethnisch und kulturell homogenen Staat be­
+                       steht. Zwischen dem IfS und dem „Verlag Antaios“ bestehen
+                       enge personelle und organisatorische Verflechtungen.
+
+
+                       6.3 Rechtsextremistische Vertriebe
+                       Rechtsextremistische Vertriebe und Versandhandel kommerziali­
+                       sieren die subkulturell geprägte rechtsextremistische Szene. Das
+                       Sortiment ist gezielt auf die Bedürfnisse der Anhänger einzelner
+                       Szenestilrichtungen wie der Skinhead-, der NS-Hatecore- oder
+
+
+176
+Rechtsextremismus                                      Verfassungsschutzbericht Bayern 2024
+
+
+
+der NS-Black-Metal-Subkultur ausgerichtet. Bei der Produktion
+und Vervielfältigung von Tonträgern spielen insbesondere die
+größeren Vertriebe eine wichtige Rolle.
+
+Neben Musik umfasst deren Angebotspalette auch Bekleidung,
+Fahnen, Flugblätter, Plakate und szenetypische Devotionalien
+wie Bücher und Aufkleber sowie zunehmend auch Accessoires
+für den Alltag wie Sonnenbrillen oder Gürteltaschen. Nahezu alle
+Händler bieten ihre Waren auf z. T. professionell gestalteten Ver­
+kaufsplattformen im Internet an. Die Betreiber rechtsextremis­
+tischer Vertriebsstrukturen verfolgen insbesondere wirtschaft­
+liche Interessen, sind der Szene jedoch auch in ideologischer
+Hinsicht zuzurechnen.
+
+Vertriebe und Versandhandel
+
+Name                  Sitz/Landkreis
+
+Ansgar Aryan          Mantel/Neustadt a. d. Waldnaab
+
+DIM Records           Coburg
+
+FSN-Shop              Mantel/Neustadt a. d. Waldnaab
+
+Oldschool Records     Wolfertschwenden/Unterallgäu
+
+Patriotic Store       Mantel/Neustadt a. d. Waldnaab
+
+Wikingerversand       Mantel/Neustadt a. d. Waldnaab
+
+White Rex Store       Mantel/Neustadt a. d. Waldnaab
+
+
+
+
+7. IMMOBILIENSUCHE UND -ERWERB
+Rechtsextremistisch genutzte Immobilien sind solche, die von
+Angehörigen der rechtsextremistischen Szene politisch ziel- und
+zweckgerichtet sowie wiederkehrend genutzt werden. Erfasst
+werden dabei Immobilien, bei denen Rechtsextremisten über
+eine uneingeschränkte grundsätzliche Zugriffsmöglichkeit verfü­
+gen, etwa in Form von Eigentum, Miete, Pacht oder durch ein
+Kenn- und Vertrauensverhältnis zu Objektverantwortlichen. Davon
+abzugrenzen sind Objekte, die von Szenemitgliedern nahezu aus­
+schließlich zu Wohnzwecken genutzt werden. Angehörige der
+rechtsextremistischen Szene nutzen Immobilien, um regionale
+Strukturen und Anlaufstellen zu schaffen. Sie suchen in Ballungs­
+räumen ebenso wie im ländlichen Raum nach Räumlichkeiten für
+Feiern, Konzerte, Schulungen, Parteiveranstaltungen oder interne
+Treffen. Für kleinere Treffen nutzen Szeneangehörige häufig auch
+ihre privaten Wohnobjekte.
+
+
+                                                                                      177
+Verfassungsschutzbericht Bayern 2024                                  Rechtsextremismus
+
+
+                       In der breiten Öffentlichkeit erfahren Szeneangehörige keine
+                       Akzeptanz, und mögliche Vermieter lehnen eine Vermietung an
+                       rechtsextremistische Gruppierungen zumeist ab. Die rechtsex­
+                       tremistische Szene hat deshalb regelmäßig erhebliche Schwie­
+                       rigkeiten, dauerhaft Immobilien für ihre Aktivitäten zu finden, die
+                       über eine bloße Wohnnutzung hinausgehen. Insbesondere die
+                       langfristige Anmietung einer Gaststätte durch Szenemitglieder
+                       stellt in Bayern die Ausnahme dar. Verschiedene rechtsextre­
+                       mistische Gruppierungen halten zwar wiederholt interne Treffen
+                       oder kleinere Feiern in Gaststätten ab. Die Räumlichkeiten werden
+                       aber nur in Ausnahmefällen explizit für rechtsextremistische
+                       Szene­treffen angemietet. Vielmehr geben sich Szeneangehörige
+                       dort als „normale“ Gäste aus. Wenn Personen aus der rechtsex­
+                       tremistischen Szene eine ernsthafte Kaufabsicht haben, setzen sie
+                       oft harmlos erscheinende „Strohmänner“ ein, um den rechtsex­
+                       tremistischen Hintergrund des Erwerbs zu verschleiern.
+
+Immobilien in Bayern   Derzeit werden in Bayern 17 Objekte als rechtsextremistisch
+                       ­genutzte Immobilien eingestuft, u. a. in Feilitzsch, Gilching, Mantel,
+                        Memmingen, München, Schweinfurt und Wolfertschwenden.
+
+Parteibüro des         Die neonazistische Kleinstpartei „Der Dritte Weg“ (III. Weg)
+III. Wegs              verfügt seit Mitte 2022 über eine Immobilie im Schweinfurter
+„Jugendtag“ der        Ortsteil Oberndorf. Das „Bürger- und Parteibüro“ in Schweinfurt
+NRJ                    wird als Treff- und Versammlungsort für Rechtsextremisten
+                       ­genutzt. So trafen sich Parteiangaben zufolge Anfang Februar in
+                        der Schweinfurter Immobilie Mitglieder und Interessenten frän­
+                        kischer Stützpunkte des „III. Weg“ bei Vorträgen. Im Februar
+                        fand dort überdies ein „Jugendtag“ der „Nationalrevolutionären
+                        Jugend“ (NRJ) Franken statt. Einem Bericht auf der „III. Weg“-­
+                        Internetseite zufolge diskutierten die Teilnehmer im Rahmen
+                        des „Jugendtages“ ihr individuelles und kollektives Selbstver­
+                        ständnis als „Nationalrevolutionäre“. Zentrales Ziel sei es dabei,
+                        das bestehende System zu überwinden und sich dem Aufbau
+                        des „kommenden Deutschlands“ zu widmen. Unter der Losung
+                        „Gemeinschaft statt Isolation“ führte die NRJ im Rahmen ihres
+                        „Jugendtages“ zudem eine Banneraktion durch. Dabei posierten
+                        Angehörige der NRJ mit einem großen Banner mit der Aufschrift
+                        „Gemeinschaft statt Isolation“ vor dem Bürger- und Parteibüro.
+                        Am 3. Oktober fand vor der Immobilie eine Versammlung des
+                        „III. Weg“ mit etwa 20 Personen statt. Der Landesparteitag des
+                        bayerischen Landesverbandes des „III. Weg“ wurde am 14. De­
+                        zember im Schweinfurter Bürger- und Parteibüro durchgeführt.
+
+
+
+
+178
+Rechtsextremismus                                               Verfassungsschutzbericht Bayern 2024
+
+
+
+8. RECHTSEXTREMISTISCHE PARTEIEN UND
+   PARTEINAHE STRUKTUREN
+
+8.1 Die Heimat
+
+                       Deutschland                Bayern
+
+Mitglieder             2.800    1
+                                                  360
+
+Vorsitzender           Peter Schreiber            Rainer Hatz
+
+Gründung               1964 (als NPD)             1965 (als NPD)
+
+Sitz                   Berlin                     Nürnberg
+
+Publikation            Deutsche Stimme            -
+
+1
+    Quelle: Bundesverfassungsschutzbericht 2023
+
+
+Die am 3. Juni 2023 in „Die Heimat“ umbenannte im Jahr 1964
+gegründete NPD will die bestehende Ordnung durch eine ethnisch
+homogene „Volksgemeinschaft“ ersetzen. Aus Sicht der Partei
+stellt eine „Volksgemeinschaft“ die einzig natürliche und damit
+annehmbare staatliche und gesellschaftliche Ordnung dar, weil
+angeblich nur sie dem wahren Wesen des Menschen entspricht.
+Die Partei strebt damit einen Gegenentwurf zur parlamenta­
+rischen Demokratie in der Bundesrepublik Deutschland an. Die
+von der Partei vertretenen völkischen Grundideen bringen im
+­Zusammenhang mit den verschiedensten politischen Themen
+ oft ausländerfeindliche, antisemitische, rassistische – und in Bezug
+ auf den historischen Nationalsozialismus verharmlosende und zu­
+ stimmende – Positionen zum Ausdruck. Ihr angestrebtes Ziel der
+ „Systemüberwindung“ und ihre Grundaussagen stehen inhalt­lich
+ im Widerspruch zur freiheitlichen demokratischen Grundordnung.
+
+Das Parteiprogramm ist von einem ausgeprägten Nationalismus                     Parteiprogramm
+getragen und schreibt den Gedanken der „Volksgemeinschaft“
+in einer völkisch-koIlektivistischen Auslegung fest. So schreibt
+die Partei:
+
+             Die Würde des Menschen als soziales Wesen
+             verwirklicht sich vor allen in der Volksgemein­
+             schaft. Erst die Volksgemeinschaft garantiert die
+             persönliche Freiheit, diese endet dort, wo die
+             Gemeinschaft Schaden nimmt.
+
+
+
+
+                                                                                                 179
+Verfassungsschutzbericht Bayern 2024                                Rechtsextremismus
+
+
+                        An anderer Stelle heißt es:
+
+                                 Volksherrschaft setzt die Volksgemeinschaft
+                                 voraus. Der Staat nimmt dabei die Gesamtver­
+                                 antwortung für das Volksganze wahr und steht
+                                 daher über Gruppeninteressen.
+
+
+Rassistischer,          Für die Partei resultiert die Würde des Einzelnen nicht aus dem
+nationalistischer und   freien Willen des lndividuums. Ihr zufolge ist der Wert eines
+homophober Ansatz       Menschen von der biologisch-genetischen Teilhabe an der
+                        „Volksgemeinschaft“ abhängig. Da nur Deutsche völkischer Ab­
+                        stammung Teil der „VoIksgemeinschaft“ sein können, ist eine
+                        rassistisch und nationalistisch geprägte Fremdenfeindlichkeit ele­
+                        mentarer Bestandteil der Parteiideologie vom „lebensrichtigen
+                        Menschenbild“, das sich insbesondere gegen „Fremdbestim­
+                        mung“ und „Überfremdung“ richtet. Hierzu schreibt die Partei
+                        in ihrem Programm:
+
+                                 Ein grundlegender politischer Wandel muss die
+                                 sowohl kostspielige als auch menschenfeind­
+                                 liche Integrationspolitik beenden und auf die Er­
+                                 haltung der deutschen Volkssubstanz abzielen.
+                                 Integration ist gleichbedeutend mit Völkermord.
+
+
+                        Weiter heißt es:
+
+                                 Die HEIMAT lehnt die gemeinsame Unterrich­
+                                 tung deutscher und ausländischer Schüler ab,
+                                 weil Ausländerkinder mit ihren meist nur man­
+                                 gelhaften Deutschkenntnissen das Unterrichtsni­
+                                 veau absenken […].
+
+
+Ausschluss von          Das Bundesverfassungsgericht bestätigte mit Urteil vom 17. Ja­
+Parteienfinanzierung    nuar 2017 die verfassungsfeindliche Ausrichtung der Partei,
+                        NPD, die sich seit 2023 in „Die Heimat“ umbenannt hat. Ein Ver­
+                        bot lehnte das Gericht jedoch ab, da die Bedeutung der Partei
+                        für eine Gefährdung der freiheitlichen demokratischen Grund­
+                        ordnung zu gering sei (Potenzialität). Mit Urteil vom 23. Januar
+                        hat das Bundesverfassungsgericht die Partei für die Dauer von 6
+                        Jahren von der staatlichen Parteienfinanzierung ausgeschlossen.
+
+
+
+
+180
+Rechtsextremismus                                         Verfassungsschutzbericht Bayern 2024
+
+
+
+Das Bundesverfassungsgericht bezog dabei die Entscheidung
+aus dem Jahr 2017 ein, wonach die Partei nach ihren Zielen
+und dem Verhalten ihrer Anhänger die Beseitigung der freiheit­
+lichen demokratischen Grundordnung anstrebt und auf eine
+­Ersetzung der bestehenden Verfassungsordnung durch einen an
+ der ethnischen „Volksgemeinschaft“ ausgerichteten autoritären
+ „National­  staat“ abzielt. Dieses politische Konzept missachtet
+ laut Bundesverfassungsgericht die Menschenwürde aller, die
+ der von der Partei propagierten ethnischen „Volksgemeinschaft“
+ nicht angehören. Seit der Entscheidung vom Januar 2017 ist
+ die Partei unverändert nach ihren Zielen sowie dem Verhalten
+ ihrer Anhänger auf die Beseitigung der freiheitlichen demokra­
+ tischen Grundordnung ausgerichtet und arbeitet planvoll sowie
+ qualifiziert auf die Erreichung ihrer verfassungsfeindlichen Ziele
+ hin. Aus dem Parteiprogramm und aus zurechenbaren Publika­
+ tionen und Äußerungen führender Parteifunktionäre ergibt sich
+ dem Bundesverfassungsgericht zufolge auch ein Widerspruch
+ zum Demokratieprinzip. So fordert die Partei die Abschaffung
+ des ­bestehenden parlamentarisch-repräsentativen Systems und
+ ­seine Ersetzung durch einen am Prinzip der „Volksgemeinschaft“
+  orientierten Nationalstaat, ohne darzulegen, wie in diesem der
+  notwendige Legitimationszusammenhang zwischen Volk und
+  staatlicher Herrschaft gewährleistet werden soll. Sie lehnt das
+  bestehende parlamentarisch-repräsentative System ab und zielt
+  auf eine kontinuierliche Destabilisierung der bestehenden staat­
+  lichen Ordnung. Im Übrigen stellt das Bundesverfassungsgericht
+  weiterhin eine Wesensverwandtschaft der Partei mit dem Natio­
+  nalsozialismus fest. Dass die Partei in geplanter und qualifizierter
+  Weise zur Beseitigung der freiheitlichen demokratischen Grund­
+  ordnung unmittelbar ansetze, wird laut Bundesverfassungsge­
+  richt durch ihre Organisation, ihre Strategie und ihre Aktivitäten
+  sowie durch die Fähigkeit belegt, sich veränderten Rahmenbe­
+  dingungen anzupassen.
+
+„Die Heimat“ trat am 9. Juni bei den Wahlen zum Europäischen              Wahl eines neuen
+Parlament an und konnte mit lediglich 0,1 Prozent der gültigen            Parteivorsitzenden
+Wählerstimmen kein Abgeordnetenmandat erringen. Im Sep­
+tember wurde bekannt, dass der Parteivorsitzende Frank Franz
+beim bevorstehenden Bundesparteitag nicht mehr für das Amt
+kandidiert. Am 23. November wählte der 39. Bundesparteitag in
+Bernsdorf (Sachsen) Peter Schreiber, Chefredakteur der Partei­
+zeitung „Deutsche Stimme“, mit 88,4 Prozent der Delegierten­
+stimmen zum neuen Parteivorsitzenden. Aus Bayern gehört ein
+früherer Landesvorsitzender dem Bundesvorstand der „Heimat“
+als Beisitzer an.
+
+
+
+
+                                                                                         181
+Verfassungsschutzbericht Bayern 2024                                  Rechtsextremismus
+
+
+                       Situation in Bayern
+                       In Bayern besteht ein „Die Heimat“-Landesverband. Öffentliche
+                       wahrnehmbare Aktivitäten in Bayern beschränken sich allerdings
+                       auf Franken. So nahmen Parteiaktivisten sowie der bayerische
+                       Landesvorsitzende in Stein bei Nürnberg an Kundgebungen einer
+                       Bürgerinitiative gegen die Unterbringung von Flüchtlingen teil.
+                       In Nürnberg besuchte der bayerische Landesvorsitzende auch
+                       Kundgebungen anderer Veranstalter. In Weißenburg in Bayern
+                       wurde im März eine Flugblattverteilung „Deutschland braucht
+                       deutsche Kinder, keine Flüchtlinge“ bekannt.
+
+                       Jugendorganisation von „Die Heimat“ sind die „Jungen Nationa­
+                       listen“ (JN). Im Juli berichtete „Die Heimat“ über eine Stadtfüh­
+                       rung der „JN Franken“ in Nürnberg, bei der sich der bayerische
+                       Landesvorsitzende von „Die Heimat“ mit einer JN-Fahne zeigte.
+
+
+                       8.2 Nationaldemokratische Partei Deutsch-
+                           lands (NPD (2023))
+
+
+                                                Deutschland               Bayern
+
+                       Mitglieder                                         30
+
+                       Vorsitzender             Lennart Schwarzbach       -
+
+                       Gründung                 2023                      -
+
+                       Sitz                     Hamburg                   -
+
+                       Publikation              Stimme Deutschlands       -
+
+
+                       Mit dem Beschluss der Umbenennung in „Die Heimat“ war am
+                       3. Juni 2023 der Prozess einer Neuausrichtung der im Jahr 1964
+                       gegründeten NPD abgeschlossen. Allerdings festigen seitdem
+                       abtrünnige Parteimitglieder von „Die Heimat“ unter Wieder­
+                       belebung des Parteinamens „Nationaldemokratische Partei
+                       Deutschlands“ eigene Strukturen.
+
+                       Am 21. Juni 2023 erschien auf der Internetseite des Hamburger
+                       Landesverbandes von „Die Heimat“ eine Mitteilung mit dem
+                       ­Titel „Hamburger NPD scheidet aus ‚Heimat‘ aus!“. Dem Beitrag
+                        zufolge gehörten der Hamburger Landesverband und die ihm
+                        nachgeordneten Hamburger Verbände nicht mehr der Partei „Die
+                        Heimat“ an. In Niedersachsen hatte am 26. November 2023 „[i]n
+                        Anlehnung an die Gründung der NPD 1964 […] auch der zweite
+                        Bundesparteitag der neugegründeten NPD“ stattgefunden. Unter
+
+
+
+182
+Rechtsextremismus                                                   Verfassungsschutzbericht Bayern 2024
+
+
+
+den Teilnehmern befanden sich nach Parteiangaben auch Perso­
+nen aus „Süddeutschland“. Ein Gruppenbild zeigte eine Person,
+die als Vorsitzende des früheren NPD-Kreisverbandes München
+bekannt geworden war. Die Partei „Nationaldemokratische Partei
+Deutschlands“ (NPD (2023)) ist damit eine Abspaltung von der
+Partei „Die Heimat“. Ideologisch unterscheiden sich die Parteien
+NPD (2023) und „Die Heimat“ kaum. Die NPD (2023) nutzt das
+annähernd wortgleich übernommene Parteiprogramm von „Die
+Heimat“ und sieht sich als radikalere Systemalternative.
+
+Situation in Bayern
+In Bayern gab die NPD (2023) Strukturen in Kronach und in
+München bekannt. Aktivisten des NPD-Kreisverbandes Kronach
+­beteiligten sich am 11. Februar an einer Kundgebung in Dresden
+ und führten am 8. Mai in Kronach eine Kundgebung zum Thema
+ „08. Mai 1945 – KEIN Tag der „Befreiung“! KEIN Grund zum
+ Feiern!“ durch. Eine im März vom NPD-Kreisverband Kronach
+ berichtete Flugblattverteilung richtete sich gegen eine geplante
+ Flüchtlingsunterkunft.
+
+
+8.3 Der Dritte Weg (III. Weg)
+
+                               Deutschland                  Bayern
+
+Mitglieder und Unterstützer    800    1
+                                                            160
+
+Vorsitzende/r                  Matthias Fischer             Thorsten Kokula
+
+Gründung                       2013                         20142
+
+Sitz                           Weidenthal/Rheinland-Pfalz   -
+
+1
+    Quelle: Bundesverfassungsschutzbericht 2023
+2
+    Stützpunkte bestehen seit 2014.
+
+
+Der „III. Weg“ vertritt einen stark neonazistisch geprägten
+Rechtsextremismus.
+
+Die ideologischen Ziele der Partei ergeben sich aus ihrer Satzung                   „Nationale Revolu­
+sowie aus einem „Zehn-Punkte-Programm“, das auf Elemente                            tion“ und „Deut­
+des 25-Punkte-Programmes der NSDAP zurückgreift. Beide                              scher Sozialismus“
+Programme basieren auf einem biologistischen Volksbegriff. Die
+NSDAP hatte festgeschrieben, dass nur der ein „Volksgenosse“
+sein könne, der „deutschen Blutes“ sei. Der „III. Weg“ fordert
+analog hierzu die „Erhaltung und Entwicklung der biologischen
+Substanz des Volkes“ sowie die „Beibehaltung der nationalen
+Identität des deutschen Volkes“, die es vor Überfremdung zu
+
+
+                                                                                                   183
+Verfassungsschutzbericht Bayern 2024                                Rechtsextremismus
+
+
+                       schützen gelte. Oberstes Parteiziel ist die „nationale Revolu­tion“,
+                       an deren Ende die Schaffung eines „Deutschen Sozialismus“
+                       stehen soll. In der Grundsatzschrift der Partei „Der National­
+                       revolutionär“ von 2019 heißt es hierzu:
+
+                                 Die nationale Revolution richtet sich gegen den
+                                 ausbeuterischen Kapitalismus ebenso wie gegen
+                                 den volkszerstörenden Liberalismus. An ihrem
+                                 Ende steht der Deutsche Sozialismus als gerechte
+                                 soziale und völkische Ordnung.
+
+
+                       Die Partei vertritt ein geschichtsrevisionistisches Weltbild. Sie
+                       fordert in ihrem Programm die Wiederherstellung „Gesamt­
+                       deutschlands in seinen völkerrechtlichen Grenzen“. In diesem
+                       Zusammenhang spricht der „III. Weg“ auch von einer „fried­
+                       lichen Vereinigung des deutschen Volkskörpers im Rahmen
+                       der ethnischen Selbstbestimmung und [der] Schaffung eines
+                       souveränen deutschen Volksstaates“, was als Vereinigung aller
+                       deutschsprachigen Gebiete in einem Staat zu interpretieren ist.
+
+Propaganda gegen       Der „III. Weg“ ruft dazu auf, keine israelischen bzw. in Israel pro­
+Israel im Nahost­      duzierten Produkte zu kaufen. Der vom „III. Weg“ betriebene
+konflikt               Antisemitismus zeigt sich jedoch nicht allein in seiner antizionis­
+                       tischen Propaganda. In Artikeln auf der Parteiwebseite werden
+                       regelmäßig antisemitische Stereotype eingeflochten und wieder­
+                       holt. So ist beispielsweise häufig von mächtigen, im Hintergrund
+                       agierenden jüdischen Eliten die Rede.
+
+                       Die Partei verfolgt ein Drei-Säulen-Konzept:
+
+                       – „den politischen Kampf“,
+                       – „den kulturellen Kampf“ und
+                       – „den Kampf um die Gemeinschaft“.
+
+                       Der „III. Weg“ sieht sich nach diesem Drei-Säulen-Konzept
+                       nicht bloß als Wahlpartei, sondern als „nationale Bewegung“,
+                       die insbesondere auch auf der Straße ihre politischen Ansichten
+                       vertritt, sich kulturell betätigt und den Gemeinschaftsgeist über
+                       die reine Parteiarbeit hinaus durch Sport- und Freizeitangebote
+                       vertiefen will.
+
+                       Nationalrevolutionäre Jugend
+                       Die „Nationalrevolutionäre Jugend“ (NRJ) ist die Jugendorgani­
+                       sation des „III. Weg“. Hervorgegangen ist die NRJ aus der vorma­
+                       ligen Arbeitsgruppe „AG Jugend“ des „III. Weg“. Der „III. Weg“
+                       nutzt analoge als auch digitale Wege, um bei Jugendlichen und
+
+184
+Rechtsextremismus                                        Verfassungsschutzbericht Bayern 2024
+
+
+
+jungen Erwachsenen ein Interesse für die NRJ zuwecken. Bei
+der Rekrutierung neuer Mitglieder setzt die NRJ häuﬁg auf den
+persönlichen Kontakt zu potenziellen Interessenten. Sportliche
+Aktivitäten in Form von Kampfsport oder Wanderungen stellen
+einen zentralen Baustein in der Anwerbestrategie der NRJ dar.
+
+Die NRJ ist keine eigenständige Organisation, sondern fest in
+die Partei eingebunden bzw. dieser untergeordnet und lebt die
+Ideologie und Programmatik des „III. Weg“. Mit der gezielten
+Investition der Partei in ihre Jugendorganisation soll die Attrak­
+tivität des „III. Weg“ für Heranwachsende erhöht werden. Für
+den „III. Weg“ bietet die NRJ die Möglichkeit, junge Menschen
+im Alter von 12 bis 25 Jahren frühzeitig in die Parteiarbeit mit ein­
+zubeziehen und ideologisch zu indoktrinieren, um so langfristig
+neue Parteimitglieder zu gewinnen.
+
+Zur ideologischen Unterstüt­                                             Handbuch „Nuovi
+zung und zur Erklärung, was                                              Arditi“
+einen jungen Aktivisten im na­
+tionalen Spektrum ausmacht,
+hat der „III. Weg“ bzw. die
+NRJ im Jahr 2023 mit „  ­ Nuovi
+Arditi“ ein „Handbuch für
+die Revolutionäre Jugend“
+heraus­ gebracht, das den
+Ideal­typus eines nationalen
+Aktivisten im heutigen Europa
+beschreibt. Zudem wird darin
+in kämpferisch aggressiver Art und Weise gegen das aktuelle
+politische System in Deutschland und Europa agitiert. Im Kapitel
+„Militanz“ heißt es mit Blick auf die Anwendung von Gewalt:
+
+        Wir sagen ganz offen, dass wir gewaltbereit
+        sind. Das heißt nicht, dass wir hirnlose Schläger
+        sind, wie es der vermeintlich schlauere „Konser­
+        vative“ sofort unterstellt. Zwischen gewaltbereit
+        und gewalttätig besteht immer noch ein Unter­
+        schied. Aber wir sind nun mal dazu bereit, ge­
+        walttätig zu werden, wenn uns jemand angreift,
+        wenn uns jemand unsere Rechte nehmen will,
+        wenn jemand meint, uns anspucken zu können.
+
+
+
+
+                                                                                        185
+Verfassungsschutzbericht Bayern 2024                                 Rechtsextremismus
+
+
+                       Der „III. Weg“ bewirbt das Buch auf seiner Webseite:
+
+                                 Es ist die Stimme einer Generation, die sich wehrt
+                                 und keine Kompromisse kennt, denn wir können
+                                 guten Gewissens sagen, mit diesem System gar
+                                 nichts zu schaffen zu haben, ja, noch viel mehr,
+                                 wir hassen den Liberalismus wie die Pest.
+
+
+                       Zudem soll das Buch als „Kriegserklärung“ an das „herrschende
+                       System“ verstanden werden und zugleich als Motivator und
+                       Wegweiser für junge Rechtsextremisten dienen.
+
+„Jugendtage“ des       Die bisherigen Aktivitäten der NRJ ähneln denen des „III. Weg“
+NRJ und „Schulhof­     stark. Darüber hinaus veranstaltet die NRJ sog. „Jugendtage“,
+offensive“             die meist in den regionalen Stützpunkten stattﬁnden. So führt
+                       die NRJ sportliche und politische Aktivitäten durch und bewirbt
+                       mit dem Begriff „Schulhof-Offensive“ ihre Organisation mit
+                       gemeinsamer Musik, Sport und Gemeinschaftsgefühl. Der
+                       „III. Weg“ versucht auf diese Weise, erlebnisorientierten jungen
+                       Aktivis­tinnen und Aktivisten zielgruppenkonforme Angebote zu
+                       machen und sich als Alternative zu zivilgesellschaftlichen Ange­
+                       boten der Freizeitgestaltung mit Nachhilfemöglichkeiten und
+                       Ausﬂügen zu positionieren. Den Jugendlichen wird dadurch das
+                       Leben eines Aktivisten nach dem Vorbild der Partei vorgelebt.
+                       Die Mitglieder der NRJ werden dabei für die Verteilung von
+                       Flugblättern oder ähnlichen Propagandamitteln eingesetzt. Am
+                       20. April, dem Geburtstag Adolf Hitlers, fand ein NRJ-Aktions­
+                       wochenende in Garmisch-Partenkirchen und Mittenwald (Lkr.
+                       Garmisch-Partenkirchen) statt. Dabei beteiligten sich Aktivis­
+                       ten der NRJ zunächst an einem vom „III. Weg“ organisierten
+                       Informationsstand in Garmisch-Partenkirchen. Unter dem Motto
+                       „Die wahre Krise ist das System!“ versuchte der „III. Weg“ dort
+                       Bürger­innen und Bürger von seinem Parteiprogramm zu über­
+                       zeugen. Das Verteilen von Flugblättern durch einige NRJ-Aktivis­
+                       ten wurde aufgrund von Verstößen gegen kommunale Satzun­
+                       gen von der örtlichen Polizei unterbunden. Anschließend führten
+                       die NRJ-Aktivisten eine Banner- und Bengalo-Aktion mit der Lo­
+                       sung „Revolution statt Rauschgift“ durch. Am Folgetag führten
+                       Aktivisten des „III. Weg“ und der NRJ nach einer Übernachtung
+                       im Freien noch eine gemeinsame Bergwanderung durch.
+
+                       Angehörige der NRJ werden von erfahreneren Mitgliedern des
+                       „III. Weg“ politisch geschult. Sportliche Aktivitäten spielen in der
+                       NRJ eine bedeutende Rolle und umfassen meist Kampfsporttrai­
+                       nings oder Wanderungen. Derartige Aktivitäten werden zudem
+
+
+186
+Rechtsextremismus                                       Verfassungsschutzbericht Bayern 2024
+
+
+
+ideologisiert, indem beispielsweise der Kampfsport erklärter­
+maßen auch dazu dienen soll, sich vor Angriffen des politischen
+Gegners zu schützen. Überdies zelebriert die NRJ – wie auch der
+„III. Weg“ – einen Körperkult, der an das körperliche Idealbild des
+Nationalsozialismus anknüpft. So haben sich die Nachwuchsak­
+tivisten ihrem Selbstverständnis nach der „Leibesertüchtigung“
+zu verschreiben. Die Wanderungen der NRJ werden zusätzlich
+zum Aspekt der körperlichen Ertüchtigung auch als Gelegenheit
+genutzt, um den Jugendlichen ein nationalistisch-völkisches Ver­
+ständnis Deutschlands zu vermitteln.
+
+Strukturen
+Am 25. Juli 2020 gründete der „III. Weg“ in Bayern einen eige­
+nen Landesverband. Kreisverbände stellen in der Organisations­
+struktur der Partei die kleinsten selbstständigen Einheiten dar.
+Die Satzung der Partei ermöglicht es, in Gebieten, in denen keine
+Untergliederungen bestehen, sog. „Stützpunkte“ einzurichten.
+Zum Jahresende 2024 sind auf der Parteiwebseite 24 Stütz­
+punkte genannt. In Bayern befinden sich die 5 Parteistützpunkte
+„Mainfranken“, „Oberfranken“, „Mittelfranken“, „Ostbayern“
+und „München/Oberbayern“. Am 14. Dezember kam es beim
+bayerischen Landesverband zu einem Führungswechsel. Die
+bisherige bayerische Landesvorsitzende schied aus dem Amt,
+neu gewählt wurde Thorsten Kokula.
+
+In Bayern und Baden-Württemberg ist die NRJ mit der Gruppie­
+rung „Jugend Süd“ aktiv. Als Untergruppierung wurde am 3. De­
+zember 2022 die NRJ-Jugendgruppe „Franken“ im Bürger- und
+Parteibüro „SW16“ in Schweinfurt gegründet. In diesem Zusam­
+menhang gab der „III. Weg“ auf seiner Parteiwebseite bekannt,
+dass die „NRJ Franken“ die Gebiete Ober- und Mainfranken ­sowie
+Nürnberg/Fürth umfassen soll. Daneben gründete sich nach Partei­
+angaben im Sommer eine NRJ-Jugendgruppe „München/Ober­
+bayern“. Das Personenpotenzial der NRJ in Bayern beträgt derzeit
+etwa 30 Personen.
+
+Aktivitäten
+Am 1. Mai veranstaltete der „III. Weg“ einen „Arbeiterkampf­
+tag“ in Sonneberg (Thüringen). Motto der Kundgebung war
+„Ausländer­rückführung statt Zuwanderung – Sicherheit, gerechte
+Löhne und medizinische Versorgung für Sonneberg“. Unter den
+etwa 170 Teilnehmern der Kundgebung befanden sich 2 Redner
+sowie einzelne Aktivisten des „III. Weg“ aus Bayern. Zum „Tag
+der Heimat­treue“ in Hilchenbach (Nordrhein-Westfalen) reisten
+am 10. August auch bayerische Angehörige der Partei an.
+
+
+
+
+                                                                                       187
+Verfassungsschutzbericht Bayern 2024                                      Rechtsextremismus
+
+
+                       In Bayern betrieb der „III. Weg“ mehrere Informationsstände
+                       mit Pavillon, Transparenten, Fahnen und Flugblattverteilung.
+                       Die Veran­staltungen fanden am 24. Februar in Furth im Wald
+                       (Lkr. Cham), am 20. April in Garmisch-Partenkirchen, am 1. Juni
+                       in Lindau am Bodensee, am 24. August in Holzkirchen (Lkr.
+                       Miesbach), am 26. Oktober in Füssen und am 23. November in
+                       Aschaffenburg statt. Dabei konnte die Partei in Garmisch-Parten­
+                       kirchen mit rund 30 Personen mobilisieren.
+
+                       Ferner wurden 2024 in Bayern Flugblattverteilungen des
+                       „III. Weg“ in den Regierungsbezirken Oberbayern, Schwaben
+                       und Unterfranken bekannt.
+
+
+                       8.4 Junge Alternative für Deutschland Bayern
+                           (JA Bayern)
+
+                                            Deutschland             Bayern
+
+                       Anhänger             4.000    1
+                                                                    ca. 350
+
+                       Gründung             15. Juni 2013           26. Oktober 2013
+
+                       Sitz                 Berlin                  Greding
+
+                       1
+                           Quelle: Bundesverfassungsschutzbericht 2023
+
+
+                       Die JA war bis 2024 gemäß § 17a der Bundessatzung der AfD
+                       die offizielle Jugendorganisation der Partei. Die JA wurde im Juni
+                       2013 gegründet und ist als eigenständiger Verein mit Sitz in Berlin
+                       konstituiert. Zum Charakter der JA heißt es in § 17a Abs. 2 Satz 1
+                       der Bundessatzung der AfD:
+
+                                  Die JA dient als Innovationsmotor der AfD und
+                                  hat das Ziel, das Gedankengut der Partei in ihrem
+                                  Wirkungskreis zu verbreiten sowie die beson­
+                                  deren Anliegen der Jugend innerhalb der AfD zu
+                                  vertreten.
+
+
+Auflösung der JA       Inzwischen hat die AfD auf dem Bundesparteitag in Riesa am
+und Neugründung        11./12. Januar 2025 eine Satzungsänderung beschlossen, um die
+„Patriotische          Jugendorganisation neu zu gründen und enger an die Partei zu
+Jugend“                binden. Die JA soll durch eine neue Organisation ersetzt werden,
+                       für die der Name „Patriotische Jugend“ vorgeschlagen wurde.
+                       Der JA-Bundeskongress beschloss daraufhin am 1. Februar 2025
+                       in Apolda die Auflösung der JA mit Wirkung zum 31. März 2025.
+
+
+188
+Rechtsextremismus                                        Verfassungsschutzbericht Bayern 2024
+
+
+
+Das Bundesamt für Verfassungsschutz (BfV) stufte die „Junge
+Alternative für Deutschland“ (JA) am 15. Januar 2019 als „Ver­
+dachtsfall“ ein, da hinreichend gewichtige tatsächliche Anhalts­
+punkte für eine extremistische Bestrebung bekannt wurden.
+­Gegen die Einstufung als „Verdachtsfall“ durch das BfV legten die
+ Partei „Alternative für Deutschland“ (AfD) und die JA Rechtsmittel
+ ein. Mit Urteil vom 8. März 2022 wies das Verwaltungs­gericht
+ Köln (VG Köln) die Klage gegen die Verdachtsfalleinstufung durch
+ das BfV ab. Das Oberverwaltungsgericht Nordrhein-Westfalen
+ (OVG NRW) hat mit Urteil vom 13. Mai 2024 die Berufung ­gegen
+ das Urteil des VG Köln vom 8. März 2022 zurückgewiesen.
+ Über die von der Klägerin gegen die Nichtzulassung der Revi­
+ sion einge­legte Beschwerde wurde noch nicht entschieden, das
+ Verwaltungs­streitverfahren zur Einstufung der JA als Verdachts­
+ fall ist daher noch nicht rechtskräftig abgeschlossen.
+
+Am 28. März 2023 stufte das BfV die JA dann als „gesichert               Einstufung als
+extremistische Bestrebung“ ein (Heraufstufung des Verdachts­             gesichert rechtsex­
+falls). Gegen diese Entscheidung des BfV legten die AfD und die          tremistisch
+JA erneut Rechtsmittel ein. Mit Beschluss vom 5. Februar 2024
+lehnte das VG Köln einen Antrag auf Erlass einer einstweiligen
+Anordnung gegen die Einstufung der JA als nunmehr gesichert
+extremistische Bestrebung ab. Die JA vertrete auch weiterhin
+einen völkisch-abstammungsmäßigen Volksbegriff, der den Erhalt
+des deutschen Volkes in seinem ethnischen Bestand und den
+möglichst umfassenden Ausschluss „ethnisch Fremder“ als
+zentrale politische Vorstellung beinhalte. Dies stelle einen Verstoß
+gegen die Menschenwürde dar. Die summarische Prüfung ergebe
+ferner eine Fortführung und Verdichtung der massiven auslän­
+der- und insbesondere islam- und muslimfeindlichen Agitation.
+So werde die Menschenwürde von Asylbewerberinnen und
+Asylbewerbern sowie Migrantinnen und Migranten durch pau­
+schale Verdächtigungen und Verächtlichmachungen beeinträch­
+tigt. Gegen den Beschluss des VG Köln vom 5. Februar wurde
+Beschwerde eingelegt. Gegenwärtig ist das Verwaltungsstreit­
+verfahren zur Einstufung der JA als „gesichert extremistische Be­
+strebung“ durch das BfV noch nicht rechtskräftig abgeschlossen.
+
+Das Bayerische Landesamt für Verfassungsschutz (BayLfV) be­              Eilantrag gegen Be­
+arbeitet die JA seit 15. Januar 2019 als Beobachtungsobjekt. Der         obachtung erfolglos
+Bayerische Verwaltungsgerichtshof (BayVGH) lehnte in einem
+Verfahren des vorläufigen Rechtsschutzes gegen die Beobach­
+tung der AfD als Gesamtpartei durch das BayLfV mit rechtskräf­
+tigem Beschluss vom 14. September 2023 die Anträge des baye­
+rischen AfD-Landesverbandes auf Einstellung der Beobachtung
+ab. Konkrete und hinreichend verdichtete Anknüpfungspunkte
+für verfassungsfeindliche Bestrebungen der Gesamtpartei der
+
+                                                                                          189
+Verfassungsschutzbericht Bayern 2024                                 Rechtsextremismus
+
+
+                       AfD ergäben sich laut BayVGH auch daraus, dass die JA als Ju­
+                       gendorganisation der AfD ein verfassungsfeindliches ethnokultu­
+                       relles bzw. ethnobiologisches Volksverständnis vertrete
+
+                       Strukturen und Aktivitäten in Bayern
+                       Die „JA Bayern“ weist bayernweit keine ﬂächendeckenden
+                       Strukturen auf. Schwerpunktmäßig tritt die JA im Regierungs­
+                       bezirk Schwaben unter den Bezeichnungen „Junge Alternative
+                       Schwaben“ bzw. „Junge Alternative Nordschwaben“ auf.
+
+                       Am 27. Januar wählte eine Mitgliederversammlung des baye­
+                       rischen JA-Landesverbandes („JA Bayern“) einen neuen
+                       Landes­vorstand. Die „JA Bayern“ teilte anschließend mit, dass
+                       „selbstbewusst die Agenda ausgegeben“ wurde, neue Kom­
+                       munikationswege zu erschließen, um Jugendliche und junge
+                       ­erwachsene Patrioten besser zu vernetzen. Im Telegram-Kanal
+                       der „JA Bayern“ erschien am 21. März ein Beitrag mit Werbung
+                       zur Vorbestellung des im „Verlag Antaios“ erscheinenden Buches
+                       „Remigration – Ein Vorschlag“ von Martin Sellner. Sellner gilt als
+                       Führungsperson der rechtsextremistischen „Identitären Bewe­
+                       gung“ (IB) im deutschsprachigen Raum, der „Verlag Antaios“
+                       wird vom Verfassungsschutz beobachtet.
+
+Strategietagung        Die „JA Bayern“ veranstaltete am 8. Juni in Nürnberg eine Strate­
+der JA                 gietagung, zu der Redner aus der AfD und dem sog. „Vorfeld“ der
+                       Partei eingeladen waren. In thematischen Zusammenhang mit der
+                       Abschiebung von Personen sagte ein Redner des „Vorfeldes“:
+
+                                 Also was wir zum Beispiel am Anfang hatten,
+                                 diese Diskussion, weil wenn es darum ging, die
+                                 Deutschen, die eine Staatsbürgerschaft hatten,
+                                 aber ausländischer Herkunft waren, und die wir
+                                 für nicht integriert halten, abzuschieben. Das ist
+                                 jetzt nicht möglich und wir können uns jetzt die
+                                 ganze Zeit darüber Gedanken machen, welche
+                                 Gesetze wir einführen könnten, damit sich das
+                                 mal ändert. Das Problem ist, die Macht, die wir
+                                 bräuchten, um diese Gesetze zu ändern, würde
+                                 an sich ausreichen, dafür, dass wir diese Gesetze
+                                 gar nicht bräuchten. Also wenn wir 60 Prozent
+                                 im Land haben, und das Militär uns gehorcht und
+                                 die Polizei uns hörig ist, dann brauchen wir kein
+                                 Gesetz. Dann ist die Ansage klar, ihr geht jetzt
+                                 oder sonst. Könnte man dann einfach sagen.
+                                 Also man kann dann pro Forma auch ein Gesetz
+                                 verabschieden. Aber es ist ja klar, erst muss die
+                                 Macht gestellt werden.
+
+190
+Rechtsextremismus                                      Verfassungsschutzbericht Bayern 2024
+
+
+
+Aus dem Kontext des Vortrags ergibt sich, dass der Gastredner der
+JA-Strategietagung mit „wir“ sich selbst und die Partei meint.
+Folglich wären seiner Auffassung nach im Falle einer Alleinregie­
+rung der AfD Gesetzesänderungen zur Ausweisung deutscher
+Staatsbürger mit Migrationshintergrund gar nicht mehr notwen­
+dig, weil solche Maßnahmen dann auch ohne Rechtsgrundla­
+ge erfolgen könnten. Im Hinblick auf den ohnehin bereits ver­
+fassungsfeindlichen Vorschlag, deutsche Staatsangehörige mit
+Migrationshintergrund abzuschieben, regte der Gastredner zur
+Durchsetzung dieses politischen Ziels auch eine Verletzung des
+Rechtsstaatsprinzips an. Überdies schlug er vor, auch das Bundes­
+verfassungsgericht mit ideologischen „Fanatikern“ zu besetzen,
+die die „Parteiideale zu 100 % teilen“.
+
+Am 26. Oktober veranstaltete die „JA Nordschwaben“ gemein­
+sam mit Vertretern des AfD-Ortsverbands Meitingen einen Vor­
+tragsabend in Gremheim (Lkr. Dillingen an der Donau). Die Ver­
+anstaltung reihte sich ein in eine Serie regelmäßig stattfindender
+Stammtische und Vortragsabende der „JA Nordschwaben“, an
+denen sich auch Vertreter der AfD, vornehmlich aus dem Raum
+Augsburg, und Aktivisten der IB bzw. Personen mit Bezügen zur
+IB beteiligten.
+
+Neben Stammtischen in Schwaben fand am 17. Juli eine öffent­
+liche Veranstaltung in Gremheim statt. Informationsstände der
+JA in Schwaben wurden am 2. Februar in Höchstädt an der Donau
+(Lkr. Dillingen an der Donau) und am 27. Juli in Babenhausen
+(Lkr. Unterallgäu) durchgeführt. Die regelmäßigen Veranstaltun­
+gen sollen die Vernetzungen der AfD mit Akteuren des rechtex­
+tremistischen Vorfelds der Partei intensivieren sowie die Zusam­
+menarbeit zwischen JA, AfD und dem extremistischen Vorfeld
+im Raum Schwaben verstetigen.
+
+Zudem bestehen auch zwischen der als rechtsextremistische
+Bestrebung bewerteten Aktivitas der Burschenschaft „Teutonia
+Prag zu Würzburg“ und der JA intensive Kontakte und personelle
+Überschneidungen.
+
+
+9. BEOBACHTUNG DER AFD
+Beobachtung der AfD durch das BfV
+Seit 25. Februar 2021 stuft das Bundesamt für Verfassungs­
+schutz (BfV) die Partei „Alternative für Deutschland“ (AfD) als
+Verdachtsfall im Phänomenbereich Rechtsextremismus ein. Bei
+der AfD, in ihrem Grundsatzprogramm und bei ihren Vertretern
+
+
+                                                                                      191
+Verfassungsschutzbericht Bayern 2024                              Rechtsextremismus
+
+
+                       kommt nach den Erkenntnissen des BfV vielfach ein ethnisch-kul­
+                       turelles Volksverständnis zum Ausdruck. Darüber hinaus werden
+                       ausländer- und muslimfeindliche aber auch antisemitische Posi­
+                       tionen vertreten. Das BfV stellt auch Diffamierungen und Verun­
+                       glimpfungen politischer Gegner und des Staates sowie als Ziel
+                       eine generelle Herabwürdigung und Verächtlichmachung des
+                       politischen Systems fest. Die AfD erhob Rechtsmittel gegen die
+                       Beobachtung durch das BfV. Das Verwaltungsgericht Köln (VG
+                       Köln) bestätigte im Urteil vom 8. März 2022 die Einstufung der
+                       AfD als Verdachtsfall. In die Bewertung durch das BfV flossen auch
+                       Erkenntnisse zum zwischenzeitlich formal aufgelösten „Flügel“,
+                       dessen Protagonisten teils weiter maßgeblichen Einfluss inner­
+                       halb der AfD ausüben, Erkenntnisse zur AfD-Jugendorganisa­
+                       tion „Junge Alternative“ (JA) und einen ethnisch verstandenen
+                       Volksbegriff ein. Das Oberverwaltungsgericht Nordrhein-West­
+                       falen (OVG NRW) hat mit Urteil vom 13. Mai die Berufung gegen
+                       das Urteil des VG Köln vom 8. März 2022 zurückgewiesen. Über
+                       die von der Klägerin gegen die Nichtzulassung der Revision ein­
+                       gelegte Beschwerde wurde noch nicht entschieden, die Ent­
+                       scheidung des OVG NRW ist daher noch nicht rechtskräftig.
+
+                       Beobachtung der AfD durch das BayLfV
+                       Der am 21. Juni 2022 begonnenen Beobachtung der AfD als
+                       Gesamtpartei durch das Bayerische Landesamt für Verfassungs­
+                       schutz (BayLfV) liegen – neben eigenen Erkenntnissen – die dem
+                       BfV und die im Verfassungsschutzverbund vorliegenden bundes­
+                       weiten Erkenntnisse über die AfD zugrunde. Der bayerische
+                       AfD-Landesverband muss sich verfassungsfeindliche Äußerun­
+                       gen von Repräsentanten des Bundesverbandes sowie anderer
+                       Landesverbände der AfD zurechnen lassen. Bei den Landesver­
+                       bänden handelt es sich um organisatorische Einheiten einer auf
+                       Bundesebene tätigen Partei mit demselben ideologischen Hin­
+                       tergrund. Es liegen keine Anhaltspunkte dafür vor, dass sich der
+                       bayerische Landesverband der AfD von einzelnen Äußerungen
+                       der AfD auf Bundesebene oder anderer AfD-Landesverbände
+                       distanziert hätte. Im Gegenteil wurde z. B. der Landes- und Frak­
+                       tionsvorsitzende des Landesverbandes Thüringen, Björn Höcke,
+                       bereits mehrfach als Redner zu Veranstaltungen nach Bayern
+                       eingeladen. Dies zeigt, dass der bayerische Landesverband keine
+                       Distanzierung von dessen Äußerungen erkennen lässt.
+
+                       Die Beobachtung durch das BayLfV dient der Aufklärung, inwie­
+                       weit sich tatsächliche Anhaltspunkte dafür verfestigen, dass die
+                       AfD als Gesamtpartei Bestrebungen verfolgt, die den Kernbe­
+                       stand des Grundgesetzes zu beeinträchtigen oder zu beseitigen
+                       versuchen. Die innere Zerrissenheit der AfD als Gesamtpartei,
+
+
+192
+Rechtsextremismus                                      Verfassungsschutzbericht Bayern 2024
+
+
+
+Flügelkämpfe bzw. eine Annäherung an extremistische Grup­
+pierungen machen eine Beobachtung der AfD als Gesamtpartei
+durch den Verfassungsschutz erforderlich. Dabei ist zu unter­
+suchen, inwieweit die verfassungsfeindlichen Bestrebungen
+einzelner Gruppierungen für die künftige Entwicklung der AfD
+als Gesamtpartei von Bedeutung sein können und inwieweit Ex­
+tremisten innerhalb der AfD eine steuernde Wirkung entfalten.
+Dementsprechend dient der Beobachtungsauftrag des BayLfV
+vorrangig der Klärung, ob die AfD als Gesamtpartei aktuell von
+einer verfassungsfeindlichen Grundtendenz beherrscht wird. Die
+Beobachtung erfolgt aus Verhältnismäßigkeitsgründen in erster
+Linie sach- und themenbezogen und erstreckt sich deshalb bislang
+nur auf einzelne Funktionäre und Mitglieder des AfD-Landesver­
+bandes Bayern (mit seinen nach Parteiangaben im Jahr 2024
+etwa 7.000 Mitgliedern), zu denen zurechenbare verfassungs­
+schutzrelevante Erkenntnisse vorliegen. Eine belastbare Angabe
+des extremistischen Personenpotenzials ist vor diesem Hinter­
+grund nicht möglich. 2024 wurde ein Mitglied der AfD-Fraktion
+im Bayerischen Landtag vom BayLfV beobachtet. Der Betroffene
+hat gegen seine Beobachtung Klage beim Bayerischen Verwal­
+tungsgericht München (VG München) eingelegt, über die noch
+nicht entschieden wurde.
+
+Gegen die Beobachtung durch das BayLfV legte der baye­rische           Rechtsmittel
+AfD-Landesverband Rechtsmittel ein. Mit Beschluss vom 17. Ap­          gegen Beobachtung
+ril 2023 lehnte das VG München im Verfahren des vorläuﬁgen             erfolglos
+Rechtsschutzes vom bayerischen AfD-Landesverband gestellte
+Anträge ab. Die hiergegen gerichtete Beschwerde lehnte der
+Bayerische Verwaltungsgerichtshofs (BayVGH) mit Beschluss
+vom 14. September 2023 im Wesentlichen ab. Das BayLfV durfte
+die AfD als Gesamtpartei vorläufig, d. h. bis zur Entscheidung in
+der Hauptsache, beobachten und die Öffentlichkeit über diese
+Beobachtung informieren.
+
+Urteil des VG München
+Im Hauptsacheverfahren hat das VG München die Klage des
+bayerischen AfD-Landesverbandes mit Urteil vom 20. Juni 2024,
+verkündet am 1. Juli 2024, abgewiesen, soweit die Beteiligten
+die Klageanträge nicht übereinstimmend für erledigt erklärt haben.
+Das BayLfV darf demnach – sowohl im Zeitpunkt der Bekannt­
+gabe der Beobachtung im September 2022 als auch im Zeitpunkt
+der Entscheidung des Gerichts – die AfD als Gesamtpartei beob­
+achten und auch die Öffentlichkeit darüber sachlich informieren.
+Es lägen – jeweils selbstständig tragend – tatsächliche Anhalts­
+punkte für Bestrebungen gegen die freiheit­liche demokratische
+Grundordnung in Ausprägung der Menschenwürde und des
+
+
+                                                                                      193
+Verfassungsschutzbericht Bayern 2024                               Rechtsextremismus
+
+
+                       Demo­kratie- und Rechtsstaatsprinzips vor. Aussagen aus früheren
+                       Jahren verlören laut Urteil vom 20. Juni 2024 nicht an Aussagekraft
+                       und können bei der Bewertung aktueller politischer Ziel­setzungen
+                       herangezogen werden. Aus den Urteilsgründen ergibt sich insbe­
+                       sondere Folgendes:
+
+Verstoß gegen          Gegen das Demokratie- und Rechtsstaatsprinzip verstößt, wer
+Demokratie- und        den Parlamentarismus verächtlich macht, ohne aufzuzeigen, auf
+Rechtsstaatsprinzip    welchem anderen Weg dem Grundsatz der Volkssouveränität
+                       Rechnung getragen und die Offenheit des politischen Willens­
+                       bildungsprozesses gewährleistet werden kann. Tatsächliche
+                       Anhaltspunkte für verfassungsfeindliche Bestrebungen liegen
+                       ­
+                       auch vor, wenn staatliche Institutionen, Amtsträger sowie die
+                       anderen demokratischen Parteien und deren Politiker in ihrer
+                       Gesamtheit ständig pauschal in polemischer, teilweise diffamie­
+                       render und verunglimpfender Weise angegriffen oder verächtlich
+                       gemacht werden bzw. wenn durch gehäufte Beschimpfungen,
+                       Verdächtigungen und Verleumdungen das Vertrauen der Bevöl­
+                       kerung in die freiheitliche demokratische Grundordnung und ihre
+                       Repräsentanten erschüttert werden soll.
+
+                       Solche Anhaltspunkte fanden sich in verschiedenen Nachrichten der
+                       im Dezember 2021 öffentlich bekannt gewordenen und darauf­hin
+                       gelöschten Telegram-Gruppe „Alternative Nachrichten­      gruppe
+                       Bayern“. Die Mitglieder der AfD befürworteten darin einen gewalt­
+                       samen Umsturz, um den gewünschten „Kurswechsel“ zu errei­
+                       chen („Widerstandsgepräge mit Umsturzphanta­         sien“). Der
+                       AfD-Kreisverband München-Ost veranstaltete ­anlässlich der 59.
+                       Münchner Sicherheitskonferenz am 18. Februar 2023 eine Kund­
+                       gebung, bei der als geladener Redner der Chefredakteur des
+                       rechtsextremistischen „COMPACT-Magazins“ auftrat. Er erklärte,
+                       dass das Volk die „Regierung einsperren“ und der Regierung
+                       den „Krieg erklären“ müsse. Aus der agitatorischen Rhetorik ging
+                       ferner hervor, dass der vom Redner geforderte Umsturz nicht
+                       durch Wahlen herbeigeführt werden solle. Ein Facebook-Beitrag
+                       der AfD-Kreistagsfraktion Aichach-Friedberg suggerierte am
+                       18. August 2023, dass eine Bedrohungslage bestehe und man
+                       zum Selbstschutz schießen lernen müsse.
+
+                       In dem dort veröffentlichten Beitrag heißt es: „Der Optimist lernt
+                       Chinesisch, Der Pessimist lernt Arabisch, Der Realist lernt Schie­
+                       ßen“. Die Kreistagsfraktion kommentierte dies mit dem Text:
+
+
+
+
+194
+Rechtsextremismus                                     Verfassungsschutzbericht Bayern 2024
+
+
+
+„Wir wollen doch alle Realisten sein!“. Es wird unterstellt, dass
+der Staat nicht mehr willens oder in der Lage sei, den Einzelnen
+zu schützen, das Gewaltmonopol des Staates untergraben und
+Gewaltanwendung durch den Einzelnen legitimiert.
+
+
+
+
+Sofern Funktionäre, Mitglieder und Anhänger einer Partei die          Verletzung der
+Menschenwürde Dritter nicht nur vereinzelt beeinträchtigen,           ­Menschenwürde
+sondern systematisch verletzen, um eine ablehnende, feindliche
+Haltung zu begründen oder zu festigen und letztlich zu Angst
+und Hass anzustacheln, stellt dieses Verhalten eine verfassungs­
+feindliche Ausgrenzung bestimmter Personengruppen dar. Nach
+der Rechtsprechung des Bundesverfassungsgerichts ist es ferner
+nicht mit dem Volksverständnis des Grundgesetzes vereinbar,
+wenn Staatsbürgern – abhängig von ihrer ethnischen Zugehö­
+rigkeit – ein unterschiedlicher rechtlicher Status zugesprochen
+werden soll. Es liegen hinreichende tatsächliche Anhaltspunkte
+für eine jedenfalls bei Teilen der AfD bestehende Zielsetzung,
+Deutsche mit Migrationshintergrund menschenwürdeverletzend
+auszugrenzen, vor. Deutschen mit Migrationshintergrund soll
+ein rechtlich abgewerteter Status zuerkannt werden, wenn zwi­
+schen ihnen – den „Passdeutschen“ – und einem auf einem
+ethnisch-biologischen bzw. ethnisch-kulturellem Volksverständnis
+basierenden deutschen Staatsvolk unterschieden wird und For­
+derungen nach „Remigration“ befürwortet werden, die Deut­
+sche mit Migrationshintergrund einschließen.
+
+
+
+
+                                                                                       195
+Verfassungsschutzbericht Bayern 2024                                  Rechtsextremismus
+
+
+                                                Ein Beitrag im Facebook-Profil der
+                                                AfD-Kreistagsfraktion Aichach-Fried­
+                                                berg vom 7. Januar 2023 macht deutlich,
+                                                dass Menschen mit dunkler Hautfarbe
+                                                aufgrund einer biologischen Komponen­
+                                                te niemals wirklich Teil des deutschen
+                                                Volkes sein könnten. Ein dort veröffent­
+                                                lichtes Bild zeigt 2 Personen mit dunkler
+                                                Hautfarbe, die deutsche Reisepässe in
+                                                die Kamera halten. Ihnen wird die Aus­
+                                                sage „Wir sind Deutsche“ zugeschrie­
+                                                ben und eine Aufnahme von 2 in die
+                                                Kamera blickenden Löwen gegenüber­
+                                                gestellt, denen die mit 2 ­lachenden Smi­
+                                                leys versehene Aussage „Und wir sind
+                                                Vegetarier“ zugeordnet wird. Damit soll
+                                                zum Ausdruck gebracht werden, dass
+                                                Menschen mit dunkler Hautfarbe ge­
+                                                nauso wenig Deutsche sein können wie
+                                                Löwen Vegetarier. Ferner wurde das
+                       Bild von der Kreistagsfraktion mit dem Kommentar versehen,
+                       die Ampelkoalition löse das Problem der „Migrantengewalt“ da­
+                       durch, dass alle Migranten in kürzester Zeit und ohne Bedingun­
+                       gen die deutsche Staatsbürgerschaft erhielten. Der Beitrag eines
+                       AfD-Funktionärs auf der Plattform X vom 19. November 2023,
+
+                                 Integration ist gescheitert – Der Bevölkerungs­
+                                 austausch ist real […] 3. Generationtürken [sic!]
+                                 mit Deutschen Pass identifizieren sich nicht mit
+                                 Deutschland sondern mit ihrer Heimat. […] ­Türken
+                                 haben in Berlin Heimspiel, dominieren das
+                                 Stadion und die Strassen[sic!]. Die Deutschen
+                                 ­
+                                 sind in ihrer Hauptstadt in der Minderheit. Die ein­
+                                 zige Lösung für diese Probleme ist Remigration!
+
+
+                       zeigt, dass mit der Forderung nach „Remigration“ von Deut­
+                       schen mit (türkischem) Migrationshintergrund eine ethnisch-­
+                       abstammungsmäßig definierte Personengruppe ungeachtet
+                       ihrer deutschen Staatsbürgerschaft dazu gebracht werden soll,
+                       Deutschland zu verlassen.
+
+                       Teile der AfD betrachten die rechtsextremistische IB und deren
+                       Führungsfigur Martin Sellner als Partner und fördern eine stra­
+                       tegische Zusammenarbeit. So beteiligten sich AfD-Angehörige
+                       am 11. November 2023 an einer Vernetzungsveranstaltung der
+
+
+196
+Rechtsextremismus                                       Verfassungsschutzbericht Bayern 2024
+
+
+
+Gruppierung „Reconquista 21“, einer IB-Unterorganisation im
+süddeutschen Raum. Sellner trat bei dieser Veranstaltung als
+Redner auf und stellte u. a. Aktionen der IB sowie sein Remigra­
+tionskonzept vor. Die Gruppierung „Reconquista 21“ selbst ver­
+öffentlichte mehrere Fotos von der Veranstaltung, darunter eines
+von Sellner, und versah diese mit dem Text:
+
+        Exklusive Einblicke: Geh-Heim-Treffen in Dasing!
+        Erwischt beim öffentlichen Geh-Heim-Treffen in
+        Dasing. Exklusive Einblicke in die berüchtigte
+        Veranstaltung. Offen wurde darüber gespro­
+        chen, wie wir in unserer Heimat nicht zur Min­
+        derheit werden. Dabei wurde sogar Überfrem­
+        dung und Ausländerkriminalität thematisiert.
+        #Remigration.
+
+
+Das Urteil ist noch nicht rechtskräftig. Die AfD beantragte die
+Zulassung der Berufung, über die noch nicht entschieden wurde.
+
+Staats- und Demokratiefeindlichkeit
+Auch 2024 fanden sich Aussagen und Posts, die – wie bereits
+im Urteil des VG München aufgeführt – auf eine Verletzung des
+Demokratie- und des Rechtsstaatsprinzips abzielen, indem sie
+das bestehende freiheitliche demokratische und rechtsstaatliche
+System der Bundesrepublik Deutschland verächtlich machen.
+
+Der AfD-Kreisverband Würzburg zog am 2. März Parallelen zwi­
+schen einem Unrechtsstaat – gemeint ist hier offenkundig der
+historische Nationalsozialismus – und dem heutigen Deutsch­
+land und versuchte so, das Vertrauen der Bevölkerung in die frei­
+heitliche demokratische Grundordnung zu erschüttern:
+
+        So hat es schon einmal begonnen!
+          * Medien gesteuert
+          * Gesetze optimiert
+          * Parteien verboten
+          * Meinungen unterdrückt
+          * Kinder beeinflusst
+          * Andersdenkende diffamiert
+          - und KEINER wollte es sehen!
+
+
+Auf der Strategietagung der „Jungen Alternative Bayern“ am
+8. Juni in Nürnberg regte ein Gastredner u. a. offen an, zur Durch­
+setzung politischer Ziele das Rechtsstaatsprinzip zu missachten.
+
+
+                                                                                       197
+Verfassungsschutzbericht Bayern 2024                              Rechtsextremismus
+
+
+                       Die Tagung war maßgeblich von einem bayerischen AfD-Politi­
+                       ker, welcher zugleich eine führende Rolle in der bayerischen JA
+                       einnimmt, organisiert worden. Zudem nahmen an der Veranstal­
+                       tung einzelne Landespolitiker der AfD Bayern teil.
+
+                       Migrations- und Islamfeindlichkeit
+                       Die Verwendung von Begriffen wie „Bevölkerungsaustausch“,
+                       „großer Austausch“ und „Umvolkung“ soll die strukturelle Sub­
+                       stitution der „autochthonen“ Bevölkerung durch Zuwanderer
+                       beschreiben und wird dabei teilweise als bewusst gesteuerter
+                       Prozess, teilweise als Ergebnis demographischer Entwicklungen
+                       dargestellt. Dem liegt ein primär ethnisch definiertes Volksver­
+                       ständnis zugrunde, wonach Zuwanderer nicht Teil des deut­
+                       schen Volkes werden können.
+
+                       Außerdem wird Menschen mit Migrationshintergrund und Mus­
+                       limen die Integrationsfähigkeit und -willigkeit pauschal abgespro­
+                       chen und ein Feindbild geschaffen. Entsprechende Äußerungen
+                       verletzen die Menschenwürde von Menschen mit Migrations­
+                       hintergrund und Menschen muslimischen Glaubens, da diese
+                       wegen ihrer Herkunft bzw. Religionszugehörigkeit systematisch,
+                       anhaltend und pauschalisierend auf polemische Art und Weise
+                       herabgesetzt, ausgegrenzt und als kriminelle, nicht integrierbare
+                       Menschen zweiter Klasse dargestellt werden.
+
+
+
+
+                       Ein Facebook-Beitrag des AfD-Kreisverbandes Aichach-Fried­
+                       berg vom 13. Januar stellt Migranten muslimischen Glaubens
+                       pauschal als Bedrohung dar, insbesondere für Mädchen und
+                       junge Frauen. So zeigt das dazugehörige Bild ein auf einer Bank
+                       sitzendes Mädchen mit ängstlichem Gesichtsausdruck, umringt
+
+198
+Rechtsextremismus                                     Verfassungsschutzbericht Bayern 2024
+
+
+
+von 7 lachenden vollbärtigen Männern mit Turban. Darunter
+steht der Text: „Unsere Enkel werden uns das nie verzeihen“.
+Der AfD-Kreisverband Aichach-Friedberg kommentierte diese
+Bildszene mit der Aussage:
+
+        Uns (der AfD) muß[sic!] man diese massenhafte,
+        verhängnisvolle Einwanderung nicht verzeihen
+        wir sind seit unserem Start dagegen, wir werden
+        für Schutz unserer Grenzen sorgen, und für Re­
+        migration (dazu brauchen wir kein Geheimtreffen
+        und keinen Geheimplan, das steht in unserem
+        Programm).“
+
+
+Ein weiterer „repost“ vom 27. April, der dem AfD-Kreisverband
+München-Ost zugerechnet werden kann, suggerierte, dass es
+sich bei Migranten afrikanischer Herkunft grundsätzlich um po­
+tenzielle Sexualstraftäter handle. Durch Verwendung der Begriffe
+„Fuckkräfte“ bzw. „Fuckenmann“ als Symbol für Migranten
+afrikanischer Herkunft wurden diese pauschal als grundsätzlich
+triebgesteuerte Sexualstraftäter dargestellt und in einer gegen
+die Menschenwürde verstoßenden Weise herabgewürdigt.
+
+Am 23. Januar veröffentlichte eine AfD-Funktionärin auf der
+Plattform „X“ ein Video mit folgendem Redebeitrag:
+
+        Nun frage ich mich, wie viele Mohammeds
+        werden hier noch geboren? Und wie lange wird
+        der Name Mohammed noch den ersten Plätzen
+        (sic!) unter allen Babynamen belegen? Und was
+        bleibt noch übrig von uns, dem deutschen Volk?
+        Und welche Art von Gewalt wird die aktuelle Re­
+        gierung als nächstes importieren? Als ob sie das
+        genießen würden, oder? Es ist schwer zu begrei­
+        fen, wer seine Heimat so stark verachten würde,
+        dass das eigene Volk, die eigenen Rentner, die
+        eigenen Kinder völlig Wurscht sind.
+
+
+Die Aussage wertet Personen mit muslimischen Namen ab, ­indem
+diese pauschal und unabhängig von der tatsächlichen Staats­
+bürgerschaft als nicht zum deutschen Volk gehörig bezeichnet
+­werden. Dies offenbart ein nicht mit dem Grundgesetz vereinbares
+ ethnisch-homogenes Volksverständnis, das Personen mit einem
+ anderen kulturellen Hintergrund kategorisch ausschließt.
+
+
+
+
+                                                                                     199
+Verfassungsschutzbericht Bayern 2024                              Rechtsextremismus
+
+
+                                                  Des Weiteren propagierten Funktio­
+                                                  näre und Politiker der baye­rischen
+                                                  AfD im Berichtszeitraum das Remi­
+                                                  grationskonzept Martin Sellners,
+                                                  des führenden Aktivisten der IB
+                                                  im deutschsprachigen Raum. So
+                                                  wurde dessen 2024 erschienenes
+                                                  Buch „Remigration. Ein Vorschlag“
+                                                  auf den Social-Media-Accounts
+                                                  von hochrangigen Vertretern der
+                                                  Partei beworben. Ein AfD-Funktio­
+                                                  när verbreitete am 13. März einen
+                                                  Beitrag von Martin Sellner auf der
+                                                  Plattform X. Dem Beitrag Sellners
+                                                  zufolge befinde man sich in der
+                                                  „Endphase des Bevölkerungsaus­
+                                                  tauschs und damit im letzte [sic!]
+                                                  und besten Zeitfenster für #remigra­
+                                                  tion“. In diesem als „sweet spot“
+                       bezeichnetem Zeitfenster bestehe die größte Chance für einen
+                       Wahlsieg und eine „Massenbewegung“.
+
+                       Bezüge zu rechtsextremistischen Akteuren
+„Mosaik-Rechte“        Vernetzungsbestrebungen mit Akteuren des rechtsextremis­
+                       tischen Vorfelds konnten 2024 u. a. am 3. August auf einer
+                       Veranstaltung des AfD-Ortsverbandes Meitingen festgestellt
+                       werden. An der Veranstaltung nahmen zahlreiche Mitglieder der
+                       „JA Bayern“ sowie weitere Akteure des rechtsextremistischen
+                       „Vorfelds“ der Partei teil, wobei mehrere Aktivisten der IB-Regi­
+                       onalgruppierungen „Reconquista 21“ und „Lederhosenrevolte“
+                       blaue T-Shirts mit der Aufschrift „Identitäre Bewegung“ trugen
+                       und damit offen erkennbar als IB-Mitglieder auftraten. Überdies
+                       bedankte sich die Vorsitzende des Ortsverbandes beim „patrio­
+                       tischen Vorfeld“ für die Teilnahme der vielen „wichtige[n] Akteu­
+                       re“. Die Veranstaltung kann als Versuch bewertet werden, das
+                       innerhalb der rechtsextremistischen Szene entwickelte Konzept
+                       der sog. „Mosaik-Rechten“ umzusetzen. Szeneintern meint der
+                       Begriff der „Mosaik-Rechten“ die Kooperation zwischen der AfD
+                       und den in ihrem gesellschaftspolitischen Umfeld angesiedelten
+                       Vorfeldorganisationen. Aus Sicht des Verfassungsschutzes ist
+                       unter „Mosaik-Rechten“ eine arbeitsteilige Aufgliederung im
+                       extremistischen neu-rechten Spektrum zu verstehen, wobei die
+                       einst klaren Trennlinien zwischen demokratischen, radikalen und
+                       extremistischen Positionen verwischt werden. Insgesamt konn­
+                       ten mehrere Veranstaltungen der AfD sowie der JA festgestellt
+
+
+
+
+200
+Rechtsextremismus                                      Verfassungsschutzbericht Bayern 2024
+
+
+
+­werden, die auf eine deutliche Intensivierung der Kooperations­
+ bereitschaft und der personellen Überschneidungen zwischen
+ AfD, JA und Akteuren des rechtsextremistischen Vorfeldes der
+ Partei in der Region hindeuten.
+
+
+10. PARTEIUNABHÄNGIGE UND UNSTRUK-
+    TURIERTE RECHTSEXTREMISTISCHE
+    BESTREBUNGEN
+
+10.1 Identitäre Bewegung Deutschland (IBD)
+Die ursprünglich aus Frankreich stammende und inzwischen
+europaweit agierende „Identitäre Bewegung“ (IB) ist ein rechts­
+extremistischer Personenzusammenschluss, der eine mitunter
+subtile, auf den gesamtgesellschaftlichen Diskurs abzielende
+Beeinflussungsstrategie verfolgt. Sie versucht durch das Be­
+setzen, Prägen und Umdeuten von Begriffen Diskursräume zu
+verändern, Sagbarkeitsfelder zu erweitern sowie die Akzeptanz
+für extremistische Vorstellungen in der Gesellschaft zu erhöhen.
+
+Kennzeichnend für den Aktionismus der IB sind öffentliche Stör-        Provokative
+und Transparentaktionen, die sie im Rahmen von Social-­Media-          Social-Media-
+Kampagnen inszeniert und verbreitet. Sie orientieren sich konse­       Kampagnen
+quent an digitalen Trends, um dem Medienkonsumverhalten
+junger Zielgruppen gerecht zu werden. Dabei lassen nicht alle
+Auftritte auf sozialen Medien einen direkten Bezug zur Gruppie­
+rung erkennen.
+
+In einem Berufungsverfahren hat der 2. Wehrdienstsenat des Bun­
+desverwaltungsgerichts (BVerwG) mit Urteil vom 19. April hinsicht­
+lich der aktiven Unterstützung der IB durch einen Oberleutnant
+der Reserve aus Bayern entschieden, dass die Betätigung zu­
+gunsten der IB einen Verstoß gegen die Pflicht zur Verfassungs­
+treue begründet und die disziplinarrechtliche Höchstmaßnahme
+gegen den Soldaten bestätigt.
+
+Ideologie
+Ideologisch wähnt sich die „Identitäre Bewegung Deutschland“           „Ethnopluralismus“
+(IBD) in der Tradition der „konservativen Revolution“, einer anti­     und „Remigration“
+demokratischen, antiliberalen und antiegalitären Strömung der
+Weimarer Zeit. Im Zentrum ihrer Propaganda steht das Konzept
+des „Ethnopluralismus“. Über den Begriff verbreitet die IB die
+Zielvorstellung eines ethnisch und kulturell homogenen Staates.
+
+
+
+
+                                                                                       201
+Verfassungsschutzbericht Bayern 2024                               Rechtsextremismus
+
+
+                       Sie propagiert dabei einen in der Sache völkisch-abstammungs­
+                       mäßigen Volksbegriff, der Menschen mit Migrationshintergrund
+                       einen geringeren Wert zuschreibt und sich gegen die im Grund­
+                       gesetz enthaltene prinzipielle Gleichheit der Menschen richtet.
+
+                       Die Verschwörungstheorie des „Großen Austausches“ wird
+                       dabei zur Verbreitung der Ansicht genutzt, politische Eliten
+                       würden die Masseneinwanderung absichtlich forcieren, um die
+                       ange­stammten Völker und Kulturen Europas zu ersetzen. Darauf
+                       aufbauend wird eine „Remigration“ von Personen gefordert,
+                       die den ethnokulturellen Kriterien der IB nicht entsprechen. Die
+                       Forderung bezieht sich auch auf deutsche Staatsangehörige mit
+                       Migrationshintergrund und wertet diese als Staatsbürger zweiter
+                       Klasse ab.
+
+                       Identitäre Leitstrategie ist die „Reconquista“, an deren Ende die
+                       Idee der „Rückeroberung“ Europas, in Form von ethnisch und
+                       kulturell homogenen Staaten steht.
+
+Eigene Sprache der     Die identitäre Ideologie weist trotz rhetorischer Abgrenzungsver­
+Identitären            suche Parallelen zu anderen rechtsextremistischen Ideen und Kon­
+                       zepten auf. Das ethnopluralistische Postulat von der räumlichen
+                       und geopolitischen Trennung von Menschen nach ethnischen Kri­
+                       terien findet sich in ähnlicher Form in der „Blut und Boden“-Ideo­
+                       logie des Nationalsozialismus wieder. Der Begriff der „Rasse“
+                       wird im identitären Kontext durch eine angeb­liche „ethnokulturelle
+                       Identität“ ersetzt. Die Theorie des „Großen Austausches“ deckt
+                       sich zudem weitgehend mit den Aussagen rechtsextremistischer
+                       „Volkstod“-Parolen. Dabei wird behauptet, dass im Rahmen eines
+                       verschwörerischen Eliteprojektes das deutsche Volk durch zuge­
+                       wanderte „volksfremde“ Migranten verdrängt würde und ausster­
+                       ben werde. Insgesamt beschränken sich Unterschiede zwischen
+                       Bestrebungen aus dem „klassischen Rechtsextremismus“ und
+                       der IB lediglich auf die Verwendung verschiedener Begriffe. Denn
+                       zwischen der Theorie des Ethnopluralismus und der in rechtsextre­
+                       men Kreisen traditionell vertretenen „Blut-und-Boden-Ideologie“
+                       besteht eine große gedankliche Nähe.
+
+                       Strukturen in Bayern
+Autonom handelnde      Die hierarchische Struktur der IB in Bayern wurde mittlerweile
+Orts- und Regional­    zugunsten autonomer Orts- bzw. Regionalgruppen aufgelöst.
+gruppen
+                       In Bayern treten die der IB zurechenbaren Gruppierungen „Re­
+                       conquista21“ (vormals „Wackre Schwaben“) und „Lederhosen
+                       Revolte“ öffentlich wahrnehmbar in Erscheinung.
+
+
+
+
+202
+Rechtsextremismus                                      Verfassungsschutzbericht Bayern 2024
+
+
+
+Öffentlichkeitswirksame Aktionen in Bayern
+Mit „Asyl und Migration“ setzt die IB auf einen Themenkom­
+plex, der im Fokus der öffentlichen Debatte steht. Sie greift hier
+vor allem die z. T. angespannte Lage bei der Unterbringung von
+Asylbewerbern auf. Dabei macht sich die IB Ängste und Sorgen
+von Teilen der Bevölkerung zu Nutze, um sie für ihre eigenen
+politischen Ziele zu instrumentalisieren.
+
+So führte die IB-Gruppierung „Reconquista21“ am 3. Februar
+in Augsburg eine Aktion zu dem Themenkomplex „Asyl und
+Migration“ durch, über die die rechtsextremistische Remigra­
+tionsforderung der IB verbreitet wurde. Die Aktion fand auf dem
+Augsburger Rathausplatz statt, auf dem gleichzeitig eine Groß­
+kundgebung unter dem Motto „Gemeinsam gegen Rechts – Für
+Demokratie und Vielfalt“ abgehalten wurde.
+
+Für die Aktion hatten sich Angehörige von
+„Reconquista21“ mit ­    einem ausklappbaren
+Holzaufsteller, der von außen mit der Aufschrift
+„Kasperle gegen Rechts“ versehen war, unter
+die Teilnehmer der Versammlung gemischt.
+Ein Aktivist versuchte zunächst, die Aufmerk­
+samkeit und Zustimmung des Kundgebungs­
+publikums zu gewinnen, indem er das „Kasper­
+le-Theater gegen Rechts“ lautstark ankündigte.
+Kurz darauf enthüllten die Aktivisten jedoch
+die Innenfläche des Aufstellers mit dem Text
+„Remigration heißt: Heimat, Sicherheit, Wohl­
+stand“ und skandierten dabei die IB-Parole
+„Remigration“. Weder die Aktivisten noch der
+Aufsteller waren mit offenen Symbolen oder
+anderen Kennzeichen versehen, die auf eine
+Zugehörigkeit zu „Reconquista21“ oder zur IB
+hätten schließen lassen.
+
+Die Aktion ist als Provokation der Teilnehmer
+der Versammlung und als Instrumentali­sierung
+des Demonstrationsgeschehens und zur Stei­
+gerung der Aufmerksamkeit für die eigene
+rechtsextremistische Remigrationsforderung
+zu werten.
+
+Auch die Gruppierung „Lederhosen Revolte“
+führte 2024 mehrere Aktionen durch. Am
+8. Juni fand eine Banneraktion der Gruppierung
+in München während einer Großkundgebung mit dem Motto
+„Rechtsextremismus stoppen, Demokratie verteidigen“ statt.
+
+                                                                                      203
+Verfassungsschutzbericht Bayern 2024                                Rechtsextremismus
+
+
+                       Dabei wurde ein Transparent mit der Aufschrift „Mannheim
+                       ist überall“ an einem Baugerüst am Gebäude der Staat­lichen
+                       Antikensammlung heruntergelassen. In Bezugnahme auf die
+                       Messerattacke vom 31. Mai in Mannheim ist das Konterfei des
+                       Attentäters auf dem Transparent abgebildet. Auch hier instru­
+                       mentalisierte die Gruppierung eine Veranstaltung, um zu provo­
+                       zieren und Aufmerksamkeit für sich zu generieren.
+
+                       Neben derartigen, nach
+                       außen gerichteten Ak­
+                       tionen, die eine un­
+                       mittelbare politische
+                       Wirkung entfalten sol­
+                       len, organisieren die
+                       IB-Untergruppierun­
+                       gen auch Freizeitak­
+                       tivitäten, über die sie
+                       auf ihren Social-Me­
+                       dia-Profilen berichten.
+                       So informierte „Re­
+                       conquista 21“ bei­
+                       spielsweise über eine
+                       am 10. März im Raum
+                       Ulm (Baden-Württem­
+                       berg) durchgeführte
+                       „Frühjahrswanderung“ mit ca. 20 Teilnehmern. Am 6. April fand
+                       im Raum Garmisch-Partenkirchen eine „Frühlingswanderung“
+                       der IB-Gruppierung „Lederhosen Revolte“ statt, an der sich etwa
+                       15 Personen beteiligten. Vom 3. bis 5. Mai fand im Raum Röten­
+                       bach (Baden-Württemberg) ein sog. „Akti­vistenwochenende“
+                       der „Reconquista 21“ unter dem Motto „Mythos Europa“ statt.
+
+                       An Aktionen der IB, insbesondere der Gruppierung „Lederho­
+                       sen Revolte“, beteiligen sich regelmäßig auch Mitglieder der
+                       rechtsextremistischen Aktivitas der „Burschenschaft Danubia
+                       München“.
+
+
+                       10.2 Neonazismus und Kameradschaften
+Neonazistische Ziele   Der Neonazismus ist eine besonders menschenverachtende
+und Narrative          ­Erscheinungsform des Rechtsextremismus. Er umfasst alle Akti­
+                        vitäten und Bestrebungen, die sich offen zur Ideologie des National­
+                        sozialismus bekennen. Ziel der Neonazis ist die Abschaffung der
+                        freiheitlichen demokratischen Grundordnung und die Errichtung
+                        eines vom Führerprinzip bestimmten autoritären bzw. totalitären
+
+
+204
+Rechtsextremismus                                      Verfassungsschutzbericht Bayern 2024
+
+
+
+Staates. Neonazis betreiben revisionistische Vergangenheitsver­
+fälschung, indem sie die Geschichtsschreibung über die Zeit des
+Dritten Reiches ändern wollen und die Gewaltherrschaft des
+nationalsozialistischen Regimes rechtfertigen oder verharmlo­
+sen. „Moderne“ Neonazis thematisieren aktuelle sozial- oder
+gesellschaftspolitische Fragen und liefern vermeintlich einfache
+Antworten. Bei Demonstrationen greifen sie tagespolitische
+Themen auf und fordern beispielsweise die „Todesstrafe für
+Kindermörder“ oder „Arbeitsplätze zuerst für Deutsche“. Ihre
+Thesen stützen Neonazis auf rassistische und antisemitische
+Argu­mentationsmuster.
+
+In Bayern entfalten vor allem die rechtsextremistische Kleinst­        Rückläufige Tenden­
+partei „Der Dritte Weg“ („III. Weg“) sowie einzelne Kamerad­           zen bei Kamerad­
+schaften neonazistische Aktivitäten. Die Organisationsform der         schaften
+neonazistischen Kameradschaft ist aber insgesamt rückläufig.
+So schließen sich Neonazis überwiegend in informellen Gruppen
+zusammen, die weitgehend ohne feste Strukturen auskommen,
+oder sie agieren als Einzelpersonen. Vernetzung und Kontakt­
+pflege erfolgen über das Internet und soziale Netzwerke. In Bayern
+werden rund 660 Personen dem Neonazismus zugeordnet.
+
+Die Artgemeinschaft
+Mit Wirkung vom 27. September 2023 verbot das Bundesminis­
+terium des Innern und für Heimat den rechtsextremistischen
+Verein „Die Artgemeinschaft – Germanische Glaubens-Gemein­
+schaft wesensgemäßer Lebensgestaltung e. V.“ (AG-GGG) und
+sämtliche Teilorganisationen. Der Verein richtet sich gegen die
+verfassungsmäßige Ordnung und – insbesondere aufgrund anti­
+semitischer Inhalte – auch gegen den Gedanken der Völkerver­
+ständigung. Das Verbot ist noch nicht rechtskräftig.
+
+Bei der AG-GGG handelte es sich um eine bundesweit aktive
+neonazistische, neuheidnische und religiös-völkische Organisa­
+tion. Sie bildete eine wichtige Schnittstelle für die gesamtdeut­
+sche Neonaziszene. Die Ideologie der Organisation – von den
+Mitgliedern „Artglaube“ genannt – geht von der Überlegenheit
+einer nordisch-germanischen „Menschenart“ aus. Neben dieser
+rassistischen Grundannahme umfasst die Ideologie auch völki­
+sche, sozialdarwinistische und antisemitische Elemente. Zudem
+ist eine Orientierung am Weltbild des historischen National­
+sozialismus feststellbar. Die Gruppierung veranstaltete in erster
+Linie interne germanisch-neuheidnische Feiern sowie Gemein­
+schaftstage, um ihre Ideologie innerhalb ihrer Anhängerschaft zu
+verbreiten und zu festigen.
+
+
+
+
+                                                                                      205
+Verfassungsschutzbericht Bayern 2024                              Rechtsextremismus
+
+
+                       10.3 Subkulturell geprägte Rechtsextremisten
+                       Subkulturell geprägte Rechtsextremisten besitzen oftmals kein
+                       kohärentes Weltbild, sondern bedienen sich verschiedener
+                       rechtsextremistischer Argumentationsmuster. Insbesondere
+                       rassistische, antisemitische und das demokratische System
+                       ablehnende Ideologeme sowie die Befürwortung von Gewalt
+                       gegen Migranten sind dabei weit verbreitet. Die rechtsextremis­
+                       tische Szene versucht zudem, ihre Feindbilder und Ideologien in
+                       Jugendszenen einfließen zu lassen, um weitere Mitglieder zu ge­
+                       winnen und selbst jugendrelevante Trends und Stile mitzuprägen.
+
+                       Durch die Übernahme unterschiedlicher Modetrends ist der Be­
+                       reich der subkulturell geprägten Rechtsextremisten hinsichtlich
+                       des äußeren Erscheinungsbildes deutlich diverser geworden.
+                       Dies zeigt sich auch im Angebot rechtsextremistischer Mode-­
+                       Labels. Eine rechtsextremistische Szenezugehörigkeit ist somit
+                       äußerlich oftmals nur noch schwer zu erkennen.
+
+                       Teile der subkulturell geprägten rechtsextremistischen Szene
+                       orientieren sich in ihrem Erscheinungsbild und ihren internen
+                       Strukturen an der Rockerszene. So wählen sie beispielsweise
+                       englischsprachige Gruppenbezeichnungen, tragen „Kutten“
+                       (Motorradjacken, auf deren Rückenteil das Gruppenlogo aufge­
+                       näht ist), pflegen rockerähnliche Aufnahmerituale für Neumit­
+                       glieder und benennen interne Hierarchieebenen mit englischen
+                       Begriffen wie „President“ oder „Secretary“.
+
+                       Es ist zwar keine strukturierte Zusammenarbeit zwischen der
+                       rechtsextremistischen Szene und der „1-Prozenter“-Rockerszene
+                       in Bayern feststellbar. Es bestehen allerdings punktuell perso­
+                       nelle Überschneidungen zwischen dem Rockermilieu und der
+                       rechtsextremistischen Szene, die zumeist auf geschäftliche Inte­
+                       ressen oder persönliche Beziehungen zurückgehen.
+
+                                     Voice of Anger (VoA)
+                                     VoA wurde im Jahr 2002 in Memmingen als Skin­
+                                     headvereinigung von überwiegend jüngeren Skin­
+                                     heads gegründet. Sie ist subkulturell-neonazistisch
+                       orientiert. VoA gliedert sich in Bayern in die Sektionen Memmin­
+                       gen, Schwaben, Unterallgäu und „Nomads“ und umfasst ins­
+                       gesamt etwa 60 Mitglieder und Unterstützer. Mit der Sektion
+                       „Preussen“ wurde mittlerweile auch ein Ableger außerhalb Bay­
+                       erns gegründet, der in Hemer (Nordrhein-Westfalen) ein eigenes
+                       Clubhaus angemietet hat.
+
+
+
+206
+Rechtsextremismus                                      Verfassungsschutzbericht Bayern 2024
+
+
+
+Im Zentrum ihrer Aktivitäten steht die Ausrichtung von internen
+Veranstaltungen zur Förderung des Zusammenhaltes. Zudem
+orga­nisiert VoA die Teilnahme an Skinheadkonzerten. Eine der
+Führungsfiguren, Benjamin Einsiedler, vertreibt mit seinem
+Szene­versandhandel „Oldschool Records“ Szeneartikel und Ton­
+träger. Mitglieder von „Voice of Anger – Nomads“ gründeten im
+Jahr 2010 die Skinheadband „Kodex Frei“.
+
+VoA ist derzeit eine der wenigen noch überregional aktiven
+Skinheadkameradschaften. Entgegen der sonst rückläufigen
+Entwicklung der subkulturell geprägten Skinheadszene konnte
+VoA ihren Mitgliederbestand konstant halten und stellt somit die
+größte Skinheadgruppierung in Bayern dar. Potenzielle Mitglieder
+müssen zunächst ein abgestuftes Aufnahmeverfahren ähnlich
+dem einer Rockergruppierung durchlaufen.
+
+Am 19. Oktober veranstaltete die Gruppierung VoA in ihrem
+Vereinsheim auf einer Schrebergartenanlage in Memmingen ein
+Treffen, bei dem Personen aus der rechtsextremistischen Szene
+anwesend waren. Die Veranstaltung wurde durch polizeiliche
+Maßnahmen begleitet.
+
+Jung & Stark Bayern (JS Bayern)
+Die Gruppierung „Jung & Stark“ (JS) setzt sich aus der Dachor­
+ganisation „JS Deutschland“ und verschiedenen regionalen Able­
+gern zusammen, u. a. auch „JS Bayern“. Vordergründig versucht
+JS, sich als ideologisch gemäßigte Gruppierung darzustellen. Auf
+dem bundesweiten Instagram-Account „js_deutschland“ bezeich­
+net sich JS als patriotische Gemeinschaft, die sich dem Erhalt und
+der Pflege der deutschen Tradition und Kultur verschrieben hat.
+Auch auf dem Instagram-Account von „JS Bayern“ distanziert sich
+die Gruppierung öffentlich vom Rechtsextremismus.
+
+Dem Bayerischen Landesamt für Verfassungs­
+schutz liegen jedoch hinreichend gewichtige
+tatsächliche Anhaltspunkte dafür vor, dass
+von „JS Bayern“ eine Bestrebung gegen die
+freiheitliche demokratische Grundordnung
+ausgeht. Neben Bezügen zu anderen rechts­
+extremistischen Gruppierungen konnten „JS
+Bayern“ zuzurechnende Erkenntnisse über
+queer- und fremdenfeindliche Äußerungen
+festgestellt werden. Zudem verbreitete „JS
+Bayern“ über soziale Medien Beiträge mit In­
+halten der neonazistischen Kleinstpartei „Der
+Dritte Weg“ weiter.
+
+
+                                                                                      207
+Verfassungsschutzbericht Bayern 2024                                Rechtsextremismus
+
+
+                       „JS Bayern“ besteht zum Großteil aus noch sehr jungen Akti­
+                       visten. Die Gruppierung ist insbesondere im Internet aktiv, tritt
+                       jedoch auch realweltlich in Erscheinung. In den sozialen Medien
+                       konnten mehrere Mobilisierungsaufrufe verschiedener regionaler
+                       JS-Ableger für Störaktionen gegen Christopher-Street-Day-Ver­
+                       anstaltungen festgestellt werden. So mobilisierte „JS Bayern“
+                       auch für eine Gegenveranstaltung zum Christopher-Street-Day
+                       am 28. September in Landshut. An der Veranstaltung nahm eine
+                       mittlere 2-stellige Zahl an Personen teil.
+
+                       Active Clubs
+                       „Active Clubs“ stellen ein neues Phänomen im Rechtsextremis­
+                       mus dar. Dahinter steht die Idee, mit einem Netzwerk an dezen­
+                       tralen Gruppen die rechtsextremistische Szene zu beleben und
+                       vor allem mit (Kampf-) Sportangeboten neue Personen zu werben
+                       und zu binden. Als Vorbild dient die Skinhead-Subkultur in den
+                       1990er Jahren.
+
+                       Seit Frühjahr 2024 wird über verschiedene Kanäle auf sozialen
+                       ­Medien für das Phänomen bzw. die Gründung von „Active Clubs“
+                        in Deutschland geworben. Über 2 überregionale Telegram-­Kanäle
+                        werden Bilder, Videos und Beiträge anderer „Active Clubs“ aus
+                        dem In- und Ausland sowie gleichgelagerter Gruppierungen
+                        weiterverbreitet. In Bayern traten bislang 3 Personenzusammen­
+                        schlüsse in Erscheinung: „Active Club Mainfranken“, „Active Club
+                        Nordgau“ und „Active Club Nürnberg“.
+
+
+
+
+                       Die bislang festgestellten „Active Clubs“ führen Sport- bzw.
+                       Freizeit­aktivitäten nicht um ihrer selbst willen durch, sondern ver­
+                       folgen daneben auch politische Ziele, wie eine Vernetzung und
+                       Stärkung der rechtsextremistischen Szene in Deutschland. Daher
+                       handelt sich bei „Active Clubs“ gerade nicht um reine Sportgrup­
+                       pen, sondern um eine rechtsextremistische Bestrebung.
+
+                       Kollektiv Zukunft Schaffen – Heimat Schützen (KZSHS)
+                       KZSHS ist eine dem subkulturellen Rechtsextremismus zuzu­
+                       rechnende Gruppierung aus dem Raum Nordbayern mit ideolo­
+                       gischer Nähe zum Neonazismus. Aktivitäten von KZSHS konnten
+                       sowohl realweltlich als auch virtuell erstmals in 2021 festgestellt
+                       werden.
+
+208
+Rechtsextremismus                                     Verfassungsschutzbericht Bayern 2024
+
+
+
+Über den Messengerdienst Telegram verbreitet KZSHS verfas­
+sungsfeindliche Agitation. So verherrlicht die Gruppierung in
+mehreren Beiträgen die Zeit des Nationalsozialismus und
+­verbreitet antisemitische Propaganda. Anfang Januar nahmen
+ Mitglieder von KZSHS an Protesten von Landwirten teil.
+
+Hammerskins
+Die 1988 in den USA gegründeten „Hammerskins“ propagieren
+ein rassistisches und z. T. nationalsozialistisches Weltbild und
+­sehen sich als Elite der rechtsextremistischen Skinheads. Welt­
+ weit in die Schlagzeilen gerieten die „Hammerskins“, als der
+ 40-jährige Wade Michael Page am 5. August 2012 in Oak Creek
+(Wisconsin) in einem Sikh-Tempel 6 Menschen niederschoss
+und anschließend selbst von einem Polizisten getötet wurde.
+Page war Anhänger der US-amerikanischen „Hammerskin-Be­
+wegung“. Die „Hammerskins“ sind in vielen Staaten mit „Divi­
+sionen“ vertreten. Europaweit bestehen als regionale Unterglie­
+derungen rund 25 „Chapter“, deren Aktivitäten sich größtenteils
+auf die Organisation von rechtsextremistischen Konzerten und
+Veranstaltungen sowie die Selbstorganisation der „Hammer­
+skin-Bewegung“ beschränken. Der „Hammerskin-Division
+Deutschland“ gehörten in Bayern das „Chapter Bayern“ und das
+„Chapter Franken“ an.
+
+Mit Wirkung vom 19. September 2023 hatte das Bundesminis­
+terium des Innern und für Heimat (BMI) die rechtsextremistische
+Vereinigung „Hammerskins Deutschland“ verboten. Das Verbot
+schließt die einzelnen regionalen Chapter sowie die Teilorganisa­
+tion „Crew 38“ mit ein. Grundlage für das Verbot ist die Ausrich­
+tung der Gruppierung gegen die verfassungsmäßige Ordnung
+und gegen den Gedanken der Völkerverständigung. Zudem ver­
+stoßen Zweck und Tätigkeit des Vereins gegen die Strafgesetze,
+insbesondere durch Begehung bzw. fortwährende Ermöglichung
+von Straftaten wie Volksverhetzung (§ 130 StGB) oder das Ver­
+wenden von Kennzeichen verfassungswidriger Organisationen
+(§ 86a StGB) bei den von den „Hammerskins Deutschland“ orga­
+nisierten rechtsextremistischen Konzerten. Das Verbot ist noch
+nicht rechtskräftig.
+
+Blood & Honour (B&H)
+Die neonazistische Skinheadbewegung B&H ist
+ein ursprünglich aus England stammendes, mittler­
+weile international agierendes, rechtsextremistisches Netzwerk.
+Seit ihrer Gründung Ende der 1980er Jahre verbreitet B&H
+national­sozialistisches und rassistisches Gedankengut im Rahmen
+der Veranstaltung von Skinheadkonzerten und durch den Vertrieb
+
+
+                                                                                     209
+Verfassungsschutzbericht Bayern 2024                              Rechtsextremismus
+
+
+                       von rechtsextremistischer Musik und Szenekleidung. Die Orga­
+                       nisationsbezeichnung „Blood & Honour“ ist der in die englische
+                       Sprache übersetzte Leitspruch „Blut und Ehre“, der von der
+                       national­sozialistischen Jugendorganisation „Hitlerjugend“ verwen­
+                       det wurde.
+
+                       In den 1990er Jahren stellte B&H die bedeutendste und aktivste
+                       internationale Organisation innerhalb der Skinheadszene dar. In
+                       Deutschland existierte ab 1994 eine eigene „Division“. Sie war
+                       gegen Ende der 1990er Jahre einer der wichtigsten Veranstalter
+                       rechtsextremistischer Skinheadkonzerte, gab ein gleichnamiges
+                       Magazin heraus und betrieb zeitweilig ein eigenes Produktions­
+                       label für rechtsextremistische Tonträger. Im Jahr 2000 bestand
+                       die Organisation bundesweit aus 15 regionalen Untergliederun­
+                       gen, sog. „Sektionen“, und besaß eine Gesamtstärke von rund
+                       200 Mitgliedern. In Bayern unterteilte sich die B&H-Bewegung
+                       in die „Sektionen“ Franken und Bayern, die ihre jeweiligen Sitze
+                       in den Regionen Amberg und Bamberg hatten und zusammen
+                       etwa 20 Mitglieder umfassten.
+
+Verbot seit            Im September 2000 verbot der Bundesminister des Innern B&H
+September 2000         mitsamt ihrer Jugendorganisation „White Youth“ nach dem Ver­
+                       einsgesetz, da die Gruppierung sich gegen die verfassungsmäßige
+                       Ordnung und den Gedanken der Völkerverständigung richtete.
+                       Seit dem 16. Juni 2001 ist das Verbot bestandskräftig. In den
+                       Jahren nach dem Verbot wurden Nachfolgeaktivitäten früherer
+                       Mitglieder der Organisation durch konsequente Strafverfolgungs­
+                       maßnahmen unterbunden. Nach 2006 waren zunächst nur ver­
+                       einzelt Verdachtsmomente bekannt geworden, die auf Nachfolge­
+                       bestrebungen der Organisation im Bundesgebiet hindeuteten.
+
+                       Das Landgericht München verurteilte am 3. August 2022 9
+                       Männer zu Geldstrafen und Haftstrafen auf Bewährung, u. a.
+                       ­
+                       wegen Verstoß gegen das Vereinigungsverbot, Verwenden von
+                       Kennzeichen verfassungswidriger Organisationen und Volksver­
+                       hetzung. Den Beschuldigten wurde vorgeworfen, als Funktio­
+                       näre und Mitglieder das verbotene Netzwerk „Blood & Honour
+                       Division Deutschland“ fortgeführt zu haben.
+
+
+
+
+210
+Rechtsextremismus   Verfassungsschutzbericht Bayern 2024
+
+
+
+
+                                                   211
+Verfassungsschutzbericht Bayern 2024          Reichsbürger und Selbstverwalter
+
+
+
+Reichsbürger und
+Selbstverwalter
+
+
+
+                       Die Bezeichnung Reichsbürger umfasst Gruppierun­
+                       gen und Einzelpersonen, die aus unterschiedlichen
+                       Motiven und mit verschiedenen Begründungen die
+                       Existenz der Bundesrepublik Deutschland und ­deren
+                       Rechtssystem ablehnen. Dabei berufen sie sich u. a.
+                       auf das historische Deutsche Reich, verschwörungs­
+                       theoretische Argumentations­  muster, die sie auch
+                       mit tages­  aktuellen Themen verknüpfen, oder ein
+                       selbst definiertes Naturrecht. Den Repräsentanten
+                       des Staates und dessen Institutionen sprechen sie
+                       die Legitimation ab und bestreiten die Gültigkeit der
+                       Rechtsordnung. Zur Verwirklichung ihrer Ziele tre­
+                       ten sie z. T. aggressiv gegenüber den Gerichten und
+                       Behörden der Bundesrepublik Deutschland auf.
+
+                       Selbstverwalter sind Einzelpersonen, die behaupten,
+                       sie könnten durch eine Erklärung aus der Bundes­
+                       republik austreten und seien daher auch nicht mehr
+                       deren Gesetzen unterworfen. Die dafür genutzten
+                       Argumente sind im Wesentlichen deckungsgleich
+                       mit denen der Reichsbürger.
+
+                       Selbstverwalter definieren beispielsweise ihre Woh­
+                       nung, ihr Haus oder ihr Grundstück als souveränes
+                       Staatsgebiet, auf dem ihre eigene „Staatsordnung“
+                       gelte. Ihr Grundstück markieren sie mitunter durch eine
+                       (Grenz-)Linie und erfinden eigene „Staatswappen“.
+
+
+212
+Reichsbürger und Selbstverwalter                    Verfassungsschutzbericht Bayern 2024
+
+
+
+
+In Teilen sind Angehörige der Reichsbürger- und
+Selbstverwalterszene auch dem Phänomenbereich
+Rechtsextremismus zuzurechnen, insbesondere
+dort, wo sich Versatzstücke revisionistischer, anti­
+semitischer und nationalsozialistischer Denkmuster
+wiederfinden.
+
+Die Reichsbürgerideologie ist insgesamt geeignet,
+Personen in ein geschlossenes verschwörungs­
+theoretisches Weltbild zu verstricken, in dem Staats­
+verdrossenheit zu Staatshass werden kann. Dies
+kann zur Grundlage für Radikalisierungspro­zesse bis
+hin zur Gewaltanwendung werden.
+
+Das Bayerische Landesamt für Verfassungsschutz be­
+obachtet die Reichsbürger- und Selbstverwalterszene
+in Bayern als sicherheitsgefährdende ­Bestrebung.
+
+
+1. PERSONENPOTENZIAL
+Den Sicherheitsbehörden in Bayern ist es durch kontinuierliche
+Ermittlungsarbeit gelungen, Personenpotenzial, Strukturen und
+regionale Schwerpunkte weiter aufzuklären. Bis Ende 2024 ­lagen
+zu 5.430 Personen (2023: 5.406) belastbare Hinweise b­ ezüglich
+ihrer Zugehörigkeit zur Reichsbürger- und Selbstverwalterszene
+vor. Bis zu 530 Einzelpersonen gehören zum „harten Kern“, der
+insbesondere durch Aktivitäten gegenüber staatlichen Institu­
+tionen seine Ideologie zum Ausdruck bringt.
+
+
+
+                                                                                   213
+Verfassungsschutzbericht Bayern 2024              Reichsbürger und Selbstverwalter
+
+
+                       Dem gewaltorientierten Personenpotenzial innerhalb der Reichs­
+                       bürger- und Selbstverwalterszene in Bayern werden derzeit rund
+                       500 Personen zugerechnet. Dazu zählen insbesondere Einzel­
+                       personen, die beispielsweise über Erpressungen und gewaltbe­
+                       fürwortende Äußerungen auf sich aufmerksam gemacht haben.
+                       Das gewaltorientierte Personenpotenzial beinhaltet zugleich eine
+                       Schnittmenge zu den Einzelpersonen, die dem „harten Kern“
+                       angehören. Bei den meisten bislang identifizierten Angehörigen
+                       der Reichsbürger- und Selbstverwalterszene ist weiterhin kein
+                       Organisationsbezug feststellbar.
+
+                       Die Maßnahmen der Sicherheitsbehörden und die Berichter­
+                       stattung darüber, u. a. zu Waffenentzugsverfahren bei Reichs­
+                       bürgern, entfalten auch präventive Wirkung. Sie führen der
+                       Szene mögliche Konsequenzen vor Augen, die sich aus einer
+                       verfassungsfeindlichen Bestrebung ergeben können. Zudem
+                       werden Straftaten, insbesondere Erpressungs- und Nötigungs­
+                       delikte, konsequent verfolgt.
+
+                       In 2024 konzentrierten sich die Aktivitäten der Szene vor allem
+                       auf die Durchführung von Seminar- und Vortragsveranstaltungen
+                       sowie auf gemeinschaftliche Aktivitäten mit dem Ziel, die eigene
+                       Ideologie zu verbreiten und die Vernetzung innerhalb der Szene
+                       voranzutreiben.
+
+                       Die Szene der Reichsbürger und Selbstverwalter in Bayern ist
+                       stark männlich geprägt: Rund 2 Drittel der in Bayern als Angehö­
+                       rige der Reichsbürger- und Selbstverwalterszene identifizierten
+                       Personen sind männlich. Die Altersstruktur innerhalb der Szene
+                       unterscheidet sich erheblich von der in anderen Phänomenbe­
+                       reichen. Während dort häufig jüngere Menschen stark vertreten
+                       sind, liegt der Schwerpunkt der Szene im Alterssegment der 40-
+                       bis 69-Jährigen, wobei hier die Gruppe der Personen zwischen
+                       50 und 59 Jahren dominiert. Personen unter 29 Jahren sind in
+                       der Szene hingegen nur unterdurchschnittlich repräsentiert.
+
+                       In Bayern sind Angehörige der Szene in den Regierungsbezirken
+                       Unterfranken, Mittelfranken und Oberbayern überdurchschnitt­
+                       lich vertreten.
+
+                       Eine eindeutige Zuordnung von Angehörigen der Reichsbürger-
+                       oder Selbstverwalterszene zur rechtsextremistischen Szene ist
+                       bislang nur in wenigen Fällen belegbar.
+
+                       Die Zahl der Reichsbürger in Bayern, die auch in rechtsextremis­
+                       tischen Zusammenhängen bekannt geworden sind, beläuft sich
+                       auf ca. 140 Personen. Dabei handelt es sich vorwiegend um
+
+214
+Reichsbürger und Selbstverwalter                         Verfassungsschutzbericht Bayern 2024
+
+
+
+­
+Einzelpersonen, die keinen konkreten Strukturen zugerechnet              Schnittmengen zu
+werden können und Ideologieelemente aus beiden Phänomen­                 anderen Phäno­
+bereichen vertreten. Insbesondere bei den Themen Antisemi­               menbereichen
+tismus und Gebietsrevisionismus gibt es Überschneidungen                 und bürgerlichem
+zwischen Personen aus der rechtsextremistischen Szene und                Spektrum
+Reichsbürgern. Auch zum Phänomenbereich verfassungs­
+schutzrelevante Delegitimierung des Staates besteht in Teilen
+eine inhaltliche Nähe. Eine strukturelle Zusammenarbeit mit Per­
+sonen aus diesen Phänomenbereichen ist aber weiterhin nicht
+erkennbar.
+
+
+2. GEWALTPOTENZIAL UND STRAFTATEN
+Straftaten mit extremistischem Hintergrund von Angehöri-
+gen der Reichsbürger- und Selbstverwalterszene
+
+                                               2022   2023     2024
+
+Politisch motivierte Gewaltdelikte
+
+Tötungsdelikte (auch Versuch)                     0      0        0
+
+Körperverletzungen                                0      6        1
+
+Brand‑ und Sprengstoffdelikte                     0      0        0
+
+Landfriedensbruch                                 0      0        0
+
+Raub                                              0      0        0
+
+Erpressung                                      185    59        22
+
+Widerstandsdelikte                               12      7        2
+
+Gefährlicher Eingriff in Bahn-, Schiffs- und     0       0        1
+Luftverkehr
+
+Sonstige Gewalttaten                             0       1        0
+
+Gesamt                                          197     73       26
+
+Kriminelle Vereinigung/Terrorismus               0      0         0
+
+Sonstige Straftaten
+
+Sachbeschädigungen                               6      1         1
+
+Propagandadelikte                                7      4         1
+
+Volksverhetzung                                  15     12        5
+
+Nötigung/Bedrohung                             385     146       55
+
+Sonstige Straftaten                             89      70       19
+
+Gesamt                                         502    233        81
+
+Straftaten insgesamt                           699    306       107
+
+
+                                                                                          215
+Verfassungsschutzbericht Bayern 2024                Reichsbürger und Selbstverwalter
+
+
+                         Straftaten von Angehörigen der Reichsbürger- und Selbstverwal­
+                         terszene werden seit dem Jahr 2017 gesondert erfasst. In 2024
+                         wurden insgesamt 107 (2023: 306) extremistische Straftaten
+                         gezählt, darunter 26 Gewaltdelikte (2023: 73). Den Schwerpunkt
+                         bei den Gewaltdelikten bildeten mit 22 Taten erneut die Erpres­
+                         sungsdelikte (2023: 59). Die Zahl der Widerstandsdelikte sank
+                         auf 2 Taten.
+
+                         Mit 55 Taten (2023: 146) stellten Nötigungs- und Bedrohungs­
+                         delikte erneut den Schwerpunkt der sonstigen 81 Straftaten dar
+                         (2023: 233). Einzelne Personen sind u. a. wegen Verwendung
+                         verfassungsfeindlicher Symbole, Volksverhetzung sowie verfas­
+                         sungsfeindlicher Verunglimpfung von Staatsorganen aufgefallen.
+
+Verurteilung wegen       Wegen der mitgliedschaftlichen Betätigung in einer kriminellen
+Mitgliedschaft in kri­   Vereinigung und einer Vielzahl anderer Straftaten verurteilte das
+mineller Vereinigung     Landgericht München am 27. September einen amtsbekann­
+                         ten Reichsbürger zu einer Freiheitsstrafe von 2 Jahren und 10
+                         Monaten. Das Urteil ist noch nicht rechtskräftig. Nach Über­
+                         zeugung des Gerichts lehnt der Verurteilte die Staatlichkeit
+                         Deutschlands ab und folgt einer Mischung von Verschwörungs­
+                         theorien, die sich an Elementen der sog. Q-Anon-Bewegung
+                         und der Reichsbürgerszene orientiert. Ab dem Jahr 2021 betrieb
+                         er einen Telegram-Kanal mit teilweise bis zu 52.000 Followern,
+                         auf dem er u. a. seine Leserschaft dazu aufforderte, staatliche
+                         ­Behörden zu „bombardieren“ und mit Telefonaten sowie mit
+                          Mails „kaltzustellen“. Die Einrichtung des ­Kanals beruhte auf
+                          einer weltverschwörerischen Weltanschauung und eröffnete
+                          ­
+                          den Mitgliedern die Möglichkeit, sich aktiv zu beteiligen. Nach
+                          Überzeugung des Gerichts betätigte sich der Verurteilte als
+                          Rädels­führer und nutzte den Kanal, um öffentlich zu Straf­taten
+                          aufzufordern. Nach den Feststellungen des Gerichts ­    wurden
+                          behördliche Mitarbeiter bedroht, beleidigt und Opfer von
+                          ­versuchten Nötigungen. Der Angeklagte leugnete die Vorwürfe
+                           vor Gericht nicht. Jedoch sprach er den Behörden und Gerichten
+                           jegliche Legitimation ab und war der festen Überzeugung, b
+                                                                                    ­ innen
+                           3 Tagen durch ein Militär befreit zu werden.
+
+                         Reichsbürger bewegen sich in einem für sie geschlossenen
+                         Weltbild. Der Glaube daran, dass deutsche Gesetze für sie ­keine
+                         Gültigkeit hätten, führt dazu, dass staatliche Maßnahmen als
+                         unrecht­mäßig empfunden werden. Dabei können insbesondere
+                         die im Internet und dort speziell auf alternativen Medienplatt­
+                         formen verbreiteten Verschwörungstheorien den Nährboden für
+                         eine Radikalisierung von Einzelpersonen innerhalb der Reichs­
+                         bürger- und Selbstverwalterszene bereiten.
+
+
+216
+Reichsbürger und Selbstverwalter                       Verfassungsschutzbericht Bayern 2024
+
+
+
+Gewalttaten richten sich in aller Regel gegen staatliche Maß­
+nahmen bzw. gegen Vertreter des Staates. Solche Gewalttaten
+werden innerhalb der Szene in der Regel als Notwehr gegen den
+Staat gedeutet. Gewalttäter erfahren dementsprechend nach
+einschlägigen Vorfällen solidarisierenden Zuspruch. Bei Einzel­
+personen, die ideologisch besonders gefestigt erscheinen, ist
+eine Häufung politisch motivierter Straftaten feststellbar, insbe­
+sondere Beleidigungs- und Nötigungsdelikte, in Einzelfällen auch
+Erpressungsdelikte. Darüber hinaus werden innerhalb der Szene
+regelmäßig reichsbürgertypische Musterschreiben verbreitet,
+die häufig als Reaktion auf Bußgeldbescheide an öffentliche
+Stellen adressiert werden. Diese erfüllen oftmals aufgrund der
+enthaltenen Schadensersatzforderungen die Straftatbestände
+der Erpressung, Nötigung und Bedrohung.
+
+Die Angehörigen der Reichsbürger- und Selbstverwalterszene             Waffenaffinität der
+sind sehr waffenaffin. Sie besitzen zum einen häufig erlaubnis­        Szene
+freie Waffen, die sie zur vermeintlichen Selbstverteidigung und
+zur Durchsetzung ihrer Ziele einsetzen könnten. Zum anderen
+werden oft nicht nur legale, (noch) im Besitz befindliche Waffen
+festgestellt, sondern auch illegale Waffen bis hin zu ganzen
+Waffen­arsenalen.
+
+ Dies bestätigte auch die Sicherstellung einer scharfen Hand­          Sicherstellung von
+granate bei einem Einsatz der Polizei auf dem Grundstück               Handgranate
+­
+eines Reichsbürgers in Feldkirchen-Westerham am 9. April.
+Bei der Vollstreckung des durch das Amtsgericht Rosenheim
+erlassenen Durchsuchungsbeschlusses wurden dort mehrere
+Abreißzünder, Aluminium-Sprengkapseln und ca. 1 Kilogramm
+Schwarzpulver gefunden. Besitzer der Gegenstände ist ein
+­amtlich bekannter Szeneangehöriger, der zuvor im Jahr 2022 mit
+ reichsbürger­typischen Schreiben, in denen er u. a. Bezug auf die
+„S.H.A.E.F-Gesetze“ nahm, auf sich aufmerksam machte.
+
+Derartige Sachverhalte verdeutlichen abermals die Notwendig­
+keit, den Waffenbesitz innerhalb der Szene weiterhin konse­
+quent aufzudecken und zu unterbinden, aber auch den Besitz
+erlaubnisfreier Waffen im Blick zu behalten. Zur Eindämmung
+des Gefährdungspotenzials durch den Waffenbesitz von Reichs­
+bürgern werden regelmäßig und systematisch waffenrechtliche
+Erlaubnisse überprüft und, wo möglich, entzogen. Jede waffen­
+rechtliche Erlaubnis setzt eine waffenrechtliche Zuverlässigkeit
+voraus. Diese ist bei Angehörigen der Reichsbürger- und Selbst­
+verwalterszene aber regelmäßig zu verneinen, da die Nichtaner­
+kennung des Staates und seiner Gesetze ein Kernbestandteil der
+Ideologie ist.
+
+
+                                                                                       217
+Verfassungsschutzbericht Bayern 2024              Reichsbürger und Selbstverwalter
+
+
+Ermittlungen gegen     Die Waffen- und Gewaltaffinität der Szene zeigten 2022 die
+Gruppierung um         Ermittlungen gegen die Gruppierung um Heinrich XIII. Prinz
+                       ­
+Heinrich XIII. Prinz   Reuß. Zu dieser gehörten neben Rechtsextremisten und Reichs­
+Reuß                   bürgern auch Personen, die dem Phänomenbereich der verfas­
+                       sungsschutzrelevanten Delegitimierung des Staates zuzurech­
+                       nen sind. Den Mitgliedern der Gruppierung wird die Bildung
+                       einer terroristischen Vereinigung vorgeworfen: Sie sollen geplant
+                       haben, die bestehende staatliche Ordnung in Deutschland über­
+                       winden und durch eine eigene, bereits in Grundzügen ausgear­
+                       beitete Staatsform ersetzen zu wollen.
+
+                       Dass Angehörige dieser Gruppierung entschlossen waren, ihre
+                       Pläne notfalls auch mit Waffengewalt durchzusetzen, zeigte sich
+                       bei einer weiteren im Rahmen des Ermittlungsverfahrens erfolg­
+                       ten Durchsuchungsmaßnahme am 22. März 2023 in Reutlingen
+                       (Baden-Württemberg), bei der ein Reichsbürger mit einer groß­
+                       kalibrigen Schusswaffe das Feuer auf die Polizeikräfte eröffnete
+                       und einen Beamten am Arm verletzte. Anfang Dezember 2023
+                       erhob die Bundesanwaltschaft Anklage gegen 26 mutmaßliche
+                       Mitglieder und eine mutmaßliche Unterstützerin der Gruppierung.
+
+                        Aufgrund der hohen Anzahl an Angeklagten wurde das Verfahren
+                        auf 3 Gerichte aufgeteilt. Die erste Hauptverhandlung wurde am
+                        29. April vor dem Oberlandesgericht (OLG) Stuttgart-Stamm­
+                       heim eröffnet. Unter Anklage stehen dort 9 Männer, die laut
+                       Anklage Teil des „militärischen Arms“ der Gruppierung gewe­
+                       sen sein sollen. Unter den Angeklagten befindet sich auch der
+                       Reichsbürger, der sich im März 2023 mit Waffengewalt ­gegen
+                       die Durchsuchungsmaßnahme der Polizei in Reutlingen zur Wehr
+                       setzte. Er ist zusätzlich wegen versuchten Mordes, gefährlicher
+                       Körperverletzung, Widerstands gegen und tätlichen ­     Angriffs
+                       auf Vollstreckungsbeamte angeklagt. Am 21. Mai begann vor
+                       dem OLG Frankfurt die zweite Hauptverhandlung, bei dem sich
+                       ­Heinrich XIII. Prinz Reuß als mutmaßlicher Rädelsführer und 8
+                        weitere Männer und Frauen verantworten müssen. Die dritte
+                        Hauptverhandlung gegen mutmaßliche Mitglieder der Gruppie­
+                        rung wurde am 18. Juni vor dem OLG München eröffnet.
+
+
+                       3. IDEOLOGIE
+                       Angehörige der Reichsbürgerszene berufen sich in unterschied­
+                       lichster Form auf den Fortbestand des Deutschen Reiches. D
+                                                                                ­ abei
+                       wird z. B. auf den Rechtsstand von 1937, 1914 2 Tage vor dem
+                       Ausbruch des Ersten Weltkrieges oder auch 1871 Bezug genom­
+                       men. Sie behaupten, Deutschland habe keine gültige V
+                                                                          ­ erfassung
+                       und sei damit als Staat nicht existent, oder das Grundgesetz
+
+218
+Reichsbürger und Selbstverwalter                        Verfassungsschutzbericht Bayern 2024
+
+
+
+habe mit der Wiedervereinigung 1990 seine Gültigkeit verloren.
+Daher fühlen sich Szeneangehörige auch nicht verpflichtet, den
+in der Bundesrepublik geltenden Gesetzen Folge zu leisten.
+
+Die jeweils vorgetragenen Argumente gegen die Existenz
+Deutschlands als Staat sind falsch. Das Bundesverfassungs­
+gericht lässt in seiner gesamten Rechtsprechung keinen Zweifel
+daran, dass das Grundgesetz der Bundesrepublik Deutschland
+die gültige Verfassung des wiedervereinigten Deutschlands ist.
+
+Zu den vermeintlichen Argumenten der Reichsbürgerszene stellte
+das Amtsgericht Duisburg im Leitsatz einer Entscheidung ­bereits
+am 26. Januar 2006 zusammenfassend fest:
+
+        Das Bonner Grundgesetz ist unverändert in Kraft.
+        Eine deutsche Reichsverfassung, eine kommis­
+        sarische Reichsregierung oder ein kommissari­
+        sches Reichsgericht existiert ebenso ­wenig, wie
+        die Erde eine Scheibe ist.
+
+
+Die Reichsbürgerszene eint zwar die grundsätzliche Ableh­               Zersplitterung der
+nung des bundesdeutschen Staatswesens, ideologisch und                  Szene
+organisatorisch ist die Bewegung jedoch sehr heterogen. In
+­
+der Szene gibt es Personen, die Geschäftsinteressen verfol­
+gen, Verschwörungs­theorien anhängen, dem Rechtsextremis­
+mus z­ugeordnet werden oder esoterisch bzw. querulatorisch
+orientiert sind. Insbesondere auf regionaler Ebene teilt sich die
+Szene in zahlreiche Kleinstgruppen, die untereinander konkurrie­
+ren, persönliche oder ideologische Konflikte austragen und sich
+­gegenseitig die Legitimität absprechen. Das Entstehen einzelner
+ mitgliederstarker Organisationen, die eine Führungsrolle einneh­
+ men könnten, ist derzeit nicht abzusehen.
+
+Durch die Aufspaltung von Gruppierungen vervielfachen sich
+­zudem die Möglichkeiten, einen der Fantasietitel und -posten zu
+ erlangen, die Reichsbürgergruppierungen häufig vergeben. Mit
+ diesen erfundenen Titeln, wie z. B. „Kommissarischer Reichsmi­
+ nister“, befriedigen Angehörige der Reichsbürgerszene ihr per­
+ sönliches Geltungsbedürfnis.
+
+Hinsichtlich der ideologischen Auseinandersetzung führt insbe­
+sondere die für die Reichsbürgerszene zentrale Fragestellung,
+ob Deutschland eine gültige Verfassung habe, regelmäßig zu
+­internen Streitigkeiten. Teile der Szene vertreten den Standpunkt,
+ dass das Grundgesetz nur für die „juristische Person“ bzw. das
+
+
+                                                                                        219
+Verfassungsschutzbericht Bayern 2024              Reichsbürger und Selbstverwalter
+
+
+                       „Personal“ der privatrechtlichen und unter alliierter Kontrolle
+                       stehen­den Firma „BRD-GmbH“ gelte, da es von den Alliierten
+                       nach dem Zweiten Weltkrieg verfasst worden sei. ­Andere Teile der
+                       Szene schließen eine Wirksamkeit des Grundge­setzes gänzlich
+                       aus und verweisen vielmehr auf die vermeint­liche Fortgeltung
+                       früherer „Reichsverfassungen“, beispiels­weise von 1871 oder
+                       1913. Angeblich impliziere bereits der Name „Grund­     gesetz“,
+                       dass es sich dabei nicht um eine Verfassung handeln könne.
+                       Wiederum andere argumentieren, dass das Grundgesetz mit
+                       dem Beitritt der DDR außer Kraft getreten und die Verabschie­
+                       dung einer neuen Verfassung bisher nicht erfolgt sei. S  ­ olche
+                       Überzeugungen sind auch unter Selbstverwaltern verbreitet,
+                       die ihre eigene Person als Staat mit Gesetzgebungskompetenz
+                       ­ansehen und sich eine eigene Verfassung für ihr „selbstverwal­
+                        tetes“ Territorium geben.
+
+
+                       4. AKTIVITÄTEN
+                       Angehörige der Reichsbürger- und Selbstverwalterszene entfal­
+                       ten gegenüber staatlichen Institutionen eine Vielzahl von Akti­
+                       vitäten, die z. T. – wie das Erstellen von Fantasiedokumenten –
+                       Ausdruck ihrer Ideologie sind, aber auch auf das Lahmlegen der
+                       öffentlichen Verwaltung abzielen. In Einzelfällen kommt es auch
+                       zu Gewaltandrohung bzw. -anwendung gegenüber staatlichen
+                       Repräsentanten.
+
+                       Auch tagespolitische Ereignisse und Entwicklungen werden
+                       innerhalb der Reichsbürger- und Selbstverwalterszene aufge­
+                       griffen, diskutiert und häufig mit verschwörungstheoretischen
+                       Narrativen vermengt. Dies zeigte beispielsweise die Corona-­
+                       Pandemie, deren Ursache, Ausbreitung und Folgewirkungen
+                       innerhalb der Szene mit unterschiedlichsten Fake News und
+                       ­
+                       Verschwörungstheorien versehen wurden. Gleichermaßen
+                       ­wurden auch der Angriffskrieg Russlands auf die Ukraine und
+                        der Angriff der islamistischen Terrororganisation HAMAS auf
+                        ­Israel von Teilen der Reichsbürger- und Selbstverwalterszene für
+                       ideologische Zwecke instrumentalisiert.
+
+                       Es ist davon auszugehen, dass sich abhängig von der Entwicklung
+                       der tagespolitischen Ereignisse auch Angehörige der Reichsbür­
+                       ger- und Selbstverwalterszene an Protestveranstaltungen und
+                       Demonstrationen weiterhin beteiligen werden, um ihre Ideologie
+                       zu verbreiten und interessierte Personen anzusprechen.
+
+
+
+
+220
+Reichsbürger und Selbstverwalter                        Verfassungsschutzbericht Bayern 2024
+
+
+
+4.1 Auftreten gegenüber Justiz und Verwaltung
+Regelmäßig überziehen Angehörige der Reichsbürger- und
+Selbstverwalterszene Behörden und Gerichte mit querulato­
+rischen Schreiben, in denen sie der öffentlichen Verwaltung und
+der Justiz deren Autorität oder Existenz absprechen. Zum Teil
+verfolgen sie damit das Ziel, sich rechtlichen Verpflichtungen,
+wie z. B. Forderungen des Staates aus Steuer-, Bußgeld- oder
+Verwaltungsverfahren, zu entziehen. In umfangreichen Briefen
+werden z. B. Behörden und Gerichte belehrt und beleidigt oder
+haltlose Schadenersatzforderungen erhoben, um diese einzu­
+schüchtern und Maßnahmen der Justiz oder der Polizei zu beein­
+flussen oder gar zu verhindern.
+
+In der gerichtlichen Auseinandersetzung ist der Aktivismus von
+Angehörigen der Reichsbürger- und Selbstverwalterszene ambi­
+valent: Einerseits schöpfen sie den Rechtsweg weitestgehend
+aus und überhäufen Gerichte mit Anträgen und Eingaben. ­Dabei
+lassen sie sich mitunter auch von selbsternannten Szeneanwäl­
+ten, sog. „Recht-Konsulenten“ (Schreibweise variiert), ­ver­treten.
+Andererseits bleiben sie häufig Gerichtsterminen fern, wirken
+nicht am ordentlichen Verfahren mit und versuchen, Strafbefehle
+einfach ins Leere laufen zu lassen und nicht zu ­beachten.
+
+Angehörige der Reichsbürgerszene treten häufig über den
+Versand von Schreiben in Erscheinung, in welchen mit szene­
+typischen Formulierungen die Unrechtmäßigkeit von Staat
+und Verwaltung behauptet und dabei beispielsweise auf das
+„S.H.A.E.F.“ Bezug genommen wird. Bei „S.H.A.E.F.“ handelt
+es sich um die Bezeichnung des Hauptquartiers der Alliier­
+ten Streitkräfte in Nordwest- und Mitteleuropa während des
+Zweiten Weltkrieges. Nachdem die Bundesrepublik Deutsch­
+land aus Perspek­      tive der Reichsbürgerszene nicht existiert,
+­bewerten ­Teile der Szene das Besatzungsrecht der Alliierten als
+ ­immer noch gültig. Sie beziehen sich in ihren Forderungen und
+  Schreiben daher häufig auch auf das vermeintliche „S.H.A.E.F.-­
+  Gesetz“, worunter in der Szene ein Besatzungsrecht verstanden
+  wird. Für ihre Auseinandersetzung mit den Behörden werden
+  ­zumeist Vordrucke und Briefvorlagen verwendet, die auf ein­
+   schlägigen Webseiten kostenfrei verfügbar sind. Dort finden
+   sich u. a. Vorlagen, die beispielsweise für die Korrespondenz mit
+   Finanzämtern bestimmt sind. Häufig enthalten die Schreiben –
+   neben Schadens­ersatzforderungen, die die Straftatbestände Nö­
+tigung und Erpressung erfüllen können – auch Drohungen, den
+Adressaten bei der amerikanischen Botschaft anzuzeigen.
+
+
+
+                                                                                       221
+Verfassungsschutzbericht Bayern 2024               Reichsbürger und Selbstverwalter
+
+
+                       4.2 Beantragung von Staatsangehörigkeitsaus-
+                           weisen und Nutzung eigener Dokumente
+                       Angehörige der Reichsbürger- und Selbstverwalterszene bestrei­
+                       ten die rechtmäßige Existenz der Bundesrepublik Deutschland
+                       als Staat und bezeichnen diese häufig als „Firma BRD“. Teile der
+                       Bewegung sind zudem der Auffassung, dass sie nicht die Staats­
+                       angehörigkeit der Bundesrepublik Deutschland besitzen bzw.
+                       aus dieser „austreten“ können. Auf diese Weise wird neben
+                       der Vernichtung oder Rückgabe von Ausweisdokumenten auch
+                       die Erstellung und der Vertrieb von Fantasiedokumenten sowie
+                       die missbräuchliche Beantragung des Staatsangehörigkeitsaus­
+                       weises (sog. „gelber Schein“) gerechtfertigt.
+
+                       Ausgehend von der falschen Annahme, ohne Staatsangehörig­
+                       keitsausweis staatenlos zu sein, beantragen Szeneangehörige
+                       häufig einen Staatsangehörigkeitsausweis zur Bestätigung ihrer
+                       Reichs- und Staatsangehörigkeit nach dem Staatsangehörig­
+                       keitsgesetz. Der Begriff „Personalausweis“ ist für sie ein Beleg
+                       für die Staatenlosigkeit, da als „Personal“ ausschließlich Ange­
+                       hörige einer Firma, hier der „Firma BRD“, bezeichnet würden.
+                       Vom Staatsangehörigkeitsausweis erhofft sich dieser Personen­
+                       kreis – rechtlich völlig unzutreffend – u. a. den „Ausstieg aus der
+                       Firma BRD“. Der „gelbe Schein“ wird zudem als Nachweis der
+                       „Rechtsstellung“ als Staatsangehöriger des vorgeblich fortbe­
+                       stehenden „Deutschen Reichs“ angesehen.
+
+                       Entsprechende Antragstellungen von Teilen der Bewegung sind
+                       seit einigen Jahren rückläufig. Dieser Rückgang ist mutmaßlich
+                       auf die erhöhten Antragshürden zurückzuführen, die inzwischen
+                       den Nachweis eines „berechtigten Interesses“ vorsehen.
+
+Propagierung der       Mitunter vertreten Angehörige der Reichsbürgerszene eine
+Staatenlosigkeit       ­vermeintlich „naturrechtliche“ Auffassung und berufen sich auf
+                        ihre Eigenschaft als „Mensch“, der – im Gegensatz zur „juris­
+                        tischen Person“, die von der sog. „BRD-GmbH“ bzw. deren
+                        „Schein-Regierung“ konstruiert werde – die Feststellung einer
+                        Staatsangehörigkeit nicht benötige. Daher stellt das Thema
+                        „Staatenlosigkeit“ innerhalb der Szene einen zentralen Bezugs­
+                        punkt dar. Die Ablehnung des deutschen Staates fußt dabei auf
+                        der irrigen Annahme, Mensch zu sein stehe im Widerspruch zur
+                        Identität als vermeintliches „Personal“ der „Firma BRD“. Wie­
+                        derum andere suchen nach Alternativen für eine vermeintliche
+                        staatliche Beglaubigung der Staatsangehörigkeit, wie etwa die
+                        notarielle Beglaubigung von Dokumenten.
+
+
+
+222
+Reichsbürger und Selbstverwalter                        Verfassungsschutzbericht Bayern 2024
+
+
+
+Angehörige der Reichsbürgerszene benutzen zudem anstelle                „Milieumanager“
+amtlicher Ausweise Fantasiepapiere wie „Heimatscheine“,
+„Reichspersonenausweise“ oder „Reichsführerscheine“. ­Diese
+Fantasiepapiere sind rechtlich bedeutungslos und teilweise straf­
+rechtlich relevant. Ihr Vertrieb stellt für Reichsbürgergruppierun­
+gen eine wichtige Einnahmequelle dar und wird meist durch
+„Milieumanager“ organisiert. Über den Verkauf jener Fantasie­
+dokumente und die Veranstaltung von Seminaren und Onlinekur­
+sen tragen diese maßgeblich zur Vernetzung sowie Finanzierung
+der Szene bei, auch wenn sie selbst nicht immer von der Ideo­
+logie überzeugt sind. Auch 2024 traten Angehörige bekannter
+Reichsbürgergruppierungen, beispielsweise des „Königreichs
+Deutschland“ und des „Indigenen Volkes Germaniten“, auch
+gegenüber der öffentlichen Verwaltung oder in der Auseinander­
+setzung mit der Polizei mit ihren fiktiven Ausweisdokumenten in
+Erscheinung.
+
+
+4.3 Seminare, Vorträge und Veranstaltungen
+Seminare und Vortragsveranstaltungen, aber auch andere Ver­
+netzungstreffen wie Stammtische, bieten Szeneangehörigen
+ebenso wie die Kommunikation im virtuellen Raum eine will­
+kommene Gelegenheit, um miteinander in Kontakt und in den
+szeneinternen Austausch zu treten. Ziel solcher Veranstaltungen
+ist es, die Ideologie der Reichsbürger und Selbstverwalter einem
+breiten Publikum bekannt zu machen, neue Mitglieder zu gewin­
+nen und dabei auch Personen zu erreichen, die bislang noch
+nicht mit der Reichsbürgerideologie in Kontakt gekommen sind.
+
+Aufgrund der zumeist überregionalen (Online-)Propaganda für Vor­
+tragsveranstaltungen von Reichsbürgergruppierungen konnten bei
+Veranstaltungen in Bayern auch Personen aus anderen Bundes­
+ländern festgestellt werden. Einzelne Szeneangehörige sowie
+bundesweit aktive Reichsbürgergruppierungen nutzten ihre gute
+Vernetzung und Reichweitenstärke im Internet, um Vortrags­
+veranstaltungen, Seminare und andere Vernetzungs­     treffen zu
+organisieren. Insbesondere die bundesweit aktive Reichsbürger­
+gruppierung „Königreich Deutschland“ (KRD) organi­sierte 2024
+vermehrt Vortragsveranstaltungen und Seminare in Bayern. Mit
+der Organisation von kostenpflichtigen Seminaren und mehrtägi­
+gen Veranstaltungen versucht das KRD u. a., finanzielle Einnah­
+men zu generieren, die wiederum für den Kauf von Liegenschaf­
+ten und für die Ausweitung der Organisations­struktur auf andere
+Bundesländer verwendet werden.
+
+
+
+                                                                                       223
+Verfassungsschutzbericht Bayern 2024             Reichsbürger und Selbstverwalter
+
+
+                       Auch die Themen alternative Beschulung, Selbstversorgung und
+                       Autarkie sowie Ausstiegsmöglichkeiten aus dem staatlichen
+                       System finden innerhalb der bayerischen Reichsbürger- und
+                       Selbstverwalterszene bereits seit langer Zeit großen Anklang.
+                       Insbesondere seit den staatlichen Beschränkungsmaßnahmen
+                       im Zusammenhang mit der Corona-Pandemie propagieren
+                       Szene­angehörige und Reichsbürgergruppierungen diese Themen
+                       verstärkt auf internen Veranstaltungen und Seminaren. Um die
+                       Teilnehmerzahl für solche Veranstaltungen zu erhöhen, werben
+                       Reichsbürgergruppierungen und entsprechende Veranstalter
+                       auch gezielt im Internet für ihre Veranstaltungen.
+
+                       Bilder, die im Nachgang zu derartigen Veranstaltungen in den
+                       sozialen Medien veröffentlicht werden, sollen den Eindruck
+                       erwecken, dass die Reichsbürgerbewegung „gesellschaftsfä­
+                       ­
+                       hig“ sei, und damit interessierte Personen zur Kontaktaufnahme
+                       bewegen.
+
+
+                       4.4 Onlineaktivitäten
+                         Angehörige der Reichsbürger- und Selbstverwalterszene nutzen
+                       das Internet, um sich mit ihresgleichen auszutauschen und
+                       um mit Personen in Kontakt zu treten, die bisher noch keine
+                       ­Berührungspunkte mit der Reichsbürgerideologie hatten. Online
+                        ­werden Gleichgesinnte gesucht und stetig neue Verbindungen
+                         geschlossen, die sich z. B. im Fall von Meinungsverschieden­
+                         heiten genauso schnell wieder lösen können.
+
+Virtuelle              Messengerdienste wie Telegram sind in Bezug auf die online
+Stamm­tische           festzustellenden Vernetzungs- und Mobilisierungsaktivitäten
+                       auch für die Reichsbürgerszene von herausragender Bedeu­
+                       tung. Szeneangehörige profitieren insbesondere bezüglich der
+                       Organisation von realweltlichen Seminaren, Stammtischen und
+                       Vortragsveranstaltungen vom einfachen Zugang zu Gruppen und
+                       Kanälen sowie von einer damit einhergehenden Reichweiten­
+                       steigerung. Relevante Informationen, Vordrucke und Anträge an
+                       Behörden können über das Internet innerhalb kürzester Zeit
+                       einem interessierten Personenkreis zur Verfügung gestellt
+                       werden. Darüber hinaus nutzten Szeneangehörige ihre gute
+                       ­
+                       Vernetzung im Internet, um bei Veranstaltungen und Gesprächs­
+                       runden Live-Übertragungen anzubieten und ihr Vortragsangebot
+                       auch mit Online-Veranstaltungen zu ergänzen.
+
+
+
+
+224
+Reichsbürger und Selbstverwalter                       Verfassungsschutzbericht Bayern 2024
+
+
+
+Bundesweit aktive Reichsbürgergruppierungen wie das „König­
+reich Deutschland“ versuchen außerdem, über weitere Online­
+angebote wie Podcasts, Youtube-Videos oder sogar eigene
+Video­plattformen ein größeres Publikum anzusprechen und ihre
+Ideologie zu verbreiten.
+
+
+4.5 Überregionale und internationale Kontakte
+Personen und Gruppierungen, deren Gedankengut dem der
+deutschen Reichsbürger- und Selbstverwalterszene ähnelt, gibt
+es auch in Österreich und in der Schweiz. In Österreich werden
+diese Gruppierungen „Souveräne Bewegungen“ genannt. Die
+Republik Österreich ist in ihren Augen ebenso wie die Bundes­
+republik Deutschland lediglich eine GmbH und somit kein recht­
+mäßiges Staatsgebilde.
+
+Im deutschsprachigen Raum existiert somit grenzüberschrei­
+tend ein Personenkreis, den die pseudojuristische Basis seines
+Handelns eint und der sich insbesondere über das Internet rege
+austauscht. Plattformen wie Telegram ermöglichen der Reichs­
+bürger- und Selbstverwalterszene eine einfache überregionale
+und transnationale Vernetzung.
+
+Referentinnen und Referenten sowie „Milieumanager“ der
+Reichsbürger- und Selbstverwalterszene agieren, unabhängig
+  von ihrem Wohnsitz, im gesamten deutschsprachigen Raum.
+  Die Vernetzung stützt sich dabei nicht mehr allein auf persön­
+  liche Kennverhältnisse und/oder grenzüberschreitende räum­liche
+Nähe. Auch die durch das Internet gewonnene Reichweiten­
+erhöhung sowie die Möglichkeit, ohne größeren logistischen
+Aufwand beispielsweise Veranstaltungen aus der Ferne zu
+­organisieren, fördern den Austausch innerhalb der Szene auch
+ über Staatsgrenzen hinweg. Auf diese Weise führten auch bun­
+ desweit aktive Reichsbürgergruppierungen Veranstaltungen in
+ ­mehreren Bundesländern durch, für die sie zuvor auf ihren reich­
+  weitenstarken Messengerkanälen geworben hatten.
+
+Die zuletzt in Bayern mehrfach festgestellte Beteiligung eines
+überregionalen Publikums bei Seminaren und Vortragsveranstal­
+tungen zeigt, dass es der Szene der Reichsbürger und Selbst­
+verwalter gelingt, zumindest temporär und zweckgebunden eine
+überregionale Vernetzung zu organisieren.
+
+
+
+
+                                                                                      225
+Verfassungsschutzbericht Bayern 2024               Reichsbürger und Selbstverwalter
+
+
+„Großes Treffen der    Deutlich wurde die überregionale Vernetzung der Szene insbeson­
+Bundesstaaten“         dere anhand einer eintägigen Großveranstaltung am 31. August in
+                       München. Bei der Veranstaltung „Das große Treffen der 25+1
+                                        Bundesstaaten“ kamen in der Spitze rund
+                                        480 Personen aus dem gesamten Bundes­
+                                        gebiet zusammen, die teilweise Reisebusse
+                                        zur Anreise nutzten. Hinter der Initiative „25
+                                        + 1 Bundesstaaten“ verbirgt sich ein ­loser Zu­
+                                        sammenschluss von Personen aus der Reichs­
+                                        bürger- und Selbstverwalterszene, der sich auf
+                                        die Zeit des Deutschen Kaiserreichs bezieht.
+                                        Eine Vernetzung findet zumeist über Tele­
+                                        gram, und hier vor allem über den Kanal „Das
+                                        große Treffen der Bundesstaaten“, statt. Nach
+                                        der Eröffnung der Veranstaltung und ­     einem
+                                        Redebeitrag startete der sog. „Aufmarsch
+                                        der Flaggen“, bei dem alle einstigen Bundes­
+                                        staaten des Deutschen Kaiserreichs einzeln
+                                        vorgestellt wurden. Hauptredner am Nachmit­
+                                        tag der Veranstaltung war ein Teilnehmer aus
+                                        ­Baden-Württemberg, der als eine der bekann­
+                                         testen Figuren der bundesweiten Reichsbür­
+                                         ger- und Selbstverwalterszene gilt. Seinem
+                                         dort gehaltenen Vortrag zufolge sei die Ausru­
+                                         fung der Republik nach Ende des Ersten Welt­
+                                         kriegs im Jahr 1918 illegal gewesen. Weiter­hin
+                                         betonte er, „das Recht von 1871“ sei das einzige
+                                         Recht, das heute gelte.
+Screenshot von
+Telegram
+                       Die Veranstaltung in München kann als Fortführung einer bun­
+                       desweiten Veranstaltungsreihe der Reichsbürger- und Selbst­
+                       verwalterszene gesehen werden. Nach Magdeburg (19. August
+                       2023), Dresden (28. Oktober 2023) und Gera (6. April 2024) war
+                       dies das erste „Bundesstaaten“-Treffen außerhalb der neuen
+                       Bundesländer. Mit der festgestellten Teilnehmerzahl gilt das
+                       „große Treffen der 25+1 Bundesstaaten“ als die bisher größte
+                       öffentliche Veranstaltung der Reichsbürger- und Selbstverwalter­
+                       szene in Bayern.
+
+                       Trotz des festzustellenden Anklanges von überregionalen Szene­
+                       veranstaltungen und den aktuell vermehrten Aktivitäten bundes­
+                       weit aktiver Reichsbürgergruppierungen ist eine strukturierte
+                       Vernetzung der Gesamtszene derzeit nicht erkennbar und mit
+                       Blick auf die szeneinternen Konflikte auch wenig wahrscheinlich.
+
+
+
+
+226
+Reichsbürger und Selbstverwalter                      Verfassungsschutzbericht Bayern 2024
+
+
+
+4.6 Aufbau von Parallelstrukturen
+Vor dem Hintergrund der staatlichen Maßnahmen zur Eindäm­
+mung der Corona-Pandemie hat das vielfach in der Szene
+propa­gierte Thema „Ausstieg aus den staatlichen Strukturen“
+zusätzlich an Bedeutung gewonnen. Dies belegen insbeson­
+dere die vielfältigen Aktivitäten bundesweit agierender Reichs­
+bürgergruppierungen sowie die wachsende Zahl an Vortrags-
+und Seminarveranstaltungen rund um den Themenkomplex
+„Systemausstieg“.
+
+In den Vorträgen und Seminaren geht es um reichsbürgertypi­
+sche Problemstellungen wie z. B. die Frage, welche Möglichkei­
+ten bestehen, die eigenen Kinder dem staatlichen Schulsystem
+zu entziehen, das Eigentum vor der Bundesrepublik Deutsch­
+land zu schützen oder ein steuerfreies Unternehmen zu grün­
+den. In diesem Zusammenhang werden beispielsweise sog.
+„Bildungsbestätigungen“ an staatliche Behörden versandt. In
+diesen Schreiben legen sie mit pseudojuristischen Erklärungen
+dar, weshalb die betroffenen Kinder ihrer Ansicht nach nicht am
+staatlichen Schulunterricht teilnehmen müssen.
+
+Bereits in der Vergangenheit hatten Szeneangehörige damit be­
+gonnen, vereinzelt sog. „alternative Schulen“ zu gründen. Ziel
+dieser „alternativen Schulen“ war es, die Reichsbürgerideologie
+in die Beschulung von Kindern und Jugendlichen einﬂießen zu
+lassen und auch an deren Eltern heranzutragen. Im Kontext der
+Corona-Schutzmaßnahmen im Schulbetrieb versuchten Szene­
+angehörige dann vermehrt, für ihre Kinder alternative Lernan­
+gebote in schulähnlichen Einrichtungen zu etablieren, um dem
+staatlichen Schulsystem zu entkommen.
+
+Das wachsende Interesse der Szene an einem ganz­
+heitlichen System als „Alternative“ zur Bundesrepublik
+Deutschland machte sich insbesondere die bundes­weit
+aktive Reichsbürger­gruppierung „Königreich Deutsch­
+land“ (KRD) zu Nutze. Im Jahres­verlauf ­bewarb das
+KRD auf seinen öffentlich einsehbaren Internetprä­
+senzen mehrere in Bayern stattfindende Vortrags­
+veranstaltungen zum Thema „Systemausstieg“. Die
+zumeist zweitägigen Veranstaltungen können von
+Interessierten gegen Zahlung eines Teilnahmebei­
+­
+trages besucht werden und gelten als „Voraus­setzung
+für die Erlangung der Staatsangehörigkeit im Königreich
+Deutschland“ sowie für die Teilnahme an ­     weiteren
+„Zusatzmodulen“ wie beispielsweise den „Betriebs­
+gründungsseminaren“ der Gruppierung.
+
+                                                                                     227
+Verfassungsschutzbericht Bayern 2024                Reichsbürger und Selbstverwalter
+
+
+                       5. REICHSBÜRGERGRUPPIERUNGEN IN
+                          ­BAYERN
+
+                       5.1 Königreich Deutschland (KRD)
+
+                       Mitglieder       ca. 220 in Bayern
+
+                       Gründung         2012
+                       Aktionsraum      Bundesgebiet
+
+
+                       Die Reichsbürgergruppierung „Königreich Deutschland“ (KRD)
+                       mit Sitz in Lutherstadt Wittenberg (Sachsen-Anhalt) ist in der
+                       Szene deutschlandweit aktiv, sie bietet verschiedene Seminare
+                       an und bewirbt unterschiedliche Produkte. Ziel der Gruppie­
+                       rung ist der Aufbau eines sog. „Gemeinwohlstaates“, der mit
+                       einem ­eigenen Staatsoberhaupt, einer eigenen Verfassung und
+                       eigenen Institutionen wie der „Königlichen Reichsbank“ oder
+                       der sog. „Gemeinwohlkasse“ seinen Mitgliedern eine ganzheit­
+                       liche Alternative zum staatlichen System der Bundesrepublik
+                       Deutschland bieten soll.
+
+                       Anhand von kostenpflich­
+                       tigen Seminaren bewirbt
+                       das KRD einen „steuer­
+                       freien und von der BRD
+                       unabhängigen Rechtekreis
+                       des Gemein­wohlstaates“.
+                       „Geringere Sozialabgaben“
+                       sowie ein angeblich „autar­
+                       kes und geschlossenes zinsfreies Geldsystem“ sollen Selbststän­
+                       dige motivieren, sich dem KRD anzuschließen. Der KRD-Webseite
+                       zufolge befinden sich bundesweit mittlerweile ca. 700 Unterneh­
+                       men, auch aus Bayern, im „Melderegister“ der Gruppierung.
+
+                       In den letzten Jahren konnten auch in Bayern vermehrt real­
+                       weltliche Aktivitäten der Gruppierung festgestellt werden.
+                       ­Neben sog. „LEUCHT-TURM-Seminaren“ u. a. zu den Themen
+                        „System­ausstieg, Betriebsgründung und Staatsangehörigkeit“
+                        fanden auch andere sog. „LEUCHT-TURM“-Aktivitäten wie z. B.
+                       gemeinsame Wanderungen statt. Den großen Anklang, den die
+                       Gruppierung inzwischen auch in der bayerischen Reichsbürger-
+                       und Selbstverwalterszene findet, belegte beispielsweise der
+                       „KRD LEUCHT-TURM ZUKUNFTS-KONGREß“ am 9. Juni im
+                       Landkreis Erding, bei dem eine Teilnehmerzahl im hohen 2-stelli­
+                       gen Bereich festgestellt wurde. Vorab war die Veranstaltung als
+
+
+
+228
+Reichsbürger und Selbstverwalter                            Verfassungsschutzbericht Bayern 2024
+
+
+
+„wichtigster Termin überhaupt in diesem Jahr“ für „alle Zu- &
+Angehörige“ des KRD beworben worden. Als Vortragsredner
+wurde u. a. das selbsternannte „Staatsoberhaupt“ des KRD,
+­Peter Fitzek, angekündigt. Inhalt des Kongresses sollten Themen
+ rund um die strukturelle Optimierung und die regionalen Ange­
+ bote der Gruppierung sein.
+
+Das KRD nutzt derartige Veranstaltungen zur besseren Vernetzung
+untereinander und versucht, auf diese Weise neue Mitglieder und
+damit auch neue Spender zu gewinnen.
+
+Bei „LEUCHT-TURM“ handelt es sich um eine Art PR-Agentur des
+KRD, welche den weiteren Ausbau der Strukturen des selbster­
+nannten Königreiches verfolgt. Auf ihrer Webseite e
+                                                  ­ rklärt die
+Gruppierung ihre „Vision“ u. a. wie folgt:
+
+         LEUCHT-TURM ist der Ansprechpartner für
+         König­reich Deutschland Interessierte, unterneh­
+        merische Gewissensfolger und Investoren –
+        ­einfach für alle Menschen die aktiv, ‚offline‘ TUN
+         und die vielen Ideen, Theorien und Gedanken
+         auf der grobstofflichen physischen Ebene nun
+         Realität werden lassen. Gemeinsam erschaffen
+         wir in klarer und inspirierender Art mit allen loyalen
+         Weggefährten echte, wahrhaftige regionale Ge­
+         meinwohlstrukturen.
+
+
+Auf der Webseite werden, parallel zum eigenen Telegram-­
+Kanal, auch „Seminare“ im gesamten deutschsprachigen Raum
+­beworben. Zudem betreibt das KRD einen eigenen Podcast mit
+ dem Titel „Ich bin in bester Verfassung“.
+
+Innerhalb der Szene und auf der eigenen Webseite wirbt das
+KRD auch für sog. „Dorfprojekte“. Für die Durchführung dieser
+Projekte „im ersten Gemeinwohlstaat der Welt“ sucht das KRD
+„engagierte Menschen mit gemeinsamen Visionen, passende
+Standorte sowie finanzielle Mittel“. Auch in der bayerischen
+Reichsbürger- und Selbstverwalterszene wurde diese Idee dis­
+kutiert, u. a. auf dem Telegram-Kanal des bayerischen Ablegers
+„KRD – Bayern“. Aktivitäten, die auf die Umsetzung der „Dorf­
+projekte“ in Bayern hinweisen, konnten bislang nicht festgestellt
+werden.
+
+
+
+
+                                                                                           229
+Verfassungsschutzbericht Bayern 2024                 Reichsbürger und Selbstverwalter
+
+
+                       5.2 Vaterländischer Hilfsdienst (VHD)
+
+                       Mitglieder        ca. 80 in Bayern
+
+                       Gründung          2019
+                       Aktionsraum       Bundesgebiet
+
+
+                       Beim „Vaterländischen Hilfsdienst“ (VHD) handelt es sich um
+                       eine Unterorganisation der Reichsbürgergruppierung „Bismarcks
+                       Erben“, die auch unter den Namen „Ewiger Bund“ und „Preu­
+                       ßisches Institut“ auftritt. Der VHD versteht sich als ­Fortführung
+                       der gleichnamigen zivilen Ergänzung zur Wehrpflicht im Deut­
+                       schen Reich aus dem Jahr 1916. Organisatorisch unterteilt sich
+                       der VHD in insgesamt 24 „Armeekorpsbezirke“ und bezieht sich
+                       dabei auf die Grenzen des Deutschen Reiches.
+
+                       Wie alle Reichsbürgergruppierungen erkennt auch der VHD
+                       ­weder den Staat noch dessen Exekutivbefugnisse an. Eigenen
+                        Angaben zufolge dient der VHD der „Reorganisation des Vater­
+                        landes“ bzw. „ausschließlich der Wiederherstellung der staat­
+                        lichen Handlungsfähigkeit“. Dabei geht es dem VHD auch darum,
+                        den Gebietszustand von 1914 und den Rechtsstand von 1918
+                        wiederherzustellen. Hierfür benötige man „handlungsfähige
+                        staatliche Organe um den Kriegs- und Belagerungszustand zu
+                        ­beenden“. Der VHD sieht seine Aufgabe darin, „Deutsche mit
+                         ­einer Staatsangehörigkeit“ in einem „Bundesstaat“ zu ­„erfassen
+                          und [zu] sammeln“ und sie dem „Deutschen Kaiser“ zu unterstel­
+                          len, ­wobei auch Abstammungsnachweise erbracht werden sollen.
+
+                                                        Angehörige des VHD veran­
+                                                        stalteten 2024 mehrere real­
+                                                        weltliche Treffen in Bayern, u. a.
+                                                        in den Landkreisen Mün­    chen,
+                                                        Passau und Weilheim-Schongau,
+                                                       über die sie auch auf ihrer Web­
+                                                       seite berichteten. Dort finden
+                                                       sich auch Angaben zu sog.
+                                                       ­„Fa­nale-Aktionen“, bei denen
+                       am 1. April an verschiedenen Bismarck­türmen im ganzen Bun­
+                       desgebiet, u. a. an der Bismarck­säule in Berg (Lkr. Starnberg),
+                       bengalische Feuer entfacht w ­ urden. Mit dieser Aktion wollte die
+                       Gruppierung Otto von B  ­ ismarck als e ­ inem der – ihrer Ansicht
+                       nach – bedeutendsten deutschen Staatsmännern gedenken.
+
+
+
+
+230
+Reichsbürger und Selbstverwalter                       Verfassungsschutzbericht Bayern 2024
+
+
+
+Die VHD-Treffen ﬁnden oftmals an geschichtsträchtigen Orten
+statt und sind einem bestimmten Thema gewidmet. Ein zentrales
+Ziel derartiger Veranstaltungen und sog. „Denkmalaktionen“ ist die
+Vernetzung der Anhängerschaft.
+
+Zum Zweck der Vernetzung zeigt sich die Gruppierung auch im
+Internet mit beträchtlicher Medienpräsenz. Neben mehreren
+Webseiten und Youtube-­Kanälen existieren aktuell auch Profile
+auf einschlägigen sozialen Netzwerken, die u. a. für die Doku­
+mentation der Treffen verwendet werden und die Gruppierung
+nach außen präsentieren.
+
+
+
+
+5.3 Indigenes Volk Germaniten (IVG)
+
+Mitglieder        ca. 70 in Bayern
+
+Gründung          2010
+Aktionsraum       Bundesgebiet
+
+
+Beim „Indigenen Volk Germaniten“ (IVG) handelt es sich um eine
+bundesweit aktive, gut vernetzte Reichsbürgergruppierung, die
+sich regionalspezifisch in sog. „Missionen“ unterteilt. Nach eige­
+ner Darstellung handelt es sich beim IVG um eine Weltanschau­
+ungsgemeinschaft und ein eigenständiges Volk. Angehörige der
+Organisation vertreten die Auffassung, sie seien Eingeborene
+des Volkes der „Germaniten“ und müssten sich deswegen nicht
+der deutschen Gesetzgebung und deren Organen unterwerfen.
+
+Die Mitglieder berufen sich auf unterschiedlichste, zwar im Kon­
+text der Menschenrechte stehende, jedoch letztlich willkürlich
+zusammengestellte Rechtsgrundlagen. Dabei behaupten sie
+u. a., dass ihnen als Angehörige eines nativen Volkes Sonder­
+rechte zustünden.
+
+
+
+
+                                                                                      231
+Verfassungsschutzbericht Bayern 2024               Reichsbürger und Selbstverwalter
+
+
+                        Angehörige der IVG treten mit einer großen Bandbreite für die
+                        Reichsbürger- und Selbstverwalterszene typischer Agitations­
+                        formen in Erscheinung. Neben dem Versand von sog. „Akzeptanz­
+                        schreiben“ und der Auseinandersetzung mit ö           ­ffentlichen
+                        Behörden konnten auch die Organisation und Durch­
+                        ­                                                         führung
+                        von Vortragsveranstaltungen sowie Vernetzungstreffen von
+                        IVG-Angehörigen festgestellt werden. Ebenso organisierte die
+                        Gruppierung bereits mehrfach Online-Veranstaltungen, bzw.
+                       Online-Vorträge, beispielsweise im April und Mai zum Thema
+                       „Sind wir vielleicht alle indigen?“. Interessierte konnten sich im
+                       Internet, gegen Zahlung einer Teilnahmegebühr, für den Vortrag
+                       anmelden. Darüber hinaus sind Angehörige der Gruppierung
+                       gegen­ über der Polizei mit eigenen Mitgliederausweisen des
+                       ­„Indigenen Volkes Germaniten“ in Erscheinung getreten.
+
+                       Seit seiner Gründung im Jahr 2010 ist es dem IVG gelungen,
+                       die eigenen Aktivitäten sowie die Mitgliederstärke kontinuierlich
+                       auszubauen.
+
+
+
+
+232
+Reichsbürger und Selbstverwalter   Verfassungsschutzbericht Bayern 2024
+
+
+
+
+                                                                  233
+Verfassungsschutzbericht Bayern 2024                        Linksextremismus
+
+
+
+Linksextremismus
+
+
+
+
+                       Ziel der linksextremistischen Szene ist es, die durch
+                       das Grundgesetz vorgegebene Staats- und Gesell­
+                       schaftsordnung der Bundesrepublik Deutschland
+                       zu beseitigen und – je nach ideologisch-politischer
+                       Orientierung – durch eine sozialistische, kommunis­
+                       tische oder eine „herrschaftsfreie“ Gesellschaft zu
+                       ersetzen. Die linksextremistischen Vorstellungen
+                       ­
+                       richten sich insbesondere gegen durch das Grund­
+                       ­
+                       gesetz garan­tierte Grundrechte, die parlamentarische
+                       Demokratie, die Gewaltenteilung, die Volkssouveräni­
+                       tät, das Rechtsstaatsprinzip und den Pluralismus.
+
+                       Die freiheitliche demokratische Grundordnung der
+                       Bundesrepublik Deutschland wird als „kapitalis­tisches
+                       System“ und als Wurzel des Faschismus diffamiert
+                       und soll abgeschafft werden.
+
+                       Ideologisch lässt sich die linksextremistische Szene in
+                       Bayern grob in die beiden Grundströmungen Marx­
+                       ismus (bzw. Marxismus-Leninismus, Trotzkismus,
+                       Stalinismus, Maoismus) und Anarchismus eintei­
+                       len. Die Übergänge zwischen diesen unterschied­
+                       lichen Ausrichtungen sind teilweise fließend, führen
+                       aber szeneintern auch zu teils heftigen Konflikten
+                       und Spaltungen. Nähere Informationen zu diesen
+                       unterschiedlichen ideologischen Strömungen des
+                       Linksextremismus finden sich auf der Webseite des
+
+
+234
+Linksextremismus                             Verfassungsschutzbericht Bayern 2024
+
+
+
+
+Bayerischen Landesamts für Verfassungsschutz
+(https://www.lfv.bayern.de/linksextremismus/defi­
+nition/ideologie//index.html).
+
+In der linksextremistischen Szene bilden Autonome
+den größten Teil des gewaltbereiten Personen­
+potenzials. Autonome haben zwar keine einheit­liche
+Ideologie, gemeinsames Ziel aller Autonomen ist es
+aber, den Staat und seine Einrichtungen zu zerschla­
+gen. Neben Sachbeschädigungen wenden Autonome
+auch Gewalt gegen Personen – vor allem gegen tat­
+sächliche oder vermeintliche Angehörige der rechts­
+extremistischen Szene und Polizeikräfte – an, um
+ihre Vorstellungen durchzusetzen.
+
+Die Szene besetzt dabei auch Themen, die an sich
+nicht extremistisch sind. Ihr Ziel ist es dabei aber
+in erster Linie, ihre linksextremistischen politischen
+Positionen zu verbreiten. Hierzu werden vor allem
+aktuelle, gesellschaftlich relevante Themen wie Klima-
+und Umweltschutz oder Migration aufgegriffen. So
+werden seit Beginn des Russland-Ukraine-Krieges
+dessen politische und gesellschaftliche Auswirkun­
+gen auf Deutschland thematisiert und der Kontakt zu
+bürgerlich-demokratischen Organisationen gesucht,
+um die Akzeptanz der eigenen antidemokratischen
+Standpunkte zu erhöhen.
+
+
+                                                                            235
+Verfassungsschutzbericht Bayern 2024                                          Linksextremismus
+
+
+                       1. PERSONENPOTENZIAL IN BAYERN
+
+                                                                      2022         2023         2024
+
+                       Parteien und Vereinigungen
+
+                       Partei DIE LINKE.                               850          800          700
+                       offen extremistische
+                       Strukturen
+
+                       DKP                                             270          250          220
+
+                       MLPD (mit REBELL)                               140          120           110
+
+                       SDAJ                                            110          110           110
+
+                       Rote Hilfe                                    1.100         1.150       1.200
+
+                       Sonstige                                        360          360          140
+                       Gruppierungen
+
+                       Autonome/Anarchisten                            810          800          870
+
+                       Summe                                         3.640        3.590        3.350
+
+                       Mehrfachzählungen    1
+                                                                       440          330          250
+
+                       Gesamtzahl                                    3.200        3.260         3.100
+
+                       Gewaltorientierte Personen von der              880          840          920
+                       Gesamtzahl2
+
+
+                       Die Zahlenangaben sind geschätzt und gerundet.
+
+                       1
+                           Die Mehrfachmitgliedschaften im Bereich der Parteien und sonstigen Zusam­
+                           menschlüsse werden vom Gesamtpotenzial abgezogen.
+                       2
+                           Dazu zählen gewalttätige, gewaltbereite, Gewalt unterstützende und Gewalt
+                           befürwortende Personen.
+
+
+
+                       2. MILITANZ- UND GEWALTPOTENZIAL
+Gewalt als             Innerhalb der linksextremistischen Szene ist der größte Teil des
+„Lifestyle“            gewaltbereiten Personenpotenzials autonomen Gruppierungen
+                       zuzurechnen. Sie sind für die meisten linksextremistisch moti­
+                       vierten Gewalttaten verantwortlich, die vor allem bei Demonstra­
+                       tionen gegen den politischen Gegner verübt werden. Ziel dieser
+                       überwiegend jungen Akteure ist es, den Staat und seine Einrich­
+                       tungen – auch mit Gewalt – zu zerschlagen und eine „herrschafts­
+                       freie“ Gesellschaft zu errichten. Mit diffusen anarchistischen,
+                       kommunistischen und sozialrevolutionären Ideologie­fragmenten
+
+
+
+
+236
+Linksextremismus                                        Verfassungsschutzbericht Bayern 2024
+
+
+
+schaffen sich Autonome einen vermeint­      lichen Legitimations­
+rahmen für ihre Militanz. Gewalttaten werden als notwendiges
+Mittel dargestellt, um sich gegen die angebliche „strukturelle
+Gewalt“ des politischen Systems zu wehren. Viele Autonome
+erleben die Ausübung von Massenmilitanz als sinnstiftende
+­
+Erfahrung. Gewalt wird zum Ausdruck eines Lebensgefühls.
+Formen und Ausmaß der Gewaltanwendung sind regelmäßig
+Gegenstand von Diskussionen in der autonomen Szene. Seit
+Längerem ist zudem auch in der anarchistischen Szene eine zuneh­
+mende Radikalisierung und Hinwendung zur Gewalt feststellbar,
+die sich insbesondere gegen die öffentliche Infrastruktur richtet.
+
+So verüben Angehörige der linksextremistischen Szene immer              Konspirativ geplante
+häufiger konspirativ geplante Straftaten wie Brandanschläge, zu         Straftaten
+denen im Nachgang auf einschlägigen Internetportalen anonyme
+Selbstbezichtigungsschreiben veröffentlicht werden. Anschlags­
+ziele sind vor allem Unternehmen der Rüstungsindustrie und
+die Deutsche Bahn, die im Rahmen linksextremistischer „Anti-­
+Militarismus“-Kampagnen im Fokus gewaltbereiter Szeneakteure
+stehen.
+
+Eine Möglichkeit, auf Demonstrationen Gewalt auszuüben, ist             Initialisierende
+der sog. „Schwarze Block“, bei dem sich militante, zum Schutz           Gewalt/
+vor polizeilicher Identifizierung häufig einheitlich schwarz geklei­    Schwarzer Block
+dete Personen oder Gruppierungen geplant zur situativen An­
+wendung von Gewalt zusammenschließen. Autonome nutzen
+aber ebenso Demonstrationen anderer – nichtextremistischer
+– Akteure, um der Veranstaltung eine militante und aggressive
+Atmosphäre aufzuzwingen und hinter der Deckung friedlicher
+Demonstranten Gewalttaten zu begehen sowie andere dazu auf­
+zustacheln (initialisierende Gewalt).
+
+Angehörige der linksextremistischen Szene sprechen Anders­
+denkenden die ihnen in gleichem Maße zustehenden Grund­
+rechte ab, z. B. die Meinungs- oder Versammlungsfreiheit. Als
+Konsequenz akzeptieren sie nicht, dass die Polizei auch bei
+Demons­trationen von politisch Andersdenkenden zur Gewähr­
+leistung des grundgesetzlich geschützten Versammlungs­rechtes
+eingesetzt werden muss. So wird der Polizei insbesondere bei
+Veranstaltungen des rechten bis rechtsextremistischen Spek­
+trums unterstellt, mit dessen Zielsetzungen zu sympathisieren.
+Den Ablauf ihrer Aktionen machen linksextremistische Aktivist­
+innen und Aktivisten vor allem von ihrem Kräfteverhältnis gegen­
+über der Polizei abhängig.
+
+
+
+
+                                                                                           237
+Verfassungsschutzbericht Bayern 2024                                Linksextremismus
+
+
+Mobilisierungs­        Während es der Szene in der Vergangenheit häufig gelang,
+fähigkeit sinkt        anlässlich von Großveranstaltungen wie z. B. dem G20-Gipfel
+                       2017 in Hamburg ein erhebliches Personenpotenzial für diese
+                       Massen­militanz zu generieren, ist der Trend in den letzten Jahren
+                       in Bayern deutlich rückläufig.
+
+                       So ist es der Szene auch 2024 nicht gelungen, ihre Anschluss­
+                       fähigkeit signifikant zu erhöhen. Zwar war die linksextremistische
+                       Szene auf den zahlreichen, mitunter großen Demonstrationen
+                       gegen Rechtsextremismus zu Jahresbeginn prominent präsent
+                       und organisierte diese Veranstaltungen in Teilen mit, allerdings
+                       ohne den bürgerlichen Charakter der Veranstaltung für ihre Ziele
+                       vereinnahmen oder von den Protestveranstaltung dauerhaft pro­
+                       fitieren zu können. Auch in anderen Themenfeldern, wie dem
+                       Antimilitarismus oder dem Antiimperialismus, so etwa bei Veran­
+                       staltungen mit Bezug zum Nahostkonflikt, konnte die Szene zwar
+                       Akzente setzen, jedoch ohne auf breitere Bevölkerungsschichten
+                       nennenswert einzuwirken. So zeigten die propalästinensischen
+                       Proteste rund um die Münchner Universitäten, die maßgeblich
+                       von Linksextremisten mitgetragen wurden, so gut wie keine
+                       positiven Reaktionen in der Öffentlichkeit. Sowohl das propaläs­
+                       tinensische Protestcamp auf dem Professor-Huber-Platz als auch
+                       die Besetzung eines Hörsaals der Ludwig-Maximilians-Universität
+                       (LMU) durch propalästinensische Aktivisten im Januar stießen bei
+                       der Masse der Studenten der LMU kaum auf Interesse. Eine brei­
+                       tere Anschlussfähigkeit für Linksextremisten in diesem Themen­
+                       feld ist somit auch im universitären Umfeld nicht gegeben.
+
+                       Von der – gegenüber der Öffentlichkeit auch nurmehr schwer
+                       vermittelbaren – Massenmilitanz verschiebt sich die Gewalt­
+                       bereitschaft immer mehr ins Persönliche.
+
+                       Aktivitäten gegen staatliche Repräsentanten, Unternehmen
+                       und Infrastruktur
+Konfrontative Gewalt   Das Aggressionspotenzial der autonomen Szene ist seit Jahren
+                       anhaltend hoch. Autonome Linksextremisten suchen vor allem
+                       bei Demonstrationen, aber auch bei anderen Anlässen gewalt­
+                       same Auseinandersetzungen (konfrontative Gewalt).
+
+                       Angehörige der linksextremistischen Szene betrachten Polizei­
+                       kräfte generell als Repräsentanten eines staatlichen „Repres­
+                       sionsorgans“. Sie versuchen zunehmend, die gesellschaftliche
+                       Akzeptanz der Polizei als staatliche Institution sowie der einzel­
+                       nen Polizeikräfte, insbesondere bei der Ausübung polizeilicher
+                       Befugnisse, zu untergraben. Jegliche polizeilichen Kontrollen
+                       dienen ihnen als Vorwand, ihre „Freiräume“ auch gewaltsam zu
+                       verteidigen.
+
+238
+Linksextremismus                                      Verfassungsschutzbericht Bayern 2024
+
+
+
+Die Hemmschwelle, auch schwere Straftaten zu begehen, ist             Sinkende
+deutlich gesunken. Zudem werden linksextremistische Straf­            Hemmschwelle
+taten auch gewalttätiger und persönlicher: Sie richten sich ver­
+mehrt gezielt gegen Personen, die von der Szene aufgrund ihrer
+politischen Ausrichtung oder auch ihres Berufes als „Feind“
+identifiziert werden. Im Gegensatz zu früher findet szeneintern
+nahezu keine Diskussion mehr über die Vermittelbarkeit von
+Gewalt­taten statt: Dies deutet auf eine größere Gewaltakzep­
+tanz innerhalb der linksextremistischen Szene insgesamt hin und
+birgt die Gefahr, dass bislang gewahrte Grenzen überschritten
+werden.
+
+Auf der linksextremistischen Internetplattform de.indymedia.org       Aufrufe zur Gewalt­
+wird Gewalt gegen politische Gegner nicht nur als notwendig           anwendung
+erachtet, sondern gezielt gefordert. So heißt es:
+
+        Der Text soll […] zu mehr Gewalt gegen Fa­
+        schist*innen aufrufen. Wir sollten mehr trainie­
+        ren damit wir Nazis wirklich angreifen können.
+        […] Wir sollten auch weiterhin Räume der Rech­
+        ten angreifen und unser Wissen dazu weiterver­
+        mitteln.
+
+
+Einschränkend heißt es weiter: „Wir sollten uns nur nicht mehr
+dazu hinreißen lassen gefesselte [sic!] Menschen gezielt Knochen
+zu brechen.“
+
+Hierbei beziehen sich die Autoren vermutlich auf Aktionen im
+März und Mai 2021 in Eilenburg (Sachsen) bzw. Erfurt (Thürin­
+gen), bei denen Mitglieder der „Hammer-Bande“ um die verur­
+teilte Linksextremistin Lina E. auf gefesselte, am Boden liegende
+Rechtsextremisten mit Hämmern einschlugen. Es kann davon
+ausgegangen werden, dass die hier geforderte Zurückhaltung
+lediglich der vermuteten negativen öffentlichen Wahrnehmung
+entsprechender Taten geschuldet ist.
+
+Dass moralische Bedenken keine Rolle spielen, zeigt sich auch in
+der zunehmenden Verrohung der Sprache. Linksextremistische
+Gruppierungen nutzen bei der Benennung vermeintlicher „Feinde“
+häufig eine abwertende und entmenschlichende Diktion: Sie be­
+zeichnen z. B. Polizeikräfte als „Bullen“ bzw. „Bullenschweine“
+und verbreiten Parolen wie „ACAB – All Cops Are Bastards“
+oder „ACAT – All Cops Are Targets“. Bereits im Jahr 1970 wurden
+Polizisten von der RAF-Terroristin Ulrike Meinhof als „Bullen“
+und „Schweine“ verunglimpft. Diese Bezeichnung hat sich im
+Szenejargon etabliert.
+
+                                                                                     239
+Verfassungsschutzbericht Bayern 2024                               Linksextremismus
+
+
+
+
+„Direkte Aktion“       Auch 2024 kam es im Raum München zu einer Reihe von Sach­
+                       beschädigungen, die in ihrer Zielauswahl und ihrer Vorgehens­
+                       weise Parallelen zu den linksextremistisch motivierten Straftaten
+                       der letzten Jahre aufwiesen: So wurden u. a. Baumaschinen und
+                       Kabelschächte in Brand gesetzt. Mittlerweile erfolgen Tatbe­
+                       kennungen aber nur noch selten. Möglicherweise erachtet die
+                       Szene dies nicht mehr als zwingend notwendig, wenn die Tat
+                       durch Zielauswahl und Begehungsweise bereits für sich spricht.
+                       In der Szene hat sich für diese Vorgehensweise der Begriff der
+                       „direkten Aktion“ etabliert. Taten, die sich in ihrem vermeint­
+                       lichen Begründungszusammenhang auf gesellschaftliche An­
+                       liegen wie den Klimaschutz beziehen, verdecken dabei oftmals
+                       die ihnen zugrundeliegende linksextremistische Zielsetzung der
+                       Täter. So lassen sich beispielsweise Brandanschläge auf Kabel­
+                       schächte der Deutschen Bahn AG schwerlich mit Protesten für
+                       Klimaschutz verbinden.
+
+
+                       2.1 Ziele und Entgrenzung Iinksextremistischer
+                           Gewalt
+                       Linksextremistische Agitation und Übergriffe richten sich ver­
+                       mehrt auch gegen Einzelpersonen, die z. B. aufgrund von Äuße­
+                       rungen, Berufszugehörigkeit oder der Teilnahme an einer Veran­
+                       staltung gezielt angegriffen werden. Auch Presseangehörige
+                       stehen im Fokus Iinksextremistischer Gewalttäter, ebenso wie
+                       Personen, die sich von der Szene losgesagt haben.
+
+Urteil gegen Lina E.   Am 31. Mai 2023 verurteilte das Oberlandesgericht Dresden im
+                       sog. „Antifa-Ost-Verfahren“ die Hauptangeklagte Lina E. sowie 3
+                       mitangeklagte Männer u. a. wegen Mitgliedschaft in einer krimi­
+                       nellen Vereinigung bzw. deren Unterstützung zu mehrjährigen
+
+240
+Linksextremismus                                        Verfassungsschutzbericht Bayern 2024
+
+
+
+Haftstrafen. Lina E. wurde zu 5 Jahren und 3 Monaten Haft ver­
+urteilt. Die 3 Mitangeklagten erhielten Freiheitsstrafen zwischen
+2 Jahren und 5 Monaten und 3 Jahren und 3 Monaten. Das Urteil
+ist weiterhin nicht rechtskräftig.
+
+Seit Prozessbeginn im September 2021 bekundeten weite Teile
+der linksextremistischen Szene ihre Solidarität mit den Beschul­
+digten. So verfolgten etwa Personen aus dem Unterstützerum­
+feld das Prozessgeschehen und die Urteilsverkündung als Zu­
+schauer auch direkt vor Ort.
+
+Die Szene in Bayern solidarisierte sich ebenfalls mit den Ange­
+klagten, z. B. in Form von Graffitis mit dem Slogan „Freiheit für
+Lina E.“, entsprechenden Aufrufen in den sozialen Netzwerken
+oder Drohungen gegen den ehemals szeneangehörigen Kron­
+zeugen. Unabhängig vom Verfahrensausgang kündigten bundes­
+weit zahlreiche Szeneakteure insbesondere für den sog. „Tag X“,
+den ersten Samstag nach der Urteilsverkündung, gewaltsame
+Proteste in Leipzig und andernorts an. In unzähligen Onlineposts
+riefen Szeneakteure dazu auf, realweltlich entsprechende Aktio­
+nen zu starten.
+
+Dabei hieß es u. a.:
+
+        Für jede/n Genoss*in und Gefährt*in und für je­
+        weils jedes Jahr Knast, gibt es ab sofort 1 Million
+        Sachschaden bundesweit!
+
+
+In der Gesamtschau gelang es der Szene jedoch nicht, die zuvor
+angekündigte Massenmilitanz zu entfachen. Vielmehr zeigte sich
+die Szene enttäuscht über den unerwartet milden Verlauf der „Tag
+X“-Proteste.
+
+Ziel der „Antifa Ost“ war es, Personen, die von ihr als rechts­         Angriff auf Passanten
+extremistisch eingestuft wurden, anzugreifen, zu verletzen und          in Budapest
+einzu­schüchtern. Dieses Vorgehen führte zu teilweise erheb­
+lichen Verletzungen bei den Opfern. Ein Teil der Gruppenmit­
+glieder ist mittlerweile untergetaucht. Es ist davon auszugehen,
+dass diese Personen auch im Untergrund weiterhin Straftaten
+begehen. Im Februar 2023 sollen mutmaßliche Mitglieder der
+„Antifa Ost“ in Budapest mehrere Personen, die sie für Rechts­
+extremisten hielten, mit Hämmern und Totschlägern angegriffen
+haben.
+
+
+
+
+                                                                                        241
+Verfassungsschutzbericht Bayern 2024                               Linksextremismus
+
+
+                       Hintergrund des Angriffes war der sog. „Tag der Ehre“, an dem
+                       Angehörige der rechtsextremistischen Szene aus ganz Europa
+                       zusammenkommen, um an den Ausbruchsversuch von Verbän­
+                       den der Wehrmacht und der Waffen-SS aus dem belagerten
+                       ­Budapest zu erinnern.
+
+Festnahmen im          Am Morgen des 6. Mai nahmen Kräfte der örtlichen Polizei die
+Fall der „Hammer-      Linksextremistin Hanna S. in Nürnberg fest und durchsuchten
+Bande“                 ihre Wohnung. Hanna S. wird neben der Beteiligung an den
+                       Überfällen in Budapest und Körperverletzung in 2 Fällen auch
+                       die Mitgliedschaft in einer kriminellen Vereinigung vorgeworfen.
+                       Seitdem befindet sich Hanna S. in der Justizvollzugsanstalt Nürn­
+                       berg in Untersuchungshaft. Zu ihrer Unterstützung veranstaltete
+                       die lokale linksextremistische Szene regelmäßig Solidaritäts­
+                       demonstrationen und -kundgebungen. Dabei betonte die Szene
+                       immer wieder die Notwendigkeit antifaschistischen Handelns
+                       bis hin zu Militanz.
+
+
+
+
+Auslieferung nach      Am 27. Juni ordnete das Kammergericht Berlin die Auslieferung
+Ungarn                 des zum damaligen Zeitpunkt in der Justizvollzugsanstalt Dres­
+                       den inhaftierten Linksextremisten mit der Selbstbezeichnung
+                       „Maja“ nach Ungarn an, die am 28. Juni vollzogen wurde. „Maja“
+                       wird ebenfalls der Beteiligung, an den Überfällen in Budapest
+                       beschuldigt. Die Auslieferung führte zu einer Welle der Solidari­
+                       sierung in der bundesdeutschen linksextremistischen Szene.
+                       Auch ­verschiedene bayerische linksextremistische Gruppierun­
+                       gen beteiligten sich mit Transparentaktionen und Demonstra­
+                       tionen an den Solidaritätsbekundungen. Überdies wurden die
+                       Solidaritätsaktionen der linksextremistischen Szene in Nürnberg
+                       häufig um die Forderung „Free Maja“ erweitert.
+
+                       Ebenso veröffentlichten mehrere bayerische linksextremistische
+                       Gruppierungen anlässlich der Festnahme des Aktivisten mit
+                       der Selbstbezeichnung „Nanuk“, eines weiteren Beschuldigten
+                       im „Budapest-Komplex“ am 21. Oktober in Berlin, Solidaritäts­
+                       bekenntnisse in den sozialen Medien.
+
+
+242
+Linksextremismus                                        Verfassungsschutzbericht Bayern 2024
+
+
+
+Der im Zusammenhang mit dem „Antifa-Ost-Verfahren“ und                  Festnahme einer
+dem „Budapest-Komplex“ gesuchte Johann G. wurde am                      Führungsfigur der
+ 8. November in einem Zug in der Nähe von Weimar festge­                Antifa-Ost
+nommen. Er wird als Führungsfigur der „Antifa-Ost“ wie auch
+des „Budapest-­Komplexes“ angesehen. Seit September 2023
+war mit Hilfe einer Öffentlichkeits­fahndung nach ihm gesucht
+­worden. Im Nachgang zu seiner Verhaftung stellten verschie­
+ dene linksextremistische Gruppierungen Solidaritätsbekundun­
+ gen in den sozialen Medien ein. Dabei handelte es sich um die
+ üblichen Transparent­aktionen, mit denen die Szene häufig ihre
+ Solidarität gegenüber den Betroffenen staatlicher Maßnahmen
+ bekundet. Das „Offene Antifaschistische Plenum Rosenheim“
+ spielte mit dem Motto ihrer Aktion „Solidarität ist der Hammer“
+ dabei unverhohlen auf eines der Tatwerkzuge der „Antifa-Ost“
+ an. Im Vergleich zu den Soli­daritätsaktionen für Hanna S. oder
+ auch „Maja“ sind die für Johann G. in Bayern in Art wie Umfang
+ allerdings als sehr ­begrenzt zu bezeichnen.
+
+Die Szene reagierte auf die staatlichen Strafverfolgungsmaß­
+nahmen in Ungarn und Deutschland mit verschiedenen Solidaritäts­
+aktionen. So gründete sich in der linksextremis­tischen Szene das
+„Budapest Antifascist Solidarity Commitee“ (BASC). Das Bündnis
+verfolgt das Ziel, die aus Sicht der Szene zu Unrecht verfolgten
+Aktivisten zu unterstützen. Seiner Webseite zufolge ist das Bünd­
+nis auch eine Reaktion auf einen behaupteten Rechtsruck der
+Gesellschaft, die staatlichen Repressionen ­gegen vermeint­liche
+„Antifaschisten“ und die mediale Berichterstattung ­       gegen
+Personen aus dem linken Spektrum. Die linksextremistische
+­
+­
+Szene betont bei vielen Gelegenheiten immer wieder ihre
+Solidari­tät mit den inhaftierten und untergetauchten Szenemit­
+gliedern. So heißt es in einer vom „Antifa-Stammtisch München“
+­veröffentlichten Rede:
+
+        Klar ist zudem – auch der Kampf gegen den Fa­
+        schismus ist vielfältig. Er reicht von Aufklärung,
+        über direkten Protest, bis hin zu militanten Aktio­
+        nen. Alle Mittel sind legitim und notwendig, so­
+        lange sie wirksam sind! Wir grüßen deshalb alle
+        Antifaschist:innen die im Knast sitzen und die un­
+        tertauchen mussten. Viel Kraft und Mut an euch.
+
+
+
+
+                                                                                       243
+Verfassungsschutzbericht Bayern 2024                                     Linksextremismus
+
+
+                       Die Rede hätte ein ASM-Aktivist auf der Großdemonstration
+                       „Gemeinsam gegen Rechts, für Demokratie und Vielfalt“ am
+                       21. Januar in München halten sollen. Da die Versammlung auf­
+                       grund des großen Andranges von der Polizei aus Sicherheits­
+                       gründen abgebrochen werden musste, wurde die Rede statt­
+                       dessen über den Lautsprecherwagen auf der spontanen
+                       Anschluss­demonstration verlesen.
+
+                       Die Solidaritätsbekundungen für die Beschuldigten in den Ver­
+                       fahren im Zusammenhang mit dem „Budapest-Komplex“ bele­
+                       gen abermals, dass die Szene Personen, die sie als Gegner defi­
+                       niert, das Recht auf körperliche Unversehrtheit abspricht. Damit
+                       verdeutlichen sie die latent vorhandene Gewaltbereitschaft bzw.
+                       die Akzeptanz von Gewalt innerhalb der Szene. Demgegenüber
+                       werden die staatlichen Reaktionen auf Gewalt und Straftaten
+                       von Szeneaktivisten generell als überzogen und ungerechtfertigt
+                       dargestellt. Dies wiederum führt häufig zu einer breiten Solidari­
+                       sierung mit den von staatlichen Maßnahmen Betroffenen.
+
+
+
+                       2.2 Straf- und Gewalttaten
+                       Straftaten mit extremistischem Hintergrund aus dem Be-
+                       reich „Politisch motivierte Kriminalität – links“
+
+                                                                  2022      2023    2024
+
+                       Politisch motivierte Gewaltdelikte
+
+                       Tötungsdelikte (auch Versuch)                 1         0       0
+
+
+                       Körperverletzung                             21        18       4
+
+                       Brand- und Sprengstoffdelikte                 6        21       9
+
+                       Landfriedensbruch                             1         0       0
+
+                       Raub                                          1         1       0
+
+                       Widerstandsdelikte                           10         8       3
+
+                       Gefährlicher Eingriff in Bahn-, Schiffs-      2         1       0
+                       und Luftverkehr
+
+                       Sonstige Gewalttaten                          0         0       0
+
+                       Gesamt                                      42         49      16
+
+                       Vorbereitung einer schweren staats-           0         1       0
+                       gefährdenden Gewalttat/Terrorismus
+
+
+
+
+244
+Linksextremismus                                                       Verfassungsschutzbericht Bayern 2024
+
+
+
+Sonstige Straftaten
+
+Sachbeschädigungen                                  267          249          212
+
+Propagandadelikte                                     5            5           10
+
+Nötigung/Bedrohung                                    9            5            4
+
+Sonstige Straftaten                                  411         692           30
+
+Gesamt                                              322          328          256
+
+Straftaten insgesamt                                364          378          272
+
+1
+    Darunter 3 Volksverhetzungsdelikte und 2 Delikte der Bildung krimineller Verei­
+    nigungen
+2
+    Darunter 2 Volksverhetzungsdelikte
+
+
+Die Gesamtzahl linksextremistischer Straftaten in Bayern ist
+2024 gesunken. Während im Jahr 2023 insgesamt 378 Straf­
+taten zu verzeichnen waren, wurden 2024 insgesamt 272 Straf­
+taten gezählt. Nach wie vor stellen Sachbeschädigungen mit 212
+Delikten den Großteil der Straftaten dar.
+
+Auch die Zahl der linksextremistischen Gewalttaten in Bayern
+fiel 2024 auf 16 Delikte.
+
+Die Zahl der Brand- und Sprengstoffdelikte fiel mit 9 Delikten im
+Vergleich zum Vorjahr (2023: 21) stark ab. Wie in 2023 wurde die
+Mehrzahl dieser Delikte (5) im Großraum München begangen; in
+5 Fällen handelte es sich um Angriffe auf die Infrastruktur.
+
+
+3. EINFLUSSNAHME AUF BÜRGERLICHE
+   KAMPAGNEN
+Die linksextremistische Szene beteiligt sich seit jeher auch an
+nichtextremistischen Veranstaltungen und Initiativen. Diese Tak­
+tik ermöglicht es, den eigenen Protest auf eine größere Bühne zu
+tragen und mehr Menschen über die eigene Kernklientel hinaus
+zu erreichen. Szeneangehörige versuchen, Einfluss auf Veranstal­
+tungen oder Initiativen auszuüben, indem sie ihre verfassungs­
+feindlichen Ideologien und Ziele in den Protest mit einfließen
+­lassen. Letztendlich sollen ihre extremistischen Überzeugungen
+ und Ziele in der Bevölkerung politisch anschlussfähig werden.
+ Gleichzeitig werben sie dabei um neue Mitglieder. Politisch inter­
+ essierte Menschen werden eingeladen, an szeneeigenen Veran­
+ staltungen oder Treffen teilzunehmen, und so an die linksextremis­
+ tische Szene herangeführt. Von besonderem Interesse sind dabei
+
+
+                                                                                                      245
+Verfassungsschutzbericht Bayern 2024                               Linksextremismus
+
+
+                       Themen, die in der Gesellschaft virulent sind, eine Vielzahl von
+                       Menschen betreffen und gleichzeitig Ansatzpunkte für das „An­
+                       docken“ linksextremistischer Forderungen eröffnen.
+
+Agitationsschwer­      Der Antifaschismus stellt einen besonderen Schwerpunkt inner­
+punkt Antifaschis­     halb des deutschen Linksextremismus dar. Derzeit sieht sich
+mus                    die Szene durch den empfundenen Rechtsruck und die Erfolge
+                       der Partei „Alternative für Deutschland“ (AfD) bei den letzten
+                       Wahlen in diesem Themenfeld besonders gefordert. Im Nach­
+                       gang der Veröffentlichung einer Recherche des Medienunter­
+                       nehmens CORRECTIV zu einem Treffen von AfD-Politikern mit
+                       Rechtsextremisten in Potsdam im November 2023 beteiligen
+                       sich bundesweit zahlreiche Menschen an Demonstrationen,
+                       um gegen Rechtsextremismus und die AfD im Besonderen zu
+                       protestieren. An diesen Demonstrationen beteiligten sich auch
+                       Linksextremisten oder organisierten diese mitunter auch selbst.
+                       Das Agitationsfeld „Antifaschismus“ ermöglichst es der hetero­
+                       genen linksextremistischen Szene, bestehende Differenzen –
+                       ­zumindest zeitweise – zu überbrücken und eröffnet ihr zugleich
+                        Anschlussmöglichkeiten bis weit in die bürgerliche Gesellschaft
+                        ­hinein – bislang jedoch ohne nachhaltige Wirkung in der Bevöl­
+                         kerung.
+
+Teilnahme an           Am 21. Januar veranstaltete ein breites Bündnis verschiedener
+­Demonstrationen       Gruppierungen und Organisationen in München eine Groß­
+                       demonstration unter dem Motto „Gemeinsam gegen Rechts,
+                       für Demokratie und Vielfalt“. Diese Demonstration war überwie­
+                       gend bürgerlich geprägt. Nachdem die Demonstration wegen
+                       Überfüllung vorzeitig abgebrochen werden musste, formierte
+                       sich ein gesonderter, maßgeblich von Linksextremisten betrie­
+                       bener Demonstrationszug vom Siegestor zur Münchner Freiheit.
+                       In dessen Rahmen erinnerte eine linksextremistische Rednerin
+                       an alle „Antifas im Untergrund oder im Knast“. Überdies ­wurden
+                       Rauchtöpfe abgebrannt und über den Lautsprecherwagen
+                       linksextremis­tische Lieder abgespielt. Bereits im Vorfeld hatten
+                       verschiedene regionale linksextremistische Gruppierungen zur
+                       Teilnahme an einem „Antifa-Block“ auf der Demonstration auf­
+                       gerufen.
+
+                       Für den 2. März riefen in Nürnberg verschiedene, darunter
+                       auch linksextremistische, Gruppierungen zur „Get organized“-
+                       Demons­  tration auf. Unter den Gruppierungen befanden sich
+                       die linksextremistische „Interventionistische Linke“, die „Orga­
+                       nisierte Autonomie“, deren Jugendgruppe „Revolutionäre Zu­
+                       kunft Nürnberg“ sowie das „Antifaschistische Aktionsbündnis
+
+
+
+
+246
+Linksextremismus                                     Verfassungsschutzbericht Bayern 2024
+
+
+
+Nürnberg“. Die linksextremistischen Gruppierungen waren an
+der Demonstration mit eigenen Fahnen, Transparenten und teil­
+weise auch Rednern vertreten. Die Demonstration richtete sich
+„gegen Rechtsruck, Ausbeutung und Vereinzelung! – Für eine
+befreite Gesellschaft!“. Die Demonstration richtete sich jedoch
+nicht allein gegen „Rechts“, sondern auch gegen Abschiebun­
+gen, Kürzungen von Sozialleistungen, Repression und allge­
+mein gegen die herrschenden Gesellschaftsverhältnisse und
+ging ­somit deutlich über den Protest gegen Rechtsextremisten
+hinaus. Ziel sei es, die „klassenlose Gesellschaft als Antwort
+auf Rechtsruck, Ausbeutung und Unterdrückung“ aufzubauen.
+Linksex­tremistische Gruppen aus der Region Nürnberg versuch­
+ten auf diese Weise die „Get organized“-Demonstration und die
+Proteste gegen Rechtsextremismus für ihre Zwecke zu nutzen.
+
+
+
+
+Seit einigen Jahren engagieren sich linksextremistische Grup­        Engagement im
+pen darüber hinaus im Bereich Klima- und Umweltschutz. In            Klimaschutz
+­ihrer Rhetorik verbinden sie den Protest gegen den Klimawandel
+ regel­mäßig mit dem „Kampf“ gegen vermeintlich „herrschen­
+ de K ­ lassen“ oder gegen die „Umweltpolitik der herrschenden
+ ­Klassen“. Den Klimaprotest verklären sie ebenfalls im kämpfe­
+  risch aggressiven Duktus zu einem „Klimakampf“ und fordern
+  einen „System­wandel statt Klimawandel“. Damit wird deutlich,
+  dass für die linksextremis­tische Szene der Einsatz für Klima­
+  schutz untrennbar mit der Bekämpfung des freiheitlich-demo­
+kratischen Staates verbunden ist.
+
+
+
+
+                                                                                     247
+Verfassungsschutzbericht Bayern 2024                                 Linksextremismus
+
+
+                       Auch auf die überwiegend demokratisch getragene Umwelt- und
+                       Klimabewegung versuchen Angehörige der linksextremistischen
+                       Szene Einfluss zu nehmen. So zeigen einige Gruppierungen des
+                       linksextremistischen Spektrums bei verschiedenen Veranstal­
+                       tungen u. a. mit Transparenten oder Infoständen Präsenz.
+
+Beeinflussungs­        Die linksextremistische Szene hat z. B. schnell das Mobilisierungs­
+versuche bei           potenzial der „Fridays-for-Future“-Bewegung erkannt. Sie
+„Fridays for Future“   nutzt die Sorgen der überwiegend jugendlichen Angehörigen
+                       der Klima­schutzbewegung vor den Folgen des Klimawandels
+                       als „Türöffner“, um gegen das „kapitalistische System“ als
+                       vermeint­liche Ursache des Klimawandels zu hetzen. Mit Slogans
+                       wie „System change, not climate change“ wollen sie die Bewe­
+                       gung politisieren und ihre eigene antikapitalistische und antistaat­
+                       liche Ideologie einfließen lassen. Diese Bemühungen blieben
+                       jedoch bislang erfolglos. Ein steuernder oder gar prägender Ein­
+                       fluss der linksextremis­tischen Szene konnte bisher nicht festge­
+                       stellt werden.
+
+                       Situation in Bayern
+                       In Bayern unterhält das linksextremistische Klimabündnis „Ende
+                       Gelände“ Ortsgruppen in Augsburg, Erlangen, München, Nürn­
+                       berg, Regensburg und Würzburg. Diese organisieren lokale
+                       Infor­mationsveranstaltungen und Aktionstrainings für bundesweit
+                       bewor­bene Kampagnen, z. B. gegen den Bau von LNG-Terminals.
+
+                       Seit 2023 ist „Ende Gelände“ Teil des bundesweiten Bündnisses
+                       „Disrupt“. Derzeit positioniert sich „Ende Gelände“ thematisch
+                       breiter und eindeutig linksextremistischer. Bei dem Bündnis
+                       „Disrupt“ handelt es sich um einen Zusammenschluss von
+                       linksextremistischen Gruppierungen mit einer umweltpolitischen
+                       Agenda sowie postautonome Gruppen wie z. B. die „Interventio­
+                       nistische Linke“. Neben Klima- und Umweltthemen werden dort
+                       klassische linksextremistische Fragestellungen behandelt. Ge­
+                       genwärtig werden die linksextremistischen Proteste gegen den
+                       Tesla-Konzern im brandenburgischen Grünheide von „Disrupt“
+                       koordiniert.
+
+
+
+
+248
+Linksextremismus                                       Verfassungsschutzbericht Bayern 2024
+
+
+
+4. LINKSEXTREMISTISCHE THEMENFELDER
+Um ihre politischen und gesellschaftlichen Vorstellungen durch­
+zusetzen, engagieren sich Angehörige der linksextremistischen
+Szene in verschiedenen politischen und gesellschaftlichen
+Themen­feldern. Diese Themenfelder sind aufgrund vielfältiger
+Überschneidungen nicht immer klar abgrenzbar.
+
+Aktionen der linksextremistischen Szene, mit denen der Staat,
+die freiheitliche demokratische Grundordnung oder der poli­
+tische Gegner bekämpft werden sollen, finden situationsange­
+passt statt. Die einzelnen Themen dienen mitunter auch der Legi­
+timation von Gewalttaten.
+
+
+4.1 Antikapitalismus
+Zentraler Ansatzpunkt linksextremistischer Agitation ist der Anti­
+kapitalismus, der auch auf die anderen Themenfelder ausstrahlt.
+
+Linksextremistischer Antikapitalismus will im Gegensatz zur
+Kapitalismuskritik nicht nur Defizite am Wirtschaftssystem
+­benennen und Reformvorschläge entwickeln, sondern mit dem
+ Wirtschaftssystem auch Staat und Gesellschaft vollständig um­
+ wälzen. „Kapitalismus“ und „kapitalistische Systeme“ sind nach
+ linksextremistischer Auffassung die wesentlichen Ursachen für
+ Faschismus, Rechtsextremismus, Imperialismus, Umweltzer­
+ störung und Krieg. Für Linksextremisten stellt „Kapitalismus“
+ somit nicht nur eine bloße Wirtschaftsordnung dar, vielmehr
+ wird er gleichgesetzt mit der Gesamtheit staatlicher und gesell­
+ schaftlicher Strukturen in einer parlamentarischen Demokratie.
+ Ob anarchistisch oder kommunistisch: Linksextremistischer
+ Anti­kapitalismus hat aufgrund dieser Grundannahmen immer
+ die Abschaffung der parlamentarischen Demokratie als sog.
+ „bürger­liche Herrschaftsform“ zum Ziel.
+
+Antikapitalismus ist fundamental für linksextremistische Agita­
+tion. Der Kapitalismus wird in der Szene als Kernproblem ange­
+sehen. Folglich finden sich antikapitalistische Argumente auch in
+anderen szenetypischen Themenfeldern. So stellt der Antikapita­
+lismus beispielsweise auch einen zentralen Ausgangspunkt für
+technologie- und fortschrittsfeindliche sowie anarchistisch-anti­
+zivilisatorische Ideologiestränge dar. Nach linksextremistischer
+Argumentation haben Imperialismus, Militarismus und Globali­
+sierung ihren Ursprung im Profit- und Expansionsdrang des Kapi­
+talismus.
+
+
+                                                                                      249
+Verfassungsschutzbericht Bayern 2024                                 Linksextremismus
+
+
+                       4.2 Antifaschismus und Antirassismus
+Ablehnung der          Die linksextremistische Szene nutzt den breiten gesellschaft­lichen
+parlamentarischen      Konsens gegen den Rechtsextremismus für ihre politischen Ziele,
+Demokratie             die weit über die Bekämpfung des Rechtsextremismus hinaus­
+                       reichen. Antifaschismus im linksextremistischen Sinn beinhaltet
+                       auch die Ablehnung der parlamentarischen Demokratie.
+
+                       Ursprünglich bezog sich der Begriff „Antifaschismus“ auf die
+                       inner­italienische Opposition gegen die Herrschaft Mussolinis.
+                       Die Wurzeln des deutschen Antifaschismus liegen im Wider­
+                       stand gegen den Nationalsozialismus. Neben dem bürgerlich-­
+                       liberal geprägten Antifaschismus, der für die Erhaltung bzw.
+                       Wiederherstellung von Demokratie und Rechtsstaatlichkeit ein­
+                       trat, entwickelte sich ein kommunistisch orientierter, als linksex­
+                       tremistisch einzustufender Antifaschismus. Der linksextremis­
+                       tische Antifaschismus wertet alle nicht marxistischen Systeme
+                       als potenziell faschistisch ab oder betrachtet sie als eine Vor­
+                       stufe zum Faschismus. Dementsprechend wird die bürgerliche
+                       Gesell­schaftsordnung, die auf Kapitalismus, Parlamentarismus
+                       und Rechtsstaatsprinzipien aufbaut, als die eigentliche Ursache
+                       von Faschismus, Rassismus und Rechtsextremismus diffamiert.
+                       Der Antirassismus, der insbesondere im Zusammenhang mit der
+                       Asylthematik einen linksextremistischen Agitationsschwerpunkt
+                       bildet, steht im unmittelbaren Zusammenhang mit den Themen­
+                       feldern Antifaschismus und Antikapitalismus. Der Linksextremis­
+                       mus begreift marktwirtschaftlich verfasste Staaten als Systeme,
+                       die zwangsläufig Rassismus hervorrufen und legitimieren.
+
+                       Gewaltorientierte linksextremistische Autonome nutzen den
+                       Antifaschismus seit Jahren zur Mobilisierung. Sie ziehen den
+                       Antifaschismus zudem zur Legitimierung ihrer militanten Aktio­
+                       nen gegen Staat und Polizei heran und behaupten, dass diese
+                       Strukturen insbesondere Personen aus dem rechtsextremis­
+                       tischen Spektrum schützten. Dabei suchen Autonome auch den
+                       Schulter­schluss mit demokratischen Bündnissen und Initiativen.
+
+                       Besonders im Fokus linksextremistischer Aktivitäten steht dabei
+                       die Partei Alternative für Deutschland (AfD), die bereits seit
+                       Längerem von der linksextremistischen Szene als politischer
+                       Hauptfeind wahrgenommen wird. Vor diesem Hintergrund recht­
+                       fertigen Autonome Aktionen gegen AfD-Veranstaltungen bzw.
+                       Sachbeschädigungen von AfD-Büros als Teil des „antifaschis­
+                       tischen Kampfes“.
+
+
+
+
+250
+Linksextremismus                                      Verfassungsschutzbericht Bayern 2024
+
+
+
+So verlief eine Demonstration gegen die Neueröffnung eines
+AfD-Wahlkreisbüros in München-Perlach im August nur auf­
+grund des konsequenten Auftretens der Polizei störungsfrei und
+ohne Zwischenfälle.
+
+Linksextremistische Parteien und Organisationen streben durch
+eine gezielte Einflussnahme die Übernahme von Leitungs- und
+Steuerungsfunktionen in antifaschistischen Initiativen an.
+
+Antifaschismus ist nicht generell linksextremistisch. Es kommt
+vielmehr darauf an, wie der „Faschismus“-Begriff ausgelegt
+wird und welche Forderungen sich aus dem hieraus resultieren­
+den Selbstverständnis als „antifaschistisch“ ergeben. Die zen­
+trale Frage dabei lautet: Richtet sich die Ablehnung nur gegen
+Rechtsextremismus oder richtet sie sich gegen die Normen und
+Regeln eines demokratischen Verfassungsstaates? Linksextre­
+mistische Antifaschisten diffamieren jegliches Handeln staat­
+licher Organe – unabhängig von ihrem Anlass, ihrer gesetzlichen
+Legitimation und ihren rechtsstaatlichen Abläufen – als Ausdruck
+eines mehr oder minder offen zur Schau getragenen „strukturel­
+len“ Rassismus.
+
+
+4.3 Antiimperialismus
+Die linksextremistische Szene unterstellt dem kapitalistischen
+System, „imperialistisch“ zu sein und profitmaximierend zu
+handeln. Staaten und deren Armeen unterstützten dieses, um
+„schwächere“ Staaten und Völker zu unterdrücken und auszu­
+beuten. Der kapitalistische „Imperialismus“ gilt in der Szene als
+Hauptursache für bewaffnete Konflikte. Daher steht linksextre­
+mistischer Antiimperialismus auch immer in einem antikapitalis­
+tischen Kontext.
+
+So bewertet die linksextremistische Szene den Russland-Ukra­
+ine-Krieg als logische Konsequenz einer Zuspitzung der imperia­
+listischen Widersprüche zwischen den NATO-Staaten und
+Russland. Teile der linksextremistischen Szene vertreten die Auf­
+fassung, die NATO trage durch ihre Osterweiterung die Verant­
+wortung für den Krieg, da sie Russland – im Sinne der imperia­
+listischen Staatenkonkurrenz – zum Einmarsch in die Ukraine
+genötigt habe.
+
+
+
+
+                                                                                     251
+Verfassungsschutzbericht Bayern 2024                                  Linksextremismus
+
+
+Linksextremistischer   Aus ihrem antiimperialistischen Weltbild entwickelt sich bei
+Antizionismus          Angehörigen der linksextremistischen Szene häufig auch ein
+                       Antizionismus – die Ablehnung des Staates Israel und dessen
+                       Innen- und Außenpolitik. Israel stellt in diesem Zusammenhang
+                       für einige Szeneangehörige eine Art „Brückenkopf“ der USA
+                       im Nahen Osten dar, um den Kapitalismus immer weiter auszu­
+                       dehnen. Zudem verurteilen Teile der linksextremistischen Szene
+                       den Umgang Israels mit den Palästinensern: Israel wird dabei
+                       vorgeworfen, sich im Rahmen des Nahost-Konflikts vom Opfer
+                       des Nationalsozialismus zum Täter gewandelt zu haben (sog.
+                       ­Täter-Opfer-Umkehr). In ihrer Kritik solidarisieren sich viele Ange­
+                       hörige der linksextremistischen Szene mit den Palästinensern
+                       und rufen zum „Kampf“ gegen Israel und die USA auf.
+
+Gespaltene             Die linksextremistische Szene reagierte auf den Überfall der
+Reaktionen auf         islamis­tischen Terrororganisation HAMAS auf israelisches Staats­
+„HAMAS“-Angriff        gebiet am 7. Oktober 2023 und die darauffolgende militärische
+                       Auseinandersetzung gespalten. So solidarisierten sich einige
+                       linksextremistische Gruppierungen öffentlich mit Israel und riefen
+                       zur Teilnahme an entsprechenden Veranstaltungen auf.
+
+Verharmlosung der      Demgegenüber stellten andere Teile der Szene den Terror der
+Massaker an Juden      HAMAS, der eine große Zahl ziviler Opfer forderte, als legitime
+                       Verteidigung gegen die israelische Aggression dar. Dabei verbrei­
+                       teten sie das Narrativ, dass Israel als faschistischer Apartheits­
+                       staat für die Eskalation verantwortlich sei. Die Palästinenser
+                       hingegen würden sich lediglich gegen diese Unterdrückung
+                       wehren. Die menschenverachtenden Massaker an der Zivil­
+                       bevölkerung werden dabei als israelische „Kriegspropaganda“
+                       oder unvermeidbarer Kollateralschaden des palästinensischen
+                       Befreiungskampfes gegen den „Aggressor“ Israel verunglimpft.
+                       Dies gilt insbesondere für die besonders grausamen Vergewalti­
+                       gungen und Morde an jüdischen Frauen und (Klein)kindern. Diese
+                       Haltung steht in deutlichem Gegensatz zu dem sonst in der Szene
+                       plakativ vertretenen Feminismus.
+
+                       Das Narrativ eines gerechtfertigten Befreiungskampfes der
+                       Paläs­tinenser wird auch mit Verschwörungstheorien unterfüttert.
+                       So schrieb die linksextremistische „Perspektive Kommunismus“
+                       in einem Post auf der Plattform X:
+
+                                 Und bevor hier Missverständnisse entstehen:
+                                 Die Verantwortung für die Massaker, für den
+                                 Krieg und die Gewalt und für jedes Kriegsverbre­
+                                 chen hat Israel und vor allem seine faschistoide
+                                 Regierung. Dieser Krieg ist erzeugt und von den
+                                 Herrschenden in Israel am Ende auch gewollt.
+
+252
+Linksextremismus                                        Verfassungsschutzbericht Bayern 2024
+
+
+
+Für Linksextremisten stellt die Reaktion Israels auf den Terror­
+angriff der HAMAS am 7. Oktober 2023 das typische Handeln
+eines imperialistischen Staates dar. Die Kritik der Linksextremis­
+ten an Israel beruht nicht auf klassischen antisemitischen Über­
+zeugungen, sondern auf einer grundlegenden Ablehnung des
+Zionismus als angeblich jüdische Spielart des Imperialismus. Die
+Solidarität mit dem „unterdrückten palästinensischen Volk“ klam­
+mert dabei häufig die HAMAS aus. Dass es sich bei der HAMAS
+um eine Terrororganisation handelt, die auf der islamistischen
+Ideologie der Muslimbrüder beruht, wird von einigen Akteuren,
+wie z. B. der DKP, bewusst nicht zur Kenntnis genommen.
+
+
+4.4 Antimilitarismus
+Seit dem Beginn des Russland-Ukraine-Krieges hat das Schlag­
+wort „Antimilitarismus“ in der linksextremistischen Szene stark
+an Bedeutung gewonnen. Insbesondere Rüstungsunternehmen,
+die Bundeswehr sowie politische Parteien und Entscheidungs­
+träger rücken derzeit verstärkt in den Fokus gewaltorientierter
+Linksextremisten. Vor dem Hintergrund der spürbaren Verunsi­
+cherung der Bevölkerung angesichts einer militärischen Konfron­
+tation in Europa bemüht sich die Szene verstärkt, Antimilitaris­
+mus als Schwerpunktthema öffentlichkeitswirksam zu besetzen
+und mit ihren eigenen extremistischen Forderungen aufzuladen.
+
+
+4.5 Antirepression
+Mit dem Begriff der „Repression“ versuchen Autonome, jegliche
+Form rechtsstaatlichen Handelns, wie z. B. die Durchsetzung
+geltender Gesetze, zu diskreditieren. Dies gilt insbesondere für
+die staatliche Überwachung und Strafverfolgung linksextremis­
+tischer Aktionen. So lehnen Autonome polizeiliche Maßnahmen
+gegen gewalttätige Personen aus dem linksextremistischen
+Spektrum ab und versuchen, mit Solidaritätskampagnen eine
+breite Öffentlichkeit in ihrem Sinne zu beeinflussen und das Ver­
+trauen in den Rechtsstaat zu untergraben. Gleichzeitig mobilisieren
+sie auf diese Weise die linksextremistische Szene und rechtfer­
+tigen ihr militantes Vorgehen. Derzeit wird das Themenfeld Anti­
+repression vor allem im Zusammenhang mit dem Vorgehen der
+Sicherheitsbehörden und der Justiz gegen Mitglieder der Szene,
+die gewalttätiger Übergriffe auf (vermeintliche) Rechtsextremis­
+ten beschuldigt werden, bespielt, vgl. unter 2.1.
+
+
+
+
+                                                                                       253
+Verfassungsschutzbericht Bayern 2024                                 Linksextremismus
+
+
+                       Der Militarismustheorie von Karl Liebknecht zufolge dient das
+                       Militär dazu, kapitalistische Expansionsbestrebungen gegenüber
+                       anderen Staaten durchzusetzen und im eigenen Land den Kapi­
+                       talismus und dessen „Ausbeutungsstrukturen“ zu stabilisieren.
+
+                       Dieses Gedankengut lebt in der linksextremistischen Szene
+                       weiter. Szeneangehörige sind daher immer wieder auch in
+                       ­
+                       pazifis­
+                              tischen Initiativen und Bündnissen aktiv, um dort ihre
+                       Ideologie zu verbreiten. Im Gegensatz zum zivilgesellschaft­
+                       lichen Pazi­fismus geht es im linksextremistischen Antimilitaris­
+                       mus nicht nur um die Abschaffung des Militärs, sondern darüber
+                       hinaus um die Beseitigung der parlamentarischen Demokratie.
+
+Münchner               Wie auch bereits in den vergangenen Jahren demonstrierten
+Sicherheitskonferenz   Teile der linksextremistischen Szene Mitte Februar gegen die
+                       60. Münchner Sicherheitskonferenz. Auf ihren Plakaten und
+                       Transparenten forderten sie z. B. „Abrüsten statt Aufrüsten“
+                       und „Friedens­politik statt Kriegshysterie“. In ihren Redebeiträ­
+                       gen riefen die Demonstranten dazu auf, den „Kriegskurs der
+                       NATO-Staaten“ zu stoppen. Eine von Russland thematisierte,
+                       angeblich bevorstehende NATO-Osterweiterung sowie Waffen­
+                       lieferungen an die Ukraine lehnten sie ab.
+
+                       Neben großen Demonstrationen setzt die Szene u. a. in diesem
+                       Themenfeld auf „Adbusting“. „Adbusting“ ist eine Aktionsform,
+                       bei der bereits bestehende Werbung, z. B. von der Bundeswehr,
+                       im öffentlichen Raum verfremdet, überklebt oder auf andere
+                       Weise umgestaltet wird, um für die eigenen Positionen zu werben.
+
+Solidarisierung mit    Nach Beginn des russischen Angriffs solidarisierte sich der ­größte
+der Ukraine            Teil der linksextremistischen Szene mit der Ukraine und dem
+                       ukrainischen Volk, das als Opfer eines russischen „imperialis­
+                       tischen“ Angriffskrieges betrachtet wird. Doch auch der EU,
+                       den USA bzw. der NATO wird häufig eine (Mit-)Verantwortung
+                       für den Krieg zugeschrieben. Das Narrativ, die NATO-Osterwei­
+                       terung sei die geopolitische Ursache für den russischen Über­
+                       fall, wird auch von vielen linksextremistischen Organisationen
+                       verbreitet, z. B. von der Nürnberger Gruppierung „Organisierte
+                       Autonomie“ oder dem „Antifaschistischen Aufbau München“.
+
+
+
+
+254
+Linksextremismus                                       Verfassungsschutzbericht Bayern 2024
+
+
+
+4.6 Intersektionaler Feminismus
+Unter intersektionalem Feminismus wird der Kampf für die Rechte
+von Frauen unter Berücksichtigung des Zusammenwirkens ver­
+schiedener Diskriminierungsformen verstanden. Hierzu zählen ins­
+besondere Rassismus und Klassismus (von engl. „Class“: gemeint
+ist die Benachteiligung aufgrund der sozialen Herkunft) sowie
+Diskriminierung aufgrund von Religionszugehörigkeit, Sexualität
+oder Behinderung. Der intersektionale Feminismus fordert daher
+das Adressieren sämtlicher, oftmals parallel bestehender Diskrimi­
+nierungsformen. Weder Feminismus im Allgemeinen noch der
+inter­sektionale Feminismus im Speziellen sind für sich genommen
+linksextremistisch. Allerdings bedienen sich auch Linksextremisten
+feministischer Forderungen und Themen, um sie für ihre Zwecke
+zu instrumentalisieren.
+
+Linksextremisten sehen den Kampf für die Befreiung von Frauen
+nie losgelöst vom Kampf gegen das Patriarchat und den, aus
+ihrer Sicht, dahinterstehenden Kapitalismus. Stattdessen führen
+sie sämtliche Formen der Unterdrückung und Diskriminierung
+auf den Kapitalismus zurück. Der Kapitalismus, so die Argumen­
+tation der Linksextremisten, bedient sich des Patriarchats um
+die Frauen und Minderheiten zu unterdrücken und damit sein
+Fortbestehen zu sichern. Demnach ist eine Befreiung der Frauen
+nur nach einer Revolution, in einem anderen politischen System
+möglich. Die jeweiligen Vorstellungen über die finale Ausgestal­
+tung eines solchen Systems ergeben sich aus den in der Szene
+kursierenden unterschiedlichen ideologischen Strömungen. So
+argumentieren beispielsweise orthodoxe Linksextremisten, dass
+in den sozialistischen Staaten des ehemaligen Ostblocks Frauen
+wesentlich mehr Rechte gehabt hätten als im kapitalistischen
+Westen. Die in diesen Staaten bestandene allgemeine Unter­
+drückung aller Bürger blenden sie dabei jedoch aus.
+
+Die durch den Kapitalismus angeblich bedingten patriarchalen
+Strukturen werden von Linksextremisten häufig kritisiert und als
+Anlass für Aktivismus aufgegriffen. So gibt es in einigen lokalen
+linksextremistischen Szenen FLINTA-Gruppen (Frauen, Lesben,
+Intersexuelle, Nichtbinäre, Trans, Agender), die sich für feminis­
+tische Belange aus linksextremistischer Sicht einsetzen. Meist
+geschieht dies mit einem intersektionalen Hintergrund.
+
+
+
+
+                                                                                      255
+Verfassungsschutzbericht Bayern 2024                                  Linksextremismus
+
+
+                       4.7 Antigentrifizierung
+                       Mit dem Thema „Antigentrifizierung“ versuchen Angehörige
+                       der linksextremistischen Szene, ihre eigenen Interessen in eine
+                       ­aktuelle stadt- und gesellschaftspolitische Diskussion einzubet­
+                       ten und damit für größere Bevölkerungskreise politisch anschluss­
+                       fähig zu werden. Der Begriff „Gentrifizierung“ bezeichnet sozio­
+                       ökonomische Umstrukturierungsprozesse in Stadtteilen, die zu
+                       steigenden Mieten und somit auch zu einer Verdrängung der an­
+                       gestammten Bevölkerung führen. Insbesondere in Groß­städten
+                       ist dieses Thema in den letzten Jahren zunehmend virulent. Es
+                       bilden sich Initiativen, die in aller Regel von demokratischen
+                       Kräften getragen werden. Angehörige der linksextremistischen
+                       Szene versuchen, sich diesen Initiativen anzuschließen bzw. im
+                       gleichen Themenfeld eigene Aktions­formen anzubieten. Ihr Ziel
+                       ist es, sich als sozialpolitische Akteure zu profilieren und somit an
+                       gesamtgesellschaftlicher Akzeptanz zu gewinnen.
+
+                       Gewaltbereite Szeneangehörige setzen im Zusammenhang mit
+                       dem Themenfeld Antigentrifizierung auch auf gewalttätige Akti­
+                       onen: Insbesondere in der Immobilienbranche tätige Personen
+                       werden von ihnen als Mitverantwortliche für die „Gentrifi­zierung“
+                       und damit als Feindbild wahrgenommen. Büros und Fuhrparks
+                       von Immobilienfirmen sind immer wieder Ziel militanter Attacken
+                       aus der linksextremistischen Szene. Im Rahmen der Proteste
+                       ­gegen die IAA 2023 in München besetzten mehrere Linksextre­
+                        misten symbolisch ein leerstehendes Gebäude in der Innenstadt,
+                        um die Gentrifizierung zu kritisieren. Bereits bei den Anti-IAA-Pro­
+                        testen im Jahr 2021 war es zu einer kurzfristigen Hausbesetzung
+                        in München gekommen.
+
+
+                       4.8 Antiglobalisierung
+                       Angehörige der linksextremistischen Szene lehnen grundsätzlich
+                       Nationalstaaten und deren Grenzen ab. Sie kritisieren aber auch
+                       die Globalisierung, da diese ihrer Ansicht nach einen rein wirt­
+                       schaftlichen Prozess darstelle, der von den „starken“ Industrie­
+                       nationen vorangetrieben werde, um die „schwachen“ Schwel­
+                       len- und Entwicklungsländer weiter ausbeuten zu können.
+
+
+
+
+256
+Linksextremismus                                       Verfassungsschutzbericht Bayern 2024
+
+
+
+4.9 Klimakrise
+Die linksextremistische Szene beteiligt sich seit jeher auch an
+nichtextremistischen Veranstaltungen und Initiativen. Diese Taktik
+ermöglicht es der linksextremistischen Szene, den eigenen Pro­
+test auf eine größere Bühne zu tragen und mehr Menschen über
+ihre eigene Kernklientel hinaus zu erreichen und für ihre extre­
+mistischen Botschaften empfänglicher zu machen.
+
+Ein maßgeblicher linksextremistischer Akteur im Bereich Klima­         „Ende Gelände“
+schutz ist das Bündnis „Ende Gelände“ (EG), das mit mehreren
+Ortsgruppen in Bayern vertreten ist. Aktuell engagieren sich
+auch einige lokale linksextremistische Gruppen in Bayern ver­
+stärkt im Bereich Klima- und Umweltschutz. In ihrer Rhetorik
+verbinden linksextremistische Akteure den Protest gegen den
+Klimawandel regelmäßig mit dem „Kampf“ gegen die vermeint­
+lich „herrschende Klasse“. Den Klimaprotest verklären sie dabei
+im kämpfer­ isch aggressiven Duktus zu einem „Klimakampf“
+und fordern einen „Systemwandel statt Klimawandel“. Damit
+wird deutlich, dass für Linksextremisten der Einsatz für den
+Klima­schutz untrennbar mit der Bekämpfung des freiheitlich-­
+demokratischen Staates verbunden ist. In Nürnberg ist vor allem
+die „Organisierte Autonomie“ (OA) aktiv. In München versuchen
+diverse Gruppierungen im Umfeld der autonomen „Antifaschis­
+tischen Linken München“, z. B. das „Offenes antikapitalistisches
+Klimatreffen München“, sich aktiv in die Proteste für den Klima­
+schutz einzubringen. Auch in Augsburg besteht ein „antikapitalis­
+tisches Klimatreffen“.
+
+Aufgrund der gesamtgesellschaftlichen Bedeutung des Themas
+Klimawandel ist weiterhin ein konstantes Engagement der
+linksextremistischen Szene zu erwarten.
+
+
+5. INTERNET UND MEDIEN
+Die Nutzung sozialer Medien zur Information und Mobilisierung
+ist im Linksextremismus inzwischen selbstverständlich: Zentrale
+Themen werden in offenen und geschlossenen Foren sowie auf
+Blogs diskutiert. Der Auftritt linksextremistischer Gruppierungen
+erfolgt überwiegend auf Instagram, Telegram und – mit abneh­
+mender Tendenz – bei X. TikTok hingegen nutzt die Szene bisher
+
+
+
+
+                                                                                      257
+Verfassungsschutzbericht Bayern 2024                                 Linksextremismus
+
+
+                       kaum. Generell sind die linksextremistischen Social-Media-­
+                       Angebote dabei lokal orientiert und haben lediglich eine kleine
+                       Zielgruppe. Anders als im Rechtsextremismus und Islamismus
+                       gibt es im Linksextremismus bislang keine Influencer mit großer
+                       Reichweite.
+
+                       Die linksextremistische Szene informiert und kommuniziert in­
+                       zwischen fast ausschließlich über die sozialen Medien und ent­
+                       sprechende Internetportale wie z. B. de.indymedia.org. Offene
+                       Plattformen wie Instagram und Twitter dienen dabei vorrangig
+                       der öffentlichen Agitation, während verschlüsselte Messenger­
+                       dienste, wie z. B. WhatsApp oder Threema, der Mobilisierung
+                       und gruppeninternen Kommunikation dienen.
+
+                       Lokale linksextremistische Szenen, wie z. B. in Nürnberg, nutzen
+                       seit Jahren zudem Portale, die im örtlichen Kontext informations­
+                       bestimmend und meinungsführend sind. So unterhält die Ende
+                       2021 gegründete linksextremistische „Antifaschistische Aktion
+                       Süd“ mit dem seit Mitte 2023 eingerichteten Portal „antifa-info.
+                       net“ ein eigenes Internetportal, welches über Aktivitäten linksex­
+                       tremistischer Organisationen in Süddeutschland berichtet.
+
+                       Druckwerke und Periodika sind nur noch von nachgelagerter Be­
+                       deutung. Linksextremistische Zeitungen erscheinen gewöhnlich
+                       nur noch im Onlineformat und finden dort eine weitaus größere
+                       Verbreitung als zuvor die Printausgaben. In gedruckter Form
+                       erscheinen linksextremistische Zeitungen fast nur noch im Rah­
+                       men von Propaganda-Aktionen. Für den szeneinternen Informa­
+                       tionsfluss sind Druckformate nahezu bedeutungslos geworden,
+                       zumal die eher junge linksextremistische Klientel meist über
+                       Smartphones kommuniziert. Allerdings bestehen zahlreiche
+                       Webseiten linksextremistischer Kampagnen, Gruppen und Orga­
+                       nisationen häufig nur für einen kurzen Zeitraum.
+
+                       Der Wechsel von Print- hin zu Onlinemedien hat in der linksex­
+                       tremistischen Szene eine Vielzahl von Akteuren und Kampagnen
+                       hervorgebracht, die jedoch selten in der Lage sind, ihre Zielgruppe
+                       dauerhaft an sich zu binden. Letztendlich scheint das professio­
+                       nelle Auftreten, wie es im Internet vor allem von den Redak­
+                       tionen klassischer linksextremistischer Zeitungen geleistet wird,
+                       den kampagnengestützten Aktivismus einzelner Gruppen zu
+                       überlagern. Es ist daher zu erwarten, dass sich linksextremis­
+                       tische Printmedien zukünftig auf Internetauftritte beschränken
+                       werden, während zugleich eine Vielzahl von kurzlebigen linksex­
+                       tremistischen Kampagnen in den sozialen Netzwerken versu­
+                       chen werden, Aufmerksamkeit zu erregen.
+
+
+258
+Linksextremismus                                       Verfassungsschutzbericht Bayern 2024
+
+
+
+Ein Beispiel hierfür ist der Online-Blog „switch off“, der über
+linksextremistische Sachbeschädigungen und Brandlegungen in
+ganz Deutschland berichtet. Ziel des Blogs ist es, eine Plattform
+für Gleichgesinnte zu schaffen und linksextremistische Aktionen
+sichtbar zu machen. Der Blog soll letztlich dazu beitragen, „eine
+langfristige Aktionswelle in Richtung Revolte [zu] entfachen“. Als
+geeignete Maßnahmen hierfür werden dabei „militantes Han­
+deln und direkte Angriffe in allen möglichen Formen“ genannt.
+
+
+
+
+6. LINKSEXTREMISTISCHE PARTEIEN UND
+   VEREINIGUNGEN
+
+6.1 Offen extremistische Strukturen in der Partei
+    DIE LINKE
+Innerhalb der Partei „DIE LINKE.“ gibt es mehrere offen extre­
+mistische Strukturen, die auf eine Überwindung der freiheit­
+lichen Staats- und Gesellschaftsordnung abzielen. Sie stellen
+teilweise die parlamentarische Demokratie infrage, sprechen der
+rechtsstaatlichen Ordnung die Legitimation ab oder unterhalten
+Kontakte zu gewaltorientierten Autonomen. Diese offen extre­
+mistischen Untergliederungen versuchen, auf die Partei „DIE
+LINKE.“ Einfluss zu nehmen.
+
+
+DIE LINKE. Sozialistisch-demokratischer Studierendenver-
+band (DIE LINKE.SDS) – Landesverband Bayern
+
+Der 2007 gegründete Studierendenverband „DIE LINKE.SDS“
+ist laut Statut eine „Arbeitsgemeinschaft mit Sonderstatus der
+‚Linksjugend [’solid]‘ mit eigener Mitgliedschaft und Organisa­
+tion“. „DIE LINKE.SDS“ orientiert sich ideologisch an der Lehre
+
+
+                                                                                      259
+Verfassungsschutzbericht Bayern 2024                                         Linksextremismus
+
+
+                       von Karl Marx und plädiert in ihrem Selbstverständnis für Außer­
+                       parlamentarismus, Systemüberwindung und die Zusammen­
+                       arbeit mit anderen Linksextremisten. Der Landesverband Bayern
+                       von „DIE LINKE.SDS“ wurde am 30. Januar 2010 in Regensburg
+                       gegründet und verfügt über Ortsgruppen in Augsburg, Bamberg,
+                       Bayreuth, Coburg, Eichstätt, Erlangen-Nürnberg, München, Re­
+                       gensburg und Würzburg. Im Februar benannte sich die Bamberger
+                       Ortsgruppe in „KGB – Kommunistische Gruppe Bamberg“ um.
+
+
+                       6.2 Deutsche Kommunistische Partei (DKP)
+                           und Umfeld
+                       6.2.1     DKP
+
+                                                Deutschland              Bayern
+
+                       Mitglieder               2.765  1
+                                                                         ca. 220
+
+                       Vorsitzende/r            Patrik Köbele            August Ballin
+
+                       Gründung                 1968                     -
+
+                       Sitz                     Essen                    Nürnberg
+
+                       Publikationen            Unsere Zeit (UZ)         Auf Draht
+                                                Marxistische Blätter
+
+                       1
+                           Quelle: Bundesverfassungsschutzbericht 2023
+
+
+                       Die DKP ist eine kommunistische Partei, die sich in einer Linie mit
+                       der 1956 vom Bundesverfassungsgericht verbotenen „Kommu­
+                       nistischen Partei Deutschlands“ (KPD) sieht. Sie bekennt sich zum
+                       Marxismus-Leninismus und hat laut Parteiprogramm die Einfüh­
+                       rung des „Sozialismus/Kommunismus“ zum Ziel. Die bundes­weit
+                       organisierte Partei war bis 1989/1990 von der „Sozialis­   tischen
+                       Einheits­partei Deutschlands“ (SED) abhängig. Dem Bundesver­
+                       band sind Bezirksorganisationen nachgeordnet, die weiter in Kreis-
+                       und Grundorganisationen oder auch Betriebsgruppen untergliedert
+                       sind. In Bayern sind 13 Ortsgruppen der DKP bekannt.
+
+Legitimierung des      Die DKP fordert den Austritt aus der NATO und lehnt das
+russischen Angriffs­   Sanierungs­programm der Bundesregierung für die Bundeswehr
+krieges                ab. Diese Punkte bekräftigte der Parteivorsitzende Patrik Köbele
+                       auf dem 24. Parteitag der DKP am 22. Mai 2022 in einer Online­
+                       konferenz. Dabei stellte sich die DKP klar auf die Seite Russlands
+                       und legitimierte dessen Angriff auf die Ukraine wie folgt:
+
+
+
+
+260
+Linksextremismus                                            Verfassungsschutzbericht Bayern 2024
+
+
+
+           Das Ziel der früheren Einkreisungspolitik der
+           NATO gegenüber Russland liegt aus meiner
+           Sicht heute deutlicher auf dem Tisch. Und die
+           NATO sieht im Krieg offensichtlich die Chance
+           es schneller zu erreichen. Das Ziel ist und war es
+           wohl bereits vor dem russischen Angriff Russ­
+           land zu einem Vasallenstaat, zu einer Halbkolo­
+           nie zu machen und damit den Weg Richtung Chi­
+           na frei zu machen und die VR China gleichzeitig
+           zu isolieren.
+
+
+Bei der Auftaktkundgebung zur Münchner Sicherheitskonferenz
+(MSC) 2024 am Münchener Karlsplatz sprachen sich Aktivisten
+der DKP und deren Jugendorganisation „Sozialistische deutsche
+Arbeiterjugend“ (SDAJ gegen eine Unterstützung der Ukraine
+und für sofortige Verhandlungen mit Russland aus. Die NATO
+und deren angeblicher Expansionsdrang seien am Krieg schuld.
+Überdies bezog die Gruppierung auch Stellung zum Nahost­
+konflikt. Dabei verband vor allem eine Aktivistin der SDAJ den
+Protest gegen die MSC mit verschiedenen anderen linksextre­
+mistischen Themen. So thematisierte sie u. a. den Prozess eines
+Linksextremisten gegen die TU München, die ihm die Anstel­
+lung aufgrund seiner politischen Überzeugung verweigert hatte,
+sowie die Auseinandersetzungen von Linksextremisten mit der
+Polizei während der Luxemburg-Liebknecht-Demonstration im
+Januar in Berlin. Diese bezeichnete sie als Ausfluss staatlicher
+Repression. Sie schloss ihre Rede mit einem von Rosa Luxem­
+burg entlehnten Zitat „Sozialismus statt Barbarei“.
+
+6.2.2 Sozialistische Deutsche Arbeiterjugend (SDAJ)
+
+                         Deutschland              Bayern
+
+Mitglieder               6701                     ca. 110
+
+Vorsitzende/r            Andrea Hornung           N.N.
+
+Gründung                 1968                     1999
+
+Sitz                     Essen                    München
+
+Publikationen            POSITION                 -
+
+1
+    Quelle: Bundesverfassungsschutzbericht 2023
+
+
+
+
+                                                                                           261
+Verfassungsschutzbericht Bayern 2024                                 Linksextremismus
+
+
+                       Die SDAJ ist ihrer Selbstdarstellung zufolge eine „bundesweite
+                       Organisation von Jugendlichen, die sich mit den Zuständen in
+                       Schulen, Betrieben, in dieser Republik und der ‚Neuen Weltord­
+                       nung‘ nicht abfinden“ will. Im Zukunftspapier der marxistisch-­
+                       leninistisch ausgerichteten Organisation heißt es:
+
+                                 Alle unsere Forderungen richten sich gegen die
+                                 Herrschenden in dieser Gesellschaft, gegen die
+                                 Kapitalisten. Verwirklichen können wir sie nur in
+                                 einer Gesellschaft ohne Kapitalisten – im Sozia­
+                                 lismus.
+
+
+                       Die SDAJ, vormals Jugendorganisation der DKP, ist nun eine
+                       eigenständige Organisation. Sie pflegt aber weiterhin enge Kon­
+                       takte zur DKP.
+
+Solidarität mit der    Die SDAJ hat sich nach dem Terrorangriff der HAMAS am 7. Ok­
+„HAMAS“                tober 2023 eindeutig auf Seiten der Palästinenser positioniert und
+                       wirft Israel einen Genozid an diesen vor. Darüber hinaus wird die
+                       solidarische Haltung der Bundesregierung gegenüber Israel ange­
+                       prangert und stattdessen die Unterstützung der Palästinenser ver­
+                       langt. Die militärischen Reaktionen Israels auf den Anschlag der
+                       HAMAS werden hingegen verurteilt und ein sofortiger Waffen­
+                       stillstand gefordert.
+
+                       Ein weiteres zentrales Thema der antimilitaristischen SDAJ ist
+                       die Agitation gegen die Bundeswehr. Für sie ist die Bundeswehr
+                       eine Organisation, „um die Interessen der herrschenden Klasse
+                       durchzusetzen[,] denn imperialistische Ambitionen friedlich zu
+                       verwirklichen ist ein Ding der Unmöglichkeit“. Auf der Demons­
+                       tration gegen die MSC 2024 wurde von einer Rednerin der SDAJ
+                       München „die zwingende Verknüpfung von Kapitalismus und
+                       Krieg“ herausgestellt und im Sinne Rosa Luxemburgs geschlos­
+                       sen mit „Sozialismus statt Barbarei“.
+
+                       In Bayern bestehen Ortsgruppen der SDAJ in Kempten, Landshut,
+                       München, Neumarkt in der Oberpfalz, Nürnberg und Regensburg.
+
+
+
+
+262
+Linksextremismus                                               Verfassungsschutzbericht Bayern 2024
+
+
+
+6.3 Marxistisch-Leninistische Partei Deutsch-
+    lands (MLPD)
+
+                         Deutschland              Bayern
+
+Mitglieder               2.800  1
+                                                  ca. 110
+
+Vorsitzende/r            Gabi Fechtner            N.N.
+
+Gründung                 1982                     2008
+
+Sitz                     Gelsenkirchen            Nürnberg
+
+Publikationen            Rote Fahne (Zentralorgan);
+                         REVOLUTIONÄRER WEG (Theorieorgan);
+                         REBELL (Jugendmagazin);
+                         Galileo – streitbare Wissenschaft
+                         (Zeitung der MLPD-Hochschulgruppen)
+
+1
+    Quelle: Bundesverfassungsschutzbericht 2023
+
+
+Die zentralistisch geführte MLPD ist eine kommunistische
+Kader­partei, die Sozialismus im Sinne des Stalinismus und des
+Maoismus anstrebt. Ihr grundlegendes Ziel ist
+
+           der revolutionäre Sturz der Diktatur des Mono­
+           polkapitals und die Errichtung der Diktatur des
+           Proletariats für den Aufbau des Sozialismus als
+           Übergangsstadium zur klassenlosen kommunis­
+           tischen Gesellschaft.
+
+
+Die MLPD verurteilte als einzige linksextremistische Organisa­
+tion bereits am 24. Februar 2022 den russischen Überfall auf die
+Ukraine und rief bundesweit zu Protesten auf.
+
+Mit dem „Frauenverband Courage e. V.“ sowie mit Freizeitange­
+boten ihrer Jugendorganisation „REBELL“ und ihrer Kinderorga­
+nisation „ROTFÜCHSE“ versucht die MLPD, Frauen, Jugend­
+liche und Kinder an sich zu binden. In Truckenthal (Thüringen)
+veranstalteten „REBELL“ und die Kinderorganisation „ROT­
+FÜCHSE“ ihr „Sommercamp“, für das auch in Bayern geworben
+wurde.
+
+
+
+
+                                                                                              263
+Verfassungsschutzbericht Bayern 2024                                                                                                                                                                                                                                                                                               Linksextremismus
+
+
+                                                                                                                                                                                                                                                                                     Im linksextremistischen Spektrum ist die MLPD aufgrund ihres
+                                                                                                                                                                                                                                                                                     dogmatischen Kommunismusverständnisses weitgehend isoliert
+                                                                                                                                                                                                                                                                                     und agitiert daher vor allem im Rahmen eines „Internationalis­
+                                                                                                                                                                                                                                                                                     tischen Bündnisses“, zu dessen Unterstützerkreis auch Sympa­
+                                                                                                                                                                                                                                                                                     thisanten der Terrororganisation „Volksfront zur Befreiung Paläs­
+                                                                                                                                                                                                                                                                                     tinas“ (PFLP) gehören.
+
+                                                                                                                                                                                                                                                                                     Nach dem Überfall der islamistischen Terrororganisation HAMAS
+                                                                                                                                                                                                                                                                                     auf israelisches Staatsgebiet am 7. Oktober 2023 positionierte sich
+                                                                                                                                                                                                                                                                                     die MLPD am 15. Oktober erneut auf Seiten der Palästinenser und
+                                                                                                                                                                                                                                                                                     warf Israel vor, einen menschenverachtenden Vernichtungsfeldzug
+                                                                                                                                                                                                                                                                                     gegen die palästinensische Zivilbevölkerung zu führen.
+
+Solidarität mit                                                                                                                                                                                                                                                                      Die Solidarität der MLPD mit terroristischen Organisationen
+Terrororganisation                                                                                                                                                                                                                                                                   zeigt, dass ihre Aufrufe zur Revolution nicht bloße ideologische
+                                                                                                                                                                                                                                                                                     Floskeln sind. Personen, die Gewalt für die Durchsetzung des
+                                                                                                                                                                                                                                                                                     Sozialismus anwenden und dafür inhaftiert werden, werden in
+                                                                                                                                                                                                                                                                                     der Partei als Vorbilder angesehen.
+
+
+                                                                                                                                                                                                                                                                                     6.4 Arbeiterbund für den Wiederaufbau der
+                                                                                                                                                                                                                                                                                         KPD (AB)
+
+                                                                                                                                                                                                                                                                                                                        Bayern
+
+                                                                                                                                                                                                                                                                                     Gründung                           1973
+
+                                                                                                                                                                                                                                                                                     Sitz                               München
+
+
+                                                                                                                                                                                                                                                                                     Der aus sog. „Arbeiter-Basisgruppen“ in München hervorgegan­
+                                                                                                                                                                                                                                                                                     gene AB ist eine revolutionär-marxistische Organisation, die die
+                                                                                                                                                                                                                                                                                     Gründung einer „revolutionären Partei in der Tradition der verbo­
+                                                                                                                                                                                                                                                                                     tenen KPD“ anstrebt. Sie beruft sich auf den Marxismus-Leni­
+                                                                                                                                                                                                                                                                                     nismus und die Ideen von Stalin und Mao Tse-tung. Ziel des AB
+                                                                                                                                                                                                                                                                                     ist die Beseitigung der „herrschenden Ausbeuterklasse“ und die
+                                                                                                                                                                                                                                                                                     Errichtung einer „Diktatur des Proletariats“.
+
+                           D E R S TA N D                                                                                                                                                                                                                                            In Ingolstadt, München, Nürnberg und Regensburg fällt der AB
+                                                                                                                                                                                                                                     ►Wladimir Iljitsch Lenin,
+                                                                                                                                                                                                                                                               Oktober 1917
+
+
+
+
+       WI     I ST
+                   DE            R                 E I NZ I G E AU
+                                                                                                                   SWE
+                                                                                                                                                        G                                                                                                                            in der Öffentlichkeit gelegentlich durch seine Demonstrationen
+                                                                ►
+
+
+
+
+                                                                                                                  DER AUS DEM ELEND
+                                                                                                                                                                                                                                                                                     mit historischen Fahrzeugen auf. Charakteristisch für den AB ist
+                                                                                                                                                                                                                                                                                     seine an Stilelemente der Arbeiterbewegung der späten 1920er
+                                                                                                                   IN DER WELT FÜHRT:
+                                                                                     ARBEITER,
+                                                                                    DEIN FRIEDEN
+
+
+                                                                                                                                                                                                                                                                                     Jahre anknüpfende, antiquiert wirkende Agitations- und Propa­
+                                                                                       IST ROT
+                                                                                         UND
+                                                                                 BEENDET DEN KRIEG!
+          ANTIKRIEGSTAGE
+             7. September - 25. Oktober 2024
+                                                                                                                                                                                                                                                                                     gandatätigkeit mit Schalmeienkapellen, kabarettistischen Aktio­
+      Kiel
+  7. September
+ Roter Block in der
+ Aktion von „Rhein-
+ metall entwaffnen“
+
+
+   Hamburg
+                       Frankfurt
+                      12. September
+                      Demonstrationen /
+                       Betriebskundge-
+                       bung Mannheim
+                      13. September
+                       Betriebskundge-
+                                            München Regensburg Nürnberg
+                                          18. September
+                                              Betrieb /
+                                           Arbeitermarsch
+
+                                          19. September
+                                              Betrieb /
+                                                                24. September
+                                                                       Betrieb /
+                                                                       Schule /
+                                                                    Arbeitermarsch
+                                                                25. September
+                                                                       Schule /
+                                                                                                       30. September
+                                                                                                            Berufsschule /
+                                                                                                              Betrieb /
+                                                                                                            Demonstration
+                                                                                                              1. Oktober
+                                                                                                           Berufsschule /
+                                                                                                                                                                                 Köln
+                                                                                                                                                                         5. Oktober
+                                                                                                                                                                       Demonstration
+
+
+
+                                                                                                                                                                         7. Oktober
+                                                                                                                                                                              Schulen /
+                                                                                                                                                                                                                                     Bremen
+                                                                                                                                                                                                                            29. September
+                                                                                                                                                                                                                                 Fest der Roten
+                                                                                                                                                                                                                                     Fahne
+
+                                                                                                                                                                                                                                 24. Oktober
+                                                                                                                                                                                                                                   Betrieb /
+                                                                                                                                                                                                                                                                                     nen und Brecht-Theater. Zudem wird die bayerische Räterepublik
+                                                                                                                                                                                                                                                                                     glorifiziert.
+  9. September        bungen Frankfurt,     Demonstration           Arbeitermarsch                            Betrieb /                                                        Betrieb                                             Schule /
+     Betriebe /         Wörth / Schule                                                                     Arbeitermarsch                                                                                                       Kundgebungen
+   Berufsschule /
+    Kundgebung        14. September       20. September         26. September                                 2. Oktober                                                 8. Oktober                                              25. Oktober
+                      Arbeitermärsche /    Schule / Betrieb /         Betrieb /                            Berufsschule /                                                        Betrieb                                      Betriebskund-
+ 10. September         Fest der Roten       Arbeitermarsch          Demonstration                             Betrieb /                                                                                                     gebung / Schule /
+    Betriebe /              Fahne                                                                          Arbeitermarsch                                                                                                   Anti-Kriegsmarsch
+  Demonstration
+ Weitere Städte/Durchfahrt in: 15. September - SCHWEINFURT (Demonstration, Kundgebung) • 16. September -
+  INGOLSTADT (Betrieb, Demonstration) • 23. September - DINGOLFING (Betriebskundgebung) • 3. Oktober -
+       STUTTGART (Demonstration, Kundgebung) • 8. Oktober - BOCHUM (Demonstration, Kundgebung)
+                                     ARBEITERBUND FÜR DEN WIEDERAUFBAU DER KPD
+ in Aktionseinheit mit: Freie Deutsche Jugend (FDJ) • Revolutionäre Front - Zentraler Rat der Abteilungen Bremen - Köln - Frankfurt - Nürnberg -
+   Regensburg - München. Tschechische Republik: Gebietsorganisation des Tschechischen Freihheitskämpferverbandes in Česká Lípa • Jaroslav
+  Hudec, Vorsitzender des Nationalrats des Klubs des tschechischen Grenzlandes (KČP) • Kreisorganisation der Ludvík-Svoboda-Gesellschaft in
+                                Česká Lípa • Tschechische Sektion des Revolutionären Freundschaftsbundes (RFB).
+                                   Stiftung für die unliterarische Verwendung der Literatur. www.unliterarisch.de
+                                                                             Arbeiterbund für den Wiederaufbau der KPD · Tulbeckstr. 4f · 80339 München · Heinz Klee · 089 / 540 70 347 · Kontakt@Arbeiterbund.de · www.arbeiterbund-fuer-den-wiederaufbau-der-kpd.de, August 2024
+
+
+
+
+264
+Linksextremismus                                        Verfassungsschutzbericht Bayern 2024
+
+
+
+Über Informationsveranstaltungen und Kundgebungen in unmittel­
+barer Nähe zu Industriebetrieben versucht die Orga­nisation, mit
+der Belegschaft in Kontakt zu kommen. So demons­trierten Ange­
+hörige des AB im September vor Industrie­betrieben und Schulen
+in Dingolfing, München, Nürnberg und Regensburg. Dabei wurden
+am 29. August in Regensburg auch unerlaubt auf dem Werksge­
+lände eines Industrieunternehmens Flugblätter verteilt.
+
+
+6.5 Freie Deutsche Jugend (FDJ)
+
+                                  Bayern
+
+Gründung                          1994
+
+Sitz                              Ingolstadt, München, Nürnberg und
+                                  Regensburg
+
+
+Bei der FDJ handelt es sich um eine bundesweite Organisation
+des orthodoxen Kommunismus, deren Mitglieder sich zum Mar­
+xismus-Leninismus in seiner Reinform bekennen und sich dabei
+ganz bewusst in die Tradition der DDR, des Stalinismus und der
+Sowjetunion stellen. 1951 wurde die „FDJ in Westdeutschland“
+vom Bundesverwaltungsgericht verboten. Dieses Verbot galt
+­jedoch nicht für die FDJ in der DDR. Die heutige FDJ sieht sich
+ in der Tradition der „Ostdeutschen“-FDJ und versucht so, das
+Verbot aus dem Jahr 1951 zu umgehen.
+
+In „größeren westdeutschen Städten“ sollen laut FDJ seit 1994
+eigene Ortsgruppen existieren. In Bayern sind Ortsgruppen der
+FDJ in Ingolstadt, München, Nürnberg und Regensburg be­
+kannt. Ausgehend von diesem orthodox-kommunistischen Per­
+sonenkreis sind auch vermehrt Aktivitäten in Bayern feststellbar.
+
+Insbesondere die Regensburger Ortsgruppe der FDJ ist inner-
+und außerhalb Bayerns aktiv. Dies dürfte vor allem damit in
+Zusammenhang stehen, dass der Pressesprecher der FDJ aus
+Regensburg stammt. In der Regensburger Ortsgruppe der FDJ
+bestehen personelle und ideologische Überschneidungen zum
+„Arbeiterbund für den Wiederaufbau der KPD“.
+
+Am Nachmittag des 20. August betraten 5 Aktivisten mit Sym­
+bolen der FDJ auf ihrer Kleidung das Gewerkschaftshaus des
+DGB in Ingolstadt. Sie hielten ein Transparent mit der Aufschrift
+„Kriegstreiber raus aus der Gewerkschaft“ aus dem Fenster
+
+
+
+
+                                                                                       265
+Verfassungsschutzbericht Bayern 2024                                          Linksextremismus
+
+
+                       und verteilten Flugblätter mit Bezug zum Arbeiterbund für den
+                       Wieder­aufbau der KPD (AB). Zwei weitere Personen hielten vor
+                       dem Gebäude ein Transparent mit der Aufschrift „Arbeiter schie­
+                       ßen nicht auf Arbeiter!“ hoch. Als sie von der Polizei aufgefor­
+                       dert wurden das Haus zu verlassen, folgten sie der Aufforderung
+                       nicht und wurden teilweise gewalttätig.
+
+
+                       6.6 Rote Hilfe e. V. (RH)
+
+                                                Deutschland               Bayern
+
+                       Mitglieder               13.700 1
+                                                                          ca. 1200
+
+                       Sitz                     Göttingen                 verschiedene Ortsgrup­
+                                                (Bundesgeschäftsstelle)   pen u. a. Nürnberg und
+                                                                          München
+
+                       Publikationen            „DIE ROTE HILFE“,         -
+                                                vierteljährlich
+
+                       1
+                           Quelle: Bundesverfassungsschutzbericht 2023
+
+
+                       Der Arbeitsschwerpunkt der RH ist die finanzielle und politische
+                       Unterstützung von linksextremistischen Straf- und Gewalttätern,
+                       mit deren ideologischer Zielsetzung sie sich identifiziert. Diese
+                       Unterstützung wird beispielsweise bei anfallenden Anwalts- und
+                       Prozesskosten sowie bei Geldstrafen und Geldbußen gewährt.
+                       Dabei geht es der RH nicht um eine Resozialisierung von Straf­
+                       tätern, sondern um die Unterstützung gewaltbereiter Szene­
+                       angehöriger in deren Kampf gegen das politische System. Auf
+                       Großveranstaltungen ist die RH mit „Ermittlungsausschüssen“
+                       (EA) präsent. Diese EA stellen Rechtsbeistände, die im Falle einer
+                       Verhaftung von Szeneangehörigen bereits vor Ort Unterstützung
+                       leisten. Erkennt die RH eine Person als „Unterstützungsfall“ an, so
+                       beteiligt sie sich an Prozess- und Anwaltskosten mit einem Regel­
+                       satz von 50 Prozent, der nach Einzelfallprüfung auch höher aus­
+                       fallen kann. Zahlungen und sonstige Unterstützungsmaß­nahmen
+                       sind in der Regel daran gebunden, dass die Beschuldigten konse­
+                       quent die Aussage vor Behörden verweigern und sich auch nicht
+                       von der politischen Dimension der ihnen zur Last ­gelegten Straf­
+                       taten distanzieren. Geständigen Szeneangehörigen droht die RH
+                       mit dem Entzug der Unterstützung. Dies belegt, dass das vorran­
+                       gige Ziel der RH nicht die Hilfe für inhaftierte Szene­angehörige ist,
+                       sondern die Abschottung der linksextremistischen Szene vor den
+                       Ermittlungen der Sicherheitsbehörden.
+
+
+
+
+266
+Linksextremismus                                         Verfassungsschutzbericht Bayern 2024
+
+
+
+Innerhalb der linksextremistischen autonomen Szene wird für die­         Schweigegebot
+ses Schweigegebot unter dem Motto „Anna und Arthur halten’s
+Maul“ geworben. Die fiktiven Personen Anna und Arthur stehen
+dabei stellvertretend für alle linksextremistischen Akteure.
+
+Die RH finanziert sich überwiegend aus Mitgliedsbeiträgen und
+Spenden. Durch ihre zahlreichen Mitglieder verfügt die RH über
+ausreichende finanzielle Mittel, um Unterstützung bei Strafverfah­
+ren zu leisten. Eine Mitgliedschaft in der RH funktioniert für Aktive
+der linksextremistischen Szene wie eine Art Versicherung. Auch
+vormals aktive Szeneangehörige, die aus beruflichen oder persön­
+lichen Gründen nicht mehr straffällig werden wollen, können der
+RH beitreten oder spenden, um den „Kampf“ zu unter­stützen.
+
+Die RH weist seit mehreren Jahren bundesweit einen deutlichen            Mitgliederzuwachs
+Mitgliederzuwachs auf.
+
+Die RH unterstützt die inhaftierten „Antifaschisten“ rund um die
+verurteilte Linksextremistin Lina E. Sie gilt als Anführerin einer
+kriminellen Antifa-Vereinigung aus Leipzig. Lina E. und 10 weitere
+Mitglieder der sog. „Antifa Ost“ sollen für mehrere Angriffe auf
+mutmaßliche Rechtsextremisten verantwortlich sein, bei denen
+insgesamt 12 Personen z. T. schwer verletzt wurden. Auch die
+Nürnbergerin Hanna S., die seit Mai 2024 als Beschuldigte im
+Rahmen des „Budapest-Komplexes“ in der Nürnberger Justiz­
+vollzuganstalt inhaftiert ist, wird von der RH unterstützt.
+
+Anlässlich der am 26. Februar erfolgten Festnahme der Terro­
+ristin der „Roten Armee Fraktion“ (RAF) Daniela Klette erklärte
+eine Angehörige des RH-Bundesvorstandes am Folgetag die
+Soli­darität der Organisation mit ihr.
+
+        Die heutige Festnahme von Daniela Klette ist das
+        Ergebnis einer jahrzehntelangen Verfolgungswut
+        und dem staatlichen Rachebedürfnis gegen ehe­
+        malige Mitglieder der Stadtguerilla-Gruppen.
+
+        Es steht zu befürchten, dass auch in diesem neu­
+        erlichen RAF-Verfahren sämtliche rechtsstaat­
+        liche Standards außer Kraft gesetzt werden, um
+        eine möglichst hohe Haftstrafe zu erreichen und
+        Reuebekundungen zu erpressen.
+
+
+
+
+                                                                                         267
+Verfassungsschutzbericht Bayern 2024                                  Linksextremismus
+
+
+                                 Zu erwarten ist ein politisch motivierter Ge­
+                                 sinnungsprozess, wie sie heutzutage vielfach
+                                 gegen Aktivist*innen der türkischen und kurdi­
+                                 schen Linken sowie antifaschistische Gruppen
+                                 statffinden [sic!].
+
+                                 Damit erübrigt sich für die Anklage derjeweilige­
+                                 [sic!] Tatnachweis. Schon in früheren RAF-Pro­
+                                 zessen wurden regelmäßig allen Mitgliedern
+                                 sämtlich Taten während der Zeit ihrer Mitglied­
+                                 schaft zur Last gelegt. Dies steht auch aktuell zu
+                                 befürchten. Es ist die Aufgabe von Solidaritäts-
+                                 und Grundrechtsorganisationen ebenso wie der
+                                 gesamten Linken, sich gegen diese Gesinnungs­
+                                 justiz zu stellen.
+
+                       Damit bleibt die RH ihrer in der Vergangenheit schon gezeigten
+                       Linie, der vorbehaltlosen Unterstützung der RAF, weiterhin treu.
+
+
+                       7. AUTONOME, POSTAUTONOME UND ANAR-
+                          CHISTEN
+
+                       7.1 Beschreibung/Hintergrund
+                       Gemeinsames Merkmal von Autonomen, Postautonomen und
+                       Anarchisten ist die Ablehnung der freiheitlichen demokratischen
+                       Grundordnung bei gleichzeitiger Legitimierung von Gewalt als
+                       Mittel der politischen Auseinandersetzung.
+
+                       Autonome
+870 Autonome           Autonome sind überwiegend junge, gewaltorientierte Angehörige
+in Bayern              der linksextremistischen Szene. Sie bilden den weitaus größ­
+                       ten Teil des gewaltorientierten linksextremistischen Personen­
+                       potenzials. Zur autonomen Szene zählen bundesweit rund 8.300
+                       Personen (Quelle: Bundesverfassungsschutzbericht 2023), in
+                       Bayern etwa 870. Da Autonome feste Strukturen ablehnen, ist
+                       eine klare Zuordnung von Einzelpersonen zur autonomen Szene
+                       nicht immer möglich. Autonome Gruppen agieren bevorzugt in
+                       losen und unverbindlichen Zusammenschlüssen. Sie verfügen
+                       häufig über einen kleinen Mitgliederstamm, darüber hinaus
+                       hängt die Zahl der zugehörigen Personen stark von aktuellen
+                       Themen- und Aktionsfeldern ab. So ist es möglich, dass bei Ver­
+                       anstaltungen und Aktionen die Teilnehmerzahl das Mitglieder­
+                       potenzial der initiierenden Gruppe übersteigt.
+
+
+
+268
+Linksextremismus                                         Verfassungsschutzbericht Bayern 2024
+
+
+
+Autonome haben kein einheitliches ideologisches Konzept,
+sie folgen vielmehr anarchistischen und anarcho-kommunis­
+tischen Vorstellungen. Einig sind sich alle Autonomen in dem
+Ziel, den Staat und seine Einrichtungen – auch mit Gewalt – zu
+zerschlagen und eine „herrschaftsfreie Gesellschaft“ zu errich­
+ten. Sie rechtfertigen Gewalt als erforderliches Mittel gegen die
+„struktu­relle Gewalt“ eines „Systems von Zwang, Ausbeutung
+und Unterdrückung“. Gewalttätige Handlungen verstehen sie als
+Akt individueller Selbstbefreiung von den Herrschaftsstrukturen.
+Dazu gehören Brandstiftungen, Sabotage, Hausbesetzungen
+und militante Aktionen bei Demonstrationen. Autonome versu­
+chen, auch demokratische Protestbewegungen für ihren Kampf
+gegen den Staat zu mobilisieren.
+
+Postautonome
+In der autonomen Szene wird seit Längerem eine Organisa­
+tions- und Militanzdebatte geführt. Seit Beginn der 1990er Jahre
+wuchs die interne Kritik, die autonome Bewegung sei zu unor­
+ganisiert, um nachhaltig politische Veränderungen bewirken zu
+können. Im Zentrum der Debatte steht dabei die Frage, wie eine
+breitere gesellschaftliche Akzeptanz für die eigenen autonomen
+Positionen erreicht werden kann.
+
+Infolgedessen sind mehrere sog. „postautonome“ Gruppierun­               „Interventionistische
+gen und Netzwerke entstanden, die die gesellschaftliche Isola­           Linke“ (IL)
+tion der Autonomen durchbrechen wollen. In der Szene beson­
+ders prägend wirkt die „Interventionistische Linke“ (IL). Sie war
+erstmals im Jahr 1999 bei den Protesten gegen die EU-Rats­
+tagung und den Weltwirtschaftsgipfel in Köln aktiv und gründete
+sich 2005 als informelles, bundesweit agierendes Netzwerk. Sie
+verfolgt den strategischen Ansatz einer spektrenübergreifen­
+den Mobilisierung unter ihrer Führung. Dabei versucht sie, alle
+linksextremistischen Strömungen – bis hin zu militanten Autono­
+men – zu integrieren.
+
+Postautonome versuchen, ein Scharnier zwischen gewaltberei­
+ten Szeneangehörigen und gemäßigten Kräften – zuletzt auch
+verstärkt im Umfeld zivilgesellschaftlicher Initiativen – zu bilden.
+Die Vorsilbe „Post“ steht für die Infragestellung einiger grund­
+legender Merkmale, aber nicht für einen vollständigen Bruch mit
+dem gewaltorientierten autonomen Politikansatz.
+
+Um zwischen linksextremistischen und demokratischen Akteu­               „Ziviler
+ren zu vermitteln, bedienen sich die Postautonomen u. a. des             Ungehorsam“
+Begriffes des „zivilen Ungehorsams“. Der Begriff bezeichnet
+
+
+
+
+                                                                                         269
+Verfassungsschutzbericht Bayern 2024                                   Linksextremismus
+
+
+                       ein strategisches Protestkonzept, das einen moralisch oder poli­
+                       tisch begründeten, bewussten Verstoß gegen staatliche Regu­
+                       lierungsmaßnahmen, z. B. Gesetze, umfasst. Aktions- bzw.
+                       Protest­formen des zivilen Ungehorsams, wie Sitzblockaden,
+                       Streiks oder Protestcamps, verlaufen in der Regel gewaltfrei.
+                       Der Begriff „ziviler Ungehorsam“ wird in seiner linksextremis­
+                       tischen Auslegung inzwischen mitunter auch von bürgerlichen
+                       Klimaschutzinitiativen übernommen und genutzt.
+
+                       Vordergründig beteiligen sich Postautonome nicht an gewalttäti­
+                       gen Ausschreitungen, allerdings distanzieren sie sich auch nicht
+                       eindeutig vom Einsatz von Gewalt zur Durchsetzung politischer
+                       Ziele. Vereinbarungen über die zulässigen Formen des Protestes
+                       sind dabei oft reine Formelkompromisse, die der Auslegung brei­
+                       ten Raum lassen. Gewalttätige Eskalationen sind Teil der eigenen
+                       Planung und werden mit kalkuliertem Risiko bewusst eingesetzt.
+
+                       Postautonome engagieren sich z. B. in Mieter- und Stadtteilinitia­
+                       tiven, in der Flüchtlingshilfe, in Klimaschutzinitiativen sowie in der
+                       Antiglobalisierungsbewegung. Zuletzt waren Aktivitäten solcher
+                       Gruppierungen auch verstärkt im Umfeld zivilgesellschaftlicher
+                       Umweltinitiativen feststellbar. Innerhalb dieser breit angelegten
+                       Bündnisse versuchen die Postautonomen, ihren ideologischen
+                       Schwerpunkt „Antikapitalismus“ mit anderen Themen zu verbin­
+                       den und ihre verfassungsfeindlichen Ziele in bürgerliche Initia­
+                       tiven und damit in die Mitte der Gesellschaft zu transportieren.
+                       Langfristig soll die linksextremistische Ideologie so in einem
+                       demo­kratischen Protestmilieu verankert werden und dort Radi­
+                       kalisierungsprozesse in Gang setzen.
+
+                       Anarchisten
+                       Anarchismus ist eine Sammelbezeichnung für politische Auf­
+                       fassungen und Bestrebungen, die auf die Abschaffung jeglicher
+                       Herrschaft von Menschen über Menschen abzielen. Allen anar­
+                       chistischen Strömungen ist die Forderung gemein, den Staat als
+                       Herrschaftsinstitution abzuschaffen – und zwar unabhängig von
+                       einer demokratischen oder diktatorischen Ausrichtung. Häufig
+                       schließt eine solche Auffassung einen grundsätzlichen „Anti­
+                       institutionalismus“ ein. Der Anarchismus begreift Bürokratien,
+                       Kirchen, Parteien, Parlamente und Vereine als Einrichtungen,
+                       die einem freiwilligen Zusammenschluss von emanzipierten und
+                       mündigen Menschen entgegenstehen. Dem Anarchismus zuge­
+                       hörige Personen lehnen Hierarchien und Unterordnung grund­
+                       sätzlich ab. Deshalb weisen sie in der Regel einen nur geringen
+                       Organisationsgrad auf und bilden lediglich lose strukturierte
+                       Gruppierungen.
+
+
+270
+Linksextremismus                                       Verfassungsschutzbericht Bayern 2024
+
+
+
+Anarchisten bevorzugen stattdessen spontane Aktionen von               „Direkte Aktion“
+kleineren Gruppen oder Einzelpersonen. Zu diesen zählt auch            Akzeptanz von
+die „Direkte Aktion“. Hierunter sind Aktionen zu verstehen, die        Gewalt
+für sich selbst sprechen und somit eine unmittelbare Wirkung
+entfalten. Dabei kann es sich um Sachbeschädigungen oder
+das Besetzen von leerstehenden Gebäuden handeln. Aber auch
+gewalt­tätige Aktionen, wie die Brandstiftung an Fahrzeugen
+sowie Sabotageaktionen auf Infrastruktureinrichtungen, zählen
+hierzu. Gewalt als Mittel der Revolution ist auch im Anarchismus
+ein viel diskutiertes Thema. Sie wird jedoch von der Mehrzahl
+der Aktivisten als legitimes Mittel akzeptiert.
+
+Wie eine Gesellschaft „nach“ der Revolution aussehen kann, ist
+auch in der anarchistischen Szene umstritten. Der anarchistische
+Idealzustand, eine Gesellschaft auf Basis von Selbstverwaltung
+und freien Übereinkünften, führt in letzter Konsequenz jedoch
+unweigerlich in ein System von Gewalt- und Willkürherrschaft, in
+dem der Starke sich gegen den Schwachen durchsetzt und sich
+schlussendlich über diesen erhebt.
+
+Anarchistische Ideen sind in der deutschen Gesellschaft nur
+schwer zu vermitteln. Um im politischen Diskurs wahrgenom­
+men zu werden, haben sich Anarchisten europaweit gesell­
+schaftspolitisch umstrittenen Themenfeldern zugewandt, wie
+z. B. Elektromobilität, Künstliche Intelligenz, Infrastruktur oder
+Klimaschutz.
+
+
+7.2 Autonome Szene in Bayern
+In modernen, individualisierten Gesellschaften verlieren tradi­
+tionelle gesellschaftliche Orientierungspunkte an Relevanz.
+Die Frage nach der Verortung der eigenen Identität gewinnt an
+Bedeutung und ist – auch aufgrund der Informationsflut in den
+sozialen Medien – gleichzeitig immer schwerer zu beantwor­
+ten. Mit welchen Gruppen sich Menschen identifizieren und für
+welche Themen sie sich engagieren, unterliegt einem sich stets
+­beschleunigenden Wechsel.
+
+Die Corona-Krise hat diese Entwicklung zusätzlich verstärkt.
+Davon ist auch die linksextremistische Szene betroffen, die sich
+schon immer durch Unübersichtlichkeit und Fragmentierung
+ausgezeichnet hat. Da die autonome Szene vor allem aus Heran­
+wachsenden und jungen Erwachsenen besteht, bei denen sich
+Orientierung und Lebensverhältnisse auch kurzfristig stark ver­
+ändern können, etablieren sich szeneintern nur selten langfristig
+stabile Gruppenstrukturen.
+
+                                                                                       271
+Verfassungsschutzbericht Bayern 2024                               Linksextremismus
+
+
+Offene antifa­         Der Fortbestand der wenigen etablierten Gruppierungen der
+schistische Treffen    auto­nomen Szene sowie deren Aktivitätsniveau hängt von Kern­
+                       gruppen oder Einzelpersonen ab. Zugleich erleichtern es die
+                       ­sozialen Medien, Menschen mit gesellschaftspolitischen Themen
+                        anzusprechen bzw. zu mobilisieren. Dabei setzt die Szene oft auf
+                        das Format der „Offenen Antifaschistischen Treffen“ (OAT), die
+                        interessierten Personen einen niedrigschwelligen Erstkontakt
+                        ­ermöglichen sollen. Durch die OAT kann dann ein Zugang zu
+                         Gruppen mit entsprechenden Themenfeldern vermittelt werden,
+                         die mit den persönlichen Neigungen und Interessen korrespon­
+                         dieren.
+
+                       Die derzeit existierenden linksextremistischen Gruppen bilden
+                       daher zu einer Vielzahl von Themen (z. B. Antifaschismus, Klima,
+                       Feminismus, Flüchtlingshilfe) Untergruppierungen, die sich in
+                       den sozialen Medien präsentieren und für ihre jeweiligen Anliegen
+                       werben. Vordergründig handelt es sich dabei um unabhängig von­
+                       einander agierende Gruppen, die aber im Hintergrund von einem
+                       kleinen linksextremistischen Aktivistenstamm bzw. entsprechen­
+                       den Kerngruppen angeleitet werden. Aktuell zeichnet sich die
+                       linksextremistische autonome Szene durch folgende Aspekte aus:
+
+                       – unverbindliche Strukturen mit niedrigschwelligen Angeboten
+                       – geringer ideologischer Anspruch
+                       – Fokussierung auf spezifische Themenfelder
+                       – kurzfristige Bildung neuer Gruppen
+                       – kleinteilige Gruppen mit häufig wechselnden Personen
+                       – informelle Hierarchien gepaart mit der Möglichkeit für neue
+                         Interessierte, sich schnell einzubringen
+                       – Aktions- und Erlebnisorientierung
+                       – starke Präsenz in den sozialen Medien
+                       – Vernetzung mit anderen gleichgesinnten Gruppen
+
+                       7.2.1    Autonome Zentren und Szenetreffs
+
+                       Durch diese Entwicklung haben autonome Szenetreffs, sog.
+                       „autonome Zentren“, an Bedeutung gewonnen. Sie stellen
+                       Linksextremisten Räume zur Verfügung, um mit Gleichge­
+                       sinnten zusammenzukommen und in den direkten Austausch
+                       mit interes­sierten Personen treten zu können. Demgegenüber
+                       können uner­
+                       ­             wünschte Personen bzw. Gruppierungen schnell
+                       ausgeschlossen werden. Diese Trefförtlichkeiten von Autono­
+                       men werden häufig auch von anderen, nichtextremistischen
+                       Gruppen genutzt (Mischnutzung).
+
+
+
+
+272
+Linksextremismus                                      Verfassungsschutzbericht Bayern 2024
+
+
+
+Augsburg
+Die autonome Szene in Augsburg wird vom „Offene Antifaschis­
+tische Treffen Augsburg“ und dem “Offenes Antikapitalistisches
+Klima­treffen Augsburg“ dominiert. Beide Gruppen halten ihre
+Veran­staltungen in dem Szenelokal „Ganze Bäckerei“ ab, wo auch
+die Augsburger Ortgruppe des „Rote Hilfe e. V.“ ihre Kontakt­
+adresse hat. Die beiden autonomen Gruppierungen arbeiten
+jedoch daran, unter dem Namen „Linkes Zentrum Lilly Prem“
+ein eigenes Zen­trum aufzubauen, für das bereits eine Webseite
+erstellt wurde.
+
+Die Namensähnlichkeit von Gruppierungen der autonomen Szene
+in München und Augsburg kann als Indiz für eine enge Verbunden­
+heit untereinander verstanden werden, die sich auch auf die auto­
+nome Szene in Rosenheim erstrecken dürfte.
+
+Ingolstadt
+Nachdem sich zum Jahresende 2021 die autonome Gruppierung
+„La Resistance“ (LARA) in Ingolstadt auflöste, hat sich im Jahr
+2023 das „Offene Antifa Treffen Ingolstadt“ gegründet. Mit dem
+„Solidarischen Zentrum Azad Serges“ verfügt diese Gruppierung
+über einen eigenen Szenetreff. Damit hat die insgesamt über­
+schaubare autonome Szene in Ingolstadt einen Anlauf­punkt, der
+mittelfristig zu ihrem Anwachsen führen dürfte.
+
+Die autonome Szene in Ingolstadt ist gut vernetzt mit autono­
+men Gruppen in Augsburg und München.
+
+Bei Azad Serges handelt es sich um den kurdischen Kampf­
+namen eines Linksextremisten aus Mainburg. Der gebürtige
+Deutsche hatte sich bereits 2016 den Einheiten der Arbeiterpar­
+tei Kurdis­tans (PKK) angeschlossen. Er wurde im Sommer 2023 in
+der Türkei bei Kampfhandlungen mit der türkischen Armee getötet.
+
+München
+In München gibt es eine Vielzahl von Örtlichkeiten, an denen sich
+die autonome Szene trifft. Das „Kafe Marat“ und das „Barrio
+Olga Benario“ sind hierbei von besonderer Bedeutung.
+
+Das seit den 1990er Jahren bestehende „Kafe Marat“ ist Teil ei­
+nes selbstverwalteten Zentrums im Münchner Schlachthofvier­
+tel. Das Zentrum wird von einem Verein betrieben, während das
+„Kafe Marat“ von mehreren Gruppen, darunter auch linksextre­
+mistische Gruppierungen, organisiert wird. Es wirbt mit günstigen
+Getränkepreisen, Vorträgen, Infoveranstaltungen und Konzerten.
+
+
+
+
+                                                                                     273
+Verfassungsschutzbericht Bayern 2024                                 Linksextremismus
+
+
+                       Die linksextremistische Szene Münchens führt im „Kafe Marat“
+                       regelmäßig Vorträge, Diskussionsrunden oder Mobilisierungs­
+                       veranstaltungen durch, wie z. B. anlässlich der Proteste gegen
+                       die IAA in München. Das „Kafe Marat“ dient der Szene als
+                       Treffpunkt, logistisches Zentrum und Informationsbörse, die bei­
+                       spielsweise die gemeinsame Anreise zu Demonstrationen und
+                       Aktionen in ganz Deutschland koordiniert. Auch bietet der „Rote
+                       Hilfe e. V.“ dort Vorträge an.
+
+                          Die postautonome Gruppierung „Antifa-NT“ nutzt das „Kafe
+                        ­Marat“ als Treffpunkt. Die Gruppierung beteiligt sich regel­mäßig
+                         an breiten gesellschaftlichen Bündnissen. Sie greift insbeson­
+                         dere bürgerliche Themen auf und nutzt zivilgesellschaftliche
+                         Versamm­  lungen, um für ihre extremistischen Positionen zu
+                         ­werben. Zu anderen autonomen und postautonomen Gruppierun­
+                          gen pflegt „Antifa-NT“ bundesweite Kontakte. So ist die Gruppe
+                          seit 2015 am linksextremistischen „[…] ums Ganze!“-Bündnis
+                        beteiligt. In diesem Bündnis organisieren sich gewaltorientierte
+                        linksextremistische Gruppen aus Deutschland und Österreich.
+                        Zudem ist „Antifa-NT“ an der bundesweiten Protestmitmach­
+                       kampagne „Nationalismus ist keine Alternative“ (NIKA) beteiligt.
+                       NIKA ist eine linksextremistische Kampagne, die sich gegen
+                       ­einen vermeintlichen Rechtsruck in der Gesellschaft richtet. Die
+                        Kampagne soll dazu beitragen, die linksextremistische Szene
+                        stärker zu vernetzen und besser zu organisieren.
+
+                       Im Februar 2019 wurde von einem Trägerverein das „Barrio
+                       Olga Benario“ in München-Giesing eröffnet. Der Name leitet
+                       sich von der in den 1920er Jahren in Berlin aktiven Kommunis­
+                       tin Olga Benario ab, die im April 1942 von den Nationalsozialis­
+                       ten hingerichtet wurde. Mehrere linksextremistische wie auch
+                       linksextremistisch beeinflusste Gruppen nutzen das „Barrio Olga
+                       Benario“ zur Planung und Vorbereitung von Aktionen sowie für
+                       ihre regel­mäßigen Treffen, darunter die „Antikapitalistische Linke
+                       München“ (AL-M), das „Offenes antikapitalistisches Klimatreffen
+                       München“, das Bündnis „In Aktion gegen Krieg und Militaris­
+                       mus“ (AKM) und der „Antifa-Stammtisch München“.
+
+                       Daneben finden im „Barrio Olga Benario“ Vorträge, Diskussions­
+                       runden, Filmvorführungen, Info-Abende, Mobilisierungsver­
+                       anstaltungen und Workshops zu den klassischen linksextre­
+                       mistischen Themenfeldern (Antifaschismus, Antirassismus,
+                       Antirepression, Antikapitalismus, Antimilitarismus, Antigentrifi­
+                       zierung, Klimakampf) statt. Derartige Veranstaltungen werden
+
+
+
+
+274
+Linksextremismus                                         Verfassungsschutzbericht Bayern 2024
+
+
+
+überwiegend von den Gruppen im „Barrio Olga Benario“ oder
+von linksextremistischen Gruppen wie der AL-M oder der „Inter­
+nationalen Sozialistischen Organisation“ organisiert.
+
+Die linksextremistisch-initiierte Initiative „Zukunft erkämpfen“ ist
+ebenfalls im „Barrio Olga Benario“ beheimatet. Die Initiative ist
+Teil der bundesweiten Kampagne „#nichtauf­         unseremrücken“,
+an der sich diverse linksextremistische Gruppierungen beteili­
+gen, darunter auch die „Prolos“ (Nürnberg), die „Sozialrevolutio­
+näre Aktion“ (SRA, Regensburg) und die AL-M aus München.
+
+Aktivisten aus verschiedenen im „Barrio Olga Benario“ aktiven
+Antifa-Gruppen gründeten den linksextremistischen „Antifa­
+schistischen Aufbau München“, der sich Ende 2021 mit 7 weite­
+ren gewaltorientierten linksextremistischen Gruppierungen aus
+Baden-Württemberg und Rheinland-Pfalz zur „Antifaschistische
+Aktion Süd“ (AfA) zusammenschloss.
+
+Nürnberg
+Das „Selbstverwaltete Kommunikationszentrum Nürnberg e. V.“
+(KOMM) im Nürnberger Stadtteil Gostenhof stellt in der Region
+die zentrale Trefförtlichkeit der linksextremistischen Szene dar.
+Über eine Vereinsstruktur wird dort die als „Laden“ bezeichnete
+Szenekneipe „Schwarze Katze“ betrieben.
+
+Dort treffen sich:
+
+–   „Antifaschistisches Aktionsbündnis Nürnberg“
+–   „Initiative solidarischer ArbeiterInnen“
+–   „Organisierte Autonomie“ (OA)
+–   „Prolos“
+–   „Revolutionäre Zukunft Nürnberg“ (RZN) und
+–   „Rote Hilfe e. V. – Ortsgruppe Nürnberg/Fürth/Erlangen“
+
+Neben einer Vielzahl von kleineren linksextremistischen Gruppie­
+rungen, die unregelmäßig in der „Schwarzen Katze“ zusammen­
+kommen und nur punktuell Aktionismus entfalten, nutzen auch
+nichtextremistische Gruppen das KOMM.
+
+Seit Herbst 2023 trifft sich auch die Gruppe „Revolutionäre
+Zukunft Nürnberg“ (RZN), in der „Schwarzen Katze“. Diese
+Gruppe versucht vor allem sehr junge Personen (u. a. Schüler,
+Auszubildende) anzusprechen. Bei der RZN handelt es sich
+
+
+
+
+                                                                                        275
+Verfassungsschutzbericht Bayern 2024                                 Linksextremismus
+
+
+                       um die Nachfolgeorganisation der „Revolutionär Organisierten
+                       ­Jugendaktion“ (ROJA), die seit 2022 nicht mehr aktiv ist. Unweit
+                        der „Schwarzen Katze“ befindet sich das „Metroproletan“ in der
+                        Eberhardshofstraße. Dort trifft sich die OA und es finden dort
+                        auch regelmäßig andere linksextremistische Veranstaltungen
+                        statt. Weitere Örtlichkeiten, die teilweise von der linksextremis­
+                        tischen Szene genutzt werden, liegen in an Gostenhof angren­
+                        zenden Stadtteilen. Daher kann der Nürnberger Stadtteil Gosten­
+                        hof als für die linksextremistische Szene wichtiger Bezugspunkt
+                        in der Metropolregion bezeichnet werden.
+
+                       Zudem existieren in Nürnberg weitere linksextremistische
+                       Trefförtlichkeiten, die jedoch nur von einzelnen kleineren linksex­
+                       tremistischen Gruppierungen frequentiert werden bzw. nur
+                       geringe Außenwirkung entfalten. Ein solcher Szenetreff ist
+                       beispiels­weise die „DESI“ („Desinfektionsanstalt“), ein selbst­
+                       verwaltetes Stadtteilzentrum in Nürnberg-St. Johannis, in dem
+                       sich auch nichtextremistische Gruppierungen treffen.
+
+                       Die zentrale Veranstaltung der autonomen Szene in Nürnberg
+                       ist der federführend von der OA organisierte „Revolutionäre
+                       1. Mai“, eine Demonstration mit anschließendem Straßenfest.
+                       2024 bildeten der Protest gegen Rüstungsunternehmen sowie
+                       die Demonstrationen zur Unterstützung von Hanna S., die als
+                       Beschuldigte im Rahmen des „Budapest-Komplexes“ in der
+                       Nürnberger Justizvollzuganstalt inhaftiert ist, den Schwerpunkt.
+
+                       Regensburg
+                       Das „Linke Zentrum“ (LiZe) in Regensburg wird regelmäßig sowohl
+                       von extremistischen als auch nichtextremistischen Gruppierungen
+                       genutzt. So veranstaltet auch die linksextremistische „Antifaschis­
+                       tische Aktion Regenburg“ (AFAR) dort u. a. offene Antifa-Treffen,
+                       Mobilisierungsveranstaltungen und Vorträge. Auch die „Anarchis­
+                       tische Gruppe Regensburg“ trifft sich regelmäßig im LiZe und
+                       nutzt es für eigene Veranstaltungen.
+
+                       Rosenheim
+                       Die autonom-linksextremistische Szene in Rosenheim und
+                       Umgebung führt in der Szeneörtlichkeit „Z – linkes Zentrum in
+                       Selbstverwaltung“ regelmäßig Veranstaltungen durch und tritt
+                       dabei unter der Bezeichnung „Offenes antifaschistisches Plen­
+                       um Rosenheim“ (OAPR) auf.
+
+                       Das OAPR veröffentlichte am 28. Februar auf seinem Insta­gram-
+                       Profil eine Solidaritätsbekundung mit der am 26. Februar verhaf­
+                       teten Terroristin der linksextremistischen Roten Armee Fraktion
+                       (RAF) Daniela Klette.
+
+276
+Linksextremismus                                         Verfassungsschutzbericht Bayern 2024
+
+
+
+
+Im Zentrum der OAPR-Aktivitäten steht jedoch die in den letzten
+Jahren zunehmend aggressive Agitation gegen die AfD. So rief
+das OAPR anlässlich der diesjährigen bayerischen Landtagswahl
+in den sozialen Netzwerken offen zur Gewalt gegen AfD-Politi­
+ker auf. Bei Demonstrationen des OAPR gegen die AfD wurden
+auch Polizeikräfte angriffen und verletzt. Die Social-Media-Kanäle
+des OAPR weisen u. a. Bezüge zur linksextremistischen Szene in
+München und Augsburg auf.
+
+7.2.2 Vernetzungsbestrebungen
+
+Linksextremistische Gruppierungen mit gleichem Interessens­
+spektrum vernetzen sich zunehmend auch überregional, wobei
+die Qualität der Kooperationsbemühungen stark variiert: Sie
+reicht von der öffentlichen Ankündigung der Zusammenarbeit
+– mitunter auch ohne erkennbare Folgen – bis hin zu gemein­
+samen Aktionen und gegenseitiger Unterstützung.
+
+So initiieren und bewerben das im Februar 2022 gegründete
+linksextremistische Kooperationsforum „Antifaschistische Aktion
+Süd“ und das mit ihm verbundene linksextremistische Informa­
+tionsportal „antifa-info.net“ gemeinsam Aktionen in Süddeutsch­
+land, bei denen sich auch autonome Gruppen in- und außerhalb
+Bayerns einbringen können.
+
+In seinem Vorgehen klandestiner ist das linksextremistische Netz­
+werk „Perspektive Kommunismus“ (PK). Dem Netzwerk gehören
+aktuell autonome Gruppen aus Süddeutschland an. Sein Ziel ist es
+aber, auch bundesweite Bedeutung zu erlangen. Bei PK handelt es
+sich um ein anti-imperialistisches Bündnis mit revolutionär-kommu­
+nistischer Zielsetzung, das sich an der marxistisch-leninistischen
+Ideologie orientiert. Dafür soll eine „bundes­weite revolutionäre Or­
+ganisation“ aufgebaut werden, die als „eine reale Gegenmacht zur
+Macht von Staat und Kapital“ fungieren soll.
+
+                                                                                        277
+Verfassungsschutzbericht Bayern 2024                  Scientology-Organisation
+
+
+
+Scientology-Organisation
+(SO)
+
+
+
+                       Die „Scientology-Organisation“ (SO) ist eine inter­
+                       national agierende Organisation, die auf finanzielles
+                       Gewinnstreben ausgerichtet ist und ein weltweites,
+                       unumschränktes Herrschaftssystem nach eigenen
+                       Vorstellungen errichten möchte. An die Stelle des
+                       Demokratieprinzips und der Grundrechte soll ein auf
+                       Psychotechnologien und bedingungsloser Unterord­
+                       nung der Individuen beruhendes totalitäres Herr­
+                       schaftssystem unter scientologischer Führung treten.
+
+                       Die SO ist somit nicht nur eine Gefahr für Einzelne, die
+                       in die Fänge und den Einflussbereich der Organisation
+                       zu geraten drohen. Sie stellt vielmehr auch das demo­
+                       kratische System der Bundesrepublik Deutschland
+                       und die staatliche Garantie der Grundrechte in Frage.
+                       Schon in seinem Grundlagenwerk „Dianetik“ aus
+                       dem Jahr 1950 wies der Gründer der SO, Lafayette
+                       Ron Hubbard, auf die politische Relevanz seiner Lehre
+                       hin. Nach seinen bis heute unveränderten und für alle
+                       Scientologen verbindlichen Vorstellungen soll eine
+                       ausschließlich nach scientologischen Richtlinien funk­
+                       tionierende Welt geschaffen werden. Mit drastischen
+                       psycho- und sozialtechnischen Instrumenten will die
+                       Organisation nicht nur den einzelnen Menschen steu­
+                       ern, sondern durch Einflussnahme auf Staat, Politik
+                       und Wirtschaft auch in die Gesellschaft eindringen,
+                       um sie den scientologischen Zielen zu unterwerfen.
+
+
+278
+Scientology-Organisation                     Verfassungsschutzbericht Bayern 2024
+
+
+
+
+Programmatik und Aktivitäten der SO sind mit den
+Grundprinzipien unserer freiheitlichen demokrati­
+schen Grundordnung unvereinbar.
+
+Die „Scientology-Organisation“
+
+– will ein scientologisches Rechtssystem etab­
+  lieren, in dem es keine Menschen- und Grund­
+  rechte gibt,
+– missachtet die Menschenwürde (Art. 1 GG) und
+  den Gleichheitsgrundsatz (Art. 3 GG), da sie nur
+  Scientologen Rechte zugesteht,
+– missachtet das Grundrecht der freien Meinungs­
+  äußerung (Art. 5 GG), da sie Kritik mit allen – auch
+  illegalen – Mitteln unterdrücken will,
+– baut auf ein totalitäres Herrschaftssystem, das
+  Gewalt und Willkürherrschaft einschließt.
+
+Das Oberverwaltungsgericht Münster hat mit Urteil
+vom 12. Februar 2008 festgestellt, dass
+
+– tatsächliche Anhaltspunkte dafür vorliegen, dass
+  die SO Bestrebungen verfolgt, die gegen die frei­
+  heitliche demokratische Grundordnung gerichtet
+  sind,
+
+
+
+
+                                                                            279
+Verfassungsschutzbericht Bayern 2024                                 Scientology-Organisation
+
+
+                       – zahlreiche Hinweise ergeben, dass die SO eine
+                         Gesellschaftsordnung anstrebt, in der zentrale
+                         Verfassungswerte außer Kraft gesetzt oder ein­
+                         geschränkt werden,
+                       – der Verfassungsschutz die Organisation daher –
+                         auch mit nachrichtendienstlichen Mitteln – beob­
+                         achten darf.
+
+
+                       1. PERSONENPOTENZIAL
+
+                                               Deutschland                            Bayern
+
+                       Mitglieder              3.6001                                 etwa 1.300
+
+                       Vorsitzende/r           Helmut Blöbaum                         Nina Malessa
+
+                       Gründung                München 1970                           Nürnberg 1982
+                                               („Scientology Kirche Deutschland       („Scientology
+                                               e. V.“)                                Kirche Bayern
+                                                                                      e. V.“)
+
+                       Sitz                    München                                München
+
+                                               (in Deutschland unselbstständige Teilorganisationen)
+
+                       Publikationen           u. a. Freedom; Impact; Ursprung; Source; Scientology
+                                               Network TV und Streamingdienst
+
+                       1
+                           Quelle: Bundesverfassungsschutzbericht 2023
+
+
+                       Die Mitgliederzahl der SO in Bayern beläuft sich auf ca. 1.300
+                       Personen, die sich auf sämtliche Altersgruppen verteilen. Neben
+                       langjährigen Scientologen gehören hierzu auch junge Erwach­
+                       sene, die in ihren Familien mit der Ideologie der SO aufgewach­
+                       sen sind, weiterhin der Organisation treu bleiben und diese
+                       bewerben sowie neu rekrutierte Mitglieder. Konsequente staat­
+                       liche Aufklärungsarbeit, Prävention und kritische mediale Bericht­
+                       erstattung haben die Strukturen der SO, ihre Methoden und
+                       ihre verfassungsfeindlichen Ziele der Öffentlichkeit dargelegt.
+                       Die g­ewonnene Transparenz, beispielsweise über ihre Mani­
+                       pulationsstrategien, und die damit verbundene negative gesell­
+                       schaftliche Wahrnehmung der SO haben es ihr erschwert, neue
+                       ­Mitglieder zu gewinnen.
+
+                       Mit Hilfe von Tarn- und Nebenorganisationen, sog. „Verbreitungs­
+                       kampagnen“, wie z. B. der „Kommission für Verstöße der
+                       ­Psychiatrie gegen Menschenrechte e. V.“ (KVPM), der Organi­
+                       sation „Sag NEIN zu Drogen – Sag JA zum Leben“, den sog.
+
+
+280
+Scientology-Organisation                               Verfassungsschutzbericht Bayern 2024
+
+
+
+„Ehrenamtlichen Geistlichen“ (englisch: „Volunteer Ministers“)
+oder der Organisation „Der Weg zum Glücklichsein“, versucht
+die SO, sich als attraktive, humanitäre und sozial verantwort­
+liche Organisation darzustellen. Interessenten werden über ­diese
+Kampagnen an die SO herangeführt und als neue Mitglieder
+rekrutiert. Die rasante Verbreitung von Verschwörungstheorien
+hat gezeigt, dass viele Menschen angesichts komplexer Ereig­
+nisse nach einfachen Erklärungen und Orientierungsangeboten
+suchen. Auch die SO versucht diese Menschen anzusprechen
+und schritt­weise an ihre Ideologie heranzuführen.
+
+
+2. AKTIONEN UND AKTIVITÄTEN
+
+2.1 Kampagne „Sag NEIN zu Drogen – Sag JA
+    zum Leben“
+Während der Fußball-Europameisterschaft in Deutschland                 Kampagne bei
+(14. Juni – 14. Juli) und den Olympischen Sommerspielen                Fußball –EM und
+in Frankreich (14. Juli – 12. August) betrieb die SO unter dem         Olympia
+­Vorwand der Drogenprävention eine großangelegte Kampagne
+ zur Ansprache und Mobilisierung neuer Zielgruppen. Es handelte
+ sich hierbei um eine Aktion der SO-Tarnorganisation „Sag NEIN
+ zu Drogen – Sag JA zum Leben“.
+
+  Während der Fußball-Europameister­
+  schaft betrieb die Tarnorga­  nisation
+  in mehreren deutschen Städten,
+  ­
+  darunter     München,       zahlreiche
+  Informations­stände und verteilte
+  in großem Umfang Informations­
+  material, bspw. das Booklet „ ­ Fakten
+  über Drogen“ bzw. „The Truth
+  About Drugs“. Darüber hinaus legte
+  die Organisation die kostenfreien
+  Broschüren in stark frequentierten
+  Laden­geschäften (u. a. Lebensmittel­
+ straßenverkauf, Tank­ stellen, Apotheken) in den Innenstädten
+ aus und versuchte, durch Direkt­    ansprachen mit Passanten ins
+ ­Gespräch zu kommen. Eigenen Angaben der SO zufolge w    ­ urden
+­dabei insgesamt 350.000 Broschüren in ganz Deutschland ­verteilt,
+ wobei München einen Schwerpunkt der Kampagne ­darstellte.
+
+Auch bei den Olympischen Sommerspielen in Frankreich zeigte
+die SO Präsenz und verteilte über ihre Tarnorganisation in den
+französischen Austragungsorten Angers, Lyon, Nizza, Paris und
+Toulouse ihre Broschüren zur Drogenprävention.
+                                                                                      281
+Verfassungsschutzbericht Bayern 2024                        Scientology-Organisation
+
+
+                        Das verteilte Material informiert vordergründig über negative
+                        Folgen des Drogenkonsums. Zugleich verweisen die Broschüren
+                        jedoch u. a. auf die Webseite der in Los Angeles (USA) ansässigen
+                       SO-Tarnorganisation „Drug-Free-World“ als weiterführende
+                       ­Informationsquelle, die wiederum als Unterstützer „die Sciento­
+                        logy Kirche“ und Scientologen weltweit angibt.
+
+                       Vor dem Hintergrund der Cannabis-Legalisierung in Deutschland
+                       dürfte es ein Hauptmotiv der Kampagne gewesen sein, über ein
+                       anschlussfähiges Thema insbesondere junge Menschen anzu­
+                       sprechen, die für die Ideologie der SO grundsätzlich weniger
+                       zugänglich sind. Die Verteilung während der Fußball-Europa­
+                       meisterschaft an den Spielorten in Deutschland lässt darauf
+                       schließen, dass ein möglichst breites, auch internationales Pub­
+                       likum erreicht werden sollte. Von der Fortführung der Verteilak­
+                       tionen, insbesondere im Rahmen von Großveranstaltungen, ist
+                       auszugehen.
+
+                       Zum Jahresende wurden im Großraum München zudem vereinzelt
+                       Werbeanzeigen von „Sag NEIN zu Drogen – Sag JA zum Leben“ in
+                       seriösen Printmedien festgestellt.
+
+
+                       2.2 Veranstaltungen der Tarnorganisation
+                           „Kommission für Verstöße der Psychiatrie
+                           gegen Menschenrechte in Deutschland e. V.“
+                           (KVPM)
+                       Die 1972 gegründete KVPM sieht ihr Ziel darin, angebliche Miss­
+                       bräuche und Menschenrechtsverletzungen in der medizinischen
+                       Psychiatrie aufzudecken. Ihre Mitglieder kritisieren durch Flug­
+                       blattaktionen, Demonstrationen sowie Veröffentlichungen die
+                       Psychiatrie und ihre Behandlungsmethoden. Die dabei aggressiv
+                       formulierte Kritik richtet sich sowohl gegen die Psychiatrie im
+                       Allgemeinen als auch gegen einzelne psychiatrische Kliniken
+                       und deren ärztliche Leitung. Aufgrund des von ihr postulierten
+                       Alleinvertretungsanspruchs der SO, den einzig wahren Weg zur
+                       Heilung von psychischen Erkrankungen zu kennen, spielt das
+                       Thema Psychiatrie in ihrer Agitation eine herausgehobene Rolle.
+
+                       Im Juni und Oktober fanden öffentliche Veranstaltungen der
+                       KVPM in München zu ihrem Kernthema „Menschenrechtsver­
+                       letzungen in der Psychiatrie“ statt. So richtete sie im Juni eine
+                       mehrtägige Ausstellung unter dem Titel „Psychiatrie: Tod statt
+                       Hilfe“ und in diesem Zusammenhang auch eine Kundgebung
+                       zum Thema „Menschenrechtsverletzungen in der Psychiatrie“
+
+282
+Scientology-Organisation                                 Verfassungsschutzbericht Bayern 2024
+
+
+
+aus. Die Ausstellung wurde u. a. auch damit beworben, dass
+hochkarätige und sachkundige Sprecher sowie Künstler teilneh­
+men würden. Die Zusammenarbeit mit externen Referenten und
+Verbänden soll dem Publikum sowohl Seriosität und Wissen­
+schaftlichkeit suggerieren als auch die Dringlichkeit unter­
+streichen, die angeblichen Missstände beheben zu müssen.
+Dass die KVPM eine Tarnorganisation der SO ist, wird bei ihren
+Veranstaltungen verschleiert.
+
+Wie in den Vorjahren führte die KVPM im Januar zudem in Mün­
+chen eine Mahnwache mit dem Titel „Zum Gedenken an die
+­Opfer des Holocausts“ durch.
+
+
+
+
+2.3 Offensive Öffentlichkeitsarbeit der Tarnor-
+    ganisation „Der Weg zum Glücklichsein“
+Die SO-Tarnorganisation „Der Weg zum Glücklichsein“ (englisch:
+„The Way to Happiness Foundation“) betreibt seit Mitte 2016 in
+Bayern kontinuierlich eine offensive Öffentlichkeitsarbeit. Ziel ist
+es, eine möglichst große Anzahl an Exemplaren der Broschüre
+„Der Weg zum Glücklichsein“ zu verteilen. Die bereits seit den
+1980er Jahren existierende Publikation wirkt auf den ersten Blick
+unverfänglich und weist in Aufmachung und Inhalt zunächst
+­keinen expliziten Scientology-Bezug auf. Lediglich im Impressum
+ ist der SO-Gründer Hubbard erwähnt. Somit besteht die Gefahr,
+ dass durch die Verwendung des Materials auch die Verbreitung
+ der SO-Ideologie unwissentlich unterstützt wird. Die Broschüre
+ vermittelt eher triviale Vorschläge und Anleitungen zum vermeint­
+ lichen „Glücklichsein“, die scientologische Ideologie ist enthalten,
+ aber nur schwer zu erkennen.
+
+
+
+
+                                                                                        283
+Verfassungsschutzbericht Bayern 2024                          Scientology-Organisation
+
+
+                       Allein die Münchener Gruppe der SO-Tarnorganisation soll seit
+                       dem Jahr 2016 inzwischen weit mehr als 600.000 Exemplare
+                       der gleichnamigen Broschüre verteilt haben. Der Schwerpunkt
+                       der Aktionen liegt in München und im Münchener Umland.
+
+                       Die SO versucht, mit der Broschüre Menschen auf vermeintlich
+                       problematische Erscheinungen oder Stimmungslagen in ihrem
+                       Leben aufmerksam zu machen und Interesse daran zu wecken,
+                       etwas zu ändern oder sich Hilfe zu suchen. Ziel ist es, die Adres­
+                       saten zur Kontaktaufnahme mit der Tarn- und Nebenorganisation
+                       zu bewegen. Sobald die Kontaktdaten vorliegen, können diese
+                       genutzt werden, um die Personen mittelfristig an die SO heran­
+                       zuführen.
+
+                       Die Tarnorganisation hat 2022 damit begonnen, eine speziell auf
+                       Kinder zugeschnittene Broschüre mit dem Titel „Wie man gute
+                       Entscheidungen trifft“ zu verteilen. Das Heft lehnt sich an die
+                       Erwachsenen-Broschüre „Der Weg zum Glücklichsein“ an. Die
+                       dort enthaltenen 21 Regeln werden in der Kinder-Broschüre so
+                       aufbereitet, dass sie Kinder ansprechen sollen. Eine Altersemp­
+                       fehlung fehlt. Die SO betrachtet Kinder als Erwachsene in kleinen
+                       Körpern. So heißt es beispielsweise in der Scientology-Publikation
+Broschüre für Kinder   „Kinder-Dianetik – Dianetik-Prozessing für Kinder“:
+
+                                 Ein Kind ist ein Mann oder eine Frau, der oder die
+                                 noch nicht zu voller Größe herangewachsen ist.
+                                 Jedes Gesetz, das für das Verhalten von Män­
+                                 nern und Frauen gilt, gilt auch für Kinder.
+
+
+                       Vor diesem Hintergrund ist die SO bestrebt, durch verschiedene
+                       Projekte Einfluss auf die Entwicklung von Kindern zu nehmen.
+                       Sie setzt dabei bewusst auf Tarnorganisationen, um auch Per­
+                       sonen erreichen zu können, die ihr zunächst ablehnend gegen­
+                       überstehen.
+
+                       Inhaltlich behandelt die Broschüre u. a. Themen, die insbesondere
+                       für kleinere Kinder nicht geeignet sind. Dazu gehört der Konsum
+                       von Drogen, die Unterstützung von Regierungen oder Erläuterun­
+                       gen zum Unterschied zwischen „Morden“ und „Töten“. Auch
+                       unter der Überschrift „Halte Dich an die Wahrheit“ finden sich
+                       Textteile, die als nicht kindgerecht bezeichnet werden können:
+
+
+
+
+284
+Scientology-Organisation                                Verfassungsschutzbericht Bayern 2024
+
+
+
+        Nicht alles, was du hörst oder liest, ist wahr.
+        Manchmal sagt oder schreibt jemand etwas, das
+        nicht wahr ist, und versucht dir einzureden, dass
+        er die Wahrheit sagt. Manchmal ist es schwierig
+        herauszufinden, was wahr ist und was falsch ist.
+        Eines aber ist ganz sicher: Es ist nur wahr, was
+        für dich wahr ist.
+
+        Niemand kann dich dazu zwingen, etwas zu
+        ­glauben, was du nicht glauben willst, oder etwas
+         zur Wahrheit zu machen, was du nicht glaubst.
+         Denke selbst nach und entscheide dann, was du
+         für die Wahrheit hältst. Wenn etwas für dich nicht
+         wahr ist, dann ist es nicht wahr. […] Der Weg
+         zum Glücklichsein ist ein Weg der Wahrheit.
+
+
+Die scientologische Interpretation des Wahrheitsbegriffes ist ein       SO-spezifischer
+wichtiger Baustein ihrer ideologischen Indoktrination. Ein durch        Wahrheitsbegriff
+scientologische Verfahren manipulierter Mensch sieht nur das
+als wahr an, was die Organisation vorgibt.
+
+Auf der Rückseite des Heftes wird betont, dass die Verbreitung
+der Broschüre „durch Behörden und deren Beschäftigte“ zuläs­
+sig sei, da dies weder eine Verbindung zu einer religiösen Verei­
+nigung noch die Förderung einer solchen impliziere.
+
+
+
+
+                                                                                          285
+Verfassungsschutzbericht Bayern 2024                         Scientology-Organisation
+
+
+                       Der Inhalt sei „religiös-weltanschaulich neutral“ und ziele auf
+                       die Förderung des Gemeinwohls ab. Diese Formulierung soll
+                       die Verbindung zur SO, die sich selbst als religiöse bzw. weltan­
+                       schauliche Vereinigung versteht, verschleiern und Adressaten in
+                       Behörden zur Weitergabe der Broschüre an Kinder- und Jugend­
+                       einrichtungen animieren.
+
+                       Auch wenn allein von der Lektüre der Broschüre noch keine
+                       ­direkte Gefahr für Kinder ausgeht, stellt die Nähe zur SO bzw.
+                        die Anwendung scientologischer Verfahren an Kindern und
+                        ­Jugendlichen eine grundsätzliche Gefährdung des Kindeswohls
+                         und der gesunden geistigen Entwicklung von Heranwachsenden
+                         dar. Die Gleichsetzung von Kindern und Erwachsenen kann zu
+                         einer körperlichen wie geistigen Überforderung von Kindern
+                         führen. Zudem sind Störungen im Sozialverhalten sowie Beein­
+                         trächtigungen bei der Entwicklung einer eigenen Identität und
+                         Urteilsfähigkeit möglich. Dies gilt insbesondere für die oben dar­
+                         gestellte Aufforderung, nur das als Wahrheit zu akzeptieren, was
+                         nach eigener Auffassung „wahr“ ist.
+
+Kinderpodcast          „Der Weg zum Glücklichsein“ ist auch Urheber des Kinder-­
+„Amanda’s Bauern­      Podcasts „Tierische Abenteuer von Amanda’s Bauernhof“. In
+hof“                   diesem Podcast mit 25 Folgen wird ebenfalls versucht, Kindern
+                       spielerisch ideologische SO-Grundsätze zu vermitteln.
+
+
+
+
+                       In den Episoden erklärt der Podcast die Regeln der Broschüre
+                       „Wie man gute Entscheidungen trifft“, u. a. mit Tiergeschichten
+                       zu Themen wie Lügen, Drogenkonsum und Diebstahl.
+
+
+                       2.4 Aktivitäten der „Ehrenamtlichen Geistlichen“
+                       Die SO unterhält mit den sog. „Ehrenamtlichen Geistlichen“
+                       (englisch: „Volunteer Ministers“) eine nach eigenen Angaben
+                       inter­nationale Hilfsorganisation.
+
+                       Die „Ehrenamtlichen Geistlichen“ nutzen aktuelle Krisenlagen
+                       gezielt für eigene Zwecke, so zum Beipiel den mit der Coro­
+                       na-Pandemie verbundenen Bedeutungszuwachs des Themas
+
+
+286
+Scientology-Organisation                               Verfassungsschutzbericht Bayern 2024
+
+
+
+Gesundheit. Durch die Lancierung der vorgeblichen Gesund­
+heitskampagne „Stay well“ (deutsch: „Bleib gesund“) sollen
+potenzielle neue Mitglieder angesprochen und die SO als soziale
+Organisation mit Beratungskompetenzen dargestellt werden.
+Die entsprechenden Materialien werden nach wie vor online
+zum L­ esen oder als Download angeboten.
+
+Auch im Zuge des russischen Angriffskrieges auf die Ukraine            Instrumentalisierung
+versuchten sich die „Ehrenamtlichen Geistlichen“ als Hilfsorga­        von Kriegen und
+nisation zu präsentieren.                                              Katastrophen
+
+
+Die verheerenden Flutkatastrophen in Ungarn und der Tsche­             Aktivitäten in
+chischen Republik im September nahmen die „Ehrenamtlichen              Zusammenhang mit
+Geistlichen“ ebenfalls zum Anlass, sich als angebliche Hilfs­          Flutkatastrophe in
+organisation zu profilieren und unter den unzähligen betroffenen       Osteuropa
+Menschen vor Ort neue Mitglieder für die SO zu rekrutieren.
+Presseberichten zufolge boten sie vor Ort auch sog. „Assists“
+(deutsch: „Beistände“) an. Bei „Assists“ handelt es sich um
+scientologische Techniken, die das „geistige Wesen“ bei der
+vermeintlichen Überwindung körperlicher Schmerzen oder see­
+lischer Traumata unterstützen sollen. Es gibt verschiedene Arten
+von Beiständen. Bei den sog. „Berührungs-Beiständen“ sollen
+durch das Auflegen eines Fingers auf bestimmte Bereiche im
+Umfeld einer Verletzung Kommunikationswellen durch den Kör­
+per wieder in Gang gesetzt werden, die durch das Trauma dieser
+Verletzung gestoppt worden sein sollen. Scientology geht davon
+aus, dass jede einzelne körperliche Erkrankung von einem Ver­
+säumnis des „geistigen Wesens“ herrührt, mit dem erkrankten
+Bereich des Körpers zu kommunizieren.
+
+Die „Ehrenamtlichen Geistlichen“ sind an ihrer Uniformierung
+mit gelben Shirts und Jacken sowie der Dominanz der Farbe
+Gelb bei der Gestaltung ihrer Informationsstände erkennbar.
+
+Nach Angaben der SO ist es die Aufgabe eines „Ehrenamtlichen           Vortäuschen eines
+Geistlichen“, seinen „Mitmenschen auf ehrenamtlicher Basis zu          religiösen Kontextes
+helfen, indem er Sinn, Wahrheit und spirituelle Werte in deren
+Leben wiederherstellt“. Bei den „Ehrenamtlichen Geistlichen“
+handelt es sich in der Regel um speziell ausgebildete Mitarbeiter­
+innen und Mitarbeiter der SO, die mit dem gezielten Einsatz
+scientologischer Manipulationstechniken vertraut sind. Die SO
+verwendet die Bezeichnung „Geistliche“ bewusst, um Außen­
+stehende in die Irre zu führen und einen religiösen Kontext zu
+suggerieren. In Deutschland sind religiöse Bezeichnungen wie
+„Kirche“ und „Geistliche“ rechtlich nicht geschützt. Lediglich
+die Zuerkennung des Status einer Körperschaft des öffentlichen
+
+
+                                                                                        287
+Verfassungsschutzbericht Bayern 2024                         Scientology-Organisation
+
+
+                       Rechts bleibt den etablierten kirchlichen Institutionen vorbehalten.
+                       Darüber hinaus existiert kein Anerkennungsverfahren, mit dem
+                       der Status als Religionsgemeinschaft förmlich bestätigt w   ­ erden
+                       würde. Jede Gruppe kann sich also – unabhängig von ihrer
+                       tatsächlichen Zielsetzung – offiziell als Religionsgemeinschaft
+                       ­
+                       bezeichnen.
+
+                       Das Programm der „Ehrenamtlichen Geistlichen“ wurde bereits
+                       Anfang der 1970er Jahre ins Leben gerufen. Jedoch erst nach
+                       den Terroranschlägen vom 11. September 2001 in den USA, als
+                       nach SO-Angaben ebenfalls „Ehrenamtliche Geistliche“ im Hilfs­
+                       einsatz waren, hat die SO die Werbewirksamkeit der offenkun­
+                       digen Beteiligung an Hilfsaktionen erkannt und damit begonnen,
+                       das Programm entsprechend zu vermarkten.
+
+                       Die SO macht sich insbesondere im Fall von Katastrophen die
+                       psychische Ausnahmesituation der Betroffenen zunutze, ver­
+                       sucht professionelle psychologische und psychiatrische Hilfe
+                       und Beratung zu verdrängen und die Opfer scientologischen
+                       Techniken zu unterziehen. Inwieweit die Organisation tatsächlich
+                       praktische Hilfe leistet, kann nicht beurteilt werden.
+
+                       Ziel der SO bei allen öffentlichkeitswirksamen Aktivitäten ihrer
+                       Teil- und Tarnorganisationen ist es, sich als global vernetzten
+                       ­Akteur und Ansprechpartner zu präsentieren, um neue Mitglieder
+                        zu rekrutieren und Spenden zu sammeln. Themen, die einen
+                        breiten gesellschaftlichen Konsens bieten, stehen daher beson­
+                        ders im Fokus.
+
+
+                       2.5 Nutzung eines Nachrichtenportals durch
+                           die Scientology-Organisation
+                         Die SO nutzt nach wie vor auch die Onlinedienste eines unab­
+                         hängigen Nachrichtenportals als Plattform, um ihre Ideologie zu
+                         verbreiten. Gegen Gebühr kann die Organisation so ihre Presse­
+                         mitteilungen über ein internationales News-Netzwerk, darunter
+                       auch namhafte internationale Agenturen, weltweit in Umlauf
+                       bringen. Auf diese Weise gelingt es der SO, sich selbst und die
+                       Aktivitäten ihrer Nebenorganisationen einem Empfänger­      kreis
+                       zu präsentieren, der ihr bislang nicht offenstand. Dabei w
+                                                                                ­ urden
+                       wieder­   holt auch Mitteilungen auf Wirtschafts- bzw. Börsen­
+                       portalen festgestellt. Dahinter steht vermutlich das Kalkül,
+                       ­finanzstarke und erfolgsorientierte Personen für die SO und ihre
+                        ­vermeintlich sozialen Kampagnen zu interessieren. Auch wurden
+
+
+
+288
+Scientology-Organisation                               Verfassungsschutzbericht Bayern 2024
+
+
+
+beispielsweise die Einsätze der „Ehrenamtlichen Geistlichen“
+im Flutkatastrophengebiet der Tschechischen Republik thema­
+tisiert sowie die vermeintlichen Erfolge ihrer vorgeblichen Hilfs­
+programme wie „Sag NEIN zu Drogen, sag JA zum Leben“ und
+„Der Weg zum Glücklichsein“ dargestellt.
+
+Die Nutzung des Nachrichtenportals ermöglicht es der SO auch,          Kampagne “Let’s
+neue Kampagnen vorzustellen. So gab sie im Juni den Start von          better the world”
+„Let’s better the world“ (deutsch: „Lasst uns die Welt besser
+machen“) bekannt, einer neuen Website, „die sich der Bewusst­
+seinsbildung für wichtige soziale Themen durch eine Sammlung
+preisgekrönter Social-Media-Spots widmet“. Die Seite ist in 17
+Sprachen abrufbar und spiegelt die globalen Expansionsbestre­
+bungen der Organisation wider.
+
+Neben der Präsentation eigener Kampagnen nutzt die SO das
+Portal auch, um ihre angeblich philanthropische Gesinnung und
+Teilhabe zu dokumentieren. So stellte die SO im Dezember 2023
+in einem Artikel anlässlich des 75. Jahrestages der Allgemeinen
+Erklärung der Menschenrechte ihr vorgebliches Engagement in
+internationalen humanitären Hilfsorganisationen sowie ihre inter­
+religiösen Bemühungen dar. Vor diesem Hintergrund fanden
+auch diverse Veranstaltungen statt, u. a. in Berlin, Hamburg und
+München.
+
+Eine Überprüfung des Inhaltes bzw. des Wahrheitsgehaltes der
+verbreiteten Informationen findet in diesem Nachrichtenportal
+nicht statt. Das Nachrichtenportal zählt sich mit – nach eigenen
+Angaben – über 100.000 Abonnenten zu den führenden Nach­
+richtenagenturen Europas.
+
+Der kontinuierliche Ausbau von SO-Aktivitäten und -Auftritten im
+Internet soll Schwellen- und Kontaktängste in der Bevölkerung
+mindern und ist daher für die SO mittlerweile ein fester Bestand­
+teil eines „Systems“ zur Gewinnung neuer Mitglieder und zur
+Ausbreitung ihrer Ideologie.
+
+
+3. ORGANISATIONSSTRUKTUR
+Die SO ist wie ein internationaler Wirtschaftskonzern organisiert
+und strukturiert. Alle Einrichtungen unterliegen trotz scheinbarer
+Selbstständigkeit der strikten Befehls- und Disziplinargewalt des
+zentralen „Religious Technology Center“ (RTC) in Los Angeles,
+geführt von David Miscavige, dem Nachfolger des SO-Gründers
+Hubbard.
+
+
+                                                                                      289
+Verfassungsschutzbericht Bayern 2024                          Scientology-Organisation
+
+
+
+
+                       Das RTC repräsentiert den sog. „Church-Bereich“ und bildet
+                       gemeinsam mit den Tarnorganisationen WISE und ABLE die
+                       ­
+                       wichtigsten organisatorischen Säulen der SO. Der „Church-­
+                       Bereich“ gliedert sich in die Einheiten „Kirchen“ („Orgs“),
+                       ­„Missionen“ und „Celebrity Centres“.
+
+                       Dachverband in Deutschland ist die „Scientology Kirche Deutsch­
+                       land e. V.“ (SKD), in Bayern existiert parallel dazu die „Scientology
+                       Kirche Bayern e. V.“ (SKB). Sowohl die SKD als auch die SKB
+                       haben ihren Sitz in München.
+
+                       „Org“-Einheiten sind insbesondere für den Verkauf und die
+                       Durchführung der weiterführenden Scientology-typischen
+                       Dienstleistungen zuständig. Hierzu gehören u. a. Dianetik-Kurse,
+                       „Auditings“ und „Rundowns“ sowie verschiedene interne Aus-
+                       und Fortbildungen für Mitglieder.
+
+Kampagne „Ideales      Im Rahmen ihrer „Ideale-Org“-Kampagne will die SO weltweit
+Deutschland“           in Städten, die sie zur Erreichung ihrer Ziele als politisch und
+                       wirtschaftlich bedeutsam einschätzt, große und repräsentative
+                       Niederlassungen („Ideale Orgs“) aufbauen bzw. bereits beste­
+                       hende Einrichtungen zu einer „Idealen Org“ vergrößern. Diese
+                       „Idealen Orgs“ sollen politischen Einfluss nehmen (u. a. durch
+                       Standorte in Regierungs-/Parlamentsnähe) und auch den E    ­ rfolg
+                       der SO demonstrieren. Die Eröffnung einer „Idealen Org“ ist
+                       an bestimmte, von Hubbard festgelegte Kriterien hinsichtlich
+                       Größe, Mitarbeiter­
+                       ­                  zahl und Ausstattung gebunden. In einer
+
+
+
+
+290
+Scientology-Organisation                               Verfassungsschutzbericht Bayern 2024
+
+
+
+­„Idealen Org“ sollen sämtliche Dienstleistungen der SO unter
+ ­einem Dach angeboten werden können. Der Aufbau einer „Idealen
+  Org“ wird allein aus Spenden finanziert.
+
+In Deutschland existieren bislang 3 „Ideale Orgs“: 2007 wurde          „Ideale Orgs“ in
+in Berlin eine „Ideale Org“ eröffnet und im Januar 2012 eine           Deutschland
+­weitere in Hamburg. Im September 2018 folgte die Eröffnung
+ einer dritten deutschen „Idealen Org“ in Stuttgart. Strategisches
+ Ziel der SO ist ein „Ideales Deutschland“, in dem alle bestehen­
+ den Einrichtungen dem Prädikat „ideal“ entsprechen. Daher
+ muss mit der Eröffnung weiterer „Idealer Orgs“ gerechnet
+ ­werden. In München sind Bemühungen erkennbar, die Voraus­
+  setzungen für die Etablierung einer „Idealen Org“ zu schaffen.
+
+Die „Missionen“ sind vor allem als Vorfeldorganisationen tätig
+und stehen in der SO-Hierarchie unterhalb der „Org“-Einheiten.
+Ihre hauptamtlichen Angehörigen sowie nicht hauptamtliche
+„Feldmitarbeiter“ (englisch: „Field Staff Members“) werben
+mit Einstiegsangeboten (Bücher, Infomaterialien, Kurse etc.) um
+­potenzielle Mitglieder.
+
+Bereits seit 1980 gibt es in München ein „Celebrity Centre“            Umzug des „Cele­
+(CC), das für Prominente vorgesehen ist. Das ehemals räumlich          brity Centre“ in die
+von der „Org München“ getrennte „CC München“ wurde 2023                „Org München“
+in das Gebäude der „Org München“ integriert. Dieser Umzug
+kann als weiterer Schritt zur Schaffung einer „Idealen Org“ in
+München gewertet werden. Grundsätzlich sollen die CC Poli­
+tiker, Führungskräfte aus der Wirtschaft, Medienleute, Kunst­
+schaffende und andere Prominente für die SO gewinnen, um sie
+für Propagandazwecke nutzen zu können. Das „CC München“
+ist hinsichtlich seines Stellenwertes für die Propagandaaktivi­
+täten der SO nicht mit den CC in den USA vergleichbar.
+
+Typisch für das Innenleben von SO-Organisationen ist die ständige      Permanente
+ Veröffentlichung interner Leistungsstatistiken und Ranglisten.        Leistungskontrolle
+ Diese weisen detailliert sowohl Umsatz- und Absatzbilanzen
+­einzelner Organisationseinheiten als auch kleinste Aktivitäten,
+ wie z. B. Flyerverteilungen und Anwerbegespräche einzelner
+ Mitglieder, aus. Durch die permanente Leistungsdokumenta­
+ tion soll ein Quotendruck zur Steigerung von Umsatzzahlen,
+ Mitglieder­anwerbungen und Spendenerlösen erzeugt sowie ein
+ Konkurrenzverhältnis zwischen den einzelnen Organisations­
+ teilen und den Mitgliedern geschaffen werden.
+
+
+
+
+                                                                                        291
+Verfassungsschutzbericht Bayern 2024                        Scientology-Organisation
+
+
+Etablierung von        Im Zuge der Corona-Pandemie hat die SO mit sog. „Heim­
+„Heimkursen“           kursen“ eine weitere Möglichkeit geschaffen, Mitglieder an
+                       sich zu binden, neuen Mitgliedern den Einstieg zu erleichtern
+                       und die Statistik zu verbessern. Diese Kursangebote bestehen
+                       nach wie vor. Ferner ist die statistische Dauererfassung auch
+                       ein M ­ ittel der Mitgliederkontrolle und bildet die vermeintlich
+                       ­objektive Grundlage für das rigide Belohnungs- und Bestrafungs­
+                        system der SO. Dabei sind beispielsweise Scientologen, die
+                        keine ­zufriedenstellenden Erlöszahlen für die SO liefern, eher
+                        Bestrafungs­  maßnahmen ausgesetzt als Mitglieder, die gute
+                        Gewinne erzielen. Zu diesen Bestrafungsmaßnahmen zählen
+                        z. B. diverse Disziplinar- bzw. Erziehungsmaßnahmen, Degra­
+                        dierungen, die Aberkennung von Zertifikaten, die Erklärung zur
+                        „unterdrückerischen Person“ sowie die Verstoßung aus der
+                        ­Organisation.
+
+
+                       3.1 Finanzierung der Scientology-Organisation
+                       Die SO finanziert sich insbesondere durch die Durchführung von
+                       kostenpflichtigen Kursen und den Vertrieb von Kursmaterialien.
+                       Wer sich der SO anschließt, muss einen genau vorgezeich­neten
+                       Trainingsweg beschreiten, um zum scientologischen Übermen­
+                       schen, dem „Operierenden Thetan“ (OT), zu werden. Vom ­ersten
+                       bis zum letzten Kurs ist mit Kosten in Höhe von mehreren Hundert­
+                       tausend Euro zu rechnen. Hinzu kommt der stetig steigende
+                       Druck auf die Mitglieder, Spenden zu leisten. Je nach finanzieller
+                       Leistungsfähigkeit variiert die Höhe der Einzelspenden zwischen
+                       einigen Hundert bis zu mehreren Hunderttausend Euro. Ein Teil
+                       der Kurse ist das „Auditing“, eine Psychotechnik, bei dem die
+                       Mitglieder der SO sämtliche Informationen bis hin zu intimsten
+                       Details über ihr Leben preisgeben müssen. Dies macht sie für
+                       die SO zum gläsernen Menschen, letztendlich kompromittier-
+                       und erpressbar und erhöht somit den Spendendruck zusätzlich.
+                       Weiterhin versucht die SO, die notwendigen finanziellen Mittel
+                       für die Schaffung von „Idealen Orgs“, beispielsweise auch für
+                       eine „Ideale Org“ in München, über zusätzliche Spenden der
+                       SO-Mitglieder zu akquirieren.
+
+                       Eine besondere Bedeutung bei der Finanzierung der SO kommt
+                       der Organisation „International Association of Scientologists“
+                       (IAS) zu. Diese Organisation führt regelmäßig Veranstaltungen
+                       zum Sammeln von Spenden durch. Mit diesen Spenden w    ­ erden
+                       SO-Einrichtungen und Kampagnen finanziert. Großspender
+                       ­werden geehrt und lobend in SO-eigenen Medien erwähnt. ­Dabei
+                        geht es um Summen von bis zu zweistelligen Millionenbeträgen.
+
+
+292
+Scientology-Organisation                             Verfassungsschutzbericht Bayern 2024
+
+
+
+3.2 Unterorganisationen der Scientology-­
+    Organisation
+Neben dem „Church-Bereich“ sind die Unterorganisationen
+„World Institute of Scientology Enterprises“ (WISE) und
+­
+­„Association for Better Living and Education“ (ABLE) die wich­
+tigsten organisatorischen Säulen der SO.
+
+WISE
+WISE ist ein franchiseähnlicher Zusammenschluss von Unter­
+nehmen, die durch Lizenzverträge an die SO gebunden sind und
+nach deren Methoden arbeiten. WISE hat zum Ziel, die Wirt­
+schaft zu unterwandern und Gewinne durch den Verkauf von             „Org-Board“ in
+SO-Management-Techniken an Unternehmen zu erwirtschaften.            WISE Unternehmen
+
+WISE-Unternehmen sind in allen Branchen zu finden, wobei vor
+allem Unternehmens- und Personalberatung, Coachingangebote
+und die Immobilienbranche im Fokus der Organisation stehen.
+WISE-Unternehmen weisen eine ähnliche hierarchische Struk­
+tur wie die SO-Einheit der „Orgs“ auf. Auch die von Hubbard
+geforderte Organisierungstafel, das sog. „Org Board“, findet in
+den WISE-Unternehmen Anwendung. Dieses schreibt exakt den
+internen Aufbau der Unternehmensorganisation vor und beinhal­
+tet die gleichen Kontroll-, Überwachungs- und Statistikmechanis­
+men wie die Orgs der Organisation.
+
+Die SO verfügt zudem über Managementakademien und ein
+­eigenes wirtschaftsorientiertes Kursprogramm mit Seminaren
+ zu Themen wie Motivation, Effizienz, Organisation, Kommunika­
+ tion und Management nach Statistiken.
+
+ABLE
+Mit Hilfe von ABLE versucht die SO, sich auch als soziale Orga­
+nisation darzustellen. Unter dem Dach von ABLE agieren u. a. die
+angebliche Hilfsorganisation für Drogenabhängige „NARCONON“
+sowie mit „Criminon“ ein „Rehabilitierungsprogramm für Straf­
+gefangene“ (beide in Deutschland nicht aktiv), die Kampagne
+„Sag NEIN zu Drogen – Sag JA zum Leben“, die Organisation
+„Der Weg zum Glücklichsein“, die „Ehrenamtlichen Geistlichen“
+und das Ausbildungsprogramm „Applied Scholastics“, das im
+Bereich der Kinder- und Erwachsenenbildung aktiv ist. Auch die
+„Kommission für Verstöße der Psychiatrie gegen Menschen­
+rechte e. V.“ (KVPM) ist Teil von ABLE.
+
+
+
+
+                                                                                      293
+Verfassungsschutzbericht Bayern 2024                        Scientology-Organisation
+
+
+                       Die KVPM diffamiert mit pauschaler und tendenziöser Kritik
+                       die medizinische Psychiatrie und reklamiert für sich, den e
+                                                                                 ­ inzig
+                       wahren Weg zur Heilung psychischer Krankheiten zu kennen.
+                       KVPM-Initiativen wie „Jugend für Menschenrechte“ oder
+                       „Gemeinsam für Menschenrechte“ sollen junge Menschen
+                       ­
+                       für die Themen der SO begeistern. Der Status der KVPM als
+                       Teil­organisation der SO wird bei Veranstaltungen nicht offen­
+                       gelegt. Interessierte werden somit gezielt über die eigentliche
+                       Ziel­setzung und ideologische Ausrichtung getäuscht. Die KVPM
+                       arbeitet anlassbezogen auch mit Verbänden außerhalb Deutsch­
+                       lands zusammen.
+
+                        Im Allgemeinen treten SO-Einrichtungen überwiegend ­       offen
+                        auf und versuchen nicht, ihre Verbindung zur Organisation zu
+                        verschleiern. Daneben bedient sich die SO allerdings auch
+                        verschiedener Neben- und Tarnorganisationen, die auf den
+                        ­
+                       ­ersten Blick keinen Zusammenhang mit der SO erkennen ­lassen.
+                       Unter dem Deckmantel dieser Organisationen versucht die SO,
+                       sich in unterschiedliche gesellschaftliche und politische Themen
+                       einzubringen, um die scientologische Ideologie in die Gesell­
+                       schaft zu tragen.
+
+                       Diese gesellschaftlichen und politischen Themen, z. B. der
+                       Kampf gegen Drogenmissbrauch, zeichnen sich meist durch ihre
+                       Konsensfähigkeit aus. Die SO macht sich dies zu Nutze, indem
+                       sie sich als unverfänglicher Partner dieses Konsenses darstellt.
+                       Gleichzeitig versucht sie, auf diese Weise an Menschen heranzu­
+                       kommen, die Hilfe brauchen, sich in einer Lebenskrise befinden
+                       und damit leichter beeinflussbar sind, z. B. Drogenabhängige,
+                       psychisch Kranke, straffällig gewordene Personen oder Schüler­
+                       innen und Schüler mit schlechten Schulleistungen. So bieten bei­
+                       spielsweise von Scientologen betriebene Nachhilfeinstitute z. T.
+                       verdeckt, z. T. aber auch offen, scientologisch geprägte Kurse für
+                       Kinder und Erwachsene an. Insbesondere Kinder werden somit
+                       schon früh unterschwellig und spielerisch in scientologische
+                       Denkweisen eingeführt.
+
+Scientologische         In Bayern arbeitet beispielsweise die „Nachhilfe- und Sprachen­
+Nachhilfeinstitute     schule Grübl und Kroggel“ in Zirndorf mit der SO-Technik
+                       ­„Applied Scholastics“. Auf den Internetseiten des Instituts wird
+                        als Urheber dieser Lernmethode der SO-Gründer Hubbard zwar
+                       erwähnt, allerdings wird behauptet, dass „Applied Scholastics“
+                       weder Teil einer Scientology-Kirche sei noch finanzielle Verbin­
+                       dungen mit einer solchen unterhalte. Dadurch werden Interes­
+                       senten bewusst getäuscht, denn „Applied Scholastics“ ist eine
+                       eingetragene Marke, deren Rechte dem „Religious Technology
+                       Center“ der SO gehören. Somit ist „Applied Scholastics“ zwar
+
+294
+Scientology-Organisation                             Verfassungsschutzbericht Bayern 2024
+
+
+
+nicht Teil einer Scientology-Kirche, aber sehr wohl Teil der SO.
+Offenbar als Reaktion auf die Nennung in den Verfassungs­
+schutzberichten wurden mittlerweile die Hinweise auf „Applied
+Scholastics“, Hubbard und die SO von den Internetseiten der
+„Lernakademie“ in München Milbertshofen entfernt.
+
+Auch das „Lernstudio Konrad“ in Laufen (Lkr. Traunstein)
+hat nach der Nennung im Bayerischen Verfassungsschutz­
+bericht 2021 sämtliche Erläuterungen zu „Applied Scholastics“
+von s­einer Webseite gelöscht. Lediglich das Symbol mit der
+Unterschrift „Applied Scholastics“ ist dort noch zu finden.
+­
+­Daher ist davon auszugehen, dass diese Lernmethode nach wie
+ vor A
+     ­ nwendung findet. Das „Lernstudio Konrad“ wirbt überdies
+ immer wieder mit Flyern und örtlichen Briefwurfsendungen für
+ das Nachhilfeinstitut.
+
+Neben diesen Nachhilfeeinrichtungen treten auch immer wieder
+Einzelpersonen in Erscheinung, die in der städtischen Jugend-
+und Ferienbetreuung aktiv sind und deren langjährige Mitglied­
+schaft in der SO nicht öffentlich bekannt ist.
+
+Die SO setzt somit bewusst auf Tarnorganisationen, um auch
+Personen erreichen zu können, die ihr zunächst ablehnend
+gegenüberstehen. Ziel der SO ist es, dauerhafte Kontakte zu
+Menschen aufzubauen, die zu einem späteren Zeitpunkt in die
+Hauptorganisation und das damit verbundene kostspielige Kurs­
+system eingegliedert werden können.
+
+Da Informationsstände von Teil- bzw. Tarnorganisationen nicht
+immer klar der SO zuzuordnen sind, besteht hier grundsätzlich
+die Gefahr, dass die Bevölkerung diese Veranstaltungen nicht als
+Aktivitäten der SO erkennt und unwissentlich auf Kontaktange­
+bote der SO eingeht.
+
+OSA
+Innerhalb des streng hierarchischen Aufbaus der SO gibt es zahl­     Geheimdienst
+reiche Überwachungseinrichtungen und einen eigenen Geheim­           der SO
+dienst, das „Office of Special Affairs“ (OSA).
+
+Dieser soll Informationen über alle Personen sammeln und aus­
+werten, die der SO kritisch oder ablehnend gegenüberstehen
+(z. B. Behördenangehörige), und als Druckmittel verwenden.
+Zu den OSA-Methoden gehören Verfolgung, Belästigung und
+Schikane vermeintlicher Feinde der SO, um diese zu zermürben,
+sowie Verleumdungskampagnen zum Zweck der öffentlichen
+Diskreditierung.
+
+
+                                                                                    295
+Verfassungsschutzbericht Bayern 2024                          Scientology-Organisation
+
+
+                       In einer Führungsdirektive heißt es:
+
+                                 Wir selbst müssen auf der Grundlage totaler
+                                 Zermürbung des Feindes kämpfen. Gehen Sie
+                                 niemals vernünftig mit ihm um. Gehen Sie ohne
+                                 Vorbehalt vor und löschen Sie ihn aus.
+
+                                 (OSA International Executive Directive 508 R.
+                                 Confidential Department of Special Affairs Inves­
+                                 tigation Officer Full Hat Checksheet, 1966, S. 15)
+
+
+                       Auch Öffentlichkeitsarbeit gehört zu den Aufgaben des OSA. Im
+                       scientologischen Sinne bedeutet dies, innerhalb der Gesellschaft
+                       eine positive Haltung gegenüber der SO und eine negative Ein­
+                       stellung gegenüber Kritikern zu schaffen.
+
+                       Die OSA-Einheit für Deutschland („Department of Special A
+                                                                               ­ ffairs
+                       – DSA“) ist bei der „Scientology Kirche Deutschland e. V.“ mit
+                       Sitz in München angesiedelt.
+
+                       Tarnorganisationen der Scientology-Organisation
+
+                       Logo                                   Bezeichnung
+
+                                                              World Institute of Scientology
+                                                              Enterprises (WISE)
+
+
+
+                                                              Kommission für Verstöße der
+                                                              ­Psychiatrie gegen Menschen­
+                                                               rechte e. V. (KVPM)
+
+
+
+
+                                                              Association for Better Living and
+                                                              Education (ABLE)
+
+                                                              Jugend für Menschenrechte e. V.
+
+
+
+
+                                                              Applied Scholastics
+
+
+
+
+296
+Scientology-Organisation                        Verfassungsschutzbericht Bayern 2024
+
+
+
+Logo                       Bezeichnung
+                           Sag NEIN zu Drogen – Sag JA
+                           zum Leben e. V.
+
+
+                           Der Weg zum Glücklichsein
+
+
+
+
+                           NARCONON
+
+
+                           CRIMINON
+
+
+
+
+                           Ehrenamtliche Geistliche
+                           (Volunteer Ministers)
+
+
+
+
+                                                                               297
+Verfassungsschutzbericht Bayern 2024                         Scientology-Organisation
+
+
+                       3.3 Formen der Kontaktaufnahme
+                       Die SO-Einrichtungen versuchen, auf verschiedenen Wegen
+                       ­einen ersten Kontakt herzustellen:
+
+                       – Veranstaltungen und Infostände in den Innenstädten
+                       – Ansprechen auf der Straße mit dem Angebot, einen „Persön­
+                         lichkeitstest“ zu machen
+                       – Zusenden von Werbematerial
+                       – Angebote an Unternehmen zu Betriebsführungstechniken
+                         und Kursen zur Persönlichkeitsveränderung
+                       – Angebote auf dem Nachhilfemarkt
+                       – Kontaktaufnahmen in sozialen Netzwerken wie Facebook,
+                         Youtube und Instagram
+
+Scientology in den     Mit jugendaffinen Profilen und Videoclips in sozialen Netz­werken
+sozialen Medien        versuchen die SO und ihre Tarnorganisationen, insbesondere
+                       junge Leute zu erreichen. Die SO thematisiert dazu die für ­diese
+                       Altersgruppe typischen Themen, Sorgen und Ängste. Dabei
+                       profitiert sie u. a. von jungen Mitgliedern, die in SO-geprägten
+                       Elternhäusern aufgewachsen sind. Diese jungen Menschen, für
+                       die die SO selbstverständlicher Lebensbestandteil ist, vermit­
+                       teln ein Bild der SO nach außen, das jung, modern und somit
+                       zielgruppenaffin wirkt und geeignet ist, andere ­junge Menschen
+                       zumindest für die Organisation zu interessieren. Jugendliche
+                       ­
+                       ­sollen sich in ihrer Lebenswelt abgeholt fühlen und den Eindruck
+                        gewinnen, die SO verstehe ihre Probleme besser als andere.
+                        Das Ziel ist letztlich, Jugendliche und junge Erwachsene für die
+                        Organisation und ihre Tarnorganisationen dauerhaft als Mitglieder
+                        zu werben.
+
+                         Seit Juni 2018 betreibt die SO erfolgreich einen eigenen TV-Sen­
+                         der als Streamingangebot. „Scientology TV“ ermöglicht es der
+                         SO, ihre Ansichten und vermeintlichen „Wahrheiten“ zu verbrei­
+                         ten, ohne sich kritischen Fragen stellen zu müssen. ­Verschiedene
+                         Formate geben Einblicke in das Leben als ­Mitglied der SO, in
+                         die verschiedenen übergeordneten Einrichtungen der Organisa­
+                         tion sowie in die Biografie Hubbards. Seit der C ­ orona-Pandemie
+                       und der damit einhergehenden zeitweisen Schließung der SO-­
+                       Einrichtungen hat auch „Scientology TV“ e      ­ inen neuen Stellen­
+                       wert erreicht. In verschiedenen Formaten wurde ­            versucht,
+                       die V  ­erbundenheit der Mitglieder mit der Organisation zu
+                       stärken. So präsentieren beispielsweise Scientologinnen und
+                       ­Scientologen aus der ganzen Welt in kleinen Videos, wie sie die
+                        ­„Scientology-Prinzipien“ im Alltag anwenden.
+
+
+
+298
+Scientology-Organisation                                 Verfassungsschutzbericht Bayern 2024
+
+
+
+Die Organisation hält aber auch an den o. g. klassischen und real­
+weltlichen Methoden der Kontaktaufnahme fest.
+
+
+4. AUSSTEIGERINNEN UND AUSSTEIGER
+In der Vergangenheit haben mehrere hochrangige bzw.
+prominente SO-Mitglieder aus unterschiedlichen Motiven die
+­
+SO verlassen. Zudem erschienen international mehrere Veröf­
+fentlichungen ehemaliger Scientologinnen und Scientologen
+über ihre Erfahrungen in der SO. Auch in Fernsehsendungen und
+Podcasts berichten z. T. hochrangige ehemalige SO-Mitglieder
+über ihre Zeit in der Organisation und ihren Ausstieg, verbunden
+mit einer Warnung vor der Organisation. Personen, die sich in
+der Öffentlichkeit aktiv gegen die SO wenden, werden von ihr als
+„unterdrückerisch“, „antisozial“ oder „geisteskrank“ diffamiert
+und müssen mit Verfolgung, Bedrohung und Erpressung rech­
+nen. Dabei macht die SO auch nicht vor Angehörigen und dem
+persönlichen Umfeld der Betroffenen Halt.
+
+Im deutschsprachigen Raum wurden beispielsweise Face­
+book-Seiten mit gezielten Diffamierungen SO-kritischer Personen
+bekannt. Aussteigern und Betroffenen stehen bundesweit zahl­
+reiche Institutionen und private Initiativen zur Verfügung, die Rat­
+suchenden eine erste pädagogisch-psychologische Beratung,
+Unterstützung und Krisenhilfe anbieten.
+
+
+
+
+                                                                                        299
+Verfassungsschutzbericht Bayern 2024   Spionageabwehr, Wirtschaftsschutz, CAZ
+
+
+
+Spionageabwehr,
+Wirtschaftsschutz,
+Cyber-­Allianz-Zentrum (CAZ)
+
+                       Die zunehmend komplexeren Spionage- und
+                       illegitimen Einflussnahmeaktivitäten ausländischer
+                       ­
+                       Nachrichtendienste stellen eine ernste Bedrohung
+                       Deutschlands sowie deutscher Interessen dar. Neben
+                       menschlichen Quellen werden hierbei auch tech­
+                       nische Mittel sowie Cyberangriffe auf digitale Infra­
+                       strukturen von Wirtschaftsunternehmen, Behörden,
+                       Hochschulen sowie von Kritischen I­nfrastrukturen
+                       eingesetzt. Auf diese Weise können fremde Staaten
+                       die nationale Souveränität sowie den gesellschaft­
+                       lichen Zusammenhalt beeinträchtigen und erhebliche
+                       wirtschaftliche Schäden verursachen.
+
+                         Politische und militärische Spionage ist häuﬁg auf
+                         die Außen-, Europa- und Bündnispolitik sowie die
+                         Wirtschafts- und Energiepolitik der Bundesrepublik
+                         ausgerichtet. Wie intensiv ein Staat Wirtschafts-
+                        und Wissenschaftsspionage betreibt, hängt von
+                        ­seiner ­eigenen wirtschaftlichen Lage ab. Wirtschaft­
+                         lich weniger entwickelte Staaten kundschaften in
+                         erster Linie Produkte und Fertigungsprozesse aus
+                         und wollen so mit möglichst geringem Aufwand
+                         an benötigtes Know-how gelangen. Wirtschaftlich
+                       hochentwickelte Staaten, die selbst über Hochtech­
+                       nologie verfügen, versuchen darüber hinaus, an
+                       strategische Informationen zu gelangen, um die
+                       ­eigene Wirtschaft im globalen Wettbewerb besser­
+                        stellen zu können.
+
+300
+Spionageabwehr, Wirtschaftsschutz, CAZ     Verfassungsschutzbericht Bayern 2024
+
+
+
+
+Wirtschaftsspionage verursacht in Deutschland
+jährlich Schäden in Milliardenhöhe und gefährdet
+unzählige Arbeitsplätze. Gerade bayerische Firmen
+und Hochschuleinrichtungen stehen wegen ihrer
+Innovationskraft in nahezu allen Branchen und For­
+schungsbereichen im Blickfeld ausländischer Nach­
+richtendienste. Besonders gefährdet sind kleine und
+mittelständische Firmen, die Spitzentechnologie
+entwickeln oder produzieren, da sich diese oft noch
+nicht ausreichend vor Spionageangriffen schützen.
+
+Im Rahmen seiner Wirtschaftsschutztätigkeit stellt
+das Bayerische Landesamt für Verfassungsschutz
+Unternehmen und Forschungseinrichtungen zielge­
+richtete Präventionsangebote zur Spionageabwehr
+zur Verfügung. Einen Schwerpunkt bildet auch hier
+die Aufklärung von nachrichtendienstlich gesteuer­
+ten Cyberangriffen, die seit Juli 2013 vom Cyber-­
+Allianz-Zentrum Bayern (CAZ) wahrgenommen wird.
+Darüber hinaus ist die Cyberabwehr Bayern (CAB),
+eine Informations- und Kooperationsplattform für alle
+mit Cybersicherheitsaufgaben betrauten baye­rischen
+Behörden und Einrichtungen, im Bayerischen Lan­
+desamt für Verfassungsschutz ­angesiedelt.
+
+Neben dem Betreiben von Spionageaktivitäten be­
+mühen sich einige Staaten, in den Besitz von Tech­
+nologien für atomare, biologische oder chemische
+
+                                                                          301
+Verfassungsschutzbericht Bayern 2024        Spionageabwehr, Wirtschaftsschutz, CAZ
+
+
+                       Massenvernichtungswaffen mit den erforderlichen
+                       Trägersystemen zu gelangen (Proliferation).
+
+
+                       1. HYBRIDE BEDROHUNGEN
+
+                         Spätestens seit Beginn des russischen Angriffskrieges gegen
+                         die Ukraine im Februar 2022 setzt Russland in zunehmenden
+                         Maße Methoden der sog. „hybriden Kriegsführung“ gegen
+                         Deutschland und andere europäische Staaten ein. Ziele sind
+                         hierbei die Schwächung militärischer und wirtschaftlicher Infra­
+                         strukturen, die Erzeugung und Beförderung gesellschaftlicher
+                         Sollbruch­stellen und Konflikte sowie nicht zuletzt die Vorbe­
+                       reitung und Durchführung staatsterroristischer Handlungen.
+                       ­Weitere Hauptakteure gegen Deutschland gerichteter Spionage,
+                        nachrichten­dienstlich gesteuerter Cyberangriffe, von Prolifera­
+                        tion und von illegitimer Einflussnahme sind – mit jeweils unter­
+                        schiedlichen Schwerpunkten – die Volksrepublik China, die
+                        ­Islamische Republik Iran und die Republik Türkei.
+
+Sabotage, Einfluss­    Im Kontext hybrider Maßnahmen gegen Deutschland und Bay­
+nahme und Desinfor­    ern spielen aus verfassungsschutzbehördlicher Sicht vor allem
+mation                 Sabotage sowie illegitime Einflussnahme eine zentrale Rolle.
+                       Sabotageakte durch fremde Staaten können weitreichende
+                       ­
+                       ­Auswirkungen haben und zu schwerwiegenden Schäden ­führen.
+                        Das gilt besonders mit Blick auf Kritische Infrastrukturen (KRITIS)
+                        und KRITIS-nahe Unternehmen, die essenziell für ein funktionie­
+                        rendes Gemeinwesen sind. Fremde Staaten nutzen für ihre illegi­
+                        timen Einflussnahmeaktivitäten neben ihren Nachrichtendiensten
+                        auch andere staatliche Einrichtungen oder staatlich b  ­ eeinflusste
+                        Organisationen. Entsprechende illegitime Einflussnahme erfolgt
+                        oft unter gezielter Verschleierung der Herkunft bzw. der Urheber­
+                        schaft oder der dahinterstehenden strategischen Absichten.
+
+                       Hybride Bedrohungen bezeichnen verschiedene Formen illegi­
+                       timer Einflussnahme auf Staaten durch fremde Staaten. Dabei
+                       versuchen diese, auch mittels nichtstaatlicher Akteure, durch die
+                       gezielte Kombination verschiedener Mittel (u. a. Cyberangriffe,
+                       Sabotage, Spionage, Desinformation) ihre Ziele durchzusetzen.
+                       Insbesondere die strategische Verbreitung von Desinformation
+                       gehört bei einigen Staaten inzwischen zum festen Repertoire
+                       nachrichtdienstlich gesteuerter Einflussnahme. Unter Desin­
+                       formation ist dabei die falsche oder irreführende Information
+
+
+
+
+302
+Spionageabwehr, Wirtschaftsschutz, CAZ                 Verfassungsschutzbericht Bayern 2024
+
+
+
+zu ­ verstehen, die gezielt verbreitet wird. Durch ihren Einsatz
+versuchen fremdstaatliche Akteure, auf öffentliche Entschei­
+­
+dungs- und Meinungsbildungsprozesse einzuwirken sowie
+gesellschaft­liche, ökonomische und politische Strukturen in den
+jeweiligen Zielstaaten insgesamt zu destabilisieren. Letztendlich
+sind daher illegitime Einflussnahme- und Desinformationsbe­
+mühungen ebenso wie Sabotagehandlungen als aktive Desta­
+bilisierungsmaßnahmen zu werten, durch deren Einsatz sich
+entsprechend agierende Staaten Vorteile in geopolitischen Wett­
+bewerbs- und Konfliktkonstellationen zu verschaffen erhoffen.
+
+
+
+2. SPIONAGEAKTIVITÄTEN UND SONSTIGE
+   AKTIVITÄTEN AUSLÄNDISCHER NACH-
+   RICHTENDIENSTE
+Spionageaktivitäten ausländischer Nachrichtendienste gegen die
+Bundesrepublik Deutschland und Bayern werden umfangreicher,
+technisch und taktisch versierter und insgesamt aggressiver.
+Diese illegitimen und auch illegalen Tätigkeiten beschränken sich
+erkennbar nicht nur auf bloße Aufklärung, Informationsgewin­
+nung und Proliferation. Es ist vielmehr davon auszugehen, dass
+auch die Ausforschung und Verfolgung von Regimegegnern und
+anderen Zielpersonen inzwischen zum Aufgabenportfolio einiger
+ausländischer Nachrichtendienste gehören. Darüber hinaus sind
+verstärkte Bemühungen erkennbar, Strukturen und Zugänge zu
+schaffen, um wichtige Infrastrukturen zu beeinträchtigen sowie
+Einfluss auf politische Meinungsbildungs- und Entscheidungs­
+prozesse zu gewinnen.
+
+Die Nachrichtendienste vieler Staaten haben die Aufgabe, Politik,
+Wirtschaft, Wissenschaft und Militär anderer Staaten auszufor­
+schen. Ihr Ziel ist es, entweder die Erkenntnisse selbst zu nutzen
+oder Möglichkeiten zu schaffen, andere Staaten zu sabotieren.
+
+Ausländische Nachrichtendienste arbeiten regelmäßig getarnt            Legalresidenturen
+in Deutschland. Ausgangspunkt für ihre Spionageaktivitäten
+sind häufig sog. „Legalresidenturen“, die in den offiziellen
+(z. B. Botschaften oder Generalkonsulaten) oder halboffiziellen
+(z. B. Presseagenturen) Vertretungen ausländischer Staaten in
+Deutschland untergebracht sind. Dort tarnen ausländische Nach­
+richtendienste ihre Mitarbeiter, die mit verschiedenen Methoden
+Informationen selbst beschaffen oder nachrichtendienstliche
+
+
+
+
+                                                                                      303
+Verfassungsschutzbericht Bayern 2024       Spionageabwehr, Wirtschaftsschutz, CAZ
+
+
+                       Operationen aus den Heimatstaaten unterstützen. Zu den Aufga­
+                       ben von Angehörigen ausländischer Nachrichtendienste gehört
+                       es auch, Internetanalysen durchzuführen und Veranstaltungen zu
+                       besuchen, um zielgerichtet nachrichtendienstlich relevante Kon­
+                       takte zu knüpfen.
+
+                       Spionage gegen die Interessen Deutschlands wird nach wie
+                       vor sowohl mit menschlichen Quellen als auch mit technischen
+                       Mitteln durchgeführt. Beides geschieht wahlweise offen oder
+                       konspirativ. Ein etwaiger Diplomatenstatus schützt Nachrichten­
+                       dienstangehörige bei Enttarnung vor Strafverfolgung und lässt
+                       nur ihre Ausweisung zu. Die Tarnung als Medienschaffende, Wirt­
+                       schafts- oder Handelsattachés bietet vielfältige Möglichkeiten,
+                       an Informationen zu gelangen, z. B. auf Messen oder Tagungen.
+                       Sog. „Illegale“, langfristig im Zielstaat eingesetzte Nachrichten­
+                       dienstangehörige, werden mit einer Tarnidentität ausgestattet.
+                       Die Enttarnung dieser „Illegalen“ durch die Spionage­     abwehr
+                       ­gelingt meist nur mit großem operativem Aufwand.
+
+Zielpersonen           Besonders im Fokus nachrichtendienstlicher Aktivitäten stehen
+                       Zielpersonen aus Parteien, politischen Institutionen, Behörden,
+                       Unternehmen und Forschungseinrichtungen. Die meist arglosen
+                       Personen werden oftmals durch geschickte Gesprächsführung
+                       Opfer von Ausspähungsaktivitäten. Nicht selten können getarnte
+                       Nachrichtendienstangehörige bereits auf diesem Weg sensible
+                       Informationen gewinnen.
+
+                       Soziale Netzwerke wie Facebook und LinkedIn und Messenge­
+                       dienste spielen für Anwerbeversuche ausländischer Nachrichten­
+                       dienste eine große Rolle. Entsprechende Ansprachen können
+                       unmittelbar aus den jeweiligen Heimatstaaten i­nitiiert und ge­
+                       steuert werden. Getarnt als Arbeitskräfte aus den Bereichen
+                       Wissenschaft, Jobvermittlung oder Headhunting versuchen
+                       Angehörige ausländischer Nachrichtendienste, auch über das
+                       Internet Kontakte zu für sie interessanten Personen herzustellen.
+
+Kontaktanbahnung       Erfolgt dann beispielsweise ein reizvolles Jobangebot mit an­
+                       schließender Einladung in den jeweiligen Staat, sind Betroffene
+                       der Gefahr der nachrichtendienstlichen Anbahnung ausgesetzt.
+                       Auch Angehörige diplomatischer Vertretungen, Behörden und
+                       Firmen sowie Studenten, die sich längerfristig im Ausland auf­
+                       halten oder auf Reisen befinden, können ins Visier ausländischer
+                       Nachrichtendienste geraten. Der Heimvorteil bietet Nachrichten­
+                       diensten ein breites Spektrum von Überwachungs- und Kon­
+                       trollmöglichkeiten, um Zielpersonen bei passender Gelegenheit
+
+
+
+
+304
+Spionageabwehr, Wirtschaftsschutz, CAZ                   Verfassungsschutzbericht Bayern 2024
+
+
+
+anzusprechen. So werden u. a. kompromittierende Situationen
+geschaffen oder als Druckmittel verwendet. Möglich ist auch
+eine Anwerbung auf vorgeblich freundschaftlicher Basis.
+
+Spionageaktivitäten erfolgen in zunehmendem Maße auch mit
+technischen Mitteln. Das Abhören von inländischer Kommuni­
+kation kann dabei über Server oder Internetknoten im Ausland
+­erfolgen. Auch hierfür können Legalresidenturen genutzt werden.
+ Fernmeldeaufklärungsmaßnahmen gegen deutsche Interessen
+ werden von diplomatischen Vertretungen in deren Nahbereich
+ durchgeführt. Betroffen sind hier insbesondere Gespräche mit
+ Mobiltelefonen, WLAN- oder Bluetooth-Verbindungen sowie
+ Laptops oder Tablets.
+
+
+2.1 Russische Föderation
+Das von den russischen Nachrichten- und Sicherheitsdiensten
+ausgehende Gefährdungspotenzial ist anhaltend hoch. Die nach­
+drücklichen Spionageaktivitäten der russischen Nachrichten­
+dienste in Deutschland erstrecken sich mit unterschiedlicher
+­Intensität auf die Zielbereiche Politik und Verwaltung, Wirtschaft,
+ Wissenschaft, Technik sowie Militär. Im Jahr 2023 wurden auf
+ Veranlassung der Bundesregierung – als Reaktion auf den völker­
+ rechtswidrigen russischen Angriffskrieg – 4 der 5 russischen
+ Konsulate in Deutschland (u. a. in München) geschlossen. Von
+ diesen gingen – in Form sog. Legalresidenturen – zuvor häufig
+ die Spionageaktivitäten russischer Nachrichtendienste aus. Ins­
+ gesamt wurden in Europa seit Beginn des russischen Angriffs­
+ krieges auf die Ukraine 2022 über 600 Angehörige russischer
+ diplomatischer Vertretungen ausgewiesen. Die westlichen Sank­
+ tionen, insbesondere die Maßnahmen gegen die Legalresiden­
+ turen, führen zu Kompensationsbestrebungen der russischen
+ Dienste, um mittel- und langfristig andere Wege der nachrichten­
+ dienstlichen Informationsbeschaffung und Maßnahmenumset­
+ zung zu etablieren. Insbesondere 2 Personengruppen bekom­
+ men vor diesem Hintergrund eine besondere Bedeutung; sog.
+ „Proxies“ und „Illegale“.
+
+Bei Ersteren handelt es sich vor allem um Personen, die durch            Proxies und Illegale
+russische Nachrichtendienste aufgrund ihrer Zugehörigkeit zu
+kriminellen oder ideologisch nahestehenden Milieus als nützlich
+angesehen und etwa über Ansprache in sozialen Medien wie
+Telegram angeworben werden. Dieser Personenkreis verfügt
+in der Regel über keine nachrichtendienstliche Anbindung oder
+Ausbildung und wird durch Russland gegen Bezahlung als sog.
+
+
+                                                                                         305
+Verfassungsschutzbericht Bayern 2024      Spionageabwehr, Wirtschaftsschutz, CAZ
+
+
+                       „Low-Level-“ oder „Single-Use-Agenten“ eingesetzt, um Spiona­
+                       ge- und Sabotageakte zu begehen. Es ist davon auszugehen, dass
+                       Russland auch in Bayern Rekrutierungsbestrebungen hinsichtlich
+                       dieses Agententypus verfolgt bzw. diese zurzeit intensiviert.
+
+                       Bei „Illegalen“ handelt es sich um Mitarbeiter eines fremden
+                       Nachrichtendienstes, die in das Einsatzland eingeschleust werden
+                       und dort entweder unter falscher oder auch ihrer tatsächlichen
+                       Identität (sog. „true name illegals“) leben und verdeckt Spionage
+                       betreiben oder als sog. „Reisende“ im Rahmen von Reisen in
+                       verschiedene Länder ihrer nachrichtendienstlichen Tätigkeit
+                       nachgehen. Seit Beginn des russischen Angriffskrieges wurden
+                       bereits in mehreren europäischen Ländern „Illegale“ enttarnt. Es
+                       ist davon auszugehen, dass auch in Deutschland verstärkt rus­
+                       sische „Illegale“ eingesetzt werden und dass auch Einrichtungen
+                       und Personen in Bayern zu ihren Aufklärungszielen gehören.
+
+Militärspionage in     Angesichts der andauernden Unterstützung und insbesondere
+Bayern                 der Waffenlieferungen von deutscher Seite an die Ukraine hat
+                       sich das Interesse russischer Nachrichtendienste an sicherheits-
+                       und verteidigungspolitischen Informationen sowie an rüstungs­
+                       relevanten Technologien nochmals intensiviert. Es existieren
+                       weiterhin Hinweise auf unmittelbar kriegsrelevante russische
+                       Spionageoperationen im Zusammenhang mit Militäreinrichtungen
+                       in Bayern.
+
+Sabotageaktionen        Die seit 2023 europaweit beobachtbare Zunahme von Fällen mit
+Festnahmen in           Sabotagebezug sowie vermehrte Hinweise und Erkenntnisse im
+Bayern                  Zusammenhang mit möglichen Aktivitäten in Deutschland und
+                        Bayern führen zu der Annahme, dass russische Nachrichten­
+                        dienste gezielt sabotage- und anschlagsrelevante Ziele auch in
+                        Bayern auskundschaften und Sabotagemaßnahmen vorberei­
+                        ten. Am 17. April ließ der Generalbundesanwalt (GBA) durch
+                        das Bundeskriminalamt (BKA) 2 deutsch-russische Staatsange­
+                       hörige festnehmen und deren Wohnungen und Arbeitsplätze in
+                       ­Bayreuth durchsuchen. Die Beschuldigten Dieter S. und Alexander
+                        J. sind dringend verdächtig, in einem besonders schweren Fall
+                        der geheimdienstlichen Agententätigkeit für einen russischen
+                        Geheimdienst tätig gewesen zu sein. Dieter S. wird zudem die
+                        Mitgliedschaft in der ausländischen terroristischen Vereinigung
+                        „Volksrepublik Donezk“ (VRD), die Vorbereitung einer schweren
+                        staatsgefährdenden Gewalttat, die Verabredung zur Herbei­
+                        führung einer Sprengstoffexplosion sowie zur Brand­    stiftung,
+                        Agententätigkeit zu Sabotagezwecken und sicherheitsgefähr­
+                        dendes Abbilden militärischer Anlagen vorgeworfen. Die Bundes­
+                        anwaltschaft erhob am 18. Oktober vor dem Staatsschutzsenat
+                        des Oberlandesgerichts München Anklage gegen Dieter S.
+
+306
+Spionageabwehr, Wirtschaftsschutz, CAZ                 Verfassungsschutzbericht Bayern 2024
+
+
+
+
+  Russland setzt vor allem 3 Nachrichtendienste ein:
+
+  – Ziviler Auslandsnachrichtendienst (SWR)
+  – Inlandsnachrichtendienst (FSB)
+  – Militärischer Auslandsnachrichtendienst (GRU)
+
+
+Ziviler Auslandsnachrichtendienst (SWR)
+Der SWR ist zuständig für Spionage in den Bereichen Politik,
+Wirtschaft, Wissenschaft und Technologie. Darüber hinaus
+forscht er Ziele und Arbeitsmethoden westlicher Nachrichten­
+dienste und Sicherheitsbehörden aus und bedient sich dazu
+auch der elektronischen Fernmeldeaufklärung. Zur Informations­
+beschaffung setzt der SWR „Illegale“ ein.
+
+Inlandsnachrichtendienst (FSB)
+Hauptaufgaben des FSB sind die zivile und militärische Spionage­
+abwehr. Hierzu verfügt der FSB über umfangreiche Befugnisse.
+Auch ausländische Staatsangehörige können ins Blickfeld des
+FSB geraten und gezielt überwacht werden, wenn sie in Russ­
+land Internet oder Telefon nutzen bzw. über russische Kommu­
+nikations- und Datennetze interagieren. Der FSB hat Zugriff auf
+den Datenverkehr, der über russische Provider abgewickelt wird,
+und verfügt auch über den Zugang zu Datenbanken russischer
+Telefongesellschaften.
+
+
+                                                                       Gebäude des FSB
+
+
+
+
+                                                                                      307
+Verfassungsschutzbericht Bayern 2024        Spionageabwehr, Wirtschaftsschutz, CAZ
+
+
+                        Militärischer Auslandsnachrichtendienst (GRU)
+                        Der GRU hat die Aufgabe, das gesamte sicherheitspolitische und
+                        militärische Spektrum aufzuklären. Dazu spioniert er Bundes­wehr,
+                        NATO und andere westliche Verteidigungsstrukturen ­genauso wie
+                        militärisch nutzbare Technologien aus.
+
+
+Gebäude des GRU
+
+
+
+
+Propaganda und          Russland ist bestrebt, die politische und öffentliche Meinung in
+Desinfomation           Deutschland zu manipulieren und insbesondere im Zusammen­
+                        hang seines Angriffskriegs gegen die Ukraine pro-russische
+                        Positionen zu befördern. Die schon vorher hochfrequente und
+                        umfassende Verbreitung staatlicher Propaganda und Desinforma­
+                        tion hat seit Beginn des russischen Angriffskrieges noch ­einmal
+                        deutlich an Intensität gewonnen. Gerade Verbreitungskanäle im
+                        Bereich der sozialen Medien werden von staatlichen oder staats­
+                        nahen Akteuren verstärkt genutzt, um dort ihre I­nhalte und Narra­
+                        tive an einen möglichst großen Personenkreis zu verbreiten.
+
+RT Deutsch              Ein relevanter Produzent und Distributor desinformativer Inhalte
+Influenceraktivitäten   ist nach wie vor das deutschsprachige Programm RT Deutsch
+                        des russischen Staatssenders RT. Als Reaktion auf die militä­
+                        rische Aggression Russlands gegen die Ukraine beschloss der
+                        Rat der Europäischen Union am 2. März 2022 weitreichende
+                        Sanktionen gegen die Sendetätigkeiten von RT in Europa. Das
+                        Programm von RT Deutsch ist im Netz jedoch weiterhin über
+                        VPN-Verbindungen und Spiegelseiten abrufbar bzw. wird in
+                        Form von geteilten Text- und Videobeiträgen auf Plattformen wie
+                        Telegram weiterhin gezielt in Umlauf gebracht.
+
+                        Neben staatlichen Akteuren spielen Influencer sowie Aktivis­
+                        tinnen und Aktivisten eine gesteigerte Rolle als Multiplikatoren
+                        von Propaganda und Desinformation für Russland. Es kann vor
+                        diesem Hintergrund nicht grundsätzlich ausgeschlossen werden,
+
+308
+Spionageabwehr, Wirtschaftsschutz, CAZ                   Verfassungsschutzbericht Bayern 2024
+
+
+
+dass pro-russische Positionierungen und Meinungsäußerun­
+gen von politischen Akteuren in Deutschland und Bayern durch
+geheim­dienstliche russische Stellen initiiert oder zumindest
+maßgeblich inspiriert werden. Die Grenzen zwischen staatlich
+gesteuerter bzw. staatlich beeinflusster und intrinsisch motivierter
+Desinformation verschwimmen dabei zunehmend.
+
+Die gemeinsame Initiative „Bayern-Allianz gegen Desinforma­                                                           Bayern-Allianz gegen
+tion“ des Bayerischen Staatsministeriums des Innern und des                                                           Desinformation
+Bayerischen Staatsministeriums für Digitales startete
+am 8. Mai 2024 und soll zur Eindämmung von Des­
+information im digitalen Raum beitragen. Teil der
+Initiative sind u. a. Gemeinschaftsprojekte mit Tech-­
+Unternehmen und Medienpartnern aus Bayern sowie              #BayerngegenDESINFO #KoaDESINFObitte #ObachtDESINFO
+
+
+ein Angebot an Aufklärungs- und Sensibilisierungs­           Wie schützt DU dich vor
+                                                             manipulierter Information im Netz?
+
+
+formaten zur Förderung von Medienkompetenz und               Tipps des Bayerischen Landesamtes
+                                                             für Verfassungsschutz
+
+
+digitalem Selbstschutz von Bürgerinnen und Bürgern.          Bei Desinformation handelt es sich um absichtlich verbreitete, falsche oder bewusst irre-
+
+
+
+Das Bayerische Landesamt für Verfassungsschutz
+                                                             führende Informationen. Extremisten, fremdstaatliche und auch fremdstaatlich gesteuerte
+                                                             Akteure nutzen Desinformation gezielt, die gesellschaftliche Meinungsbildung zu ihrem Nut-
+                                                             zen zu beeinflussen. Damit schädigen sie die Willensbildung freier, demokratischer Gesell-
+                                                             schaften.
+
+
+
+
+veröffentlichte im Rahmen der Initiative ein Factsheet,
+                                                             Gerade im Vorfeld von Wahlen und wichtigen politischen Ereignissen stehen liberale Staa-
+                                                             ten im besonderen Fokus von antidemokratischen Desinformationskampagnen. Ziel dieser
+                                                             Kampagnen ist es, die (Wahl-)Bevölkerung zu verunsichern, politische und gesellschaftliche
+                                                             Strukturen zu destabilisieren und nicht zuletzt demokratische Abstimmungsergebnisse im
+                                                             Sinne einer verfassungs- und staatsfeindlichen Agenda zu manipulieren.
+
+
+welches Hinweise zum sicheren Kommunikations-                 Desinformationskampagnen bedienen sich einer Vielzahl von Kommunikations- und Manipulationsmitteln,
+
+
+
+
+und Informationsverhalten im Internet und in den
+                                                              um den öffentlichen Diskurs zu stören und zu unterwandern, etwa:
+
+                                                              FAKE-Accounts:                                          gestaltet, dass sie denen der Originalseiten ähneln
+                                                              Automatisierte oder durch reale Personen kontrol-       (sogenanntes „Typosquatting“).
+                                                              lierte Accounts (etwa Bot-, Sock-Puppet- oder Troll-
+                                                              Accounts), die in den sozialen Medien Meinungsma-       STAATSPROPAGANDA autoritärer Staaten:
+
+
+
+
+sozialen Medien liefert. Das Factsheet ist auf den
+                                                              nipulation und Hetze betreiben.                         Fremdstaatlich gelenkte Medien, Online-Influencer
+                                                                                                                      und Extremisten verbreiten im Rahmen ihrer Ein-
+                                                              DEEPFAKES:                                              flussnahme- und Desinformationsbemühungen of-
+                                                              Durch die Anwendung Künstlicher Intelligenz (KI)        fizielle staatliche Propaganda. Sie geben diese als
+                                                              erzeugte Bilder, Videos oder Audioinhalte, die es in    seriöse Informationsbeiträge oder eigene Meinungs-
+                                                              Wirklichkeit nie gegeben hat. Deepfakes werden im       äußerungen aus. In Wahrheit befördern sie jedoch
+
+
+
+
+Webseiten des Bayerischen Staatsministeriums des
+                                                              Rahmen von Desinformationskampagnen nicht als           gezielt durch ausländische Staatsführungen vorge-
+                                                              KI-generierte Inhalte gekennzeichnet, sondern als       gebene Narrative, welche durch Irreführung autori-
+                                                              reale Darstellungen ausgegeben.                         täre und illegitime Macht- und Herrschaftsansprüche
+                                                                                                                      rechtfertigen sollen.
+                                                              NACHAHMER-Webseiten:
+                                                              Desinformationskampagnen ahmen Artikel und das          HACK&LEAK:
+
+
+
+
+Innern, für Sport und Integration sowie des Baye­
+                                                              Layout echter Nachrichten-Websites nach, um Nut-        Über Phishing- und Malware-Angriffe verschaffen
+                                                              zerinnen und Nutzer in sozialen Medien zu täuschen      sich Angreifer Zugang zu sensiblen Informationen
+                                                              und manipulative Inhalte zu verbreiten. Die gefälsch-   oder Accounts. Sie verbreiten dann manipulierte In-
+                                                              ten Webseiten sehen den echten täuschend ähnlich.       formation auf Grundlage der erbeuteten Inhalte und
+                                                              Sogar die Domains der gefälschten Seiten sind derart    Zugänge.
+
+
+
+
+rischen Landesamts für Verfassungsschutz abrufbar.
+
+
+2.2 Volksrepublik China
+Die Nachrichtendienste Chinas sind mit umfangreichen Befug­
+nissen ausgestattet und dienen maßgeblich dem Machterhalt
+der Kommunistischen Partei Chinas (KPCh) und der Umsetzung
+ihrer geo- und industriepolitischen Ziele.
+
+Die chinesische Staats- und Parteiführung versucht angesichts
+der zunehmenden geopolitischen Ambitionen Chinas Erkennt­
+nisse über supranationale Einrichtungen wie die EU und die Ver­
+einten Nationen sowie über die Bündnispolitik zu gewinnen. In
+Deutschland und Bayern stehen Ziele in Politik und Verwaltung,
+Wirtschaft, Wissenschaft und Technik sowie Militär im Fokus
+chinesischer Dienste; außerdem werden oppositionelle Gruppen
+und Einzelpersonen überwacht. In Politik und Verwaltung werden
+Informationen zu politischen Positionen Deutschlands mit Bezug
+zur Volksrepublik gewonnen. Zudem sind chinesische Dienste in
+unzulässige Einflussnahmeaktivitäten involviert, mit denen die
+KPCh versucht, die Interessen der Staats- und Parteiführung im
+Ausland durchzusetzen.
+
+                                                                                                                                                                            309
+Verfassungsschutzbericht Bayern 2024        Spionageabwehr, Wirtschaftsschutz, CAZ
+
+
+Durchsuchungen          Die Bundesanwaltschaft ließ am 7. Mai aufgrund von Beschlüssen
+bei Mitarbeiter eines   des Ermittlungsrichters des Bundesgerichtshofs sowie einer
+EU-Abgeordneten         Europäischen Ermittlungsanordnung die Büroräume des deut­
+                        schen Staatsangehörigen Jian G. und des Europaabgeordneten
+                        Dr. Maximilian Krah im Europäischen Parlament in Brüssel durch­
+                        suchen. Die Maßnahmen erfolgten im Zuge des Verfahrens
+                        gegen Jian G. wegen des Verdachts der geheimdienstlichen
+                        Agententätigkeit in einem besonders schweren Fall (§ 99 Abs. 1
+                        Nr. 1, Abs. 2 StGB). Bereits am 22. April war es zur Festnahme
+                        von Jian G. und zu Durchsuchung seiner Wohnung gekommen.
+                        Die Bundesanwaltschaft wirft dem Beschuldigten im Wesent­
+                        lichen folgenden Sachverhalt vor: Jian G. soll Mitarbeiter eines
+                        chinesischen Geheimdienstes sein. Seit dem Jahr 2019 arbei­
+                        tete er für den Europaabgeordneten Krah. Im Januar 2024 soll
+                        der Beschuldigte wiederholt Informationen über Verhandlungen
+                        und Entscheidungen im Europäischen Parlament an seinen
+                        nachrichten­dienstlichen Auftraggeber weitergegeben ­    haben.
+                        Zudem soll er für den Nachrichtendienst chinesische Opposi­
+                        tionelle in Deutschland ausgespäht haben. Das Verfahren der
+                        Bundesanwaltschaft gegen Jian G. geht auf Erkenntnismitteilun­
+                        gen des Bundesamts für Verfassungsschutz zurück. Auch das
+                        Bayerische Landesamt für Verfassungsschutz konnte in diesem
+                        Zusammenhang relevante Erkenntnisse beitragen.
+
+                        Für die Realisierung seiner weitreichenden industriepolitischen
+                        Ambitionen nutzt China Spionage in Wirtschaft und Wissen­
+                        schaft, versucht deutsche Unternehmen der Spitzentechnologie
+                        teilweise oder ganz zu kaufen und wirbt gezielt Wissensträger
+                        an. Erkenntnisse zu Struktur, Bewaffnung und Ausbildung der
+                        Bundeswehr stehen ebenso im Interesse chinesischer Dienste
+                        wie die Beschaffung moderner Waffentechnik aus der deutschen
+                        Verteidigungsindustrie oder auch militärisch nutzbarer Hochtech­
+                        nologie. Chinesische Nachrichtendienste versuchen vor diesem
+                        Hintergrund, am Hochtechnologiestandort Bayern entsprechen­
+                        des Know-how, insbesondere aus den Bereichen erneuerbare
+                        Energien, Elektromobilität, Umwelttechnik sowie Informations-
+                        und Militärtechnologie zu beschaffen. Hierfür ­nutzen sie in erster
+                        Linie Kontakte zu Angehörigen von Behörden und Unternehmen
+                        sowie zu in der Forschung Tätigen, um an sensible Informationen
+                        zu gelangen.
+
+Informations­           Neben Nachrichtendienstangehörigen in den Legalresidenturen
+beschaffung             setzt China zur Informationsbeschaffung auch in Deutschland
+                        ­lebende chinesische Staatsangehörige ein, die sich hier als Ingeni­
+                         eurinnen und Ingenieure oder zu Forschungs-, Praktikums- sowie
+                        Studienzwecken aufhalten. Für die Anwerbung und Abschöpfung
+                        nutzt China Kontakte von Visumsantragstellern zu Botschaften
+
+310
+Spionageabwehr, Wirtschaftsschutz, CAZ                   Verfassungsschutzbericht Bayern 2024
+
+
+
+und Konsulaten oder deren Aufenthalt im Heimatland, beispiels­
+weise zu Verwandtschaftsbesuchen. Außerdem werden deutsche
+Geschäftsreisende in China intensiv überwacht, insbesondere
+bei der Nutzung von Telefon und Internet. Durch diese Arbeit ge­
+winnen die Nachrichtendienste Erkenntnisse, die sie als Druck­
+mittel einsetzen können, um westliche Geschäftsreisende zur
+Zusammenarbeit zu bewegen.
+
+Rekrutierungsversuche lassen sich auch in sozialen Netzwerken            Rekrutierung in
+wie Facebook, LinkedIn und Xing feststellen. Betroffen sind              sozialen Medien
+hiervon bislang deutsche Staatsangehörige, die aus Sicht der
+­chinesischen Nachrichtendienste interessante Tätigkeiten aus­
+ üben, z. B. in den Bereichen Außen- und Sicherheitspolitik. Mittels
+ Fake-Profilen tarnen sich Angehörige chinesischer Nachrichten­
+ dienste als wissenschaftliches Personal, als Angehörige von
+ Think Tanks oder chinesischer Behörden. Manchmal treten sie
+ auch als Headhunter oder Manager einer Consultingfirma auf. In
+ der Kommunikation geben sie vor, sich für das jeweilige Arbeits­
+ gebiet zu interessieren, und zeigen Interesse am Austausch von
+ Informationen. Die weitere nachrichtendienstliche Anbahnung
+ wird dann bei Reisen nach China durchgeführt. Im Vorfeld erfolgt
+ eine geschickt gestaltete Einladung, die unverfänglich, aber sehr
+ attraktiv erscheint. Vor Ort gibt sich der Kontakt schrittweise als
+ Nachrichtendienstangehöriger zu erkennen.
+
+Ein weiterer Schwerpunkt chinesischer Nachrichtendienste ist             Ausforschung von
+die nachdrückliche Bekämpfung oppositioneller Kräfte, von denen          Oppositionellen
+die Regierung eine Gefährdung der staatlichen Ordnung befürch­
+tet. Die innere Einheit des Staates und seine territoriale Integrität
+sieht die Staatsführung insbesondere durch die sog. „Fünf Gifte“
+bedroht. Zu diesen zählen die Angehörigen der Meditations­
+bewegung „Falun Gong“ und der Demokratiebewegung, die
+Befür­worter einer Eigenstaatlichkeit Taiwans sowie die nach
+Unab­hängigkeit strebenden Volksgruppen der Tibeter und Uiguren.
+In München ist mit dem „World Uyghur Congress“ die bedeu­
+tendste Organisation der Uiguren im Ausland ansässig. Die Aus­
+forschung und Unterwanderung der genannten oppositionellen
+Gruppierungen und Einzelpersonen ist daher eine der wichtigsten
+Aufgaben chinesischer Nachrichtendienste im Ausland.
+
+Die Wissenschafts- und Forschungslandschaft in Bayern stellt
+wegen ihrer Offenheit und Reputation ein attraktives Ziel für
+Bestrebungen der chinesischen Staatsführung dar, ausgewählte
+Leistungsträger aus Wissenschaft und Forschung zum Zweck
+des Wissens- und Technologietransfers einzusetzen. Es ist davon
+auszugehen, dass in diesem Zusammenhang das Stipendienver­
+gabesystem des „China Scholarship Council“ (CSC) eine wichtige
+
+                                                                                           311
+Verfassungsschutzbericht Bayern 2024       Spionageabwehr, Wirtschaftsschutz, CAZ
+
+
+                       Rolle spielt. Der CSC ist eine dem chinesischen Bildungsminis­
+                       terium nachgeordnete Einheit und organisiert im offiziellen Auf­
+                       trag den internationalen akademischen Austausch Chinas. Die
+                       CSC-Stipendienbedingungen bieten der chinesischen Regierung
+                       weitgehende Kontroll- und Einflussmöglichkeiten gegenüber
+                       den Stipendiaten. Diese Möglichkeiten können u. a. dahingehend
+                       eingesetzt werden, um im Ausland erworbenes Know-how aus
+                       relevanten Forschungsbereichen nach China zu transferieren
+                       und dort nutzbar zu machen.
+
+
+                          China setzt vor allem folgende 5 Nachrichtendienste bzw.
+                          nachrichtendienstlich agierende staatliche Stellen ein:
+
+                          –   Ministerium für Staatssicherheit (MSS)
+                          –   Ministerium für öffentliche Sicherheit (MPS)
+                          –   Militärischer Nachrichtendienst (MID)
+                          –   Technischer militärischer Nachrichtendienst (NSD)
+                          –   Internationale Abteilung des Zentralkommittees der
+                              KPCh (IDCPC)
+
+
+                       Ministerium für Staatssicherheit (MSS)
+                       Das chinesische MSS gilt als weltweit größter ziviler Nachrichten­
+                       dienst und betreibt sowohl Abwehr- als auch Spionageaktivitäten
+                       im In- und Ausland. In Fragen der nationalen Sicherheit nimmt
+                       das MSS eine zentrale Rolle ein. Es ist für die Bekämpfung von
+                       Gefahren für die öffentliche Ordnung zuständig und diesbezüglich
+                       mit Polizeibefugnissen ausgestattet. In Deutschland bemüht es
+                       sich nachhaltig um Informationen aus den Bereichen Politik und
+                       Wirtschaft und späht oppositionelle chinesische Gruppierungen
+                       aus.
+
+                       Ministerium für öffentliche Sicherheit (MPS)
+                       Das MPS ist für die Gewährleistung der öffentlichen Sicherheit
+                       und Ordnung zuständig und kann hierzu auf die Ordnungs- und
+                       Kriminalpolizei zurückgreifen. Ferner verfügt das Ministerium
+                       über nachrichtendienstliche Spezialeinheiten mit einem ähnlichen
+                       Aufgabenspektrum wie das des MSS. Es sammelt auch im Aus­
+                       land Informationen über Bevölkerungsgruppen, die aus Sicht der
+                       KPCh als staatsgefährdend eingestuft sind. Überdies kontrolliert
+                       und zensiert das MPS die Inlandsmedien und den chinesischen
+                       Internetverkehr.
+
+
+
+
+312
+Spionageabwehr, Wirtschaftsschutz, CAZ                   Verfassungsschutzbericht Bayern 2024
+
+
+
+Militärischer Nachrichtendienst (MID)
+Die chinesischen Nachrichtendienste unterstützen das langfristig
+angelegte Programm Chinas zur Steigerung der militärischen
+Leistungsfähigkeit der Volksbefreiungsarmee. Der MID ist welt­
+weit auch offensiv tätig. Er entsendet Militärattachés und unterhält
+Verbindungen zu ausländischen Streitkräften. Der MID ist für die
+Beschaffung von Informationen zuständig, die die äußere Sicher­
+heit Chinas betreffen. Dazu zählen u. a. Struktur, Stärke und Aus­
+rüstung fremder Streitkräfte. Spionageziele sind zudem Politik,
+Wissenschaft und Technik anderer Staaten. Im Zuge der Militär­
+reform ist der MID verpflichtet worden, sich auf militärisch-stra­
+tegische Aufklärungsziele zu konzentrieren.
+
+Technischer militärischer Nachrichtendienst (NSD)
+Der NSD ist der Teilstreitkraft „Strategic Support Force“ (SSF)
+der Volksbefreiungsarmee unterstellt. Er betreibt weltweite
+Fernmeldeaufklärung und Cyberspionage. Darüber hinaus ist
+der Nachrichtendienst für Telekommunikationsüberwachung, IT-­
+Sicherheit und Cyberabwehr im Militärbereich zuständig.
+
+Internationale Abteilung des Zentralkommitees (ZK) der
+KPCh (IDCPC)
+Das IDCPC hat Ministeriumsrang und ist für den Dialog der KPCh
+mit ausländischen Parteien des gesamten politischen Spektrums
+zuständig. Darüber hinaus führt es verdeckte politische Einfluss­
+operationen durch und nutzt auch nachrichtendienstliche Mittel
+zur Informationsbeschaffung.
+
+
+2.3 Sonstige nachrichtendienstliche Aktivitäten
+Islamische Republik Iran
+Der zivile In- und Auslandsnachrichtendienst MOIS (Ministry
+of Intelligence of the Islamic Republic of Iran) ist der wichtigste
+Nachrichtendienst Irans und stellt ein zentrales Instrument der
+politischen Führung zur Sicherung des eigenen Machtanspruchs
+dar. Der Leiter des Nachrichtendienstes gehört mit Ministerrang
+dem iranischen Kabinett an. Dies unterstreicht die herausragende
+Bedeutung des MOIS.
+
+Sicherheitsrelevant sind neben dem MOIS auch der Auslandsauf­
+klärungs- und Inlandsabwehrdienst der Iranischen Revolutions­
+garden IRGC-IO (Islamic Revolutionary Guard Corps Intelligence
+Organization) sowie die Quds-Brigaden, die für militärische Ope­
+rationen im Ausland zuständig sind. Ihre umfangreichen Ausspä­
+hungsaktivitäten richten sich insbesondere gegen (pro-)israe­
+lische bzw. (pro-)jüdische Ziele.
+
+                                                                                        313
+Verfassungsschutzbericht Bayern 2024       Spionageabwehr, Wirtschaftsschutz, CAZ
+
+
+                       Nachrichtendienste der Islamischen Republik Iran setzen grund­
+                       sätzlich auch staatsterroristische Mittel zur Durchsetzung ihrer
+                       Ziele ein. Ausspähungsaktivitäten iranischer Nachrichtendienste
+                       dienen häufig der Vorbereitung staatsterroristischer Aktivitäten,
+                       darunter Entführung oder sogar Tötung einer Zielperson. Relevant
+                       ist im Zusammenhang mit geheimdienstlichen Aktivtäten des
+                       Iran auch der Einsatz von „Proxies“. Gemeint sind hier grund­
+                       sätzlich Personen oder Personengruppierungen – etwa aus dem
+                       Bereich der Kriminalität -, die über keine nachrichtendienstliche
+                       Anbindung oder Ausbildung verfügen und durch iranische Nach­
+                       richtendienste für Ausspäh- oder Anschlagshandlungen beauf­
+                       tragt und eingesetzt werden. Maßgebliche staatsterroristische
+                       Ziele sind die Einschüchterung und Neutralisierung Oppositioneller,
+                       aber auch die Bestrafung von „Verrätern“ oder „Überläufern“.
+                       Im Zusammenhang mit staatsterroristischen Aktivitäten des
+                       Iran ist nicht zuletzt seit der Eskalation des Nahost-Konflikts in
+                       Folge der terroristischen Anschläge der HAMAS auf israelisches
+                       Staats­gebiet vom 7. Oktober 2023 von einer hohen Gefährdung
+                       jüdischer und pro-israelischer Personen und Einrichtungen in
+                       Deutschland und Bayern auszugehen.
+
+                       Auch Iran setzt zur Informationsbeschaffung und Durchführung
+                       nachrichtendienstlicher Operationen verdeckte Stützpunkte in
+                       Form sog. Legalresidenturen an diplomatischen Einrichtungen
+                       ein. Am 31. Oktober kündigte das Auswärtige Amt als Reaktion
+                       auf die Hinrichtung eines deutschen Staatsbürgers im Iran die
+                       Schließung der iranischen Generalkonsulate in Frankfurt am
+                       Main, München und Hamburg an.
+
+                       Türkei
+                       Der türkische In- und Auslandsnachrichtendienst „Milli Istihbarat
+                       Teskilati“ („Nationaler Nachrichtendienst“, MIT) hat in der tür­
+                       kischen Sicherheitsarchitektur eine zentrale und tragende Rolle
+                       inne. Er dient der türkischen Regierung unter Staatspräsident
+                       Recep Tayyip Erdogan zur Durchsetzung der Regierungspolitik,
+                       Aufrechterhaltung der inneren Sicherheit und nicht zuletzt zur
+                       Infor­mationsbeschaffung.
+
+Gebäude des MIT
+
+
+
+
+314
+Spionageabwehr, Wirtschaftsschutz, CAZ                   Verfassungsschutzbericht Bayern 2024
+
+
+
+Der Dienst ist in den letzten Jahren mit umfangreichen Befug­
+nissen ausgestattet worden, darunter auch Exekutivbefugnisse.
+
+Aufklärungsschwerpunkt des MIT im Ausland sind vor allem                 PKK und „Gülen-
+­solche Organisationen, welche die Türkei als extremistisch oder         Bewegung“ im
+ terroristisch einstuft. Darüber hinaus besteht ein erhebliches          Fokus
+ Aufklärungsinteresse an Vereinigungen und Einzelpersonen,
+ die in tatsächlicher oder mutmaßlicher Opposition zur gegen­
+ wärtigen türkischen Regierung stehen. Auch nach dem Tod des
+ ­Predigers Fetullah Gülen am 20. Oktober stellen die Aufklärung
+  und Verfolgung der sog. „Gülen-Bewegung“, die von der tür­
+  kischen Regierung für den gescheiterten Putschversuch im Juli
+  2016 verantwortlich gemacht wird, sowie der „Arbeiterpartei
+  Kurdistans“ (PKK) die Arbeitsschwerpunkte des MIT dar.
+
+Darüber hinaus richten sich die Aufklärungsaktivitäten des MIT
+auch auf die Bereiche Politik, Wirtschaft, Militär sowie Wissen­
+schaft und Hochtechnologie.
+
+Flankiert werden die Aktivitäten des türkischen Nachrichtendiens­
+tes durch die Einﬂussnahmeaktivitäten regierungsnaher Organisa­
+tionen. Diese werben u. a. in Deutschland für die gegen­wärtige tür­
+kische Politik und nehmen Einﬂuss auf hiesige türkisch­stämmige
+Communities. Ihre Aktivitäten können sich aber auch auf den
+politischen Willensbildungs- und Entscheidungsfindungsprozess
+innerhalb der deutschen Gesellschaft insgesamt auswirken.
+
+
+3. WIRTSCHAFTSSCHUTZ
+Die bayerischen Wirtschafts- und Wissenschaftseinrichtungen
+investieren große Summen in Forschung und Entwicklung und
+schaffen so die Grundlagen für Innovation und Know-how. Auf­
+grund dieser Innovationsleistung ist Bayern als Wirtschafts- und
+Wissenschaftsstandort für fremde Nachrichtendienste attraktiv.
+Neben den diesbezüglichen Sicherheitsrisiken gefährden auch
+die innen- und außenpolitischen Auswirkungen globaler Krisen
+und Konflikte die Sicherheit von Unternehmen und Forschungs­
+einrichtungen gleichermaßen. Geopolitische Interessen senken
+die Hemmschwelle für Wirtschaftsspionage und Sabotage. Die
+Wahrscheinlichkeit, dass Lieferketten gestört werden oder die
+Reputation durch gezielte Akte von Desinformation geschädigt
+wird, steigt.
+
+
+
+
+                                                                                        315
+Verfassungsschutzbericht Bayern 2024       Spionageabwehr, Wirtschaftsschutz, CAZ
+
+
+Digitale und analoge   Moderne Informations- und Kommunikationstechnologien haben
+Angriffsvektoren       die strategische Vorgehensweise ausländischer Nachrichten­
+                       dienste verändert. Cyberangriffe auf Computersysteme und Netz­
+                       werke von Regierungsstellen, Unternehmen und Forschungs­
+                       einrichtungen zählen mittlerweile zu den etablierten Mitteln
+                       der Spionage und Sabotage. Hierbei ist eine zunehmende Ver­
+                       mischung analoger und digitaler Angriffsvektoren festzustellen.
+                       Ferner bedienen sich ausländische Nachrichtendienste vermehrt
+                       der Methodik von Cyberkriminellen, was die Erkennung und Zu­
+                       rechenbarkeit von Cyberangriffen staatlicher Akteure erschwert.
+                       Der Wirtschaftsschutz Bayern berät Unternehmen und For­
+                       schungseinrichtungen und leistet Hilfe zur Selbsthilfe.
+
+                       Im Rahmen der seit 2010 zwischen dem Bayerischen Staatsminis­
+                       terium des Innern, für Sport und Integration und dem Bayerischen
+                       Staatsministerium für Wirtschaft, Landesentwicklung und Energie
+                       bestehenden „Initiative Wirtschaftsschutz“ bietet das Bayerische
+                       Landesamt für Verfassungsschutz kostenfreie Informationen und
+                       Serviceleistungen für Unternehmen und Hochschulen an. Durch
+                       anforderungsorientierte Beratungen und Sensibilisierungsvor­träge
+                       wird die Basis für den Aufbau und die Pflege vertrauens­    voller
+                       ­Sicherheitspartnerschaften geschaffen.
+
+Präventions­angebote   Das Infoportal www.wirtschaftsschutz.info ist ein vom Bundes­
+                       amt für Verfassungsschutz (BfV) gemeinsam mit Bundeskrimi­
+                       nalamt (BKA), Bundesnachrichtendienst (BND) und dem Bundes­
+                       amt für Sicherheit in der Informationstechnik (BSI) betriebenes
+                       Angebot, das allgemeine und aktuelle Informationen zum Thema
+                       Wirtschafts- und Wissenschaftsschutz zur Verfügung stellt. ­Nutzer
+                       können dort Meldungen abrufen oder nach einer einmaligen
+                       Regis­trierung Zugriff auf weiterführende Hintergrundinforma­
+                       tionen erlangen.
+
+                       Auch im Jahr 2024 nahmen das Cyber-Allianz-Zentrum Bayern
+                       (CAZ), der Wirtschaftsschutz sowie der Geheimschutz in der
+                       Wirtschaft des Bayerischen Landesamts für Verfassungsschutz
+                       wieder an der IT-Sicherheitsmesse it-sa in Nürnberg teil. An
+                       dem behördenübergreifenden Gemeinschaftsstand der Initiative
+                       ­„Cybersicherheit in Bayern“ beteiligten sich neben dem Landes­
+                        amt für Verfassungsschutz auch das Bayerische Landeskrimi­
+                        nalamt (BLKA) mit der Zentralen Ansprechstelle Cybercrime
+                        (ZAC) und die IT-Bewerberkoordination der Bayerischen Polizei.
+                       Die Initiative richtet sich an Zielgruppen aus dem Wirtschafts­
+                        sektor und möchte insbesondere auch kleine und mittlere Unter­
+                        nehmen, Forschungseinrichtungen und Betreiber Kritischer Infra­
+                        strukturen (KRITIS) erreichen.
+
+
+316
+Spionageabwehr, Wirtschaftsschutz, CAZ               Verfassungsschutzbericht Bayern 2024
+
+
+
+
+Unternehmen, die im Zusammenhang mit Aufträgen des Bundes            Geheimschutz in
+oder eines Landes Umgang mit geheimhaltungsbedürftigen               der Wirtschaft
+Informationen (Verschlusssachen) haben, unterliegen der sog.
+Geheimschutzbetreuung. Diese stellt den einheitlichen Schutz
+von Verschlusssachen auch in Wirtschaftsunternehmen sicher.
+Ansprechpartner für alle geheimschutzbetreuten Unternehmen,
+die ihren Sitz in Bayern haben, ist das Bayerische Landesamt
+für Verfassungsschutz. Ziel der Geheimschutzbetreuung ist es,
+nicht nur nachrichtendienstliche Angriffe zu erkennen und abzu­
+wehren, sondern diesen durch gezielte Maßnahmen präventiv
+entgegenzuwirken. Die Kontakte zu geheimschutzbetreuten
+Unter­nehmen bilden ein wertvolles Netzwerk für die präven­
+tive Spionageabwehr. In mehreren Fällen ist es bereits gelungen,
+durch Hinweise geheimschutzbetreuter Unternehmen auch
+Muster von Cyberangriffen zu erkennen. Dadurch konnten
+­andere potenziell betroffene Unternehmen frühzeitig informiert
+ werden.
+
+Das Bayerische Landesamt für Verfassungsschutz bietet
+mit der regelmäßig stattfindenden zweitägigen Wirtschafts­
+schutztagung, die im Wechsel mit dem Wirtschaftsschutz des
+Landesamts für Verfassungsschutz Baden-Württemberg aus­
+gerichtet wird, ein wichtiges Austauschformat für die Sicher­
+heitsbeauftragten der geheimschutzbetreuten Industrie in Bay­
+ern und B­ aden-Württemberg. Die diesjährige Veranstaltung in
+Dinkels­bühl war mit über 150 teilnehmenden Firmen vollständig
+ausgebucht.
+
+
+                                                                                      317
+Verfassungsschutzbericht Bayern 2024       Spionageabwehr, Wirtschaftsschutz, CAZ
+
+
+                       4. CYBER-ALLIANZ-ZENTRUM BAYERN (CAZ)
+                       Die Gefährdung von Wirtschaft und Wissenschaft durch Wirt­
+                       schaftsspionage – auch mittels elektronisch gesteuerter A­ ngriffe
+                       – gewinnt in Zeiten einer voranschreitenden Digitalisierung an
+                       Konstanz, Intensität, Vielfalt und Komplexität. Insbesondere
+                       Cyber­angriffe stellen für fremde Nachrichtendienste ein effek­
+                       tives Mittel dar, um Informationen auf digitalem Weg zu beschaf­
+                       fen, politisch Einfluss zu nehmen oder Sabotage zu betreiben. Vor
+                       allem Staaten wie Russland, China und Iran nutzen den Cyber­
+                       raum, um sich einen wirtschaftlichen Vorteil zu verschaffen oder
+                       den Technologievorsprung anderer Nationen aufzuholen.
+
+Cyberspionage und      Cyberangriffe umfassen gezielte Maßnahmen mit und gegen
+Cybersabotage          IT-Infrastrukturen zur Informationsbeschaffung (Cyberspionage)
+                       oder zur Schädigung des Angriffszieles (Cybersabotage).
+
+                       Cyberspionage kann in Gestalt eines sog. „Prepositioning“
+                       (deutsch: „Vorbereiten/Bereitstellen“) eingesetzt werden. Dabei
+                       versuchen die Angreifer, mithilfe von komplexen und langfristig
+                       angelegten Strategien, dauerhaften Zugang zu IT-Systemen zu
+                       erlangen. Diese Vorgehensweise zielt darauf ab, unentdeckt zu
+                       agieren, Spuren zu verwischen und weitere Hintertüren in den
+                       Systemen zu erschließen. Auf diese Weise stellen Angreifer sicher,
+                       dass sie auch nach Bekanntwerden einer Schwachstelle weiter­
+                       hin auf die betroffenen Systeme zugreifen können.
+
+                       Den Angriffen geht häufig ein sog. „Social Engineering“ unter Aus­
+                       nutzung medialer Kommunikationswege (z. B. Telefon, E-Mail,
+                       soziale Netzwerke) voraus. Dabei versuchen die angreifenden
+                       Stellen, das Vertrauen ihrer Opfer zu erlangen, um herauszufin­
+                       den, ob die betreffende Person Zugang zu wertigen Informa­
+                       tionen hat. Ist das der Fall, wird der Kontakt intensiviert sowie
+                       eine Vertrauensbeziehung hergestellt und vertieft, um an die
+                       begehrten Informationen zu gelangen. Insbesondere kleine und
+                       mittlere Unternehmen (KMU) verfügen häufig über essenzielles
+                       Know-how, dessen Innovationspotenzial es in besonderer Weise
+                       zu schützen gilt.
+
+                       Der gesetzliche Auftrag des Bayerischen Landesamts für Ver­
+                       fassungsschutz umfasst neben der Aufklärung von Spionage-
+                       und Sabotageaktivitäten fremder Staaten, die sich gegen deut­
+                       sche Unternehmen und Forschungseinrichtungen richten, auch
+
+
+
+
+318
+Spionageabwehr, Wirtschaftsschutz, CAZ                Verfassungsschutzbericht Bayern 2024
+
+
+
+die Information potenziell betroffener Institutionen. Die hierbei
+­gewonnenen Erkenntnisse und Analysen tragen zu einer besseren
+ Erfassung der Bedrohungslage bei, wovon auch andere Unter­
+ nehmen und Forschungseinrichtungen profitieren können.
+
+Cyberangriffe auf die Wirtschaft oder staatliche Stellen werden
+im CAZ zunächst einer forensisch-technischen Analyse und
+Bewer­tung unterzogen. Die Ergebnisse dieser Analyse werden
+zudem aus nachrichtendienstlicher Sicht bewertet, um sie am
+Ende des Analyseprozesses der Wirtschaft in Form von anonymi­
+sierten, detailliert aufbereiteten Warnmeldungen zur Verfügung
+zu stellen. Indem sie laufend über aktuelle Angriffsmuster infor­
+miert werden, sind auch andere potenziell betroffene Unterneh­
+men in der Lage, ihre Sicherheitsmechanismen anzupassen und
+sich somit frühzeitig zu schützen.
+
+Die Vielzahl der Angreifergruppen, die sog. APT-Angriffe („Advan­
+ced Persistent Threats“) – eine besonders komplexe und hartnäck­
+ige Angriffsmethode – einsetzen, und die damit einhergehende
+Heterogenität der Cyberbedrohungen sind bemerkenswert.
+
+Ausländische Nachrichtendienste und Akteure, die im Auftrag
+anderer Staaten tätig sind, passen ihre Instrumente und Methoden
+kontinuierlich an aktuelle technische und gesellschaftliche Ent­
+wicklungen an. Dabei sind auch lang bekannte Angreifergruppen
+nach wie vor aktiv.
+
+So hat das CAZ in Zusammenarbeit mit dem BfV im Jahr 2024             Angriff auf IT-Dienst­
+
+den Cyberangriff einer APT-Gruppierung auf einen bayerischen          leister in Bayern
+
+IT-Dienstleister der Bundeswehr erfolgreich aufklären und im          abgewehrt
+
+engen Austausch mit dem betroffenen Unternehmen abwehren
+können.
+
+Dieser Angriff wurde durch einen mutmaßlich staatlich gesteu­
+erten Akteur durchgeführt und verdeutlicht das anhaltend hohe
+Bedrohungsniveau durch Cyberspionage für den Rüstungssektor
+in Bayern.
+
+Im Juli konnte das CAZ mittels umfangreicher technischer Analy­       Doppelgängerkam­
+sen neue Detailerkenntnisse zu einer seit 14 Monaten genutzten        pagne
+Infrastruktur erheben, die Teil der bereits seit 2022 laufenden
+russischen Desinformationskampagne „Doppelgänger“ ist. Die
+Kampagne verfolgt das Ziel, durch die Verbreitung bewusster
+
+
+
+
+                                                                                          319
+Verfassungsschutzbericht Bayern 2024        Spionageabwehr, Wirtschaftsschutz, CAZ
+
+
+                       Falschinformationen und pro-russischer Narrative in westlichen
+                       Gesellschaften Zweifel an liberalen demokratischen Werten
+                       und Misstrauen gegenüber der Ukraine zu säen. Mit Blick auf
+                       Deutschland werden gezielt die Grundfesten der freiheitlich
+                       demo­kratischen Grundordnung in Frage gestellt.
+
+                       Über die betreffende Infrastruktur wurden knapp 8.000 Einzel­
+                       kampagnen auf mehr als 700 Zielwebseiten verteilt. Alleine in
+                       dem für das CAZ sichtbaren Zeitraum von 8 Monaten wurden
+                       hiermit mehr als eine dreiviertel Million User erreicht.
+
+                       Die Analysen des CAZ legten vielfältige Hinweise auf eine rus­
+                       sische Herkunft der „Doppelgänger-Kampagne“ offen. So wurden
+                       beispielsweise neben der Nutzung russischer IP-Adressen zur
+                       Administration der Server auch kyrillische Tastaturlayouts genutzt.
+                       Außerdem zeigte sich, dass die Aktivitäten während ­       üblicher
+                       Büro­zeiten in russischer Zeitzone stattfanden, wohingegen an
+                       russischen Feiertagen kaum Aktivitäten festzustellen waren.
+
+                       Insgesamt konnte durch die Arbeit des CAZ deutlich gemacht
+                       werden, wie die Kampagnen-Verantwortlichen die Desinforma­
+                       tionen systematisch erstellen, international verteilen und sich dabei
+                       dynamisch der sich verändernden politischen Lage auf inter­
+                       nationaler und Zielstaatenebene anpassen.
+
+                       Die Ergebnisse der Untersuchungen hat das CAZ als Vollanalyse
+                       mit einer ausführlichen Darstellung der generierten Erkenntnisse
+                       und einer kürzeren Managementfassung im August 2024 veröf­
+                       fentlicht, sie können auf der Webseite des Bayerischen Landes­
+                       amts für Verfassungsschutz abgerufen werden.
+
+                                 Das CAZ arbeitet zur Erfüllung seiner Aufgaben eng
+                                 mit Organisationen auf Bundes- und Landesebene
+                                 zusammen. Neben dem BfV und dem BSI existie­
+                                 ren auch auf Landesebene wichtige Partner. Zudem
+                                 ­gehört das CAZ seit seiner Gründung als „Institution
+                                  im besonderen staatlichen Interesse“ der „Nationalen
+                                  Allianz für Cyber­-Sicherheit“ an und ist damit Bestand­
+                                  teil der deutschen Sicherheitsarchitektur. Auf Landes­
+                                  ebene ist das CAZ ein wichtiger Baustein der „Ini­tiative
+                                  Cybersicherheit“, die im Jahr 2013 im Rahmen der
+                                  Bayerischen Cybersicherheitsstrategie ins Leben ge­
+                       rufen wurde. Zudem engagiert sich das CAZ in der seit 2020
+                       bestehenden Cyberabwehr Bayern, die einen regel­           mäßigen
+                       Austausch mit anderen bayerischen Behörden zum Thema
+                       Cyber­sicherheit vorsieht.
+
+
+320
+Spionageabwehr, Wirtschaftsschutz, CAZ                  Verfassungsschutzbericht Bayern 2024
+
+
+
+5. CYBERABWEHR BAYERN (CAB)
+
+Fälle von Cybercrime, Cyberspionage, vielfältige Arten der Verlet­
+zung des Schutzes personenbezogener Daten und gezielte oder
+zufällig auftretende Angriffe auf die staatliche Infrastruktur sind
+Teil der vielfältigen Bedrohungspotenziale aus dem Cyberraum.
+Betrug, Erpressung (Ransomware) oder Diebstahl personen­
+bezogener Daten sind Phänomene, denen Unternehmen, aber
+auch Privatpersonen, Forschungseinrichtungen sowie staatliche
+Institutionen ausgesetzt sind. Vor dem Hintergrund einer zuneh­
+menden und überregionalen Bedrohungslage aus dem Cyber­
+raum hat die Bayerische Staatsregierung zu Beginn des Jahres
+2020 die Cyberabwehr Bayern (CAB) ins Leben gerufen.
+
+Hierbei handelt es sich um eine behördeninterne Informations-           Informations- und
+und Kooperationsplattform für alle mit Cybersicherheitsauf­             Kooperations­
+gaben betrauten bayerischen Behörden.                                   plattform
+
+
+Zu diesen zählen:
+
+– das Cyber-Allianz-Centrum (CAZ) im Bayerischen Landesamt
+  für Verfassungsschutz
+– die Zentrale Ansprechstelle Cybercrime (ZAC) im Bayerischen
+  Landeskriminalamt
+– die Zentralstelle Cybercrime Bayern (ZCB) bei der General­
+  staatsanwaltschaft Bamberg
+– das Landesamt für Sicherheit in der Informationstechnik (LSI)
+– das Landesamt für Datenschutzaufsicht (LDA) sowie
+– der Landesbeauftragte für den Datenschutz (LfD)
+
+Das Bayerische Landesamt für Verfassungsschutz beheimatet
+das Cyber-Lagezentrum der CAB. Basierend auf einer gemein­
+samen Kooperationsvereinbarung organisiert und koordiniert das
+Cyber-Lagezentrum den Informationsaustausch, der zwischen
+den beteiligten Behörden und Einrichtungen im Rahmen der
+CAB stattfindet.
+
+
+
+
+                                                                                        321
+Verfassungsschutzbericht Bayern 2024      Spionageabwehr, Wirtschaftsschutz, CAZ
+
+
+
+
+                       Das Gremium der CAB hält regelmäßig gemeinsame Lagebe­
+                       sprechungen ab, um aktuelle cybersicherheitsrelevante Ereig­
+                       nisse zu analysieren, aus der jeweils behördenspezifischen
+                       Perspektive zu bewerten und gemeinsam Maßnahmen abzu­
+                       stimmen. Hierdurch werden Kompetenzen gebündelt, Ressour­
+                       cen effizienter eingesetzt und Reaktionszeiten – insbesondere
+                       in Krisenlagen – verkürzt sowie ein breiterer Überblick über die
+                       aktuelle Cyberlage ermöglicht. Seit Anfang 2020 hat sich das
+                       Gremium in mehr als 270 Lage- und Sonderbesprechungen zu
+                       ca. 500 cyberrelevanten Sachverhalten beraten.
+
+                       Neben den zuvor genannten Schwerpunktthemen wurden 2024
+                       zudem vielfältige Informationen über Cybersicherheitsvorfälle
+                       aufbereitet, die den beteiligten Behörden und Einrichtungen in
+                       eigener Zuständigkeit bekannt wurden. Insbesondere bei Fall­
+                       konstellationen, in denen gemeinsame Zuständigkeiten beste­
+                       hen, ermöglicht die Kooperation in der CAB einen gewinnbrin­
+                       genden und zielführenden Austausch sowohl für die Betroffenen
+                       als auch für die beteiligten Behörden.
+
+
+
+
+322
+Spionageabwehr, Wirtschaftsschutz, CAZ                 Verfassungsschutzbericht Bayern 2024
+
+
+
+Auf Grundlage einer Kooperationsvereinbarung der im NCAZ               Ständiger Vertreter
+vertretenen Behörden und den an der CAB beteiligten Behör­             Bayerns im NCAZ
+den und Einrichtungen hat Bayern einen CAB-Repräsentanten
+als ständigen Vertreter in das NCAZ des Bundes entsandt. Die
+dort gewonnenen Erkenntnisse vervollständigen das bayerische
+Cybersicherheitslagebild und bieten die Möglichkeit, neue Cyber­
+phänomene und daraus resultierende Gefahrenpotenziale früh­
+zeitig zu erkennen und (präventive) Maßnahmen einzuleiten. Durch
+die Anbindung der CAB an das NCAZ wird die Scharnierfunktion
+zwischen Bund und Freistaat Bayern vollumfänglich erfüllt.
+
+
+6. PROLIFERATION
+Die Bundesrepublik Deutschland hat sich international verpflich­
+tet, gegen Proliferation vorzugehen. Hierunter versteht man die
+unerlaubte Weiterverbreitung von atomaren, biologischen und
+chemischen Massenvernichtungswaffen, der zu deren Herstel­
+lung benötigten Produkte sowie von entsprechenden Waffen­
+trägersystemen einschließlich des dafür erforderlichen Know-
+hows. Die Ausfuhr von Waffen oder militärisch verwendbaren
+Komponenten muss daher in jedem Einzelfall vom Bundes­
+amt für Wirtschaft und Ausfuhrkontrollen genehmigt werden.
+Verstöße sind im Inland im Außenwirtschaftsgesetz und im
+Kriegswaffen­  kontrollgesetz sanktioniert. Trotz aller bisherigen
+internationalen Anstrengungen zur Bekämpfung der Proliferation
+kommt es immer wieder zu Verstößen. Die Herstellung von
+Massenvernichtungswaffen und deren Verbreitung stellen eine
+ernsthafte Bedrohung des Weltfriedens und der internationalen
+Sicherheit dar. Es ist zu befürchten, dass proliferationsrelevante
+Staaten Massenvernichtungswaffen im Fall eines bewaffneten
+Konﬂiktes einsetzen oder dies zumindest zur Durchsetzung poli­
+tischer Ziele androhen.
+
+Auch russische Nachrichtendienste sind in die Beschaffung              Proliferationsbemü­
+sog. „Güter mit doppeltem Verwendungszweck“ („Dual-Use-­               h­ungen russischer
+Güter“), die sowohl zivil als auch militärisch genutzt werden          Nachrichtendienste
+können, involviert. Im Fokus der Beschaffungsbestrebungen
+stehen dabei Güter aus Deutschland und anderen westlichen
+Staaten zur Herstellung strategischer Waffensysteme, wie Kern­
+waffen oder Interkontinentalraketen. Bereits ab Juli 2014 waren
+als Reak­tion auf die Invasion der Krim sowohl der Verkauf als
+auch die Ausfuhr derartiger Güter in die Russische Föderation
+verboten, wenn die betreffenden Güter ganz oder teilweise für
+
+
+
+
+                                                                                       323
+Verfassungsschutzbericht Bayern 2024      Spionageabwehr, Wirtschaftsschutz, CAZ
+
+
+                       militärische Zwecke oder für einen militärischen Endnutzer
+                       ­bestimmt sein könnten. Infolge des russischen Angriffes auf die
+                        Ukraine hat die EU seit Ende Februar 2022 mehrere Sanktions­
+                        pakete gegen Russland erlassen, die deutlich über die bishe­
+                        rigen Beschränkungen hinausgehen. Diese umfassen neben
+                        umfangreichen Finanzsanktionen auch ein Verbot der Lieferung
+                        sämtlicher Güter und Technologien, die zur militärischen und
+                        technologischen Stärkung Russlands oder zur Entwicklung des
+                        Verteidigungs- und Sicherheitssektors beitragen könnten.
+
+                       Organisiert werden die russischen Beschaffungsbestrebungen
+                       mittels weltweit agierender Schein- und Tarnfirmen. Getarnt als
+                       zivile Businessunternehmen versuchen derartige Beschaffungs­
+                       netzwerke täglich, neue Kontakte zu knüpfen und Lieferketten
+                       aufzubauen, um den tatsächlichen Verwendungszweck sensi­
+                       tiver Technologien aus Deutschland zu verschleiern. Russische
+                       Nachrichtendienste agieren dabei aus regionalen Beschaffungs­
+                       zentren heraus und binden Scheinfirmen und Mittelsmänner
+                       im westlichen Ausland in die Beschaffungsvorgänge ein. Auf
+                       diese Weise werden Unternehmen bei möglichen Geschäfts­
+                       anbahnungen getäuscht und die Exportkontrolle durch falsche
+                       Angaben zum Endverwender oder Endverwendungszweck gezielt
+                       umgangen.
+
+                       Die strenge Gesetzgebung und die wirksamen Exportkontrollen
+                       in Deutschland erschweren die unerlaubte Beschaffung einschlä­
+                       giger Güter massiv. Trotz der EU-Sanktionen gegen Russland
+                       gelingt es jedoch insbesondere russischen militärstrategischen
+                       Einrichtungen, weiterhin illegal Waren aus der EU auszuführen.
+                       Dabei setzen sie nicht nur auf Umgehungslieferungen, sondern
+                       verschleiern mittels unvollständiger oder mutmaßlich falscher
+                       Angaben des Endverwendungszweckes die tatsächliche Bestim­
+                       mung der Ware, um Ausfuhrverbote zu umgehen.
+
+                       Zu den weiteren proliferationsrelevanten Risikostaaten zählen
+                       China, Iran, Nordkorea, Pakistan und Syrien.
+
+Zielobjekte            Bayern zählt europaweit zu den führenden Hochtechnologie­
+Hochtechnologie        standorten. Die Beschaffungsbemühungen der proliferations­
+und Mittelstand        relevanten Staaten richten sich insbesondere auf mittelstän­
+                       dische Unternehmen und Universitäten. Um Proliferation zu
+                       verhindern, arbeitet das Bayerische Landesamt für Verfassungs­
+                       schutz daher eng mit Wirtschaft und Wissenschaft zusammen.
+
+
+
+
+324
+Spionageabwehr, Wirtschaftsschutz, CAZ                  Verfassungsschutzbericht Bayern 2024
+
+
+
+Es informiert in Vorträgen und Sensibilisierungsgesprächen proli­
+ferationsgefährdete Unternehmen über die Gefahren einer mög­
+lichen Weitergabe von kritischen Technologien und unterstützt
+sie bei Verdachtsfällen mit individuellen Maßnahmen. Dadurch
+konnten bereits verschiedene Beschaffungsbemühungen unter­
+bunden werden.
+
+                                Der Verfassungsschutz registriert
+                                immer wieder Fälle, in denen
+                                proliferationsrelevante   Staaten
+                                eine internationale Zusammen­
+                                arbeit im Bereich von Wissen­
+                                schaft und Forschung zu miss­
+                                brauchen versuchen, um sich
+                                proliferations­relevantes Know-
+                                how zu ­verschaffen. Dabei ste­
+                                hen vor allem Universitäten,
+                                Hochschulen, wissenschaftliche
+                                Institute, Forschungsgesellschaf­
+                                ten s­owie Forschungsabteilun­
+                                gen und Schulungsbereiche der
+                                Industrie im Fokus.
+
+Um für das Thema Proliferation zu sensibilisieren, stellen die Ver­
+fassungsschutzbehörden von Bund und Ländern die Broschüre
+„Proliferation – Wir haben Verantwortung“ zur Verfügung, die
+sich insbesondere an Unternehmen richtet, die proliferations­
+relevante Produkte herstellen.
+
+
+
+
+                                                                                       325
+Verfassungsschutzbericht Bayern 2024                   Organisierte Kriminalität
+
+
+
+Organisierte Kriminalität
+(OK)
+
+
+
+                       Organisierte Kriminalität (OK) liegt vor, wenn mehrere
+                       Personen planmäßig erhebliche Straftaten begehen,
+                       um Gewinne zu erzielen oder Macht zu erlangen.
+                       Dazu wenden sie mitunter auch Gewalt an, nutzen
+                       geschäftsähnliche Strukturen oder versuchen, Politik,
+                       Verwaltung, Justiz, Medien oder Wirtschaft zu mani­
+                       pulieren (Art. 4 Abs. 4 BayVSG). OK verursacht allein in
+                       Deutschland seit Jahren Schäden in Milliardenhöhe.
+
+                       Die Drahtzieher der OK bedrohen die Grundlagen
+                       unserer Gesellschaft, indem sie die Interessen
+                       ­einer kriminellen Organisation mit Gewalt, Geld und
+                        massiver Einflussnahme durchsetzen wollen. In
+                        ­
+                        Bayern ist der Verfassungsschutz seit 1994 auch für
+                        die ­Beobachtung der OK zuständig, um deren Aktivi­
+                        täten bereits in einem früheren Stadium aufzuklären,
+                        als dies Polizei und Staatsanwaltschaft ­möglich ist.
+                        Das Bayerische Landesamt für Verfassungs­schutz
+                        schließt somit eine wichtige Lücke im Kampf gegen
+                        die OK.
+
+
+
+
+326
+Organisierte Kriminalität                     Verfassungsschutzbericht Bayern 2024
+
+
+
+
+Personen, die der OK angehören oder sich in deren
+Umfeld bewegen, verhalten sich meist unauffällig und
+konspirativ. Die Aufklärung dieser Struk­ turen setzt
+daher eine systematische und langfristig ­angelegte
+Beobachtung voraus. Um bereits im Vorfeld von
+Straftaten an das entscheidende „Insiderwissen“ zu
+gelangen, können bei Bedarf auch nachrichtendienst­
+liche Mittel eingesetzt ­werden. Strukturermittlungen
+schaffen Grundlagen für polizeiliche Verfahren und
+können laufende Ermittlungen unterstützen.
+
+Das Bayerische Landesamt für Verfassungsschutz
+arbeitet eng mit den OK-Dienststellen der Polizei
+  zusammen und kooperiert aufgrund der interna­
+tional vernetzten OK-Strukturen mit Sicherheits­
+behörden über Landes- und Staatsgrenzen ­hinweg.
+Innerhalb einer Arbeitsgruppe europäischer Inlands­
+nachrichtendienste hat das Bayerische Landes­
+amt für Verfassungs­    schutz für Deutschland die
+­ständige Koordinierungsfunktion inne und ist zentraler
+ ­Ansprechpartner für ausländische Nachrichtendienste.
+
+
+
+
+                                                                             327
+Verfassungsschutzbericht Bayern 2024                         Organisierte Kriminalität
+
+
+                       1. OMCGS UND ROCKERÄHNLICHE
+                          ­GRUPPIERUNGEN
+OMCGs                  Das Bayerische Landesamt für Verfassungsschutz beobach­
+                       tet die kriminellen Aktivitäten von Rocker- und rockerähnlichen
+                       Gruppierungen. Einzelne Mitglieder solcher Gruppierungen
+                       begehen Straftaten, deren Tatmotiv häufig im direkten Zusam­
+                       menhang mit der Zugehörigkeit und der Solidarität zur jeweiligen
+                       Gruppierung steht.
+
+                       Zu den typischen OK-Deliktsfeldern, auf denen diese Gruppie­
+                       rungen aktiv sind, gehören u. a. Rauschgifthandel sowie Rotlicht-
+                       und Gewaltkriminalität.
+
+
+                       1.1 Allgemeines
+                       Mit der von den US-amerikanischen Strafverfolgungsbehörden
+                       eingeführten Bezeichnung „Outlaw Motorcycle Gang“ (OMCG)
+                       werden weltweit die polizeilich bedeutsamen Rockergruppie­
+                       rungen von der breiten Masse der Motorradclubs (MCs) abge­
+                       grenzt. Letztere können zwar im Einzelfall auch kriminelle Akti­
+                       vitäten entfalten, betrachten dies aber nicht als ihr Hauptmotiv.
+                       Neben der Betätigung auf verschiedenen Feldern der OK stellen
+                       gemeinsame Motorradausfahrten, sog. „Rides“, nach wie vor
+                       einen wichtigen Bestandteil des Clublebens in OMCGs dar.
+                       Die „Rides“ finden auch im Zusammenhang mit den jährlichen
+                       ­nationalen und internationalen Treffen der Clubs statt. Diese als
+                        „Runs“ bezeichneten Treffen dienen nicht nur der (internatio­
+                        nalen) Vernetzung der Clubs, sondern werden vor allem auch für
+                        die Planung künftiger Aktivitäten und für die Abstimmung von
+                        Clubregelungen genutzt.
+
+                       Aktuell werden deutschlandweit in erster Linie „Hells Angels MC“,
+                       „Bandidos MC“, „Outlaws MC“, „Gremium MC“, „Mongols MC“
+                       und „Rock Machine MC“ den OMCGs zugeordnet. In Bayern tritt
+                       zudem der „Trust MC“ auf.
+
+                       Seit dem Verbot der „United Tribuns“ (UT) durch Verfügung
+                       des Bundesministeriums des Innern und für Heimat (BMI) vom
+                       14. September 2022 liegen keine Erkenntnisse mehr über real­
+                       weltliche Aktivitäten relevanter rockerähnlicher Gruppierungen in
+                       Bayern vor.
+
+
+
+
+328
+Organisierte Kriminalität                              Verfassungsschutzbericht Bayern 2024
+
+
+
+Auffällig sind bei den rockerähnlichen Gruppen die starken             Rockerähnliche
+Schwankungen bei den Mitgliederzahlen. Auch Gründungen und             Gruppierungen
+Schließungen von Ortsgruppen sind in diesem Bereich häufig
+zu beobachtende Phänomene. Das instabile Mitgliederpotenzial
+ist ein wesentliches Unterscheidungsmerkmal zu den etablierten
+OMCG-Clubs.
+
+„1-Prozenter“
+Die OMCGs bezeichnen sich selbst als „1-Prozenter“. Darunter
+versteht man Biker (Motorradfahrer), die sich selbst als „Outlaws“
+(Gesetzlose) sehen und das bestehende Rechtssystem ablehnen.
+
+„Colour“
+Das von den jeweiligen Gruppierungen getragene Rücken­      ab­
+zeichen wird „Colour“ genannt und gliedert sich in 3 Elemente.
+Über dem Clublogo oder „Center-Patch“, das mittig angebracht
+ist, befindet sich der sog. „Top Rocker“, der Name der Gruppie­
+rung. Der sog. „Bottom Rocker“, der Ort oder die Region, wo die
+Gruppierung zu finden ist, befindet sich am unteren Ende.
+
+Mit Wirkung vom 16. März 2017 ist eine Änderung des Vereins­
+gesetzes in Kraft getreten, die auch gewichtige Effekte auf
+die Bekämpfung der Rockerkriminalität hat. Die Neuregelung
+bewirkt in der Praxis, dass bundesweit die Abzeichen von
+­
+Rocker­gruppierungen bereits dann nicht mehr in der Öffentlichkeit
+gezeigt werden dürfen, wenn eine lokale Ortsgruppe („Chapter“
+oder „Charter“) dieser Gruppierung nach dem Vereins­        gesetz
+verboten wurde. Jegliche öffentliche Verwendung dieser
+charakteris­
+           tischen, wiedererkennbaren Abzeichen verbotener
+Rocker­ gruppierungen ist strafbar. Die Formulierung „jegliche
+Verwendung“ umfasst dabei auch die Nutzung e     ­ inzelner verbo­
+tener Abzeichen, z. B. auf der „Kutte“. In der Szene wird damit
+eine Weste bezeichnet, auf deren Vorder- und/oder Rückseite
+die jeweiligen Erkennungszeichen der Gruppierung zur Schau
+gestellt werden.
+
+„Chapter/Charter“
+Die jeweiligen Ortsgruppen werden von OMCGs und rocker­
+ähnlichen Gruppierungen in der Regel als „Chapter“ bezeichnet,
+nur die „Hells Angels“ sprechen von „Chartern“.
+
+
+
+
+                                                                                        329
+Verfassungsschutzbericht Bayern 2024                        Organisierte Kriminalität
+
+
+                       „Prospect“
+                       Bei einem Prospect-Chapter bzw. Charter handelt es sich um ein
+                       Chapter/Charter, das z. B. durch Neugründung oder Zusammen­
+                       schlüsse zunächst für einen individuell festgesetzten Zeitraum
+                       einen Anwärterstatus innehat. Innerhalb dieser Frist muss sich
+                       das Chapter/Charter bewähren, um anschließend den Status der
+                       Vollmitgliedschaft zu erlangen.
+
+                       Auch Einzelpersonen bei den OMCGs im Status eines Prospects
+                       können erst nach einer individuell festgelegten Bewährungszeit
+                       Vollmitglieder werden.
+
+                       „Supporter“
+                       Bei Supporter-Clubs handelt es sich in der Regel um Vereine, die
+                       eine international bekannte Rockergruppierung unterstützen. Sie
+                       verfügen über eigene Organisationsstrukturen und bekunden
+                       ihre Nähe durch das Tragen von Farben, Emblemen und Symbolen,
+                       die sich an denen der OMCG orientieren.
+
+                       Derzeit werden ca. 1.200 Personen in Bayern der polizeilich rele­
+                       vanten Rockerszene zugerechnet (2023: 1.200 Personen).
+
+
+                       1.2 OMCGs in Bayern
+                       Die im Folgenden genannten OMCGs in Bayern stellen den
+                       Schwerpunkt der Bearbeitung dar. Die Aufzählung ist nicht ab­
+                       schließend zu verstehen.
+
+                       Hells Angels MC
+                       In Bayern gibt es derzeit 8 „Hells Angels“-Charter. Neben Nie­
+                       derlassungen in Hof, Lindau und Nürnberg existieren im Raum
+                       Chiemsee und im Raum Mühldorf a. Inn weitere Charter. Im
+                       Großraum München befinden sich 3 Charter.
+
+                       Als Unterstützergruppierungen („Supporter“) des „Hells Angels
+                       MC“ sind in Bayern der „Red Devils MC“ (Raum Traunstein),
+                       der „Blood Red Section MC“ (Coburg, Hof und Lichtenfels) und
+                       im Raum Lindau die Gruppierungen „Backyard Bloods“, „Red
+                       Vikings MC“ und die „Red Front Brotherhood“ aktiv.
+
+
+
+
+330
+Organisierte Kriminalität                             Verfassungsschutzbericht Bayern 2024
+
+
+
+Der „Hells Angels MC Hof City“ kann auf die Unterstützung
+von nunmehr 4 Chartern des „Blood Red Section MC“ zurück­
+greifen, davon allein 3 im Großraum Hof und eines in Sachsen.
+
+Bandidos MC
+Der „Bandidos MC“ verfügt in Bayern über 16 Chapter ­(Allersberg,
+Augsburg, Bad Königshofen, Bamberg, Bogen, Deggen­          dorf,
+­Freising, Ingolstadt, Kelheim, Landshut, Miltenberg, München,
+ Passau, Starnberg, Wörth a. d. Donau und Würzburg). Die Chapter
+ haben in der Regel eigene Supporter-Gruppie­rungen, die sich in
+rascher Folge neu bilden bzw. wieder auf­lösen können. Zu diesen
+zählen die „Mexican Rebels“, der „Gringos MC“ und der „Black
+River MC“.
+
+ Gremium MC
+ In Bayern gibt es derzeit 8 Chapter des „Gremium MC“ mit
+ diversen Supporter-Gruppierungen. Chapter bestehen in Am­
+ ­
+berg, Ansbach, München, Regensburg, Schweinfurt und Strau­
+bing. Zudem existieren in Franken die Chapter „Gremium MC
+­Nomads“ und „Gremium MC Franconia“. Die Sektion Deutsch­
+ land des „Gremium MC“ gründete sich 1972 in Mannheim und ist
+ bundesweit die älteste und größte OMCG. Auch weltweit zählt
+ der „Gremium MC“ zu den größten OMCGs. Oftmals ­werden
+ für den „Gremium MC“ auch der Begriff „Black Seven“ und die
+ Zahl „7“ verwendet, da das Wort „Gremium“ aus 7 Buchstaben
+ besteht und das „G“ der siebte Buchstabe im Alphabet ist.
+
+
+1.3 Relevante Sachverhalte Bund/Bayern
+Öffentlichkeitswirksame Auseinandersetzungen zwischen den
+OMCGs wurden in der Vergangenheit überwiegend vor dem
+Hintergrund selbst erhobener Macht- bzw. Gebietsansprüche
+sowie interner Streitigkeiten ausgetragen. Dabei kamen auch
+Waffen und sonstige gefährliche Gegenstände zum Einsatz.
+
+Generell war die Lage in Bayern in den letzten Jahren größten­        Lage in Bayern
+teils ruhig, in 2024 war jedoch aufgrund einzelner Vorkommnisse
+eine latente Anspannung bemerkbar. Bundesweit waren verein­
+zelt öffentlichkeitswirksame, regional beschränkte Gewalttaten
+zu verzeichnen, die in Bayern bis dato keine erkennbaren Aus­
+wirkungen hatten.
+
+Am 19. September 2023 bestätigte das Bundesverwaltungsge­
+richt in Leipzig das vom BMI am 7. Juli 2021 erlassene ­Verbot
+des „Bandidos Motorcycle Club Federation West Central“
+(„Federation West Central“) einschließlich seiner 38 benannten
+
+                                                                                       331
+Verfassungsschutzbericht Bayern 2024                         Organisierte Kriminalität
+
+
+                       Mitglieds-Chaptern als gebietliche Teilorganisationen als verhält­
+                       nismäßig, da die Strafgesetzwidrigkeit die „Federation West
+                       Central“ in ihrer Gesamtheit prägte. Laut der Urteilsbegründung
+                       bestand auch kein Anlass, diejenigen Mitglieds-Chapter von dem
+                       Verbot auszunehmen, aus denen heraus keine vereins­bezogenen
+                       Straftaten begangen worden sind, da diese sich nicht von den
+                       strafgesetzwidrigen Zwecken distanziert hätten.
+
+                       Am 18. April 2021, 3 Monate vor dem Verbot, hatte die Mitglieder­
+                       versammlung der „Federation West Central“ die ­Auflösung der
+                       Organisation beschlossen. Ende Mai bzw. Anfang Juni 2021
+                       gründeten sich mit der „Bandidos Motorcycle Club Federation
+                       Mid Region“, der „Bandidos Motorcycle Club Federation North
+                       Region“ und der „Bandidos Motorcycle Club Federation South
+                       Region“ 3 neue Regionalgruppierungen, denen jeweils ein
+                       Drittel der Mitglieds-Chapter der „Federation West Central“
+                       ­
+                       zuge­ordnet wurde. Hinsichtlich dieser neuen Regionalgruppie­
+                       rungen stellte das Bundesverwaltungsgericht in seinem Urteil
+                       vom 19. September 2023 fest, dass es sich nicht um identitäts­
+                       wahrende Nachfolgeorganisationen der verbotenen „Federation
+                       West Central“ handelt. Hierfür wäre eine offensichtliche Iden­
+                       tität in gebietlicher, organisatorischer und personeller Hinsicht
+                       erforderlich, die jedoch nicht bestehe. Die 3 neugegründeten
+                       Organisationen sind daher nicht vom Vereinsverbot gegen die
+                       „Federation West Central“ umfasst.
+
+Spannungen durch         Im September 2024 kam es in Nordrhein-Westfalen zu einer
+Patch Over zu Hells    ­bislang außergewöhnlichen Machtverschiebung in der Rocker­
+Angels                  szene. Dort hat eine erhebliche Anzahl von Mitgliedern des
+                        „Bandidos MC“ einen Wechsel („Patch Over“) zum „Hells
+                        ­Angels“ MC vollzogen.
+
+                       Dieser Wechsel hat die Spannungsverhältnisse und das Gefähr­
+                       dungspotenzial im Raum Nordrhein-Westfalen erheblich ­erhöht
+                       und zu einem gesteigerten Konfliktpotenzial geführt, da ein
+                       derartiges Überlaufen in der Szene gegen den Ehrenkodex
+                       ­
+                       ­verstößt. Bereits kurz nach den zugehörigen Presseveröffentli­
+                        chungen konnten vor allem in den sozialen Netzwerken gegen­
+                        seitige Beleidigungen und Provokationen zwischen den Mitglie­
+                        dern ­beider Clubs festgestellt werden.
+
+                       Mit dem Verbot der „Bandidos MC Federation West Central“
+                       hatte sich die bundesweite Chapteranzahl des „Bandidos MC“
+                       bereits erheblich reduziert. Durch das „Patch Over“ hat sich das
+                       greifbare Personenpotenzial des „Bandidos MC“ weiter verrin­
+                       gert. In Bayern befinden sich bundesweit die meisten Chapter
+
+
+332
+Organisierte Kriminalität                              Verfassungsschutzbericht Bayern 2024
+
+
+
+des „Bandidos MC“. Derzeit sind keine gravierenden Verschie­
+bungen im Verhältnis der in Bayern ansässigen „Bandidos“ zu
+den „Hells Angels“ erkennbar.
+
+Ob die aktuelle Lageentwicklung in Nordrhein-Westfalen dieses
+Verhältnis beeinflusst bzw. wesentlich verschlechtert, hängt von
+der weiteren Entwicklung in der gesamten Szene ab.
+
+Am 1. Mai kam es bei einem jährlich stattfindenden Biker­treffen       Machtdemonstration
+in Nürnberg von Seiten des „Outlaws MC“ zu einer Macht­                des Outlaws MC bei
+demonstration. Traditionell wird diese sog. „Maiausfahrt“ auch         Bikertreffen
+von OMCG-Angehörigen des „Bandidos MC“ und des „Hells
+Angels MC“ zahlreich besucht. Der „Outlaws MC“ trat dort
+in den letzten Jahren zumindest nicht öffentlich wahrnehmbar
+auf. Bei der diesjährigen Veranstaltung trug jedoch eine erheb­
+liche Anzahl von „Outlaws“-Angehörigen bei der Ausfahrt ­offen
+ihre Kutten. Die Mitglieder des „Hells Angels MC“ und des
+­„Bandidos MC“, die dem Kuttentrageverbot unterliegen, dürften
+ dies als gezielte Provokation verstanden haben. Polizeipräsenz
+ verhinderte ein direktes Aufeinandertreffen des „Outlaws MC“
+ auf die beiden anderen Gruppen, so dass es zu keinen größeren
+ Sicherheits­störungen kam.
+
+Der „Gremium MC“ veranstaltete Anfang Juli in Kronach s­ einen
+jährlich stattfindenden „World Run“, eine nicht öffentliche
+Pflichtveranstaltung, an der nach Möglichkeit sämtliche Mitglieder
+des „Gremium MC“ weltweit teilnehmen sollen. Die Anzahl der
+Teilnehmer lag im unteren 4-stelligen Bereich. Die Veranstaltung
+verlief ohne polizeilich relevante Vorkommnisse.
+
+Mitte Juli kam es an einer Tankstelle in Marktheidenfeld (Land­        Versuchtes Tötungs­
+kreis Main-Spessart) zu einer gewaltsamen Auseinandersetzung           delikt
+zwischen Angehörigen der beiden Motorradclubs „Bandidos
+MC“ und „Outlaws MC“, u. a. mit Hieb- und Stoßwaffen. Die
+Beteiligten erlitten z. T. schwere Verletzungen. Bereits im Erst­
+zugriff tätigte die Polizei zahlreiche Festnahmen und führte
+Durchsuchungen durch. Die Polizeibehörden ermitteln seitdem
+u. a. ­
+      aufgrund eines versuchten Tötungsdelikts sowie wegen
+schweren Landfriedensbruchs. Auch im Nachgang fanden auf­
+grund der Ermitt­lungen zahlreiche Durchsuchungen an relevanten
+­Objekten statt. Die polizeilichen Ermittlungen dauern weiter an.
+
+Am 9. September verurteilte das Landgericht Frankfurt am
+Main nach einer teilweise erfolgreichen Revision den ehema­
+ligen Präsidenten des aufgelösten Charters des "Hells Angels
+MC" Rosenheim. Der Angeklagte wurde u. a. wegen besonders
+
+
+                                                                                      333
+Verfassungsschutzbericht Bayern 2024                           Organisierte Kriminalität
+
+
+                         ­schwerer Zwangsprostitution in Tateinheit mit Zuhälterei unter
+                          Einbe­ziehung der Einzelstrafen aus dem Urteil des Land­gerichtes
+                         Traunstein vom 4. November 2020 und der Auflösung der dort
+                         gebildeten Gesamtfreiheitsstrafe zu einer Gesamtfreiheits­strafe
+                       von 4 Jahren und 11 Monaten verurteilt. Zudem wurde der
+                       ­Angeklagte der besonders schweren Zwangsprostitution in Tat­
+                        einheit mit Zuhälterei, Körperverletzung mit Bedrohung sowie
+                        Körperverletzung schuldig gesprochen und zu einer ergänzen­
+                        den Gesamtfreiheitsstrafe von 3 Jahren und 1 Monat verurteilt.
+                        Außerdem wurde die Einziehung von Taterträgen in Höhe von
+                        145.600 Euro angeordnet. Dem Urteil ging eine Verurteilung aus
+                        dem Jahr 2022 voraus, in der der Angeklagte zu einer Gesamt­
+                        freiheitsstrafe von 10 Jahren und 2 Monaten verurteilt worden
+                        war. Er hatte 3 Frauen im Alter zwischen 17 und 36 Jahren in
+                        ­verschiedenen Wohnungen und Hotels in Frankfurt am Main und
+                         in Bayern untergebracht, wo diese der Prostitution nachgehen
+                         mussten. Auf Widerworte der Frauen soll der Angeklagte mit
+                         Schlägen reagiert haben.
+
+                       Ebenfalls am 9. September stellte sich ein bislang flüchtiger
+                       Angehöriger des „Hells Angels MC“, der mutmaßlich in der
+                       ­
+                       Türkei untergetaucht war, freiwillig den Strafverfolgungs­
+                       ­                                                                 be­
+                       hörden am Münchner Flughafen. Gegen ihn bestand ein Haftbe­
+                       fehl u. a. wegen der Bildung einer kriminellen Vereinigung. Dem
+                       Haftbefehl liegen diverse Straftaten zugrunde, die Angehörige
+                       des „Hells Angels MC“ im Raum München in einem Konflikt
+                       mit einer ­anderen Personengruppe über Jahre hinweg begingen.
+                       Der Konflikt gipfelte in einer körperlichen Auseinander­setzung im
+                       Jahr 2020, bei der u. a. auch ein Kleintransporter in eine Personen­
+                       gruppe gefahren worden sein soll. ­Derzeit wird g    ­ eprüft, ob der
+                       bestehende Haftbefehl aufrechterhalten bleibt.
+
+                       Anfang Oktober fand in Breitengüßbach (Landkreis Bamberg) die
+                       Veranstaltung „Bandidos MC German Run 2024“ mitsamt der
+                       „25th-Anniversary-Party“ des „Bandidos MC Chapters Bam­
+                       berg“ unter bundesweiter und internationaler Beteiligung statt.
+                       Die Teilnehmer­zahl lag hier im mittleren dreistelligen Bereich und
+                       die Veranstaltung verlief störungsfrei.
+
+                       Im Oktober wurde bekannt, dass der Gründer und „World-Presi­
+                       dent“ der in Deutschland seit dem Jahr 2022 verbotenen rocker­
+                       ähnlichen Gruppierung „United Tribuns“ sowie dessen Sohn
+                       durch die Strafverfolgungsbehörden in Bosnien-Herzegowina
+                       festgenommen wurden. Der Verhaftung soll u. a. der Tatvorwurf
+                       des Menschenhandels zugrunde liegen. Der in Untersuchungs­
+                       haft sitzende „World-President“ soll gegen die Inhaftierung in
+                       Berufung gegangen sein.
+
+334
+Organisierte Kriminalität                             Verfassungsschutzbericht Bayern 2024
+
+
+
+Nach eigenen Angaben löste sich die rockerähnliche Gruppie­
+rung „Osmanen Imperium“ im Oktober bundesweit vollständig
+auf. Erst im März konnten Aktivitäten des „Osmanen Imperium
+Nürnberg“ in den sozialen Netzwerken festgestellt werden.
+Wahrnehmbare Auftritte in der Öffentlichkeit erfolgten durch
+dieses einzige bayerische Chapter allerdings nicht. Ein Grund für
+die freiwillige Auflösung der gesamten Gruppierung ist derzeit
+nicht bekannt.
+
+
+1.4 Phänomenübergreifende Aspekte
+Das Bayerische Landesamt für Verfassungsschutz beobachtet
+mögliche Verbindungen zwischen Rockern und Rechtsex­
+tremisten. Es bestehen punktuell personelle Überschneidun­
+gen ­zwischen dem Rockermilieu und der rechtsextremistischen
+­Szene, die zumeist auf geschäftliche Interessen oder persön­
+ liche Beziehungen zurückgehen.
+
+In der Vergangenheit handelte es sich dabei auch um Perso­
+nen, die Führungspositionen in rechtsextremistischen Parteien
+und Gruppierungen innehatten bzw. im rechtsextremistischen
+Versand­handel tätig waren.
+
+Auch konnten in Bayern bei mehreren Personen innerhalb der
+Rockerszene Tätowierungen festgestellt werden, die eindeutig
+rechtsextremistische Bezüge aufweisen.
+
+
+2. RUSSISCH-EURASISCHE OK (REOK)
+Auf dem Gebiet der ehemaligen Sowjetunion hat sich eine Viel­
+zahl ethnisch geprägter krimineller Gruppierungen etabliert. Sie
+sind international vernetzt und begehen vor allem Straftaten in
+den Bereichen Eigentumskriminalität, Rauschgift- und Waffen­
+handel, Schmuggel, Schutzgelderpressung sowie Geldwäsche
+und als neueres Phänomen die Sanktionsumgehungen.
+
+Eine besondere Bedeutung innerhalb dieser kriminellen Grup­           „Diebe im Gesetz“
+pierungen kommt den weltweit agierenden „Dieben im ­Gesetz“
+zu, die sich als Führungspersonen der russisch-eurasischen
+OK (REOK) durchgesetzt haben. Der Begriff „Dieb im ­Gesetz“
+stammt aus den 1920er Jahren, als sich in sowjetischen
+­Gefängnissen und Lagern, den sog. „Gulags“, die Anführer der
+ kriminellen Strafgefangenen gegen die Anführer der politischen
+ Häftlinge durchgesetzt hatten und so die Oberhand gewannen.
+
+
+                                                                                     335
+Verfassungsschutzbericht Bayern 2024                          Organisierte Kriminalität
+
+
+                       Diese kriminellen Anführer nannten sich fortan „Diebe im Gesetz“
+                       und stellten mit den „Diebesgesetzen“ einen eigenen Verhaltens­
+                       kodex auf. Dieser sieht u. a. vor, dass Konflikte durch eigene Auto­
+                       ritätspersonen – notfalls auch mit Gewalt – geregelt werden und
+                       keine Zusammenarbeit mit Polizei und Justiz stattfindet. Mit einer
+                       Gemeinschaftskasse („Obchak“) werden vor allem strafrechtlich
+                       verfolgte oder inhaftierte Gruppenmitglieder sowie deren Angehö­
+                       rige unterstützt.
+
+Strenger Verhaltens­     Die aktuelle politische Lage, insbesondere das gesteigerte
+kodex                    Konflikt­potential zwischen der Russischen Föderation und West­
+                       europa wirkt sich auch auf die russisch-eurasische Organisierte
+                       Kriminalität aus. Es sind erheblich gesteigerte Aktivitäten von
+                       Dieben im Gesetz und ihnen nachgeordneten Autoritäten fest­
+                       stellbar. Deutschland gilt derzeit als einer der „Safe Places“, da
+                       anders als in vielen anderen Staaten, die reine Zugehörigkeit zur
+                       kriminellen Struktur der REOK nicht strafbar ist. Der strenge
+                       Verhaltens­kodex der „Diebe im Gesetz“ besagt u. a. auch, dass
+                       sie nicht selbst arbeiten, sondern vielmehr für sich „arbeiten“
+                       lassen, was vor allem im profanen Bereich gilt, aber ebenfalls
+                       im Bereich der Straftaten wahrnehmbar ist und somit die Be­
+                       kämpfung und Strafverfolgung durch die Sicherheitsbehörden
+                       erheblich erschwert. Die Rolle der „Diebe im Gesetz“ ist viel­
+                       mehr vergleichbar mit einem unanfechtbaren Oberhaupt einer
+                       Subkultur, das Legislative und Judikative in sich vereint. So sind
+                       ­beispielsweise die „Entscheidungen“ bei Streitigkeiten b ­ indend
+                        für alle Beteiligten. Als Konsequenzen drohen nicht s­elten
+                        schwere Gewalttaten. Diese werden durch entsprechende
+                        ­untere Hierarchie­ebenen ausgeführt. Faktisch nehmen sie eine
+                         Funktion wahr, die den „Mafia-Paten“ in der italienischen OK
+                         entspricht.
+
+                       Die „Diebe im Gesetz“ können in Deutschland und Bayern auf
+                       vorhandene Personennetzwerke und internationale Strukturen
+                       zurückgreifen, auf welche sie vermutlich bereits aus dem Aus­
+                       land eingewirkt haben. Durch die Vermischung von legalen und
+                       illegalen Geschäftstätigkeiten sind die OK-Strukturen nur sehr
+                       schwer feststellbar und daher in der Öffentlichkeit weniger prä­
+                       sent. Dieses Verhalten lässt aber auf besondere Professionalität
+                       rückschließen, was es für die staatlichen Strukturen und die
+                       ­Gesellschaft umso gefährlicher macht.
+
+
+
+
+336
+Organisierte Kriminalität                             Verfassungsschutzbericht Bayern 2024
+
+
+
+Erschwerend zu dem beschriebenem Umfang des Phänomen­
+bereichs kommt neuerdings hinzu, dass aufgrund der welt­
+politischen Lage der russische Staat sich auch der Organisierten
+Kriminalität zur Erreichung eigener und zugleich gemeinsamer
+Inter­essen bedient. Die Synergieeffekte zwischen REOK und
+russischem Staat können die Effizienz hybrider Maßnahmen
+steigern mit dem Ziel, innerpolitische und gesellschaftliche
+Spannungen in Deutschland zu fördern und damit Raum für
+­weitere Einfluss­nahmen schaffen. Zudem erweitern und etablie­
+ren sich Möglich­keiten, finanzielle Gewinne zu steigern und Geld
+zu waschen. Diese Tendenzen zeigen sich nicht nur in Deutsch­
+land oder Bayern, sondern spiegeln auch die Entwicklung in den
+europäischen Nachbarstaaten wider.
+
+
+3. ITALIENISCHE OK
+
+  Die 4 einflussreichsten kriminellen Gruppierungen in
+  Italien sind:
+
+  –   „‘Ndrangheta“ in Kalabrien
+  –   „Camorra“ in Kampanien
+  –   „Cosa Nostra“ auf Sizilien
+  –   „Apulische OK“
+
+
+Die süditalienischen Mafiasyndikate operieren bei ihren krimi­
+nellen Aktivitäten international, sind aber mit ihren jeweiligen
+Heimat­regionen und deren Traditionen und Werten eng verbun­
+den. Der geschätzte weltweite Jahresumsatz dieser Organisa­
+tionen liegt im dreistelligen Milliarden-Euro-Bereich.
+
+Die Deliktsfelder der Gruppierungen liegen überwiegend im             Zentrale Delikts­
+internationalen Drogen- und Waffenhandel, Steuer- und Zoll­           felder
+betrug, in der Geldwäsche, der Schutzgelderpressung und der
+Geldfälschung sowie der illegalen Müllentsorgung. In einigen
+euro­päischen Staaten bestehen Bestrebungen, das staatliche
+und ökonomische System zu durchdringen.
+
+Im Rahmen der globalen Ausbreitung sind viele italienische            Personenpotenzial
+Familien­clans bzw. Banden seit etlichen Jahren auch in Deutsch­      Bayern
+land sesshaft. In Bayern können den italienischen Mafiasyndi­
+katen knapp 180 Personen zugeordnet werden. Bayern wird
+dabei als Investitions-, aber auch als Rückzugsraum genutzt. Bei
+
+
+
+                                                                                      337
+Verfassungsschutzbericht Bayern 2024                          Organisierte Kriminalität
+
+
+                       Maßnahmen der italienischen Strafverfolgungsbehörden gegen
+                       Aktivitäten der Mafia können regelmäßig auch Bezüge nach
+                       Deutschland respektive Bayern festgestellt werden.
+
+                       ‘Ndrangheta
+                       Die „‘Ndrangheta“ ist eine traditionelle kriminelle und hierar­
+                       chisch aufgebaute Vereinigung, die in Kalabrien beheimatet ist.
+                       Ihre rund 10.000 Mitglieder verteilen sich auf etwa 150 Clans. In
+                       mehr als 30 Staaten sind diese mit regionalen Strukturen, sog.
+                       „locali“, vertreten. Die strengen Regeln und der Treueschwur
+                       der „‘Ndrangheta“ lassen wenig Raum für Kronzeugen, die
+                       ­gegen die Organisation aussagen wollen.
+
+                        Um ihre wirtschaftliche und gesellschaftliche Machtposition weiter
+                        auszubauen, gründet die „‘Ndrangheta“ international ­sukzessive
+                        weitere Vertretungen an neuen Standorten. Die geltenden Regeln
+                        und Riten der kalabrischen Heimat der „‘Ndrangheta“ werden in
+                        diesen „locali“ gleichermaßen ­angewandt und weiter­gelebt. In
+                        Deutschland bietet vor allem die Gastronomie zahl­reiche Mög­
+                       lichkeiten, einer legalen Tätigkeit nachzugehen. Diese sorgt für
+                       gesellschaftliche Integration, ­ bildet eine Fassade sowie eine
+                       ­Basis für flüchtige Mitglieder. Die „‘Ndrangheta“ betreibt Res­
+                        taurants nicht allein zur Geldwäsche, sondern auch als Ausgangs­
+                        punkt für ihre Drogengeschäfte oder als logistische Basis. Die
+                        große von dieser kriminellen Organisa­tion ausgehende ­Gefahr
+                        besteht in ihrem familiengeprägten Aufbau, der schleichenden
+                        Unterwanderung von Wirtschaft und Politik, der Etablierung
+                        von Abhängigkeitsstrukturen durch wirtschaftliche Investitio­
+                        nen in Unternehmen sowie dem nahezu unbegrenzten Zugang
+                        zu Finanz­mitteln. Bayernweit können der „‘Ndrangheta“ derzeit
+                        rund 100 Mitglieder zugeordnet werden.
+
+„Action-Day“ gegen     Am 3. Mai 2023 fand ein internationaler „Action-Day“ gegen
+„‘Ndrangheta“          mutmaßliche Mitglieder der „‘Ndrangheta“ statt, bei dem es
+                       auch in Bayern zu mehreren Festnahmen kam. Vorausge­gangen
+                       waren langjährige Ermittlungen mehrerer westeuropäischer
+                       Polizei­ behörden in Zusammenarbeit mit den EU-Behörden
+                        ­Eurojust und Europol. Die in Bayern festgenommenen Perso­
+                         nen wurden nach Italien ausgeliefert. Gegen die Betroffenen
+                         wurde u. a. wegen des Handels mit Kokain im Tonnenbereich,
+                         Geld­wäsche, unerlaubtem Waffenbesitz sowie Waffenhandel
+                         ermittelt. Im März wurde in Italien gegen mehr als 100 mutmaß­
+                         liche Mafia-Mitglieder Anklage erhoben. In einem verkürzten
+                       ­Gerichtsverfahren forderte die dortige Staatsanwaltschaft u. a.
+                         für die in Bayern festgenommenen Personen Haftstrafen von bis
+                         zu 20 Jahren. Die Entscheidung des Gerichts liegt noch nicht vor.
+                         Ein weiterer Prozess in diesem Ermittlungskomplex findet seit
+
+338
+Organisierte Kriminalität                               Verfassungsschutzbericht Bayern 2024
+
+
+
+17. September in Nordrhein-Westfalen statt. Dort hat die Staats­
+anwaltschaft Düsseldorf gegen 8 Personen Anklage ­       wegen
+Drogen­handel erhoben.
+
+Nach knapp 3 Jahren endete am 20. November 2023 in Kalabrien
+einer der größten Mafiaprozesse in Italien. Die Anklagepunkte
+­gegen die mehr als 300 Mitglieder der „‘Ndrangheta“ lauteten
+ von Mord und Mitgliedschaft in einer kriminellen Vereinigung
+ über Drogenhandel und Geldwäsche bis hin zur Korruption bei
+ staatlichen Bauaufträgen. Es wurden zahlreiche Haftstrafen
+ ­verhängt. Die höchsten Einzelstrafen erhielten 2 Führungsper­
+  sonen der Organisation mit jeweils 30 Jahren. Der Prozess
+  ­gegen den mutmaßlich obersten Clanführer der „‘Ndrangheta“
+   wird in einem separaten Verfahren verhandelt. Hier steht das
+   ­Urteil noch aus.
+
+Camorra
+Mit dem Begriff „Camorra“ bezeichnet man die italienischen
+krimi­ nellen Organisationen in der Region Kampanien, in der
+­Provinz und in der Stadt Neapel. Diese Region ist seit Jahrzehnten
+ in 12 Zonen eingeteilt, die von mehreren Clans beherrscht werden.
+ Die „Camorra“ ist weniger ein hierarchisches Gebilde, sondern
+ eher ein loser Verbund autonomer Clans, die keiner einheit­
+ lichen Führung folgen. Ein struktureller Aufbau der „Camorra“
+ in Bayern oder davon ausgehende Aktivitäten sind gegenwärtig
+ nicht feststellbar.
+
+Cosa Nostra
+Die „Cosa Nostra“ ist eine kriminelle Organisation, die von Sizi­
+lien aus operiert. Wenngleich ihr innerer Aufbau und ihre Struktur
+nicht abschließend aufgeklärt sind, dürfte sich die „Cosa Nostra“
+jedoch aus autarken Clans zusammensetzen, die keiner einheit­
+lichen Führungsfigur unterliegen. Die gezielte Einflussnahme auf
+wirtschaftliche und politische Aktivitäten sowie das Bestreben,
+die Gesamtkontrolle über ihr Territorium zu erlangen, bleiben
+jedoch bestehen. In Bayern können einzelne Aktivitäten der
+­
+„Cosa Nostra“ zugerechnet werden.
+
+Apulische OK
+Die „Apulische OK“ etablierte sich erst in den 1980er Jahren
+und in Reaktion auf die aus den Nachbarregionen ausgeübten
+Einflüsse der anderen 3 Syndikate „‘Ndrangheta“, „Camorra“
+und „Cosa Nostra“. Auch die „Apulische OK“ besteht aus zahl­
+reichen kriminellen Einzelgruppen ohne einheitliche Führung. In
+Bayern leben Einzelpersonen der „Apulischen OK“. Eine Struk­
+tur ist nicht vorhanden.
+
+
+                                                                                       339
+Verfassungsschutzbericht Bayern 2024                        Organisierte Kriminalität
+
+
+                       4. NIGERIANISCHE OK
+
+                       4.1 Allgemeines
+                       Nigerianische Confraternities (deutsch: „Bruderschaften“) wurden
+                       ab den 1950er Jahren als universitäre Bruderschaften im Süden
+                       Nigerias gegründet. Zunächst setzten sie sich für gesellschaft­
+                       liche Ziele wie die Forderung nach Unabhängigkeit, gegen Kolo­
+                       nialismus, Unterdrückung und Rassismus sowie für Gleichheit
+                       und Gerechtigkeit ein.
+
+                       Seit den 1980er Jahren entwickelten sich einige der durch tradi­
+                       tionelle Ahnen- und Geheimkulte beeinﬂussten Studenten­bünde
+                       auch durch die politische und wirtschaftliche Instabilität der
+                       Region zunehmend zu gewalttätigen und kriminellen bis hin zu
+                       maﬁaähnlichen Vereinigungen und wurden in typischen Delikts­
+                       feldern der Organisierten Kriminalität aktiv.
+
+                       Die Gruppierungen wurden wiederholt auch für politische Zwecke
+                       bei Wahlen und in Wahlkämpfen instrumentalisiert und im Zuge
+                       dessen bewaffnet. Im Laufe der Jahrzehnte ist es ­ihren Mitglie­
+                       dern gelungen, nahezu alle Teile der nigerianischen ­Gesellschaft
+                       zu durchdringen.
+
+                       Die Confraternities bedienen sich meist klassischer hierarch­
+                       ischer OK-Strukturen, sind in ihrem Heimatland paramilitärisch
+                       aufgestellt und stehen untereinander grundsätzlich in einem
+                       Konkurrenzverhältnis, das insbesondere in Nigeria durch gewalt­
+                       tätige Auseinandersetzungen zwischen verfeindeten Confrater­
+                       nities geprägt ist. Ihre Betätigungsfelder liegen sowohl in ihrem
+                       Heimat­staat als auch im internationalen Ausland insbesondere
+                       in den Bereichen Rauschgiftkriminalität, Internetbetrug, Geld­
+                       wäsche, Menschenhandel und Schleusung.
+
+                        Seit den 1990er Jahren bildeten die Gruppierungen und ihre Mit­
+                        glieder auch in Teilen Europas Diaspora-Strukturen und nahmen
+                        dort entsprechende Aktivitäten auf. Dabei lag der geograﬁsche
+                       Schwerpunkt zunächst in Italien. Mittlerweile ist eine nahezu
+                       flächendeckende Verbreitung im westeuropäischen Raum zu
+                       ­erkennen. Vor diesem Hintergrund ist auch eine Ausweitung und
+                        Verlagerung bestehender krimineller Strukturen nigerianischer
+                        Confraternities von Italien aus nach Deutschland und insbeson­
+                        dere nach Bayern festzustellen.
+
+
+
+
+340
+Organisierte Kriminalität                               Verfassungsschutzbericht Bayern 2024
+
+
+
+Von den italienischen Sicherheitsbehörden wird die Nigeri­     a­
+nische OK, wozu insbesondere auch die Gruppierungen der in
+Bayern aktiven Mitglieder gehören, als maﬁaähnlich eingestuft.
+Sie ist somit den Gruppierungen der italienischen Maﬁa gleich­
+gestellt und unterliegt der gesonderten Maﬁa-Gesetzgebung. In
+Italien kam es in den letzten Jahren vermehrt zu großange­legten
+Festnahmeaktionen und Verurteilungen von nigerianischen
+Confra­ternity-Mitgliedern.
+
+In Bayern sind hauptsächlich Mitglieder folgender Confraternities
+aktiv:
+
+– „Black Axe“/„Neo Black Movement of Africa“ (NBM)
+– „Supreme Eiye Confraternity“ (SEC)
+– „Supreme Vikings Confraternity“ (SVC)/„De Norsemen KClub
+  International“ (DNKI)
+– „M.A.P.H.I.T.E.“/„Green Circuit Association International“ (GCAI)
+
+
+
+
+4.2 Bundesweite Festnahmen und Durch­
+    suchungen bei Angehörigen der nigeria­
+    nischen Bruderschaft „Black Axe“ alias
+    „Neo Black Movement of Africa“ (NBM)
+Am 23. April führten Polizei und Staatsanwaltschaften in Bayern,
+Baden-Württemberg, Hamburg und Hessen zeitgleich Durchsu­
+chungen gegen Angehörige der Nigerianischen OK durch, bei
+denen mehrere Personen festgenommen wurden.
+
+Ausgangspunkt für die Durchsuchungen waren Strukturerkennt­
+nisse des Bayerischen Landesamtes für Verfassungsschutz
+und Informationen des Bundesnachrichtendienstes, auf deren
+Grundlage 3 Kriminaldienststellen (Bayerisches Landeskrimi­
+nalamt, Polizeipräsidium Oberbayern Süd und Polizeipräsidium
+
+
+
+
+                                                                                       341
+Verfassungsschutzbericht Bayern 2024                           Organisierte Kriminalität
+
+
+                       Schwaben Nord) im Rahmen einer gemeinsamen Ermittlungs­
+                       gruppe unter Sachleitung der Staatsanwaltschaft München I
+                       wegen des Verdachts der Bildung einer kriminellen Vereinigung
+                       gegen Angehörige der nigerianischen Confraternity „Black Axe“
+                       alias „Neo Black Movement of Africa“ (NBM) ermittelten.
+
+                       Hierbei handelte es sich um das erste grundlegende Verfahren
+                       gegen eine nigerianische Confraternity in Deutschland. Die
+                       Ermittlungen wurden nach Ermächtigung durch das Bundes­
+                       ­
+                       justizministerium auch wegen Mitgliedschaft in einer kriminellen
+                       ­Vereinigung im Ausland geführt.
+
+                       Bei den Durchsuchungen wurden zahlreiche Beweismittel, ins­
+                       besondere Mobiltelefone und Datenträger, gefunden und sicher­
+                       gestellt.
+
+                       Bei den Festgenommenen handelt es sich um Männer im Alter
+                       von 29 bis 53 Jahren mit nigerianischer Staatsbürgerschaft.
+                       Die Staatsanwaltschaft München I hatte bereits im Vorfeld u. a.
+                       ­wegen Mitgliedschaft in einer kriminellen Vereinigung Haftbe­
+                        fehle gegen sie beantragt, die von der Staatsschutzkammer
+                        beim Landgericht München I erlassen wurden.
+
+                       Die Confraternity „Black Axe“ übt, insbesondere im Ursprungs­
+                       land Nigeria, erheblichen Einﬂuss auf Administration, Wirtschaft
+                       und Politik aus. Sie wird durch ihre vielfältigen kriminellen Betäti­
+                       gungen für immense wirtschaftliche und persönliche Schäden
+                       weltweit verantwortlich gemacht. Global betrachtet betätigt sich
+                       die Organisation hauptsächlich auf den Deliktsfeldern Betrug,
+                       Geldwäsche, Prostitution, Menschen- und Rauschgifthandel.
+
+Love-Scamming          In Deutschland ist die Gruppierung bislang vor allem mit Geld­
+                       wäsche und Betrug im Rahmen des sog. „Love-Scamming“
+                       bzw. „Romance-Scamming“ in Erscheinung getreten. Hierbei
+                       handelt es sich um eine moderne Form des Internetbetruges,
+                       bei der die Täter mit Fake-Proﬁlen in sozialen Netzwerken oder
+                       Dating-Portalen ihrem Gegenüber eine Liebesbeziehung vor­
+                       täuschen, um sich an ihm zu bereichern. So wurden zum Bei­
+                       spiel im Jahr 2023 alleine in Bayern mehr als 450 Fälle dieser
+                       spezi­fischen Betrugsmasche angezeigt; der eingetretene Schaden
+                       beläuft sich in den bekannt gewordenen Fällen auf mehr als
+                       5,3 Millionen Euro.
+
+
+
+
+342
+Organisierte Kriminalität                             Verfassungsschutzbericht Bayern 2024
+
+
+
+Der Erfolg der strafprozessualen Maßnahmen auf der Grund­
+lage von Strukturerkenntnissen des Bayerischen Landesamts
+für ­Verfassungsschutz bestätigt einmal mehr den Mehrwert
+der ­ Beobachtung der Organisierten Kriminalität durch den
+­Verfassungsschutz im Vorfeld polizeilicher Ermittlungsverfahren.
+ Langfristig angelegte Strukturermittlungen tragen wesentlich
+ zum Erkennen dieser Gruppierungen und deren Aufklärung bei.
+
+
+
+
+                                                                                     343
+Verfassungsschutzbericht Bayern 2024                                                                                                                Anhang
+
+
+
+Anhang
+
+
+
+
+                       PERSONENPOTENZIAL
+                       Anzahl der Extremisten in Bayern
+                       7.000
+
+
+                       6.000
+
+                                                                                                                                                             5.430
+
+                       5.000
+
+
+                       4.000
+                                                                        3.850
+
+                                                                                                                                                             3.100
+                       3.000                                                                                                                                 3.090
+                                                                                                                                                             2.740
+                                                                                                                                                             2.730
+
+                       2.000
+                                                            1.700
+                                                                                                                                                             1.300
+                       1.000
+
+
+                          0       1
+                               2014      2015         2016          2017        2018       2019      2020         2021         2022         2023         2024
+
+                                 Islamisten*
+
+                                 Sonstige ausländische Extremisten***
+
+                                 Rechtsextremisten                                            Der Rückgang 2014/2015 ist vor allem auf die Reformbemühungen innerhalb der
+                                                                                       *
+                                                                                              IGMG zurückzuführen.
+                                 Linksextremisten
+                                                                                       **     Aufnahme der Beobachtung im Jahr 2016 und fortschreitende Aufhellung des
+                                 Scientology-Organisation                                     Personenpotentials
+                                 Reichsbürger/Selbstverwalter**                        ***    Ab dem Jahr 2019 werden Separatisten nicht mehr gesondert aufgeführt.
+
+
+
+
+344
+Anhang                                                                Verfassungsschutzbericht Bayern 2024
+
+
+
+
+STICHWORTREGISTER
+
+A                                             Antisemitismus      30, 46, 58-61, 98,
+Adil Düzen                                     120-123, 143, 151-154, 161, 184, 215
+(„Gerechte Ordnung“)                    68    Antiziganismus                    158
+Advanced Persistent Threat             319    Artikel 10-Gesetz                  24
+Aktion, direkte                   240, 271    Assists („Beistände“)             287
+Al-Intiqad („Die Kritik“),                    Attentäter-Fanszene               171
+(Publikation)                          104    Auditing                     290, 292
+Al-Manar („Der Leuchtturm“),
+(Fernsehsender)                    61, 104    B
+Al-salaf al-salih („Die frommen               Backyard Bloods                   330
+Altvorderen“)                       79-80     Bandidos MC             328, 331-334
+Alternative Schulen                           Batil Düzen
+(Reichsbürger)                         227    („Nichtige Ordnung“)            68-69
+Anarchismus                  234, 270-271     Bayerische Informationsstelle gegen
+Anarchisten                  268, 270-271     Extremismus (BIGE)              27-29,
+Antifaschismus        50, 246, 250-251,                                  33-35, 149
+                                  272, 274    Bayerisches Aussteigerprogramm 28
+Antigentriﬁzierung                256, 274    Bayerisches Handlungskonzept gegen
+Antiglobalisierung                256, 270    Rechtsextremismus               32-33
+Antiimperialismus            114, 123, 127,   Bayerisches Netzwerk für Prävention
+                                  238, 251    und Deradikalisierung
+Antiinstitutionalismus                 270    gegen Salaﬁsmus                 31-32
+Antimilitarismus     127, 238, 253-254,       Bayerisches
+                                       274    Sicherheitsüberprüfungsgesetz      22
+Antirassismus                     250, 274    Bayerisches Verfassungs­
+Antirepression                    253, 274    schutzgesetz                    18, 26
+
+
+
+                                                                                                     345
+Verfassungsschutzbericht Bayern 2024                                                           Anhang
+
+
+
+                       Beobachtungsauftrag des                     F
+                       ­Verfassungsschutzes          19-20, 193    FSN – The Revolution                 168
+                       Bevölkerungsaustausch          162, 196,    Fünf Gifte                           311
+                                                       198, 200    Furkan Nesli Dergisi, („Magazin der
+                       BIRGiT, Arbeitsgruppe             23, 86    Generation Furkan“), (Publikation)    71
+                       Black Axe Confraternity         341-342     Furkan Haber („Furkan Neuigkeiten“),
+                       Blood Red Section MC            330-331     (Publikation)                         71
+                       Bundesamt für Sicherheit in der             TV Furkan (Online-Fernsehsender) 71
+                       Informationstechnik (BSI)       316, 320
+                                                                   G
+                       C                                           G 10-Kommission                       24
+                       Camia („Gemeinschaft“),                     Gefangenenhilfe              83, 94, 98
+                       (Publikation)                         68    Gefährder                        23, 86
+                       Camorra                         337, 339    Geheim- und Sabotageschutz            22
+                       Chapter/Charter             209, 329-335    Geheimschutzbetreuung                317
+                       Colour                               329    Gelber Schein                        222
+                       Confraternities                 340-341     Geschichtsrevisionismus         46, 143,
+                       Cosa Nostra                     337, 339                                         151
+                       Cyberabwehr Bayern (CAB)         37, 301,   Graue Wölfe               115, 129, 131
+                                                       320-323     Gremium MC                328, 331, 333
+                       Cyberangriffe     22, 300-302, 316-319      Gringos MC                           331
+                       Cyber-Allianz-Zentrum
+                       Bayern (CAZ)      22, 37, 300, 316, 321     H
+                                                                   Heldengedenken                       159
+                       D                                           Hells Angels MC                 328-334
+                       Da’wa                                       Herrschaftsfreie Gesellschaft        49,
+                       („Missionierung“)           57, 87-88, 92                             234, 236, 269
+                       Dianetik                  278, 284, 290     Homegrown-Terroristen                 96
+                       Desinformation            8, 63, 93, 170,   Homophobie                      159-160
+                            302-303, 308-309, 315, 319-320         Hubbard, L. Ron    278, 283, 289-290,
+                       Dieb im Gesetz                       335                              293-295, 298
+                       Diktatur des Proletariats       263-264     Hybride Bedrohungen         5, 302, 337
+
+
+                       E                                           I
+                       Ethnopluralismus     143, 176, 201-202      Ideale-Org-Kampagne                  290
+                                                                   Imperialismus       121, 249, 251, 253
+                                                                   Incel-Subkultur            161-163, 171
+                                                                   Initialisierende Gewalt              237
+
+
+
+346
+Anhang                                                                    Verfassungsschutzbericht Bayern 2024
+
+
+
+
+Initiative Wirtschaftsschutz          316    L
+Inlandsnachrichtendienst FSB                 Landesamt für Sicherheit in der
+(Russland)                            307    ­Informationstechnik (LSI)            321
+Intifada                              103    Landeskoordinierungsstelle Bayern
+Islam-Infostände                   87-88     gegen Rechtsextremismus                28
+Islamfeindlichkeit             20, 27, 63,   Legalresidentur                       303
+                                 157, 198
+Islamic Revolutionary Guard Corps            M
+Intelligence Organization                    Maﬁa                         336-339, 341
+IRGC-IO (Iran)                        313    Maoismus                         234, 263
+Islamismus, legalistischer         56-58,    M.A.P.H.I.T.E./Green Circuit
+                                   62-64     Association International (GCAI)      341
+Italienische Organisierte                    Marx, Karl                            260
+Kriminalität                    336-339      Marxismus                             234
+                                             Marxismus-Leninismus 132, 134-135,
+J                                                                  234, 260, 264-265
+Jihad            43, 53, 60, 66, 81-82,      Massenvernichtungswaffen 302, 323
+                              84, 95, 137    Mexican Rebels                        331
+                                             Milieumanager                    223, 225
+K                                            Militärischer Auslandsnachrichten­
+Kalifat              5, 43, 59, 73-75, 82,   dienst GRU (Russland)             307-308
+                     84, 93, 100, 110-111    Militärischer Nachrichtendienst
+Kameradschaften             145, 204-205     MID (China)                       312-313
+Kampfsport             163-165, 185-187      Milli Gazete („Nationale Zeitung“),
+Kapitalismus          120, 184, 249-250,     (Publikation)                         68
+                      252, 254-255, 262      Milli Istihbarat Teskilati
+Kommunismus                 59, 252, 260,    MIT (Türkei)                          314
+                            264-265, 277     Ministerium für öffentliche Sicherheit
+Kommunistische Partei                        MPS (China)                           312
+Chinas (KPCh)               309, 312-313     Ministerium für Staatssicherheit MSS
+Kommunistische Partei                        (China)                               312
+Deutschlands (KPD)          260, 264-266     Ministry of Intelligence of the
+Konfrontative Gewalt                 238     Islamic Republic of Iran MOIS         313
+Konvertiten                            83    Missionen
+Kutte                      206, 329, 333     (Scientology-Organisation)        290-291
+                                             Mongols MC                            328
+                                             Mosaik-Rechte                         200
+
+
+
+
+                                                                                                         347
+Verfassungsschutzbericht Bayern 2024                                                             Anhang
+
+
+
+                       Muhacirun („Auswanderer“),                 P
+                       (Publikation)                       110    Parlamentarisches
+                       Münchner Sicherheitskonferenz        50,   Kontrollgremium                        24
+                                       133, 136, 194, 254, 261    Partizan (Publikation)                134
+                       Musikveranstaltung                         Perspektif (“Perspektive”),
+                       (Rechtsextremismus)              33, 173   (Publikation)                          68
+                                                                  Postautonome                     268-270
+                       N                                          Proliferation        302-303, 323-325
+                       Nachhilfeinstitute                  294
+                       Nachrichtendienstliche Mittel        24,   R
+                                                       313, 327   Recht(s)konsulent                     221
+                       Nakba                                59    Red Devils MC                         330
+                       Nationale Allianz für                      Religious Technology Center
+                       Cybersicherheit                     320    (RTC)                            289-290
+                       Nationalsozialismus            142, 153,   Remigration                155-156, 190,
+                                 158-159, 179, 181, 187, 197,                          195-197, 199-203
+                                 202, 204-205, 209, 250, 252      Rock Machine MC                       328
+                       ’Ndrangheta                     337-339    Rückkehrer                         84-85
+                       Neonazismus                 204-205, 208
+                       Nigerianische Organisierte                 S
+                       Kriminalität                    340-343    Salaﬁsmus            30-32, 45, 52, 54,
+                                                                      56-58, 63, 79-80, 83-84, 91, 97-98
+                       O                                          Salaﬁsmus, jihadistischer         58, 60,
+                       Obchak                              336                                       80-81
+                       Offen extremistische Strukturen 259        Salaﬁsmus, politischer             57, 60,
+                       Ofﬁce of Special Affairs                                                   63, 80-81
+                       (OSA)                           295-296    Scharia              52, 57, 62, 65-67,
+                       Operierender Thetan                 292                             69, 71, 73-74, 80
+                       Organisierte Kriminalität         20-21,   Schiitischer Islamismus        30, 56-57,
+                                                       326-343                         60, 64, 77-78, 104
+                       OSA – Ofﬁce of                             Schwarzer Block                       237
+                       Special Affairs                 295-296    Serxwebun („Unabhängigkeit“),
+                       Outlaw Motorcycle Gang                     (Publikation)                     121-123
+                       (OMCG)                      328-331, 333   Sicherheitsüberprüfung                 22
+                       Outlaws MC                  328-329, 333   Skinhead-Bands                        174
+                                                                  Skinheads            206-207, 209-210
+                                                                  Social Engineering                    318
+
+
+
+
+348
+Anhang                                                                Verfassungsschutzbericht Bayern 2024
+
+
+
+
+Souveräne Bewegung                  225    V
+Spendensammlungen                56, 83    Verfassungsfeindliche Bestrebung 19,
+Spionageabwehr          22, 37, 300-325                                  189, 194
+Stay Well                                  Verfassungstreueprüfung               23
+(Gesundheitskampagne)               287    Verschlusssachen                22, 317
+Strukturelle Gewalt            237, 269    Verschwörungstheorie          8, 33, 58,
+Sunna                         52, 57, 62           60-61, 122, 146, 153-156, 162,
+Supporter                      330-331                202, 216, 219-220, 252, 281
+Supreme Eiye Confraternity                 Vertrauensleute                    19, 24
+(SEC)                               341    Volksgemeinschaft             142, 151,
+Supreme Vikings Confraternity                                     157-158, 179-181
+(SVC)/De Norsemen KClub                    Vorfeldaufklärung                     25
+International (DNKI)                341
+                                           W
+T                                          Wahhabismus                      56, 79
+Taleban                         76, 101    Wilayat al-faqih („Herrschaft der
+Täter-Opfer-Umkehr                  252    Rechtsgelehrten“)                     57
+Takﬁr                                82    Wirtschaftsschutz          37, 300-325
+Tarnorganisationen                         World Uyghur Congress (WUC)          311
+(Rechtsextremismus)                 142
+Tarnorganisationen                         Y
+(Scientology)        281-284, 288, 290,    Yeni Özgür Politika („Neue Freie
+                          294-296, 298     Politik“), (Publikation)       123, 126
+Tauhid                               80    Yürüyüs („Marsch“), (Publikation) 132
+Technischer militärischer Nachrichten­
+dienst NSD (China)              312-313    Z
+Terrorismus, islamistischer      23, 56,   Ziviler Auslandsnachrichtendienst
+                58, 86, 97, 99, 102, 105   SWR (Russland)                       307
+Trotzkismus                         234
+Trust MC                            328
+Turan (Großtürkenreich)             129
+TV5 (Türkischer Fernsehsender)       68
+
+
+U
+Umvolkung             156, 160, 175, 198
+United Tribuns                 328, 334
+
+
+
+
+                                                                                                     349
+Verfassungsschutzbericht Bayern 2024                                                             Anhang
+
+
+                       VERZEICHNIS DER GENANNTEN ORGANISA-
+                       TIONEN UND GRUPPIERUNGEN
+                       In dieser Übersicht sind die im vorliegenden Verfassungsschutz­
+                       bericht in den jeweiligen Kapiteln genannten Organisationen und
+                       Gruppierungen aufgeführt, bei denen die vorliegenden tatsächli­
+                       chen Anhaltspunkte in ihrer Gesamtschau zu der Bewertung ge­
+                       führt haben, dass in der Organisation/Gruppierung verfassungs­
+                       feindliche Ziele verfolgt werden.
+
+                       Organisationen/Gruppierungen aus den Phänomenbereichen
+                       „Organisierte Kriminalität“ und „Spionageabwehr“ wurden nicht
+                       aufgenommen. Aus dem Bereich „Scientology“ erfolgte keine
+                       Aufnahme der internationalen Organisationsteile.
+
+
+
+                       ISLAMISMUS/ISLAMISTISCHER TERRORISMUS
+                       Al-Nahda                                                                          67
+                       Al-Qaida (AQ)                                          45, 56, 58, 81, 95, 100-102
+                       Al-Qaida auf der arabischen Halbinsel (AQAH)                                 95, 101
+                       Al-Qaida auf dem indischen Subkontinent (AQIS)                                   101
+                       Al-Qaida in Irak (AQI)                                                       101-102
+                       Al-Qaida im islamischen Maghreb (AQIM)                                           101
+                       al-Shabab                                                                    81, 109
+                       Basma für Kultur, Religion und Barrierefreiheit Passau e. V.                      91
+                       Bayerische Islamische Gemeinschaft (BIG) e. V.                                    87
+                       Boko Haram                                                                        81
+                       Deutsche Muslimische Gemeinschaft e. V. (DMG)
+                       (vormals Islamische Gemeinschaft in Deutschland e. V. (IGD)                64, 67-68
+                       Deutschsprachige Muslimische Gemeinschaft e. V.
+                       Braunschweig (DMG Braunschweig)                                                   98
+                       Erbakan-Stiftung (Milli Görüs-Bewegung)                                        68-71
+                       Freedom and Justice Party (FJP)                                                   65
+                       Furkan Bewegung (vormals Furkan-Gemeinschaft bzw.
+                       Furkan Stiftung für Bildung und Dienst)                                    64, 71-73
+                       Generation Islam (GI)                                                          61, 74
+                       HAMAS (Islamische Widerstandsbewegung)             7, 56, 59, 61, 66-67, 71, 74, 92,
+                                                                 102-103, 105, 120-121, 137-138, 140-141,
+                                                                        154, 220, 252-253, 262, 264, 314
+                       Hai’at Tahrir al-Sham (HTS) (vormals Jabhat al-Nusra (JaN)
+                       bzw. Jabhat Fath al-Sham (JFS))                                46, 58, 81-82, 86, 102
+
+350
+Anhang                                                               Verfassungsschutzbericht Bayern 2024
+
+
+
+
+Hilafet Devleti (Kalifatsstaat)                                           110-111
+Hizb Allah (Hizbollah/Hisbollah)                           56, 60-61, 78, 104-105
+Hizb ut-Tahrir (HuT)                                                    61, 64, 73
+IMAN                                                                          87-88
+Internationaler Kulturverein e. V. (Regensburg)                                  90
+Islamstudium.de (Lernplattform)                                                  87
+Islamisch albanisches Zentrum Ulm – Qendra islamike shqiptare
+Ulm e. V. (IAZ)                                                                  90
+Islamische Federation München El Salam-Moschee e. V.                             90
+Islamische Gemeinde Hof e. V. (IGH)                                              77
+Islamische Gemeinschaft der schiitischen Gemeinden
+in Deutschland e. V. (IGS)                                                       78
+Islamische Gemeinschaft Milli Görüs e. V. (IGMG)
+(Milli Görüs-Bewegung)                                      54, 61, 64, 68-70, 110
+Islamische Vereinigung in Bayern (IVB)                                        78-79
+Islamischer Staat (IS)                                         56, 58, 81, 99-101
+Islamischer Staat Provinz Khorasan (ISPK)                              58, 81, 101
+Islamischer Verein Augsburg e. V.                                                90
+Islamisches Buch- und Kulturhaus e. V (Augsburg)/
+Kuran ve Ehl-i Beyt Mektebi Augsburg                                             79
+Islamisches Zentrum Hamburg (IZH)                                             78-79
+Islamisches Zentrum München e. V. (IZM)                                          68
+Islamisches Zentrum Schwandorf (As-Salam Moschee) e. V.                          90
+Islamisches Zentrum Weiden e. V.                                                 90
+Ismael Aga Gemeinschaft (IAC) (Milli Görüs-Bewegung)                          69-71
+Jabhat al-Nusra (JaN)                                                           102
+Junud al-Sham (JaS)                                                             102
+Kultur- und Bildungszentrum Ingolstadt                                          110
+Kulturverein für deutschsprachige Muslime e. V.                                  77
+Kuran ve Ehl-i Beyt Mektebi Augsburg/Islamisches Buch- und Kulturhaus e. V.      79
+Milli Görüs-Bewegung                                        54, 61, 64, 68-70, 110
+Muslimbruderschaft (MB)                             56, 59, 61, 64-68, 72, 102-103
+Muslim Interaktiv (MI)                                                        61, 74
+Muslimischer Interaktionsverein Nürnberg e. V.                                   91
+Realität Islam (RI)                                                           61, 74
+Saadet Partisi (SP) (Milli Görüs-Bewegung)                                    69-70
+Salih Sanli-Stiftung                                                             77
+Somalische Gemeinde München e. V.                                                90
+Tablighi Jama’at (TJ)                                                   64, 76-77
+
+                                                                                                    351
+Verfassungsschutzbericht Bayern 2024                                                          Anhang
+
+
+
+                       The Islamic Education and Research Acadamy (iERA)                              88
+                       Vereinigung Passauer Muslime e. V. (vormals Islamisches Zentrum Passau e. V.) 91
+                       Wissensquelle (TJ)                                                             77
+
+
+                       AUSLANDSBEZOGENER EXTREMISMUS
+                       Arbeiterpartei Kurdistan (PKK) bzw. Volkskongress Kurdistan
+                       (KONGRA GEL), ehemals Freiheits- und Demokratiekongress
+                       Kurdistan (KADEK), Gemeinschaft der Kommunen in Kurdistan
+                       (KKK), Vereinigte Gemeinschaften Kurdistans (KCK)                114-115, 118-128,
+                                                                                                273, 315
+                       BDS-Bewegung (Boycott, Desinvestitionen und Sanktionen)                   137-138
+                       Demokratisches Kurdisches Gesellschaftszentrum Aschaffenburg e. V.            125
+                       Defend Kurdistan Bayern                                                       128
+                       Dialog der Kulturen e. V. (Nürnberg)                                          135
+                       Föderation der Arbeiter aus der Türkei in Deutschland e. V. (ATIF)        135-136
+                       Föderation der Türkisch-Demokratischen Idealistenvereine
+                       in Deutschland e. V. (ADÜTDF)                                                 130
+                       Föderation der Völker Kurdistans                                              125
+                       Freie türkisch-rechtsextremistische Szene                                 131-132
+                       Konföderation der Arbeiter aus der Türkei in Europa (ATIK)                    135
+                       Konföderation der Gemeinschaften Kurdistans in Deutschland e. V.
+                       (KON-MED) (vormals Dachverband Demokratisches Kurdisches
+                       Gesellschaftszentrum Deutschland e. V. (NAV-DEM)                         125, 128
+                       Kurdisches Zentrum München ehemals Kurdisches
+                       Gesellschaftszentrum München                                                  125
+                       Masar Badil/Samidoun                                                 117, 139, 141
+                       Medya Volkshaus e. V. (Nürnberg)                                         125, 128
+                       Münih Türk Kültür Merkezi – Türkisches Kultur Zentrum München
+                       „Bizim Ocak“ e. V.“                                                           131
+                       Neue Demokratische Jugend (YDG) – Jugendorganisation der TKP-ML               136
+                       Palästina spricht – München (PS MUC)                                          138
+                       Revolutionäre Volksbefreiungspartei-Front (DHKP-C)                        132-134
+                       Samidoun/Masar Badil                                                 117, 139, 141
+                       Türkisch-Islamischer Kultur Verein Augsburg e. V.                             131
+                       Türkische Arbeiter- und Bauernbefreiungsarmee (TIKKO)                         134
+                       Türkische Kommunistische Partei/Marxisten-Leninisten (TKP/ML)             134-136
+                       Türkische Kommunistische Partei-Marxisten-Leninisten (TKP-ML)             135-136
+                       Türkische Gemeinschaft in Nürnberg e. V.                                  130-131
+                       Türkisches Kultur und Bildungs Zentrum Aschaffenburg e. V.                130-131
+
+352
+Anhang                                                                    Verfassungsschutzbericht Bayern 2024
+
+
+
+
+Ülkücü-Bewegung                                             114-116, 118, 122, 129-132
+Volksbefreiungsarmee (HKO)                                                          134
+Volksfront zur Befreiung Palästinas (PFLP)                  117, 121, 137, 139, 141, 264
+
+
+RECHTSEXTREMISMUS
+Active Club Mainfranken                                                  164, 170, 208
+Active Club Nordgau                                                           164, 208
+Active Club Nürnberg                                                          164, 208
+Aktivitas der Burschenschaft Danubia München                                        204
+Aktivitas der Burschenschaft Teutonia Prag zu Würzburg                              191
+Alternative für Deutschland (AfD)               144, 157, 188-201, 246, 250-251, 277
+Ansgar Aryan                                                                        177
+Antikonform                                                                         174
+Artgemeinschaft – Germanische Glaubens-Gemeinschaft
+wesensgemäßer Lebensgestaltung e. V. (AG-GGG)                                       205
+Blood & Honour                                                                 209-210
+Burning Hate                                                                        174
+Compact-Magazin GmbH                                                 150, 175-176, 194
+Der Dritte Weg (III. Weg)                   48-49, 144, 153, 155, 158-160, 165-166,
+                                                                178, 183-188, 205, 207
+Die Heimat                                                      144, 155, 168, 179-183
+DIM Records                                                                         177
+Eskalation                                                                          174
+FSN-Shop                                                                            177
+Hammerskins                                                                         209
+Identitäre Bewegung Deutschland (IBD)                                155, 169, 201-202
+Institut für Staatspolitik/Verein für Staatspolitik e. V.
+(jetzt Metapolitik Verlags UG)                                                      176
+Jung & Stark Bayern (JS Bayern)                                           160, 207-208
+Junge Alternative für Deutschland (JA)                               189-192, 200-201
+Junge Alternative für Deutschland Bayern (JA Bayern)                188, 190, 198, 200
+Junge Nationalisten (JN)                                                            182
+Kodex Frei                                                                     174, 207
+Kollektiv Zukunft Schaffen – Heimat Schützen (KZSHS)                      152, 208-209
+Lederhosenrevolte (Identitäre Bewegung)                                             200
+Metapolitik Verlags UG (vormals Institut für Staatspolitik/
+Verein für Staatspolitik e. V.)                                                     176
+MPU                                                                                 174
+Nationaldemokratische Partei Deutschlands (NPD (2023))                179-180, 182-183
+
+                                                                                                         353
+Verfassungsschutzbericht Bayern 2024                                                    Anhang
+
+
+
+                       Nationalrevolutionäre Jugend (NRJ)                  48-49, 165, 178, 184-187
+                       Oldschool Records                                                  177, 207
+                       Patriotic Store                                                         177
+                       Politically Incorrect (PI-News)                                         175
+                       Prolligans                                                              174
+                       Reconquista 21 (Identitäre Bewegung)/
+                       vormals: Wackre Schwaben                              157, 197, 200, 202-204
+                       Spreegeschwader                                                         174
+                       Urweisse                                                                174
+                       Verlag Antaios                                                     176, 190
+                       Voice of Anger                                                      206-207
+                       White Rebel Boys/Voice                                                  174
+                       White Rex Store                                                         177
+                       White Youth                                                             210
+                       Wikingerversand                                                         177
+
+
+                       REICHSBÜRGER UND SELBSTVERWALTER
+                       Indigenes Volk Germaniten                                      223, 231-232
+                       Königreich Deutschland                                223, 225, 227, 228-229
+                       Vaterländischer Hilfsdienst (VHD)                                   230-231
+
+
+                       LINKSEXTREMISMUS
+                       antifa-info.net (Internetportal)                                   258, 277
+                       Antifa-NT                                                               274
+                       Antifa-Stammtisch München                                          243, 274
+                       Antifaschistische Aktion Regensburg                                     276
+                       Antifaschistische Aktion Süd                                  258, 275, 277
+                       Antifaschistischer Aufbau München                                  254, 275
+                       Antifaschistisches Aktionsbündnis Nürnberg                     246-247, 275
+                       Antikapitalistische Linke München (AL-M)                            257, 274
+                       Arbeiterbund für den Wiederaufbau der KPD (AB)                     264-266
+                       Budapest Antifascist Solidarity Committee (BASC)                        243
+                       Deutsche Kommunistische Partei (DKP)                                260-262
+                       DIE LINKE. Sozialistisch-demokratischer Studierendenverband
+                       (DIE LINKE.SDS)                                                     259-260
+                       Disrupt                                                                 248
+                       Ende Gelände                                                       248, 257
+                       Frauenverband Courage e. V.                                             263
+
+
+
+354
+Anhang                                                              Verfassungsschutzbericht Bayern 2024
+
+
+
+
+Freie Deutsche Jugend (FDJ)                                                  265
+In Aktion gegen Krieg und Militarismus (AKM)                                 274
+Initiative solidarischer ArbeiterInnen                                       275
+Interventionistische Linke (IL) Aschaffenburg/Nürnberg             246, 248, 269
+Jugendverband REBELL                                                         263
+Kinderorganisation ROTFÜCHSE                                                 263
+Linksjugend [’solid]                                                         259
+Marxistisch-Leninistische Partei Deutschlands (MLPD)                    263-264
+Nationalismus ist keine Alternative (NIKA)                                   274
+Offene Antifa Treffen Ingolstadt                                             273
+Offenes Antifaschistisches Treffen Augsburg                                  273
+Offenes antikapitalistisches Klimatreffen Augsburg                      257, 273
+Offenes antikapitalistisches Klimatreffen München
+(Teil der Antikapitalistischen Linken München/AL-M)                     257, 274
+Offenes antifaschistisches Plenum Rosenheim (OAPRO)                          243
+Organisierte Autonomie (OA) Nürnberg                           246, 254, 257, 275
+Perspektive Kommunismus (PK)                                            252, 277
+Prolos                                                                       275
+Revolutionäre Zukunft Nürnberg (RZN)                                    246, 275
+Rote Hilfe e. V. (RH)                                               266, 273-275
+Sozialrevolutionäre Aktion (SRA)                                             275
+Sozialistische Deutsche Arbeiterjugend (SDAJ)                            261-262
+…ums Ganze! (Bündnis)                                                        274
+Switch off (Online-Blog)                                                     259
+Zukunft erkämpfen                                                            275
+
+
+SCIENTOLOGY-ORGANISATION
+Applied Scholastics                                                     293-296
+Association for Better Living and Education (ABLE)                 290, 293, 296
+Celebrity Centre München e. V.                                               291
+Criminon                                                                     293
+Department of Special Affairs (DSA)                                          296
+Der Weg zum Glücklichsein
+(The Way to Happiness Foundation)                     281, 283-286, 289, 293, 297
+Ehrenamtliche Geistliche (Volunteer Ministers)            281, 286-289, 293, 297
+Gemeinsam für Menschenrechte                                                 294
+International Association of Scientologists (IAS)                            292
+Jugend für Menschenrechte e. V.                                         294, 296
+
+
+
+                                                                                                   355
+Verfassungsschutzbericht Bayern 2024                                                       Anhang
+
+
+
+                       Kommission für Verstöße der Psychiatrie gegen
+                       Menschenrechte in Deutschland e. V. (KVPM)          280, 282-283, 293-294, 296
+                       Lernakademie (Milbertshofen/München)                                      295
+                       Lernstudio Konrad (Laufen)                                                295
+                       Let’s better the world                                                    289
+                       Nachhilfe- und Sprachenschule Grübl und Kroggel (Zirndorf)                294
+                       Narconon                                                             293, 297
+                       Sag NEIN zu Drogen – Sag JA zum Leben                   280-282, 289, 293, 297
+                       Scientology Kirche Bayern e. V. (SKB)                                280, 290
+                       Scientology Kirche Deutschland e. V. (SKD)                       280, 290, 296
+                       World Institute of Scientology Enterprises (WISE)                290, 293, 296
+
+
+
+
+356
+Anhang   Verfassungsschutzbericht Bayern 2024
+
+
+
+
+                                        357
+Verfassungsschutzbericht Bayern 2024                                                       Anhang
+
+
+                       BILDNACHWEIS
+
+
+
+
+                       VORWORTE
+                       Seite 5           Beide Bilder: Bayerisches Staatsministerium des Innern,
+                                         für Sport und Integration
+                       Seite 7           Bild: BayLfV
+
+
+                       ALLGEMEINER TEIL
+                       Seite 19          Bild: BayLfV
+                       Seite 27          Bild: BayLfV
+                       Seite 31 Mitte    Broschüre: BayLfV
+                       Seite 31 unten    Broschüre: Bayerisches Staatsministerium des Innern,
+                                         für Sport und Integration
+                       Seite 32 oben     Broschüre: Bayerisches Staatsministerium des Innern,
+                                         für Sport und Integration
+                       Seite 32 Mitte    Broschüre: BayLfV
+                       Seite 33          Broschüre: Bayerisches Staatsministerium des Innern,
+                                         für Sport und Integration
+                       Seite 34          Broschüre: Bayerisches Staatsministerium des Innern,
+                                         für Sport und Integration
+                       Seite 35 Mitte    Broschüre: BayLfV
+                       Seite 35 unten    Broschüre BayLfV
+                       Seite 36          Broschüre: Bayerisches Staatsministerium des Innern,
+                                         für Sport und Integration
+
+
+                       RADIKALISIERUNG VON MINDERJÄHRIGEN UND
+                       JUGENDLICHEN
+                       Seite 40 links    Screenshot: TikTok
+                       Seite 40 rechts   Screenshot: TikTok
+                       Seite 41          Screenshot: Telegram
+                       Seite 44          Beide Screenshots: Rocket.Chat
+                       Seite 48 rechts   Beide Screenshots: Telegram
+                       Seite 49          Screenshot: BayLfV
+                       Seite 50          Beide Screenshots: BayLfV
+
+
+
+
+358
+Anhang                                                              Verfassungsschutzbericht Bayern 2024
+
+
+
+
+ISLAMISMUS
+Seite 61          Screenshot: X
+Seite 68          Bild: wikipedia.org mit CC BY-SA 3.0 lizensiert
+Seite 73          Screenshot: Instagram
+Seite 75          Alle Screenshots: Instagram
+Seite 80          Broschüre: Bayerisches Staatsministerium des Innern,
+                  für Sport und Integration
+Seite 83          Beide Screenshots: BayLfV
+Seite 86          Screenshot: https://islamstudium.de/
+Seite 87          Screenshot: Instagram
+Seite 88          Screenshot: Instagram
+Seite 89          Screenshot: Instagram
+Seite 91          Screenshot: YouTube
+Seite 93          Screenshot: Rocket.Chat
+Seite 94          Screenshots: Internet
+Seite 95 oben     Screenshot: ChirpWire
+Seite 95 unten    Screenshot: Rocket.Chat
+Seite 96 links    Screenshot: Telegram
+Seite 96 rechts   Screenshot: Rocket.Chat
+
+
+AUSLANDSBEZOGENER EXTREMISMUS
+Seite 119 oben    Screenshot: Internet
+Seite 119 Mitte   picture alliance / abaca | DIA Images/ABACA
+Seite 120         Bild: BayLfV
+Seite 135         Screenshot: X
+Seite 136         Beide Screenshots: X
+Seite 137         picture alliance / ZUMAPRESS.com | Sachelle Babbar
+Seite 138         Screenshot Instagram
+Seite 139         Screenshot Instagram
+Seite 140
+unten links       Screenshot Instagram
+Seite 140
+unten rechts      Screenshot: X
+
+
+
+
+                                                                                                   359
+Verfassungsschutzbericht Bayern 2024                                                      Anhang
+
+
+
+
+                       RECHTSEXTREMISMUS
+                       Seite 152       Screenshot: Telegram
+                       Seite 158       Screenshot: Facebook
+                       Seite 161       Screenshot: Instagram
+                       Seite 164       Screenshot: BayLfV
+                       Seite 166       Screenshot: Telegram
+                       Seite 168       Screenshot: https://odysee.com/@Kvltgames:c/
+                                       TGRAnnouncement:5 abgerufen am 17.01.2023
+                       Seite 169       Screenshot: BayLfV
+                       Seite 170       Screenshot: Telegram
+                       Seite 185       Screenshot: https://www.materialvertrieb.de/produkt/buch-
+                                       jugend-revolutionaer-bewegung/
+                       Seite 195       Screenshot: Facebook
+                       Seite 196       Screenshot: BayLfV
+                       Seite 198       Screenshot: Facebook
+                       Seite 200       Screenshot: X
+                       Seite 203       Screenshot Instagram
+                       Seite 204       Screenshot BayLfV
+                       Seite 207       Bild: BayLfV
+
+
+                       REICHSBÜRGER UND SELBSTVERWALTER
+                       Seite 226       Screenshot Telegram
+                       Seite 227       Screenshot: BayLfV
+                       Seite 228       Screenshot: BayLfV
+                       Seite 230       Screenshot: https://www.hilfsdienst.net/
+                                       aktuell-1b.html?page_n172=2
+                       Seite 231       Screenshot: https://www.hilfsdienst.net/startseite.html
+
+
+
+
+360
+Anhang                                                                 Verfassungsschutzbericht Bayern 2024
+
+
+
+
+LINKSEXTREMISMUS
+Seite 240         Bild: Bundespolizeiinspektion München
+Seite 242 links   Screenshot X
+Seite 242 Mitte   Screenshot X
+Seite 242 rechts Screenshot X
+Seite 247         Bild: IMAGO / Ardan Fuessmann
+Seite 259         Screenshot: https://switchoff.noblogs.org/
+Seite 264         Bild: www.arbeiterbund-fuer-den-wiederaufbau-der-kpd.de/
+                  analysen.html
+Seite 277         Screenshot: Instagram oap_ro v. 28.02.2024
+
+
+SCIENTOLOGY-ORGANISATION
+Seite 281         https://www.sag-nein-zu-drogen.de/aufklaerungs-material/
+                  info-hefte.html
+Seite 283 Mitte   Bild BayLfV
+Seite 286         Screenshot: https://open.spotify.com/
+                  show/2Cyp2r5uMNEA4fxcCEkYiW
+Seite 290         Bild: https://www.scientology-fso.org/inside-our-church
+
+
+SPIONAGEABWEHR/CAZ
+Seite 307         Bild: picture alliance/dpa/TASS | Sergei Karpukhin
+Seite 308         Bild: IMAGO / / ITAR-TASS
+Seite 309         Cover: BayLfV
+Seite 311         Broschüre: BayLfV
+Seite 314         Bild: picture alliance / AA | Aytac Unal
+Seite 317         Bild: BayLfV
+Seite 320         Broschüre: BayLfV
+Seite 325         Broschüre: Verfassungsschutzverbund
+
+
+
+
+                                                                                                      361
+Verfassungsschutzbericht Bayern 2024
+
+
+
+
+362
+                                                                             Verfassungsschutzbericht Bayern 2024
+
+
+
+
+Impressum
+
+Herausgeber:       Bayerisches Staatsministerium des Innern, für Sport und Integration
+                   Odeonsplatz 3, 80539 München
+                   www.innenministerium.bayern.de
+Redaktion:         Abteilung Verfassungsschutz, Cybersicherheit in Zusammenarbeit mit
+                   dem Bayerischen Landesamt für Verfassungsschutz
+Gestaltung:        IKW team GmbH, München
+Stand:             April 2025
+Druck:             StMI (Pressefassung);
+                   gedruckt auf umweltzertifiziertem Papier
+
+
+
+Hinweis
+Diese Druckschrift wird im Rahmen der Öffentlichkeitsarbeit der Bayerischen Staatsregierung
+herausgegeben. Sie darf weder von Parteien noch von Wahlwerbern oder Wahlhelfern im
+Zeit­­raum von 5 Monaten vor einer Wahl zum Zwecke der Wahlwerbung verwendet werden.
+Dies gilt für Landtags-, Bundestags-, Kommunal- und Europawahlen. Missbräuchlich ist wäh­
+rend dieser Zeit insbesondere die Verteilung auf Wahlveranstaltungen, an Informationsständen
+der Parteien sowie das Einlegen, Aufdrucken und Aufkleben parteipolitischer Informationen
+oder Werbemittel. Untersagt ist gleichfalls die Weitergabe an Dritte zum Zwecke der Wahlwer­
+bung. Auch ohne zeitlichen Bezug zu einer bevorstehenden Wahl darf die Druckschrift nicht in
+einer Weise verwendet werden, die als Parteinahme der Staatsregierung zugunsten einzelner
+politischer Gruppen verstanden werden könnte. Den Parteien ist es gestattet, die Druckschrift
+zur Unterrichtung ihrer eigenen Mitglieder zu verwenden.
+
+
+
+
+                              Wollen Sie mehr über die Arbeit der
+                              Bayerischen Staatsregierung erfahren?
+
+                              BAYERN | DIREKT ist Ihr direkter Draht
+                              zur Bayerischen Staatsregierung.
+
+
+
+Unter Telefon 089 122220 oder per E-Mail an direkt@bayern.de erhalten Sie Informationsmate­
+rial und Broschüren, Auskünfte zu aktuellen Themen und Internetquellen sowie Hinweise
+zu Behörden, zuständigen Stellen und Ansprechpartnern bei der Bayerischen Staatsregierung.
+
+Die Servicestelle kann keine Rechtsberatung in Einzelfällen geben.
+
+
+
+
+                                                                                                            363
+Verfassungsschutzbericht Bayern 2024
+
+
+
+
+                               365
+www.x.com/BayStMI
+
+
+www.instagram.com/BayStMI
+
+
+www.facebook.com/BayStMI
+
+
+www.youtube.de/BayerischesInnenministerium
+
+„Let’s talk Innenpolitik“ mit Joachim Herrmann –
+unser Podcast auf allen großen Plattformen
+
+www.innenministerium.bayern.de
+www.verfassungsschutz.bayern.de
+

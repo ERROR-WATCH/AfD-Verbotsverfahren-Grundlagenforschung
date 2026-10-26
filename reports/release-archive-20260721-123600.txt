@@ -1,0 +1,6 @@
+timestamp=20260721-123600
+release_zip=releases/afd-verbotsverfahren-grundlagenforschung-20260721-123600-release.zip
+archive_zip=archives/afd-verbotsverfahren-grundlagenforschung-20260721-123600-release.zip
+1.6G	releases/afd-verbotsverfahren-grundlagenforschung-20260721-123600-release.zip
+1.6G	archives/afd-verbotsverfahren-grundlagenforschung-20260721-123600-release.zip
+41118882342027f67bfba99a4845ee12d6dfa290c75a3253c53e73bdc7d1c0e0  releases/afd-verbotsverfahren-grundlagenforschung-20260721-123600-release.zip

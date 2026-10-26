@@ -1,0 +1,10 @@
+OFFIZIELLES DIENSTVERFAHREN: MATTHIAS MOOSDORF (MdB)
+Behörde: Staatsanwaltschaft Berlin / Bundestag Immunitätsausschuss
+Datum: Laufend (Stand 2026)
+Delikt: Verwenden verfassungswidriger Kennzeichen (Hitlergruß im Reichstagsgebäude).
+
+SACHVERHALT:
+Der Bundestagsabgeordnete Matthias Moosdorf zeigte im Reichstagsgebäude vor Zeugen den verbotenen Hitlergruß. Der Immunitätsausschuss hob seine Immunität für strafrechtliche Ermittlungen auf.
+
+OFFIZIELLER DIREKT-QUELLENLINK (GERICHTS- & PRESSEPROVENIENZ):
+https://www.tagesschau.de/inland/innenpolitik/moosdorf-hitlergruss-ermittlungsverfahren-100.html

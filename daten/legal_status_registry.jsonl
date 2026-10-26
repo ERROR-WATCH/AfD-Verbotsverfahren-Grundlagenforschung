@@ -1,0 +1,10 @@
+{"code": "rechtskraeftig", "definition": "Rechtskraeftige Entscheidung oder bestandskraeftiger Status.", "label": "rechtskraeftig"}
+{"code": "gerichtlich_bestaetigt", "definition": "Gerichtliche Bestaetigung, ggf. ohne Hauptsacherechtskraft.", "label": "gerichtlich bestaetigt"}
+{"code": "eilverfahren_bestaetigt", "definition": "Vorlaeufiger Rechtsschutz bestaetigt Behoerden-/Statushandlung.", "label": "im Eilverfahren bestaetigt"}
+{"code": "hauptsache_anhaengig_statusgetrennt", "definition": "Hauptsacheverfahren noch nicht abgeschlossen.", "label": "Hauptsache anhängig; Status getrennt geführt"}
+{"code": "amtliche_einstufung", "definition": "BfV/LfV/BMI/BKA oder andere Behoerde weist Status oder Lage aus.", "label": "amtliche Einstufung"}
+{"code": "stillhaltezusage", "definition": "Behoerde setzt Behandlung/Kommunikation vorlaeufig aus.", "label": "Stillhaltezusage"}
+{"code": "anklage", "definition": "Foermliche Anklage erhoben; keine Verurteilung.", "label": "Anklage"}
+{"code": "ermittlungen", "definition": "Ermittlungsstand; keine gerichtliche Feststellung.", "label": "Ermittlungen"}
+{"code": "freispruch_entlastung", "definition": "Entlastender oder nicht belastender Verfahrensausgang sichtbar halten.", "label": "Freispruch/Entlastung"}
+{"code": "presse_recherchebeleg", "definition": "Faktenbasierter Bericht; Primaeranker ergaenzen.", "label": "Presse-/Recherchebeleg"}

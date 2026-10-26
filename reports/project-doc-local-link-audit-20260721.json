@@ -1,0 +1,75 @@
+{
+  "checked_at": "2026-07-21T15:01:55.617Z",
+  "files_checked": [
+    "README.md",
+    "PUBLIC_SOURCES.md",
+    "PUBLIC_EXTENDED_SOURCES.md",
+    "ORIGINAL_SOURCES.md",
+    "URTEILE_DEEPRESEARCH.md",
+    "STATISTIKMODUL.md",
+    "STATISTIK_METHODIK.md",
+    "STATISTIK_TAB_DEEPRESEARCH_VERWERTBARKEIT.md",
+    "STATISTIK_TAB_INHALTLICHE_VISUALISIERUNG.md",
+    "index.html",
+    "dashboard/statistik.html",
+    "dokumente/index.html"
+  ],
+  "missing_local_links": 13,
+  "malformed_local_links": 0,
+  "external_links_seen": 778,
+  "missing": [
+    {
+      "file": "index.html",
+      "href": "${c.beleg}"
+    },
+    {
+      "file": "index.html",
+      "href": "${pressHref}"
+    },
+    {
+      "file": "index.html",
+      "href": "${q.path}"
+    },
+    {
+      "file": "index.html",
+      "href": "${escapeHtml(sourceHref)}"
+    },
+    {
+      "file": "index.html",
+      "href": "${doc.path}"
+    },
+    {
+      "file": "index.html",
+      "href": "${src}"
+    },
+    {
+      "file": "index.html",
+      "href": "(https:\\/\\/github\\.com\\/user-attachments\\/assets\\/[^"
+    },
+    {
+      "file": "index.html",
+      "href": "${url}"
+    },
+    {
+      "file": "index.html",
+      "href": "([^"
+    },
+    {
+      "file": "index.html",
+      "href": "${url}"
+    },
+    {
+      "file": "index.html",
+      "href": "(https:\\/\\/www\\.youtube\\.com\\/watch\\"
+    },
+    {
+      "file": "index.html",
+      "href": "${url}"
+    },
+    {
+      "file": "index.html",
+      "href": ");\n\n                    readmeContent.innerHTML = html;\n                } catch (e) {\n                    console.error("
+    }
+  ],
+  "malformed": []
+}

@@ -1,0 +1,114 @@
+[
+  {
+    "label": "304 TAG24 Daniel Zabel",
+    "url": "https://www.tag24.de/dresden/prozess-in-dresden-gefangene-geschlagen-und-drangsaliert-afd-politiker-daniel-zabel-verurteilt-2962206",
+    "http_code": "200",
+    "effective_url": "https://www.tag24.de/dresden/prozess-in-dresden-gefangene-geschlagen-und-drangsaliert-afd-politiker-daniel-zabel-verurteilt-2962206",
+    "exit_code": 0,
+    "stderr": ""
+  },
+  {
+    "label": "305 KSTA Koeln Mitarbeiter",
+    "url": "https://www.ksta.de/koeln/stoerung-einer-kundgebung-ehemaliger-afd-mitarbeiter-des-koelner-stadtrates-verurteilt-684297",
+    "http_code": "200",
+    "effective_url": "https://www.ksta.de/koeln/stoerung-einer-kundgebung-ehemaliger-afd-mitarbeiter-des-koelner-stadtrates-verurteilt-684297",
+    "exit_code": 0,
+    "stderr": ""
+  },
+  {
+    "label": "306 Tagesschau Harlass",
+    "url": "https://www.tagesschau.de/inland/regional/sachsen/mdr-vorwurf-volksverhetzung-freispruch-von-afd-politiker-harlass-bestaetigt-100.html",
+    "http_code": "200",
+    "effective_url": "https://www.mdr.de/nachrichten/sachsen/dresden/dresden-radebeul",
+    "exit_code": 0,
+    "stderr": ""
+  },
+  {
+    "label": "307 n-tv Schneider-Gaertner",
+    "url": "https://www.n-tv.de/regionales/mecklenburg-vorpommern/Strafbefehl-gegen-Ex-AfD-Landtagsabgeordnete-article24722556.html",
+    "http_code": "200",
+    "effective_url": "https://www.n-tv.de/regionales/mecklenburg-vorpommern/Strafbefehl-gegen-Ex-AfD-Landtagsabgeordnete-article24722556.html",
+    "exit_code": 0,
+    "stderr": ""
+  },
+  {
+    "label": "308 Soester Anzeiger Mirko Fischer",
+    "url": "https://www.soester-anzeiger.de/lokales/soest/urteil-afd-demo-bjoern-hoecke-geldstrafe-soester-ex-afd-politiker-mirko-fischer-ratsherr-kreistag-linke-91946629.html",
+    "http_code": "200",
+    "effective_url": "https://www.soester-anzeiger.de/lokales/soest/urteil-afd-demo-bjoern-hoecke-geldstrafe-soester-ex-afd-politiker-mirko-fischer-ratsherr-kreistag-linke-91946629.html",
+    "exit_code": 0,
+    "stderr": ""
+  },
+  {
+    "label": "309 MOZ Marcel Donsch",
+    "url": "https://www.moz.de/lokales/bernau/prozess-am-amtsgericht-bernau-frueherer-afd-politiker-marcel-donsch-akzeptiert-urteil-nicht-_-haette-strafe-politische-folgen_-68436711.html",
+    "http_code": "200",
+    "effective_url": "https://www.moz.de/lokales/bernau/prozess-am-amtsgericht-bernau-frueherer-afd-politiker-marcel-donsch-akzeptiert-urteil-nicht-_-haette-strafe-politische-folgen_-68436711.html",
+    "exit_code": 0,
+    "stderr": ""
+  },
+  {
+    "label": "309 taz Gewaltbereite AfD",
+    "url": "https://taz.de/Gewaltbereite-AfD-Funktionaere/!5997422/",
+    "http_code": "404",
+    "effective_url": "https://taz.de/Gewaltbereite-AfD-Funktionaere/!5997422/",
+    "exit_code": 0,
+    "stderr": ""
+  },
+  {
+    "label": "310 t-online Roman Mrugalla",
+    "url": "https://essen.t-online.de/region/essen/id_100302164/velbert-polizisten-nehmen-afd-politiker-bei-ratssitzung-fest.html",
+    "http_code": "200",
+    "effective_url": "https://essen.t-online.de/region/essen/id_100302164/velbert-polizisten-nehmen-afd-politiker-bei-ratssitzung-fest.html",
+    "exit_code": 0,
+    "stderr": ""
+  },
+  {
+    "label": "310 Correctiv Datensatz",
+    "url": "https://download.correctiv.org/flourish/gewalt-als-alternative/",
+    "http_code": "200",
+    "effective_url": "https://download.correctiv.org/flourish/gewalt-als-alternative/",
+    "exit_code": 0,
+    "stderr": ""
+  },
+  {
+    "label": "310 Correctiv Artikel",
+    "url": "https://correctiv.org/aktuelles/neue-rechte/2024/04/05/gewalt-als-alternative-14-verurteilte-afd-mandatstraeger-im-amt/",
+    "http_code": "200",
+    "effective_url": "https://correctiv.org/aktuelles/neue-rechte/2024/04/05/gewalt-als-alternative-14-verurteilte-afd-mandatstraeger-im-amt/",
+    "exit_code": 0,
+    "stderr": ""
+  },
+  {
+    "label": "311 BRG Iven Goerbig",
+    "url": "https://verband-brg.de/analyse-gewaltbereitschaft-bei-afd-funktionaer-innen/",
+    "http_code": "200",
+    "effective_url": "https://verband-brg.de/analyse-gewaltbereitschaft-bei-afd-funktionaer-innen/",
+    "exit_code": 0,
+    "stderr": ""
+  },
+  {
+    "label": "311 SessionNet UH AfD-Fraktion",
+    "url": "https://sessionnet.uh-kreis.de/bi/kp0040.asp?__cwpall=1&__kgrnr=17",
+    "http_code": "200",
+    "effective_url": "https://sessionnet.uh-kreis.de/bi/kp0040.asp?__cwpall=1&__kgrnr=17",
+    "exit_code": 0,
+    "stderr": ""
+  },
+  {
+    "label": "312 Correctiv Kneller",
+    "url": "https://correctiv.org/aktuelles/afd/2026/07/08/afd-vorstand-voelkisch-parteitag-erfurt/",
+    "http_code": "200",
+    "effective_url": "https://correctiv.org/aktuelles/afd/2026/07/08/afd-vorstand-voelkisch-parteitag-erfurt/",
+    "exit_code": 0,
+    "stderr": ""
+  },
+  {
+    "label": "312 AfD Watch Bielefeld Kneller",
+    "url": "https://afdwatchbielefeld.noblogs.org/personal/maximilian-kneller/",
+    "http_code": "200",
+    "effective_url": "https://afdwatchbielefeld.noblogs.org/personal/maximilian-kneller/",
+    "exit_code": 0,
+    "stderr": ""
+  }
+]

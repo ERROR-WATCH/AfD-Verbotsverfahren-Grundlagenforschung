@@ -1,0 +1,213 @@
+{
+  "generated_at": "2026-07-09T18:23:07.401Z",
+  "candidate_files": 7742,
+  "groups": [
+    {
+      "family": "BfV-2025-Statistikanalyse",
+      "files": 1,
+      "examples": [
+        "dokumente/hauptquellen/Analyse_Verfassungsschutzbericht_2025_Statistiken_AfD_Rechtsextremismus.md"
+      ],
+      "in_source_inventory": true,
+      "in_full_index": true,
+      "in_statistics_manifest": true,
+      "in_findings": true,
+      "status": "beruecksichtigt"
+    },
+    {
+      "family": "BfV-Folgegutachten 2021",
+      "files": 138,
+      "examples": [
+        "dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_01_A_Einfuehrung.md",
+        "dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_02_B_Methodik.md",
+        "dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_03_C_Rechtliche_Vorgaben.md",
+        "dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_04_D_Struktur_und_Entwicklung.md",
+        "dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_05_E_Einflussnahme_Fluegel.md",
+        "dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_05_E_Einflussnahme_Fluegel__pages_1_to_50.md",
+        "dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_05_E_Einflussnahme_Fluegel__pages_51_to_59.md",
+        "dokumente/ki_markdown/geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde.md"
+      ],
+      "in_source_inventory": true,
+      "in_full_index": true,
+      "in_statistics_manifest": true,
+      "in_findings": true,
+      "status": "beruecksichtigt"
+    },
+    {
+      "family": "BfV-Geheimgutachten Teil A/B",
+      "files": 103,
+      "examples": [
+        "dokumente/ki_markdown/geheimgutachten/Geheimgutachten_Teil A_pages_101_to_200.md",
+        "dokumente/ki_markdown/geheimgutachten/Geheimgutachten_Teil A_pages_101_to_200__pages_1_to_50.md",
+        "dokumente/ki_markdown/geheimgutachten/Geheimgutachten_Teil A_pages_101_to_200__pages_51_to_100.md",
+        "dokumente/ki_markdown/geheimgutachten/Geheimgutachten_Teil A_pages_1_to_100.md",
+        "dokumente/ki_markdown/geheimgutachten/Geheimgutachten_Teil A_pages_1_to_100__pages_1_to_50.md",
+        "dokumente/ki_markdown/geheimgutachten/Geheimgutachten_Teil A_pages_1_to_100__pages_51_to_100.md",
+        "dokumente/ki_markdown/geheimgutachten/Geheimgutachten_Teil A_pages_201_to_300.md",
+        "dokumente/ki_markdown/geheimgutachten/Geheimgutachten_Teil A_pages_201_to_300__pages_1_to_50.md"
+      ],
+      "in_source_inventory": true,
+      "in_full_index": true,
+      "in_statistics_manifest": false,
+      "in_findings": true,
+      "status": "beruecksichtigt"
+    },
+    {
+      "family": "BfV-Metagutachten / Untersuchung",
+      "files": 16,
+      "examples": [
+        "dokumente/hauptquellen/untersuchung-bfv-gutachten-und-afd-parteiverbot.pdf",
+        "dokumente/ki_markdown/dokumente/hauptquellen/untersuchung-bfv-gutachten-und-afd-parteiverbot.md",
+        "dokumente/ki_markdown/dokumente/hauptquellen/untersuchung-bfv-gutachten-und-afd-parteiverbot__pages_1_to_50.md",
+        "dokumente/ki_markdown/dokumente/hauptquellen/untersuchung-bfv-gutachten-und-afd-parteiverbot__pages_51_to_66.md",
+        "dokumente/ki_markdown/dokumente/splits/untersuchung_bfv_gutachten_split_1_sachverhalt_und_vfs.md",
+        "dokumente/ki_markdown/dokumente/splits/untersuchung_bfv_gutachten_split_2_wehrhafte_demokratie_parteiverbot.md",
+        "dokumente/ki_markdown/dokumente/splits/untersuchung_bfv_gutachten_split_3_menschenwuerde_npd_urteil.md",
+        "dokumente/ki_markdown/dokumente/splits/untersuchung_bfv_gutachten_split_4_begriffsverstaendnis_afd_gutachten.md"
+      ],
+      "in_source_inventory": true,
+      "in_full_index": true,
+      "in_statistics_manifest": false,
+      "in_findings": true,
+      "status": "beruecksichtigt"
+    },
+    {
+      "family": "GFF-Gutachten",
+      "files": 86,
+      "examples": [
+        "dokumente/ki_markdown/dokumente/splits/GFF_AfD-Gutachten_Teil_01_Inhaltsueberblick_Zusammenfassung.md",
+        "dokumente/ki_markdown/dokumente/splits/GFF_AfD-Gutachten_Teil_01_Inhaltsueberblick_Zusammenfassung__pages_101_to_124.md",
+        "dokumente/ki_markdown/dokumente/splits/GFF_AfD-Gutachten_Teil_01_Inhaltsueberblick_Zusammenfassung__pages_1_to_50.md",
+        "dokumente/ki_markdown/dokumente/splits/GFF_AfD-Gutachten_Teil_01_Inhaltsueberblick_Zusammenfassung__pages_51_to_100.md",
+        "dokumente/ki_markdown/dokumente/splits/GFF_AfD-Gutachten_Teil_02_Einfuehrung.md",
+        "dokumente/ki_markdown/dokumente/splits/GFF_AfD-Gutachten_Teil_02_Einfuehrung__pages_1_to_50.md",
+        "dokumente/ki_markdown/dokumente/splits/GFF_AfD-Gutachten_Teil_02_Einfuehrung__pages_51_to_72.md",
+        "dokumente/ki_markdown/dokumente/splits/GFF_AfD-Gutachten_Teil_03_Teil_1_Entwicklung_Machtzentren_Vorfeld.md"
+      ],
+      "in_source_inventory": true,
+      "in_full_index": true,
+      "in_statistics_manifest": true,
+      "in_findings": true,
+      "status": "beruecksichtigt"
+    },
+    {
+      "family": "Sonstige Analyse/Gutachten",
+      "files": 7336,
+      "examples": [
+        "GUTACHTEN_BERICHTE_INHALTLICHE_DEEPRESEARCH.md",
+        "afd-verbot-deepresearch-ausgangspunkt.md",
+        "afd-verbot-deepresearch-ausgangspunkt.txt",
+        "dokumente/hauptquellen/13_www.campact.de_afd-verbotsverfahren_petition.pdf",
+        "dokumente/hauptquellen/AfD-Verbot hätte laut neuem Gutachten „wahrscheinlich Erfolg“.pdf",
+        "dokumente/hauptquellen/AfD-Verbot_ Alle Anträge, Abstimmungen und Gutachten.pdf",
+        "dokumente/hauptquellen/AfD-Verbot__Alle_Anträge,_Abstimmungen_und_Gutachten.pdf",
+        "dokumente/hauptquellen/AfD-Verbot_hätte_laut_neuem_Gutachten_„wahrscheinlich_Erfolg“.pdf"
+      ],
+      "in_source_inventory": true,
+      "in_full_index": true,
+      "in_statistics_manifest": false,
+      "in_findings": true,
+      "status": "beruecksichtigt"
+    },
+    {
+      "family": "Behindertenfeindlichkeit-Analyse",
+      "files": 2,
+      "examples": [
+        "dokumente/hauptquellen/Analyse_Die_AfD_eine_Gefahr_fuer_Menschen_mit_Behinderungen.pdf",
+        "dokumente/ki_markdown/dokumente/hauptquellen/Analyse_Die_AfD_eine_Gefahr_fuer_Menschen_mit_Behinderungen.md"
+      ],
+      "in_source_inventory": true,
+      "in_full_index": true,
+      "in_statistics_manifest": false,
+      "in_findings": false,
+      "status": "nur inventar/index, nicht in Beweisstatistik"
+    },
+    {
+      "family": "DIMR / Hendrik Cremer",
+      "files": 10,
+      "examples": [
+        "dokumente/hauptquellen/02_www.institut-fuer-menschenrechte.de_fileadmin_Redaktion_Publikationen_Analyse_Studie_Analyse_Warum_die_AfD_verboten_werden_koennte.pdf.pdf",
+        "dokumente/hauptquellen/08_www.institut-fuer-menschenrechte.de_fileadmin_Redaktion_Publikationen_Analyse_Studie_Analyse_Warum_die_AfD_verboten_werden_koennte.pdf.pdf",
+        "dokumente/hauptquellen/Analyse_Warum_die_AfD_verboten_werden_koennte.pdf",
+        "dokumente/hauptquellen/DIMR_Analyse_Warum_die_AfD_verboten_werden_koennte.pdf",
+        "dokumente/hauptquellen/DIMR_Analyse_Warum_die_AfD_verboten_werden_koennte_Official_2023.pdf",
+        "dokumente/hauptquellen/DIMR_Analyse_Warum_die_AfD_verboten_werden_koennte_Original.pdf",
+        "dokumente/hauptquellen/warum_die_afd_verboten_gehört.pdf",
+        "dokumente/ki_markdown/dokumente/hauptquellen/DIMR_Analyse_Warum_die_AfD_verboten_werden_koennte.md"
+      ],
+      "in_source_inventory": true,
+      "in_full_index": true,
+      "in_statistics_manifest": false,
+      "in_findings": false,
+      "status": "nur inventar/index, nicht in Beweisstatistik"
+    },
+    {
+      "family": "KI-generierte Analysen",
+      "files": 21,
+      "examples": [
+        "dokumente/hauptquellen/ChatGPT - Analyse-Beispiel-2.pdf",
+        "dokumente/hauptquellen/ChatGPT - Analyse-Beispiel-3.pdf",
+        "dokumente/hauptquellen/ChatGPT - Analyse-Beispiel-4.pdf",
+        "dokumente/hauptquellen/ChatGPT - Analyse-Beispiel.pdf",
+        "dokumente/hauptquellen/ChatGPT - Szenarioanalyse_ AfD-Wahlsieg 2025 und Regierungsübernahme (2025–2029).pdf",
+        "dokumente/hauptquellen/ChatGPT-Agent-Repo Analyse durchführen.pdf",
+        "dokumente/hauptquellen/ChatGPT-Agent-Repo_Analyse_durchführen.pdf",
+        "dokumente/hauptquellen/ChatGPT_-_Analyse-Beispiel-2.pdf"
+      ],
+      "in_source_inventory": true,
+      "in_full_index": true,
+      "in_statistics_manifest": false,
+      "in_findings": false,
+      "status": "nur inventar/index, nicht in Beweisstatistik"
+    },
+    {
+      "family": "Presseberichte zu Gutachten",
+      "files": 21,
+      "examples": [
+        "dokumente/hauptquellen/04_www.zdfheute.de_politik_deutschland_afd-verfassungsschutz-gutachten-rechtsextremistisch-100.html.pdf",
+        "dokumente/hauptquellen/10_www.zdfheute.de_politik_deutschland_afd-verfassungsschutz-gutachten-rechtsextremistisch-100.html.pdf",
+        "dokumente/hauptquellen/ZDFheute_Bericht_VS_Gutachten_AfD.pdf",
+        "dokumente/hauptquellen/ZDFheute_Bericht_VS_Gutachten_AfD_Original.pdf",
+        "dokumente/hauptquellen/lto.de_recht_hintergruende_h_afd-verbot-parteiverbot-bverfg-npd-gutachten.pdf",
+        "dokumente/hauptquellen/lto.de_recht_hintergruende_h_interview-felor-badenberg-afd-verbot-landesverband-thueringen-hoecke-verfassun.pdf",
+        "dokumente/hauptquellen/lto.de_recht_weitere-meldungen_m_gutachterstreit-afd-parteiverbotsverfahren.pdf",
+        "dokumente/hauptquellen/stern.de_politik_deutschland_afd-verbot--gutachten-von-experten-sieht-gute-chancen-37601426_html.md"
+      ],
+      "in_source_inventory": true,
+      "in_full_index": true,
+      "in_statistics_manifest": false,
+      "in_findings": false,
+      "status": "nur inventar/index, nicht in Beweisstatistik"
+    },
+    {
+      "family": "Rechtliche Stellungnahme AfD-Parteiverbot",
+      "files": 2,
+      "examples": [
+        "dokumente/hauptquellen/44Rechtliche_Stellungnahme_AfD-Parteiverbot.pdf",
+        "dokumente/ki_markdown/dokumente/hauptquellen/44Rechtliche_Stellungnahme_AfD-Parteiverbot.md"
+      ],
+      "in_source_inventory": true,
+      "in_full_index": true,
+      "in_statistics_manifest": false,
+      "in_findings": false,
+      "status": "nur inventar/index, nicht in Beweisstatistik"
+    },
+    {
+      "family": "Verfassungsblog-Art.21-Analysen",
+      "files": 6,
+      "examples": [
+        "dokumente/hauptquellen/verfassungsblog.de_afd-parteiverbot-verfassungsrecht.pdf",
+        "dokumente/hauptquellen/verfassungsblog.de_afd-parteiverbot.pdf",
+        "dokumente/hauptquellen/verfassungsblog.de_partGeltungsbereich-art21gg.pdf",
+        "dokumente/ki_markdown/dokumente/hauptquellen/verfassungsblog.de_afd-parteiverbot-verfassungsrecht.md",
+        "dokumente/ki_markdown/dokumente/hauptquellen/verfassungsblog.de_afd-parteiverbot.md",
+        "dokumente/ki_markdown/dokumente/hauptquellen/verfassungsblog.de_partGeltungsbereich-art21gg.md"
+      ],
+      "in_source_inventory": true,
+      "in_full_index": true,
+      "in_statistics_manifest": false,
+      "in_findings": false,
+      "status": "nur inventar/index, nicht in Beweisstatistik"
+    }
+  ]
+}

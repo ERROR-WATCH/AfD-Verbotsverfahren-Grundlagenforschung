@@ -1,0 +1,11 @@
+Release archive report
+Timestamp: 2026-07-22T10:16:20+02:00
+Tag: afd-research-20260722-101620
+Commit: 45eda48b6f70c9c26ce4a6580dae0bdbf61a0c54
+Zip: releases/afd-verbotsverfahren-grundlagenforschung-20260722-101620-release.zip
+Archive copy: archives/afd-verbotsverfahren-grundlagenforschung-20260722-101620-release.zip
+SHA256: a1a751780b88bf338873df44104ab7666686a7e2ea0a04f59a3f2458be6f88a5
+Build: npm run build passed before release packaging
+Statistics validation: Fatal 0; Warnings 0
+Pages link validation: 4 files, 0 missing links
+Change scope: Verbotsgründe typo Missbrauchspällen -> Missbrauchsfällen; release timestamp refreshed.

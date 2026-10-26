@@ -1,0 +1,227 @@
+{
+  "generated_at": "2026-07-09",
+  "purpose": "Beweis- und Quellenmatrix fuer den massiv erweiterten Statistik-Tab; jede Achse trennt Aussage, lokale Belege, Webanker, Statistiknutzen und statusgetrennte Primaerquellen.",
+  "web_primary_anchors": [
+    {
+      "title": "BVerwG 6 B 23.24, Beschluss vom 20.05.2025",
+      "url": "https://www.bverwg.de/200525B6B23.24.0",
+      "use": "Bundes-AfD Verdachtsfall rechtskraeftig; Statusanker fuer Einstufungsstatistik"
+    },
+    {
+      "title": "BVerfG NPD II, 2 BvB 1/13, Urteil vom 17.01.2017",
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2017/01/bs20170117_2bvb000113.html",
+      "use": "Massstab Art. 21: Menschenwuerde, Demokratieprinzip, Potentialitaet, Darauf-Ausgehen"
+    },
+    {
+      "title": "BVerfG Finanzierungsausschluss NPD/Die Heimat, 2 BvB 1/19, Urteil vom 23.01.2024",
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2024/01/bs20240123_2bvb000119.html",
+      "use": "Parteienfinanzierung/Finanzierungsausschluss als getrennte Sanktions- und Rechtsfolgenachse"
+    },
+    {
+      "title": "AP: Jian Guo charged with spying for China",
+      "url": "https://apnews.com/article/18b6c38a882028e258b1f890f72c5a6c",
+      "use": "Sekundaerer Webanker fuer Spionagekomplex; amtliche GBA-/OLG-Quelle weiter priorisieren"
+    },
+    {
+      "title": "FT: AfD official among arrested Saxon Separatists",
+      "url": "https://www.ft.com/content/70528d00-e83e-49c2-a566-5309bd8eda71",
+      "use": "Sekundaerer Webanker fuer Kurt H./Sicherheitskomplex; amtliche GBA-/OLG-Quelle weiter priorisieren"
+    }
+  ],
+  "clusters": [
+    {
+      "id": "gff_corpus_method",
+      "title": "GFF-Korpus und Methodik",
+      "weight": "hart fuer Methodik",
+      "legal_axis": "Beweisnaehe/Zurechnung",
+      "what_it_says": "Das GFF-Gutachten wertet nicht Einzelzitate isoliert, sondern Programme, Parlamentsdokumente, Pressemitteilungen, Social Media, Interviews und Funktionaersaeusserungen als Gesamtbild aus. Damit ist die Statistik rechtlich als Beweiskette aufzubauen: Quelle -> Akteur -> Ebene -> Rechtsgut -> Zurechnung.",
+      "numbers": [
+        {
+          "label": "Pressemitteilungen im GFF-Datenbestand",
+          "value": 54972
+        },
+        {
+          "label": "Landesverbaende im PM-Korpus",
+          "value": 16
+        }
+      ],
+      "local_sources": [
+        "dokumente/ki_markdown/dokumente/splits/GFF_AfD-Gutachten_Teil_02_Einfuehrung.md:1078",
+        "dokumente/ki_markdown/dokumente/splits/GFF_AfD-Gutachten_Teil_02_Einfuehrung.md:1292",
+        "dokumente/ki_markdown/dokumente/splits/GFF_AfD-Gutachten_Teil_02_Einfuehrung.md:1637"
+      ],
+      "chart": "Quellenfunnel und Sankey Quelle -> Beweisfunktion",
+      "missing": "Originalexporte der 54.972 Pressemitteilungen als maschinenlesbarer Korpus, falls nicht bereits extern gesichert."
+    },
+    {
+      "id": "article21_core",
+      "title": "Menschenwuerde, Volksbegriff, Remigration",
+      "weight": "Kernbeweis",
+      "legal_axis": "Art. 21 / Menschenwuerde / Diskriminierungsverbot",
+      "what_it_says": "GFF, BfV und LfV beschreiben die zentrale Linie nicht als normale Migrationspolitik, sondern als ethnisch-kulturelles Volksverstaendnis, Remigrationslogik und Abwertung von Menschen mit Migrationsgeschichte, Muslimen und weiteren Gruppen.",
+      "numbers": [
+        {
+          "label": "Art.-21-Findings gesamt",
+          "value": 3703
+        },
+        {
+          "label": "Zitatkorpus",
+          "value": 3611
+        }
+      ],
+      "local_sources": [
+        "dokumente/ki_markdown/dokumente/splits/GFF_AfD-Gutachten_Teil_05_Teil_3_A_Menschenwuerde.md",
+        "geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde.txt",
+        "dokumente/vfs_berichte_bundeslaender/LfV_Rheinland_Pfalz_Verfassungsschutzbericht_2024_full.txt:286",
+        "daten/findings_art21.jsonl"
+      ],
+      "chart": "Heatmap Zielgruppe x Rechtsgut; Sankey Remigration -> Zielgruppe -> Menschenwuerde",
+      "missing": "Primaere AfD-Programme, Beschluesse und offizielle Posts fuer jeden starken Befund direkt verlinken."
+    },
+    {
+      "id": "status_federal_states",
+      "title": "Einstufungsstatus Bund/Laender/JA/GD",
+      "weight": "hart, aber verfahrenssensibel",
+      "legal_axis": "Status/Beweisqualitaet",
+      "what_it_says": "Die Bundes-AfD ist rechtskraeftig als Verdachtsfall bestaetigt. Gesichert/erwiesen ist nur dort als harte Achse zu fuehren, wo Land/JA/GD und Verfahrensstand dies tragen; Bund-gesichert bleibt getrennt und darf nicht als rechtskraeftige Hauptsache dargestellt werden.",
+      "numbers": [
+        {
+          "label": "Statusachsen im Tab",
+          "value": 20
+        },
+        {
+          "label": "Bundesverdachtsfall rechtskraeftig",
+          "value": 1
+        }
+      ],
+      "local_sources": [
+        "daten/statistik_statusmatrix_afd_2026.json",
+        "daten/statistik_laender_beweismatrix_afd_2026.json",
+        "dokumente/vfs_berichte_bundeslaender/LfV_Rheinland_Pfalz_Verfassungsschutzbericht_2024_full.txt:283",
+        "dokumente/hauptquellen/DEEPRESEARCH_BRANDENBURG_NIEDERSACHSEN_AFD_STATUS_2026.md"
+      ],
+      "web_sources": [
+        "https://www.bverwg.de/200525B6B23.24.0"
+      ],
+      "chart": "Deutschlandmatrix + Statusdonut + Verfahrens-Timeline",
+      "missing": "Amtliche Volltexte/PM fuer jedes Bundesland, besonders Brandenburg, Niedersachsen, Sachsen, Sachsen-Anhalt, Thueringen, Bayern, Hessen."
+    },
+    {
+      "id": "fluegel_network",
+      "title": "Fluegel, JA und Vorfeld als Zurechnungsnetz",
+      "weight": "tragend",
+      "legal_axis": "Zurechnung / Darauf-Ausgehen / Potentialitaet",
+      "what_it_says": "Das BfV-Folgegutachten zeigt strukturelle Verbindungen zwischen AfD-Profilen und Fluegel-Profilen, nicht nur einzelne Sympathien. Die formale Aufloesung des Fluegels beseitigte die Netzwerkbeziehungen nicht.",
+      "numbers": [
+        {
+          "label": "AfD-Fluegel-Verbindungen",
+          "value": 14371
+        },
+        {
+          "label": "AfD-Profile mit Interaktion",
+          "value": 334
+        },
+        {
+          "label": "Freundschaftsbeziehungen",
+          "value": 1201
+        },
+        {
+          "label": "Maik Schmitz Verbindungen",
+          "value": 571
+        },
+        {
+          "label": "Tino Chrupalla Verbindungen",
+          "value": 275
+        }
+      ],
+      "local_sources": [
+        "geheimgutachten/BfV-AfD-Folgegutachten_2021_05_E_Einflussnahme_Fluegel.md:1123",
+        "geheimgutachten/BfV-AfD-Folgegutachten_2021_05_E_Einflussnahme_Fluegel.md:1125",
+        "geheimgutachten/BfV-AfD-Folgegutachten_2021_05_E_Einflussnahme_Fluegel.md:1131",
+        "geheimgutachten/BfV-AfD-Folgegutachten_2021_05_E_Einflussnahme_Fluegel.md:1133",
+        "daten/statistik_potentialitaet.csv:8"
+      ],
+      "chart": "Netzwerkgraph + Top-20-Balken + Ereignisvergleich",
+      "missing": "Aktualisierung 2021 -> 2026 fuer Generation Deutschland, Compact, Ein Prozent, Antaios, IB, IfS mit Kantenbelegen."
+    },
+    {
+      "id": "antisemitism_codes",
+      "title": "Antisemitismus und Chiffren",
+      "weight": "stuetzend bis tragend je Zurechnung",
+      "legal_axis": "Menschenwuerde / NS-Wesensverwandtschaft / Demokratie",
+      "what_it_says": "BfV und Zitatkorpus zeigen statusgetrennte und codierte antisemitische Narrative, vor allem Soros-, Hochfinanz-, NWO-/QAnon- und Globalistenmotive. Statistisch muss zwischen explizit, codiert, importiert-zugeschrieben und NS-relativierend getrennt werden.",
+      "numbers": [
+        {
+          "label": "rechtsextremistische antisemitische Straftaten 2025 Kontext",
+          "value": 2821
+        },
+        {
+          "label": "antisemitische Gewalttaten 2025 Kontext",
+          "value": 49
+        }
+      ],
+      "local_sources": [
+        "geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde.txt:421",
+        "geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde.txt:1093",
+        "geheimgutachten/BfV-AfD-Folgegutachten_2021_06_F_I_Menschenwuerde.txt:1111",
+        "zitate/afd-verbot.de-2025-07-28-proof-01745.md",
+        "daten/findings_art21.jsonl:3681"
+      ],
+      "chart": "Donut explizit/codiert/NS/Importnarrativ + Zeitlinie",
+      "missing": "Originalposts mit URL/Screenshot und genaue Akteursebene fuer jede Chiffre."
+    },
+    {
+      "id": "judgments_security",
+      "title": "Urteile, Strafverfahren, Sicherheitskomplex",
+      "weight": "Fallbeweis/Risikofeld",
+      "legal_axis": "Rechtsstaat / Gewaltpotential / Integritaet",
+      "what_it_says": "Urteile und Verfahren belegen nicht automatisch Parteihandeln, aber sie zeigen Sicherheitsrisiken, Zurechnungsbruecken, Funktionaersrollen und Fairnessgrenzen. Rechtskraft, Anklage, Ermittlungen, Freispruch und laufend muessen streng getrennt bleiben.",
+      "numbers": [
+        {
+          "label": "Gerichtsregisterfaelle",
+          "value": 262
+        },
+        {
+          "label": "Nachtragsfaelle zweite Lueckenpruefung",
+          "value": 13
+        }
+      ],
+      "local_sources": [
+        "dokumente/hauptquellen/urteilsbelege/01_Hoecke_SA_Parole_LG_Halle.md",
+        "dokumente/hauptquellen/urteilsbelege/23_Waffenbesitzkarten_Entzug_VG_Duesseldorf.md",
+        "dokumente/hauptquellen/urteilsbelege/27_Jian_G_Spionage_Krah_OLG_Dresden.md",
+        "dokumente/hauptquellen/urteilsbelege/36_Birgit_Malsack_Winkemann_Reichsbuerger_BGH.md",
+        "dokumente/hauptquellen/urteilsbelege/49_Kurt_H_Saechsische_Separatisten_Terror_GBA.md",
+        "dokumente/hauptquellen/urteilsbelege/254_AfD_Millionenspende_VG_Berlin_2026.md"
+      ],
+      "web_sources": [
+        "https://apnews.com/article/18b6c38a882028e258b1f890f72c5a6c",
+        "https://www.ft.com/content/70528d00-e83e-49c2-a566-5309bd8eda71"
+      ],
+      "chart": "Urteilsarten-Donut + Rechtsstatus-Matrix + Sicherheitsampel",
+      "missing": "Amtliche GBA-/OLG-/VG-Volltexte fuer Jian G., Krah, Bystron, Malsack-Winkemann, Kurt H.; Rechtskraft pruefen."
+    },
+    {
+      "id": "presse_schule_gap",
+      "title": "Pressefreiheit, Schulfrieden, Bildung",
+      "weight": "Presse stuetzend; Schule nacharbeiten",
+      "legal_axis": "Demokratieprinzip / Art. 5 / Bildung",
+      "what_it_says": "Presseangriffe, Schulfrieden und Bildungsraum sind im Zitat-, Programm-, BfV- und Urteilskorpus vorhanden. Die Achse ist belegt: Meldeportale, Lehrer-Pranger, OVG-Schuelerpraktikum, Landesprogramme und Kulturkampfbelege sind als Demokratie-/Einschuechterungsachse zu fuehren. Zu verdichten sind amtliche Schulbehoerden-/Landtagsdrucksachen, offizielle AfD-Kampagnen und finale Pinpoints.",
+      "numbers": [
+        {
+          "label": "Schulfrieden/Bildungsraum: belegte Achse mit Primaeranker-Aufwertung",
+          "value": 1
+        }
+      ],
+      "local_sources": [
+        "zitate/afd-verbot.de-2025-07-28-proof-00597.md",
+        "dokumente/hauptquellen/urteilsbelege/17_Brandner_Beleidigung_AG_Gera.txt",
+        "dokumente/hauptquellen/urteilsbelege/45_Christina_Baum_Beleidigung.txt",
+        "dokumente/hauptquellen/landeswahlprogramme/06_Hamburg_Wahlprogramm.md",
+        "dokumente/hauptquellen/landeswahlprogramme/08_Mecklenburg_Vorpommern_Wahlprogramm.md"
+      ],
+      "chart": "Gap-Funnel + Presseangriffs-Donut + Bildungsquellen-Matrix",
+      "missing": "Meldeportale, Schulbehoerden, Landtagsdrucksachen, Verwaltungsgerichtsentscheidungen, Originalkampagnen."
+    }
+  ]
+}

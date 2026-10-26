@@ -1,0 +1,9 @@
+{"actor_level": "bundespartei", "definition": "AfD als Bundespartei, Bundesvorstand, Bundesparteitag, Bundesprogramm, Bundeskanal.", "label": "Bundespartei"}
+{"actor_level": "landesverband", "definition": "Landespartei, Landesvorstand, Landtagsfraktion oder landesbezogene Parteistruktur.", "label": "Landesverband"}
+{"actor_level": "fraktion", "definition": "Bundestags-, Landtags-, kommunale oder EP-Fraktion/Gruppe.", "label": "Fraktion"}
+{"actor_level": "teilorganisation", "definition": "Junge Alternative, Generation Deutschland, Fluegel und andere parteinahe/formale Strukturen.", "label": "Teilorganisation"}
+{"actor_level": "funktionaer", "definition": "Person mit Amt, Mandat, Listenplatz, Vorstandsrolle oder offizieller Sprecherrolle.", "label": "Funktionaer/Mandatstraeger"}
+{"actor_level": "mitglied", "definition": "Einfaches Mitglied; Zurechnung nur mit Duldung, Funktion, Kontext oder Parteireaktion.", "label": "Mitglied"}
+{"actor_level": "mitarbeiter", "definition": "Beschaeftigte, persoenliche Mitarbeiter, Hausausweis-/Zugangspersonen.", "label": "Mitarbeiter/Zugangsperson"}
+{"actor_level": "vorfeld", "definition": "IB, IfS, Ein Prozent, Compact, Active Clubs, externe Kampagnenstrukturen.", "label": "Vorfeld/Umfeld"}
+{"actor_level": "kontext", "definition": "Allgemeine Lagezahlen oder Umfeld ohne automatische AfD-Zurechnung.", "label": "Lagebild/Kontext"}

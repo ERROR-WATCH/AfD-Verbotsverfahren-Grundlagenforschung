@@ -1,0 +1,26 @@
+{
+  "generated_at": "2026-07-09T13:19:46.896Z",
+  "purpose": "Gerichtsmodul-Schema fuer Art.-21-Beweisfunktion; Registerfaelle bleiben nach Rechtskraft, Instanz, Ausgang und AfD-Zurechnung getrennt.",
+  "required_fields": [
+    "fall_id",
+    "akteur",
+    "parteistatus",
+    "afd_zurechnung",
+    "deliktcluster",
+    "gericht",
+    "instanz",
+    "verfahrensstatus",
+    "rechtskraft",
+    "ausgang",
+    "art21_beweisfunktion",
+    "verbotsgrund_id",
+    "lokaler_beleg",
+    "originalanker"
+  ],
+  "status_rules": {
+    "laufend": "STATUS_BEZOGEN_GETRENNT - keine Verharmlosung der uebrigen Beweislage.",
+    "freispruch": "STATUS_BEZOGEN_GETRENNT - entlastender Einzelfall sichtbar halten, nicht auf andere Belege uebertragen.",
+    "berufung": "STATUS_BEZOGEN_GETRENNT - Rechtskraft und Instanz trennen.",
+    "rechtskraeftig": "Nur mit Instanz, Datum/Aktenzeichen oder lokalem Beleg als rechtskraeftig markieren."
+  }
+}

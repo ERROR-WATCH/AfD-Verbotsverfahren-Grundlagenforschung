@@ -1,0 +1,3376 @@
+# BT_Plenarprotokoll_20_203_Verfassungsschutz_Anhoerung (201-250)
+
+                       Deutscher Bundestag – 20. Wahlperiode – 203. Sitzung. Berlin, Donnerstag, den 5. Dezember 2024     26307
+
+
+(A) Das zeigt, was plötzlich gehen kann, wenn man konstruk-                  (Johannes Schraps [SPD]: Ohne wäre es noch             (C)
+    tiv zusammenarbeitet. Im Justizministerium sitzt ja wei-                               viel schlimmer!)
+    terhin ein liberaler Politiker.                                    bei denen über 300 000 Euro Geldbußen verhängt wor-
+           (Carsten Müller [Braunschweig] [CDU/CSU]:                   den sind, wo über 400 000 Euro an überhöhten Mieten
+                 Ich dachte, da sitzt der Wissing!)                    zurückgefordert worden sind, weil die Verwaltung dort
+                                                                       auf Zack ist.
+      Aber es gibt eben Politiker, die Brücken bauen, und es
+      gibt Politiker, die lieber die Straße blockieren.                            (Johannes Schraps [SPD]: Richtig!)
+                        (Beifall bei der SPD)                            Ich gucke jetzt mal auf meine Heimatstadt. Es gibt eine
+                                                                       Zahl aus der Zeit, bevor Kai Wegner Regierender Bürger-
+         Deshalb sollten wir uns nicht länger mit großen Ab-           meister wurde.
+      rechnungen beschäftigen. Ich und die SPD wollen die
+      Zeit, die diesem Bundestag noch bleibt, für die Interessen              (Lachen bei Abgeordneten der SPD und des
+      der Mieter nutzen. Wir werden nichts unversucht lassen.                     BÜNDNISSES 90/DIE GRÜNEN)
+      Und dann sind am 23. Februar die Mieterinnen und Mie-            Da gab es im gleichen Zeitraum ein einziges Verfahren:
+      ter selbst dran und müssen entscheiden, ob es im nächsten        ein Verhältnis von 1 200 zu einem Verfahren.
+      Bundestag eine Mehrheit für ihre Belange geben wird.
+                                                                          Da muss man sich schon fragen: Ist es vor diesem
+        Vielen Dank.                                                   Hintergrund denn eigentlich richtig, das bestehende, das
+           (Beifall bei der SPD sowie der Abg. Christina-              geltende Recht, das an der einen Stelle funktioniert, weil
+           Johanne Schröder [BÜNDNIS 90/DIE GRÜ-                       die Verwaltung das ordentlich anwendet, zu verschärfen,
+           NEN])                                                       nur weil man es der Verwaltung ein bisschen einfacher
+                                                                       machen will, wobei man die Last auf die Eigentümer und
+                                                                       die Vermieter abwälzt? Ich finde das nicht richtig. Es ist
+        Vizepräsidentin Petra Pau:                                     die Aufgabe der Verwaltung, geltendes Recht anzuwen-
+        Das Wort hat Dr. Jan-Marco Luczak für die CDU/                 den und nicht immer an dieser Stelle nur zu verschärfen.
+      CSU-Fraktion.
+                                                                                       (Beifall bei der CDU/CSU)
+             (Beifall bei der CDU/CSU – Nina Warken
+                                                                          Einen zweiten Punkt möchte ich nennen. Sie fordern ja
+             [CDU/CSU]: Jetzt wird es wieder besser!)
+                                                                       gerade – das gilt für die Grünen und für die SPD in weiten
+                                                                       Teilen auch – einen Mietenstopp, Sie fordern einen Mie-
+        Dr. Jan-Marco Luczak (CDU/CSU):                                tendeckel und meinen, damit den Mieterinnen und Mie-
+        Frau Präsidentin! Meine sehr verehrten Damen und               tern in Deutschland zu helfen. Ich kann Ihnen nur sagen: (D)
+(B)
+      Herren! Es war ein bisschen das Bildnis einer zerrütteten        Ich komme aus Berlin. In meiner Heimatstadt hat Rot-
+      Ehe mit der FDP, was Frau Martens gerade gezeigt hat.            Rot-Grün das durchexerziert. Dort hat man einen Mieten-
+                        (Zurufe von der SPD)                           deckel auf den Weg gebracht.
+      Es hat eigentlich nur noch gefehlt, dass wir hier Popcorn                     (Dr. Gesine Lötzsch [Die Linke]:
+      austeilen. Dabei ist das Thema eigentlich viel zu wichtig.                          Der hat funktioniert!)
+      Das will ich ganz gerne auch noch mal für meine Frak-            Nicht nur, dass der krachend vor dem Bundesverfas-
+      tion, die Union, deutlich machen.                                sungsgericht gescheitert ist; darüber will ich gar nicht
+        Ja, wir sind für starke soziale Leitplanken.                   reden.
+                 (Zuruf von der SPD: Ach? Soso!)                                         (Zurufe von der Linken)
+      Das ist wichtig, weil niemand aus seiner Wohnung ver-            Die Auswirkungen für die Mieterinnen und Mieter in
+      drängt werden soll, weil er sich seine Miete nicht mehr          Berlin waren eindeutig: Die waren verheerend, weil das
+      leisten kann. Da sind wir uns im Ziel völlig einig. Worin        Angebot an verfügbaren Mietwohnungen dramatisch ein-
+      wir uns nicht einig sind, sind die Wege dorthin.                 gebrochen, um mehr als die Hälfte eingebrochen ist. Der
+                                                                       Berliner Wohnungsmarkt hat sich davon bis heute noch
+         Wir reden jetzt über zwei Vorlagen von den Linken. Da         nicht erholt.
+      muss man schon mal genau hingucken. Hier wird vor-
+      geschlagen, den Mietwucherparagrafen, § 5 Wirtschafts-              Deswegen kann ich nur sagen: Ein solcher Mieten-
+      strafgesetz, zu verändern. Die Kollegin Lay hat gerade           deckel ist sozial ungerecht, weil er am Ende den Falschen
+      ausgeführt, die Regelung würde überhaupt nicht funk-             hilft. Er verhindert Wohnungsbau. Es gibt in meiner Stadt
+      tionieren, habe gar keinen Anwendungsbereich, bringe             Berlin Schlangen bei den Wohnungsbesichtigungen, wo
+      am Ende gar nichts.                                              sich 500, 700 Menschen auf eine Wohnung bewerben.
+                                                                              (Johannes Schraps [SPD]: Die werden noch
+           (Axel Müller [CDU/CSU]: So ist es! – Wider-
+                                                                                  viel länger, wenn Sie nicht helfen!)
+                      spruch bei der Linken)
+                                                                       Von diesen 700 Menschen gehen am Ende 699 nach
+        Dann würde ich Ihnen empfehlen: Gucken Sie mal
+                                                                       Hause und haben keine Wohnung, weil es eben nur diese
+      nach Frankfurt am Main! Dort wird die geltende Rege-
+                                                                       eine Wohnung gibt. Der Mietendeckel verhindert genau
+      lung angewandt, und zwar mit großem Erfolg.
+                                                                       das, was wir so dringend brauchen: nicht mehr Regulie-
+                   (Johannes Schraps [SPD]: Ja!)                       rung, sondern mehr Wohnungsbau.
+      Innerhalb von drei Jahren gab es rund 1 200 Verfahren,                    (Beifall bei der CDU/CSU und der FDP)
+      26308           Deutscher Bundestag – 20. Wahlperiode – 203. Sitzung. Berlin, Donnerstag, den 5. Dezember 2024
+
+
+(A)      Die Konzepte, die Sie uns hier vorstellen, kommen aus        schon, aber man kann es verbessern; denn das Ziel sollte (C)
+      der sozialistischen Mottenkiste. Das hilft den Mietern          uns doch einen, die Mieter/-innen vor überhöhten Miet-
+      nicht, es schadet ihnen, meine Damen und Herren.                forderungen zu schützen.
+                     (Beifall bei der CDU/CSU)                              (Beifall beim BÜNDNIS 90/DIE GRÜNEN
+                                                                            sowie der Abg. Isabel Cademartori Dujisin
+                                                                            [SPD])
+        Vizepräsidentin Petra Pau:
+         Für die Fraktion Bündnis 90/Die Grünen hat die Kol-             Ich will noch ein Thema anschneiden. Die Untätigkeit
+      legin Bayram das Wort.                                          in dieser Legislatur hat dazu geführt, dass der Wohnungs-
+                                                                      markt mittlerweile so verschärft ist, dass wir es wahr-
+            (Beifall beim BÜNDNIS 90/DIE GRÜNEN                       scheinlich nicht über das Mietrecht allein werden regeln
+                 sowie bei Abgeordneten der SPD)                      können. Denn in der Tat haben wir in Städten wie Berlin,
+                                                                      aber auch in anderen Ballungsgebieten die Situation, dass
+        Canan Bayram (BÜNDNIS 90/DIE GRÜNEN):                         wir gar nicht genug Wohnungen haben, in die die Men-
+        Vielen Dank. – Frau Präsidentin! Liebe Kolleginnen            schen ziehen könnten.
+      und Kollegen! In der Tat will ich nur kurze Zeit darauf               (Dr. Götz Frömming [AfD]: Ja, warum denn
+      verwenden, zu sagen: Wir hätten in dieser Legislatur                  nur? Wegen Ihrer linken Politik und der Mi-
+      mehr für die Mieterinnen und Mieter tun können. Ich                   gration!)
+      muss auch sagen: Ich bin enttäuscht von Marco
+      Buschmann, weil er uns mehr in Aussicht gestellt hat.           Das heißt, auch wir Abgeordnete selbst sollten in die
+      Aber hilft das heute irgendwem, wenn wir darüber reden?         Bundesländer hineinwirken und unsere Möglichkeiten
+      Nein, meine Damen und Herren.                                   nutzen, um dafür zu sorgen, dass genug Wohnungen zur
+                                                                      Verfügung stehen,
+         Deswegen müssen wir uns stärker darauf konzentrie-
+      ren, was die Mieterinnen und Mieter noch brauchen. Das                (Dr. Götz Frömming [AfD]: Wer soll die denn
+      ist in erster Linie tatsächlich die Mietpreisbremse. Das                bauen? Das rentiert sich doch gar nicht!)
+      können wir auch nicht liegen lassen bis in die nächste          und zwar nicht nur für die Menschen, die schon da sind,
+      Legislatur. Nein, das muss jetzt kommen!                        sondern auch – das hören doch alle in ihren Wahlkreisen –
+            (Beifall beim BÜNDNIS 90/DIE GRÜNEN                       für all die Fachkräfte, die wir bräuchten,
+                 sowie bei Abgeordneten der SPD)                            (Beifall der Abg. Christina-Johanne Schröder
+    Wir brauchen jetzt eine Mietpreisbremse; denn das Ge-                         [BÜNDNIS 90/DIE GRÜNEN])
+(B) setz läuft aus.                                                   die nach Deutschland kommen müssten und die wir eben- (D)
+           (Dr. Günter Krings [CDU/CSU]: Das läuft                    falls mit Wohnungen versorgen müssten.
+           doch erst nächstes Jahr aus, Leute! – Gegenruf                       (Beifall bei Abgeordneten der Linken)
+           der Abg. Christina-Johanne Schröder [BÜND-                 Das ist doch eines der drängenden Themen, das bei uns
+           NIS 90/DIE GRÜNEN]: Landesverordnun-                       allen ankommt.
+           gen!)
+                                                                        Wir wissen ja, dass die AfD niemals einen wertvollen
+      Da schaue ich Sie alle an. Ob in allen Städten in Nord-         Beitrag zu dieser Wohnungsthematik leisten wird und zu
+      rhein-Westfalen, ob in Bayern, ob in Berlin, ob in allen        der Not der Mieter/-innen etwas beizutragen hat.
+      anderen Gebieten in der Bundesrepublik Deutschland:
+      Wir brauchen die Verlängerung der Mietpreisbremse;                     (Widerspruch des Abg. Dr. Götz Frömming
+      denn andernfalls werden wir die Not, die es auf dem                                     [AfD])
+      Wohnungsmarkt gibt, verschärfen und werden als Politik          Aber wir demokratischen Fraktionen sollten tatsächlich
+      keine Antwort darauf finden. Das wäre ein schweres Ver-         auch Unterschiede überwinden, um die Mieterinnen und
+      säumnis, meine Damen und Herren; das steht fest.                Mieter in diesem Land zu schützen, meine Damen und
+            (Beifall beim BÜNDNIS 90/DIE GRÜNEN)                      Herren.
+         Wenn ich mir so anhöre, wie wir uns über das Thema                 (Beifall beim BÜNDNIS 90/DIE GRÜNEN –
+      Mietwucher hier unterhalten, dann kann ich nur sagen:                 Dr. Götz Frömming [AfD]: Viel Emotion, we-
+      Herr Luczak, wir haben es doch im Rechtsausschuss ge-                 nig Sachverstand! – Gegenruf der Abg. Anja
+      habt. Das ist eine Initiative, die auf den Bundesrat zurück-          Liebert [BÜNDNIS 90/DIE GRÜNEN]:
+      geht. Wenn die Länder an uns herantreten und sagen:                   Frechheit!)
+      „Leute, wir brauchen da eine Verbesserung, wir brauchen
+      eine Unterstützung, damit die Mietpreise, die Mietzah-             Vizepräsidentin Petra Pau:
+      lungen nicht durch die Decke gehen“, dann brauchen                 Das Wort hat Dr. Thorsten Lieb für die FDP-Fraktion.
+      Sie doch nicht die Kollegin von der Linksfraktion zu
+      beschimpfen,                                                                        (Beifall bei der FDP)
+
+                       (Beifall bei der Linken)
+                                                                         Dr. Thorsten Lieb (FDP):
+      sondern da müssen wir eher schauen: Wie können wir                Sehr geehrte Frau Präsidentin! Liebe Kolleginnen und
+      tatsächlich gemeinsam dafür Sorge tragen, dass der Miet-        Kollegen! In der Tat: Die aus guten Gründen vergangene
+      wucher wirksam bekämpft wird? Das Gesetz gibt es                Ampelkoalition hätte mehr für Mieterinnen und Mieter
+                     Deutscher Bundestag – 20. Wahlperiode – 203. Sitzung. Berlin, Donnerstag, den 5. Dezember 2024     26309
+
+
+(A) machen können, nämlich wenn Sie die 400 000 Wohnun-              durch mehr Ausweisung von Wohnflächen – ein Beispiel (C)
+    gen, deren Bau wir mal anzuschieben versucht haben,              habe ich gerade genannt –, durch die Abschaffung der
+    tatsächlich gebaut hätten, zum Beispiel durch weniger            Grunderwerbsteuer für eigengenutzten Wohnraum, damit
+    Bürokratie und mehr Bauflächen, zum Beispiel durch               man sich Wohnraum wieder leisten kann,
+    Bebauung des Tempelhofer Feldes hier in Berlin. Platz                  (Beifall bei der FDP – Anja Liebert [BÜND-
+    wäre ja vorhanden, liebe Kolleginnen und Kollegen.                     NIS 90/DIE GRÜNEN]: Steuern senken – das
+          (Beifall bei der FDP sowie bei Abgeordneten                      Standardrezept der FDP!)
+          der CDU/CSU – Anja Liebert [BÜNDNIS 90/                    und nicht zuletzt durch ein Mietrecht, das auch angemes-
+          DIE GRÜNEN]: Ist das Ihre einzige Idee? Das                sene Renditen ermöglicht; denn wer investieren soll, der
+          nützt mir in Nordrhein-Westfalen aber gar                  muss auch eine Chance haben, das Geld wieder zu ver-
+          nichts!)                                                   dienen.
+        Jetzt haben wir hier zu später Stunde – ursprünglich            Liebe Kolleginnen und Kollegen, ich will die Redezeit
+     war ja die Geisterstunde geplant – zwei Vorlagen aus der        nicht ausschöpfen; es kommt ja noch ein bisschen was.
+     Gruppe der Linken, die tatsächlich gut zu einer Geis-           Das ist unser Angebot, um den Wohnungsmarkt anzukur-
+     terstunde passen: zwei Kochrezepte in der Vorweih-              beln. Statt an Planwirtschaft pur glauben wir Freie De-
+     nachtszeit, die nichts anderes darstellen als ein planwirt-     mokraten an soziale Marktwirtschaft, auch im Woh-
+     schaftliches Konstrukt, letzten Endes mit dem Ziel,             nungsmarkt.
+     Wohnungsbau nicht zu fördern,
+                                                                                (Konstantin Kuhle [FDP]: So ist es!)
+          (Widerspruch der Abg. Heidi Reichinnek [Die
+                            Linke])                                     Vielen herzlichen Dank.
+     sondern nachhaltig zu behindern. Und das heißt dann                       (Beifall bei der FDP – Zuruf des Abg.
+     „soziales Mietrecht“, liebe Kolleginnen und Kollegen.                           Bernhard Daldrup [SPD])
+       Worum geht es? Meine Highlights: Das Hauptgericht:
+    bundesweiter Mietenstopp für sechs Jahre. Als Beilage               Vizepräsidentin Petra Pau:
+    gibt es einen atmenden Mietendeckel. Abgeschmeckt                 Nächster Redner ist der Abgeordnete Dr. Christian
+    wird das Ganze noch mit der Abschaffung von Indexmie-            Wirth für die AfD-Fraktion.
+    ten. Und weil es so schön ist, gibt es als Nachtisch noch
+                                                                             (Beifall bei der AfD – Dr. Götz Frömming
+    eine flächendeckende und unbefristete Geltung der Miet-
+                                                                                        [AfD]: Guter Mann!)
+    preisbremse, garniert mit dem Ausbau des Mietwucher-
+(B) rechts als faktisch weitere verschuldensunabhängige                                                                           (D)
+    Mietpreisbremse.                                                    Dr. Christian Wirth (AfD):
+                                                                        Frau Präsidentin! Werte Kollegen! Wir diskutieren zu
+       Liebe Kolleginnen und Kollegen, diese Rezepte folgen
+                                                                     später Stunde zum x-ten Mal über ein Planwirtschaftsge-
+     doch unverhohlen eigentlich nur Enteignungsfantasien.
+                                                                     setz der Linkspartei. Einmal mehr geht es gegen die bö-
+     Es fehlt ja praktisch nur noch ein Vermietungszwang,
+                                                                     sen Vermieter, einmal mehr werden komplett sinnlose
+     wenn man eine Wohnung in diesem Land baut. Das ist
+                                                                     Forderungen erhoben.
+     schlichtweg unverdaulich für den deutschen Wohnungs-
+     markt. Das wird ihn kaputtmachen und niemandem –                   Die Linkspartei hat eine lange Geschichte, wenn es um
+     keiner Mieterin, keinem Mieter – helfen, liebe Kollegin-        Miete und Wohnungsbaupolitik geht. In den Nullerjahren
+     nen und Kollegen.                                               hat die Partei im Berliner Senat die meisten staatseigenen
+                                                                     Wohnungen unter Preis verscherbelt und so die verhass-
+          (Beifall bei der FDP sowie des Abg. Dr. Jan-               ten Mietgroßkonzerne groß werden lassen. Jetzt arbeitet
+                   Marco Luczak [CDU/CSU])                           Die Linke daran, diese wieder zu enteignen, nachdem die
+        Deshalb kann und wird die FDP-Fraktion solchen An-           freie Wirtschaft die maroden Wohnungen auf ein an-
+     trägen natürlich nicht zustimmen. Im Gegenteil: Wir wer-        nehmbares Niveau saniert hat. Sie sind sich Ihrer eigenen
+     den solchen Anträgen, die massiv ins Eigentum eingrei-          Politik in der Vergangenheit so sicher, dass die eigene
+     fen, massiv entgegentreten und dies, wo immer es geht,          Bausenatorin, als sie noch im Amt war, in Berlin gegen
+     bekämpfen und ablehnen. Das sind nämlich, wie gesagt,           ihre eigene Politik demonstriert hat. Starkes Stück!
+     die falschen Konzepte, liebe Kolleginnen und Kollegen.                   (Zuruf der Abg. Caren Lay [Die Linke])
+       Mietrecht alleine – wir wissen es seit 250 Jahren –
+                                                                       Die Ergebnisse linker Baupolitik sehen wir nicht nur in
+     schafft keinen Wohnraum. Das muss endlich auch mal
+                                                                     Berlin, sondern auch in den neuen Bundesländern. Hier
+     jemand in der Gruppe der Linken verstehen.
+                                                                     hatte die Linkspartei 40 Jahre Zeit, ohne irgendeine Op-
+             (Zuruf der Abg. Caren Lay [Die Linke])                  position die eigene Baupolitik zu zelebrieren. Das Er-
+     Soziales Mietrecht bedeutet nämlich etwas ganz anderes          gebnis waren Plattenbauten, Sprengung historischer Bau-
+     als das, was Sie vorgeben, liebe Kolleginnen und Kolle-         substanz, Verwahrlosung alter Gebäude – ein einziger
+     gen. Was wäre dazu das richtige Menüangebot? Ein so-            Sanierungsfall, eben Planwirtschaft.
+     ziales Mietrecht schafft neuen Wohnraum durch mehr                                (Zurufe von der Linken)
+     Flexibilität beim Bauen, zum Beispiel mit einem echten            Nun, 34 Jahre nach der Wiedervereinigung, fordern
+     Gebäudetyp E und weniger Bürokratie,
+                                                                     Sie, Wohnen bezahlbar zu machen. Sie fordern, die Stra-
+               (Konstantin Kuhle [FDP]: Sehr gut!)                   fen für Mietwucher zu erhöhen. Ich sage Ihnen eins: Die
+     26310               Deutscher Bundestag – 20. Wahlperiode – 203. Sitzung. Berlin, Donnerstag, den 5. Dezember 2024
+
+
+(A) bisherigen 50 000 Euro Strafzahlung waren schon unsin-                   Ich rufe auf die Zusatzpunkte 19 a und 19 b:           (C)
+    nig. Eine Verdoppelung bringt keine Wohnung mehr, im
+                                                                                  a) Beratung der Beschlussempfehlung und des
+    Gegenteil.
+                                                                                     Berichts des Ausschusses für Umwelt, Na-
+        Sie wollen Indexmietverträge abschaffen. Das heißt,                          turschutz, nukleare Sicherheit und Verbrau-
+     bei Entspannung des Marktes wird die Indexmiete eben                            cherschutz (16. Ausschuss) zu dem Antrag
+     nicht günstiger. Sie wollen keine Erhöhung über Jahre bei                       der Abgeordneten Klaus Ernst, Dr. Sahra
+     ansonsten steigenden Lebenshaltungskosten. Dass viele                           Wagenknecht, Ali Al-Dailami, weiterer Ab-
+     Vermieter sich mal eine Wohnung angeschafft haben, um                           geordneter und der Gruppe BSW
+     ihre Altersversorgung zu sichern, das ist Ihnen egal.
+                                                                                      Verbrenner-Aus stoppen – Zukunft der
+                (Zuruf der Abg. Caren Lay [Die Linke])                                deutschen Automobilindustrie sichern –
+        Vermieten muss sich lohnen, sonst wird kein Wohn-                             Arbeitsplätze schützen und Wohlstand be-
+     raum geschaffen; und darum muss es doch gehen. Durch                             wahren
+     Gängelung, Bürokratisierung, Verwaltungsvorschriften                             Drucksachen 20/11541, 20/13655
+     und Ihren Verbotswahn wollen gerade in den großen
+     Städten kaum noch Menschen vermieten. Und das macht                          b) Beratung der Beschlussempfehlung und des
+     die Mieten im Zweifel extra teuer, weil das Angebot sinkt                       Berichts des Verkehrsausschusses (15. Aus-
+     und die Wohnungen härter umkämpft sind.                                         schuss) zu dem Antrag der Fraktion der
+                                                                                     CDU/CSU
+        Wer verhindern will, dass für eine Zweizimmerwoh-
+     nung in Kreuzberg für 1 900 Euro warm über 400 Inte-                             Technologieoffener Klimaschutz im Stra-
+     ressenten anstehen, sollte die Fesseln lösen und dafür                           ßenverkehr – Kein Verbot des klimaneu-
+     sorgen, dass mehr vermietet werden kann – ganz unbüro-                           tralen Verbrennungsmotors
+     kratisch. Ich kann es Ihnen nicht ersparen, aber ich ver-
+     weise auf Boris Palmer, den OB von Tübingen, der gesagt                          Drucksachen 20/11759, 20/13608
+     hat: Wenn es um Migranten geht, darf ich schnell und
+     unbürokratisch ohne Auflagen bauen, für meine eigene                   Für die Aussprache ist eine Dauer von 26 Minuten ver-
+     Bevölkerung darf ich das nicht. – Das ist ein großes                einbart. – Ich bitte um Aufmerksamkeit.
+     Problem.                                                              Ich eröffne die Aussprache. Das Wort hat die Kollegin
+                          (Beifall bei der AfD)                          Linda Heitmann für die Fraktion Bündnis 90/Die Grünen.
+       Und ein Bonbon zum Schluss: Sie wollen Zwangsräu-                        (Beifall beim BÜNDNIS 90/DIE GRÜNEN
+(B) mungen verbieten. Super Idee! Damit machen Sie Miet-                             sowie bei Abgeordneten der SPD)                (D)
+    nomadentum de facto legal. Mieteprellen und das Zer-
+    stören von Eigentum werden legalisiert, und die ganze                   Linda Heitmann (BÜNDNIS 90/DIE GRÜNEN):
+    Party zahlt dann der Eigentümer bzw. der Steuerzahler.                  Frau Präsidentin! Liebe Kolleginnen und Kollegen der
+    Glückwunsch!                                                         verschiedenen Fraktionen! Ich werde als Grüne – das
+                                                                         können Sie sich vielleicht vorstellen – häufig gefragt:
+                     (Dr. Gesine Lötzsch [Die Linke]:                    Was tut die Politik denn eigentlich wirklich konkret für
+                           So ein Schwachsinn!)                          den Klimaschutz, um auch für kommende Generationen
+          Wir werden Ihre Vorlagen ablehnen.                             eine gute Zukunft zu sichern? Ich sage immer: Klima-
+                                                                         schutz betrifft wirklich viele verschiedene Politikbe-
+          Herzlichen Dank und Glück auf!                                 reiche. Aber kurz gesagt heißt konsequente Klima-
+             (Beifall bei der AfD – Zuruf des Abg. Matthias              schutzpolitik vor allem: weg von fossilen und endlichen
+                        W. Birkwald [Die Linke])                         Rohstoffen und deren Verbrennung.
+                                                                               (Beifall beim BÜNDNIS 90/DIE GRÜNEN
+          Vizepräsidentin Petra Pau:                                           sowie bei Abgeordneten der SPD – Zuruf von
+                                                                               der AfD: Falsch!)
+       Die Kollegin Susanne Hierl hat ihre Rede für die CDU/
+     CSU-Fraktion zu Protokoll gegeben.1)                                   Wenn wir das mal auf die unterschiedlichen Politik-
+                                                                         bereiche runterbrechen, dann heißt das zum Beispiel für
+             (Beifall bei der CDU/CSU sowie bei Abge-                    die Energieerzeugung: Wir wollen die Energiewende, wir
+             ordneten der SPD und der Abg. Dr. Till                      wollen hin zu den Erneuerbaren. Es heißt für das Heizen
+             Steffen [BÜNDNIS 90/DIE GRÜNEN] und                         unserer Häuser und Wohnungen: Wir müssen die Wärme-
+             Dr. Thorsten Lieb [FDP])                                    wende vorantreiben, damit wir auch hier von den fossilen
+     Ich schließe die Aussprache.                                        Rohstoffen wegkommen. Und es heißt vor allem auch in
+                                                                         der Mobilitätspolitik: weg von den Verbrennungsmotoren
+        Interfraktionell wird Überweisung der Vorlagen auf
+                                                                         und dem Individualverkehr hin zu mehr ÖPNV und er-
+     den Drucksachen 20/13294 und 20/12105 an die in der
+                                                                         neuerbaren Techniken auch bei der Mobilität.
+     Tagesordnung aufgeführten Ausschüsse vorgeschlagen.
+     Sind Sie damit einverstanden? – Das ist der Fall. Dann                    (Beifall beim BÜNDNIS 90/DIE GRÜNEN –
+     sind die Überweisungen so beschlossen.                                    Dr. Götz Frömming [AfD]: Und es heißt:
+                                                                               Zehntausende Arbeitslose!)
+     1)
+          Anlage 9                                                       Das und nur das ist wirklich konsequenter Klimaschutz.
+                      Deutscher Bundestag – 20. Wahlperiode – 203. Sitzung. Berlin, Donnerstag, den 5. Dezember 2024      26311
+
+
+(A)      Ich muss leider sagen: Ganz, ganz viele Länder sind                          (Dr. Götz Frömming [AfD]:                     (C)
+      hier schon deutlich weiter als Deutschland und sogar                              Planwirtschaft ist das!)
+      auch als Europa, wobei Sie vom BSW ja jetzt wieder                 Vielen Dank.
+      anzweifeln, dass dort überhaupt die richtigen Schritte
+      gegangen werden.                                                       (Beifall beim BÜNDNIS 90/DIE GRÜNEN
+                                                                                  sowie bei Abgeordneten der SPD)
+        Aber gucken wir uns mal Norwegen an. In Norwegen –
+      es liegt auch in Europa, ist aber, wie wir wissen, nicht
+      Mitglied der EU – sind über 90 Prozent aller Neuzulas-             Vizepräsidentin Petra Pau:
+      sungen in diesem Jahr Pkw mit E-Antrieb. Es wird in              Für die CDU/CSU-Fraktion hat Dr. Christoph Ploß das
+      Norwegen sogar überlegt, die Neuzulassungen von Pkw             Wort.
+      mit Verbrennungsmotoren schon ab 2030 nicht mehr zu                             (Beifall bei der CDU/CSU)
+      ermöglichen.
+            (Dr. Götz Frömming [AfD]: Womit verdient                     Dr. Christoph Ploß (CDU/CSU):
+                      Norwegen denn Geld?)                              Frau Präsidentin! Verehrte Kolleginnen und Kollegen!
+         Auch in China sehen wir einen großen Anstieg bei den         Am Ende der Regierungszeit des gescheiterten Bundes-
+      Neuzulassungen von E-Fahrzeugen von zuletzt mehr als            kanzlers Olaf Scholz muss man leider eines konstatieren:
+      20 Prozent, und in etwa gleichem Maße sind die Zulas-           Der Wirtschaftsstandort Deutschland und insbesondere
+      sungen von Verbrennern gesunken. Genau das ist zu-              der Automobilstandort Deutschland sind in einem so
+      kunftsgerichtete Mobilität, zukunftsgerichtete Politik.         schlechten Zustand wie seit vielen Jahren nicht mehr.
+      Der Wandel passiert schon jetzt, er passiert weltweit.          Deswegen braucht es dringend die CDU/CSU wieder in
+      Nur Sie, liebes BSW, und auch Sie, liebe Union, wollen          der Bundesregierung, damit sich das ändert.
+      in Europa weiterhin rückwärtsgewandte Politik mit Ihren               (Beifall bei der CDU/CSU – Dr. Johannes
+      Anträgen in unserem Ausschuss erzwingen.                              Fechner [SPD]: Träum weiter! – Zuruf des
+            (Beifall beim BÜNDNIS 90/DIE GRÜNEN                             Abg. Carsten Träger [SPD])
+                 sowie bei Abgeordneten der SPD)                        Sie haben viel dazu beigetragen, dass die Automobil-
+       Als ob das nicht schon traurig genug wäre, muss man            industrie in so schweres Fahrwasser geraten ist.
+    leider sagen: Sie sind dabei noch nicht mal konsequent.                    (Beifall des Abg. Julian Grünke [FDP] –
+    Sogar die Wirtschaft wünscht sich endlich mal Klarheit                      Dr. Götz Frömming [AfD]: Sie auch!)
+    und eine klare Linie. Opel-Chef Florian Huettl hat gerade
+                                                                      Wie kann man auf die Idee kommen, Frau Kollegin
+(B) kürzlich gesagt, er will jetzt endlich ein klares Bekenntnis      Heitmann, über Nacht die versprochene Prämie für den (D)
+    der Bundesregierung zur E-Mobilität. Damit sind Sie für
+                                                                      Kauf von E-Autos zu streichen, so wie es Robert Habeck
+    eine Bundesregierung offenbar nicht geeignet.
+                                                                      praktiziert hat? Daran kann man sehen: Ihre Regierung
+            (Beifall bei Abgeordneten des BÜNDNIS-                    hat nicht nur ganz viel Vertrauen bei den Bürgern ver-
+              SES 90/DIE GRÜNEN und der SPD)                          spielt, sondern Ihre Regierung hat auch dafür gesorgt,
+        Gucken wir uns stattdessen mal die Aussagen gerade            dass jetzt so viele Arbeitsplätze in der Automobilindus-
+      der Union in den letzten Jahren zum Thema Verbrenner            trie auf dem Spiel stehen.
+      an. 2007 hat Markus Söder gesagt, er möchte keine Neu-                (Zurufe von der SPD und dem BÜNDNIS 90/
+      zulassungen von Verbrennungsmotoren mehr ab dem                                     DIE GRÜNEN)
+      Jahr 2020.                                                      Sie gehören in die Opposition. Die Grünen haben in der
+            (Julian Grünke [FDP]: Söder sagt alle zwei                nächsten Bundesregierung nichts mehr verloren.
+              Wochen was anderes! Das zählt nicht!)                                   (Beifall bei der CDU/CSU)
+      Dann, im Jahr 2020, sagt Markus Söder, er möchte keine            Wir brauchen dringend einen Wandel von Planwirt-
+      Neuzulassungen von Verbrennern mehr ab dem Jahr                 schaft zu sozialer Marktwirtschaft. Wir brauchen eine
+      2035. Ja, genau das haben wir jetzt in Europa geregelt.         Beendigung von staatlicher Gängelung und von immer
+      Und jetzt stellen Sie das schon wieder infrage.                 mehr Vorgaben. Wir brauchen Technologieoffenheit.
+           (Beifall der Abg. Christina-Johanne Schröder               Und wir dürfen auf keinen Fall, so wie Sie es hier in Ihrer
+                 [BÜNDNIS 90/DIE GRÜNEN])                             Rede wieder praktiziert haben, den Verbrennungsmotor
+                                                                      verbieten. Wir als CDU/CSU-Fraktion wollen den Ver-
+        Ich appelliere an Sie: Seien Sie doch bitte endlich mal       brennungsmotor auch in Zukunft erhalten.
+      geradlinig! Geben Sie der Wirtschaft in diesem Land
+      endlich Sicherheit, –                                                       (Dr. Johannes Fechner [SPD]: Aha!
+                                                                                   Das sieht Herr Söder aber anders!)
+        Vizepräsidentin Petra Pau:                                    Wir wollen ihn mit E-Fuels klimaneutral machen, damit
+                                                                      Hunderttausende Arbeitsplätze in der Automobilindustrie
+        Kollegin.
+                                                                      gerettet werden.
+
+        Linda Heitmann (BÜNDNIS 90/DIE GRÜNEN):
+                                                                             (Beifall des Abg. Volker Mayer-Lay [CDU/
+          – und zwar mit einer wirklich zukunftsgewandten Po-                                  CSU])
+      litik, die auch kommende Generationen im Blick hat!             Dafür bitten wir dann auch um das Votum am 23. Februar.
+      26312          Deutscher Bundestag – 20. Wahlperiode – 203. Sitzung. Berlin, Donnerstag, den 5. Dezember 2024
+
+
+(A)     Herzlichen Dank.                                                   (Dr. Anja Weisgerber [CDU/CSU]: Sie sind             (C)
+                                                                           doch verantwortlich, dass die Energiepreise
+          (Beifall bei der CDU/CSU – Bernhard
+                                                                           so hoch sind!)
+          Herrmann [BÜNDNIS 90/DIE GRÜNEN]:
+          Unverschämte Frechheit! Grinst auch noch! –                Wir setzen auf E-Mobilität, und Sie sollten es auch tun;
+          Zuruf von der SPD: Die Kollegin erklärt Ihnen              denn das ist die Zukunft der deutschen Automobilindus-
+          das jetzt noch mal!)                                       trie.
+                                                                           (Beifall bei der SPD sowie bei Abgeordneten
+        Vizepräsidentin Petra Pau:                                         des BÜNDNISSES 90/DIE GRÜNEN –
+        Das Wort hat Isabel Cademartori für die SPD-Fraktion.              Dr. Anja Weisgerber [CDU/CSU]: Also, das
+                                                                           ist echt ein Witz, diese Rede!)
+                       (Beifall bei der SPD)
+                                                                        Ich durfte kürzlich auf dem Hockenheimring deutsche
+                                                                     Elektroautos fahren, einen Porsche Taycan und einen
+        Isabel Cademartori Dujisin (SPD):                            Mini von BMW – alle beide hier in Deutschland produ-
+         Sehr geehrte Frau Präsidentin! Liebe Kolleginnen und        ziert. Das war ein tolles Fahrerlebnis. Ich würde mir
+      Kollegen! Lieber Herr Ploß, Ihre Position zum Verbren-         wünschen, dass wir uns alle in einem gewissen Stand-
+      nungsmotor in der Union ist ungefähr so klar wie Ihre          ortpatriotismus hinter dem Anliegen vereinen und diesen
+      Position zu der Frage, ob Robert Habeck in Ihrem zu-           Zukunftstechnologien in Deutschland zum Durchbruch
+      künftigen Kabinett Wirtschaftsminister sein soll oder          verhelfen.
+      nicht.
+                                                                           (Beifall bei der SPD sowie bei Abgeordneten
+          (Heiterkeit und Beifall bei der SPD, dem                         des BÜNDNISSES 90/DIE GRÜNEN –
+          BÜNDNIS 90/DIE GRÜNEN und der FDP –                              Henning Rehbaum [CDU/CSU]: Wer regiert
+          Zuruf der Abg. Nina Warken [CDU/CSU])                            denn?)
+       Sie sagen, dass am 23. Februar die Bürgerinnen und               Die Mirage der E-Fuels, die Sie ständig vor sich her-
+    Bürger darüber abstimmen sollen, ob das sogenannte Ver-          tragen und versuchen als Lösung zu verkaufen,
+    bot des Verbrennungsmotors jetzt ausgesetzt wird oder
+    nicht. Ich habe da Déjà-vu-Erlebnisse; denn ich habe                       (Konstantin Kuhle [FDP]: Jetzt hört es
+    das dieses Jahr schon einmal gehört. Vor der Europawahl                                 aber auf!)
+    haben Sie nämlich genau das Gleiche erzählt. Und, siehe          wird sich entzaubern, wenn wir ein paar Tagesordnungs-
+    da, Sie haben die Wahl sogar gewonnen. Und was hat sich          punkte weiter über die Flugbranche und deren Situation
+(B) geändert? Gar nichts. Die Flottengrenzwerte gibt es im-          sprechen. Die Flugbranche kommt auf uns zu und sagt: (D)
+    mer noch.                                                        Wir können unsere E-Fuels-Quote nicht erfüllen, weil es
+                                                                     nicht genügend E-Fuels auf dem Markt gibt. –
+          (Heiterkeit und Beifall bei der SPD, dem
+          BÜNDNIS 90/DIE GRÜNEN und der FDP –                              (Julian Grünke [FDP]: Sie haben offensichtlich
+          Dr. Götz Frömming [AfD]: Da ist was dran!                        nicht verstanden, wie das Zeug hergestellt
+          AfD wählen ist immer gut! Das ist mit uns                        wird!)
+          nicht so! – Zuruf der Abg. Dr. Anja Weisgerber             Und das, obwohl wir die E-Fuels speziell für die Flug-
+          [CDU/CSU])                                                 branche und die Schiffsbranche reserviert haben. Also,
+         Es ist ein ewiges Rumgeeiere. Aber das Dramatische          wie können wir einen klimaneutralen Verbrennungs-
+      daran ist, dass der größte Leidtragende dieses Rumge-          motor anbieten, wenn wir keine E-Fuels haben?
+      eieres die deutsche Automobilindustrie ist.                            (Dr. Götz Frömming [AfD]: Sie können es
+          (Beifall bei der SPD – Bernhard Herrmann                                         auch lassen!)
+          [BÜNDNIS 90/DIE GRÜNEN]: Die Mitarbei-                       An die Kollegen der FDP gerichtet, sage ich: Man
+          ter sind das! Die Mitarbeiter! – Dr. Anja                  sollte nicht in eine offene Feldschlacht ziehen, wenn
+          Weisgerber [CDU/CSU]: Aber das sind die                    man nicht genügend E-Fuels hat, um durchzuziehen.
+          Leidtragenden Ihrer Politik! Zum Beispiel die
+          Abschaffung der Umweltprämie hat dazu ge-                        (Beifall bei der SPD sowie bei Abgeordneten
+          führt!)                                                             des BÜNDNISSES 90/DIE GRÜNEN)
+      Sie schaffen keine Klarheit und keine Planungssicherheit.      E-Fuels sind keine Lösung; denn sie sind nicht vorhan-
+      Mittlerweile kann man wirklich jeden wichtigen Manager         den. Und sie werden auch perspektivisch nicht vorhanden
+      dieser Industrie und natürlich auch alle Gewerkschafts-        sein, zumindest nicht in der Menge, die wir brauchen, um
+      und Arbeitnehmerinnen- und Arbeitnehmervertreter mit           die ganze Automobilindustrie klimaneutral betreiben zu
+      der dringenden Bitte zitieren, hier doch mal eine konsis-      können.
+      tente Linie zu fahren.                                            Alle Automobilkonzerne setzen auf E-Mobilität,
+          (Dr. Anja Weisgerber [CDU/CSU]: Ja, aber das                            (Julian Grünke [FDP]: Quatsch!)
+          müssen Sie doch machen in Ihrer Politik! –
+                                                                     und wir sollten sie dabei unterstützen. Diese Bundes-
+          Zuruf des Abg. Dr. Jonas Geissler [CDU/
+                                                                     regierung und der Bundeskanzler haben dazu Vorschläge
+          CSU])
+                                                                     vorgelegt. Mit den verschiedenen Wirtschaftspaketen, die
+      Und das tut diese Regierung schon die ganze Zeit.              wir vorgeschlagen haben,
+                      Deutscher Bundestag – 20. Wahlperiode – 203. Sitzung. Berlin, Donnerstag, den 5. Dezember 2024     26313
+
+
+(A)          (Konstantin Kuhle [FDP]: Vorgeschlagen!                              (Beifall bei Abgeordneten der FDP)               (C)
+                       Das ist das Problem!)                          Das Verbrenner-Aus war deswegen ein Riesenfehler, weil
+      wollen wir die Automobilindustrie ganz konkret dabei            diese Technologie nicht per se klimaschädlich ist. Es
+      unterstützen, ihre Absatzprobleme bei der E-Mobilität           kommt darauf an, was man tankt. Deshalb haben wir
+      kurzfristig zu überwinden und so die Standorte zu si-           auch den HVO 100 zugelassen;
+      chern.                                                                      (Beifall bei Abgeordneten der FDP)
+           (Dr. Anja Weisgerber [CDU/CSU]: Mit was                    damit kann man direkt 90 Prozent CO2 einsparen. Des-
+           denn? Sie müssen die Energiepreise senken!                 halb kämpfen die Freien Demokraten auch weiter für die
+           Sie haben die Umweltprämie abgeschafft!)                   Zulassung von E-Fuels, auch für den Motorenbereich.
+      Das schulden wir den Mitarbeiterinnen und Mitarbeitern.            Das Verbrenner-Aus war auch organisatorisch einfach
+         Und statt mich hier so wüst anzubrüllen, sollten Sie mit     falsch gemacht; denn man muss die Ziele beim Klima-
+      uns darüber reden, wie wir tatsächliche Verbesserungen          schutz in den Blick nehmen. Und es sind nicht Politiker
+      für die Automobilindustrie erzielen können,                     am besten geeignet, darüber zu entscheiden, wie man
+                                                                      etwas bis ins Detail regulieren kann;
+           (Beifall bei der SPD sowie bei Abgeordneten
+              des BÜNDNISSES 90/DIE GRÜNEN)                                  (Linda Heitmann [BÜNDNIS 90/DIE GRÜ-
+                                                                                      NEN]: Wer denn sonst?)
+      um den Arbeitnehmerinnen und Arbeitnehmern Sicher-
+      heit zu geben.                                                  das macht die ganze Sache einfach nur unglaublich teuer.
+                                                                      Wie teuer das wird, sieht man gerade daran, dass sogar
+           (Dr. Anja Weisgerber [CDU/CSU]: Warum ha-
+                                                                      das BSW hier einen Antrag einbringt, in dem über den
+           ben Sie denn die Umweltprämie abgeschafft?
+                                                                      Verlust von Arbeitsplätzen bis in den Mittelstand hinein
+           Sagen Sie mal was dazu!)
+                                                                      geklagt wird.
+      Wir können gemeinsam noch einiges erreichen, wenn Sie             Wir stehen für Technologieoffenheit. Wir stehen für
+      sich konstruktiv verhalten. Ich strecke noch mal die Hand       den Wettbewerb der Ideen. Und das ist auch richtig so;
+      aus, damit wir jetzt einen klaren Kurs finden, der den          denn die Freien Demokraten sind die letzte Partei, die
+      Standort der Automobilindustrie in Deutschland stärkt           dafür universell steht.
+           (Henning Rehbaum [CDU/CSU]: Sie regieren                                 (Leni Breymaier [SPD]: Noch!)
+                           doch!)
+                                                                         Die CDU/CSU hat mit ihrer partiellen Amnesie bewie-
+    und den Arbeitnehmerinnen und Arbeitnehmern auch in               sen, wie wichtig es ist, dass es eine Partei gibt, die die
+(B) Zukunft einen sicheren Arbeitsplatz bietet.                       Stimme für Freiheit und Technologieoffenheit erhebt; (D)
+      Vielen Dank.                                                    denn, wenn sie dem Applaus von linken, linkeren und
+           (Beifall bei der SPD sowie bei Abgeordneten                noch viel linkeren Parteien erliegt, dann wird es sehr,
+              des BÜNDNISSES 90/DIE GRÜNEN)                           sehr teuer für den Standort Deutschland. Und dann geht
+                                                                      die Freiheit für die jungen Menschen verloren, die 18
+                                                                      werden und sich nichts sehnlicher wünschen als die Frei-
+        Vizepräsidentin Petra Pau:                                    heit, zum ersten Mal den Autoschlüssel in der Hand zu
+        Danke. – Die nächste Rednerin ist die Kollegin Carina         haben und selbst loszufahren.
+      Konrad für die FDP-Fraktion.                                       Vielen Dank.
+                        (Beifall bei der FDP)                                             (Beifall bei der FDP)
+
+        Carina Konrad (FDP):
+                                                                         Vizepräsidentin Petra Pau:
+        Sehr geehrte Frau Präsidentin! Liebe Kolleginnen und
+      Kollegen! Der 18. Geburtstag ist für viele junge Men-             Das Wort hat der Abgeordnete Thomas Ehrhorn für die
+      schen bis heute ein ganz, ganz besonderer Moment;               AfD-Fraktion.
+      denn es ist der Beginn der ultimativen Freiheit, wenn                 (Beifall bei der AfD – Canan Bayram [BÜND-
+      man das erste Mal den Autoschlüssel in der Hand hat                   NIS 90/DIE GRÜNEN]: Es wird nicht besser,
+      und selbst losfährt. Auf dem Land bedeutet das Eigenver-              fürchte ich!)
+      antwortung.
+            (Canan Bayram [BÜNDNIS 90/DIE GRÜ-                           Thomas Ehrhorn (AfD):
+                  NEN]: Aber nicht in Berlin!)                          Frau Präsidentin! Meine Damen und Herren! Diejeni-
+                                                                      gen, die sich nicht ohne Wenn und Aber für den Fort-
+      – Sie reden schon wieder nur von Berlin, und das ist            bestand des Verbrennungsmotors einsetzen, haben sich
+      genau Ihr Problem.                                              ganz offensichtlich von allen Prinzipien der freien Markt-
+           (Beifall bei der FDP sowie bei Abgeordneten                wirtschaft verabschiedet.
+                           der CDU/CSU)                                                   (Beifall bei der AfD)
+      Das ist Eigenverantwortung, die wir wirklich brauchen           Sie sind die wahren Totengräber unserer einst gesunden
+      und die junge Menschen weiterbringt.                            Volkswirtschaft. Wer sich fragt, wie die Saboteure am
+        Vor diesem Hintergrund war das Verbrenner-Aus ein             deutschen Wohlstand aussehen, dem muss ich sagen: Se-
+      Riesenfehler.                                                   hen Sie sich hier um, sie sitzen überall:
+      26314               Deutscher Bundestag – 20. Wahlperiode – 203. Sitzung. Berlin, Donnerstag, den 5. Dezember 2024
+
+
+(A)             (Canan Bayram [BÜNDNIS 90/DIE GRÜ-                          Das Wort hat der Kollege Christian Hirte für die CDU/ (C)
+                      NEN]: Vor allem bei Ihnen!)                         CSU-Fraktion.
+      Sie sitzen auf der Regierungsbank, sie sitzen auf dem                               (Beifall bei der CDU/CSU)
+      Stuhl einer unter Korruptionsverdacht stehenden Frau
+      von der Leyen in Brüssel, und sie sitzen in den Reihen                 Christian Hirte (CDU/CSU):
+      der CDU/CSU neben ihrem Brandmauerfetischisten, der                    Sehr geehrte Frau Präsidentin! Liebe Kolleginnen und
+      wohl künftig eher die Interessen von BlackRock als die              Kollegen! Das Thema der heutigen Debatte ist die Zu-
+      unseres Landes vertreten wird.                                      kunft der deutschen Automobilindustrie; darüber möchte
+              (Beifall bei der AfD – Michael Donth [CDU/                  ich sprechen.
+                CSU]: Reden Sie doch mal zu Russland!)                           (Linda Heitmann [BÜNDNIS 90/DIE GRÜ-
+         Jedem sollte jedenfalls klar sein, dass es auch und                        NEN]: Das ist der Ausschussbericht!)
+      gerade die CDU/CSU ist, die unbeirrt an der Politik                 In Anbetracht der noch verbleibenden „Fußgängerampel“
+      zum Schaden unseres eigenen Volkes festhält. Und so                 ist es um die Automobilindustrie schlecht bestellt.
+      ist der hier vorliegende CDU/CSU-Antrag nichts als der
+      schäbige Versuch politischer Hütchenspieler und Trick-                      (Zuruf von der SPD: Nicht die Fußgänger
+      betrüger, den Eindruck zu erwecken, man wolle an-                            schlechtmachen! Mann, Mann, Mann!)
+      geblich den Verbrennungsmotor nun doch erhalten. So                 Wir haben gerade gehört, dass die SPD offenbar schon
+      präsentiert man uns die Idee einer neu zu schaffenden               Probleme damit hat, den tatsächlichen Zustand überhaupt
+      Fahrzeugklasse, die ausschließlich mit klimafreundlichen            wahrzunehmen.
+      E-Fuels betrieben und bei der die Verwendung von kon-                         (Nina Warken [CDU/CSU]: So ist es!)
+      ventionellen Kraftstoffen technisch ausgeschlossen wer-
+      den soll. Woher dann aber der neue Kraftstoff in ausrei-               Wir hatten schon im Ausschuss gehört, wie eine Kol-
+      chender Menge kommen soll, wissen die Damen und                     legin – das kann man übrigens im Protokoll nachlesen –
+      Herren von der CDU/CSU offenkundig selber nicht.                    meinte – Zitat –, es sei alles in bester Ordnung. Wir hören
+      Das Einzige, was ihnen einfällt, ist, eine neue Strategie           heute, es gebe doch tolle Autos und die Empfehlung, die
+      zu fordern, um den Markthochlauf irgendwie zu be-                   Menschen sollen sich einen Porsche Taycan kaufen.
+      schleunigen. Nun gut.                                                     (Dr. Johannes Fechner [SPD]: Das hat sie nicht
+       Gegen den schrittweisen Umstieg auf E-Fuels, wenn es                                       gesagt!)
+    sie denn zu bezahlbaren Preisen gäbe, wäre ja grundsätz-              Wenn das die Empfehlung der SPD an die Bürgerinnen
+    lich auch gar nichts einzuwenden. Solange es sie aber                 und Bürger in unserem Land ist, dann brauchen wir uns (D)
+(B) nicht gibt, müsste ein Betrieb von Verbrennungsmotoren
+                                                                          nicht zu wundern, dass Sie unser Land ins Chaos führen.
+    mit konventionellen Kraftstoffen selbstverständlich wei-
+    ter möglich sein.                                                                     (Beifall bei der CDU/CSU)
+                           (Beifall bei der AfD)                            Wir haben auf der anderen Seite eine völlig ideologie-
+                                                                          getriebene Grüne, die meint, Klimaverbesserungen seien
+      Aber genau das soll ja ganz bewusst für die neue E-Fuels-           nur auf eine Art und Weise zu erreichen, das gehe nur mit
+      only-Klasse technisch verhindert werden. Und Sie wissen             dem Verbrennerverbot
+      das ganz genau.
+                                                                                   (Bernhard Herrmann [BÜNDNIS 90/DIE
+         Dennoch werden wir wegen der wenigen richtigen An-                            GRÜNEN]: Flottengrenzwerte!)
+      sätze in Ihrem zutiefst unaufrichtigen Papier Ihrem An-
+      trag zustimmen. Wer allerdings ein klar formuliertes Be-            und dem Verbot von fossilen Brennstoffen.
+      kenntnis zum Verbrennungsmotor lesen will, findet das                     (Linda Heitmann [BÜNDNIS 90/DIE GRÜ-
+      ausschließlich im Antrag der AfD – wie üblich. Deshalb                    NEN]: Ich bin auf den Ausschussbericht ein-
+      sage ich: Wer CDU wählt, wählt den Niedergang der                         gegangen! Darüber reden wir!)
+      Autoindustrie. Wer Merz wählt, wählt BlackRock. Nur
+                                                                          Das eine hat aber mit dem anderen schlicht nichts zu tun.
+      wer AfD wählt,
+                                                                          Man kann auch Verbrennerfahrzeuge klimafreundlich be-
+              (Michael Donth [CDU/CSU]: … wählt Russ-                     wegen, wenn man auf regenerative Kraftstoffe setzt.
+                               land!)                                           (Beifall bei der CDU/CSU – Bernhard
+      wählt eine bessere Zukunft.                                               Herrmann [BÜNDNIS 90/DIE GRÜNEN]:
+           Vielen Dank.                                                         Flottengrenzwerte auf europäischer Ebene!
+                                                                                Was machen wir damit?)
+                           (Beifall bei der AfD)
+                                                                          Und genau das wollen wir als Union. Genau das will auch
+                                                                          die EVP-Fraktion, die morgen beschließen wird, dass die
+           Vizepräsidentin Petra Pau:                                     Europäische Kommission binnen der ersten 100 Tage
+        Die Kollegin Dunja Kreiser hat ihre Rede für die SPD-             eine Evaluation der Entscheidung zum Verbrennerverbot
+      Fraktion zu Protokoll gegeben.1)                                    ab 2035 ermöglicht.
+                           (Beifall bei der SPD)                             Wir wollen Technologieoffenheit,
+                                                                                  (Bernhard Herrmann [BÜNDNIS 90/DIE
+      1)
+           Anlage 10                                                              GRÜNEN]: Sie veralbern die Menschen!)
+                      Deutscher Bundestag – 20. Wahlperiode – 203. Sitzung. Berlin, Donnerstag, den 5. Dezember 2024       26315
+
+
+(A) Wir wollen auch künftig die Möglichkeit, mit regenerati-             Zum Antrag des BSW. Da steht zwar, dass Sie die (C)
+    ven Kraftstoffen, mit fortschrittlichen Biokraftstoffen,          Flottengrenzwerte abschaffen wollen, aber da steht auch,
+    mit E-Fuels die Mobilität der Zukunft zu gestalten. Dafür         wir als Staat sollten Forschung fördern und noch ein
+    stehen wir als Union.                                             bisschen anderer planwirtschaftlicher Quatsch. Den brau-
+       Vielen Dank.                                                   chen wir nicht.
+                                                                                 (Dr. Johannes Fechner [SPD]: Staatliche
+                   (Beifall bei der CDU/CSU)                                           Forschung ist Quatsch! Aha!)
+                                                                      Deswegen werden wir als FDP diesen Antrag auch ab-
+       Vizepräsidentin Petra Pau:                                     lehnen.
+        Nächster Redner ist Julian Grünke für die FDP-Frak-                Vielen Dank.
+     tion.                                                                                (Beifall bei der FDP)
+                       (Beifall bei der FDP)
+                                                                           Vizepräsidentin Petra Pau:
+                                                                        Der Kollege Bernd Riexinger für die Gruppe Die Linke
+       Julian Grünke (FDP):                                           hat seine Rede zu Protokoll gegeben.1)
+        Sehr geehrte Frau Präsidentin! Liebe Kolleginnen und
+     Kollegen! Der Motor der deutschen Wirtschaft brummt                Das Wort hat die Kollegin Amira Mohamed Ali für die
+     nicht mehr.                                                      Gruppe BSW.
+                                                                                           (Beifall beim BSW)
+            (Bernhard Herrmann [BÜNDNIS 90/DIE
+                  GRÜNEN]: Das ist falsch!)
+                                                                           Amira Mohamed Ali (BSW):
+     Und besonders schlimm ist es dort, wo er nicht mehr                 Sehr geehrte Frau Präsidentin! Kolleginnen und Kol-
+     gebrummt, sondern gesummt hat. Die Schlüsselindustrie            legen! Der Autostandort Deutschland stirbt. Hunderttau-
+     Automobil steht auf der Kippe. Die deutsche Elektro-             senden Menschen droht die Arbeitslosigkeit. Ja, die Welt-
+     mobilität ist nicht wettbewerbsfähig. Es gelingt nicht,          lage ist schwierig, und ja, es gab schwerwiegende Fehler
+     Fahrzeuge zu einem Preis zu produzieren, der vor allem           in den Managementetagen der Autokonzerne, und es ist
+     auch im Ausland angenommen wird.                                 nicht akzeptabel, dass ein Unternehmen wie VW einer-
+       Liebe Kolleginnen und Kollegen aus Nordrhein-West-             seits riesige Boni an seine Aktionäre ausschüttet und
+(B) falen, ich möchte es mal in einfachen Worten runterbre-           andererseits mit Werksschließungen droht.                  (D)
+    chen – nehmen Sie es mir nicht übel –: Wir müssen jetzt              Das Hauptproblem ist aber, dass die Branche schlech-
+    gegensteuern, sonst sieht auch meine Heimatregion Ba-             ter Politik gefolgt und falsch abgebogen ist. Das Verbren-
+    den-Württemberg bald aus wie das Ruhrgebiet zu seinen             ner-Aus ab 2035 wurde von der EU mithilfe der ganz
+    schlechtesten Zeiten.                                             großen Koalition aus SPD, Union, FDP und Grünen
+        Wir dürfen nicht den Fehler machen, nur über                  durchgepeitscht. Das war ein Fehler, der dringend korri-
+     die großen Automobilhersteller zu sprechen; denn die             giert werden muss.
+     schrauben im Endeffekt die Fahrzeuge nur zusammen.                                    (Beifall beim BSW)
+     Es kommt auch ganz entscheidend auf die Zulieferindus-
+     trie an, und die hat einen besonders hohen Anteil an der         Wir hätten das hier heute auf den Weg bringen können,
+     Wertschöpfung bei der Herstellung von Verbrennern. Wir           aber Union und FDP, die angeblich auch gegen das Ver-
+     müssen in der gesamten Wirtschaft eine Wende herbei-             brenner-Aus sind, verhindern gemeinsam mit SPD und
+     führen. Wir müssen die strukturellen Probleme dieses             Grünen, dass unser Antrag hier heute abgestimmt wird.
+     Landes bekämpfen. Und wir müssen dafür sorgen, dass              Das ist sehr unglaubwürdig, Kolleginnen und Kollegen!
+     wieder wettbewerbsfähig produziert werden kann.                                       (Beifall beim BSW)
+        Ein Problem ist aber hausgemacht, und das sind die               Es war falsch, einseitig auf Elektromobilität zu setzen.
+     EU-Flottengrenzwerte. Das Gute ist: Wir könnten sie er-          Die Autos verkaufen sich schlecht, weil sie für die meis-
+     satzlos streichen. Wir brauchen sie nicht. Wir haben be-         ten Menschen viel zu teuer sind, weil die Reichweiten
+     schlossen, dass der CO2-Zertifikatehandel ausgeweitet            nach wie vor nicht vergleichbar sind mit denen von Ver-
+     wird. Das Klima braucht die Flottengrenzwerte nicht,             brennern, weil immer noch ungeklärt ist, wie lange das
+     die können einfach so weg.                                       teuerste Teil, der Akku, wirklich hält. Wer keine eigene
+                                                                      Ladesäule hat, schaut nach wie vor viel zu oft in die
+                       (Beifall bei der FDP)
+                                                                      Röhre. Wer Autos verkaufen will, muss die Autos bauen,
+     Am Ende sage ich es etwas versöhnlicher: Wir haben               die sich die Menschen leisten können und die sie auch
+     einen technologieoffenen Ansatz, liebe Kolleginnen und           kaufen wollen.
+     Kollegen. Wenn Sie damit recht haben, dass sich die                                   (Beifall beim BSW)
+     Elektromobilität durchsetzen wird, dann wird sie sich
+     durchsetzen. Dann wäre die Abschaffung der Flotten-              So einfach ist das.
+     grenzwerte gar nicht schädlich, dann könnten wir das
+     sofort beschließen.                                              1)
+                                                                           Anlage 10
+      26316            Deutscher Bundestag – 20. Wahlperiode – 203. Sitzung. Berlin, Donnerstag, den 5. Dezember 2024
+
+
+(A)      In Deutschland wurden jahrzehntelang weltweit er-                   (Konstantin Kuhle [FDP]: Moment! Kein Pro-                    (C)
+      folgreiche und beliebte Autos mit Verbrennungsmotor                    blem! – Heiterkeit bei Abgeordneten der SPD,
+      gebaut. Natürlich müssen wir neue Technologien erfor-                  der CDU/CSU, des BÜNDNISSES 90/DIE
+      schen und fördern; dazu gehört die E-Mobilität. Aber                   GRÜNEN und der FDP)
+      man sägt doch nicht den Ast ab, auf dem man sitzt, weil          Ich würde gerne das Abstimmungsverhalten der FDP
+      dahinten vielleicht mal ein neuer Baum wächst. Das ist           noch ins Protokoll bekommen.
+      doch Wahnsinn!
+                                                                             (Zuruf von der SPD: Er scrollt noch! – Dr. Götz
+                          (Beifall beim BSW)                                 Frömming [AfD]: Die stimmen auch mit den
+         China hat gerade vorgemacht, wie es gehen kann, und                 anderen! Die FDP hat noch nie Rückgrat ge-
+      den Effizienzrekord bei Dieselmotoren erneut gebrochen.                habt!)
+      Aber für Sie ist ja nicht mal mehr das Hybridauto eine           Also, vielleicht kann ich Ihnen ein bisschen helfen: Sie
+      Option. Diese ideologiegetriebene Politik zerstört unsere        haben es beantragt.
+      Wirtschaft. Damit muss endlich Schluss sein. Es ist Zeit               (Heiterkeit und Beifall bei Abgeordneten der
+      für Vernunft.                                                          SPD, der CDU/CSU, des BÜNDNISSES 90/
+           Danke schön.                                                      DIE GRÜNEN und der FDP – Konstantin
+                                                                             Kuhle [FDP]: Wir haben mit Ja gestimmt! Ist
+                          (Beifall beim BSW)
+                                                                             doch klar!)
+                                                                          Also: Der Antrag auf Zurückverweisung ist mit den
+           Vizepräsidentin Petra Pau:                                  Stimmen der SPD, der Grünen, der FDP und der CDU/
+         Dr. Jonas Geissler hat für die CDU/CSU-Fraktion               CSU
+      seine Rede zu Protokoll gegeben.1)
+                                                                                (Dr. Götz Frömming [AfD]: Die Kartell-
+                (Beifall bei Abgeordneten der CDU/CSU)                            parteien! Ganz einfach: das Kartell!)
+      Ich schließe die Aussprache.                                     gegen die Stimmen der Fraktion der AfD und der beiden
+                                                                       Gruppen BSW und Linke angenommen.
+       Die Fraktionen der SPD, CDU/CSU, Bündnis 90/Die
+    Grünen und FDP haben gemäß § 82 Absatz 3 unserer                      So. Sie haben jetzt kurz Zeit, sich zu sammeln und
+    Geschäftsordnung beantragt, den Antrag der Gruppe                  sich auf den nächsten Tagesordnungspunkt zu freuen.
+    BSW mit dem Titel „Verbrenner-Aus stoppen – Zukunft                Ich übergebe die Sitzungsleitung an den Kollegen Vize-
+    der deutschen Automobilindustrie sichern – Arbeits-                präsidenten Kubicki.
+(B) plätze schützen und Wohlstand bewahren“ auf den                                (Beifall bei Abgeordneten der FDP)                      (D)
+    Drucksachen 20/11541 und 20/13655 an den Ausschuss
+    für Umwelt, Naturschutz, nukleare Sicherheit und Ver-
+                                                                          Vizepräsident Wolfgang Kubicki:
+    braucherschutz und die mitberatenden Ausschüsse zu-
+    rückzuverweisen.
+                                                                          Liebe Kolleginnen und Kollegen, damit rufe ich auf
+                (Dr. Götz Frömming [AfD]: Warum denn?                  die Zusatzpunkte 20 a und 20 b:
+                                 Nö!)
+                                                                                a) Erste Beratung des von der Bundesregierung
+      Wer stimmt dafür? – Das sind SPD, Grüne, FDP, CDU/                           eingebrachten Entwurfs eines Ersten Geset-
+      CSU. Wer stimmt dagegen? – Die AfD-Fraktion, die                             zes zur Änderung des Berufskraftfahrer-
+      Gruppe BSW und die Gruppe Die Linke. Wer enthält                             qualifikationsgesetzes und anderer stra-
+      sich? – Niemand. Der Antrag auf Zurückverweisung ist                         ßenverkehrsrechtlicher Vorschriften
+      angenommen.                                                                   Drucksache 20/12658
+         Zusatzpunkt 19 b. Die Fraktionen der SPD, CDU/CSU,                         Überweisungsvorschlag:
+      Bündnis 90/Die Grünen und FDP haben gemäß § 82 Ab-                            Verkehrsausschuss (f)
+      satz 3 unserer Geschäftsordnung beantragt, den Antrag                         Wirtschaftsausschuss
+      der Fraktion der CDU/CSU mit dem Titel „Technologie-
+      offener Klimaschutz im Straßenverkehr – Kein Verbot                       b) Erste Beratung des von der Bundesregierung
+      des klimaneutralen Verbrennungsmotors“ auf den Druck-                        eingebrachten Entwurfs eines Vierten Geset-
+      sachen 20/11759 und 20/13608 an den Verkehrsaus-                             zes zur Änderung des Güterkraftverkehrs-
+      schuss und die mitberatenden Ausschüsse zurückzuver-                         gesetzes und anderer Gesetze
+      weisen.                                                                       Drucksachen 20/12776, 20/13088
+                (Dr. Götz Frömming [AfD]: Warum denn?                               Überweisungsvorschlag:
+                                                                                    Verkehrsausschuss (f)
+                                 Nö!)                                               Haushaltsausschuss mitberatend und gemäß § 96 der GO
+
+      Wer stimmt dafür? – CDU/CSU, SPD und Bündnis 90/
+      Die Grünen. Wer stimmt dagegen? – Die AfD-Fraktion,                 Für die Aussprache ist eine Dauer von 26 Minuten ver-
+      die Gruppen BSW und Die Linke. Wer enthält sich? –               einbart.
+      Darf ich wissen, wie die FDP abgestimmt hat?                       Da Sie alle sitzen geblieben sind, eröffne ich die Aus-
+                                                                       sprache und erteile als erstem Redner dem Kollegen
+      1)
+           Anlage 10                                                   Mathias Stein, SPD-Fraktion, das Wort.
+                       Deutscher Bundestag – 20. Wahlperiode – 203. Sitzung. Berlin, Donnerstag, den 5. Dezember 2024      26317
+
+
+(A)                     (Beifall bei der SPD)                             Henning Rehbaum (CDU/CSU):                                (C)
+                                                                         Herr Präsident! Sehr geehrte Kolleginnen und Kolle-
+                                                                       gen! Das ist ja wirklich interessant, lieber Kollege
+        Mathias Stein (SPD):                                           Mathias Stein, was sich die Restampel so alles für die
+         Sehr geehrter Herr Präsident! Liebe Kolleginnen und           nächste Regierungszeit vorgenommen hat.
+      Kollegen! Einen Bus oder einen Lkw zu fahren, das ist für
+      viele Kinder ein Kindheitstraum. Leider sind diese Be-                       (Marianne Schieder [SPD]: Hallo?)
+      rufe in der Realität oft harte Arbeit. Hunderttausende
+                                                                       Sie haben drei Jahre Zeit gehabt, etwas zu tun, und es ist
+      Menschen sind auf den Autobahnen, auf den Landstraßen
+                                                                       im Grunde nichts passiert.
+      als Berufskraftfahrer unterwegs. Sie leiden unter Termin-
+      druck, ungeduldigen Pkw-Fahrern, verstopften Straßen                   (Beifall bei der CDU/CSU – Zurufe von der
+      und einer schlechten Infrastruktur.                                    SPD und dem BÜNDNIS 90/DIE GRÜNEN)
+        Allzu häufig findet auf deutschen Straßen auch brutale            Der Fahrermangel ist ein riesiges Problem, und das ist
+      Ausbeutung statt. Der Streik in Gräfenhausen hat gezeigt,        nicht erst seit gestern so. Es fehlen 120 000 Lkw-Fahrer,
+      dass Menschen aus anderen EU-Ländern schlecht bezahlt            es fehlen 20 000 Busfahrer.
+      werden, streiken müssen, um nicht um ihren Lohn ge-
+      bracht zu werden. Der Verkehrsausschuss hat diese                      (Marianne Schieder [SPD]: Das ist ja nicht erst
+      Probleme in vielen Anhörungen thematisiert: den Fach-                  seit der Ampel so! Das war zu Ihrer Regie-
+      kräftemangel bei Lkw-Fahrern, die schlechten Arbeits-                  rungszeit auch schon so!)
+      bedingungen. Und ein Ausfluss dessen ist gewesen,
+      dass wir eine Entschließung beschlossen haben, mit der           Die Bundeswehr hat zu Zeiten der Wehrpflicht
+      wir der Bundesregierung viele Maßnahmen mit auf den              30 000 Lkw-Führerscheine mehr pro Jahr ausgestellt,
+      Weg gegeben haben.                                               als sie es derzeit tut.
+        Ein wichtiger Bereich ist das Berufskraftfahrerqualifi-              (Anja Liebert [BÜNDNIS 90/DIE GRÜNEN]:
+      kationsgesetz, mit dem dafür gesorgt wird, dass eine                   Wer hat noch mal die Wehrpflicht ausgesetzt?)
+      Qualifikation leichter nachgewiesen werden kann; das
+                                                                       Jedes Jahr gehen um die 5 000 bis 6 000 Menschen in
+      haben wir jetzt hier eingebracht. Wir haben auch in vielen
+                                                                       Rente, die heute noch als Kraftfahrer arbeiten. Das Pro-
+      anderen Bereichen die Möglichkeit, entsprechende Maß-
+                                                                       blem ist riesig, und es wird jeden Tag größer.
+      nahmen in Angriff zu nehmen.
+                                                                          Ich habe mich drei Jahre lang sehr intensiv mit der
+       Aber wir sehen, dass das Thema Ausbeutung noch
+                                                                       Problematik beschäftigt. Wir haben extra eine Bericht-
+    sehr, sehr viel tiefer greift. Wir Sozialdemokratinnen
+(B) und Sozialdemokraten sagen: Da muss die nächste Bun-               erstattung zum Fahrpersonalmangel in der Unionsfrak- (D)
+                                                                       tion eingeführt.
+    desregierung noch mal kräftig ran, mit Unterstützung von
+    Gewerkschaften, von denjenigen, die sich gewerkschaft-                           (Fabian Griewel [FDP]: Boah!)
+    lich organisieren. Dazu werden wir auch kräftig beitra-
+    gen.                                                               Ich habe mich intensiv mit dem Thema beschäftigt, habe
+                                                                       Gespräche mit Verbänden, mit Firmen, mit der Wirtschaft
+                        (Beifall bei der SPD)                          geführt. Ich habe das früher selber beruflich gemacht.
+      Denn Ausbeutung auf deutschen Straßen darf es nicht                      (Mathias Stein [SPD]: Und was ist mit den
+      länger geben. Wir brauchen gute Arbeitsbedingungen                                   Gewerkschaften?)
+      für Menschen, die diesen Beruf gerne ergreifen wollen,
+      die tatkräftig dafür sorgen, dass die Lkws auf unseren           – Mit den Gewerkschaften spreche ich selbstverständlich.
+      Straßen fahren, dass die Menschen versorgt werden.                  Ich habe die Ampel regelmäßig ins Gebet genommen –
+      Dort darf es keinerlei Ausbeutung geben.                         der Parlamentarische Staatssekretär Luksic hat immer
+                                                                       schon einen roten Kopf gekriegt, wenn ich das Thema
+                        (Beifall bei der SPD)                          im Ausschuss angesprochen habe –; aber es hat Sie nicht
+        Wir alle sollten gemeinsam dafür sorgen, dass der              interessiert. Jetzt haben wir den Salat. Wir haben einen
+      Kindheitstraum von vielen Menschen, Busfahrer oder               riesigen Fahrpersonalmangel, und wir müssen sehen,
+      Lkw-Fahrer zu sein, tatsächlich auch in Erfüllung gehen          dass wir etwas dagegen tun.
+      kann: mit guten Arbeitsbedingungen, guter Bezahlung,                Nun liegt ein Gesetzentwurf vor. Ich dachte, da kommt
+      europaweit und auch auf deutschen Straßen. Dafür wer-            jetzt ein richtig großer Wurf. Und was steht drin? Ein
+      den wir arbeiten.                                                einziger Punkt: Digitalisierung der Fortbildung für Be-
+        Vielen Dank.                                                   rufskraftfahrer. – Also, das ist wirklich ein Witz, wenn
+                                                                       man sich den Ernst der Lage anguckt und auch die demo-
+                        (Beifall bei der SPD)                          grafische Dramatik bei den Fahrberufen. Und für die
+                                                                       Unternehmen ist das schon gar nicht witzig. Wir brau-
+                                                                       chen ein kraftvolles Paket mit vielen Maßnahmen zur
+        Vizepräsident Wolfgang Kubicki:                                Bekämpfung des Fahrermangels.
+        Vielen Dank, Kollege Stein. – Nächster Redner ist der
+      Kollege Henning Rehbaum, CDU/CSU-Fraktion.                             (Beifall bei der CDU/CSU – [Fabian Griewel
+                                                                             [FDP]: Schlagen Sie doch was vor! Was sind
+                    (Beifall bei der CDU/CSU)                                denn Ihre Vorschläge?)
+      26318                Deutscher Bundestag – 20. Wahlperiode – 203. Sitzung. Berlin, Donnerstag, den 5. Dezember 2024
+
+
+(A)      Die Lage ist wirklich ernst, und die Union hat viele              Selbstkritik walten lassen und auch mehr als drei Jahre (C)
+      Vorschläge gemacht. Ich will nur zwei nennen. Wir müs-               zurückschauen können;
+      sen an die Berufskraftfahrerqualifikation ran. Sie dauert                  (Dr. Jonas Geissler [CDU/CSU]: Wer hat denn
+      bei uns sechs Monate und kostet mittlerweile, mit Führer-                  in den letzten drei Jahren den Verkehrsminister
+      schein, 13 000 Euro. In Österreich ist das Ganze in sechs                  gestellt?)
+      bis zehn Wochen abgehandelt. Da müssen wir auch hin-
+      kommen. Und brauchen eine erleichterte Anerkennung                   denn den Fahrermangel gibt es ja nicht erst seit drei
+      von Fahrpersonal aus Drittstaaten; auch das ist entschei-            Jahren, sondern schon viele, viele Jahre länger.
+      dend.                                                                                    (Beifall bei der FDP)
+         Als ich selbst in dieser Branche gearbeitet habe – das               Dass dieses Thema nach einer sachgrundlosen Ver-
+      ist mittlerweile über zehn Jahre her –, hatte ich in meinem          schiebung – die vorrangig von den Grünen ausgegangen
+      Unternehmen Fahrer aus acht Nationen. Wir brauchen                   ist; das wissen Sie genau – jetzt endlich auf der Tages-
+      dringend Menschen aus Drittstaaten, die fahren schon                 ordnung steht, finde ich gut. Sowohl Sie, Herr Kollege
+      heute auf deutschen Straßen; aber wenn sie für einen                 Stein, als auch Sie, Herr Kollege Rehbaum, haben inhalt-
+      deutschen Arbeitgeber fahren, dann müssen sie das kom-               lich relativ wenig über den Gesetzentwurf gesagt; deswe-
+      plette Programm mit Führerschein und Berufskraftfahrer-              gen will ich das nachholen.
+      ausbildung neu machen. Das geht so nicht, und das hat
+      auch die AfD nicht verstanden.                                          Einen Punkt haben Sie angesprochen: die digitale Wei-
+                                                                           terbildung. Hier müssen wir noch deutlich mehr nach
+                                                                           vorne gehen. Jetzt ist vorgeschlagen, bis zu zwölf Stun-
+           Vizepräsident Wolfgang Kubicki:                                 den online absolvieren zu können. Das ist leider euro-
+           Herr Kollege, kommen Sie zum Schluss, bitte.                    päisches Höchstmaß. Eigentlich muss unser Ziel sein,
+                                                                           alle 35 Stunden digital absolvieren zu können.
+           Henning Rehbaum (CDU/CSU):                                        Wenn wir nicht sogar noch einen Schritt weitergehen
+           Wir kommen nicht alleine mit deutschen Fahrern aus.             und sagen sollten: Die ganze Weiterbildungsrichtlinie der
+                                                                           Europäischen Union bedarf einer kompletten Überarbei-
+           Vizepräsident Wolfgang Kubicki:                                 tung.
+           Herr Kollege.                                                                (Henning Rehbaum [CDU/CSU]:
+                                                                                               Sehr gute Idee!)
+           Henning Rehbaum (CDU/CSU):
+           Wir brauchen Fahrer aus dem Ausland.                            Sie haben zu Recht die Arbeitnehmerrechte angespro-
+(B)                                                                        chen. Derzeit müssen die Lkw-Fahrerinnen und Lkw- (D)
+                                                                           Fahrer alle paar Jahre mehrere Samstage hintereinander
+           Vizepräsident Wolfgang Kubicki:                                 zum Betriebshof fahren und sich teilweise Dinge anhö-
+         Herr Kollege Rehbaum, kommen Sie zum Schluss,                     ren, die sie in ihrer täglichen Arbeit überhaupt nicht be-
+      bitte.                                                               nötigen. Wenn wir das ernst nehmen, dann ist die Aus-
+                                                                           weitung der Onlineweiterbildung ein Gedanke, den wir
+           Henning Rehbaum (CDU/CSU):                                      alle gemeinsam an die Europäische Union herantragen
+         Wenn Fahrer mit Zuwanderungsgeschichte nicht mehr                 sollten.
+      für den ÖPNV – –                                                              (Beifall bei der FDP – Konstantin Kuhle
+                       (Das Mikrofon wird abgeschaltet)                                     [FDP]: Das macht Sinn!)
+                                                                              Die Verkehrsprognose 2040 zeigt uns deutlich: Auch
+           Vizepräsident Wolfgang Kubicki:                                 in den nächsten 15 Jahren werden wir nicht ohne Lkw-
+        Herr Kollege, ich habe Ihnen das Wort entzogen. Neh-               Fahrerinnen und Lkw-Fahrer auskommen, sondern eher
+      men Sie bitte Platz. – Herr Kollege, bitte!                          mehr benötigen. Wir werden 35 Prozent mehr Tonnenki-
+                                                                           lometer auf der Straße haben. Dieser Realität müssen wir
+                          (Beifall bei der CDU/CSU)                        ins Auge blicken. Wir können ja nicht sagen: Wir möch-
+         Der Kollege Matthias Gastel hat dankenswerterweise                ten das nicht, und deswegen blicken wir der Realität nicht
+      seine Rede zu Protokoll gegeben,1) sodass der Kollege                ins Auge. – Das kommt auf der linken Seite des Par-
+      Fabian Griewel, FDP-Fraktion, als Nächster das Wort                  laments ab und zu mal vor.
+      hat.
+                                                                                       (Mathias Stein [SPD]: Na, na, na!)
+                            (Beifall bei der FDP)
+                                                                              Es ist entscheidend, dass wir auch in den nächsten
+                                                                           Jahrzehnten eine intakte Verkehrsinfrastruktur auf der
+           Fabian Griewel (FDP):                                           Straße haben, nicht nur auf der Schiene und auf der Was-
+        Sehr geehrter Herr Präsident! Liebe Kolleginnen und                serstraße – die sind gleichberechtigt –, sondern vor allem
+      Kollegen! Ich bin froh, dass das Thema nun endlich auf               auf der Straße. Denn die Güter, die demnächst transpor-
+      der Tagesordnung steht; denn – Kollege Rehbaum hat es                tiert werden, werden kleiner, werden leichter und werden
+      angesprochen – der Fahrermangel im Lkw-Bereich ist                   mehr. Das lässt die Straße bevorzugen. Das lässt den Lkw
+      schon seit Jahren sehr groß. Da hätten Sie durchaus                  gegenüber den anderen Verkehrsträgern bevorzugen. Wir
+                                                                           müssen der Realität ins Auge blicken. Das machen wir als
+      1)
+           Anlage 11                                                       FDP.
+                       Deutscher Bundestag – 20. Wahlperiode – 203. Sitzung. Berlin, Donnerstag, den 5. Dezember 2024     26319
+
+
+(A)      Ich schlage vor, dass wir darüber in die Debatte kom-         steigt der Erfüllungsaufwand für die Wirtschaft sogar. (C)
+      men und neben der digitalen Weiterbildung auch die               Das ist symptomatisch: Selbst da, wo vom Abbau der
+      Sprachprüfung beim Führerschein, bei der beschleunig-            Bürokratie geredet wird, ist das Gegenteil drin.
+      ten Grundqualifikation in den Blick nehmen.
+                                                                                           (Beifall bei der AfD)
+         Die IHKen haben sich übrigens schon darauf vorberei-
+                                                                         Ganz am Rande berührt diese Reform auch die Kabota-
+      tet und wollen jetzt auch entsprechend handeln. Insofern
+                                                                       geverordnung. Angeblich sollen sich die Wettbewerbs-
+      glaube ich: Das ist ein zweiter Punkt, den wir angehen
+                                                                       bedingungen der deutschen Unternehmen durch bessere
+      müssen.
+                                                                       Kontrollen der ausländischen Konkurrenten verbessern.
+         Weitere Themen für die Zukunft werden die Kosten              Aber auch das wird verpuffen, wenn das BALM, die
+      des Führerscheins, die Hygienesituation – die schon jetzt        Kontrollbehörde, nicht mehr Stellen bekommt und es
+      fatal ist, die wir direkt angehen müssen –, die Anzahl der       bei der Praxis der Bußgeldrabatte für Ausländer bleibt.
+      Parkplätze für Lkws sein. Hier können wir nicht nur mit-
+                                                                          Die AfD-Fraktion hat hierzu letztes Jahr wirkungsvolle
+      hilfe der Mautdaten für Verbesserungen sorgen, sondern
+                                                                       Verbesserungen beantragt, aber die Mehrheit des Hauses
+      auch durch die Beschilderung an den Autobahnen.
+                                                                       war ja dagegen. So bleibt es wohl bei ein wenig Gesetzes-
+        Also: Wir haben ganz viele Optionen, die sowohl Sie in         kosmetik, aber die wirklich großen Probleme werden
+      den letzten 16 Jahren – den letzten 20 Jahren – hätten           nicht gelöst.
+      angehen als auch die Grünen schon vorher hätten zulas-
+      sen können.                                                                          (Beifall bei der AfD)
+        Vielen Dank.                                                   Vielleicht ergibt die Beratung der Gesetze im Verkehrs-
+                                                                       ausschuss ja noch die eine oder andere Verbesserung. Die
+                        (Beifall bei der FDP)                          Hoffnung stirbt bekanntlich zuletzt.
+                                                                                           (Beifall bei der AfD)
+        Vizepräsident Wolfgang Kubicki:
+        Vielen Dank, Herr Kollege Griewel. – Als nächster
+                                                                            Vizepräsident Wolfgang Kubicki:
+      Redner hat das Wort der Kollege Wolfgang Wiehle,
+      AfD-Fraktion.                                                       Vielen Dank. – Der Kollege Udo Schiefner, SPD-Frak-
+                                                                       tion, hat seine Rede zu Protokoll gegeben,1)
+                        (Beifall bei der AfD)
+                                                                                 (Beifall der Abg. Susanne Menge [BÜND-
+                                                                                           NIS 90/DIE GRÜNEN])
+        Wolfgang Wiehle (AfD):
+(B)      Sehr geehrter Herr Präsident! Geschätzte Kolleginnen          sodass wir nunmehr mit der Kollegin Martina Englhardt- (D)
+      und Kollegen! Heute beraten wir Änderungen in der Ge-            Kopf, CDU/CSU-Fraktion, zur letzten Rednerin kom-
+      setzgebung zur Qualifikation für Berufskraftfahrer und           men.
+      zum Güterkraftverkehr. Hier werden EU-Vorschriften                                (Beifall bei der CDU/CSU)
+      umgesetzt und ein paar kleine Probleme gelöst. Aber
+      die großen Probleme bleiben offensichtlich liegen, und
+                                                                            Martina Englhardt-Kopf (CDU/CSU):
+      das geht weit über den Fahrermangel hinaus, den die
+                                                                          Guten Abend! Sehr geehrter Herr Präsident! Liebe
+      Kollegen schon angesprochen haben.
+                                                                       Kolleginnen und Kollegen! Meine sehr geehrten Damen
+         Dass elektronisches Lernen ermöglicht werden soll, ist        und Herren! Mit dem vorgelegten Gesetzentwurf zum
+      sicher ein Fortschritt. Ob die sogenannte unionsrechtlich        Erwerb der Berufskraftfahrerqualifikation möchten Sie
+      harmonisierte Gemeinschaftslizenz für den Güterverkehr           die Qualifikation endlich reformieren; aber das ist viel
+      wirklich gelungen ist, kann man bezweifeln. Die Ver-             zu spät. Sie haben sich intern permanent gestritten in
+      bände fordern nämlich lange Übergangsfristen. Die Brüs-          den vergangenen Jahren. Es wurde viel diskutiert. Die
+      seler Zentralisierung und Abschaffung der nationalen Er-         Kommission Straßengüterverkehr wurde vom BMDV
+      laubnis hat offensichtlich spürbare Nachteile.                   ins Leben gerufen. Wir haben drei Jahre nur diskutiert. –
+                        (Beifall bei der AfD)                          Das ist meine erste Wahlperiode. Es ist nichts passiert,
+                                                                       und das haben auch Sie mitzuverantworten.
+         Dass bei Erlaubnissen für den Güterkraftverkehr das
+      Anhörungsverfahren für die zuständigen Verbände ge-                               (Beifall bei der CDU/CSU)
+      strichen werden soll, ruft deren Widerstand hervor. Ich             Wir können uns diese Verzögerungen nicht länger leis-
+      warne davor, das Wissen der Verbände zu unterschätzen.           ten. Sie wissen um die Zahlen. Es fehlen bis zu
+      Wir hatten gerade erst am Montag eine Expertenanhö-              100 000 Fahrerinnen und Fahrer. Eines ist auch klar –
+      rung zu einer Änderung am Allgemeinen Eisenbahnge-               Ihnen vielleicht nicht –: Diese Branche ist systemrele-
+      setz. Diese wurde ohne Verbändeanhörung vollzogen und            vant. Sie hält unser Land tagtäglich am Laufen. Sie ver-
+      führt nun zu erheblichen Schwierigkeiten.                        sorgt uns mit Gütern und Waren. Jeder Bürger erwartet im
+         Ein großes Problem ist die Bürokratie. Sie erdrosselt         Supermarkt volle Regale. Wir müssen diese Systemrele-
+      die deutsche Wirtschaft mittlerweile regelrecht. In der          vanz anerkennen und alles dafür tun, dass mögliche Ver-
+      Zeit der Ampelregierung hat sie massiv zugenommen,               sorgungsengpässe beseitigt werden. Wir sollten heute für
+      und auch das Kraftverkehrsgewerbe leidet. Wer nun auf            Abhilfe sorgen, meine sehr geehrten Damen und Herren.
+      die angeblich bürokratieabbauende Wirkung der Geset-
+      zesänderung hofft, wird jäh enttäuscht. Laut Vorlage             1)
+                                                                            Anlage 11
+      26320             Deutscher Bundestag – 20. Wahlperiode – 203. Sitzung. Berlin, Donnerstag, den 5. Dezember 2024
+
+
+(A)                    (Beifall bei der CDU/CSU)                                  Ich eröffne die Aussprache und erteile als erstem Red- (C)
+         Ein kurzer Blick in die Novelle zeigt, dass zwar einige                ner dem Kollegen Björn Simon, CDU/CSU-Fraktion, das
+      Lösungsvorschläge darin enthalten sind, diese aber nicht                  Wort.
+      weit genug gehen. Es reicht eben nicht, nur Onlineschu-                                 (Beifall bei der CDU/CSU)
+      lungsangebote zu ermöglichen, die Fremdsprachenange-
+      bote auszuweiten. Ja, das ist richtig; aber entscheidend
+      wäre doch, auch Modelle von Nachbarstaaten zum Vor-                         Björn Simon (CDU/CSU):
+      bild zu nehmen. Das österreichische Modell wurde an-                         Herr Präsident! Werte Kolleginnen und Kollegen! Erst
+      gesprochen. Wir sollten die Möglichkeit einer verkürzten                  vor wenigen Wochen hat die Ampel einen Antrag der
+      Ausbildung auf den Prüfstand stellen. Was ist notwendig,                  Union zu unverhältnismäßig hohen Standortkosten für
+      um eine Verkürzung zu erreichen, aber auch, um die                        die deutsche Luftverkehrswirtschaft in diesem Haus ab-
+      Kosten zu drücken? Das sind doch die entscheidenden                       gelehnt. Im europäischen Vergleich sind die regulativen
+      Stellschrauben, meine sehr geehrten Damen und Herren,                     Kosten – dazu gehört auch die Luftverkehrsteuer – bei
+      die wir dringend angehen müssen.                                          uns so hoch, dass sich Airlines vom deutschen Markt
+                                                                                zurückziehen. Das kann man am Flughafen in Berlin
+                       (Beifall bei der CDU/CSU)                                sehen, in Dortmund, in Hamburg, in Leipzig und an an-
+         Es braucht an dieser Stelle den Mut zu pragmatischen                   deren Flughäfen: Sie alle leiden unter diesen hohen Kos-
+      Lösungen. Es geht hier auch um unseren Wirtschafts-                       ten.
+      standort Deutschland, um die Wettbewerbsfähigkeit und                       Diese Flüge fallen nicht aus, sondern werden einfach
+      die Leistungsfähigkeit, die sich auch an solchen Themen                   in ein anderes EU-Land verlegt. Beispiel Schweden:
+      bemessen lässt. Dafür ist nicht das Überwinden hoher                      Schweden hat vor einigen Monaten die Luftverkehrsteuer
+      finanzieller Hürden erforderlich, nein: Wir brauchen ein-                 von heute auf morgen komplett abgeschafft. Und was ist
+      fach ein Zusammenspiel der zuständigen Ministerien und                    passiert? Plötzlich gibt es wieder Flüge in Stockholm und
+      schnelle Lösungen, um das Land am Laufen zu halten.                       Uppsala. Das sollte ein Vorbild für uns sein.
+         Ich möchte abschließend allen Fahrerinnen und Fah-                           (Beifall bei der CDU/CSU sowie bei Abge-
+      rern danken, die tagtäglich und vermeintlich selbstver-                                      ordneten der FDP)
+      ständlich – aber das ist es eben nicht – uns mit Gütern,
+      mit Waren versorgen. Herzlichen Dank für Ihre wertvolle                      Sie sprechen immer nur davon, dass der Luftverkehr
+      Arbeit! Wir müssen als Politik hier endlich unseren Job                   klimaneutral werden muss. Die deutsche Luftverkehrs-
+      machen. Wir brauchen pragmatische Lösungen. Nehmen                        wirtschaft arbeitet daran, CO2-Neutralität bis 2050 zu
+      wir sie in Angriff!                                                       erreichen. Eine Hauptrolle beim Thema CO2 spielt natür-
+(B)                                                                             lich das Kerosin. Und so gehört zu den entscheidenden (D)
+        Herzlichen Dank.
+                                                                                Maßnahmen für klimaneutrales Fliegen der Einsatz von
+                       (Beifall bei der CDU/CSU)                                nachhaltigen Treibstoffen, sogenannten Sustainable
+                                                                                Aviation Fuels, SAF genannt. Da kommen wir wieder
+        Vizepräsident Wolfgang Kubicki:                                         zu Ihnen, liebe Ampel oder mittlerweile Fußgänger-
+        Vielen Dank, Frau Kollegin. – Damit beende ich die                      ampel: Sie haben es in den drei Jahren nicht geschafft,
+      Aussprache.                                                               Ihren eigenen Koalitionsvertrag einzuhalten und für ei-
+                                                                                nen Markthochlauf von diesen SAF zu sorgen. Im Gegen-
+        Interfraktionell wird Überweisung der Gesetzentwürfe                    teil: Sie entziehen der Luftverkehrswirtschaft die finan-
+      auf den Drucksachen 20/12658, 20/12776 und 20/13088                       ziellen Mittel, die sie selbst für den Einsatz von SAF gut
+      an die in der Tagesordnung aufgeführten Ausschüsse vor-                   gebrauchen könnte,
+      geschlagen. Gibt es weitere Vorschläge? – Das sehe und
+      höre ich nicht. Dann verfahren wir so.                                         (Klaus-Peter Willsch [CDU/CSU]: So ist es!)
+                                                                                und stopfen mit den horrenden Steuereinnahmen die Lö-
+         Ich rufe auf den Zusatzpunkt 21:                                       cher Ihres Gesamthaushaltes. Das ist damit nicht gemeint
+              Beratung des Antrags der Fraktion der CDU/CSU                     gewesen. Kein Euro der Luftverkehrsteuer fließt zweck-
+                                                                                gebunden in die Förderung von nachhaltigen Flugkraft-
+              Klimaneutrales Fliegen vorantreiben – Für                         stoffen. Das aber fordern wir in unserem vorliegenden
+              einen Markthochlauf von nachhaltigen Flug-                        Antrag.
+              kraftstoffen und wettbewerbsfähige Klima-                           Ein weiteres Beispiel dafür, dass die Regierung die
+              schutzinstrumente                                                 Wettbewerbsfähigkeit der deutschen Luftverkehrswirt-
+                                                                                schaft immer mehr gefährdet, sind die sogenannten Bei-
+              Drucksache 20/14016                                               mischungsquoten für SAF. Ab dem 1. Januar 2025, in
+              Überweisungsvorschlag:                                            wenigen Tagen also, gibt es klare EU-Vorgaben für die
+              Verkehrsausschuss (f)
+              Finanzausschuss
+                                                                                Airlines: ab 2025 2 Prozent Beimischungsquote, ab 2030
+              Wirtschaftsausschuss                                              6 Prozent. Das gilt gleichermaßen für alle EU Partner.
+              Ausschuss für Umwelt, Naturschutz, nukleare Sicherheit und Ver-
+              braucherschutz                                                       Das reicht Ihnen aber noch nicht. Nein, Sie müssen mal
+              Ausschuss für Klimaschutz und Energie                             wieder noch einen draufsetzen und per nationalem Al-
+                                                                                leingang für die Zeit ab 2026 eine zusätzliche nationale
+         Für die Aussprache ist eine Dauer von 26 Minuten ver-                  Beimischungsquote einführen, die für eine weitere ekla-
+      einbart.                                                                  tante Wettbewerbsverzerrung sorgen wird. Zum einen ist
+                         Deutscher Bundestag – 20. Wahlperiode – 203. Sitzung. Berlin, Donnerstag, den 5. Dezember 2024      26321
+
+
+(A) diese nationale Extraquote der Ampel gar nicht erfüllbar,            von Anfang an bei jeder Gelegenheit unterstützt. Damit (C)
+    weil es so viele strombasierte Kraftstoffe gar nicht gibt.           springen wir in der Grünenfraktion über unseren eigenen
+    Zum anderen treiben Sie damit Deutschland ins europäi-               Schatten; denn die Luftverkehrsteuer stellt einen kleinen
+    sche Abseits, weil Ihr nationaler Alleingang laut EU-Ge-             Ausgleich zur massiven steuerlichen Privilegierung des
+    setzgebung rechtswidrig ist.                                         Luftverkehrs dar.
+             (Canan Bayram [BÜNDNIS 90/DIE GRÜ-                                (Klaus-Peter Willsch [CDU/CSU]: Das ist
+             NEN]: Informieren Sie sich mal über den neu-                      doch Quatsch! In Wirklichkeit wollen Sie den
+             esten Stand, Herr Kollege!)                                       Menschen das Fliegen verbieten!)
+                                                                         Bis heute gibt es weder eine Kerosinsteuer noch eine
+          Vizepräsident Wolfgang Kubicki:                                Mehrwertsteuer auf internationale Flüge. Aber wer es
+          Herr Kollege, kommen Sie zum Schluss, bitte.                   ernst meint mit der Dekarbonisierung des Luftverkehrs,
+                                                                         muss den Hochlauf von E-Kerosin auf allen Ebenen
+          Björn Simon (CDU/CSU):                                         scharfstellen.
+       Der Luftverkehrsstandort Deutschland muss wieder                     Das erste Problem war nur: Der ehemalige Finanz-
+     wettbewerbsfähig werden, liebe Kolleginnen und Kolle-               minister hat seine Kasse nicht geöffnet. Das zweite Pro-
+     gen. Die Union wird dafür sorgen.                                   blem waren und sind Sie selbst, liebe Kolleginnen und
+          Vielen Dank.                                                   Kollegen von der Union. Im Klima- und Transformati-
+                      (Beifall bei der CDU/CSU)                          onsfonds hatten wir 2 Milliarden Euro für den Bereich
+                                                                         Power-to-Liquid-Kraftstoffe vorgesehen. Der Grund da-
+                                                                         für, dass der Klima- und Transformationsfonds zusam-
+          Vizepräsident Wolfgang Kubicki:                                mengestrichen werden musste, liegt bei Ihnen selbst.
+       Vielen Dank, Herr Kollege. – Die Kollegin Anja Troff-
+     Schaffarzyk, SPD-Fraktion, und der Kollege Jürgen                          (Björn Simon [CDU/CSU]: Bei Ihnen! Nicht
+     Lenders, FDP-Fraktion, haben ihre Reden zu Protokoll                            verfassungsgemäß! Rechtswidrig!)
+     gegeben – sehr vernünftig.1)                                        Damit meine ich nicht Ihre erfolgreiche Klage, sondern
+             (Beifall bei Abgeordneten der SPD, des                      ich meine vor allem Ihre Verweigerungshaltung bei un-
+             BÜNDNISSES 90/DIE GRÜNEN und der                            serem Bemühen, unserem Land zu helfen, anschlussfähig
+             FDP)                                                        zu bleiben und dafür mehr finanziellen Spielraum zu
+                                                                         schaffen.
+     Als nächste Rednerin rufe ich die Kollegin Susanne
+(B) Menge, Bündnis 90/Die Grünen, auf.                                         (Beifall beim BÜNDNIS 90/DIE GRÜNEN                     (D)
+                                                                               sowie bei Abgeordneten der SPD – Björn
+        (Beifall beim BÜNDNIS 90/DIE GRÜNEN)
+                                                                               Simon [CDU/CSU]: Da sind Sie schön mit-
+                                                                               marschiert!)
+          Susanne Menge (BÜNDNIS 90/DIE GRÜNEN):
+        Sehr geehrter Herr Präsident! Sehr geehrte Kollegin-               Diesen Spielraum brauchen wir wegen des Investiti-
+     nen und Kollegen, insbesondere von der Union! Ich bin               onsstaus, der in Ihren nicht 3, nicht 10, sondern 16 Jahren
+     hin- und hergerissen. Ich weiß nicht, ob ich mich über              aufgelaufen ist.
+     Ihren Antrag freuen oder eher ärgern soll.                                (Dr. Jonas Geissler [CDU/CSU]: So kann man
+              (Björn Simon [CDU/CSU]: Zustimmen! –                             sich auch aus dem Verfassungsbruch heraus-
+             Thomas Bareiß [CDU/CSU]: Freuen ist gut!)                         reden! – Jörn König [AfD]: Sie haben 30 Mil-
+        Gut und wichtig finde ich, dass Sie die Herstellung,                   liarden Spielraum im Haushalt!)
+     den Hochlauf und den Einsatz von weniger klimaschäd-                Diesen müssen wir auflösen. Wir brauchen den Spiel-
+     lichen Flugtreibstoffen in den Mittelpunkt Ihres Antrages           raum auch für die Transformation hin zu einer klima-
+     stellen und nicht wie zuletzt das notorische Gejammer der           freundlichen Wirtschaft. Wir brauchen ihn ebenso, um
+     Lobbyisten über zu hohe Standortkosten.                             für den Hochlauf von Power-to-Liquid-Treibstoffen zu
+             (Jörn König [AfD]: Machen Sie die noch ein                  sorgen. Und wir brauchen diesen Spielraum zur För-
+             bisschen höher! Die vertagen das schon! Im-                 derung eines neuen Kraftstoffindustriezweigs mit großen
+             mer drauf!)                                                 Chancen für die deutsche Wirtschaft.
+     Richtig finde ich Ihre Forderung, Sustainable Aviation                    (Björn Simon [CDU/CSU]: Sie haben es doch
+     Fuels stärker zu fördern. Mit Nachdruck unterstütze ich,                                 verhindert!)
+     dass Sie dabei speziell die Rolle der Power-to-Liquid-
+                                                                            Wir haben im Übrigen trotz aller Schwierigkeiten da-
+     Treibstoffe, auch bekannt als E-Kerosin, besonders her-
+                                                                         für gesorgt, dass die ursprünglich komplett zusammen-
+     vorheben; denn sie sind bis auf Weiteres der größte Hebel
+                                                                         gestrichenen Mittel für E-Kerosin wenigstens in Teilen
+     für eine weniger klimaschädliche Luftfahrt.
+                                                                         erhalten geblieben sind.
+        Und ich stehe zu der Vereinbarung in unserem Koali-
+     tionsvertrag: Ja, Mittel aus der Luftverkehrsteuer sollen                    (Thomas Bareiß [CDU/CSU]: Quatsch!)
+     für E-Kerosin verwendet werden. Diesen Punkt habe ich               Damit konnten wir die wichtige E-Kerosin-Anlage des
+                                                                         Deutschen Zentrums für Luft- und Raumfahrt in Leuna
+     1)
+          Anlage 12                                                      retten.
+      26322           Deutscher Bundestag – 20. Wahlperiode – 203. Sitzung. Berlin, Donnerstag, den 5. Dezember 2024
+
+
+(A)      Sollten Sie zukünftig eine neue Bundesregierung an-          und füttern die Tagesordnung mit Alibianträgen.                       (C)
+      führen wollen, werden Sie spätestens dann für mehr
+      Spielraum im Haushalt sorgen müssen, zumindest wenn                          (Dr. Götz Frömming [AfD]: Richtig!
+      Sie diese und andere brennende Themen erfolgreich an-                                   Gut erkannt!)
+      gehen wollen. Sollte es so weit kommen, müssen Sie sich         Sie verhindern mit Ihrer Brandmauer weiter eine Politik
+      den Vorwurf gefallen lassen, dass Sie zuvor unser ganzes        für die Zukunft.
+      Land einschließlich des von Ihnen jetzt eingeforderten
+      Hochlaufs von E-Kerosin durch parteitaktische Strate-                                   (Beifall bei der AfD)
+      gien behindert haben.                                           Sie sind auch nicht Teil der Lösung für dieses Land,
+        Ich danke für die Aufmerksamkeit.                             sondern mit Ihrem Habeck-Freund Merz aktuell das
+                                                                      größte Problem für Deutschland.
+            (Beifall beim BÜNDNIS 90/DIE GRÜNEN
+                         und bei der SPD)                                      (Zuruf des Abg. Björn Simon [CDU/CSU])
+                                                                         Wir wollen keine Luftverkehrsteuer, keine Kerosin-
+        Vizepräsident Wolfgang Kubicki:                               steuer und keine CO2-Bepreisung. Wenn Sie die Traditi-
+         Vielen Dank, Frau Kollegin. – Nächster Redner ist für        onsparteien CDU und CSU kaputtspielen wollen, ist das
+      die AfD-Fraktion der Kollege Dirk Brandes.                      Ihre Sache. Hören Sie jedoch auf, hier den Innovations-
+                        (Beifall bei der AfD)                         treiber zu mimen! Sie haben mit Ihrer E-Mobilität schon
+                                                                      die Automobilbranche in die Krise geführt. Ich glaube,
+                                                                      das reicht.
+        Dirk Brandes (AfD):
+         Herr Präsident! Meine Damen und Herren! Dieser An-                                   (Beifall bei der AfD)
+      trag zeigt ziemlich eindrucksvoll, wes grünen Geistes              Die AfD würde jetzt Innovation und Fortschritt voran-
+      Kind die Union geworden ist. Die CDU ist nicht nur die          treiben. Wir Deutschen waren einst die Pioniere der Luft-
+      Partei der verkorksten Energiewende, des Verbrennungs-          fahrt und des Automobils. Mit Ihnen hier sind wir nur
+      motorenverbots und der illegalen Migration; die CDU ist         noch Pioniere der Bürokratie und der Ideologie. Das
+      ab jetzt auch verantwortlich für den Niedergang der Luft-       wird sich ändern, meine Damen und Herren; das verspre-
+      verkehrsbranche in Deutschland.                                 che ich Ihnen. Der Wähler wird weise entscheiden.
+          (Beifall bei der AfD – Björn Simon [CDU/                         Ich wünsche Ihnen eine gute Nacht.
+          CSU]: Das ist doch totaler Blödsinn! Sie schla-
+          gen nichts vor! Null!)                                              (Beifall bei der AfD – Zuruf des Abg. Dr. Till
+(B)                                                                              Steffen [BÜNDNIS 90/DIE GRÜNEN])                           (D)
+         In Ihrem Antrag fordern Sie, das klimaneutrale Fliegen
+      stärker zu fördern. Was ist klimaneutrales Fliegen? Ich
+      befürchte, dass hier einige demnächst klimaneutral aus               Vizepräsident Wolfgang Kubicki:
+      dem Parlament fliegen.                                            Der Kollege Thomas Lutze, SPD-Fraktion, und die
+                        (Beifall bei der AfD)                         Kollegin Martina Englhardt-Kopf, CDU/CSU-Fraktion,
+                                                                      haben ihre Reden zu Protokoll gegeben, sodass ich die
+      Aber die Luftverkehrsbranche bringen wir damit nicht            Aussprache schließen kann.1)
+      nach vorne. Ihre 15 Punkte im Antrag lesen sich wie
+      ein Positionspapier der Grünen. Mit den Geldern aus                              (Beifall bei Abgeordneten der SPD)
+      der Luftverkehrsteuer und CO2-Bepreisung wollen Sie               Interfraktionell wird Überweisung der Vorlage auf
+      die Dekarbonisierung vorantreiben. Noch vor wenigen             Drucksache 20/14016 an die in der Tagesordnung aufge-
+      Monaten beklagten Sie, dass sich die deutsche Luftfahrt         führten Ausschüsse vorgeschlagen. Gibt es weitere Vor-
+      in der schlimmsten Krise befindet, und jetzt wollen Sie         schläge? – Das sehe und höre ich nicht. Dann verfahren
+      noch mehr Geld in Klimaprojekte umverteilen.                    wir so.
+        Wir haben jetzt ein kurzes Zeitfenster, um mit par-
+      lamentarischen Mehrheiten die Kosten für die Luftfahrt                Ich rufe auf den Zusatzpunkt 22:
+      zu reduzieren.
+                                                                                 Erste Beratung des von der Bundesregierung
+              (Michael Donth [CDU/CSU]: Dafür gibt es                            eingebrachten Entwurfs eines Gesetzes zur Er-
+                          keine Mehrheit!)                                       teilung der Zustimmung nach § 7 Absatz 2 in
+      Aber was macht die CDU/CSU aus Angst davor, die AfD                        Verbindung mit Absatz 1 des Integrationsver-
+      könnte nun diese Dinge zur Abstimmung stellen? Ich                         antwortungsgesetzes zu dem Antrag der Euro-
+      sage es Ihnen: Aus purer Panik bilden Sie mit der SPD                      päischen Investitionsbank zur Änderung von
+      und den Grünen eine Hinterzimmerkoalition.                                 Artikel 16 Absatz 5 ihrer Satzung
+              (Beifall bei der AfD – Stefan Gelbhaar                             Drucksache 20/13949
+           [BÜNDNIS 90/DIE GRÜNEN]: Langweilig!)                                 Überweisungsvorschlag:
+                                                                                 Finanzausschuss (f)
+      Sie legen dieses Parlament lahm                                            Ausschuss für die Angelegenheiten der Europäischen Union
+
+              (Zuruf des Abg. Dr. Till Steffen [BÜND-
+                      NIS 90/DIE GRÜNEN])                             1)
+                                                                           Anlage 12
+                      Deutscher Bundestag – 20. Wahlperiode – 203. Sitzung. Berlin, Donnerstag, den 5. Dezember 2024        26323
+
+
+(A)      Für die Aussprache ist eine Dauer von 26 Minuten ver-             Vizepräsident Wolfgang Kubicki:                          (C)
+      einbart.                                                           Herr Kollege Daldrup, vorbildlich! Vielen Dank. – Der
+        Ich eröffne die Aussprache und erteile als erstem Red-        Kollege Dr. Michael Meister, CDU/CSU-Fraktion, und
+      ner dem Kollegen Bernhard Daldrup, SPD-Fraktion, das            die Kollegin Katharina Beck, Bündnis 90/Die Grünen,
+      Wort.                                                           haben ihre Reden zu Protokoll gegeben.1)
+                                                                                (Beifall bei Abgeordneten des BÜNDNIS-
+           (Beifall bei der SPD sowie des Abg. Dr. Till                                   SES 90/DIE GRÜNEN)
+           Steffen [BÜNDNIS 90/DIE GRÜNEN] –
+           Konstantin Kuhle [FDP]: Sieben Minuten!)                     Als nächster Redner darf der Kollege Till Mansmann,
+                                                                      FDP-Fraktion, ans Rednerpult treten.
+                                                                                             (Beifall bei der FDP)
+        Bernhard Daldrup (SPD):
+        Herr Präsident! Liebe Kolleginnen und Kollegen! Ich                Till Mansmann (FDP):
+      weiß, es ist schon spät. Ich fasse mich kurz. Keine Sorge!         Sehr geehrter Herr Präsident! Geschätzte Kolleginnen
+                                                                      und Kollegen! Der vorliegende Gesetzentwurf beinhaltet
+            (Beifall bei der CDU/CSU sowie bei Abge-                  in der Tat mehr als eine technische Anpassung der Sat-
+                          ordneten der AfD)                           zung der EIB. Er ist auch ein Puzzleteil für die notwen-
+                                                                      dige Wirtschaftswende in Deutschland und Europa.
+         Ich muss aber doch sagen: Es geht um die Zukunfts-              Wie schon angesprochen, geht es um die flexiblere
+      fähigkeit einer zentralen europäischen Institution, der         Gestaltung der sogenannten Gearing Ratio, also des Ver-
+      Europäischen Investitionsbank, der EIB. Das ist eine            hältnisses von Ausleihkapazitäten zum Eigenkapital der
+      Bank, die seit 1958 eine Schlüsselfunktion für die Euro-        Europäischen Investitionsbank. Derzeit ist diese Ratio
+      päische Union einnimmt. Mit fast 20 Prozent Kapital-            starr auf 250 Prozent begrenzt. Doch in einer Welt, die
+      anteil ist Deutschland ein bedeutender Anteilseigner.           nicht nur auf Herausforderungen in neuem Umfang rea-
+      Das heißt mit anderen Worten auch: Wir haben die                gieren, sondern dazu auch noch schnell sein muss, ist
+      Chance und die Verantwortung, die Richtung dieser In-           Starre keine Option.
+      stitution mitzugestalten.
+                                                                         Deshalb unterstützen wir in diesem Fall, die Entschei-
+       Die EIB wird – nur zur Erläuterung – oft als Klima-            dungsbefugnis über diese Quote in die Hände des dyna-
+    bank bezeichnet, weil sie Projekte fördert, die den Klima-        mischer agierenden Gouverneursrats zu legen. Damit er-
+    schutz und die Energiewende voranbringen. Sie unter-              möglichen wir der Bank die Erhöhung der Gearing Ratio
+(B) stützt aber auch Digitalisierung, soziale Infrastruktur,          und dadurch einen größeren Handlungsspielraum für In- (D)
+    den Ausbau kleiner und mittlerer Unternehmen – also               vestitionen in kritische Bereiche wie nachhaltige Ener-
+    Dinge, die Europa zum gegenwärtigen Zeitpunkt braucht.            gien, Digitalisierung und Infrastruktur.
+         Das vorliegende Gesetz verbessert die Handlungs-                Deutschland, ganz Europa wird davon profitieren.
+      fähigkeit der EIB in der Zukunft, indem es die – jetzt          Deswegen haben auch alle unsere EU-Partner der Ände-
+      kommt das Wort – Gearing Ratio verändert. Die Gearing           rung bereits zugestimmt. Indem wir die Erweiterung des
+      Ratio eines Schuldners ist eine betriebswirtschaftliche         Handlungsspielraums der EIB nicht länger verzögern,
+      Kennzahl. Zu Deutsch: Es ist der Verschuldungsgrad,             stärken wir Europa als Innovations- und Investitions-
+      der das Verhältnis zwischen bilanziellem Fremdkapital           standort.
+      und Eigenkapital angibt. Und diese Begrenzung liegt im
+      Falle der EIB aktuell bei 250 Prozent des Eigenkapitals.                         (Beifall bei Abgeordneten der FDP)
+      Das war sozusagen als ein geeignetes Instrument der             Die Flexibilisierung der Gearing Ratio folgt auch aus
+      Risikokontrolle auch angemessen. Sie muss aber zum              dem Begutachtungsauftrag des Capital Adequacy Frame-
+      gegenwärtigen Zeitpunkt – jedenfalls ist das gemeinhin          work Review der G 20.
+      die Auffassung – erweitert werden. Mit der geplanten
+                                                                         Die Anforderungen an unsere öffentlichen Haushalte
+      Erhöhung auf 290 Prozent und der Verankerung eines
+                                                                      wachsen jeden Tag. Deshalb brauchen wir clevere Lösun-
+      einstimmigen Beschlussverfahrens durch den Gouver-
+                                                                      gen, wie wir Finanzmittel effektiver ausschöpfen können.
+      neursrat machen wir die Bank flexibler, ohne ihre finan-
+                                                                      Darüber nachzudenken und solche Lösungen zu ermög-
+      zielle Stabilität zu gefährden.
+                                                                      lichen, ist eine der wichtigsten Aufgaben für die Politik.
+                (Beifall bei Abgeordneten der SPD)                      Ein Blick auf die Weltbank zeigt, wie erfolgreich eine
+                                                                      solche Strategie sein kann. Dort ermöglicht die flexiblere
+         Es geht hier also nicht um Schuldenpolitik, sondern um       Handhabung der Eigenkapitalquote genau wie das neu
+      eine gezielte Erweiterung der Handlungsmöglichkeiten.           geschaffene Hybridkapital einen weitaus größeren Hebel.
+      Ich hoffe, das ermöglichen Sie alle, weil wir gute Euro-        Es ist Zeit, dass die EU nachzieht und ihrer Investitions-
+      päer sind. Deswegen sollten wir das gemeinsam tun. Ich          bank ebenfalls neue Spielräume ermöglicht.
+      freue mich auf die Beratungen.                                     Was beide Banken unter anderem gemeinsam haben,
+        Herzlichen Dank.                                              sind die jahrelange Erfahrung in der Risikobewertung
+                                                                      ihrer Projekte sowie das unangefochtene Triple-A-Ra-
+           (Beifall bei der SPD sowie bei Abgeordneten
+              des BÜNDNISSES 90/DIE GRÜNEN)                           1)
+                                                                           Anlage 13
+     26324             Deutscher Bundestag – 20. Wahlperiode – 203. Sitzung. Berlin, Donnerstag, den 5. Dezember 2024
+
+
+(A) ting. So trifft institutionelle Sicherheit auf privatwirt-            Vizepräsident Wolfgang Kubicki:                           (C)
+    schaftliche Dynamik – eine Kombination, die Innovation                Vielen Dank, Herr Kollege Mansmann. Auch von mir
+    fördert und das Fundament einer zukunftsfähigen Wirt-              alles Gute für die Zeit nach diesem Parlament und vielen
+    schaft legt.                                                       Dank für die geleistete Arbeit.
+          (Beifall bei Abgeordneten der FDP und des                      Letzter Redner zu diesem Tagesordnungspunkt ist der
+          Abg. Erhard Grundl [BÜNDNIS 90/DIE GRÜ-                      Kollege Albrecht Glaser, AfD-Fraktion.
+          NEN])
+                                                                                           (Beifall bei der AfD)
+        Meine Damen und Herren, die Wirtschaftswende er-
+     fordert nicht nur entsprechende Investitionen, sondern
+     auch die richtigen Strukturen, um diese Investitionen aus-           Albrecht Glaser (AfD):
+     zulösen. Angesichts der Größe und der Dringlichkeit der              Herr Präsident! Meine Damen und Herren! Die Bun-
+     Herausforderungen brauchen wir Beschleunigung. Struk-             desregierung legt einen Gesetzentwurf nach § 7 des In-
+     turen, die unnötig bremsen, müssen weg. Gleichzeitig              tegrationsverantwortungsgesetzes vor, um den deutschen
+     müssen wir den Blick für das Wesentliche schärfen. Die            Vertreter im Rat der EU zu ermächtigen, einer Satzungs-
+     notwendigen Investitionen werden nie aus öffentlichen             änderung der EIB zuzustimmen. Danach soll ein Organ
+     Quellen allein kommen.                                            der Bank in Zukunft selbstständig das Volumen ihrer
+        Was wir brauchen, ist die Hebelung privaten Kapitals           Geschäftstätigkeit festlegen.
+     in viel größerem Umfang als bisher. Unsere Aufgabe ist               Um den Vorgang verstehen und beurteilen zu können,
+     es, die Rahmenbedingungen zu schaffen und Strukturen              muss man sich die Aufgabenstellung dieser EU-Bank
+     zu verbessern. Die Zukunft wartet nicht. Diese Anpas-             anschauen. Diese ist in Artikel 309 AEUV klar und ab-
+     sung ist eine Chance, die wir nutzen sollten.                     schließend geregelt. Sie soll – so der Vertragswortlaut –
+               (Beifall bei Abgeordneten der FDP)                      „zu einer ausgewogenen … Entwicklung des Binnen-
+                                                                       markts im Interesse der Union“ beitragen – Zitat Ende.
+       Ich möchte meine Rede mit einer persönlichen Anmer-             Dies soll geschehen durch Finanzierung von, erstens,
+    kung schließen. Das ist heute meine letzte Rede vor die-           „Vorhaben zur Erschließung der weniger entwickelten
+    sem Hohen Haus. Ich möchte mich zuerst bedanken bei                Gebiete“ innerhalb der EU, zweitens, „Vorhaben zur Mo-
+    meiner Frau und meiner Tochter, bei meiner Familie, die            dernisierung … von Unternehmen“, die von einzelnen
+    in den letzten sieben Jahren viel auf mich verzichtet hat,         Mitgliedstaaten „nicht vollständig finanziert werden kön-
+    aber auch bei ganz vielen Kolleginnen und Kollegen aus             nen“, und, drittens, „Vorhaben von gemeinsamem Inte-
+(B) allen Fraktionen, mit denen ich hier in den letzten sieben         resse für mehrere Mitgliedstaaten, die wegen ihres Um- (D)
+    Jahren in vielen Bereichen, die mir am Herzen gelegen              fangs … nicht vollständig finanziert werden können“.
+    haben – wie Arbeit und Soziales, Steuern, Entwicklungs-               Die EIB hatte in 2022 Ausleihungen in Höhe von
+    zusammenarbeit und Wasserstoff –, hervorragend zusam-              562 Milliarden Euro – ein großer Brocken für eine öffent-
+    mengearbeitet habe.                                                liche Bank –, davon 82 Prozent für Maßnahmen inner-
+       Ich bin vor sieben Jahren als Bürger gewählt worden             halb der EU und 18 Prozent für Investitionen in Dritt-
+     und war der festen Überzeugung, dass die parlamentari-            staaten. Dieser letzten Zahl entsprechen 100 Milliarden
+     sche Demokratie die besten Antworten bietet. Und diese            Euro, die mit dem Binnenmarkt der EU überhaupt nichts
+     Überzeugung ist in den letzten sieben Jahren noch einmal          zu tun haben. Also: Aufgabe verfehlt. Dazu gehören zum
+     gewachsen.                                                        Beispiel Aufforstungsprojekte in China und viele andere
+                                                                       radwegartige Maßnahmen.
+          (Beifall bei der FDP sowie bei Abgeordneten
+          der SPD, der CDU/CSU und des BÜNDNIS-                           Kurioserweise hat die EIB vor zwei Jahren an die
+          SES 90/DIE GRÜNEN)                                           Kommission ein Darlehen in Höhe von 120 Millionen
+                                                                       Euro ausgereicht – zum Neubau eines Konferenzzen-
+        Aber ich mache mir auch weiterhin etwas Sorgen um              trums. Dies ist nicht nur eine Zweckentfremdung der
+     unser Land. Es ist uns in den letzten Jahren nicht aus-           EIB, sondern auch ein Verstoß der Kommission gegen
+     reichend gelungen, unser Land auf den globalen Wett-              ihr eigenes Haushaltsrecht.
+     bewerb wirtschaftlich ordentlich vorzubereiten bzw. da-
+     ran anzupassen. Das wird eine Aufgabe sein, die viele                                 (Beifall bei der AfD)
+     von Ihnen, die hier im Hohen Hause bleiben, dann an-
+     gehen müssen. Ich wünsche Ihnen den Erfolg, das Herz-             Zumindest stellt der Bundesrechnungshof das so fest.
+     blut und die Sachlichkeit, die ich hier in vielen Bereichen          Die bisherige Rechtslage legt die sogenannte Gearing
+     kennengelernt habe.                                               Ratio fest, das heißt einen Vervielfältiger auf das Eigen-
+       Ich wünsche Ihnen viel Glück. Passen Sie gut auf unser          kapital, mit dem die Risikolage des Instituts und damit
+     Land auf! Und ich möchte jetzt zum letzten Mal sa-                auch der dahinterstehenden EU-Staaten begrenzt werden
+     gen: Sehr geehrter Herr Präsident, lieber Wolfgang! Ge-           soll. Das Normalste von der Welt – zumindest außerhalb
+     schätzte Kolleginnen und Kollegen! Es war mir eine                der EU –: Wer haftet, muss auch die Möglichkeit haben,
+     Ehre.                                                             das Risiko zu steuern. Die Verdrängung der Mitgliedstaa-
+        Vielen Dank.                                                   ten aus zentralen Fragen der Bank, wie wir sie heute hier
+                                                                       diskutieren, ist also ein Akt der Ermächtigung der Bank –
+                                (Beifall)                              ohne die Last der Verantwortungsübernahme.
+                           Deutscher Bundestag – 20. Wahlperiode – 203. Sitzung. Berlin, Donnerstag, den 5. Dezember 2024            26325
+
+
+(A)      Die Satzungsänderung und damit der vorgelegte Ge-                           Ihr Gesetzentwurf sieht allerdings nur eine Verlänge- (C)
+      setzentwurf sind daher abzulehnen, zumal schon heute                         rung des entsprechenden Gesetzes vor. Wichtig wäre es
+      beanstandungswürdige Verhältnisse im Hause EIB herr-                         gewesen, das Thema an sich substanziell weiterzuent-
+      schen.                                                                       wickeln. Ich konzediere aber, dass angesichts des Ver-
+                                                                                   schleppens des zuständigen Ministeriums dafür in dieser
+                              (Beifall bei der AfD)                                Legislaturperiode auch nicht mehr die Zeit ist, obwohl
+                                                                                   wir Freie Demokraten ständig nachgefragt haben, was
+           Vizepräsident Wolfgang Kubicki:                                         denn mit diesem Thema eigentlich ist.
+         Vielen Dank, Herr Kollege Glaser. – Damit schließe                           Das heißt, im Ergebnis ist nach nunmehr über sieben
+      ich die Aussprache.                                                          Jahren Überlegungen im Wirtschaftsministerium zu die-
+                                                                                   sem Thema sagenhafterweise – Ironie off – Folgendes
+        Interfraktionell wird Überweisung des Gesetzentwurfs
+                                                                                   herausgekommen: Künftig sollen bis Ende 2026 geneh-
+      auf Drucksache 20/13949 an die in der Tagesordnung
+                                                                                   migte Anlagen gefördert werden dürfen, statt wie bisher
+      aufgeführten Ausschüsse vorgeschlagen. Gibt es weitere
+                                                                                   nur bis Ende 2026 in Betrieb genommene Anlagen. – So
+      Vorschläge? – Das höre und sehe ich nicht. Dann ver-
+                                                                                   nachzulesen im Entwurf des sogenannten Kraftwerks-
+      fahren wir so.
+                                                                                   sicherheitsgesetzes.
+            Ich rufe auf den Zusatzpunkt 23:                                          Statt der Kopplung von Strom und Wärme betreibt
+                                                                                   man im Wirtschaftsministerium also systematisch die
+                 Erste Beratung des von der Fraktion der CDU/                      Entkopplung von Aufwand und Nutzen. Würde Robert
+                 CSU eingebrachten Entwurfs eines Gesetzes                         Habeck sich selber mal ein Effizienzziel setzen und das
+                 zur Änderung des Kraft-Wärme-Kopplungs-                           mit dem entsprechenden Reporting verbinden, das er vie-
+                 gesetzes                                                          len kleinen Unternehmen in diesem Lande drüberbrezelt –
+                 Drucksache 20/13615                                               die Bilanz wäre am Ende einigermaßen verheerend.
+                 Überweisungsvorschlag:                                                  (Beifall bei Abgeordneten der FDP und des
+                 Ausschuss für Klimaschutz und Energie (f)                                    Abg. Ralph Lenkert [Die Linke])
+                 Wirtschaftsausschuss
+                 Ausschuss für Ernährung und Landwirtschaft
+                 Ausschuss für Umwelt, Naturschutz, nukleare Sicherheit und Ver-      Das trifft übrigens nicht nur auf das Thema der Kraft-
+                 braucherschutz                                                    Wärme-Kopplung zu, sondern eben auch auf das ganze
+                 Ausschuss für die Angelegenheiten der Europäischen Union
+                 Haushaltsausschuss                                                Thema der Kraftwerksleistung und der Versorgungs-
+                                                                                   sicherheit, Stichwort „Kraftwerkssicherheitsgesetz“. Da
+(B)                                                                                wird immer noch die Saga verbreitet, das solle in dieser (D)
+           Für die Aussprache sind 26 Minuten vereinbart.
+                                                                                   Legislaturperiode beschlossen werden. Meine Damen
+        Ich eröffne die Aussprache. – Ich stelle zunächst fest,                    und Herren, das geben die parlamentarischen Beratungs-
+      dass der Kollege Mark Helfrich, CDU/CSU-Fraktion,                            prozesse, so wie sie die Geschäftsordnung dieses Hauses
+      und der Kollege Markus Hümpfer, SPD-Fraktion, ihre                           sinnvollerweise vorsieht, überhaupt nicht mehr her. Mit
+      Reden zu Protokoll gegeben haben.1)                                          anderen Worten: Die regierungstragenden Fraktionen von
+                                                                                   SPD und Grünen müssen sich fragen lassen, was das
+              (Marianne Schieder [SPD]: Sehr vorbildlich!)
+                                                                                   hier eigentlich soll. Sind die weiteren energiepolitischen
+        Deshalb hat als erster Redner der Kollege Konrad                           Gesetzgebungsverfahren eine reine Showveranstaltung,
+      Stockmeier, FDP-Fraktion, das Wort.                                          oder was haben Sie hier eigentlich noch vor?
+                              (Beifall bei der FDP)                                    (Markus Hümpfer [SPD]: Seit die FDP raus ist,
+                                                                                                 geht wenigstens was!)
+           Konrad Stockmeier (FDP):                                                Was wollen Sie denn eigentlich beraten?
+         Sehr geehrter Herr Präsident! Kolleginnen und Kolle-
+      gen! Meine Damen und Herren! Lange ist’s her! Im Jahr                            (Canan Bayram [BÜNDNIS 90/DIE GRÜ-
+      2018 startete das damalige Bundesministerium für Wirt-                           NEN]: Der erzählt das gleich, der Bernhard!
+      schaft und Energie einen sogenannten Stakeholder-Pro-                            Der weiß das alles!)
+      zess zur Zukunft der Kraft-Wärme-Kopplung. Seither ist
+      zu diesem wichtigen Thema aus diesem Hause rein gar                          Wann soll eine Anhörung dazu stattfinden, zum Beispiel
+      nichts mehr gekommen.                                                        mit den Experten aus der Energiewirtschaft? Die sagen
+                                                                                   auch, dass das, was Sie da vorhaben, überhaupt nicht
+         Im Gegenteil: Seit das Haus den schönen Titel „Bun-                       realisierbar ist.
+      desministerium für Wirtschaft und Klimaschutz“ trägt
+      und unter der Leitung von Robert Habeck steht, herrscht                         Gleiches gilt übrigens für das Thema der Bioenergie,
+      beim Thema Kraft-Wärme-Kopplung oder auch bei einer                          die auch eng mit der Kraft-Wärme-Kopplung verbunden
+      substanziellen Weiterentwicklung dieses Gesetzes kon-                        ist. Wir von der FDP haben ständig Versuche abwehren
+      sequente Arbeitsverweigerung. Insofern, geehrte Kolle-                       müssen, der Bioenergie Knüppel zwischen die Beine zu
+      ginnen und Kollegen von der Union, ist es gut, dass Sie                      werfen, sei es bei Holzheizungen, sei es bei Fernwärme-
+      dieses Thema auf die Tagesordnung gebracht haben.                            deckeln und allem Möglichen.
+                                                                                       (Zuruf des Abg. Bernhard Herrmann [BÜND-
+      1)
+           Anlage 14                                                                             NIS 90/DIE GRÜNEN])
+      26326            Deutscher Bundestag – 20. Wahlperiode – 203. Sitzung. Berlin, Donnerstag, den 5. Dezember 2024
+
+
+(A)      Mit anderen Worten – das Fazit aus alldem ist ein ganz           In der Energiewende waren Kraft-Wärme-Kopplungs- (C)
+      einfaches –: Dieses Land braucht eine Energiepolitik,            anlagen, meist kleinere Blockheizkraftwerke, zusammen
+      die, wie es der Vorstandsvorsitzende der EnBW, Georg             mit der Photovoltaik und der Windkraft die Treiber; denn
+      Stamatelopoulos, dieser Tage in einem Interview mit der          sie schufen erstmalig Konkurrenz zur sonst immer zen-
+      „FAZ“ sehr richtig auf den Punkt gebracht hat, Klima-            tralistisch-großmonopolistisch aufgestellten Energiewirt-
+      schutz, Versorgungssicherheit und Bezahlbarkeit mit-             schaft. Uns Grünen war das ein Herzensanliegen. Wir
+      einander vereint. Diese Politik wird es mit neuen Mehr-          stehen an der Seite der KWK, und das bis heute.
+      heiten in diesem Hause nur mit den Freien Demokraten                    (Beifall beim BÜNDNIS 90/DIE GRÜNEN)
+      geben.
+                                                                       Aber auch sie wird und muss sich neu ausrichten.
+        Vielen Dank.
+                                                                                (Konrad Stockmeier [FDP]: Sie tun doch
+           (Beifall bei der FDP – Lachen bei Abgeord-
+                                                                                              nichts!)
+           neten der SPD und des BÜNDNISSES 90/
+           DIE GRÜNEN – Canan Bayram [BÜND-                               Ich schaue konkret in meine Heimatstadt: Dort wurde
+           NIS 90/DIE GRÜNEN]: Sie sind sehr zu-                       bis zum Januar dieses Jahres ein großes Kraftwerk betrie-
+           versichtlich! – Gegenruf des Abg. Konrad                    ben, ein Braunkohlekraftwerk mit 50 Prozent Nutzung
+           Stockmeier [FDP]: Ja, immer!)                               der Energie. Die Energie aus der Braunkohle wurde nur
+                                                                       zu 50 Prozent ausgenutzt; mehr kam nicht an. Das ist
+                                                                       nicht effizient, weil die Ausrichtung der KWK nicht
+        Vizepräsident Wolfgang Kubicki:
+                                                                       mehr richtig war. Das neue Gasmotorenkraftwerk, das
+         Vielen Dank, Herr Kollege Stockmeier. – Nächster              jetzt dort steht, passt viel besser zu Erneuerbaren – alles
+      Redner ist der Kollege Bernhard Herrmann, Bünd-                  toll. Leider ist der Gaspreis so hoch,
+      nis 90/Die Grünen.
+                                                                              (Dr. Götz Frömming [AfD]: In Russland gibt
+            (Beifall beim BÜNDNIS 90/DIE GRÜNEN                                             es günstigeres!)
+                 sowie bei Abgeordneten der SPD)
+                                                                       dass wir bei Fernwärmepreisen von ungefähr 13 Cent,
+                                                                       plus Grundpreis von circa 19 Cent pro Kilowattstunde
+       Bernhard Herrmann (BÜNDNIS 90/DIE GRÜ-
+                                                                       sind, und zwar aufgrund der Abhängigkeit von russi-
+    NEN):                                                              schem Gas, die Sie protegiert und vorangetrieben haben.
+       Sehr geehrter Herr Präsident! Kolleginnen und Kolle-
+    gen! Ja, vielleicht war aber auch die FDP, statt konstruk-               (Dr. Götz Frömming [AfD]: Nee, das war die
+    tiv am KWK-Gesetz mitzuarbeiten, schon mit den Vor-                      CDU! – Jörn König [AfD]: Das war die CDU!)
+(B) bereitungen des D-Days beschäftigt; ich weiß es nicht.                Wir haben weiterhin einen Bedarf an fossilen Ener- (D)
+         (Beifall bei Abgeordneten der SPD – Christian                 gien. Wir sind nicht effizient, weil die Kraft-Wärme-
+         Freiherr von Stetten [CDU/CSU]: Also, das ist                 Kopplungsanlagen angesichts großer Konkurrenz durch
+         ein schwacher Witz gewesen! – Jörn König                      preiswerteren Wind- und Sonnenstrom keine langen
+         [AfD]: Sie wissen so vieles nicht!)                           Laufzeiten haben. Wir kommen in die Not, nicht mehr
+                                                                       effizient zu arbeiten. Bezahlbare und saubere Energie
+         Zum Kraft-Wärme-Kopplungsgesetz. Was ist KWK?                 sieht anders aus.
+      Das W in KWK steht für „Wärme“. Das K steht für
+      „Kraft“, die Kraft, die letztendlich ein Rad antreibt, die         Es braucht eine Neuausrichtung der Kraft-Wärme-
+      ein Fahrzeug fortbewegt oder die einen Magneten in einer         Kopplungssysteme, und wir brauchen eine Ergänzung
+      Spule bewegt und Strom erzeugt. Es findet also eine              der Bundesförderung für effiziente Wärmenetze mit
+      Auskopplung von Strom bei gleichzeitiger Erzeugung               Blick auf effiziente Wärmepumpenanlagen, die in Kom-
+      von Wärme statt. Im Auto ist das allerdings keine wirk-          bination mit KWK wieder bezahlbare, saubere Energie
+      liche Kraft-Wärme-Kopplung, weil die Wärme ungenutzt             ermöglichen kann.
+      verloren geht. Das ist auch ein Grund dafür, dass Ver-                     (Zuruf des Abg. Mike Moncsek [AfD])
+      brennungsmotoren nun einmal wenig effizient sind.
+                                                                       Denn unser Ziel ist die bezahlbare, saubere Wärmever-
+         Im Kraftwerk aber kann das eine durchaus sehr, sehr           sorgung für Bürgerinnen und Bürger und für unsere Wirt-
+      effiziente Sache sein, und Kraft-Wärme-Kopplung spielt           schaft.
+      gerade dann eine wichtige Rolle, wenn KWK-Anlagen an
+      Städten stehen, wo es einen entsprechenden Wärmever-                    (Jörn König [AfD]: Hatten wir alles schon!)
+      brauch gibt, im Unterschied zu Großkraftwerken auf der           Das geht mit erneuerbaren Energien und einer auf Effi-
+      grünen Wiese, wo eben keine Auskopplung von Wärme                zienz ausgerichteten Förderung von Kraft-Wärme-Kopp-
+      möglich ist.                                                     lung und von Wärmepumpen gleichermaßen.
+              (Zuruf des Abg. Mike Moncsek [AfD])                            (Konrad Stockmeier [FDP]: Wo ist sie denn?)
+      Es stehen und standen aber gerade in Ostdeutschland              Daran richtet sich unsere Wärmepolitik aus.
+      besonders viele KWK-Anlagen direkt an Städten, sodass
+      man gezwungen war – und das hat man auch richtiger-                Wir brauchen das KWKG. Genauso braucht es aber
+      weise getan –, etwas effizienter zu werden, da man mit           auch das Kraftwerkssicherheitsgesetz.
+      der Braunkohle, die man ja nun einmal zur Verfügung                    (Lachen bei Abgeordneten der AfD – Karsten
+      hatte und zu brauchen meinte, ansonsten schon klima-                   Hilse [AfD]: Der war gut! – Konrad
+      schädlich genug agierte.                                               Stockmeier [FDP]: Ja, meine Rede!)
+                     Deutscher Bundestag – 20. Wahlperiode – 203. Sitzung. Berlin, Donnerstag, den 5. Dezember 2024     26327
+
+
+(A) Wir brauchen für beide übrigens auch die beihilferecht-          Zitat Ende. – Jeder Physiker, jeder Techniker, jeder In- (C)
+    liche Genehmigung durch die EU. Und da, liebe Union,             genieur weiß, dass ein Industriestaat wie Deutschland
+    müssen wir an Ihrem Gesetzentwurf noch arbeiten; denn            nicht allein durch sogenannte erneuerbare Energien ver-
+    ohne die kommen wir nicht voran, weder bei dem einen             sorgt werden kann. Das ist Schwachsinn.
+    Gesetz noch bei dem anderen.
+                                                                                         (Beifall bei der AfD)
+       Vielen Dank für die Aufmerksamkeit.
+                                                                        Der Grund für die sogenannte Energiewende, die Hy-
+           (Beifall beim BÜNDNIS 90/DIE GRÜNEN                       pothese, dass der Mensch mit seinen CO2-Emissionen
+                sowie bei Abgeordneten der SPD)                      das Weltklima beeinflusst, ist genauso Schwachsinn.
+                                                                     Deswegen gibt es auch keinen einzigen wissenschaftli-
+       Vizepräsident Wolfgang Kubicki:                               chen Beweis dafür, und Tausende Wissenschaftler wider-
+       Vielen Dank. – Nunmehr kommt der Kollege Karsten              sprechen diesem Schwachsinn. Sie widersprechen der
+     Hilse, AfD-Fraktion, zu Wort.                                   Notwendigkeit der großen Transformation, einer Lüge,
+                                                                     die uns von weltweit agierenden Milliardären, dem World
+            (Beifall bei der AfD – Dr. Götz Frömming                 Economic Forum seit Jahren aufgetischt wurde, um uns
+                       [AfD]: Guter Mann!)                           ohne größeren Widerstand bis aufs Blut auspressen zu
+                                                                     können.
+       Karsten Hilse (AfD):                                                (Konrad Stockmeier [FDP]: Das hier ist eine
+        Herr Präsident! Meine Damen und Herren! Liebe                      Debatte und keine Märchenstunde! – Mark
+     Landsleute! Und natürlich: Werte Leugner des natürli-                 Helfrich [CDU/CSU]: Was hat das mit Kraft-
+     chen Klimawandels! Die Union, die wie keine andere                    Wärme-Kopplung zu tun?)
+     Partei Wählertäuschung und Wählerbetrug beherrscht,
+     möchte nun vorausschauend für die eventuelle Macht-                Wenn allerdings, wie eingangs erwähnt, die Habecks,
+     übernahme schnell noch Förderungen für Anlagen durch-           die Merz, die Scholz und die Lindners uns in einen Krieg
+     bringen, die Teil der gescheiterten Energiewende sind.          mit der Atommacht Russland führen,
+     Mit dem eingebrachten Gesetzentwurf soll die Förderung                (Der Redner öffnet sein Jackett – Leni
+     sogenannter Kraft-Wärme-Kopplungsanlagen verlängert                   Breymaier [SPD]: Ist die Rede in Moskau ge-
+     werden. Das betrifft also nicht nur die Anlagen, die bis              schrieben worden?)
+     zum 31. Dezember 2026 in Betrieb gehen, sondern auch
+     die, die bis zum 31. Dezember 2030 in Betrieb gehen.            dann brauchen wir uns um Kraft-Wärme-Kopplung keine
+                                                                     Gedanken mehr zu machen; denn dann wird es höllisch
+       Es ist dieselbe Union, die in den letzten Wochen vor
+                                                                     warm, und dann gnade uns Gott.
+(B) allem dadurch aufgefallen ist, sich in verantwortungs-                                                                        (D)
+    loser Art und Weise mit der Atommacht Russland anzule-                 (Bernhard Herrmann [BÜNDNIS 90/DIE
+    gen, die Deutschland mit einem Knopfdruck innerhalb                    GRÜNEN]: Herr Präsident, er trägt eine Auf-
+    weniger Minuten vom Erdboden tilgen könnte, indem                      schrift! Das verstößt gegen die Regeln!)
+    sie Russland absurde Ultimaten stellen will. Diese Arro-
+                                                                       Im Übrigen bin ich der Meinung: Wer Rot, Grün, Gelb,
+    ganz ist vergleichbar mit dem sprichwörtlichen Elefanten
+                                                                     Schwarz wählt, wählt den Krieg.
+    im außenpolitischen Porzellanladen namens Annalena
+    Baerbock. Man könnte darüber lachen, wenn es nicht so               Vielen Dank.
+    gefährlich wäre, wenn es nicht zur Auslöschung der euro-               (Beifall bei der AfD – Bernhard Herrmann
+    päischen Völker führen könnte.                                         [BÜNDNIS 90/DIE GRÜNEN]: Herr Kubicki,
+           (Konrad Stockmeier [FDP]: Was haben Sie                         sehen Sie das?)
+                    zum Thema zu sagen?)
+        Zurück zum Gesetz. Zwar ist die Idee der Kraft-Wär-             Vizepräsident Wolfgang Kubicki:
+     me-Kopplung im Sinne der besseren Energieausnutzung               Herr Kollege Hilse, ich möchte Sie darauf hinweisen,
+     sinnvoll. Nicht sinnvoll ist aber, dass der Staat sich wie-     dass das Tragen von solchen T-Shirts mit Logos und das
+     der einmal gemüßigt fühlt, eine für Kraftwerksbetreiber         Zeigen im Plenarsaal nicht erlaubt ist.
+     an sich sinnvolle Maßnahme auch noch mit Steuergeldern
+     zu unterstützen, die zuvor den Menschen im Lande abge-                (Bernhard Herrmann [BÜNDNIS 90/DIE
+     presst wurden. Diese Ausplünderung werden wir als AfD                 GRÜNEN]: Ja! – Zuruf von der AfD: Frie-
+     nicht mitmachen.                                                      denstaube!)
+                       (Beifall bei der AfD)                         – Wenn Sie so weitermachen, bekommen Sie von mir
+                                                                     einen Ordnungsruf, und das kann sich auch weiter stei-
+       Warum wurde das Gesetz seinerzeit erlassen? Zitat:            gern.
+
+          „Zweck dieses Gesetzes ist es, insbesondere im In-               (Karsten Hilse [AfD]: Ich habe nichts gesagt!)
+          teresse der Energieeinsparung sowie des Klima-             Ich weise Sie einfach nur darauf hin. Seien Sie froh, dass
+          und Umweltschutzes die Transformation zu einer             ich Ihnen keinen Ordnungsruf erteile.
+          nachhaltigen und treibhausgasneutralen Energie-
+                                                                       Letzter Redner in dieser Debatte ist der Kollege Ralph
+          versorgung im Staatsgebiet der Bundesrepublik
+                                                                     Lenkert aus der Gruppe Die Linke.
+          Deutschland … zu unterstützen, die vollständig auf
+          erneuerbaren Energien beruht.“                                                (Beifall bei der Linken)
+      26328-26342     Deutscher Bundestag – 20. Wahlperiode – 203. Sitzung. Berlin, Donnerstag, den 5. Dezember 2024
+
+
+(A)     Ralph Lenkert (Die Linke):                                    Kolleginnen und Kollegen, lassen Sie uns die Geltungs- (C)
+        Sehr geehrter Herr Präsident! Liebe Kolleginnen und           dauer des KWKG bis 2030 verlängern! Das wäre not-
+      Kollegen der Ex-Ampel! Stimmen Sie diesem CDU/                  wendig.
+      CSU-Entwurf zum KWKG zu!                                           Vielen Dank.
+            (Beifall bei der Linken sowie bei Abgeord-
+                       neten der CDU/CSU)                                   (Beifall bei der Linken sowie bei Abgeord-
+                                                                            neten der CDU/CSU – Ralph Lenkert [Die
+      Ja, es ist ungewöhnlich, dass Die Linke Unterstützung für             Linke]: Herr Präsident, ich freue mich, einmal
+      einen Gesetzentwurf der CDU/CSU fordert.                              das vorletzte Wort gehabt zu haben! Gute
+           (Canan Bayram [BÜNDNIS 90/DIE GRÜ-                               Nacht! – Heiterkeit)
+           NEN]: Heute wundert mich nix mehr! – Hei-
+           terkeit bei Abgeordneten des BÜNDNIS-
+           SES 90/DIE GRÜNEN und der FDP)                                Vizepräsident Wolfgang Kubicki:
+                                                                        Liebe Kolleginnen und Kollegen, damit ist die Aus-
+      Aber das KWKG läuft aus. Da müssen fachliche Erfor-             sprache beendet.
+      dernisse über politische Differenzen gestellt werden. Das
+      Gesetz zur Unterstützung für Kraftwerke, die gleichzeitig         Interfraktionell wird Überweisung des Gesetzentwurfs
+      Strom und Fernwärme erzeugen, fördert eben nur Anla-            auf Drucksache 20/13615 an die in der Tagesordnung
+      gen, die bis Ende 2026 in Betrieb gehen. Derzeit erstellen      aufgeführten Ausschüsse vorgeschlagen. Gibt es weitere
+      die Kommunen ihre Wärmeplanung. Danach müssen                   Vorschläge? – Das höre und sehe ich nicht. Dann ver-
+      Fernwärmenetze geplant und gebaut werden. Das ist in            fahren wir wie vorgeschlagen.
+      zwei Jahren unmöglich. Deshalb muss die Geltungsdauer             Wir sind damit am Schluss unserer heutigen Tagesord-
+      des KWKG für die Wärmewende verlängert werden.                  nung.
+                      (Beifall bei der Linken)                           Bevor Sie jetzt rausgehen, möchte ich mich bei Ihnen
+       Der fossile Kraftwerkspark in Deutschland ist über-            ganz herzlich bedanken, dass wir es doch geschafft ha-
+    altert, sichert aber die Stromversorgung bei Dunkelflau-          ben, von 3.40 Uhr auf kurz vor 0 Uhr zu kommen. Das ist
+    ten ab. Entweder man nutzt Speicher und Ersatzkraftwer-           eine echte Leistung dieses Parlaments. Herzlichen Dank!
+    ke, oder die Stromversorgung wird unsicher. Der von den                 (Beifall bei Abgeordneten der SPD und des
+    Linken seit Jahren geforderte Speicherausbau wurde von                  BÜNDNISSES 90/DIE GRÜNEN und des
+    den bisherigen Bundesregierungen verpennt. Ich kann                     Abg. Dr. Stephan Seiter [FDP])
+    nicht mehr zählen, wie oft ich im Plenum und im Aus-
+(B) schuss forderte, dass KWK-Kraftwerke als Ersatzkraft-                Ich würde Ihnen normalerweise empfehlen, jetzt noch (D)
+    werke zu sehen und zu fördern wären. Die produzieren              gastronomische Betriebe aufzusuchen, aber das ist des-
+    nämlich den Strom bei Dunkelflaute, und die Abwärme               halb untunlich, weil wir uns morgen ganz früh wieder-
+    heizt dann Wohnungen und versorgt die Industrie. Aber             treffen müssen.
+    bis heute ignoriert das Wirtschaftsministerium KWK-                  Ich berufe die nächste Sitzung des Deutschen Bundes-
+    Kraftwerke. Die Grünen um Habeck setzen auf neue,                 tages ein auf morgen, Freitag, den 6. Dezember 2024,
+    nicht verfügbare Wasserstoffkraftwerke, die eine Bauzeit          9 Uhr.
+    von vielen Jahren hätten. Aber nicht einmal die Aus-
+    schreibung für diese langsame Lösung bekam die Bun-                  Die Sitzung ist geschlossen.
+    desregierung in drei Jahren auf die Reihe. KWK-Kraft-
+    werke wären unsere Versicherung bei Dunkelflaute.                                     (Schluss: 23.57 Uhr)
+                       Deutscher Bundestag – 20. Wahlperiode – 203. Sitzung. Berlin, Donnerstag, den 5. Dezember 2024    26343
+
+
+(A)                                                                                  Anlagen zum Stenografischen Bericht (C)
+
+      Anlage 1
+                                                     Entschuldigte Abgeordnete
+      Abgeordnete(r)                                                     Abgeordnete(r)
+
+      Ahmetovic, Adis                  SPD                               Petry, Christian                 SPD
+      Bachmann, Carolin                AfD                               Pilsinger, Dr. Stephan           CDU/CSU
+      Baerbock, Annalena               BÜNDNIS 90/                       Pohl, Jürgen                     AfD
+                                       DIE GRÜNEN
+                                                                         Polat, Filiz                     BÜNDNIS 90/
+      Bär, Karl                        BÜNDNIS 90/                                                        DIE GRÜNEN
+                                       DIE GRÜNEN
+                                                                         Protschka, Stephan               AfD
+      De Ridder, Dr. Daniela           SPD
+                                                                         Reichardt, Martin                AfD
+      Dietz, Thomas                    AfD
+                                                                         Renner, Martin Erwin             AfD
+      Droßmann, Falko                  SPD
+                                                                         Rhie, Ye-One                     SPD
+      Ehrhorn, Thomas                  AfD
+                                                                         Rüffer, Corinna                  BÜNDNIS 90/
+      Ernst, Klaus                     BSW                                                                DIE GRÜNEN
+      Friedhoff, Dietmar               AfD                               Schattner, Bernd                 AfD
+      Ganserer, Tessa                  BÜNDNIS 90/                       Schiller, Manfred                AfD
+                                       DIE GRÜNEN
+                                                                         Schimke, Jana                    CDU/CSU
+      Gastel, Matthias                 BÜNDNIS 90/
+                                       DIE GRÜNEN                        Schneider, Jörg                  AfD
+(B)                                                                                                                              (D)
+      Gerdes, Michael                  SPD                               Schulz, Uwe                      AfD
+
+      Gohlke, Nicole                   Die Linke                         Seestern-Pauly, Matthias         FDP
+
+      Harder-Kühnel, Mariana           AfD                               Seitzl, Dr. Lina                 SPD
+      Iris                                                               (gesetzlicher Mutterschutz)
+
+      Helling-Plahr, Katrin            FDP                               Steinmüller, Hanna               BÜNDNIS 90/
+                                                                         (gesetzlicher Mutterschutz)      DIE GRÜNEN
+      Heveling, Ansgar                 CDU/CSU
+                                                                         Wagener, Robin                   BÜNDNIS 90/
+      Kruse, Michael                   FDP                                                                DIE GRÜNEN
+      Lehmann, Sylvia                  SPD                               Wagner, Dr. Carolin              SPD
+      Lucassen, Rüdiger                AfD                               Walter-Rosenheimer, Beate        BÜNDNIS 90/
+                                                                                                          DIE GRÜNEN
+      Mascheck, Franziska              SPD
+                                                                         Wegling, Melanie                 SPD
+      Mayer, Dr. Zoe                   BÜNDNIS 90/                       (gesetzlicher Mutterschutz)
+                                       DIE GRÜNEN
+                                                                         Weiss, Dr. Maria-Lena            CDU/CSU
+      Müller, Florian                  CDU/CSU
+                                                                         Wissing, Dr. Volker              fraktionslos
+      Nietan, Dietmar                  SPD
+                                                                         Witt, Uwe                        fraktionslos
+      Otte, Karoline                   BÜNDNIS 90/
+                                       DIE GRÜNEN
+      Pantazis, Dr. Christos           SPD
+      Peterka, Tobias Matthias         AfD
+     26344           Deutscher Bundestag – 20. Wahlperiode – 203. Sitzung. Berlin, Donnerstag, den 5. Dezember 2024
+
+
+(A) Anlage 2                                                         dass sich eben nicht diejenigen durchgesetzt haben, die (C)
+                                                                     eine sehr exponierte, zum Teil radikale Position vertreten
+                 Zu Protokoll gegebene Reden                         haben.
+       zur Beratung
+                                                                        Es haben sich diejenigen durchgesetzt, die in der brei-
+       – des von den Abgeordneten Carmen Wegge, Ulle                 ten Mitte des Parlaments stehen und die sehr wohl wuss-
+         Schauws, Sanae Abdi und weiteren Abgeord-                   ten, dass diese Grundsatzfrage auf Leben und Tod für das
+         neten eingebrachten Entwurfs eines Gesetzes                 ungeborene Leben, diese Grundsatzfrage über Selbst-
+         zur Neuregelung des Schwangerschaftsabbruchs                bestimmung von Frauen und die Abwägung gegen das
+       – des Antrags der Abgeordneten Carmen Wegge,                  Überlebensrecht noch nicht geborener Menschen, keine
+         Ulle Schauws, Sanae Abdi und weiterer Abge-                 Frage wie jede andere Frage ist. Deshalb gab es eine
+         ordneter: Versorgungslage von ungewollt                     politische und gesellschaftliche Mehrheit dafür, diese
+         Schwangeren verbessern                                      schwerwiegende Frage mit Sorgfalt, mit der notwendigen
+                                                                     Zeit und in wechselseitigem Respekt zu verhandeln und
+       (Zusatzpunkt 10 a und b)
+                                                                     zu beraten.
+
+       Michael Brand (Fulda) (CDU/CSU):                                 In dieser Beratung heute fehlt die Sorgfalt, die notwen-
+       „Die Würde des Menschen ist unantastbar.“ Die Prä-            dige Zeit und auch der wechselseitige Respekt. Hier soll
+     ambel unserer Verfassung bindet alles staatliche Handeln,       eine plötzliche Mehrheit im Deutschen Bundestag in der
+     und damit auch den Deutschen Bundestag.                         Zwischenzeit zwischen Zusammenbruch der alten Am-
+                                                                     pelkoalition und den kurz bevorstehenden Neuwahlen
+      Es geht um die Würde von Frauen, von Männern, von              schlicht dazu ausgenutzt werden, Fakten zu schaffen
+    Alten und Jungen, Menschen mit und ohne Handicaps –              und eine einseitige Lösung gegen große Besorgnis und
+    und auch von noch nicht geborenen Menschen. Denn                 Widerstände in der Gesellschaft durchzupeitschen, ohne
+    auch diese ungeborenen Menschen sind Menschen. Des-              auf die Wirkungen einer solchen brachialen Vorgehens-
+    halb bleibt es richtig, dass die Tötung eines ungeborenen        weise in der Frage des Schutzes von auch nicht geborenen
+    Menschen – und nichts anderes ist ein Schwangerschafts-          Leben Rücksicht zu nehmen. Deshalb ist es richtig, dieses
+    abbruch – abgewogen werden muss gegen die Notlage                Vorgehen rücksichtslos zu nennen.
+    von schwangeren Frauen. Und deshalb ist die Tötung
+    von ungeborenen Menschen, nämlich der Schwanger-                    Auch wenn ich persönlich in der Sache eine klare Po-
+    schaftsabbruch, im Strafgesetzbuch aufgeführt, mitsamt           sition vertrete, so würde es mir nie in den Sinn kommen,
+    der entsprechenden Regelungen, die die Strafbarkeit in           meine persönliche Überzeugung in dieser Frage anderen
+(B) bestimmten Fällen aufhebt.                                       Mitgliedern des Deutschen Bundestages oder der Gesell- (D)
+        Die verantwortliche Beratung und der Dialog mit              schaft in einer solchen brachialen Art und Weise über-
+     Schwangeren in Konfliktlagen – Konflikte, die leider            stülpen zu wollen. Vielmehr braucht es, wie auch in an-
+     viel zu häufig durch die Partner oder das Umfeld erzeugt        deren grundsätzlichen Fragen unserer Gesellschaft, die
+     werden – muss wesentlicher Bestandteil unseres Um-              notwendige Zeit, um auch diejenigen berücksichtigen
+     gangs mit diesen Konflikten und dem Schutz ungebore-            zu können, die erhebliche und berechtigte Einwände ge-
+     nen Lebens bleiben.                                             gen die jeweiligen Vorschläge zu erheben haben.
+       Wir brauchen eine gesellschaftliche Kultur, die offen            Der Mangel an Respekt vor den Andersdenkenden, der
+     Ja sagt zum Leben, zur Zukunft und auch dazu, mit               sich in der Vorgehensweise der Befürworter einer nahezu
+     Schwierigkeiten, auch großen Schwierigkeiten, so umge-          totalen Freigabe von Schwangerschaftsabbrüchen zeigt,
+     hen zu können, dass sie am Ende überwunden werden               dokumentiert einen Eifer und eine Haltung, die für diese
+     können und eine bessere Perspektive bringen, statt vor          wie für andere gesellschaftliche Fragen toxisch und ge-
+     den großen Schwierigkeiten zu früh zu kapitulieren.             fährlich ist.
+        Eine Gesellschaft, die die Menschenwürde selektiv
+     versteht, läuft Gefahr, die Menschenwürde insgesamt               Insoweit appelliere ich an jede einzelne Abgeordnete,
+     nicht mehr zu verstehen und nicht mehr vollumfassend            an jeden einzelnen Abgeordneten, diesen Weg nicht zu
+     als Leitbild zu sehen. Eine solche Gesellschaft schwächt        beschreiten und stattdessen mit mir und vielen anderen
+     sich selbst, und sie wird von außen und von innen angreif-      gemeinsam dem in wenigen Wochen zu wählenden neuen
+     barer. Die Verteidigung der Menschenwürde für alle – ich        Parlament die Aufgabe zu übertragen, die Frage von
+     wiederhole: für alle Menschen, auch für ungeborene              Schwangerschaftsabbruch als eine seiner ersten großen
+     Menschen – ist ein Lackmustest dafür, wie ernst wir es          Themen aufzugreifen und zu prüfen, ob der bisherige
+     mit der Verteidigung von allen Menschen meinen. Es darf         gesellschaftliche Konsens halten wird oder ob es neue
+     keine Selektion dabei geben, welche Menschen man                Regelungen gibt.
+     mehr und welche man weniger in ihrer Würde zu ver-                 Auf gar keinen Fall würde eine solche, kurz vor dem
+     teidigen bereit ist.                                            Ende der Wahlperiode mit brachialer Geschwindigkeit
+        Dieser historische Kompromiss in der Gesellschaft der        durch den Bundestag gepeitschte fundamentale Verände-
+     Bundesrepublik Deutschland hat selbstverständlich, wie          rung die Wirkung entfalten, die der noch immer für viele
+     jeder Kompromiss, aus der Ansicht verschiedener Betei-          schmerzhafte und dennoch gesellschaftlich akzeptierte
+     ligter auch Mängel. Vor allem aber ist dieser historische       historische Kompromiss der bis heute geltenden gesetz-
+     Kompromiss gesellschaftlich dadurch haltbar gewesen,            lichen Regelung erreicht hat.
+                      Deutscher Bundestag – 20. Wahlperiode – 203. Sitzung. Berlin, Donnerstag, den 5. Dezember 2024    26345
+
+
+(A)      Insoweit muss allen, die daran mitwirken wollen, in             Weil Schwangerschaftsabbrüche generell als Straftat (C)
+      einer der letzten Sitzungen des Bundestages vor seiner          gelten, gibt es kaum gute Ausbildungen als Teil des Me-
+      Auflösung diese große gesellschaftliche Frage lösen zu          dizinstudiums, sodass Studierende an Papayas üben müs-
+      wollen, zugerufen werden: Kolleginnen und Kollegen,             sen – eine absurde Vorstellung, die nicht zu einem fort-
+      Ihr erhebt euch!                                                schrittlichen Gesundheitswesen passt. Im Übrigen gehen
+                                                                      auch Schwangerschaft und Geburt mit erheblichen Ge-
+         Wir brauchen ernsthafte Anhörungen, einen breiten
+                                                                      sundheitsrisiken einher. Schon deshalb sollte es allein
+      gesellschaftlichen Diskurs und dabei sensibles Zuhören
+                                                                      Sache einer Schwangeren sein, darüber zu entscheiden,
+      vor allem gegenüber Frauen mit repräsentativen Einzel-
+                                                                      ob sie ein Kind zur Welt bringen möchte oder nicht. Wir
+      schicksalen, Medizinern und respektierten Persönlichkei-
+                                                                      sind schließlich nicht Gefäße für Dritte, sondern Indivi-
+      ten aus den Bereichen von Verfassungsrecht, Strafrecht,
+                                                                      duen, die über ihren Körper selbst bestimmen können
+      Philosophie und Ethik.
+                                                                      sollten, denn sonst ist ihre Würde nach Artikel 1 des
+        Die Grundfragen wie Schutz der Menschenwürde,                 Grundgesetzes nicht gewahrt!
+      Schutz des ungeborenen Lebens und der Schutz von
+                                                                         Aufgrund der generellen Strafbarkeit von Schwanger-
+      Frauen in Konfliktlagen sind keine Fragen, die man so
+                                                                      schaftsabbrüchen gibt es viel zu wenig medizinische An-
+      brachial durch das Parlament peitschen kann.
+                                                                      gebote, sodass es in manchen Regionen kaum noch Ärz-
+         Für den jetzigen wie auch den nächsten Deutschen             tinnen und Ärzte gibt, die Abtreibungen vornehmen. In
+      Bundestag gilt die Position des Bundesverfassungs-              85 von 400 Landkreisen können ungewollt Schwangere
+      gerichts nach wie vor, dass es den Mechanismus für              kein angemessenes Angebot dafür erreichen. Vielen
+      eine ernsthafte Prüfung zwingend braucht, damit der un-         Frauen ist es schon aufgrund ihrer Lebensumstände gar
+      geborene Mensch klar Stimme und Schutz hat.                     nicht zuzumuten, 150 km für eine Abtreibung zu reisen.
+         Wir brauchen einen offenen, ehrlichen und auch sensi-           Die WHO-Leitlinie von 2022 stellt unmissverständlich
+      blen gesellschaftlichen Diskurs.                                fest, dass eine umfassende und qualitativ ausgezeichnete
+                                                                      medizinische Betreuung bei Schwangerschaftsabbrüchen
+                                                                      essenziell für das Wohl von Frauen ist. Schwanger-
+        Anke Domscheit-Berg (Die Linke):
+                                                                      schaftsabbrüche müssen deshalb auch als Gesundheits-
+       1987 war ich 17 Jahre alt und ungewollt schwanger.             leistungen verstanden und von den Kassen bezahlt wer-
+    Ich ging in die 11. Klasse, wollte mich eigentlich gerade         den; denn der Grad körperlicher Selbstbestimmung
+    trennen von meinem Freund. Ich dachte damals, ich kann            Schwangerer darf niemals vom Geldbeutel abhängen,
+    Abitur und Studium vergessen, verlobte mich mit mei-              also davon, ob Betroffene die Behandlung, die Fahrt
+    nem Freund, mit dem ich gar nicht mehr glücklich war,             und gegebenenfalls die Übernachtung bezahlen können
+(B) hielt alle Zukunftsträume für geplatzt und bekam eine             oder eben nicht.                                         (D)
+    Depression. Dann setzten sich meine Eltern zu mir, er-
+    klärten mir, dass ich eine Wahl hätte und ich ganz allein            Ich finde die Legalisierung von Schwangerschafts-
+    entscheiden könnte, ob ich das Baby bekommen möchte               abbrüchen elementar und die Vorstellung unerträglich,
+    oder nicht, und dass sie mich, egal wie ich mich                  dass im Bundestag fast 70 Prozent Männer über die
+    entscheide, in allem unterstützen würden. Das war in              Selbstbestimmungsrechte von Frauen entscheiden dür-
+    Brandenburg und zu DDR-Zeiten. Ich entschied mich                 fen. In einem Parlament mit echter Parität wäre die all-
+    für einen Schwangerschaftsabbruch, der in einem Kran-             gemeine Strafbarkeit von Abtreibungen längst Geschich-
+    kenhaus ganz in der Nähe und krankenkassenfinanziert              te. So bleibt mir nur, einerseits an die Solidarität der
+    stattfand. Niemand machte mir je einen Vorwurf. In die-           Minderheit weiblicher Abgeordneten zu appellieren und
+    ser Notlage habe ich die Unterstützung durch den Staat,           andererseits an die Mehrheit der Männer, zumindest an
+    die Familie und das Erleben meiner Autonomie, das                 die, die in der Lage sind einzusehen, dass sie bei einer
+    selbst entscheiden zu können, als extrem befreiend erlebt.        solchen Entscheidung gar kein Mitspracherecht haben
+                                                                      sollten, weil sie nicht schwanger werden.
+         Bedauert habe ich diese Abtreibung immer, bereut aber
+                                                                         Über männliche Körper gibt es schließlich auch kei-
+      nie. Ich beendete mein Abitur, studierte und bekam später
+                                                                      nerlei Regulierung im deutschen Recht, und die Krimi-
+      ein Kind.
+                                                                      nalisierung von Schwangerschaftsabbrüchen dient vor
+         Im Osten Deutschlands gab es das Selbstbestimmungs-          allem der Kontrolle über weibliche Körper, die sich viele
+      recht für Frauen schon seit Anfang der 70er-Jahre, und          konservative Männer immer noch wünschen. Das konnte
+      ich kann einfach nicht verstehen, wie es sein kann, dass        man zuletzt am Backlash in den USA erleben, wo nach
+      eine 17-Jährige im wiedervereinigten Deutschland auch           der Trump-Wahl der widerliche Slogan: „Your Body –
+      50 Jahre später noch weniger Rechte hat als Frauen in der       My Choice“ triumphierend von Männern verbreitet wur-
+      DDR der 70er-Jahre. Genauso wenig kann ich verstehen,           de.
+      wie es sein kann, dass das erzkatholische Irland Schwan-
+                                                                        Wer Schwangerschaftsabbrüche verringern will, muss
+      gerschaftsabbrüche liberalisiert hat, während sie bei uns
+                                                                      vor allem Schwangere und Mütter unterstützen und Be-
+      weiter kriminalisiert werden. Orientieren wir uns denn an
+                                                                      nachteiligungen durch Mutterschaft – zum Beispiel Pay
+      Trump oder an Saudi-Arabien?
+                                                                      Gap, Armut bei Alleinerziehenden oder Karrierebrem-
+         Generelle Strafbarkeit löst überhaupt kein Problem, sie      sen – beseitigen, Kinderbetreuung verbessern, Carearbeit
+      verhindert nämlich keine Abtreibungen, sie macht sie nur        besser verteilen und bezahlen. Aber auch kostenlose Ver-
+      gefährlicher, teurer und erniedrigender für Frauen, die         hütungsmittel, gute Aufklärung und niedrigschwelliger
+      sich in einer Notlage befinden.                                 Zugang zu Beratungen sind hilfreich – natürlich nicht
+     26346           Deutscher Bundestag – 20. Wahlperiode – 203. Sitzung. Berlin, Donnerstag, den 5. Dezember 2024
+
+
+(A) nur für Frauen; denn am Zustandekommen einer Schwan-               Wer sich hingegen zu einem anwachsenden Lebens- (C)
+    gerschaft sind zwei beteiligt. Auch Kinder brauchen mehr         schutz bekennt und etwa selbständige Lebensfähigkeit
+    Schutz vor Kinderarmut und Benachteiligung im Bil-               zur Voraussetzung von Menschwürde und Lebensrecht
+    dungssystem, ihre Rechte gehören ins Grundgesetz. Ich            sowie rechtlichem Lebensschutz erklärt, übersieht die
+    würde mich sehr freuen, wenn wir neben einer Liberali-           geringe selbständige Lebensfähigkeit zum Beispiel eines
+    sierung von Schwangerschaftsabbrüchen im Bundestag               Neugeborenen, eines schwerbehinderten Kindes, eines
+    auch diese Maßnahmen auf den Weg bringen könnten;                schwer verunglückten Leistungssportlers oder einer Se-
+    denn so schützt man die Rechte beider am besten: der             niorin mit Demenz.
+    Schwangeren und der Kinder.
+                                                                       Die Kurzfristigkeit der Initiative wurde mit dem Bruch
+        Ich bitte Sie daher herzlich: Unterstützen Sie den vor-      der Ampelkoalition gerechtfertigt; denn dieser habe den
+     liegenden Gruppenantrag mit Ja oder wenigstens einer            Organisatorinnen „die Füße weggezogen“, da sie nach
+     Enthaltung, und beenden Sie die Blockade der Anhörung           der Neuwahl nicht mehr mit einer „progressiven Mehr-
+     im zuständigen Ausschuss!                                       heit“ im Parlament rechneten, wie in Presseberichten zu
+       Alle diejenigen, die grundsätzlich gegen die Legalisie-       lesen war (etwa https://www.tagesschau.de/inland/
+     rung von Schwangerschaftsabbrüchen sind, möchte ich             schwangerschaftsabbruch-legalisierung-union-100.
+     darum bitten, dann einfach selbst keine Abtreibung vor-         html).
+     zunehmen, sich aber nicht der körperlichen Autonomie
+     anderer Menschen in den Weg zu stellen; denn jemand                Damit drücken die Initiatorinnen und Initiatoren nicht
+     anderen zum Austragen von Kindern zu zwingen, ist               aus, dass sie für den Wahltag einen plötzlichen Verlust
+     schlicht Gewalt.                                                ihrer „progressiven Mehrheit“ voraussehen. Tatsächlich
+                                                                     gestehen sie ein, dass sie bereits heute in der Bevölkerung
+                                                                     keine „progressive Mehrheit“ mehr haben und ein ent-
+       Hubert Hüppe (CDU/CSU):                                       sprechendes Wahlergebnis erwarten. Aus diesem Grund
+       Die Pflicht des Staates, Menschenleben zu schützen,           haben sie ihren Gesetzentwurf im November eingebracht
+    gilt für alle Menschen unabhängig von Alter, Gesundheit,         und – die Geschäftsordnung des Bundestages ermöglicht
+    Behinderung, Ethnie, geboren oder ungeboren. Eine Ab-            dies den Initiatoren eines Gesetzentwurfes – seine Auf-
+    treibung tötet einen lebendigen Menschen. Denn ein               setzung zur heutigen ersten Lesung verlangt, solange
+    menschlicher Embryo ist offensichtlich „menschliches             eben eine aus ihrer Sicht „progressive Mehrheit“ noch
+    Leben“. Leben; denn er lebt und ist nicht tot – im Gegen-        existiert.
+    satz zu unbelebter Materie. Und menschlich; denn er re-
+    präsentiert spezifisch menschliches Leben – im Gegen-              Sie tun dies nicht, weil das Thema schon entschei-
+(B) satz zu tierischem oder pflanzlichem Leben.                      dungsreif ausdiskutiert ist, oder aufgrund begründeter (D)
+                                                                     Erwartung, dass eine breite gesellschaftliche Debatte
+        Jeder von uns hat seine biologische Existenz als             während der Weihnachtspause und in der anschließenden
+     menschlicher Embryo begonnen. Keiner von uns war                heißen Phase des Wahlkampfes bis 23. Februar angemes-
+     tierisches Leben, bevor er zum Menschen wurde.                  sen geführt werden könnte. Beides wäre unzutreffend.
+       Offensichtlich ist bereits der frühe menschliche Em-
+     bryo unverkennbar menschlich im biologischen Sinne.                Der Gesetzentwurf führt als Problembeschreibung un-
+                                                                     ter anderem „unzureichende Versorgungsangebote“ und
+        Umgekehrt kann sich keine andere einzelne tierische          eine „prekäre Versorgungslage in vielen Teilen des Lan-
+     oder menschliche Körperzelle und auch keine Anhäufung           des“ an.
+     irgendwelcher anderer menschlicher Zellen zu einem ge-
+     borenen menschlichen Säugling entwickeln. Der mensch-              Das Statistische Bundesamt verzeichnet für das
+     liche Embryo entwickelt sich im biologischen Sinne als          zweite Quartal 2024 – das sind die neuesten verfüg-
+     Mensch – nicht „zum Menschen“ –, und er bleibt wäh-             baren Zahlen – insgesamt 1 110 sogenannte Meldestellen
+     rend seiner ganzen Entwicklung ein biologisch iden-             zur Schwangerschaftsabbruchstatistik. Meldestellen zur
+     tisches Wesen. Jede Festlegung einer späteren Grenze            Schwangerschaftsabbruchstatistik sind nach der Defini-
+     für den Beginn eines spezifisch menschlichen Lebens             tion des Statistischen Bundesamtes Kliniken und Arzt-
+     als die Verschmelzung der Zellkerne von Ei- und Samen-          praxen, in denen grundsätzlich Schwangerschaftsabbrü-
+     zelle ist nicht biologisch begründet, sondern willkürlich.      che vorgenommen werden, wobei teilweise zentrale
+        Mit biologischem Schulwissen und normalem Men-               ambulante OP-Praxen hier zum Beispiel für mehrere
+     schenverstand ist erkennbar, dass der Embryo im biologi-        Arztpraxen mitmelden.
+     schen Sinne menschliches Leben ist. „Wo menschliches
+                                                                       Diesen über 1 110 Kliniken und Arztpraxen, in denen
+     Leben existiert, kommt ihm Menschenwürde zu; es ist
+                                                                     grundsätzlich Schwangerschaftsabbrüche vorgenommen
+     nicht entscheidend, ob der Träger sich dieser Würde be-
+                                                                     werden, stehen aktuell bundesweit 606 Kliniken mit
+     wusst ist und sie selbst zu wahren weiß.“ Das Bundes-
+                                                                     Geburtshilfe gegenüber, so der Bericht der Regierungs-
+     verfassungsgericht hat diesen Grundsatz 1975 formuliert
+                                                                     kommission für eine moderne und bedarfsgerechte Kran-
+     und 1993 bestätigt.
+                                                                     kenhausversorgung vom 14. November 2024 (https://
+       Die Ewigkeitsgarantie der Menschenwürde im Grund-             www.bundesgesundheitsministerium.de/fileadmin/
+     gesetz wäre wertlos, wenn sie mit der Begründung ver-           Dateien/3_Downloads/K/Krankenhausreform/BMG_
+     änderter gesellschaftlicher Anschauungen Menschen in            Regierungskommission_12te_Zukunftsfaehige_
+     bestimmten Lebensphasen aberkannt wird.                         Versorgung.pdf).
+                     Deutscher Bundestag – 20. Wahlperiode – 203. Sitzung. Berlin, Donnerstag, den 5. Dezember 2024      26347
+
+
+(A)     Zahlenmäßig verfügt Deutschland heute nur über etwa             Nun führen die Gegner/-innen der Legalisierung als (C)
+      halb so viele Kliniken mit Geburtshilfe, wo alles für die      Argument an, dass der § 218 und die jetzige Rechtspre-
+      Geburt eines lebendigen Kindes getan wird, wie über            chung Schwangerschaftsabbrüche doch ermöglichen
+      Einrichtungen, in denen Schwangerschaftsabbrüche vor-          würde. Ja, Abbrüche sind unter bestimmten Bedingungen
+      genommen werden. Dies ist kaum vereinbar mit der               möglich und werden durchgeführt. Es ist sogar der häu-
+      Klage über „unzureichende Versorgungsangebote“ für             figste gynäkologische Eingriff. Im Kern geht es tatsäch-
+      Schwangerschaftsabbrüche.                                      lich darum, wie viele Steine den betroffenen Frauen in
+                                                                     den Weg gelegt werden.
+         Zudem kann es bei der Erreichbarkeit einer Geburts-
+      klinik durchaus um gegebenenfalls lebensrettende Minu-            Denn: Weil der Abbruch im Strafgesetzbuch gleich
+      ten gehen, während die Abtreibung in der Regel keine           hinter Mord und Totschlag geregelt ist, gängelt er und
+      Notfallintervention ist.                                       kriminalisiert die ungewollt Schwangeren und auch die
+       Die Zahlen des Statistischen Bundesamtes zeigen, dass         Ärztinnen und Ärzte, die sie medizinisch betreuen (wol-
+    92 Prozent aller abtreibenden Frauen eine Einrichtung            len). Dieses Tabu, diese Stigmatisierung hat verheerende
+    zum Schwangerschaftsabbruch in ihrem eigenen Bundes-             Auswirkungen: Die medizinische Leistung fehlt in der
+    land, in dem sie auch ihren Wohnsitz haben, nutzen. Nur          ärztlichen Ausbildung. Immer weniger Ärztinnen und
+    wenige gehen in benachbarte Bundesländer, weil das               Ärzte sind in der Lage und bereit, die Leistung anzubie-
+    vielleicht näher liegt als die nächste Großstadt im eigenen      ten. Die Versorgungslage wird immer katastrophaler. Die
+    Bundesland. Denn wie bei vielen anderen (medizini-               Frauen müssen die Kosten selbst tragen, der Abbruch
+    schen) Angeboten bilden Großstädte Schwerpunkte, die             wird zunehmend zu einer sozialen Frage.
+    Patienten anziehen. Wenn diese Großstädte zudem noch
+    eigene Bundesländer sind (Berlin, Hamburg, Bremen),                 Der hier vorgelegte Gruppenantrag ist aus Sicht der
+    sieht man sie in den Daten des Statistischen Bundes-             Linken ein minimalinvasiver Vorschlag. Eigentlich wol-
+    amtes. Das heißt aber noch nicht, dass die angrenzenden          len wir mehr: nämlich die ersatzlose Streichung des § 218
+    Bundesländer eine unzureichende Versorgungsstruktur              und eine Regelung des Schwangerschaftsabbruchs und
+    haben. Nimmt man daher zu den 92 Prozent, die eine               der reproduktiven und gesundheitlichen Rechte in einem
+    Abtreibungseinrichtung im Bundesland ihres Wohnsitzes            eigenen „Reproduktive-Rechte-Gesetz“.
+    nutzen, die Frauen hinzu, die eine Einrichtung in einem
+    direkt benachbarten Bundesland nutzen, so nutzen                    Wir sehen aber die große Verantwortung, die wir in der
+    99,3 Prozent eine Einrichtung in erreichbarer Nähe, müs-         jetzigen politischen Situation haben. Die Entkriminalisie-
+    sen also nicht lange Reisen quer durch Deutschland oder          rung muss in dieser Legislatur kommen. Frauen- und
+    ins Ausland auf sich nehmen. Dies belegt die Tabelle             Menschenrechte müssen so weit wie möglich abgesichert
+(B)                                                                  werden. Das ist das Gebot der Stunde für alle Demokra- (D)
+    „23311-19: Schwangerschaftsabbrüche 2023 nach Ein-
+    griffsland und Land des Wohnsitzes der Frauen“ des               tinnen und Demokraten. Denn es ist zu befürchten, dass
+    Statistisches Bundesamtes (Publikationen, Schwanger-             mit den Neuwahlen die konservativen und reaktionären
+    schaftsabbrüche, „Statistischer Bericht Schwanger-               Kräfte eine Mehrheit in diesem Parlament bekommen,
+    schaftsabbrüche 2023“, https://www.destatis.de/DE/               denen Frauenrechte und Selbstbestimmungsrechte am
+    Themen/Gesellschaft-Umwelt/Gesundheit/                           Allerwertesten vorbeigehen oder die sogar aktiv dagegen
+    Schwangerschaftsabbrueche/_inhalt.html).                         arbeiten. Lassen Sie uns diese historische Chance nutzen,
+                                                                     um Schwangerschaftsabbrüche endlich zu entkriminali-
+         Dies ist – zusammen mit der im Vergleich zu Ge-             sieren und als medizinische Leistung anzuerkennen.
+      burtshilfekliniken doppelt so hohen Anzahl der Abtrei-
+      bungseinrichtungen – gerade kein Beleg für eine „prekäre          Keine Schwangere trifft eine leichtfertige Entschei-
+      Versorgungslage in vielen Teilen des Landes“ mit Ein-          dung. Es ist immer eine existenzielle Entscheidung. Die
+      richtungen für Schwangerschaftsabbrüche, weder hin-            kann nur die Frau treffen und niemand anders. Die von
+      sichtlich der Zahl noch hinsichtlich der Abdeckung.            der Bundesregierung eingesetzte Fachkommission hat
+                                                                     unter anderem festgehalten, dass ein Zwang zur Fortset-
+         Das angebliche große Versorgungsproblem existiert           zung der Schwangerschaft einen „nicht zu rechtfertigen-
+      also nicht. Ich bitte Sie daher, dem vorliegenden Gesetz-      den Eingriff in die Grundrechte der Frauen“ darstellt, aus
+      entwurf nicht zuzustimmen.                                     verfassungs-, völker- und europarechtlicher Prüfung sei
+                                                                     die Rechtswidrigkeit nicht haltbar. Im Fazit bedeutet das:
+        Cornelia Möhring (Die Linke):                                Der Gesetzgeber müsste den Schwangerschaftsabbruch
+        Mehr als 80 Prozent der Bevölkerung sind dafür. Die          in der Frühphase zulassen.
+      Frauen- und Wohlfahrtsverbände fordern eine Legalisie-
+                                                                        Im gesellschaftlichen Diskurs ist die Frage dabei längst
+      rung von Schwangerschaftsabbrüchen. Die von der Bun-
+                                                                     entschieden, wie alle Umfragen und Erhebungen zum
+      desregierung eingesetzte Fachkommission hat sich dafür
+                                                                     Thema zeigen. Die polarisierende Debatte findet nicht
+      ausgesprochen und eine Regelung vorgeschlagen.
+                                                                     in der Bevölkerung statt. Sie wird allein von Politike-
+         Die gesellschaftlichen Mehrheiten sind schon lange          rinnen und Politikern und klerikalen Lobbygruppen ge-
+      klar: Ein Strafrechtsparagraf aus dem Jahr 1871 und ein        führt, die an der überkommenen Vergangenheit festhalten
+      Kompromiss, der nur für diejenigen funktioniert, die           und eine fortschrittliche Neuregelung auf ewig verhin-
+      noch nie mit der Sorge einer ungewollten Schwanger-            dern wollen. Lassen Sie das nicht zu! Stimmen Sie für
+      schaft konfrontiert waren, könnten endlich dorthin gehen,      unseren Gruppenantrag! Es ist eine Entscheidung für die
+      wo sie hingehören: nämlich abgeschafft.                        Frauen und für die Menschenrechte!
+      26348           Deutscher Bundestag – 20. Wahlperiode – 203. Sitzung. Berlin, Donnerstag, den 5. Dezember 2024
+
+
+(A)     Annette Widmann-Mauz (CDU/CSU):                                  Ein Abbruch ist nicht rechtswidrig, wenn nach ärzt- (C)
+        In Deutschland werden pro Jahr im Durchschnitt                licher Erkenntnis eine Gefahr für das Leben oder die
+      über 100 000 Schwangerschaftsabbrüche vorgenommen.              Gefahr einer schwerwiegenden Beeinträchtigung des
+      916 000 Mal haben Frauen im letzten Jahr die „Pille da-         körperlichen oder seelischen Gesundheitszustands für
+      nach“ in Anspruch genommen, mit der nach ungeschütz-            die Frau nicht auf eine andere für sie zumutbare Weise
+      tem Geschlechtsverkehr die Einnistung möglicherweise            abgewendet werden kann oder im entsprechenden Zeit-
+      befruchteter Eizellen in die Gebärmutter verhindert wer-        raum eine Vergewaltigung stattgefunden hat bzw. ursäch-
+      den soll.                                                       lich für die ungewollte Schwangerschaft ist.
+                                                                        Bis zur vollendeten 22. Schwangerschaftswoche ist ein
+         Die Ampelkoalition hat sich vor drei Jahren im Koali-        Abbruch nach Beratung zwar rechtswidrig, die Schwan-
+      tionsvertrag den Auftrag gegeben, Schwangerschafts-             gere bleibt aber straffrei.
+      abbrüche außerhalb des Strafrechts zu regeln. Dafür hat           Im Unterschied zu anderen Ländern haben wir damit in
+      sie eine Kommission eingesetzt, deren Vorschläge die            Deutschland eine verfassungsgemäße gesetzliche Rege-
+      Grundlage für den heute diskutierten Gruppenentwurf             lung gefunden, die sich mittlerweile über Jahrzehnte hin-
+      zur Neuregelung des Schwangerschaftsabbruchs bilden.            weg bewährt hat.
+                                                                         Warum dann also dieser Gruppenantrag, mit dem in der
+         Auch wenn der Titel des Gruppenantrags „Versor-              Öffentlichkeit faktenfrei suggeriert wird, dass Frauen bei
+      gungslage von ungewollt Schwangeren verbessern“ et-             Abtreibungen zwangsläufig mit dem Gesetz in Konflikt
+      was anderes insinuiert, geht es den Antragstellerinnen          gerieten? Mit Behauptungen von einer „Kriminalisie-
+      und Antragstellern mit den vorgeschlagenen Regelungen           rung“ ungewollt Schwangerer werden Ängste und Ver-
+      im Kern darum, menschlichem Leben im ersten Trime-              unsicherung verbreitet, obwohl es zuletzt lediglich ein
+      non einer Schwangerschaft die Schutzwürdigkeit ab-              Strafverfahren im Jahre 2009 gegen eine Schwangere
+      zusprechen und aus einem Schwangerschaftsabbruch                wegen einer Verletzung des § 218 StGB gab. Hingegen
+      bis zur 12. Schwangerschaftswoche einen routinemä-              stiegen die Zahlen der Schwangerschaftsabbrüche in
+      ßigen medizinischen Eingriff machen. Der eigentliche            Deutschland zuletzt auf 106 000 Schwangerschaftsabbrü-
+      Sachverhalt, dass damit menschliches Leben zerstört             che pro Jahr, die nach Beratung und Wartezeit im zuläs-
+      wird und nicht lediglich ein unliebsames Stück Gewebe           sigen Zeitraum durchgeführt wurden.
+      aus der Gebärmutter entfernt wird, gerät in den Hinter-
+      grund und wird geschickt kaschiert.                                Auch die Selbstbestimmung der Frau ist nach gel-
+                                                                      tendem Recht nicht eingeschränkt, sondern zu jedem
+(B)                                                                   Zeitpunkt gegeben. Die Beratungspflicht und die vor- (D)
+         Die Schutzwürdigkeit werdenden Lebens wird damit             gesehene Wartezeit von drei Tagen sind Schutzmecha-
+      grundsätzlich infrage gestellt. Unsere Verfassung – Arti-       nismen, die sicherstellen, dass Schwangere in einem
+      kel 1 Absatz 1 GG und die dazu ergangene Verfassungs-           neutralen Raum ergebnisoffenen und in einer wertschät-
+      rechtsprechung – kennt jedoch keinen abgestuften Le-            zenden Atmosphäre beraten und frei von äußeren Ein-
+      bensschutz zwischen der 12., 13. oder weiteren Wochen           flüssen eine informierte, abgewogene und gewissenhafte
+      einer Schwangerschaft. Der Embryo entwickelt sich als           Entscheidung treffen können. Die Ausstellung der erfor-
+      Mensch und nicht zum Menschen. Spätestens mit der               derlichen Beratungsscheine dient nicht zuletzt auch den
+      Einnistung des Embryos im Mutterleib ist er unmittelbar         beteiligten Ärztinnen und Ärzten für die abgesicherte
+      mit der Frau verbunden und kann nur mit der schwange-           Durchführung des Abbruchs.
+      ren Frau und nicht gegen ihren Willen geschützt werden.
+                                                                         Frauen werden im Schwangerschaftskonflikt umfas-
+                                                                      send unterstützt. Mit einem bundesweiten Netz an pro-
+         Nach geltendem Verfassungsverständnis sind die               fessionellen Beratungsstellen, die den Schwangeren kon-
+      Selbstbestimmung der Frau und das Lebensrecht des Kin-          krete Hilfe für ein Leben mit dem Kind aufzeigen, sie
+      des gleichwertige Rechtsgüter, die im Konfliktfall gegen-       ermutigen und unterstützen, Ressourcen und Gestal-
+      einander abgewogen werden müssen.                               tungsmöglichkeiten in sich selbst und ihrem Umfeld zu
+                                                                      erkennen und vor einer so folgenreichen Entscheidung zu
+         Genau das leisten seit 1995 § 218 und § 218a StGB mit        prüfen. Nachbefragungen bestätigen, dass die Beratung
+      dem ihnen zugrundeliegenden Modell der „doppelten               von der überwiegenden Mehrheit der Schwangeren po-
+      Anwaltschaft“: für den Schutz des Selbstbestimmungs-            sitiv wahrgenommen und als hilfreich und unterstützend
+      rechts der Frau und für den Schutz des ungeborenen              angesehen wurde. Sie ist und bleibt unersetzlich, un-
+      Lebens. Denn die Entscheidung für oder gegen die Fort-          abhängig davon, ob die Entscheidung danach für oder
+      setzung einer Schwangerschaft in den ersten zwölf Wo-           gegen die Fortsetzung der Schwangerschaft erfolgt, –
+      chen trifft allein die Frau. Sie bleibt straffrei.              oft im Rückblick auch noch Jahre später.
+                                                                        Falsch ist auch die Behauptung, dass es nicht ausrei-
+         Bis zur vollendeten 12. Schwangerschaftswoche nach           chend Ärztinnen und Ärzte gebe, die einen Abbruch
+      der Empfängnis ist der Straftatbestand nicht verwirklicht,      durchführten. Bei allen regionalen Unterschieden in Be-
+      wenn die Frau vor dem Abbruch eine entsprechende ge-            zug auf die Bereitschaft von Kliniken bzw. Ärztinnen und
+      setzlich verpflichtende Beratung in Anspruch genom-             Ärzten, Abtreibungen durchzuführen, haben Jahr für Jahr
+      men, eine dreitägige Wartezeit eingehalten und der Ab-          über 100 000 Frauen eine Ärztin oder Arzt in einer
+      bruch durch einen Arzt vorgenommen wurde.                       entsprechenden Praxis oder Klinik erreicht. Auch die
+                     Deutscher Bundestag – 20. Wahlperiode – 203. Sitzung. Berlin, Donnerstag, den 5. Dezember 2024      26349
+
+
+(A) Sorge vor unzureichender qualitativer medizinischer Ver-            Heike Brehmer (CDU/CSU):                                   (C)
+    sorgung ist unbegründet; denn die Durchführung eines                Wie muss es sich anfühlen, auf das Organ eines ande-
+    Schwangerschaftsabbruchs ist in der (Muster-)Weiterbil-          ren zu warten, um weiterleben zu können? Diese Frage
+    dungsordnung der Bundesärztekammer ausdrücklich für              stelle ich mir angesichts der zahlreichen Patienten auf den
+    die Weiterbildung für Frauenärztinnen und -ärzte ver-            Wartelisten, für die eine Transplantation mitunter die
+    ankert.                                                          letzte Chance auf Lebensrettung ist.
+        Der hier heute vorgelegte Antrag verzerrt die Debatte
+     bewusst. Er beschreibt eine Situation, die es so bei uns          Heute beraten wir in diesem Hohen Haus über einen
+     nicht gibt, um eine gesellschaftliche Stimmung zu erzeu-        wichtigen Schritt in der Weiterentwicklung unseres
+     gen. Wohin eine gezielte Polarisierung bei diesem wich-         Transplantationsgesetzes. Unser Gruppenentwurf zur
+     tigen Thema führt, können wir an der Radikalisierung der        Einführung einer Widerspruchslösung im Transplantati-
+     politischen Auseinandersetzung und einer Spaltung der           onsgesetz ist ein Thema, das uns alle betrifft.
+     Gesellschaft in vielen anderen Ländern beobachten.
+        Frauen, die mit einer ungewollten Schwangerschaft               Als CDU-Bundestagsabgeordnete stehe ich für eine
+     konfrontiert sind, befinden sich in einem schweren Kon-         Politik, die auf den Werten des christlichen Menschen-
+     flikt und ringen mit existenziellen Sorgen und Ängsten,         bildes basiert. Diese Werte leiten mich in meinem Han-
+     Unsicherheit und Zweifeln. Sie brauchen vor allem Hilfe         deln und Denken. Sie stehen für die Achtung der Men-
+     und Unterstützung, individuelle Beratung und verläss-           schenwürde und für die Verantwortung, die wir alle
+     liche und gut zugängliche Informationen über einen mög-         füreinander tragen.
+     lichen Schwangerschaftsabbruch wie über die Möglich-
+     keiten und Wege, mit ihrem Kind zu leben.                          Wenn man bedenkt, dass Deutschland im europäischen
+       Was sie sicher nicht brauchen, ist ein künstlich              Vergleich des Eurotransplant-Verbundes das Schlusslicht
+    aufgebauter ideologischer Popanz. Statt bei einer so             bildet, finde ich es richtig und wichtig, dass wir diese
+    wichtigen Frage gemeinsam niedrigschwelligere Wege               Verantwortung mit Leben füllen – anstatt uns wie bisher
+    auszuloten – etwa was die Erstattungsfähigkeit von Ver-          gegen eine Widerspruchslösung zu stellen und gleichzei-
+    hütungsmitteln angeht –, wollen die Antragstellerinnen           tig Organe aus Ländern „beziehen“, die eine Wider-
+    und Antragsteller den bestehenden gesellschaftspoliti-           spruchslösung vorsehen.
+    schen Kompromiss aufkündigen und diese Neuregelung
+    ohne eine differenzierte, sachgerechte und gesellschaft-            Ich bin mir darüber bewusst, dass die Widerspruchs-
+    lich geführte Diskussion quasi auf den letzten Metern            lösung in unserer Gesellschaft kontrovers diskutiert wird.
+(B) noch kurz vor den Neuwahlen durchdrücken. Ethische               Es gibt viele Menschen, die Bedenken haben. Sie haben (D)
+    und religiöse Fragen wurden nicht einmal andiskutiert,           Angst davor, übergangen zu werden, Angst davor, ihre
+    was sich allein schon bei der Zusammensetzung der so-            Selbstbestimmung zu verlieren. Ihnen sei gesagt: Die
+    genannten Expertenkommission zeigte.                             Widerspruchslösung respektiert den Willen jedes einzel-
+        Wie groß muss Ihre politische Not als ehemalige Am-          nen Bürgers. Jeder hat die Möglichkeit, aktiv zu wider-
+     pelkoalition sein, dass Sie aus kurzfristigem, rein partei-     sprechen, wenn er oder sie kein Spender sein möchte.
+     politischem Kalkül den gesellschaftlichen Frieden unse-
+     res Landes in einer so essenziellen, ethischen und                 Wenn wir einen Moment innehalten und die Realität
+     grundlegenden rechtlichen Frage gefährden? Der Not,             betrachten, stellen wir fest: Jedes Jahr warten Tausende
+     in der sich Frauen in dieser schwierigen Konfliktlage           Menschen in unserem Land auf ein lebensrettendes Or-
+     befinden, ist dieses Vorgehen jedenfalls nicht angemes-         gan. Viele von ihnen sind verzweifelt und können nicht
+     sen. Dem unteilbaren Schutz der Würde des Menschen              länger warten.
+     nach Artikel 1 unseres Grundgesetzes fügen Sie schwe-
+     ren Schaden zu – mit nicht absehbaren Folgen.                      Die Zahl der Organspenden reicht bei Weitem nicht
+                                                                     aus, um den Bedarf zu decken. Die Widerspruchslösung
+                                                                     gibt uns die Möglichkeit, die Zahl der Organspenden sig-
+                                                                     nifikant zu erhöhen, ohne dabei die ethischen Grundsätze
+                                                                     außer Acht zu lassen.
+     Anlage 3
+                                                                       Ich glaube fest daran, dass wir als Gesellschaft die
+                  Zu Protokoll gegebene Reden
+                                                                     Verantwortung haben, Leben zu retten, wo immer es
+       zur Beratung des von den Abgeordneten Sabine                  möglich ist. Lassen Sie uns gemeinsam dafür Sorge tra-
+       Dittmar, Gitta Connemann, Dr. Armin Grau,                     gen, dass wir mit den notwendigen Veränderungen Men-
+       Christian Bartelt, Dr. Petra Sitte, Dr. Karl                  schenleben retten können.
+       Lauterbach, Jens Spahn, Dr. Janosch Dahmen,
+       Dr. Christoph Hoffmann und weiteren Abgeord-                     Ob ein Mensch Organspender werden möchte oder
+       neten eingebrachten Entwurfs eines Vierten Geset-             nicht, ist seine ganz persönliche Entscheidung. Dafür
+       zes zur Änderung des Transplantationsgesetzes –               gibt es kein Richtig oder Falsch. Ein Ja ist genauso legi-
+       Einführung einer Widerspruchsregelung im Trans-               tim wie ein Nein. Diesem freien und persönlichen Willen
+       plantationsgesetz                                             wird auch in unserem Gruppenantrag Rechnung getra-
+       (Zusatzpunkt 11)                                              gen; denn dies ist ein hohes Gut.
+      26350          Deutscher Bundestag – 20. Wahlperiode – 203. Sitzung. Berlin, Donnerstag, den 5. Dezember 2024
+
+
+(A)      Unser Ziel muss es sein, die Aufmerksamkeit für das            Was ins Auge fällt, ist die sehr unterschiedliche Reali- (C)
+      Thema Organspende zu erhöhen und die sachliche Aus-            sierung von Organspenden in den einzelnen Bundeslän-
+      einandersetzung damit zu fördern. Mit der Widerspruchs-        dern. Im Saarland scheitert nur knapp jede vierte Organ-
+      lösung können wir genau das erreichen.                         spende an der fehlenden Zustimmung, in Mecklenburg-
+                                                                     Vorpommern nicht einmal jede fünfte. Damit erreicht die
+        Bitte unterstützen Sie unseren Antrag und stärken Sie        Zustimmung zur Organspende unter den für eine Organ-
+      damit die Entscheidungen mündiger Bürger, die das Fun-         entnahme infrage kommenden Patientinnen und Patien-
+      dament unserer Demokratie bilden.                              ten oder ihren Angehörigen etwa den Anteil, den sie bei
+                                                                     Befragungen der Bevölkerung erreicht. Im bevölkerungs-
+        Kathrin Vogler (Die Linke):                                  reichsten Bundesland Nordrhein-Westfalen hingegen
+                                                                     fehlt bei 44 Prozent der potenziellen Organspender/-in-
+         Im Jahr 2020 hat der Deutsche Bundestag mit sehr
+                                                                     nen die Zustimmung.
+      großer Mehrheit die „erweiterte Entscheidungslösung“
+      bei der Organspende beschlossen, das Gesetz trat zum              Diese Unterschiede zwischen den Ländern, in denen
+      1. März 2022 in Kraft. Damit wurde geregelt, dass nach         überall die erweiterte Entscheidungslösung gilt, zeigt,
+      dem Hirntod eines Menschen Organe und Gewebe nur               dass es auch ohne Widerspruchsregelung möglich ist,
+      entnommen werden dürfen, wenn der/die Verstorbene              die Zahl der Organspenden deutlich zu erhöhen. Wenn
+      zu Lebzeiten zugestimmt hat oder durch die Befragung           NRW-Gesundheitsminister Karl-Josef Laumann (CDU)
+      von Nahestehenden festgestellt werden kann, dass die           in seinem Bundesland dafür sorgen würde, dass seine
+      Person eine positive Einstellung zur Organspende hat.          Kliniken im Prozess der Organspende ebenso erfolgreich
+                                                                     sind wie die in Mecklenburg-Vorpommern, gäbe es das
+         Kernstück der Reform war die Einrichtung eines bun-         Problem nicht.
+      desweiten Onlineorganspenderegisters, in welchem die
+      Entscheidung zur Organspende dokumentiert werden                  Eine Widerspruchsregelung, wie sie in diesem Gesetz-
+      kann. Dieses Organspenderegister ist erst am 18. März          entwurf gefordert wird, ist weder notwendig noch ge-
+      2024 online gegangen. Die Eintragung ist bisher nur            rechtfertigt. Bitte lehnen Sie diesen Eingriff in Grund-
+      möglich, wenn man einen Personalausweis mit elektro-           rechte ab!
+      nischer ID-Funktion hat. Dementsprechend ist die Zahl
+      derjenigen, die ihre Entscheidung über das Organspende-
+      register dokumentiert haben, noch überschaubar.
+      Dass eine Reform, die viel zu langsam und nur halb-            Anlage 4
+    herzig umgesetzt wird, die Zahl der Organspenden nicht
+(B) sprunghaft erhöhen kann, liegt auf der Hand.                                   Zu Protokoll gegebene Reden                       (D)
+                                                                        zur Beratung des Antrags der Fraktion der CDU/
+         Die Einführung einer Widerspruchsregelung wird hier            CSU: Betroffene und Selbsthilfe stärker unterstüt-
+      als Lösungsansatz dargestellt: Wer nicht zu Lebzeiten             zen – Erforschung, Diagnoseerstellung und Versor-
+      widerspricht, wird im Fall seines Hirntodes automatisch           gung von Menschen mit Seltenen Erkrankungen
+      zum Organspender. Die Angehörigen müssen nicht mehr               verbessern
+      einschätzen, welche Haltung der/die Verstorbene gehabt
+      haben könnte, sondern „nur noch“ wissen, wo eine Pa-              (Zusatzpunkt 13)
+      tientenverfügung, ein Organspendeausweis oder ein ähn-
+      liches Dokument hinterlegt sein könnte. Ein eigenes Mit-          Ruppert Stüwe (SPD):
+      spracherecht haben sie nicht. Damit soll sich sowohl die          Nur weil eine Krankheit eine kleine Anzahl von Men-
+      seelische Belastung der Angehörigen als auch die Ar-           schen betrifft, ist sie nicht irrelevant oder weniger wichtig
+      beitsbelastung der Mitarbeitenden in den Organspende-          als Krankheiten, die Millionen Menschen betreffen. Die
+      diensten und Entnahmekrankenhäusern verringern.                8 000 verschiedenen seltenen Erkrankungen bedeuten für
+         Das ist eine gewagte These. Auch in Spanien, das            die mindestens 4 Millionen Betroffenen in Deutschland,
+      immer als Muster für eine erfolgreiche Widerspruchs-           30 Millionen Betroffenen in der EU und 300 Millionen
+      regelung angeführt wird, werden keine Organe entnom-           Betroffenen weltweit unendlichen Leidensdruck. 5 bis
+      men, wenn es die Angehörigen ablehnen. Allein die Vor-         6 Prozent der Bevölkerung haben eine seltene Erkran-
+      stellung, dass gegen den Willen der Trauernden ein             kung. Diese Krankheiten, von denen oft Kinder und Ju-
+      gerade verstorbener Mensch zur Organentnahme in einen          gendliche betroffen sind, bedeuten eine hohe Krankheits-
+      OP geschoben wird, ist ganz sicher nicht geeignet, um das      last für die einzelnen Familien, aber auch für das
+      Vertrauen in unser Gesundheitswesen und in den Prozess         Gesundheitssystem insgesamt.
+      der Organspende zu stärken.                                       Diese Zahlen zeigen: Wir müssen noch mehr tun, um
+        Die Befürworter/-innen argumentieren, dass in Län-           diesen Menschen und betroffenen Patienteninnen und
+      dern mit Widerspruchsregelung allein dadurch mehr Or-          Patienten seltener Erkrankungen zu helfen. Daher unter-
+      gane für Transplantationen zur Verfügung stünden. Ein          stütze ich das Grundanliegen des Antrags.
+      Vergleich europäischer Länder zeigt jedoch, dass diese            Aber zur Wahrheit gehört auch: Ein solcher Antrag mit
+      unabhängig von den rechtlichen Voraussetzungen sehr            einem detaillierten Maßnahmenbündel dekoriert schön
+      unterschiedliche Zahlen realisieren. Deutschland ist           das Schaufenster. Doch wenn man genauer hinguckt, er-
+      auch unter den Ländern mit Zustimmungs- oder Ent-              kennt man, wie trüb das Licht im Schaufenster eigentlich
+      scheidungsregelung das absolute Schlusslicht.                  ist. Denn alle Ihre Forderungen stehen unter Haushalts-
+                    Deutscher Bundestag – 20. Wahlperiode – 203. Sitzung. Berlin, Donnerstag, den 5. Dezember 2024     26351
+
+
+(A) vorbehalt. Wer diesen Antrag also einbringt, müsste zu-         wir müssen die Akteure vernetzen und sie für das Thema (C)
+    mindest dafür sorgen, dass die entsprechenden Mittel            sensibilisieren. Ja, wir müssen die Digitalisierung voran-
+    auch bereitstehen.                                              treiben. Und ja, wir müssen auch Wege finden, um den
+                                                                    erkrankten Menschen die passenden Medikamente zu-
+        Wir haben die Gesundheitsforschung zu seltenen Er-
+                                                                    kommen zu lassen. Dafür müssen wir flexible Regelun-
+     krankungen als einen wichtigen Punkt im Koalitionsver-
+                                                                    gen finden, die mehr Menschen auch tatsächlich helfen.
+     trag festgemacht. Und das BMBF handelt entsprechend
+                                                                    Das hört sich immer etwas allgemein an, deswegen lassen
+     mit der Förderlinie „Research for Rare“ über nationale
+                                                                    Sie es mich konkret machen.
+     Forschungsverbünde, die sich sowohl der Grundlagen-
+     forschung als auch der klinischen Forschung widmen.               Erst letzte Woche hatte ich eine Petition auf meinem
+     Seit 2022 werden neun Forschungsverbünde mit ins-              Tisch von einem Bürger aus Thüringen, der für seine
+     gesamt 21,5 Millionen Euro bis 2026 gefördert. Im Rah-         Ehefrau die Erstattung eines Medikaments fordert. Sie
+     men eines künftigen Haushalts ist es dringend notwendig,       leidet an Necrobiosis lipoidica. Das ist eine schmerzhafte
+     diese strukturelle Forschungsförderung zu seltenen Er-         Hauterkrankung, die Entzündungen am ganzen Körper
+     krankungen auf Bundesebene zu verstetigen.                     hervorruft und zum Absterben des betroffenen Gewebes
+        Darüber hinaus haben die in den letzten Jahren er-          führt. An einen normalen Alltag, geschweige denn arbei-
+     folgreich vorangetriebene medizinische Vernetzung der          ten zu gehen, ist nicht zu denken. Doch es blühte Hoff-
+     Universitätskliniken durch das Netzwerk Universitäts-          nung auf: Zusammen mit dem Universitätsklinikum Er-
+     medizin (NUM) und die Technologie- und Methoden-               langen aus meinem Wahlkreis finden sie nach vielen
+     plattformen im Rahmen der Medizininformatik-Initiative         Jahren des Leids eine Lösung: der Off-Label-Use eines
+     (MII) den Aufbau einer soliden Basis von standardisier-        Medikaments, das endlich bei ihr Wirkung zeigt. Sie kann
+     ten Versorgungs- und Forschungsdaten zur Evidenzgene-          die starken Schmerzmittel absetzen und blickt wieder
+     rierung seltener Erkrankungen ermöglicht.                      einem normalen Alltag entgegen. Einziges Problem:
+                                                                    Eine Monatsrate des Medikaments, kostet 1 000 Euro,
+       Insbesondere bei seltenen Erkrankungen besteht ein           weil es für die Verabreichung bei Necrobiosis lipoidica
+    besonderes Potenzial, von der Digitalisierung im Ge-            nicht zugelassen ist. Und genau damit begründet die
+    sundheitswesen zu profitieren. Die in der laufenden Le-         Kasse ihr Nein zur Kostenübernahme: Die Voraussetzun-
+    gislatur auf den Weg gebrachten Neuerungen – allen vo-          gen für einen Off-Label-Use seien nicht erfüllt. Das wird
+    ran die Einführung der elektronischen Patientenakte             gerichtlich bestätigt; denn es gibt die ferne Hoffnung,
+    (ePA) und die Neuregelungen im Gesundheitsdatennut-             dass das Medikament durch Forschung in den USA eines
+    zungsgesetz – bieten enorme Chancen: zum einen für die          Tages auch für Necrobiosis lipoidica zugelassen werden
+    vernetzte Nutzung von Patientendaten und zum anderen            könnte; ob und wann das passiert, weiß niemand. Es ist
+(B) für eine Verbesserung der Diagnose und Versorgung.              jedoch Vorschrift so lange abzuwarten, während bereits (D)
+        Das verbesserte Zusammenwirken von Forschung und            jetzt ein wirksames Medikament zur Verfügung stünde,
+     medizinischen Innovationen ist ein entscheidender Bau-         womit die Patientin aus ihrer 100-prozentigen Erwerbs-
+     stein, um die Diagnostik und vor allem auch die Therapie       minderungsrente zurück zur Arbeit wechseln könnte;
+     von seltenen Krankheiten voranzubringen. Darauf müs-           eine Win-win-Situation für die Patientin und unsere Ge-
+     sen wir auch in Zukunft den Fokus richten. Den Weg             sellschaft. Doch dank unserer Vorschriften, die zwar ei-
+     dahin habe ich gerade skizziert.                               nen Grund haben, aber viel zu oft an der realen Welt
+                                                                    scheitern, nimmt die Patientin nun eine halbe Tablette
+                                                                    pro Tag, anstatt der benötigen zwei Tabletten; denn sie
+       Martina Stamm-Fibich (SPD):                                  kann sich nicht mehr leisten. Solche Vorschriften müssen
+        Der Wahlkampf hat begonnen, und die Union wünscht           wir überdenken, und ich hoffe, dass diese Petition, die ich
+     sich als Opposition jetzt noch schnell alles, was sie auf      unterstütze, dazu beitragen kann.
+     der Regierungsbank nie im Leben umsetzen würde. Das
+                                                                       Nun zurück zu Ihrem Antrag: Ich habe mich gefragt,
+     ist scheinheilig und wird den Menschen, die an einer
+                                                                    was der Grund dafür ist, dass Sie den Antrag gerade jetzt
+     seltenen Erkrankung leiden, nicht gerecht; denn sie brau-
+                                                                    stellen, in einer Zeit, in der die Bundesregierung keine
+     chen Lösungen, die auch umgesetzt werden, und nicht in
+                                                                    Mehrheit hat, in einer Zeit, in der in weniger als zwei
+     einer Blockadehaltung von CDU/CSU untergehen.
+                                                                    Wochen die Vertrauensfrage gestellt wird, in einer Zeit,
+       Verstehen Sie mich nicht falsch: Ihr Antrag fordert die      in der kein neuer Haushalt für das kommende Jahr be-
+     Umsetzung vieler sinnvoller Maßnahmen, über die wir            schlossen werden konnte, und in einer Zeit, in der in
+     uns in der kommenden Legislatur gerne unterhalten kön-         knapp über zwei Monaten eine Neuwahl durchgeführt
+     nen; wenn Sie sich dann noch daran erinnern können.            wird. In einer solchen Zeit fordern Sie die Bundesregie-
+                                                                    rung auf, Maßnahmen zu ergreifen, die teilweise Jahre
+        Die Ampelkoalition hat einige wichtige Entscheidun-
+                                                                    bräuchten, um umgesetzt zu werden. Sie fordern die Bun-
+     gen getroffen, die die Versorgung von Menschen mit
+                                                                    desregierung auf, kostspielige Maßnahmen umzusetzen
+     seltenen Erkrankungen verbessert haben: Wir haben in
+                                                                    „im Rahmen der zur Verfügung stehenden Haushaltsmit-
+     Forschung investiert, die Digitalisierung vorangetrieben,
+                                                                    tel“. Was denken Sie denn, was der Rahmen der zur Ver-
+     die Verfügbarkeit von Arzneimitteln verbessert und die
+                                                                    fügung stehenden Haushaltsmittel für die letzten Monate
+     ambulante Versorgung gestärkt.
+                                                                    ist? Erklären Sie mir bitte, wie das ernsthaft angegangen,
+        Aber natürlich kann die Arbeit damit nicht erledigt         geschweige denn umgesetzt werden soll? Ich kann Ihnen
+     sein. Denn: Ja, wir müssen noch mehr in Forschung in-          sagen, wie: gar nicht. Denn es handelt sich bei Ihrem
+     vestieren. Ja, wir müssen die Diagnostik verbessern. Ja,       Antrag um reine Profilierung kurz vor der Wahl. Sie
+     26352           Deutscher Bundestag – 20. Wahlperiode – 203. Sitzung. Berlin, Donnerstag, den 5. Dezember 2024
+
+
+(A) hätten sich wenigstens die Mühe machen können, Ihren             wickelt werden. Diese sind für Betroffene oft die (C)
+    Antrag an die aktuelle Situation anzupassen. Dann hätten         einzige Hoffnung. Hier müssen wir klare Anreize schaf-
+    wir eventuell gemeinsam etwas beschließen können.                fen, um die Entwicklung und Zulassung dieser Arznei-
+    Doch das wollen Sie ja gar nicht. Sie wollen nur noch            mittel zu beschleunigen, ohne dabei die Patientenrechte
+    schnell für eine Schlagzeile sorgen und dann in der nächs-       aus den Augen zu verlieren.
+    ten Legislatur sagen können: Seht her, wir haben hier mal
+    was gefordert.                                                      Auf EU-Ebene dürfen geplante Reformen wie das
+                                                                     EU-Pharmapaket diese Bemühungen nicht behindern.
+        Wenn Sie es ernst meinen würden mit einer besseren           Im Gegenteil: Wir müssen auf eine europäische Strategie
+     Versorgung von Menschen mit seltenen Erkrankungen,              hinarbeiten, die den Zugang zu diesen Medikamenten
+     dann würden Sie den Antrag nicht jetzt stellen, wenn            erleichtert und die Versorgung nachhaltig sichert. Wir
+     man weiß, dass die Maßnahmen unmöglich umgesetzt                fordern darüber hinaus das Neugeborenenscreening aus-
+     werden können, sondern nach dem 23. Februar 2025,               zuweiten. Hier schlummert ein enormes Potenzial, um
+     wenn eine neue Bundesregierung mit einer Mehrheit               seltene Erkrankungen frühzeitig zu diagnostizieren und
+     vier Jahre Zeit hätte, ihn umzusetzen. Die Menschen,            die Behandlung rechtzeitig zu beginnen. Es ist unerläss-
+     die an seltenen Erkrankungen leiden, wollen kein Schau-         lich, das Screening auf weitere Erkrankungen auszuwei-
+     spiel, sondern erwarten Ergebnisse. Für Letzteres können        ten und eine spezialisierte Kommission einzusetzen, die
+     wir uns gerne zusammensetzen, wenn Sie es ernst mei-            sicherstellt, dass wir diese Chance bestmöglich nutzen.
+     nen.
+                                                                        Wir wollen die Selbsthilfe stärken; denn sie ist oft das
+                                                                     Herzstück der Unterstützung für Betroffene. Menschen,
+       Dietrich Monstadt (CDU/CSU):
+                                                                     die sich zusammenschließen, die ihre Erfahrungen teilen,
+        Heute sprechen wir über ein Thema, das viele von uns         die anderen Mut machen – das ist gelebte Solidarität.
+     tief berührt, aber leider oft nicht die Aufmerksamkeit
+     bekommt, die es verdient: seltene Erkrankungen. Diese              Es braucht eine bessere Vernetzung zwischen Wissen-
+     Erkrankungen, die wir zu Recht die „Waisen der Medi-            schaft, Industrie und Versorgungseinrichtungen. Wir
+     zin“ nennen, betreffen in Deutschland über 4,5 Millionen        schlagen vor, Patenschaftsmodelle zu fördern, bei denen
+     Menschen, vor allem Kinder und Jugendliche. Hinter              die pharmazeutische Industrie und die akademische For-
+     diesen Zahlen stehen Familien und Einzelschicksale, die         schung Hand in Hand arbeiten.
+     täglich kaum vorstellbare Herausforderungen bewälti-               Besonders wichtig ist uns der Ausbau der Zentren für
+     gen.                                                            seltene Erkrankungen. Diese Orte sind oft die letzte Hoff-
+       Sie suchen Ärzte auf, konsultieren Experten und erhal-        nung für Patientinnen und Patienten, die durch die Müh-
+(B) ten Diagnosen, die vielleicht gar nicht stimmen – oder           len unseres Gesundheitssystems gefallen sind. Sie bieten (D)
+    erhalten keine Diagnose. Oft wird die Diagnose nach              nicht nur medizinische Versorgung, sondern auch eine
+    durchschnittlich 5 Jahren gestellt. Für viele Betroffene         Anlaufstelle, einen Ort, an dem Menschen verstanden
+    ist das die bittere Realität. In der Zwischenzeit bleibt         werden. Bitte unterstützen Sie unseren Antrag!
+    die Unsicherheit, die Verzweiflung, das Gefühl, allein
+    gelassen zu sein. Eine junge Frau erkrankte an systemi-
+    scher Sklerodermie, einer seltenen Krankheit, die oft spät          Dr. Andrew Ullmann (FDP):
+    erkannt wird, da sie vielen Ärzten unbekannt ist. Nach              Seltene Erkrankungen betreffen Millionen von Men-
+    einer langen Odyssee durch das Gesundheitssystem er-             schen in Deutschland. Der Leidensdruck der Betroffenen
+    hielt sie die niederschmetternde Diagnose, dass es keine         ist enorm, nicht nur durch die Krankheit selbst, sondern
+    Heilung gibt. Forschung und Entwicklung neuer Medika-            auch durch die Hindernisse, die unser überreguliertes
+    mente werden durch hohe Kosten und geringe wirtschaft-           Gesundheitssystem ihnen in den Weg stellt. Deshalb ist
+    liche Anreize ausgebremst – mit tragischen Folgen, wie           es wichtig, dass wir uns diesem Thema widmen.
+    auch in dem beschriebenen Fall.
+                                                                        Die FDP-Bundestagsfraktion begrüßt den Antrag der
+        Diese Geschichte und viele andere wie sie zeigen, wie        CDU/CSU, sieht jedoch Nachbesserungsbedarf: Büro-
+     dringend wir handeln müssen. Wir dürfen diese Men-              kratie muss abgebaut, Innovation gefördert und markt-
+     schen nicht vergessen. Wir dürfen sie nicht ignorieren.         wirtschaftliche Anreize gestärkt werden. Unser Ziel
+     Jeder von uns könnte in der einen oder anderen Form             bleibt klar: Innovation muss rasch beim Patienten ankom-
+     betroffen sein. Sie betreffen uns alle; denn sie stellen        men.
+     unser Gesundheitssystem, aber auch unsere Solidarität
+     auf die Probe.                                                     Die Förderung der Forschung zu seltenen Erkrankun-
+                                                                     gen ist ein zentraler Punkt des Antrags. Mit dem Medizin-
+        Die Probleme sind bekannt: mangelndes Wissen in
+                                                                     forschungsgesetz (MFG) haben wir jedoch bereits ein
+     der Ärzteschaft, unzureichende Therapieoptionen, finan-
+                                                                     effektives Instrument geschaffen, das Genehmigungsver-
+     zielle Belastungen für Betroffene, eine ungenügende In-
+                                                                     fahren beschleunigt, Patientenregister stärkt und interna-
+     frastruktur im Bereich der spezialisierten Versorgung und
+                                                                     tionale Vernetzung fördert. Anstatt neue Strukturen mit
+     lange Wartezeiten. Diese Menschen brauchen unsere Un-
+                                                                     weiteren bürokratischen Hürden zu schaffen, müssen wir
+     terstützung – und zwar jetzt.
+                                                                     die bestehenden Möglichkeiten konsequent ausschöpfen.
+       Wir fordern, die Forschung voranzutreiben, insbeson-          Bürokratie darf Innovation nicht behindern. Unser An-
+     dere den Bereich der sogenannten Orphan Drugs; Medi-            satz ist klar: vorhandene Instrumente gezielt ausbauen,
+     kamente, die speziell für seltene Erkrankungen ent-             statt immer neue Regelwerke zu schaffen.
+                      Deutscher Bundestag – 20. Wahlperiode – 203. Sitzung. Berlin, Donnerstag, den 5. Dezember 2024      26353
+
+
+(A)      Der Antrag schlägt Patenschaftsmodelle zwischen aka-         mehr sein, dass Patientinnen und Patienten heute noch (C)
+      demischer Forschung und der pharmazeutischen Indus-             fünf bis sechs Jahre auf eine korrekte Diagnose warten
+      trie vor. Kooperationen sind grundsätzlich zu begrüßen,         müssen.
+      wenn sie Innovation fördern. Wichtig bleibt jedoch, die           Die FDP wird sich weiterhin für eine patientenori-
+      Unabhängigkeit der Wissenschaft zu wahren. Trans-               entierte Gesundheitspolitik einsetzen. Unser Ziel ist klar:
+      parenzregeln sind hier unerlässlich, um Abhängigkeiten          Deutschland zu einem internationalen Vorreiter in der
+      und mögliche Interessenkonflikte zu vermeiden. Die FDP          Erforschung und Behandlung seltener Erkrankungen zu
+      setzt auf marktwirtschaftliche Anreize und klare Rah-           machen – gemeinsam mit den Leistungsträgerinnen und
+      menbedingungen, die Zusammenarbeit fördern, ohne                Leistungsträgern im Gesundheitswesen und den Betrof-
+      die Freiheit der Forschung oder die Patientensicherheit         fenen.
+      zu gefährden.
+         Selbsthilfeorganisationen leisten unverzichtbare Ar-
+      beit, indem sie Betroffenen eine Anlaufstelle bieten und        Anlage 5
+      wertvolle Netzwerke schaffen. Es reicht jedoch nicht aus,
+      wie von der Union gefordert, Fördermittel pauschal zu                         Zu Protokoll gegebene Reden
+      erhöhen. Viel wichtiger ist es, diese Organisationen von           zur Beratung des von der Bundesregierung ein-
+      unnötiger Bürokratie zu entlasten. Einheitliche und digi-          gebrachten Entwurfs eines Gesetzes über die Ein-
+      tale Antragsverfahren, vereinfachte Nachweispflichten              führung einer bundeseinheitlichen Pflegefachassis-
+      und Entlastung bei Verwaltungsaufgaben sind hier ent-              tenzausbildung (Pflegefachassistenzeinführungs-
+      scheidend. Patienten und ihre Angehörigen sollten sich             gesetz)
+      auf die Unterstützung konzentrieren können, statt sich
+      durch Papierberge zu kämpfen. Der Staat muss daher                 (Zusatzpunkt 14)
+      die Rahmenbedingungen schaffen, damit Selbsthilfeorga-
+      nisationen ihre Aufgaben effizient wahrnehmen können.              Ulrike Bahr (SPD):
+       Der Unionsantrag fordert den Ausbau spezialisierter               Ich muss Ihnen allen nicht erzählen, dass die Pflege
+    Versorgungszentren – eine nachvollziehbare Forderung.             das zentrale Zukunftsthema ist. Immer mehr Menschen
+    Wichtig ist jedoch, Doppelstrukturen zu vermeiden, die            werden immer älter, aber immer weniger Fachkräfte
+    Ressourcen binden und ineffizient sind. Die Integration           kümmern sich um sie. Der Pflegenotstand ist keine Sa-
+    in bestehende Versorgungsstrukturen, ergänzt durch digi-          che, bei der wir sagen können: Da kümmern wir uns
+    tale Vernetzung und Telemedizin, kann die Versorgung              später drum. – Der Pflegenotstand ist schon längst da.
+(B) effizienter machen. Patienten benötigen flächendeckend            Er ist jetzt, er ist heute – und wir müssen alles tun, damit (D)
+    niedrigschwellige Zugänge zu spezialisierter Versorgung.          die Menschen, die auf Pflege angewiesen sind, gut ver-
+    Hier ist die Digitalisierung ein Lösungsansatz. Denn Pa-          sorgt werden.
+    rallelstrukturen kosten Geld, das in einer angespannten              Mit dem Pflegefachassistenzeinführungsgesetz, das
+    Haushaltslage besser eingesetzt werden muss.                      wir heute beraten, stellen wir diesen Notstand natürlich
+                                                                      nicht ab. Aber das kann auch kein Gesetz allein, sondern
+         Die Union hebt die Bedeutung der Digitalisierung her-
+                                                                      es braucht viele, viele Maßnahmen, um sowohl die Pfle-
+      vor – ein Anliegen, das wir ausdrücklich teilen. Doch es
+                                                                      gebedürftigen zu stärken als auch die Menschen, die pro-
+      war gerade die Union, die in der Vergangenheit oft Fort-
+                                                                      fessionell in der Pflege arbeiten.
+      schritte blockiert hat. Heute sprechen wir von der elek-
+      tronischen Patientenakte, effizienteren Abläufen und ver-          Darum müssen wir auch die Pflegeberufe auf die Höhe
+      netzter Forschung – alles Themen, die wir als FDP und           der Zeit bringen. Mit dem Pflegeberufegesetz haben wir
+      zusammen mit unseren ehemaligen Ampelkollegeninnen              das schon für den Beruf der Pflegefachfrau bzw. des
+      und -kollegen in der auslaufenden Wahlperiode erfolg-           Pflegefachmanns getan. Und jetzt nehmen wir uns die
+      reich vorangetrieben haben                                      Pflegehilfe- bzw. Pflegeassistenzausbildung vor. Denn
+                                                                      diese ist bisher völlig unterschiedlich in den Ländern
+         Ein weiterer wichtiger Punkt im Antrag ist die Erleich-      geregelt: In meiner Heimatstadt Augsburg zum Beispiel
+      terung der Zulassung von Orphan Drugs und Off-Label-            machen Azubis in diesem Bereich die bayerische Pflege-
+      Use-Arzneimitteln. Hier setzen wir auf eine Weiter-             fachhelferausbildung, während jene in dem nur ein paar
+      entwicklung des Arzneimittelmarktneuordnungsgesetzes            Kilometer weiter entfernten Ulm die baden-württember-
+      (AMNOG). Ein zweigleisiges Modell – bestehend aus               gische Altenpflegehelferausbildung machen. Die Ausbil-
+      einem klassischen und einem innovativen Modul –                 dungen sind alles in allem zwar vergleichbar – aber die
+      könnte medizinischen Fortschritt schneller und sicherer         Azubis können das Bundesland trotzdem nicht wechseln.
+      zu den Patienten bringen. Gerade bei innovativen Thera-         Anschlussfähig an die Ausbildung zur Pflegefachkraft
+      pien wie Gen- und Zelltherapien muss die Versorgung             sind jedenfalls beide Ausbildungsgänge nicht.
+      zuverlässig und rasch erfolgen, um Betroffenen echte
+      Perspektiven zu bieten.                                            Als Bund haben wir uns genau überlegt, ob wir hier
+                                                                      gesetzgeberisch eingreifen können. Darum haben wir
+        Die Versorgung von Menschen mit seltenen Erkran-              auch ein Verfassungsgutachten in Auftrag gegeben. Das
+      kungen ist eine dringende Aufgabe. Der Antrag der               zeigt: Ja, der Bund kann hier von seiner Gesetzgebungs-
+      CDU/CSU enthält viele wichtige Ansätze, doch wir brau-          kompetenz Gebrauch machen und den Beruf bundesein-
+      chen eine Politik, die Bürokratie abbaut, Innovation för-       heitlich gestalten – wenn die Pflegeassistenzausbildung
+      dert und die Digitalisierung vorantreibt. Es darf nicht         als qualifizierter Heilberuf ausgestaltet wird.
+      26354           Deutscher Bundestag – 20. Wahlperiode – 203. Sitzung. Berlin, Donnerstag, den 5. Dezember 2024
+
+
+(A)      Für einen Heilberuf qualifiziert man sich aber nicht mit       Ein ausgewogener Personalmix aus qualifizierten Pfle- (C)
+      einer zwölfmonatigen Sparausbildung, wie sie von man-           gefachkräften, Pflegehilfs- und Assistenzkräften sowie
+      chen gefordert wird. Um eine entsprechende Qualität zu          unterstützendem Personal ist essenziell, um die Arbeits-
+      erreichen und die rechtlichen Voraussetzungen zu erfül-         belastung zu reduzieren und eine qualitativ hochwertige
+      len, braucht es länger. Die im Gesetz angelegte Ausbil-         Versorgung sicherzustellen.
+      dungsdauer von 18 Monaten ist deshalb wichtig – andern-            Das nun vorliegende Pflegefachassistenzeinführungs-
+      falls bräuchte es auch keine Bundesregelung, sondern            gesetz ergänzt die bereits genannten Initiativen auf einer
+      man könnte es bei den bisherigen landesrechtlichen Re-          weiteren Ebene: Unterhalb der Fachkraftausbildung wird
+      gelungen belassen.                                              die derzeit stark zersplitterte Helfer- und Assistenzaus-
+         Und – das war uns als SPD immer besonders wichtig –:         bildung, die aktuell durch 27 unterschiedliche landes-
+      Wenn die Azubis der künftigen Pflegeassistenzausbil-            rechtliche Regelungen geprägt ist, vereinheitlicht und
+      dung mehr Zeit haben, können sie nicht nur mehr Inhalte         bundesrechtlich geregelt. Die Finanzierung erfolgt ana-
+      mitnehmen – sie können sich auch so weit qualifizieren,         log zur Fachkraftausbildung über den Pflegeausbildungs-
+      dass sie im Anschluss zum Beispiel die generalistische          fonds, und eine Ausbildungsvergütung wird obliga-
+      Fachkraftausbildung anhängen können. Mit dem Pflege-            torisch.
+      assistenzgesetz wird es diese Anschlussfähigkeit künftig          Der Bedarf an Assistenzkräften mit dem sogenannten
+      in ganz Deutschland geben, um den Azubis mehr Durch-            Qualifikationsniveau 3 ist hoch. Sie können Pflegefach-
+      lässigkeit zu ermöglichen und bessere Aufstiegschancen          kräfte entlasten und die Pflegequalität sichern helfen.
+      zu eröffnen.                                                    Daher sieht die neue Personalbemessung, basierend auf
+         Ein weiterer Punkt, für den wir uns als SPD immer            dem Rothgang-Gutachten, eine erhebliche Ausweitung
+      starkgemacht haben, der aber mit unserem ehemaligen             des Einsatzes von Assistenzkräften vor.
+      Koalitionspartner, der FDP, leider nicht zu machen war,           Die derzeitige Ausbildung mit ihren 27 unterschiedli-
+      betrifft die Finanzierung. Die Umlagefinanzierung durch         chen Ausprägungen steht dieser notwendigen Auswei-
+      den Fonds darf nicht dazu führen, dass die Eigenanteile in      tung jedoch im Weg; Ulrike Bahr hat in ihrer Rede bereits
+      der Pflege noch weiter steigen. Liebe Kolleginnen und           auf die Absurditäten des Nebeneinanders der Landes-
+      Kollegen der Union, hier können wir im Gesetzgebungs-           regelungen hingewiesen.
+      verfahren noch ran und durch eine Kofinanzierung mit
+      Bundesmitteln jene etwas entlasten, die schon jetzt unter          Es waren zudem die Länder selbst, die seit Jahren über
+      den hohen Eigenanteilen ächzen.                                 Initiativen im Bundesrat um eine Regelung gebeten ha-
+                                                                      ben, um die von der SPD seit Langem geforderte bundes-
+       Und wenn es nach mir geht, nehmen wir uns in der               einheitliche Regelung in diesem Ausbildungsbereich
+(B) nächsten Legislaturperiode die steigenden Eigenanteile            herzustellen. Der vorliegende Gesetzentwurf sorgt nun (D)
+    direkt als erstes vor – mit einer groß angelegten Pflege-         dafür – leider verspätet durch lange Blockade der FDP.
+    reform, für die ich an dieser Stelle auch unbedingt werben
+    möchte.                                                              Der Beruf der Pflegefachassistenz wird mit dem Ge-
+                                                                      setz inhaltlich erheblich aufgewertet, die Ausbildungs-
+        Das alles sind gute Gründe, um den Gesetzentwurf              dauer und Finanzierung werden vereinheitlicht. Es gibt
+      noch in dieser Wahlperiode über die Ziellinie zu bringen.       Angebote für langjährig in der Pflege tätige, berufserfah-
+      Arbeiten Sie alle konstruktiv daran mit!                        rene Kräfte, die eine Anerkennung als Pflegefachassis-
+                                                                      tenz ohne oder mit verkürzter Ausbildungsdauer erhalten
+        Bettina Müller (SPD):                                         können.
+        Der Personalnotstand in der Pflege ist eine der größten          Es ist kein Geheimnis: Ich hätte mir eine 24-monatige
+      Herausforderungen unserer Zeit und gefährdet zuneh-             Assistenzausbildung gewünscht, die sich zeitlich und in-
+      mend die gesundheitliche und pflegerische Versorgung            haltlich an den ersten zwei Jahren der Fachkraftausbil-
+      von Patientinnen, Patienten und Pflegebedürftigen. Den          dung orientiert. Die nun im Gesetzentwurf vorgesehenen
+      Gründen dafür – Überlastung, unattraktive Arbeitsbedin-         18 Monate sind jedoch ein Kompromiss, mit dem ich
+      gungen, das Ausscheiden der Boomergeneration aus dem            leben kann – ein Modell, das im Land Berlin nach Lan-
+      Arbeitsleben und der Mangel an Nachwuchs – begegnen             desrecht bereits erfolgreich erprobt wurde.
+      wir bereits seit Jahren mit einer Vielzahl von Maßnah-             Und ich würde mir auch sehr wünschen – schließlich
+      men.                                                            ist Weihnachtszeit –, dass sich die Union doch noch dazu
+        In der 18. Wahlperiode haben wir zusammen mit der             entschließen könnte, diesen Gesetzentwurf zu unterstüt-
+      Union die Pflegeberufereform auf den Weg gebracht, mit          zen. Schließlich waren es auch unionsgeführte Länder,
+      der der Beruf der Pflegefachkraft neu ausgerichtet, ge-         die über den Bundesrat eine Vereinheitlichung der Aus-
+      neralisiert und zukunftsfest gemacht wurde.                     bildung gefordert haben – und das, so hoffe ich, nicht nur,
+         In dieser Wahlperiode haben wir mit der Ampelkoali-          um die Finanzierung von den Landeshaushalten auf den
+      tion die hochschulische Pflegeausbildung gestärkt. Die so       Fonds zu übertragen.
+      ausgebildeten Fachkräfte werden mit zusätzlichen Kom-              Mit dem Gesetzentwurf wird nun das umgesetzt, was
+      petenzen und mehr Eigenständigkeit ausgestattet. Mit            die Kolleginnen und Kollegen von der Union schon bei
+      dem Pflegekompetenzgesetz, das demnächst vom Kabi-              der Pflegeberufereform erreichen wollten: die Möglich-
+      nett verabschiedet werden soll, wollen wir diese zusätz-        keit, nach dem zweiten Jahr der Fachkraftausbildung eine
+      lichen Kompetenzen auch auf die berufliche Fachkraft-           Anerkennung als Assistenzkraft zu erhalten. Zudem hatte
+      ausbildung übertragen.                                          die Union bereits damals angeregt, die Fachpflege für
+                     Deutscher Bundestag – 20. Wahlperiode – 203. Sitzung. Berlin, Donnerstag, den 5. Dezember 2024    26355
+
+
+(A) Hauptschulabsolventinnen und -absolventen zu öffnen.             dass sie das über höhere Schulden machen wollen. Hohe (C)
+    Mit dem Pflegefachassistenzeinführungsgesetz und der             Schulden heute sind die hohen Steuern von morgen; auch
+    damit verbundenen deutlichen Aufwertung der veralteten           da waren linke Parteien mal mutiger, die hohen Steuern
+    landesrechtlichen Helferberufe wird dieses Anliegen nun          einfach direkt zu fordern.
+    erfüllt.
+                                                                        Bedenklich ist die große inhaltliche Unklarheit der
+       Ich appelliere daher an die Union: Lassen Sie uns – wie       Union in dieser Angelegenheit. Denn es sind vor allem
+     damals bei der Pflegeberufereform – gemeinsam diesen            Ihre Regierungsmitglieder in den Ländern, die seit Jahren
+     wichtigen Schritt zur Stärkung der Pflege gehen!                den Föderalismus in der Pflege und insgesamt aushöhlen.
+                                                                     Die Länder kommen ihren Aufgaben nicht nach und ver-
+       Jens Teutrine (FDP):                                          lagern immer mehr auf den Bund und fordern im Gegen-
+                                                                     zug dafür einen noch größeren Anteil am Steuertopf. Wir
+        Für die Pflegepolitik der FDP steht die Herstellung der
+                                                                     wollen eine andere Politik: eine Politik der klaren föde-
+     Versorgungssicherheit an erster Stelle. Hierauf muss der
+                                                                     ralen Zuständigkeiten in der Pflege und mit einer klaren,
+     politische Fokus liegen. Die Reform der Pflegefachassis-
+                                                                     nachhaltigen Finanzierung. Dafür braucht der hier vor-
+     tenzausbildung leistet nur einen minimalen Beitrag hier-
+                                                                     liegende Vorschlag noch wichtige Veränderungen, damit
+     zu, aber ist dennoch nicht verkehrt.
+                                                                     wir eine gute Zukunft für die Pflegefachassistenz gewähr-
+        In den aktuell 27 verschiedenen Ausbildungsgängen,           leisten können.
+     die von unterschiedlichen staatlichen Ebenen angeboten
+     werden, gibt es ein Wirrwarr, das nicht nachvollziehbar            Weitere wichtige Themen wie Aufstiegs- und Qualifi-
+     ist. Daher treiben wir schon länger die Idee eines bundes-      zierungschancen nach bestandener Ausbildung, eine
+     weit einheitlichen Berufsprofils für die Pflegefachassis-       schnellere und einfachere Berufsanerkennung von aus-
+     tenz voran. Unsere Präferenz dabei wäre, dass die Dauer         ländischem Pflegepersonal und ein schlüssiges Konzept
+     nicht, wie von der Regierung vorgeschlagen, 18 Monate           für eine adäquate schulische Ausbildungsstruktur bleiben
+     beträgt, sondern, wie in Nordrhein-Westfalen erfolgreich        unzureichend adressiert.
+     erprobt, ein Jahr andauert. Alles andere wäre vor dem
+     Hintergrund des enormen Fachkräftemangels verantwor-               Im Bundeskabinett haben die Minister der FDP zu-
+     tungslos.                                                       gestimmt, weil wir die Grundrichtung sinnvoll finden.
+                                                                     Wir haben aber auf Regierungsseite klar kommuniziert,
+      Wir bedauern auch sehr, dass Minister Lauterbach die           dass die Fachpolitiker unserer Fraktion Nachbesserungs-
+    Zahl von 18 Monaten offenkundig gewürfelt hat. Korrekt           bedarf sehen. Wenn alle von mir kritisch genannten
+    wäre es gewesen, über die Fachkommission festzulegen,            Punkte geändert werden, steht einer Zustimmung unse-
+(B) welche Kompetenzen Pflegefachassistenten künftig ha-             rerseits nichts im Weg.                                 (D)
+    ben sollen, und erst dann zu berechnen, wie lange die
+    Ausbildung hierfür dauern sollte. Das Pferd von hinten
+    aufzuzäumen, ist unseriös und in erheblichem Maße un-               Ates Gürpinar (Die Linke):
+    professionell. Die dadurch verursachte Verschleppung               Es ist zunächst zu begrüßen, dass die unzähligen lan-
+    notwendiger Reformen in der Pflege geht alleine auf              desrechtlich geregelten Pflegeassistenzausbildungsgänge
+    das Konto des Ministers Lauterbach.                              mit einer bundeseinheitlichen Regelung vereinheitlicht
+        Dies führt mich zur Kritik an diesem Gesetzentwurf,          werden sollen. Endlich wird es damit ermöglicht, mit
+     der Nachbesserungsbedarf hat. Denn die zusätzliche Um-          der Ausbildung auch in einem anderen Bundesland tätig
+     lage der Ausbildungskosten von Pflegefachassistenten            zu werden. Auch die Perspektive für Menschen ohne
+     auf die Pflegebedürftigen steigert die Eigenanteile noch        Schulabschluss, zu einer Pflegefachausbildung zu kom-
+     weiter; das ist nicht zuletzt eine höhere Kostenbelastung       men, werten wir als positiv.
+     einer ohnehin schon sehr teuren Pflege. Man kann als
+     SPD und Grüne auch nicht öffentlich fordern, Eigen-                Leider hat das Gesetz einen doppelten Boden: Denn
+     anteile zu senken, und dann durch die Hintertür Maß-            mit dem Gesetz werden bisherige Behandlungsstandards
+     nahmen beschließen, die die Eigenanteile steigen lassen.        aus Kostengründen abgesenkt. Das ist auch Ziel des Ent-
+     Das Ganze führt aber auch zu einer abstrusen Interventi-        wurfs, indem es heißt: „Die auf die gesetzliche Kranken-
+     onsspirale des Staates. Denn eine Steigerung der Eigen-         versicherung und die soziale Pflegeversicherung entfal-
+     anteile wird durch eine Erhöhung staatlicher Zuschüsse          lenden Kosten werden mittelfristig durch Einsparungen
+     ausgeglichen, was wiederum zu steigenden Beiträgen in           aufgrund eines vermehrten Einsatzes der neu ausgebilde-
+     der Pflegeversicherung führt, und dann geht das Spiel           ten Pflegeassistenzkräfte anstelle von Pflegefachkräften
+     von vorne los. Eine solche Beitragssteigerung heißt we-         in der Versorgung überkompensiert.“ Hier werden also
+     niger Netto vom Brutto – eine Politik, die die Union erst       tatsächlich Ausbildungskosten gegen ein niedrigeres
+     gestern mit der Verordnung zur Beitragssteigerung in der        Lohnniveau bei kürzerer Ausbildung gegengerechnet.
+     SPV widerspruchslos durchgewunken hat. Daran sieht
+                                                                        Und natürlich besteht für Krankenhäuser und Pflege-
+     man, eine echte Wirtschaftswende gibt es nur mit der
+                                                                     einrichtungen der Anreiz, mit Angestellten niedrigerer
+     FDP.
+                                                                     Qualifikation ihre Lohnkosten zu senken. Damit wäre
+        Im Übrigen halte ich es für ein großes Problem, dass         dann aber niemandem geholfen: den dann überforderten
+     immer mehr Gesetze beschlossen werden, bei denen das            Pflegeassistenzpersonen nicht und den zu Pflegenden
+     Finanzierungskonzept völlig unklar ist. Die linken Par-         schon gar nicht. Hier fehlen klare Regelungen, die das
+     teien des Hauses sind immerhin so ehrlich, zuzugeben,           verhindern.
+      26356          Deutscher Bundestag – 20. Wahlperiode – 203. Sitzung. Berlin, Donnerstag, den 5. Dezember 2024
+
+
+(A)      Falls das Gesetzgebungsverfahren also nach dem Ver-            Der heimische Abbau sichert nicht nur eine verläss- (C)
+      lust der Regierungsmehrheit tatsächlich noch weiter-           liche Versorgung, er schafft auch Wertschöpfung bei
+      gehen sollte, werden wir uns einer Qualitätsabsenkung          uns, und wir gehen sicher, dass der Abbau, der immer
+      verwehren. Sicher ist, dass das Gesetz von einer nächsten      ein Eingriff in die Natur und häufig mit harter, körper-
+      Bundesregierung aus der Schublade geholt wird, wenn            licher Arbeit verbunden ist, unter höchsten Sozial- sowie
+      für diese Regierung auch nicht das Wohl der Pflegebe-          Umweltstandards stattfindet.
+      dürftigen, sondern das Profitstreben im Vordergrund
+      steht. Und dann werden wir von der Linken alles tun,              Aus diesem Grund sah der Koalitionsvertrag auch vor,
+      um Verbesserungen für die zu Pflegenden ebenso wie             dass Bergrecht zu modernisieren und den heimischen
+      für die Pflegenden zu erreichen.                               Rohstoffabbau zu erleichtern und ökologisch auszurich-
+                                                                     ten. Hierzu haben wir im Bürokratieentlastungsgesetz IV
+                                                                     bereits zwei kleine Änderungen am Bergrecht vorgenom-
+                                                                     men. Es wäre allerdings bereits dort mehr möglich gewe-
+                                                                     sen. Es gab auf Ebene der verhandelnden Abgeordneten
+      Anlage 6                                                       eine Einigung, weitere Änderungen am Bergrecht auf-
+                                                                     zunehmen. Das BMWK hat dies am Ende mit dem Be-
+                  Zu Protokoll gegebene Reden                        richterstatter der Grünen verhindert und auf das noch
+        zur Beratung des Antrags der Fraktion der CDU/               kommende Geothermiebeschleunigungsgesetz verwie-
+        CSU: Heimische Rohstoffe nutzen – Wertschöp-                 sen. Eine möglicherweise vertane Chance.
+        fungsketten erhalten, auf- und ausbauen
+                                                                        Mit Blick auf das vorzeitige Ende dieser Legislaturpe-
+        (Zusatzpunkt 15)                                             riode will ich aber auch Folgendes deutlich sagen: Dass
+                                                                     Bundeswirtschaftsminister Habeck es in drei Jahren nicht
+        Sebastian Roloff (SPD):                                      geschafft hat, zwischen zwei grün-geführten Häusern
+                                                                     eine Verständigung herbeizuführen, wie die Verabredung
+        Rohstoffe sind die Grundlage jeder Wertschöpfungs-
+                                                                     des Koalitionsvertrag umgesetzt werden kann, ist mehr
+      kette und die sichere Versorgung damit essenzielle Vo-
+                                                                     als enttäuschend. Für jemanden, der nach eigenen Aussa-
+      raussetzung für einen starken Industriestandort, wie wir
+                                                                     gen Bundeskanzler werden möchte und dann partieüber-
+      ihn in Deutschland haben.
+                                                                     greifend Kompromisse herbeiführen muss, ist das kein
+       Erlauben Sie mir einen kurzen Exkurs: Dass der Wert-          Ruhmesblatt.
+    schöpfungsanteil der Industrie an unserer Wirtschaftsleis-
+    tung überdurchschnittlich hoch ist, ist übrigens nicht vom          Die gute Nachricht an die Union ist aber, dass wir an
+                                                                     dieser Bilanz noch etwas verbessern können. Und dass
+(B) Himmel gefallen. Ich erinnere mich noch gut an die Stim-         Sie, wenn Sie ihren Antrag ernst meinen, schon jetzt mit- (D)
+    men, die die Industrie als Old Economy bezeichnet und
+    von der Dienstleistungswirtschaft geschwärmt haben. Ich          gestalten können. Denn das angesprochene Geothermie-
+    bin froh und dankbar, dass sich insbesondere die SPD             beschleunigungsgesetz ist bereits durch die erste Lesung.
+    dieser Entwicklung immer entgegengestellt und mit den            Es beinhaltet Reformen des Bergrechts, die über Geo-
+    Gewerkschaften an zukunftsfähigen Rahmenbedingun-                thermieprojekte hinaus für Erleichterungen sorgen wür-
+    gen für die Industrie gearbeitet hat.                            den.
+         Zu diesen Rahmenbedingungen gehört aus den ge-                 Sie müssen sich jetzt nur einmal entscheiden, ob sie
+      nannten Gründen auch die sichere Versorgung mit Roh-           weiterhin Anträge einbringen, in denen sie die Bundes-
+      stoffen. Der Fokus liegt dabei häufig auf kritischen oder      regierung zum Handeln auffordern, oder ob sie, wie von
+      strategischen Rohstoffen. Für diese gibt es auf europäi-       Herrn Merz angekündigt, so gut wie keinen Vorhaben
+      scher Ebene mittlerweile den Critical Raw Materials Act,       mehr zustimmen wollen. Beides gleichzeitig ist nicht
+      und in Deutschland haben wir einen Rohstofffonds bei           glaubwürdig.
+      der KfW gegründet. Dieser kann in Projekte von der
+      Gewinnung über die Verarbeitung bis zum Recycling in-             Ein weiterer wichtiger Baustein zur sicheren Versor-
+      vestieren.                                                     gung mit Rohstoffen ist die auch von ihnen angespro-
+                                                                     chene Kreislaufwirtschaftsstrategie. Im Gegensatz zur
+        Der Antrag der Union bezieht sich konkret auf die hei-       Reform des Bergrechtes wurde diese jetzt endlich vor-
+      mischen Rohstoffe. Das können auch kritische sein, wie         gelegt und vom Kabinett beschlossen. Gemessen an den
+      beispielsweise die geplante Lithiumförderung von Vul-          eigentlich vorgesehenen Zeitplänen hätte auch dies
+      can im Oberrheingraben oder von Zinnwald Lithium in            durchaus früher passieren können. Aber nun ist sie da.
+      Sachsen. Den mit Abstand größten Anteil machen jedoch
+      Industrieminerale sowie Steine und Erden aus.                    Und auch wenn es inhaltlich Verbesserungspotenzial
+                                                                     gibt, wäre es schön, wenn die Union ihre Kritik nicht
+         Und tatsächlich haben wir sowohl in der Analyse als         hinter dem Wort „Ideologie“ versteckt, sondern einmal
+      auch in den Forderungen viele Überschneidungen. Ich            konkret aufführt, wie die „ideologiefreie Überarbeitung“
+      habe hier bereits mehrfach ausgeführt, dass die Rohstoff-      aussehen sollte. Auch hier leider nichts Konkretes.
+      politik der SPD folgendem Dreiklang folgt: Erstens. So
+      wenig Rohstoffe wie möglich verbrauchen. Zweitens. So            Rohstoffpolitik wird von einzelnen Staaten mehr und
+      viel wie möglich vor Ort abbauen – also in Deutschland         mehr als politisches Werkzeug genutzt. Den heimischen
+      und der EU –, und was trotzdem notwendig ist, im Rah-          Abbau unter höchsten Standards zu stärken, kann einen
+      men von stabilen und verlässlichen Partnerschaften im-         Beitrag leisten, um uns unabhängiger zu machen. Eine
+      portieren.                                                     wichtige Voraussetzung, damit dies gelingt, kann man
+                      Deutscher Bundestag – 20. Wahlperiode – 203. Sitzung. Berlin, Donnerstag, den 5. Dezember 2024    26357
+
+
+(A) aber nicht nur an die Regierung delegieren. Denn ob es              Die Entsorgungswirtschaft stellt bereits gut 15 Prozent (C)
+    uns gelingt, Akzeptanz für Rohstoffprojekte vor Ort zu            der in Deutschland benötigten Rohstoffe bereit. Die
+    schaffen, ist eine Aufgabe für jeden von uns.                     Rückgewinnung von Wertstoffen aus Abfällen ist damit
+                                                                      zu einer wichtigen Säule unserer Rohstoffversorgung ge-
+         Trotz aller Bemühungen wird es uns aber nicht ge-            worden.
+      lingen, unsere Rohstoffversorgung aus Europa oder
+      Deutschland zu decken. Neben dem erwähnten Critical                Verantwortung für eine gesicherte Rohstoffversorgung
+      Raw Materials Act sowie dem Rohstofffonds sind des-             heißt aber auch, bei uns im eigenen Land Rohstoffe ab-
+      halb langfristig abgesicherte Handelsbeziehungen im             zubauen und nicht nur im Ausland zu beschaffen. Es
+      Rahmen von Abkommen oder Rohstoffpartnerschaften                braucht ein größeres Engagement bei der Gewinnung
+      auf Augenhöhe entscheidend.                                     von Rohstoffen im Inland. Wo blieb die von der Ampel
+                                                                      groß im Koalitionsvertrag angekündigte Erleichterung
+         Und nachdem ich gerade kritisiert habe, will ich hier        im heimischen Rohstoffabbau? Zu mehr als vagen Über-
+      auch einmal loben. Denn nicht nur der Kanzler hat dieses        legungen zur Novelle des Bundesbergrechts hat es bisher
+      Thema auf verschiedenen Reisen aktiv vorangetrieben,            nicht gereicht!
+      sondern insbesondere die Parlamentarische Staatssekre-
+      tärin Franziska Brantner. Für dieses Engagement bin ich            Ich nenne ein konkretes Beispiel: REA-Gips hat ak-
+      sehr dankbar.                                                   tuell einen Anteil von noch rund der Hälfte im deutschen
+                                                                      Gips-Rohstoffmix. Ein verstärktes Recycling würde die
+                                                                      Gesamtthematik mengenmäßig nur etwa 10 Prozent ent-
+        Bernhard Loos (CDU/CSU):                                      lasten. Ebenso wenig können Importe die entstehende
+         Man muss es in jeder Wirtschaftsdebatte wiederholen:         Versorgungslücke ausgleichen. Deshalb bedarf es sowohl
+      Deutschland ist ein starkes Land, aber dieses starke Land       der Neuaufschließungen von heimischen Gipsabbauflä-
+      wurde in den letzten drei Jahren absolut schlecht regiert!      chen als auch der Beseitigung bestehender Hindernisse
+      Die Ampel – oder was sich davon noch bruchstückhaft an          bei erforderlichen Produktionssteigerungen in existieren-
+      Ämtern festhält – wirkt: Deutschland steckt in einer Wirt-      den Gewinnungsarealen.
+      schaftskrise, von der wirtschaftlichen Zugmaschine der             Daher haben wir mit unserem Antrag markiert, wohin
+      EU zur roten Laterne durchgereicht. Die einst selbst-           die Reise gehen soll: Heimische Rohstoffsicherung in
+      ernannte Fortschrittskoalition hat sich als Rückschritts-       Raumordnung, Planungs- und Genehmigungsprozessen
+      bündnis herausgestellt. Statt Aufschwung wie in den             stärken, das Bundesberggesetz ändern, um Rohstoffge-
+      USA und anderen Industrieländern haben wir in Deutsch-          winnung zu erleichtern, Akzeptanz für heimische Roh-
+      land Rezession und Stagnation.                                  stoffgewinnung fördern, Kreislaufwirtschaft ideologie-
+(B)      Die Ursachen sind jedermann bekannt: eine ideologie-         frei fördern. Das ist der zukunftsfeste Weg für eine (D)
+      getriebene Wirtschaftspolitik vor allem der Grünen, die         stabile Rohstoffversorgung der deutschen Wirtschaft.
+      Sozialausgabenpolitik der SPD – Stichwort: Bürgergeld –
+      und die fehlende Kraft bei der FDP zur Verhinderung. Die           Chantal Kopf (BÜNDNIS 90/DIE GRÜNEN):
+      zerbrochene Ampel hinterlässt eine ungeordnete Wirt-
+      schaftsbaustelle, die wir nun absichern werden müssen.             Mit der Nationalen Kreislaufwirtschaftsstrategie zeigt
+      Eine gesicherte und nachhaltige Rohstoffversorgung ist          die Bundesregierung, dass sie die Zeichen der Zeit er-
+      für den Wirtschaftsstandort Deutschland von herausra-           kannt hat. Statt einseitiger Rohstoffabhängigkeiten und
+      gender Bedeutung.                                               Lieferketten, die weder Umwelt-, Sozial-, noch Men-
+                                                                      schenrechtsstandards achten, wollen wir verstärkt auf ei-
+         Auf EU-Ebene ist der Critical Raw Materials Act ver-         nen nachhaltigen Bezug von essenziellen Rohstoffen, ins-
+      abschiedet worden. Wir begrüßen die gemeinsamen An-             besondere durch Wiederverwertung setzen.
+      strengungen in der EU, eine höhere Versorgungssicher-
+      heit zu gewährleisten.                                             Wir wollen den Verbrauch von Primärrohstoffen pro
+                                                                      Kopf bis 2045 signifikant senken: von bislang 16 Tonnen
+         Aber was hat die Ampel in Deutschland gemacht? Es            auf nurmehr 6 bis 8 Tonnen pro Jahr. Gleichzeitig wollen
+      hätten von der Bundesregierung nationale Maßnahmen              wir den Anteil von Sekundärrohstoffen, die durch Recyc-
+      umgesetzt werden müssen, mit denen eine sichere und             ling gewonnen werden, in der Produktion von Gütern
+      bezahlbare Rohstoffversorgung gewährleistet wird. Nur           signifikant erhöhen. Das kommt unserer Umwelt zugute
+      ein Eckpunktepapier von Anfang 2023 reicht nicht aus,           und ist weniger kostenintensiv für unsere Industrie. Mit
+      und auch die Nationale Sicherheitsstrategie vom Juni            ihrer Strategie liefert die Bundesregierung die notwen-
+      2023 spricht zwar wichtige Rohstoffthemen an, setzt             dige Grundlage für den lange überfälligen Umstieg auf
+      aber nichts um.                                                 eine zirkuläre Wirtschaftsweise. Denn: Modernes Wirt-
+                                                                      schaften heißt Ressourcenschonung und eine kluge Ver-
+         Deutschland ist bei vielen Rohstoffen noch immer
+                                                                      bindung von Ökologie und Ökonomie.
+      vollständig auf den Import angewiesen. Wir müssen da-
+      her verstärkt daran arbeiten, alternative Versorgungsmög-          Ein Wirtschaftsmodell, das fast ausschließlich neue
+      lichkeiten zu erschließen. Die Substitution von Primär-         Primärrohstoffe verwendet, ist auf Dauer nicht tragfähig.
+      durch Sekundärrohstoffe kann hier einen wichtigen Bei-          Das sollten mittlerweile auch Sie von der Union wissen,
+      trag leisten. Das Ziel muss sein, die bereits hoch ent-         schließlich haben Sie dieses riskante System mit China
+      wickelte Kreislaufwirtschaft zukünftig noch entschiede-         über Jahrzehnte aufgebaut. Es ist auch Verantwortung der
+      ner auf die Rohstoffversorgung der deutschen Wirtschaft         Vorgängerregierung, dass wir heute fast 100 Prozent der
+      auszurichten.                                                   seltenen Erden aus China beziehen, um etwa Mikrochips
+      26358           Deutscher Bundestag – 20. Wahlperiode – 203. Sitzung. Berlin, Donnerstag, den 5. Dezember 2024
+
+
+(A) oder Photovoltaikanlagen zu produzieren. Uns ist deshalb          dass über mehr als zehn Jahre ein Trio aus Thüringen (C)
+    sehr wohl bewusst, dass wir auch in Deutschland Roh-              mordend quer durch Deutschland zieht und keine der
+    stoffförderung betreiben müssen; denn das dient auch              Behörden vorher irgendetwas diesem Trio zugeordnet
+    unserer Wirtschaftssicherheit und stärkt den Standort.            hatte? Die Defizite bei den Ermittlungen zu den NSU-
+    Wir wollen aber, dass Bergbau so betrieben wird, dass             Verbrechen haben bei vielen Bürgern das Vertrauen in
+    unser Ökosystem nicht noch mehr Schaden davonträgt,               den Rechtsstaat erschüttert.
+    als es ohnehin schon der Fall ist. Es geht darum, mit
+    Respekt für die planetaren Grenzen zu wirtschaften, und             Den Familien und Angehörigen aller Opfer gelten
+    das ist kein Widerspruch für Wachstum und Wohlstand,              unser tiefstes Mitgefühl und besondere Solidarität. Ja,
+    sondern langfristig eine Bedingung dafür.                         da sind seinerzeit Fehler gemacht worden. Der Anschlag
+                                                                      wurde zunächst als „Milieutat“ eingestuft. Der NSU-
+         Deshalb bin ich dem Bundesumweltministerium dank-            Komplex hat aber auch in NRW viel verändert bei der
+      bar, dass es sich über Monate hinweg mit Umweltgrup-            Polizei, darunter auch – was ich sehr wichtig finde –
+      pen, Wissenschaft und Wirtschaftsverbänden ausge-               sensibler gegenüber Opfern aufzutreten.
+      tauscht und am Ende ein ausbalanciertes und vor allem
+      faktenorientiertes Papier vorgelegt hat, dass noch dazu            Das Gerichtsverfahren gegen die Täter war nur ein Teil
+      mit den Zielen des Gesetzes über kritische Rohstoffe            der Bemühungen um umfassende Aufklärung, die Kanz-
+      der EU konform ist. Mit der Umsetzung der Nationalen            lerin Merkel 2012 angekündigt hatte. Neben dem Prozess
+      Kreislaufwirtschaftsstrategie werden wir einen deutli-          hat sich unser Rechtsstaat in 13 Untersuchungsausschüs-
+      chen Beitrag zur Rohstoffsouveränität Europas leisten.          sen unter großer Kraftanstrengung der Aufklärung ge-
+         Entgegen Ihrer im Antrag formulierten Behauptung,            widmet. Die Behörden haben sich intensiv mit der Frage
+      das Papier sei ideologiebehaftet, liebe Union, stützen          beschäftigt, was getan werden muss, um rechtsextremis-
+      auch große Verbände wie beispielsweise der BDI die in           tische Straftaten besser aufzuklären, auch um besser
+      der Strategie formulierten Maßnahmen. Ihr Vorwurf ent-          vorzubeugen. Auf Bundesebene wurde 2011 das Gemein-
+      behrt daher jeglicher Grundlage, und ich erwarte sehr,          same Abwehrzentrum gegen Rechtsextremismus ein-
+      dass auch eine künftige Bundesregierung die Ziele der           gerichtet, welches zum Gemeinsamen Extremismus-
+      Nationalen Kreislaufwirtschaftsstrategie umsetzt. Es ist        und Terrorabwehrzentrum weiterentwickelt wurde. Au-
+      an der Zeit, dass auch die Union in der Gegenwart an-           ßerdem wurde eine gemeinsame Rechtsextremismus-Da-
+      kommt und erkennt, dass Deutschlands Wirtschaft zirku-          tei erstellt, in der die Datenbestände von Polizei und Ver-
+      lär und klimaneutral sein muss, um auf Dauer wettbe-            fassungsschutz zusammengeführt wurden.
+      werbsfähig zu bleiben.                                             Klares Ziel der Union war und ist, den Rechtsterroris-
+(B)                                                                   mus und Extremismus jeder Couleur noch nachhaltiger (D)
+                                                                      als bisher zu bekämpfen. Es muss unser aller Aufgabe
+      Anlage 7                                                        sein, eine Wiederholung solch unfassbarer Taten zu ver-
+                                                                      hindern und jegliche Form von Extremismus bereits im
+                   Zu Protokoll gegebene Rede                         Keim zu ersticken. Die vorderste Aufgabe des Staats ist
+        zur Beratung des von den Fraktionen SPD und                   es, Menschen zu schützen; damals ist er an diesem An-
+        BÜNDNIS 90/DIE GRÜNEN eingebrachten Ent-                      spruch leider gescheitert.
+        wurfs eines Gesetzes zur Errichtung der Stiftung                Deutschland braucht auch heute entschlossene Taten
+        Gedenken und Dokumentation NSU-Komplex                        gegen den immer akuter werdenden Extremismus. Wer
+        (NSU-KomplexStiftG)                                           den Rechtsextremismus bei der Wurzel packen möchte,
+        (Zusatzpunkt 16)                                              so wie es die Bundesinnenministerin immer betont, muss
+                                                                      Polizei und Verfassungsschutz auch die notwendigen Be-
+        Michael Breilmann (CDU/CSU):                                  fugnisse zur Verfügung stellen. Hier gibt es erheblichen
+                                                                      Handlungsbedarf.
+          Die Mordserie der Terrorgruppe Nationalsozialisti-
+      scher Untergrund hat uns die Folgen von politischem               Es war richtig, dass die Bundesregierung die Anstren-
+      Extremismus auf grausamste Weise vor Augen geführt.             gungen der Vorgängerregierung in diesem Bereich fort-
+      Zweifellos handelt es sich bei den Taten des NSU um             führte. Jedoch ist der im März 2022 von der Ministerin
+      eines der dunkelsten Kapitel unserer jüngeren Geschich-         vorgestellte 10-Punkte-Aktionsplan gegen Rechtsextre-
+      te.                                                             mismus immer noch nicht vollständig umgesetzt.
+         Zwischen 2000 und 2007 wurden in Nürnberg, Mün-                 Die im Februar 2024 ergänzten Maßnahmen sind
+      chen, Hamburg, Rostock, Dortmund, Kassel und Hei-               unzureichend. Auch die Entwaffnung von Rechtsextre-
+      delberg neun Bürgerinnen und Bürger türkischer und              misten geht nur schleppend voran. Ministerin Faeser
+      griechischer Herkunft und eine junge deutsche Polizei-          kündigte im Februar als Reaktion auf das „Potsdamer
+      beamtin getötet. Schon 1999 gab es den ersten Spreng-           Treffen“ vollmundig an, Geldquellen rechtsextremer
+      stoffanschlag in Nürnberg. 20 Jahre ist der schreckliche        Gruppen genauer auszuleuchten. Laut Antwort auf un-
+      Nagelbomben-Anschlag des NSU in der Kölner Keup-                sere Kleine Anfrage zum Aktionsplan Rechtsextremis-
+      straße nun her.                                                 mus im Sommer wurde jedoch innerhalb der Bundes-
+         Ich bin, wie sicher viele hier im Hause, weiter betrof-      regierung auch fünf Monate später immer noch geprüft,
+      fen darüber, dass es nicht früher gelungen ist, diese Mord-     „inwieweit Auskunftspflichten von Finanzunternehmen
+      serie aufzudecken und zu beenden. Wie konnte es sein,           angepasst werden müssen“.
+                     Deutscher Bundestag – 20. Wahlperiode – 203. Sitzung. Berlin, Donnerstag, den 5. Dezember 2024      26359
+
+
+(A)      Die Bundesregierung hat bereits in Ihrem Koalitions-           Wenn man mit Ermittlern und Staatsanwaltschaften (C)
+      vertrag 2021 ein NSU-Dokumentationszentrum gefor-              spricht, dann hört man immer wieder von diesen Fällen.
+      dert. Nun, auf den voraussichtlich allerletzten Metern         Die Ermittler stoßen auf teure Autos und große Villen,
+      dieser Legislaturperiode wollen SPD und Grüne, mit wel-        jedoch im Besitz von 18-Jährigen ohne eigenes Einkom-
+      cher Mehrheit auch immer, eine Stiftung Gedenken und           men. Die Betroffenen können auch nicht erklären, woher
+      Dokumentation NSU-Komplex noch schnell hier be-                das Vermögen stammt, es gab kein Erbe, auch kein er-
+      schließen.                                                     folgreiches Start-up oder sonstige Geldquellen. In sol-
+         Ich habe für das Grundanliegen großes Verständnis           chen Fällen ist es äußerst wahrscheinlich, dass das Ver-
+      und nehme die dahinterstehenden Überlegungen ernst.            mögen durch Straftaten erlangt wurde.
+      Für die CDU/CSU-Fraktion ist die Erinnerung an den
+                                                                        Solche inkriminierten Vermögenswerte können in
+      NSU-Komplex ein berechtigtes Anliegen. Gewalt und
+                                                                     Deutschland eingezogen werden. Das war ein Erfolg
+      Terror im politischen Meinungskampf – ganz gleich,
+                                                                     der Großen Koalition von 2017. Im Laufe der Jahre hat
+      aus welchen Motiven sie sich speisen: ob rechts- oder
+                                                                     sich jedoch gezeigt, dass diese Vermögenseinziehung in
+      linksextremistisch oder aus islamistischem Fanatismus –
+                                                                     der Praxis nur selten passiert. Das Land Berlin hat für das
+      werden wir entschlossen bekämpfen.
+                                                                     Jahr 2023 damit gerechnet, 130 Millionen Euro illegal
+         Es muss unser aller Aufgabe sein, eine Wiederholung         erlangtes Vermögen einzuziehen, tatsächlich gelungen
+      solch unfassbarer Taten wie die des NSU zu verhindern          ist das aber nur für 5 Millionen Euro. Es gibt also erheb-
+      und jegliche Form von Extremismus bereits im Keim zu           lichen Nachbesserungsbedarf.
+      ersticken. Wir sind alle aufgerufen, die Werte unserer
+      freiheitlichen demokratischen Grundordnung entschlos-             Als SPD-Bundestagsfraktion setzen wir uns schon
+      sen zu verteidigen, aktiv für Menschenrechte einzutreten.      lange für diese Nachbesserung ein und haben auch schon
+        Ich bin Bayerns Innenminister, Joachim Herrmann,             konkrete Vorschläge gemacht. Die Vermögenseinziehung
+      dankbar, dass er in die Erinnerungsdiskussion, völlig un-      muss aus dem Strafrecht ins Verwaltungsrecht überführt
+      abhängig von der NSU-Stiftung, kürzlich eingeführt hat,        werden. Denn nur so kann die Mitwirkung der Betroffe-
+      dass es nach wie vor auch wichtig ist, dass wir auch           nen endlich für die Beweisführung verwertet werden.
+      anderer Opfer gedenken. Der Bund muss auch eine Do-            Wer nicht erklären kann, woher sein verdächtiges Ver-
+      kumentations- und Erinnerungsstätte zum Terror der             mögen kommt, der soll künftig mit einer schnellen Ein-
+      RAF angehen.                                                   ziehung der Vermögenswerte durch den Staat rechnen
+                                                                     müssen.
+       Sein Ansatz, dass das Gedenken an den RAF-Terror
+    einen öffentlichen Ort, ein Mahnmal für ein „Nie wie-               Dazu wollte der ehemalige Bundesfinanzminis-
+(B) der“, braucht, unterstütze ich ausdrücklich. Auch ich            ter, Christian Lindner, ein neues Gesetz vorlegen, (D)
+    halte es angesichts einer ebenfalls jahrelangen Mordserie        das Vermögensverschleierungsbekämpfungsgesetz, kurz
+    für richtig, dass wir einen geeigneten Ort zur Erinnerung        VVBG. Aber es reicht nicht, sich vor bewaffneten
+    an die Dutzenden von RAF-Opfern suchen; denn bis                 Zollbeamten mit Sturmhaube ablichten zu lassen, man
+    heute gibt es leider keinen nationalen Gedenkort bezüg-          muss auch liefern. Zwei Jahre lang haben wir im Par-
+    lich der jahrelangen Mordserie der RAF in unserem                lament gewartet, doch von Herrn Lindner kam nichts.
+    Land. Auch diese Opfer und ihre Angehörigen haben
+    das verdient.                                                       Es gingen die Gerüchte um, dass der damalige Bundes-
+        Deswegen brauchen wir ein Gesamtkonzept mit breiter          justizminister Buschmann sich nicht mit Herrn Lindner
+      parlamentarischer Mehrheit, das nicht im Hauruckverfah-        einigen konnte. Es ging also um einen FDP-internen
+      ren beschlossen wird. In diesem Sinne treffen wir keine        Streit. Im Ergebnis ist die Zeit verstrichen und nichts ist
+      vorschnellen Entscheidungen, sondern werden uns seriös         passiert. Dieses Verhalten war unseriös und verantwor-
+      mit allen aufgezeigten Möglichkeiten befassen.                 tungslos. Die Organisierte Kriminalität hat sich doch ins
+                                                                     Fäustchen gelacht.
+
+                                                                       Innerparteilicher Streit darf am Ende nicht zu Sicher-
+                                                                     heitslücken führen. Doch da scheint es nicht nur bei der
+      Anlage 8                                                       FDP Probleme zu geben.
+                  Zu Protokoll gegebene Reden                           Auch bei Ihnen, liebe Union, bin ich mir nicht sicher,
+        zur Beratung des Antrags der Fraktion der CDU/               was Sie eigentlich wollen. Dieser Antrag ist ja nicht Ihr
+        CSU: Abschöpfung kriminell erlangter Vermögen                erster Antrag zum Thema Vermögensabschöpfung. Was
+        erleichtern – Gesetzeslücken schließen – Experten-           mich aber schon wundert, ist, dass sich Ihre Anträge
+        vorschläge umsetzen                                          gegenseitig widersprechen. Im Juni dieses Jahres haben
+        (Zusatzpunkt 17)                                             Sie eine Vermögenseinziehung nach dem Vorbild unseres
+                                                                     SPD-Konzepts gefordert. Ich zitiere schon den Titel des
+                                                                     Antrags: „Kriminell erlangte Vermögen konsequent ab-
+        Carlos Kasper (SPD):                                         schöpfen – Vermögensermittlungs- und Einziehungsver-
+         Wir debattieren heute einen Antrag zum Thema Ab-            fahren außerhalb des Strafrechts schaffen“. Eine solche
+      schöpfung von Vermögen aus Straftaten. Das klingt viel-        Vermögenseinziehung außerhalb des Strafrechts fordert
+      leicht erst mal abstrakt. Lassen Sie mich kurz erklären,       meine Fraktion schon seit Jahren. Wir haben uns damals
+      worum es hier geht.                                            gefreut, dass Sie das nun endlich auch so sehen.
+      26360           Deutscher Bundestag – 20. Wahlperiode – 203. Sitzung. Berlin, Donnerstag, den 5. Dezember 2024
+
+
+(A)      Doch was müssen wir in diesem Antrag lesen? Sie              ziehung von Vermögenswerten nachzuholen? Diese Idee (C)
+      schlagen Änderungen vor, aber ausschließlich innerhalb          würde doch gegen eines der wichtigsten Prinzipien un-
+      des Strafrechts. Was ist es denn nun, liebe Union? Heute        seres Rechtsstaates verstoßen: die Rechtskraft von Ur-
+      hü, morgen hott. Wer innerhalb von einem halben Jahr            teilen. Ein rechtskräftiges Urteil ist ein Fundament unse-
+      seine Position um 180 Grad wenden kann, der sollte keine        res Rechtssystems. Es gewährleistet Rechtsfrieden und
+      Verantwortung tragen in diesem Land. Ihre Anträge wa-           schützt die Betroffenen vor willkürlichen oder nachträg-
+      ren reine Oppositionsanträge. Solche Positionswechsel           lichen Änderungen. Wenn wir die Möglichkeit schaffen,
+      zeigen: Sie sind unzuverlässig und sich Ihrer Verantwor-        rechtskräftige Entscheidungen nachträglich zu revidie-
+      tung nicht bewusst.                                             ren, gefährden wir das Vertrauen in die Justiz.
+         Die Bürgerinnen und Bürger erwarten ein konsequen-              Der dritte Punkt im Antrag, der irritiert, ist, die Ein-
+      tes Vorgehen gegen die Organisierte Kriminalität, und           ziehung von Vermögenswerten unklarer Herkunft nicht
+      zwar zu Recht. Mit der administrativen Vermögensein-            mehr nur auf bestimmte Katalogstraftaten zu beschrän-
+      ziehung außerhalb des Strafrechts drehen wir den Krimi-         ken, sondern auf alle Straftaten auszudehnen. Dies wäre
+      nellen den Geldhahn ab. Das gibt es nur mit der SPD.            eine massive Erweiterung der Eingriffsbefugnisse des
+                                                                      Staates. Das müssen wir mit der Frage prüfen, ob das
+                                                                      zielführend ist und nicht eher zu einer Überforderung
+        Canan Bayram (BÜNDNIS 90/DIE GRÜNEN):
+                                                                      der Behörden führt.
+         Bei kriminell erlangten Vermögen denken viele meiner
+                                                                        Zusammenfassend: Der Antrag der Unionsfraktion
+      Kolleginnen und Kollegen von der CDU/CSU, die hier
+                                                                      geht in mehreren Punkten über das Ziel hinaus und ge-
+      einen Antrag zur Einziehung dieser Werte durch die Jus-
+                                                                      fährdet grundlegende Prinzipien unseres Rechtsstaates.
+      tiz eingebracht hat, nur an den Ferrari eines verurteilten
+                                                                      Die vorgeschlagenen Maßnahmen zur Einziehung von
+      Drogendealers oder an die Beute aus einem Banküberfall.
+                                                                      „Folgesurrogaten“, zur nachträglichen Einziehungsent-
+      Aber sind damit nicht genauso die Steuerhinterzieherin-
+                                                                      scheidung und zur extremen Ausweitung der selbststän-
+      nen und -hinterzieher sowie die Abgasschummlerinnen
+                                                                      digen Einziehung auf alle Straftaten werfen auch Fragen
+      und -schummler gemeint?
+                                                                      der Verhältnismäßigkeit auf. Wir werden den Antrag je-
+       Auf den ersten Blick mag dieser Antrag wie ein Schritt         denfalls im weiteren parlamentarischen Verfahren genau
+    in die richtige Richtung erscheinen, um das Vermögen              prüfen.
+    von Straftätern abzuschöpfen und der Allgemeinheit zu-               Leider verkennt die Union das Hauptproblem bei der
+    kommen zu lassen. Die Einziehung ist auch ein gutes und           Einziehung: Das bestehende Recht ist in weiten Teilen
+    effektives Instrument zur Bekämpfung der Organisierten            ausreichend. Das Problem liegt im Vollzug. Die Staats-
+    Kriminalität; allein in Berlin haben wir damit 77 Immo-           anwaltschaften sind überwiegend mit Bagatelldelikten (D)
+(B) bilien beschlagnahmt. Allerdings wirft dieses Verfahren
+                                                                      beschäftigt und kommen bei den wirklich großen Wirt-
+    auch verfassungsrechtliche Fragen auf, die zurzeit vom            schaftsdelikten nicht hinterher. „Die Kleinen hängt man,
+    Bundesverfassungsgericht geprüft werden.                          die Großen lässt man laufen“, so spitzte die ehemalige
+         Ich gebe Ihnen also Recht, wir müssen uns das Ver-           Cum-Ex-Staatsanwältin und heutige Geschäftsführerin
+      fahren der Einziehung genau anschauen. Ihre vorge-              von Finanzwende, Anne Brorhilker, die Arbeit der Straf-
+      schlagenen Maßnahmen lösen bei mir aber ernsthafte              ermittlungsbehörden zu. Da hilft es nicht, die Einzie-
+      rechtliche und praktische Bedenken aus, die weiterer            hungsmöglichkeiten zu erweitern, sondern wir brauchen
+      Betrachtung bedürfen. Dies sind im Wesentlichen fol-            eine bessere personelle und technische Ausstattung.
+      gende drei Punkte:                                              Sinnvoll wäre zudem, die Ermittlungskompetenz bei
+                                                                      schweren Steuerbetrugsfällen und ähnlichen Delikten
+         Der Antrag schlägt vor, nicht nur die Einziehung von         beim Generalbundesanwalt und dem Bundeskriminalamt
+      mit der Beute bezahlten Vermögenswerten, sondern auch           zu bündeln und die dort bestehende Fachexpertise gezielt
+      von weiterem Eigentum zu ermöglichen. In unserer ju-            zu nutzen.
+      ristischen Fachsprache spricht man von „Folgesurroga-
+      ten“. Dies bedeutet, dass nicht nur das eigentliche aus
+      einer Straftat stammende Vermögen und die Wertgegen-
+      stände, zum Beispiel Immobilien, eingezogen werden              Anlage 9
+      können, sondern auch die daraus wiederum erlangten
+      Vermögenswerte. Wenn wir diesem Vorschlag folgen,                              Zu Protokoll gegebene Rede
+      droht eine weitreichende Ausweitung der Einziehungs-               zur Beratung
+      möglichkeiten. Denn in dem an dieser Stelle unklar for-
+      mulierten Antrag geht es nicht nur um das kriminell er-            – des von den Abgeordneten Caren Lay, Dr. Gesine
+      langte Vermögen selbst, sondern auch um das gesamte                  Lötzsch, Gökay Akbulut, weiterer Abgeordneter
+      Eigentum des Beschuldigten.                                          und der Gruppe Die Linke eingebrachten Ent-
+                                                                           wurfs eines Gesetzes zur effektiven Verfolgung
+         Der zweite Punkt des Antrags, der mich irritiert, ist die         von Mietwucher (Mietwuchergesetz)
+      Möglichkeit, Einziehungsentscheidungen nachträglich zu
+      treffen. Mir stellt sich hier die Frage, was die Union             – des Antrags der Abgeordneten Caren Lay,
+      damit meint, durch das Gericht „vergessene Einziehungs-              Dr. Gesine Lötzsch, Christian Görke, weiterer
+      entscheidungen“ nachholbar zu machen. Möchte die                     Abgeordneter und der Gruppe Die Linke: Zeit
+      Union ein Verfahren einführen, bei dem bereits rechts-               zu handeln – Für ein starkes, soziales Mietrecht
+      kräftige Urteile revidiert werden könnten, um eine Ein-            (Zusatzpunkt 18 a und b)
+                       Deutscher Bundestag – 20. Wahlperiode – 203. Sitzung. Berlin, Donnerstag, den 5. Dezember 2024    26361
+
+
+(A)     Susanne Hierl (CDU/CSU):                                       Anlage 10                                                   (C)
+         Als ich den Antrag „Zeit zu handeln – Für ein starkes,
+                                                                                     Zu Protokoll gegebene Reden
+      soziales Mietrecht“ der Gruppe Die Linke las, dachte ich:
+      „sozialistisches“ trifft es besser. Aber zuerst zu Ihrer Idee,      zur Beratung
+      den Mietwucher durch die Änderung des Wirtschafts-                  – der Beschlussempfehlung und des Berichts des
+      strafgesetzes, leichter zu bekämpfen.                                 Ausschusses für Umwelt, Naturschutz, nukleare
+                                                                            Sicherheit und Verbraucherschutz zu dem An-
+        Es ist richtig, in den Ballungsgebieten gibt es verein-             trag der Abgeordneten Klaus Ernst, Dr. Sahra
+      zelt Vermieter, die die katastrophale Lage am Wohnungs-               Wagenknecht, Ali Al-Dailami, weiterer Abge-
+      markt ausnutzen. Schwarze Schafe gibt es überall. Die                 ordneter und der Gruppe BSW: Verbrenner-
+      übergroße Zahl der Eigentümer verhält sich jedoch kor-                Aus stoppen – Zukunft der deutschen Auto-
+      rekt.                                                                 mobilindustrie sichern – Arbeitsplätze schützen
+                                                                            und Wohlstand bewahren
+         Sie jedoch picken hier die schwarzen Schafe heraus,              – der Beschlussempfehlung und des Berichts des
+      um Vermieter als Blutsauger und Heuschrecken dar-                     Verkehrsausschusses zu dem Antrag der Frak-
+      zustellen. Das wird klar, wenn man nur ein paar Ihrer                 tion der CDU/CSU: Technologieoffener Klima-
+      Beispiele aus dem Antrag betrachtet, wie einen bundes-                schutz im Straßenverkehr – Kein Verbot des kli-
+      weiten Mietenstopp für sechs Jahre, das Verbot von                    maneutralen Verbrennungsmotors
+      neuen Indexmietverträgen, Mietpreisregulierung durch
+                                                                          (Zusatzpunkt 19 a und b)
+      einen „atmenden“ Mietendeckel, Verschärfung der Miet-
+      preisbremse durch Entfristung und Einführung eines Ver-
+      bots von Zwangsräumungen. Das liest sich so, als sei es
+      dem Handbuch für sozialistische Wohnungswirtschaft                  Dunja Kreiser (SPD):
+      entnommen.                                                         Lassen Sie mich auf drei entscheidende Punkte der
+                                                                       Anträge eingehen, die für mich felsenfest belegen, wa-
+       Statt für gute Rahmenbedingungen zu sorgen, damit               rum wir sie ablehnen müssen.
+    sich die Bauwirtschaft entfalten kann, viele Arbeitsplätze
+    am Bau erhalten bleiben und mehr Wohnraum tatsächlich                 Erstens: Der Verweis auf China. Dort werden inzwi-
+    gebaut wird, ist für die Linke der Eingriff in das Eigentum        schen mehr E-Autos zugelassen als Verbrenner, Tendenz
+    anderer Leute der Königsweg. Bevor Sie mit planwirt-               weiter stark steigend. Die Verkaufszahlen von batterie-
+                                                                       elektrischen Fahrzeugen und Plug-in-Hybriden im Au-
+(B) schaftlichen Mitteln in den Wohnungsmarkt eingreifen,              gust dieses Jahres im Vergleich zum Vorjahr stiegen um (D)
+    sollten Sie sich alte Filme oder Bilder aus DDR-Zeiten
+    ansehen: ein völlig maroder Baubestand, zum Teil noch              43 Prozent. Das lasse ich jetzt mal wirken.
+    mit Einschusslöchern in den Fassaden.
+                                                                          Zweitens: Ich bin Standortabgeordnete eines VW-
+                                                                       Standorts. Ich betreue den Wahlkreis Wolfsburg. Und
+         Aber weder Linke noch SPD können Wohnungsbau.                 wenn Sie nicht immer über die Menschen, die dort täglich
+      400 000 Wohnungen pro Jahr hat die SPD geführte Am-              arbeiten, die dort ihre Existenzen aufgebaut haben, oft
+      pel versprochen. 2022 und 2023 blieb man unter 300 000,          über Generationen hinweg dem Werk verbunden sind,
+      2024 erwarten wir einen weiteren deutlichen Rückgang             sprechen würden, sondern mit Ihnen, mit den Betriebs-
+      an fertiggestellten Wohneinheiten. Für die kommenden             räten, den Vertrauensleuten, mit den Arbeitnehmervertre-
+      Jahre wird ein weiterer Rückgang erwartet; denn die              tungen, dann wüssten Sie, dass dort eines ganz klar ist:
+      Zahl der erteilten Baugenehmigungen ist historisch nied-         Die Zukunft unserer Automobilindustrie ist elektrisch.
+      rig. Wo es aber keine Genehmigungen gibt, da folgt auch
+      keine Baufertigstellung.                                            Unsere Industrie hat Milliarden – Milliarden! – inves-
+                                                                       tiert dafür. Und ich darf Ihnen sagen, was mir der Be-
+        Wichtigster Grund sind die viel zu hohen Baukosten.            triebsrat von VW vor Ort sagt: Das sind Anträge zur
+      Schauen wir uns die Kostentreiber beim Hausbau ge-               Arbeitsplatzvernichtung. – Beispielsweise sagt eine Stu-
+      nauer an: überteuerte Energie – von wegen Sonne und              die von McKinsey: Über 700 000 Arbeitsplätze werden
+      Wind schicken keine Rechnung –, ein Paragrafendschun-            vernichtet, wenn wir nicht umsteigen.
+      gel an Bauvorschriften, Energieeffizienzvorschriften und
+      unstete Förderbedingungen.                                          Drittens: Ein paar Fakten zum Antrieb. Einmal: Erdöl
+                                                                       ist endlich. Ihre Antwort sind dann noch synthetische
+                                                                       Kraftstoffe.
+         Der Wohnungsmarkt braucht weder Bremsen noch De-
+      ckel oder Verbote, sondern Anreize, zu bauen. Genau                 Ich möchte nur kurz auf die E-Fuels eingehen: Nehmen
+      diese liefern wir mit unserem Angebot aus Steueranrei-           wir ein Windrad. Es erzeugt etwa 3 Megawatt, also etwa
+      zen, Förderprogrammen und Kostensenkungen. Und es                2 000 Stunden pro Jahr. Damit können sie 1 600 batte-
+      liegt nicht am fehlenden Geld. Man muss es nur fürs              riebetriebe E-Autos pro Jahr betreiben. Oder sie können
+      Bauen ausgeben wollen, statt für Denunziationsportale            600 Automobile mit Wasserstoffbrennstoffzelle betrei-
+      und Demokratieförder-NGOs.                                       ben oder sie können 250 Autos mittels E-Fuels betreiben.
+                                                                       Nun ja, kann man sagen: Dann brauchen wir sehr, sehr
+        Wir lehnen die Vorlagen ab.                                    viel mehr Energie.
+      26362           Deutscher Bundestag – 20. Wahlperiode – 203. Sitzung. Berlin, Donnerstag, den 5. Dezember 2024
+
+
+(A)      Betrachten wir eine Tankfüllung aus heutiger Sicht           mit Freude am Fahren –, keine Ideologie bei Klima- (C)
+      eines VW-Golf-Verbrenners mit E-Fuels: 1 Liter E-Die-           schutz, Technologieoffenheit, eine Strategie für den
+      sel/E-Fuel aus CO2 und H2 braucht 23 bis 27 Kilowatt-           Markthochlauf von E-Fuels.
+      stunden Energie. Der Golf braucht etwa 6 bis 7 Liter              Wir brauchen keine Verbotspolitik, sondern endlich
+      E-Diesel auf 100 Kilometer Reichweite. Das ergibt 140           den Mut zur Freiheit, kein Verbrennerverbot, sondern
+      bis 170 Kilowattstunden für 100 Kilometer. Mit einem            Innovation, Forschung, Unterstützung – eben all das,
+      E-Auto kommen sie mit der Energie 1 000 Kilometer               was früher eine gute Wirtschaftspolitik ausgemacht hat.
+      weit; Ruß, Stickstoff und Lärm gibt es mit dem Verbren-
+      ner bei E-Fuels in unseren Dörfern und Städten weiterhin,
+      klar.                                                              Bernd Riexinger (Die Linke):
+                                                                         Die Kolleginnen und Kollegen bei VW, die gerade mit
+         Was kommt nun heute dabei raus, wenn ich meinen
+                                                                      ihrer IGM gegen Stellenstreichungen und Standortschlie-
+      Golf mit E-Fuels volltanke: Da wären wir bei 300 bis
+                                                                      ßungen kämpfen, haben unsere volle Solidarität. Dass sie
+      400 Euro, ohne Steuern, steuerfrei; mit Steuern – Stand
+                                                                      für Fehlentscheidungen des Managements mit dem Ver-
+      heute – bei etwa 1 000 Euro. Ich, aus dem ländlichen
+                                                                      lust ihres Arbeitsplatzes und mit Lohnverzicht bezahlen
+      Raum, möchte das den Leuten nicht zumuten. Da sehe
+                                                                      sollen, während an die Eigentümer Milliarden Dividende
+      ich keine Zukunft.
+                                                                      ausgeschüttet wurden, ist nicht nur unsozial, sondern
+                                                                      schäbig.
+        Dr. Jonas Geissler (CDU/CSU):                                    Was Sie von der Union und der AfD schon seit Mona-
+         Die Menschen in Deutschland haben Angst. Sie haben           ten zur vermeintlichen Rettung des Verbrennermotors
+      Angst vor der Zukunft, vor Krieg, und sie haben Angst           aufführen, hilft weder den Beschäftigten noch der Auto-
+      angesichts der zahlreichen Krisen. Gerade in diesen Ta-         mobilindustrie oder den Zulieferern. Von den meisten
+      gen wächst die Sorge um den Arbeitsplatz, um den Wirt-          hier unbemerkt, wurden bereits rund 60 000 Arbeitsplätze
+      schaftsstandort Deutschland, weil die Menschen jeden            in der Zuliefererindustrie vernichtet. Der Antrag der
+      Tag sehen, dass die Einschläge näherkommen. Es betrifft         Union würde gerade mal dafür ausreichen, dass die
+      die Großen wie VW. Gerade im Automobilbereich sind es           Piëchs, Quandts oder Schaefflers mit einem wenig zu-
+      aber auch immer mehr Zulieferer. Wir erleben in diesen          kunftsfähigen Geschäftsmodell noch einige Jahre länger
+      Tagen immer mehr Stellenstreichungen, immer neue In-            Profite erzielen können.
+      solvenzen, neue Hiobsbotschaften. Und dafür gibt es                Das BSW zeigt mit seinem Antrag, dass es industrie-
+      Gründe.                                                         politisch im letzten Jahrhundert festhängt und eine wei-
+(B)      Manche Gründe sind international. Viele Gründe sind          tere Partei der klimapolitischen Sackgasse ist. Das hat es (D)
+      aber eben hausgemacht. Dass sich Deutschland und un-            gemein mit der Union, außer dass deren Antrag noch
+      sere Automobilindustrie zunehmend zum kranken Mann              etwas weniger klimafeindlich ist.
+      Europas entwickeln, liegt in erster Linie an der Politik der       Die Automobilindustrie in Deutschland hat ein struk-
+      Bundesregierung: Es liegt an den einseitigen Entschei-          turelles Problem. Sie hat die Transformation zur Elektro-
+      dungen. Es liegt an ideologischen Entscheidungen. Es            motorisierung verschlafen, liefert keine für Normal-
+      liegt an der mangelnden Bereitschaft, Freiheit zuzulas-         verdienende bezahlbaren Modelle und ist besonders auf
+      sen, wo sie heute dringender als jemals zuvor gebraucht         den asiatischen Märkten nicht konkurrenzfähig.
+      wird.
+                                                                         Wer die Lebensdauer des Verbrenners verlängern will,
+         Deutschland war schon immer ein rohstoffarmes Land.          löst die Strukturprobleme nicht, sondern verstärkt sie und
+      Unser Rohstoff war der Rohstoff Geist: Innovation, Er-          gefährdet damit die Zukunftsfähigkeit der Industrie und
+      finderreichtum, Erneuerung – besser sein als andere. Un-        gut bezahlte Arbeitsplätze. Die Verbrennertechnologie
+      sere Kraft lag darin, Unternehmen machen zu lassen, sie         sogar noch staatlich fördern zu wollen, ist bei Milliarden-
+      nicht einzuschränken, sondern ihnen Freiheit zu geben.          gewinnen und Rücklagen ein Programm zur Förderung
+      Ein einfaches Verbrennerverbot ist das Gegenteil von            der Konzerngewinne.
+      Freiheit. Nur wer das Auto, die individuelle Mobilität             Der BSW-Antrag ist eine harsche Absage, bis 2050
+      und den Industriestandort Deutschland zerstören will,           klimaneutrale Mobilität zu erreichen. Verantwortliche
+      kann ernsthaft ein Verbrennerverbot fordern.                    Politik heißt, die Anstrengungen zur Klimaneutralität zu
+         Die einfache Wahrheit ist: Für die große Mehrheit aller      erhöhen und nicht, die Katastrophe noch zu vergrößern.
+      Deutschen wird das Auto auch in 10, 20 oder 30 Jahren              Sie von der Union müssen sich endlich ehrlich ma-
+      das wichtigste Fortbewegungsmittel bleiben. Wichtig ist,        chen. Es wird für massenhaften Individualverkehr weder
+      dass das Auto am Ende klimaneutral ist. Wie das ge-             genügend noch bezahlbare E-Fuels, Biokraftstoffe oder
+      schieht, ist für den Klimaschutz aber völlig egal. Es ist       Ammoniak geben. Man braucht ein Vielfaches an Ener-
+      fürs Klima egal, ob ein Auto elektrisch, mit Wasserstoff        gie, um PKW mit E-Fuels zu bewegen statt batterieelek-
+      oder eben mit E-Fuels läuft.                                    trisch.
+        Für die Menschen im Land ist es aber nicht egal, wenn            Der industrielle Bedarf für eine klimaneutrale Mo-
+      wir unsere Schlüsselindustrie abwürgen, wenn wir das            bilität der Zukunft ist enorm, wenn wir es ernst meinen,
+      verbieten lassen, was uns über viele Jahre Wohlstand,           den ÖPNV und den Schienenpersonenverkehr zu verdop-
+      Arbeitsplätze, Sicherheiten garantiert hat. Wir brauchen        peln und den Schienengüterverkehr massiv auszubauen.
+      deshalb: praktikable Lösungen, bezahlbare Mobilität –           Statt großer E-SUVs braucht es kompakte, günstige, ver-
+                     Deutscher Bundestag – 20. Wahlperiode – 203. Sitzung. Berlin, Donnerstag, den 5. Dezember 2024      26363
+
+
+(A) brauchsarme E-PKWs. Um diesen Bedarf zu bedienen,                gen vor dem Europäischen Gerichtshof. Ich hatte damals, (C)
+    brauchen wir alle Fähigkeiten und Kenntnisse der Be-             2013, nicht erwartet, wie viele Jahre wir über die immer
+    schäftigten in der jetzigen Automobilindustrie in einer          gleichen Missstände verhandeln müssen. Aber es muss
+    klimaneutralen Mobilitätsindustrie. Das sichert Stand-           sein! Wenn wir aufhören würden, die Belastungen der
+    orte und Arbeitsplätze.                                          kleinen und mittelständischen Unternehmen und ihrer
+                                                                     Fahrerinnen und Fahrer ernst zu nehmen, dann hätten
+                                                                     wir aufgegeben. Das tun wir nicht, sondern wir legen
+                                                                     die Finger in die Wunden und brauchen Lösungen.
+     Anlage 11
+
+                  Zu Protokoll gegebene Reden                           Im Verkehrsausschuss haben wir in dieser Legislatur-
+                                                                     periode vier Anhörungen zum Straßengütertransport und
+        zur Beratung                                                 zum Fahrerpersonalmangel durchgeführt. Dabei haben
+        – des von der Bundesregierung eingebrachten Ent-             wir viel über die Belastungen der kleinen und mittelstän-
+          wurfs eines Ersten Gesetzes zur Änderung des               dischen Unternehmen und ihrer Fahrerinnen und Fahrer
+          Berufskraftfahrerqualifikationsgesetzes und an-            gelernt. Erkenntnisse allein reichen aber nicht. Wir müs-
+          derer straßenverkehrsrechtlicher Vorschriften              sen Konkretes für die Menschen erreichen, die Men-
+                                                                     schen, die tagtäglich unsere Güter transportieren. Denn
+        – des von der Bundesregierung eingebrachten Ent-             ohne faire Arbeitsbedingungen im Straßengüterverkehr
+          wurfs eines Vierten Gesetzes zur Änderung des              geht es nicht. Und die Arbeitsbedingungen sind für
+          Güterkraftverkehrsgesetzes und anderer Ge-                 sehr viele Beschäftigte nicht gut und nicht fair. In vielen
+          setze                                                      Berufsfeldern erleben wir stetig Fortschritte, die Arbeits-
+        (Zusatzpunkt 20 a und b)                                     situation wird dort besser, sauberer, gesünder und ins-
+                                                                     gesamt attraktiver. Nicht so im Gütertransport. Vielleicht
+       Udo Schiefner (SPD):                                          werden die Fahrzeuge sogar moderner, Zugang zu einer
+                                                                     sauberen Sanitäranlage gehört aber ebenso zu einem ge-
+       „Transportlogistik für Deutschland sichern – Mit fai-         sunden Arbeitsplatz, um das Offensichtlichste zu nennen.
+     ren Arbeits- und Wettbewerbsbedingungen im Straßen-
+     güterverkehr“. Unter dieser Überschrift haben wir im               Stress und Zeitdruck, Müdigkeit am Steuer, fehlendes
+     Sommer 2023 hier im Haus einen umfangreichen Auf-               Familienleben, fehlende Wertschätzung. Die Lohnhöhe
+     gabenkatalog für die Bundesregierung beschlossen.               stimmt nicht. Sozialdumping ist das Hauptthema. Vor
+       Wenn wir es nun zum Ende dieser verkürzten Legisla-           allem ist es in Deutschland weiterhin zu billig, die Regeln
+(B) tur noch schaffen, zumindest Teile dieser Aufgaben mit           zu missachten. Wir brauchen höhere Bußgelder, Buß- (D)
+    dem Berufskraftfahrerqualifikationsgesetz und dem Gü-            gelder, die den unternehmerischen Vorteil erkennbar
+    terkraftverkehrsgesetz umzusetzen, sind das wichtige             übersteigen. Zudem sprechen wir immer von mehr, von
+    Schritte. Es sind, und das will ich nicht verhehlen, aber        effizienteren Kontrollen. Aktuell ist aber sogar ein er-
+    nur einige der sehr vielen wichtigen Schritte, die es noch       heblicher Teil des Güterverkehrs dem Zugriff durch
+    zu gehen gilt, um auf unseren Straßen für faire Arbeits-         das BALM entzogen. Wir sollten für konsistente Markt-
+    und Wettbewerbsbedingungen zu sorgen.                            zugangsbedingungen sorgen, im Güterkraftverkehrsge-
+       Immer, wenn wir über Transport und Logistik spre-             setz und in der Fahrpersonalverordnung und das für alle
+     chen, sprechen wir über grundlegende Bedingungen für            Fahrzeuge ab 2,5 Tonnen, wie europäisch vorgesehen.
+     unsere Wirtschaftsstruktur und unsere Gesellschaft. Ar-         Und wir brauchen einen Konsens darüber, zu welchen
+     beits- und Sozialbedingungen und Wettbewerbsbedin-              Bedingungen Aufträge vergeben werden. Das betrifft
+     gungen lassen sich dabei nicht getrennt betrachten.             die öffentlichen Auftraggeber und die Unternehmen im
+                                                                     Bundesbesitz. Aber auch unsere Industrie- und Handels-
+        Es sind nicht alle in der Transportbranche unter Druck.      ketten müssen sich zu fairen Wettbewerbsbedingungen
+     Aber die, die besonders unter Druck sind, die leiden vor        bekennen.
+     allem unter dem unfairen Wettbewerb in Europa. Und
+     dabei ist klar, dass Auftragnehmer und Auftraggeber, Ar-           Im letzten Jahr haben uns die verstörenden Vorgänge
+     beitnehmer und Arbeitgeber, Wirtschaft und Gesell-              auf der Raststätte Gräfenhausen wieder überdeutlich ge-
+     schaft, wir alle und alles voneinander abhängen und             zeigt, wie prekär Fahrerinnen und Fahrer in Europa un-
+     also über kurz oder lang gemeinsam leiden. Nur haben            terwegs sind. Aber schon ein Stopp an einem beliebigen
+     nicht alle die gleiche Durchsetzungskraft. Und, wo Un-          Rastplatz reicht, um zu sehen, dass menschenverachtende
+     gleichgewichte herrschen, brauchen wir Regulation. Un-          Arbeitsbedingungen auf der Autobahn tägliche Realität
+     sere große Herausforderung ist dabei immer, dass Re-            sind. Es verbringen noch immer viel zu viele Berufskraft-
+     gulation bei Transport und Logistik im europäischen             fahrende Lebenszeit unberechtigt in oder neben ihrem
+     Wettbewerbsrahmen stattfindet. Das heißt, dass vieles,          Fahrzeug. Kontrollen müssen sich ganz gezielt auf dieses
+     sehr vieles, sehr lang dauern kann.                             Problem konzentrieren und geltendes Recht durchsetzen.
+        Seit ich im Bundestag bin, seit elf Jahren, ist die Si-
+     tuation im Straßengüterverkehr mein Thema. Es ist nicht            Mit den Gesetzen zur Berufskraftfahrerqualifikation
+     so, dass wir in der Zeit nichts erreicht hätten. Aber es        und dem Güterkraftverkehrsgesetz werden all diese Pro-
+     dauert eben: Europäische Einigung, nationale Umset-             bleme nun nicht gelöst. Dazu sind sie auch nicht geeignet.
+     zung, Durchsetzung mit Übergangsfristen. Widerstände            Und Sie können mir glauben, dass es niemand mehr be-
+     in Europa, Widerstände in den eigenen Ministerien. Kla-         dauert als ich, dass wir in dieser Legislaturperiode nicht
+     26364           Deutscher Bundestag – 20. Wahlperiode – 203. Sitzung. Berlin, Donnerstag, den 5. Dezember 2024
+
+
+(A) zu mehr in der Lage waren. Ich hatte mehr erwartet.              rung und Abgabensenkungen, dann komme das nachhal- (C)
+    Unser Forderungskatalog vom Juli 2023 zeigt das, denke           tige Fliegen von ganz allein. Überzeugend ist das alles
+    ich, sehr deutlich.                                              nicht. Denn die Schwäche der deutschen Luftfahrt ist
+        Aber ich nehme diese Debatte zum Anlass und erin-            gewachsen und nicht über Nacht vom Himmel gefallen.
+     nere Sie alle daran, dass wir weiter streiten müssen. Die       Doch nur eine starke Branche kann die Investitionen für
+     nächste Bundesregierung und der nächste Bundestag               mehr Nachhaltigkeit tragen. Dabei unterstützen wir durch
+     dürfen keine weitere Zeit verstreichen lassen. Wir müssen       bessere Rahmenbedingungen. Die 20. Wahlperiode geht
+     die offensichtlichen Missstände in der existentiellen           zu Ende. Dies ist ein hervorragender Anlass, um Bilanz
+     Branche unseres Wirtschaftssystems mit aller Kraft an-          zu ziehen.
+     gehen!
+                                                                        Gleichermaßen belastend für die Reisenden, Unter-
+                                                                     nehmen und Beschäftigten ist der Personalmangel. Sie
+       Matthias Gastel (BÜNDNIS 90/DIE GRÜNEN):                      haben hier regelmäßig staatliche Unterstützung verlangt,
+        Die vierte Änderung des Güterkraftverkehrsgesetzes           diese Forderung aber nicht konkretisiert. Wir haben statt-
+     ist ein eher unscheinbares Gesetz. Es sieht insbesondere        dessen gehandelt: zuallererst mit dem Fachkräfteeinwan-
+     die Anpassungen an Unionsrecht vor. Zudem sollen Ver-           derungsgesetz, das sie immer abgelehnt haben.
+     waltungsvorgänge vereinfacht und Bürokratie abgebaut
+     werden. Aber die staatenübergreifende Vereinheitlichung            Und zur Wahrheit gehört auch: Die Arbeit am Flugha-
+     ist ein weiterer Schritt zur Beseitigung länderspezifischer     fen war in der Vergangenheit nicht verlockend. Ich bin als
+     Besonderheiten und sorgt unter anderem für bessere              Sozialdemokratin sehr froh, dass es den Gewerkschaf-
+     Kontrollmöglichkeiten von Verstößen. Bei den Kontroll-          ten in den letzten Jahren gelungen ist, viele gute Tarif-
+     möglichkeiten kann verstärkt Digitalisierung eingesetzt         abschlüsse in der Luftfahrt zu erzielen. Vergütung und
+     werden. Das ist ein weiterer Schritt, damit sich das Kon-       Arbeitsbedingungen konnten erheblich verbessert wer-
+     trollpersonal auf seine eigentlichen Aufgaben konzentrie-       den. Dies macht die Branche endlich wieder attraktiver.
+     ren kann. Dadurch wird ein Schritt hin zu einem faireren        Herzlichen Glückwunsch dazu, liebe Kolleginnen und
+     Wettbewerb und besseren Arbeitsbedingungen geschaf-             Kollegen!
+     fen.
+       Eingebracht wird zudem eine Anpassung des Berufs-                Sie fordern regelmäßig die Reorganisation der Sicher-
+    kraftfahrerqualifikationsgesetzes. Hier werden wichtige          heitskontrollen nach dem Frankfurter Modell. Seit 2021
+    Schritte zur zeitgemäßen Qualifikation gegangen. So              wird dies konsequent von unserem SPD-geführten Bun-
+    werden endlich digitale Unterrichtsformen in die Weiter-         desinnenministerium vorangetrieben. An den Flughäfen
+(B) bildung integriert. Zudem wird auch die Übersicht über           in Berlin und Frankfurt machen die Bundespolizei, die (D)
+    die Qualifikationen digitalisiert, um zum Beispiel Kon-          Fluggäste und die Beschäftigten der Sicherheitsdienste
+    trollen einfacher durchführen zu können.                         damit sehr gute Erfahrungen. Am 1. Januar 2025 geht
+                                                                     es auch in Köln/Bonn los. Ich wünsche dem Flughafen
+        Insgesamt werden hier Potenziale der Digitalisierung         dort gutes Gelingen und bin sicher: Diese Erfolgsge-
+     durch gesetzliche Anpassungen ermöglicht. Dies entlas-          schichte wird weitergeschrieben!
+     tet die Unternehmen und vereinfacht zugleich die Kon-
+     trollen, um einen sicheren Güterverkehr auf der Straße zu          Kommen wir nun zu den Gebühren. Ja, diese sind in
+     garantieren.                                                    Deutschland höher als in anderen europäischen Ländern.
+                                                                     Sie sind aber mitnichten derartige Standortnachteile und
+     Anlage 12                                                       Investitionsbremsen, als die sie dargestellt werden. Die
+                                                                     Luftverkehrsteuer ist erhöht worden; das ist richtig. Dafür
+                  Zu Protokoll gegebene Reden                        konnte eine wesentlich schlimmere Kerosinsteuer verhin-
+                                                                     dert werden. Ihre Forderung danach haben wir also be-
+       zur Beratung des Antrags der Fraktion der CDU/                reits erfüllt.
+       CSU: Klimaneutrales Fliegen vorantreiben – Für
+       einen Markthochlauf von nachhaltigen Flugkraft-                  Damit die Luftfahrt eine gute Zukunft hat, muss ihre
+       stoffen und wettbewerbsfähige Klimaschutzinstru-              Transformation gelingen. Mehr Nachhaltigkeit verspricht
+       mente                                                         vor allem der Hochlauf synthetischer Flugkraftstoffe. Es
+       (Zusatzpunkt 21)                                              ist gelungen, die entscheidenden Mittel zur Finanzierung
+                                                                     der TPP-Plattform in Leuna zu sichern. Der Beginn der
+       Anja Troff-Schaffarzyk (SPD):                                 Produktion von PtL in Deutschland steht also bevor. Grö-
+                                                                     ßere Anlagen müssen folgen.
+        Wir haben heute die Gelegenheit, noch mal über die
+     Luftfahrt zu diskutieren. Anlass ist Ihr Antrag mit einer          Die Mineralölwirtschaft ist hier gefragt, die wichtigen
+     Zusammenstellung bekannter Forderungen, die wir schon           Impulse von ReFuelEU für den Markthochlauf aufzuneh-
+     oft debattiert haben. Heute werden diese pünktlich zu           men. Doch auch weitere staatliche Investitionen werden
+     Weihnachten in Form einer langen Wunschliste präsen-            für das Gelingen der Transformation in der Luftfahrt und
+     tiert.                                                          der gesamten Wirtschaft nötig sein. Denken Sie doch
+        Sie halten am Dogma fest, die mangelnde Erholung             noch mal über die Schuldenbremse nach, liebe Kollegin-
+     und Nachhaltigkeit des Luftverkehrs seien primär Ergeb-         nen und Kollegen von Union und FDP. Das wäre ein
+     nis staatlichen Unwillens. Darum fordern Sie Deregulie-         schönes Weihnachtsgeschenk!
+                      Deutscher Bundestag – 20. Wahlperiode – 203. Sitzung. Berlin, Donnerstag, den 5. Dezember 2024      26365
+
+
+(A)      Insgesamt ist uns in einer schwierigen wirtschaftlichen         Martina Englhardt-Kopf (CDU/CSU):                          (C)
+      und geopolitischen Lage viel gelungen, und das in einer            Die deutsche Luftfahrtbranche hat es im internationa-
+      Ampelkoalition, die obendrein auch noch über deutlich           len Wettbewerb immer schwerer. Airlines ziehen Flug-
+      weniger finanzielle Spielräume im Bundeshaushalt ver-           verbindungen aus Deutschland ab und bedienen einzelne
+      fügte als die Vorgängerregierungen. Deswegen sage ich           deutsche Standorte nicht mehr, weil es finanziell un-
+      Ihnen: Ich bin zufrieden mit dieser Bilanz. An diese Er-        attraktiv ist. Zu beobachten war dies zuletzt bei der Luft-
+      folge lässt sich in der kommenden Wahlperiode anknüp-           hansa-Tochter Eurowings und der irischen Airline Ryan-
+      fen. Ich freue mich darauf.                                     air. Dies hat enorme Auswirkungen auf die Anbindung
+                                                                      unseres Wirtschaftsstandortes.
+        Thomas Lutze (SPD):
+                                                                         Wir dürfen nicht weiter zusehen, wie Deutschland als
+         Ab und zu kommt es durchaus vor, dass ein blindes            Luftverkehrsstandort abgehängt wird, es immer weni-
+      Huhn auch mal ein Korn findet. Heute dürfen wir erstaunt        ger Flugverbindungen gibt und die verbleibenden sich
+      feststellen, dass dieses blinde Huhn die Union sein kann.       übermäßig verteuern. Die staatlichen Standortkosten für
+      Ihr Antrag enthält so viele unterstützenswerte Punkte,          den Luftverkehr hierzulande müssen dringend sinken,
+      dass man etwas verwundert ist, wie dieser Antrag seinen         sonst werden wir an dieser verhängnisvollen Entwick-
+      Weg durch Ihre Fraktion finden konnte. Man darf auch            lung nichts ändern. Allein die Luftverkehrsteuer macht
+      gespannt sein, ob solch positive Impulse auch ihren Ein-        53 Prozent aller Gebühren aus und beträgt mittlerweile
+      gang in die Wahlprogramme von CDU und CSU finden                mehr als 2 Milliarden Euro. Das sorgt innerhalb Europas
+      werden.                                                         für Wettbewerbsverzerrung, weil es eine vergleichbare
+                                                                      Steuer nur in 13 von 27 EU-Mitgliedstaaten gibt, künftig
+       Doch worum geht es? Die Union fordert einen aktive-
+                                                                      sogar nur noch in 12 Staaten.
+    ren Beitrag der Bundesregierung bei der Dekarbonisie-
+    rung der Flugwirtschaft. Insbesondere erneuerbare und               Im Stillen hat die Ampel die Förderung für nachhaltige
+    klimaneutrale Kraftstoffe sollen gefördert und in den             Flugkraftstoffe zusammengestrichen und damit ihre eige-
+    Einsatz gebracht werden. Das ist begrüßenswert. Aktuell           nen Dekarbonisierungsziele aus dem Koalitionsvertrag
+    scheitert der Einsatz von synthetischen Kraftstoffen noch         untergraben. Im Koalitionsvertrag hatte sich die Ampel
+    an ihrer geringen Verfügbarkeit und vor allem am hohen            noch dazu verpflichtet, eine der Luftverkehrsteuer ent-
+    Preis. Der hohe Preis liegt aber auch darin begründet,            sprechende Summe für die Förderung von nachhaltigem
+    dass gewerblich genutztes Kerosin im Flugverkehr von              Flugtreibstoff auszugeben.
+    der Energiesteuer befreit ist. Der fossile Kraftstoff hat
+    damit einen klaren monetären Vorteil. Aus unserer Sicht              Die Luftfahrt soll sauberer werden. Die Transforma- (D)
+(B) ist es richtig, dass die Union einen Alleingang Deutsch-
+                                                                      tion der Luftfahrt zur CO2-Neutralität bleibt eine wich-
+    lands bei einer nationalen Kerosinsteuer ablehnt, gleich-         tige Zielsetzung. Um eine Senkung des CO2-Ausstoßes
+    wohl fordert sie keine europäische Lösung für dieses              zu erzwingen, verpflichtet die EU („Fit for 55“) die Bran-
+    Problem. Das ist kurzsichtig.                                     che ab 1. Januar 2025 deshalb, nichtfossile Kraftstoffe,
+         Ebenso kurzsichtig ist die Kritik der Union an den           sogenannte Sustainable Aviation Fuels, kurz SAF, mit
+      fehlenden Geldern für den Bau einer ersten PtL-Produk-          mindestens 2 Prozent ins Kerosin zu mischen. Die bishe-
+      tionsanlage im industriellen Maßstab. Die dafür vorgese-        rigen Klimaschutzvorgaben der EU bedeuten aber auch
+      hen Mittel stammten aus dem vom Bundesverfassungs-              eine einseitige Belastung für europäische Unternehmen,
+      gericht gekippten Klima- und Transformationsfonds. Es           da sie nur für Flüge gelten, die innerhalb der EU starten.
+      wirkt nun etwas absurd, dass die Union die Einstampfung         Im international stattfindenden Luftverkehr entstehen da-
+      des Projektes beklagt, wo sie, erstens, gegen den KTF-          durch klimapolitisch kontraproduktive Wettbewerbsver-
+      Fonds geklagt hat und, zweitens, für die Schuldenbremse,        zerrungen, sogenannte Carbon-Leakage-Effekte. Hier
+      die dieser Klage zugrunde liegt, direkt verantwortlich ist      brauchen wir Wettbewerbsneutralität.
+      und diese auch in Zukunft nicht antasten will. Auch wenn
+      die Union sich schon wieder auf der Regierungsbank                 Aber es steht mehr denn je in den Sternen, ob es über-
+      wähnt, wird nicht von Zauberhand Geld erscheinen, wel-          haupt genug alternative Kraftstoffe geben wird, um die
+      ches ihre Lieblingsprojekte finanziert. Die Union muss          Vorgaben aus Brüssel zu erfüllen. Nachhaltige Flugkraft-
+      begreifen, dass die Schuldenbremse hier ein Innovations-        stoffe sind aktuell nur in sehr geringen Mengen verfügbar
+      hemmnis darstellt.                                              und mindestens fünfmal teurer als fossiles Kerosin. Da-
+                                                                      mit dennoch nachhaltige Flugkraftstoffe auf den Markt
+         Zum Schluss möchte ich noch einen positiven Aspekt           kommen, hat die EU verbindliche Beimischungsquoten
+      des Antrages aufgreifen, den die Union künftig beher-           für SAF festgelegt. Sie sollen den Produzenten einen
+      zigen sollte. In Ihrem Antrag fordern Sie, Menschen             langfristigen und breiteren Absatzmarkt ermöglichen.
+      und Güter auch vermehrt bei Kurzstrecken auf der
+      Schiene reisen respektive transportieren zu lassen. Damit          Als wären die EU-Vorgaben für 2025 nicht schon ge-
+      dies gelingen kann, müssen Sie endlich von Ihrem Fokus          nug, hatte die Ampel für die nächsten Jahre weitere
+      auf den Straßenverkehr abrücken. Wenn Sie weiterhin die         nationale Alleingänge beschlossen. Nun treibt das Bun-
+      Straße als Transportweg bevorzugen, können Sie im               desumweltministerium trotz des Ampel-Aus neue Re-
+      Flugverkehr noch so viel CO2 sparen, wie sie möchten.           gelungen für den Klimaschutz im Flugverkehr voran.
+      Was Sie vorne gewinnen, reißen Sie mit Ihrem Hinterteil         Medienberichten zufolge soll die umstrittene – europa-
+      wieder ein.                                                     rechtswidrige – nationale E-Kerosin-Quote in der Quote
+      26366           Deutscher Bundestag – 20. Wahlperiode – 203. Sitzung. Berlin, Donnerstag, den 5. Dezember 2024
+
+
+(A) für den gesamten Verkehr aufgehen (RED-III-Richtlinie).              Die Luftsicherheit ist – wie auch in den Zügen der (C)
+    Die Sonderrolle für den Luftverkehr soll damit endlich            Deutschen Bahn – eine Aufgabe im öffentlichen Interes-
+    aufgegeben werden.                                                se. Daher müssen die Luftsicherheitsgebühren – im Ein-
+                                                                      klang mit der „Neuen Welt“ – abgeschafft werden. Die
+         Damit besteht für die Luftverkehrsbranche nicht die
+                                                                      Flugsicherung muss effizienter und dadurch günstiger
+      Gefahr, für das Jahr 2026 Strafen für Kraftstoffverpflich-
+                                                                      werden. Wir Freie Demokraten werden nach der kom-
+      tungen zahlen zu müssen, die mangels Angebots gar nicht
+                                                                      menden Wahl dafür sorgen, dass Fliegen in Deutschland
+      erfüllt werden können. Das ist ein Schritt in die richtige
+                                                                      wieder bezahlbar wird.
+      Richtung; denn nationale Alleingänge nützen weder dem
+      Klimaschutz noch der Luftverkehrswirtschaft.                      Zuletzt möchte ich nach über 30 Jahren Politik (erneut)
+                                                                      auf einer persönlichen Note enden. Die Welt hat sich in
+        Schon heute sinkt im internationalen Vergleich die An-        den letzten Jahrzehnten stark und mit einer ungeheuren
+      bindungsqualität vieler wichtiger deutscher Wirtschafts-        Geschwindigkeit verändert. Meiner Meinung nach hat sie
+      regionen.                                                       vor allem enorm an Veränderbarkeit gewonnen. Es gibt
+        Nur eine effiziente Steuerung des Flugverkehrs trägt          mehr Politik, weil einfach auch mehr zu verändern ist.
+      dazu bei, dass weniger Treibstoff verbraucht wird.                  Hierin liegen große Herausforderungen, aber vor allem
+        Einnahmen aus der Luftverkehrsteuer sind zweckge-             große Chancen; für das Politische an sich und insbeson-
+      bunden für die Förderung von Produktion und Einsatz             dere den Liberalismus. In diesem Sinne wünsche ich mir,
+      von nachhaltigen Flugkraftstoffen sowie für die For-            dass sich viele junge Menschen entschließen, in die Po-
+      schung, Entwicklung und Flottenmodernisierung zu ver-           litik zu gehen. Wir alle brauchen sie.
+      wenden.
+         Verbindliche Quoten führen nicht zum Aufbau eines
+      sich selbst tragenden Marktes für nachhaltige Flugkraft-        Anlage 13
+      stoffe.
+        Klimaneutrales Fliegen erreicht man nicht, indem der                        Zu Protokoll gegebene Reden
+      Staat die Steuern und Abgaben ständig weiter erhöht,               zur Beratung des von der Bundesregierung ein-
+      sondern indem die Investitionen in innovative Techno-              gebrachten Entwurfs eines Gesetzes zur Erteilung
+      logien vorankommen.                                                der Zustimmung nach § 7 Absatz 2 in Verbindung
+                                                                         mit Absatz 1 des Integrationsverantwortungsgeset-
+        Jürgen Lenders (FDP):                                            zes zu dem Antrag der Europäischen Investitions-
+(B)                                                                      bank zur Änderung von Artikel 16 Absatz 5 ihrer (D)
+         Heute geht es um einen Antrag der CDU/CSU zum                   Satzung
+      klimaneutralen Fliegen.
+                                                                         (Zusatzpunkt 22)
+         Lieber Kollege Simon, wir haben bereits vor einigen
+      Wochen festgestellt, dass wir uns in vielen Punkten einig          Dr. Michael Meister (CDU/CSU):
+      sind. Leider kommt ihr Antrag etwas spät.
+                                                                        Mit dem Gesetzentwurf, der heute zur ersten Beratung
+         Die ab 2026 vorgesehene nationale Quote für die Bei-         ansteht, soll für die Bundesregierung die Ermächtigungs-
+      mischung von E-Kerosin im Luftverkehr steht im Wider-           grundlage geschaffen werden, einer Änderung der Sat-
+      spruch zu EU-Recht und führt zu Wettbewerbsnachteilen           zung der Europäischen Investitionsbank (EIB) zustim-
+      für unseren Standort. Sie können sicherlich bestätigen,         men zu können.
+      dass sogar Frau Dr. Anna Christmann die europäischen
+      Quoten für ausreichend hält. Daher fordern Sie auch zu-            Nach der derzeit geltenden Fassung der EIB-Satzung
+      recht, die Quote abzuschaffen – so auch wir als Fraktion        ist die Darlehensvergabe der Bank auf 250 Prozent des
+      der Freien Demokraten.                                          Eigenkapitals begrenzt. Diese Kennzahl (sogenannte
+                                                                      Gearing Ratio) als Indikator für die Ausleihkapazität
+        Denn wie für die deutsche Wirtschaft insgesamt bedarf         der Bank soll aus der EIB-Satzung gestrichen werden.
+      es auch für den Luftverkehrsstandort Deutschland einer          Dafür soll die Kennzahl künftig außerhalb der Satzung
+      Wirtschaftswende. Wir müssen endlich damit aufhören,            vom EIB-Gouverneursrat – dem die zuständigen Fach-
+      immer neue Hürden für unsere Industrie zu errichten und         minister der Mitgliedstaaten angehören – einstimmig be-
+      gegebene Versprechen zu brechen.                                schlossen werden.
+         Natürlich hat die deutsche Luftverkehrswirtschaft ih-          Die Satzungsänderung würde mithin eine einfachere
+      ren Beitrag zum Klimaschutz zu leisten, aber sie muss           und flexiblere Anpassung der Gearing Ratio ermögli-
+      dabei europäisch wie international wettbewerbsfähig             chen. Es ist bereits vereinbart – vorbehaltlich der Sat-
+      bleiben können. Hier waren die vergangenen Entschei-            zungsänderung –, die Gearing Ratio zukünftig auf
+      dungen der Bundesregierung, wie die Erhöhung der Luft-          290 Prozent anzuheben.
+      verkehrsteuer oder die Erhöhung der Höchstsätze bei den
+                                                                         Die vorgesehene Satzungsänderung geht zurück auf
+      Luftsicherheitsabgaben ganz klar Sündenfälle.
+                                                                      die Empfehlung eines Expertenpanels im Rahmen
+        Jetzt aber gilt es, in die Zukunft zu blicken: Die Luft-      eines G-20-Prozesses. Dieses hatte untersucht, ob die
+      verkehrsteuer in Deutschland muss schnellstmöglich ab-          Ausleihkapazität von multilateralen Entwicklungsban-
+      geschafft und durch eine endzielbezogene und flexible           ken (MDBs) ohne Kapitalerhöhungen gesteigert werden
+      europäische Lösung ersetzt werden.                              kann. Im Abschlussbericht des Panels wurde empfohlen,
+                     Deutscher Bundestag – 20. Wahlperiode – 203. Sitzung. Berlin, Donnerstag, den 5. Dezember 2024     26367
+
+
+(A) feste Ausleihgrenzen aus den Satzungen der MDBs zu               schaffen. Die EIB ist damit systemrelevant für struktu- (C)
+    entfernen und stattdessen von den Gremien der jewei-             relle und konkrete Verbesserung der Wirtschaft und der
+    ligen Bank festlegen zu lassen.                                  Lebensqualität innerhalb der EU.
+        Die CDU/CSU-Fraktion wird dem Gesetzentwurf zu-                 Auch Deutschland profitiert erheblich von den Finan-
+     stimmen. Ohne eine Anpassung der Gearing Ratio könnte           zierungen der EIB. Kleine und mittelständische Unter-
+     die EIB perspektivisch dazu gezwungen sein, ihre Akti-          nehmen in unserem Land hat die EIB letztes Jahr mit
+     vitäten zu drosseln und weniger zu investieren als derzeit.     1 Milliarde Euro unterstützt. Mit knapp 3,5 Milliarden
+     Gerade angesichts der enormen Herausforderungen etwa            Euro finanzierte die EIB nachhaltige Projekte in Städten
+     beim Klimaschutz oder im Bereich der Digitalisierung            und Regionen, wie zum Beispiel die S-Bahnen und Stra-
+     oder beim Thema Sicherheit und Verteidigung wäre es             ßenbahnen in München und Hannover oder energieeffi-
+     nicht gut und auch nicht sinnvoll, wenn die EIB ihre            zienten, bezahlbaren Wohnraum in Rostock und Berlin.
+     Aktivitäten reduzieren müsste.                                  Der Bau von 561 energieeffizienten Wohnungen, darun-
+                                                                     ter 118 Sozialwohnungen in Rostock, oder die Finanzie-
+       Im Juni 2024 wurde der Strategie-Fahrplan 2024–2027           rung eines Offshorewindparks bei Borkum sind Ausweis
+     der EIB-Gruppe vom Rat der Gouverneure gebilligt.               dafür, wie wichtig die öffentliche europäische Förder-
+     Diese Roadmap skizziert acht Kernprioritäten (Klima-            bank dabei ist, die großen Herausforderungen unserer
+     schutz, Digitalisierung und Innovation, Sicherheit und          Gesellschaft in den nächsten Jahren anzugehen.
+     Verteidigung, Kohäsion, Landwirtschaft und Bioökono-
+     mie, soziale Infrastruktur, wirkungsorientiertes Investie-         Diese Herausforderungen sind in den letzten Jahren
+     ren außerhalb der EU und Stärkung der europäischen              leider noch größer geworden. In ganz Europa und hier
+     Kapitalmärkte) und neue Programme, um daran mitzu-              bei uns merken wir bereits die drastischen Folgen des
+     wirken, Europas Investitionslücke zu schließen.                 Klimawandels, das Leid und die Kosten, die damit ver-
+                                                                     bunden sind. Die Investitionsbedarfe in Klimaschutz und
+        Die vorgesehene Anhebung der Gearing Ratio auf               -anpassung sind immens. Die EIB ist traditionell einer
+     290 Prozent gibt der EIB ausreichend Spielraum für die          der wichtigsten Geldgeber für konsequenten Klimaschutz
+     Umsetzung des Strategie-Fahrplans und für Investitionen         und die grüne Transformation der Wirtschaft und Ener-
+     in Bereichen wie saubere Energie, sozialer und territoria-      gieversorgung. Mehr als 50 Prozent der EIB-Investitio-
+     ler Zusammenhalt sowie Sicherheit und Verteidigung zur          nen fließen in nachhaltige Projekte, kein Geld fließt
+     Stärkung der strategischen Autonomie Europas.                   dagegen in fossile Energieträger. Damit ist die Bank Vor-
+       Der Fahrplan sendet insbesondere das klare Signal,            reiter und Vorbild für ein nachhaltiges Finanzwesen.
+    dass die EIB ihre wichtige Rolle als Finanzierungsein-           Dazu kommen die dringend benötigten Investitionen in
+                                                                     unsere Infrastruktur und Wirtschaft.
+(B) richtung der EU festigen und sie auch weiter entschlossen                                                                     (D)
+    zur Krisenfestigkeit Europas beitragen will.                        Diese wichtigen Investitionen allein wären schon aus-
+        Ein weiterer Aspekt kommt aber noch hinzu, warum             reichend, um dem Gesetzentwurf zuzustimmen und der
+     wir dem Gesetzentwurf zustimmen können: Durch das               EIB durch die Zustimmung des Deutschen Vertreters im
+     Einstimmigkeitserfordernis im Gouverneursrat bei künf-          Ecofin-Rat mehr finanziellen Spielraum für 2025 zu er-
+     tigen Entscheidungen über die Höhe der Gearing Ratio            möglichen. Doch die Herausforderungen für Deutschland
+     behält Deutschland als EIB-Anteilseigner eine starke            und Europa sind seit der russischen Invasion in der
+     Rolle. Die notwendige Einstimmigkeit sichert unserem            Ukraine nur noch größer geworden. Die Welt ist voller
+     Land, das rund 19 Prozent der Anteile der EIB hält,             geopolitischer Risiken, und sie ist unsicherer geworden.
+     eine direkte Einflussnahme. Dieser Aspekt ist sehr wich-        Um diese Probleme anzugehen, müssen wir geeint und
+     tig; denn man darf nicht vergessen: Erleidet die EIB Ver-       gemeinsam in Europa handeln – und es braucht Geld.
+     luste, so haftet die Bundesrepublik mit ihrem Anteil am            Die EIB unterstützt in der Ukraine zum Beispiel den
+     gezeichneten Kapital der EIB.                                   Wiederaufbau der von Russland zerstörten Energieinfra-
+                                                                     struktur. Das hilft nicht nur der Ukraine, in schlimmen
+       Abschließend möchte ich noch betonen, dass ich die in
+                                                                     Kriegszeiten zu überwintern, sondern kommt auch unse-
+     den letzten Jahren erfolgten Fortschritte mit Blick auf das
+                                                                     ren europäischen Sicherheitsinteressen zugute. In diesen
+     Thema Risikomanagement und Aufsicht bei der EIB an-
+                                                                     Zeiten müssen auch wir in Europa wieder mehr in unsere
+     erkenne. Allerdings halte ich es für ebenso wichtig wie
+                                                                     Sicherheit investieren. Die EIB soll hierbei eine wichtige
+     angezeigt, dass man beim Status quo nicht stehen bleibt,
+                                                                     Rolle übernehmen, indem sie kleine und mittelständische
+     sondern sich für weitere Verbesserungen einsetzt.
+                                                                     Unternehmen im Sicherheits- und Verteidigungssektor
+                                                                     fördert, zum Beispiel im Cybersecurity-Sektor. Solche
+       Katharina Beck (BÜNDNIS 90/DIE GRÜNEN):                       strategischen Investitionen sind sinnvoll, notwendig und
+                                                                     richtig – genauso wie der Fokus auf KMUs und jungen
+        Die EIB ist eine enorm wichtige Förderbank für die
+                                                                     Unternehmen, um Innovation zu fördern und Lücken im
+     Zukunftsfähigkeit von Europa. Sie unterstützt wichtige
+     Transformationsprojekte in den Bereichen Klima, Ge-             privaten Kapitalmarkt zu schließen. Ebenso richtig ist
+     sundheit und Infrastruktur. Die Investitionen der EIB           aber auch der klare und eindeutige Ausschluss der För-
+     leisten einen wesentlichen Beitrag zur europäischen             derung von Waffen.
+     Wirtschaft: Allein die im Jahr 2023 getätigten Gesamt-             Wir werben für die Zustimmung zu dem Gesetzent-
+     investitionen der Bankengruppe werden 270 Milliarden            wurf und damit der Satzungsänderung bei der EIB. Sollte
+     Euro an Investitionen in der EU anstoßen, voraussichtlich       die sogenannte Gearing Ratio nicht aus der Satzung ge-
+     das BIP um 1 Prozent steigern und fast 1,5 Millionen Jobs       strichen werden – wie von dem G-20-Expertenpanel für
+     26368           Deutscher Bundestag – 20. Wahlperiode – 203. Sitzung. Berlin, Donnerstag, den 5. Dezember 2024
+
+
+(A) multilaterale Entwicklungsbanken empfohlen –, dann                  Klar ist aber auch, dass eine Verlängerung nur eine (C)
+    müsste die EIB ab 2025 entscheiden: Investitionen in             Überbrückung sein kann. Am Ende braucht es keinen
+    Klimaschutz, in Infrastruktur, in die Förderung von              Blumenstrauß an Förderinstrumenten. Am Ende braucht
+    KMUs oder in die Förderung der europäischen Sicher-              es einen Kapazitätsmechanismus, der die Energieversor-
+    heitsinteressen. Da alle diese Sektoren wichtig sind und         gung absichert. Deshalb kann man die Verlängerung des
+    die Investitionen zusammen einen wichtigen Beitrag für           KWKG nur in Verbindung mit der Kraftwerksstrategie,
+    ein besseres, nachhaltiges und sicheres Europa leisten,          dem Kraftwerkssicherungsgesetz und dem Kapazitäts-
+    wäre eine Ablehnung des Gesetzentwurfs fatal. Eine Fle-          mechanismus sehen. Beides braucht es für eine sichere
+    xibilisierung der Gearing Ratio ermöglicht der EIB mehr          Versorgung in der Zukunft.
+    finanziellen Spielraum, ohne dafür mehr Eigenkapital der
+    Länder zu benötigen. Gleichzeitig hat die Ratio als Volu-           Ich erwarte, dass die Union sich offen zeigt beim
+    mensteuerungsgröße keine qualitative Aussagekraft über           Kraftwerkssicherungsgesetz. Wir können es uns nicht
+    das bisher ausgezeichnete Risikoprofil der EIB. Es ist           leisten, länger darauf zu warten. Das Gesetz muss noch
+    daher folgerichtig, die Beschränkung aus der Satzung             in dieser Wahlperiode kommen. Die Unternehmen, die
+    zu lösen und den Weg für das Gesetz noch in diesem               Branche, die Bürgerinnen und Bürger brauchen Sicher-
+    Jahr freizumachen.                                               heit.
+                                                                       Diese Sicherheit müssen wir, muss die Politik geben.
+                                                                     Wir müssen die Rahmenbedingungen setzen: für eine
+                                                                     gelingende Energiewende, für eine nachhaltige Zukunft.
+     Anlage 14
+                                                                        Ich freue mich auf die Beratungen im Ausschuss.
+                 Zu Protokoll gegebene Reden
+       zur Beratung des von der Fraktion der CDU/CSU                    Mark Helfrich (CDU/CSU):
+       eingebrachten Entwurfs eines Gesetzes zur Ände-                 Ich freue mich, dass wir heute zu später Stunde zu-
+       rung des Kraft-Wärme-Kopplungsgesetzes                        sammenkommen und endlich über die Verlängerung des
+       (Zusatzpunkt 23)                                              Kraft-Wärme-Kopplungsgesetzes sprechen.
+                                                                        Die Stadtwerke, die Industrie, die Hersteller und die
+       Markus Hümpfer (SPD):                                         Verbände haben seit Monaten unisono vor einem Aus-
+      Kraft-Wärme-Kopplung war und ist eine notwendi-                laufen der KWK-Förderung für Neuanlagen gewarnt.
+    ge Technologie. Nur mit ihrer Hilfe schaffen wir einen           Doch sind die zahlreichen Hilferufe viel zu lange unge-
+(B) schnellen Übergang in die klimaneutrale Energieversor-           hört verhallt, und die Ampel hat wertvolle Zeit verstrei- (D)
+    gung. Nur mit ihrer Hilfe schaffen wir die Dekarbonisie-         chen lassen und bereits jetzt Schaden angerichtet.
+    rung des Gebäudesektors.
+                                                                        Zum Glück sind wir als Union schon lange im Aus-
+        Landauf, landab gibt es eine Vielzahl an KWK-Anla-           tausch mit den vielen Akteuren und legen heute einen
+     gen – kleine, mittlere, große. Jede dieser Anlagen ist          Gesetzentwurf vor, um die Technologie und die Branche
+     wertvoll, und jede dieser Anlagen wird benötigt. Viele          nicht weiter unnötig auszubremsen. Wir können uns auf
+     Kommunen, viele Stadtwerke haben sich in den vergan-            dem langen Weg der Energiewende keinen Stopp bei
+     genen Jahren dazu entschlossen, weitere Anlagen zu bau-         KWK-Projekten leisten. Doch genau dazu führt die ak-
+     en. Sie betreiben damit Nah- und Fernwärmenetze, Sie            tuelle Anschlussfrist – und zwar nicht erst Ende 2026,
+     erzeugen damit Strom, Sie leisten damit einen Beitrag zur       sondern wegen der langen Vorlaufzeiten bereits jetzt.
+     sicheren und nachhaltigen Versorgung der Menschen in
+     diesem Land.                                                       Ich möchte hier aber auch deutlich sagen, dass wir
+                                                                     diese Gesetzesänderung nur als ersten Meilenstein ver-
+        Aktuell aber herrscht Unsicherheit. Das Kraft-Wärme-
+                                                                     stehen, um unmittelbaren Schaden abzuwenden. Wir
+     Kopplungsgesetz läuft Ende 2026 aus. Viele Anlagen
+                                                                     brauchen neben dieser Änderung dringend eine grund-
+     sind aber bis dahin noch nicht in Betrieb. Die nachhaltige
+                                                                     legende Überarbeitung des Gesetzes, um langfristig alle
+     Wärmeversorgung der Zukunft droht zu scheitern.
+                                                                     Potenziale der Kraft-Wärme-Kopplung zu heben.
+        Andere Fördermechanismen sind noch nicht auf den
+     Weg gebracht. Die Kraftwerksstrategie, der Kapazitäts-             So lassen wir aktuell noch große Möglichkeiten
+     mechanismus: Beides wird in der Kürze der Zeit nicht            links liegen. Der Bundesverband Kraft-Wärme-Kopp-
+     helfen können. Deshalb freut es mich, dass fraktionsüber-       lung hatte nach einer internen Erhebung schon im April
+     greifend klar ist, dass eine Verlängerung des KWKG not-         2024 mitgeteilt, dass problemlos ein jährlicher Zubau von
+     wendig und dringend geboten ist. Das hat die Koalition          6 GW an Back-up-Kapazitäten möglich wäre. Warum das
+     frühzeitig erkannt.                                             Bundeswirtschaftsministerium bzw. die Bundesregierung
+                                                                     und die sie tragenden Fraktionen diese Offerte nicht
+        Eine Verlängerung ist im Rahmen des Kraftwerks-              längst dankend aufgegriffen haben, erschließt sich uns
+     sicherungsgesetzes vorgesehen. Das hat aber auch die            als Union schlichtweg nicht.
+     Union erkannt und heute einen Gesetzentwurf einge-
+     bracht. Das hätte ich mir schon viel früher gewünscht –           Immer wieder wird in diesem Zusammenhang auch die
+     konstruktive Oppositionsarbeit. Dass das anscheinend            schwache Ausrede der noch ausstehenden gerichtlichen
+     geht, sieht man heute, auch wenn Sie sonst Totalverwei-         Prüfung des KWKG durch den Europäischen Gerichtshof
+     gerer sind.                                                     bemüht. Doch wer sich die Begründung des erstinstanz-
+                     Deutscher Bundestag – 20. Wahlperiode – 203. Sitzung. Berlin, Donnerstag, den 5. Dezember 2024   26369-26384
+
+
+(A) lichen Januar-Urteils genau durchliest, kommt unweiger-          ist so schnell wie möglich beabsichtigt. – Warum die (C)
+    lich zu dem Schluss, dass wir keine Angst haben sollten          Bundesregierung in Anbetracht ihrer eigenen Einschät-
+    vor der letztinstanzlichen Entscheidung.                         zung bis heute das KWKG in Geiselhaft für das koaliti-
+         Doch nun zurück zur Praxis: Schaut man auf die zu-          onsintern immer noch nicht geeinte Kraftwerkssicher-
+      nehmende Komplexität der Anlagen und die damit stei-           heitsgesetz nimmt, bleibt wohl ein rot-grünes Geheimnis.
+      genden Planungszeiten, so wird klar: Wir brauchen hier
+                                                                        Ich kann Ihnen schon heute versprechen, mit der Union
+      neue praxistaugliche Fristen und Ansätze. So besteht zum
+                                                                     an der Regierung wird dieser Stillstand endlich beendet.
+      Beispiel Anpassungsbedarf bei den Höchstsätzen für die
+                                                                     Wir werden weder die dringend notwendige grundhafte
+      EU-Einzelfallnotifizierung auf die neuen Obergrenzen
+                                                                     Überarbeitung des KWKG noch die Reparatur des EGG
+      der Allgemeinen Gruppenfreistellungsverordnung. Auch
+                                                                     im Bereich Biogas auf die lange Bank schieben. Und
+      müssen wir die industrielle Kraft-Wärme-Kopplung stär-
+                                                                     deswegen legen wir als Union schon heute die erste Ge-
+      ken, indem wir Industrieabwärme im Rahmen der iKWK
+                                                                     setzesänderung vor, um die Vollbremsung bei der Kraft-
+      zulassen. Und wir sollten endlich die Umrüstung von
+                                                                     Wärme-Kopplung zu verhindern.
+      KWK-Anlagen auf Wasserstoff im Rahmen der Moder-
+      nisierung nach § 8 KWKG ermöglichen.                              Wenn Ihnen also wirklich an der Zukunft der Kraft-
+        Dass nicht nur wir als Union die dringende Notwendig-        Wärme-Kopplung gelegen ist, springen Sie über Ihren
+      keit dieser Gesetzesänderung sehen, teilte uns übrigens        Schatten. Mit der Zustimmung zu unserem Gesetzent-
+      das Bundeswirtschaftsministeriums Mitte November mit:          wurf haben Sie die Chance, auf den letzten Metern die-
+      Dem Ministerium ist die Dringlichkeit der Verlängerung         ser Wahlperiode einen Fadenriss bei der Kraft-Wärme-
+      sehr bewusst und eine investitionssichere Verlängerung         Kopplung doch noch abzuwenden.
+
+
+
+
+(B)                                                                                                                                 (D)
+       Gesamtherstellung: H. Heenemann GmbH & Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de
+Vertrieb: Bundesanzeiger Verlag GmbH, Postfach 10 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.bundesanzeiger-verlag.de
+                                                                  ISSN 0722-8333
+

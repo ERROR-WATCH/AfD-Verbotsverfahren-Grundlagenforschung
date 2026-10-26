@@ -1,0 +1,336 @@
+{
+  "stand": "2026-07-09",
+  "zweck": "Inhaltliche Matrix der 18 im Portal gefuehrten Verbotsgruende als Massstab fuer den Statistik-Tab.",
+  "methodik": "Jeder Verbotsgrund wird nicht als isolierter Vorwurf, sondern als Beweisthema codiert: Rechtsgut, tragende Quellenarten, vorhandene Zahlen, Visualisierung und statusgetrennte Primaerquellen.",
+  "verbotsgruende": [
+    {
+      "id": 1,
+      "titel": "Beseitigung der Demokratie",
+      "rechtsgut": [
+        "Demokratieprinzip",
+        "Darauf-Ausgehen"
+      ],
+      "beweisthese": "Die AfD greift demokratische Institutionen nicht nur politisch an, sondern delegitimiert Parlament, Parteien, Medien, Verfassungsschutz und politische Gegner als feindliches System.",
+      "tragende_quellen": [
+        "GFF Teil Demokratie",
+        "BfV Demokratieprinzip",
+        "VS-Berichte Laender",
+        "Zitatkorpus"
+      ],
+      "zahlen": {
+        "findings_demokratieprinzip": 715
+      },
+      "diagramm": "Timeline und Heatmap: Institution -> Angriffsmuster -> Akteursebene"
+    },
+    {
+      "id": 2,
+      "titel": "Verletzung der Menschenwuerde",
+      "rechtsgut": [
+        "Menschenwuerde",
+        "Gleichheit",
+        "Zugehoerigkeit"
+      ],
+      "beweisthese": "Ethnischer Volksbegriff, Remigrationslogik und gruppenbezogene Entwertung stellen gleiche Rechtssubjektivitaet und gleichberechtigte Zugehoerigkeit in Frage.",
+      "tragende_quellen": [
+        "GFF Menschenwuerde",
+        "DIMR",
+        "BfV Menschenwuerde",
+        "LfV Sachsen-Anhalt/Thueringen/Brandenburg/Niedersachsen"
+      ],
+      "zahlen": {
+        "findings_menschenwuerde": 354
+      },
+      "diagramm": "Sankey: Zielgruppe -> Entwertungsmuster -> Rechtsfolge"
+    },
+    {
+      "id": 3,
+      "titel": "Systematischer Rassismus und voelkischer Nationalismus",
+      "rechtsgut": [
+        "Menschenwuerde",
+        "FDGO"
+      ],
+      "beweisthese": "Die Quellen beschreiben einen voelkisch-ethnischen Volksbegriff, der Staatsangehoerige und Einwohner nach Abstammung, Kultur oder Religion politisch ungleich bewertet.",
+      "tragende_quellen": [
+        "BfV Folgegutachten",
+        "GFF",
+        "DIMR",
+        "LfV-Berichte"
+      ],
+      "zahlen": {
+        "laender_mit_hartem_voelkisch_befund": 8
+      },
+      "diagramm": "Deutschlandkarte plus Balken: harte Laenderbefunde"
+    },
+    {
+      "id": 4,
+      "titel": "Aggressiv-kaempferische Haltung",
+      "rechtsgut": [
+        "Darauf-Ausgehen",
+        "Demokratieprinzip"
+      ],
+      "beweisthese": "Nicht jede harte Polemik genuegt; relevant sind Wiederholung, Organisationsmacht, Einschuechterung, Feindmarkierung und Handlungsorientierung.",
+      "tragende_quellen": [
+        "GFF Darauf-Ausgehen",
+        "BfV Gesamtwuerdigung",
+        "Urteilsregister",
+        "Zitatkorpus"
+      ],
+      "zahlen": {
+        "findings_darauf_ausgehen": 60
+      },
+      "diagramm": "Matrix: Rhetorik -> Kampagne -> Handlung -> Zurechnung"
+    },
+    {
+      "id": 5,
+      "titel": "Wesensverwandtschaft mit dem Nationalsozialismus",
+      "rechtsgut": [
+        "FDGO",
+        "Menschenwuerde",
+        "NS-Bezug"
+      ],
+      "beweisthese": "NS-Bezuege sind statistisch relevant, aber nach GFF nicht zwingend tragende Hauptachse. Sie stuetzen vor allem Muster von Geschichtsrevisionismus, Codes und Milieubindung.",
+      "tragende_quellen": [
+        "BfV NS-Bezug",
+        "Urteile Hoecke",
+        "Gerichtsregister",
+        "Zitatkorpus"
+      ],
+      "zahlen": {},
+      "diagramm": "Balken: Strafurteile, Codes, Revisionismus, Neonazi-Kontakte"
+    },
+    {
+      "id": 6,
+      "titel": "Untergrabung der Gewaltenteilung",
+      "rechtsgut": [
+        "Rechtsstaatsprinzip",
+        "Demokratieprinzip"
+      ],
+      "beweisthese": "Angriffe auf Justiz, Verfassungsschutz, Rundfunk- und Kontrollinstitutionen muessen danach getrennt werden, ob sie legitime Kritik oder delegitimierende Systemrhetorik sind.",
+      "tragende_quellen": [
+        "GFF Rechtsstaat",
+        "BfV Demokratie/Rechtsstaat",
+        "Gerichtsregister"
+      ],
+      "zahlen": {
+        "findings_rechtsstaatsprinzip": 714
+      },
+      "diagramm": "gestapelte Balken nach Institution"
+    },
+    {
+      "id": 7,
+      "titel": "Vorbereitung eines bewaffneten Staatsstreichs",
+      "rechtsgut": [
+        "Sicherheit des Bundes",
+        "FDGO",
+        "Zurechnung"
+      ],
+      "beweisthese": "Dieser Grund ist nur tragfaehig, wenn der Bezug zur Partei oder zu Funktionstraegern sauber von Reichsbuerger-/Terrorverfahren getrennt wird.",
+      "tragende_quellen": [
+        "Gerichtsregister",
+        "GBA/BGH-Quellen",
+        "lokale Hauptquellen"
+      ],
+      "zahlen": {},
+      "diagramm": "Zurechnungskette: Person -> Funktion -> Verfahren -> Parteibezug"
+    },
+    {
+      "id": 8,
+      "titel": "Geheimdienstliche Kooperation und Spionage",
+      "rechtsgut": [
+        "Bestand/Sicherheit des Bundes",
+        "Auslandsbezug",
+        "Vertrauenswuerdigkeit"
+      ],
+      "beweisthese": "Spionage- und Russland/China-Komplexe sind fuer Sicherheitsrisiko und politische Einflussnahme relevant, muessen aber von FDGO-Kernbeweisen getrennt gewichtet werden.",
+      "tragende_quellen": [
+        "Urteilsregister",
+        "Presse-/Gerichtsquellen Krah/Jian G.",
+        "VS-Berichte Spionageabwehr"
+      ],
+      "zahlen": {},
+      "diagramm": "Netzwerk: Akteur -> auslaendischer Staat -> Funktion/Partei"
+    },
+    {
+      "id": 9,
+      "titel": "Unterwanderung des Sicherheitsbereichs",
+      "rechtsgut": [
+        "Rechtsstaat",
+        "Sicherheit",
+        "Potentialitaet"
+      ],
+      "beweisthese": "Relevant sind Beamten-, Polizei-, Bundeswehr-, Waffen- und Sicherheitsueberpruefungskontexte als Durchsetzungs- und Gefahrenpotenzial.",
+      "tragende_quellen": [
+        "VS-Berichte",
+        "Hauptquellen Beamtenstatus/Waffen",
+        "Gerichtsregister"
+      ],
+      "zahlen": {},
+      "diagramm": "Balken: Polizei/Bundeswehr/Waffen/Beamtenrecht"
+    },
+    {
+      "id": 10,
+      "titel": "Desinformation und Destabilisierung",
+      "rechtsgut": [
+        "Demokratieprinzip",
+        "Rechtsstaat",
+        "Darauf-Ausgehen"
+      ],
+      "beweisthese": "Desinformation ist verbotsrelevant, wenn sie systematisch Vertrauen in demokratische Verfahren zerstören und politische Gegner entmenschlichen soll.",
+      "tragende_quellen": [
+        "BfV Demokratieprinzip",
+        "VS-Berichte Delegitimierung",
+        "Zitatkorpus",
+        "GFF"
+      ],
+      "zahlen": {},
+      "diagramm": "Timeline und Cluster: Narrativ -> Zielinstitution -> Wirkung"
+    },
+    {
+      "id": 11,
+      "titel": "Homophobie und gruppenbezogene Menschenfeindlichkeit",
+      "rechtsgut": [
+        "Menschenwuerde",
+        "Gleichheit"
+      ],
+      "beweisthese": "Queer- und Transfeindlichkeit ist als Menschenwuerdeachse eigenstaendig darzustellen, nicht nur als Nebenthema von Migration.",
+      "tragende_quellen": [
+        "GFF",
+        "LfV Berlin/Bremen/NRW",
+        "Gerichtsregister"
+      ],
+      "zahlen": {},
+      "diagramm": "Zielgruppenmatrix"
+    },
+    {
+      "id": 12,
+      "titel": "Gezielte Sabotage parlamentarischer Organe",
+      "rechtsgut": [
+        "Demokratieprinzip",
+        "Rechtsstaatsprinzip"
+      ],
+      "beweisthese": "Zu unterscheiden sind harte parlamentarische Opposition, Missbrauch von Verfahrensrechten und aktive Blockade verfassungsstaatlicher Organe.",
+      "tragende_quellen": [
+        "Gerichtsregister",
+        "BVerfG-/Landesverfassungsgerichtsquellen",
+        "Parlamentsprotokolle"
+      ],
+      "zahlen": {},
+      "diagramm": "Verfahrensgraph: Organ -> Handlung -> Entscheidung"
+    },
+    {
+      "id": 13,
+      "titel": "Vorfeld-Kooperation mit gewaltbereiten Extremisten",
+      "rechtsgut": [
+        "Zurechnung",
+        "Potentialitaet",
+        "Darauf-Ausgehen"
+      ],
+      "beweisthese": "Vorfeld ist nur belastbar, wenn personelle, organisatorische, kommunikative oder kampagnenfoermige Bruecken zur AfD/JA belegt sind.",
+      "tragende_quellen": [
+        "GFF Vorfeld",
+        "BfV Verbindungen",
+        "LfV Bayern/NRW/RP/Hessen",
+        "CeMAS/IB/Active-Clubs-Quellen"
+      ],
+      "zahlen": {
+        "vorfeldachsen_im_statusmodell": 1
+      },
+      "diagramm": "Netzwerkgraph"
+    },
+    {
+      "id": 14,
+      "titel": "Illegale Parteifinanzierung",
+      "rechtsgut": [
+        "Chancengleichheit der Parteien",
+        "Rechtsstaat",
+        "Vertrauenswuerdigkeit"
+      ],
+      "beweisthese": "Parteienfinanzierung ist eher Rechtsstaats-/Integritaetsbeleg als FDGO-Kernbeweis; sie sollte als eigener Compliance-Block mit Urteilen/Bescheiden laufen.",
+      "tragende_quellen": [
+        "BVerwG/Bundestagsverwaltung",
+        "Gerichtsregister",
+        "Hauptquellen Spenden"
+      ],
+      "zahlen": {},
+      "diagramm": "Timeline: Spende -> Bescheid -> Gericht -> Sanktion"
+    },
+    {
+      "id": 15,
+      "titel": "Angriffe auf Presse- und Informationsfreiheit",
+      "rechtsgut": [
+        "Demokratieprinzip",
+        "Meinungs-/Pressefreiheit"
+      ],
+      "beweisthese": "Relevant sind Feindmarkierung, Ausschluss, Einschuechterung und Systemmedien-/Luegenpresse-Narrative als Angriff auf demokratische Oeffentlichkeit.",
+      "tragende_quellen": [
+        "BfV Demokratieprinzip",
+        "GFF",
+        "Zitatkorpus",
+        "Pressebelege"
+      ],
+      "zahlen": {},
+      "diagramm": "Heatmap: Medien/Journalisten/OERR -> Angriffstyp"
+    },
+    {
+      "id": 16,
+      "titel": "Missbrauch von Missbrauchsthemen",
+      "rechtsgut": [
+        "Demokratieprinzip",
+        "Menschenwuerde",
+        "Desinformation"
+      ],
+      "beweisthese": "Dieser Grund ist nur tragfaehig, wenn Instrumentalisierung, Doppelmoral und Parteizurechnung sauber von Einzelfaellen und Verdachtsfaellen getrennt werden.",
+      "tragende_quellen": [
+        "Gerichtsregister",
+        "Bannon/Epstein-Dossier",
+        "lokale Hauptquellen"
+      ],
+      "zahlen": {},
+      "diagramm": "Quellenampel: verurteilt / angeklagt / Verdacht / Kontext"
+    },
+    {
+      "id": 17,
+      "titel": "Antisemitische Verschwoerungsnarrative",
+      "rechtsgut": [
+        "Menschenwuerde",
+        "FDGO",
+        "Demokratieprinzip"
+      ],
+      "beweisthese": "Antisemitismus erscheint als NS-/Menschenwuerde- und Delegitimierungsachse: Soros-/Finanzelite-/Globalisten-Chiffren, Schuldabwehr, Israelbezuege und Revisionismus.",
+      "tragende_quellen": [
+        "LfV NRW",
+        "BfV",
+        "Gerichtsregister",
+        "Zitatkorpus"
+      ],
+      "zahlen": {
+        "antisemitische_straftaten_nrw_2024": 695,
+        "rechtsextremistische_antisemitische_straftaten_bund_2025": 2821
+      },
+      "diagramm": "Balken + Chiffrenmatrix"
+    },
+    {
+      "id": 18,
+      "titel": "Gefaehrdung des Schulfriedens / Denunziation",
+      "rechtsgut": [
+        "Demokratieprinzip",
+        "Menschenwuerde",
+        "Freiheit demokratischer Bildung"
+      ],
+      "beweisthese": "Denunziationsportale und Einschuechterung von Lehrkraeften sind als Angriff auf demokratische Bildung und freie politische Urteilsbildung zu codieren.",
+      "tragende_quellen": [
+        "Presse-/Parlamentsquellen",
+        "GFF Einschuechterung",
+        "Zitatkorpus"
+      ],
+      "zahlen": {},
+      "diagramm": "Akteurs-/Zielgruppenmatrix"
+    }
+  ],
+  "statusgetrennte_arbeitsauftraege": [
+    "Jeden der 18 Gruende mit primaeren Fundstellen aus zitate/, Gerichtsregister und Gutachten verknuepfen.",
+    "Gruende 7, 8, 9, 14, 16 besonders streng nach Zurechnung gewichten; dort droht sonst Ueberdehnung.",
+    "Gruende 1, 2, 3, 4, 6, 11, 13, 15, 17 und 18 koennen als Kernachsen im Statistik-Tab stark visualisiert werden.",
+    "GFF-Grenzfallkategorien sichtbar machen, damit juristisch schwache Belege nicht wie harte Befunde erscheinen."
+  ]
+}

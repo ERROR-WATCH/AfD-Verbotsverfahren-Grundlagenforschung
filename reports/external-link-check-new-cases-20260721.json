@@ -1,0 +1,107 @@
+[
+  {
+    "case": 289,
+    "url": "https://apollo-news.net/grnen-politiker-janosch-dahmen-als-lappen-bezeichnet-brger-zu-1800-euro-strafe-verurteilt/",
+    "exit": 0,
+    "http": "200 https://apollo-news.net/grnen-politiker-janosch-dahmen-als-lappen-bezeichnet-brger-zu-1800-euro-strafe-verurteilt/",
+    "stderr": ""
+  },
+  {
+    "case": 290,
+    "url": "https://www.haz.de/lokales/umland/pattensen/pattensen-amtsgericht-springe-verurteilt-afd-mitglied-und-kandidat-fuer-stadtrat-76XCP6AGK5D2FEPAJ7KE3E5LOE.html",
+    "exit": 0,
+    "http": "403 https://www.haz.de/lokales/umland/pattensen/pattensen-amtsgericht-springe-verurteilt-afd-mitglied-und-kandidat-fuer-stadtrat-76XCP6AGK5D2FEPAJ7KE3E5LOE.html",
+    "stderr": ""
+  },
+  {
+    "case": 291,
+    "url": "https://www.tagesspiegel.de/berlin/wenn-ihr-sowas-postet-bill-kaulitz-gewinnt-gegen-berliner-afd-politiker-vor-gericht-15569561.html",
+    "exit": 0,
+    "http": "200 https://www.tagesspiegel.de/berlin/wenn-ihr-sowas-postet-bill-kaulitz-gewinnt-gegen-berliner-afd-politiker-vor-gericht-15569561.html",
+    "stderr": ""
+  },
+  {
+    "case": 292,
+    "url": "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101118436/muenchen-afd-will-verurteilten-moerder-fuer-stadtrat-nominieren.html",
+    "exit": 0,
+    "http": "200 https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101118436/muenchen-afd-will-verurteilten-moerder-fuer-stadtrat-nominieren.html",
+    "stderr": ""
+  },
+  {
+    "case": 293,
+    "url": "https://www.tz.de/muenchen/stadt/muenchen-sechs-anklagen-und-strafbefehle-afd-mann-schlug-journalisten-am-marienplatz-jetzt-kassierte-er-seine-strafe-92353661.html",
+    "exit": 0,
+    "http": "200 https://www.tz.de/muenchen/stadt/muenchen-sechs-anklagen-und-strafbefehle-afd-mann-schlug-journalisten-am-marienplatz-jetzt-kassierte-er-seine-strafe-92353661.html",
+    "stderr": ""
+  },
+  {
+    "case": 294,
+    "url": "https://volksverpetzer.de/serie/verurteilte-afd-mitglieder/",
+    "exit": 0,
+    "http": "200 https://volksverpetzer.de/serie/verurteilte-afd-mitglieder/",
+    "stderr": ""
+  },
+  {
+    "case": 295,
+    "url": "https://correctiv.org/faktencheck/2023/08/31/collage-mit-neun-angeblichen-afd-politiker-zitaten-kursiert-die-meisten-sind-echt/",
+    "exit": 0,
+    "http": "200 https://correctiv.org/faktencheck/2023/08/31/collage-mit-neun-angeblichen-afd-politiker-zitaten-kursiert-die-meisten-sind-echt/",
+    "stderr": ""
+  },
+  {
+    "case": 296,
+    "url": "https://www.ksta.de/politik/nrw-politik/afd-nrw-wegen-antisemitischem-angriff-verurteilter-mitarbeiter-darf-teile-des-landtags-nicht-betreten-817871",
+    "exit": 0,
+    "http": "200 https://www.ksta.de/politik/nrw-politik/afd-nrw-wegen-antisemitischem-angriff-verurteilter-mitarbeiter-darf-teile-des-landtags-nicht-betreten-817871",
+    "stderr": ""
+  },
+  {
+    "case": 297,
+    "url": "https://archive.vn/2026.01.14-122047/https%3A/www.westfalen-blatt.de/owl/kreis-minden-luebbecke/espelkamp/afd-kandidat-rechtskraftig-verurteilt-830197",
+    "exit": 0,
+    "http": "429 https://archive.vn/2026.01.14-122047/https%3A/www.westfalen-blatt.de/owl/kreis-minden-luebbecke/espelkamp/afd-kandidat-rechtskraftig-verurteilt-830197",
+    "stderr": ""
+  },
+  {
+    "case": 298,
+    "url": "https://www.hiergeblieben.de/pages/textanzeige.php?id=57255&limit=50...z..&order=titel&richtung=DESC&z=775",
+    "exit": 0,
+    "http": "423 http://www.hiergeblieben.de/pages/textanzeige.php?id=57255&limit=50...z..&order=titel&richtung=DESC&z=775",
+    "stderr": ""
+  },
+  {
+    "case": 299,
+    "url": "https://www.zebraev.de/aktuelles-2/6/",
+    "exit": 0,
+    "http": "200 https://www.zebraev.de/aktuelles-2/6/",
+    "stderr": ""
+  },
+  {
+    "case": 300,
+    "url": "https://www.n-tv.de/regionales/bayern/AfD-Politiker-will-Pfefferspray-Urteil-nicht-hinnehmen-article25476973.html",
+    "exit": 0,
+    "http": "200 https://www.n-tv.de/regionales/bayern/AfD-Politiker-will-Pfefferspray-Urteil-nicht-hinnehmen-article25476973.html",
+    "stderr": ""
+  },
+  {
+    "case": 301,
+    "url": "https://volksverpetzer.de/serie/urteile-kw-49-pandemie-leugner-afd/",
+    "exit": 0,
+    "http": "200 https://volksverpetzer.de/serie/urteile-kw-49-pandemie-leugner-afd/",
+    "stderr": ""
+  },
+  {
+    "case": 302,
+    "url": "https://www.radioguetersloh.de/nachrichten/kreis-guetersloh/gefaelschter-impfpass-ehemaliger-afd-kreisvorsitzender-muss-2100-euro-zahlen.html",
+    "exit": 0,
+    "http": "200 https://www.radioguetersloh.de/nachrichten/kreis-guetersloh/gefaelschter-impfpass-ehemaliger-afd-kreisvorsitzender-muss-2100-euro-zahlen.html",
+    "stderr": ""
+  },
+  {
+    "case": 303,
+    "url": "https://volksverpetzer.de/serie/urteile-kw-49-pandemie-leugner-afd/",
+    "exit": 0,
+    "http": "200 https://volksverpetzer.de/serie/urteile-kw-49-pandemie-leugner-afd/",
+    "stderr": ""
+  }
+]

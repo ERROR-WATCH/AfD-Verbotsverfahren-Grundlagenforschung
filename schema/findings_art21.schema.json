@@ -1,0 +1,52 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "required": [
+    "finding_id",
+    "source_id"
+  ],
+  "properties": {
+    "finding_id": {
+      "type": "string"
+    },
+    "source_id": {
+      "type": "string"
+    },
+    "exact_fundstelle": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "pinpoint": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "afd_zurechnung": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "akteursebene": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "beweistufe": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "evidence_grade": {
+      "type": [
+        "string",
+        "null"
+      ]
+    }
+  }
+}

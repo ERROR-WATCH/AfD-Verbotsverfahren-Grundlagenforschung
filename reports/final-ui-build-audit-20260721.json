@@ -1,0 +1,73 @@
+{
+  "date": "2026-07-21",
+  "status": "local-ui-build-clean-release-held",
+  "build": {
+    "command": "npm run build",
+    "result": "exit 0",
+    "statisticsValidation": "Validated: 10855 Quellen, 3868 Findings, 18 Verbotsgruende, 261 Statistikobjekte. Fatal: 0; Warnings: 0.",
+    "pagesValidation": "Pages link validation OK: 4 files, 0 missing links."
+  },
+  "browserDom": {
+    "broken": [],
+    "exceptions": [],
+    "mainTabsChecked": 11,
+    "mainTabsVisible": [
+      "tab-register",
+      "tab-gruende",
+      "tab-zitate",
+      "tab-gutachten",
+      "tab-statistik",
+      "tab-vs",
+      "tab-sonstige",
+      "tab-programme",
+      "tab-quellen",
+      "tab-readme",
+      "tab-ki"
+    ],
+    "courtRegister": {
+      "initial": "313 von 313 Urteilsbelegen sichtbar",
+      "statusFilter": "DIREKT AfD -> 201 von 313 Urteilsbelegen sichtbar",
+      "categoryFilter": "Amtsmissbrauch & Dienstvergehen -> 2 von 313 Urteilsbelegen sichtbar",
+      "judgmentTypeFilter": "Gerichtliche Entscheidung -> 179 von 313 Urteilsbelegen sichtbar",
+      "reset": "313 von 313 Urteilsbelegen sichtbar",
+      "options": {
+        "status": 3,
+        "category": 61,
+        "judgmentType": 58
+      }
+    },
+    "statistics": {
+      "initial": "261 von 261 Statistikobjekten gefiltert, 48 gerendert",
+      "themeFilter": "AfD / BfV 2025 Lagezahlen -> 3 von 261 Statistikobjekten gefiltert, 3 gerendert",
+      "gradeFilter": "A -> 35 von 261 Statistikobjekten gefiltert, 35 gerendert",
+      "statusFilter": "BELEGT_UND_VERDRAHTET -> 57 von 261 Statistikobjekten gefiltert, 48 gerendert",
+      "options": {
+        "theme": 27,
+        "grade": 4,
+        "status": 3
+      }
+    },
+    "quoteSearch": "Gewalt -> Zeige 1 bis 15 von 44 Belegen",
+    "documentFilters": {
+      "gutachten": "161 -> 8 Dateien",
+      "verfassungsschutz": "63 -> 2 Dateien",
+      "sonstige": "1231 -> 5 Dateien",
+      "quellen": "21 -> 1 Dateien"
+    },
+    "badLocalHrefWithUndefined": 0
+  },
+  "fixedThisPass": [
+    "Urteilsarten-Filter im Gerichtsregister wieder funktionsfaehig gemacht.",
+    "Gerichtsfalldatensaetze ohne explizites urteilsart-Feld werden aus Text/Description normalisiert statt im Filter zu verschwinden.",
+    "Gerichtsfalldarstellung und CSV-Export nutzen dieselbe Urteilsarten-Normalisierung.",
+    "case-card und quote-card Klassen fuer robuste UI-/Regressionstests gesetzt.",
+    "Favicon aus assets/images/afd-verbot.jpg erzeugt und eingebunden.",
+    "Statistik- und Registertabs im Browser nach Build mit echten Interaktionen getestet."
+  ],
+  "notReleasedBecause": [
+    "Der lokale Build und die lokale Pages-UI sind sauber, aber reports/external-link-check-cases-current-20260721.md weist weiterhin 67 problematische externe Direkt-URLs aus.",
+    "Die UI ist dafuer gehaertet und zeigt fuer bekannte problematische Online-Routen einen Google-Suchfallback statt blindem Direktlink.",
+    "Fuer einen wirklich perfekten Release sollten diese 67 externen Direktquellen noch durch stabile Primaer-, Gerichts-, Pressearchiv- oder Webarchivanker ersetzt werden."
+  ],
+  "releaseDecision": "Kein Push, kein neuer Release-Zip, kein Timestamp-Update und kein Archive-Mode in diesem Schritt, weil der Nutzer Release nur bei perfektem Gesamtzustand erlaubt hat."
+}
