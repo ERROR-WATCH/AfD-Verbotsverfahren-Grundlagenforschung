@@ -1,0 +1,4 @@
+b3aa2dab844c533038397451d9096c6e179a53a52233e7e662a1a6ad05b371c8  politico-bvs-fraklausur-0407-freitag-strategiepapier-20250706-ocr.txt
+61f44b219fbb132cf3605606d5201fa6e0cefe1d15295d69947e4d25cc0f4ae4  politico-bvs-fraklausur-0407-freitag-strategiepapier-20250706.pdf
+5c46f51bc394dbe9db7d40dbaf5a6e699914c4bf1e82e4c6deae51d10762ad5e  README.md
+6d662328365975c87854d3450fcfeb18c0fd004a530fdb46125e4fab41583303  volksverpetzer-geheimplan-union-setzt-um-20261029.html

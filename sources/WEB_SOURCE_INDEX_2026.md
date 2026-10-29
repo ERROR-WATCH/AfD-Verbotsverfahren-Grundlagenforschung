@@ -1,9 +1,11 @@
 # Vollständiger Index der lokalen Webquellen
 
-Stand: 30.07.2026  
+Stand: 29.10.2026 (Nachtrag Strategiepapier-Ordner; Basiskonvolut vom 30.07.2026)  
 Generiert mit `scripts/build-web-source-index.mjs`.
 
-Der maschinenlesbare Vollindex unter `daten/web_source_inventory_2026.jsonl` enthält für jede lokale Datei Pfad, Ordner, Dateiname, Byteumfang, SHA-256, README-Status und Manifestabdeckung. Erfasst sind **38 Quellenordner**, **479 Dateien** und **75.233.353 Bytes**.
+Der maschinenlesbare Vollindex unter `daten/web_source_inventory_2026.jsonl` enthält für jede lokale Datei Pfad, Ordner, Dateiname, Byteumfang, SHA-256, README-Status und Manifestabdeckung. Erfasst sind **39 Quellenordner** (davon 2 leere Reserveordner), **484 Dateien** und **122.172.137 Bytes** (Summe aller JSONL-Zeilen, Stand 29.10.2026).
+
+Transparenzhinweis: Die bisherige Kopfzeile („38 Quellenordner, 479 Dateien, 75.233.353 Bytes", Stand 30.07.2026) war bereits vor diesem Nachtrag nicht mehr deckungsgleich mit dem JSONL-Bestand – dessen 479 Zeilen summieren sich auf 122.171.665 Bytes. Diese Abweichung liegt im Basiskonvolut (nicht im Nachtragsordner) und wurde hier nicht stillschweigend „korrigiert", sondern ausgewiesen; eine Neuvermessung erfordert einen Voll-Checkout.
 
 | Quellenordner | Dateien | README | SHA-Manifest |
 |---|---:|:---:|:---:|
@@ -45,7 +47,8 @@ Der maschinenlesbare Vollindex unter `daten/web_source_inventory_2026.jsonl` ent
 | `sicherheitsstaat-dobrindt-geheimdienst-20260724` | 3 | ja | ja |
 | `taz` | 2 | nein | ja |
 | `verfassungstreue-potentialitaet-20260723` | 9 | ja | ja |
+| `volksverpetzer-strategiepapier-union-20261029` | 5 | ja | ja |
 
 ## Leseregel
 
-Ein lokaler Snapshot belegt den archivierten Abrufstand, nicht automatisch die Richtigkeit jeder darin enthaltenen Aussage. Fehlende Ordner-READMEs werden durch diesen zentralen Vollindex auffindbar gemacht; beweistragende Dossiers müssen dennoch Original-URL, Datum, Pinpoint, Akteur, Status und Zurechnungsgrenze einzeln ausweisen. Leere Reserveordner werden nicht als Quellenbestand gezählt.
+Ein lokaler Snapshot belegt den archivierten Abrufstand, nicht automatisch die Richtigkeit jeder darin enthaltenen Aussage. Fehlende Ordner-READMEs werden durch diesen zentralen Vollindex auffindbar gemacht; beweistragende Dossiers müssen dennoch Original-URL, Datum, Pinpoint, Akteur, Status und Zurechnungsgrenze einzeln ausweisen. Leere Reserveordner werden nicht als Quellenbestand gezählt. Nachtrag 29.10.2026: Der Ordner `volksverpetzer-strategiepapier-union-20261029` wurde manuell in identischem Zeilenformat nachgetragen (SHA-256 lokal berechnet), da der Arbeits-Checkout kein Vollcheckout ist und eine Neugenerierung des Gesamtindex andernfalls fehlende Dateien unterschlagen würde.

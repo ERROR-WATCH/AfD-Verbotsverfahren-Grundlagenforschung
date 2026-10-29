@@ -1,6 +1,17 @@
 # Changelog
 
-## 26.10.2026 – AfD-E-Mail-Leak („goebbelmail") als Schaukasten und README-Abschnitt
+## 29.10.2026 – Geleaktes AfD-Strategiepapier (von Storch, Juli 2025) + Volksverpetzer-Analyse „Union setzt um“
+
+- Anlass: Analyse „Der Geheimplan der AfD wurde geleakt. Warum setzt die Union ihn um?“ (Volksverpetzer, 29.10.2026) und die darin ausgewertete Primärquelle: die 55-seitige Strategiepräsentation der AfD-Bundestagsfraktionsklausur („Einleitung des Strategieprozesses“, via Politico, Juli 2025; Verfasserin laut ZEIT/Politico: Beatrix von Storch).
+- Neue lokale Quellen in `sources/web/volksverpetzer-strategiepapier-union-20261029/`: Vollseiten-Snapshot des Volksverpetzer-Artikels, Strategiepapier-PDF (Bildfassung, 46,7 MB) mit maschinenlesbarem OCR-Volltext (Tesseract deu, 150 dpi), Ordner-README (Provenienz, Echtheitsstatus, Leseregel) und SHA256SUMS.
+- Neues Dossier in `dokumente/hauptquellen/`: `AfD_Strategiepapier_vonStorch_Union_Setzt_Um_Analyse_2026-10-29.md` (+ PDF, 7 Seiten) mit Drei-Schritte-Zerlegung des Papiers, allen Artikel-Beleglinks, Repo-Einordnung (KULTUR-001/FIND-CG-000023, CDU-Brandmauer-Achse, E-Mail-Leak-Dossier) und Verwertbarkeitsgrenzen.
+- Pages (index.html): Neuer Abschnitt „Geleaktes AfD-Strategiepapier … – und die Union setzt es um“ direkt nach dem E-Mail-Leak-Dossier; 6 neue Einträge im Dokumentenregister (Dossier MD/PDF, Primär-PDF, OCR, Ordner-README, Artikel-Snapshot; Tab „Quellen“).
+- Register: `daten/web_source_inventory_2026.jsonl` (+5 Zeilen, skriptgleiches Format, SHA-256 lokal berechnet), `sources/WEB_SOURCE_INDEX_2026.md` (Tabellenzeile + Kopfzahlen + transparenter Nachtragshinweis), `daten/strategiepapier_union_umsetzung_2026_10_29.jsonl` (Dossier-Register mit OCR-Pinpoints SEITE 3/4/10/18/20/51/52).
+- Kernerkenntnis der OCR: „Brandmauer stürzen“ ist als eigenes strategisches Ziel der Fraktionsklausur verzeichnet (SEITE 3/4/10/20); SEITE 52 benennt Arbeitsgruppen („Taskforce Südwest / Brandmauer umwerfen“) mit dem Auftrag, „Themen und Forderungen [zu] identifizieren, die die Union mittragen kann, die SPD nicht“.
+- Status/Trennschärfe: Recherchebeleg mit parteieigener Primärquelle; Echtheit nicht amtlich verifiziert (förmliche Bestreitung nicht bekannt); die „Union setzt um“-These bleibt redaktionelle Einordnung des Artikels = Potentialitäts-/Normalisierungskontext, kein AfD-Beweis, keine Parteizurechnung zwischen verschiedenen Parteien.
+- Befund nebenbei: Der Web-Quellenindex war vor diesem Nachtrag intern inkonsistent (Kopfzeile 30.07.2026: 479 Dateien/75.233.353 Bytes; JSONL-Bestand: 479 Zeilen/122.171.665 Bytes; Tabelle führt zudem zwei leere Reserveordner, die nicht im JSONL stehen). Im Index-Header transparent ausgewiesen; Neuvermessung erfordert einen Voll-Checkout.
+
+## 26.10.2026 – AfD-E-Mail-Leak („goebbelmail“) als Schaukasten und README-Abschnitt
 
 - Pages: Neuer Abschnitt „AfD-E-Mail-Leak („goebbelmail") – Oktober 2026" am Seitenanfang mit Chronologie, Täterschaft (Gruppe „Hexane"; einer der beiden Hacker meldet sich als „Ver" im Zeit-Interview – nach Eigenaussage in der Ukraine geboren/aufgewachsen, heute in den USA lebend), Echtheitslage (AfD-Bestätigung, journalistische Gegenprüfung), belegten Funden (Parteispenden-Widerspruch nach tagesschau/NDR/WDR; rechtes Gedankengut/Duldungsmuster nach taz), Verwertbarkeitsdebatte (LTO: Möllers/Jahn/Dietrich; Steuer-CD-Argumentation) und Juns Gamechanger-Einschätzung inkl. Video-Einbettung.
 - README: Abschnitt „AfD-E-Mail-Leak („goebbelmail") – Oktober 2026: Quellenlage und rechtliche Einordnung" mit Quellenliste ergänzt.

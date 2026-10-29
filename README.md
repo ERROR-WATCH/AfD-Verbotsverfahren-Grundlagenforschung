@@ -1660,3 +1660,24 @@ Redaktioneller Stand dieses Abschnitts: **26.10.2026**. **Dieser Abschnitt wird 
 - DW: [Hackers release AfD party emails](https://www.dw.com/en/germany-news-hackers-release-afd-party-emails/live-79709090) (20.10.2026, Liveblog)
 - Cybernews: [AfD data leak – technischer Befund und 100.000-€-Angebot](https://cybernews.com/security/afd-email-datat-leak-germany/) (20.10.2026)
 - Video: [Anwalt Jun: „AfD-Datenleak kann zum Gamechanger im Verbotsverfahren werden"](https://www.youtube.com/watch?v=qPalyxeWueU) (21.10.2026)
+
+## Geleaktes AfD-Strategiepapier („Fraktions-Klausur“, von Storch, Juli 2025) – und die Union setzt es um
+
+Redaktioneller Stand dieses Abschnitts: **29.10.2026**. Anlass ist die Analyse „Der Geheimplan der AfD wurde geleakt. Warum setzt die Union ihn um?“ (Leonie Wiegel, [Volksverpetzer, 29.10.2026](https://volksverpetzer.de/analyse/plan-afd-union-setzt-um/)) samt der darin ausgewerteten Primärquelle: der 55-seitigen Strategiepräsentation der AfD-Bundestagsfraktion („Fraktions-Klausur – Einleitung des Strategieprozesses“, [via Politico veröffentlicht, Juli 2025](https://www.politico.eu/wp-content/uploads/2025/07/06/BvS-FraKlausur-0407-Freitag.pdf); Berichterstattung: [ZEIT](https://www.zeit.de/politik/deutschland/2025-07/strategiepapier-afd-macht-kanzleramt-spaltung/komplettansicht); Verfasserin laut ZEIT/Politico: Beatrix von Storch). **Status: Recherchebeleg mit parteieigener Primärquelle – kein Gerichtsfall; keine AfD-Tatzurechnung aus Union-Verhalten.** Echtheitsstatus: nicht amtlich verifiziert, förmliche Bestreitung nicht bekannt.
+
+### Das Papier (lokale Sicherung mit OCR)
+
+- Lokal: `sources/web/volksverpetzer-strategiepapier-union-20261029/` – Artikel-Snapshot, Strategiepapier-PDF (55 S., reine Bildfassung), OCR-Volltext (Tesseract deu, Seitentrenner `===== SEITE n =====`), README, SHA256SUMS.
+- Zentrale OCR-Fundstellen: **SEITE 3/4/20** strategische Ziele inkl. „Brandmauer stürzen“ und „Regierungsverantwortung übernehmen“; **SEITE 10** Tafel „Brandmauer stürzen“ mit den drei Bausteinen „Kulturkampf“ (Polarisierung zwischen AfD und Linke, SPD/Grüne nach links zwingen), „Ampel 2“ (Gegensätze Union/SPD unüberbrückbar machen) und „Druck auf die Union erhöhen“ (Markenkern Soziale Marktwirtschaft streitig machen; Wählergruppen der Union ansprechen; Angst vor Stimmverlusten erhöhen); **SEITE 18** „Wettstreit mit der CDU/CSU / Kulturkampf mit der Linken“; **SEITE 51** Zielgruppen (60+, Migrationshintergrund, Großstädte, konfessionelle Christen); **SEITE 52** Arbeitsgruppe „Taskforce Südwest / Brandmauer umwerfen“ mit „Themen und Forderungen identifizieren, die die Union mittragen kann, die SPD nicht“.
+
+### Die Umsetzungs-These des Artikels (Kernbelege, Auswahl)
+
+- **Kulturkampf:** „Zirkuszelt“-Vergleich (Deutschlandfunk); Weimer/Buchpreis-Ausschlüsse und „öko-sozialistische Empörungskultur“ (DLF Kultur, Süddeutsche); Gendern-Verbot (tagesschau); Kirk-Verherrlichung inkl. „Kämpfer für westliche Werte“ (WDR); „innere AfD“ der CDU (ZEIT/Bernd Ulrich).
+- **Graben zur SPD:** AfD-Landtagspräsident Rausch (Sachsen-Anhalt) mit mutmaßlichen CDU-Zusatzstimmen; CDU-Fraktion muss aus dem Plenarsaal, um eine Neonazi-MP-Wahl zu verhindern (MDR, Spiegel).
+- **Brandmauer:** gemeinsamer AfD/CDU-Antrag gegen Stolpersteine in Heidenau (Deutschlandfunk); offene Klausur-Debatte über das Ende des Macht-Ausschlusses (tagesschau); „Brandmauer nach links“ in der Berlin-Koalitionsdebatte (ZDFheute); Bremen-Gedankenspiel „Koalition mit der AfD?“ (taz); KAS-nahe Studie: Merz' AfD-Gemeinsamkeitsabstimmung stärkte auch die Linke (ZDFheute).
+- **Klimaziel des Papiers:** weniger als 50 % sollen AfD als Gefahr sehen/Verbot unterstützen/Koalition ausschließen. Stand Okt. 2026 laut Artikel: 57 % für Verbotsprüfung ([Volksverpetzer-Umfrage](https://volksverpetzer.de/aktuelles/umfrage-mehrheit-afd-verbot/)), 68 % sehen Demokratiegefahr ([ZDF-Politbarometer/ZEIT](https://www.zeit.de/politik/deutschland/2026-10/zdf-politbarometer-afd-gefahr-demokratie-verbot-sonntagsfrage-gxe)).
+
+### Einordnung und Grenzen
+
+Die vollständige Analyse mit allen Artikel-Beleglinks, Repo-Querverweisen (KULTUR-001/FIND-CG-000023, CDU-Brandmauer-Achse, E-Mail-Leak-Dossier) und Verwertbarkeitsgrenzen steht als Dossier: `dokumente/hauptquellen/AfD_Strategiepapier_vonStorch_Union_Setzt_Um_Analyse_2026-10-29.md` (PDF-Fassung im selben Ordner, 7 Seiten). Die „Union setzt um“-These ist die redaktionelle Einordnung des Volksverpetzer (Analysen-Genre); dieses Repository übernimmt die Einzelbelege als Rechercheanker und Potentialitäts-/Normalisierungskontext – nicht als AfD-Beweis und nicht als Parteizurechnung zwischen verschiedenen Parteien. Für Schriftsatzarbeit gilt: Echtheitslage dokumentieren, OCR-Seiten gegen die Bildvorlage gegengenlesen und Anschlussanker (Programm, Beschlüsse, ggf. E-Mail-Leak-Material) ergänzen.
+
